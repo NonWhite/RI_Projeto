@@ -1,0 +1,28 @@
+<add><doc>
+	<field name = "DATE">7-APR-1987 10:14:04.92</field>
+	<field name = "TOPICS">grain</field>
+	<field name = "TOPICS">wheat</field>
+	<field name = "TOPICS">corn</field>
+	<field name = "TOPICS">sorghum</field>
+	<field name = "TOPICS">barley</field>
+	<field name = "TOPICS">oat</field>
+	<field name = "PLACES">usa</field>
+	<field name = "UNKNOWN">C G
+f0939reute
+u f BC-grain-reserve-holdgs   04-07 0079</field>
+	<field name = "TITLE">GRAIN RESERVE HOLDINGS -- USDA</field>
+	<field name = "DATELINE">WASHINGTON, April 7 -</field>
+	<field name = "BODY">The U.S. Agriculture Department gave
+a preliminary breakdown of grain in the Farmer-Owned Grain
+Reserve as of April 1, with comparisons, based on telephone
+reports from farmers filed with the department's Kansas City
+field office, in mln bushels --
+           April 1   Previous
+ Wheat     657.6      659.7
+ Corn    1,406.5    1,397.0
+ Sorghum    95.8       95.5
+ Barley    122.1      122.0
+ Oats        3.7        3.7
+ 
+ Reuter</field>
+</doc></add>
