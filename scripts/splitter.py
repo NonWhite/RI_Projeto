@@ -1,6 +1,12 @@
 import sys
 import xml.etree.ElementTree as ET
 
+not_allowed_fields = [ 'UNKNOWN' ]
+mapping = {
+	'TITLE' : 'titulo' ,
+	'BODY' : 'content'
+}
+
 def is_start( line ) :
 	return line.find( '<REUTERS' ) == 0
 
@@ -9,6 +15,7 @@ def is_end( line ) :
 
 def parse( data ) :
 	parsed_data = []
+	m = lambda k : k if k not in mapping else mapping[ k ]
 	try :
 		root = ET.fromstring( ''.join( data ) )
 		for element in root :
@@ -17,11 +24,15 @@ def parse( data ) :
 			if len( children ) > 0 :
 				for ch in element :
 					if ch.tag == 'D' :
-						parsed_data.append( ( tag , ch.text.strip() ) )
+						if tag not in not_allowed_fields :
+							parsed_data.append( ( m( tag ) , ch.text.strip() ) )
 					else :
-						parsed_data.append( ( ch.tag , ch.text.strip() ) )
+						if tag not in not_allowed_fields :
+							parsed_data.append( ( m( ch.tag ) , ch.text.strip() ) )
 			else :
-				if element.text : parsed_data.append( ( tag , element.text.strip() ) )
+				if element.text :
+					if tag not in not_allowed_fields :
+						parsed_data.append( ( tag , element.text.strip() ) )
 		#for r in parsed_data : print r
 	except Exception as e :
 		#for i in range( len( data ) ) : print i , data[ i ][ :-1 ]
@@ -40,7 +51,7 @@ def export( data , fpath ) :
 
 def split( fpath , counter_start = 0 ) :
 	print fpath , counter_start
-	xmlpath = '../data/doc%s.xml'
+	xmlpath = '../data/reuters_collection/doc%s.xml'
 	counter = counter_start
 	with open( fpath , 'r' ) as f :
 		first_line = True
