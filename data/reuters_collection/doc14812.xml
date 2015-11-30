@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 23:13:05.04</field>
-	<field name = "UNKNOWN">RM
-f2769reute
-b f BC-YEN-BOND-FUTURES-HIT   04-07 0115</field>
-	<field name = "TITLE">YEN BOND FUTURES HIT RECORD HIGH IN EARLY TRADE</field>
+	<field name = "titulo">YEN BOND FUTURES HIT RECORD HIGH IN EARLY TRADE</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">Yen bond futures prices hit record highs
+	<field name = "content">Yen bond futures prices hit record highs
 in early trade in response to the early jump in the cash bond
 market on speculative purchases by brokers, dealers said.
     Key June was 111.31 after hitting a record high earlier of

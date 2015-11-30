@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 08:18:43.53</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f7587reute
-d f AM-FISHING   03-18 0136</field>
-	<field name = "TITLE">FRANCE PROTESTS OVER CANADA'S FISHING BAN</field>
+	<field name = "titulo">FRANCE PROTESTS OVER CANADA'S FISHING BAN</field>
 	<field name = "DATELINE">PARIS, March 18 -</field>
-	<field name = "BODY">France today protested over Canada's
+	<field name = "content">France today protested over Canada's
 decision to declare its ports off limits to French fishing
 vessels and bar further fishing by France off Newfoundland.
     A foreign ministry statement described yesterday's decision

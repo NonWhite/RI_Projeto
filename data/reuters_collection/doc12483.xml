@@ -8,12 +8,9 @@
 	<field name = "TOPICS">alum</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lme</field>
-	<field name = "UNKNOWN">C M
-f0766reute
-r f BC-LME-DETAILS-MARCH-198   04-02 0088</field>
-	<field name = "TITLE">LME DETAILS MARCH 1987 TURNOVER</field>
+	<field name = "titulo">LME DETAILS MARCH 1987 TURNOVER</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">The London Metal Exchange, LME, issued
+	<field name = "content">The London Metal Exchange, LME, issued
 turnovers for March 1987, with figures for corresponding period
 1986 in brackets.
     All in tonnes except Silver which in troy ounces.

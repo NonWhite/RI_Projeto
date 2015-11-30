@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 18:50:13.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2803reute
-h f BC-UNISYS-UIS>-GETS-ORD   03-24 0053</field>
-	<field name = "TITLE">UNISYS UIS> GETS ORDER FROM SWEDEN</field>
+	<field name = "titulo">UNISYS UIS> GETS ORDER FROM SWEDEN</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Unisys Corp said it received a 4.5 mln
+	<field name = "content">Unisys Corp said it received a 4.5 mln
 dlrs computer order from Rikskatteverket, the Swedish
 equivalent of the U.S. Internal Revenue Service.
     The computer is planned for delivery in May this year and

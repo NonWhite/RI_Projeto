@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:42:45.02</field>
-	<field name = "UNKNOWN">RM 
-f0955reute
-u f BC-FIRST-CHICAGO-FNB>-T   06-29 0115</field>
-	<field name = "TITLE">FIRST CHICAGO FNB> TO BUY WOOD GUNDY STAKE</field>
+	<field name = "titulo">FIRST CHICAGO FNB> TO BUY WOOD GUNDY STAKE</field>
 	<field name = "DATELINE">CHICAGO, June 29 -</field>
-	<field name = "BODY">First Chicago Corp said its First
+	<field name = "content">First Chicago Corp said its First
 National Bank of Chicago subsidiary agreed in principle to
 acquire a 35 pct interest in Wood Gundy Corp, an international
 investment banking firm headquartered in Toronto.

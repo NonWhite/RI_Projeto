@@ -3,13 +3,10 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">mexico</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0875reute
-b f BC-BRITISH-BANKS-RESIST   03-26 0114</field>
-	<field name = "TITLE">BRITISH BANKS RESIST SIGNING MEXICO PACKAGE</field>
+	<field name = "titulo">BRITISH BANKS RESIST SIGNING MEXICO PACKAGE</field>
 	<field name = "AUTHOR">By Marguerite Nugent, Reuters</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">British banks are resisting signing a 76
+	<field name = "content">British banks are resisting signing a 76
 billion dlr rescheduling package for Mexico in a last ditch
 effort to get all participants to contribute equally to a new
 7.7 billion dlr loan contained in the package.

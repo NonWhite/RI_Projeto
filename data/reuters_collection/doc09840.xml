@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 09:14:47.44</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0910reute
-r f BC-BANK-OF-SPAIN-PROVIDE   03-26 0088</field>
-	<field name = "TITLE">BANK OF SPAIN PROVIDES YEAR RECORD ASSISTANCE FUNDS</field>
+	<field name = "titulo">BANK OF SPAIN PROVIDES YEAR RECORD ASSISTANCE FUNDS</field>
 	<field name = "DATELINE">MADRID, March 26 -</field>
-	<field name = "BODY">The Bank of Spain provided 1,145 billion
+	<field name = "content">The Bank of Spain provided 1,145 billion
 pesetas in assistance funds which bankers said reflected fears
 of fresh increases in overnight rates.
     The daily auction was the biggest of the year and comes

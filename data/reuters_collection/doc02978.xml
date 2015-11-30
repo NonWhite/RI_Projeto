@@ -2,13 +2,10 @@
 	<field name = "DATE">9-MAR-1987 02:01:22.05</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0196reute
-u f BC-GERMAN-GOVERNMENT-NEE   03-09 0110</field>
-	<field name = "TITLE">GERMAN GOVERNMENT NEEDS SEEN RAISING BOND YIELDS</field>
+	<field name = "titulo">GERMAN GOVERNMENT NEEDS SEEN RAISING BOND YIELDS</field>
 	<field name = "AUTHOR">By Alice Ratcliffe, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 9 -</field>
-	<field name = "BODY">Increased federal government borrowing
+	<field name = "content">Increased federal government borrowing
 needs and a growing unwillingness by foreign investors to buy
 mark assets could push yields in German public authority bonds
 higher this year, bond market sources say.

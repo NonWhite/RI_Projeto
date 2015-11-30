@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 11:25:38.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0962
-reute
-r f BC-FAA-FINES-DELTA-DAL>   03-02 0106</field>
-	<field name = "TITLE">FAA FINES DELTA DAL> 140,400 DLRS ON SAFETY</field>
+	<field name = "titulo">FAA FINES DELTA DAL> 140,400 DLRS ON SAFETY</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">The Federal Aviation Administration
+	<field name = "content">The Federal Aviation Administration
 fined Delta Air Lines Inc 140,400 dlrs for alleged violations
 of federal air safety rules, FAA officials said.
     The FAA had reviewed Delta safety and maintenance

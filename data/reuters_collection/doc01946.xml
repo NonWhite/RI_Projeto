@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 05:21:48.46</field>
 	<field name = "PLACES">sri-lanka</field>
-	<field name = "UNKNOWN">RM
-f0537reute
-u f BC-BANK-OF-CEYLON-TO-ADO   03-05 0107</field>
-	<field name = "TITLE">BANK OF CEYLON TO ADOPT NEW POLICIES</field>
+	<field name = "titulo">BANK OF CEYLON TO ADOPT NEW POLICIES</field>
 	<field name = "DATELINE">COLOMBO, March 5 -</field>
-	<field name = "BODY">Sri Lanka's largest bank, the
+	<field name = "content">Sri Lanka's largest bank, the
 government-owned Bank of Ceylon, plans to adopt a more
 aggressive and selective interest rate policy to reduce excess
 liquidity, estimated at some 500 mln rupees, and enlarge the

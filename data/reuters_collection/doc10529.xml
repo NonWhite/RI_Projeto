@@ -1,14 +1,12 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:16:08.40V RM</field>
-	<field name = "UNKNOWN">f1557reute</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">u f AM-SEMICONDUCTORS   03-27 0101</field>
-	<field name = "TITLE">REAGAN READY TO IMPOSE TRADE CURBS AGAINST JAPAN</field>
+	<field name = "titulo">REAGAN READY TO IMPOSE TRADE CURBS AGAINST JAPAN</field>
 	<field name = "DATELINE">WASHINGTON, March 27 -</field>
-	<field name = "BODY">President Reagan was ready to impose
+	<field name = "content">President Reagan was ready to impose
 retaliatory trade action against Japan for breaking its
 semiconductor agreement with the United States, White House
 officials said.

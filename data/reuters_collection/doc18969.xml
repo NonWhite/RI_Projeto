@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 15:46:29.72</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F 
-f4480reute
-b f BC-NYSE-TO-DISCLOSE-IMBA   06-18 0059</field>
-	<field name = "TITLE">NYSE TO DISCLOSE IMBALANCES TWICE TOMORROW</field>
+	<field name = "titulo">NYSE TO DISCLOSE IMBALANCES TWICE TOMORROW</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">The New York Stock Exchange said in
+	<field name = "content">The New York Stock Exchange said in
 connection with the triple expirations of stock index futures,
 options and individual options it will disclose imbalances in
 50 major stocks tomorrow at 0900 EDT and again at 1530 EDT.

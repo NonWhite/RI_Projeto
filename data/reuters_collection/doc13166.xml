@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 16:48:44.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2360reute
-u f BC-TREASURY-BALANCES-AT   04-03 0083</field>
-	<field name = "TITLE">TREASURY BALANCES AT FED FELL ON APRIL 2</field>
+	<field name = "titulo">TREASURY BALANCES AT FED FELL ON APRIL 2</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">Treasury balances at the Federal
+	<field name = "content">Treasury balances at the Federal
 Reserve fell on April 2 to 3.775 billion dlrs from 4.602
 billion dlrs on the previous business day, the Treasury said in
 its latest budget statement.

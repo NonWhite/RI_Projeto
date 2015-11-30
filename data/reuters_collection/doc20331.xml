@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 11:23:09.45</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1594reute
-u f BC-WASHINGTON-POST-CO-W   10-20 0043</field>
-	<field name = "TITLE">WASHINGTON POST CO WPO> 3RD QTR NET</field>
+	<field name = "titulo">WASHINGTON POST CO WPO> 3RD QTR NET</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">Shr 4.77 dlrs vs 1.65 dlrs
+	<field name = "content">Shr 4.77 dlrs vs 1.65 dlrs
     Net 61.3 mln vs 21.1 mln
     Revs 312.9 mln vs 291.5 mln
     Nine mths

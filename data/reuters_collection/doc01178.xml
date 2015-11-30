@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 12:45:48.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0134reute
-r f BC-WALGREEN-WAG>-FEBRUA   03-03 0097</field>
-	<field name = "TITLE">WALGREEN WAG> FEBRUARY SALES RISE</field>
+	<field name = "titulo">WALGREEN WAG> FEBRUARY SALES RISE</field>
 	<field name = "DATELINE">DEERFIELD, Ill., March 3 -</field>
-	<field name = "BODY">Walgreen Co said its sales in
+	<field name = "content">Walgreen Co said its sales in
 February rose 18.8 pct over sales during the same month last
 year.
     Walgreen said it sold 328.5 mln dlrs worth of goods in

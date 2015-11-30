@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 05:43:24.04</field>
-	<field name = "UNKNOWN">RM
-f0463reute
-u f BC-SOUTH-KOREA-TO-ISSUE   03-11 0104</field>
-	<field name = "TITLE">SOUTH KOREA TO ISSUE EXCHANGE EQUALISATION BONDS</field>
+	<field name = "titulo">SOUTH KOREA TO ISSUE EXCHANGE EQUALISATION BONDS</field>
 	<field name = "DATELINE">SEOUL, March 11 -</field>
-	<field name = "BODY">The South Korean government will float
+	<field name = "content">The South Korean government will float
 150 billion won in exchange equalisation bonds this month,
 Ministry of Finance officials said.
     The Bank of Korea will issue the bonds, to be launched with

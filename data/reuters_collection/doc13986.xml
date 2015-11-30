@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:58:58.30</field>
-	<field name = "UNKNOWN">RM C M F
-f1119reute
-b f BC-LONDON-GOLD-FIXED-AT   04-07 0102</field>
-	<field name = "TITLE">LONDON GOLD FIXED AT 418.50 DLRS THIS AFTERNOON</field>
+	<field name = "titulo">LONDON GOLD FIXED AT 418.50 DLRS THIS AFTERNOON</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Gold bullion eased to an afternoon fix of
+	<field name = "content">Gold bullion eased to an afternoon fix of
 418.50 dlrs, 258.653 stg, an ounce in sympathy with lower
 values on Comex, dealers said.
     The market remained fairly quiet, however, and was still

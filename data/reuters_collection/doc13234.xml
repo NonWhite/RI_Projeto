@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">F
-f0039reute
-r f BC-S.-KOREA-ORDERS-MERGE   04-04 0086</field>
-	<field name = "TITLE">S. KOREA ORDERS MERGERS OF TROUBLED COMPANIES</field>
+	<field name = "titulo">S. KOREA ORDERS MERGERS OF TROUBLED COMPANIES</field>
 	<field name = "DATELINE">SEOUL, April 4 -</field>
-	<field name = "BODY">South Korea ordered the takeover of six
+	<field name = "content">South Korea ordered the takeover of six
 financially troubled overseas construction firms and two
 shipping companies under the government's industrial
 realignment programme, Finance Ministry officials said.

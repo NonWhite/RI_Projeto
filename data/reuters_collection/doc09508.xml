@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 14:25:31.25</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f2039reute
-r f BC-BELGIUM-PLANS-TO-OUTL   03-25 0099</field>
-	<field name = "TITLE">BELGIUM PLANS TO OUTLAW INSIDER TRADING</field>
+	<field name = "titulo">BELGIUM PLANS TO OUTLAW INSIDER TRADING</field>
 	<field name = "DATELINE">BRUSSELS, March 25 -</field>
-	<field name = "BODY">A Belgian finance ministry spokesman
+	<field name = "content">A Belgian finance ministry spokesman
 said new rules planned on insider trading would enable
 offenders to be fined and imprisoned for up to a year, and be
 compelled to forfeit gains.

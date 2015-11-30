@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:42:56.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2480reute
-r f BC-AMERICAN-FILTRONAAFI   10-20 0078</field>
-	<field name = "TITLE">AMERICAN FILTRONAAFIL.O> TO BUY BACK STOCK</field>
+	<field name = "titulo">AMERICAN FILTRONAAFIL.O> TO BUY BACK STOCK</field>
 	<field name = "DATELINE">RICHMOND, Va, Oct 20 -</field>
-	<field name = "BODY">American Fltrona Corp said its board
+	<field name = "content">American Fltrona Corp said its board
 authorized the repurchase of up to 100,000 shares of company's
 stock for use in the its employee benefit plans and for other
 general corporate purposes.

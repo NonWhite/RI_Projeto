@@ -7,12 +7,9 @@
 	<field name = "PLACES">denmark</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">T C
-f0619reute
-b f BC-EC-COMMISSION-DETAILS   03-04 0064</field>
-	<field name = "TITLE">EC COMMISSION DETAILS SUGAR TENDER</field>
+	<field name = "titulo">EC COMMISSION DETAILS SUGAR TENDER</field>
 	<field name = "DATELINE">BRUSSELS, March 4 -</field>
-	<field name = "BODY">The European Commission confirmed it
+	<field name = "content">The European Commission confirmed it
 authorised the export of 60,500 tonnes of current series white
 sugar at a maximum rebate of 43.147 European Currency Units
 (ECUs) per 100 kilos.

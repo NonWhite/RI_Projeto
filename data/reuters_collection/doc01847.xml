@@ -3,12 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0943reute
-u f BC-U.S.-REAFFIRMS-OPPOSI   03-04 0123</field>
-	<field name = "TITLE">U.S. REAFFIRMS OPPOSITION TO EC OILS TAX PLAN</field>
+	<field name = "titulo">U.S. REAFFIRMS OPPOSITION TO EC OILS TAX PLAN</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">A meeting among government agencies
+	<field name = "content">A meeting among government agencies
 today reaffirmed the strong opposition of the United States to
 a proposed new tax on vegetable oils and fats in the European
 Community, U.S. trade officials said.

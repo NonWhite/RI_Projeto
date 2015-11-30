@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 10:53:11.83</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM
-f1207reute
-b f BC-/REAGAN-OPPOSES-NEW-T   03-25 0097</field>
-	<field name = "TITLE">REAGAN OPPOSES NEW TAXES, SEEKS BUDGET</field>
+	<field name = "titulo">REAGAN OPPOSES NEW TAXES, SEEKS BUDGET</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">President Reagan opposed new taxes
+	<field name = "content">President Reagan opposed new taxes
 as he urged the Democratic controlled Congress to come up with
 a budget that meets the Gramm-Rudman deficit target of 108
 billion dlrs for fiscal 1988.

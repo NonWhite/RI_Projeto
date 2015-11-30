@@ -3,12 +3,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">G C
-f0283reute
-u f BC-TAIWAN-BUYS-54,000-TO   04-03 0060</field>
-	<field name = "TITLE">TAIWAN BUYS 54,000 TONNES OF U.S. SOYBEANS</field>
+	<field name = "titulo">TAIWAN BUYS 54,000 TONNES OF U.S. SOYBEANS</field>
 	<field name = "DATELINE">TAIPEI, April 3 -</field>
-	<field name = "BODY">The joint committee of Taiwan soybean
+	<field name = "content">The joint committee of Taiwan soybean
 importers awarded a contract to Cigra Inc of Chicago to supply
 a 54,000 tonne cargo of U.S. Soybeans, a committee spokesman
 told Reuters.

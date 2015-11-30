@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 18:51:21.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2881reute
-r f BC-WESTWORLD-WCHI>-EXTE   03-26 0076</field>
-	<field name = "TITLE">WESTWORLD WCHI> EXTENDS EXCHANGE OFFER</field>
+	<field name = "titulo">WESTWORLD WCHI> EXTENDS EXCHANGE OFFER</field>
 	<field name = "DATELINE">LAKE FOREST, Calif., March 26 -</field>
-	<field name = "BODY">Westworld Community
+	<field name = "content">Westworld Community
 Healthcare Inc said it is extending its exchange offer to April
 8 at 1700 EST.
     The offer is for Westworld 30 mln dlr principal amount of

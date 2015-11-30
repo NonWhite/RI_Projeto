@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 12:03:09.75</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0731reute
-u f BC-BANKAMERICA-BAC>-COM   03-09 0066</field>
-	<field name = "TITLE">BANKAMERICA BAC> COMPLETES MORTGAGE UNIT SALE</field>
+	<field name = "titulo">BANKAMERICA BAC> COMPLETES MORTGAGE UNIT SALE</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 9 -</field>
-	<field name = "BODY">BankAmerica Corp's Bank of America
+	<field name = "content">BankAmerica Corp's Bank of America
 unit said it completed the previously announced sale of
 BankAmerica Finance Ltd to Bank of Ireland> for an expected
 pre-tax gain of 23 mln dlrs.

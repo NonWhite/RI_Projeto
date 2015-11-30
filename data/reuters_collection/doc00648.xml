@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:50:01.51</field>
-	<field name = "UNKNOWN">F
-f0582
-reute
-d f BC-THUNANDER-CORP-THDR>   03-02 0043</field>
-	<field name = "TITLE">THUNANDER CORP THDR> YEAR NET</field>
+	<field name = "titulo">THUNANDER CORP THDR> YEAR NET</field>
 	<field name = "DATELINE">ELKHART, Ind., March 2 -</field>
-	<field name = "BODY">Shr 73 cts vs 58 cts
+	<field name = "content">Shr 73 cts vs 58 cts
     Shr diluted 69 cts vs 54 cts
     Net 1,101,000 vs 901,000
     Sales 33.0 mln vs 29.1 mln

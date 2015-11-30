@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C T G
-f0560reute
-u f BC-JAPAN-HAS-NO-PLANS-TO   06-16 0113</field>
-	<field name = "TITLE">JAPAN HAS NO PLANS TO LIBERALISE FARM MARKET</field>
+	<field name = "titulo">JAPAN HAS NO PLANS TO LIBERALISE FARM MARKET</field>
 	<field name = "DATELINE">TOKYO, June 16 -</field>
-	<field name = "BODY">Japan has no plans to liberalise its farm
+	<field name = "content">Japan has no plans to liberalise its farm
 markets, but will try to narrow the gap between the price of
 farm products at home and overseas, Agriculture Minister
 Mutsuki Kato said.

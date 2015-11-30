@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 13:37:51.94</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1898reute
-d f BC-SOCIETY/SAVINGS-SOCS   06-01 0036</field>
-	<field name = "TITLE">SOCIETY/SAVINGS SOCS.O> FORMS HOLDING COMPANY</field>
+	<field name = "titulo">SOCIETY/SAVINGS SOCS.O> FORMS HOLDING COMPANY</field>
 	<field name = "DATELINE">HARTFORD, Conn., June 1 -</field>
-	<field name = "BODY">Society for Savings said it has
+	<field name = "content">Society for Savings said it has
 completed a merger into newly formed holding company Society
 for Savings Bancorp Inc on a share-for-share basis.
  Reuter</field>

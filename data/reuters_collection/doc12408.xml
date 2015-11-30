@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0209reute
-b f BC-C-AND-W-OFFERED-ROLE   04-02 0104</field>
-	<field name = "TITLE">C AND W OFFERED ROLE IN NEW JAPAN TELECOM COMPANY</field>
+	<field name = "titulo">C AND W OFFERED ROLE IN NEW JAPAN TELECOM COMPANY</field>
 	<field name = "DATELINE">TOKYO, April 2 -</field>
-	<field name = "BODY">A Japanese businessman announced plans for
+	<field name = "content">A Japanese businessman announced plans for
 a new telecommunications firm in which Britain's Cable and
 Wireless Plc would be a core company.
     However, the plan, unveiled by senior Federation of

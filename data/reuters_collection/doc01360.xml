@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 17:11:18.38</field>
 	<field name = "TOPICS">orange</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C T
-f0015reute
-d f BC-FCOJ-SUPPLIES-SIGNIFI   03-03 0107</field>
-	<field name = "TITLE">FCOJ SUPPLIES SIGNIFICANTLY ABOVE YEAR AGO-USDA</field>
+	<field name = "titulo">FCOJ SUPPLIES SIGNIFICANTLY ABOVE YEAR AGO-USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">Total supply of frozen concentrated
+	<field name = "content">Total supply of frozen concentrated
 orange juice (FCOJ) in 1986/87 is expected to be significantly
 above year-earlier levels, even with carry-in stocks well below
 the previous season, the U.S. Agriculture Department said.

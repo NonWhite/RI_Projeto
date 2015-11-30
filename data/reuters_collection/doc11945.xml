@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:17:08.75</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1038reute
-b f BC-/FED-BUYS-ONE-BILLION   04-01 0107</field>
-	<field name = "TITLE">FED BUYS ONE BILLION DLRS OF BILLS FOR CUSTOMER</field>
+	<field name = "titulo">FED BUYS ONE BILLION DLRS OF BILLS FOR CUSTOMER</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">The Federal Reserve is buying one
+	<field name = "content">The Federal Reserve is buying one
 billion dlrs of Treasury bills for customer account for
 delivery today, a spokesman for the bank said.
     Fed funds were trading at 6-3/16 pct at the time of the

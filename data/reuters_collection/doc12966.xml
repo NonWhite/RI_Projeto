@@ -3,13 +3,10 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">RM
-f1483reute
-u f BC-EXCHANGE-SEEN-APPROVI   04-03 0107</field>
-	<field name = "TITLE">EXCHANGE SEEN APPROVING "WHEN ISSUED" GILT TRADE</field>
+	<field name = "titulo">EXCHANGE SEEN APPROVING "WHEN ISSUED" GILT TRADE</field>
 	<field name = "AUTHOR">By Sandy Critchley, Reuters</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">The Stock Exchange is virtually certain
+	<field name = "content">The Stock Exchange is virtually certain
 to agree to change its regulations in order to permit "when
 issued" trading of U.K. Government bonds (gilts) as part of an
 experimental series of bond auctions later this year, market

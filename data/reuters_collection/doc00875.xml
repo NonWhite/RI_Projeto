@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 23:41:52.16</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">G C
-f0462
-reute
-u f BC-EC-MINISTERS-POSTPONE   03-02 0110</field>
-	<field name = "TITLE">EC MINISTERS POSTPONE TALKS ON SAVING DAIRY PACT</field>
+	<field name = "titulo">EC MINISTERS POSTPONE TALKS ON SAVING DAIRY PACT</field>
 	<field name = "DATELINE">BRUSSELS, March 3 -</field>
-	<field name = "BODY">European Community (EC) farm ministers
+	<field name = "content">European Community (EC) farm ministers
 early today abandoned talks aimed at saving an agreement on
 cutting excessive milk production after making no progress in
 over 12 hours of negotiations.

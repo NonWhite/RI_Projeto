@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 18:14:59.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G 
-f4886reute
-d f BC-WHITE-HOUSE-STAFFER-C   06-18 0114</field>
-	<field name = "TITLE">WHITE HOUSE STAFFER CONSIDERED TO HEAD CFTC</field>
+	<field name = "titulo">WHITE HOUSE STAFFER CONSIDERED TO HEAD CFTC</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">A White House associate personnel
+	<field name = "content">A White House associate personnel
 director, Mark Sullivan, emerged as a possible candidate to
 replace Susan Phillips as chairman of the Commodity Futures
 Trading Commission (CFTC).

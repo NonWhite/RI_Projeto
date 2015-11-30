@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 10:38:49.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1159reute
-u f BC-U.S.-HOME-LOAN-BANKS   04-13 0088</field>
-	<field name = "TITLE">U.S. HOME LOAN BANKS SET 2.135 BILLION DLR OFFER</field>
+	<field name = "titulo">U.S. HOME LOAN BANKS SET 2.135 BILLION DLR OFFER</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">The Office of Finance of the Federal
+	<field name = "content">The Office of Finance of the Federal
 Home Loan Banks announced a debt offering totalling 2.135
 billion dlrs consisting of three issues.
     The issues are 1.2 billion dlrs maturing April 25, 1989;

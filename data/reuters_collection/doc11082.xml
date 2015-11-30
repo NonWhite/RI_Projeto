@@ -3,13 +3,10 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2559reute
-r f BC-FED'S-POLICY-EASE-MAY   03-30 0107</field>
-	<field name = "TITLE">FED'S POLICY EASE MAY END WITH 2ND QTR RATE CUT</field>
+	<field name = "titulo">FED'S POLICY EASE MAY END WITH 2ND QTR RATE CUT</field>
 	<field name = "AUTHOR">By Martin Cherrin, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">The Federal Reserve's move to easier
+	<field name = "content">The Federal Reserve's move to easier
 monetary policy, begun with four quick half-point discount rate
 cuts in 1986, will likely end with a final rate drop in the
 second quarter, analysts said.

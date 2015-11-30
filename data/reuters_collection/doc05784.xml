@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f4048reute
-u f BC-TAIWAN-1986-BALANCE-O   03-17 0105</field>
-	<field name = "TITLE">TAIWAN 1986 BALANCE OF PAYMENTS SURPLUS IS RECORD</field>
+	<field name = "titulo">TAIWAN 1986 BALANCE OF PAYMENTS SURPLUS IS RECORD</field>
 	<field name = "DATELINE">TAIPEI, March 17 -</field>
-	<field name = "BODY">Taiwan's balance of payments surplus
+	<field name = "content">Taiwan's balance of payments surplus
 widened to a record 16.62 billion U.S. Dlrs in calendar 1986
 from 9.35 billion in 1985, the central bank said.
     A bank official attributed the increase mainly to Taiwan's

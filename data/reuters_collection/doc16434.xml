@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:24:47.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1701reute
-r f BC-ALZA-AZA>-PLANS-DEBE   04-13 0093</field>
-	<field name = "TITLE">ALZA AZA> PLANS DEBENTURE OFFERING</field>
+	<field name = "titulo">ALZA AZA> PLANS DEBENTURE OFFERING</field>
 	<field name = "DATELINE">PALO ALTO, Calif., April 13 -</field>
-	<field name = "BODY">Alza Corp said it plans to
+	<field name = "content">Alza Corp said it plans to
 make an offering in Europe of 75 mln dlrs principal amount of
 15-year convertible subordinated debentures.
     The company said it expects the annual coupon rate of the

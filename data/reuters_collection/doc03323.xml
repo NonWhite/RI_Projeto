@@ -4,12 +4,9 @@
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">nigeria</field>
-	<field name = "UNKNOWN">C G
-f0520reute
-u f BC-CCC-ACCEPTS-EXPORT-BO   03-09 0110</field>
-	<field name = "TITLE">CCC ACCEPTS EXPORT BONUS BARLEY MALT TO NIGERIA</field>
+	<field name = "titulo">CCC ACCEPTS EXPORT BONUS BARLEY MALT TO NIGERIA</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">The Commodity Credit Corporation,
+	<field name = "content">The Commodity Credit Corporation,
 CCC, has accepted one bonus offer from an exporter on the sale
 of 4,400 tonnes of barley malt to Nigeria, the U.S. Agriculture
 Department said.

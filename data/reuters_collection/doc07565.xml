@@ -10,13 +10,10 @@
 	<field name = "ORGS">worldbank</field>
 	<field name = "ORGS">adb-asia</field>
 	<field name = "ORGS">adb-africa</field>
-	<field name = "UNKNOWN">RM
-f0265reute
-u f BC-TROPICAL-FOREST-DEATH   03-20 0095</field>
-	<field name = "TITLE">TROPICAL FOREST DEATH COULD SPARK NEW DEBT CRISIS</field>
+	<field name = "titulo">TROPICAL FOREST DEATH COULD SPARK NEW DEBT CRISIS</field>
 	<field name = "AUTHOR">By Eric Hall, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 20 -</field>
-	<field name = "BODY">The death of the world's tropical rain
+	<field name = "content">The death of the world's tropical rain
 forests could trigger a new debt crisis and social and
 biological disasters, scientists and ecologists involved with
 the International Tropical Timber Organisation (ITTO) said.

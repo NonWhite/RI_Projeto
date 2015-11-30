@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:41:14.44</field>
-	<field name = "UNKNOWN">V F
-f2254reute
-u f BC-QT8912   04-07 0101</field>
-	<field name = "TITLE">WALL STREET STOCKS LOWER IN LATE TRADING</field>
+	<field name = "titulo">WALL STREET STOCKS LOWER IN LATE TRADING</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Wall Street stocks remained depressed
+	<field name = "content">Wall Street stocks remained depressed
 in active trading. Weakness in the bond market reignited
 investors' anxiety about interest rates and triggered profit
 taking and arbitrage related program selling, traders said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 17:54:50.60</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2612reute
-d f BC-METROBANC-MTBC>-SHAR   03-25 0050</field>
-	<field name = "TITLE">METROBANC MTBC> SHAREHOLDERS APPROVE MERGER</field>
+	<field name = "titulo">METROBANC MTBC> SHAREHOLDERS APPROVE MERGER</field>
 	<field name = "DATELINE">GRAND RAPIDS, Mich., March 25 -</field>
-	<field name = "BODY">Metrobanc, a federal
+	<field name = "content">Metrobanc, a federal
 savings bank, said its shareholders approved the previously
 announced merger with Comerica Inc CMCA>, a bank holding
 company.

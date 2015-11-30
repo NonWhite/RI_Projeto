@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:49:57.38</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f1422reute
-u f BC-RECORD-LOW-COUPON-ON   03-19 0094</field>
-	<field name = "TITLE">RECORD LOW COUPON ON SUMITOMO SWISS CONVERTIBLE</field>
+	<field name = "titulo">RECORD LOW COUPON ON SUMITOMO SWISS CONVERTIBLE</field>
 	<field name = "DATELINE">ZURICH, March 19 -</field>
-	<field name = "BODY">A coupon of 1/2 pct, equal to the lowest
+	<field name = "content">A coupon of 1/2 pct, equal to the lowest
 ever in the Swiss franc market, has been set for Sumitomo
 Corp's 200 mln franc convertible notes due September 30, 1992,
 lead manager Swiss Bank Corp said.

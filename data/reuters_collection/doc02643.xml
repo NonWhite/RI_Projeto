@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:09:21.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM F A
-f0461reute
-r f BC-SOUTHDOWN-SDW>-DOWNG   03-06 0074</field>
-	<field name = "TITLE">SOUTHDOWN SDW> DOWNGRADED BY S/P</field>
+	<field name = "titulo">SOUTHDOWN SDW> DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Standard and Poor's said it lowered its
+	<field name = "content">Standard and Poor's said it lowered its
 rating of Southdown Inc's 50 mln dlrs of sinking fund
 debentures to BB-plus from BBB and removed the issue from
 Creditwatch.

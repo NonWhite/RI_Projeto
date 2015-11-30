@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 16:26:51.25</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0053
-reute
-r f BC-SERVICE-CORP-INTERNAT   03-02 0056</field>
-	<field name = "TITLE">SERVICE CORP INTERNATIONAL SRV> 3RD QTR NET</field>
+	<field name = "titulo">SERVICE CORP INTERNATIONAL SRV> 3RD QTR NET</field>
 	<field name = "DATELINE">HOUSTON, March 2 -</field>
-	<field name = "BODY">Qtr ended Jan 31
+	<field name = "content">Qtr ended Jan 31
     Shr 33 cts vs 29 cts
     Net 14.8 mln vs 11 mln
     Revs 108.6 mln vs 70.0 mln

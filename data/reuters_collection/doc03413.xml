@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 17:57:40.48</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0017reute
-u f BC-N.Z.-FOREIGN-DEBT-FAL   03-09 0106</field>
-	<field name = "TITLE">N.Z. FOREIGN DEBT FALLS TO 32.94 BILLION DLRS</field>
+	<field name = "titulo">N.Z. FOREIGN DEBT FALLS TO 32.94 BILLION DLRS</field>
 	<field name = "DATELINE">WELLINGTON, March 10 -</field>
-	<field name = "BODY">New Zealand's total foreign debt
+	<field name = "content">New Zealand's total foreign debt
 fell to 32.94 billion N.Z. Dlrs in the quarter end December 31
 against 33.42 billion in the quarter end September 30, revised
 from 33.12 billion dlrs, and 24.61 billion in the quarter end

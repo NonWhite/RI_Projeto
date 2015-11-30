@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">Y 
-f2462reute
-u f BC-ARAB-HEAVY-TERM-CRUDE   06-18 0116</field>
-	<field name = "TITLE">ARAB HEAVY TERM CRUDE SUPPLIES TO JAPAN UP IN JULY</field>
+	<field name = "titulo">ARAB HEAVY TERM CRUDE SUPPLIES TO JAPAN UP IN JULY</field>
 	<field name = "DATELINE">TOKYO, June 18 -</field>
-	<field name = "BODY">Aramco Corp> has accepted Japanese
+	<field name = "content">Aramco Corp> has accepted Japanese
 nominations to lift a higher proportion of Arab Heavy crude oil
 under term contracts in July, oil industry sources said.
     Japanese companies requested a ratio of 80 pct Arab Heavy

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 11:05:56.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0260reute
-u f BC-DANNERS-DNNR.O>-IN-D   04-17 0101</field>
-	<field name = "TITLE">DANNERS DNNR.O> IN DEAL ON CAPITAL INFUSION</field>
+	<field name = "titulo">DANNERS DNNR.O> IN DEAL ON CAPITAL INFUSION</field>
 	<field name = "DATELINE">INDIANAPOLIS, April 17 -</field>
-	<field name = "BODY">Danners Inc said it has agreed in
+	<field name = "content">Danners Inc said it has agreed in
 principle for Indian LP, a partnership associated with Sherman
 Clay Group, to purchase 100,000 shares of redeemable voting
 junior preferred stock with a liquidation preference of 20 dlrs

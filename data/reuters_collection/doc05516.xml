@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 12:53:25.26</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2940reute
-u f BC-AMERICAN-SECURITY-AS   03-16 0041</field>
-	<field name = "TITLE">AMERICAN SECURITY ASEC> BUYOUT COMPLETED</field>
+	<field name = "titulo">AMERICAN SECURITY ASEC> BUYOUT COMPLETED</field>
 	<field name = "DATELINE">BALTIMORE, March 16 -</field>
-	<field name = "BODY">Maryland National Corp MDNT> said it
+	<field name = "content">Maryland National Corp MDNT> said it
 has completed the acquisition of American Security Corp in an
 exchange of 0.81 Maryland share for each of American's 12 mln
 shares outstanding.

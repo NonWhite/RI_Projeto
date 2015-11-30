@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 17:35:22.01</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">C G L M T
-f3784reute
-d f BC-N.Z.-PORTS-REOPEN,-BU   03-16 0102</field>
-	<field name = "TITLE">N.Z. PORTS REOPEN, BUT FURTHER CLOSURES POSSIBLE</field>
+	<field name = "titulo">N.Z. PORTS REOPEN, BUT FURTHER CLOSURES POSSIBLE</field>
 	<field name = "DATELINE">WELLINGTON, March 17 -</field>
-	<field name = "BODY">Harbour workers returned to work
+	<field name = "content">Harbour workers returned to work
 this morning after a strike in support of pay claims closed New
 Zealand's 15 ports for 24 hours yesterday.
     But the Harbour Workers Union told reporters the pay

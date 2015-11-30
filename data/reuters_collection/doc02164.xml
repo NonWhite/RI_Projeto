@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:27:25.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0629reute
-d f BC-OGDEN-OG>-DEVICE-APP   03-05 0110</field>
-	<field name = "TITLE">OGDEN OG> DEVICE APPROVED BY U.S. FOR TESTING</field>
+	<field name = "titulo">OGDEN OG> DEVICE APPROVED BY U.S. FOR TESTING</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Ogden Corp said a unit won approval
+	<field name = "content">Ogden Corp said a unit won approval
 from the U.S. Environmental Protection Agency to test a bed
 combuster, a device that burns some hazardous wastes under
 highly controlled conditions.

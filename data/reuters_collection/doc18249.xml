@@ -4,13 +4,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">volcker</field>
 	<field name = "PEOPLE">greenspan</field>
-	<field name = "UNKNOWN">RM A
-f2469reute
-u f BC-U.K.-BANKERS-LAUD-VOL   06-02 0110</field>
-	<field name = "TITLE">U.K. BANKERS LAUD VOLCKER, UNSURE ABOUT GREENSPAN</field>
+	<field name = "titulo">U.K. BANKERS LAUD VOLCKER, UNSURE ABOUT GREENSPAN</field>
 	<field name = "AUTHOR">BY MARGUERITE NUGENT, REUTERS</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">U.K. Bankers for the most part lauded
+	<field name = "content">U.K. Bankers for the most part lauded
 outgoing U.S. Federal Reserve Chairman Paul Volcker for his
 achievements over the past eight years but expressed some
 uncertainty about economist Alan Greenspan, nominated by

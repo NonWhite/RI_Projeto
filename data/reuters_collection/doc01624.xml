@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">venezuela</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">RM
-f0103reute
-u f BC-ARGENTINA'S-CREDITORS   03-04 0116</field>
-	<field name = "TITLE">ARGENTINA'S CREDITORS SAID DIVIDED OVER DEBT ISSUE</field>
+	<field name = "titulo">ARGENTINA'S CREDITORS SAID DIVIDED OVER DEBT ISSUE</field>
 	<field name = "DATELINE">BUENOS AIRES, March 4 -</field>
-	<field name = "BODY">Central Bank director Daniel Marx
+	<field name = "content">Central Bank director Daniel Marx
 said Argentina's creditor banks were divided on the country's
 request for rescheduling its foreign debt.
     "There are difficulties (among the banks) to reach an

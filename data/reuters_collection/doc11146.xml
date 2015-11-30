@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 18:48:04.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2798reute
-h f BC-A.H-BELO-BLC>-TO-REI   03-30 0052</field>
-	<field name = "TITLE">A.H BELO BLC> TO REINCORPORATE</field>
+	<field name = "titulo">A.H BELO BLC> TO REINCORPORATE</field>
 	<field name = "DATELINE">DALLAS, Texas, March 30 -</field>
-	<field name = "BODY">A.H. Belo Corp said it will
+	<field name = "content">A.H. Belo Corp said it will
 submit to its shareholders at its May six annual meeting a
 proposal to reincorporate the company in Delaware.
     The company said the reincorporation would enable Belo to

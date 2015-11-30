@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 16:56:44.10</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0844reute
-d f BC-NEWS-CORP-NWS>-COMPL   03-09 0033</field>
-	<field name = "TITLE">NEWS CORP NWS> COMPLETES PURCHASE OF NEWSPAPER</field>
+	<field name = "titulo">NEWS CORP NWS> COMPLETES PURCHASE OF NEWSPAPER</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">The News Corp said the South China
+	<field name = "content">The News Corp said the South China
 Morning Post Ltd of Hong Kong become a wholly-owned subsidiary
 March 7 as previously announced.
  Reuter</field>

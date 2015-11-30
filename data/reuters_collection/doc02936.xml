@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0802reute
-r f BC-BMC-INDUSTRIES-BMC>   03-06 0112</field>
-	<field name = "TITLE">BMC INDUSTRIES BMC> UNIT GETS SOVIET CONTRACT</field>
+	<field name = "titulo">BMC INDUSTRIES BMC> UNIT GETS SOVIET CONTRACT</field>
 	<field name = "DATELINE">ST. PAUL, Minn., March 6 -</field>
-	<field name = "BODY">BMC Industries Inc said its West
+	<field name = "content">BMC Industries Inc said its West
 German subsidiary has received a contract valued at about eight
 mln dlrs from the Soviet Union to supply engineering and
 manufacturing services to build a television parts plant.

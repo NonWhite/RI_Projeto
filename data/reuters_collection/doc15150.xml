@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:08:13.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1868reute
-r f BC-AMPLICON-INITIAL-OFFE   04-08 0075</field>
-	<field name = "TITLE">AMPLICON INITIAL OFFERING AT 12.25 DLRS A SHARE</field>
+	<field name = "titulo">AMPLICON INITIAL OFFERING AT 12.25 DLRS A SHARE</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Kidder, Peabody and Co and E.F. Hutton
+	<field name = "content">Kidder, Peabody and Co and E.F. Hutton
 Co Inc, acting as co-managers in the underwriting group, said
 Amplicon Inc's> initial public offering of 1,650,000 shares of
 its common stock was being offered at 12.25 dlrs per share.

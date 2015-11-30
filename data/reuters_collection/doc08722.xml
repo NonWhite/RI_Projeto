@@ -4,12 +4,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0863reute
-r f BC-SPAIN-RAISES-CALL-MON   03-24 0115</field>
-	<field name = "TITLE">SPAIN RAISES CALL MONEY RATES ON HIGHER DEMAND</field>
+	<field name = "titulo">SPAIN RAISES CALL MONEY RATES ON HIGHER DEMAND</field>
 	<field name = "DATELINE">MADRID, March 24 -</field>
-	<field name = "BODY">The Bank of Spain raised overnight call
+	<field name = "content">The Bank of Spain raised overnight call
 money rates by 1/4 to 14 pct on demand for 746 billion pesetas
 in today's auction, which a bank spokesman termed "heavy."
     Rates stood at 12.1 pct at the start of the year and have

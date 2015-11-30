@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 06:38:16.50</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0487reute
-u f BC-LYONNAISE-DES-EAUX-FO   03-12 0086</field>
-	<field name = "TITLE">LYONNAISE DES EAUX FORECASTS 1987 PROFIT RISE</field>
+	<field name = "titulo">LYONNAISE DES EAUX FORECASTS 1987 PROFIT RISE</field>
 	<field name = "DATELINE">PARIS, March 12 -</field>
-	<field name = "BODY">Consolidated attributable net profit of
+	<field name = "content">Consolidated attributable net profit of
 Ste Lyonnaise des Eaux LYOE.PA> is likely to rise by at least
 10 pct this year from the 360 mln francs reported for 1986,
 Chairman Jerome Monod told a news conference.

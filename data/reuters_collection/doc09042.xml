@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 16:42:29.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2556reute
-u f BC-CORRECTED---ATT-T>-F   03-24 0112</field>
-	<field name = "TITLE">CORRECTED - ATT T> FORMS COMPUTER SALES GROUPS</field>
+	<field name = "titulo">CORRECTED - ATT T> FORMS COMPUTER SALES GROUPS</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">American Telephone and Telegraph Co
+	<field name = "content">American Telephone and Telegraph Co
 said it formed a 600-member sales force dedicated exclusively
 to its computers and other data systems products.
     Separately, ATT denied reports that it plans to buy back a

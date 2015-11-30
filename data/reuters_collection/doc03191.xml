@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0783reute
-u f BC-WORLD-BANK-TO-BRING-B   03-09 0111</field>
-	<field name = "TITLE">WORLD BANK TO BRING BORROWING FORWARD THIS YEAR</field>
+	<field name = "titulo">WORLD BANK TO BRING BORROWING FORWARD THIS YEAR</field>
 	<field name = "DATELINE">FRANKFURT, March 9 -</field>
-	<field name = "BODY">The World Bank intends to bring
+	<field name = "content">The World Bank intends to bring
 borrowing forward into the first half of 1987 because it
 expects global interest rates to rise by year end, World Bank
 vice president and treasurer Eugene Rotberg said.

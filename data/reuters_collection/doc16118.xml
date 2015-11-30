@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 03:11:17.00</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0107reute
-b f BC-ANZ-BANK-SETS-ONE-FOR   04-13 0095</field>
-	<field name = "TITLE">ANZ BANK SETS ONE-FOR-TWO BONUS ISSUE</field>
+	<field name = "titulo">ANZ BANK SETS ONE-FOR-TWO BONUS ISSUE</field>
 	<field name = "DATELINE">MELBOURNE, April 13 -</field>
-	<field name = "BODY">Australia and New Zealand Banking
+	<field name = "content">Australia and New Zealand Banking
 Group Ltd ANZA.S> said it will make a one-for-two bonus issue
 from its asset revaluation reserve to shareholders registered
 June 2.

@@ -4,12 +4,9 @@
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F 
-f1290reute
-h f AM-COMMUNITY-PASTA   06-29 0119</field>
-	<field name = "TITLE">ARMISTICE ELUDES EC AND U.S. IN SPAGHETTI WAR</field>
+	<field name = "titulo">ARMISTICE ELUDES EC AND U.S. IN SPAGHETTI WAR</field>
 	<field name = "DATELINE">BRUSSELS, June 29 -</field>
-	<field name = "BODY">Talks between the European Community
+	<field name = "content">Talks between the European Community
 (EC) and the United States have failed to settle a trade
 dispute over pasta, an EC Commission spokesman said.
     Diplomatic sources said the dispute could provoke new trade

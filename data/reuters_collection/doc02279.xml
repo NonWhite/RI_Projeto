@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 13:02:26.51</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">RM
-f0109reute
-u f BC-SWISS-GIVE-ARGENTINA   03-05 0103</field>
-	<field name = "TITLE">SWISS GIVE ARGENTINA CREDIT FOR NUCLEAR PLANT</field>
+	<field name = "titulo">SWISS GIVE ARGENTINA CREDIT FOR NUCLEAR PLANT</field>
 	<field name = "DATELINE">ZURICH, March 5 -</field>
-	<field name = "BODY">Switzerland's three major banks have
+	<field name = "content">Switzerland's three major banks have
 offered Argentina an extra 110.5 mln Swiss franc credit to help
 finance the building of a heavy water plant there by Gebrueder
 Sulzer AG SULZ.Z>, Union Bank of Switzerland, UBS said.

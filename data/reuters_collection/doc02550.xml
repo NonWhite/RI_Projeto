@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 19:00:55.28</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0145reute
-d f BC-SCANDINAVIA   03-05 0085</field>
-	<field name = "TITLE">GROUP BOOSTS SCANDINAVIA FUND SCF> STAKE</field>
+	<field name = "titulo">GROUP BOOSTS SCANDINAVIA FUND SCF> STAKE</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">A shareholder group led by a Swedish
+	<field name = "content">A shareholder group led by a Swedish
 investment firm and a Norwegian investor said it raised its
 stake in the Scandinavia Fund Inc to 2,165,300 shares, or 33.3
 pct of the total, from 1,978,900 shares, or 30.5 pct.

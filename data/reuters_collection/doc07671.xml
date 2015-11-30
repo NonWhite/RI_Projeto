@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 10:04:42.35</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0950reute
-d f BC-LOUISIANA-PACIFIC-LP   03-20 0107</field>
-	<field name = "TITLE">LOUISIANA PACIFIC LPX> BUYS OREGON SAWMILL</field>
+	<field name = "titulo">LOUISIANA PACIFIC LPX> BUYS OREGON SAWMILL</field>
 	<field name = "DATELINE">PORTLAND, Ore., March 20 -</field>
-	<field name = "BODY">Louisiana Pacific Corp has
+	<field name = "content">Louisiana Pacific Corp has
 agreed to pay 3,475,000 dlrs for the bankrupt Harris Pine
 Sawmill in Pendleton, Ore., the mill's bankruptcy trustee said.
     Louisiana Pacific refused to indicate whether it would

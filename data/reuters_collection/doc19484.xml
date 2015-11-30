@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 19:14:24.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2640reute
-u f BC-JUDGE-HEARS-APPEALS-A   06-19 0105</field>
-	<field name = "TITLE">JUDGE HEARS APPEALS AGAINST MANVILLE QMAN> PLAN</field>
+	<field name = "titulo">JUDGE HEARS APPEALS AGAINST MANVILLE QMAN> PLAN</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">A federal judge heard arguments that
+	<field name = "content">A federal judge heard arguments that
 Manville Corp's chapter 11 reorganization plan, which was
 confirmed in December, should be thrown out.
     During a four-and-a-half hour hearing, U.S. District Judge

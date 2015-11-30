@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 12:28:40.39</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0279
-reute
-s f BC-UNISYS-CORP-UIS>-SET   03-02 0023</field>
-	<field name = "TITLE">UNISYS CORP UIS> SETS QUARTERLY</field>
+	<field name = "titulo">UNISYS CORP UIS> SETS QUARTERLY</field>
 	<field name = "DATELINE">BLUE BELL, Pa., March 2 -</field>
-	<field name = "BODY">Qtly div 65 cts vs 65 cts prior
+	<field name = "content">Qtly div 65 cts vs 65 cts prior
     Pay May Seven
     Record April Seven
  Reuter</field>

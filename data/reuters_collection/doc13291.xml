@@ -3,12 +3,9 @@
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">luxembourg</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0461reute
-r f BC-EC-UNEMPLOYMENT-FALLS   04-06 0089</field>
-	<field name = "TITLE">EC UNEMPLOYMENT FALLS SLIGHTLY IN FEBRUARY</field>
+	<field name = "titulo">EC UNEMPLOYMENT FALLS SLIGHTLY IN FEBRUARY</field>
 	<field name = "DATELINE">LUXEMBOURG, April 6 -</field>
-	<field name = "BODY">European Community unemployment fell
+	<field name = "content">European Community unemployment fell
 slightly in February to just under 17 mln from 17.1 mln in
 January, the EC statistic's agency Eurostat said.
     It said the fall came despite a bad winter in most of the

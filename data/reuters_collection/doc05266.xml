@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 07:18:51.91</field>
 	<field name = "PLACES">hungary</field>
-	<field name = "UNKNOWN">RM
-f1588reute
-u f BC-HUNGARIAN-BANK-DENIES   03-16 0104</field>
-	<field name = "TITLE">HUNGARIAN BANK DENIES MISCONDUCT IN VW AFFAIR</field>
+	<field name = "titulo">HUNGARIAN BANK DENIES MISCONDUCT IN VW AFFAIR</field>
 	<field name = "DATELINE">BUDAPEST, March 16 -</field>
-	<field name = "BODY">The National Bank of Hungary said its
+	<field name = "content">The National Bank of Hungary said its
 name had been used in fraudulent foreign exchange contracts
 with Volkswagen AG VOWG.F> but denied any misconduct on its
 part.

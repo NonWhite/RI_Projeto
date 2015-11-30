@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 09:39:01.53</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0881reute
-u f BC-TELECOM-TELE>-SAYS-S   03-19 0069</field>
-	<field name = "TITLE">TELECOM TELE> SAYS SALE CLOSING DELAYED</field>
+	<field name = "titulo">TELECOM TELE> SAYS SALE CLOSING DELAYED</field>
 	<field name = "DATELINE">BOCA RATON, Fla., March 19 -</field>
-	<field name = "BODY">Telecom Plus International Inc
+	<field name = "content">Telecom Plus International Inc
 said the closing of the sale of its 65 pct interest in Tel Plus
 Communications Inc to Siemens AG> has been delayed.
     The company said it will be continuing its talks with

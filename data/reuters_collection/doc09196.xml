@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 06:23:47.46</field>
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G
-f0412reute
-u f BC-CARGILL-U.K.-STRIKE-T   03-25 0060</field>
-	<field name = "TITLE">CARGILL U.K. STRIKE TALKS TO RESUME THIS AFTERNOON</field>
+	<field name = "titulo">CARGILL U.K. STRIKE TALKS TO RESUME THIS AFTERNOON</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">Talks between Cargill U.K. Ltd's
+	<field name = "content">Talks between Cargill U.K. Ltd's
 management and unions, aimed at ending the prolonged strike at
 its Seaforth oilseed processing plant, will resume this
 afternoon, a company spokesman said.

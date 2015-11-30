@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 15:23:01.25</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">M
-f2410reute
-d f BC-ECHO-BAY-HAS-NEVADA-G   03-31 0102</field>
-	<field name = "TITLE">ECHO BAY HAS NEVADA GOLD DISCOVERY</field>
+	<field name = "titulo">ECHO BAY HAS NEVADA GOLD DISCOVERY</field>
 	<field name = "DATELINE">EDMONTON, Alberta, March 31 -</field>
-	<field name = "BODY">Echo Bay Mines Ltd said it
+	<field name = "content">Echo Bay Mines Ltd said it
 discovered a gold deposit in the Cove area near its McCoy gold
 mine in Nevada.
     Echo Bay said it encountered gold in 39 of 42 drill holes

@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 14:07:55.33</field>
-	<field name = "UNKNOWN">Y
-f0654
-reute
-u f BC-GULF-ARAB-OIL-MEETING   03-02 0091</field>
-	<field name = "TITLE">GULF ARAB OIL MEETING ENDS</field>
+	<field name = "titulo">GULF ARAB OIL MEETING ENDS</field>
 	<field name = "DATELINE">BAHRAIN, March 2 -</field>
-	<field name = "BODY">Deputy oil ministers of the six-nation
+	<field name = "content">Deputy oil ministers of the six-nation
 Gulf Co-operation Council (GCC) ended a meeting here after
 discussing co-ordination and co-operation in the oil field, the
 Bahrain-based Gulf News Agency (GNA) said.

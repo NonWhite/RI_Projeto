@@ -5,12 +5,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">C G
-f0340reute
-r f BC-WEST-GERMAN-TAPIOCA-U   04-29 0109</field>
-	<field name = "TITLE">WEST GERMAN TAPIOCA USE SEEN DECLINING</field>
+	<field name = "titulo">WEST GERMAN TAPIOCA USE SEEN DECLINING</field>
 	<field name = "DATELINE">HAMBURG, April 29 -</field>
-	<field name = "BODY">West German use of tapioca is likely to
+	<field name = "content">West German use of tapioca is likely to
 decline further despite favourable prices and import licences
 for only 420,000 tonnes have been registered since the start of
 the current agricultural year, compared with 640,000 tonnes

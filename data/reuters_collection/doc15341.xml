@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 17:14:17.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2642reute
-u f BC-THORN-EMI-WINS-U.S.-R   04-08 0103</field>
-	<field name = "TITLE">THORN-EMI WINS U.S. RULING IN BEATLES SUIT</field>
+	<field name = "titulo">THORN-EMI WINS U.S. RULING IN BEATLES SUIT</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Thorn-EMI PLC> said the New York
+	<field name = "content">Thorn-EMI PLC> said the New York
 Supreme Court dismissed six of the nine actions in a suit filed
 by the Beatles for royalties on their songs.
     It said the court dismissed charges of fraud and

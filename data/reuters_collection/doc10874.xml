@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 11:51:37.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1645reute
-r f BC-REYNOLDS-AND-REYNOLDS   03-30 0109</field>
-	<field name = "TITLE">REYNOLDS AND REYNOLDS SUED FOR THEFT OF SECRETS</field>
+	<field name = "titulo">REYNOLDS AND REYNOLDS SUED FOR THEFT OF SECRETS</field>
 	<field name = "DATELINE">DETROIT, March 30 -</field>
-	<field name = "BODY">Advanced Voice Technologies Inc> said
+	<field name = "content">Advanced Voice Technologies Inc> said
 it has filed a suit against Reynolds and Reynolds Co REYNA>,
 charging the company with pirating a computer-based voice
 messaging system for auto dealer service departments (CASI),

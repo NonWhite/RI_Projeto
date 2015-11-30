@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:30:49.78A</field>
-	<field name = "UNKNOWN">f0534reute</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">r f BC-BUNDESBANK-BOUGHT-DOL   03-27 0109</field>
-	<field name = "TITLE">BUNDESBANK BOUGHT DOLLARS AGAINST YEN, DEALERS SAY</field>
+	<field name = "titulo">BUNDESBANK BOUGHT DOLLARS AGAINST YEN, DEALERS SAY</field>
 	<field name = "DATELINE">FRANKFURT, March 27 -</field>
-	<field name = "BODY">The Bundesbank entered the open
+	<field name = "content">The Bundesbank entered the open
 market in the late morning to buy dollars against yen in
 concert with the Bank of France, dealers said.
     The Bundesbank came into the market when the dollar was

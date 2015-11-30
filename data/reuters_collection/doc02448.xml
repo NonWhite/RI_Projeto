@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y C F
-f0777reute
-u f BC-u.s.-energy-futures   03-05 0113</field>
-	<field name = "TITLE">CONFIDENCE IN OPEC FIRMS U.S. ENERGY FUTURES</field>
+	<field name = "titulo">CONFIDENCE IN OPEC FIRMS U.S. ENERGY FUTURES</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Renewed confidence in OPEC's ability to
+	<field name = "content">Renewed confidence in OPEC's ability to
 limit production helped U.S. energy futures settle above
 yesterday's closing prices, according to analysts.
     They also said the heating oil contract found additional

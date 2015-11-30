@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 13:03:59.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1784reute
-r f BC-TEXTRON'S-TXT>-1.4-B   04-01 0090</field>
-	<field name = "TITLE">TEXTRON'S TXT> 1.4 BILLION DLR CONTRACT FINAL</field>
+	<field name = "titulo">TEXTRON'S TXT> 1.4 BILLION DLR CONTRACT FINAL</field>
 	<field name = "DATELINE">STARTFORD, April 1 -</field>
-	<field name = "BODY">Textron Inc's Avco Lycoming Textron
+	<field name = "content">Textron Inc's Avco Lycoming Textron
 subsidiary said it finalized a 1.4 billion dlr five-year
 contract with the U.S. Army for M1 Abrams main battle tank gas
 turbine engines.

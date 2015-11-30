@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 04:18:30.07</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "ORGS">eib</field>
-	<field name = "UNKNOWN">RM
-f0238reute
-u f BC-EIB-PLANS-300-MLN-GUI   04-01 0059</field>
-	<field name = "TITLE">EIB PLANS 300 MLN GUILDER BOND ISSUE DUE 1995</field>
+	<field name = "titulo">EIB PLANS 300 MLN GUILDER BOND ISSUE DUE 1995</field>
 	<field name = "DATELINE">AMSTERDAM, April 1 -</field>
-	<field name = "BODY">The European Investment Bank is
+	<field name = "content">The European Investment Bank is
 planning a 300 mln guilder 6.25 pct bullet bond due 1995, lead
 manager Amsterdam-Rotterdam Bank NV said.
     The issue will be priced April 7 and subscriptions close

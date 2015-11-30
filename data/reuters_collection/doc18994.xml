@@ -7,12 +7,9 @@
 	<field name = "PLACES">norway</field>
 	<field name = "PLACES">iceland</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM 
-f4941reute
-u f BC-OECD-SAYS-HIGH-WAGE-D   06-18 0107</field>
-	<field name = "TITLE">OECD SAYS HIGH WAGE DEALS HARMING NORDIC STATES</field>
+	<field name = "titulo">OECD SAYS HIGH WAGE DEALS HARMING NORDIC STATES</field>
 	<field name = "DATELINE">PARIS, June 19 -</field>
-	<field name = "BODY">High wage settlements in Nordic countries
+	<field name = "content">High wage settlements in Nordic countries
 threaten to cut exports and reduce the international
 competitiveness of their industries, the Organisation for
 Economic Cooperation and Development (OECD) said.

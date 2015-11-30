@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:27:32.43</field>
-	<field name = "UNKNOWN">F
-f0513
-reute
-r f BC-TANDEM-TNDM>-HAS-HOM   03-02 0092</field>
-	<field name = "TITLE">TANDEM TNDM> HAS HOME SHOPPING DEAL</field>
+	<field name = "titulo">TANDEM TNDM> HAS HOME SHOPPING DEAL</field>
 	<field name = "DATELINE">CUPERTINO, Calif., March 2 -</field>
-	<field name = "BODY">Tandem Computers Inc said the
+	<field name = "content">Tandem Computers Inc said the
 Telaction Corp unit of J.C. Penney Co Inc JCP> selected the
 Tandem NonStop computer system for a new interactive home
 shopping system scheduled to go into operation during the

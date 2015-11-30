@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 16:58:35.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0631reute
-d f BC-ANALYSIS/TECHNOLOGY-   03-06 0064</field>
-	<field name = "TITLE">ANALYSIS/TECHNOLOGY AATI> WINS NAVY CONTRACTS</field>
+	<field name = "titulo">ANALYSIS/TECHNOLOGY AATI> WINS NAVY CONTRACTS</field>
 	<field name = "DATELINE">NORTH STONINGTON, Conn., March 6 -</field>
-	<field name = "BODY">Analysis and Technology
+	<field name = "content">Analysis and Technology
 Inc said it won contracts and increases in existing contracts
 valued at 2.9 mln dlrs from the U.S. Navy in February.
     The awards include 1.8 mln dlrs an extension of an existing

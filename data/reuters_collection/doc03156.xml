@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 11:38:02.63</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0619reute
-r f BC-USAIR-U>-AND-UNIT-RE   03-09 0107</field>
-	<field name = "TITLE">USAIR U> AND UNIT REMAIN UNDER MOODY'S REVIEW</field>
+	<field name = "titulo">USAIR U> AND UNIT REMAIN UNDER MOODY'S REVIEW</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said the
+	<field name = "content">Moody's Investors Service Inc said the
 212.75 mln dlrs of debt of USAir Group Inc and its USAir Inc
 unit remain under review for possible downgrade.
     The rating agency cited USAir Group's proposed acquisition

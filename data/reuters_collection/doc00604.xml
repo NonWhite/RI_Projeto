@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:15:29.32</field>
-	<field name = "UNKNOWN">F
-f0470
-reute
-d f BC-COGNITIVE-SYSTEMS-INC   03-02 0052</field>
-	<field name = "TITLE">COGNITIVE SYSTEMS INC CSAI> 4TH QTR NOV 30 LOSS</field>
+	<field name = "titulo">COGNITIVE SYSTEMS INC CSAI> 4TH QTR NOV 30 LOSS</field>
 	<field name = "DATELINE">NEW HAVEN, Conn., March 2 -</field>
-	<field name = "BODY">Shr loss eight cts vs loss three cts
+	<field name = "content">Shr loss eight cts vs loss three cts
     Net loss 213,000 vs loss 49,000
     Revs 636,000 vs 445,0000
     Year

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 15:23:32.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2426reute
-u f BC-HOSPITAL-CORP-HCA>-M   06-02 0104</field>
-	<field name = "TITLE">HOSPITAL CORP HCA> MAY BE DOWNGRADED BY S/P</field>
+	<field name = "titulo">HOSPITAL CORP HCA> MAY BE DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it may
+	<field name = "content">Standard and Poor's Corp said it may
 downgrade Hospital Corp of America's 1.8 billion dlrs of debt.
     S and P cited uncertainties over the company's major
 restructuring. It noted that Hospital Corp has agreed to sell

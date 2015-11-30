@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F Y
-f5543reute
-u f BC-EXXON-XON>-MAY-CLOSE   03-17 0104</field>
-	<field name = "TITLE">EXXON XON> MAY CLOSE ONE FRENCH REFINERY</field>
+	<field name = "titulo">EXXON XON> MAY CLOSE ONE FRENCH REFINERY</field>
 	<field name = "DATELINE">NEW YORK, MARCH 17 -</field>
-	<field name = "BODY">Exxon Corp, the world's largest oil
+	<field name = "content">Exxon Corp, the world's largest oil
 company, said in a published interview today that it was
 reviewing its worldwide refinery operations and might decide to
 close on of its french refineries.

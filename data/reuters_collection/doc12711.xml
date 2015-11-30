@@ -4,12 +4,9 @@
 	<field name = "TOPICS">rapeseed</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">C G
-f2534reute
-u f BC-MEXICO-BUYS-CANADIAN   04-02 0036</field>
-	<field name = "TITLE">MEXICO BUYS CANADIAN RAPESEED</field>
+	<field name = "titulo">MEXICO BUYS CANADIAN RAPESEED</field>
 	<field name = "DATELINE">WINNIPEG, April 2 -</field>
-	<field name = "BODY">Mexico bought 11,000 to 14,000 tonnes
+	<field name = "content">Mexico bought 11,000 to 14,000 tonnes
 of Canadian rapeseed, as rumored earlier this week, with price
 and shipment period details unavailable, trade sources said.
  Reuter</field>

@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:22:41.34F</field>
-	<field name = "UNKNOWN">f1255reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-JACKPOT-ENTERPRISES-   03-27 0048</field>
-	<field name = "TITLE">JACKPOT ENTERPRISES JACK> TO BUYBACK SHARES</field>
+	<field name = "titulo">JACKPOT ENTERPRISES JACK> TO BUYBACK SHARES</field>
 	<field name = "DATELINE">LAS VEGAS, March 27 -</field>
-	<field name = "BODY">Jackpot Enterprises Inc said it will
+	<field name = "content">Jackpot Enterprises Inc said it will
 buy up to 50,000 of its own common shares from time to time in
 market transactions.
     The amusement and recreation services company recently

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2786reute
-d f BC-AMOCO-AN>-SAYS-DOME   06-02 0111</field>
-	<field name = "TITLE">AMOCO AN> SAYS DOME DMP> BUY GOOD FOR CANADA</field>
+	<field name = "titulo">AMOCO AN> SAYS DOME DMP> BUY GOOD FOR CANADA</field>
 	<field name = "DATELINE">EDMONTON, Alberta, June 2 -</field>
-	<field name = "BODY">Amoco Corp's wholly owned Amoco
+	<field name = "content">Amoco Corp's wholly owned Amoco
 Canada Petroleum Co Ltd said its proposed 5.22-billion-
 Canadian-dlr acquisition of Dome Petroleum Ltd will benefit
 Canada just like the foreign investment that made possible

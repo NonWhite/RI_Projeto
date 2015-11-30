@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 01:28:20.85</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0149reute
-b f BC-JAPAN-TANKOKU-YIELDS   03-11 0090</field>
-	<field name = "TITLE">JAPAN TANKOKU YIELDS HIT RECORD LOW AT AUCTION</field>
+	<field name = "titulo">JAPAN TANKOKU YIELDS HIT RECORD LOW AT AUCTION</field>
 	<field name = "DATELINE">TOKYO, March 11 -</field>
-	<field name = "BODY">The Finance Ministry said its auction
+	<field name = "content">The Finance Ministry said its auction
 yesterday of 1,000 billion yen of tankoku, six-month debt
 financing paper, produced a record low average yield of 3.246
 pct on aggressive bidding from securities houses.

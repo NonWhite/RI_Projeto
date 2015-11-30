@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 08:52:59.57</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0212
-reute
-d f BC-VDO-UNIT-AND-THOMSON-   03-03 0110</field>
-	<field name = "TITLE">VDO UNIT AND THOMSON-CSF IN JOINT VENTURE</field>
+	<field name = "titulo">VDO UNIT AND THOMSON-CSF IN JOINT VENTURE</field>
 	<field name = "DATELINE">FRANKFURT, March 3 -</field>
-	<field name = "BODY">VDO Luftfahrtgeraete Werk Adolf
+	<field name = "content">VDO Luftfahrtgeraete Werk Adolf
 Schindling GmbH>, 75 pct owned by autoparts maker VDO Adolf
 Schindling AG>, said it set up a joint venture with Thomson-CSF
 TCSF.PA> of France to produce liquid crystal displays.

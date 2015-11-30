@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 16:15:35.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0527reute
-d f BC-LOCKHEED-LK>-GETS-80   03-06 0035</field>
-	<field name = "TITLE">LOCKHEED LK> GETS 80.0 MLN DLR CONTRACT</field>
+	<field name = "titulo">LOCKHEED LK> GETS 80.0 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">Lockheed Corp has received an 80.0
+	<field name = "content">Lockheed Corp has received an 80.0
 mln dlr contract for engineering support services for high
 energy laser facilities, the Defense Department said.
  REUTER</field>

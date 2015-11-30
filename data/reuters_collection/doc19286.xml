@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:17:35.38</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A F 
-f1753reute
-d f BC-LLOYD'S-OF-LONDON-DEC   06-19 0113</field>
-	<field name = "TITLE">LLOYD'S OF LONDON DECLARES PCW OFFER UNCONDITIONAL</field>
+	<field name = "titulo">LLOYD'S OF LONDON DECLARES PCW OFFER UNCONDITIONAL</field>
 	<field name = "DATELINE">LONDON, June 19 -</field>
-	<field name = "BODY">Lloyd's of London, the insurance market,
+	<field name = "content">Lloyd's of London, the insurance market,
 said its offer for a settlement of the five-year old PCW
 Underwriting Agencies> affair, which involved losses totaling
 about 235 mln stg, was unconditional.

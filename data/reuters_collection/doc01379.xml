@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 17:30:56.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0072reute
-b f BC-ITT-ITT>-CONSIDERING   03-03 0081</field>
-	<field name = "TITLE">ITT ITT> CONSIDERING STOCK REPURCHASE</field>
+	<field name = "titulo">ITT ITT> CONSIDERING STOCK REPURCHASE</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">ITT Corp Chairman Rand Araskog told a
+	<field name = "content">ITT Corp Chairman Rand Araskog told a
 meeting of analysts that the company has been considering a
 repurchase of some shares.
     "We are considering that as a very important way to

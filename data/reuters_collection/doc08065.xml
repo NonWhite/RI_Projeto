@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-MAR-1987 07:29:17.54</field>
 	<field name = "PLACES">malawi</field>
-	<field name = "UNKNOWN">RM C G L M T
-f0026reute
-u f BC-MALAWI-INTRODUCES-NEW   03-21 0106</field>
-	<field name = "TITLE">MALAWI INTRODUCES NEW TAXES TO BOOST REVENUE</field>
+	<field name = "titulo">MALAWI INTRODUCES NEW TAXES TO BOOST REVENUE</field>
 	<field name = "DATELINE">ZOMBA, March 21 -</field>
-	<field name = "BODY">Malawi will impose a 15 pct "border tax" on
+	<field name = "content">Malawi will impose a 15 pct "border tax" on
 some overseas remittances and a five pct profit tax for local
 branches of foreign firms to boost revenue and meet a projected
 1987/88 budget deficit of 303 mln kwacha, the Malawi news

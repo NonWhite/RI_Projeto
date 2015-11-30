@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 13:22:59.41</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5947reute
-r f BC-NORSTAR-NOR>-SETS-AC   03-17 0090</field>
-	<field name = "TITLE">NORSTAR NOR> SETS ACQUISITION FOR STOCK</field>
+	<field name = "titulo">NORSTAR NOR> SETS ACQUISITION FOR STOCK</field>
 	<field name = "DATELINE">ALBANY, N.Y., March 17 -</field>
-	<field name = "BODY">Norstar Bancorp said it has agreed
+	<field name = "content">Norstar Bancorp said it has agreed
 in principle to acquire United National Bank of Callicoon,
 N.Y., by exchanging three Norstar common shares for each of the
 201,660 United shares outstanding.

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 13:02:39.19</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1766reute
-b f BC-PAN-AM-CORP-PN>-4TH   03-20 0069</field>
-	<field name = "TITLE">PAN AM CORP PN> 4TH QTR LOSS</field>
+	<field name = "titulo">PAN AM CORP PN> 4TH QTR LOSS</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Shr loss 1.44 dlrs vs profit 1.79 dlrs
+	<field name = "content">Shr loss 1.44 dlrs vs profit 1.79 dlrs
     Net loss 197.5 mln dlrs vs profit 241.4 mln
     Revs 797.3 mln vs 906.7 mln
     12 mths

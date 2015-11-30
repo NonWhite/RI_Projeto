@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 14:03:09.09</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1981reute
-r f BC-FORD-TO-INVEST-23-MLN   06-01 0082</field>
-	<field name = "TITLE">FORD TO INVEST 23 MLN STG IN U.K. ENGINE PLANT</field>
+	<field name = "titulo">FORD TO INVEST 23 MLN STG IN U.K. ENGINE PLANT</field>
 	<field name = "DATELINE">LONDON, June 1 -</field>
-	<field name = "BODY">Ford Motor Co F> is to invest 23 mln stg
+	<field name = "content">Ford Motor Co F> is to invest 23 mln stg
 in high technology equipment at its Bridgend engine plant in
 South Wales, the Press Association said.
     The move includes a new computerised engine test facility

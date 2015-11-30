@@ -3,12 +3,9 @@
 	<field name = "PLACES">mexico</field>
 	<field name = "PLACES">peru</field>
 	<field name = "PEOPLE">garcia</field>
-	<field name = "UNKNOWN">RM
-f0060reute
-u f BC-GARCIA-SAYS-PERU-NOT   03-26 0108</field>
-	<field name = "TITLE">GARCIA SAYS PERU NOT TRYING TO EXPORT DEBT STANCE</field>
+	<field name = "titulo">GARCIA SAYS PERU NOT TRYING TO EXPORT DEBT STANCE</field>
 	<field name = "DATELINE">MEXICO CITY, March 26 -</field>
-	<field name = "BODY">Peruvian President Alan Garcia said
+	<field name = "content">Peruvian President Alan Garcia said
 his government was not trying to convince other nations to
 follow its decision to limit foreign debt repayments.
     "We do not want to export a model," Garcia told a press

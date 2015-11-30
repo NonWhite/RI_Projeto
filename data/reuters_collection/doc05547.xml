@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 13:24:02.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3072reute
-u f BC-CONRAIL-SAYS-OFFERING   03-16 0103</field>
-	<field name = "TITLE">CONRAIL SAYS OFFERING COULD BE MADE NEXT WEEK</field>
+	<field name = "titulo">CONRAIL SAYS OFFERING COULD BE MADE NEXT WEEK</field>
 	<field name = "DATELINE">PHILADELPHIA, March 16 -</field>
-	<field name = "BODY">Consolidated Rail Corp> said the
+	<field name = "content">Consolidated Rail Corp> said the
 initial offering of its common stock could be made as early as
 next week at an estimated price of 26 to 29 dlrs per share.
     The U.S. government has proposed the sale of 52 mln Conrail

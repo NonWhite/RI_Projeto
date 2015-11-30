@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 10:21:29.63</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1069reute
-b f BC-KEIHIN-ELECTRIC-EXPRE   03-25 0114</field>
-	<field name = "TITLE">KEIHIN ELECTRIC EXPRESS ISSUES 150 MLN DLR BOND</field>
+	<field name = "titulo">KEIHIN ELECTRIC EXPRESS ISSUES 150 MLN DLR BOND</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">Keihin Electric Express Railway Co Ltd
+	<field name = "content">Keihin Electric Express Railway Co Ltd
 is issuing a 150 mln dlr eurobond with equity warrants due
 April 22, 1992 with an indicated coupon of 2-3/8 pct and priced
 at par, lead manager Yamaichi International (Europe) Ltd said.

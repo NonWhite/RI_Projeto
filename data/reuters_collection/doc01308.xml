@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 16:04:28.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V
-f0854reute
-u f BC-/U.S.-TO-SELL-13.2-BI   03-03 0066</field>
-	<field name = "TITLE">U.S. TO SELL 13.2 BILLION DLRS IN BILLS</field>
+	<field name = "titulo">U.S. TO SELL 13.2 BILLION DLRS IN BILLS</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">The U.S. Treasury said it will sell
+	<field name = "content">The U.S. Treasury said it will sell
 13.2 billion dlrs of three and six-month bills at its regular
 auction next week.
     The March 9 sale, to be evenly divided between the three

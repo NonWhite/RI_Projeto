@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 15:25:00.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2372reute
-r f BC-CLEVITE-CLEV.O)-CITE   04-13 0077</field>
-	<field name = "TITLE">CLEVITE CLEV.O) CITES 9.6 MLN DLR DEBT</field>
+	<field name = "titulo">CLEVITE CLEV.O) CITES 9.6 MLN DLR DEBT</field>
 	<field name = "DATELINE">GLENVIEW, ILL., April 13 -</field>
-	<field name = "BODY">Clevite Industries Inc said J.P.
+	<field name = "content">Clevite Industries Inc said J.P.
 Industries Inc JPI.O> has refused to pay it 9.5 mln dlrs in
 connection with J.P. Industries' acquisition of the company's
 former Engine Parts Division.

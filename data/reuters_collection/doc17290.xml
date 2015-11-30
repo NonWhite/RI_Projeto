@@ -8,12 +8,9 @@
 	<field name = "PLACES">kuwait</field>
 	<field name = "PLACES">nigeria</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0646reute
-u f BC-SAUDIS-NOT-SEEKING-OI   04-27 0099</field>
-	<field name = "TITLE">SAUDIS NOT SEEKING OIL PRICE ABOVE 18 DLRS - MEES</field>
+	<field name = "titulo">SAUDIS NOT SEEKING OIL PRICE ABOVE 18 DLRS - MEES</field>
 	<field name = "DATELINE">NICOSIA, April 27 -</field>
-	<field name = "BODY">Saudi Arabia will not seek to push OPEC
+	<field name = "content">Saudi Arabia will not seek to push OPEC
 oil prices above the current benchmark of 18 dlrs per barrel
 unless oil demand grows strongly, the Middle East Economic
 Survey (MEES) said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">finland</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">M 
-f1998reute
-r f BC-OUTOKUMPU-IN-COPPER-D   06-29 0109</field>
-	<field name = "TITLE">OUTOKUMPU IN COPPER DEAL WITH IBERICA DEL COBRE</field>
+	<field name = "titulo">OUTOKUMPU IN COPPER DEAL WITH IBERICA DEL COBRE</field>
 	<field name = "DATELINE">HELSINKI, June 26 -</field>
-	<field name = "BODY">Finland's state-owned mining company
+	<field name = "content">Finland's state-owned mining company
 Outokumpu Oy said in a statement it was entering Spanish
 markets as a shareholder in Iberica del Cobre, S.A., a
 manufacturer of copper products.

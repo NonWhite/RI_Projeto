@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 14:37:58.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0565reute
-u f BC-FERTILITY/GENETICS-B   03-03 0080</field>
-	<field name = "TITLE">FERTILITY/GENETICS BABY> STUDIES ALTERNATIVES</field>
+	<field name = "titulo">FERTILITY/GENETICS BABY> STUDIES ALTERNATIVES</field>
 	<field name = "DATELINE">CHICAGO, March 3 -</field>
-	<field name = "BODY">Fertility and Genetics Research Inc said
+	<field name = "content">Fertility and Genetics Research Inc said
 it will not establish further free-standing ovum transfer
 centers and is exploring the establishment of general fertility
 centers and alternative businesses.

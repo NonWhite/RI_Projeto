@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 16:42:06.16</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">djibouti</field>
-	<field name = "UNKNOWN">C
-f9486reute
-d f BC-EIGHT-KILLED-IN-DJIBO   03-18 0081</field>
-	<field name = "TITLE">EIGHT KILLED IN DJIBOUTI BLAST</field>
+	<field name = "titulo">EIGHT KILLED IN DJIBOUTI BLAST</field>
 	<field name = "DATELINE">PARIS, March 18 -</field>
-	<field name = "BODY">Eight people were killed and some 30
+	<field name = "content">Eight people were killed and some 30
 injured in a blast in a crowded cafe in the Red Sea port of
 Djibouti, a spokesman for the African country's main newspaper
 La Nation said.

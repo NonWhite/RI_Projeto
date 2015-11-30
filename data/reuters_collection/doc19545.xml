@@ -4,12 +4,9 @@
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">G 
-f0460reute
-r f BC-EC,-U.S.-REMAIN-DIVID   06-29 0114</field>
-	<field name = "TITLE">EC, U.S. REMAIN DIVIDED OVER PASTA DISPUTE</field>
+	<field name = "titulo">EC, U.S. REMAIN DIVIDED OVER PASTA DISPUTE</field>
 	<field name = "DATELINE">BRUSSELS, June 29 -</field>
-	<field name = "BODY">Top-level talks last week between the
+	<field name = "content">Top-level talks last week between the
 European Community (EC) and the United States failed to resolve
 a dispute over pasta which may provoke new trade frictions next
 month, diplomatic sources said.

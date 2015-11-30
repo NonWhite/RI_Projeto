@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 15:30:30.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0884
-reute
-d f AM-UNITED   03-02 0123</field>
-	<field name = "TITLE">UAL UAL> UNIT ATTACKED ON MINORITY HIRING</field>
+	<field name = "titulo">UAL UAL> UNIT ATTACKED ON MINORITY HIRING</field>
 	<field name = "DATELINE">CHICAGO, March 2 -</field>
-	<field name = "BODY">UAL Inc's United Airlines was accused in
+	<field name = "content">UAL Inc's United Airlines was accused in
 a congressional hearing today of locking blacks out of key
 jobs, but the company said it had made tremendous progress in
 minority hiring.

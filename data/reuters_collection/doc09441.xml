@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:04:57.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1781reute
-r f BC-SEC-SANCTIONS-ACCOUNT   03-25 0095</field>
-	<field name = "TITLE">SEC SANCTIONS ACCOUNTANTS KMG MAIN HURDMAN</field>
+	<field name = "titulo">SEC SANCTIONS ACCOUNTANTS KMG MAIN HURDMAN</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The Securities and Exchange
+	<field name = "content">The Securities and Exchange
 Commission sanctioned the national accounting firm KMG Main
 Hurdman for improper professional conduct.
     It said the New York firm consented to the entry of the

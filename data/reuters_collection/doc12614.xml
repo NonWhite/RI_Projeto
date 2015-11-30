@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G
-f1493reute
-r f BC-EC-TO-RELEASE-MORE-BR   04-02 0072</field>
-	<field name = "TITLE">EC TO RELEASE MORE UK INTERVENTION FEED WHEAT</field>
+	<field name = "titulo">EC TO RELEASE MORE UK INTERVENTION FEED WHEAT</field>
 	<field name = "DATELINE">PARIS, April 2 -</field>
-	<field name = "BODY">The European Community Commission decided
+	<field name = "content">The European Community Commission decided
 today to make available a further 70,000 tonnes of British
 intervention feed wheat for sale on to the British domestic
 market, trade sources said here.

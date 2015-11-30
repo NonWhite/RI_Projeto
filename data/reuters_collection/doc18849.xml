@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 13:23:50.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4040reute
-s f BC-EXCEL-INDUSTRIES-INC   06-18 0023</field>
-	<field name = "TITLE">EXCEL INDUSTRIES INC EXC> DIVIDEND SET</field>
+	<field name = "titulo">EXCEL INDUSTRIES INC EXC> DIVIDEND SET</field>
 	<field name = "DATELINE">ELKHART, Ind, June 18 -</field>
-	<field name = "BODY">Qtly div nine cts vs nine cts prior
+	<field name = "content">Qtly div nine cts vs nine cts prior
     Pay July 20
     Record July 6
  Reuter</field>

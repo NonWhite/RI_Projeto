@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 06:29:06.93RM</field>
-	<field name = "UNKNOWN">f0413reute</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">u f BC-ITALIAN-1987-GDP-GROW   03-27 0114</field>
-	<field name = "TITLE">ITALIAN 1987 GDP GROWTH FORECAST AT THREE PCT</field>
+	<field name = "titulo">ITALIAN 1987 GDP GROWTH FORECAST AT THREE PCT</field>
 	<field name = "DATELINE">MILAN, March 27 -</field>
-	<field name = "BODY">Italy's gross domestic product (GDP) will
+	<field name = "content">Italy's gross domestic product (GDP) will
 grow three pct in real terms this year and 2.7 pct in 1988,
 said economic information company Data Resources Europe Inc
 (DRI).

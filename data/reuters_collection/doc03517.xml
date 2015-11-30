@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 07:18:52.57</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">RM
-f0610reute
-u f BC-FIRST-COMMERCIAL-PAPE   03-11 0091</field>
-	<field name = "TITLE">FIRST COMMERCIAL PAPER ISSUED IN TURKEY</field>
+	<field name = "titulo">FIRST COMMERCIAL PAPER ISSUED IN TURKEY</field>
 	<field name = "DATELINE">ISTANBUL, March 11 -</field>
-	<field name = "BODY">A Turkish-West German joint venture,
+	<field name = "content">A Turkish-West German joint venture,
 Turk Henkel A.S., Issued the first commercial paper in Turkey
 through private Yapi ve Kredi Bankasi A.S., Bank officials
 said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 14:57:57.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0616reute
-r f BC-HEWLETT-PACKARD-HWP>   03-03 0102</field>
-	<field name = "TITLE">HEWLETT-PACKARD HWP> UNVEILS NEW PRODUCTS</field>
+	<field name = "titulo">HEWLETT-PACKARD HWP> UNVEILS NEW PRODUCTS</field>
 	<field name = "DATELINE">PALO ALTO, Calif., March 3 -</field>
-	<field name = "BODY">Hewlett Packard Co said it
+	<field name = "content">Hewlett Packard Co said it
 unveiled the HP LaserJet Series II printer, the next generation
 of its laser printer line.
     The company said the HP LaserJet II offers more

@@ -2,13 +2,10 @@
 	<field name = "DATE">27-APR-1987 06:05:46.79</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f0412reute
-u f BC-FUNARO'S-DEPARTURE-CO   04-27 0110</field>
-	<field name = "TITLE">FUNARO'S DEPARTURE COULD LEAD TO BRAZIL DEBT DEAL</field>
+	<field name = "titulo">FUNARO'S DEPARTURE COULD LEAD TO BRAZIL DEBT DEAL</field>
 	<field name = "AUTHOR">By Stephen Powell, Reuters</field>
 	<field name = "DATELINE">SAO PAULO, April 27 -</field>
-	<field name = "BODY">The resignation of Finance Minister
+	<field name = "content">The resignation of Finance Minister
 Dilson Funaro is bound to focus attention on whether Brazil
 will now adopt a more flexible debt stance and move towards an
 accord with creditors, bankers and political analysts said.

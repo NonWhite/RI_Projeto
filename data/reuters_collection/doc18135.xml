@@ -4,12 +4,9 @@
 	<field name = "TOPICS">sfr</field>
 	<field name = "TOPICS">dmk</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f1851reute
-u f BC-LEUTWILER-WANTS-FIRME   06-02 0107</field>
-	<field name = "TITLE">LEUTWILER WANTS FIRMER MARK AGAINST SFR</field>
+	<field name = "titulo">LEUTWILER WANTS FIRMER MARK AGAINST SFR</field>
 	<field name = "DATELINE">BADEN, Switzerland, June 2 -</field>
-	<field name = "BODY">Fritz Leutwiler, chairman of
+	<field name = "content">Fritz Leutwiler, chairman of
 BBC AG Brown Boveri und Cie and a former Swiss National Bank
 president, urged the National Bank to declare its intent of
 achieving a rising rate for the mark against the Swiss franc.

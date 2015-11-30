@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 08:46:18.02</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0824reute
-u f BC-FRENCH-RESERVES-FALL   03-26 0086</field>
-	<field name = "TITLE">FRENCH RESERVES FALL ON DEBT REPAYMENT</field>
+	<field name = "titulo">FRENCH RESERVES FALL ON DEBT REPAYMENT</field>
 	<field name = "DATELINE">PARIS, March 26 -</field>
-	<field name = "BODY">French reserves fell in the week ended
+	<field name = "content">French reserves fell in the week ended
 March 19 following repayment of the bulk of the debt contracted
 during January with the European Monetary Cooperation Fund, the
 Bank of France said in its weekly statement.

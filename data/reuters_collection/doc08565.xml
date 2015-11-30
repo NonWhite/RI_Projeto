@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 17:52:58.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2598reute
-d f BC-SPACE-MICROWAVE-SMLI   03-23 0078</field>
-	<field name = "TITLE">SPACE MICROWAVE SMLI> SETS SECURITIES OFFERING</field>
+	<field name = "titulo">SPACE MICROWAVE SMLI> SETS SECURITIES OFFERING</field>
 	<field name = "DATELINE">SANTA ROSA, Calif., March 23 -</field>
-	<field name = "BODY">Space Microwave Laboratories
+	<field name = "content">Space Microwave Laboratories
 Inc said it registered with the Securities and Exchange
 Commission a secondary offering of 2,200 units of its
 securities at 1,000 dlrs per unit.

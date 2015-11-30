@@ -3,13 +3,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">RM
-f0056reute
-u f BC-IADB-DISPUTE-HIGHLIGH   03-23 0095</field>
-	<field name = "TITLE">IADB DISPUTE HIGHLIGHTS LATIN DEBT CONFLICTS</field>
+	<field name = "titulo">IADB DISPUTE HIGHLIGHTS LATIN DEBT CONFLICTS</field>
 	<field name = "AUTHOR">By Keith Grant, Reuters</field>
 	<field name = "DATELINE">MIAMI, March 23 -</field>
-	<field name = "BODY">Controversy surrounding U.S.-backed
+	<field name = "content">Controversy surrounding U.S.-backed
 reforms in the Inter-American Development Bank (IADB)
 underscores the mounting challenge to Washington's current debt
 strategy, according to Latin American officials and delegates

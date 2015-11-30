@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:05:02.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F
-f1495reute
-b f BC-/MOODY'S-DOWNGRADES-S   03-20 0111</field>
-	<field name = "TITLE">MOODY'S DOWNGRADES STANDARD CHARTERED STCH></field>
+	<field name = "titulo">MOODY'S DOWNGRADES STANDARD CHARTERED STCH></field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 downgraded 1.6 billion dlrs of debt of Standard Chartered PLC
 and its units, Standard Chartered Bank and Union Bancorp.
     Moody's cited concerns over the asset quality of Standard

@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 16:35:19.59</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0828reute
-r f BC-HUMANA-HUM>-DECLARES   03-05 0102</field>
-	<field name = "TITLE">HUMANA HUM> DECLARES SHAREHOLDERS RIGHTS PLAN</field>
+	<field name = "titulo">HUMANA HUM> DECLARES SHAREHOLDERS RIGHTS PLAN</field>
 	<field name = "DATELINE">LOUISVILLE, Ky., March 5 -</field>
-	<field name = "BODY">Humana Inc said its board
+	<field name = "content">Humana Inc said its board
 approved a shareholder rights plan, or so-called poison pill
 plan, to ensure its shareholders receive fair treatment in the
 event of a proposed takeover.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 09:53:22.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0958reute
-r f BC-GENERAL-ELECTRIC-GE>   03-25 0106</field>
-	<field name = "TITLE">GENERAL ELECTRIC GE> SELLS RIGHTS TO TECHNIQUE</field>
+	<field name = "titulo">GENERAL ELECTRIC GE> SELLS RIGHTS TO TECHNIQUE</field>
 	<field name = "DATELINE">TROY, N.Y., March 25 -</field>
-	<field name = "BODY">General Electric Co said BioReactor
+	<field name = "content">General Electric Co said BioReactor
 Technology Inc> obtained its rights to an experimental
 technique for analyzing blood samples to detect disease
 antibodies.

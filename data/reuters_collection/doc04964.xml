@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C T
-f0080reute
-u f BC-LOW-SUGAR-PRICES-MAY   03-13 0095</field>
-	<field name = "TITLE">LOW SUGAR PRICES MAY ATTRACT SOVIET/CHINESE</field>
+	<field name = "titulo">LOW SUGAR PRICES MAY ATTRACT SOVIET/CHINESE</field>
 	<field name = "DATELINE">LONDON, March 13 -</field>
-	<field name = "BODY">Any further decline in raw sugar prices
+	<field name = "content">Any further decline in raw sugar prices
 is likely to attract buying from the Soviet Union and China,
 Woodhouse, Drake and Carey said in their latest weekly market
 report.

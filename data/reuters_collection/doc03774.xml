@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 12:40:54.40</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0904reute
-u f BC-JONES-AND-VINING-JNS   03-11 0107</field>
-	<field name = "TITLE">JONES AND VINING JNSV> GETS VULCAN VUL> BID</field>
+	<field name = "titulo">JONES AND VINING JNSV> GETS VULCAN VUL> BID</field>
 	<field name = "DATELINE">BRAINTREE, Mass., March 11 -</field>
-	<field name = "BODY">Jones and Vining Inc said
+	<field name = "content">Jones and Vining Inc said
 Vulcan Corp, one of its main competitors in the production of
 shoe lasts, has offered to acquire Jones and Vining for five
 dlrs a share.

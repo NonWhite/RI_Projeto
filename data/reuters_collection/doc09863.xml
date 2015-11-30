@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1007reute
-b f BC-/U.S-TREASURY'S-MULFO   03-26 0111</field>
-	<field name = "TITLE">U.S TREASURY'S MULFORD REAFFIRMS G-6 AGREEMENT</field>
+	<field name = "titulo">U.S TREASURY'S MULFORD REAFFIRMS G-6 AGREEMENT</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">Treasury Assistant Secretary David
+	<field name = "content">Treasury Assistant Secretary David
 Mulford reaffirmed U.S. backing for the Paris Agreement among
 six industrial nations to cooperate closely to foster exchange
 rate stability around current levels.

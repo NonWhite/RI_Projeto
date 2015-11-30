@@ -4,12 +4,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0463reute
-u f BC-BANK-OF-SPAIN-RAISES   04-24 0099</field>
-	<field name = "TITLE">BANK OF SPAIN RAISES INTEREST RATES</field>
+	<field name = "titulo">BANK OF SPAIN RAISES INTEREST RATES</field>
 	<field name = "DATELINE">MADRID, April 24 -</field>
-	<field name = "BODY">The Bank of Spain announced a one-point
+	<field name = "content">The Bank of Spain announced a one-point
 rise in overnight call money rates to 16-5/8 pct, which a
 central bank spokesman said was part of government efforts to
 control money supply growth.

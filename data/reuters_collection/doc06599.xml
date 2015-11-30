@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">C G T
-f8564reute
-u f BC-UK-MINISTER-SAYS-FARM   03-18 0141</field>
-	<field name = "TITLE">UK MINISTER SAYS FARM TALKS CAN USE OECD STUDY</field>
+	<field name = "titulo">UK MINISTER SAYS FARM TALKS CAN USE OECD STUDY</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">U.K. Agriculture Minister Michael
+	<field name = "content">U.K. Agriculture Minister Michael
 Jopling said an OECD study which calculates the level of
 domestic farm subsidies in industrial countries would be a good
 basis for global agriculture negotiations now underway.

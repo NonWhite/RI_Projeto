@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 15:45:46.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2295reute
-u f BC-UAW-SETS-STRIKE-DATE   03-19 0106</field>
-	<field name = "TITLE">UAW SETS STRIKE DATE AT GM GM> TRUCK PLANT</field>
+	<field name = "titulo">UAW SETS STRIKE DATE AT GM GM> TRUCK PLANT</field>
 	<field name = "DATELINE">DETROIT, March 19 -</field>
-	<field name = "BODY">The United Auto Workers has set a March
+	<field name = "content">The United Auto Workers has set a March
 26 strike deadline at General Motors Corp's Pontiac, Mich.,
 truck and bus plant, a UAW spokesman said.
     The spokesman said in response to an inquiry that the 9,000

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 09:30:48.30</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0947reute
-u f BC-SWEDISH-VIROLOGIST-UN   03-12 0112</field>
-	<field name = "TITLE">SWEDISH VIROLOGIST UNVEILS NEW AIDS BLOOD TEST</field>
+	<field name = "titulo">SWEDISH VIROLOGIST UNVEILS NEW AIDS BLOOD TEST</field>
 	<field name = "DATELINE">ZURICH, March 12 -</field>
-	<field name = "BODY">A Swedish virologist unveiled a new AIDS
+	<field name = "content">A Swedish virologist unveiled a new AIDS
 blood test using synthetic antigens, or substances which
 combine with antibodies to make them detectable, which would be
 much cheaper and more reliable than existing tests.

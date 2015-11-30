@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 08:14:29.38</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G L M T
-f4682reute
-u f BC-DUTCH-PORT-EMPLOYERS   03-17 0095</field>
-	<field name = "TITLE">DUTCH PORT EMPLOYERS RESUME LAY-OFF PLANS</field>
+	<field name = "titulo">DUTCH PORT EMPLOYERS RESUME LAY-OFF PLANS</field>
 	<field name = "DATELINE">ROTTERDAM, March 17 -</field>
-	<field name = "BODY">Employers in Rotterdam's troubled
+	<field name = "content">Employers in Rotterdam's troubled
 general cargo sector have decided to restart stalled redundancy
 procedures within a week, employers' organisation labour
 relations manager Gerard Zeebregts told Reuters.

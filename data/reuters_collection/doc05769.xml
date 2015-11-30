@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 21:46:43.28</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f3965reute
-u f BC-MITSUBISHI-BANK-MITB   03-16 0080</field>
-	<field name = "TITLE">MITSUBISHI BANK MITB.T> PLANS 40 MLN N.Z. DLR CD</field>
+	<field name = "titulo">MITSUBISHI BANK MITB.T> PLANS 40 MLN N.Z. DLR CD</field>
 	<field name = "DATELINE">HONG KONG, March 17 -</field>
-	<field name = "BODY">Mitsubishi Bank Ltd's Hong Kong
+	<field name = "content">Mitsubishi Bank Ltd's Hong Kong
 branch is planning a 40 mln New Zealand dlr certificate of
 deposit, CD, issue, banking sources said.
     The three-year CDs are denominated in 100,000 dlr units and

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:31:10.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1982reute
-u f BC-TRANSAMERICAN-TA>-GE   06-19 0090</field>
-	<field name = "TITLE">TRANSAMERICAN TA> GETS APPROVAL ON CHAPTER 11</field>
+	<field name = "titulo">TRANSAMERICAN TA> GETS APPROVAL ON CHAPTER 11</field>
 	<field name = "DATELINE">HOUSTON, June 19 -</field>
-	<field name = "BODY">TransAmerican Natural Gas said it
+	<field name = "content">TransAmerican Natural Gas said it
 received approval from a U.S. District Court in Texas allowing
 the company to solicit creditor acceptance of its negotiated
 Chapter 11 plan of reorganization.

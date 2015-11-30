@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 17:37:19.05</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0623reute
-r f BC-MLX-CORP-MLXX>-4TH-Q   03-13 0058</field>
-	<field name = "TITLE">MLX CORP MLXX> 4TH QTR LOSS</field>
+	<field name = "titulo">MLX CORP MLXX> 4TH QTR LOSS</field>
 	<field name = "DATELINE">TROY, Mich., March 13 -</field>
-	<field name = "BODY">Shr loss 12 cts vs profit one ct
+	<field name = "content">Shr loss 12 cts vs profit one ct
     Net loss 1,815,000 vs profit 65,000
     Revs 59.9 mln vs 2,798,000
     Avg shrs 15.8 mln vs 9,775,000

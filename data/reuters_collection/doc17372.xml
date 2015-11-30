@@ -5,13 +5,10 @@
 	<field name = "PLACES">vietnam</field>
 	<field name = "PEOPLE">fujioka</field>
 	<field name = "ORGS">adb-asia</field>
-	<field name = "UNKNOWN">RM
-f0176reute
-u f BC-ADB-CHIEF-SAYS-CHINA   04-29 0107</field>
-	<field name = "TITLE">ADB CHIEF SAYS CHINA LIKELY TO BORROW 300 MLN DLRS</field>
+	<field name = "titulo">ADB CHIEF SAYS CHINA LIKELY TO BORROW 300 MLN DLRS</field>
 	<field name = "AUTHOR">By Chaitanya Kalbag, Reuters</field>
 	<field name = "DATELINE">OSAKA, Japan, April 29 -</field>
-	<field name = "BODY">China is likely to borrow up to
+	<field name = "content">China is likely to borrow up to
 300 mln dlrs this year from the Asian Development Bank (ADB),
 president Masao Fujioka said.
     The loans would be China's first from the ADB.

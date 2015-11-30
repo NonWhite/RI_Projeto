@@ -4,12 +4,9 @@
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C G L M T
-f0921reute
-d f BC-EC-APPOINTS-NEW-TRADE   03-04 0103</field>
-	<field name = "TITLE">EC APPOINTS NEW TRADE CHIEF</field>
+	<field name = "titulo">EC APPOINTS NEW TRADE CHIEF</field>
 	<field name = "DATELINE">BRUSSELS, March 4 -</field>
-	<field name = "BODY">The European Community Commission today
+	<field name = "content">The European Community Commission today
 appointed its chief spokesman, Hugo Paemen, as its top official
 in charge of multilateral trade negotiations, a Commission
 spokesman said.

@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:06:34.00</field>
-	<field name = "UNKNOWN">F
-f0433
-reute
-r f BC-BUFFETS-INC-BOCB>-4T   03-02 0051</field>
-	<field name = "TITLE">BUFFETS INC BOCB> 4TH QTR NET</field>
+	<field name = "titulo">BUFFETS INC BOCB> 4TH QTR NET</field>
 	<field name = "DATELINE">WAYZATA, Minn., March 2 -</field>
-	<field name = "BODY">Shr 10 cts vs nine cts
+	<field name = "content">Shr 10 cts vs nine cts
     Net 388,000 vs 328,000
     Sales 7.1 mln vs 4.1 mln
     Avg shrs 4,066,309 vs 3,688,890

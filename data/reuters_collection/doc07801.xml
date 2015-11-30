@@ -7,12 +7,9 @@
 	<field name = "PLACES">spain</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C G M T
-f1586reute
-d f BC-GATT-TO-DEBATE-U.S.-C   03-20 0112</field>
-	<field name = "TITLE">GATT TO DEBATE U.S. CHARGES OF AIRBUS SUBSIDIES</field>
+	<field name = "titulo">GATT TO DEBATE U.S. CHARGES OF AIRBUS SUBSIDIES</field>
 	<field name = "DATELINE">GENEVA, March 20 -</field>
-	<field name = "BODY">The U.S. Will pursue its complaint that
+	<field name = "content">The U.S. Will pursue its complaint that
 European governments unfairly subsidise the Airbus Industrie
 aircraft consortium in proceedings at the GATT civil aircraft
 committee, a GATT spokesman said today.

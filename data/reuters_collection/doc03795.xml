@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 13:08:50.92</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G L M T
-f0020reute
-d f BC-DUTCH-PARLIAMENT-OFFE   03-11 0118</field>
-	<field name = "TITLE">DUTCH PARLIAMENT OFFERS LITTLE HELP IN PORT ROW</field>
+	<field name = "titulo">DUTCH PARLIAMENT OFFERS LITTLE HELP IN PORT ROW</field>
 	<field name = "DATELINE">ROTTERDAM, March 11 -</field>
-	<field name = "BODY">Dutch members of parliament said they
+	<field name = "content">Dutch members of parliament said they
 could do little to help resolve the dispute over redundancies
 in Rotterdam port's general cargo sector and urged the union
 and employers to sort out their differences themselves.

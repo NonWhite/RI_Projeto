@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 03:37:24.36</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">RM
-f0303reute
-u f BC-GROUP-77-OFFICIALS-SE   03-09 0115</field>
-	<field name = "TITLE">GROUP-77 OFFICIALS SET AGENDA FOR DHAKA MEETING</field>
+	<field name = "titulo">GROUP-77 OFFICIALS SET AGENDA FOR DHAKA MEETING</field>
 	<field name = "DATELINE">DHAKA, March 9 -</field>
-	<field name = "BODY">Most commodity agreements are close to
+	<field name = "content">Most commodity agreements are close to
 collapse and the debt problem continues to weigh heavily on
 developing countries, Bangladesh Commerce Minister M.A. Munim
 told officials from 30 Asian countries in the Group of 77.

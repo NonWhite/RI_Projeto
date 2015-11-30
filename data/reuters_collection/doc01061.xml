@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 10:40:34.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0579reute
-r f BC-ACUSTAR-CORP>-HAS-UN   03-03 0067</field>
-	<field name = "TITLE">ACUSTAR CORP> HAS UNAUTHORIZED ACCOUNT ACTION</field>
+	<field name = "titulo">ACUSTAR CORP> HAS UNAUTHORIZED ACCOUNT ACTION</field>
 	<field name = "DATELINE">BLOOMINGTON, Minn., March 3 -</field>
-	<field name = "BODY">Acustar Corp said it has
+	<field name = "content">Acustar Corp said it has
 discovered significant unauthorized activity in its corporate
 accounts but has not yet determined the full extent of the
 problem.

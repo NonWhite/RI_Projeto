@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 06:10:25.20</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">F
-f0399reute
-u f BC-VIEILLE-MONTAGNE-REPO   04-08 0076</field>
-	<field name = "TITLE">VIEILLE MONTAGNE REPORTS LOSS, DIVIDEND NIL</field>
+	<field name = "titulo">VIEILLE MONTAGNE REPORTS LOSS, DIVIDEND NIL</field>
 	<field name = "DATELINE">BRUSSELS, April 8 -</field>
-	<field name = "BODY">1986 Year
+	<field name = "content">1986 Year
     Net loss after exceptional charges 198 mln francs vs profit
     250 mln
     Exceptional provisions for closure of Viviez electrolysis

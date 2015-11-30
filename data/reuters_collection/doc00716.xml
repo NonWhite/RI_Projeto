@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 15:09:53.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM F A
-f0839
-reute
-u f BC-U.S.-ELECTRONIC-SALES   03-02 0100</field>
-	<field name = "TITLE">U.S. ELECTRONIC SALES FLAT IN 1986</field>
+	<field name = "titulo">U.S. ELECTRONIC SALES FLAT IN 1986</field>
 	<field name = "DATELINE">PALO ALTO, Calif, March 2 -</field>
-	<field name = "BODY">U.S. electronic companies'
+	<field name = "content">U.S. electronic companies'
 sales last year totalled 226.5 billion dlrs, slightly below the
 228.7 billion dlrs reported in 1985, the American Electronic
 Association said.

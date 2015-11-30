@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 18:47:32.64</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2789reute
-u f BC-JUSTICE-OPPOSES-QUICK   06-29 0108</field>
-	<field name = "TITLE">JUSTICE OPPOSES QUICK GREYHOUND-TRAILWAYS MERGER</field>
+	<field name = "titulo">JUSTICE OPPOSES QUICK GREYHOUND-TRAILWAYS MERGER</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">The Justice Department said it asked
+	<field name = "content">The Justice Department said it asked
 the government to proceed cautiously on a plan allowing the
 nation's two largest intercity bus companies to merge their
 operations, a move one of the firms said may derail the deal.

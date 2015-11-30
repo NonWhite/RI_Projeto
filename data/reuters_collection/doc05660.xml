@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 15:50:48.03</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3512reute
-w f BC-SUBURBAN-BANCORP-SUB   03-16 0099</field>
-	<field name = "TITLE">SUBURBAN BANCORP SUBBA> UNIT WINS JUDGMENT</field>
+	<field name = "titulo">SUBURBAN BANCORP SUBBA> UNIT WINS JUDGMENT</field>
 	<field name = "DATELINE">PALATINE, ILL, March 16 -</field>
-	<field name = "BODY">Suburban Bancorp said a Cook
+	<field name = "content">Suburban Bancorp said a Cook
 County Circuit Court ruled in favor of one of its companies,
 Suburban Bancorp of Bartlett (formerly Bartlett State Bank) on
 claims against six former directors.

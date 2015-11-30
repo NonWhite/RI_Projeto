@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 15:24:18.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0384reute
-r f BC-MOBIL-MOB>-REORGANIZ   03-06 0092</field>
-	<field name = "TITLE">MOBIL MOB> REORGANIZES U.S. EXPLORATION, OUTPUT</field>
+	<field name = "titulo">MOBIL MOB> REORGANIZES U.S. EXPLORATION, OUTPUT</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Mobil Oil Corp said it is reorganizing
+	<field name = "content">Mobil Oil Corp said it is reorganizing
 its U.S. exploration and producing operations into a single
 affiliate, Mobil Exploration and Producing U.S. Inc, to be
 headquartered in Dallas, effective April one.

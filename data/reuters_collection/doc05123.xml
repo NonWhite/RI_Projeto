@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 18:23:59.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0703reute
-r f BC-UNITED-TELECOM-UT>-A   03-13 0091</field>
-	<field name = "TITLE">UNITED TELECOM UT> ASKS TO RESTRICT BELL</field>
+	<field name = "titulo">UNITED TELECOM UT> ASKS TO RESTRICT BELL</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">United Telecommunications Inc said
+	<field name = "content">United Telecommunications Inc said
 it called for rejection of the recommendation that the regional
 Bell telephone companies be allowed to enter the long-distance
 business at this time.

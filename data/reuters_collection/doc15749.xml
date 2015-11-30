@@ -5,12 +5,9 @@
 	<field name = "PEOPLE">conable</field>
 	<field name = "ORGS">imf</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">A F RM
-f1779reute
-u f BC-WORLD-BANK-TO-SEND-EC   04-09 0100</field>
-	<field name = "TITLE">WORLD BANK TO SEND ECONOMIC MISSION TO BRAZIL</field>
+	<field name = "titulo">WORLD BANK TO SEND ECONOMIC MISSION TO BRAZIL</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">World Bank President Barber Conable
+	<field name = "content">World Bank President Barber Conable
 said his agency plans to send a mission to Brazil next week to
 explore economic conditions.
     Speaking to reporters at the International Monetary Fund

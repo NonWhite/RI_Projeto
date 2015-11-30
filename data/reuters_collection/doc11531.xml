@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 13:44:40.67</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G T
-f2059reute
-u f BC-Argentina-crop   03-31 0106</field>
-	<field name = "TITLE">BRAZIL CROP WEATHER SUMMARY -- USDA/NOAA</field>
+	<field name = "titulo">BRAZIL CROP WEATHER SUMMARY -- USDA/NOAA</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Widespread rain interfered with
+	<field name = "content">Widespread rain interfered with
 summer crop harvesting in Brazil's Rio Grande do Sul and
 southern Mato Grosso do Sul in the week ended March 28, the
 Joint Agricultural weather Facility of the U.S. Agriculture and

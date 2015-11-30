@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 16:05:36.23</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PEOPLE">wilson</field>
-	<field name = "UNKNOWN">E A RM
-f0936
-reute
-u f BC-CANADA'S-WILSON-SEEKS   02-26 0111</field>
-	<field name = "TITLE">CANADA'S WILSON SEEKS TEMPORARY BORROWING</field>
+	<field name = "titulo">CANADA'S WILSON SEEKS TEMPORARY BORROWING</field>
 	<field name = "DATELINE">OTTAWA, Feb 26 -</field>
-	<field name = "BODY">Canadian Finance Minister Michael Wilson
+	<field name = "content">Canadian Finance Minister Michael Wilson
 said he will use temporary authority under the Financial
 Administration act to borrow an additional 600 mln dlrs in next
 Thursday's treasury bill auction.

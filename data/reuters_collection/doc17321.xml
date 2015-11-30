@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f1102reute
-r f BC-BANKER-SEES-CURRENCY   04-27 0108</field>
-	<field name = "TITLE">BANKER SEES CURRENCY FALLING TO BALANCE TRADE</field>
+	<field name = "titulo">BANKER SEES CURRENCY FALLING TO BALANCE TRADE</field>
 	<field name = "DATELINE">BOCA RATON, Fla., April 27 -</field>
-	<field name = "BODY">A leading regional banker said
+	<field name = "content">A leading regional banker said
 that it was axiomatic that despite market intervention, a
 country's currency will eventually fall to an exchange rate
 which balances its international trade and payments accounts.

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 14:52:36.17</field>
 	<field name = "TOPICS">fuel</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">Y F
-f2333reute
-u f AM-BLAZE   06-02 0101</field>
-	<field name = "TITLE">FUEL STORAGE TANKS IN FRANCE BURST INTO FLAMES</field>
+	<field name = "titulo">FUEL STORAGE TANKS IN FRANCE BURST INTO FLAMES</field>
 	<field name = "DATELINE">LYON, France, June 2 -</field>
-	<field name = "BODY">Two people were missing and six
+	<field name = "content">Two people were missing and six
 injured after tanks containing thousands of cubic metres of
 fuel burst into flames today at a Shell storage unit in Lyon,
 rescue workers said.

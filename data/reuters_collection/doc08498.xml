@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 16:08:13.01</field>
 	<field name = "PLACES">bolivia</field>
-	<field name = "UNKNOWN">C M
-f2334reute
-u f AM-ld bolivia  03-23 0111</field>
-	<field name = "TITLE">TALKS BEGIN TO END BOLIVIAN MINERS' STRIKE</field>
+	<field name = "titulo">TALKS BEGIN TO END BOLIVIAN MINERS' STRIKE</field>
 	<field name = "DATELINE">LA PAZ, March 23 -</field>
-	<field name = "BODY">Union leaders of 9,000 miners employed
+	<field name = "content">Union leaders of 9,000 miners employed
 by the state corporation Comibol began talks with the
 government today on ways on ways to solve their strike over
 pay, a mining ministry spokesman said.

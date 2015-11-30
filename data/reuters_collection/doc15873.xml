@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f2244reute
-u f BC-canada-crop-estimate   04-09 0106</field>
-	<field name = "TITLE">USDA ESTIMATES EUROPEAN COMMUNITY CROPS</field>
+	<field name = "titulo">USDA ESTIMATES EUROPEAN COMMUNITY CROPS</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 forecast the European Community's 1986/87 wheat crop at 71.60
 mln tonnes, vs 71.50 mln tonnes last month. It estimated
 1985/86 output at 71.70 mln tonnes, vs 71.71 mln last month.

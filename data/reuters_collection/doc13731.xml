@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:30:20.22</field>
-	<field name = "UNKNOWN">L
-f0766reute
-u f BC-ST-PAUL-HOGS-OPEN-UP   04-07 0025</field>
-	<field name = "TITLE">ST PAUL HOGS OPEN UP 0.50 DLR - PRIVATE SOURCES</field>
+	<field name = "titulo">ST PAUL HOGS OPEN UP 0.50 DLR - PRIVATE SOURCES</field>
 	<field name = "DATELINE">St Paul, April 7 -</field>
-	<field name = "BODY">Hog prices opened 0.50 dlr higher,
+	<field name = "content">Hog prices opened 0.50 dlr higher,
 private sources said. Top 51.00 dlrs per cwt.
  Reuter</field>
 </doc></add>

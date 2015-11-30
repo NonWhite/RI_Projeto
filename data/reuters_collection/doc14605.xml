@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:20:32.21</field>
-	<field name = "UNKNOWN">T
-f2375reute
-u f BC-ny-phys-coffee-report   04-07 0057</field>
-	<field name = "TITLE">N.Y. PHYSICAL COFFEE MARKET SEES LIGHT BUSINESS</field>
+	<field name = "titulo">N.Y. PHYSICAL COFFEE MARKET SEES LIGHT BUSINESS</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">The New York physical coffee market was
+	<field name = "content">The New York physical coffee market was
 lightly traded today, dealers said.
     Indonesian EK-Ones afloat sold for 86.00 cents a lb,
 ex-dock New York.

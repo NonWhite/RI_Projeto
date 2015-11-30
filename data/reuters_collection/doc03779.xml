@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 12:48:48.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0930reute
-d f BC-REICHOLD-CHEMICALS-R   03-11 0055</field>
-	<field name = "TITLE">REICHOLD CHEMICALS RCI> INCREASES PRICES</field>
+	<field name = "titulo">REICHOLD CHEMICALS RCI> INCREASES PRICES</field>
 	<field name = "DATELINE">DOVER, Del., March 11 -</field>
-	<field name = "BODY">Reichhold Chemicals Inc said it is
+	<field name = "content">Reichhold Chemicals Inc said it is
 raising the prices of its Emulsion Polymers Division's
 styrene-based latexes for nowovens, textiles, adhesives and
 other specialty end uses, effective April nine.

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 08:20:34.59</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0709reute
-r f BC-CONISTON-GROUP-TO-CON   06-01 0111</field>
-	<field name = "TITLE">CONISTON GROUP TO CONTINUE BID FOR ALLEGIS AEG></field>
+	<field name = "titulo">CONISTON GROUP TO CONTINUE BID FOR ALLEGIS AEG></field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">An investor group led by Coniston
+	<field name = "content">An investor group led by Coniston
 Partners said it plans to continue its effort to gain control
 of Allegis Corp despite the defensive maneuvers Allegis
 announced last week.

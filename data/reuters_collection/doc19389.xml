@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 15:41:33.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2197reute
-r f BC-MOODY'S-AFFIRMS-DELTA   06-19 0106</field>
-	<field name = "TITLE">MOODY'S AFFIRMS DELTA DAL>, UPGRADES WESTERN</field>
+	<field name = "titulo">MOODY'S AFFIRMS DELTA DAL>, UPGRADES WESTERN</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 affirmed Delta Air Lines Inc's 977 mln dlrs of debt and
 upgraded the ratings on Western Air Lines Inc's 216 mln dlrs of
 debt securities.

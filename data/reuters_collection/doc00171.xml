@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 17:50:20.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0247
-reute
-r f BC-U.S.-REGULATOR-CLOSES   02-26 0102</field>
-	<field name = "TITLE">U.S. REGULATOR CLOSES BANKS IN TEXAS, LOUISIANA</field>
+	<field name = "titulo">U.S. REGULATOR CLOSES BANKS IN TEXAS, LOUISIANA</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">The Federal Deposit Insurance Corp
+	<field name = "content">The Federal Deposit Insurance Corp
 (FDIC) said three troubled banks in Texas and Louisiana were
 merged with healthy financial institutions.
     The FDIC said it subsidized the merger of Central Bank and

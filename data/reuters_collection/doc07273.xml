@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 13:07:32.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1784reute
-d f BC-BOBBIE-BROOKS-BBKS>   03-19 0099</field>
-	<field name = "TITLE">BOBBIE BROOKS BBKS> IN RIGHTS PLAN</field>
+	<field name = "titulo">BOBBIE BROOKS BBKS> IN RIGHTS PLAN</field>
 	<field name = "DATELINE">CLEVELAND, March 19 -</field>
-	<field name = "BODY">Bobbie Brooks Inc said its board
+	<field name = "content">Bobbie Brooks Inc said its board
 approved a defensive common stock purchase rights plan.
     Under the plan, shareholders will receive one common shares
 purchase right March 31 on each outstanding share of record on

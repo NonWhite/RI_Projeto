@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 07:25:34.63</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">A
-f0456reute
-r f BC-THREE-BRAZILIAN-GOVER   04-09 0094</field>
-	<field name = "TITLE">THREE BRAZILIAN GOVERNORS SEEK REMOVAL OF FUNARO</field>
+	<field name = "titulo">THREE BRAZILIAN GOVERNORS SEEK REMOVAL OF FUNARO</field>
 	<field name = "DATELINE">SAO PAULO, April 8 -</field>
-	<field name = "BODY">Brazil's three most powerful state
+	<field name = "content">Brazil's three most powerful state
 governors have joined forces to seek the removal of Finance
 Minister Dilson Funaro.
     The governors of Sao Paulo, Rio de Janeiro and Minas Gerais

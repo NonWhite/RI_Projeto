@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:26:00.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1259reute
-d f BC-MELRIDGE-BULB>-UNIT   04-07 0085</field>
-	<field name = "TITLE">MELRIDGE BULB> UNIT IN REAL ESTATE AGREEMENT</field>
+	<field name = "titulo">MELRIDGE BULB> UNIT IN REAL ESTATE AGREEMENT</field>
 	<field name = "DATELINE">PORTLAND, Ore., April 7 -</field>
-	<field name = "BODY">Melridge Inc said its 50 pct
+	<field name = "content">Melridge Inc said its 50 pct
 owned Conroy's Inc subsidiarey, which franchises flower shops,
 has entered into an agreement for an affiliate of Public
 Storage Inc to acquire and develop real estate for the

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 07:17:51.88</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0457reute
-u f BC-WESTLB-ISSUES-50-MLN   03-19 0115</field>
-	<field name = "TITLE">WESTLB ISSUES 50 MLN AUSTRALIAN DLR EUROBOND</field>
+	<field name = "titulo">WESTLB ISSUES 50 MLN AUSTRALIAN DLR EUROBOND</field>
 	<field name = "DATELINE">FRANKFURT, March 19 -</field>
-	<field name = "BODY">A Westdeutsche Landesbank
+	<field name = "content">A Westdeutsche Landesbank
 Girozentrale (WestLB) unit is raising 50 mln Australian dlrs
 through a five-year bullet eurobond with a 14-3/8 pct coupon
 and priced at 101-1/2, co-lead manager WestLB said.

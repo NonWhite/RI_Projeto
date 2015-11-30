@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 09:36:37.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0079reute
-r f BC-MITSUBISHI-MOTOR/AMER   03-05 0103</field>
-	<field name = "TITLE">MITSUBISHI MOTOR/AMERICA FEBRUARY SALES RISE</field>
+	<field name = "titulo">MITSUBISHI MOTOR/AMERICA FEBRUARY SALES RISE</field>
 	<field name = "DATELINE">FOUNTAIN VALLEY, Calif., March 5 -</field>
-	<field name = "BODY">Mitsubishi Motor Sales
+	<field name = "content">Mitsubishi Motor Sales
 of America Inc said sales of all vehicles rose 43.7 pct in
 February to 9,735 units from 6,776 in February 1986.
     Sales of passenger cars and wagons grew 11.7 pct to 5,314

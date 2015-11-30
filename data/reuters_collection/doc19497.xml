@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 02:56:57.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0118reute
-u f BC-NBC-WRITERS,-PRODUCER   06-29 0097</field>
-	<field name = "TITLE">NBC WRITERS, PRODUCERS AND TECHNICIANS ON STRIKE</field>
+	<field name = "titulo">NBC WRITERS, PRODUCERS AND TECHNICIANS ON STRIKE</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Producers, news writers, editors and
+	<field name = "content">Producers, news writers, editors and
 technicians began a strike at the National Broadcasting Co
 (NBC), leaving management employees to do their jobs.
     The strike by members of the National Association of

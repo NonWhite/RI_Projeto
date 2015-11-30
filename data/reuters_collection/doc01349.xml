@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 16:55:02.51</field>
 	<field name = "TOPICS">orange</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C T
-f0972reute
-d f BC-USDA-TO-REDUCE-CITRUS   03-03 0115</field>
-	<field name = "TITLE">USDA TO REDUCE CITRUS ESTIMATING PROGRAM</field>
+	<field name = "titulo">USDA TO REDUCE CITRUS ESTIMATING PROGRAM</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">the U.S. Agriculture Department's
+	<field name = "content">the U.S. Agriculture Department's
 National Agricultural Statistics Services (NASS) said it will
 change its citrus estimate program for California and Arizona,
 starting in 1988.

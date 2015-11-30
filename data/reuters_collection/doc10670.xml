@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-MAR-1987 23:12:59.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0197reute
-u f BC-TIME-SAYS-REAGAN-KNEW   03-29 0113</field>
-	<field name = "TITLE">TIME SAYS REAGAN KNEW ARMS CASH WENT TO CONTRAS</field>
+	<field name = "titulo">TIME SAYS REAGAN KNEW ARMS CASH WENT TO CONTRAS</field>
 	<field name = "DATELINE">NEW YORK, March 29 -</field>
-	<field name = "BODY">Former National Security Adviser John
+	<field name = "content">Former National Security Adviser John
 Poindexter told President Reagan on two occasions in 1986 that
 profits from arms sales to Iran were being diverted to
 Nicaraguan rebels, according to a Time magazine report.

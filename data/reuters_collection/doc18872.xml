@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 13:45:42.96</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G 
-f4125reute
-u f BC-WEST-TEXAS-COTTON-CRO   06-18 0111</field>
-	<field name = "TITLE">WEST TEXAS COTTON CROP UNSCATHED BY STORM</field>
+	<field name = "titulo">WEST TEXAS COTTON CROP UNSCATHED BY STORM</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">The West Texas cotton crop was largely
+	<field name = "content">The West Texas cotton crop was largely
 unscathed by an isolated thunderstorm in that region last night
 that packed hurricane-force winds, crop and weather experts
 said.

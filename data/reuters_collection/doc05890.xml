@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 08:57:16.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f4804reute
-r f BC-AM-BANK   03-17 0110</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - U.S. BANKING REGULATION</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - U.S. BANKING REGULATION</field>
 	<field name = "AUTHOR">By Kenneth Barry, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">U.S. banks are under pressure to
+	<field name = "content">U.S. banks are under pressure to
 meet vigorous competition, but Congress continues to duck hard
 choices on banking law reform that could benefit consumers.
     Supporters say deregulating banking will increase

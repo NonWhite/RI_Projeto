@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 10:56:15.42</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1200reute
-u f BC-REXHAM-RXH>-REPURCHA   04-09 0043</field>
-	<field name = "TITLE">REXHAM RXH> REPURCHASES STAKE FROM NORTEK NTK></field>
+	<field name = "titulo">REXHAM RXH> REPURCHASES STAKE FROM NORTEK NTK></field>
 	<field name = "DATELINE">CHARLOTTE, N.C., April 9 -</field>
-	<field name = "BODY">Rexham Corp said it has
+	<field name = "content">Rexham Corp said it has
 repurchased 381,050 of its shares or 9.1 pct from Nortek Inc
 for 42 dlrs each, and Nortek has withdrawn its proposal to
 acquire Rexham for 43 dlrs per share.

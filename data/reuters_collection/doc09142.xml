@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">RM
-f0090reute
-u f BC-BANGLADESH'S-PAYMENTS   03-25 0088</field>
-	<field name = "TITLE">BANGLADESH'S PAYMENTS DEFICIT NARROWS IN OCTOBER</field>
+	<field name = "titulo">BANGLADESH'S PAYMENTS DEFICIT NARROWS IN OCTOBER</field>
 	<field name = "DATELINE">DHAKA, March 25 -</field>
-	<field name = "BODY">Bangladesh recorded an overall balance of
+	<field name = "content">Bangladesh recorded an overall balance of
 payments deficit of 8.3 mln U.S. Dlrs in October against a
 10.33 mln deficit in September and a 6.67 mln surplus in
 October 1985, Central Bank officials said.

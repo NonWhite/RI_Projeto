@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 11:49:47.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1498reute
-r f BC-OCCIDENTAL-OXY>-UNIT   06-01 0101</field>
-	<field name = "TITLE">OCCIDENTAL OXY> UNIT DELAYS REDEMPTION DATE</field>
+	<field name = "titulo">OCCIDENTAL OXY> UNIT DELAYS REDEMPTION DATE</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Occidental Petroleum Corp said its unit
+	<field name = "content">Occidental Petroleum Corp said its unit
 Natural Gas Pipeline will delay until July second its
 redemption of 202 mln dlrs of debt.
     Natural Gas previously announced a call date of June 29.

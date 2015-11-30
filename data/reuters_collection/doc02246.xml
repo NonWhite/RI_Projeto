@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 12:36:24.41</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0989reute
-r f BC-SHAD-FAVORS-SHORTENIN   03-05 0110</field>
-	<field name = "TITLE">SHAD FAVORS SHORTENING DISCLOSURE PERIOD</field>
+	<field name = "titulo">SHAD FAVORS SHORTENING DISCLOSURE PERIOD</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Securities and Exchange Commission
+	<field name = "content">Securities and Exchange Commission
 Chairman John Shad said the SEC favors shortening the current
 10-day period for disclosing takeover attempts but opposes
 putting restrictions on the use of so-called junk bonds.

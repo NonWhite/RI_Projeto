@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 17:27:33.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f9627reute
-u f BC-FED-APPROVES-CHASE-MA   03-18 0101</field>
-	<field name = "TITLE">FED APPROVES CHASE MANHATTAN COMMERCIAL DEALING</field>
+	<field name = "titulo">FED APPROVES CHASE MANHATTAN COMMERCIAL DEALING</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">The Federal Reserve Board has
+	<field name = "content">The Federal Reserve Board has
 approved the application of Chase Manhattan Corp to engage in
 underwriting and dealing in commercial paper of Chase
 Commercial Corp, the lending subsidiary of the parent bank

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 13:36:38.72</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1911reute
-u f BC-CONRAC   04-01 0109</field>
-	<field name = "TITLE">CONRAC CAX> EXPLORING RESTRUCTURING, BUYOUT</field>
+	<field name = "titulo">CONRAC CAX> EXPLORING RESTRUCTURING, BUYOUT</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Conrac Corp, whose board has
+	<field name = "content">Conrac Corp, whose board has
 rejected a 25 dlr a share tender offer from Mark IV Industries
 Inc IV>, said it is exploring alternatives such as a
 restructuring, leveraged buyout or takeover of the company.

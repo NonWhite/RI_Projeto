@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 15:29:30.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2455reute
-r f BC-NORSTAR-NOR>-DEBT-DO   06-02 0111</field>
-	<field name = "TITLE">NORSTAR NOR> DEBT DOWNGRADED BY S/P</field>
+	<field name = "titulo">NORSTAR NOR> DEBT DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 downgraded 160 mln dlrs of debt of Norstar Bancorp.
     Cut were the company's senior debt to AA-minus from AA,
 subordinated debt to A-plus from AA-minus and preferred stock

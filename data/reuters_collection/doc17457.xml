@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 03:32:40.20</field>
 	<field name = "PLACES">mexico</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">RM
-f0177reute
-u f BC-VENEZUELA-HAS-NO-PLAN   06-01 0103</field>
-	<field name = "TITLE">VENEZUELA HAS NO PLANS TO SEEK REVISED DEBT ACCORD</field>
+	<field name = "titulo">VENEZUELA HAS NO PLANS TO SEEK REVISED DEBT ACCORD</field>
 	<field name = "DATELINE">GUANAJUATO, Mexico, June 1 -</field>
-	<field name = "BODY">Venezuela has no plans to try
+	<field name = "content">Venezuela has no plans to try
 to renegotiate the debt rescheduling agreement it worked out
 with creditor banks in February, public finance director Jorge
 Marcano told Reuters.

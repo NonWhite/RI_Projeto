@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:33:17.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0528reute
-r f BC-SYSTEMS-ASSURANCE-SA   03-12 0096</field>
-	<field name = "TITLE">SYSTEMS ASSURANCE SAC> GETS MANAGEMENT CHANGES</field>
+	<field name = "titulo">SYSTEMS ASSURANCE SAC> GETS MANAGEMENT CHANGES</field>
 	<field name = "DATELINE">JENKINTOWN, Pa., March 12 -</field>
-	<field name = "BODY">Systems Assurance Corp said its
+	<field name = "content">Systems Assurance Corp said its
 board elected Charles Scott as chairman and chief executive
 officer.
     He replaces Ronald Grant, who will remain a director with

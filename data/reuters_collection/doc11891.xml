@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 09:14:14.12</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0797reute
-u f BC-ENERGY-DEVELOPMENT-E   04-01 0043</field>
-	<field name = "TITLE">ENERGY DEVELOPMENT EDP> COMPLETES MAY MEP> BUY</field>
+	<field name = "titulo">ENERGY DEVELOPMENT EDP> COMPLETES MAY MEP> BUY</field>
 	<field name = "DATELINE">LOS ANGELES, April 1 -</field>
-	<field name = "BODY">Energy Development Partners Ltd said
+	<field name = "content">Energy Development Partners Ltd said
 it has completed the acquisition of May Energy Partners Ltd for
 1,817,697 depositary units following approval yesterday by May
 Energy unitholders.

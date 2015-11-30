@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 10:29:46.26</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1074reute
-u f BC-HANSON-HAN>-TO-BUY-I   04-09 0108</field>
-	<field name = "TITLE">HANSON HAN> TO BUY INT'L PROTEIN PRO> STOCK</field>
+	<field name = "titulo">HANSON HAN> TO BUY INT'L PROTEIN PRO> STOCK</field>
 	<field name = "DATELINE">FAIRFIELD, N.J., April 9 -</field>
-	<field name = "BODY">International Proteins Corp said
+	<field name = "content">International Proteins Corp said
 it has agreed to sell in a private placement 330,000 common
 shares at 11.75 dlrs a share to a U.S. subsidiary of Hanson
 Trust Plc.

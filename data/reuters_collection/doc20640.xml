@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 15:32:55.15</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2974reute
-d f BC-WELBILT-WELB.O>-ACQU   10-20 0090</field>
-	<field name = "TITLE">WELBILT WELB.O> ACQUIRES FOOD HANDLING SYSTEMS</field>
+	<field name = "titulo">WELBILT WELB.O> ACQUIRES FOOD HANDLING SYSTEMS</field>
 	<field name = "DATELINE">NEW HYDE PARK, N.Y., Oct 20 -</field>
-	<field name = "BODY">Welbilt Corp said it acquired
+	<field name = "content">Welbilt Corp said it acquired
 Food Handling Systems Inc> of Dallas, a producer of commercial
 ovens, conveyers and proofer systems.
     Terms of the transaction were not disclosed.

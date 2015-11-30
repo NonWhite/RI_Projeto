@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 18:16:09.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0867reute
-r f BC-UNUSUAL-TEXAS-INSTRUM   03-11 0091</field>
-	<field name = "TITLE">UNUSUAL TEXAS INSTRUMENTS TXN> PREFERRED PRICED</field>
+	<field name = "titulo">UNUSUAL TEXAS INSTRUMENTS TXN> PREFERRED PRICED</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">In a novel type of financing, Texas
+	<field name = "content">In a novel type of financing, Texas
 Instruments Inc marketed a three-part, 225 mln dlr issue of
 convertible money market preferred stock through Shearson
 Lehman Brothers Inc as sole manager.

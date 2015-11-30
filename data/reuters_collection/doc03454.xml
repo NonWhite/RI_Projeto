@@ -4,13 +4,10 @@
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "PEOPLE">king-fahd</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0216reute
-u f BC-SAUDI-ARABIA'S-KING-F   03-11 0107</field>
-	<field name = "TITLE">SAUDI ARABIA'S KING FAHD WANTS STABLE OIL PRICES</field>
+	<field name = "titulo">SAUDI ARABIA'S KING FAHD WANTS STABLE OIL PRICES</field>
 	<field name = "AUTHOR">By STEPHEN JUKES AND PHILIP SHEHADI, REUTERS</field>
 	<field name = "DATELINE">RIYADH, March 11 -</field>
-	<field name = "BODY">King Fahd said today Saudi Arabia wants
+	<field name = "content">King Fahd said today Saudi Arabia wants
 oil price stability and he called on non-OPEC producers to
 avoid harmful competition with the 13 nation group.
     His plea, in an interview with Reuters and the television

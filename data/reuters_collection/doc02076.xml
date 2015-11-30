@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 10:30:54.88</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">G T
-f0311reute
-d f BC-KIECHLE-SEES-POSITIVE   03-05 0143</field>
-	<field name = "TITLE">KIECHLE SEES POSITIVE ASPECTS IN EC MILK ACCORD</field>
+	<field name = "titulo">KIECHLE SEES POSITIVE ASPECTS IN EC MILK ACCORD</field>
 	<field name = "DATELINE">MUNICH, March 5 -</field>
-	<field name = "BODY">West German Farm Minister Ignaz Kiechle,
+	<field name = "content">West German Farm Minister Ignaz Kiechle,
 who objected strongly to this week's European Community
 agreement to cut milk surpluses, conceded the accord would have
 the positive effect of stabilizing prices.

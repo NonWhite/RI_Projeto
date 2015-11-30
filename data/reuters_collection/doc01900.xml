@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f0189reute
-u f BC-UNUSUALLY-DRY-WEATHER   03-04 0088</field>
-	<field name = "TITLE">UNUSUALLY DRY WEATHER AFFECTS CHINA'S AGRICULTURE</field>
+	<field name = "titulo">UNUSUALLY DRY WEATHER AFFECTS CHINA'S AGRICULTURE</field>
 	<field name = "DATELINE">PEKING, March 5 -</field>
-	<field name = "BODY">Abnormally warm and dry weather over most
+	<field name = "content">Abnormally warm and dry weather over most
 parts of China is seriously affecting crops, the New China News
 Agency said.
     It said the drought has made rice planting difficult in

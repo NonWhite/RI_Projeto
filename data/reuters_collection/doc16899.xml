@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 14:29:03.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F
-f0400reute
-b f BC-BANKERS-TRUST-BT>-DE   04-17 0119</field>
-	<field name = "TITLE">BANKERS TRUST BT> DEBT DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">BANKERS TRUST BT> DEBT DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, April 17 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 downgraded 1.7 billion dlrs of debt of Bankers Trust New York
 Corp, lead bank Bankers Trust Co and other subsidiaries.
     It said the slate of key competitors in Bankers Trust's

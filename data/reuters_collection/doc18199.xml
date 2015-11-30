@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:22:02.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2196reute
-b f BC-FNMA-SETS-RATE-ON-DEB   06-02 0090</field>
-	<field name = "TITLE">FNMA SETS RATE ON DEBENTURE OFFERING</field>
+	<field name = "titulo">FNMA SETS RATE ON DEBENTURE OFFERING</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">The Federal National Mortgage
+	<field name = "content">The Federal National Mortgage
 Association set an 8.55 pct coupon rate to yield 8.55 on a
 four-year 900 mln dlr issue and set a 9.20 pct coupon rate to
 yield 9.22 on a 10-year 600 mln dlr issue in tomorrow's 1.5

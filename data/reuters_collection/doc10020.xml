@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:38:09.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1839reute
-d f BC-resending   03-26 0082</field>
-	<field name = "TITLE">HIGHER U.S. WEEKLY CAR OUTPUT ESTIMATED</field>
+	<field name = "titulo">HIGHER U.S. WEEKLY CAR OUTPUT ESTIMATED</field>
 	<field name = "DATELINE">DETROIT, March 26 -</field>
-	<field name = "BODY">U.S. automakers are expected to build
+	<field name = "content">U.S. automakers are expected to build
 167,236 cars this week, up from 133,067 in the same year-ago
 period, said the trade publication Ward's Automotive Reports.
     It said year-to-date car production would reach 2,012,093

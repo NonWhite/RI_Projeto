@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">C M
-f2554reute
-r f BC-MIM-TO-ACQUIRE-STAKE   03-16 0108</field>
-	<field name = "TITLE">MIM TO ACQUIRE STAKE IN GERMAN COPPER PRODUCER</field>
+	<field name = "titulo">MIM TO ACQUIRE STAKE IN GERMAN COPPER PRODUCER</field>
 	<field name = "DATELINE">FRANKFURT, March 16 -</field>
-	<field name = "BODY">Mount Isa Mines Holding Ltd plans to
+	<field name = "content">Mount Isa Mines Holding Ltd plans to
 acquire a 30 pct stake in Europe's largest primary copper
 producer, Norddeutsche Affinerie AG, a spokesman for
 Metallgesellschaft AG said.

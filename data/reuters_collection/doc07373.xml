@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 15:25:16.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f2235reute
-r f BC-resending   03-19 0091</field>
-	<field name = "TITLE">DOW DOW> TO ISSUE 56 MLN DLRS IN BONDS</field>
+	<field name = "titulo">DOW DOW> TO ISSUE 56 MLN DLRS IN BONDS</field>
 	<field name = "DATELINE">MIDLAND, MICH., March 19 -</field>
-	<field name = "BODY">Dow Chemical Co said it will
+	<field name = "content">Dow Chemical Co said it will
 issue 100 mln New Zealand dollar denominated bonds worth
 approximately 56 mln U.S. dlrs at current exchange rates.
     It said the two-year bonds will offer a floating interest

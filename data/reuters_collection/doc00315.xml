@@ -1,14 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 05:51:40.18</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">F
-f0932
-reute
-u f BC-SAN-MIGUEL-BOARD-APPO   03-02 0106</field>
-	<field name = "TITLE">SAN MIGUEL BOARD APPOINTMENT MAY MEAN CHANGES</field>
+	<field name = "titulo">SAN MIGUEL BOARD APPOINTMENT MAY MEAN CHANGES</field>
 	<field name = "AUTHOR">By Rosario Liquicia, Reuters</field>
 	<field name = "DATELINE">MANILA, March 2 -</field>
-	<field name = "BODY">Disagreement over management of San
+	<field name = "content">Disagreement over management of San
 Miguel Corp> (SMC) may follow the Philippine government's
 appointment of a well-known banker to the SMC board, investment
 analysts said.

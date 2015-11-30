@@ -4,12 +4,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">hog</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f0473reute
-u f BC-MEATPACKERS-STRIKE-MO   03-09 0108</field>
-	<field name = "TITLE">MEATPACKERS STRIKE MORRELL SIOUX CITY PLANT</field>
+	<field name = "titulo">MEATPACKERS STRIKE MORRELL SIOUX CITY PLANT</field>
 	<field name = "DATELINE">CHICAGO, March 9 -</field>
-	<field name = "BODY">About 800 members of the United Food and
+	<field name = "content">About 800 members of the United Food and
 Commercial Workers Union, UFCWU, struck John Morrell's Sioux
 City, Iowa, pork processing plant at midnight Sunday, a
 spokesman for the UFCWU national said.

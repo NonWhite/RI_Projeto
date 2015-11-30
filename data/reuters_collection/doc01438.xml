@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 09:49:12.92</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G L
-f0229reute
-u f BC-ANDRIESSEN-HAILS-EC-M   03-04 0133</field>
-	<field name = "TITLE">ANDRIESSEN HAILS EC MILK PACT, PROMISES FARM AID</field>
+	<field name = "titulo">ANDRIESSEN HAILS EC MILK PACT, PROMISES FARM AID</field>
 	<field name = "DATELINE">BRUSSELS, March 4 -</field>
-	<field name = "BODY">European Community Farm Commissioner
+	<field name = "content">European Community Farm Commissioner
 Frans Andriessen welcomed the agreement on details of dairy
 output cuts over two years and promised new measures to help
 farmers hurt by the drive to reduce EC surpluses.

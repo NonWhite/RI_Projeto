@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">22-MAR-1987 01:46:41.28</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">F
-f0036reute
-u f BC-INDONESIA-WILL-NEED-N   03-22 0113</field>
-	<field name = "TITLE">INDONESIA WILL NEED NEW SATELLITES BY 1995</field>
+	<field name = "titulo">INDONESIA WILL NEED NEW SATELLITES BY 1995</field>
 	<field name = "DATELINE">JAKARTA, March 22 -</field>
-	<field name = "BODY">Indonesia will need a new generation of
+	<field name = "content">Indonesia will need a new generation of
 satellites by 1995 at the latest to link the giant archipelago
 of 13,000 islands, Telecommunications minister Achmad Tahir was
 quoted as saying.

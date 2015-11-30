@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 13:46:34.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1983reute
-r f BC-HEALTH-AND-REHABILITA   06-29 0101</field>
-	<field name = "TITLE">HEALTH AND REHABILITATION HRP> BUYS FACILITIES</field>
+	<field name = "titulo">HEALTH AND REHABILITATION HRP> BUYS FACILITIES</field>
 	<field name = "DATELINE">CAMBRIDGE, Mass, June 29 -</field>
-	<field name = "BODY">Health and Rehabilitation
+	<field name = "content">Health and Rehabilitation
 Properties Trust said it has reached an understanding to
 purchase three skilled nursing facilities in Massachusetts and
 Connecticut for 29 mln dlrs, and lease them back to Greenery

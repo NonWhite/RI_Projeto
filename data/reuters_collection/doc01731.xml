@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 15:07:16.19</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0511reute
-d f BC-DANAHER-DHR>-EXPECTS   03-04 0096</field>
-	<field name = "TITLE">DANAHER DHR> EXPECTS EARNINGS INCREASE IN 1987</field>
+	<field name = "titulo">DANAHER DHR> EXPECTS EARNINGS INCREASE IN 1987</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">Danaher Corp said it expects higher
+	<field name = "content">Danaher Corp said it expects higher
 earnings in 1987 versus 1986.
     "We expect significant increases in earnings and revenues
 in 1987," Steven Rales, Danaher chairman and chief executive

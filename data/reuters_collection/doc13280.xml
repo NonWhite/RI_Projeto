@@ -3,13 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0243reute
-u f BC-OIL-PRICES-SEEN-HOLDI   04-06 0106</field>
-	<field name = "TITLE">OIL PRICES SEEN HOLDING STEADY IN SECOND QUARTER</field>
+	<field name = "titulo">OIL PRICES SEEN HOLDING STEADY IN SECOND QUARTER</field>
 	<field name = "AUTHOR">By Jennie Kantyka, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 6 -</field>
-	<field name = "BODY">Japanese oil traders generally expect oil
+	<field name = "content">Japanese oil traders generally expect oil
 prices to remain steady through June, when the next
 Organization of Petroleum Exporting Countries' (Opec) meeting
 is scheduled to take place.

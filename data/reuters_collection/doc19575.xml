@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 08:33:47.64</field>
-	<field name = "UNKNOWN">F 
-f0759reute
-r f BC-SCIENTIFIC-MICRO-SMS   06-29 0087</field>
-	<field name = "TITLE">SCIENTIFIC MICRO SMSI.O> WINS SIEMENS CONTRACT</field>
+	<field name = "titulo">SCIENTIFIC MICRO SMSI.O> WINS SIEMENS CONTRACT</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Scientific Micro Systems said it has
+	<field name = "content">Scientific Micro Systems said it has
 won a major original equipment manufacture contract valued at
 about 12 mln dlrs from Siemens AG SIEG.F>, West Germany.
     The company said the contract, to be handled by Scientific

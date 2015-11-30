@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 16:22:21.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2528reute
-r f BC-MEDIVIX-MEDX>-UNIT-I   04-09 0076</field>
-	<field name = "TITLE">MEDIVIX MEDX> UNIT IN PACT FOR MAIL ORDERS</field>
+	<field name = "titulo">MEDIVIX MEDX> UNIT IN PACT FOR MAIL ORDERS</field>
 	<field name = "DATELINE">GARDEN CITY, N.Y., April 9 -</field>
-	<field name = "BODY">Medivix Inc said its American
+	<field name = "content">Medivix Inc said its American
 Subscription Plan Inc subsidiary signed a contract with 
 Midwest Benefits Corp> to provide mail order prescription
 services for employees of 300 companies.

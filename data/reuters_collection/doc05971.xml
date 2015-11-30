@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f5163reute
-b f BC-/SOVIETS-SAID-TO-SEE   03-17 0133</field>
-	<field name = "TITLE">SOVIETS SAID TO SEE NEW FLOOR FOR GRAIN OUTPUT</field>
+	<field name = "titulo">SOVIETS SAID TO SEE NEW FLOOR FOR GRAIN OUTPUT</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">The intensive technology concept for
+	<field name = "content">The intensive technology concept for
 grain production has put a new floor under USSR grain
 production, the U.S. Agriculture Department's officer in Moscow
 said in a field report.

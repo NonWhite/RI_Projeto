@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 13:51:39.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0280reute
-u f BC-DELTA-AIR-DAL>-FEBRU   03-05 0100</field>
-	<field name = "TITLE">DELTA AIR DAL> FEBRUARY LOAD FACTOR FALLS</field>
+	<field name = "titulo">DELTA AIR DAL> FEBRUARY LOAD FACTOR FALLS</field>
 	<field name = "DATELINE">ATLANTA, March 5 -</field>
-	<field name = "BODY">Delta Air Lines Inc said February load
+	<field name = "content">Delta Air Lines Inc said February load
 factor fell to 54.1 pct from 59.9 pct a year before.
     The company said revenue passenger miles rose 4.1 pct to
 2.48 billion from 2.39 billion a year before and available seat

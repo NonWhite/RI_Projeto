@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:45:44.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1220reute
-r f BC-AMERICAN-MIDLAND-AMC   04-08 0088</field>
-	<field name = "TITLE">AMERICAN MIDLAND AMCO> SETS OPERATOR FOR CASINO</field>
+	<field name = "titulo">AMERICAN MIDLAND AMCO> SETS OPERATOR FOR CASINO</field>
 	<field name = "DATELINE">ENGLEWOOD CLIFFS, N.J., April 8 -</field>
-	<field name = "BODY">American Midland Corp
+	<field name = "content">American Midland Corp
 said Braodway Casinos Inc> has entered into a letter of intent
 for a new company to be formed by Carnival Cruise Lines Inc>
 and Continental Hotel Cos> to operate Broadway's planned

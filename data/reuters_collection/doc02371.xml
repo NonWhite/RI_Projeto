@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 14:50:20.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0466reute
-r f BC-GM-GM>-CLOSING-TWO-P   03-05 0107</field>
-	<field name = "TITLE">GM GM> CLOSING TWO PLANTS TEMPORARILY</field>
+	<field name = "titulo">GM GM> CLOSING TWO PLANTS TEMPORARILY</field>
 	<field name = "DATELINE">DETROIT, March 5 -</field>
-	<field name = "BODY">General Motors Corp said it is closing
+	<field name = "content">General Motors Corp said it is closing
 two plants for brief periods in March, placing 5,500 on
 temporary layoff for up to two weeks.
     The company said its Hamtramck Buick-Oldsmobile-Cadillac

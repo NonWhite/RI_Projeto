@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 11:29:59.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1416reute
-u f BC-KODAK-EK>-MARKETING   06-29 0062</field>
-	<field name = "TITLE">KODAK EK> MARKETING CELLULAR CELP.O> AIDS TEST</field>
+	<field name = "titulo">KODAK EK> MARKETING CELLULAR CELP.O> AIDS TEST</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., June 29 -</field>
-	<field name = "BODY">Eastman Kodak Co said it is
+	<field name = "content">Eastman Kodak Co said it is
 marketing a test kit for the AIDS antibody developed and
 manufactured by Cellular Products Inc.
     Kodak said the kit is the first in a series of diagnostic

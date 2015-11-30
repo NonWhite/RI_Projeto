@@ -4,12 +4,9 @@
 	<field name = "TOPICS">orange</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G
-f0039reute
-u f BC-CHINA-PROVINCE-BECOME   06-01 0113</field>
-	<field name = "TITLE">CHINA PROVINCE BECOMES GRAIN IMPORTER</field>
+	<field name = "titulo">CHINA PROVINCE BECOMES GRAIN IMPORTER</field>
 	<field name = "DATELINE">PEKING, June 1 -</field>
-	<field name = "BODY">The south China province of Guangdong is
+	<field name = "content">The south China province of Guangdong is
 importing millions of tonnes of grain a year from overseas and
 other parts of China because farmers have switched from grain
 to more profitable crops, the Peking Review magazine said.

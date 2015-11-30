@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 12:15:09.24</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1611reute
-r f BC-SOUTHMARK-SM>-SELLS   03-24 0114</field>
-	<field name = "TITLE">SOUTHMARK SM> SELLS NATIONAL HERITAGE STAKE</field>
+	<field name = "titulo">SOUTHMARK SM> SELLS NATIONAL HERITAGE STAKE</field>
 	<field name = "DATELINE">DALLAS, March 24 -</field>
-	<field name = "BODY">National Heritage Inc, a unit of
+	<field name = "content">National Heritage Inc, a unit of
 Southmark Corp, said it began an initial public offering of two
 mln shares of common stock at a price of 9.50 dlrs a share.
     All the shares are being offered by National Heritage,

@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 09:55:41.23</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">RM
-f0142reute
-u f BC-IRAQ-SAYS-IT-CRUSHES   03-05 0121</field>
-	<field name = "TITLE">IRAQ SAYS IT CRUSHES NEW IRANIAN BASRA OFFENSIVE</field>
+	<field name = "titulo">IRAQ SAYS IT CRUSHES NEW IRANIAN BASRA OFFENSIVE</field>
 	<field name = "DATELINE">BAGHDAD, March 5 -</field>
-	<field name = "BODY">Iraq said its forces killed or wounded
+	<field name = "content">Iraq said its forces killed or wounded
 15,000 Iranian Revolutionary Guards as they crushed a new
 Iranian offensive near the strategic port city of Basra.
     A high command war communique said four Revolutionary

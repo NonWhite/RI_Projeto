@@ -4,13 +4,9 @@
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">balladur</field>
 	<field name = "PEOPLE">de-larosiere</field>
-	<field name = "UNKNOWN">RM
-f0182
-reute
-u f BC-BRAZIL-FINANCE-MINIST   03-03 0101</field>
-	<field name = "TITLE">BRAZIL FINANCE MINISTER MEETS FRENCH OFFICIALS</field>
+	<field name = "titulo">BRAZIL FINANCE MINISTER MEETS FRENCH OFFICIALS</field>
 	<field name = "DATELINE">PARIS, March 3 -</field>
-	<field name = "BODY">Brazilian Finance Minister Dilson Funaro
+	<field name = "content">Brazilian Finance Minister Dilson Funaro
 held separate meetings with French Finance Minister Edouard
 Balladur and Bank of France Governor Jacques de Larosiere on
 the second stage of a European mission to explain his country's

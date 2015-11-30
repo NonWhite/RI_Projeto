@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 09:48:39.35</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0940reute
-u f BC-SPAIN'S-SOCIALIST-TRA   03-25 0101</field>
-	<field name = "TITLE">SPAIN'S SOCIALIST TRADE UNION PUSHES FOR WAGE HIKE</field>
+	<field name = "titulo">SPAIN'S SOCIALIST TRADE UNION PUSHES FOR WAGE HIKE</field>
 	<field name = "DATELINE">MADRID, March 25 -</field>
-	<field name = "BODY">Spain's General Union of Workers (UGT),
+	<field name = "content">Spain's General Union of Workers (UGT),
 the trade union arm of the Socialist party, will keep pressing
 for salary rises of seven pct despite government
 recommendations for a five pct ceiling, a UGT spokesman said.

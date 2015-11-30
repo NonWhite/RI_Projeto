@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 17:03:43.06</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0879reute
-u f BC-WARRINGTON-SELLS-SHOE   03-09 0109</field>
-	<field name = "TITLE">WARRINGTON SELLS SHOE DIVISIONS</field>
+	<field name = "titulo">WARRINGTON SELLS SHOE DIVISIONS</field>
 	<field name = "DATELINE">MONTREAL, March 9 -</field>
-	<field name = "BODY">(Warrington Inc) said it sold its shoe
+	<field name = "content">(Warrington Inc) said it sold its shoe
 divisions to Montreal-based (Taurus Footwear Inc) for
 undisclosed terms.
     The divisions manufacture and distribute Greb, Hush

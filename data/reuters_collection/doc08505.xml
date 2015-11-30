@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 16:17:13.90</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2355reute
-u f BC-IBM-IBM>-REBOUND-SEE   03-23 0101</field>
-	<field name = "TITLE">IBM IBM> REBOUND SEEN BY BERNSTEIN ANALYST</field>
+	<field name = "titulo">IBM IBM> REBOUND SEEN BY BERNSTEIN ANALYST</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">International Business Machines Corp,
+	<field name = "content">International Business Machines Corp,
 hit by a two-year earnings slump, should begin a come-back by
 the end of 1987 and post strong growth in 1988, analyst Rick
 Martin of Sanford C. Bernstein Co Inc said.

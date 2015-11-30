@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 11:15:50.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1364reute
-r f BC-TEXTRON-TXT>-UNIT-ST   06-29 0089</field>
-	<field name = "TITLE">TEXTRON TXT> UNIT STRIKE ENDS</field>
+	<field name = "titulo">TEXTRON TXT> UNIT STRIKE ENDS</field>
 	<field name = "DATELINE">FORT WORTH, Texas, June 29 -</field>
-	<field name = "BODY">Textron Inc unit Bell
+	<field name = "content">Textron Inc unit Bell
 Helicopter Textron Inc said it and two United Auto Workers
 union locals agreed to a new three-year contract, ending a
 three week strike.

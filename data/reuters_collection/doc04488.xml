@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 15:50:00.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0365reute
-r f BC-FORMER-MERRILL-LYNCH   03-12 0109</field>
-	<field name = "TITLE">FORMER MERRILL LYNCH MER> EMPLOYEE CHARGED</field>
+	<field name = "titulo">FORMER MERRILL LYNCH MER> EMPLOYEE CHARGED</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">A former account executive and
+	<field name = "content">A former account executive and
 registered representative at Merrill Lynch Co Inc was charged
 by a federal grand jury with diverting 8,400 dlrs of the
 company's funds for his own use, according to court papers.

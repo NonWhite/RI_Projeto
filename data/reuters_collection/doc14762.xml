@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 19:00:01.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2676reute
-u f AM-DEFENSE   04-07 0126</field>
-	<field name = "TITLE">HOUSE COMMITTEE SLASHES "STAR WARS" FUNDING</field>
+	<field name = "titulo">HOUSE COMMITTEE SLASHES "STAR WARS" FUNDING</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">The House Armed Services Committee
+	<field name = "content">The House Armed Services Committee
 slashed President Reagan's funding request for the Strategic
 Defense Initiative (SDI), approving 1.7 billion dlrs less than
 he had proposed for the anti-missile program.

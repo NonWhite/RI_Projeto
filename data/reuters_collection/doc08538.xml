@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 17:14:31.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2506reute
-r f BC-FEDERAL-PAPER-BOARD-   03-23 0111</field>
-	<field name = "TITLE">FEDERAL PAPER BOARD FBP> UPGRADED BY MOODY'S</field>
+	<field name = "titulo">FEDERAL PAPER BOARD FBP> UPGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 upgraded Federal Paper Board Co Inc's 290 mln dlrs of debt.
     Raised were the company's senior debt to Ba-1 from Ba-2 and
 subordinated debt to Ba-3 from B-1. Moody's assigned a Ba-3

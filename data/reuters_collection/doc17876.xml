@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 22:58:42.05</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">RM AI
-f2903reute
-u f BC-VENEZUELA-TIGHTENS-FO   06-01 0096</field>
-	<field name = "TITLE">VENEZUELA TIGHTENS FOREIGN EXCHANGE RESTRICTIONS</field>
+	<field name = "titulo">VENEZUELA TIGHTENS FOREIGN EXCHANGE RESTRICTIONS</field>
 	<field name = "DATELINE">PANAMA CITY, June 1 -</field>
-	<field name = "BODY">Venezuela's central bank has ordered
+	<field name = "content">Venezuela's central bank has ordered
 Venezuelan banks and exchange houses to cease foreign exchange
 operations with brokers based outside the country, according to
 a copy of a central bank telex made available to Reuters.

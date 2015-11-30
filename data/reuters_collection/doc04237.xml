@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 10:19:55.90</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">pakistan</field>
-	<field name = "UNKNOWN">RM
-f0144reute
-r f BC-PAKISTAN'S-TRADE-DEFI   03-12 0100</field>
-	<field name = "TITLE">PAKISTAN'S TRADE DEFICIT NARROWS IN FEBRUARY</field>
+	<field name = "titulo">PAKISTAN'S TRADE DEFICIT NARROWS IN FEBRUARY</field>
 	<field name = "DATELINE">KARACHI, March 12 -</field>
-	<field name = "BODY">Pakistan's trade deficit narrowed to
+	<field name = "content">Pakistan's trade deficit narrowed to
 2.64 billion rupees (provisional) in February 1987 from 2.85
 billion (final) in January and compared with 2.94 billion in
 February 1986, the Federal Bureau of Statistics figures show.

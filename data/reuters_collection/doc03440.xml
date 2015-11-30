@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0109reute
-u f BC-SOVIET-ECONOMIST-SEES   03-11 0107</field>
-	<field name = "TITLE">SOVIET ECONOMIST SEES FEW 1987 GAINS IN U.S. TRADE</field>
+	<field name = "titulo">SOVIET ECONOMIST SEES FEW 1987 GAINS IN U.S. TRADE</field>
 	<field name = "DATELINE">NEW YORK, March 10 -</field>
-	<field name = "BODY">There is little chance Soviet exports
+	<field name = "content">There is little chance Soviet exports
 to the United States will rise in 1987, but Moscow's current
 trade reforms should result in more trade in manufactured goods
 in future, a Soviet economist said.

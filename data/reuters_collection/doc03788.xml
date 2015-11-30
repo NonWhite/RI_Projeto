@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 12:58:59.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0969reute
-r f BC-IC-INDUSTRIES-ICX>-T   03-11 0109</field>
-	<field name = "TITLE">IC INDUSTRIES ICX> TO REDEEM SECURITIES</field>
+	<field name = "titulo">IC INDUSTRIES ICX> TO REDEEM SECURITIES</field>
 	<field name = "DATELINE">CHICAGO, March 11 -</field>
-	<field name = "BODY">IC Industries Inc called for redemption
+	<field name = "content">IC Industries Inc called for redemption
 113.6 mln dlrs worth of securities.
     IC said it will redeem 69 mln dlrs in 14 pct guaranteed
 notes, seven pct Swiss Franc notes of Abex International worth

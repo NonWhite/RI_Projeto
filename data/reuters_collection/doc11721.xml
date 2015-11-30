@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 17:18:03.32</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2760reute
-d f BC-INNOVEX-INVX>-COMPLE   03-31 0106</field>
-	<field name = "TITLE">INNOVEX INVX> COMPLETES PURCHASE OF LUCHT</field>
+	<field name = "titulo">INNOVEX INVX> COMPLETES PURCHASE OF LUCHT</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 31 -</field>
-	<field name = "BODY">Innovex  Inc said it has completed
+	<field name = "content">Innovex  Inc said it has completed
 the purchase of substantially of the interest in Lucht
 Engineering Inc that it did not already own.
     Prior to this move Innovex owned 79 pct of Lucht, the

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 12:14:05.07</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f1862reute
-u f BC-CORBY-DISTILLERIES-(C   10-19 0119</field>
-	<field name = "TITLE">CORBY DISTILLERIES CDL.TO> TO BUY HEUBLEIN UNIT</field>
+	<field name = "titulo">CORBY DISTILLERIES CDL.TO> TO BUY HEUBLEIN UNIT</field>
 	<field name = "DATELINE">MONTREAL, Oct 19 -</field>
-	<field name = "BODY">Corby Distilleries Ltd said it has
+	<field name = "content">Corby Distilleries Ltd said it has
 agreed to buy Toronto-based McGuinness Distillers Ltd from
 Heublein Inc for about 45 mln dlrs in a move which Corby
 expects to add significantly to domestic earnings.

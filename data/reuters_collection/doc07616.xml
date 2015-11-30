@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 08:25:22.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0641reute
-r f BC-WYERHAEUSER-WY>-FILE   03-20 0083</field>
-	<field name = "TITLE">WYERHAEUSER WY> FILES TO OFFER PREFERENCE STOCK</field>
+	<field name = "titulo">WYERHAEUSER WY> FILES TO OFFER PREFERENCE STOCK</field>
 	<field name = "DATELINE">TACOMA, Wash., March 20 -</field>
-	<field name = "BODY">Weyerhaeuser Co said it has filed
+	<field name = "content">Weyerhaeuser Co said it has filed
 for an offering of four mln shares of convertible exchangeable
 preference shares through underwriter Morgan Stanley Group Inc
 MS>.

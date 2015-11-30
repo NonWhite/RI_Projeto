@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 17:10:29.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0903reute
-r f BC-PIEDMONT-PIE>-PREFER   03-09 0115</field>
-	<field name = "TITLE">PIEDMONT PIE> PREFERRED MAY BE CUT BY S/P</field>
+	<field name = "titulo">PIEDMONT PIE> PREFERRED MAY BE CUT BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it may
+	<field name = "content">Standard and Poor's Corp said it may
 cut Piedmont Aviation Inc's BBB-minus preferred stock because
 of USAir Group Inc's U> proposed acquisition of the airline.
     While the combination would strengthen both airlines'

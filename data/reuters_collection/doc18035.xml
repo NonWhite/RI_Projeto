@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 10:51:16.67</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1255reute
-u f BC-JONES-AND-VINING-JNS   06-02 0031</field>
-	<field name = "TITLE">JONES AND VINING JNSV.O> STARTS BID FOR SHARES</field>
+	<field name = "titulo">JONES AND VINING JNSV.O> STARTS BID FOR SHARES</field>
 	<field name = "DATELINE">BRAINTREE, Mass., June 2 -</field>
-	<field name = "BODY">Jones and Vining Inc said it has
+	<field name = "content">Jones and Vining Inc said it has
 started a tender offer for all of its own shares at five dlrs
 per share. 
     The company said it will hold a special meeting on July 10

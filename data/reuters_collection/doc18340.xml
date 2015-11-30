@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 18:43:51.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2887reute
-u f BC-FCC-GRANTS-LICENSE,-C   06-02 0108</field>
-	<field name = "TITLE">FCC GRANTS LICENSE, CLEARS WAY FOR SALE</field>
+	<field name = "titulo">FCC GRANTS LICENSE, CLEARS WAY FOR SALE</field>
 	<field name = "DATELINE">LOS ANGELES, June 2 -</field>
-	<field name = "BODY">Spanish International Communications
+	<field name = "content">Spanish International Communications
 Corp said the Federal Communications Corp granted the license
 renewal of five of its stations, clearing the way for the sale
 of the company to Hallmark Cards Inc>.

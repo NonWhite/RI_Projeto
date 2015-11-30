@@ -6,12 +6,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0033reute
-d f BC-FIVE-GROUPS-APPLY-TO   03-05 0118</field>
-	<field name = "TITLE">FIVE GROUPS APPLY TO BUY FRENCH TELEPHONE GROUP</field>
+	<field name = "titulo">FIVE GROUPS APPLY TO BUY FRENCH TELEPHONE GROUP</field>
 	<field name = "DATELINE">PARIS, March 5 -</field>
-	<field name = "BODY">Five consortia have applied to buy the
+	<field name = "content">Five consortia have applied to buy the
 French state-owned telephone equipment manufacturer Cie
 Generale de Constructions Telephoniques (CGCT)>, which will
 give the owners control of 16 pct of the French telephone

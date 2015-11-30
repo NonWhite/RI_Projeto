@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F E Y
-f0897reute
-u f BC-SOLV-EX-SOLV>-SHELL   03-12 0096</field>
-	<field name = "TITLE">SOLV-EX SOLV> SHELL CANADA SHC> PACT COMPLETE</field>
+	<field name = "titulo">SOLV-EX SOLV> SHELL CANADA SHC> PACT COMPLETE</field>
 	<field name = "DATELINE">ALBUQUERQUE, N.M., March 12 -</field>
-	<field name = "BODY">Solv-Ex Corp said it
+	<field name = "content">Solv-Ex Corp said it
 successfully completed its oil sands pilot testing program
 under its agreement with Shell Canada Limited SHC> and
 received a 250,000 U.S. dlr bonus payment.

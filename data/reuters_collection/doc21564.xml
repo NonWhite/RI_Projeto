@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">new-zealand</field>
 	<field name = "PLACES">fiji</field>
-	<field name = "UNKNOWN">RM V 
-f0101reute
-u f BC-NEW-ZEALAND-IMPOSES-S   10-19 0110</field>
-	<field name = "TITLE">NEW ZEALAND IMPOSES SANCTIONS AGAINST FIJI</field>
+	<field name = "titulo">NEW ZEALAND IMPOSES SANCTIONS AGAINST FIJI</field>
 	<field name = "DATELINE">WELLINGTON, Oct 19 -</field>
-	<field name = "BODY">New Zealand has imposed sanctions
+	<field name = "content">New Zealand has imposed sanctions
 against Fiji in response to that country's change of status to
 a republic, acting prime minister Geoffrey Palmer said.
     The sanctions will end all military cooperation and cut

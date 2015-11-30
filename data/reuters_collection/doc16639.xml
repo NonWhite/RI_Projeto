@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 15:44:30.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM E
-f2434reute
-r f BC-MOODY'S-MAY-DOWNGRADE   04-13 0107</field>
-	<field name = "TITLE">MOODY'S MAY DOWNGRADE TRANSCANADA PIPELINE TRP></field>
+	<field name = "titulo">MOODY'S MAY DOWNGRADE TRANSCANADA PIPELINE TRP></field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 may downgrade 500 mln dlrs of Eurodebt of TransCanada Pipelines
 Ltd.
     The agency cited TransCanada's 4.3 billion Can dlr offer

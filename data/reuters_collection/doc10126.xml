@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 15:45:37.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2428reute
-d f BC-IMS-INTERNATIONAL-SPI   03-26 0103</field>
-	<field name = "TITLE">IMS INTERNATIONAL SPINS-OFF UNIT IN OFFERING</field>
+	<field name = "titulo">IMS INTERNATIONAL SPINS-OFF UNIT IN OFFERING</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">IMS International Inc> said its
+	<field name = "content">IMS International Inc> said its
 Applied Bioscience International Inc APBI> unit is making an
 initial public offering of three mln shares of common stock at
 15 dlrs a share.

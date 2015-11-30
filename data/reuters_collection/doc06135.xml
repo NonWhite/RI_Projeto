@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 13:33:51.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5991reute
-d f BC-ENDATA-DATA>-TERMINA   03-17 0104</field>
-	<field name = "TITLE">ENDATA DATA> TERMINATES WORK ON CONTRACT</field>
+	<field name = "titulo">ENDATA DATA> TERMINATES WORK ON CONTRACT</field>
 	<field name = "DATELINE">NASHVILLE, Tenn., March 17 -</field>
-	<field name = "BODY">Endata Inc said it terminated
+	<field name = "content">Endata Inc said it terminated
 development work on a previously announced contract with
 Educational Testing Services>.
     Endata said that under terms of the contract Educational

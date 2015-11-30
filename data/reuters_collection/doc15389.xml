@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 05:18:19.84</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">F
-f0266reute
-u f BC-SOUTH-KOREA-SIGNS-CON   04-09 0105</field>
-	<field name = "TITLE">SOUTH KOREA SIGNS CONTRACTS FOR TWO NUCLEAR PLANTS</field>
+	<field name = "titulo">SOUTH KOREA SIGNS CONTRACTS FOR TWO NUCLEAR PLANTS</field>
 	<field name = "DATELINE">SEOUL, April 9 -</field>
-	<field name = "BODY">State-owned Korea Electric Power Corp
+	<field name = "content">State-owned Korea Electric Power Corp
 (KEPCO) has signed contracts with three U.S. Firms to supply
 equipment and services for its tenth and eleventh nuclear power
 plants, a KEPCO spokesman said.

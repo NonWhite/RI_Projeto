@@ -3,12 +3,9 @@
 	<field name = "PLACES">ivory-coast</field>
 	<field name = "PEOPLE">camdessus</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM 
-f0355reute
-r f BC-IMF-MANAGING-DIRECTOR   06-29 0110</field>
-	<field name = "TITLE">IMF MANAGING DIRECTOR HOLDS TALKS IN IVORY COAST</field>
+	<field name = "titulo">IMF MANAGING DIRECTOR HOLDS TALKS IN IVORY COAST</field>
 	<field name = "DATELINE">ABIDJAN, June 29 -</field>
-	<field name = "BODY">IMF Managing Director Michel Camdessus
+	<field name = "content">IMF Managing Director Michel Camdessus
 paid a brief weekend visit to the Ivory Coast during which he
 discussed the country's economic difficulties with President
 Felix Houphouet-Boigny.

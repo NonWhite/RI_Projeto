@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:27:37.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4231reute
-d f BC-HADRON-HDRN.O>-GETS   06-18 0046</field>
-	<field name = "TITLE">HADRON HDRN.O> GETS MARTIN MARIETTA ML> PACT</field>
+	<field name = "titulo">HADRON HDRN.O> GETS MARTIN MARIETTA ML> PACT</field>
 	<field name = "DATELINE">FAIRFAX, Va., June 18 -</field>
-	<field name = "BODY">Hadron Inc said it has received a
+	<field name = "content">Hadron Inc said it has received a
 two mln dlr two-year contract from Martin Marietta Corp for
 information and logistical support services to be provided for
 the U.S. Navy's electronic warfare programs.

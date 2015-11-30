@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1270reute
-u f BC-PHILIPS-PLANS-MEDICAL   04-24 0100</field>
-	<field name = "TITLE">PHILIPS PLANS MEDICAL JOINT VENTURE WITH GEC</field>
+	<field name = "titulo">PHILIPS PLANS MEDICAL JOINT VENTURE WITH GEC</field>
 	<field name = "DATELINE">EINDHOVEN, Netherlands, April 24 -</field>
-	<field name = "BODY">NV Philips
+	<field name = "content">NV Philips
 Gloeilampenfabrieken PGLO.AS> and General Electric Co Plc
 GEC.L> are planning a 50-50 joint venture in the medical
 equipment field, Philips announced.

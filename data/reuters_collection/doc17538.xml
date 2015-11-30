@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:18:32.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1084reute
-d f BC-WOODSTREAM-WOD>-SEES   06-01 0072</field>
-	<field name = "TITLE">WOODSTREAM WOD> SEES SECOND QUARTER LOSS</field>
+	<field name = "titulo">WOODSTREAM WOD> SEES SECOND QUARTER LOSS</field>
 	<field name = "DATELINE">LITITZ, Pa., June 1 -</field>
-	<field name = "BODY">Woodstream Corp said it expects a
+	<field name = "content">Woodstream Corp said it expects a
 second quarter loss on sales below those of a year earlier.
     In last year's second quarter, Woodstream earned 349,000
 dlrs on sales of 13.1 mln dlrs.

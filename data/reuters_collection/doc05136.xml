@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 19:18:46.31</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">V RM
-f0750reute
-b f AM-ECUADOR '''  03-13 0085</field>
-	<field name = "TITLE">ECUADOR SUSPENDS PAYMENTS TO PRIVATE BANKS</field>
+	<field name = "titulo">ECUADOR SUSPENDS PAYMENTS TO PRIVATE BANKS</field>
 	<field name = "DATELINE">QUITO, March 13 -</field>
-	<field name = "BODY">Ecuadorean President Leon Febres Cordero
+	<field name = "content">Ecuadorean President Leon Febres Cordero
 said his country was unilaterally suspending payments to
 private foreign banks due to last week's earthquake which
 caused up to one billion dollars in damage.

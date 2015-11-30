@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 09:46:25.05</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0928reute
-r f BC-belmoral   04-03 0103</field>
-	<field name = "TITLE">BELMORAL MINES TO ISSUE 24.9 MLN DLRS STOCK</field>
+	<field name = "titulo">BELMORAL MINES TO ISSUE 24.9 MLN DLRS STOCK</field>
 	<field name = "DATELINE">TORONTO, April 3 -</field>
-	<field name = "BODY">Belmoral Mines Ltd> said it agreed to
+	<field name = "content">Belmoral Mines Ltd> said it agreed to
 sell 5,250,000 common shares and 2,625,000 purchase warrants
 for 24.9 mln dlrs to McCarthy Securities Ltd for private
 placements to European and Canadian investors.

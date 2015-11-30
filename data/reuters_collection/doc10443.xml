@@ -1,14 +1,12 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:35:33.86C G</field>
-	<field name = "UNKNOWN">f1046reute</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">algeria</field>
-	<field name = "UNKNOWN">u f BC-/CCC-ACCEPTS-BIDS-ON   03-27 0107</field>
-	<field name = "TITLE">CCC ACCEPTS BIDS ON BONUS WHEAT TO ALGERIA-USDA</field>
+	<field name = "titulo">CCC ACCEPTS BIDS ON BONUS WHEAT TO ALGERIA-USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 27 -</field>
-	<field name = "BODY">The Commodity Credit Corporation,
+	<field name = "content">The Commodity Credit Corporation,
 CCC, has accepted bids for export bonuses on 36,000 tonnes of
 durum wheat to Algeria, the U.S. Agriculture Department said.
     The department said the bonuses awarded averaged 40.42 dlrs

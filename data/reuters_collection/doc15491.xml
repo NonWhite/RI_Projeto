@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:11:13.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0769reute
-r f BC-BURLINGTON-INDUSTRIES   04-09 0110</field>
-	<field name = "TITLE">BURLINGTON INDUSTRIES BUR> SELLS CONVERTIBLES</field>
+	<field name = "titulo">BURLINGTON INDUSTRIES BUR> SELLS CONVERTIBLES</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Burlington Industries Inc is raising 75
+	<field name = "content">Burlington Industries Inc is raising 75
 mln dlrs through an offering of convertible subordinated
 debentures due 2012 with a 6-1/4 pct coupon and par pricing,
 said lead manager Kidder, Peabody and Co Inc.

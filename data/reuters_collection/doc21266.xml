@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 12:08:43.13</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y 
-f1825reute
-u f BC-USX-X>-UNIT-HIKES-CR   10-19 0100</field>
-	<field name = "TITLE">USX X> UNIT HIKES CRUDE OIL POSTED PRICES</field>
+	<field name = "titulo">USX X> UNIT HIKES CRUDE OIL POSTED PRICES</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Marathon Petroleum Company, a subsidiary
+	<field name = "content">Marathon Petroleum Company, a subsidiary
 of USX Corp, said it lowered posted prices for crude oil by 50
 cts with an effective date of October 16.
     The increase brings posted prices for West Texas

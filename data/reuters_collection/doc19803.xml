@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 14:01:58.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2048reute
-r f BC-CONTROL-DATA-CDA>-GE   06-29 0094</field>
-	<field name = "TITLE">CONTROL DATA CDA> GETS 13.7 MLN DLR CONTRACT</field>
+	<field name = "titulo">CONTROL DATA CDA> GETS 13.7 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">MINNEAPOLIS, June 29 -</field>
-	<field name = "BODY">Control Data Corp said the
+	<field name = "content">Control Data Corp said the
 Aeronautical Systems Division of the U.S. Air Force awarded it
 a 13.7 mln dlr contract to provide a Central Datacomm System.
     It said the system will act as the central interface

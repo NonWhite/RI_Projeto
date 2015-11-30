@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 12:13:38.79</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">A
-f0017reute
-h f BC-BBL-SHAREHOLDERS-AUTH   03-03 0104</field>
-	<field name = "TITLE">BBL SHAREHOLDERS AUTHORISE CAPITAL RAISE</field>
+	<field name = "titulo">BBL SHAREHOLDERS AUTHORISE CAPITAL RAISE</field>
 	<field name = "DATELINE">BRUSSELS, March 3 -</field>
-	<field name = "BODY">Shareholders in Banque Bruxelles
+	<field name = "content">Shareholders in Banque Bruxelles
 Lambert BBLB.B>, BBL, authorised the bank to increase capital
 by five billion francs to 20 billion in the next five years, a
 bank spokesman said.

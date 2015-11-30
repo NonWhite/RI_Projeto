@@ -4,12 +4,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T
-f2271reute
-r f AM-COMMUNITY-FARM 1STLD  03-31 0133</field>
-	<field name = "TITLE">DUTCH MINISTER ATTACKS W. GERMAN FARM POSITION</field>
+	<field name = "titulo">DUTCH MINISTER ATTACKS W. GERMAN FARM POSITION</field>
 	<field name = "DATELINE">BRUSSELS, March 31 -</field>
-	<field name = "BODY">Dutch Agriculture Minister Gerrit
+	<field name = "content">Dutch Agriculture Minister Gerrit
 Braks said today the Netherlands deeply regretted West German
 opposition to radical reforms aimed at halting unwanted
 European Community (EC) food production.

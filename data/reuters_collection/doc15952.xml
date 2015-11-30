@@ -5,12 +5,9 @@
 	<field name = "TOPICS">soy-meal</field>
 	<field name = "TOPICS">meal-feed</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2510reute
-b f BC-nspa-weekly-crush   04-09 0111</field>
-	<field name = "TITLE">U.S. WEEKLY SOYBEAN CRUSH 19,416,000 BUSHELS</field>
+	<field name = "titulo">U.S. WEEKLY SOYBEAN CRUSH 19,416,000 BUSHELS</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Reporting members of the National
+	<field name = "content">Reporting members of the National
 Soybean Processors Association (NSPA) crushed 19,416,000
 bushels of soybeans in the week ended April 8 compared with
 20,115,000 bushels in the previous week and 17,160,000 in the

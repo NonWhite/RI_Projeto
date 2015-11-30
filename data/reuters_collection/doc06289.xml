@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 16:40:37.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6576reute
-r f BC-FIRSTCORP-FCR>-INCRE   03-17 0075</field>
-	<field name = "TITLE">FIRSTCORP FCR> INCREASES REPURCHASE PROGRAM</field>
+	<field name = "titulo">FIRSTCORP FCR> INCREASES REPURCHASE PROGRAM</field>
 	<field name = "DATELINE">RALEIGH, N.C., March 17 -</field>
-	<field name = "BODY">Firstcorp Inc said its board has
+	<field name = "content">Firstcorp Inc said its board has
 increased the maximum number of Class A shares in its
 repurchase program to 250,000 from 200,000 shares.
     The program was first adopted in June 1986 and provided for

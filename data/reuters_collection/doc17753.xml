@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 15:12:30.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2232reute
-r f BC-FDIC-CHIEF-SAYS-MORE   06-01 0086</field>
-	<field name = "TITLE">FDIC CHIEF SAYS MORE BANKS WILL BUILD RESERVES</field>
+	<field name = "titulo">FDIC CHIEF SAYS MORE BANKS WILL BUILD RESERVES</field>
 	<field name = "DATELINE">SAN FRANCISCO, June 1 -</field>
-	<field name = "BODY">Federal Deposit Insurance Corp
+	<field name = "content">Federal Deposit Insurance Corp
 Chairman L. William Seidman told a bankers' meeting he thinks
 more banks will follow Citicorp CCI> and Chase Manhattan CMB>
 in building up their reserves to meet Latin American debt

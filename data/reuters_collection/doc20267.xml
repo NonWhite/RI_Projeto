@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 10:46:33.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1385reute
-r f BC-COMMODORE-CBU>-RENEW   10-20 0091</field>
-	<field name = "TITLE">COMMODORE CBU> RENEWS MAJOR CREDIT FACILITIES.</field>
+	<field name = "titulo">COMMODORE CBU> RENEWS MAJOR CREDIT FACILITIES.</field>
 	<field name = "DATELINE">WEST CHESTER, Pa., Oct 20 -</field>
-	<field name = "BODY">Commodore International Ltd
+	<field name = "content">Commodore International Ltd
 said it agreed with its major lending banks to renew the
 company's credit agreement of about 79 mln dlrs.
     In fiscal 1987, ended June 30, Commodore said it repaid

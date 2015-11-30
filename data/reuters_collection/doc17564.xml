@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:50:45.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1238reute
-u f BC-THOMPSON-MEDICAL-TM>   06-01 0060</field>
-	<field name = "TITLE">THOMPSON MEDICAL TM> TENDER OVERSUBSCRIBED</field>
+	<field name = "titulo">THOMPSON MEDICAL TM> TENDER OVERSUBSCRIBED</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Thompson Medical co Inc said it received
+	<field name = "content">Thompson Medical co Inc said it received
 about 1,290,000 of its common shares in response to its tender
 offer for up to one mln at 20 dlrs each, and as a result the
 proration percentage is expected to be about 77.5 pct.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 17:07:26.22</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">C G L M T
-f0890reute
-d f AM-ecuador-tremor   03-09 0130</field>
-	<field name = "TITLE">ECUADOR QUAKE CAUSES 950 MLN DLRS IN LOSSES</field>
+	<field name = "titulo">ECUADOR QUAKE CAUSES 950 MLN DLRS IN LOSSES</field>
 	<field name = "DATELINE">QUITO, March 9 -</field>
-	<field name = "BODY">Up to 300 people were feared dead and more
+	<field name = "content">Up to 300 people were feared dead and more
 than 15,000 were left homeless by Ecuador's earthquake whose
 economic cost is at least 950 mln dlrs in damages, authorities
 said.

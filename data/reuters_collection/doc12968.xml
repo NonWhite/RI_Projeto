@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
 	<field name = "EXCHANGES">nyce</field>
-	<field name = "UNKNOWN">F
-f1496reute
-r f BC-NEW-YORK-FUTURES-EXCH   04-03 0062</field>
-	<field name = "TITLE">NEW YORK FUTURES EXCHANGE TO RELOCATE</field>
+	<field name = "titulo">NEW YORK FUTURES EXCHANGE TO RELOCATE</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">Lewis Horowitz, president of the New
+	<field name = "content">Lewis Horowitz, president of the New
 York Futures Exchange, said the New York Stock Exchange board
 yesterday approved in principle an agreement to relocate the
 futures exchange at the New York Cotton Exchange.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:15:07.08</field>
-	<field name = "UNKNOWN">C T
-f2352reute
-u f BC-ny-oj-clsg-report   04-07 0131</field>
-	<field name = "TITLE">N.Y. FCOJ FUTURES CLOSE HIGHER</field>
+	<field name = "titulo">N.Y. FCOJ FUTURES CLOSE HIGHER</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Frozen concentrated orange juice
+	<field name = "content">Frozen concentrated orange juice
 futures closed 2.60 to 0.80 cents higher, though the market
 failed to hold early gains of as much as 4.40 cents in the July
 delivery. Estimated volume was 1,000 contracts.

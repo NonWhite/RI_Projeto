@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 10:56:17.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0411reute
-r f BC-SOUTHWEST-AIRLINES-CO   03-11 0109</field>
-	<field name = "TITLE">SOUTHWEST AIRLINES CO LUV> UNIT ADDS SERVICE</field>
+	<field name = "titulo">SOUTHWEST AIRLINES CO LUV> UNIT ADDS SERVICE</field>
 	<field name = "DATELINE">HOUSTON, March 11 -</field>
-	<field name = "BODY">Southwest Airlines Co's TranStar
+	<field name = "content">Southwest Airlines Co's TranStar
 Airlines said it will add new flights and increase service to
 several cities, including Los Angeles.
     TranStar said it will add a third daily nonstop April One

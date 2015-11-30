@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 10:52:21.16</field>
 	<field name = "PLACES">bahrain</field>
-	<field name = "UNKNOWN">RM 
-f1426reute
-r f BC-BAHRAIN-OFFSHORE-BANK   10-20 0113</field>
-	<field name = "TITLE">BAHRAIN OFFSHORE BANKING ASSETS RISE IN 2ND QTR</field>
+	<field name = "titulo">BAHRAIN OFFSHORE BANKING ASSETS RISE IN 2ND QTR</field>
 	<field name = "DATELINE">BAHRAIN, Oct 20 -</field>
-	<field name = "BODY">Assets of Offshore Banking Units (OBUs)
+	<field name = "content">Assets of Offshore Banking Units (OBUs)
 in Bahrain rose 11 pct in the second quarter of 1987 to reach
 the highest level since early 1985, Bahrain Monetary Agency
 (BMA) figures show.

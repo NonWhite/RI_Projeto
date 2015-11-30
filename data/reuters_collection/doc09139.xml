@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 02:24:00.29</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0069reute
-b f BC-HU-YAOBANG-APPEARS-AT   03-25 0093</field>
-	<field name = "TITLE">HU YAOBANG APPEARS AT CHINA PARLIAMENTARY SESSION</field>
+	<field name = "titulo">HU YAOBANG APPEARS AT CHINA PARLIAMENTARY SESSION</field>
 	<field name = "DATELINE">PEKING, March 25 -</field>
-	<field name = "BODY">Former Chinese Communist Party chief Hu
+	<field name = "content">Former Chinese Communist Party chief Hu
 Yaobang attended a parliamentary session in his first public
 appearance since his dismissal in January.
     Hu took his place on the platform of the auditorium of

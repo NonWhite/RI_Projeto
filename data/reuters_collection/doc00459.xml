@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 10:45:08.29</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0765
-reute
-b f BC-BANK-OF-ENGLAND-ANNOU   03-02 0084</field>
-	<field name = "TITLE">BANK OF ENGLAND ANNOUNCES ONE BILLION STG TAP</field>
+	<field name = "titulo">BANK OF ENGLAND ANNOUNCES ONE BILLION STG TAP</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">The Bank of Enlgand said it was creating
+	<field name = "content">The Bank of Enlgand said it was creating
 and taking onto its own books a one stg tranche of the nine pct
 Exchequer stock due 2002.
     The issue is part paid with 20 stg pct payable on issue and

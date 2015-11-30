@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 03:13:36.35</field>
 	<field name = "PLACES">japan</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">RM
-f0193reute
-u f BC-CONVERTIBLE-YEN-BOND   03-12 0093</field>
-	<field name = "TITLE">CONVERTIBLE YEN BOND BROKERAGE FEE MAY BE CUT</field>
+	<field name = "titulo">CONVERTIBLE YEN BOND BROKERAGE FEE MAY BE CUT</field>
 	<field name = "DATELINE">TOKYO, March 12 -</field>
-	<field name = "BODY">The Tokyo Stock Exchange said in a
+	<field name = "content">The Tokyo Stock Exchange said in a
 statement it is considering reducing brokerage fees on yen
 convertible bonds.
     The cut would be in response to a planned increase in

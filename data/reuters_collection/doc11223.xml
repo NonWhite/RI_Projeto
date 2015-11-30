@@ -18,12 +18,9 @@
 	<field name = "ORGS">icco</field>
 	<field name = "ORGS">ico-coffee</field>
 	<field name = "ORGS">unctad</field>
-	<field name = "UNKNOWN">RM
-f0488reute
-u f BC-COMMODITY-PACTS-MORE   03-31 0113</field>
-	<field name = "TITLE">COMMODITY PACTS MORE ORIENTED TOWARDS MARKET</field>
+	<field name = "titulo">COMMODITY PACTS MORE ORIENTED TOWARDS MARKET</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">Consuming countries, chastened by the
+	<field name = "content">Consuming countries, chastened by the
 collapse of International Tin Council (ITC) price support
 operations in 1985, are insisting more than ever before that
 commodity pacts reflect the reality of the markets they are

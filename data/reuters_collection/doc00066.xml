@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 16:08:15.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0948
-reute
-w f BC-SPRINGBOARD-SPBD>-IN   02-26 0064</field>
-	<field name = "TITLE">SPRINGBOARD SPBD> IN DEAL</field>
+	<field name = "titulo">SPRINGBOARD SPBD> IN DEAL</field>
 	<field name = "DATELINE">MINNEAPOLIS, Feb 26 -</field>
-	<field name = "BODY">Springboard Software INc said it
+	<field name = "content">Springboard Software INc said it
 signed a contract under which International Technology
 Development Corp will provide software designers, programmers,
 project supervisors and technical support personnel to

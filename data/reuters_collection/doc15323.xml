@@ -3,12 +3,9 @@
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">F A RM
-f2556reute
-u f BC-SOUTHEAST-BANCORP   04-08 0115</field>
-	<field name = "TITLE">SOUTHEAST BANCORP STB> ACTS ON BRAZILIAN DEBT</field>
+	<field name = "titulo">SOUTHEAST BANCORP STB> ACTS ON BRAZILIAN DEBT</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">Following the lead of other major
+	<field name = "content">Following the lead of other major
 banks, Southeast Banking Corp told the Securities and Exchange
 Commission it would place 54.2 mln dlrs of medium- and
 long-term Brazilian debt on non-accrual or cash status.

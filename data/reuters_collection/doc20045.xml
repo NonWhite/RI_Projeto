@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 05:17:40.79</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">F 
-f0331reute
-u f BC-THAI-STOCKS-PLUNGE-IN   10-20 0091</field>
-	<field name = "TITLE">THAI STOCKS PLUNGE IN REACTION TO WORLDWIDE TREND</field>
+	<field name = "titulo">THAI STOCKS PLUNGE IN REACTION TO WORLDWIDE TREND</field>
 	<field name = "AUTHOR">By Vithoon Amorn</field>
 	<field name = "DATELINE">BANGKOK, Oct 20 -</field>
-	<field name = "BODY">Thai stock prices plunged on Tuesday as
+	<field name = "content">Thai stock prices plunged on Tuesday as
 nervous investors unloaded shares on reports of steep declines
 on major world stock markets.
     Brokers said the Securities Exchange of Thailand Index fell

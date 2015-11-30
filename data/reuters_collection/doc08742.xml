@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 09:52:26.76</field>
 	<field name = "PLACES">hungary</field>
-	<field name = "UNKNOWN">RM
-f0973reute
-r f BC-HUNGARY-DETAILS-TAX-R   03-24 0112</field>
-	<field name = "TITLE">HUNGARY DETAILS TAX REFORMS FOR 1988</field>
+	<field name = "titulo">HUNGARY DETAILS TAX REFORMS FOR 1988</field>
 	<field name = "DATELINE">BUDAPEST, March 24 -</field>
-	<field name = "BODY">Value added tax (VAT) and personal
+	<field name = "content">Value added tax (VAT) and personal
 income tax are to be introduced next year, alongside price
 reform and a modified wage system, the official Hungarian news
 agency MTI said in its Weekly Bulletin.

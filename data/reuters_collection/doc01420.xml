@@ -4,12 +4,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0147reute
-d f BC-SWAP-DEALERS-UNVEIL-S   03-04 0109</field>
-	<field name = "TITLE">SWAP DEALERS UNVEIL STANDARD CONTRACT</field>
+	<field name = "titulo">SWAP DEALERS UNVEIL STANDARD CONTRACT</field>
 	<field name = "DATELINE">London, March 4 -</field>
-	<field name = "BODY">The International Swap Dealers
+	<field name = "content">The International Swap Dealers
 Association has developed the first standard form contract for
 use by arrangers of currency and interest rate swap
 transactions, said Thomas Jasper, the Association's

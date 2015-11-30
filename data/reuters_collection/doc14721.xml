@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">morocco</field>
-	<field name = "UNKNOWN">C G
-f2588reute
-u f BC-MOROCCO-TENDERS-THURS   04-07 0063</field>
-	<field name = "TITLE">MOROCCO TENDERS THURSDAY FOR PL 480 WHEAT</field>
+	<field name = "titulo">MOROCCO TENDERS THURSDAY FOR PL 480 WHEAT</field>
 	<field name = "DATELINE">KANSAS CITY, April 7 -</field>
-	<field name = "BODY">Morocco will tender Thursday for
+	<field name = "content">Morocco will tender Thursday for
 120,000 to 210,000 tonnes of U.S. wheat, cheapest variety
 preferred, for May and June shipments under PL 480, private
 export sources said.

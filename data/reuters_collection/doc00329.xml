@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 06:50:18.66</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0018
-reute
-b f BC-U.K.-CONFIRMS-JANUARY   03-02 0091</field>
-	<field name = "TITLE">U.K. CONFIRMS JANUARY STERLING M3 RISE</field>
+	<field name = "titulo">U.K. CONFIRMS JANUARY STERLING M3 RISE</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">The Bank of England said the broad
+	<field name = "content">The Bank of England said the broad
 measure of U.K. Money supply, Sterling M3, rose a seasonally
 adjusted 1.1 pct in January after a 0.2 pct rise in December.
     The unadjusted year-on-year rise was 17.6 pct after 18.1

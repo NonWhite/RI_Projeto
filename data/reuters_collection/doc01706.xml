@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 14:24:00.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0392reute
-h f BC-MCA-MCA>-NAMES-SPIEL   03-04 0108</field>
-	<field name = "TITLE">MCA MCA> NAMES SPIELBERG CREATIVE CONSULTANT</field>
+	<field name = "titulo">MCA MCA> NAMES SPIELBERG CREATIVE CONSULTANT</field>
 	<field name = "DATELINE">UNIVERSAL CITY, Calif., March 4 -</field>
-	<field name = "BODY">MCA Inc said noted film
+	<field name = "content">MCA Inc said noted film
 maker Steven Spielberg will serve as creative consultant for
 Universal Studios Tour Florida.
     The tour is a joint venture between MCA and Cineplex Odeon

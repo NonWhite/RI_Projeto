@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">congo</field>
-	<field name = "UNKNOWN">Y
-f1286reute
-u f BC-DU-PONT'S-DD>-CONOCO   04-21 0118</field>
-	<field name = "TITLE">DU PONT'S DD> CONOCO FINDS OIL OFFSHORE CONGO</field>
+	<field name = "titulo">DU PONT'S DD> CONOCO FINDS OIL OFFSHORE CONGO</field>
 	<field name = "DATELINE">HOUSTON, April 21 -</field>
-	<field name = "BODY">Du Pont Co's Conoco Inc said the Viodo
+	<field name = "content">Du Pont Co's Conoco Inc said the Viodo
 Marine Number one exploratory well offshore the People's
 Republic of the Congo produced up to 1,135 barrels of 26.55
 degree gravity oil daily in tests through a 3/4 inch choke.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:48:02.22</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0791reute
-r f BC-carling-o'keefe-to   03-03 0088</field>
-	<field name = "TITLE">CARLING O'KEEFE CKB> TO RETAIN FOOTBALL CLUB</field>
+	<field name = "titulo">CARLING O'KEEFE CKB> TO RETAIN FOOTBALL CLUB</field>
 	<field name = "DATELINE">TORONTO, March 3 -</field>
-	<field name = "BODY">Carling O'Keefe Ltd said the board
+	<field name = "content">Carling O'Keefe Ltd said the board
 decided to retain ownership of its Toronto Argonaut Football
 Club, after considering offers to acquire the team.
     The company said it received a number of expressions of

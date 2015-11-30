@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:45:56.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2769reute
-s f BC-VEECO-INSTRUMENTS-INC   10-20 0024</field>
-	<field name = "TITLE">VEECO INSTRUMENTS INC VEE> SETS QUARTERLY</field>
+	<field name = "titulo">VEECO INSTRUMENTS INC VEE> SETS QUARTERLY</field>
 	<field name = "DATELINE">MELVILLE, N.Y., Oct 20 -</field>
-	<field name = "BODY">Qtly div five cts vs five cts prior
+	<field name = "content">Qtly div five cts vs five cts prior
     Pay Nov 19
     Record Nov Five
  Reuter</field>

@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 11:41:56.31</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G L M T
-f0050
-reute
-u f BC-ROTTERDAM-PORT-UNION   03-02 0091</field>
-	<field name = "TITLE">ROTTERDAM PORT UNION AND EMPLOYERS TO MEET</field>
+	<field name = "titulo">ROTTERDAM PORT UNION AND EMPLOYERS TO MEET</field>
 	<field name = "DATELINE">ROTTERDAM, March 2 -</field>
-	<field name = "BODY">Dutch port and transport union, FNV,
+	<field name = "content">Dutch port and transport union, FNV,
 agreed to an employers' request to reconvene abandoned peace
 talks tonight to try to end strikes that have disrupted
 Rotterdam's general cargo sector for the past six weeks, a

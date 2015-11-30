@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 05:00:15.68</field>
 	<field name = "TOPICS">fuel</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">Y
-f0295reute
-u f BC-BANGLADESH-TO-IMPORT   06-01 0070</field>
-	<field name = "TITLE">BANGLADESH TO IMPORT 60,000 TONS OF DIESEL FROM USSR</field>
+	<field name = "titulo">BANGLADESH TO IMPORT 60,000 TONS OF DIESEL FROM USSR</field>
 	<field name = "DATELINE">DHAKA, June 1 -</field>
-	<field name = "BODY">Bangladesh will import 60,000 tons of high
+	<field name = "content">Bangladesh will import 60,000 tons of high
 speed diesel oil from the Soviet Union under a barter agreement
 signed here last week, Bangladesh petroleum Corporation
 officials said.

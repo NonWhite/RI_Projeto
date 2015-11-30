@@ -4,12 +4,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">cyprus</field>
-	<field name = "UNKNOWN">Y 
-f0087reute
-u f BC-IRAN,-SOVIET-UNION-TO   10-19 0120</field>
-	<field name = "TITLE">IRAN, SOVIET UNION TO SWAP CRUDE, REFINED PRODUCTS</field>
+	<field name = "titulo">IRAN, SOVIET UNION TO SWAP CRUDE, REFINED PRODUCTS</field>
 	<field name = "DATELINE">NICOSIA, Oct 19 -</field>
-	<field name = "BODY">The Soviet Union has agreed to supply
+	<field name = "content">The Soviet Union has agreed to supply
 Iran with refined oil products in exchange for 100,000 barrels
 per day of crude, Iran's national news agency, IRNA, said.
     IRNA, monitored in Nicosia, quoted Oil Minister Gholamreza

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0453reute
-b f BC-HOUSE-0/92-FARM-PROPO   03-05 0135</field>
-	<field name = "TITLE">HOUSE 0/92 FARM PROPOSAL SEEN SPARKING DEBATE</field>
+	<field name = "titulo">HOUSE 0/92 FARM PROPOSAL SEEN SPARKING DEBATE</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">A House Agriculture Committee meeting
+	<field name = "content">A House Agriculture Committee meeting
 later today to draft a disaster aid bill is expected to spark a
 debate between lawmakers who want to expand the 0/92, or
 "de-coupling," provision to cover feedgrains, and those who

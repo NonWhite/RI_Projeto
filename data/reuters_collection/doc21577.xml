@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 13:30:41.59</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F 
-f2286reute
-r f BC-AMERICAN-EXCHANGE-INT   10-19 0096</field>
-	<field name = "TITLE">AMERICAN EXCHANGE INTRODUCES INSTITUTIONAL INDEX</field>
+	<field name = "titulo">AMERICAN EXCHANGE INTRODUCES INSTITUTIONAL INDEX</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">The American Stock Exchange said it has
+	<field name = "content">The American Stock Exchange said it has
 introduced options with expirations of up to three years on the
 Institutional Index.
     With the ticker symbol XII>, the index is a guage of the

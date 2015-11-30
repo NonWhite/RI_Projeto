@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C
-f2317reute
-r f AM-TRADE-LEGISLATION   03-24 0079</field>
-	<field name = "TITLE">U.S. HOUSE PANEL EASES SOVIET EXPORT CONTROLS</field>
+	<field name = "titulo">U.S. HOUSE PANEL EASES SOVIET EXPORT CONTROLS</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">The U.S. House Foreign Affairs
+	<field name = "content">The U.S. House Foreign Affairs
 Committee voted to ease restrictions on exports that are now
 kept from shipment to Soviet-bloc countries but are no longer a
 threat to U.S. national security.

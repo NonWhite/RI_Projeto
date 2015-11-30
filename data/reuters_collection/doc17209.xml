@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0158reute
-b f BC-BUNDESBANK-INTERVENES   04-26 0089</field>
-	<field name = "TITLE">BUNDESBANK INTERVENES IN TOKYO VIA BANK OF JAPAN</field>
+	<field name = "titulo">BUNDESBANK INTERVENES IN TOKYO VIA BANK OF JAPAN</field>
 	<field name = "DATELINE">TOKYO, April 27 -</field>
-	<field name = "BODY">The Bundesbank intervened in the Tokyo
+	<field name = "content">The Bundesbank intervened in the Tokyo
 foreign exchange market to buy a small amount of dollars
 against marks through the Bank of Japan, dealers said.
     The West German central bank bought dollars when the dollar

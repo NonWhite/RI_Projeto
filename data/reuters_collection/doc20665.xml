@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 15:47:06.13</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y 
-f3040reute
-r f BC-BROOKLYN-UNION-BU>-T   10-20 0089</field>
-	<field name = "TITLE">BROOKLYN UNION BU> TO BUY GAS FROM SHELL OIL</field>
+	<field name = "titulo">BROOKLYN UNION BU> TO BUY GAS FROM SHELL OIL</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Brooklyn Union Gas Co said it has
+	<field name = "content">Brooklyn Union Gas Co said it has
 contracted to purchase up to 60 mln cubic feet of natural gas
 per day from Shell Oil Co, a Royal Dutch/Shell Group RD> SC>
 subsidiary.

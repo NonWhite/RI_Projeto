@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 17:23:20.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2660reute
-r f BC-MITSUBISHI-SEMICONDUC   06-29 0107</field>
-	<field name = "TITLE">MITSUBISHI SEMICONDUCTOR PLANS U.S. EXPANSION</field>
+	<field name = "titulo">MITSUBISHI SEMICONDUCTOR PLANS U.S. EXPANSION</field>
 	<field name = "DATELINE">DURHAM, N.C., June 29 -</field>
-	<field name = "BODY">Mitsubishi Semiconductor America
+	<field name = "content">Mitsubishi Semiconductor America
 Inc, a subsdiary of Mitsubishi Electric Corp>, said it plans
 to invest  36 mln dlrs to expand its Durham, N.C. semiconductor
 operation.

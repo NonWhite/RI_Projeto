@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cboe</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F 
-f1864reute
-d f BC-OPTIONS-ON-VIACOM-VI   06-19 0138</field>
-	<field name = "TITLE">OPTIONS ON VIACOM VIA> ADJUSTED BY DIVIDEND</field>
+	<field name = "titulo">OPTIONS ON VIACOM VIA> ADJUSTED BY DIVIDEND</field>
 	<field name = "DATELINE">CHICAGO, June 19 -</field>
-	<field name = "BODY">Options on Viacom International stock
+	<field name = "content">Options on Viacom International stock
 have been adjusted to account for the payment of a dividend on
 preferred stock, the Chicago Board Options Exchange said.
     Trading in Viacom stock at the New York Stock Exchange was

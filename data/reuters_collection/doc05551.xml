@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 13:27:25.92</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f3080reute
-r f BC-onyx-pete-converts   03-16 0108</field>
-	<field name = "TITLE">ONYX PETROLEUM CONVERTS DEBENTURES TO COMMON</field>
+	<field name = "titulo">ONYX PETROLEUM CONVERTS DEBENTURES TO COMMON</field>
 	<field name = "DATELINE">CALGARY, Alberta, March 16 -</field>
-	<field name = "BODY">Onyx Petroleum Exploration Co
+	<field name = "content">Onyx Petroleum Exploration Co
 Ltd>, earlier reporting a 1986 net loss against year-ago
 profit, said it converted 7,344,000 dlrs of its 11 pct
 convertible debentures into 2,824,611 common shares.

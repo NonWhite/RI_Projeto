@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:20:35.16</field>
-	<field name = "UNKNOWN">F E
-f0741reute
-r f BC-VANCOUVER-EXCHANGE-MA   04-07 0099</field>
-	<field name = "TITLE">VANCOUVER EXCHANGE MARCH VOLUME RISES</field>
+	<field name = "titulo">VANCOUVER EXCHANGE MARCH VOLUME RISES</field>
 	<field name = "DATELINE">VANCOUVER, April 7 -</field>
-	<field name = "BODY">Vancouver Stock Exchange said March
+	<field name = "content">Vancouver Stock Exchange said March
 volume was 479.2 mln shares, its highest monthly volume ever
 and up from 270.1 mln in March 1986, and share value was 679.1
 mln dlrs, up from 381.4 mln dlrs a year ago and second only to

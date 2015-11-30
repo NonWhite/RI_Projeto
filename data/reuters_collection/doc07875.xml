@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 13:47:25.12</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1932reute
-u f BC-ATT-T>-CHAIRMAN-SAYS   03-20 0106</field>
-	<field name = "TITLE">ATT T> CHAIRMAN SAYS DIVIDEND WILL NOT BE CUT</field>
+	<field name = "titulo">ATT T> CHAIRMAN SAYS DIVIDEND WILL NOT BE CUT</field>
 	<field name = "DATELINE">BOSTON, March 20 -</field>
-	<field name = "BODY">American Telephone and Telegraph Co does
+	<field name = "content">American Telephone and Telegraph Co does
 not plan to reduce its regular quarterly dividend of 30 cts a
 share on its common stock, said James E. Olson, chairman.
     "It has been the intent to set the dividend at a level so

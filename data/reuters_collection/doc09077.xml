@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 17:44:49.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2716reute
-r f BC-ORMAND-INDUSTRIES-OM   03-24 0076</field>
-	<field name = "TITLE">ORMAND INDUSTRIES OMD> UNIT TO REPAY DEBT</field>
+	<field name = "titulo">ORMAND INDUSTRIES OMD> UNIT TO REPAY DEBT</field>
 	<field name = "DATELINE">LOS ANGELES, March 24 -</field>
-	<field name = "BODY">Ormand Industries INc said its
+	<field name = "content">Ormand Industries INc said its
 General Can Co Inc unit has finalized all transactions needed
 to repay about 3.3 mln dlrs of past-due accounts to its
 unsecured lenders.

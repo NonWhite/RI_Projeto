@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 11:46:57.81</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">Y
-f1527reute
-u f BC-LUKMAN-SEES-STABLE-OI   06-02 0111</field>
-	<field name = "TITLE">LUKMAN SEES STABLE OIL PRICE FOR NEXT COUPLE YEARS</field>
+	<field name = "titulo">LUKMAN SEES STABLE OIL PRICE FOR NEXT COUPLE YEARS</field>
 	<field name = "DATELINE">STOCKHOLM, June 2 -</field>
-	<field name = "BODY">The current crude oil price of between
+	<field name = "content">The current crude oil price of between
 18 and 20 dlrs a barrel will remain stable over the next couple
 of years, rising only one to two dlrs a barrel per annum to
 keep up with inflation, OPEC President Rilwanu Lukman said.

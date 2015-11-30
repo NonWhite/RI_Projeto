@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 12:16:31.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0914reute
-r f BC-CHEYENNE-RESOURCES-C   03-04 0099</field>
-	<field name = "TITLE">CHEYENNE RESOURCES CHYN> COMPLETES RESTRUCTURE</field>
+	<field name = "titulo">CHEYENNE RESOURCES CHYN> COMPLETES RESTRUCTURE</field>
 	<field name = "DATELINE">CHEYENNE, Wyo., March 4 -</field>
-	<field name = "BODY">Cheyenne Resources Inc said it
+	<field name = "content">Cheyenne Resources Inc said it
 has restructured its 499,750 debt to the First Interstate Bank
 of Denver to 250,000.
     It said it gave the bank 500,000 shares of restricted

@@ -3,12 +3,9 @@
 	<field name = "PLACES">turkey</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G L M T
-f1936reute
-r f BC-TURKEY-SEEN-UNLIKELY   04-13 0097</field>
-	<field name = "TITLE">TURKEY SEEN UNLIKELY TO JOIN EC THIS CENTURY</field>
+	<field name = "titulo">TURKEY SEEN UNLIKELY TO JOIN EC THIS CENTURY</field>
 	<field name = "DATELINE">BRUSSELS, April 13 -</field>
-	<field name = "BODY">Turkey, which tomorrow will formally
+	<field name = "content">Turkey, which tomorrow will formally
 apply to join the European Community, faces major obstacles in
 its bid and is unlikely to become the bloc's 13th member before
 the year 2000, EC officials said.

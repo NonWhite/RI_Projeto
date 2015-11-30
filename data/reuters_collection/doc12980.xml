@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 12:16:19.71</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1574reute
-u f BC-ALLIED-SIGNAL-ALD>-T   04-03 0104</field>
-	<field name = "TITLE">ALLIED-SIGNAL ALD> TO SELL ELECTRONICS UNIT</field>
+	<field name = "titulo">ALLIED-SIGNAL ALD> TO SELL ELECTRONICS UNIT</field>
 	<field name = "DATELINE">MORRIS TOWNSHIP, N.J., April 3 -</field>
-	<field name = "BODY">Allied-Signal Inc said it
+	<field name = "content">Allied-Signal Inc said it
 agreed to sell its Amphenol Products unit to a subsidiary of
 LPL Investments Group LPLI>, a Wallingford, Conn., investment
 company, for 430 mln dlrs cash.

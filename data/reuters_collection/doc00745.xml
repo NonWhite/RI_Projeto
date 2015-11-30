@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 15:57:31.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0968
-reute
-h f BC-DAISY-SYSTEMS-DAZY>   03-02 0112</field>
-	<field name = "TITLE">DAISY SYSTEMS DAZY> INTRODUCES WORKSTATIONS</field>
+	<field name = "titulo">DAISY SYSTEMS DAZY> INTRODUCES WORKSTATIONS</field>
 	<field name = "DATELINE">MOUNTAIN VIEW, Calif., March 2 -</field>
-	<field name = "BODY">Daisy Systems Corp said it
+	<field name = "content">Daisy Systems Corp said it
 has introduced a line of computer-aided engineering
 workstations.
     The workstation family includes the Personal Logician 386,

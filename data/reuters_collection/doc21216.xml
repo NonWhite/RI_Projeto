@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 12:55:51.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2084reute
-r f BC-TANDON-COMPUTER-TCOR   10-19 0102</field>
-	<field name = "TITLE">TANDON COMPUTER TCOR.O> SETS NEW COMPUTER</field>
+	<field name = "titulo">TANDON COMPUTER TCOR.O> SETS NEW COMPUTER</field>
 	<field name = "DATELINE">MOORPARK, Calif., Oct 19 -</field>
-	<field name = "BODY">Tandon Computer Corp said it has
+	<field name = "content">Tandon Computer Corp said it has
 introduced  a personal computer than combines high capacity
 disk storage and a new way to transfer large amounts of data.
     The company said its 386 personal computer features an

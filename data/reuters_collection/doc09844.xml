@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 09:18:19.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0921reute
-u f BC-jefferies-is-making   03-26 0033</field>
-	<field name = "TITLE">JEFFERIES IS MAKING A MARKET IN STANDARD SRD></field>
+	<field name = "titulo">JEFFERIES IS MAKING A MARKET IN STANDARD SRD></field>
 	<field name = "DATELINE">LOS ANGELES, March 26 -</field>
-	<field name = "BODY">Jefferies and Co Inc said it is
+	<field name = "content">Jefferies and Co Inc said it is
 making a market in Standard Oil Co at 73 bid offerred at 75 --
 has been trading stock at 74.
  Reuter</field>

@@ -4,12 +4,9 @@
 	<field name = "PLACES">kuwait</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">Y
-f0389reute
-u f BC-KUWAIT-REJECTS-IRANIA   06-02 0104</field>
-	<field name = "TITLE">KUWAIT REJECTS IRANIAN SPY BOAT CHARGES</field>
+	<field name = "titulo">KUWAIT REJECTS IRANIAN SPY BOAT CHARGES</field>
 	<field name = "DATELINE">KUWAIT, June 2 -</field>
-	<field name = "BODY">Kuwait, a target of Iranian anger over the
+	<field name = "content">Kuwait, a target of Iranian anger over the
 emirate's backing for Iraq in the Gulf war, today rejected
 charges that fishing vessels seized recently by Iran were spy
 boats.

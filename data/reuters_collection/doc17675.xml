@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 13:39:27.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1907reute
-d f BC-TEXAS-AIR'S-TEX>-CON   06-01 0101</field>
-	<field name = "TITLE">TEXAS AIR'S TEX> CONTINENTAL IN EXPANSION</field>
+	<field name = "titulo">TEXAS AIR'S TEX> CONTINENTAL IN EXPANSION</field>
 	<field name = "DATELINE">CLEVELAND, June 1 -</field>
-	<field name = "BODY">Texas Air Corp's Continental Airlines
+	<field name = "content">Texas Air Corp's Continental Airlines
 said it will begin creation of a Cleveland Hub July one,
 doubling the number of cities it serves nonstop from Cleveland
 and increasing daily flights by 50 pct.

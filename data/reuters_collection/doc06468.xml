@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 09:54:41.22</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f7913reute
-b f BC-MIDLAND-BANK-UNIT-ISS   03-18 0103</field>
-	<field name = "TITLE">MIDLAND BANK UNIT ISSUES 900 MLN FRENCH FRANC FRN</field>
+	<field name = "titulo">MIDLAND BANK UNIT ISSUES 900 MLN FRENCH FRANC FRN</field>
 	<field name = "DATELINE">PARIS, March 18 -</field>
-	<field name = "BODY">Midland Bank International Financial
+	<field name = "content">Midland Bank International Financial
 Services is issuing a 900 mln franc floating rate note due
 April 15, 1997 at par, lead manager Societe Generale said.
     The deal, guaranteed by Midland Bank Plc, will pay interest

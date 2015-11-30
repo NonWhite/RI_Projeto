@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:52:39.23</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0015reute
-b f BC-BRITISH-AIRPORTS-AUTH   03-09 0104</field>
-	<field name = "TITLE">BRITISH AIRPORTS AUTHORITY SEEKS CREDIT FACILITY</field>
+	<field name = "titulo">BRITISH AIRPORTS AUTHORITY SEEKS CREDIT FACILITY</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">British Airports Authority Plc>, which
+	<field name = "content">British Airports Authority Plc>, which
 will be privatised later this year, is seeking a 200 mln stg
 multiple option facility, banking sources said.
     The facility will incorporate a 100 mln stg revolving

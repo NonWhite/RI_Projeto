@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:00:49.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f1894reute
-r f BC-SAINSBURY-SBRY.L>-LO   06-19 0109</field>
-	<field name = "TITLE">SAINSBURY SBRY.L> LONG-TERM DEBT AFFIRMED BY S/P</field>
+	<field name = "titulo">SAINSBURY SBRY.L> LONG-TERM DEBT AFFIRMED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 affirmed the AA long-term debt of J. Sainsbury PLC.
     S and P cited Sainsbury's offer for the shares of Shaws
 Supermarkets Inc's SHAW> it does not own. Sainsbury currently

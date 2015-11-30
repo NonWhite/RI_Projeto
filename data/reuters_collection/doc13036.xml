@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 13:34:50.83</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1835reute
-r f BC-memotec-data-complete   04-03 0110</field>
-	<field name = "TITLE">MEMOTEC DATA COMPLETES TELEGLOBE ACQUISITION</field>
+	<field name = "titulo">MEMOTEC DATA COMPLETES TELEGLOBE ACQUISITION</field>
 	<field name = "DATELINE">MONTREAL, April 3 -</field>
-	<field name = "BODY">Memotec Data Inc> said it completed
+	<field name = "content">Memotec Data Inc> said it completed
 the previously announced 488.3 mln dlr acquisition of Teleglobe
 Canada from the federal government.
     Memotec Data said Teleglobe, which has provided Canada's

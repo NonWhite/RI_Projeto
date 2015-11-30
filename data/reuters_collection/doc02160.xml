@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:26:00.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0618reute
-r f BC-DUKE-POWER-DUK>-SELL   03-05 0113</field>
-	<field name = "TITLE">DUKE POWER DUK> SELLS 10-YEAR MORTGAGE BONDS</field>
+	<field name = "titulo">DUKE POWER DUK> SELLS 10-YEAR MORTGAGE BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Duke Power Co is raising 100 mln dlrs
+	<field name = "content">Duke Power Co is raising 100 mln dlrs
 through an offering of first and refunding mortgage bonds due
 1997 yielding 7.663 pct, said lead manager Morgan Stanley.
     Morgan led a syndicate that won the bonds at competitive

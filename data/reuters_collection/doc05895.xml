@@ -4,12 +4,9 @@
 	<field name = "TOPICS">l-cattle</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f4837reute
-b f BC-RENEWED-BULL-SPREADIN   03-17 0116</field>
-	<field name = "TITLE">RENEWED BULL SPREADING LIKELY ON CATTLE REPORT</field>
+	<field name = "titulo">RENEWED BULL SPREADING LIKELY ON CATTLE REPORT</field>
 	<field name = "DATELINE">CHICAGO, March 17 -</field>
-	<field name = "BODY">Livestock analysts expect renewed bull
+	<field name = "content">Livestock analysts expect renewed bull
 spreading in live cattle futures following yesterday's USDA
 7-state cattle on feed report.
     The USDA reported high placements in February, which may

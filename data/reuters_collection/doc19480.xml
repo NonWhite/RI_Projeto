@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 18:43:10.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2605reute
-r f BC-ENDOTRONICS-ENDO.O>   06-19 0077</field>
-	<field name = "TITLE">ENDOTRONICS ENDO.O> JOINT VENTURE CEASES</field>
+	<field name = "titulo">ENDOTRONICS ENDO.O> JOINT VENTURE CEASES</field>
 	<field name = "DATELINE">MINNEAPOLIS, June 19 -</field>
-	<field name = "BODY">Endotronics Inc said operations at
+	<field name = "content">Endotronics Inc said operations at
 its joint venture with Summa Medical Corp SUMA.O> has ended.
     The company said the venture provided production and
 purification services to biotechnology companies on a contract

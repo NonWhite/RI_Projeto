@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 16:59:02.01</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f2594reute
-u f BC-NASD-TO-BEGIN-SEARCH   03-24 0105</field>
-	<field name = "TITLE">NASD TO BEGIN SEARCH FOR NEW PRESIDENT</field>
+	<field name = "titulo">NASD TO BEGIN SEARCH FOR NEW PRESIDENT</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">The National Association of Securities
+	<field name = "content">The National Association of Securities
 Dealers, which will launch a search for a new president later
 this week, will probably concentrate on candidates with an
 extensive background in the financial markets, officials of the

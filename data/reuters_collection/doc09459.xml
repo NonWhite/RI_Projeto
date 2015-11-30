@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:31:39.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F
-f1860reute
-b f BC-CONSUMERS-POWER-CMS>   03-25 0103</field>
-	<field name = "TITLE">CONSUMERS POWER CMS> DEBT RAISED BY S/P</field>
+	<field name = "titulo">CONSUMERS POWER CMS> DEBT RAISED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 raised Consumers Power's senior debt to BBB-minus from BB-plus
 and its subordinated debt to BB-plus from BB-minus.
     The rating agency also affirmed Consumers Power's BB-minus

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:42:58.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0977reute
-h f BC-TRACOR-TRR>-UNIT-WIN   03-09 0071</field>
-	<field name = "TITLE">TRACOR TRR> UNIT WINS U.S. FOLLOW-UP CONTRACTS</field>
+	<field name = "titulo">TRACOR TRR> UNIT WINS U.S. FOLLOW-UP CONTRACTS</field>
 	<field name = "DATELINE">AUSTIN, Texas, March 9 -</field>
-	<field name = "BODY">Tracor Inc said its Tracor
+	<field name = "content">Tracor Inc said its Tracor
 Aerospace Inc unit won three follow-up contracts worth 1.9 mln
 dlrs from the U.S. Air Force.
     It said the unit will conduct special studies and

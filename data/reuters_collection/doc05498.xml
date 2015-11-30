@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">biffex</field>
-	<field name = "UNKNOWN">C G L M T
-f2880reute
-d f BC-BIFFEX-MEMBERS-TO-BAL   03-16 0111</field>
-	<field name = "TITLE">BIFFEX MEMBERS TO BALLOT ON MERGER</field>
+	<field name = "titulo">BIFFEX MEMBERS TO BALLOT ON MERGER</field>
 	<field name = "DATELINE">LONDON, March 16 -</field>
-	<field name = "BODY">Members of the Baltic International
+	<field name = "content">Members of the Baltic International
 Freight Futures Exchange (BIFFEX) are to be balloted at the end
 of this week on whether it will merge with the London Commodity
 Exchange or come under a new umbrella of Baltic futures

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 10:32:34.19</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0103reute
-u f BC-NORSK-HYDRO-EURODOLLA   03-13 0056</field>
-	<field name = "TITLE">NORSK HYDRO EURODOLLAR BOND INCREASED TO 125 MLN</field>
+	<field name = "titulo">NORSK HYDRO EURODOLLAR BOND INCREASED TO 125 MLN</field>
 	<field name = "DATELINE">LONDON, March 13 -</field>
-	<field name = "BODY">The 10-year eurodollar bond issue
+	<field name = "content">The 10-year eurodollar bond issue
 launched yesterday for Norsk Hydro at 8-1/4 pct and 101-5/8 pct
 has been increased to a total of 125 mln dlrs from the original
 100 mln amount, Swiss Bank Corp International said as lead.

@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 22:20:49.41</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0861reute
-u f BC-HONG-KONG-BANKS-LEAVE   03-06 0077</field>
-	<field name = "TITLE">HONG KONG BANKS LEAVE INTEREST RATES UNCHANGED</field>
+	<field name = "titulo">HONG KONG BANKS LEAVE INTEREST RATES UNCHANGED</field>
 	<field name = "DATELINE">HONG KONG, March 7 -</field>
-	<field name = "BODY">The Hong Kong Association of Banks
+	<field name = "content">The Hong Kong Association of Banks
 said it decided to leave interest rates unchanged at today's
 regular weekly meeting.
     Current rates are 1-3/4 pct for savings accounts, 24-hours,

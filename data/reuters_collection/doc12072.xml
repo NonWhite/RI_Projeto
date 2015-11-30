@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 12:15:11.01</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1610reute
-r f BC-IIF-EXECUTIVE-SEES-IN   04-01 0088</field>
-	<field name = "TITLE">IIF EXECUTIVE SEES INTEREST RATES DECLINING</field>
+	<field name = "titulo">IIF EXECUTIVE SEES INTEREST RATES DECLINING</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Institute of International Finance
+	<field name = "content">Institute of International Finance
 Managing Director Horst Schulmann said that his orgnaization
 has been forecasting further declines of interest rates in the
 first half this year and then a levelling off and there is no

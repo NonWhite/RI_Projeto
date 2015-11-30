@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 10:26:49.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0175reute
-d f BC-LEWIS-LEHRMAN-TO-JOIN   03-12 0093</field>
-	<field name = "TITLE">LEWIS LEHRMAN TO JOIN MORGAN STANLEY MS></field>
+	<field name = "titulo">LEWIS LEHRMAN TO JOIN MORGAN STANLEY MS></field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Morgan Stanley Group Inc said Lewis E.
+	<field name = "content">Morgan Stanley Group Inc said Lewis E.
 Lehrman will join the firm as senior advisor as a directory of
 Morgan Stanley Asset Management.
     It said Lehrman will concentrate on the growth and

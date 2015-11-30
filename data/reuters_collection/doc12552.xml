@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 09:58:02.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1055reute
-d f BC-FLEET-FINANCIAL-FLT>   04-02 0039</field>
-	<field name = "TITLE">FLEET FINANCIAL FLT> CONSOLIDATES UNITS</field>
+	<field name = "titulo">FLEET FINANCIAL FLT> CONSOLIDATES UNITS</field>
 	<field name = "DATELINE">HARTFORD, Conn., April 2 -</field>
-	<field name = "BODY">Fleet Financial Group's First
+	<field name = "content">Fleet Financial Group's First
 Connecticut Bancorp subsidiary said it has combined its four
 banking subsidiaries into one operating entity called United
 Bank.

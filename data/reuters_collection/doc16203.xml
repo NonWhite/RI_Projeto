@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 08:17:25.06</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0675reute
-u f BC-SAUNDERS-DENIES-"PAPE   04-13 0108</field>
-	<field name = "TITLE">SAUNDERS DENIES "PAPER SHREDDING" ALLEGATIONS</field>
+	<field name = "titulo">SAUNDERS DENIES "PAPER SHREDDING" ALLEGATIONS</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">Former Guinness Plc GUIN.L> chairman
+	<field name = "content">Former Guinness Plc GUIN.L> chairman
 Ernest Saunders dismissed allegations he ordered the shredding
 of documents in the early stages of a U.K. Investigation as
 "completely untrue," the Press Association news agency reported.

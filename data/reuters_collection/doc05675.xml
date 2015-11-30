@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 16:15:58.53</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f3558reute
-r f BC-DATAPOWER-DPWRC>-FEL   03-16 0084</field>
-	<field name = "TITLE">DATAPOWER DPWRC> FELL BELOW NASD REQUIREMENTS</field>
+	<field name = "titulo">DATAPOWER DPWRC> FELL BELOW NASD REQUIREMENTS</field>
 	<field name = "DATELINE">SANTA ANA, Calif., March 16 -</field>
-	<field name = "BODY">Datapower Inc said it failed
+	<field name = "content">Datapower Inc said it failed
 to meet the NASDAQ capital and surplus requirements as of
 February 20, but it received an exemption which will allow its
 common stock to continue to be included in the automated

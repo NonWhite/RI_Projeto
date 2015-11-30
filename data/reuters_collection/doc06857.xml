@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 16:55:49.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9534reute
-r f BC-TIGER-INTERNATIONAL-   03-18 0097</field>
-	<field name = "TITLE">TIGER INTERNATIONAL TGR> PAYS INTEREST IN STOCK</field>
+	<field name = "titulo">TIGER INTERNATIONAL TGR> PAYS INTEREST IN STOCK</field>
 	<field name = "DATELINE">LOS ANGELES, March 18 -</field>
-	<field name = "BODY">Tiger International Inc said it
+	<field name = "content">Tiger International Inc said it
 will pay the interest due April 1 on its 11-1/2 pct Sinking
 Fund debentures by distributing common stock.
     Each debenture holder will receive the number of whole

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 11:37:35.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1415reute
-r f BC-BIOCRAFT-BCL>,-AMERI   03-23 0083</field>
-	<field name = "TITLE">BIOCRAFT BCL>, AMERICAN CYANAMID ACY> IN PACT</field>
+	<field name = "titulo">BIOCRAFT BCL>, AMERICAN CYANAMID ACY> IN PACT</field>
 	<field name = "DATELINE">ELMWOOD PARK, N.J., March 23 -</field>
-	<field name = "BODY">Biocraft Laboratories Inc
+	<field name = "content">Biocraft Laboratories Inc
 said it signed a contract with American Cyanamid Co to make
 cefixime, a third generation oral cephalosporin.
     It said American Cyanamid's Lederle Laboratories filed a

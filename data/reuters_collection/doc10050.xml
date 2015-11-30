@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 13:14:17.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1990reute
-r f BC-OUTBOARD-MARINE-OM>   03-26 0116</field>
-	<field name = "TITLE">OUTBOARD MARINE OM> SELLS 9.15 PCT DEBENTURES</field>
+	<field name = "titulo">OUTBOARD MARINE OM> SELLS 9.15 PCT DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Outboard Marine Corp is raising 100
+	<field name = "content">Outboard Marine Corp is raising 100
 mln dlrs via an offering of sinking fund debentures due 2017
 yielding 9.15 pct, said lead manager Salomon Brothers Inc.
     The debentures have a 9-1/8 pct coupon and were priced at

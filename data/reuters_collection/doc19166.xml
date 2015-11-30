@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">leigh-pemberton</field>
-	<field name = "UNKNOWN">RM 
-f0981reute
-u f BC-U.K.-CENTRAL-BANK-WAR   06-19 0094</field>
-	<field name = "TITLE">U.K. CENTRAL BANK WARNS OF EXCESSIVE RATE CUTS</field>
+	<field name = "titulo">U.K. CENTRAL BANK WARNS OF EXCESSIVE RATE CUTS</field>
 	<field name = "DATELINE">LONDON, June 19 -</field>
-	<field name = "BODY">Bank of England governor Robin
+	<field name = "content">Bank of England governor Robin
 Leigh-Pemberton said lowering interest rates too fast could
 jeopardise recent economic achievements in the U.K.
     In remarks prepared for delivery to businessmen in

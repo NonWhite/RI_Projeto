@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 14:44:38.37</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f2092reute
-u f BC-FRENCH-HOUSEHOLD-CONS   03-23 0093</field>
-	<field name = "TITLE">FRENCH HOUSEHOLD CONSUMPTION FALLS IN FEBRUARY</field>
+	<field name = "titulo">FRENCH HOUSEHOLD CONSUMPTION FALLS IN FEBRUARY</field>
 	<field name = "DATELINE">PARIS, March 23 -</field>
-	<field name = "BODY">French household consumption of
+	<field name = "content">French household consumption of
 industrial goods fell 1.1 pct seasonally adjusted to 21.32
 billion francs last month from 21.55 billion in January, the
 National Statistics Institute (INSEE) said.

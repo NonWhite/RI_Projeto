@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 04:44:27.69</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0714
-reute
-u f BC-JAPANESE-BANKS-PLAN-J   03-03 0084</field>
-	<field name = "TITLE">JAPANESE BANKS PLAN JOINT FIRM TO AVOID DEBT RISK</field>
+	<field name = "titulo">JAPANESE BANKS PLAN JOINT FIRM TO AVOID DEBT RISK</field>
 	<field name = "DATELINE">TOKYO, March 3 -</field>
-	<field name = "BODY">Japan's major commercial banks plan to set
+	<field name = "content">Japan's major commercial banks plan to set
 up a joint company to which they will transfer assets acquired
 by lending to developing countries to build up a reserve
 against possible bad loans, a senior official of a major bank

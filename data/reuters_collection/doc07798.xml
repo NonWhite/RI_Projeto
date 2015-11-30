@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:16:22.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1573reute
-r f BC-THERMO-ELECTRON-TMO>   03-20 0111</field>
-	<field name = "TITLE">THERMO ELECTRON TMO> TO SELL CONVERTIBLE DEBT</field>
+	<field name = "titulo">THERMO ELECTRON TMO> TO SELL CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Thermo Electron Corp said it filed
+	<field name = "content">Thermo Electron Corp said it filed
 with the Securities and Exchange Commission a registration
 statement covering a 75 mln dlr issue of convertible
 subordinated debentures due 2012.

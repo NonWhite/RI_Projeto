@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 07:25:30.48</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">RM
-f1615reute
-r f BC-TURKISH-TRADE-DEFICIT   03-16 0101</field>
-	<field name = "TITLE">TURKISH TRADE DEFICIT WIDENS IN 1986</field>
+	<field name = "titulo">TURKISH TRADE DEFICIT WIDENS IN 1986</field>
 	<field name = "DATELINE">ANKARA, March 16 -</field>
-	<field name = "BODY">Turkey's trade deficit rose to 3.65
+	<field name = "content">Turkey's trade deficit rose to 3.65
 billion dlrs in 1986 from 3.39 billion in 1985 following
 increased imports from Western countries, figures from the
 State Statistics Institute show.

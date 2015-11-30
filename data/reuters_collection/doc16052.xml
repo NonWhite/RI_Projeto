@@ -4,13 +4,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f2845reute
-u f BC-ANALYSTS-DOUBT-FED-FI   04-09 0112</field>
-	<field name = "TITLE">ANALYSTS DOUBT FED FIRMED DESPITE BORROWING RISE</field>
+	<field name = "titulo">ANALYSTS DOUBT FED FIRMED DESPITE BORROWING RISE</field>
 	<field name = "AUTHOR">By Martin Cherrin, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Economists said that they doubt the
+	<field name = "content">Economists said that they doubt the
 Federal Reserve is firming policy to aid the dollar, despite
 higher discount window borrowings in the latest two-week
 statement period and very heavy borrowings Wednesday.

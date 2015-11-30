@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 08:47:35.27</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0790reute
-u f BC-FIRST-CITY-FCY>-SELL   06-01 0077</field>
-	<field name = "TITLE">FIRST CITY FCY> SELLS YALE, NUTONE UNITS</field>
+	<field name = "titulo">FIRST CITY FCY> SELLS YALE, NUTONE UNITS</field>
 	<field name = "DATELINE">BEVERLY HILLS, Calif., June 1 -</field>
-	<field name = "BODY">First City Industries Inc
+	<field name = "content">First City Industries Inc
 said it has reached a definitive agreement to sell its Nuton
 and Yale security subsidiaries to Valor PLC for 400 mln dlrs
 and warrants to purchase two mln Valor ordinary shares.

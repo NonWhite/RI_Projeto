@@ -3,12 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">indonesia</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">G C
-f0041reute
-u f BC-INDONESIA-PROTESTS-AG   03-22 0106</field>
-	<field name = "TITLE">INDONESIA PROTESTS AGAINST EC VEGETABLE OIL DUTY</field>
+	<field name = "titulo">INDONESIA PROTESTS AGAINST EC VEGETABLE OIL DUTY</field>
 	<field name = "DATELINE">JAKARTA, March 22 -</field>
-	<field name = "BODY">Indonesia has protested to the European
+	<field name = "content">Indonesia has protested to the European
 Community (EC) about its plan to raise import duties on
 vegetable oils, which will affect the country's palm oil
 exports to the EC, Trade Minister Rachmat Saleh said.

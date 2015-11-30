@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:32:52.13</field>
-	<field name = "UNKNOWN">E RM
-f1028reute
-u f BC-CANADIAN-BONDS-SLIGHT   04-07 0095</field>
-	<field name = "TITLE">CANADIAN BONDS SLIGHTLY OFF IN EARLY TRADE</field>
+	<field name = "titulo">CANADIAN BONDS SLIGHTLY OFF IN EARLY TRADE</field>
 	<field name = "DATELINE">TORONTO, April 7 -</field>
-	<field name = "BODY">Canadian bonds recouped some opening
+	<field name = "content">Canadian bonds recouped some opening
 losses to trade unchanged to mildly lower in quiet, mostly 
 uneventful early activity, dealers said.
     The market opened 1/4 lower on weaker U.S. credit markets,

@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 14:07:15.89</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2058reute
-u f BC-CYACQ-CUTS-CONDITIONS   03-24 0077</field>
-	<field name = "TITLE">CYACQ CUTS CONDITIONS ON CYCLOPS CYL> BID</field>
+	<field name = "titulo">CYACQ CUTS CONDITIONS ON CYCLOPS CYL> BID</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Cyacq Corp, an investor group bidding
+	<field name = "content">Cyacq Corp, an investor group bidding
 for Cyclops Corp, said it amended its outstanding 92.50 dlrs a
 share tender offer for Cyclops to eliminate two conditions and
 modify a third one.

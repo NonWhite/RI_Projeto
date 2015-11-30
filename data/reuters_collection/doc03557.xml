@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 08:41:06.22</field>
 	<field name = "PLACES">israel</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f0866reute
-u f BC-IMF-WARNS-ISRAEL-PAY   03-11 0103</field>
-	<field name = "TITLE">IMF WARNS ISRAEL PAY RISES MAY THREATEN STABILITY</field>
+	<field name = "titulo">IMF WARNS ISRAEL PAY RISES MAY THREATEN STABILITY</field>
 	<field name = "DATELINE">TEL AVIV, March 11 -</field>
-	<field name = "BODY">The International Monetary Fund has
+	<field name = "content">The International Monetary Fund has
 warned Israel in a report that a continued rapid rise in wages
 could undo the achievements of its economic stabilization
 program in controlling hyperinflation.

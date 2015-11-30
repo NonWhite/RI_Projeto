@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:48:50.33</field>
-	<field name = "UNKNOWN">GQ
-f2287reute
-r f BC-kc-feed-wh'sale-usda   04-07 0108</field>
-	<field name = "TITLE">KANSAS CITY DAILY FEED-WHOLESALE PRICES (USDA)</field>
+	<field name = "titulo">KANSAS CITY DAILY FEED-WHOLESALE PRICES (USDA)</field>
 	<field name = "DATELINE">April 7  -</field>
-	<field name = "BODY">(DLRS PER TON, BULK, IN CAR OF TRUCK LOTS)
+	<field name = "content">(DLRS PER TON, BULK, IN CAR OF TRUCK LOTS)
  44 PCT SOYBEAN MEAL/SOLVENT    156.70-160.70
  48 PCT SOYBEAN MEAL/SOLVENT    168.70-171.70
  41 PCT COTTONSEED MEAL/SOLVENT 145.00       

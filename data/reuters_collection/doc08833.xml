@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 11:56:21.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1499reute
-r f BC-HERCULES-HPC>-NAMES   03-24 0097</field>
-	<field name = "TITLE">HERCULES HPC> NAMES NEW CHAIRMAN</field>
+	<field name = "titulo">HERCULES HPC> NAMES NEW CHAIRMAN</field>
 	<field name = "DATELINE">WILMINGTON, Del, March 24 -</field>
-	<field name = "BODY">Hercules Inc said it named
+	<field name = "content">Hercules Inc said it named
 David Hollingsworth as chairman and chief executive, succeeding
 Alexander Giacco who is retiring effective April 1.
     Hercules also said it named Fred Buckner as president and

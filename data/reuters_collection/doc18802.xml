@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:34:36.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3846reute
-d f BC-PAR-PAR>-TO-COMPETE   06-18 0092</field>
-	<field name = "TITLE">PAR PAR> TO COMPETE WITH LILLY'S ELI> KEFLEX</field>
+	<field name = "titulo">PAR PAR> TO COMPETE WITH LILLY'S ELI> KEFLEX</field>
 	<field name = "DATELINE">SPRING VALLEY, N.Y., June 18 -</field>
-	<field name = "BODY">Par Pharmaceutical Inc said
+	<field name = "content">Par Pharmaceutical Inc said
 it will begin marketing a generic form of Eli Lilly and Co's 
 Keflex, a widely used antibiotic whose patent expired April 21,
 in about six weeks.

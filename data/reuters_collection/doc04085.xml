@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 05:02:18.64</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0362reute
-u f BC-ERICSSON-WINS-SECOND   03-12 0100</field>
-	<field name = "TITLE">ERICSSON WINS SECOND BUNDESPOST ORDER</field>
+	<field name = "titulo">ERICSSON WINS SECOND BUNDESPOST ORDER</field>
 	<field name = "DATELINE">STOCKHOLM, March 12 -</field>
-	<field name = "BODY">Sweden's Telefon AB L.M. Ericsson
+	<field name = "content">Sweden's Telefon AB L.M. Ericsson
 ERIC ST> said one of its units won a contract worth 7.5 mln
 dlrs from the West German PTT, taking the value of orders
 signed with the Bundespost in the past few days to 47.5 mln

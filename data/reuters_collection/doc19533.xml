@@ -3,12 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">G T 
-f0392reute
-u f BC-EC-PRESIDENCY-PREPARE   06-29 0113</field>
-	<field name = "TITLE">EC PRESIDENCY PREPARED TO DROP OILS AND FATS TAX</field>
+	<field name = "titulo">EC PRESIDENCY PREPARED TO DROP OILS AND FATS TAX</field>
 	<field name = "DATELINE">BRUSSELS, June 29 -</field>
-	<field name = "BODY">Belgium, current holder of the European
+	<field name = "content">Belgium, current holder of the European
 Community presidency, appears ready to drop a controversial
 oils and fats tax from this year's hotly-contested farm price
 package, diplomats said.

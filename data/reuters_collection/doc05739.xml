@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 18:04:51.99</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3824reute
-d f BC-MLX-MLXX>-UNIT-AGREE   03-16 0094</field>
-	<field name = "TITLE">MLX MLXX> UNIT AGREES TO BY ABEX UNIT</field>
+	<field name = "titulo">MLX MLXX> UNIT AGREES TO BY ABEX UNIT</field>
 	<field name = "DATELINE">TROY, Mich, March 16 -</field>
-	<field name = "BODY">MLX Corp said a subsidiary has
+	<field name = "content">MLX Corp said a subsidiary has
 tentatively agreed to acquire a sintered friction materials
 business in Milan, Italy, from a unit of Abex Corp for
 undisclosed terms.

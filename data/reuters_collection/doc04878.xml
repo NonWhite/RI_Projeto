@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 12:31:07.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0635reute
-u f BC-/GENERAL-MOTORS-GM>   03-13 0099</field>
-	<field name = "TITLE">GENERAL MOTORS GM> EARLY MARCH CAR SALES FALL</field>
+	<field name = "titulo">GENERAL MOTORS GM> EARLY MARCH CAR SALES FALL</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">General Motors Corp said car sales in
+	<field name = "content">General Motors Corp said car sales in
 the early March period declined 8.2 pct to 99,882 units from
 108,850 a year ago.
     It said the figures include sales of Sprints and Spectrums.

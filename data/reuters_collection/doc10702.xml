@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 03:43:39.24</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0209reute
-u f BC-BASF-BASF.F>-SAYS-19   03-30 0101</field>
-	<field name = "TITLE">BASF BASF.F> SAYS 1986 RESULTS AFFECTED BY DLR</field>
+	<field name = "titulo">BASF BASF.F> SAYS 1986 RESULTS AFFECTED BY DLR</field>
 	<field name = "DATELINE">RPT --LUDWIGSHAFEN, West Germany, March 30 -</field>
-	<field name = "BODY">BASF AG said
+	<field name = "content">BASF AG said
 the volatile currency situation last year, particularly the
 fall of the dollar, led to sharp drops in turnover denominated
 in marks and to price reductions for exports from domestic

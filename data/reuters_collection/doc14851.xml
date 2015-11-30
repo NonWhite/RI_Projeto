@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">F M C
-f0213reute
-u f BC-BOND-CORP-STILL-CONSI   04-08 0111</field>
-	<field name = "TITLE">BOND CORP STILL CONSIDERING ATLAS MINING BAIL-OUT</field>
+	<field name = "titulo">BOND CORP STILL CONSIDERING ATLAS MINING BAIL-OUT</field>
 	<field name = "DATELINE">MANILA, April 8 -</field>
-	<field name = "BODY">Bond Corp Holdings Ltd BONA.S> and Atlas
+	<field name = "content">Bond Corp Holdings Ltd BONA.S> and Atlas
 Consolidated Mining and Development Corp ATLC.MN> are still
 holding talks on a bail-out package for the troubled mining
 firm, an Atlas statement said.

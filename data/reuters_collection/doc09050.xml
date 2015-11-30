@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L M T
-f2599reute
-d f AM-BRAZIL-COMPUTER   03-24 0136</field>
-	<field name = "TITLE">BRAZIL COMPUTER MARKET TO REMAIN CLOSED-MINISTER</field>
+	<field name = "titulo">BRAZIL COMPUTER MARKET TO REMAIN CLOSED-MINISTER</field>
 	<field name = "DATELINE">RIO DE JANEIRO, MARCH 24 -</field>
-	<field name = "BODY">Brazilian Science and Technology
+	<field name = "content">Brazilian Science and Technology
 Minister Renato Archer said Brazil will keep its computer
 market closed to foreign goods in order to give its own infant
 industry time to develop.

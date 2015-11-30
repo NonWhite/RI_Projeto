@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 14:43:07.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F
-f2160reute
-u f BC-WAINOCO-OIL-WOL>-REC   03-24 0106</field>
-	<field name = "TITLE">WAINOCO OIL WOL> RECAPITALIZING COMPANY</field>
+	<field name = "titulo">WAINOCO OIL WOL> RECAPITALIZING COMPANY</field>
 	<field name = "DATELINE">HOUSTON, March 24 -</field>
-	<field name = "BODY">Wainoco Oil Corp said it is undergoing
+	<field name = "content">Wainoco Oil Corp said it is undergoing
 a recapitalization program with a proposed offering of two mln
 units consisting of common shares and warrants, the planned
 redemption of its shareholder value rights, and a change in its

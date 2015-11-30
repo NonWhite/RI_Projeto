@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 11:29:07.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1320reute
-r f BC-DATA-GENERAL-DGN>-DE   03-20 0101</field>
-	<field name = "TITLE">DATA GENERAL DGN> DEBT DOWNGRADED BY S/P</field>
+	<field name = "titulo">DATA GENERAL DGN> DEBT DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it cut
+	<field name = "content">Standard and Poor's Corp said it cut
 to BBB-plus from A-minus Data General Corp's 184 mln dlrs of
 senior debt.
     S and P cited expectations of continued profit pressure for

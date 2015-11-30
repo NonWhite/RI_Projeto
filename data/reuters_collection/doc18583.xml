@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 08:21:04.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2796reute
-r f BC-COMMONWEALTH-EDISON-   06-18 0099</field>
-	<field name = "TITLE">COMMONWEALTH EDISON CWE> SELLS SEVEN-YEAR BONDS</field>
+	<field name = "titulo">COMMONWEALTH EDISON CWE> SELLS SEVEN-YEAR BONDS</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Commonwealth Edison Co is raising 140
+	<field name = "content">Commonwealth Edison Co is raising 140
 mln dlrs through an offering of first mortgage bonds due 1994
 yielding 8.92 pct, said lead manager Salomon Brothers Inc.
     The bonds bear an 8-7/8 pct coupon and were priced at

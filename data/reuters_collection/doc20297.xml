@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 11:07:14.29</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1504reute
-r f BC-CAPITAL-SOUTHWEST   10-20 0085</field>
-	<field name = "TITLE">SERVICE CORP SRV> DUMPS CAPITAL SOUTHWEST STAKE</field>
+	<field name = "titulo">SERVICE CORP SRV> DUMPS CAPITAL SOUTHWEST STAKE</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">Service Corp International said its
+	<field name = "content">Service Corp International said its
 Investment Capital Corp unit sold its entire 14.8 pct stake in
 Capital Southwest Corp CSWC.O> common stock, and no longer
 holds any Capital Southwest shares.

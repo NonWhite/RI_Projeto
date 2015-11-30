@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2203reute
-r f AM-drilling   04-29 0098</field>
-	<field name = "TITLE">OFFSHORE OIL DRILLING MOVING INTO DEEPER WATERS</field>
+	<field name = "titulo">OFFSHORE OIL DRILLING MOVING INTO DEEPER WATERS</field>
 	<field name = "DATELINE">HOUSTON, April 29 -</field>
-	<field name = "BODY">Offshore drilling for oil and gas will
+	<field name = "content">Offshore drilling for oil and gas will
 be moving into deeper and deeper waters, according to Ronald L.
 Geer, a consultant with Shell Oil Co. and president of the
 Marine Technology Society.

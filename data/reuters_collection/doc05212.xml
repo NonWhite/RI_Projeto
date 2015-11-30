@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 04:32:18.23</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1272reute
-b f BC-COUPON-SET,-AMOUNT-IN   03-16 0085</field>
-	<field name = "TITLE">COUPON SET, AMOUNT INCREASED ON METAL BOX EUROBOND</field>
+	<field name = "titulo">COUPON SET, AMOUNT INCREASED ON METAL BOX EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 16 -</field>
-	<field name = "BODY">The amount of a convertible eurobond
+	<field name = "content">The amount of a convertible eurobond
 launched on Friday for Metal Box Plc MBXL.L> has been
 increased to 65 mln stg from the original 60 mln and the coupon
 has been fixed at 5-3/4 pct, Swiss Bank Corp International Ltd

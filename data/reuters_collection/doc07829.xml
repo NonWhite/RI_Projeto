@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 12:53:02.41</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1730reute
-r f BC-VIRCO-MANUFACTURING-C   03-20 0076</field>
-	<field name = "TITLE">VIRCO MANUFACTURING CORP VIR> 4TH QTR NET</field>
+	<field name = "titulo">VIRCO MANUFACTURING CORP VIR> 4TH QTR NET</field>
 	<field name = "DATELINE">LOS ANGELES, March 20 -</field>
-	<field name = "BODY">Qtr ended Jan 31
+	<field name = "content">Qtr ended Jan 31
     Shr 67 cts vs 69 cts
     Net 1,525,000 vs 1,570,000
     Revs 41.2 mln vs 40.2 mln

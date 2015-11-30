@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:04:58.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0486reute
-u f BC-/HECK'S-HEX>-FILES-F   03-05 0056</field>
-	<field name = "TITLE">HECK'S HEX> FILES FOR CHAPTER 11 BANKRUPTCY</field>
+	<field name = "titulo">HECK'S HEX> FILES FOR CHAPTER 11 BANKRUPTCY</field>
 	<field name = "DATELINE">NITRO, W.Va., March 5 -</field>
-	<field name = "BODY">Heck's Inc said it has filed for
+	<field name = "content">Heck's Inc said it has filed for
 protection from creditors under Chapter 11 of the federal
 bankruptcy act.
     The company said its wholly owned wholesale subsidiaries,

@@ -3,13 +3,10 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0664reute
-r f BC-FRENCH-PRIMARY-BOND-M   03-06 0102</field>
-	<field name = "TITLE">FRENCH PRIMARY BOND MARKET SHOWS NEW SPARKLE</field>
+	<field name = "titulo">FRENCH PRIMARY BOND MARKET SHOWS NEW SPARKLE</field>
 	<field name = "AUTHOR">By Pierre Suchet, Reuters</field>
 	<field name = "DATELINE">PARIS, March 6 -</field>
-	<field name = "BODY">The French primary bond market is showing
+	<field name = "content">The French primary bond market is showing
 signs of renewed effervescence after several weeks of lethargy
 and the trend is expected to continue if hopes of imminent
 interest rate cuts are fulfilled, market operators said.

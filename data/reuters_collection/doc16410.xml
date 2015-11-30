@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:09:21.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1625reute
-r f BC-TEXSCAN-TO-FILE-REORG   04-13 0106</field>
-	<field name = "TITLE">TEXSCAN TO FILE REORGANIZATION PLAN</field>
+	<field name = "titulo">TEXSCAN TO FILE REORGANIZATION PLAN</field>
 	<field name = "DATELINE">PHOENIX, April 13 -</field>
-	<field name = "BODY">Texcan Corp> said it reached an
+	<field name = "content">Texcan Corp> said it reached an
 agreement in principle with its major creditors on a
 reorganization plan to lift it out of bankruptcy.
     The plan proposes Texcan to pay its bank debt partially

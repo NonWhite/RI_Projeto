@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 14:47:09.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3327reute
-u f BC-STIFFER-U.S.-SECURITI   03-16 0088</field>
-	<field name = "TITLE">STIFFER U.S. SECURITIES PENALTIES SOUGHT</field>
+	<field name = "titulo">STIFFER U.S. SECURITIES PENALTIES SOUGHT</field>
 	<field name = "DATELINE">DETROIT, March 16 -</field>
-	<field name = "BODY">The House Committee on Energy and
+	<field name = "content">The House Committee on Energy and
 Commerce is studying recommendations for stricter penalties for
 violation of securities laws, said Rep. John D. Dingell, D-
 Mich., chairman of the committee.

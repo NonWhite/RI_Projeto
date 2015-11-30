@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 13:45:33.88</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1927reute
-d f BC-HERSHEY-OIL-CORP-HSO   03-25 0050</field>
-	<field name = "TITLE">HERSHEY OIL CORP HSO> 4TH QTR LOSS</field>
+	<field name = "titulo">HERSHEY OIL CORP HSO> 4TH QTR LOSS</field>
 	<field name = "DATELINE">PASADENA, Calif., March 25 -</field>
-	<field name = "BODY">Shr loss 19 cts vs loss 2.37 dlrs
+	<field name = "content">Shr loss 19 cts vs loss 2.37 dlrs
     Net loss 1,140,000 vs loss 13,608,000
     Revs 1,069,000 vs 1,940,000
     Year

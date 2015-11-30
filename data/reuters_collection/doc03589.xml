@@ -4,12 +4,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">nicaragua</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V
-f0038reute
-r f PM-REAGAN (SCHEDULED)  03-11 0118</field>
-	<field name = "TITLE">SENATORS, PROSECUTOR DISAGREE ON IRAN TESTIMONY</field>
+	<field name = "titulo">SENATORS, PROSECUTOR DISAGREE ON IRAN TESTIMONY</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">Senators and a special prosecutor
+	<field name = "content">Senators and a special prosecutor
 were in dispute today over a legal maneuver to force quick
 answers from key figures in the Iran arms scandal and the
 diversion of profits to Nicaraguan rebels.

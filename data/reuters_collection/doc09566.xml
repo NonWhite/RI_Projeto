@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 15:54:43.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">L
-f2301reute
-r f BC-ALABAMA-UPGRADED-IN-B   03-25 0125</field>
-	<field name = "TITLE">ALABAMA UPGRADED IN BRUCELLOSIS PROGRAM</field>
+	<field name = "titulo">ALABAMA UPGRADED IN BRUCELLOSIS PROGRAM</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">Alabama has advanced from a Class B
+	<field name = "content">Alabama has advanced from a Class B
 to a Class A rating in the eradication of cattle brucellosis
 program, thus relieving some restrictions in the interstate
 movement of cattle from the state, the U.S. Agriculture

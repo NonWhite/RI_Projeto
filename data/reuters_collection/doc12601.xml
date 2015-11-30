@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G L M T
-f1378reute
-u f BC-EC-PUBLISHES-LIST-OF   04-02 0111</field>
-	<field name = "TITLE">EC PUBLISHES LIST OF U.S. BARRIERS TO FREE TRADE</field>
+	<field name = "titulo">EC PUBLISHES LIST OF U.S. BARRIERS TO FREE TRADE</field>
 	<field name = "DATELINE">BRUSSELS, April 2 -</field>
-	<field name = "BODY">The European Community responded to
+	<field name = "content">The European Community responded to
 widespread U.S. criticism of its trade policies by publishing
 an extensive list of U.S. actions which pose obstacles to EC
 exports.

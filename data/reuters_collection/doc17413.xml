@@ -2,12 +2,9 @@
 	<field name = "DATE">29-APR-1987 14:29:39.33</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">F
-f2196reute
-r f BC-REUTERS-RTRSY.O>-SHA   04-29 0086</field>
-	<field name = "TITLE">REUTERS RTRSY.O> SHAREHOLDERS APPROVE CHANGES</field>
+	<field name = "titulo">REUTERS RTRSY.O> SHAREHOLDERS APPROVE CHANGES</field>
 	<field name = "DATELINE">NEW YORK, April 29 -</field>
-	<field name = "BODY">Reuters Holdings PLC said shareholders
+	<field name = "content">Reuters Holdings PLC said shareholders
 approved changes in the company's articles of association to
 allow it to seek a listing on the Tokyo Stock Exchange.
     The shareholders also approved a stock option plan tied to

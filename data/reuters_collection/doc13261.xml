@@ -2,12 +2,9 @@
 	<field name = "DATE">5-APR-1987 21:13:49.24</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0116reute
-b f BC-NATIONAL-AUSTRALIA-BA   04-05 0118</field>
-	<field name = "TITLE">NATIONAL AUSTRALIA BANK LOWERS BENCHMARK PRIME</field>
+	<field name = "titulo">NATIONAL AUSTRALIA BANK LOWERS BENCHMARK PRIME</field>
 	<field name = "DATELINE">MELBOURNE, April 6 -</field>
-	<field name = "BODY">National Australia Bank Ltd NABA.S>
+	<field name = "content">National Australia Bank Ltd NABA.S>
 said it lowered its benchmark prime lending rate to 18.25 pct
 from 18.5, effective today, but left its base rate at 18.5.
     The benchmark reduction brings the rate into line with the

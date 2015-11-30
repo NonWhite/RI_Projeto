@@ -7,12 +7,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f0780reute
-b f BC-ussr-shipments   03-12 0116</field>
-	<field name = "TITLE">NO GRAIN TO THE USSR IN LATEST WEEK -- USDA</field>
+	<field name = "titulo">NO GRAIN TO THE USSR IN LATEST WEEK -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">There were no shipments of U.S.
+	<field name = "content">There were no shipments of U.S.
 grain or soybeans to the Soviet Union in the week ended March
 12, according to the U.S. Agriculture Department's latest
 Export Sales report.

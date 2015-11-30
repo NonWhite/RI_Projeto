@@ -4,13 +4,10 @@
 	<field name = "TOPICS">palm-oil</field>
 	<field name = "TOPICS">coconut-oil</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2044reute
-d f BC-U.S.-SCIENTISTS-SAY-T   04-03 0130</field>
-	<field name = "TITLE">U.S. SCIENTISTS SAY TROPICAL OILS HEALTH RISK</field>
+	<field name = "titulo">U.S. SCIENTISTS SAY TROPICAL OILS HEALTH RISK</field>
 	<field name = "AUTHOR">By David Brough, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">U.S. scientists said some tropical
+	<field name = "content">U.S. scientists said some tropical
 vegetable oils can be hazardous to consumers whose health is at
 risk because of high levels of saturated fat, lending weight to
 a campaign by the American Soybean Association (ASA) for

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 15:30:38.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0605reute
-r f BC-XEROX-CREDIT-XRX>-NO   03-04 0086</field>
-	<field name = "TITLE">XEROX CREDIT XRX> NOTES YIELD 8.061 PCT</field>
+	<field name = "titulo">XEROX CREDIT XRX> NOTES YIELD 8.061 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">A 100 mln dlr offering of Xerox Credit
+	<field name = "content">A 100 mln dlr offering of Xerox Credit
 Corp 12-year notes was given an eight pct coupon and priced at
 99.534 to yield 8.061 pct, Salomon Brothers Inc said as lead
 manager.

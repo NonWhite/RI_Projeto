@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:12:34.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1253reute
-r f BC-APPLIED-DNA-SYSTEMS-   03-19 0098</field>
-	<field name = "TITLE">APPLIED DNA SYSTEMS ADNA> NAMES NEW OFFICERS</field>
+	<field name = "titulo">APPLIED DNA SYSTEMS ADNA> NAMES NEW OFFICERS</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Applied DNA Systems Inc said Kenneth
+	<field name = "content">Applied DNA Systems Inc said Kenneth
 Blackman was named vice president and chief operating officer,
 and its chairman, Donald Bachmann, was named to the additional
 post of chief executive officer.

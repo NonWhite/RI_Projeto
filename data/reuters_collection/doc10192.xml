@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:51:44.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2661reute
-r f BC-IBM-IBM>-CLOSER-TO-L   03-26 0092</field>
-	<field name = "TITLE">IBM IBM> CLOSER TO LASER CHIP TESTING</field>
+	<field name = "titulo">IBM IBM> CLOSER TO LASER CHIP TESTING</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">International Business Machines Corp
+	<field name = "content">International Business Machines Corp
 said scientists at its Zurich research laboratory have taken a
 key step toward developing a method of testing computer chips
 with a laser.

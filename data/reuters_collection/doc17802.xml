@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 16:27:08.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2412reute
-u f BC-MYERS-TO-HEAD-U.S.-PA   06-01 0146</field>
-	<field name = "TITLE">MYERS TO HEAD U.S. PARTY TO WORLD FOOD COUNCIL</field>
+	<field name = "titulo">MYERS TO HEAD U.S. PARTY TO WORLD FOOD COUNCIL</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">Peter Myers, Deputy Secretary of
+	<field name = "content">Peter Myers, Deputy Secretary of
 Agriculture will head the U.S. delegation to the World Food
 Council's Thirteenth Ministerial in Peking, China June 8-11,
 the U.S. Agriculture Department said.

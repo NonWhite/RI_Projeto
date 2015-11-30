@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:56:19.46F</field>
-	<field name = "UNKNOWN">f0918reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-PLENUM-PUBLISHING-PL   03-27 0088</field>
-	<field name = "TITLE">PLENUM PUBLISHING PLEN> REGISTERS DEBENTURES</field>
+	<field name = "titulo">PLENUM PUBLISHING PLEN> REGISTERS DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">Plenum Publishing Corp plen> said it
+	<field name = "content">Plenum Publishing Corp plen> said it
 filed with the Securities and Exchange Commission a
 registration covering the planned offering of 50 mln dlrs
 principal amount of convertible subordinated debentures due

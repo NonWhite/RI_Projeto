@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 05:15:27.75</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f0309reute
-u f BC-TAIWAN-MONEY-SUPPLY-R   03-25 0103</field>
-	<field name = "TITLE">TAIWAN MONEY SUPPLY RISES 48.22 PCT IN YEAR</field>
+	<field name = "titulo">TAIWAN MONEY SUPPLY RISES 48.22 PCT IN YEAR</field>
 	<field name = "DATELINE">TAIPEI, March 25 -</field>
-	<field name = "BODY">Taiwan's M-1B money supply rose a
+	<field name = "content">Taiwan's M-1B money supply rose a
 seasonally adjusted 48.22 pct in the year to end-February,
 after rising 54.96 pct in the year to January, a central bank
 spokesman said.

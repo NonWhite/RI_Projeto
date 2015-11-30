@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 14:47:54.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2145reute
-r f BC-LEISURE-CONCEPTS-LCI   06-01 0079</field>
-	<field name = "TITLE">LEISURE CONCEPTS LCIC.O>, LORIMAR LT> IN DEAL</field>
+	<field name = "titulo">LEISURE CONCEPTS LCIC.O>, LORIMAR LT> IN DEAL</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Leisure Concepts Inc said it has signed
+	<field name = "content">Leisure Concepts Inc said it has signed
 a definitive agreement to be licensing agent for all
 Lorimar-Telepictures Corp television and film properties,
 formalizing a preliminary agreement reached in January.

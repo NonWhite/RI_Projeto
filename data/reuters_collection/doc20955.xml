@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 16:22:45.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3039reute
-u f BC-BOLGER-ASKS-FOR-CLEVE   10-19 0102</field>
-	<field name = "TITLE">BOLGER ASKS FOR CLEVELAND-CLIFFS HOLDERS MEETING</field>
+	<field name = "titulo">BOLGER ASKS FOR CLEVELAND-CLIFFS HOLDERS MEETING</field>
 	<field name = "DATELINE">CLEVELAND, Oct 19 -</field>
-	<field name = "BODY">New Jersey investor David F. Bolger
+	<field name = "content">New Jersey investor David F. Bolger
 said he has delivered requests for a special meeting of
 Cleveland-Cliffs Inc CLF> shareholders representing more than
 25 pct of the total voting shares in the company.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 09:56:20.55</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f0968reute
-d f BC-H.K.-OFFICIAL-DEFENDS   03-25 0104</field>
-	<field name = "TITLE">H.K. OFFICIAL DEFENDS NON-PROSECUTION OF BOND</field>
+	<field name = "titulo">H.K. OFFICIAL DEFENDS NON-PROSECUTION OF BOND</field>
 	<field name = "DATELINE">HONG KONG, March 25 -</field>
-	<field name = "BODY">Hong Kong's Attorney General Michael
+	<field name = "content">Hong Kong's Attorney General Michael
 Thomas said he decided not to prosecute Alan Bond, chairman of
 Bond Corp International Ltd> (BCIL), for giving misleading
 information about the firm because the case was weak.

@@ -1,15 +1,13 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:34:20.79E F</field>
-	<field name = "UNKNOWN">f1640reute</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-GOLD-PRICE,-STOCKS-BE   03-27 0100</field>
-	<field name = "TITLE">TALKING POINT/GOLD</field>
+	<field name = "titulo">TALKING POINT/GOLD</field>
 	<field name = "AUTHOR">By Solange De Santis</field>
 	<field name = "DATELINE">Toronto, March 27 -</field>
-	<field name = "BODY">The price of gold bullion and share
+	<field name = "content">The price of gold bullion and share
 prices of North American gold stocks are benefiting from
 continued weakness in the U.S. dollar, analysts said.
     "There's been a tug of war between the (currency)

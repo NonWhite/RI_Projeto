@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 13:51:33.90</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1923reute
-r f BC-carling-o'keefe-joins   03-23 0105</field>
-	<field name = "TITLE">CARLING O'KEEFECKB> JOINS STADIUM PROJECT</field>
+	<field name = "titulo">CARLING O'KEEFECKB> JOINS STADIUM PROJECT</field>
 	<field name = "DATELINE">TORONTO, March 23 -</field>
-	<field name = "BODY">Carling O'Keefe Ltd, 50.1 pct owned by
+	<field name = "content">Carling O'Keefe Ltd, 50.1 pct owned by
 Elders IXL Ltd>, said it agreed to contribute 5.0 mln Canadian
 dlrs towards the 245 mln dlr cost of building a dome stadium in
 Toronto.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:04:03.63</field>
-	<field name = "UNKNOWN">C L
-f1145reute
-u f BC-feeder-cattle-report   04-07 0106</field>
-	<field name = "TITLE">FEEDER CATTLE FUTURES SET NEW HIGHS, TURN MIXED</field>
+	<field name = "titulo">FEEDER CATTLE FUTURES SET NEW HIGHS, TURN MIXED</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Feeder Cattle futures advanced 0.20 to
+	<field name = "content">Feeder Cattle futures advanced 0.20 to
 0.30 cent at the start and posted new season's highs in April
 through August and October before slipping to trade 0.10 cent
 lower to 0.20 higher in latest trade.

@@ -4,14 +4,10 @@
 	<field name = "PLACES">spain</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0344
-reute
-d f PM-COMMUNITY-FARM   03-02 0103</field>
-	<field name = "TITLE">EC MINISTERS BID TO SAVE DAIRY ACCORD</field>
+	<field name = "titulo">EC MINISTERS BID TO SAVE DAIRY ACCORD</field>
 	<field name = "AUTHOR">By Jonathan Clayton, Reuters</field>
 	<field name = "DATELINE">BRUSSELS, March 3 -</field>
-	<field name = "BODY">European Community (EC) farm ministers
+	<field name = "content">European Community (EC) farm ministers
 were fighting hard early today to prevent a deal on cutting
 overflowing milk production from turning sour before trying to
 agree widescale reforms in other surplus sectors.

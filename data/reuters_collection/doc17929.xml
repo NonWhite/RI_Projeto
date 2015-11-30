@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 06:22:13.08</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f0443reute
-u f BC-TAIWAN-CURBS-INFLOWS   06-02 0105</field>
-	<field name = "TITLE">TAIWAN CURBS INFLOWS OF FOREIGN EXCHANGE</field>
+	<field name = "titulo">TAIWAN CURBS INFLOWS OF FOREIGN EXCHANGE</field>
 	<field name = "DATELINE">TAIPEI, June 2 -</field>
-	<field name = "BODY">Taiwan's central bank announced that as
+	<field name = "content">Taiwan's central bank announced that as
 from today the overseas foreign exchange borrowings of local
 and foreign banks would be frozen at the level they reached at
 the end of May.

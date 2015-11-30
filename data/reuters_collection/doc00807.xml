@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 17:06:32.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0158
-reute
-r f BC-HECK'S-HEX>-SAYS-CRE   03-02 0080</field>
-	<field name = "TITLE">HECK'S HEX> SAYS CREDIT AGREEMENT EXPIRED</field>
+	<field name = "titulo">HECK'S HEX> SAYS CREDIT AGREEMENT EXPIRED</field>
 	<field name = "DATELINE">NITRO, W.Va., March 2 -</field>
-	<field name = "BODY">Heck's Inc said that its credit
+	<field name = "content">Heck's Inc said that its credit
 agreement with a group of banks expired on February 28 and that
 the banks are demanding payment on the loans.
     Heck's, which did not disclose the amount being sought by

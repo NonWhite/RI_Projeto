@@ -5,13 +5,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0035reute
-u f BC-ECONOMIC-SPOTLIGHT--   04-09 0101</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - TELECOM IS KEY JAPAN MINISTRY</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - TELECOM IS KEY JAPAN MINISTRY</field>
 	<field name = "AUTHOR">By Linda Sieg, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 9 -</field>
-	<field name = "BODY">Japan's little-known Ministry of Posts and
+	<field name = "content">Japan's little-known Ministry of Posts and
 Telecommunications (MPT) has emerged as an international force
 to be reckoned with, political analysts said.
     MPT, thrust into the spotlight by trade rows with the U.S.

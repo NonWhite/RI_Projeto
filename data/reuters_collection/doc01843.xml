@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 17:22:27.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0921reute
-u f BC-HALLMARK-STORES-SELLS   03-04 0110</field>
-	<field name = "TITLE">HALLMARK STORES SELLS SECURED BONDS</field>
+	<field name = "titulo">HALLMARK STORES SELLS SECURED BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Hallmark Stores Inc is raising 137.13
+	<field name = "content">Hallmark Stores Inc is raising 137.13
 mln dlrs through a three-tranche offering of secured bonds,
 said lead underwriter Salomon Brothers Inc.
     A 31.63 mln dlr issue of bonds due 2001 was given an 8-1/4

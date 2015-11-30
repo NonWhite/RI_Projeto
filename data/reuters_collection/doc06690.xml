@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 13:52:20.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8970reute
-r f BC-UNISYS-UIS>-MERGES-U   03-18 0096</field>
-	<field name = "TITLE">UNISYS UIS> MERGES UNIX COMPUTER SYSTEMS</field>
+	<field name = "titulo">UNISYS UIS> MERGES UNIX COMPUTER SYSTEMS</field>
 	<field name = "DATELINE">DETROIT, March 18 -</field>
-	<field name = "BODY">Unisys Corp said that UNIX OS-based
+	<field name = "content">Unisys Corp said that UNIX OS-based
 computer systems previously offered by Sperry and Burroughs
 have been merged into a single family of products.
     It said completeness of product line, brand recognition and

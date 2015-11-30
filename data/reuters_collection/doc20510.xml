@@ -15,12 +15,9 @@
 	<field name = "PLACES">canada</field>
 	<field name = "PEOPLE">de-clercq</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G L 
-f2583reute
-d f BC-EC-AGREES-TRADE-DEAL   10-20 0088</field>
-	<field name = "TITLE">EC AGREES TRADE DEAL WITH ARGENTINA</field>
+	<field name = "titulo">EC AGREES TRADE DEAL WITH ARGENTINA</field>
 	<field name = "DATELINE">LUXEMBOURG, Oct 20 -</field>
-	<field name = "BODY">The European Community (EC) agreed a
+	<field name = "content">The European Community (EC) agreed a
 trade deal with Argentina designed to compensate the country
 following the entry of Spain and Portugal into the group, EC
 officials said.

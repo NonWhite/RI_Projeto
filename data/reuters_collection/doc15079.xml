@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:32:15.44</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">C
-f1448reute
-d f BC-LICENCE-OF-AUSTRALIAN   04-08 0160</field>
-	<field name = "TITLE">LICENCE OF AUSTRALIAN FUTURES TRADER SUSPENDED</field>
+	<field name = "titulo">LICENCE OF AUSTRALIAN FUTURES TRADER SUSPENDED</field>
 	<field name = "DATELINE">MELBOURNE, April 8 -</field>
-	<field name = "BODY">The Victorian Corporate Affairs
+	<field name = "content">The Victorian Corporate Affairs
 Commission, CAC, said it had suspended the futures trading
 licence of G H Shintoh (Australia) Ltd after a receiver was
 appointed to the company's South Australian branch.

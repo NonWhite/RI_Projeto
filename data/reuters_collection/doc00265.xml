@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-MAR-1987 23:43:44.86</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0546
-reute
-u f BC-AMERICAN-EXPRESS-STUD   03-01 0108</field>
-	<field name = "TITLE">AMERICAN EXPRESS STUDIES OPTIONS FOR SHEARSON</field>
+	<field name = "titulo">AMERICAN EXPRESS STUDIES OPTIONS FOR SHEARSON</field>
 	<field name = "DATELINE">NEW YORK, March 1 -</field>
-	<field name = "BODY">American Express Co AXP>, rumoured to
+	<field name = "content">American Express Co AXP>, rumoured to
 be considering a spinoff of part of Shearson Lehman Brothers
 Inc>, said it is studying ways to improve Shearson's access to
 capital and help it meet stiffer international competition.

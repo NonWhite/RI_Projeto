@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:39:31.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0846reute
-d f BC-ALASKA-AIR-GROUP-ALK   03-05 0079</field>
-	<field name = "TITLE">ALASKA AIR GROUP ALK> OFFERS STOCK</field>
+	<field name = "titulo">ALASKA AIR GROUP ALK> OFFERS STOCK</field>
 	<field name = "DATELINE">SEATTLE, WASH., March 5 -</field>
-	<field name = "BODY">Alaska Air Group Inc said it has
+	<field name = "content">Alaska Air Group Inc said it has
 registered with the Securities and Exchange Commission to offer
 1.8 mln shares of common stock, plus 180,000 shares to cover
 over-allotments.

@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:59:50.01F</field>
-	<field name = "UNKNOWN">f1943reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">h f BC-BEARD-CO-BEC>-YEAR-L   03-27 0054</field>
-	<field name = "TITLE">BEARD CO BEC> YEAR LOSS</field>
+	<field name = "titulo">BEARD CO BEC> YEAR LOSS</field>
 	<field name = "DATELINE">OKLAHOMA CITY, March 27 -</field>
-	<field name = "BODY">Shr loss 57 cts vs profit 3.02 dlrs
+	<field name = "content">Shr loss 57 cts vs profit 3.02 dlrs
     Net loss 3,606,000 vs profit 8,294,000
     Revs 15.3 mln vs 23.9 mln
     Note: Net includes gains from sale of USPCI Inc UPC> stock

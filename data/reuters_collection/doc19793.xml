@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 13:53:04.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2018reute
-s f BC-FRANKLIN-NEW-YORK-TA   06-29 0027</field>
-	<field name = "TITLE">FRANKLIN NEW YORK TAX-FREE INCOME FUND> PAYOUT</field>
+	<field name = "titulo">FRANKLIN NEW YORK TAX-FREE INCOME FUND> PAYOUT</field>
 	<field name = "DATELINE">SAN MATEO, Calif., June 29 -</field>
-	<field name = "BODY">Mthly div 7.3 cts vs 7.3 cts last month
+	<field name = "content">Mthly div 7.3 cts vs 7.3 cts last month
     Payable July 14
     Record July 1
  Reuter</field>

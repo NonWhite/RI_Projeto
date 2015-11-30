@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 08:01:28.08</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0721reute
-b f BC-BANK-OF-FRANCE-FOREIG   04-02 0088</field>
-	<field name = "TITLE">BANK OF FRANCE FOREIGN ASSETS RISE LATEST WEEK</field>
+	<field name = "titulo">BANK OF FRANCE FOREIGN ASSETS RISE LATEST WEEK</field>
 	<field name = "DATELINE">PARIS, April 2 -</field>
-	<field name = "BODY">Weekly figures published by the Bank of
+	<field name = "content">Weekly figures published by the Bank of
 France showed its gross foreign assets rose by about two
 billion francs last week, when it was reported by banks to have
 intervened on the foreign exchange markets to support the

@@ -2,13 +2,10 @@
 	<field name = "DATE">3-MAR-1987 17:07:07.46</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">F A RM
-f0993reute
-u f AM-DEBT-BRAZIL   03-03 0103</field>
-	<field name = "TITLE">U.S. OFFICIALS SAY BRAZIL SHOULD DEAL WITH BANKS</field>
+	<field name = "titulo">U.S. OFFICIALS SAY BRAZIL SHOULD DEAL WITH BANKS</field>
 	<field name = "AUTHOR">By David Hume, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">The U.S. is sticking for the moment
+	<field name = "content">The U.S. is sticking for the moment
 to its policy that Brazil, which two weeks ago suspended debt
 payments to private banks, should deal with its creditors and
 not with governments, U.S. officials said.

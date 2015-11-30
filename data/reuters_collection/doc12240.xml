@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 15:10:10.11</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">Y
-f2205reute
-u f BC-FRANCE-FORMALLY-ABOLI   04-01 0080</field>
-	<field name = "TITLE">FRANCE ABOLISHES SUSPENDED OIL IMPORT RULES</field>
+	<field name = "titulo">FRANCE ABOLISHES SUSPENDED OIL IMPORT RULES</field>
 	<field name = "DATELINE">PARIS, April 1 -</field>
-	<field name = "BODY">The french government formally abolished
+	<field name = "content">The french government formally abolished
 rules suspended since last September setting limits on the
 import and sale of refined oil products from outside the
 European Community.

@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 16:23:58.62</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2372reute
-u f BC-MARK-IV-IV>-UNIT-TO   03-23 0062</field>
-	<field name = "TITLE">MARK IV IV> UNIT TO BEGIN CONRAC CAX> TENDER</field>
+	<field name = "titulo">MARK IV IV> UNIT TO BEGIN CONRAC CAX> TENDER</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Mark IV Industries Inc said it plans
+	<field name = "content">Mark IV Industries Inc said it plans
 to begin a tender offer at 25 dlrs a share for all outstanding
 shares of Conrac Corp CAX>, a Stamford, Conn., maker of
 control instruments and telecommunications products.

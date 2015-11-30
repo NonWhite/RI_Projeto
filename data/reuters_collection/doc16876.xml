@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 13:09:10.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0355reute
-r f BC-KAYDON-KDON.O>-NAMES   04-17 0055</field>
-	<field name = "TITLE">KAYDON KDON.O> NAMES NEW CHAIRMAN</field>
+	<field name = "titulo">KAYDON KDON.O> NAMES NEW CHAIRMAN</field>
 	<field name = "DATELINE">MUSKEGON, Mich., April 17 -</field>
-	<field name = "BODY">Kaydon Corp said president
+	<field name = "content">Kaydon Corp said president
 Richard A. Shantz has been named chairman, succeeding Glenn W.
 Bailey, who remains on the board.
     The company said Lawrence J. Cawley, who had been president

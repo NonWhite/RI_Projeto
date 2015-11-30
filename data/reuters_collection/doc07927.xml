@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 15:14:54.33</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2198reute
-r f BC-COMMERCIAL-CREDIT-CC   03-20 0074</field>
-	<field name = "TITLE">COMMERCIAL CREDIT CCC> UNIT SELLS DIVISION</field>
+	<field name = "titulo">COMMERCIAL CREDIT CCC> UNIT SELLS DIVISION</field>
 	<field name = "DATELINE">BALTIMORE, Md., March 20 -</field>
-	<field name = "BODY">Commercial Credit Co said its
+	<field name = "content">Commercial Credit Co said its
 American Health and Life Insurance Co sold its ordinary life
 insurance business to American National Insurance Co ANAT>.
     American National will assume the business no later than

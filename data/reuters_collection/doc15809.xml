@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 14:09:16.23</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2035reute
-u f BC-WALL-STREET-STOCKS/UA   04-09 0083</field>
-	<field name = "TITLE">WALL STREET STOCKS/UAL INC UAL></field>
+	<field name = "titulo">WALL STREET STOCKS/UAL INC UAL></field>
 	<field name = "DATELINE">New York, April 9 -</field>
-	<field name = "BODY">Takeover speculation continues to fuel
+	<field name = "content">Takeover speculation continues to fuel
 heavy trading in UAL Inc, traders said.
     UAL rose 1-5/8 to 73-5/8 on volume of more than two mln
 shares, after trading with little upward movement earlier in

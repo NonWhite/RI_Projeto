@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2265reute
-b f BC-USDA-ANNOUNCES-WORLD   04-07 0116</field>
-	<field name = "TITLE">USDA ANNOUNCES WORLD MARKET RICE PRICES</field>
+	<field name = "titulo">USDA ANNOUNCES WORLD MARKET RICE PRICES</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 announced the following prevailing world market prices of rice
 on a loan-rate basis, with previous prices --
     -- Long grain whole kernels 5.87 cts per lb vs 5.70

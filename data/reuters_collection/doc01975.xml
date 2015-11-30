@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0740reute
-b f BC-U.K.-MONEY-MARKET-GIV   03-05 0115</field>
-	<field name = "TITLE">U.K. MONEY MARKET GIVEN FURTHER SMALL ASSISTANCE</field>
+	<field name = "titulo">U.K. MONEY MARKET GIVEN FURTHER SMALL ASSISTANCE</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">The Bank of England said it provided the
+	<field name = "content">The Bank of England said it provided the
 money market with a further 20 mln stg of assistance during the
 morning. It again bought bills for resale to the market on
 April 2 at a rate of 10-15/16 pct. Earlier this morning, it

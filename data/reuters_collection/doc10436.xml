@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:27:57.53F</field>
-	<field name = "UNKNOWN">f1025reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-LONE-STAR-INDUSTRIES   03-27 0065</field>
-	<field name = "TITLE">LONE STAR INDUSTRIES LCE> PROMISARY NOTES</field>
+	<field name = "titulo">LONE STAR INDUSTRIES LCE> PROMISARY NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">Lone Star Industries Inc said it has
+	<field name = "content">Lone Star Industries Inc said it has
 arranged 150 mln dlrs of financing through the issuance of
 promisary notes to a consortium of 22 lenders.
     Lone Star said the 8.75 pct notes will mature on March 26,

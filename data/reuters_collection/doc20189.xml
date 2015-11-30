@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 09:44:10.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1042reute
-d f BC-KERR-GLASS-KMG>-TO-S   10-20 0091</field>
-	<field name = "TITLE">KERR GLASS KMG> TO SPEND FIVE MLN DLRS ON STOCK</field>
+	<field name = "titulo">KERR GLASS KMG> TO SPEND FIVE MLN DLRS ON STOCK</field>
 	<field name = "DATELINE">LOS ANGELES, Oct 20 -</field>
-	<field name = "BODY">Kerr Glass Manufacturing Corp said it
+	<field name = "content">Kerr Glass Manufacturing Corp said it
 expects to spend five mln dlrs to purchase its own stock to be
 held by a new employee incentive stock owership trust formed
 for the benefit of salaried employees.

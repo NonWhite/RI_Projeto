@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:13:22.55</field>
-	<field name = "UNKNOWN">RM C G L M T
-f1508reute
-u f BC-BANK-OF-ENGLAND-EFFEC   04-07 0115</field>
-	<field name = "TITLE">BANK OF ENGLAND EFFECTIVE INDEX SHOWS DOLLAR AT 101.6</field>
+	<field name = "titulo">BANK OF ENGLAND EFFECTIVE INDEX SHOWS DOLLAR AT 101.6</field>
 	<field name = "DATELINE">LONDON, APR 07 -</field>
-	<field name = "BODY">The Bank of England's effective
+	<field name = "content">The Bank of England's effective
  exchange rate index showed the U.S. Dollar at 101.6 compared
 with 101.7 previously.
     Other effective rates were =

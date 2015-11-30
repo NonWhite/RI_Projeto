@@ -2,13 +2,10 @@
 	<field name = "DATE">12-MAR-1987 09:01:08.51</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0838reute
-r f BC-JAPAN-ECONOMY-MAY-BE   03-12 0093</field>
-	<field name = "TITLE">JAPAN ECONOMY MAY BE NEAR BOTTOM, ECONOMISTS SAY</field>
+	<field name = "titulo">JAPAN ECONOMY MAY BE NEAR BOTTOM, ECONOMISTS SAY</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 12 -</field>
-	<field name = "BODY">The worst may be just about over for
+	<field name = "content">The worst may be just about over for
 Japan's battered economy but economists said they do not expect
 a vigorous recovery anytime soon. Japanese bank economists
 polled by Reuters said the economy's 18 month-old slowdown is

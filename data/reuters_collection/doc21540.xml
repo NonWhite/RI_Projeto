@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 05:15:24.35</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">norway</field>
-	<field name = "UNKNOWN">F Y 
-f0307reute
-u f BC-STATOIL-PLACES-NORTH   10-19 0100</field>
-	<field name = "TITLE">STATOIL PLACES NORTH SEA VESLEFRIKK FIELD ORDERS</field>
+	<field name = "titulo">STATOIL PLACES NORTH SEA VESLEFRIKK FIELD ORDERS</field>
 	<field name = "DATELINE">OSLO, Oct 19 -</field>
-	<field name = "BODY">Den Norske Stats Oljeselskap A/S (Statoil)
+	<field name = "content">Den Norske Stats Oljeselskap A/S (Statoil)
 STAT.OL>, operator on Norway's North Sea Veslefrikk oil field,
 has placed field development contracts totalling 1.5 billion
 crowns with two domestic yards, the company said in a

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 08:21:05.74</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0286
-reute
-u f BC-SWISS-HAVE-NET-GAIN-I   03-02 0090</field>
-	<field name = "TITLE">SWISS HAVE NET GAIN IN 1985 GOVERNMENT FINANCES</field>
+	<field name = "titulo">SWISS HAVE NET GAIN IN 1985 GOVERNMENT FINANCES</field>
 	<field name = "DATELINE">BERNE, March 2 -</field>
-	<field name = "BODY">Switzerland recorded last year its first
+	<field name = "content">Switzerland recorded last year its first
 overall surplus in government finances since 1974, ending with
 a net gain worth 905 mln Swiss francs, the Finance Ministry
 said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 16:49:50.66</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM 
-f3132reute
-b f AM-/REAGAN-SAID-CONVINCE   10-19 0135</field>
-	<field name = "TITLE">REAGAN SAID CONVINCED ECONOMY STILL SOUND</field>
+	<field name = "titulo">REAGAN SAID CONVINCED ECONOMY STILL SOUND</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">President Reagan is concerned about
+	<field name = "content">President Reagan is concerned about
 the record drop in stock prices but remains convinced on the
 basis of administration talks with financial experts that the
 economy remains sound, the White House said.

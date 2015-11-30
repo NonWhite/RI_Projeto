@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 12:21:23.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0790reute
-u f BC-VALERO-ENERGY-KNOWS-O   03-06 0059</field>
-	<field name = "TITLE">VALERO ENERGY KNOWS OF NO REASON FOR STOCK GAIN</field>
+	<field name = "titulo">VALERO ENERGY KNOWS OF NO REASON FOR STOCK GAIN</field>
 	<field name = "DATELINE">SAN ANTONIO, TEX., MARCH 6 -</field>
-	<field name = "BODY">Valero Energy Corp VLO> said
+	<field name = "content">Valero Energy Corp VLO> said
 it knows of no reason for its stock activity today.
     The stock rose 1-5/8 to 10-7/8, a gain of about 17.5 pct.
     A spokesman for Valero, Steve Fry, said the company knows

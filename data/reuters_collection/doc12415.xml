@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f0285reute
-u f BC-RISING-TAIWAN-DOLLAR   04-02 0110</field>
-	<field name = "TITLE">RISING TAIWAN DOLLAR CAUSES FOREIGN RESERVES LOSS</field>
+	<field name = "titulo">RISING TAIWAN DOLLAR CAUSES FOREIGN RESERVES LOSS</field>
 	<field name = "DATELINE">TAIPEI, April 2 -</field>
-	<field name = "BODY">Taiwan said its foreign reserves suffered
+	<field name = "content">Taiwan said its foreign reserves suffered
 about 3.4 billion U.S. Dlrs in exchange rate losses from July
 1986 to February 1987 as a result of the rise of the Taiwan
 dollar against the U.S. Currency.

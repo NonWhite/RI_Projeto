@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 10:55:26.39</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1169reute
-s f BC-BAKER,-FENTRESS-AND-C   03-19 0024</field>
-	<field name = "TITLE">BAKER, FENTRESS AND CO BKFR> VOTES DIVIDEND</field>
+	<field name = "titulo">BAKER, FENTRESS AND CO BKFR> VOTES DIVIDEND</field>
 	<field name = "DATELINE">CHICAGO, March 19 -</field>
-	<field name = "BODY">Qtly div 25 cts vs 25 cts prior qtr
+	<field name = "content">Qtly div 25 cts vs 25 cts prior qtr
     Payable 10 June
     Record 15 May
  Reuter</field>

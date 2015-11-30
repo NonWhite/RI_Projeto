@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:09:02.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0458reute
-r f BC-SOUND-WAREHOUSE-SWHI   03-06 0083</field>
-	<field name = "TITLE">SOUND WAREHOUSE SWHI> SAME-STORE SALES SLIP</field>
+	<field name = "titulo">SOUND WAREHOUSE SWHI> SAME-STORE SALES SLIP</field>
 	<field name = "DATELINE">DALLAS, March 6 -</field>
-	<field name = "BODY">Sound Warehouse Inc said revenues for the
+	<field name = "content">Sound Warehouse Inc said revenues for the
 five weeks ended March One were up 27 pct to 15.0 mln dlrs from
 11.9 mln dlrs a year before, with same-store revenues off one
 pct.

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 06:41:49.95</field>
 	<field name = "PLACES">sri-lanka</field>
-	<field name = "UNKNOWN">RM 
-f2550reute
-u f BC-INVESTIGATORS-SAY-AIR   06-18 0112</field>
-	<field name = "TITLE">INVESTIGATORS SAY AIR LANKA LOSSES DEVASTATING</field>
+	<field name = "titulo">INVESTIGATORS SAY AIR LANKA LOSSES DEVASTATING</field>
 	<field name = "AUTHOR">By Marilyn Odchimar, Reuters</field>
 	<field name = "DATELINE">COLOMBO, June 18 -</field>
-	<field name = "BODY">A commission set up to unravel the
+	<field name = "content">A commission set up to unravel the
 affairs of debt-ridden Air Lanka says the airline amassed
 losses of up to 265 mln U.S. Dlrs in "the most devastating
 financial tragedy" in Sri Lankan commercial history.

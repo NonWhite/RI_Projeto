@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0088reute
-u f BC-FED'S-JOHNSON-STRESSE   03-05 0082</field>
-	<field name = "TITLE">FED'S JOHNSON STRESSES PRICE STABILITY</field>
+	<field name = "titulo">FED'S JOHNSON STRESSES PRICE STABILITY</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Federal Reserve Board Vice Chairman
+	<field name = "content">Federal Reserve Board Vice Chairman
 Manuel Johnson said that maintaining price stability was
 critical to achieving non-inflationary economic growth in the
 world and said that progress was being made.

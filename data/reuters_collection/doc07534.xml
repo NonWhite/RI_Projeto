@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 22:32:43.66</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">RM
-f2859reute
-u f BC-U.S.-SAY-SOVIET-UNION   03-19 0104</field>
-	<field name = "TITLE">U.S. SAY SOVIET UNION HAS EXCEEDED MISSILE PACT</field>
+	<field name = "titulo">U.S. SAY SOVIET UNION HAS EXCEEDED MISSILE PACT</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">President Reagan accused the Soviet
+	<field name = "content">President Reagan accused the Soviet
 Union of exceeding a traditional restrictive reading of the
 1972 Anti-Ballistic Missile treaty, but said the U.S. Saw no
 reason yet to follow suit.

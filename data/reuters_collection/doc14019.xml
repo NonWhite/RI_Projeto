@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:06:39.38</field>
-	<field name = "UNKNOWN">GQ
-f1162reute
-u f BC-cbt-soyoil-report   04-07 0060</field>
-	<field name = "TITLE">CBT SOYBEAN OIL SPREADS</field>
+	<field name = "titulo">CBT SOYBEAN OIL SPREADS</field>
 	<field name = "DATELINE">APRIL 7  -</field>
-	<field name = "BODY">1000 hrs cdt
+	<field name = "content">1000 hrs cdt
  MONTHS    LAST          DIFFERENCE
  May/Jul   0.34 under    0.35 under
  Jul/Aug   0.16 under    0.17 under

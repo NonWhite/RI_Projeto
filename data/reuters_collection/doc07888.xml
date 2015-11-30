@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 13:58:44.63</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1965reute
-r f BC-BANCO-DI-ROMA-UNIT-AR   03-20 0118</field>
-	<field name = "TITLE">BANCO DI ROMA UNIT ARRANGES EURO-PAPER PROGRAM</field>
+	<field name = "titulo">BANCO DI ROMA UNIT ARRANGES EURO-PAPER PROGRAM</field>
 	<field name = "DATELINE">LONDON, March 20 -</field>
-	<field name = "BODY">Banco di Roma (London branch) has
+	<field name = "content">Banco di Roma (London branch) has
 arranged a 200 mln dlr nominal Euro-commercial paper program,
 Swiss Bank Corporation International Ltd said as sold dealer.
     The borrower will be able to issue paper with maturities of

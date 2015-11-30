@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">luxembourg</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM 
-f1263reute
-u f BC-EC-ANNUAL-INFLATION-F   06-29 0100</field>
-	<field name = "TITLE">EC ANNUAL INFLATION FALLS IN MAY</field>
+	<field name = "titulo">EC ANNUAL INFLATION FALLS IN MAY</field>
 	<field name = "DATELINE">LUXEMBOURG, June 29 -</field>
-	<field name = "BODY">The European Community's annual
+	<field name = "content">The European Community's annual
 inflation rate fell marginally to 3.2 pct in May from 3.3 pct
 in April, the EC's statistics office Eurostat said.
     Prices in the 12-nation bloc rose 0.2 pct in May after 0.6

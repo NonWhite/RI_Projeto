@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 09:48:16.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0090reute
-r f BC-CIGNA-CORP-CI>-SETS   03-11 0078</field>
-	<field name = "TITLE">CIGNA CORP CI> SETS DATE FOR DEBT REDEMPTION</field>
+	<field name = "titulo">CIGNA CORP CI> SETS DATE FOR DEBT REDEMPTION</field>
 	<field name = "DATELINE">PHILADELPHIA, March 11 -</field>
-	<field name = "BODY">CIGNA Corp said it has fixed April
+	<field name = "content">CIGNA Corp said it has fixed April
 24 as the date for the previously-announced redemption of its
 99.8 mln dlrs of outstanding eight pct subordinated
 exchangeable debentures due December 1, 2007 at 105.867 pct of

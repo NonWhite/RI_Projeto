@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 11:49:53.86</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0517reute
-r f BC-KODAK-EK>-REAFFIRMS   03-12 0105</field>
-	<field name = "TITLE">KODAK EK> REAFFIRMS COMMITMENT TO PHOTOGRAPHY</field>
+	<field name = "titulo">KODAK EK> REAFFIRMS COMMITMENT TO PHOTOGRAPHY</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., March 12 -</field>
-	<field name = "BODY">Eastman Kodak Co said it will
+	<field name = "content">Eastman Kodak Co said it will
 build a major facility here for the production of color film,
 reaffirming its commitment to its core photographic business.
     Kodak said the plant will cost more than 200 mln dlrs to

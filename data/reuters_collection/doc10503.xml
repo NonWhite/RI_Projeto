@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:48:00.06F</field>
-	<field name = "UNKNOWN">f1419reute</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">d f BC-KRUPP-MANAGER-ARRESTE   03-27 0104</field>
-	<field name = "TITLE">KRUPP MANAGER ARRESTED FOR FRAUD IN W. GERMANY</field>
+	<field name = "titulo">KRUPP MANAGER ARRESTED FOR FRAUD IN W. GERMANY</field>
 	<field name = "DATELINE">HANOVER, West Germany, March 27 -</field>
-	<field name = "BODY">A manager with steel
+	<field name = "content">A manager with steel
 producer Krupp Stahl AG KRPG.F> was arrested yesterday for
 fraud and falsifying documents, the state prosecutor's office
 said today.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 16:14:17.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2489reute
-r f BC-AMOCO-AN>-OPTIMISTIC   04-09 0107</field>
-	<field name = "TITLE">AMOCO AN> OPTIMISTIC WITH STABLE OIL PRICES</field>
+	<field name = "titulo">AMOCO AN> OPTIMISTIC WITH STABLE OIL PRICES</field>
 	<field name = "DATELINE">CHICAGO, April 9 -</field>
-	<field name = "BODY">Amoco Corp said it sees a more favorble
+	<field name = "content">Amoco Corp said it sees a more favorble
 outlook because of actions taken last year and a recent
 strengthening of oil prices.
     "It appears now that the worst is behind us," said Amoco

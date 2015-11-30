@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:42:02.43RM</field>
-	<field name = "UNKNOWN">f0894reute</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">b f BC-U.K.-MONEY-MARKET-GIV   03-27 0102</field>
-	<field name = "TITLE">U.K. MONEY MARKET GIVEN FURTHER 663 MLN STG HELP</field>
+	<field name = "titulo">U.K. MONEY MARKET GIVEN FURTHER 663 MLN STG HELP</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">The Bank of England said it gave the
+	<field name = "content">The Bank of England said it gave the
 money market a further 663 mln stg assistance in the afternoon
 session. This takes the Bank's total assistance so far today to
 928 mln stg and compares with its forecast shortage which it

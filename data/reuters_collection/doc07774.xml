@@ -7,12 +7,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "TOPICS">strategic-metal</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F E
-f1430reute
-d f BC-HOUSTON-METALS'-MINE   03-20 0103</field>
-	<field name = "TITLE">HOUSTON METALS' MINE YIELDS POSITIVE RESULTS</field>
+	<field name = "titulo">HOUSTON METALS' MINE YIELDS POSITIVE RESULTS</field>
 	<field name = "DATELINE">VANCOUVER, March 20 -</field>
-	<field name = "BODY">Houston Metals Corp> said the
+	<field name = "content">Houston Metals Corp> said the
 the first phase of the underground rehabilitation, extensive
 drilling and bulk sampling program at its Silver Queen Mine has
 yielded positive results.

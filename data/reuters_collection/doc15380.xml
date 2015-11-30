@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 04:06:28.13</field>
 	<field name = "PLACES">australia</field>
 	<field name = "EXCHANGES">asx</field>
-	<field name = "UNKNOWN">F
-f0150reute
-u f BC-AUSTRALIAN-SHARE-VOLU   04-09 0105</field>
-	<field name = "TITLE">AUSTRALIAN SHARE VOLUME HITS FIRST QUARTER RECORD</field>
+	<field name = "titulo">AUSTRALIAN SHARE VOLUME HITS FIRST QUARTER RECORD</field>
 	<field name = "DATELINE">SYDNEY, April 9 -</field>
-	<field name = "BODY">The value of turnover on the Australian
+	<field name = "content">The value of turnover on the Australian
 Stock Exchange (ASX) soared to a record 17.11 billion dlrs in
 the first three months of 1987 from 7.50 billion in the
 corresponding months of 1986, the ASX said.

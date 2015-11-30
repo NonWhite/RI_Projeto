@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 12:00:40.23</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0815reute
-r f BC-NOVELL-INC-NOVL>-1ST   03-04 0037</field>
-	<field name = "TITLE">NOVELL INC NOVL> 1ST QTR JAN 31 NET</field>
+	<field name = "titulo">NOVELL INC NOVL> 1ST QTR JAN 31 NET</field>
 	<field name = "DATELINE">PROVO, Utah, March 4 -</field>
-	<field name = "BODY">Shr 31 cts vs 20 cts
+	<field name = "content">Shr 31 cts vs 20 cts
     Net 3,541,000 vs 2,071,000
     Sales 29.9 mln vs 14.5 mln
     Avg shrs 11.6 mln vs 10.4 mln

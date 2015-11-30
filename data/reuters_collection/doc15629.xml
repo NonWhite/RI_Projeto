@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:14:33.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f1291reute
-r f BC-MOODY'S-MAY-DOWNGRADE   04-09 0110</field>
-	<field name = "TITLE">MOODY'S MAY DOWNGRADE AMERICAN HEALTHCARE AHI></field>
+	<field name = "titulo">MOODY'S MAY DOWNGRADE AMERICAN HEALTHCARE AHI></field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 may downgrade American Healthcare Management Inc's 80 mln dlrs
 of 15 pct subordinated notes.
     Moody's review will focus on prospects for the company's

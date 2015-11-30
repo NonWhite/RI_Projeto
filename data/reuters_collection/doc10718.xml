@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 04:37:16.97</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0306reute
-b f BC-GILLETTE-CANADA-ISSUE   03-30 0091</field>
-	<field name = "TITLE">GILLETTE CANADA ISSUES 500 MLN FRENCH FRANC BOND</field>
+	<field name = "titulo">GILLETTE CANADA ISSUES 500 MLN FRENCH FRANC BOND</field>
 	<field name = "DATELINE">LONDON, March 30 -</field>
-	<field name = "BODY">Gillette Canada Inc is launching a 500
+	<field name = "content">Gillette Canada Inc is launching a 500
 mln French franc bond, due April 30, 1992, paying nine pct and
 priced at 101-5/8, Banque Paribas said on behalf of Banque
 Paribas Paris, the lead manager.

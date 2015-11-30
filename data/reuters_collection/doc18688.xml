@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">Y E 
-f3291reute
-b f BC-/SHELL-CANADA-SHC>-R   06-18 0104</field>
-	<field name = "TITLE">SHELL CANADA SHC> RAISES CRUDE 32 CTS CANADIAN</field>
+	<field name = "titulo">SHELL CANADA SHC> RAISES CRUDE 32 CTS CANADIAN</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Shell Canada SHC>, whose majority
+	<field name = "content">Shell Canada SHC>, whose majority
 interest is owned by the Royal Dutch/Shell Group of companies,
 raised the postings of light sweet and sour crude oil from
 Edmonton/Swann Hills 32 Canadian cts a barrel, effective today.

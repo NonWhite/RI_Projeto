@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 11:46:40.31</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f1567reute
-h f BC-FOREIGN-FIRMS-HOPE-TO   03-26 0108</field>
-	<field name = "TITLE">FOREIGN FIRMS HOPE TO JOIN JAPAN TELECOM COMPANY</field>
+	<field name = "titulo">FOREIGN FIRMS HOPE TO JOIN JAPAN TELECOM COMPANY</field>
 	<field name = "DATELINE">TOKYO, March 26 -</field>
-	<field name = "BODY">President Nobuo Ito of International
+	<field name = "content">President Nobuo Ito of International
 Telecom Japan Inc (ITJ), one of two rival firms seeking to
 enter Japan's international telecommunications market, said it
 will offer a stake in the company to 10 foreign firms.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 13:40:50.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6022reute
-u f BC-CONSOLIDATED-OIL-CGS   03-17 0054</field>
-	<field name = "TITLE">CONSOLIDATED OIL CGS> TO ISSUE NEWS SHORTLY</field>
+	<field name = "titulo">CONSOLIDATED OIL CGS> TO ISSUE NEWS SHORTLY</field>
 	<field name = "DATELINE">DENVER, March 17 -</field>
-	<field name = "BODY">Consolidated Oil and Gas Inc and
+	<field name = "content">Consolidated Oil and Gas Inc and
 Consolidated Energy Partners LP CPS>, whose stocks are halted
 on the American Stock Exchange, said they will issue news
 releases shortly.

@@ -8,12 +8,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">V 
-f3967reute
-u f BC-EUROPEAN-COMMUNITY-CR   06-18 0108</field>
-	<field name = "TITLE">EUROPEAN COMMUNITY CRITICISES U.S TRADE MEASURES</field>
+	<field name = "titulo">EUROPEAN COMMUNITY CRITICISES U.S TRADE MEASURES</field>
 	<field name = "DATELINE">GENEVA, June 18 -</field>
-	<field name = "BODY">The European Community (EC) accused the
+	<field name = "content">The European Community (EC) accused the
 United States of violating a political commitment to free trade
 through practices including a tax on imported gasoline and a
 customs user fee.

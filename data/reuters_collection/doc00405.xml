@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 09:31:36.26</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0491
-reute
-u f BC-DAVIS-WATER-DWWS>-DE   03-02 0035</field>
-	<field name = "TITLE">DAVIS WATER DWWS> DECLARES STOCK DIVIDEND</field>
+	<field name = "titulo">DAVIS WATER DWWS> DECLARES STOCK DIVIDEND</field>
 	<field name = "DATELINE">THOMASVILLE, Ga., March 2 -</field>
-	<field name = "BODY">Davis Water and Waste
+	<field name = "content">Davis Water and Waste
 Industries Inc said its board declared a 33-1/3 pct stock
 dividend, payable March 23 to holders of record March 12.
  Reuter</field>

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 16:31:16.12</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2560reute
-d f BC-HMO-AMERICA-HMOA>-AG   04-13 0078</field>
-	<field name = "TITLE">HMO AMERICA HMOA> AGREES TO BE ACQUIRED</field>
+	<field name = "titulo">HMO AMERICA HMOA> AGREES TO BE ACQUIRED</field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">HMO America Inc said it signed a letter
+	<field name = "content">HMO America Inc said it signed a letter
 of intent with Mount Sinai Medical Center here and an
 affiliate, providing that all of its common and preferred stock
 be acquired by a new not-for-profit company to be controlled by

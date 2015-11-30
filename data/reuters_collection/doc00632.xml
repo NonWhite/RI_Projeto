@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:36:32.59</field>
-	<field name = "UNKNOWN">F A RM
-f0546
-reute
-r f BC-S/P-MAY-DOWNGRADE-MAC   03-02 0113</field>
-	<field name = "TITLE">S/P MAY DOWNGRADE MACK TRUCKS MACK> DEBT</field>
+	<field name = "titulo">S/P MAY DOWNGRADE MACK TRUCKS MACK> DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it placed
+	<field name = "content">Standard and Poor's Corp said it placed
 on creditwatch with negative implications Mack Trucks Inc's 140
 mln dlrs of BB-plus senior debt.
     S and P said Mack lost significant market share in heavy

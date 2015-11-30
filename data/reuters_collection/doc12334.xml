@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:59:13.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2534reute
-r f BC-AMR-AMR>,-CITICORP-   04-01 0105</field>
-	<field name = "TITLE">AMR AMR>, CITICORP CCI> TO SET MARKETING PACT</field>
+	<field name = "titulo">AMR AMR>, CITICORP CCI> TO SET MARKETING PACT</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">AMR Corp's American Airlines and
+	<field name = "content">AMR Corp's American Airlines and
 Citibank are expected to announce a joint marketing program at
 a press conference tomorrow, analysts said.
     The program will probably allow consumers using a credit

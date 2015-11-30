@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 12:30:57.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f8610reute
-u f BC-WYLE-LABS-WYL>-TO-IS   03-18 0102</field>
-	<field name = "TITLE">WYLE LABS WYL> TO ISSUE DEBENTURES IN EUROPE</field>
+	<field name = "titulo">WYLE LABS WYL> TO ISSUE DEBENTURES IN EUROPE</field>
 	<field name = "DATELINE">EL SEGUNDO, Calif., March 18 -</field>
-	<field name = "BODY">Wyle Laboratories said it is
+	<field name = "content">Wyle Laboratories said it is
 issuing in the Euro-Market 25 mln dlrs of 6-1/4 pct convertible
 subordinated debentures due March 2002.
     The debentures are convertible into Wyle common stock at a

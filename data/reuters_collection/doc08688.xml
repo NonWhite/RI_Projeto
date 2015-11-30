@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0646reute
-r f BC-MERRILL-LYNCH-MER>-I   03-24 0099</field>
-	<field name = "TITLE">MERRILL LYNCH MER> IN TALKS ON CANADA PURCHASES</field>
+	<field name = "titulo">MERRILL LYNCH MER> IN TALKS ON CANADA PURCHASES</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Merrill Lynch and Co Inc is holding
+	<field name = "content">Merrill Lynch and Co Inc is holding
 talks on acquiring Canadian brokerage firms, a company
 spokesman told Reuters.
     He said one of the firms with which Merrill Lynch is

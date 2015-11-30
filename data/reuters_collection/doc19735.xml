@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:41:02.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1754reute
-r f BC-NATIONAL-PATENT-NPD>   06-29 0103</field>
-	<field name = "TITLE">NATIONAL PATENT NPD> TO START AIDS DRUG TRIAL</field>
+	<field name = "titulo">NATIONAL PATENT NPD> TO START AIDS DRUG TRIAL</field>
 	<field name = "DATELINE">NEW YORK, June 29, -</field>
-	<field name = "BODY">National Patent Development Corp and
+	<field name = "content">National Patent Development Corp and
 Bar-Ilan University of Israel said that their joint venture
 corporation, Scientific Testing Inc, will begin a clinical
 trial in the U.S. of its immuno-augmenting compound, AS101, for

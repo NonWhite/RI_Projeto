@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0378reute
-u f BC-BLUE-ARROW-TO-BUY-U.S   04-13 0116</field>
-	<field name = "TITLE">BLUE ARROW TO BUY U.S. RICHARDS COMPANIES</field>
+	<field name = "titulo">BLUE ARROW TO BUY U.S. RICHARDS COMPANIES</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">Blue Arrow Plc> said it had agreed
+	<field name = "content">Blue Arrow Plc> said it had agreed
 terms to acquire a group of U.S. Companies collectively known
 as the Richards Companies>, which specialise in executive
 recruitment and management consultancy on personnel matters.

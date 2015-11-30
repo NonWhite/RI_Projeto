@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 14:45:36.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2092reute
-d f BC-BETA-PHASE-BETA>-TO   03-25 0117</field>
-	<field name = "TITLE">BETA PHASE BETA> TO SELL EYEGLASS TECHNOLOGY</field>
+	<field name = "titulo">BETA PHASE BETA> TO SELL EYEGLASS TECHNOLOGY</field>
 	<field name = "DATELINE">MENLO PARK, Calif., March 25 -</field>
-	<field name = "BODY">Beta Phase said it has
+	<field name = "content">Beta Phase said it has
 agreed to sell its shape-memory eyeglass frame manufacturing
 technology and equipment to privately-held Universal Optical.
     The company said Universal Optical will also purchase the

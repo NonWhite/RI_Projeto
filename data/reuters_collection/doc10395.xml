@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:03:07.38RM</field>
-	<field name = "UNKNOWN">f0778reute</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">u f BC-EDF-ISSUES-SWISS-FRAN   03-27 0109</field>
-	<field name = "TITLE">EDF ISSUES SWISS FRANC NOTES WITH GOLD WARRANTS</field>
+	<field name = "titulo">EDF ISSUES SWISS FRANC NOTES WITH GOLD WARRANTS</field>
 	<field name = "DATELINE">ZURICH, March 27 -</field>
-	<field name = "BODY">Electricite de France is issuing 100 mln
+	<field name = "content">Electricite de France is issuing 100 mln
 Swiss francs of 3-3/8 pct notes with warrants issued by Credit
 Suisse attached to buy gold, lead manager Credit Suisse said.
     Each eight-year note of a 50,000-franc face value has 15

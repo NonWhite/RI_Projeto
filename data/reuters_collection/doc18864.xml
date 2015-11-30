@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 13:36:00.62</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM A 
-f4104reute
-r f BC-RIO-DE-JANEIRO-DOCKER   06-18 0105</field>
-	<field name = "TITLE">RIO DE JANEIRO DOCKERS STRIKE</field>
+	<field name = "titulo">RIO DE JANEIRO DOCKERS STRIKE</field>
 	<field name = "DATELINE">RIO DE JANEIRO, JUNE 18 -</field>
-	<field name = "BODY">Rio de Janeiro's 3,500
+	<field name = "content">Rio de Janeiro's 3,500
 dockworkers went on strike for an indefinite period today to
 demand wage increases, a spokesman for the dockers said.
     The Rio dockers did not get support from their colleagues

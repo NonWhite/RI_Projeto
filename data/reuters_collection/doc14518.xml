@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:46:29.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2271reute
-r f BC-MANHATTAN-NATIONAL-M   04-07 0087</field>
-	<field name = "TITLE">MANHATTAN NATIONAL MLC> ELECTS CHAIRMAN</field>
+	<field name = "titulo">MANHATTAN NATIONAL MLC> ELECTS CHAIRMAN</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Manhattan National Corp said it elected
+	<field name = "content">Manhattan National Corp said it elected
 Charles Hinckley chairman and chief executive officer of the
 life insurance holding company.
     Hinckley succeeds Wilmot Wheeler Jr, who returns to his

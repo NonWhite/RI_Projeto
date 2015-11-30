@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gas</field>
 	<field name = "TOPICS">naphtha</field>
 	<field name = "TOPICS">fuel</field>
-	<field name = "UNKNOWN">Y 
-f2211reute
-u f BC-SINGAPORE-PETROLEUM-C   06-18 0116</field>
-	<field name = "TITLE">SINGAPORE PETROLEUM CO RAISES OIL PRODUCT POSTINGS</field>
+	<field name = "titulo">SINGAPORE PETROLEUM CO RAISES OIL PRODUCT POSTINGS</field>
 	<field name = "DATELINE">SINGAPORE, June 18 -</field>
-	<field name = "BODY">Singapore Petroleum Co Pte Ltd said it
+	<field name = "content">Singapore Petroleum Co Pte Ltd said it
 will raise posted prices for its products from June 19, by one
 cent/gallon for lpg, naphtha and gasoline, two cents for gas
 oil and by 60 cents/barrel for marine diesel oil.

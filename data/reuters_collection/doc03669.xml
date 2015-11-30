@@ -2,13 +2,10 @@
 	<field name = "DATE">11-MAR-1987 10:50:03.34</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">A
-f0383reute
-h f BC-NAKASONE-SET-TO-STAY   03-11 0116</field>
-	<field name = "TITLE">NAKASONE SET TO STAY UNTIL TAX REFORM APPROVED</field>
+	<field name = "titulo">NAKASONE SET TO STAY UNTIL TAX REFORM APPROVED</field>
 	<field name = "AUTHOR">By Yuko Nakamikado, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 11 -</field>
-	<field name = "BODY">Prime Minister Yasuhiro Nakasone will
+	<field name = "content">Prime Minister Yasuhiro Nakasone will
 step down only after his plan to overhaul Japan's tax system
 gets parliamentary approval, one of his closest aides said
 today.

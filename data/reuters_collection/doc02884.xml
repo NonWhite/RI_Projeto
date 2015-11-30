@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 16:39:19.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0593reute
-d f BC-BLACK/DECKER-BDK>-CH   03-06 0084</field>
-	<field name = "TITLE">BLACK/DECKER BDK> CHARGED WITH VIOLATING PATENT</field>
+	<field name = "titulo">BLACK/DECKER BDK> CHARGED WITH VIOLATING PATENT</field>
 	<field name = "DATELINE">AURORA, Ill., March 6 -</field>
-	<field name = "BODY">Pittway Corp PRY> charged Black
+	<field name = "content">Pittway Corp PRY> charged Black
 and Decker Inc with infringing on Pittway's switch mechanism
 patent for two models of Pittway's First Alert rechargeable
 flashlights.

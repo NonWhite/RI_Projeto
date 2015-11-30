@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 10:28:23.58</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1070reute
-u f BC-REICHHOLD-CHEMICAL-R   04-09 0089</field>
-	<field name = "TITLE">REICHHOLD CHEMICAL RCI> SETS ANTI-TAKEOVER PLAN</field>
+	<field name = "titulo">REICHHOLD CHEMICAL RCI> SETS ANTI-TAKEOVER PLAN</field>
 	<field name = "DATELINE">WHITE PLAINS, April 9 -</field>
-	<field name = "BODY">Reichhold Chemical Inc said its
+	<field name = "content">Reichhold Chemical Inc said its
 board adopted a warrant dividend plan in which one preferred
 stock purchase right will be distributed as a dividend on each
 common share outstanding.

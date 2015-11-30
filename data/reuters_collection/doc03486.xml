@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 05:16:06.98</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM F
-f0403reute
-b f BC-GENENTECH-SETS-100-ML   03-11 0116</field>
-	<field name = "TITLE">GENENTECH SETS 100 MLN DLRS OF CONVERTIBLE BONDS</field>
+	<field name = "titulo">GENENTECH SETS 100 MLN DLRS OF CONVERTIBLE BONDS</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Genetech Inc GENE.O> is issuing a 100
+	<field name = "content">Genetech Inc GENE.O> is issuing a 100
 mln dlr convertible bond due March 30, 2002 with an indicated
 coupon of five to 5-1/2 pct and an issue price of par, Credit
 Suisse First Boston (CSFB) said as lead manager.

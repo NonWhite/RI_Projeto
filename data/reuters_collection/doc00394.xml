@@ -5,13 +5,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">C G
-f0465
-reute
-u f BC-FRENCH-ESTIMATED-86/8   03-02 0098</field>
-	<field name = "TITLE">FRENCH ESTIMATE 86/87 WHEAT DELIVERIES UNCHANGED</field>
+	<field name = "titulo">FRENCH ESTIMATE 86/87 WHEAT DELIVERIES UNCHANGED</field>
 	<field name = "DATELINE">PARIS, March 2 -</field>
-	<field name = "BODY">The French Cereals Intervention Board,
+	<field name = "content">The French Cereals Intervention Board,
 ONIC, left its estimate of French 1986/87 (July/June) soft
 wheat deliveries unchanged from its last forecast at 21.98 mln
 tonnes.

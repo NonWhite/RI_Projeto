@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 06:08:50.43</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0394reute
-u f BC-JAPANESE-ECONOMIC-PAC   04-08 0104</field>
-	<field name = "TITLE">JAPANESE ECONOMIC PACKAGE SEEN AS MAJOR CHANGE</field>
+	<field name = "titulo">JAPANESE ECONOMIC PACKAGE SEEN AS MAJOR CHANGE</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">The economic package unveiled yesterday by
+	<field name = "content">The economic package unveiled yesterday by
 the ruling Liberal Democratic Party (LDP) marks the start of a
 major shift away from the policies of the past, private
 economists and government officials said.

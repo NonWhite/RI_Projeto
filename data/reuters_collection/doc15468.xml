@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 08:29:23.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0641reute
-r f BC-SAPC-INC>-SUES-LOTUS   04-09 0105</field>
-	<field name = "TITLE">SAPC INC> SUES LOTUS LOTS> OVER COPYRIGHT</field>
+	<field name = "titulo">SAPC INC> SUES LOTUS LOTS> OVER COPYRIGHT</field>
 	<field name = "DATELINE">CAMBRIDGE, Mass., April 9 -</field>
-	<field name = "BODY">Privately-held software
+	<field name = "content">Privately-held software
 developer SAPC Inc said it has filed suit in U.S. District
 Court in Boston against Lotus Development Corp, alleging the
 infringement of a copyright and the misappropriation of trade

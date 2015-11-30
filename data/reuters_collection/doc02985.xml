@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 03:27:39.04</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0284reute
-u f BC-AUSTRALIAN-INVESTMENT   03-09 0111</field>
-	<field name = "TITLE">AUSTRALIAN INVESTMENT OUTLOOK SEEN AS UNCERTAIN</field>
+	<field name = "titulo">AUSTRALIAN INVESTMENT OUTLOOK SEEN AS UNCERTAIN</field>
 	<field name = "DATELINE">MELBOURNE, March 9 -</field>
-	<field name = "BODY">The outlook for Australian industrial
+	<field name = "content">The outlook for Australian industrial
 investment is uncertain, with capital spending at an historical
 low and business overly dependent on domestic demand, the
 Australian Chamber of Manufactures and the National Institute

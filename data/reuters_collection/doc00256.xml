@@ -4,13 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">imf</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0498
-reute
-u f BC-POLISH-BANKER-PLEASED   03-01 0109</field>
-	<field name = "TITLE">POLISH BANKER PLEASED WITH WORLD BANK, IMF TALKS</field>
+	<field name = "titulo">POLISH BANKER PLEASED WITH WORLD BANK, IMF TALKS</field>
 	<field name = "DATELINE">WARSAW, March 2 -</field>
-	<field name = "BODY">Poland's talks in Washington with the
+	<field name = "content">Poland's talks in Washington with the
 World Bank and the International Monetary Fund (IMF) on the
 country's 33.5 billion dlr foreign debt were concrete, open and
 frank, a senior Polish banker was quoted as saying.

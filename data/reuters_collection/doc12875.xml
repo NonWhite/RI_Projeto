@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 09:58:42.45</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0971reute
-h f BC-ECONOMIC-SPOTLIGHT--   04-03 0090</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - TOKYO HARD ON FOREIGN TRADERS</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - TOKYO HARD ON FOREIGN TRADERS</field>
 	<field name = "AUTHOR">By Steven Brull, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 2 -</field>
-	<field name = "BODY">Overseas securities firms are spending
+	<field name = "content">Overseas securities firms are spending
 millions of dollars to set up operations in Tokyo, but many
 will end up losing money, industry sources said.
     For banks and securities firms eager to establish

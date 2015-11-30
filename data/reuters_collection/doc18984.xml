@@ -5,12 +5,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM 
-f4888reute
-b f BC-OECD-SEES-GERMAN-GROW   06-18 0115</field>
-	<field name = "TITLE">OECD SEES GERMAN GROWTH HIT BY LOW DOMESTIC DEMAND</field>
+	<field name = "titulo">OECD SEES GERMAN GROWTH HIT BY LOW DOMESTIC DEMAND</field>
 	<field name = "DATELINE">PARIS, June 19 -</field>
-	<field name = "BODY">West German economic growth will slow to
+	<field name = "content">West German economic growth will slow to
 1.5 pct this year from 2.4 pct in 1986 due to weak domestic
 demand and tougher competition from abroad, the Organisation
 for Economic Cooperation and Development (OECD) said in its

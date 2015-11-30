@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1242reute
-b f BC-/USDA-DENIES-CHANGES   04-02 0134</field>
-	<field name = "TITLE">USDA DENIES CHANGES IN TEXAS GULF DIFFERENTIALS</field>
+	<field name = "titulo">USDA DENIES CHANGES IN TEXAS GULF DIFFERENTIALS</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">No changes have been made or are
+	<field name = "content">No changes have been made or are
 being planned in the Agriculture Department's calculation of
 price differentials between interior grain locations and the
 Texas Gulf, a senior USDA official said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0303reute
-u f BC-FRENCH-1986-CURRENT-A   03-12 0085</field>
-	<field name = "TITLE">FRENCH 1986 CURRENT ACCOUNT SURPLUS REVISED</field>
+	<field name = "titulo">FRENCH 1986 CURRENT ACCOUNT SURPLUS REVISED</field>
 	<field name = "DATELINE">PARIS, March 12 -</field>
-	<field name = "BODY">The French 1986 current account balance
+	<field name = "content">The French 1986 current account balance
 of payments surplus has been revised slightly upwards to 25.8
 billion francs from the 25.4 billion franc figure announced
 last month, the Finance Ministry said.

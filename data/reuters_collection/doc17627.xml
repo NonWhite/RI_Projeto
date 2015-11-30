@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 12:13:39.02</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f1614reute
-r f BC-STG-COMMERCIAL-PAPER   06-01 0104</field>
-	<field name = "TITLE">STG COMMERCIAL PAPER EXCEEDS ONE BILLION IN APRIL</field>
+	<field name = "titulo">STG COMMERCIAL PAPER EXCEEDS ONE BILLION IN APRIL</field>
 	<field name = "DATELINE">LONDON, June 1 -</field>
-	<field name = "BODY">Total sterling commercial paper
+	<field name = "content">Total sterling commercial paper
 outstanding rose 251 mln stg to 1.19 billion in April, taking
 it above one billion stg for the first time since the market
 opened in May 1986, figures released today by the Bank of

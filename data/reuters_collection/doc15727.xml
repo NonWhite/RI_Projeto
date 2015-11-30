@@ -5,12 +5,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">G
-f1658reute
-r f BC-LONDON-GRAIN-FREIGHT   04-09 0077</field>
-	<field name = "TITLE">LONDON GRAIN FREIGHT ENQUIRIES</field>
+	<field name = "titulo">LONDON GRAIN FREIGHT ENQUIRIES</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Antwerp/Libya 5,500 mt bagged flour 14
+	<field name = "content">Antwerp/Libya 5,500 mt bagged flour 14
 daps 24-27/4.
     New Orleans/Guanta 9,387 mt bulk hss 3,000/13 days
 25-4/5-5.

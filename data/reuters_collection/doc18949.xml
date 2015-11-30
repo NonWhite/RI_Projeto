@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 15:17:19.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4393reute
-d f BC-CNS-CNXS.O>-COMPLETE   06-18 0089</field>
-	<field name = "TITLE">CNS CNXS.O> COMPLETES INITIAL PUBLIC OFFERING</field>
+	<field name = "titulo">CNS CNXS.O> COMPLETES INITIAL PUBLIC OFFERING</field>
 	<field name = "DATELINE">MINNEAPOLIS, June 18 -</field>
-	<field name = "BODY">CNS Inc said it completed its
+	<field name = "content">CNS Inc said it completed its
 initial public offering of 1,035,000 shares of common stock at
 3.75 dlrs a share through an underwriting group headed by
 Engler-Budd and Co Inc.

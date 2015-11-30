@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 09:49:06.41</field>
 	<field name = "PLACES">luxembourg</field>
-	<field name = "UNKNOWN">RM
-f0951reute
-u f BC-BELGELECTRIC-RAISES-3   04-13 0087</field>
-	<field name = "TITLE">BELGELECTRIC RAISES 300 MLN LUXEMBOURG FRANCS</field>
+	<field name = "titulo">BELGELECTRIC RAISES 300 MLN LUXEMBOURG FRANCS</field>
 	<field name = "DATELINE">LUXEMBOURG, April 13 -</field>
-	<field name = "BODY">Belgelectric Finance BV is raising
+	<field name = "content">Belgelectric Finance BV is raising
 300 mln Luxembourg francs through a five year, non-callable
 bullet bond carrying a 7-1/4 pct coupon at par, lead manager
 Banque Internationale a Luxembourg SA (BIL) said.

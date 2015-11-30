@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 11:37:24.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0844reute
-r f BC-BANKING-CHAIRMAN-URGE   03-03 0119</field>
-	<field name = "TITLE">U.S. BANKING CHAIRMAN URGES CAUTION ON FSLIC BILL</field>
+	<field name = "titulo">U.S. BANKING CHAIRMAN URGES CAUTION ON FSLIC BILL</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">House Banking committee chairman
+	<field name = "content">House Banking committee chairman
 Fernand St Germain, D-R.I., called for caution in giving
 savings associations forbearance in paying their debts as part
 of a bill providing three billion dlrs in new capital for the

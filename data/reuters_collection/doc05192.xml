@@ -3,12 +3,9 @@
 	<field name = "TOPICS">reserves</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">jordan</field>
-	<field name = "UNKNOWN">RM
-f1059reute
-u f BC-TREASURY,-FOREIGN-RES   03-16 0100</field>
-	<field name = "TITLE">TREASURY, FOREIGN RESERVES ARE JORDAN'S PRIORITIES</field>
+	<field name = "titulo">TREASURY, FOREIGN RESERVES ARE JORDAN'S PRIORITIES</field>
 	<field name = "DATELINE">AMMAN, March 16 -</field>
-	<field name = "BODY">Jordan's key economic priorities are
+	<field name = "content">Jordan's key economic priorities are
 having a sound national treasury and adequate foreign exchange
 reserves, Prime Minister Zeid al-Rifa'i said.
     "First, the national treasury should be in sound shape when

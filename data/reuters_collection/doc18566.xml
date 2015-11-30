@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F 
-f2681reute
-u f BC-SANDVIK,-DIAMANT-BOAR   06-18 0112</field>
-	<field name = "TITLE">SANDVIK, DIAMANT BOART FINALISE DRILLS MERGER</field>
+	<field name = "titulo">SANDVIK, DIAMANT BOART FINALISE DRILLS MERGER</field>
 	<field name = "DATELINE">BRUSSELS, June 18 -</field>
-	<field name = "BODY">Sweden's Sandvik AB SVIK.ST> and
+	<field name = "content">Sweden's Sandvik AB SVIK.ST> and
 Diamant Boart SA of Belgium, in which Societe Generale de
 Belgique BELB.BR> holds an indirect 52 pct stake, have
 finalised negotiations on merging oil and gas drilling tool

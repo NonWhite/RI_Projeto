@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 11:28:14.86</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1535reute
-r f BC-UNITED-TECHNOLOGIESU   03-31 0107</field>
-	<field name = "TITLE">UNITED TECHNOLOGIESUTX> UNIT GETS ENGINE ORDER</field>
+	<field name = "titulo">UNITED TECHNOLOGIESUTX> UNIT GETS ENGINE ORDER</field>
 	<field name = "DATELINE">EAST HARTFORD, Conn., March 31 -</field>
-	<field name = "BODY">Pratt and Whitney, a unit
+	<field name = "content">Pratt and Whitney, a unit
 of United Technologies Corp, said a Swissair order for PW4000
 turbofan engines could be worth more than 470 mln dlrs.
     Earlier, Swissair said it selected Pratt and Whitney's

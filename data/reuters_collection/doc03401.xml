@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 17:39:45.02</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0984reute
-r f BC-INVESTORS-GROUP-SHARE   03-09 0118</field>
-	<field name = "TITLE">INVESTORS GROUP SHARE OFFERING APPROVED</field>
+	<field name = "titulo">INVESTORS GROUP SHARE OFFERING APPROVED</field>
 	<field name = "DATELINE">WINNIPEG, Manitoba, March 9 -</field>
-	<field name = "BODY">Investors Group Inc, a unit
+	<field name = "content">Investors Group Inc, a unit
 of Power Financial Corp>, said filing a final prospectus for
 the previously announced new issue of one mln common shares of
 Investors Group and secondary offering by Power Financial of

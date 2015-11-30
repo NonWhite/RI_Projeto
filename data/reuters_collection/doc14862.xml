@@ -4,12 +4,9 @@
 	<field name = "TOPICS">lead</field>
 	<field name = "PLACES">finland</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F
-f0303reute
-u f BC-FINNS-AND-CANADIANS-T   04-08 0103</field>
-	<field name = "TITLE">FINNS AND CANADIANS TO STUDY MTBE PRODUCTION PLANT</field>
+	<field name = "titulo">FINNS AND CANADIANS TO STUDY MTBE PRODUCTION PLANT</field>
 	<field name = "DATELINE">HELSINKI, April 8 -</field>
-	<field name = "BODY">Finland's national oil company Neste Oy
+	<field name = "content">Finland's national oil company Neste Oy
 NEOY.HE> said in a statement it had agreed with Canadian firms
 to study the feasibility of building a plant in Edmonton,
 Canada, to produce a replacement for lead in petrol.

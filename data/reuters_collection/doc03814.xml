@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 13:20:21.02</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C G L M T
-f0076reute
-b f BC-/CBT-POSTPONES-NIGHT   03-11 0081</field>
-	<field name = "TITLE">CBT POSTPONES NIGHT TRADING START TO APRIL 30</field>
+	<field name = "titulo">CBT POSTPONES NIGHT TRADING START TO APRIL 30</field>
 	<field name = "DATELINE">CHICAGO, March 11 -</field>
-	<field name = "BODY">The Chicago Board of Trade's (CBT)
+	<field name = "content">The Chicago Board of Trade's (CBT)
 board of directors voted to postpone the start of what will be
 the first U.S. evening futures trading session until April 30
 from April 2 to give participants a chance to get ready, the

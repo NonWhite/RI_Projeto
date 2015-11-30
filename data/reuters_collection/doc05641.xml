@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
 	<field name = "EXCHANGES">cboe</field>
-	<field name = "UNKNOWN">F
-f3467reute
-r f BC-MORGAN-MS>-LICENSES   03-16 0096</field>
-	<field name = "TITLE">MORGAN MS> LICENSES OVERSEAS INDEX FOR TRADING</field>
+	<field name = "titulo">MORGAN MS> LICENSES OVERSEAS INDEX FOR TRADING</field>
 	<field name = "DATELINE">CHICAGO, March 16 -</field>
-	<field name = "BODY">Morgan Stanley Group Inc said its
+	<field name = "content">Morgan Stanley Group Inc said its
 Capital International Europe, Australia and Far East, or EAFE,
 stock index will be a used as a basis for trading futures and
 listed options.

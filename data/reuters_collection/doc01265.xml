@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:27:00.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0714reute
-d f BC-AID-AIDC>-PROPOSES-N   03-03 0118</field>
-	<field name = "TITLE">AID AIDC> PROPOSES NAME CHANGE</field>
+	<field name = "titulo">AID AIDC> PROPOSES NAME CHANGE</field>
 	<field name = "DATELINE">DES MOINES, Iowa, March 3 -</field>
-	<field name = "BODY">AID Corp said its stockholders
+	<field name = "content">AID Corp said its stockholders
 will be asked to change the company's name to ALLIED Group Inc
 to more closely reflect the corporate logo adopted last year.
     It said stockholders of record March 31 will be eligible to

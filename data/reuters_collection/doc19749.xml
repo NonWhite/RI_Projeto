@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 12:55:38.48</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F 
-f1806reute
-u f BC-PRE-PAID-LEGAL-PPD>   06-29 0071</field>
-	<field name = "TITLE">PRE-PAID LEGAL PPD> HAS NO REASON FOR TRADING</field>
+	<field name = "titulo">PRE-PAID LEGAL PPD> HAS NO REASON FOR TRADING</field>
 	<field name = "DATELINE">ADA, Okla, June 29 -</field>
-	<field name = "BODY">Pre-Paid Legal Services Inc said its
+	<field name = "content">Pre-Paid Legal Services Inc said its
 management knows of no developments to account for unusually
 heavy trading in the company's stock.
     The company said it was responding to inquiries regarding

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 11:28:34.96</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1395reute
-u f BC-DOLLAR-EUROBONDS-END   04-01 0114</field>
-	<field name = "TITLE">DOLLAR EUROBONDS END EASIER ON PRIME RATE RISES</field>
+	<field name = "titulo">DOLLAR EUROBONDS END EASIER ON PRIME RATE RISES</field>
 	<field name = "AUTHOR">By Christopher Pizzey, Reuters</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">The dollar straight sector of the
+	<field name = "content">The dollar straight sector of the
 eurobond market ended easier after a subdued day's trading as
 U.S. Banks began to match yesterday's surprise 1/4 point prime
 rate hikes by Citibank and Chase Manhattan Bank, dealers said.

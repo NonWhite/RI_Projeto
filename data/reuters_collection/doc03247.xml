@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">lse</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">RM
-f0045reute
-u f BC-LONDON-SEES-NYSE-RULE   03-09 0120</field>
-	<field name = "TITLE">LONDON SEES NYSE RULE PROBLEM BEING SETTLED</field>
+	<field name = "titulo">LONDON SEES NYSE RULE PROBLEM BEING SETTLED</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">London Stock Exchange officials feel
+	<field name = "content">London Stock Exchange officials feel
 confident that problems arising from a New York Stock Exchange,
 NYSE, rule which might limit the trading activities in London
 of NYSE members can be solved, a London Exchange spokeswoman

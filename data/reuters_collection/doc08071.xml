@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-MAR-1987 23:36:45.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0060reute
-u f BC-ROSTENKOWSKI-SAYS-TAX   03-21 0094</field>
-	<field name = "TITLE">ROSTENKOWSKI SAYS TAX RISE NEEDED, DIFFICULT</field>
+	<field name = "titulo">ROSTENKOWSKI SAYS TAX RISE NEEDED, DIFFICULT</field>
 	<field name = "DATELINE">BOCA RATON, Fla., March 22 -</field>
-	<field name = "BODY">U.S. House Ways and Means
+	<field name = "content">U.S. House Ways and Means
 Committee Chairman Dan Rostenkowski said a tax increase
 probably would be needed but that Congress and President Regan
 might not approve one.

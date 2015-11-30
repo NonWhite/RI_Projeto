@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 10:51:54.56</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f1306reute
-b f BC-WORLD-BANK-TO-REDEEM   04-02 0097</field>
-	<field name = "TITLE">WORLD BANK TO REDEEM EARLY TWO SWISS FRANC BONDS</field>
+	<field name = "titulo">WORLD BANK TO REDEEM EARLY TWO SWISS FRANC BONDS</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">The World Bank will prepay on July 9,
+	<field name = "content">The World Bank will prepay on July 9,
 1987 and July 17, 1987 the total amount outstanding of two
 Swiss franc public issues, in the first of what could be a
 series of similar moves in other capital markets, a spokesman

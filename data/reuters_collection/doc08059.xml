@@ -4,12 +4,9 @@
 	<field name = "PLACES">switzerland</field>
 	<field name = "ORGS">unctad</field>
 	<field name = "ORGS">inro</field>
-	<field name = "UNKNOWN">T C
-f0003reute
-r f BC-MAIN-FEATURES-OF-NEW   03-21 0083</field>
-	<field name = "TITLE">MAIN FEATURES OF NEW RUBBER PACT</field>
+	<field name = "titulo">MAIN FEATURES OF NEW RUBBER PACT</field>
 	<field name = "DATELINE">GENEVA, March 21 -</field>
-	<field name = "BODY">The new International Natural Rubber
+	<field name = "content">The new International Natural Rubber
 Agreement (INRA), like the 1979 pact, will use a buffer stock
 as the sole instrument for market intervention -- excluding
 export quotas or production controls.

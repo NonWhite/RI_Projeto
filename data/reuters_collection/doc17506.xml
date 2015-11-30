@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 09:21:29.20</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0905reute
-u f BC-COMPUTER-ASSOCIATES-   06-01 0080</field>
-	<field name = "TITLE">COMPUTER ASSOCIATES CA>, UCCEL SET MERGER</field>
+	<field name = "titulo">COMPUTER ASSOCIATES CA>, UCCEL SET MERGER</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Computer Associates International Inc
+	<field name = "content">Computer Associates International Inc
 and UCCEL Corp UCE> said they have signed a definitive merger
 agreement under which Computer Associates will pay about 800
 mln dlrs in stock for all outstanding UCCEL shares.

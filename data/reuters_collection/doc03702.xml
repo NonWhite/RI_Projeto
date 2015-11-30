@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:19:25.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0531reute
-r f BC-NATIONAL-GYPSUM-NG>   03-11 0076</field>
-	<field name = "TITLE">NATIONAL GYPSUM NG> UNIT JOINS JAPANESE FIRM</field>
+	<field name = "titulo">NATIONAL GYPSUM NG> UNIT JOINS JAPANESE FIRM</field>
 	<field name = "DATELINE">WASHINGTON, D.C., March 11 -</field>
-	<field name = "BODY">National Gypsum Co's Austin Co
+	<field name = "content">National Gypsum Co's Austin Co
 said it signed a joint agreement with Kawasaki Heavy
 Industries Inc> to join forces to win contracts in connection
 with the construction of Kansai Airport.

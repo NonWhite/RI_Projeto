@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:26:34.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1844reute
-r f BC-IMMUNOGENETICS-IGEN>   03-25 0108</field>
-	<field name = "TITLE">IMMUNOGENETICS IGEN> TO ENTER LIPOSOME FIELD</field>
+	<field name = "titulo">IMMUNOGENETICS IGEN> TO ENTER LIPOSOME FIELD</field>
 	<field name = "DATELINE">VINELAND, N.J., March 25 -</field>
-	<field name = "BODY">ImmunoGenetics Inc said it has
+	<field name = "content">ImmunoGenetics Inc said it has
 entered the liposome technology field through its majority
 owned subsidiary, Molecular Packaging Systems Inc.
     Liposomes are small sacks of lipid, or fat, membranes

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 15:33:08.79</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F 
-f2178reute
-r f BC-SUNRISE-MEDICAL-SNMD   06-19 0102</field>
-	<field name = "TITLE">SUNRISE MEDICAL SNMD.O> SEES 4TH QTR LOSS</field>
+	<field name = "titulo">SUNRISE MEDICAL SNMD.O> SEES 4TH QTR LOSS</field>
 	<field name = "DATELINE">TORRANCE, Calif., June 19 -</field>
-	<field name = "BODY">Sunrise Medical Inc said it
+	<field name = "content">Sunrise Medical Inc said it
 will close three facilities and take a fourth quarter charge of
 625,000 dlrs, or 15 cents per share, which will result in a
 fourth quarter loss.

@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 15:05:32.21</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2331reute
-d f BC-BUTLER-BTLR>-TO-PURC   03-31 0059</field>
-	<field name = "TITLE">BUTLER BTLR> TO PURCHASE NATURALITE</field>
+	<field name = "titulo">BUTLER BTLR> TO PURCHASE NATURALITE</field>
 	<field name = "DATELINE">KANSAS CITY, Mo, March 31 -</field>
-	<field name = "BODY">Butler Manufacturing Co said it
+	<field name = "content">Butler Manufacturing Co said it
 signed a letter of intent to purchase Naturalite Inc>, a
 designer of skylights.
     Terms were not disclosed.

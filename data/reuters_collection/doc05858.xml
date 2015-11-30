@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 07:15:38.90</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f4546reute
-u f BC-ORION-ROYAL-WITHDRAWS   03-17 0104</field>
-	<field name = "TITLE">ORION ROYAL WITHDRAWS FROM FRN MARKET</field>
+	<field name = "titulo">ORION ROYAL WITHDRAWS FROM FRN MARKET</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">Orion Royal Bank has decided to withdraw
+	<field name = "content">Orion Royal Bank has decided to withdraw
 from making markets in floating rate notes (FRNs), an official
 of Orion said.
     He said the decision to withdraw was made about 11 days ago

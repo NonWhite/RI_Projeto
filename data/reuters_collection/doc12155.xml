@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 13:44:39.75</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1932reute
-u f BC-E.F.HUTTON-EFH>-EXTE   04-01 0106</field>
-	<field name = "TITLE">E.F.HUTTON EFH> EXTENDS PUROLATOR PCC> OFFER</field>
+	<field name = "titulo">E.F.HUTTON EFH> EXTENDS PUROLATOR PCC> OFFER</field>
 	<field name = "DATELINE">New York, April 1 -</field>
-	<field name = "BODY">E.F. Hutton Group's E.F. Hutton LBO Inc
+	<field name = "content">E.F. Hutton Group's E.F. Hutton LBO Inc
 unit said it extended the expiration date for its 35 dlr per
 share tender offer for Purolator Courier corp to midnight EST
 April six from midnight April one.

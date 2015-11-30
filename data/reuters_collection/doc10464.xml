@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:05:09.88E A</field>
-	<field name = "UNKNOWN">f1141reute</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">u f BC-CANADA-WHOLESALE-TRAD   03-27 0074</field>
-	<field name = "TITLE">CANADA WHOLESALE TRADE UP 8.9 PCT IN MONTH</field>
+	<field name = "titulo">CANADA WHOLESALE TRADE UP 8.9 PCT IN MONTH</field>
 	<field name = "DATELINE">OTTAWA, March 27 -</field>
-	<field name = "BODY">Canadian wholesale merchant sales rose
+	<field name = "content">Canadian wholesale merchant sales rose
 8.9 pct in January over the same month in 1986 with all but one
 of the major trade groups posting increases, Statistics Canada
 said.

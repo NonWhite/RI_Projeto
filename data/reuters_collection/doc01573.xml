@@ -3,12 +3,9 @@
 	<field name = "PLACES">switzerland</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">V
-f0830reute
-u f AM-ARMS-TALKS 1STLD  03-04 0104</field>
-	<field name = "TITLE">U.S. PRESENTS MOSCOW WITH DRAFT MISSILE TREATY</field>
+	<field name = "titulo">U.S. PRESENTS MOSCOW WITH DRAFT MISSILE TREATY</field>
 	<field name = "DATELINE">GENEVA, March 4 -</field>
-	<field name = "BODY">The United States today handed Soviet
+	<field name = "content">The United States today handed Soviet
 arms negotiators a draft treaty which would eliminate all
 superpower medium-range nuclear missiles in Europe and slash
 such weapons elsewhere to 100 warheads on each side.

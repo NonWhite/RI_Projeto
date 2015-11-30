@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 13:28:26.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0225reute
-r f BC-HYUNDAI-MOTOR-AMERICA   03-04 0055</field>
-	<field name = "TITLE">HYUNDAI MOTOR AMERICA SAYS CAR SALES STRONG</field>
+	<field name = "titulo">HYUNDAI MOTOR AMERICA SAYS CAR SALES STRONG</field>
 	<field name = "DATELINE">GARDEN GROVE, Calif., March 4 -</field>
-	<field name = "BODY">Hyundai Motor America said
+	<field name = "content">Hyundai Motor America said
 February sales of its Excel subcompact car totaled 18,656.
     Hyundai began selling the car in the U.S. on February 20,
 1986. Sales that month totaled 588.

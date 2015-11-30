@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:53:49.85</field>
-	<field name = "UNKNOWN">V F
-f0669reute
-u f BC-WALL-STREET-STOCKS-OU   04-07 0109</field>
-	<field name = "TITLE">WALL STREET STOCKS OUTLOOK</field>
+	<field name = "titulo">WALL STREET STOCKS OUTLOOK</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Stock prices may climb higher today,
+	<field name = "content">Stock prices may climb higher today,
 riding a two-day advance that saw the Dow Industrials climb 85
 points, analysts said. But they cautioned that the market is
 due for a pause after such a strong climb and could move into a

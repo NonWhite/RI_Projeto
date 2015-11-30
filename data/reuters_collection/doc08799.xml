@@ -6,12 +6,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G L T
-f1321reute
-d f BC-EC-COLD-AID-FOOD-SCHE   03-24 0105</field>
-	<field name = "TITLE">EC COLD AID FOOD SCHEME MAY BE MADE PERMANENT</field>
+	<field name = "titulo">EC COLD AID FOOD SCHEME MAY BE MADE PERMANENT</field>
 	<field name = "DATELINE">BRUSSELS, March 24 -</field>
-	<field name = "BODY">Emergency action to distribute
+	<field name = "content">Emergency action to distribute
 European Community (EC) food surpluses to the poor has proved
 so successful that the EC executive Commission may propose a
 permanent scheme, a Commission spokesman said.

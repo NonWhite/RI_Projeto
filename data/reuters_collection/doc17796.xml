@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 16:23:41.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2402reute
-d f BC-WITCO-WIT>-UNIT-OPEN   06-01 0107</field>
-	<field name = "TITLE">WITCO WIT> UNIT OPENS FAST-OIL CHANGE CENTER</field>
+	<field name = "titulo">WITCO WIT> UNIT OPENS FAST-OIL CHANGE CENTER</field>
 	<field name = "DATELINE">IRVING, Texas, June 1 -</field>
-	<field name = "BODY">Kendall Refining Co, a unit of
+	<field name = "content">Kendall Refining Co, a unit of
 Witco Corp, and the Knox Truck Stop> chain, said they have
 developed one of the nation's first fast-oil-change centers
 for trucks outside of Dallas.

@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 13:48:17.92</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">denmark</field>
-	<field name = "UNKNOWN">F
-f0289reute
-h f BC-ATT-T>-OFFERS-USA-DI   03-04 0073</field>
-	<field name = "TITLE">ATT T> OFFERS USA DIRECT SERVICE IN DENMARK</field>
+	<field name = "titulo">ATT T> OFFERS USA DIRECT SERVICE IN DENMARK</field>
 	<field name = "DATELINE">BASKING RIDGE, N.J., March 4 -</field>
-	<field name = "BODY">American Telephone and
+	<field name = "content">American Telephone and
 Telegraph Co said it is offering its USA Direct service in
 Denmark.
     The service allows callers in Denmark to reach an ATT

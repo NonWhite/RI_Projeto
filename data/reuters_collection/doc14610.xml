@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:22:50.75</field>
-	<field name = "UNKNOWN">Y C
-f2382reute
-u f BC-u.s.-energy-futures   04-07 0104</field>
-	<field name = "TITLE">U.S. ENERGY FUTURES SETTLE WITH MODEST GAINS</field>
+	<field name = "titulo">U.S. ENERGY FUTURES SETTLE WITH MODEST GAINS</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">U.S. energy futures posted modest gains
+	<field name = "content">U.S. energy futures posted modest gains
 because of a supply squeeze in physical North Sea Brent crude
 oil
 and escalation of the Iran/Iraq war, traders and analysts said.

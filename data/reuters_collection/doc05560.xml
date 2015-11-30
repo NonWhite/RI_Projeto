@@ -2,13 +2,10 @@
 	<field name = "DATE">16-MAR-1987 13:43:54.10</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G T M
-f3136reute
-d f BC-TRADE-INTERESTS-READY   03-16 0134</field>
-	<field name = "TITLE">TRADE INTERESTS READY FOR BATTLE IN U.S. HOUSE</field>
+	<field name = "titulo">TRADE INTERESTS READY FOR BATTLE IN U.S. HOUSE</field>
 	<field name = "AUTHOR">By Jacqueline Frank, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">U.S. lawmakers are gearing up for a
+	<field name = "content">U.S. lawmakers are gearing up for a
 showdown between protectionists and free traders as a major
 trade bill winds its way through committees to a vote by the
 full House of Representatives in late April.

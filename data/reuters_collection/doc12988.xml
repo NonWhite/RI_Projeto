@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 12:29:42.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1622reute
-r f BC-ROHM/HAAS-ROH>-STUDY   04-03 0111</field>
-	<field name = "TITLE">ROHM/HAAS ROH> STUDY CITES HIGH CANCER LEVELS</field>
+	<field name = "titulo">ROHM/HAAS ROH> STUDY CITES HIGH CANCER LEVELS</field>
 	<field name = "DATELINE">PHILADELPHIA, April 3 -</field>
-	<field name = "BODY">Rohm and Haas Co said health
+	<field name = "content">Rohm and Haas Co said health
 studies on workers at its Philadelphia plant showed higher
 death rates from four kinds of cancer compared with mortality
 rates among the general public.

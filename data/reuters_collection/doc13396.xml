@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:02:30.56</field>
-	<field name = "UNKNOWN">C G L M T RM
-f0147reute
-u f BC-HONG-KONG-EXCHS-CLSG   04-07 0037</field>
-	<field name = "TITLE">HONG KONG EXCHS CLSG - APR 7</field>
+	<field name = "titulo">HONG KONG EXCHS CLSG - APR 7</field>
 	<field name = "DATELINE">us         7.8015 -</field>
-	<field name = "BODY">7.8035
+	<field name = "content">7.8035
  uk         12.646 - 12.658
  us/uk      1.6187 - 1.6194
  us/w  ger  1.8215 - 1.8225

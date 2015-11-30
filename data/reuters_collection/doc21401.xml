@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 10:23:29.35</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM 
-f1235reute
-u f BC-PHILIPPINE-SENATE-ACT   10-19 0115</field>
-	<field name = "TITLE">PHILIPPINE SENATE ACTS TO SPEED DEBT PACT</field>
+	<field name = "titulo">PHILIPPINE SENATE ACTS TO SPEED DEBT PACT</field>
 	<field name = "DATELINE">MANILA, Oct 19 -</field>
-	<field name = "BODY">The Philippine Senate approved a proposal
+	<field name = "content">The Philippine Senate approved a proposal
 to repay loans owed by a private company to speed up the
 signing of a 13.2 billion dlr rescheduling agreement with
 foreign banks.

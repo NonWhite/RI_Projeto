@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 16:44:24.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2383reute
-r f BC-MOODY'S-AFFIRMS-PNC-F   06-19 0110</field>
-	<field name = "TITLE">MOODY'S AFFIRMS PNC FINANCIAL PNCF>, UNITS DEBT</field>
+	<field name = "titulo">MOODY'S AFFIRMS PNC FINANCIAL PNCF>, UNITS DEBT</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 affirmed 500 mln dlrs of debt of PNC Financial and units.
     Affirmed were Aa-2 senior debt of PNC Financial Corp and
 PNC Funding Corp, AAA long-term deposits of Pittsburgh National

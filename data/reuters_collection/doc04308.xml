@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 12:04:14.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0577reute
-r f BC-ANHEUSER-BUSCH-BUD>   03-12 0112</field>
-	<field name = "TITLE">ANHEUSER-BUSCH BUD> SELLS SINKING FUND DEBT</field>
+	<field name = "titulo">ANHEUSER-BUSCH BUD> SELLS SINKING FUND DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Anheuser-Busch Cos is raising 150 mln
+	<field name = "content">Anheuser-Busch Cos is raising 150 mln
 dlrs through an offering of sinking fund debentures due 2017
 yielding 8.593 pct, said sole manager Dillon, Read and Co Inc.
     The debentures have an 8-1/2 pct coupon and were priced at

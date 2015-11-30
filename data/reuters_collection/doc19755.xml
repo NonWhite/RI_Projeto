@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">Y 
-f1824reute
-r f AM-GULF-CONGRESS   06-29 0102</field>
-	<field name = "TITLE">U.S.CONGRESSMAN TO SEE REAGAN ON GULF REFLAGGING</field>
+	<field name = "titulo">U.S.CONGRESSMAN TO SEE REAGAN ON GULF REFLAGGING</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">U.S. House Speaker Jim Wright said he
+	<field name = "content">U.S. House Speaker Jim Wright said he
 would question President Reagan tomorrow about his plan to
 protect Kuwaiti oil tankers with U.S. warships from attacks by
 Iran in the Gulf.

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 10:21:49.33</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1162reute
-d f BC-SANDSPORT-DATA-SERVIC   04-02 0055</field>
-	<field name = "TITLE">SANDSPORT DATA SERVICES INC SAND> 3RD QTR NET</field>
+	<field name = "titulo">SANDSPORT DATA SERVICES INC SAND> 3RD QTR NET</field>
 	<field name = "DATELINE">PORT WASHINGTON, N.Y., April 2 -</field>
-	<field name = "BODY">Feb 28 end
+	<field name = "content">Feb 28 end
     Shr nil vs nil
     Net 132,804 vs 53,510
     Revs 2,001,107 vs 1,467,742

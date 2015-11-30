@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 11:58:08.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1495reute
-r f BC-SUMMAGRAPHICS-CONTEND   03-23 0083</field>
-	<field name = "TITLE">SUMMAGRAPHICS CONTENDS PATENT SUIT INVALID</field>
+	<field name = "titulo">SUMMAGRAPHICS CONTENDS PATENT SUIT INVALID</field>
 	<field name = "DATELINE">FAIRFIELD, Conn., March 23 -</field>
-	<field name = "BODY">Summagraphics Corp> said the
+	<field name = "content">Summagraphics Corp> said the
 patent infringement suit filed by Lockheed Corp's LK> Sanders
 Rogers Associates unit is invalid.
     Summagraphics said it will seek an injunction to stop

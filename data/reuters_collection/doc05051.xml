@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 16:09:02.87</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM A
-f0385reute
-r f BC-BRAZIL-INDUSTRIAL-GRO   03-13 0106</field>
-	<field name = "TITLE">BRAZIL INDUSTRIAL PRODUCTION SLOWED IN JANUARY</field>
+	<field name = "titulo">BRAZIL INDUSTRIAL PRODUCTION SLOWED IN JANUARY</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 13 -</field>
-	<field name = "BODY">Industrial output in January was
+	<field name = "content">Industrial output in January was
 6.09 pct above the same 1986 month after rising 6.71 pct in
 December, Brazilian Geography and Statistics Institute figures
 show.

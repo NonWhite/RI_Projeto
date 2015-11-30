@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 19:00:16.13</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0375
-reute
-h f BC-GTI-CORP-GTI>-4TH-QT   02-26 0097</field>
-	<field name = "TITLE">GTI CORP GTI> 4TH QTR OPER NET</field>
+	<field name = "titulo">GTI CORP GTI> 4TH QTR OPER NET</field>
 	<field name = "DATELINE">SAN DIEGO, Feb 26 -</field>
-	<field name = "BODY">Oper shr profit six cts vs loss two cts
+	<field name = "content">Oper shr profit six cts vs loss two cts
     Oper net profit 225,000 vs loss 91,000
     Revs 4,814,000 vs 3,339,000
     Year

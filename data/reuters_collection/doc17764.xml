@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 15:32:24.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2280reute
-r f BC-DEAN-FOODS-DF>-PICKS   06-01 0057</field>
-	<field name = "TITLE">DEAN FOODS DF> PICKS CHIEF EXECUTIVE</field>
+	<field name = "titulo">DEAN FOODS DF> PICKS CHIEF EXECUTIVE</field>
 	<field name = "DATELINE">FRANKLIN PARK, Ill., June 1 -</field>
-	<field name = "BODY">Dean Foods Co said its board
+	<field name = "content">Dean Foods Co said its board
 elected Howard M. Dean, the company's president, to succeed
 Kenneth J. Douglas as chief executive officer of the firm.
     Kenneth will replace Douglas, who is also chairman, on

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 12:09:52.23</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0532reute
-r f BC-FRN-PANIC-INITIATED,   03-13 0120</field>
-	<field name = "TITLE">FRN PANIC INITIATED, EXACERBATED BY MARKET MAKERS</field>
+	<field name = "titulo">FRN PANIC INITIATED, EXACERBATED BY MARKET MAKERS</field>
 	<field name = "AUTHOR">By Norma Cohen and Dominique Jackson, Reuters</field>
 	<field name = "DATELINE">LONDON, March 13 -</field>
-	<field name = "BODY">Today's panic in the floating rate note
+	<field name = "content">Today's panic in the floating rate note
 market has been simmering for months and is, in many ways, of
 the market makers' own doing, traders and bank officials said.
     "For the last six months, there have been a series of crises

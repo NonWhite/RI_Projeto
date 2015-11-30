@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 05:15:57.52</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0522reute
-b f BC-RANK-ORGANISATION-HAS   03-05 0097</field>
-	<field name = "TITLE">RANK ORGANISATION HAS 100 MLN STG CP PROGRAM</field>
+	<field name = "titulo">RANK ORGANISATION HAS 100 MLN STG CP PROGRAM</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">The Rank Organisation Plc said it has
+	<field name = "content">The Rank Organisation Plc said it has
 appointed County Natwest Capital Markets Ltd, Samuel Montagu
 and Co Ltd and Swiss Bank Corporation International as dealers
 in a 100 mln stg commercial paper program.

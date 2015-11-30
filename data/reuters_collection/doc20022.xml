@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 03:38:14.97</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM 
-f0182reute
-u f BC-JAPAN-TO-SCRUTINISE-L   10-20 0113</field>
-	<field name = "TITLE">JAPAN TO SCRUTINISE LIFE INSURERS' CAPITAL GAINS</field>
+	<field name = "titulo">JAPAN TO SCRUTINISE LIFE INSURERS' CAPITAL GAINS</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">The Finance Ministry plans to examine how
+	<field name = "content">The Finance Ministry plans to examine how
 life insurance companies realised capital gains through
 transactions undertaken in June, just before the yen bond
 market began to fall sharply, a senior Ministry official said.

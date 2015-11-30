@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:02:56.40</field>
-	<field name = "UNKNOWN">C T
-f0149reute
-u f BC-TOKYO-RUBBER-FUTURES   04-07 0082</field>
-	<field name = "TITLE">TOKYO RUBBER FUTURES CLOSE QUIETLY LOWER</field>
+	<field name = "titulo">TOKYO RUBBER FUTURES CLOSE QUIETLY LOWER</field>
 	<field name = "DATELINE">TOKYO, April 7 -</field>
-	<field name = "BODY">Rubber futures closed 0.2 to 0.9 yen per
+	<field name = "content">Rubber futures closed 0.2 to 0.9 yen per
 kilo down except nearby June which was unchanged at 125.2,
 despite a higher Singapore market this morning, dealers said.
     Prices maintained their decline all day after opening

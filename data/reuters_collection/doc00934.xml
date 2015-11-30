@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 06:15:59.52</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0870
-reute
-u f BC-FRENCH-BOND-COMMITTEE   03-03 0101</field>
-	<field name = "TITLE">FRENCH BOND COMMITTEE APPROVES THREE ISSUES</field>
+	<field name = "titulo">FRENCH BOND COMMITTEE APPROVES THREE ISSUES</field>
 	<field name = "DATELINE">PARIS, March 3 -</field>
-	<field name = "BODY">The French domestic bond issuing committee
+	<field name = "content">The French domestic bond issuing committee
 said it has approved three new issues totalling 1.8 billion
 francs.
     Credit Lyonnais will lead manage a 1.2 billion franc issue

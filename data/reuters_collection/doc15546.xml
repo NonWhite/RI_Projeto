@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 10:07:47.65</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0969reute
-d f BC-VOLKSWAGEN-DIVIDEND-U   04-09 0084</field>
-	<field name = "TITLE">VOLKSWAGEN DIVIDEND UNCHANGED ON 1986</field>
+	<field name = "titulo">VOLKSWAGEN DIVIDEND UNCHANGED ON 1986</field>
 	<field name = "DATELINE">WOLFSBURG, West Germany, April 9 -</field>
-	<field name = "BODY">Dividend on 1986 business unchanged at 10 marks per
+	<field name = "content">Dividend on 1986 business unchanged at 10 marks per
 ordinary share. Company also set dividend of 11 marks for new
 preference shares, which were issued last year.
     (Note: Company has said profit will match 1985 level,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 14:50:04.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2256reute
-r f BC-S/P-KEEPS-BORG-WARNER   04-13 0096</field>
-	<field name = "TITLE">S/P KEEPS BORG-WARNER ON CREDITWATCH</field>
+	<field name = "titulo">S/P KEEPS BORG-WARNER ON CREDITWATCH</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it is
+	<field name = "content">Standard and Poor's Corp said it is
 keeping Borg-Warner Corp's 400 mln dlrs of debt on creditwatch
 with negative implications.
     Under review are the company's A-plus senior debt and A-1

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F V RM
-f1637reute
-b f BC-BALDRIGE-SAYS-JAPAN-M   03-25 0100</field>
-	<field name = "TITLE">BALDRIGE SAYS JAPAN MUST OPEN ITS MARKETS</field>
+	<field name = "titulo">BALDRIGE SAYS JAPAN MUST OPEN ITS MARKETS</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">Commerce Secretary Malcolm Baldrige
+	<field name = "content">Commerce Secretary Malcolm Baldrige
 said the United States will not stand idly by and let Japan
 dominate the world electronics market.
     Baldrige told the Senate Finance Committee the United

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 09:58:33.04</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0147reute
-d f BC-PHARMACIA-AB-LAUNCHES   03-09 0114</field>
-	<field name = "TITLE">PHARMACIA AB LAUNCHES EUROCOMMERCIAL PAPER PROGRAMME</field>
+	<field name = "titulo">PHARMACIA AB LAUNCHES EUROCOMMERCIAL PAPER PROGRAMME</field>
 	<field name = "DATELINE">STOCKHOLM, March 9 -</field>
-	<field name = "BODY">Pharmacia AB said it was launching a
+	<field name = "content">Pharmacia AB said it was launching a
 200 mln dlr Eurocommercial paper programme as part of a move to
 internationalise the company's financing.
     Market makers will be Credit Suisse First Boston, Morgan

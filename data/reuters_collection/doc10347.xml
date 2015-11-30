@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:11:41.05F C G</field>
-	<field name = "UNKNOWN">f0483reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">u f BC-HENKEL-SELLS-HAMBURG   03-27 0105</field>
-	<field name = "TITLE">HENKEL SELLS HAMBURG OIL AND FATS SUBSIDIARY</field>
+	<field name = "titulo">HENKEL SELLS HAMBURG OIL AND FATS SUBSIDIARY</field>
 	<field name = "DATELINE">HAMBURG, March 27 -</field>
-	<field name = "BODY">Applied chemicals group Henkel KGaA
+	<field name = "content">Applied chemicals group Henkel KGaA
 HNKG.F> said it is selling its Hamburg vegetable oil and fats
 subsidiary Noblee und Thoerl GmbH to Oelmuehle Hamburg AG.
     A company spokesman declined to give the purchase price.

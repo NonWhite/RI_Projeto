@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 12:23:53.27</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1506reute
-u f BC-NEW-ENGLAND-ELECTRIC   06-19 0062</field>
-	<field name = "TITLE">NEW ENGLAND ELECTRIC SYSTEM NES> FIVE MTHS NET</field>
+	<field name = "titulo">NEW ENGLAND ELECTRIC SYSTEM NES> FIVE MTHS NET</field>
 	<field name = "DATELINE">WESTBOROUGH, Mass., June 19 -</field>
-	<field name = "BODY">Five mths end may 31
+	<field name = "content">Five mths end may 31
     Shr 1.37 dlrs vs 1.38 dlrs
     Net 75.2 mln vs 73.6 mln
     Revs 632.3 mln vs 629.6 mln

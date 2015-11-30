@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2552reute
-u f BC-OIL   04-08 0099</field>
-	<field name = "TITLE">U.S.SENATE LIFTS SOME BANS ON NATURAL GAS</field>
+	<field name = "titulo">U.S.SENATE LIFTS SOME BANS ON NATURAL GAS</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">The Senate unanimously approved
+	<field name = "content">The Senate unanimously approved
 legislation to lift a ban on new construction of natural
 gas-fired power plants and other large industrial gas-burning
 plants.

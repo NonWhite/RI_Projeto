@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 11:03:05.03</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1229reute
-u f BC-DIAMOND-CRYSTAL-DSLT   04-09 0106</field>
-	<field name = "TITLE">DIAMOND CRYSTAL DSLT> MIGHT SELL SALT UNIT</field>
+	<field name = "titulo">DIAMOND CRYSTAL DSLT> MIGHT SELL SALT UNIT</field>
 	<field name = "DATELINE">ST. CLAIR, Mich., April 9 -</field>
-	<field name = "BODY">Diamond Crystal Salt Co said it
+	<field name = "content">Diamond Crystal Salt Co said it
 might sell its salt division.
     The company said it retained First Boston Corp to assist it
 with the possible sale of the division, "assuming a fair price

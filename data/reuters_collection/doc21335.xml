@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 11:14:59.34</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1507reute
-b f BC-AT-AND-T-T>-3RD-QTR   10-19 0054</field>
-	<field name = "TITLE">AT AND T T> 3RD QTR NET</field>
+	<field name = "titulo">AT AND T T> 3RD QTR NET</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Shr 47 cts vs 48 cts
+	<field name = "content">Shr 47 cts vs 48 cts
     Net 505.0 mln vs 533.0 mln
     Revs 8.47 billion vs 8.43 billion
     Nine mths.

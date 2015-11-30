@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 06:34:20.34</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0414reute
-u f BC-BORG-WARNER-AGREES-TO   04-13 0088</field>
-	<field name = "TITLE">BORG-WARNER AGREES TO BUYOUT BY MERRILL LYNCH FIRM</field>
+	<field name = "titulo">BORG-WARNER AGREES TO BUYOUT BY MERRILL LYNCH FIRM</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Borg-Warner BOR> Corp, facing an
+	<field name = "content">Borg-Warner BOR> Corp, facing an
 unwanted offer from GAF Corp GAF>, agreed to a 4.23 billion
 dlr buyout offer from a company to be formed by Merrill Lynch
 Capital Partners Inc>.

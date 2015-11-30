@@ -4,12 +4,9 @@
 	<field name = "TOPICS">l-cattle</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">G L
-f2441reute
-r f BC-MEXICAN-CATTLE-IMPORT   04-08 0132</field>
-	<field name = "TITLE">MEXICAN CATTLE IMPORTS TO BE BRANDED - USDA</field>
+	<field name = "titulo">MEXICAN CATTLE IMPORTS TO BE BRANDED - USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">All steers imported into the United
+	<field name = "content">All steers imported into the United
 States from Mexico must now be branded with the letter M on the
 right jaw, the U.S. Agriculture Department said.
     In its World Production and Trade Report, the department

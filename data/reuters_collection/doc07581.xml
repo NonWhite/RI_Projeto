@@ -3,12 +3,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f0375reute
-u f BC-NO-BRAZIL-SOLUTION-WI   03-20 0102</field>
-	<field name = "TITLE">NO BRAZIL SOLUTION WITHOUT IMF, GERMAN BANKER SAYS</field>
+	<field name = "titulo">NO BRAZIL SOLUTION WITHOUT IMF, GERMAN BANKER SAYS</field>
 	<field name = "DATELINE">FRANKFURT, March 20 -</field>
-	<field name = "BODY">A solution to Brazil's debt problems
+	<field name = "content">A solution to Brazil's debt problems
 is unthinkable without the involvement of the International
 Monetary Fund, Juergen Sarrazin, management board member of
 Dresdner Bank AG responsible for Latin America said.

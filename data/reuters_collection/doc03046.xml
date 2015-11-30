@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 09:32:01.67</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">C G T M
-f0046reute
-d f BC-BOSPHORUS-SHIPPING-MO   03-09 0111</field>
-	<field name = "TITLE">BOSPHORUS SHIPPING MOVES, ISTANBUL OFFICES CLOSE</field>
+	<field name = "titulo">BOSPHORUS SHIPPING MOVES, ISTANBUL OFFICES CLOSE</field>
 	<field name = "DATELINE">ISTANBUL, March 9 -</field>
-	<field name = "BODY">Istanbul remained at a virtual
+	<field name = "content">Istanbul remained at a virtual
 standstill today under snow up to a meter deep but shipping was
 moving through the narrow Bosphorus waterway linking the Sea of
 Marmara and the Black Sea, officials said.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:02:18.41</field>
-	<field name = "UNKNOWN">LQ CQ
-f2505reute
-u f BC-boxed-beef-cut-out   04-07 0107</field>
-	<field name = "TITLE">BOXED BEEF CUT-OUT VALUE/MOVEMENT-USDA</field>
+	<field name = "titulo">BOXED BEEF CUT-OUT VALUE/MOVEMENT-USDA</field>
 	<field name = "DATELINE">DES MOINES, April 7 -</field>
-	<field name = "BODY">boxed beef movement and demand very
+	<field name = "content">boxed beef movement and demand very
 good amid light to moderate supplies.
     Estimated gross boxed beef cut-out for tuesday, April 7,
 1987, choice 2-3 550-700 lb carcasses up 1.19 at 103.24, 

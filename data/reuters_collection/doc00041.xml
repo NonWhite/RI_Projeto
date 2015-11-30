@@ -3,13 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f0871
-reute
-b f BC-ICO-PRODUCERS-TO-PRES   02-26 0109</field>
-	<field name = "TITLE">ICO PRODUCERS TO PRESENT NEW COFFEE PROPOSAL</field>
+	<field name = "titulo">ICO PRODUCERS TO PRESENT NEW COFFEE PROPOSAL</field>
 	<field name = "DATELINE">LONDON, Feb 26 -</field>
-	<field name = "BODY">International Coffee Organization, ICO,
+	<field name = "content">International Coffee Organization, ICO,
 producing countries will present a proposal for reintroducing
 export quotas for 12 months from April 1 with a firm
 undertaking to try to negotiate up to September 30 any future

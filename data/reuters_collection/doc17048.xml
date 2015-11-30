@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-APR-1987 21:38:26.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3120reute
-u f BC-QANTAS-TO-BUY-EXTENDE   04-23 0104</field>
-	<field name = "TITLE">QANTAS TO BUY EXTENDED RANGE BOEING 767 AIRCRAFT</field>
+	<field name = "titulo">QANTAS TO BUY EXTENDED RANGE BOEING 767 AIRCRAFT</field>
 	<field name = "DATELINE">SYDNEY, April 24 -</field>
-	<field name = "BODY">State-owned Qantas Airways Ltd> said it
+	<field name = "content">State-owned Qantas Airways Ltd> said it
 has placed a firm order for a single Boeing Co BA.N> 767-300ER
 (extended range) aircraft for delivery in August 1988 at a cost
 of 150 mln Australian dlrs, including spares.

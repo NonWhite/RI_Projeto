@@ -5,12 +5,9 @@
 	<field name = "PLACES">south-korea</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">F
-f2070reute
-r f BC-EXPEDITERS-INTERNATIO   06-01 0096</field>
-	<field name = "TITLE">EXPEDITERS INTERNATIONAL EXPD.O> SEES GOOD YEAR</field>
+	<field name = "titulo">EXPEDITERS INTERNATIONAL EXPD.O> SEES GOOD YEAR</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Expediters International of Washington
+	<field name = "content">Expediters International of Washington
 Inc president John Kaiser told securities analysts business in
 the current quarter is good and he is looking for good results
 for the year.

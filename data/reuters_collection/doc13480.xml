@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:35:22.73</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0363reute
-b f BC-NIPPON-SHOKUBAI-ISSUE   04-07 0111</field>
-	<field name = "TITLE">NIPPON SHOKUBAI ISSUES 80 MLN DLR WARRANT BOND</field>
+	<field name = "titulo">NIPPON SHOKUBAI ISSUES 80 MLN DLR WARRANT BOND</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Nippon Shokubai Kagaku Kogyo is issuing a
+	<field name = "content">Nippon Shokubai Kagaku Kogyo is issuing a
 80 mln dlr equity warrant eurobond due April 30, 1992 paying an
 indicated coupon of 2-1/8 pct and priced at par, lead manager
 Nomura International Ltd said.

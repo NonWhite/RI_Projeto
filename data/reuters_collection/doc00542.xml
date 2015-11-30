@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 12:13:46.82</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F
-f0206
-reute
-r f BC-UNOCAL-UCL>-UNIT-CUT   03-02 0088</field>
-	<field name = "TITLE">UNOCAL UCL> UNIT CUTS CRUDE OIL POSTED PRICES</field>
+	<field name = "titulo">UNOCAL UCL> UNIT CUTS CRUDE OIL POSTED PRICES</field>
 	<field name = "DATELINE">LOS ANGELES, March 2 -</field>
-	<field name = "BODY">Unocal Corp's Union Oil Co said it
+	<field name = "content">Unocal Corp's Union Oil Co said it
 lowered its posted prices for crude oil one to 1.50 dlrs a
 barrel in the eastern region of the U.S., effective Feb 26.
     Union said a 1.50 dlrs cut brings its posted price for the

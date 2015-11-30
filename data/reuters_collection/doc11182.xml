@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 03:11:11.89</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">T C
-f0158reute
-u f BC-INDIA-REDUCES-EXPORT   03-31 0097</field>
-	<field name = "TITLE">INDIA REDUCES EXPORT DUTY ON COFFEE</field>
+	<field name = "titulo">INDIA REDUCES EXPORT DUTY ON COFFEE</field>
 	<field name = "DATELINE">NEW DELHI, March 31 -</field>
-	<field name = "BODY">India cut the export duty on coffee
+	<field name = "content">India cut the export duty on coffee
 to 330 rupees per 100 kg from 600 rupees, effective March 23, a
 Coffee Board official said.
     The reduction should help India reach its coffee export

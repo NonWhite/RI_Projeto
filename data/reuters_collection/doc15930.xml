@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 16:01:37.92</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2454reute
-r f BC-CANADA-SOUTHERN-PETRO   04-09 0091</field>
-	<field name = "TITLE">CANADA SOUTHERN PETROLEUM CSW> TO SELL STOCK</field>
+	<field name = "titulo">CANADA SOUTHERN PETROLEUM CSW> TO SELL STOCK</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Canada Southern Petroleum Ltd said its
+	<field name = "content">Canada Southern Petroleum Ltd said its
 board authorized the sale of additional limited voting stock
 exclusively to the company's shareholders.
     A registration statement in connection with the proposed

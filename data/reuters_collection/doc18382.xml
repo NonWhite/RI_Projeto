@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">ghana</field>
 	<field name = "PLACES">ivory-coast</field>
-	<field name = "UNKNOWN">C G T
-f1405reute
-u f BC-DROUGHT-THREATENS-FAM   06-15 0094</field>
-	<field name = "TITLE">DROUGHT THREATENS FAMINE, COCOA DAMAGE IN GHANA</field>
+	<field name = "titulo">DROUGHT THREATENS FAMINE, COCOA DAMAGE IN GHANA</field>
 	<field name = "DATELINE">ABIDJAN, June 15 -</field>
-	<field name = "BODY">Ghana is taking steps to combat imminent
+	<field name = "content">Ghana is taking steps to combat imminent
 famine in certain areas near its border with Togo following
 scant rainfall, Accra Radio reported today.
     The Radio, monitored in Abidjan, said fishing and farming

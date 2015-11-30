@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 03:38:21.46</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">RM
-f0140reute
-u f BC-INDIA-TRADE-DEFICIT-F   03-19 0115</field>
-	<field name = "TITLE">INDIA TRADE DEFICIT FALLS</field>
+	<field name = "titulo">INDIA TRADE DEFICIT FALLS</field>
 	<field name = "DATELINE">NEW DELHI, March 19 -</field>
-	<field name = "BODY">India's trade deficit is
+	<field name = "content">India's trade deficit is
 provisionally estimated at 58.34 billion rupees in the first 10
 months of fiscal 1986/87 ending March, compared with 70.62
 billion in the year ago period, the Commerce Ministry said.

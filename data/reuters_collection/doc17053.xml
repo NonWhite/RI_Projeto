@@ -4,12 +4,9 @@
 	<field name = "PLACES">ecuador</field>
 	<field name = "PLACES">colombia</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f3186reute
-u f BC-ECUADOR-TO-USE-COLOMB   04-23 0106</field>
-	<field name = "TITLE">ECUADOR TO USE COLOMBIA OIL LINK FOR FIVE YEARS</field>
+	<field name = "titulo">ECUADOR TO USE COLOMBIA OIL LINK FOR FIVE YEARS</field>
 	<field name = "DATELINE">BOGOTA, April 23 -</field>
-	<field name = "BODY">Ecuador will use a new pipeline link
+	<field name = "content">Ecuador will use a new pipeline link
 with Colombia to export crude oil for the next five years,
 Colombian mines and energy minister Guillermo Perry said.
     The link will be inaugurated on May 8. It was built to

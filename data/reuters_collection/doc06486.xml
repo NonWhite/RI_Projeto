@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 10:08:11.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f7972reute
-h f BC-AA-GAGE-GETS-SINGER-   03-18 0106</field>
-	<field name = "TITLE">AA GAGE GETS SINGER SMF> DIVISION SUBCONTRACT</field>
+	<field name = "titulo">AA GAGE GETS SINGER SMF> DIVISION SUBCONTRACT</field>
 	<field name = "DATELINE">FERNDALE, MICH., March 18 -</field>
-	<field name = "BODY">AA Gage, a manufacturer of
+	<field name = "content">AA Gage, a manufacturer of
 rotary indexers and test systems for the aerospace and machine
 tool industries, said it was awarded an initial subcontract of
 2.2 mln dlrs by Singer Co's Kearfott Guidance and Navigation

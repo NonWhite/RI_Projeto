@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 12:52:04.59</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">RM
-f1730reute
-u f BC-YUGOSLAVIA-SEEKS-TWO   03-23 0102</field>
-	<field name = "TITLE">YUGOSLAVIA SEEKS TWO BILLION DLR REFINANCING</field>
+	<field name = "titulo">YUGOSLAVIA SEEKS TWO BILLION DLR REFINANCING</field>
 	<field name = "DATELINE">BELGRADE, March 23 -</field>
-	<field name = "BODY">Deputy Prime Minister Janez Zemljaric,
+	<field name = "content">Deputy Prime Minister Janez Zemljaric,
 speaking before a meeting with the Paris Club of creditor
 nations, said Yugoslavia was seeking to refinance two billion
 dlrs of debt.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">C G 
-f2594reute
-u f BC-U.S.-DRAFTS-SANCTIONS   10-19 0118</field>
-	<field name = "TITLE">U.S. DRAFTS SANCTIONS IN ARGENTINA SOY CASE</field>
+	<field name = "titulo">U.S. DRAFTS SANCTIONS IN ARGENTINA SOY CASE</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">The U.S. is drafting options including
+	<field name = "content">The U.S. is drafting options including
 possible trade retaliation against Argentina in a dispute over
 the differential between soybean and product  taxes which
 Buenos Aires levies on exports.

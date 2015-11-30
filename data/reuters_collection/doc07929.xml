@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 15:18:29.82</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2212reute
-u f BC-DELTA-SAYS-COURT-ORDE   03-20 0072</field>
-	<field name = "TITLE">DELTA SAYS COURT ORDER WILL NOT DELAY MERGER</field>
+	<field name = "titulo">DELTA SAYS COURT ORDER WILL NOT DELAY MERGER</field>
 	<field name = "DATELINE">ATLANTA, March 20 -</field>
-	<field name = "BODY">Delta Air Lines DAL> said a court
+	<field name = "content">Delta Air Lines DAL> said a court
 order requiring Western Air Lines WAL> to arbitrate with two
 of its unions will not delay the April 1 merger between the two
 airlines.

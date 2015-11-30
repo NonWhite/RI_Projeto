@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 12:54:29.75</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">RM
-f0920reute
-r f BC-BANKERS-PREDICT-SHAKE   03-06 0116</field>
-	<field name = "TITLE">BANKERS PREDICT SHAKEOUT IN SWEDISH BANKING SYSTEM</field>
+	<field name = "titulo">BANKERS PREDICT SHAKEOUT IN SWEDISH BANKING SYSTEM</field>
 	<field name = "DATELINE">STOCKHOLM, March 6 -</field>
-	<field name = "BODY">The central bank recommended a major
+	<field name = "content">The central bank recommended a major
 change in the traditional ownership structure of Swedish
 commercial banks that bankers said would inevitably lead to the
 takeover of remaining small regional banks.

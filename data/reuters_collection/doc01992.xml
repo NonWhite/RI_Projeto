@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 08:48:10.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0932reute
-u f BC-CARTER-HAWLEY-HALE-C   03-05 0056</field>
-	<field name = "TITLE">CARTER HAWLEY HALE CHH> FEBRUARY SALES RISE</field>
+	<field name = "titulo">CARTER HAWLEY HALE CHH> FEBRUARY SALES RISE</field>
 	<field name = "DATELINE">LOS ANGELES, March 5 -</field>
-	<field name = "BODY">Carter Hawley Hale Stores Inc said
+	<field name = "content">Carter Hawley Hale Stores Inc said
 sales for the four weeks ended February 28 were up 7.6 pct to
 240.8 mln dlrs from 223.8 mln dlrs a year before, with
 same-store sales up 5.6 pct.

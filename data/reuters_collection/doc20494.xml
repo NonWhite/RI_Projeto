@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:56:56.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2551reute
-r f BC-EXOVIR-XOVR.O>-TO-BU   10-20 0061</field>
-	<field name = "TITLE">EXOVIR XOVR.O> TO BUYBACK SHARES</field>
+	<field name = "titulo">EXOVIR XOVR.O> TO BUYBACK SHARES</field>
 	<field name = "DATELINE">GREAT NECK, N.Y., Oct 20 -</field>
-	<field name = "BODY">Exovir Inc said its board
+	<field name = "content">Exovir Inc said its board
 authorized the purchase of up to one mln dlrs of its common
 stock.
     The dollar amount represents approximately 120,000 shares,

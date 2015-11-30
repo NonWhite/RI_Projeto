@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:24:26.15</field>
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1070reute
-u f BC-oil-products-output   04-01 0100</field>
-	<field name = "TITLE">U.S. VEGETABLE OIL PRODUCTS OUTPUT IN FEBRUARY</field>
+	<field name = "titulo">U.S. VEGETABLE OIL PRODUCTS OUTPUT IN FEBRUARY</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">U.S. factories used 1,053.0 mln lbs
+	<field name = "content">U.S. factories used 1,053.0 mln lbs
 of various vegetable oils in the production of edible products
 during February, the Census Bureau reported.
     That compared with a revised usage of 1,075.0 mln lbs in

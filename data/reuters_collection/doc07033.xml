@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 08:01:10.70</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">austria</field>
-	<field name = "UNKNOWN">RM
-f0571reute
-u f BC-AUSTRIA-INCREASES-BON   03-19 0059</field>
-	<field name = "TITLE">AUSTRIA INCREASES BOND TO 75 MLN AUSTRALIAN DLRS</field>
+	<field name = "titulo">AUSTRIA INCREASES BOND TO 75 MLN AUSTRALIAN DLRS</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">The Australian dollar eurobond launched
+	<field name = "content">The Australian dollar eurobond launched
 yesterday for the Republic of Austria has been increased to 75
 mln dlrs from the original 50 mln, Credit Suisse First Boston
 Ltd said as lead manager.

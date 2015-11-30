@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 05:54:45.85</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0115reute
-u f BC-JAPAN-SEES-HIGHER-MON   04-17 0110</field>
-	<field name = "TITLE">JAPAN SEES HIGHER MONEY SUPPLY GROWTH THIS QUARTER</field>
+	<field name = "titulo">JAPAN SEES HIGHER MONEY SUPPLY GROWTH THIS QUARTER</field>
 	<field name = "DATELINE">TOKYO, April 17 -</field>
-	<field name = "BODY">The Bank of Japan said it forecast
+	<field name = "content">The Bank of Japan said it forecast
 Japan's broadly-defined M-2 money supply average plus
 certificates of deposit (CDs) will rise by about nine pct in
 the current April-June quarter against 8.5 pct a year earlier.

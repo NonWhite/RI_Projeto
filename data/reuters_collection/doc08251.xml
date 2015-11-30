@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0933reute
-d f BC-JAPAN-IN-LAST-DITCH-E   03-23 0097</field>
-	<field name = "TITLE">JAPAN IN LAST DITCH EFFORT TO SAVE CHIP PACT</field>
+	<field name = "titulo">JAPAN IN LAST DITCH EFFORT TO SAVE CHIP PACT</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 23 -</field>
-	<field name = "BODY">Japan has launched a last-ditch effort to
+	<field name = "content">Japan has launched a last-ditch effort to
 salvage its computer micro-chip pact with the United States -
 sending a letter to top American policy makers setting out its
 case and instructing its producers to cut output further.

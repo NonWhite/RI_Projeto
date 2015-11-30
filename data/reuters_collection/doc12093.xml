@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 12:42:29.17</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1702reute
-w f BC-CENTERRE-CTBC>-ACQUI   04-01 0049</field>
-	<field name = "TITLE">CENTERRE CTBC> ACQUIRES BENEFIT PLAN SERVICES</field>
+	<field name = "titulo">CENTERRE CTBC> ACQUIRES BENEFIT PLAN SERVICES</field>
 	<field name = "DATELINE">ST. LOUIS, April 1 -</field>
-	<field name = "BODY">Centerre Bancorp said it completed the
+	<field name = "content">Centerre Bancorp said it completed the
 acquisition of Benefit Plan Services Inc, Maryland Heights,
 Mo., which specializes in designing and administering small and
 moderately sized pension plans.

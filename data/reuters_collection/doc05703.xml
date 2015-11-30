@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 16:44:20.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3643reute
-r f BC-ROYALE-AIRLINES-RYAL   03-16 0076</field>
-	<field name = "TITLE">ROYALE AIRLINES RYAL> REPORTS LOAD FACTOR UP</field>
+	<field name = "titulo">ROYALE AIRLINES RYAL> REPORTS LOAD FACTOR UP</field>
 	<field name = "DATELINE">SHREVEPORT, La., March 16 -</field>
-	<field name = "BODY">Royale Airlines Inc said its
+	<field name = "content">Royale Airlines Inc said its
 load factor for February was 42.9 pct, up from 42.6 pct the
 same period last year.
     Royale said it recorded 4,180,000 revenue passenger miles

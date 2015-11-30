@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:35:31.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0533reute
-r f BC-HARCOURT-BRACE-HBJ>   03-12 0079</field>
-	<field name = "TITLE">HARCOURT BRACE HBJ> MAY BE LOWERED BY MOODY'S</field>
+	<field name = "titulo">HARCOURT BRACE HBJ> MAY BE LOWERED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 may downgrade 200 mln dlrs of debt of Harcourt Brace Jovanovich
 Inc.
     The rating agency cited Harcourt Brace's recent aggressive

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 13:16:21.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0052reute
-h f BC-INTERLEAF-LEAF>-INTR   03-11 0073</field>
-	<field name = "TITLE">INTERLEAF LEAF> INTRODUCES NEW SOFTWARE</field>
+	<field name = "titulo">INTERLEAF LEAF> INTRODUCES NEW SOFTWARE</field>
 	<field name = "DATELINE">CAMBRIDGE, Mass., March 11 -</field>
-	<field name = "BODY">Interleaf Inc said it will
+	<field name = "content">Interleaf Inc said it will
 introduce a series of new software packages that allow users to
 build electronic publishing systems comprised of personal
 computers, workstations and mainframe computers.

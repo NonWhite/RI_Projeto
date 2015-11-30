@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">dmk</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0401reute
-b f BC-BUNDESBANK-HAS-NOT-IN   03-31 0104</field>
-	<field name = "TITLE">BUNDESBANK HAS NOT INTERVENED TODAY, DEALERS</field>
+	<field name = "titulo">BUNDESBANK HAS NOT INTERVENED TODAY, DEALERS</field>
 	<field name = "DATELINE">FRANKFURT, March 31 -</field>
-	<field name = "BODY">The Bundesbank declined to comment on
+	<field name = "content">The Bundesbank declined to comment on
 rumours in Tokyo that it was intervening heavily to support the
 dollar, but dealers here said they had not seen the German
 central bank in the market all morning.

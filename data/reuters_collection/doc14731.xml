@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">fuel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2601reute
-u f BC-/API-SAYS-DISTILLATE,   04-07 0105</field>
-	<field name = "TITLE">API SAYS DISTILLATE, GASOLINE STOCKS UP IN WEEK</field>
+	<field name = "titulo">API SAYS DISTILLATE, GASOLINE STOCKS UP IN WEEK</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Distillate fuel stocks held in
+	<field name = "content">Distillate fuel stocks held in
 primary storage rose by 628,000 barrels in the week ended April
 three to 106.96 mln barrels from a revised 106.33 mln the
 previous week, the American Petroleum Institute said.

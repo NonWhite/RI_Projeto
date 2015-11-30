@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 09:38:04.53</field>
 	<field name = "TOPICS">earn</field>
-	<field name = "UNKNOWN">F
-f7864reute
-u f BC-BELL-ATLANTIC-CORP-B   03-18 0025</field>
-	<field name = "TITLE">BELL ATLANTIC CORP BEL> INCREASES PAYOUT</field>
+	<field name = "titulo">BELL ATLANTIC CORP BEL> INCREASES PAYOUT</field>
 	<field name = "DATELINE">PHILADELPHIA, March 18 -</field>
-	<field name = "BODY">Qtrly div 96 cts vs 90 cts
+	<field name = "content">Qtrly div 96 cts vs 90 cts
     Pay May One, 1987
     Record March 31, 1987
  Reuter</field>

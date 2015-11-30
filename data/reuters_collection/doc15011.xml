@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 10:19:42.41</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1088reute
-b f BC-F.W.-WOOLWORTH-CO-Z>   04-08 0021</field>
-	<field name = "TITLE">F.W. WOOLWORTH CO Z> HIKES DIVIDEND</field>
+	<field name = "titulo">F.W. WOOLWORTH CO Z> HIKES DIVIDEND</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Qtly div 33 cts vs 28 cts prior
+	<field name = "content">Qtly div 33 cts vs 28 cts prior
     Pay June 1
     Record May 1
  Reuter</field>

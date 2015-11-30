@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 02:29:13.28</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f0076reute
-u f BC-CHINA'S-JANUARY-GRAIN   03-13 0072</field>
-	<field name = "TITLE">CHINA'S JANUARY GRAIN EXPORTS FALL</field>
+	<field name = "titulo">CHINA'S JANUARY GRAIN EXPORTS FALL</field>
 	<field name = "DATELINE">PEKING, March 13 -</field>
-	<field name = "BODY">China's grain exports in January totaled
+	<field name = "content">China's grain exports in January totaled
 386,157 tonnes, down 22.1 pct from January 1986, customs
 figures show.
     They gave no detailed breakdown.

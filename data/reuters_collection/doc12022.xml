@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 11:25:07.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1381reute
-r f BC-AMERICAN-MOTORS-AMO>   04-01 0085</field>
-	<field name = "TITLE">AMERICAN MOTORS AMO> MARCH OUTPUT FALLS</field>
+	<field name = "titulo">AMERICAN MOTORS AMO> MARCH OUTPUT FALLS</field>
 	<field name = "DATELINE">SOUTHFIELD, Mich., April 1 -</field>
-	<field name = "BODY">American Motors Corp said it
+	<field name = "content">American Motors Corp said it
 produced 2,578 U.S. cars in March, down from 5,922 in the same
 1986 month.
     The automaker's March U.S. Jeep output was 21,390, up from

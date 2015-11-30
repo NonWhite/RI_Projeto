@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 07:18:12.28</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0542reute
-u f BC-HONG-KONG-1986/87-BUD   04-01 0109</field>
-	<field name = "TITLE">HONG KONG 1986/87 BUDGET SURPLUS ESTIMATE RAISED</field>
+	<field name = "titulo">HONG KONG 1986/87 BUDGET SURPLUS ESTIMATE RAISED</field>
 	<field name = "DATELINE">HONG KONG, April 1 -</field>
-	<field name = "BODY">Hong Kong's budget surplus for the
+	<field name = "content">Hong Kong's budget surplus for the
 1986/1987 fiscal year has been revised to 3.7 billion H.K. Dlrs
 from a 3.1 billion dlr estimate made in February, Financial
 Secretary Piers Jacobs said.

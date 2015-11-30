@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 12:01:47.68</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f0721reute
-u f BC-RLR-FINANCIAL-RLRF>   03-09 0064</field>
-	<field name = "TITLE">RLR FINANCIAL RLRF> TO BE DELISTED FROM NASDAQ</field>
+	<field name = "titulo">RLR FINANCIAL RLRF> TO BE DELISTED FROM NASDAQ</field>
 	<field name = "DATELINE">LAUDERHILL, Fla., March 9 -</field>
-	<field name = "BODY">RLR Financial Serivces Inc said
+	<field name = "content">RLR Financial Serivces Inc said
 the National Association of Securities Dealers intends to
 delist it because the NASD beleieves market sales of RLR's
 broker/dealer subsidiary, RLR Securities Group Inc, are not

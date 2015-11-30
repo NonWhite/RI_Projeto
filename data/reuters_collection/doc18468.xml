@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 01:11:24.75</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">RM V 
-f2114reute
-u f BC-AIDES-URGE-S.-KOREA'S   06-18 0107</field>
-	<field name = "TITLE">AIDES URGE S. KOREA'S CHUN TO OPEN TALKS - RADIO</field>
+	<field name = "titulo">AIDES URGE S. KOREA'S CHUN TO OPEN TALKS - RADIO</field>
 	<field name = "DATELINE">SEOUL, June 18 -</field>
-	<field name = "BODY">Aides to South Korea's President Chun Doo
+	<field name = "content">Aides to South Korea's President Chun Doo
 Hwan are urging him to reopen talks on electoral reform to
 defuse nationwide political turmoil, the state radio said.
     It said ruling party officials would tell Chun he should

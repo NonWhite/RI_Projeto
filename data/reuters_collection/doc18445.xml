@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-JUN-1987 06:00:48.07</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0405reute
-b f BC-PASCO-CORP-ISSUES-85   06-16 0104</field>
-	<field name = "TITLE">PASCO CORP ISSUES 85 MLN DLR EQUITY WARRANT BOND</field>
+	<field name = "titulo">PASCO CORP ISSUES 85 MLN DLR EQUITY WARRANT BOND</field>
 	<field name = "DATELINE">LONDON, June 16 -</field>
-	<field name = "BODY">Pasco Corp is issuing an 85 mln dlr
+	<field name = "content">Pasco Corp is issuing an 85 mln dlr
 equity warrant eurobond due July 9, 1992 with an indicated
 coupon of 1-5/8 pct and par pricing, lead manager Nomura
 International Ltd said.

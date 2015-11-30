@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">C G
-f0581reute
-u f BC-TAIWAN-BUYS-60,000-TO   03-05 0094</field>
-	<field name = "TITLE">TAIWAN BUYS 60,000 TONNES OF U.S. MAIZE</field>
+	<field name = "titulo">TAIWAN BUYS 60,000 TONNES OF U.S. MAIZE</field>
 	<field name = "DATELINE">TAIPEI, March 5 -</field>
-	<field name = "BODY">The joint committee of Taiwan's maize
+	<field name = "content">The joint committee of Taiwan's maize
 importers has awarded contracts to two U.S. Companies to supply
 two shipments of maize, totalling 60,000 tonnes, a committee
 spokesman told Reuters.

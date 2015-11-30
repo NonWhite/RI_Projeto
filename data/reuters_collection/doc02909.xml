@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 17:17:34.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0681reute
-r f BC-exspetalnick---pls-in   03-06 0122</field>
-	<field name = "TITLE">CHAIRMAN OF KING WORLD KWP> FACES CHARGES</field>
+	<field name = "titulo">CHAIRMAN OF KING WORLD KWP> FACES CHARGES</field>
 	<field name = "DATELINE">Miami, March 6 -</field>
-	<field name = "BODY">Roger King, chairman of King World
+	<field name = "content">Roger King, chairman of King World
 Productions Inc, faces charges of cocaine possession, auto
 theft and strong-arm robbery stemming from his arrest in Fort
 Lauderdale, Fla., last month, police said.

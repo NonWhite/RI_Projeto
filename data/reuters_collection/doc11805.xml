@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 04:54:30.84</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0299reute
-b f BC-CNT-ISSUES-20-BILLION   04-01 0085</field>
-	<field name = "TITLE">CNT ISSUES 20 BILLION YEN EUROBOND</field>
+	<field name = "titulo">CNT ISSUES 20 BILLION YEN EUROBOND</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">Caisse Nationale des Telecommunications
+	<field name = "content">Caisse Nationale des Telecommunications
 is issuing a 20 billion yen eurobond due May 29, 1992 paying
 4-3/8 pct and priced at 101-1/2 pct, lead manager IBJ
 International Ltd said.

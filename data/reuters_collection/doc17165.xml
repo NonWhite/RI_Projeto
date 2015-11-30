@@ -3,13 +3,10 @@
 	<field name = "TOPICS">lumber</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f2241reute
-u f BC-WALL-STREET-STOCKS/PA   04-24 0104</field>
-	<field name = "TITLE">WALL STREET STOCKS/PAPER AND LUMBER PRODUCERS</field>
+	<field name = "titulo">WALL STREET STOCKS/PAPER AND LUMBER PRODUCERS</field>
 	<field name = "AUTHOR">By Gary Seidman, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 24 -</field>
-	<field name = "BODY">Stocks of paper and lumber producers
+	<field name = "content">Stocks of paper and lumber producers
 tumbled as a rumor spread that the Japanese may impose tariffs
 on wood and paper products, analysts and industry officials
 said. But, they said, logic and their own research do not

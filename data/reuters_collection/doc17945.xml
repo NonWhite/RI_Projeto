@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 07:14:55.91</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0570reute
-r f BC-JAPAN-RAISES-LIMITS-O   06-02 0100</field>
-	<field name = "TITLE">JAPAN RAISES LIMITS ON NON-LIFE INSURERS' LENDING</field>
+	<field name = "titulo">JAPAN RAISES LIMITS ON NON-LIFE INSURERS' LENDING</field>
 	<field name = "DATELINE">TOKYO, June 2 -</field>
-	<field name = "BODY">The Finance Ministry would raise lending
+	<field name = "content">The Finance Ministry would raise lending
 limits on local non-life insurance firms to meet the increasing
 need for efficient fund management, a ministry spokesman said.
     He said the allowable non-collateral lending limits would

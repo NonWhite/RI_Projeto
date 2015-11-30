@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:29:16.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2390reute
-r f BC-KING-WORLD-KWP>-BEGI   10-20 0062</field>
-	<field name = "TITLE">KING WORLD KWP> BEGINS STOCK REPURCHASE</field>
+	<field name = "titulo">KING WORLD KWP> BEGINS STOCK REPURCHASE</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">King World Productions Inc said it began
+	<field name = "content">King World Productions Inc said it began
 an open market repurchase program of its shares on October 19.
     King World said the total number of shares ultimately
 bouught back will depend on prevailing market conditions

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 16:11:21.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0952
-reute
-d f BC-SCHULT-HOMES-OFFERING   02-26 0137</field>
-	<field name = "TITLE">SCHULT HOMES OFFERING PRICED AT FIVE DLRS/UNIT</field>
+	<field name = "titulo">SCHULT HOMES OFFERING PRICED AT FIVE DLRS/UNIT</field>
 	<field name = "DATELINE">NEW YORK, Feb 26 -</field>
-	<field name = "BODY">The underwriters said the initial
+	<field name = "content">The underwriters said the initial
 offering of 833,334 Schult Homes Corp units is being made at
 five dlrs per unit.
     The underwriters, managed by Janney Montgomey Scott Inc and

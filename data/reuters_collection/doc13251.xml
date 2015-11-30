@@ -8,12 +8,9 @@
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">imf</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0055reute
-r f BC-PARIS-CLUB-AGREES-NEW   04-05 0111</field>
-	<field name = "TITLE">PARIS CLUB AGREES NEW AFRICAN DEBT INITIATIVE</field>
+	<field name = "titulo">PARIS CLUB AGREES NEW AFRICAN DEBT INITIATIVE</field>
 	<field name = "DATELINE">KNOKKE-HEIST, Belgium, April 5 -</field>
-	<field name = "BODY">Western creditor
+	<field name = "content">Western creditor
 governments have reached agreement in principle on new
 proposals for easing the debt burden of sub-Saharan African
 countries, British Chancellor of the Exchequer Nigel Lawson

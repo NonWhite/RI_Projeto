@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 17:28:36.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0063reute
-r f BC-HILTON-HOTELS-HLT>-G   03-03 0094</field>
-	<field name = "TITLE">HILTON HOTELS HLT> GIVEN RIGHT TO SUE IRS</field>
+	<field name = "titulo">HILTON HOTELS HLT> GIVEN RIGHT TO SUE IRS</field>
 	<field name = "DATELINE">LOS ANGELES, March 3 -</field>
-	<field name = "BODY">Hilton Hotels Corp said it received
+	<field name = "content">Hilton Hotels Corp said it received
 approval from Federal court to sue the Internal Revenue Service
 to determine if the IRS was correct in allowing the Conrad
 Hilton Foundation to hold certain stocks.

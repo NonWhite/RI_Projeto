@@ -6,13 +6,10 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "PEOPLE">greenspan</field>
-	<field name = "UNKNOWN">RM 
-f1154reute
-u f BC-SWISS-ANALYSTS-SAY-MO   10-19 0109</field>
-	<field name = "TITLE">SWISS ANALYSTS SAY MOOD ON MARKETS PRECARIOUS</field>
+	<field name = "titulo">SWISS ANALYSTS SAY MOOD ON MARKETS PRECARIOUS</field>
 	<field name = "AUTHOR">By Donald Nordberg and Michael Shields</field>
 	<field name = "DATELINE">ZURICH, Oct 19 -</field>
-	<field name = "BODY">Today's sharp sell-off of Swiss stocks and
+	<field name = "content">Today's sharp sell-off of Swiss stocks and
 matching falls around Europe may have been overdone, but the
 mood on financial markets is precarious, Swiss securities
 analysts and economists said.

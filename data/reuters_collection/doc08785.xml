@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 11:00:14.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1247reute
-u f BC-FORD-F>-CREDIT-UNIT   03-24 0111</field>
-	<field name = "TITLE">FORD F> CREDIT UNIT SELLS NOTES AT 8.13 PCT</field>
+	<field name = "titulo">FORD F> CREDIT UNIT SELLS NOTES AT 8.13 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Ford Motor Credit Co, a unit of Ford
+	<field name = "content">Ford Motor Credit Co, a unit of Ford
 Motor Co, is raising 200 mln dlrs via an offering of notes due
 1997 yielding 8.13 pct, said sole manager Salomon Brothers.
     The notes have an eight pct coupon and were priced at

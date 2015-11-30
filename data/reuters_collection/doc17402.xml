@@ -2,12 +2,9 @@
 	<field name = "DATE">29-APR-1987 12:54:50.57</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">C
-f1813reute
-u f BC-IRAQ-REPORTS-MERCHANT   04-29 0097</field>
-	<field name = "TITLE">IRAQ REPORTS MERCHANT SHIP HIT IN THE GULF</field>
+	<field name = "titulo">IRAQ REPORTS MERCHANT SHIP HIT IN THE GULF</field>
 	<field name = "DATELINE">BAGHDAD, April 29 -</field>
-	<field name = "BODY">Iraqi warplanes attacked and hit a
+	<field name = "content">Iraqi warplanes attacked and hit a
 large "naval target" -- Baghdad's term for a tanker or merchant
 vessel -- in the Gulf today, an Iraqi military spokesman said.
     He said the raid took place off the Iranian coast at 0600

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G T
-f2491reute
-b f BC-/U.S.-SUGAR-PROGRAM-C   03-20 0130</field>
-	<field name = "TITLE">U.S. SUGAR PROGRAM CUT SENT TO CONGRESS BY USDA</field>
+	<field name = "titulo">U.S. SUGAR PROGRAM CUT SENT TO CONGRESS BY USDA</field>
 	<field name = "DATELINE">WASHINGTON, MARCH 20 -</field>
-	<field name = "BODY">The U.S. Agriculture Department 
+	<field name = "content">The U.S. Agriculture Department 
 formally transmitted to Congress a long-awaited proposal to
 drastically slash the sugar loan rate and compensate growers
 for the cut with targeted income payments.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">l-cattle</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G L
-f0233reute
-d f BC-LMFE-TO-CONCENTRATE-O   03-09 0115</field>
-	<field name = "TITLE">LMFE TO CONCENTRATE ON CASH SETTLED CONTRACTS</field>
+	<field name = "titulo">LMFE TO CONCENTRATE ON CASH SETTLED CONTRACTS</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">The London Meat Futures Exchange, LMFE,
+	<field name = "content">The London Meat Futures Exchange, LMFE,
 will cease trading in its deliverable pigmeat contract from
 April 3, the LMFE said.
     The move will enable the exchange to concentrate on the

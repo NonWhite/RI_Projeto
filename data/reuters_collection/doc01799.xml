@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 16:16:42.99</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0738reute
-r f BC-AUSTRALIA-SELLS-BONDS   03-04 0110</field>
-	<field name = "TITLE">AUSTRALIA SELLS BONDS IN TWO TRANCHES</field>
+	<field name = "titulo">AUSTRALIA SELLS BONDS IN TWO TRANCHES</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">The Commonwealth of Australia is
+	<field name = "content">The Commonwealth of Australia is
 offering in the Yankee bond market 400 mln dlrs of bonds in two
 tranches, said lead manager Morgan Stanley and Co Inc.
     A 250 mln dlr issue of bonds due 1997 was given a 7-5/8 pct

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 14:04:26.45</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G 
-f2453reute
-u f BC-SOVIET-1988-GRAIN-TAR   10-19 0144</field>
-	<field name = "TITLE">SOVIET 1988 GRAIN TARGET INDICATES 1987 OUTPUT</field>
+	<field name = "titulo">SOVIET 1988 GRAIN TARGET INDICATES 1987 OUTPUT</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">Recent announcements from Moscow of
+	<field name = "content">Recent announcements from Moscow of
 next year's grain production targets indicate that the Soviets
 are estimating this year's grain crop at 205 to 213 mln tonnes,
 Agriculture Department analysts said.

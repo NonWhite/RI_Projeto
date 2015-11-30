@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 06:40:36.78</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0490reute
-u f BC-U.K.-BUILDING-SOCIETI   06-02 0104</field>
-	<field name = "TITLE">U.K. BUILDING SOCIETIES JOIN BANK CLEARING SYSTEM</field>
+	<field name = "titulo">U.K. BUILDING SOCIETIES JOIN BANK CLEARING SYSTEM</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">The two largest U.K. Building societies,
+	<field name = "content">The two largest U.K. Building societies,
 the Halifax and Abbey National, said they have joined the
 banks' centralised clearing system.
     The move is intended to cut the current four or five days'

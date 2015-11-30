@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 16:40:02.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2553reute
-d f BC-U.S.-FARM-DISASTER-BI   03-30 0139</field>
-	<field name = "TITLE">U.S. FARM DISASTER BILL ATTRACTS AMENDMENTS</field>
+	<field name = "titulo">U.S. FARM DISASTER BILL ATTRACTS AMENDMENTS</field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">Senators are considering offering a
+	<field name = "content">Senators are considering offering a
 host of amendments to a farm disaster assistance bill which
 could come up soon on the Senate floor, staff members said.
     The bill, already passed by the House, would enable 1987

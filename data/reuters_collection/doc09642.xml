@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 17:54:38.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2611reute
-d f BC-FPL-GROUP-FPL>-UNIT   03-25 0084</field>
-	<field name = "TITLE">FPL GROUP FPL> UNIT FILES TO OFFER PREFERRED</field>
+	<field name = "titulo">FPL GROUP FPL> UNIT FILES TO OFFER PREFERRED</field>
 	<field name = "DATELINE">MIAMI, March 25 -</field>
-	<field name = "BODY">FPL Group Inc's Florida Power and Light
+	<field name = "content">FPL Group Inc's Florida Power and Light
 Co unit said it filed a shelf registration with the Securities
 and Exchange Commission for the future sale, through one or
 more offerings, of one mln shares of serial preferred stock.

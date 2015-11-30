@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 14:41:21.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6226reute
-d f BC-PENNWALT-PSM>-BUYS-I   03-17 0108</field>
-	<field name = "TITLE">PENNWALT PSM> BUYS ITS PREFERRED FROM ANSCHUTZ</field>
+	<field name = "titulo">PENNWALT PSM> BUYS ITS PREFERRED FROM ANSCHUTZ</field>
 	<field name = "DATELINE">PHILADELPHIA, March 17 -</field>
-	<field name = "BODY">Pennwalt Corp said it bought all
+	<field name = "content">Pennwalt Corp said it bought all
 outstanding shares of its third series cumulative convertible
 preferred stock from Anschutz Corp>.
     According to a standstill agreement reached in 1985,

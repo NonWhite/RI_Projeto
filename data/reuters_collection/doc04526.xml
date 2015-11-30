@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:23:29.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0491reute
-r f BC-VIACOM-VIA>-FACES-"C   03-12 0107</field>
-	<field name = "TITLE">VIACOM VIA> FACES "COSBY SHOW" SUIT</field>
+	<field name = "titulo">VIACOM VIA> FACES "COSBY SHOW" SUIT</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Casey-Werner Co>, producer of "The
+	<field name = "content">Casey-Werner Co>, producer of "The
 Cosby Show," said it filed suit against Viacom International
 Inc, seeking assurances that it will receive its share of
 revenues from the show's syndication.

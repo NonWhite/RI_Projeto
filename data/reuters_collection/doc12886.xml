@@ -3,12 +3,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">pakistan</field>
-	<field name = "UNKNOWN">C
-f1081reute
-d f BC-PAKISTAN-NOT-SEEN-AS   04-03 0127</field>
-	<field name = "TITLE">PAKISTAN NOT SEEN AS MAJOR WHEAT EXPORTER</field>
+	<field name = "titulo">PAKISTAN NOT SEEN AS MAJOR WHEAT EXPORTER</field>
 	<field name = "DATELINE">ISLAMABAD, April 3 -</field>
-	<field name = "BODY">Pakistan is not emerging as a major
+	<field name = "content">Pakistan is not emerging as a major
 wheat exporter as world market prospects are not good enough,
 Sartaj Aziz, Special Assistant on Food and Agriculture to the
 Pakistani Prime Minister, said in an interview.

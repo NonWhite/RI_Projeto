@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 06:54:18.53</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM 
-f0505reute
-u f BC-FINNISH-STATE-LAUNCHE   10-19 0104</field>
-	<field name = "TITLE">FINNISH STATE LAUNCHES BONDS FOR BILLION MARKKA</field>
+	<field name = "titulo">FINNISH STATE LAUNCHES BONDS FOR BILLION MARKKA</field>
 	<field name = "DATELINE">HELSINKI, Oct 19 -</field>
-	<field name = "BODY">The Finnish State launched two bonds
+	<field name = "content">The Finnish State launched two bonds
 totalling one billion markka with loan periods of 10 years and
 five years and annual interest rates of 7.75 and 7.25 pct
 respectively.

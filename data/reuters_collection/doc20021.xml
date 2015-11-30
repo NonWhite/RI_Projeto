@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 03:36:58.94</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0181reute
-u f BC-NISSAN-STARTS-TO-MARK   10-20 0101</field>
-	<field name = "TITLE">NISSAN STARTS TO MARKET REMODELLED 4WD VEHICLES</field>
+	<field name = "titulo">NISSAN STARTS TO MARKET REMODELLED 4WD VEHICLES</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">Nissan Motor Co Ltd NSAN.T> said it has
+	<field name = "content">Nissan Motor Co Ltd NSAN.T> said it has
 started to market a remodelled version of its four wheel drive
 (4WD) Safari vehicle in Japan.
     Nissan said in a statement it hopes to sell 250 vehicles a

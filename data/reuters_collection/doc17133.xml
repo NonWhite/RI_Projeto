@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 12:49:58.10</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1751reute
-d f BC-CONTINENTAL-CONT.O>   04-24 0109</field>
-	<field name = "TITLE">CONTINENTAL CONT.O> BOARD CONSIDERS SUIT</field>
+	<field name = "titulo">CONTINENTAL CONT.O> BOARD CONSIDERS SUIT</field>
 	<field name = "DATELINE">MECHANICSBURG, Pa, April 24 -</field>
-	<field name = "BODY">Continental Medical Systems
+	<field name = "content">Continental Medical Systems
 Inc said its board met to consider the allegations in the
 derivative action filed by Continental Care Group and that
 officers named as defendants believe it to be totally without

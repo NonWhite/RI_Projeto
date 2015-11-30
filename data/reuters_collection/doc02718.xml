@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 12:25:56.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0814reute
-r f BC-BID-TO-DISMISS-JUDGE   03-06 0113</field>
-	<field name = "TITLE">BID TO DISMISS JUDGE IN COPYRIGHT CASE DENIED</field>
+	<field name = "titulo">BID TO DISMISS JUDGE IN COPYRIGHT CASE DENIED</field>
 	<field name = "DATELINE">MOUNTAIN VIEW, Calif., March 6 -</field>
-	<field name = "BODY">NEC Electronics Inc, a
+	<field name = "content">NEC Electronics Inc, a
 unit of NEC Corp NIPNY> said a U.S. District Court judge
 denied NEC's motion to disqualify Judge William Ingram from
 presiding over its lawsuit against Intel Corp INTC>.

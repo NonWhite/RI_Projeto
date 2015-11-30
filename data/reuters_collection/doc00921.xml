@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 05:36:38.23</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0803
-reute
-u f BC-CRA-EXPECTS-TO-PAY-FI   03-03 0119</field>
-	<field name = "TITLE">CRA EXPECTS TO PAY FINAL DIVIDEND OF 10 CENTS</field>
+	<field name = "titulo">CRA EXPECTS TO PAY FINAL DIVIDEND OF 10 CENTS</field>
 	<field name = "DATELINE">ME}LBOURNE, March 3 -</field>
-	<field name = "BODY">CRA Ltd CRAA.S> said it expected to
+	<field name = "content">CRA Ltd CRAA.S> said it expected to
 pay a final 1986 dividend of not less than 10 cents a share
 after July 1, making 13 cents forthe year against 15 in 1985.
     The mining and smelting group earlier reported 1986 net

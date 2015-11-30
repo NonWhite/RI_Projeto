@@ -4,13 +4,10 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">lawson</field>
-	<field name = "UNKNOWN">RM
-f7452reute
-b f BC-LAWSON-HAPPY-WITH-STE   03-18 0109</field>
-	<field name = "TITLE">LAWSON HAPPY WITH STERLING, BACKS LATEST RATE CUT</field>
+	<field name = "titulo">LAWSON HAPPY WITH STERLING, BACKS LATEST RATE CUT</field>
 	<field name = "AUTHOR">By Sten Stovall, Reuters</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">Chancellor of the Exchequer Nigel Lawson
+	<field name = "content">Chancellor of the Exchequer Nigel Lawson
 said he was content with the current level of sterling and
 welcomed today's announcement of a further half point cut in
 British bank base lending rates to 10 pct.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 17:27:27.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2594reute
-d f BC-AMERICAN-CAN   03-19 0080</field>
-	<field name = "TITLE">AMERICAN CAN AC> FILES FOR DEBT OFFERING</field>
+	<field name = "titulo">AMERICAN CAN AC> FILES FOR DEBT OFFERING</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">American Can Co filed with the
+	<field name = "content">American Can Co filed with the
 Securities and Exchange Commission for a shelf offering of up
 to 500 mln dlrs of debt securities on terms to be determined at
 the time of the sale.

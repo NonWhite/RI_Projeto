@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 08:05:31.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0685reute
-u f BC-NEWBERY-NBE>-FAILS-I   06-02 0083</field>
-	<field name = "TITLE">NEWBERY NBE> FAILS IN GETTING LONGTERM FUNDING</field>
+	<field name = "titulo">NEWBERY NBE> FAILS IN GETTING LONGTERM FUNDING</field>
 	<field name = "DATELINE">TEMPE, Ariz., June 2 -</field>
-	<field name = "BODY">Newbery Corp said Fireman's Fund
+	<field name = "content">Newbery Corp said Fireman's Fund
 Corp FFC> ane United Bancorp of Arizona UBAZ.O> have elected
 not to extend a financing agreement with Newbery, and the
 company has been unsuccessful in securing long-term financing

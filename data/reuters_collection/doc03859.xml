@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 14:12:09.77</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0222reute
-u f BC-H.J.-HEINZ-CO-HNZ>-3   03-11 0063</field>
-	<field name = "TITLE">H.J. HEINZ CO HNZ> 3RD QTR JAN 28 NET</field>
+	<field name = "titulo">H.J. HEINZ CO HNZ> 3RD QTR JAN 28 NET</field>
 	<field name = "DATELINE">PITTSBURGH, March 11 -</field>
-	<field name = "BODY">Shr 53 cts vs 46 cts
+	<field name = "content">Shr 53 cts vs 46 cts
     Qtly div 28 cts vs 25 cts prior
     Net 74.7 mln vs 63.2 mln
     Revs 1.08 billion vs 1.01 billion

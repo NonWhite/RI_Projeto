@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 07:13:34.17</field>
-	<field name = "UNKNOWN">RM
-f0466reute
-b f BC-GENERALE-OCCIDENTALE   03-13 0105</field>
-	<field name = "TITLE">GENERALE OCCIDENTALE SEEKS 100 MLN DLR FACILITY</field>
+	<field name = "titulo">GENERALE OCCIDENTALE SEEKS 100 MLN DLR FACILITY</field>
 	<field name = "DATELINE">LONDON, March 13 -</field>
-	<field name = "BODY">Generale Occidentale, Paris, has
+	<field name = "content">Generale Occidentale, Paris, has
 mandated Orion Royal Bank Ltd to arrange a 100 mln dlr
 revolving credit facility, Orion said.
     Borrowings under the seven-year facility can be in dollars

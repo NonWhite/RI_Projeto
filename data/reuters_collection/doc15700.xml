@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 12:16:01.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1596reute
-r f BC-U.S.-TAX-INCREASE-PRO   04-09 0115</field>
-	<field name = "TITLE">U.S. TAX INCREASE PROPOSED ON BEER AND WINE</field>
+	<field name = "titulo">U.S. TAX INCREASE PROPOSED ON BEER AND WINE</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Rep. Anthony Beilenson, D-Cal, said
+	<field name = "content">Rep. Anthony Beilenson, D-Cal, said
 he introduced legislation to triple the federal excise taxes on
 beer and on two types of wine which have the least alcohol.
     His bill would raise the tax on beer from nine dlrs to 27

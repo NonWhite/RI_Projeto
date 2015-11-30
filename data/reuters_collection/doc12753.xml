@@ -3,12 +3,9 @@
 	<field name = "TOPICS">tea</field>
 	<field name = "PLACES">kenya</field>
 	<field name = "PLACES">pakistan</field>
-	<field name = "UNKNOWN">C T
-f0264reute
-u f BC-PAKISTANI-DECISION-WI   04-03 0111</field>
-	<field name = "TITLE">PAKISTANI DECISION WILL HURT KENYAN TEA EXPORTS</field>
+	<field name = "titulo">PAKISTANI DECISION WILL HURT KENYAN TEA EXPORTS</field>
 	<field name = "DATELINE">NAIROBI, April 3 -</field>
-	<field name = "BODY">Pakistan's decision to suspend tea
+	<field name = "content">Pakistan's decision to suspend tea
 import licences will hurt Kenyan tea exports in the short term
 while exporters seek new markets, sources close to Nairobi
 broking houses and exporters said.

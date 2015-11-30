@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 09:25:13.86</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0814reute
-b f BC-/TWA-TWA>-IN-COURT-S   03-20 0096</field>
-	<field name = "TITLE">TWA TWA> IN COURT SETTLEMENT WITH USAIR U></field>
+	<field name = "titulo">TWA TWA> IN COURT SETTLEMENT WITH USAIR U></field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Trans World Airlines Inc said it
+	<field name = "content">Trans World Airlines Inc said it
 reached an agreement yesterday in federal court with USAir
 Group Inc that prevents TWA from buying additional shares of
 USAir.

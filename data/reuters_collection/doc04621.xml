@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 22:48:14.55</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0964reute
-u f BC-HEARST-BUYS-HOUSTON-C   03-12 0114</field>
-	<field name = "TITLE">HEARST BUYS HOUSTON CHRONICLE FOR 400 MLN DLRS</field>
+	<field name = "titulo">HEARST BUYS HOUSTON CHRONICLE FOR 400 MLN DLRS</field>
 	<field name = "DATELINE">HOUSTON, March 12 -</field>
-	<field name = "BODY">The Hearst Corp> is buying the Houston
+	<field name = "content">The Hearst Corp> is buying the Houston
 Chronicle from Houston Endowment Inc for 400 mln dlrs.
     The announcement was made jointly by Frank Bennack Jr,
 president and chief executive officer of Hearst, and Richard

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 11:56:04.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0297reute
-r f BC-GM-GM>-MAY-CEASE-U.S   04-17 0100</field>
-	<field name = "TITLE">GM GM> MAY CEASE U.S. CAR ASSEMBLY - LABOR CHIEF</field>
+	<field name = "titulo">GM GM> MAY CEASE U.S. CAR ASSEMBLY - LABOR CHIEF</field>
 	<field name = "DATELINE">DETROIT, April 17 -</field>
-	<field name = "BODY">General Motors Corp believes it must
+	<field name = "content">General Motors Corp believes it must
 become competitive with other with auto manufacturers in the
 next five years or cease building its cars in the U.S., a
 published report said.

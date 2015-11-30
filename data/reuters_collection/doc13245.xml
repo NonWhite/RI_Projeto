@@ -2,12 +2,9 @@
 	<field name = "DATE">5-APR-1987 03:37:45.30</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">RM
-f0030reute
-u f BC-WHITE-HOUSE-DENIES-AN   04-05 0095</field>
-	<field name = "TITLE">WHITE HOUSE DENIES ANY FURTHER ARMS SALES TO IRAN</field>
+	<field name = "titulo">WHITE HOUSE DENIES ANY FURTHER ARMS SALES TO IRAN</field>
 	<field name = "DATELINE">WASHINGTON, April 5 -</field>
-	<field name = "BODY">The White House denied a report that
+	<field name = "content">The White House denied a report that
 the United States was continuing to ship arms or
 weapons-related equipment to Iran, but an administration
 official said there had been non-weapons sales to Tehran

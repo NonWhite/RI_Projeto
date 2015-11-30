@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 14:09:10.00</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2617reute
-d f BC-VALERO-ENERGY-CORP-V   10-20 0061</field>
-	<field name = "TITLE">VALERO ENERGY CORP VLO> 3RD QTR LOSS</field>
+	<field name = "titulo">VALERO ENERGY CORP VLO> 3RD QTR LOSS</field>
 	<field name = "DATELINE">SAN ANTONIO, Texas, Oct 20 -</field>
-	<field name = "BODY">Shr loss 1.31 dlrs vs loss 1.80 dlrs
+	<field name = "content">Shr loss 1.31 dlrs vs loss 1.80 dlrs
     Net loss 31.2 mln vs loss 42.6 mln
     Revs 168.5 mln vs 147.3 mln
     Nine mths

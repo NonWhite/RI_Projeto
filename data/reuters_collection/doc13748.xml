@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:37:12.53</field>
-	<field name = "UNKNOWN">Y
-f0791reute
-u f BC-u.s.-energy-futures   04-07 0104</field>
-	<field name = "TITLE">U.S. ENERGY FUTURES CALLED SLIGHTLY HIGHER</field>
+	<field name = "titulo">U.S. ENERGY FUTURES CALLED SLIGHTLY HIGHER</field>
 	<field name = "DATELINE">NEW YORK, APRIL 7 -</field>
-	<field name = "BODY">Traders expect U.S. energy futures will
+	<field name = "content">Traders expect U.S. energy futures will
 open higher, tracking firmer gasoil futures and cash crude
 markets. Also lending support, said traders, are reports that
 the Iran/Iraq war is heating up.

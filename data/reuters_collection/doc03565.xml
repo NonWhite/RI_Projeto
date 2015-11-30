@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 08:54:43.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0905reute
-u f BC-GYNEX-GYNXU>-RECALLI   03-11 0050</field>
-	<field name = "TITLE">GYNEX GYNXU> RECALLING ORAL CONTRACEPTIVES</field>
+	<field name = "titulo">GYNEX GYNXU> RECALLING ORAL CONTRACEPTIVES</field>
 	<field name = "DATELINE">DEERFIELD, Ill., March 11 -</field>
-	<field name = "BODY">Gynex Inc said distributor
+	<field name = "content">Gynex Inc said distributor
 Monsanto Co MTC> has recalled at Gynex's request two generic
 oral contraceptives developed by 50 pct-owned Gynex
 Laboratories Inc because some packages may contain out of order

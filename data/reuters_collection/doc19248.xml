@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 12:16:27.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1475reute
-r f BC-FORD-F>-HAS-12-PCT-M   06-19 0069</field>
-	<field name = "TITLE">FORD F> HAS 12 PCT MARKET SHARE IN EUROPE</field>
+	<field name = "titulo">FORD F> HAS 12 PCT MARKET SHARE IN EUROPE</field>
 	<field name = "DATELINE">DETROIT, June 19 -</field>
-	<field name = "BODY">Ford Motor Co said that through May its
+	<field name = "content">Ford Motor Co said that through May its
 European dealers Europe sold a record 643,000 cars and
 increased their market share to 12 pct from 11.7 pct a year
 earlier.

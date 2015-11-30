@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 14:55:15.76</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2114reute
-d f BC-avinda-debentures   04-07 0080</field>
-	<field name = "TITLE">AVINDA DEBENTURES CONVERTED TO COMMON SHARES</field>
+	<field name = "titulo">AVINDA DEBENTURES CONVERTED TO COMMON SHARES</field>
 	<field name = "DATELINE">TORONTO, April 7 -</field>
-	<field name = "BODY">Avinda Video Inc> said its debenture
+	<field name = "content">Avinda Video Inc> said its debenture
 holders agreed to convert 3.3 mln dlrs of 13 pct subordinated
 debentures to common stock at a conversion price of 40 cts a
 share, subject to shareholder and regulatory approval.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:26:10.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1261reute
-d f BC-MIDWAY-AIRLINES-MDWY   04-07 0087</field>
-	<field name = "TITLE">MIDWAY AIRLINES MDWY> MARCH LOAD FACTOR FALLS</field>
+	<field name = "titulo">MIDWAY AIRLINES MDWY> MARCH LOAD FACTOR FALLS</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Midway Airlines Inc said its March load
+	<field name = "content">Midway Airlines Inc said its March load
 factor declined to 59.2 pct from 61.3 pct in the same year-ago
 period.
     It said revenue passenger miles increased to 200.9 mln from

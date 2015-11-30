@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 12:32:14.04</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0911reute
-d f BC-SHARON-STEEL-CORP>-E   03-09 0107</field>
-	<field name = "TITLE">SHARON STEEL CORP> EXTENDS EXCHANGE OFFER</field>
+	<field name = "titulo">SHARON STEEL CORP> EXTENDS EXCHANGE OFFER</field>
 	<field name = "DATELINE">MIAMI, Fla., March 9 -</field>
-	<field name = "BODY">Sharon Steel Corp said it extended
+	<field name = "content">Sharon Steel Corp said it extended
 from March six to March 31 the expiration date for its debt
 exchange offer to allow time to complete the sale of its
 Mueller Brass Co unit and to meet other conditions of the

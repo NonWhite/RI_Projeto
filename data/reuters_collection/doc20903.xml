@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 17:23:43.77</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3251reute
-d f BC-A.H.-BELO-CORP-BLC>   10-19 0052</field>
-	<field name = "TITLE">A.H. BELO CORP BLC> 3RD QTR NET</field>
+	<field name = "titulo">A.H. BELO CORP BLC> 3RD QTR NET</field>
 	<field name = "DATELINE">DALLAS, Oct 19 -</field>
-	<field name = "BODY">Shr 59 cts vs 27 cts
+	<field name = "content">Shr 59 cts vs 27 cts
     Net 6,398,000 vs 2,979,000
     Revs 91.0 mln vs 94.1 mln
     Avg shrs 10.8 mln vs 11.2 mln

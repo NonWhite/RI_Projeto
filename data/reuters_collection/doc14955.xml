@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 09:02:07.08</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0838reute
-r f BC-NO-SPECIAL-CHECKS-AT   04-08 0119</field>
-	<field name = "TITLE">NO SPECIAL CHECKS AT GERMAN BANKS BECAUSE OF VW</field>
+	<field name = "titulo">NO SPECIAL CHECKS AT GERMAN BANKS BECAUSE OF VW</field>
 	<field name = "DATELINE">FRANKFURT, April 8 -</field>
-	<field name = "BODY">Banking supervisory authorities are
+	<field name = "content">Banking supervisory authorities are
 not carrying out any special checks at banks in the wake of the
 currency fraud scandal at Volkswagen AG VOWG.F>, a spokesman
 for the Hesse regional state central bank, LZB, said.

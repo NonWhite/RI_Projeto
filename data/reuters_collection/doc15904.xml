@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 15:36:15.29</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f2346reute
-r f BC-BFIM-SOVAC-OFFERS-BON   04-09 0069</field>
-	<field name = "TITLE">BFIM-SOVAC OFFERS BOND REDEMPTION</field>
+	<field name = "titulo">BFIM-SOVAC OFFERS BOND REDEMPTION</field>
 	<field name = "DATELINE">PARIS, April 9 -</field>
-	<field name = "BODY">Banque de Financement Immobilier SOVAC,
+	<field name = "content">Banque de Financement Immobilier SOVAC,
 BFIM-SOVAC, launched an offer to repurchase its 14.30 pct 1980
 bond issue at a price of 2,180 francs per bond, a Paris Bourse
 statement said.

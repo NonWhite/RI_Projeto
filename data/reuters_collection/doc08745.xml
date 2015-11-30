@@ -7,13 +7,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V A
-f0993reute
-r f BC-/U.S.-ECONOMY-SHOWS-P   03-24 0081</field>
-	<field name = "TITLE">U.S. ECONOMY SHOWS PROMISING SIGNS OF GROWTH</field>
+	<field name = "titulo">U.S. ECONOMY SHOWS PROMISING SIGNS OF GROWTH</field>
 	<field name = "AUTHOR">By Donna Smith, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">The U.S. economy is showing some
+	<field name = "content">The U.S. economy is showing some
 promising signs of accelerated expansion despite the
 sluggishness of the fourth quarter last year, private
 economists say.

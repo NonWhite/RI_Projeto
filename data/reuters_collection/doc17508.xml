@@ -5,12 +5,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">zambia</field>
-	<field name = "UNKNOWN">C G L M T
-f0917reute
-u f BC-ZAMBIA-CUTS-PRICES-AS   06-01 0132</field>
-	<field name = "TITLE">ZAMBIA CUTS PRICES AS TROOPS PATROL COPPERBELT</field>
+	<field name = "titulo">ZAMBIA CUTS PRICES AS TROOPS PATROL COPPERBELT</field>
 	<field name = "DATELINE">LUSAKA, June 1 -</field>
-	<field name = "BODY">The Zambian government today announced
+	<field name = "content">The Zambian government today announced
 minor price cuts for essential commodities as part of its new
 economic strategy, while police and troops patrolled the
 northern Copperbelt to prevent any outbreaks of rioting.

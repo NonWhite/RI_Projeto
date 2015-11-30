@@ -4,12 +4,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f0001reute
-u f BC-TAIWAN-LIKELY-TO-BUY   04-17 0105</field>
-	<field name = "TITLE">TAIWAN LIKELY TO BUY MORE U.S. SOYBEANS</field>
+	<field name = "titulo">TAIWAN LIKELY TO BUY MORE U.S. SOYBEANS</field>
 	<field name = "DATELINE">TAIPEI, April 17 -</field>
-	<field name = "BODY">A 50 pct cut in the import tariff for
+	<field name = "content">A 50 pct cut in the import tariff for
 soybeans should help boost 1987 U.S. Soybean exports to Taiwan,
 a spokesman for the joint committee of soybean importers told
 Reuters.

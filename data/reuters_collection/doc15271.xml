@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 15:41:03.97</field>
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f2374reute
-u f BC-SAUDI-AMERICAN-BANK-O   04-08 0106</field>
-	<field name = "TITLE">SAUDI AMERICAN BANK OPENS BRANCH IN LONDON</field>
+	<field name = "titulo">SAUDI AMERICAN BANK OPENS BRANCH IN LONDON</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">Saudi American Bank (SAMBA) will
+	<field name = "content">Saudi American Bank (SAMBA) will
 concentrate on treasury activities and be an active market
 maker in Saudi riyal foreign exchange through the new branch
 that opened here, Shaukat Aziz, SAMBA managing director said.

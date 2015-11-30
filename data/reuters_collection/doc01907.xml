@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">RM
-f0250reute
-u f BC-REAGAN-SPEECH-WINS-MI   03-05 0112</field>
-	<field name = "TITLE">REAGAN SPEECH WINS MIXED REACTION FROM CONGRESS</field>
+	<field name = "titulo">REAGAN SPEECH WINS MIXED REACTION FROM CONGRESS</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">Republicans in Congress hailed
+	<field name = "content">Republicans in Congress hailed
 President Reagan's speech on the Iran arms scandal as candid
 and constructive while Democrats, who control both houses, said
 Reagan would now have to match his words with action.

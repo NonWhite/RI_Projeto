@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 06:30:56.92</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0363reute
-u f BC-G-7-COMMITMENT-TESTS   04-09 0111</field>
-	<field name = "TITLE">G-7 COMMITMENT TESTS JAPAN'S WILL TO BOOST ECONOMY</field>
+	<field name = "titulo">G-7 COMMITMENT TESTS JAPAN'S WILL TO BOOST ECONOMY</field>
 	<field name = "AUTHOR">By Kunio Inoue, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 9 -</field>
-	<field name = "BODY">The statement issued today by the Group of
+	<field name = "content">The statement issued today by the Group of
 Seven (G-7) industrialised nations has put Japan under greater
 international pressure to stimulate its economy or face a
 further rise in the yen, private economists and analysts said.

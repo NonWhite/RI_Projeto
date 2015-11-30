@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 12:51:39.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0936reute
-r f BC-CHRYSLER-C>-TO-USE-T   03-11 0104</field>
-	<field name = "TITLE">CHRYSLER C> TO USE TELECREDIT TCRD> PRODUCT</field>
+	<field name = "titulo">CHRYSLER C> TO USE TELECREDIT TCRD> PRODUCT</field>
 	<field name = "DATELINE">DETROIT, March 11 -</field>
-	<field name = "BODY">Chrysler Corp said it will use a
+	<field name = "content">Chrysler Corp said it will use a
 product designed by Telecredit Inc's Light Signatures Inc unit
 to prevent counterfeit automotive parts.
     Light Signatures will provide coded warranty labels for

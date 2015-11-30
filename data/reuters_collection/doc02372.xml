@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 14:50:45.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0467reute
-r f BC-BANKERS-TRUST-BT>-SE   03-05 0086</field>
-	<field name = "TITLE">BANKERS TRUST BT> SELLS EQUITY CONTRACT NOTES</field>
+	<field name = "titulo">BANKERS TRUST BT> SELLS EQUITY CONTRACT NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Bankers Trust Co is raising 200 mln
+	<field name = "content">Bankers Trust Co is raising 200 mln
 dlrs through an offering of subordinated equity contract notes
 due 1997 with an eight pct coupon and par pricing, said lead
 manager Shearson Lehman Brothers Inc.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:22:00.0</field>
-	<field name = "UNKNOWN">E F
-f2380reute
-u f BC-canastocks   04-07 0108</field>
-	<field name = "TITLE">CANADA STOCKS CLOSE LOWER ON PROFIT TAKING</field>
+	<field name = "titulo">CANADA STOCKS CLOSE LOWER ON PROFIT TAKING</field>
 	<field name = "DATELINE">TORONTO, April 7 -</field>
-	<field name = "BODY">Toronto stocks, higher at midsession,
+	<field name = "content">Toronto stocks, higher at midsession,
 closed lower as a bout of profit taking on Wall Street spilled
 over to Canadian markets, analysts said.
     The composite index dipped 10.20 points to 3871.00,

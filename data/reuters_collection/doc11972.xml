@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 10:44:19.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1177reute
-r f BC-AMES-ADD>-NAMES-NEW   04-01 0104</field>
-	<field name = "TITLE">AMES ADD> NAMES NEW CHIEF FINANCIAL OFFICER</field>
+	<field name = "titulo">AMES ADD> NAMES NEW CHIEF FINANCIAL OFFICER</field>
 	<field name = "DATELINE">ROCKY HILL, Conn., April 1 -</field>
-	<field name = "BODY">Ames Department Stores Inc
+	<field name = "content">Ames Department Stores Inc
 said Duane Wolter has been named executive vice president and
 chiedf financial officer, succeeding as chief financial officer
 Ralph M. Shulansky.

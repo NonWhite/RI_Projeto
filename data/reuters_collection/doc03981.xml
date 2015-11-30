@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM F A
-f0747reute
-r f BC-PHILIPPINE-DEBT-TALKS   03-11 0116</field>
-	<field name = "TITLE">PHILIPPINE DEBT TALKS DELAYED FOR CONSULTATIONS</field>
+	<field name = "titulo">PHILIPPINE DEBT TALKS DELAYED FOR CONSULTATIONS</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Today's debt rescheduling talks
+	<field name = "content">Today's debt rescheduling talks
 between the Philippines government and its bank advisory
 committee were postponed until Thursday to give the banks more
 time to consider Manila's novel proposal for paying part of its

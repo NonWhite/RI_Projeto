@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 08:44:55.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0828reute
-b f BC-/IBM-IBM>-INTRODUCES   04-02 0056</field>
-	<field name = "TITLE">IBM IBM> INTRODUCES NEW PERSONAL COMPUTERS</field>
+	<field name = "titulo">IBM IBM> INTRODUCES NEW PERSONAL COMPUTERS</field>
 	<field name = "DATELINE">NEW YORK, April 2 -</field>
-	<field name = "BODY">International Business Machines Corp
+	<field name = "content">International Business Machines Corp
 said it introduced four new personal computers, including a top
 of the line unit based on the powerful Intel Corp INTC> 80386
 chip.

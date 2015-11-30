@@ -5,12 +5,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">aqazadeh</field>
-	<field name = "UNKNOWN">Y 
-f0632reute
-b f BC-IRAN-SAYS-U.S.-RAID-C   10-20 0114</field>
-	<field name = "TITLE">IRAN SAYS U.S. RAID CAUSED 500 MLN DLRS DAMAGE</field>
+	<field name = "titulo">IRAN SAYS U.S. RAID CAUSED 500 MLN DLRS DAMAGE</field>
 	<field name = "DATELINE">NICOSIA, Oct 20 -</field>
-	<field name = "BODY">U.S. Attacks on two Iranian oil platforms
+	<field name = "content">U.S. Attacks on two Iranian oil platforms
 in the Gulf -- both of which were still blazing -- caused
 damage estimated at 500 mln dlrs, Tehran Radio quoted Iranian
 Oil Minister Gholamreza Aqazadeh as saying.

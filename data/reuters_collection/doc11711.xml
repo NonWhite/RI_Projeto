@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 17:01:23.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2719reute
-u f BC-ITT-ITT>,-ALCATEL-SE   03-31 0088</field>
-	<field name = "TITLE">ITT ITT>, ALCATEL SETTLE FINAL PAYMENTS</field>
+	<field name = "titulo">ITT ITT>, ALCATEL SETTLE FINAL PAYMENTS</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">ITT Corp said it received a final 400
+	<field name = "content">ITT Corp said it received a final 400
 mln dlr payment for its telecommunications joint venture with
 Alcatel NV>, settling all accounts in the venture.
     The company had previously said it was due to receive the

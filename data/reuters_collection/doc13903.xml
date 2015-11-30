@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 10:29:15.30</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1005reute
-u f BC-WALL-STREET-STOCKS/MA   04-07 0104</field>
-	<field name = "TITLE">WALL STREET STOCKS/MARION LABS MKC></field>
+	<field name = "titulo">WALL STREET STOCKS/MARION LABS MKC></field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Marion Laboratories Inc's stock rose
+	<field name = "content">Marion Laboratories Inc's stock rose
 sharply today after the company presented a bullish earnings
 scenario at a meeting for pharmaceutical analysts Monday,
 traders and analysts said.

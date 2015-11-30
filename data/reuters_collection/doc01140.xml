@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 11:53:21.17</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0911reute
-b f BC-DEUTSCHE-BANK-UNIT-IS   03-03 0113</field>
-	<field name = "TITLE">DEUTSCHE BANK UNIT ISSUES 75 MLN STG EUROBOND</field>
+	<field name = "titulo">DEUTSCHE BANK UNIT ISSUES 75 MLN STG EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 3 -</field>
-	<field name = "BODY">Deutsche Bank Finance NV Curacao is
+	<field name = "content">Deutsche Bank Finance NV Curacao is
 issuing a 75 mln stg eurobond due April 2, 1997 paying 9-7/8
 pct and priced at 101-3/4 pct, joint-lead manager Kleinwort,
 Benson Ltd said. Deutsche Bank Capital Markets is the other

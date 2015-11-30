@@ -4,14 +4,10 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">colombia</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">T C
-f0360
-reute
-b f BC-PRODUCER-SPLIT-HEATS   03-01 0093</field>
-	<field name = "TITLE">PRODUCER SPLIT HEATS UP COFFEE QUOTA TALKS</field>
+	<field name = "titulo">PRODUCER SPLIT HEATS UP COFFEE QUOTA TALKS</field>
 	<field name = "AUTHOR">By Lisa Vaughan, Reuters</field>
 	<field name = "DATELINE">LONDON, March 1 -</field>
-	<field name = "BODY">Talks on the possibility of reintroducing
+	<field name = "content">Talks on the possibility of reintroducing
 global coffee export quotas have been extended into today, with
 sparks flying yesterday when a dissident group of exporters was
 not included in a key negotiating forum.

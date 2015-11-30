@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 08:15:55.79</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">RM
-f0699reute
-r f BC-U.K.-GILT-MARKET-TURN   03-12 0118</field>
-	<field name = "TITLE">U.K. GILT MARKET TURNOVER EASES IN FEBRUARY</field>
+	<field name = "titulo">U.K. GILT MARKET TURNOVER EASES IN FEBRUARY</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">Turnover in the U.K. Government bond
+	<field name = "content">Turnover in the U.K. Government bond
 (gilt) market in February slipped to 81.25 billion stg from
 January's 83.37 billion, although it was 165 pct higher than
 the 30.63 billion in February 1986, the Stock Exchange said.

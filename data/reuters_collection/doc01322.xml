@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 16:17:52.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0896reute
-d f BC-REIDEL-RETI>-UNIT-SE   03-03 0085</field>
-	<field name = "TITLE">REIDEL RETI> UNIT SELECTED FOR EPA CONTRACT</field>
+	<field name = "titulo">REIDEL RETI> UNIT SELECTED FOR EPA CONTRACT</field>
 	<field name = "DATELINE">PORTLAND, Ore., March 3 -</field>
-	<field name = "BODY">Reidel Environmental Technologies
+	<field name = "content">Reidel Environmental Technologies
 Inc said its Reidel Envirnomental Services Inc unit won a
 contract with the Environmental Protection Agency that could
 total over 100 mln dlrs over the next four years.

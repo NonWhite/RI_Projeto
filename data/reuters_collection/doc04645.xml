@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 03:47:18.26</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0152reute
-u f BC-BOND-CORP-DETAILS-BON   03-13 0106</field>
-	<field name = "TITLE">BOND CORP DETAILS BOND MEDIA ISSUE</field>
+	<field name = "titulo">BOND CORP DETAILS BOND MEDIA ISSUE</field>
 	<field name = "DATELINE">PERTH, March 13 -</field>
-	<field name = "BODY">Bond Corp Holdings Ltd BONA.S> said its
+	<field name = "content">Bond Corp Holdings Ltd BONA.S> said its
 previously announced float of Bond Media Ltd> will be on the
 basis of three shares at 1.55 dlrs each for every four Bond
 Corp shares.

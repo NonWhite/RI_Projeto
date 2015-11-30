@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 14:17:49.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0382reute
-r f BC-(NISSAN-MOTOR)-LATE-F   03-04 0087</field>
-	<field name = "TITLE">(NISSAN MOTOR) LATE FEBRUARY U.S. CAR SALES UP</field>
+	<field name = "titulo">(NISSAN MOTOR) LATE FEBRUARY U.S. CAR SALES UP</field>
 	<field name = "DATELINE">CARSON, CALIF., March 4 -</field>
-	<field name = "BODY">Nissan Motor Corp U.S.A. said
+	<field name = "content">Nissan Motor Corp U.S.A. said
 domestic car sales in the February 21 to 28 period rose to
 3,501 from 2,578 cars at the same time last year.
     For the month of February, U.S. car sales increased to

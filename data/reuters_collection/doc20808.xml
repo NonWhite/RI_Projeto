@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 18:18:39.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM 
-f3527reute
-u f BC-CFTC-CONFIRMS-CLEARIN   10-20 0082</field>
-	<field name = "TITLE">CFTC CONFIRMS CLEARING MARGINS COLLECTED</field>
+	<field name = "titulo">CFTC CONFIRMS CLEARING MARGINS COLLECTED</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">The Commodity Futures Trading
+	<field name = "content">The Commodity Futures Trading
 Commission said futures markets collected clearing margins
 called following feverish futures trading on Monday.
     "The Commission remains in frequent contact with the

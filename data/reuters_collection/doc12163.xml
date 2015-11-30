@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 13:53:15.61</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">M
-f1954reute
-r f BC-LONDON-ORE-ENQUIRIES/   04-01 0082</field>
-	<field name = "TITLE">LONDON ORE ENQUIRIES/FIXTURES</field>
+	<field name = "titulo">LONDON ORE ENQUIRIES/FIXTURES</field>
 	<field name = "DATELINE">LONDON, April 1 - Enquiries -</field>
-	<field name = "BODY">South Africa/Salvador, Brazil
+	<field name = "content">South Africa/Salvador, Brazil
 15,000 long tons manganese ore 2,500/1,500 end April.
     Callao/Crotone 5,000 mt minerals 4,000/2,000 spot.
     Geraldton/Tampico 13,500 mt bulk mineral sands fio

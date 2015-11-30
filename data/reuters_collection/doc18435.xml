@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G
-f0230reute
-u f BC-TAIWAN-MISSION-TO-BUY   06-16 0111</field>
-	<field name = "TITLE">TAIWAN MISSION TO BUY 410,000 BALES U.S. COTTON</field>
+	<field name = "titulo">TAIWAN MISSION TO BUY 410,000 BALES U.S. COTTON</field>
 	<field name = "DATELINE">TAIPEI, June 16 -</field>
-	<field name = "BODY">A Taiwan mission plans to buy 410,000
+	<field name = "content">A Taiwan mission plans to buy 410,000
 bales (500 lbs/bale) of U.S. Cotton worth about 110 mln U.S.
 Dlrs when it visits several U.S. States early next month, a
 spokesman for the Taiwan Spinners Association told Reuters.

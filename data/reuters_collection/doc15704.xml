@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 12:17:03.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1604reute
-d f BC-INT'L-SURGICAL-SURG>   04-09 0089</field>
-	<field name = "TITLE">INT'L SURGICAL SURG> TO OFFER TEST</field>
+	<field name = "titulo">INT'L SURGICAL SURG> TO OFFER TEST</field>
 	<field name = "DATELINE">FRANKLIN SQUARE, N.Y., April 9 -</field>
-	<field name = "BODY">International Surgical and
+	<field name = "content">International Surgical and
 Pharmaceutical Corp said it will offer diagnostic testing
 services to hospitals, clinics and private medical practices in
 the metropolitan New York area.

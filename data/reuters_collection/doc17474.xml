@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 05:07:55.27</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0317reute
-u f BC-BAA-PLC-UNIT-WINS-KAN   06-01 0107</field>
-	<field name = "TITLE">BAA PLC UNIT WINS KANSAI AIRPORT CONTRACT</field>
+	<field name = "titulo">BAA PLC UNIT WINS KANSAI AIRPORT CONTRACT</field>
 	<field name = "DATELINE">TOKYO, June 1 -</field>
-	<field name = "BODY">British Airport Services Ltd> (BAS) has
+	<field name = "content">British Airport Services Ltd> (BAS) has
 concluded an 18 mln yen contract with the Kansai International
 Airport Co Ltd> for consulting work on the terminal at a new
 airport to be built in western Japan, the airport company said

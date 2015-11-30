@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">spain</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0369reute
-u f BC-SPAIN-TO-LAUNCH-EXPOR   03-04 0091</field>
-	<field name = "TITLE">SPAIN TO LAUNCH EXPORT DRIVE</field>
+	<field name = "titulo">SPAIN TO LAUNCH EXPORT DRIVE</field>
 	<field name = "DATELINE">MADRID, March 4 -</field>
-	<field name = "BODY">Spain unveils a 105 billion peseta plan
+	<field name = "content">Spain unveils a 105 billion peseta plan
 this month aimed at boosting exports to reach European
 Community levels, director-general of the INFE export
 institute, Apolonio Ruiz Ligero, said.

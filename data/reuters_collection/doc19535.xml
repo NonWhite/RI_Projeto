@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 05:58:45.97</field>
 	<field name = "PLACES">bahrain</field>
-	<field name = "UNKNOWN">RM 
-f0400reute
-r f BC-BAHRAIN-BANKS-WILL-RE   06-29 0105</field>
-	<field name = "TITLE">BAHRAIN BANKS WILL RETURN TO SIX DAY WEEK</field>
+	<field name = "titulo">BAHRAIN BANKS WILL RETURN TO SIX DAY WEEK</field>
 	<field name = "DATELINE">BAHRAIN, June 29 -</field>
-	<field name = "BODY">Bahrain's 19 commercial banks have been
+	<field name = "content">Bahrain's 19 commercial banks have been
 instructed by the Bahrain Monetary Agency (BMA) to return to a
 six day working week with effect from July 4.
     A circular sent to the banks today reverses a shift in

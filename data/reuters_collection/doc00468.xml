@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 10:54:08.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0815
-reute
-r f BC-REGENCY-CRUISES-INC-   03-02 0097</field>
-	<field name = "TITLE">REGENCY CRUISES INC SHIP> ELECTS NEW CHAIRMAN</field>
+	<field name = "titulo">REGENCY CRUISES INC SHIP> ELECTS NEW CHAIRMAN</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Regency Cruises Inc said its board
+	<field name = "content">Regency Cruises Inc said its board
 elected William Schanz as its chairman and chief executive
 officer. He replaces Anastasios Kyriakides, who resigned in
 December.

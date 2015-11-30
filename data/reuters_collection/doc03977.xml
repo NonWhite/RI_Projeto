@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 17:15:49.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0725reute
-r f BC-BUDGET   03-11 0091</field>
-	<field name = "TITLE">HOUSE DEMOCRATS DRAFTING BUDGET AT SNAIL'S PACE</field>
+	<field name = "titulo">HOUSE DEMOCRATS DRAFTING BUDGET AT SNAIL'S PACE</field>
 	<field name = "AUTHOR">By Irwin Arieff, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">Democrats on the House Budget
+	<field name = "content">Democrats on the House Budget
 Committee, meeting behind closed doors to draft the outlines of
 next year's federal budget, say their work is proceeding at a
 snail's pace.

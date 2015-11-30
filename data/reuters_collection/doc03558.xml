@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 08:42:35.75</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">algeria</field>
-	<field name = "UNKNOWN">T
-f0868reute
-r f BC-ALGERIA-REGULATES-USE   03-11 0120</field>
-	<field name = "TITLE">ALGERIA REGULATES USE OF COFFEE ADDITIVES</field>
+	<field name = "titulo">ALGERIA REGULATES USE OF COFFEE ADDITIVES</field>
 	<field name = "DATELINE">ALGIERS, March 11 -</field>
-	<field name = "BODY">The Algerian authorities have regulated
+	<field name = "content">The Algerian authorities have regulated
 the addition of chickpeas and barley used to make imported
 coffee go further, the official APS news agency reported.
     Taking advantage of scarcity, private roasters were selling

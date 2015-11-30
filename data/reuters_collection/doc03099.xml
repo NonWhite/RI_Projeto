@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0306reute
-u f BC-CHRYSLER-C>-IN-DEAL   03-09 0107</field>
-	<field name = "TITLE">CHRYSLER C> IN DEAL TO BUY AMC AMO></field>
+	<field name = "titulo">CHRYSLER C> IN DEAL TO BUY AMC AMO></field>
 	<field name = "DATELINE">DETROIT, March 9 -</field>
-	<field name = "BODY">Chrysler Corp said it agreed in
+	<field name = "content">Chrysler Corp said it agreed in
 principle with French state-owned Renault to acquire American
 Motors Corp., in which Renault is controlling shareholder,
 under a deal in which AMC stockholders other than Renault would

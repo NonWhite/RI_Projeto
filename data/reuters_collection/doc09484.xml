@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:53:08.36</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F RM
-f1956reute
-u f BC-ENCOR-PLANS-125-MLN-D   03-25 0109</field>
-	<field name = "TITLE">ENCOR PLANS 125 MLN DLR DEBENTURE OFFERING</field>
+	<field name = "titulo">ENCOR PLANS 125 MLN DLR DEBENTURE OFFERING</field>
 	<field name = "DATELINE">CALGARY, Alberta, March 25 -</field>
-	<field name = "BODY">Encor Energy Corp Inc> said
+	<field name = "content">Encor Energy Corp Inc> said
 it planned an issue in Canada of 125 mln dlrs of 6.75 pct
 subordinated debentures, convertible any time into Encor common
 shares for a price of 10 dlrs a share.

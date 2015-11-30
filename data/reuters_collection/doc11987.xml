@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 10:52:22.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1220reute
-r f BC-ASARCO-AR>-OFFERS-3.   04-01 0081</field>
-	<field name = "TITLE">ASARCO AR> OFFERS 3.5 MLN SHARES COMMON STOCK</field>
+	<field name = "titulo">ASARCO AR> OFFERS 3.5 MLN SHARES COMMON STOCK</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Asarco Inc said it made a public
+	<field name = "content">Asarco Inc said it made a public
 offering of 3,500,000 shares of its common stock today through
 an underwriting group led by The First Boston Corp.
     This is an increase of 500,000 shares from the

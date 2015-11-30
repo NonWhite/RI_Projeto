@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:18:46.99</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0247reute
-b f BC-BELGIUM-TO-ISSUE-150   03-05 0093</field>
-	<field name = "TITLE">BELGIUM TO ISSUE 150 BILLION FRANC STATE LOAN</field>
+	<field name = "titulo">BELGIUM TO ISSUE 150 BILLION FRANC STATE LOAN</field>
 	<field name = "DATELINE">BRUSSELS, March 5 -</field>
-	<field name = "BODY">Belgium is to issue a 150 billion
+	<field name = "content">Belgium is to issue a 150 billion
 franc, eight-year state loan carrying a coupon of eight pct, a
 Finance Ministry spokesman said.
     Pricing will be fixed next week.

@@ -5,13 +5,10 @@
 	<field name = "PLACES">mexico</field>
 	<field name = "PLACES">argentina</field>
 	<field name = "PLACES">cayman-islands</field>
-	<field name = "UNKNOWN">RM
-f0492reute
-u f BC-JAPANESE-BANKS-SEEN-A   03-05 0102</field>
-	<field name = "TITLE">JAPANESE BANKS SEEN AGREEING DEBT RISK SCHEME</field>
+	<field name = "titulo">JAPANESE BANKS SEEN AGREEING DEBT RISK SCHEME</field>
 	<field name = "AUTHOR">By Tsukasa Maekawa, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 5 -</field>
-	<field name = "BODY">Japanese creditor banks are close to a
+	<field name = "content">Japanese creditor banks are close to a
 decision to jointly establish an offshore firm to which they
 will transfer part of their title to possibly unrecoverable
 debts owed by developing nations, international financial

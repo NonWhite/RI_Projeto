@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 21:11:47.79</field>
 	<field name = "PLACES">new-zealand</field>
 	<field name = "PEOPLE">douglas</field>
-	<field name = "UNKNOWN">RM
-f0117reute
-u f BC-NEW-ZEALAND-FOREIGN-D   03-09 0109</field>
-	<field name = "TITLE">NEW ZEALAND FOREIGN DEBT EXPECTED TO KEEP FALLING</field>
+	<field name = "titulo">NEW ZEALAND FOREIGN DEBT EXPECTED TO KEEP FALLING</field>
 	<field name = "DATELINE">WELLINGTON, March 10 -</field>
-	<field name = "BODY">New Zealand's total foreign debt
+	<field name = "content">New Zealand's total foreign debt
 will continue to decline as major energy projects are
 refinanced, Finance Minister Roger Douglas said.
     Statistics Department figures show total debt fell to 32.94

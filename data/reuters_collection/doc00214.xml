@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 19:21:09.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0398
-reute
-r f BC-MICROSOFT-CORP-MSFT>   02-26 0093</field>
-	<field name = "TITLE">MICROSOFT CORP MSFT> HALTS MS-DOS IMPORTS</field>
+	<field name = "titulo">MICROSOFT CORP MSFT> HALTS MS-DOS IMPORTS</field>
 	<field name = "DATELINE">SAN FRANCISCO, Feb 26 -</field>
-	<field name = "BODY">Microsoft Corp said it obtained a
+	<field name = "content">Microsoft Corp said it obtained a
 federal court order to seize a shipment of over 15,000
 unauthorized copies of its MS-DOS operating system labeled
 "Falcon MS-DOS".

@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 00:13:30.96</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0008reute
-u f BC-AUSTRALIA-SAID-TO-REL   03-23 0116</field>
-	<field name = "TITLE">AUSTRALIA SAID TO RELY TOO MUCH ON OIL TAXES</field>
+	<field name = "titulo">AUSTRALIA SAID TO RELY TOO MUCH ON OIL TAXES</field>
 	<field name = "DATELINE">SURFERS PARADISE, Australia, March 23 -</field>
-	<field name = "BODY">The government's
+	<field name = "content">The government's
 over-reliance on revenue from crude oil is adversely affecting
 Australia's economic performance, Australian Petroleum
 Exploration Association (APEA) chairman Dennis Benbow said.

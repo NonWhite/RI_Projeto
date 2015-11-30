@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 14:49:19.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2114reute
-r f BC-TRINOVA-TNV>-SAYS-MO   03-23 0061</field>
-	<field name = "TITLE">TRINOVA TNV> SAYS MOST PREFERRED CONVERTED</field>
+	<field name = "titulo">TRINOVA TNV> SAYS MOST PREFERRED CONVERTED</field>
 	<field name = "DATELINE">MAUMEE, Ohio, March 23 -</field>
-	<field name = "BODY">TRINOVA Corp said about 813,000
+	<field name = "content">TRINOVA Corp said about 813,000
 shares or 95 pct of its 855,255 Series A 4.75 dlr cumulative
 convertible preferred shares have been converted to common
 stock in response to its call for redemption of the issue at

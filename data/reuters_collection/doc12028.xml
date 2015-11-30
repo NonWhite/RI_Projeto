@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 11:33:36.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1412reute
-r f BC-NATIONAL-DISTILLERS-A   04-01 0099</field>
-	<field name = "TITLE">NATIONAL DISTILLERS AND CHEMICAL DR> EXPANDING</field>
+	<field name = "titulo">NATIONAL DISTILLERS AND CHEMICAL DR> EXPANDING</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">National Distillers and Chemical Corp
+	<field name = "content">National Distillers and Chemical Corp
 said its board approved a modernization and expansion program
 from its petrochemical division, USI Chemical Co, its
 polyethylene producer.

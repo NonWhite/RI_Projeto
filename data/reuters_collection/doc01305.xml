@@ -6,13 +6,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">opec</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">Y V RM
-f0832reute
-u f BC-OIL-PRICES-RISE-ON-SA   03-03 0094</field>
-	<field name = "TITLE">OIL PRICES RISE ON SAUDI EFFORT</field>
+	<field name = "titulo">OIL PRICES RISE ON SAUDI EFFORT</field>
 	<field name = "AUTHOR">BY TED D'AFFLISIO, REUTERS</field>
 	<field name = "DATELINE">NEW YORK, MARCH 3 -</field>
-	<field name = "BODY">Crude oil prices rallied today, moving
+	<field name = "content">Crude oil prices rallied today, moving
 over 17.00 dlrs a barrel because of Saudi Arabia's determined
 effort to support prices, analysts said.
     "The Saudis and other OPEC nations are jawboning the market,

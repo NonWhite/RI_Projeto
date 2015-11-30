@@ -4,12 +4,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F RM A 
-f3495reute
-u f BC-CHASE'S-LABRECQUE-SAY   10-19 0096</field>
-	<field name = "TITLE">CHASE'S LABRECQUE SAYS STOCK DROP UNWARRANTED</field>
+	<field name = "titulo">CHASE'S LABRECQUE SAYS STOCK DROP UNWARRANTED</field>
 	<field name = "DATELINE">DALLAS, Texas, Oct 19 -</field>
-	<field name = "BODY">Chase Manhattan Corp (CMB)
+	<field name = "content">Chase Manhattan Corp (CMB)
 president Thomas Labrecque said the sharp decline in the stock
 market was not justified by economic conditions and there was a
 need for perspective by investors on fundamental economic

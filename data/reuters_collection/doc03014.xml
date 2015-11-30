@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F
-f0839reute
-d f BC-API-REPORTS-SHARP-FAL   03-09 0082</field>
-	<field name = "TITLE">API REPORTS SHARP FALL IN DRILLINGS</field>
+	<field name = "titulo">API REPORTS SHARP FALL IN DRILLINGS</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">Estimated oil and gas drilling
+	<field name = "content">Estimated oil and gas drilling
 completions in the United States dropped by almost 41 per cent
 in 1986 from 1985, the American Petroleum Institute said.
     API, an industry group, said that of the 42,387 wells

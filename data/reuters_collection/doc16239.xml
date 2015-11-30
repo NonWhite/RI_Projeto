@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 09:22:00.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0851reute
-u f BC-/MELLON-BANK-MEL>-CH   04-13 0068</field>
-	<field name = "TITLE">MELLON BANK MEL> CHAIRMAN RETIRES</field>
+	<field name = "titulo">MELLON BANK MEL> CHAIRMAN RETIRES</field>
 	<field name = "DATELINE">PITTSBURGH, April 13 -</field>
-	<field name = "BODY">Mellon Bank Corp said J. David
+	<field name = "content">Mellon Bank Corp said J. David
 Barnes has retired as chairman and chief executive officer and
 resigned from the board of the company and its Mellon Bank
 subsidiary.

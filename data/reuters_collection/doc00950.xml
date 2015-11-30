@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 07:25:49.32</field>
 	<field name = "PLACES">philippines</field>
 	<field name = "PEOPLE">aquino</field>
-	<field name = "UNKNOWN">C T G
-f0980
-reute
-r f BC-AQUINO-ANNOUNCES-LAND   03-03 0115</field>
-	<field name = "TITLE">AQUINO ANNOUNCES LAND REFORM PLANS</field>
+	<field name = "titulo">AQUINO ANNOUNCES LAND REFORM PLANS</field>
 	<field name = "DATELINE">MANILA, March 3 -</field>
-	<field name = "BODY">President Corazon Aquino announced
+	<field name = "content">President Corazon Aquino announced
 government plans to devote to land reform an estimated 24
 billion pesos (about one billion U.S. Dlrs) raised from the
 sale of failed businesses taken over by the government.

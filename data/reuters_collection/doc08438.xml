@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 14:19:17.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2016reute
-h f BC-TECHNOLOGY   03-23 0094</field>
-	<field name = "TITLE">TECHNOLOGY/ATT'S T>  EFFORTS TO SELL COMPUTERS</field>
+	<field name = "titulo">TECHNOLOGY/ATT'S T>  EFFORTS TO SELL COMPUTERS</field>
 	<field name = "AUTHOR">By Catherine Arnst, Reuters</field>
 	<field name = "DATELINE">BOSTON, March 23 -</field>
-	<field name = "BODY">American Telephone and Telegraph Co is
+	<field name = "content">American Telephone and Telegraph Co is
 another illustration of a maxim already learned by several
 other huge corporations - that success in one segment of the
 electronics industry is very difficult to translate into

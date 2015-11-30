@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:35:55.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1364reute
-u f BC-PACIFIC-TELESIS-PAC>   03-19 0088</field>
-	<field name = "TITLE">PACIFIC TELESIS PAC> UP ON SMITH BARNEY OPINION</field>
+	<field name = "titulo">PACIFIC TELESIS PAC> UP ON SMITH BARNEY OPINION</field>
 	<field name = "DATELINE">NEW YORK, MARCH 19 -</field>
-	<field name = "BODY">The stock of Pacific Telesis Group
+	<field name = "content">The stock of Pacific Telesis Group
 rose 1/2 to 54-1/8 in active trading after analyst Charles
 Schelke of Smith Barney upgraded a recommendation on the stock
 to "buy" from "accumulate," traders said.

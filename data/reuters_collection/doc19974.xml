@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 18:56:25.55</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2813reute
-r f BC-ALLIED-SIGNAL-ALD>-S   06-29 0061</field>
-	<field name = "TITLE">ALLIED-SIGNAL ALD> SELLS TO SCHLUMBERGER SLB></field>
+	<field name = "titulo">ALLIED-SIGNAL ALD> SELLS TO SCHLUMBERGER SLB></field>
 	<field name = "DATELINE">MORRIS TOWNSHIP, N.J., June 29 -</field>
-	<field name = "BODY">Allied-Signal Inc and
+	<field name = "content">Allied-Signal Inc and
 Schlumberger Ltd jointly announced that Schlumberger had
 acquired Allied-Signal's Neptune International unit. Terms
 weren't disclosed.

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 16:44:05.56</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2458reute
-r f BC-DOE-REACHES-PROPOSED   06-01 0106</field>
-	<field name = "TITLE">DOE REACHES PROPOSED OIL SETTLEMENTS</field>
+	<field name = "titulo">DOE REACHES PROPOSED OIL SETTLEMENTS</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">The Energy Department said it reached
+	<field name = "content">The Energy Department said it reached
 proposed oil pricing settlements totaling 680,150 dlrs with the
 operator and four working interest owners of A.D. LeBlanc No. 1
 well, Vermillion Parish, La.

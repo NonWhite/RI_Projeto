@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 10:25:11.20</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1198reute
-u f BC-GERMAN-TAX-CUT-BILL-T   03-26 0100</field>
-	<field name = "TITLE">GERMAN TAX CUT BILL TO GO BEFORE CABINET APRIL 1</field>
+	<field name = "titulo">GERMAN TAX CUT BILL TO GO BEFORE CABINET APRIL 1</field>
 	<field name = "DATELINE">BONN, March 26 -</field>
-	<field name = "BODY">The West German Finance Ministry said the
+	<field name = "content">The West German Finance Ministry said the
 cabinet will discuss a bill on Wednesday to increase tax cuts
 by an extra 5.2 billion marks next year to a total of 13.7
 billion marks.

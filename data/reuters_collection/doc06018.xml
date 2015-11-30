@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 11:16:42.57</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f5349reute
-b f BC-RABOBANK-LAUNCHES-250   03-17 0083</field>
-	<field name = "TITLE">RABOBANK LAUNCHES 250 MLN GUILDER BULLET</field>
+	<field name = "titulo">RABOBANK LAUNCHES 250 MLN GUILDER BULLET</field>
 	<field name = "DATELINE">UTRECHT, Netherlands, March 17 -</field>
-	<field name = "BODY">Rabobank Nederland B.A.
+	<field name = "content">Rabobank Nederland B.A.
 Said it is launching under its own management a 250 mln guilder
 eight-year bullet bond with a 6-3/4 pct coupon and priced at
 par.

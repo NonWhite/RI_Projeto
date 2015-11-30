@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 00:00:00.00    # date added by S Finch as guesswork</field>
 	<field name = "MKNOTE">All 5 tag fields and the date field added by SPF</field>
-	<field name = "UNKNOWN">F
-f2674reute
-b f BC-HOSPITAL-CORP-OF-AMER   04-09 0099</field>
-	<field name = "TITLE">HOSPITAL CORP OF AMERICA HCA> GETS MERGER BID</field>
+	<field name = "titulo">HOSPITAL CORP OF AMERICA HCA> GETS MERGER BID</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Hospital Corp of America said it
+	<field name = "content">Hospital Corp of America said it
 received a letter today from an investor group offering to buy
 the company for 47 dlrs a share.
     Based on 82 mln outstanding shares, the offer is worth

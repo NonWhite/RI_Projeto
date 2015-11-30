@@ -5,12 +5,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G 
-f1666reute
-b f BC-/RAINS-HELP-U.S.-WEST   06-29 0136</field>
-	<field name = "TITLE">RAINS HELP U.S. WESTERN CORN BELT, MORE SEEN</field>
+	<field name = "titulo">RAINS HELP U.S. WESTERN CORN BELT, MORE SEEN</field>
 	<field name = "DATELINE">CHICAGO, June 29 -</field>
-	<field name = "BODY">Weekend rain over the Western Corn Belt
+	<field name = "content">Weekend rain over the Western Corn Belt
 brought further relief to crop areas that had been dry earlier
 this month, and developing weather patterns will bring welcome
 moisture to central and eastern belt locations this week,

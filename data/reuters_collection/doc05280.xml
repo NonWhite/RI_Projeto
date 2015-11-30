@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">RM
-f1653reute
-u f BC-SAUDIS-DROP-CONDITION   03-16 0098</field>
-	<field name = "TITLE">SAUDIS DROP CONDITION FOR OIL SALE TO BRAZIL</field>
+	<field name = "titulo">SAUDIS DROP CONDITION FOR OIL SALE TO BRAZIL</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 16 -</field>
-	<field name = "BODY">Saudi Arabia has dropped its
+	<field name = "content">Saudi Arabia has dropped its
 condition that Brazil secure international bank guarantees
 before Saudia Arabia would ship it oil, state-oil company
 Petrobras said in a statement.

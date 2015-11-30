@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 13:13:14.17</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0163reute
-u f BC-OUTBOARD-MARINE-OM>   03-04 0093</field>
-	<field name = "TITLE">OUTBOARD MARINE OM> RISING ON TAKEOVER RUMOR</field>
+	<field name = "titulo">OUTBOARD MARINE OM> RISING ON TAKEOVER RUMOR</field>
 	<field name = "DATELINE">CHICAGO, March 4 -</field>
-	<field name = "BODY">Wall Street traders said the stock of
+	<field name = "content">Wall Street traders said the stock of
 Outboard Marine Corp was rising on a rumor over a cable
 television program that Outboard is a likely takeover target of
 Sun Chemical Corp SNL>.

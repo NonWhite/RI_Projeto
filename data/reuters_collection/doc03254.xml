@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 13:12:47.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0109reute
-h f BC-BARTER-RESOURCES>-FO   03-09 0060</field>
-	<field name = "TITLE">BARTER RESOURCES> FORMS HOME SHOPPING UNIT</field>
+	<field name = "titulo">BARTER RESOURCES> FORMS HOME SHOPPING UNIT</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Barter Resources said it formed a
+	<field name = "content">Barter Resources said it formed a
 television home shopping unit, Television Catalogue Inc.
     The company said an investor group paid 500,000 dlrs in
 funding for a 51 pct interest in the unit.

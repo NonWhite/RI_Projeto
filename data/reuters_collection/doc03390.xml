@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 17:08:25.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0894reute
-u f BC-FLUOR-CORP-FLR>-WINS   03-09 0108</field>
-	<field name = "TITLE">FLUOR CORP FLR> WINS 197.6 MLN DLR ARMY CONTRACT</field>
+	<field name = "titulo">FLUOR CORP FLR> WINS 197.6 MLN DLR ARMY CONTRACT</field>
 	<field name = "DATELINE">IRVINE, Calif., March 9 -</field>
-	<field name = "BODY">Fluor Corp said it won a 197.6
+	<field name = "content">Fluor Corp said it won a 197.6
 mln dlr contract from the U.S. Army Engineer District, with a
 follow-on option for an additional 450 mln dlrs.
     Fluor's Fluor Constructors Inc unit will perform

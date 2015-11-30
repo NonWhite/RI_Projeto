@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 13:41:41.61</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1925reute
-r f BC-CALLON-PETROLEUM-CO-   04-01 0061</field>
-	<field name = "TITLE">CALLON PETROLEUM CO CLNP> 4TH QTR LOSS</field>
+	<field name = "titulo">CALLON PETROLEUM CO CLNP> 4TH QTR LOSS</field>
 	<field name = "DATELINE">NATCHEZ, Miss., April 1 -</field>
-	<field name = "BODY">Shr loss 40 cts vs loss 4.72 dlrs
+	<field name = "content">Shr loss 40 cts vs loss 4.72 dlrs
     Net loss 3,321,000 vs loss 42.0 mln
     Revs 4,002,000 vs 7,788,000
     Avg shrs 9,168,522 vs 8,974,355

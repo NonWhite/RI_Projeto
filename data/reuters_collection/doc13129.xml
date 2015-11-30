@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "TOPICS">propane</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2241reute
-r f BC-INTERNATIONAL-LPG-PRI   04-03 0112</field>
-	<field name = "TITLE">INTERNATIONAL LPG PRICES MIXED</field>
+	<field name = "titulo">INTERNATIONAL LPG PRICES MIXED</field>
 	<field name = "DATELINE">New York, April 3 -</field>
-	<field name = "BODY">International LPG prices were mixed in
+	<field name = "content">International LPG prices were mixed in
 the past week, with North Sea prices easier while prices in the
 Mediterranean and the Gulf were up in April, traders said.
     In the North Sea market, small cargoes of propane were sold

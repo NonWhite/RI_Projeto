@@ -2,13 +2,10 @@
 	<field name = "DATE">31-MAR-1987 05:28:42.90</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0422reute
-u f BC-BROKERS-SAY-TOKYO-STO   03-31 0106</field>
-	<field name = "TITLE">BROKERS SAY TOKYO STOCKS WILL RESUME RISE</field>
+	<field name = "titulo">BROKERS SAY TOKYO STOCKS WILL RESUME RISE</field>
 	<field name = "AUTHOR">By James Kynge, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 31 -</field>
-	<field name = "BODY">The Tokyo stock market is likely to
+	<field name = "content">The Tokyo stock market is likely to
 recover from its recent nervousness, caused by the rise of the
 yen and the threat of a trade war with the U.S., And resume its
 upward climb, brokers polled by Reuters said.

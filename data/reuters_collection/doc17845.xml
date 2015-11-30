@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 17:37:27.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM A
-f2637reute
-b f BC-SECURITY-PACIFIC-SPC   06-01 0079</field>
-	<field name = "TITLE">SECURITY PACIFIC SPC> ADDS 500 MLN TO RESERVE</field>
+	<field name = "titulo">SECURITY PACIFIC SPC> ADDS 500 MLN TO RESERVE</field>
 	<field name = "DATELINE">LOS ANGELES, June 1 -</field>
-	<field name = "BODY">Security Pacific Corp said it intends
+	<field name = "content">Security Pacific Corp said it intends
 to add 500 mln dlrs to its provision for credit losses during
 the second quarter, a move that will result in a loss for the
 period of about 175 mln dlrs.

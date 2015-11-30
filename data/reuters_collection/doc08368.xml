@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 12:14:42.83</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">herrington</field>
-	<field name = "UNKNOWN">F
-f1588reute
-d f BC-DOE-MAKES-ACID-RAIN-C   03-23 0108</field>
-	<field name = "TITLE">DOE MAKES ACID RAIN CLEANUP SOLICITATION</field>
+	<field name = "titulo">DOE MAKES ACID RAIN CLEANUP SOLICITATION</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">The Department of Energy said it is
+	<field name = "content">The Department of Energy said it is
 soliciting companies for innovative clean coal technologies as
 part of President Reagan's acid rain initiative.
     Energy Secretary John Herrington said the 850 mln dlr

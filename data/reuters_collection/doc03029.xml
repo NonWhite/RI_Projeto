@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 09:08:09.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0975reute
-r f BC-PAPER-INSTITUTE-SEES   03-09 0074</field>
-	<field name = "TITLE">PAPER INSTITUTE SEES STRONG PAPER MARKET IN '87</field>
+	<field name = "titulo">PAPER INSTITUTE SEES STRONG PAPER MARKET IN '87</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">The American Paper Institute said the
+	<field name = "content">The American Paper Institute said the
 industry is headed for another year of record volume in 1987,
 with linerboard particularly strong.
     "A pro-growth trade policy, continued attention to currency

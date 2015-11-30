@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-MAR-1987 05:48:56.28</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM
-f0044reute
-r f BC-S.-AFRICAN-MINISTER-D   03-29 0066</field>
-	<field name = "TITLE">S. AFRICAN MINISTER DEAD</field>
+	<field name = "titulo">S. AFRICAN MINISTER DEAD</field>
 	<field name = "DATELINE">JOHANNESBURG, March 29 -</field>
-	<field name = "BODY">South Africa's Environmental
+	<field name = "content">South Africa's Environmental
 Affairs Minister John Wiley died today in an apparent suicide
 attempt, police said.
     His wife found him lying on his bed at home this morning

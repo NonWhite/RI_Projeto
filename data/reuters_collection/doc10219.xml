@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 17:41:03.97</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM A
-f2770reute
-r f AM-BRAZIL-STRIKES   03-26 0079</field>
-	<field name = "TITLE">BRAZIL BANKWORKERS STRIKE ENTERS THIRD DAY</field>
+	<field name = "titulo">BRAZIL BANKWORKERS STRIKE ENTERS THIRD DAY</field>
 	<field name = "DATELINE">RIO DE JANEIRO, MARCH 26 -</field>
-	<field name = "BODY">A national strike by the
+	<field name = "content">A national strike by the
 majority of Brazil's 700,000 bankworkers completed three days
 and no negotiated solution was immediately expected, a
 spokesman for the National Federation of Banks said today.

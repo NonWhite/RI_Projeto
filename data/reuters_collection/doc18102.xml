@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 12:05:40.34</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">RM
-f1624reute
-u f BC-BBC-DECLINES-COMMENT   06-02 0116</field>
-	<field name = "TITLE">BBC DECLINES COMMENT ON U.K. POLL RUMOURS</field>
+	<field name = "titulo">BBC DECLINES COMMENT ON U.K. POLL RUMOURS</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">The British Broadcasting Corporation
+	<field name = "content">The British Broadcasting Corporation
 declined comment on rumours circulating in the London Stock
 Exchange that it would release an opinion poll tonight showing
 the Conservative and Labour parties running level in marginal

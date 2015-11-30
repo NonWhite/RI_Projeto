@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:40:11.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2461reute
-r f BC-HOLIDAY-HIA>-UNIT-OF   10-20 0113</field>
-	<field name = "TITLE">HOLIDAY HIA> UNIT OFFERS NEW DEBT FOR OLD DEBT</field>
+	<field name = "titulo">HOLIDAY HIA> UNIT OFFERS NEW DEBT FOR OLD DEBT</field>
 	<field name = "DATELINE">NEW YORK -</field>
-	<field name = "BODY">Holiday Corp said its unit Holiday Inns Inc has
+	<field name = "content">Holiday Corp said its unit Holiday Inns Inc has
 started exchange offers for all of the 150 mln dlrs of
 outstanding 8-3/8 pct notes of 1996 and all 75 mln dlrs of
 outstanding 14-1/8 pct notes of 1992.

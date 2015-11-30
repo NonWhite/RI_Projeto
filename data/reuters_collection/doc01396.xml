@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 18:04:59.16</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f0146reute
-r f BC-AMEX   03-03 0109</field>
-	<field name = "TITLE">AMERICAN STOCK EXCHANGE PLANS AD CAMPAIGN</field>
+	<field name = "titulo">AMERICAN STOCK EXCHANGE PLANS AD CAMPAIGN</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">The American Stock Exchange (Amex),
+	<field name = "content">The American Stock Exchange (Amex),
 which faces stiff competition from the New York Stock Exchange
 and the over-the-counter market for listed companies, said it
 is launching a 2 mln dlr advertising campaign.

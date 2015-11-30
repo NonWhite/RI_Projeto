@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 17:13:34.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2503reute
-d f BC-BANCTEXAS-BTX>-GETS   03-23 0104</field>
-	<field name = "TITLE">BANCTEXAS BTX> GETS CONSOLIDATION APPROVAL</field>
+	<field name = "titulo">BANCTEXAS BTX> GETS CONSOLIDATION APPROVAL</field>
 	<field name = "DATELINE">DALLAS, March 23 -</field>
-	<field name = "BODY">BancTexas Group Inc said it received
+	<field name = "content">BancTexas Group Inc said it received
 approval from the Comptroller of the Currency to consolidate
 its four banks in Harris County into one bank, which will be
 named BancTexas Houston NA.

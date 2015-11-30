@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 11:46:49.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1627reute
-r f BC-WESTINGHOUSE-WX>-TO   03-30 0086</field>
-	<field name = "TITLE">WESTINGHOUSE WX> TO MOVE POWER GENERATION UNIT</field>
+	<field name = "titulo">WESTINGHOUSE WX> TO MOVE POWER GENERATION UNIT</field>
 	<field name = "DATELINE">PITTSBURGH, March 30 -</field>
-	<field name = "BODY">Westinghouse Electric Corp said it
+	<field name = "content">Westinghouse Electric Corp said it
 has relocated its power generation service division
 headquarters to locations of existing Westinghouse operations
 in Monroeville, Pa., and Orlando, Fla.

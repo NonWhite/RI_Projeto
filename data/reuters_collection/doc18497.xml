@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 04:24:26.20</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM 
-f2292reute
-u f BC-N.ZEALAND-DEBT-PROGRA   06-18 0085</field>
-	<field name = "TITLE">N.ZEALAND DEBT PROGRAM REVISED ON BUDGET SURPLUS</field>
+	<field name = "titulo">N.ZEALAND DEBT PROGRAM REVISED ON BUDGET SURPLUS</field>
 	<field name = "DATELINE">WELLINGTON, June 18 -</field>
-	<field name = "BODY">A forecast 379 mln N.Z. Dlr surplus
+	<field name = "content">A forecast 379 mln N.Z. Dlr surplus
 in the government's 1987/88 budget will allow a significant
 reduction in the government debt program, Finance Minister
 Roger Douglas said in a statement.

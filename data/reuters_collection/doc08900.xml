@@ -3,12 +3,9 @@
 	<field name = "PLACES">south-africa</field>
 	<field name = "PEOPLE">du-plessis</field>
 	<field name = "PEOPLE">de-kock</field>
-	<field name = "UNKNOWN">RM A
-f1888reute
-b f BC-SOUTH-AFRICA/BANKS-AG   03-24 0101</field>
-	<field name = "TITLE">SOUTH AFRICA/BANKS AGREE ON DEBT REPAYMENT PLAN</field>
+	<field name = "titulo">SOUTH AFRICA/BANKS AGREE ON DEBT REPAYMENT PLAN</field>
 	<field name = "DATELINE">PRETORIA, March 24 -</field>
-	<field name = "BODY">South Africa will repay 13 pct of its
+	<field name = "content">South Africa will repay 13 pct of its
 frozen 13 billion dollar debt to foreign creditors over the
 next three years under an agreement reached today in London,
 Finance Minister Barend du Plessis said.

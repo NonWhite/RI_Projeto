@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ipi</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">RM
-f2387reute
-u f AM-SOVIET-ECONOMY   04-24 0109</field>
-	<field name = "TITLE">SOVIETS SAY 1987 ECONOMIC RESULTS UNSATISFACTORY</field>
+	<field name = "titulo">SOVIETS SAY 1987 ECONOMIC RESULTS UNSATISFACTORY</field>
 	<field name = "DATELINE">MOSCOW, April 24 -</field>
-	<field name = "BODY">The Soviet government said economic
+	<field name = "content">The Soviet government said economic
 results achieved in the first three months of the year were
 unsatisfactory, the official news agency Tass said.
     Soviet industrial production from January to March grew by

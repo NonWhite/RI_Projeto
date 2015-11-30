@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 13:59:26.98</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f6088reute
-r f BC-VIACOM'S-VIA>-MTV-TO   03-17 0091</field>
-	<field name = "TITLE">VIACOM'S VIA> MTV TO AIR IN AUSTRALIA</field>
+	<field name = "titulo">VIACOM'S VIA> MTV TO AIR IN AUSTRALIA</field>
 	<field name = "DATELINE">SYDNEY, Australia, March 17 -</field>
-	<field name = "BODY">Viacom INternational Inc's
+	<field name = "content">Viacom INternational Inc's
 MTV Networks Entertainment said that portions of MTV:Music
 Television will begin airing on Nine Network Australia,
 effective April 16.

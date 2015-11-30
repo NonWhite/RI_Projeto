@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 18:50:57.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0915reute
-u f BC-MICHIGAN-GENERAL-MGL   03-11 0107</field>
-	<field name = "TITLE">MICHIGAN GENERAL MGL> BEGINS EXCHANGE OFFER</field>
+	<field name = "titulo">MICHIGAN GENERAL MGL> BEGINS EXCHANGE OFFER</field>
 	<field name = "DATELINE">SADDLE BROOK, N.J., march 11 -</field>
-	<field name = "BODY">Michigan General Corp said
+	<field name = "content">Michigan General Corp said
 it began an exchange offer for its 110 mln dlrs outstanding
 principal amount of 10-3/4 pct senior subordinated debentures
 due December 1, 1998.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 17:11:43.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2646reute
-u f BC-SALLIE-MAE-ANNOUNCES   03-30 0114</field>
-	<field name = "TITLE">SALLIE MAE ANNOUNCES AUSTRALIAN DLR NOTE OFFER</field>
+	<field name = "titulo">SALLIE MAE ANNOUNCES AUSTRALIAN DLR NOTE OFFER</field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">The Student Loan Marketing
+	<field name = "content">The Student Loan Marketing
 Association announced an offering of Australian 100 mln dlrs
 (approx. U.S. 70 mln) in two-year fixed rate notes priced at
 par and bearing interest at 14 pct per annum.

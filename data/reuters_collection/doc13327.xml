@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 02:02:43.48</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0056reute
-u f BC-JAPAN-AUCTIONS-280-BI   04-07 0101</field>
-	<field name = "TITLE">JAPAN AUCTIONS 280 BILLION YEN OF FOUR-YEAR NOTES</field>
+	<field name = "titulo">JAPAN AUCTIONS 280 BILLION YEN OF FOUR-YEAR NOTES</field>
 	<field name = "DATELINE">TOKYO, April 7 -</field>
-	<field name = "BODY">The Finance Ministry auctioned 280 billion
+	<field name = "content">The Finance Ministry auctioned 280 billion
 yen of four-year government notes, the first auction of fiscal
 1987 which started on April 1.
     The coupon was set at 3.7 pct, a record low for any

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 18:16:05.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2816reute
-r f BC-ONE-CHRYSLER-C>-PLAN   04-09 0083</field>
-	<field name = "TITLE">ONE CHRYSLER C> PLANT TO WORK OVERTIME</field>
+	<field name = "titulo">ONE CHRYSLER C> PLANT TO WORK OVERTIME</field>
 	<field name = "DATELINE">DETROIT, April 9 -</field>
-	<field name = "BODY">Chrysler Corp said one of its U.S. car
+	<field name = "content">Chrysler Corp said one of its U.S. car
 and truck assembly plants will work overtime next week.
     Six of its seven U.S. facilities will work during the week.
 The plant on overtime, both during the week and on Saturday,

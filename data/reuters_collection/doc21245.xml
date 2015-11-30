@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 12:27:53.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1944reute
-h f BC-CALIFORNIA-MICRO-CAM   10-19 0108</field>
-	<field name = "TITLE">CALIFORNIA MICRO CAMD.O> IN JOINT VENTURE</field>
+	<field name = "titulo">CALIFORNIA MICRO CAMD.O> IN JOINT VENTURE</field>
 	<field name = "DATELINE">MILPITAS, Calif., Oct 19 -</field>
-	<field name = "BODY">California Micro Devices said it
+	<field name = "content">California Micro Devices said it
 signed a memorandum of understanding with Telefonica to
 establish a joint venture to make integrated circuits for the
 Western European market.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 10:57:43.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f1176reute
-u f BC-WIND-DAMAGES-CONTINUE   03-19 0135</field>
-	<field name = "TITLE">WIND DAMAGES CONTINUES IN GREAT PLAINS--USDA</field>
+	<field name = "titulo">WIND DAMAGES CONTINUES IN GREAT PLAINS--USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">Land damaged by wind in the 10-state
+	<field name = "content">Land damaged by wind in the 10-state
 Great Plains amount to nearly 3.7 mln acres so far this year,
 one-third more than the 1970-84 average and 300,000 acres more
 than the amount reported at this time last year, the U.S.

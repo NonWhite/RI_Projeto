@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:19:08.61</field>
-	<field name = "UNKNOWN">C L
-f0965reute
-u f BC-OMAHA-HOGS-OPEN-UP-1.   04-07 0023</field>
-	<field name = "TITLE">OMAHA HOGS OPEN UP 1.00 DLR - PRIVATE SOURCES</field>
+	<field name = "titulo">OMAHA HOGS OPEN UP 1.00 DLR - PRIVATE SOURCES</field>
 	<field name = "DATELINE">Omaha, April 7 -</field>
-	<field name = "BODY">Hog prices were up 1.00 dlr, private
+	<field name = "content">Hog prices were up 1.00 dlr, private
 sources said. Top 51.50 dlrs per cwt.
  Reuter</field>
 </doc></add>

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:49:06.82</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A
-f2913reute
-u f BC-DESJARDINS-GROUP-CONS   03-16 0102</field>
-	<field name = "TITLE">DESJARDINS GROUP CONSIDERING SHARE OFFERING</field>
+	<field name = "titulo">DESJARDINS GROUP CONSIDERING SHARE OFFERING</field>
 	<field name = "DATELINE">MONTREAL, March 16 -</field>
-	<field name = "BODY">Desjardins Group>, the Quebec credit
+	<field name = "content">Desjardins Group>, the Quebec credit
 union organization with 30 billion dlrs in assets, needs a new
 structure to raise capital and compete outside of Quebec and is
 considering a share issue, president Claude Beland said.

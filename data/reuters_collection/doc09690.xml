@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 21:16:45.63</field>
 	<field name = "PLACES">china</field>
 	<field name = "PEOPLE">wang-bingqian</field>
-	<field name = "UNKNOWN">RM
-f2814reute
-b f BC-CHINA-SAYS-1986-BUDGE   03-25 0097</field>
-	<field name = "TITLE">CHINA SAYS 1986 BUDGET DEFICIT 7.08 BILLION YUAN</field>
+	<field name = "titulo">CHINA SAYS 1986 BUDGET DEFICIT 7.08 BILLION YUAN</field>
 	<field name = "DATELINE">PEKING, March 26 -</field>
-	<field name = "BODY">China posted a budget deficit of 7.08
+	<field name = "content">China posted a budget deficit of 7.08
 billion yuan in 1986, the fourth highest since 1949, after a
 surplus of 2.82 billion in 1985, Finance Minister Wang Bingqian
 told the National People's Congress.

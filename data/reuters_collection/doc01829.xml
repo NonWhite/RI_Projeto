@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 17:02:02.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0867reute
-u f BC-DINGELL-URGES-SEC-TO   03-04 0120</field>
-	<field name = "TITLE">DINGELL URGES SEC TO SEEK MORE DISCLOSURE</field>
+	<field name = "titulo">DINGELL URGES SEC TO SEEK MORE DISCLOSURE</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">House Energy and Commerce committee
+	<field name = "content">House Energy and Commerce committee
 chairman John Dingell, D-Mich, said the Securities and Exchange
 Commission should step up its enforcement of regulations which
 require companies to disclose corporate fraud and waste.

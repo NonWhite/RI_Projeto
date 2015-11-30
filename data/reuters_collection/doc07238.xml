@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 12:31:26.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f1618reute
-r f BC-J-AND-J-SNACK-JJSF>   03-19 0052</field>
-	<field name = "TITLE">J AND J SNACK JJSF> TO SELL CONVERTIBLE DEBT</field>
+	<field name = "titulo">J AND J SNACK JJSF> TO SELL CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">J and J Snack Foods Corp said it filed
+	<field name = "content">J and J Snack Foods Corp said it filed
 with the Securities and Exchange Commission a registration
 statement covering a 25 mln dlr issue of convertible
 debentures.

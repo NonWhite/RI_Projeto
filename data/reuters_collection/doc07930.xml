@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 15:21:16.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2218reute
-r f BC-OKC-OKC>-SAYS-APPEAL   03-20 0102</field>
-	<field name = "TITLE">OKC OKC> SAYS APPEALS COURT UPHOLDS RULING</field>
+	<field name = "titulo">OKC OKC> SAYS APPEALS COURT UPHOLDS RULING</field>
 	<field name = "DATELINE">DALLAS, March 20 -</field>
-	<field name = "BODY">OKC Limited Partnership said the Fifth
+	<field name = "content">OKC Limited Partnership said the Fifth
 Circuit U.S. Court of Appeals has affirmed a partial summary
 judgment renedered against it and for Phillips Petroleum Co P>
 by the U.S. District Court for the Eastern District of

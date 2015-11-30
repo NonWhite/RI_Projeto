@@ -5,12 +5,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">V RM
-f0776reute
-u f BC-BRITISH-AIDE-CRITICIZ   03-04 0112</field>
-	<field name = "TITLE">BRITISH AIDE CRITICIZES U.S.PROTECTIONISM</field>
+	<field name = "titulo">BRITISH AIDE CRITICIZES U.S.PROTECTIONISM</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">A senior British official said that
+	<field name = "content">A senior British official said that
 protectionist bills being considered by Congress could trigger
 retaliation by the European Community (EEC) and threaten the
 global trading system.

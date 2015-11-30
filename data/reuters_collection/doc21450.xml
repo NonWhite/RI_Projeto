@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 09:25:04.53</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0977reute
-b f BC-MICROSOFT-CORP-MSFT.   10-19 0025</field>
-	<field name = "TITLE">MICROSOFT CORP MSFT.O> 1ST QTR NET</field>
+	<field name = "titulo">MICROSOFT CORP MSFT.O> 1ST QTR NET</field>
 	<field name = "DATELINE">REDMOND, Wash., Oct 19 -</field>
-	<field name = "BODY">Shr 38 cts vs 29 cts
+	<field name = "content">Shr 38 cts vs 29 cts
     Net 21.3 mln vs 15.8 mln
     Revs 102.6 mln vs 66.8 mln
  Reuter</field>

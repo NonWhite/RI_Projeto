@@ -2,12 +2,9 @@
 	<field name = "DATE">16-JUN-1987 02:25:25.63</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">Y
-f0106reute
-u f BC-SOUTH-KOREAN-1986-ENE   06-16 0111</field>
-	<field name = "TITLE">SOUTH KOREAN 1986 ENERGY USE RISES NINE PCT</field>
+	<field name = "titulo">SOUTH KOREAN 1986 ENERGY USE RISES NINE PCT</field>
 	<field name = "DATELINE">SEOUL, June 16 -</field>
-	<field name = "BODY">South Korea's energy consumption rose nine
+	<field name = "content">South Korea's energy consumption rose nine
 pct to 61.07 mln tonnes of oil equivalent (toe) in 1986 from
 56.0 mln in 1985, energy ministry officials told Reuters.
     They said oil accounted for 46.7 pct of energy consumption

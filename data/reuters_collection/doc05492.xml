@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:40:47.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2871reute
-r f BC-MEDIA-GENERAL-MEGA>   03-16 0093</field>
-	<field name = "TITLE">MEDIA GENERAL MEGA> FEBRUARY REVENUES RISE</field>
+	<field name = "titulo">MEDIA GENERAL MEGA> FEBRUARY REVENUES RISE</field>
 	<field name = "DATELINE">RICHMOND, Va., March 16 -</field>
-	<field name = "BODY">Media General Inc said its
+	<field name = "content">Media General Inc said its
 February revenues were 53.1 mln dlrs, up from 49.1 mln dlrs a
 year before.
     It said newspaper revenues rose to 21.3 mln dlrs from 20.2

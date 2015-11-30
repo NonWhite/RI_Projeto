@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 05:37:29.72</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0451reute
-b f BC-NEWS-INTERNATIONAL-IS   03-11 0090</field>
-	<field name = "TITLE">NEWS INTERNATIONAL ISSUES 100 MLN DLRS IN BONDS</field>
+	<field name = "titulo">NEWS INTERNATIONAL ISSUES 100 MLN DLRS IN BONDS</field>
 	<field name = "DATELINE">London, March 11 -</field>
-	<field name = "BODY">News International NWSL.L> Plc is
+	<field name = "content">News International NWSL.L> Plc is
 issuing 100 mln dlrs of senior unsubordinated notes due April
 10, 1990 carrying a coupon of 7-1/2 pct and priced at par, said
 Credit Suisse First Boston as lead manager.

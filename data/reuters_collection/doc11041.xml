@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 15:29:30.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2406reute
-r f BC-OXOCO-CONCLUDES-PRIVA   03-30 0097</field>
-	<field name = "TITLE">OXOCO CONCLUDES PRIVATE SALE OF NEW COMMON</field>
+	<field name = "titulo">OXOCO CONCLUDES PRIVATE SALE OF NEW COMMON</field>
 	<field name = "DATELINE">HOUSTON, March 30 -</field>
-	<field name = "BODY">Oxoco Inc said it concluded the private
+	<field name = "content">Oxoco Inc said it concluded the private
 placement of 3,906,250 shares of its new common stock at an
 average purchase price of 1.28 dlrs per share for a cash
 payment of five mln dlrs.

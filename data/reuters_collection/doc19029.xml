@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 23:12:09.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f5168reute
-u f BC-NATIONAL-SEMICONDUCTO   06-18 0104</field>
-	<field name = "TITLE">NATIONAL SEMICONDUCTOR NSM> SEES IMPROVED YEAR</field>
+	<field name = "titulo">NATIONAL SEMICONDUCTOR NSM> SEES IMPROVED YEAR</field>
 	<field name = "DATELINE">SANTA CLARA, Calif., June 18 -</field>
-	<field name = "BODY">National SemiConductor Corp,
+	<field name = "content">National SemiConductor Corp,
 which earlier reported a profitable fiscal fourth quarter after
 a year ago loss, said it expects improved financial performance
 during its new fiscal year.

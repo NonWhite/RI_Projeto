@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">sprinkel</field>
-	<field name = "UNKNOWN">C
-f2572reute
-d f BC-U.S.-OFFICIAL-SEES-EV   03-31 0103</field>
-	<field name = "TITLE">U.S. OFFICIAL SEES EVIDENCE OF EXPORT GROWTH</field>
+	<field name = "titulo">U.S. OFFICIAL SEES EVIDENCE OF EXPORT GROWTH</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Beryl Sprinkel, chairman of the
+	<field name = "content">Beryl Sprinkel, chairman of the
 White House Council of Economic Advisers, said he sees "growing
 but incomplete evidence that (U.S.) export volumes are finally
 strengthening."

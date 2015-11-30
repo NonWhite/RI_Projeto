@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">V RM
-f1338reute
-b f BC-/MULFORD-SAYS-G-6-WAN   03-26 0081</field>
-	<field name = "TITLE">MULFORD SAYS G-6 WANTS STABILITY</field>
+	<field name = "titulo">MULFORD SAYS G-6 WANTS STABILITY</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">Treasury Assistant Secretary David
+	<field name = "content">Treasury Assistant Secretary David
 Mulford said the Paris agreement among leading industrial
 nations is intended to produce "reasonable stability" in exchange
 markets over the next few months.

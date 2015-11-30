@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 14:00:01.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1967reute
-r f BC-ZENITH-ZEN>-IN-VOLUN   06-01 0109</field>
-	<field name = "TITLE">ZENITH ZEN> IN VOLUNTARY RECALL</field>
+	<field name = "titulo">ZENITH ZEN> IN VOLUNTARY RECALL</field>
 	<field name = "DATELINE">RAMSEY, N.J., June 1 -</field>
-	<field name = "BODY">Zenith Laboratoreis Inc said it was
+	<field name = "content">Zenith Laboratoreis Inc said it was
 voluntarily recalling 20 lots of Digoxin, a cardiovascular
 drug, because about seven of the lots made betweeen October
 1984 and Janauary 1986 failed to meet certain requirements.

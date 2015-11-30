@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 11:13:47.98</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1201reute
-u f BC-GREYHOUND-AGREES-TO-A   06-19 0100</field>
-	<field name = "TITLE">GREYHOUND AGREES TO ACQUIRE TRAILWAYS ROUTES</field>
+	<field name = "titulo">GREYHOUND AGREES TO ACQUIRE TRAILWAYS ROUTES</field>
 	<field name = "DATELINE">DALLAS, June 19 -</field>
-	<field name = "BODY">Greyhound Lines> said it agreed to
+	<field name = "content">Greyhound Lines> said it agreed to
 acquire the routes of Trailways Corp>.
     Greyhound said it had petitioned the Interstate Commerce
 Commission for authority to acquire and operate Trailways'

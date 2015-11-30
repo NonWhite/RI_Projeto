@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 08:32:17.89</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM
-f0729reute
-r f BC-OECD-URGES-GERMANY-TO   04-08 0114</field>
-	<field name = "TITLE">OECD URGES GERMANY TO STEP UP AID</field>
+	<field name = "titulo">OECD URGES GERMANY TO STEP UP AID</field>
 	<field name = "DATELINE">PARIS, April 8 -</field>
-	<field name = "BODY">West Germany should take steps to increase
+	<field name = "content">West Germany should take steps to increase
 its official development assistance, the Organisation for
 Economic Cooperation and Development (OECD) said.
     A report by the organisation's Development Assistance

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0032reute
-b f BC-JAPAN-CENTRAL-BANK-IN   04-07 0080</field>
-	<field name = "TITLE">JAPAN CENTRAL BANK INTERVENES IN TOKYO AFTERNOON</field>
+	<field name = "titulo">JAPAN CENTRAL BANK INTERVENES IN TOKYO AFTERNOON</field>
 	<field name = "DATELINE">TOKYO, April 7 -</field>
-	<field name = "BODY">The Bank of Japan intervened in early
+	<field name = "content">The Bank of Japan intervened in early
 afternoon Tokyo trading to support the dollar against active
 selling by institutional investors and speculative selling by
 overseas operators, dealers said.

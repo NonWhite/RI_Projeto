@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 14:40:47.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2618reute
-d f BC-GOTTSCHALKS-GOT>-TO   10-19 0061</field>
-	<field name = "TITLE">GOTTSCHALKS GOT> TO BUY BACK STOCK</field>
+	<field name = "titulo">GOTTSCHALKS GOT> TO BUY BACK STOCK</field>
 	<field name = "DATELINE">FRESCalif., Oct 19 -</field>
-	<field name = "BODY">Gottschalks Inc said its board
+	<field name = "content">Gottschalks Inc said its board
 authorized management to purchase up to 300,000 of the
 company's outstanding shares, or about 3.5 pct of the stock
 outstanding, because the company believes its shares are

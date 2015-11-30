@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 10:11:22.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0973reute
-u f BC-U.S.-FARM-CREDIT-BANK   03-20 0066</field>
-	<field name = "TITLE">U.S. FARM CREDIT BANK TO SELL BONDS</field>
+	<field name = "titulo">U.S. FARM CREDIT BANK TO SELL BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">The Federal Farm Credit Banks Funding
+	<field name = "content">The Federal Farm Credit Banks Funding
 Corp said its will offer a total of 1.7 billion dlrs worth of
 bonds on March 25.
     The package includes 540 mln dlrs of three-month bonds and

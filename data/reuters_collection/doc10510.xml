@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:57:02.40V</field>
-	<field name = "UNKNOWN">f1458reute</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">greece</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">u f AM-AEGEAN-NATO 1STLD  03-27 0095</field>
-	<field name = "TITLE">CARRINGTON OFFERS NATO MEDIATION IN AEGEAN</field>
+	<field name = "titulo">CARRINGTON OFFERS NATO MEDIATION IN AEGEAN</field>
 	<field name = "DATELINE">BRUSSELS, March 27, Reuter -</field>
-	<field name = "BODY">Greece and Turkey's NATO
+	<field name = "content">Greece and Turkey's NATO
 allies called on both countries to avoid any action that could
 aggravate an explosive situation in the Aegean and "avoid
 recourse to force at all costs."

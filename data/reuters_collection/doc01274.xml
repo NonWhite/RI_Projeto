@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:37:19.65</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0740reute
-r f BC-BANK-OF-ENGLAND-SETS   03-03 0098</field>
-	<field name = "TITLE">BANK OF ENGLAND PROPOSES LIMITS ON UNDERWRITERS</field>
+	<field name = "titulo">BANK OF ENGLAND PROPOSES LIMITS ON UNDERWRITERS</field>
 	<field name = "AUTHOR">By Norma Cohen and Geert Linnebank, Reuters</field>
 	<field name = "DATELINE">LONDON, March 3 -</field>
-	<field name = "BODY">The Bank of England proposed that banks
+	<field name = "content">The Bank of England proposed that banks
 in Britain for the first time will have to seek authorization
 to be lead underwriters of new issues in the euromarkets.
     In addition, the Bank has proposed limits on the amount of

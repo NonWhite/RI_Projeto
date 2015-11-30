@@ -3,12 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "TOPICS">coconut-oil</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G
-f7625reute
-u f BC-COCONUT-OIL-CONTRACT   03-18 0103</field>
-	<field name = "TITLE">COCONUT OIL CONTRACT TO CHANGE - DUTCH TRADERS</field>
+	<field name = "titulo">COCONUT OIL CONTRACT TO CHANGE - DUTCH TRADERS</field>
 	<field name = "DATELINE">ROTTERDAM, March 18 -</field>
-	<field name = "BODY">Contract terms for trade in coconut
+	<field name = "content">Contract terms for trade in coconut
 oil are to be changed from long tons to tonnes with effect from
 the Aug/Sep contract onwards, Dutch vegetable oil traders said.
     Operators have already started to take account of the

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 15:08:24.41</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2342reute
-u f BC-GM-GM>-CANADA-SETS-Q   03-31 0104</field>
-	<field name = "TITLE">GM GM> CANADA SETS QUEBEC PLANT MODERNIZATION</field>
+	<field name = "titulo">GM GM> CANADA SETS QUEBEC PLANT MODERNIZATION</field>
 	<field name = "DATELINE">BOISBRIAND, Quebec, March 31 -</field>
-	<field name = "BODY">General Motors of Canada
+	<field name = "content">General Motors of Canada
 Ltd, wholly owned by General Motors Corp, said it is planning a
 450 mln Canadian dlr retooling and modernization of its
 21-year-old Ste. Therese, Quebec, plant and has received 220

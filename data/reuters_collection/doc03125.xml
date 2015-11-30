@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 10:56:38.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0417reute
-u f BC-RLR-FINANCIAL-SERVICE   03-09 0040</field>
-	<field name = "TITLE">RLR FINANCIAL SERVICES RLRF> TO MAKE STATEMENT</field>
+	<field name = "titulo">RLR FINANCIAL SERVICES RLRF> TO MAKE STATEMENT</field>
 	<field name = "DATELINE">LAUDERHILL, Fla., March 9 -</field>
-	<field name = "BODY">RLR Financial Services said it
+	<field name = "content">RLR Financial Services said it
 will be releasing a statement shortly concerning the company.
     RLR's stock was halted this morning for news pending by the
 NASDAQ.

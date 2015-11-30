@@ -2,12 +2,9 @@
 	<field name = "DATE">29-MAR-1987 00:00:02.22</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">uae</field>
-	<field name = "UNKNOWN">RM
-f0000reute
-r f BC-ARAB-BANKER-SAYS-TOO   03-28 0098</field>
-	<field name = "TITLE">ARAB BANKER SAYS TOO SOON FOR SINGLE CURRENCY</field>
+	<field name = "titulo">ARAB BANKER SAYS TOO SOON FOR SINGLE CURRENCY</field>
 	<field name = "DATELINE">ABU DHABI, March 29 -</field>
-	<field name = "BODY">Gulf Arab states must coordinate
+	<field name = "content">Gulf Arab states must coordinate
 economic policies more closely before moving towards their goal
 of a unified currency system, the President of the Arab Bankers
 Association said.

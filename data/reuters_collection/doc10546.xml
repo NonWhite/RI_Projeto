@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:34:44.54F</field>
-	<field name = "UNKNOWN">f1642reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">b f BC-/SOUTHWESTERN-BELLSB   03-27 0072</field>
-	<field name = "TITLE">SOUTHWESTERN BELLSBC> VOTES SPLIT, UPS PAYOUT</field>
+	<field name = "titulo">SOUTHWESTERN BELLSBC> VOTES SPLIT, UPS PAYOUT</field>
 	<field name = "DATELINE">ST. LOUIS, March 27 -</field>
-	<field name = "BODY">Southwestern Bell Corp said its board
+	<field name = "content">Southwestern Bell Corp said its board
 voted a three-for-one stock split and increased the dividend
 8.8 pct to 1.60 dlrs a share.
     On a post-split basis, the increased dividend will be 58

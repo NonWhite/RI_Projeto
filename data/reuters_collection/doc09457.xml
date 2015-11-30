@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:28:27.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1854reute
-u f BC-NAVISTAR-NAV>-SEES-H   03-25 0082</field>
-	<field name = "TITLE">NAVISTAR NAV> SEES HIGHER CAPITAL SPENDING</field>
+	<field name = "titulo">NAVISTAR NAV> SEES HIGHER CAPITAL SPENDING</field>
 	<field name = "DATELINE">CHICAGO, March 25 -</field>
-	<field name = "BODY">Navistar International Corp expects its
+	<field name = "content">Navistar International Corp expects its
 fiscal 1987 capital spending to rise to 100 mln dlrs, up from
 74 mln dlrs a year ago, Chairman-elect James Cotting told
 reporters after the annual meeting.

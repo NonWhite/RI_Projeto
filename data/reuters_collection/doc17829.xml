@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 17:06:35.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F
-f2547reute
-b f BC-MOODY'S-AFFIRMS-MIDDL   06-01 0104</field>
-	<field name = "TITLE">MOODY'S AFFIRMS MIDDLE SOUTH MSU> AND UNITS</field>
+	<field name = "titulo">MOODY'S AFFIRMS MIDDLE SOUTH MSU> AND UNITS</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 affirmed about four billion dlrs of long-term debt of Middle
 South Utilities and nearly all of its units.
     Moody's cited the U.S. Supreme Court's stay of an adverse

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 14:00:24.37</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G T M
-f1980reute
-d f BC-panama-canal-ships   04-01 0071</field>
-	<field name = "TITLE">AGENCY REPORTS 41 SHIPS WAITING AT PANAMA CANAL</field>
+	<field name = "titulo">AGENCY REPORTS 41 SHIPS WAITING AT PANAMA CANAL</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">The Panama Canal Commission, a U.S.
+	<field name = "content">The Panama Canal Commission, a U.S.
 government agency, said in its daily operations report that
 there was a backlog of 41 ships waiting to enter the canal
 early today. Over the next two days it expects --              

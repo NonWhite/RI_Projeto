@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 13:48:29.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2067reute
-b f BC-PHILADELPHIA-ELECTRIC   03-31 0077</field>
-	<field name = "TITLE">PHILADELPHIA ELECTRIC PE> TOLD TO CLOSE PLANT</field>
+	<field name = "titulo">PHILADELPHIA ELECTRIC PE> TOLD TO CLOSE PLANT</field>
 	<field name = "DATELINE">KING OF PRUSSIA, Pa., March 31 -</field>
-	<field name = "BODY">The Nuclear Regulatory
+	<field name = "content">The Nuclear Regulatory
 Commission said its staff has ordered Philadelphia Electric Co
 to shut down the Peach Bottom Nuclear Power Plant at Delta, Pa.
     The NRC noted that one Peach Bottom unit is shut down for

@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 01:15:32.00</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0033reute
-u f BC-ANZ-BANK-IN-N.Z.-RAIS   04-03 0113</field>
-	<field name = "TITLE">ANZ BANK IN N.Z. RAISES INDICATOR LENDING RATE</field>
+	<field name = "titulo">ANZ BANK IN N.Z. RAISES INDICATOR LENDING RATE</field>
 	<field name = "DATELINE">WELLINGTON, April 3 -</field>
-	<field name = "BODY">The Australia and New Zealand Banking
+	<field name = "content">The Australia and New Zealand Banking
 Group Ltd in New Zealand said it will raise its indicator
 lending rate to 23 pct from 21.5 pct on April 7.
     A bank statement said the continuing rise in the cost of

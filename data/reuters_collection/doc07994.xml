@@ -3,12 +3,9 @@
 	<field name = "PLACES">costa-rica</field>
 	<field name = "ORGS">un</field>
 	<field name = "ORGS">unctad</field>
-	<field name = "UNKNOWN">C G T M
-f2458reute
-d f AM-centam-unctad   03-20 0117</field>
-	<field name = "TITLE">LATIN NATIONS CALL FOR ECONOMIC CO-OPERATION</field>
+	<field name = "titulo">LATIN NATIONS CALL FOR ECONOMIC CO-OPERATION</field>
 	<field name = "DATELINE">SAN JOSE, March 20 -</field>
-	<field name = "BODY">Representatives from 26 Latin American
+	<field name = "content">Representatives from 26 Latin American
 countries ended a United Nations trade meeting here today with
 a call for greater economic integration between developing and
 industrialised countries.

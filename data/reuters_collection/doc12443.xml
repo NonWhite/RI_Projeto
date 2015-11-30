@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 05:51:38.58</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0472reute
-b f BC-BANK-OF-FRANCE-SELLS   04-02 0113</field>
-	<field name = "TITLE">BANK OF FRANCE SELLS 8.45 BILLION FRANC TAP STOCKS</field>
+	<field name = "titulo">BANK OF FRANCE SELLS 8.45 BILLION FRANC TAP STOCKS</field>
 	<field name = "DATELINE">PARIS, April 2 -</field>
-	<field name = "BODY">The Bank of France said it sold a total
+	<field name = "content">The Bank of France said it sold a total
 8.45 billion francs worth of treasury tap stocks through its
 latest monthly tender, at which it offered a choice of one
 floating rate and two fixed rate tranches.

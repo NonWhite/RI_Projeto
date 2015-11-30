@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 19:11:56.50</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3597reute
-u f BC-SMITHKLINE-BECKMAN-CO   10-20 0068</field>
-	<field name = "TITLE">SMITHKLINE BECKMAN CORP SKB> 3RD QTR NET</field>
+	<field name = "titulo">SMITHKLINE BECKMAN CORP SKB> 3RD QTR NET</field>
 	<field name = "DATELINE">PHILADELPHIA, Oct 20 -</field>
-	<field name = "BODY">Shr 1.18 dlrs vs 87 cts
+	<field name = "content">Shr 1.18 dlrs vs 87 cts
     Net 149.6 mln vs 134.0 mln
     Revs 1.10 billion vs 956.4 mln
     Nine mths

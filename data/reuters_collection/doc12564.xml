@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 10:19:36.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1149reute
-u f BC-C.J.-LAWRENCE-HAS-BUY   04-02 0057</field>
-	<field name = "TITLE">C.J. LAWRENCE HAS BUY ON BETHLEHEM STEEL BS></field>
+	<field name = "titulo">C.J. LAWRENCE HAS BUY ON BETHLEHEM STEEL BS></field>
 	<field name = "DATELINE">NEW YORK, April 2 -</field>
-	<field name = "BODY">Aldo Mazzaferro, analyst at C.J.
+	<field name = "content">Aldo Mazzaferro, analyst at C.J.
 Lawrence Inc, issued an agressive buy opinion on Bethlehem
 Steel Corp, traders said.
     Bethlehem rose 7/8 to 10-3/4, the first time in several

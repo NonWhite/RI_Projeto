@@ -3,13 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0311
-reute
-r f BC-USDA-SAID-UNLIKELY-TO   02-26 0135</field>
-	<field name = "TITLE">USDA SAID UNLIKELY TO BROADEN CORN BONUS OFFER</field>
+	<field name = "titulo">USDA SAID UNLIKELY TO BROADEN CORN BONUS OFFER</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 probably will not offer a two dlr per bushel bonus payment to
 corn farmers for any erodible cropland they enrolled in the
 conservation reserve program last year, an aide to USDA

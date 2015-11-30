@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 11:33:33.59</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f2506reute
-b f BC-BFCE-ISSUES-THREE-BIL   03-16 0109</field>
-	<field name = "TITLE">BFCE ISSUES THREE BILLION FRANC DOMESTIC BOND</field>
+	<field name = "titulo">BFCE ISSUES THREE BILLION FRANC DOMESTIC BOND</field>
 	<field name = "DATELINE">PARIS, March 16 -</field>
-	<field name = "BODY">Banque Francaise du Commerce Exterieur is
+	<field name = "content">Banque Francaise du Commerce Exterieur is
 issuing a three billion franc, 8.50 pct, 11 years and 302 days
 domestic bond with warrants at an issue price of 96.42 pct,
 lead manager Banque Nationale de Paris said.

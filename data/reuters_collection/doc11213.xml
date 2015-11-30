@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 05:21:16.69</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f0407reute
-u f BC-TAIWAN-BANKERS-PREDIC   03-31 0109</field>
-	<field name = "TITLE">TAIWAN BANKERS PREDICT MAJOR FINANCIAL REFORM</field>
+	<field name = "titulo">TAIWAN BANKERS PREDICT MAJOR FINANCIAL REFORM</field>
 	<field name = "AUTHOR">By Andrew Browne, Reuters</field>
 	<field name = "DATELINE">TAIPEI, March 31 -</field>
-	<field name = "BODY">Taiwan is planning to significantly
+	<field name = "content">Taiwan is planning to significantly
 relax foreign exchange controls within the next few months, but
 there is little prospect of a sudden outflow of capital,
 bankers and economists polled by Reuters said.

@@ -2,13 +2,10 @@
 	<field name = "DATE">11-MAR-1987 05:18:45.97</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0406reute
-u f BC-ECONOMIC-SPOTLIGHT--   03-11 0104</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - CHINA'S FOREIGN DEBT UP</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - CHINA'S FOREIGN DEBT UP</field>
 	<field name = "AUTHOR">By Mark O'Neill, Reuters</field>
 	<field name = "DATELINE">PEKING, March 11 -</field>
-	<field name = "BODY">China's foreign debt reached 27 billion
+	<field name = "content">China's foreign debt reached 27 billion
 dlrs by the end of 1986, but despite an over-exposure to
 short-term credits and yen borrowing, China remains very
 creditworthy with an improved 1987 export outlook, foreign

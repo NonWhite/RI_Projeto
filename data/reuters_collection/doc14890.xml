@@ -3,13 +3,10 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">kuwait</field>
-	<field name = "UNKNOWN">RM
-f0454reute
-r f BC-ECONOMIC-SPOTLIGHT--   04-08 0100</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - KUWAITI ECONOMY</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - KUWAITI ECONOMY</field>
 	<field name = "AUTHOR">By Rory Channing, Reuters</field>
 	<field name = "DATELINE">KUWAIT, April 8 -</field>
-	<field name = "BODY">Kuwait's oil-reliant and debt-ridden
+	<field name = "content">Kuwait's oil-reliant and debt-ridden
 economy has started to pull out of a nosedive but oil prices
 will determine the pace of recovery, bankers and economists
 say.

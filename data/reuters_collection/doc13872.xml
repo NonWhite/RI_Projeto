@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 10:19:21.49</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f0966reute
-r f BC-NMR-CENTERS-NMRC>-ON   04-07 0036</field>
-	<field name = "TITLE">NMR CENTERS NMRC> ON NASDAQ NATIONAL SYSTEM</field>
+	<field name = "titulo">NMR CENTERS NMRC> ON NASDAQ NATIONAL SYSTEM</field>
 	<field name = "DATELINE">NEWPORT BEACH, Claif., April 7 -</field>
-	<field name = "BODY">NMR Centers Inc said its
+	<field name = "content">NMR Centers Inc said its
 common stock has started trading on the NASDAQ National Market
 System, making it eligible for margin financing.
  Reuter</field>

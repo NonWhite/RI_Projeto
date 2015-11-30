@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:23:17.25</field>
-	<field name = "UNKNOWN">CQ
-f0582reute
-u f BC-ny-gasoline-vol-oi   04-07 0064</field>
-	<field name = "TITLE">NYMEX GASOLINE  VOL/OPEN INTEREST FOR APRIL 6</field>
+	<field name = "titulo">NYMEX GASOLINE  VOL/OPEN INTEREST FOR APRIL 6</field>
 	<field name = "DATELINE">----UNLEADED GAS -</field>
-	<field name = "BODY">VOL    OPEN   CHANGE 
+	<field name = "content">VOL    OPEN   CHANGE 
  MAY  2515  15541   off  885
  JNE  2742  15315   off  139
  JLY   936   5362   off   39

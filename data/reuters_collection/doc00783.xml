@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:31:12.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0076
-reute
-r f BC-HOLIDAY-CORP-HIA>-TO   03-02 0097</field>
-	<field name = "TITLE">HOLIDAY CORP HIA> TO REDEEM TWO BOND ISSUES</field>
+	<field name = "titulo">HOLIDAY CORP HIA> TO REDEEM TWO BOND ISSUES</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Holiday Corp said it would redeem on
+	<field name = "content">Holiday Corp said it would redeem on
 March 11 all outstanding 9-1/2 pct first mortgage bonds due
 1995 of its Holiday Inns Inc unit and all 9-1/2 pct first
 mortgage bonds, Series A, due 1996 of its Harrah's subsidiary.

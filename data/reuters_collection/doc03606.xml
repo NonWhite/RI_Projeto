@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 09:54:35.16</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0123reute
-u f BC-HANSON-HAN>-UNIT-TO   03-11 0071</field>
-	<field name = "TITLE">HANSON HAN> UNIT TO SELL KAISER TERMINAL/PLANT</field>
+	<field name = "titulo">HANSON HAN> UNIT TO SELL KAISER TERMINAL/PLANT</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Hanson Industries, the U.S. arm of
+	<field name = "content">Hanson Industries, the U.S. arm of
 Hanson Trust PLC HAN>, said it has proposed to sell, in
 separate transactions, Kaiser Cement's Northwest Terminals and
 Montana City plant, to Lone Star Industries Inc LCE> and Ash

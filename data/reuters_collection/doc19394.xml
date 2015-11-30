@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 15:45:54.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2214reute
-u f BC-CHRYSLER-C>-AND-FINA   06-19 0092</field>
-	<field name = "TITLE">CHRYSLER C> AND FINANCIAL UNIT AFFIRMED BY S/P</field>
+	<field name = "titulo">CHRYSLER C> AND FINANCIAL UNIT AFFIRMED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 affirmed the debt ratings of Chrysler Corp and Chrysler
 Financial Corp following the automaker's agreement to acquire
 Electrospace Systems Inc for 367 mln dlrs.

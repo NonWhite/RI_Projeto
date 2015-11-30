@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 12:58:06.60</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1757reute
-b f BC-COCA-COLA-KO>-SAYS-R   03-23 0101</field>
-	<field name = "TITLE">COCA COLA KO> SAYS RUMORS INCORRECT</field>
+	<field name = "titulo">COCA COLA KO> SAYS RUMORS INCORRECT</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">A Coca Cola Co spokesman said rumors
+	<field name = "content">A Coca Cola Co spokesman said rumors
 the company is interested in acquiring Wendy's International
 WEN> are not true.
     "Those rumors are not correct," said Carlton Curtis, an

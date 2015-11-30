@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:37:15.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0872reute
-r f BC-WANG-WAN>-SIGNS-MARK   04-09 0093</field>
-	<field name = "TITLE">WANG WAN> SIGNS MARKETING AGREEMENT</field>
+	<field name = "titulo">WANG WAN> SIGNS MARKETING AGREEMENT</field>
 	<field name = "DATELINE">LOWELL, Mass., April 9 -</field>
-	<field name = "BODY">Wang Laboratories said it signed
+	<field name = "content">Wang Laboratories said it signed
 an agreement with Desk Top Financial Solutions Inc> giving
 Wang the right to market the Desk Top Financial Planning System
 for Wang's Office Information Systems (OIS) product line.

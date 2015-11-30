@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:27:38.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f1321reute
-d f BC-D/P-LOWERS-MINNESOTA   03-19 0092</field>
-	<field name = "TITLE">D/P LOWERS MINNESOTA POWER MPL> DEBT RATING</field>
+	<field name = "titulo">D/P LOWERS MINNESOTA POWER MPL> DEBT RATING</field>
 	<field name = "DATELINE">CHICAGO, March 19 -</field>
-	<field name = "BODY">Duff and Phelps said it lowered its
+	<field name = "content">Duff and Phelps said it lowered its
 ratings assigned to Minnesota Power and Light Co's fixed income
 securities, covering about 442 mln dlrs in debt.
     The first mortgage bonds were lowered to D/P-7 (low single

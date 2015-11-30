@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 12:55:42.08</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">RM
-f1764reute
-b f BC-GILLETTE-CANADA-ISSUE   04-09 0090</field>
-	<field name = "TITLE">GILLETTE CANADA ISSUES 70 MLN STG BOND</field>
+	<field name = "titulo">GILLETTE CANADA ISSUES 70 MLN STG BOND</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Gillette Canada Inc is issuing a 70 mln
+	<field name = "content">Gillette Canada Inc is issuing a 70 mln
 stg bond due October 30, 1993 carrying a coupon of 9-5/8 pct
 and priced at 101-1/2, Morgan Stanley Ltd said as lead manager.
     The issue is guaranteed by Gillette Co and is available in

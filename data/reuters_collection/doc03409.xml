@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 17:50:32.51</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0008reute
-u f BC-BELL-CANADA-(BCE),-LA   03-09 0115</field>
-	<field name = "TITLE">BELL CANADA (BCE), LAVALIN TO BID ON MAP SERVICE</field>
+	<field name = "titulo">BELL CANADA (BCE), LAVALIN TO BID ON MAP SERVICE</field>
 	<field name = "DATELINE">MONTREAL, March 9 -</field>
-	<field name = "BODY">Lavalin Bell Geomat>, a company owned
+	<field name = "content">Lavalin Bell Geomat>, a company owned
 by Bell Canada Enterprises Inc and engineering company Lavalin
 Inc>, plans a bid to take over the federal government's map
 making service, Lavalin said.

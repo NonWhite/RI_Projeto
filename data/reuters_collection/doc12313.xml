@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:32:10.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2462reute
-u f BC-ALLIS-CHALMERS-AH>-D   04-01 0068</field>
-	<field name = "TITLE">ALLIS-CHALMERS AH> DEFERS INTEREST PAYMENTS</field>
+	<field name = "titulo">ALLIS-CHALMERS AH> DEFERS INTEREST PAYMENTS</field>
 	<field name = "DATELINE">MILWAUKEE, WIS., April 1 -</field>
-	<field name = "BODY">Allis-Chalmers Corp said it is
+	<field name = "content">Allis-Chalmers Corp said it is
 deferring approximately three mln dlrs of interest payments due
 March 31 and April 1.
     The company said it is actively negotiating with lenders

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 16:43:25.79</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V
-f0804reute
-u f BC-U.S.-BILL-AUCTION-RAT   03-09 0105</field>
-	<field name = "TITLE">U.S. BILL AUCTION RATES AVERAGE 5.63, 5.59 PCT</field>
+	<field name = "titulo">U.S. BILL AUCTION RATES AVERAGE 5.63, 5.59 PCT</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">The U.S. Treasury said its weekly
+	<field name = "content">The U.S. Treasury said its weekly
 auction of three-month bills produced an average rate of 5.63
 pct, with a 5.59 pct rate on six-month bills.
     These rates compared with averages of 5.47 pct for the

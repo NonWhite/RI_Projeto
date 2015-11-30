@@ -3,13 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f0483
-reute
-b f BC-COFFEE-QUOTA-TALKS-CO   03-02 0113</field>
-	<field name = "TITLE">COFFEE QUOTA TALKS CONTINUE BUT NO AGREEMENT YET</field>
+	<field name = "titulo">COFFEE QUOTA TALKS CONTINUE BUT NO AGREEMENT YET</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">Coffee quota talks at the International
+	<field name = "content">Coffee quota talks at the International
 Coffee Organization council meeting here continued this
 afternoon, but producers and consumers still had not reached
 common ground on the key issue of how to estimate export

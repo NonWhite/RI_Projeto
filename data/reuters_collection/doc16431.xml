@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 12:23:45.89</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1697reute
-d f BC-MICRO-MASK-INC-NMS.O   04-13 0084</field>
-	<field name = "TITLE">MICRO MASK INC NMS.O> 2ND QTR MAR 31 OPER LOSS</field>
+	<field name = "titulo">MICRO MASK INC NMS.O> 2ND QTR MAR 31 OPER LOSS</field>
 	<field name = "DATELINE">SUNNYVALE, Calif., April 13 -</field>
-	<field name = "BODY">Oper shr loss 20 cts vs loss 63 cts
+	<field name = "content">Oper shr loss 20 cts vs loss 63 cts
     Oper net loss 439,000 vs loss 1,347,000
     Sales 6,303,000 vs 5,062,000
     Six mths

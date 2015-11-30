@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 21:14:12.88</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0119reute
-u f BC-AUSTRALIAN-RESERVE-BA   03-09 0087</field>
-	<field name = "TITLE">AUSTRALIAN RESERVE BANK IN BUYING INTERVENTION</field>
+	<field name = "titulo">AUSTRALIAN RESERVE BANK IN BUYING INTERVENTION</field>
 	<field name = "DATELINE">SYDNEY, March 10 -</field>
-	<field name = "BODY">The Reserve Bank said at 1230 local time
+	<field name = "content">The Reserve Bank said at 1230 local time
 it was offering to buy short-dated government securities in the
 short-term money market.
     The bank's action followed its purchase of short-dated

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 15:27:30.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0588reute
-r f BC-CALNY-CLNY>-DIRECTOR   03-05 0080</field>
-	<field name = "TITLE">CALNY CLNY> DIRECTOR RESIGNS OVER LAWSUIT</field>
+	<field name = "titulo">CALNY CLNY> DIRECTOR RESIGNS OVER LAWSUIT</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 5 -</field>
-	<field name = "BODY">Calny Inc director and former
+	<field name = "content">Calny Inc director and former
 president and chief executive officer said he is resigning from
 Calny's board because of the company's recently announced
 lawsuit against Pepsico Inc PEP> and its La Petite

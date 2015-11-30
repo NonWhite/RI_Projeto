@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 08:51:02.79</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0777reute
-r f BC-NEWORLD-BANK-FOR-SAVI   04-13 0030</field>
-	<field name = "TITLE">NEWORLD BANK FOR SAVINGS NWOR> 1ST QTR NET</field>
+	<field name = "titulo">NEWORLD BANK FOR SAVINGS NWOR> 1ST QTR NET</field>
 	<field name = "DATELINE">BOSTON, April 13 -</field>
-	<field name = "BODY">Oper shr 45 cts vs 26 cts
+	<field name = "content">Oper shr 45 cts vs 26 cts
     Oper net 2,258,000 vs 1,166,000
     NOTE: 1986 net excludes 842,000 dlr tax credit.
  Reuter</field>

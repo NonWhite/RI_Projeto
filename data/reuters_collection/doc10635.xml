@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">lit</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0008reute
-r f BC--ITALY-RELAXES-RESTRI   03-29 0102</field>
-	<field name = "TITLE">ITALY RELAXES RESTRICTIONS ON LIRA IMPORTS</field>
+	<field name = "titulo">ITALY RELAXES RESTRICTIONS ON LIRA IMPORTS</field>
 	<field name = "DATELINE">ROME, March 29 -</field>
-	<field name = "BODY">Italy is to modify restrictions limiting
+	<field name = "content">Italy is to modify restrictions limiting
 the amount of lira cash that can be brought in and out of the
 country, the Foreign Trade Ministry said.
     A statement said Foreign Trade Minister Rino Formica has

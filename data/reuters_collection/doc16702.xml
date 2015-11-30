@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 17:11:26.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2672reute
-r f BC-FIRST-FAMILY-GROUP-F   04-13 0076</field>
-	<field name = "TITLE">FIRST FAMILY GROUP FFAM> SALES INCREASE</field>
+	<field name = "titulo">FIRST FAMILY GROUP FFAM> SALES INCREASE</field>
 	<field name = "DATELINE">AKRON, Ohio, April 13 -</field>
-	<field name = "BODY">First Family Group Inc said sales
+	<field name = "content">First Family Group Inc said sales
 for March increased 27 pct over a year ago the same month to
 4.4 mln dlrs from 3.5 mln dlrs.
     The company also reported third quarter sales increased 35

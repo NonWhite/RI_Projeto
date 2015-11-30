@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 10:47:12.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0364reute
-r f BC-PENNSYLVANIA-POWER-P   03-11 0088</field>
-	<field name = "TITLE">PENNSYLVANIA POWER PPL> OFFERS PREFERRED STOCK</field>
+	<field name = "titulo">PENNSYLVANIA POWER PPL> OFFERS PREFERRED STOCK</field>
 	<field name = "DATELINE">ALLENTOWN, Pa, March 11 -</field>
-	<field name = "BODY">Pennsylvania Power and Light Co
+	<field name = "content">Pennsylvania Power and Light Co
 said it will offer 500,000 shares of 6-7/8 pct series preferred
 stock at 100 dlrs per share and 500,000 shares of 7-3/8 pct
 series preferred stock at the same price, plus accumulated

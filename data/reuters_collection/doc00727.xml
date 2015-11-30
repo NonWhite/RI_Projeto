@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 15:39:40.79</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0910
-reute
-r f BC-U.S.-INTEC-INC-INTK>   03-02 0053</field>
-	<field name = "TITLE">U.S. INTEC INC INTK> 4TH QTR NET</field>
+	<field name = "titulo">U.S. INTEC INC INTK> 4TH QTR NET</field>
 	<field name = "DATELINE">PORT ARTHUR, March 2 -</field>
-	<field name = "BODY">Shr six cts vs five cts
+	<field name = "content">Shr six cts vs five cts
     Net 188,000 vs 130,000
     Revs 12.2 mln vs 10.1 mln
     Avg shrs 3,029,930 vs 2,764,544

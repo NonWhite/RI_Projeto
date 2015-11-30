@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 09:02:32.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1906reute
-r f BC-U.S.-CORPORATE-FINANC   03-16 0108</field>
-	<field name = "TITLE">U.S. CORPORATE FINANCE - BANK PAPER PRESSURED</field>
+	<field name = "titulo">U.S. CORPORATE FINANCE - BANK PAPER PRESSURED</field>
 	<field name = "AUTHOR">By John Picinich, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">Debt securities issued by major U.S.
+	<field name = "content">Debt securities issued by major U.S.
 banks are under pressure in the secondary market as investors
 shy away from the paper because of Brazil's suspension of
 interest payments last month, analysts and traders said.

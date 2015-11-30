@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 10:48:29.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3325reute
-s f BC-UNITED-JERSEY-BANKS-I   06-18 0026</field>
-	<field name = "TITLE">UNITED JERSEY BANKS INC UJB> SETS QUARTERLY</field>
+	<field name = "titulo">UNITED JERSEY BANKS INC UJB> SETS QUARTERLY</field>
 	<field name = "DATELINE">PRINCETON, N.J., June 18 -</field>
-	<field name = "BODY">Qtly div 21-1/2 cts vs 21-1/2 cts prior
+	<field name = "content">Qtly div 21-1/2 cts vs 21-1/2 cts prior
     Pay Aug Three
     Reord July Seven
  Reuter</field>

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 17:23:47.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2680reute
-r f AM-WARNER   03-30 0102</field>
-	<field name = "TITLE">FORMER OWNER SENTENCED IN OHIO THRIFT COLLAPSE</field>
+	<field name = "titulo">FORMER OWNER SENTENCED IN OHIO THRIFT COLLAPSE</field>
 	<field name = "DATELINE">CINCINNATI, March 30 -</field>
-	<field name = "BODY">Marvin Warner, a former U.S.
+	<field name = "content">Marvin Warner, a former U.S.
 ambassador to Switzerland, was sentenced to 3-1/2 years in jail
 for his role in a bank failure that led to the worst banking
 crisis in Ohio's history.

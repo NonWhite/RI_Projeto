@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">G C M
-f1651reute
-r f BC-exports-other-than-co   04-09 0114</field>
-	<field name = "TITLE">COLOMBIA JAN EXPORTS UP BUT COFFEE VALUES FALL</field>
+	<field name = "titulo">COLOMBIA JAN EXPORTS UP BUT COFFEE VALUES FALL</field>
 	<field name = "DATELINE">Bogota, april 9 -</field>
-	<field name = "BODY">The value of colombian exports other than
+	<field name = "content">The value of colombian exports other than
 coffee rose 55 pct in january compared with the same period
 last year, apparently setting a trend for the trade balance in
 1987, government statistics institute figures show.

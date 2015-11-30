@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 18:59:12.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F 
-f3581reute
-d f BC-S/P-REVIEWS-UA-COMMUN   10-20 0104</field>
-	<field name = "TITLE">S/P REVIEWS UA COMMUNICATIONS UACI> FOR CUT</field>
+	<field name = "titulo">S/P REVIEWS UA COMMUNICATIONS UACI> FOR CUT</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it is
+	<field name = "content">Standard and Poor's Corp said it is
 reviewing for downgrade United Artists Communications Inc's
 single-B rating on 490 mln dlrs of outstanding and
 shelf-registered subordinated debt.

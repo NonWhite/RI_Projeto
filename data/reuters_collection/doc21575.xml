@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 00:05:11.26</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">F M 
-f0009reute
-u f BC-SIX-KILLED-IN-SOUTH-A   10-19 0087</field>
-	<field name = "TITLE">SIX KILLED IN SOUTH AFRICAN GOLD MINE ACCIDENT</field>
+	<field name = "titulo">SIX KILLED IN SOUTH AFRICAN GOLD MINE ACCIDENT</field>
 	<field name = "DATELINE">JOHANNESBURG, Oct 19 -</field>
-	<field name = "BODY">Six black miners have been killed
+	<field name = "content">Six black miners have been killed
 and two injured in a rock fall three km underground at a South
 African gold mine, the owners said on Sunday.
     Rand Mines Properties Ltd>, one of South Africa's big six

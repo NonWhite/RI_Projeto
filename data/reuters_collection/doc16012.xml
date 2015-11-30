@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 17:20:34.87</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2704reute
-r f BC-TRUSTCORP-INC-TTCO>   04-09 0048</field>
-	<field name = "TITLE">TRUSTCORP INC TTCO> 1ST QTR NET</field>
+	<field name = "titulo">TRUSTCORP INC TTCO> 1ST QTR NET</field>
 	<field name = "DATELINE">TOLEDO, Ohio, April 9 -</field>
-	<field name = "BODY">Shr 67 cts vs 62 cts
+	<field name = "content">Shr 67 cts vs 62 cts
     Net 9,160,000 vs 7,722,000
     Assets 4.5 billion vs four billion
     Note: Shr and net data are before accounting change

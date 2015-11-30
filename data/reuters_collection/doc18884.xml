@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 14:00:34.57</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">pakistan</field>
-	<field name = "UNKNOWN">RM A 
-f4158reute
-u f BC-WORLD-BANK-LOANS-PAKI   06-18 0092</field>
-	<field name = "TITLE">WORLD BANK LOANS PAKISTAN 220 MLN DLRS</field>
+	<field name = "titulo">WORLD BANK LOANS PAKISTAN 220 MLN DLRS</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">The World Bank said it has extended
+	<field name = "content">The World Bank said it has extended
 Pakistan 220 mln dlrs in three loans to support projects in
 education, energy conservation and modernization, and
 small-scale industry development.

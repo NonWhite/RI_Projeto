@@ -4,12 +4,9 @@
 	<field name = "PLACES">luxembourg</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">delors</field>
-	<field name = "UNKNOWN">V RM 
-f3158reute
-b f BC-DELORS-CALLS-FOR-G-7   10-19 0080</field>
-	<field name = "TITLE">DELORS CALLS FOR G-7 MEETING</field>
+	<field name = "titulo">DELORS CALLS FOR G-7 MEETING</field>
 	<field name = "DATELINE">LUXEMBOURG, Oct 19 -</field>
-	<field name = "BODY">European Community Commission
+	<field name = "content">European Community Commission
 President Jacques Delors called for a swift convening of a
 meeting of the G-7 countries following the instability in
 today's trading on world money and stock markets.

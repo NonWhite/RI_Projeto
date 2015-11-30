@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 01:20:30.83</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f1099reute
-u f BC-BRAZIL-AIRLINE-SEEN-I   03-16 0118</field>
-	<field name = "TITLE">BRAZIL AIRLINE SEEN IN BOEING PLANE LEASE DEAL</field>
+	<field name = "titulo">BRAZIL AIRLINE SEEN IN BOEING PLANE LEASE DEAL</field>
 	<field name = "DATELINE">TOKYO, March 16 -</field>
-	<field name = "BODY">State-affiliated financial institutions
+	<field name = "content">State-affiliated financial institutions
 and commercial banks from eight countries are expected to lend
 a U.S. Leasing company 400 mln dlrs to finance the purchase
 from Boeing Co BA> of six Boeing 767 planes that will be

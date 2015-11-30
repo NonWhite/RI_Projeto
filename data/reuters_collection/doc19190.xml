@@ -2,13 +2,10 @@
 	<field name = "DATE">19-JUN-1987 10:46:25.47</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM 
-f1077reute
-u f BC-U.K.-LENDERS-OFFER-MO   06-19 0095</field>
-	<field name = "TITLE">U.K. LENDERS OFFER MORE FIXED RATE MORTGAGES</field>
+	<field name = "titulo">U.K. LENDERS OFFER MORE FIXED RATE MORTGAGES</field>
 	<field name = "AUTHOR">By Norma Cohen, Reuters</field>
 	<field name = "DATELINE">LONDON, June 19 -</field>
-	<field name = "BODY">More U.K. Lenders are offering homebuyers
+	<field name = "content">More U.K. Lenders are offering homebuyers
 fixed interest rate mortgages under which the borrower makes
 the same monthly payment no matter what happens to other
 interest rates.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 11:44:01.36</field>
 	<field name = "PLACES">mozambique</field>
-	<field name = "UNKNOWN">C G T M
-f1613reute
-d f BC-MOZAMBIQUE-SEEKS-ADDI   03-31 0138</field>
-	<field name = "TITLE">MOZAMBIQUE SEEKS ADDITIONAL 160 MLN DLRS IN AID</field>
+	<field name = "titulo">MOZAMBIQUE SEEKS ADDITIONAL 160 MLN DLRS IN AID</field>
 	<field name = "DATELINE">GENEVA, March 31 -</field>
-	<field name = "BODY">Mozambique appealed for an additional
+	<field name = "content">Mozambique appealed for an additional
 160 mln dlrs in emergency humanitarian aid to help the country
 through a severe economic crisis.
     Prime Minister Mario Machungo told a news conference

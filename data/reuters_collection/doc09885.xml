@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 10:17:20.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1141reute
-u f BC-STONE-CONTAINER-STO>   03-26 0102</field>
-	<field name = "TITLE">STONE CONTAINER STO> TO REDEEM DEBT</field>
+	<field name = "titulo">STONE CONTAINER STO> TO REDEEM DEBT</field>
 	<field name = "DATELINE">CHICAGO, March 26 -</field>
-	<field name = "BODY">Stone Container Corp said it has
+	<field name = "content">Stone Container Corp said it has
 elected to redeem 200 mln dlrs of convertible debt.
     The paperboard and packaging producer said the debt
 consists of the entire outstanding principal amount of its

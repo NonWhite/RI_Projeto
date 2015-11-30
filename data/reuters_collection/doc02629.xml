@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 10:54:54.51</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0389reute
-u f BC-BOSTON-BANCORP-SBOS>   03-06 0027</field>
-	<field name = "TITLE">BOSTON BANCORP SBOS> SETS TWO FOR ONE SPLIT</field>
+	<field name = "titulo">BOSTON BANCORP SBOS> SETS TWO FOR ONE SPLIT</field>
 	<field name = "DATELINE">BOSTON, March 6 -</field>
-	<field name = "BODY">Boston Bancorp said its board declared a
+	<field name = "content">Boston Bancorp said its board declared a
 two-for-one stock split, payable March 31, record March 17.
  Reuter</field>
 </doc></add>

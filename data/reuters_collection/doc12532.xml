@@ -3,12 +3,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0957reute
-r f BC-MADRID-METRO-HALTED-A   04-02 0116</field>
-	<field name = "TITLE">MADRID METRO HALTED AS SPANISH STRIKES SPREAD</field>
+	<field name = "titulo">MADRID METRO HALTED AS SPANISH STRIKES SPREAD</field>
 	<field name = "DATELINE">MADRID, April 2 -</field>
-	<field name = "BODY">An estimated 1.2 mln metro users in
+	<field name = "content">An estimated 1.2 mln metro users in
 Madrid were stranded today as striking railway workers halted
 the underground transport system, industry sources said. The
 strikers joined coal miners, steel and oil refinery workers in

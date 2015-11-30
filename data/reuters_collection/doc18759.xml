@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 11:46:45.04</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F E Y 
-f3616reute
-r f BC-GULF-CANADA-GOC.TO>   06-18 0101</field>
-	<field name = "TITLE">GULF CANADA GOC.TO> HOLDERS APPROVE PLAN</field>
+	<field name = "titulo">GULF CANADA GOC.TO> HOLDERS APPROVE PLAN</field>
 	<field name = "DATELINE">TORONTO, June 18 -</field>
-	<field name = "BODY">Gulf Canada Corp shareholders at the
+	<field name = "content">Gulf Canada Corp shareholders at the
 annual meeting approved a previously reported reorganization
 plan giving shareholders stock in three publicly traded
 companies.

@@ -7,13 +7,10 @@
 	<field name = "PLACES">kuwait</field>
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM Y 
-f2430reute
-u f BC-AMPLE-SUPPLIES-LIMIT   10-19 0108</field>
-	<field name = "TITLE">AMPLE SUPPLIES LIMIT U.S. STRIKE'S OIL PRICE IMPACT</field>
+	<field name = "titulo">AMPLE SUPPLIES LIMIT U.S. STRIKE'S OIL PRICE IMPACT</field>
 	<field name = "AUTHOR">By Ian Jones</field>
 	<field name = "DATELINE">LONDON, Oct 19 -</field>
-	<field name = "BODY">Ample supplies of OPEC crude weighing on
+	<field name = "content">Ample supplies of OPEC crude weighing on
 world markets helped limit and then reverse oil price gains
 that followed the U.S. Strike on an Iranian oil platform in the
 Gulf earlier on Monday, analysts said.

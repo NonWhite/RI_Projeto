@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">turkey</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">RM
-f0925reute
-u f BC-IRAQ-TURKEY-OIL-PIPEL   03-07 0094</field>
-	<field name = "TITLE">IRAQ-TURKEY OIL PIPELINE CUT BY LANDSLIDE</field>
+	<field name = "titulo">IRAQ-TURKEY OIL PIPELINE CUT BY LANDSLIDE</field>
 	<field name = "DATELINE">ANKARA, March 8 - Engineers are working to repair the Iraq-</field>
-	<field name = "BODY">Turkey oil pipeline near the southern town of Adana after it
+	<field name = "content">Turkey oil pipeline near the southern town of Adana after it
 was cut by a landslide, the Hurriyet and Anatolian news
 agencies said.
     Little oil was lost in the landslide Friday night because

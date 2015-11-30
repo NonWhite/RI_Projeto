@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">V RM
-f1401reute
-b f BC-TREASURY'S-BAKER-HOPE   04-01 0080</field>
-	<field name = "TITLE">TREASURY'S BAKER HOPES PRIME RATE RISE TEMPORARY</field>
+	<field name = "titulo">TREASURY'S BAKER HOPES PRIME RATE RISE TEMPORARY</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 he hopes yesterday's small increase in two major money center
 banks' prime rate was a temporary phenomenon.
     "I hope it was a temporary blip upward," he told a House

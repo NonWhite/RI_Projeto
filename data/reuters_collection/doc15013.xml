@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:20:14.11</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1090reute
-d f BC-U.K.-EXPECTS-SUBSTANT   04-08 0121</field>
-	<field name = "TITLE">U.K. EXPECTS SUBSTANTIAL DEMAND FOR ROLLS SHARES</field>
+	<field name = "titulo">U.K. EXPECTS SUBSTANTIAL DEMAND FOR ROLLS SHARES</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">Demand for shares in state-owned engine
+	<field name = "content">Demand for shares in state-owned engine
 maker Rolls Royce Plc> is expected to be substantial when the
 government privatises it at the end of April, Christopher Clark
 of the group's bankers Samuel Montagu and Sons Ltd said.

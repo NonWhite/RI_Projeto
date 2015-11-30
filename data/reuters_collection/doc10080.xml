@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM V
-f2160reute
-b f BC-/FED'S-HELLER-SAYS-DO   03-26 0093</field>
-	<field name = "TITLE">FED'S HELLER SAYS DOLLAR'S LEVEL IS APPROPRIATE</field>
+	<field name = "titulo">FED'S HELLER SAYS DOLLAR'S LEVEL IS APPROPRIATE</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Federal Reserve Board governor Robert
+	<field name = "content">Federal Reserve Board governor Robert
 Heller said that the dollar's current level is appropriate but
 declined to comment on widespread market reports of concerted
 central bank intervention this week.

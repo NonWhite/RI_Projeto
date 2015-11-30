@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f0134reute
-u f BC-SICHUAN-BRACED-TO-FIG   03-11 0088</field>
-	<field name = "TITLE">SICHUAN BRACED TO FIGHT DROUGHT</field>
+	<field name = "titulo">SICHUAN BRACED TO FIGHT DROUGHT</field>
 	<field name = "DATELINE">PEKING, March 11 -</field>
-	<field name = "BODY">The Sichuan government has ordered that
+	<field name = "content">The Sichuan government has ordered that
 any work or meeting which interferes with the fight against
 drought must be cancelled or postponed to save time, energy and
 manpower, the People's Daily domestic edition said.

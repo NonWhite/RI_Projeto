@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F 
-f2951reute
-d f BC-GULF-AND-WESTERN-GW>   10-19 0086</field>
-	<field name = "TITLE">GULF AND WESTERN GW> TO ACQUIRE BRITISH COMPANY</field>
+	<field name = "titulo">GULF AND WESTERN GW> TO ACQUIRE BRITISH COMPANY</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Gulf and Western Inc's publishing unit,
+	<field name = "content">Gulf and Western Inc's publishing unit,
 Simon and Schuster, said it agreed in principle to acquire
 Woodhead-Faulkner (Publishers) Ltd>, a British-based publisher
 of professional and consumer books, for undisclosed terms.

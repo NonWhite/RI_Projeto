@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">spain</field>
 	<field name = "PEOPLE">rubio</field>
-	<field name = "UNKNOWN">RM
-f1008reute
-u f BC-SPANISH-MONEY-SUPPLY   04-13 0088</field>
-	<field name = "TITLE">SPANISH MONEY SUPPLY GROWING AT DOUBLE TARGET PACE</field>
+	<field name = "titulo">SPANISH MONEY SUPPLY GROWING AT DOUBLE TARGET PACE</field>
 	<field name = "DATELINE">MADRID, April 13 -</field>
-	<field name = "BODY">Spain's principal measure of money
+	<field name = "content">Spain's principal measure of money
 supply, the broad-based liquid assets in public hands (ALP),
 grew at an annualised rate of 17.6 pct in March against 16.6
 pct in February and 19.6 pct in March last year, provisional

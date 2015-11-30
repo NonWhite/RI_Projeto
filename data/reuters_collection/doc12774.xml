@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">sweden</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0371reute
-u f BC-CLOSURE-OF-BP-SWEDEN   04-03 0106</field>
-	<field name = "TITLE">CLOSURE OF BP SWEDEN REFINERY FORECAST</field>
+	<field name = "titulo">CLOSURE OF BP SWEDEN REFINERY FORECAST</field>
 	<field name = "DATELINE">STOCKHOLM, April 3 -</field>
-	<field name = "BODY">A Swedish Finance Ministry committee
+	<field name = "content">A Swedish Finance Ministry committee
 forecast that British Petroleum Plc BP.L> may have to close
 its refinery in Gothenburg because of an anticipated worsening
 of the Swedish petroleum industry's competitiveness.

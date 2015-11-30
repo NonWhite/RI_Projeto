@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 13:20:30.73</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0183reute
-r f BC-DUCOMMUN-INC-DCO>-SE   03-05 0065</field>
-	<field name = "TITLE">DUCOMMUN INC DCO> SELLS DIVISION</field>
+	<field name = "titulo">DUCOMMUN INC DCO> SELLS DIVISION</field>
 	<field name = "DATELINE">CYPRESS, Calif., March 5 -</field>
-	<field name = "BODY">Ducommun Inc said it sold its
+	<field name = "content">Ducommun Inc said it sold its
 Airdrome Parts Co division to a group of investors headed by
 Airdrome's management for a cash price of 12 mln dlrs.
     Ducommun said the sale, coupled with its sale last month of

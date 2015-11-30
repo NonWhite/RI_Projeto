@@ -4,13 +4,10 @@
 	<field name = "TOPICS">reserves</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f0586reute
-u f BC-TAIWAN-PARLIAMENT-BAC   06-16 0099</field>
-	<field name = "TITLE">TAIWAN PARLIAMENT BACKS FREE CAPITAL OUTFLOWS</field>
+	<field name = "titulo">TAIWAN PARLIAMENT BACKS FREE CAPITAL OUTFLOWS</field>
 	<field name = "AUTHOR">By Andrew Browne, Reuters</field>
 	<field name = "DATELINE">TAIPEI, June 16 -</field>
-	<field name = "BODY">Parliament approved a proposal to drop
+	<field name = "content">Parliament approved a proposal to drop
 all controls on capital outflows, raising the prospect that
 Taiwan's vast resevoir of foreign exchange will flow into the
 world economy.

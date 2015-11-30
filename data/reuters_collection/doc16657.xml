@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">uae</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y
-f2511reute
-u f BC-ABU-DHABI-MARKETING-"   04-13 0107</field>
-	<field name = "TITLE">ABU DHABI MARKETING SAID NOT BREACHING OPEC PACT</field>
+	<field name = "titulo">ABU DHABI MARKETING SAID NOT BREACHING OPEC PACT</field>
 	<field name = "DATELINE">ABU DHABI, April 13 -</field>
-	<field name = "BODY">A senior Abu Dhabi oil official said
+	<field name = "content">A senior Abu Dhabi oil official said
 in remarks published today the emirate, largest producer in the
 United Arab Emirates (UAE), was succeeding in marketing its
 crude oil without breaching OPEC accords.

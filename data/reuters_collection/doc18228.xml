@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 14:56:57.00</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2338reute
-b f BC-PAY-'N-PAK-PNP>-RECE   06-02 0105</field>
-	<field name = "TITLE">PAY 'N PAK PNP> RECEIVES AMENDED PROPOSAL</field>
+	<field name = "titulo">PAY 'N PAK PNP> RECEIVES AMENDED PROPOSAL</field>
 	<field name = "DATELINE">KENT, Wash., June 2 -</field>
-	<field name = "BODY">Pay 'N Pak Stores Inc said it
+	<field name = "content">Pay 'N Pak Stores Inc said it
 received a revision to one of the two previously disclosed
 proposals to buy the company.
     Pay 'N Pak said that the proposal from a leveraged buyout

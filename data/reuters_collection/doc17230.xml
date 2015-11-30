@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0079reute
-b f BC-BALDRIGE-SAYS-FURTHER   04-27 0057</field>
-	<field name = "TITLE">BALDRIGE SAYS FURTHER DOLLAR FALL NOT PRODUCTIVE</field>
+	<field name = "titulo">BALDRIGE SAYS FURTHER DOLLAR FALL NOT PRODUCTIVE</field>
 	<field name = "DATELINE">HONG KONG, April 27 -</field>
-	<field name = "BODY">The U.S. Secretary of Commerce
+	<field name = "content">The U.S. Secretary of Commerce
 Malcolm Baldrige said a further decline of the dollar would not
 be productive.
     He told reporters here that Treasury Secretary James Baker

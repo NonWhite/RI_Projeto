@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 10:09:09.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1136reute
-r f BC-NORD-RESOURCES-NRD>   03-31 0065</field>
-	<field name = "TITLE">NORD RESOURCES NRD> SELLS SHARES PRIVATELY</field>
+	<field name = "titulo">NORD RESOURCES NRD> SELLS SHARES PRIVATELY</field>
 	<field name = "DATELINE">DAYTON, Ohio, March 31 -</field>
-	<field name = "BODY">Nord Resources Corp said it has
+	<field name = "content">Nord Resources Corp said it has
 agreed to make a private placement of 600,000 common shares to
 institutional investors in Britain and elsewhere outside the
 U.S. priced at 17.50 dlrs per share.

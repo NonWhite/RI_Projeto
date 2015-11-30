@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 10:38:19.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1337reute
-d f BC-MANOR-CARE-MNR>-RAIS   10-20 0060</field>
-	<field name = "TITLE">MANOR CARE MNR> RAISES SHARE REPURCHASE</field>
+	<field name = "titulo">MANOR CARE MNR> RAISES SHARE REPURCHASE</field>
 	<field name = "DATELINE">SILVER SPRING, Md., Oct 20 -</field>
-	<field name = "BODY">Manor Care Inc said it has
+	<field name = "content">Manor Care Inc said it has
 raised its share repurchase program to include four mln
 additional shares, raising the total number under the program
 to five mln.

@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 10:30:46.87</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E RM A
-f1242reute
-b f BC-CANADA-GDP-UP-0.1-PCT   03-30 0084</field>
-	<field name = "TITLE">CANADA GDP UP 0.1 PCT IN JANUARY</field>
+	<field name = "titulo">CANADA GDP UP 0.1 PCT IN JANUARY</field>
 	<field name = "DATELINE">OTTAWA, March 30 -</field>
-	<field name = "BODY">Canada's gross domestic product rose 0.1
+	<field name = "content">Canada's gross domestic product rose 0.1
 pct, seasonally adjusted, in January after gaining 1.0 pct in
 December but falling 0.1 pct and 0.3 pct in November and
 October, Statistics Canada said.

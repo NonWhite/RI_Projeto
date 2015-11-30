@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 13:13:47.06</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0264reute
-u f BC-WALL-STREET-STOCKS/AN   03-03 0103</field>
-	<field name = "TITLE">WALL STREET STOCKS/ANACOMP INC AAC></field>
+	<field name = "titulo">WALL STREET STOCKS/ANACOMP INC AAC></field>
 	<field name = "DATELINE">CHICAGO, March 3 -</field>
-	<field name = "BODY">Anacomp Inc, one of the most actively
+	<field name = "content">Anacomp Inc, one of the most actively
 traded NYSE issues, rose today as at least one analyst expected
 earnings to be boosted by its planned acquisition of a
 micrographics company.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:29:58.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2242reute
-d f BC-MUNSON-TRANSPORTATION   06-02 0061</field>
-	<field name = "TITLE">MUNSON TRANSPORTATION DELAYS INITIAL OFFER</field>
+	<field name = "titulo">MUNSON TRANSPORTATION DELAYS INITIAL OFFER</field>
 	<field name = "DATELINE">MONMOUTH, Ill., June 2 -</field>
-	<field name = "BODY">Munson Transportation Inc said it
+	<field name = "content">Munson Transportation Inc said it
 postponed its proposed initial public offering due to weakness
 in the price of truck stocks.
     Munson is a trucking company that transports food products

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">hungary</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f1357reute
-r f BC-EC-TO-BEGIN-TALKS-ON   04-27 0119</field>
-	<field name = "TITLE">EC TO BEGIN TALKS ON ECONOMIC PACT WITH HUNGARY</field>
+	<field name = "titulo">EC TO BEGIN TALKS ON ECONOMIC PACT WITH HUNGARY</field>
 	<field name = "DATELINE">LUXEMBOURG, April 27 -</field>
-	<field name = "BODY">European Community foreign ministers
+	<field name = "content">European Community foreign ministers
 agreed to formal talks on signing an economic pact with
 Hungary, in a move which could clear the way towards
 establishing EC diplomatic ties with Budapest, EC officials

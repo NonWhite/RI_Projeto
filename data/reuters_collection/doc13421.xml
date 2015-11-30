@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:33:19.43</field>
-	<field name = "UNKNOWN">C G
-f0178reute
-u f BC-PORLA-CRUDE-PALM-OIL   04-07 0106</field>
-	<field name = "TITLE">PORLA CRUDE PALM OIL TRADE REPORT FOR APRIL 6</field>
+	<field name = "titulo">PORLA CRUDE PALM OIL TRADE REPORT FOR APRIL 6</field>
 	<field name = "DATELINE">KUALA LUMPUR, April 7 -</field>
-	<field name = "BODY">The Palm Oil Registration and
+	<field name = "content">The Palm Oil Registration and
 Licensing Authority (PORLA) reports trade in crude palm oil
 (cpo) on April 6 as follows in ringgit per tonne delivered
 unless stated.

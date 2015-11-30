@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 02:01:46.85</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM AI 
-f0093reute
-u f BC-JAPAN-STARTS-CONSIDER   10-19 0097</field>
-	<field name = "TITLE">JAPAN STARTS CONSIDERING NOVEMBER BOND COUPON</field>
+	<field name = "titulo">JAPAN STARTS CONSIDERING NOVEMBER BOND COUPON</field>
 	<field name = "DATELINE">TOKYO, Oct 19 -</field>
-	<field name = "BODY">The Ministry of Finance has started to
+	<field name = "content">The Ministry of Finance has started to
 consider the coupon rate of the 10-year government bond issue
 for November, a Ministry official said.
     The underwriting syndicate may want a rise in the coupon

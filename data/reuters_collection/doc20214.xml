@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 10:12:05.16</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1169reute
-r f BC-SUNDSTRAND-CORP-SNS>   10-20 0045</field>
-	<field name = "TITLE">SUNDSTRAND CORP SNS> 3RD QTR NET</field>
+	<field name = "titulo">SUNDSTRAND CORP SNS> 3RD QTR NET</field>
 	<field name = "DATELINE">ROCKFORD, ILL., Oct 20 -</field>
-	<field name = "BODY">Shr 77 cts vs 1.07 dlrs
+	<field name = "content">Shr 77 cts vs 1.07 dlrs
     Net 14,455,000 vs 20,083,000
     Sales 334.4 mln vs 348.5 mln
     Nine Mths

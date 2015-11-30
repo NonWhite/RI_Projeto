@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 12:36:56.73</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0993reute
-r f BC-ALCAN-AL>-UNIT-BEGIN   03-05 0088</field>
-	<field name = "TITLE">ALCAN AL> UNIT BEGINS PREFERRED SHARE OFFER</field>
+	<field name = "titulo">ALCAN AL> UNIT BEGINS PREFERRED SHARE OFFER</field>
 	<field name = "DATELINE">MONTREAL, March 5 -</field>
-	<field name = "BODY">Aluminum Co of Canada Ltd, a unit of
+	<field name = "content">Aluminum Co of Canada Ltd, a unit of
 Alcan Aluminium Ltd, said it began an offer of 400,000 shares
 of a new series of preferred stock after its board approved the
 final prospectus.

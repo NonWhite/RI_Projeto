@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 06:08:25.85</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM 
-f0405reute
-b f BC-ELECTRICTE-DE-FRANCE   10-19 0103</field>
-	<field name = "TITLE">ELECTRICTE DE FRANCE ISSUES 15 BILLION YEN BOND</field>
+	<field name = "titulo">ELECTRICTE DE FRANCE ISSUES 15 BILLION YEN BOND</field>
 	<field name = "DATELINE">LONDON, Oct 19 -</field>
-	<field name = "BODY">Electricite de France is issuing a 15
+	<field name = "content">Electricite de France is issuing a 15
 billion yen bond due November 1994 paying interest at 1/16 over
 the six month London Interbank Offered Rate, said IBJ Capital
 Markets Ltd as lead manager.

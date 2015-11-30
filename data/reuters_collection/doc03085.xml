@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 10:16:28.96</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0220reute
-b f BC-GENCORPGY>-UNIT-TO-S   03-09 0109</field>
-	<field name = "TITLE">GENCORPGY> UNIT TO SELL LOS ANGELES TV STATION</field>
+	<field name = "titulo">GENCORPGY> UNIT TO SELL LOS ANGELES TV STATION</field>
 	<field name = "DATELINE">AKRON, Ohio, March 9 -</field>
-	<field name = "BODY">Gencorp said its RKO General
+	<field name = "content">Gencorp said its RKO General
 subsidiary agreed to sell KHJ-TV in Los Angeles to Walt Disney
 Co DIS> for 217 mln dlrs cash plus working capital and other
 adjustments at closing.

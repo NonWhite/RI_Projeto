@@ -3,12 +3,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">F
-f5115reute
-r f BC-GLAXO-SEEKS-TOKYO-LIS   03-17 0101</field>
-	<field name = "TITLE">GLAXO SEEKS TOKYO LISTING</field>
+	<field name = "titulo">GLAXO SEEKS TOKYO LISTING</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">Glaxo Holdings Plc GLXO.L> said it has
+	<field name = "content">Glaxo Holdings Plc GLXO.L> said it has
 filed an application to obtain a listing of its ordinary shares
 on the Tokyo Stock Exchange.
     It said in a statement it expects to obtain the listing by

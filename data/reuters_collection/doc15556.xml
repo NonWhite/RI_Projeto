@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 10:18:31.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1025reute
-u f BC-******F.-W.-WOOLWORTH   04-09 0075</field>
-	<field name = "TITLE">F. W. WOOLWORTH Z> MARCH SALES UP 0.2 PCT</field>
+	<field name = "titulo">F. W. WOOLWORTH Z> MARCH SALES UP 0.2 PCT</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">F. W. Woolworth Co said sales for the
+	<field name = "content">F. W. Woolworth Co said sales for the
 five weeks ended april 4 rose 0.2 pct to 591 mln dlrs from 590
 mln dlrs.
     Domestic sales decreased 4.4 pct to 355 mln dlrs from 371

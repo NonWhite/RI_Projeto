@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">Y
-f0798reute
-r f BC-GAS-CARRIER-ESCAPED-G   06-01 0059</field>
-	<field name = "TITLE">GAS CARRIER ESCAPED GULF ATTACK LAST WEEK - LLOYDS</field>
+	<field name = "titulo">GAS CARRIER ESCAPED GULF ATTACK LAST WEEK - LLOYDS</field>
 	<field name = "DATELINE">LONDON, June 1 -</field>
-	<field name = "BODY">The Panamanian liquified gas carrier
+	<field name = "content">The Panamanian liquified gas carrier
 Nyhammer, 48,772 dwt, was attacked by an Iranian gunboat on May
 24, Lloyds Shipping Intelligence said.
     One rocket was fired but missed.

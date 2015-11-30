@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 06:47:42.59</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f7380reute
-r f BC-BELGIAN-BANK-SAID-TO   03-18 0093</field>
-	<field name = "TITLE">BELGIAN BANK SAID TO SEE SLOWER GROWTH</field>
+	<field name = "titulo">BELGIAN BANK SAID TO SEE SLOWER GROWTH</field>
 	<field name = "DATELINE">BRUSSELS, March 18 -</field>
-	<field name = "BODY">An internal report produced by the
+	<field name = "content">An internal report produced by the
 Belgian National Bank foresees the country's gross national
 product growth falling in 1987 to 1.0 pct from 2.3 pct in 1986,
 the independent newspaper Le Soir said.

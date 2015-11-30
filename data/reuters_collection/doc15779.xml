@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 13:28:38.94</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1903reute
-s f BC-A.O.-SMITH-CORP-SMC>   04-09 0023</field>
-	<field name = "TITLE">A.O. SMITH CORP SMC> SETS QUARTERLIES</field>
+	<field name = "titulo">A.O. SMITH CORP SMC> SETS QUARTERLIES</field>
 	<field name = "DATELINE">MILWAUKEE, April 9 -</field>
-	<field name = "BODY">Qtly divs Class A and B 20 cts vs 20 cts
+	<field name = "content">Qtly divs Class A and B 20 cts vs 20 cts
     Pay May 15
     Record April 30
  Reuter</field>

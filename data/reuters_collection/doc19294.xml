@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM 
-f1797reute
-u f BC-PLATINUM-DEMAND-ESTIM   06-19 0101</field>
-	<field name = "TITLE">PLATINUM DEMAND ESTIMATED 17 PCT HIGHER BY 1991</field>
+	<field name = "titulo">PLATINUM DEMAND ESTIMATED 17 PCT HIGHER BY 1991</field>
 	<field name = "DATELINE">LONDON, June 19 -</field>
-	<field name = "BODY">Demand for platinum could reach 3.4 mln
+	<field name = "content">Demand for platinum could reach 3.4 mln
 ounces by 1991, compared with an estimated offtake of 2.88 mln
 in 1986, Chris Clark, platinum marketing director for Johnson
 Matthey Plc said.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM V
-f2905reute
-u f BC-JAPAN-MINISTRY-SAYS-D   06-15 0102</field>
-	<field name = "TITLE">JAPAN MINISTRY SAYS DOLLAR SHOULD BE ABOVE 170 YEN</field>
+	<field name = "titulo">JAPAN MINISTRY SAYS DOLLAR SHOULD BE ABOVE 170 YEN</field>
 	<field name = "DATELINE">TOKYO, June 16 -</field>
-	<field name = "BODY">The dollar should worth more than 170 yen
+	<field name = "content">The dollar should worth more than 170 yen
 based on purchasing power parity, the Ministry of International
 Trade and Industry (MITI) said in its annual white paper on
 international trade.

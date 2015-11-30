@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:37:22.97</field>
-	<field name = "UNKNOWN">C G
-f0547
-reute
-d f BC-ZIMBABWE'S-MAIZE-MOUN   03-02 0108</field>
-	<field name = "TITLE">ZIMBABWE'S MAIZE MOUNTAIN POSES ECONOMIC PROBLEM</field>
+	<field name = "titulo">ZIMBABWE'S MAIZE MOUNTAIN POSES ECONOMIC PROBLEM</field>
 	<field name = "AUTHOR">By Peter Gregson, Reuters</field>
 	<field name = "DATELINE">HARARE, March 2 -</field>
-	<field name = "BODY">More than two mln tonnes of surplus maize
+	<field name = "content">More than two mln tonnes of surplus maize
 dotted across Zimbabwe in huge piles is posing an economic
 headache for the country.
     The grain, Southern Africa's staple, has been bought by the

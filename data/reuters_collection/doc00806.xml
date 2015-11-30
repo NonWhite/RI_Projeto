@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 17:05:09.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0153
-reute
-r f BC-BARNETT-BANKS-OF-FLOR   03-02 0100</field>
-	<field name = "TITLE">BARNETT BANKS OF FLORIDA BBF> REDEEMS STOCK</field>
+	<field name = "titulo">BARNETT BANKS OF FLORIDA BBF> REDEEMS STOCK</field>
 	<field name = "DATELINE">JACKSONVILLE, Fla., March 2 -</field>
-	<field name = "BODY">Barnett Banks of Florida Inc
+	<field name = "content">Barnett Banks of Florida Inc
 called for redemption of all outstanding shares of its Series E
 4.25 dlrs cumulative convertible preferred stock.
     The company said the redemption date will be May 8, 1987.

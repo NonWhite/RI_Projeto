@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 14:47:56.86</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2038reute
-u f BC-BARCO-BRC>-BOARD-APP   06-19 0091</field>
-	<field name = "TITLE">BARCO BRC> BOARD APPROVES LEVERAGED BUYOUT</field>
+	<field name = "titulo">BARCO BRC> BOARD APPROVES LEVERAGED BUYOUT</field>
 	<field name = "DATELINE">GARDENA, Calif., June 19 -</field>
-	<field name = "BODY">Bacro of California said its
+	<field name = "content">Bacro of California said its
 board approved an offer from its chairman Kenneth Donner and
 President Michael Donner to purchase all the outstanding Barco
 common shares at 5.05 dlrs per share in a leveraged

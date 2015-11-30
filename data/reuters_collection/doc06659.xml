@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">trinidad-tobago</field>
-	<field name = "UNKNOWN">F Y
-f8875reute
-u f BC-AMOCO-AN>-IN-NATURAL   03-18 0104</field>
-	<field name = "TITLE">AMOCO AN> IN NATURAL GAS FIND OFF TRINIDAD</field>
+	<field name = "titulo">AMOCO AN> IN NATURAL GAS FIND OFF TRINIDAD</field>
 	<field name = "DATELINE">HOUSTON, March 18 -</field>
-	<field name = "BODY">Amoco Corp said its WEQB-1 exploratory
+	<field name = "content">Amoco Corp said its WEQB-1 exploratory
 well 39 miles east of Galeota Point on Trinidad's east coast
 flowed 24 mln cubic feet of natural gas and 500 barrels of
 condensate daily from one zone and 29 mln cubic feet of natural

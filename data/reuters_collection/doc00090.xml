@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 16:29:56.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0015
-reute
-h f BC-CONSOLIDATED-GAS-CNG   02-26 0070</field>
-	<field name = "TITLE">CONSOLIDATED GAS CNG>UNIT SAYS NO RULES BROKEN</field>
+	<field name = "titulo">CONSOLIDATED GAS CNG>UNIT SAYS NO RULES BROKEN</field>
 	<field name = "DATELINE">CLARKSBURG, W.Va., Feb 26 -</field>
-	<field name = "BODY">Consolidated Natural Gas
+	<field name = "content">Consolidated Natural Gas
 System's Consolidated Gas Transmission Corp said it is in
 compliance with all federal regulations regarding the disposal
 of polychlorinated biphenyls, or PCBs.

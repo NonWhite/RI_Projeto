@@ -6,12 +6,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">el-salvador</field>
-	<field name = "UNKNOWN">C G 
-f3186reute
-u f BC-EL-SALVADOR-SEEKING-P   10-20 0119</field>
-	<field name = "TITLE">EL SALVADOR SEEKING PL-480 SOYMEAL, CORN</field>
+	<field name = "titulo">EL SALVADOR SEEKING PL-480 SOYMEAL, CORN</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">El Salvador will tender October 26 for
+	<field name = "content">El Salvador will tender October 26 for
 approximately 26,000 tonnes soybean meal, valued at up to 5.6
 mln dlrs, and about 24,500 tonnes bulk corn, with a value of
 2.0 mln dlrs, under PL-480 financing, an agent for the country

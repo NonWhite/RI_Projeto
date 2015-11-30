@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2345reute
-u f BC-CAMPEAU-AND-EDWARD-DE   04-01 0095</field>
-	<field name = "TITLE">CAMPEAU AND EDWARD DEBARTOLO COMPLETE PURCHASE</field>
+	<field name = "titulo">CAMPEAU AND EDWARD DEBARTOLO COMPLETE PURCHASE</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Campeau Corp> and the Edward J.
+	<field name = "content">Campeau Corp> and the Edward J.
 DeBartolo Corp> have closed on their previously-announced 
 purchase of five of the regional shopping centers of Allied
 Stores Corp.

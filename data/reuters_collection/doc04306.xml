@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 12:01:44.86</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0560reute
-d f BC-VSE-CORP-VSEC>-4TH-Q   03-12 0041</field>
-	<field name = "TITLE">VSE CORP VSEC> 4TH QTR NET</field>
+	<field name = "titulo">VSE CORP VSEC> 4TH QTR NET</field>
 	<field name = "DATELINE">ALEXANDRIA, Va., March 12 -</field>
-	<field name = "BODY">Shr 49 cts vs 39 cts
+	<field name = "content">Shr 49 cts vs 39 cts
     Net 886,937 vs 892,323
     Revs 25.9 mln vs 23.7 mln
     Year

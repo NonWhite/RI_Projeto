@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 05:57:11.78</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">F 
-f0364reute
-u f BC-SPAIN'S-PRIVATE-BANK   06-19 0087</field>
-	<field name = "TITLE">SPAIN'S PRIVATE BANK STAFF STRIKE, IMPACT UNCLEAR</field>
+	<field name = "titulo">SPAIN'S PRIVATE BANK STAFF STRIKE, IMPACT UNCLEAR</field>
 	<field name = "DATELINE">MADRID, June 19 -</field>
-	<field name = "BODY">Spain's private bank staff started a one
+	<field name = "content">Spain's private bank staff started a one
 and a half day strike over wage demands but its impact was not
 yet clear.
     Spokesmen for several of the main banks said strikers at

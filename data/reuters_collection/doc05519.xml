@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 12:58:14.23</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2961reute
-r f BC-RAINIER-RBAN>-COMPLE   03-16 0086</field>
-	<field name = "TITLE">RAINIER RBAN> COMPLETES ACQUISITION</field>
+	<field name = "titulo">RAINIER RBAN> COMPLETES ACQUISITION</field>
 	<field name = "DATELINE">SEATTLE, March 16 -</field>
-	<field name = "BODY">Rainier Bancorp said it completed the
+	<field name = "content">Rainier Bancorp said it completed the
 acquisition of Tacoma, Wash.-based United Bank, for 59 mln dlrs
 worth of Rainier stock.
     United, a savings bank with 607 mln dlrs in assets and 23

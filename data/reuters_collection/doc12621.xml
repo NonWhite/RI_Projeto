@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 11:45:31.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1554reute
-r f BC-TO-FITNESS-TFIT>-CHA   04-02 0080</field>
-	<field name = "TITLE">TO-FITNESS TFIT> CHANGES OFFERING TERMS</field>
+	<field name = "titulo">TO-FITNESS TFIT> CHANGES OFFERING TERMS</field>
 	<field name = "DATELINE">BAY HARBOUR ISLAND, Fla., April 2 -</field>
-	<field name = "BODY">To-Fitness Inc said it
+	<field name = "content">To-Fitness Inc said it
 has changed the terms of a proposed five mln unit offering
 expected to be made at 1,000 dlrs per unit through underwriter
 Eastlake Securities Inc.

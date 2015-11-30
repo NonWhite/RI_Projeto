@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">T C
-f0182reute
-u f BC-AUSTRALIA-SELLS-180,0   03-09 0092</field>
-	<field name = "TITLE">AUSTRALIA SELLS 180,000 TONNES OF SUGAR TO USSR</field>
+	<field name = "titulo">AUSTRALIA SELLS 180,000 TONNES OF SUGAR TO USSR</field>
 	<field name = "DATELINE">BRISBANE, March 9 -</field>
-	<field name = "BODY">Australia sold 180,000 tonnes of raw
+	<field name = "content">Australia sold 180,000 tonnes of raw
 sugar to the Soviet Union for shipment in the next few weeks,
 Queensland Primary Industries Minister Neville Harper said.
     Loading of a 50,000-tonne cargo on the Soviet freighter

@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 14:04:27.60</field>
 	<field name = "PLACES">france</field>
 	<field name = "PEOPLE">balladur</field>
-	<field name = "UNKNOWN">RM
-f2050reute
-r f BC-BALLADUR-SAYS-FRENCH   03-24 0089</field>
-	<field name = "TITLE">BALLADUR SAYS ECONOMIC REBOUND TO TAKE YEARS</field>
+	<field name = "titulo">BALLADUR SAYS ECONOMIC REBOUND TO TAKE YEARS</field>
 	<field name = "DATELINE">PARIS, March 24 -</field>
-	<field name = "BODY">France's economic recovery will take
+	<field name = "content">France's economic recovery will take
 several years, Finance Minister Edouard Balladur told the
 Economic and Social Council (CES), an advisory body composed of
 industrialists, trade unionists and representatives of other

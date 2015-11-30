@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0380reute
-r f BC-BANKAMERICA-BAC>-TO   03-05 0095</field>
-	<field name = "TITLE">BANKAMERICA BAC> TO SELL GERMAN BANKING UNIT</field>
+	<field name = "titulo">BANKAMERICA BAC> TO SELL GERMAN BANKING UNIT</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 5 -</field>
-	<field name = "BODY">BankAmerica Corp said it agreed to
+	<field name = "content">BankAmerica Corp said it agreed to
 sell Bankhaus Centrale Credit AG>, its German consumer banking
 subsidiary, and German credit card operations to Banco de
 Santander> of Spain.

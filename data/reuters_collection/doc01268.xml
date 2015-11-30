@@ -2,13 +2,10 @@
 	<field name = "DATE">3-MAR-1987 15:32:05.85</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0722reute
-d f BC-WOOLWORTH SCHEDULED  03-03 0101</field>
-	<field name = "TITLE">F.W. WOOLWORTH'S Z> 1986 PROFITS RISE 21 PCT</field>
+	<field name = "titulo">F.W. WOOLWORTH'S Z> 1986 PROFITS RISE 21 PCT</field>
 	<field name = "AUTHOR">By Gail Appleson, Reuter</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">The specialty retailing area continues
+	<field name = "content">The specialty retailing area continues
 to pay off for F.W. Woolworth Co, once known only as a five and
 dime store chain, which said its 1986 income rose 21 pct.
     It was the fourth consecutive year of profit increases for

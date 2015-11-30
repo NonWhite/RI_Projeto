@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:20:44.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1584reute
-u f BC-COMPUTER-SCIENCES-CS   03-20 0073</field>
-	<field name = "TITLE">COMPUTER SCIENCES CSC> WINS LARGE NASA CONTRACT</field>
+	<field name = "titulo">COMPUTER SCIENCES CSC> WINS LARGE NASA CONTRACT</field>
 	<field name = "DATELINE">EL SEGUNDO, Calif., March 20 -</field>
-	<field name = "BODY">Computer Sciences Corp said
+	<field name = "content">Computer Sciences Corp said
 it won a contract with the National Aeronautics and Space
 Administration (NASA) that could be worth one billion dlrs if
 NASA exercises all its options.

@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 12:38:46.85</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f1668reute
-r f BC-WEBCOR-WER>-TO-BE-DE   04-03 0052</field>
-	<field name = "TITLE">WEBCOR WER> TO BE DELISTED</field>
+	<field name = "titulo">WEBCOR WER> TO BE DELISTED</field>
 	<field name = "DATELINE">GARDEN CITY, NY, April 3 -</field>
-	<field name = "BODY">Webcor Electronics Inc said
+	<field name = "content">Webcor Electronics Inc said
 April 8 will be the last day for its stock to be traded on the
 American Stock Exchange due to its failure to meet the
 financial guidelines.

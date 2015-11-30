@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 17:42:47.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F
-f2577reute
-r f BC-NEW-YORK-REGULATOR-AT   03-23 0121</field>
-	<field name = "TITLE">NEW YORK REGULATOR ATTACKS SENATE BANK BILL</field>
+	<field name = "titulo">NEW YORK REGULATOR ATTACKS SENATE BANK BILL</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Jill Considine, New York State
+	<field name = "content">Jill Considine, New York State
 Superintendent of Banks, said a federal banking bill proposal
 now before the Senate, which includes a moratorium on new
 non-bank activities by bank holding companies, would preempt

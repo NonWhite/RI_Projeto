@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:20:06.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1763reute
-r f BC-FURTHER-US-DEFENSE-WR   06-19 0104</field>
-	<field name = "TITLE">FURTHER US DEFENSE WRITEOFFS LIKELY, ANALYSTS SAY</field>
+	<field name = "titulo">FURTHER US DEFENSE WRITEOFFS LIKELY, ANALYSTS SAY</field>
 	<field name = "AUTHOR">By Steven Radwell, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">The tug-of-war over who pays to develop
+	<field name = "content">The tug-of-war over who pays to develop
 new weapons--contractors or the government--is likely to lead
 to more writeoffs by defense firms, analysts said.
     Singer Co SMF> and Northrop Corp NOC> recently announced

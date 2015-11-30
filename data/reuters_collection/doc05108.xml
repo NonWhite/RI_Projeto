@@ -3,13 +3,10 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0647reute
-u f BC-U.S.-CONSERVATION-FIG   03-13 0117</field>
-	<field name = "TITLE">U.S. CONSERVATION FIGURES SEEN NEUTRAL/BEARISH</field>
+	<field name = "titulo">U.S. CONSERVATION FIGURES SEEN NEUTRAL/BEARISH</field>
 	<field name = "AUTHOR">By Brian Killen, Reuters</field>
 	<field name = "DATELINE">CHICAGO, March 13 -</field>
-	<field name = "BODY">U.S. Agriculture Department (USDA)
+	<field name = "content">U.S. Agriculture Department (USDA)
 figures for highly-erodible land enrolled into the Conservation
 Reserve Program were regarded by most grain analysts as neutral
 to bearish, although some said a full state-by-state breakdown

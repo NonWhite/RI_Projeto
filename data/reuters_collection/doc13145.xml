@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 16:22:36.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2287reute
-r f BC-KENAI-KEN>-SETS-NOTE   04-03 0105</field>
-	<field name = "TITLE">KENAI KEN> SETS NOTE OFFER, AVOIDS CHAPTER 11</field>
+	<field name = "titulo">KENAI KEN> SETS NOTE OFFER, AVOIDS CHAPTER 11</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">Kenai Corp said its shareholders
+	<field name = "content">Kenai Corp said its shareholders
 approved of a reorganization to avoid a chapter 11 filing under
 the U.S. bankruptcy code.
     Shareholders approved an increase in authorized shares to

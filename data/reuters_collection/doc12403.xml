@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 02:51:07.09</field>
 	<field name = "TOPICS">pet-chem</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0175reute
-u f BC-INTERNATIONAL-PACT-ON   04-02 0113</field>
-	<field name = "TITLE">INTERNATIONAL PACT ON OZONE DAMAGE LIKELY IN 1987</field>
+	<field name = "titulo">INTERNATIONAL PACT ON OZONE DAMAGE LIKELY IN 1987</field>
 	<field name = "DATELINE">TOKYO, April 2 -</field>
-	<field name = "BODY">An international protocol to severely
+	<field name = "content">An international protocol to severely
 limit the use of industrial chemicals which are believed to
 damage the earth's protective ozone layer could be signed this
 year, officials and scientists here said.

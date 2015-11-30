@@ -5,12 +5,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">C T
-f0965reute
-u f BC-TURKEY-SEEKING-100,00   03-05 0107</field>
-	<field name = "TITLE">TURKEY SEEKING 100,000 TONNES SUGAR - TRADE</field>
+	<field name = "titulo">TURKEY SEEKING 100,000 TONNES SUGAR - TRADE</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">Turkey is holding a buying tender for
+	<field name = "content">Turkey is holding a buying tender for
 100,000 tonnes of white sugar on March 24, traders here said.
     The sugar is being sought for early arrival and will
 probably be met with April/May shipment sugar, they added.

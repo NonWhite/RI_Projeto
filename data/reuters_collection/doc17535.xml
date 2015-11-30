@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:12:40.70</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1055reute
-b f BC-MERCEDES-BENZ-CREDIT   06-01 0081</field>
-	<field name = "TITLE">MERCEDES-BENZ CREDIT ISSUES 100 MLN DLR EUROBOND</field>
+	<field name = "titulo">MERCEDES-BENZ CREDIT ISSUES 100 MLN DLR EUROBOND</field>
 	<field name = "DATELINE">LONDON, June 1 -</field>
-	<field name = "BODY">Mercedes-Benz Credit Corp is issuing a 100
+	<field name = "content">Mercedes-Benz Credit Corp is issuing a 100
 mln dlr eurobond due June 25, 1992 paying 8-1/4 pct and priced
 at 100-1/2 pct, lead manager Deutsche Bank Capital Markets
 said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 10:40:55.74</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1125reute
-b f BC-VW-SAYS-480-MLN-MARKS   04-09 0110</field>
-	<field name = "TITLE">VW SAYS 480 MLN MARKS MAXIMUM FOR CURRENCY LOSSES</field>
+	<field name = "titulo">VW SAYS 480 MLN MARKS MAXIMUM FOR CURRENCY LOSSES</field>
 	<field name = "DATELINE">WOLFSBURG, West Germany, April 9 -</field>
-	<field name = "BODY">Losses for Volkswagen AG
+	<field name = "content">Losses for Volkswagen AG
 VOWG.F>, VW, linked to an alleged foreign currency fraud will
 not exceed the 480 mln marks provision already made, a VW
 spokesman said.

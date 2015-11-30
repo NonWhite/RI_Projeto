@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:49:11.51C G T M</field>
-	<field name = "UNKNOWN">f0752reute</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">u f BC-LIBERIAN-SHIP-GROUNDE   03-27 0047</field>
-	<field name = "TITLE">LIBERIAN SHIP GROUNDED IN SUEZ CANAL REFLOATED</field>
+	<field name = "titulo">LIBERIAN SHIP GROUNDED IN SUEZ CANAL REFLOATED</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">A Liberian motor bulk carrier, the
+	<field name = "content">A Liberian motor bulk carrier, the
 72,203 dw tonnes Nikitas Roussos, which was grounded in the
 Suez canal yesterday, has been refloated and is now proceeding
 through the the canal, Lloyds Shipping Intelligence said.

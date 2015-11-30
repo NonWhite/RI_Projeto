@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 11:36:01.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1446reute
-d f BC-HATHAWAY-HATH.O>-RES   06-29 0090</field>
-	<field name = "TITLE">HATHAWAY HATH.O> RESTRUCTURES DEBT</field>
+	<field name = "titulo">HATHAWAY HATH.O> RESTRUCTURES DEBT</field>
 	<field name = "DATELINE">BROOMFIELD, COLO., July 29 -</field>
-	<field name = "BODY">Hathaway Corp said it
+	<field name = "content">Hathaway Corp said it
 restructured its debt financing which provides 15 mln dlrs for
 expansion and operations of the company, twice the debt
 financing previously available to the company.

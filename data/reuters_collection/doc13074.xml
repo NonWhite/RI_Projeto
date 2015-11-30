@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 14:28:33.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1970reute
-d f BC-M/A-COM-MAI>-WINS-FO   04-03 0047</field>
-	<field name = "TITLE">M/A-COM MAI> WINS FORD F> CONTRACT</field>
+	<field name = "titulo">M/A-COM MAI> WINS FORD F> CONTRACT</field>
 	<field name = "DATELINE">BURLINGTON, Mass., April 3 -</field>
-	<field name = "BODY">M/A-Com Inc said it won a
+	<field name = "content">M/A-Com Inc said it won a
 major contract from Ford Motor Co to provide a corporate
 switching network.
     The value of the contract, awarded to M/A-Com's

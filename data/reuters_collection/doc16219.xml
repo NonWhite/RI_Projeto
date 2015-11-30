@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 08:50:40.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0774reute
-d f PM-UAW   04-13 0113</field>
-	<field name = "TITLE">UAW SAYS MAJOR WORK STOPPAGE POSSIBLE AT GM, FORD</field>
+	<field name = "titulo">UAW SAYS MAJOR WORK STOPPAGE POSSIBLE AT GM, FORD</field>
 	<field name = "AUTHOR">By Richard Walker, Reuters</field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">Leaders of the nation's unionized
+	<field name = "content">Leaders of the nation's unionized
 automobile workers have signaled their intent for a major work
 stoppage later this year if General Motors Corp. GM> and Ford
 Motor Co. F>  fail to satisfy demands for job security, pay

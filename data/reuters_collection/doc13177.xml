@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 17:08:12.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2410reute
-r f BC-U.S.-CABLE-TV-CREDIT   04-03 0097</field>
-	<field name = "TITLE">U.S. CABLE TV CREDIT UNLIKELY TO IMPROVE, SAYS S/P</field>
+	<field name = "titulo">U.S. CABLE TV CREDIT UNLIKELY TO IMPROVE, SAYS S/P</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">Standard and Poor's Corp said that the
+	<field name = "content">Standard and Poor's Corp said that the
 credit quality of most U.S. cable television companies is
 unlikely to improve in the near term.
     S and P said that after two years and many delays and

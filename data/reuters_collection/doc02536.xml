@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 18:32:13.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0116reute
-r f BC-SIA-TO-APPEAL-FED-RUL   03-05 0104</field>
-	<field name = "TITLE">SIA TO APPEAL FED RULING ON COMMERCIAL PAPER</field>
+	<field name = "titulo">SIA TO APPEAL FED RULING ON COMMERCIAL PAPER</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">The Securities Industry Association,
+	<field name = "content">The Securities Industry Association,
 SIA, has asked the U.S. supreme court to overturn a lower-court
 ruling that would allow banks to sell commercial paper, SIA
 general counsel William Fitzpatrick said.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">rice</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">G C
-f0063reute
-u f BC-OPPOSITION-LEADER-WAR   04-06 0115</field>
-	<field name = "TITLE">OPPOSITION LEADER WARNS OF FAMINE IN BANGLADESH</field>
+	<field name = "titulo">OPPOSITION LEADER WARNS OF FAMINE IN BANGLADESH</field>
 	<field name = "DATELINE">DHAKA, April 6 -</field>
-	<field name = "BODY">The failure of the Bangladesh government
+	<field name = "content">The failure of the Bangladesh government
 to tackle the country's current food crisis could lead to a
 famine, the leader of the Bangladesh Nationalist Party, Khaleda
 Zia, told a press conference yesterday.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 15:36:55.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2475reute
-r f BC-NORTHEAST-UTILITIES-   06-02 0095</field>
-	<field name = "TITLE">NORTHEAST UTILITIES NU> UNIT SELLS STOCK</field>
+	<field name = "titulo">NORTHEAST UTILITIES NU> UNIT SELLS STOCK</field>
 	<field name = "DATELINE">HARTFORD, Conn., June 2 -</field>
-	<field name = "BODY">Connecticut Light and Power Co, a
+	<field name = "content">Connecticut Light and Power Co, a
 unit of Northeast Utilities, said it sold 50 mln dlrs of
 preferred stock as part of its ongoing program to refinance
 high-interest debt and high-coupon preferred stock.

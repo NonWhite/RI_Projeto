@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 09:26:46.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0841reute
-r f BC-BLOCKBUSTER-BBEC>-UN   03-23 0061</field>
-	<field name = "TITLE">BLOCKBUSTER BBEC> UNIT SIGNS EXCLUSIVE LICENSE</field>
+	<field name = "titulo">BLOCKBUSTER BBEC> UNIT SIGNS EXCLUSIVE LICENSE</field>
 	<field name = "DATELINE">DALLAS, March 23 -</field>
-	<field name = "BODY">Blockbuster Entertainment Corp said its
+	<field name = "content">Blockbuster Entertainment Corp said its
 Blockbuster Distribution Corp unit granted an exclusive license
 agreement to Video Superstore Management Inc>.
     Blockbuster said the license gives Video the right to own

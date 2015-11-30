@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 13:52:51.77</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">M
-f1952reute
-r f BC-LONDON-METAL-FREIGHTS   04-01 0068</field>
-	<field name = "TITLE">LONDON METAL FREIGHTS</field>
+	<field name = "titulo">LONDON METAL FREIGHTS</field>
 	<field name = "DATELINE">LONDON, April 1 - Enquiries -</field>
-	<field name = "BODY">Rotterdam/Karachi
+	<field name = "content">Rotterdam/Karachi
 20,000/21,000 mt shredded scrap 7,000/1,100 15-30/4.
     Bin Qasim/Shanghai 25,000 mt pig iron 1,500 fhex/1,200 shex
 1-10/4.

@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">C G T M
-f5125reute
-r f BC-U.S.-TREASURY-ANNOUNC   03-17 0099</field>
-	<field name = "TITLE">U.S. TREASURY ANNOUNCES OECD TIED-AID PACT</field>
+	<field name = "titulo">U.S. TREASURY ANNOUNCES OECD TIED-AID PACT</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">U.S. Treasury Secretary James Baker
+	<field name = "content">U.S. Treasury Secretary James Baker
 said an agreement has been reached by members of the
 Organization for Economic Cooperation and Development (OECD) to
 control the unfair trade practice of using tied aid to promote

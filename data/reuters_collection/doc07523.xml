@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 20:10:49.04</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM
-f2793reute
-b f BC-/PRESIDENT-REAGAN-VOW   03-19 0083</field>
-	<field name = "TITLE">PRESIDENT REAGAN VOWS TO VETO ANY TAX INCREASE</field>
+	<field name = "titulo">PRESIDENT REAGAN VOWS TO VETO ANY TAX INCREASE</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">President Ronald Reagan said he
+	<field name = "content">President Ronald Reagan said he
 would veto any tax increases voted by Congress.
     "My pledge to veto any tax rate increase remains rock solid,"
 Reagan said during a televised news conference.

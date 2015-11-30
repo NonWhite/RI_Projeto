@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0196reute
-d f BC-AGREEMENT   03-09 0114</field>
-	<field name = "TITLE">STUDY SAYS U.S., CANADA PACT WOULD SPUR ECONOMIES</field>
+	<field name = "titulo">STUDY SAYS U.S., CANADA PACT WOULD SPUR ECONOMIES</field>
 	<field name = "DATELINE">WASHINGTON, March 9  -</field>
-	<field name = "BODY">A free trade pact between the United
+	<field name = "content">A free trade pact between the United
 States and Canada could spur the economies of both sides
 substantially, according to a study released by the Institute
 for International Economics.

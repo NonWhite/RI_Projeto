@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:08:42.31F</field>
-	<field name = "UNKNOWN">f1160reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-WEYERHAEUSER-WY>-OFF   03-27 0101</field>
-	<field name = "TITLE">WEYERHAEUSER WY> OFFERS PREFERRED SHARES</field>
+	<field name = "titulo">WEYERHAEUSER WY> OFFERS PREFERRED SHARES</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">Weyerhaeuser Co is offering 200 mln
+	<field name = "content">Weyerhaeuser Co is offering 200 mln
 dlrs of convertible exchangeable preferred stock at 50 dlrs a
 share, said Morgan Stanley and Co, underwriter.
     Morgan Stanley said each share of preferred may be

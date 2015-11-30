@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 16:31:54.01</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F RM E
-f0773reute
-r f BC-API-PRESIDENT-SEES-OP   03-09 0107</field>
-	<field name = "TITLE">API PRESIDENT SEES OPTIONS TO AVERT OIL CRISIS</field>
+	<field name = "titulo">API PRESIDENT SEES OPTIONS TO AVERT OIL CRISIS</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">American Petroleum Institute President
+	<field name = "content">American Petroleum Institute President
 Charles DiBona said no options should be rejected to combat 
 growing U.S. dependence on foreign oil.
     "No action should be ruled out--import fees or quotas,

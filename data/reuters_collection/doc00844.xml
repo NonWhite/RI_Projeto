@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 18:08:19.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0291
-reute
-r f BC-ORACLE-SYSTEMS-CORP-   03-02 0078</field>
-	<field name = "TITLE">ORACLE SYSTEMS CORP ORCL> TO OFFER STOCK</field>
+	<field name = "titulo">ORACLE SYSTEMS CORP ORCL> TO OFFER STOCK</field>
 	<field name = "DATELINE">BELMONT, Calif., March 2 -</field>
-	<field name = "BODY">Oracle Systems Corp said it
+	<field name = "content">Oracle Systems Corp said it
 plans to register with the Securities and Exchange Commission
 to offer two mln share of its common stock.
     If these shares, about 1.5 mln shares woll by sold by the

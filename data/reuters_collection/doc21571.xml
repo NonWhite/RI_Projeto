@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 01:14:35.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0061reute
-u f BC-COMPETITION-TOUGHENS   10-19 0105</field>
-	<field name = "TITLE">COMPETITION TOUGHENS FOR NEAR-SUPERCOMPUTERS</field>
+	<field name = "titulo">COMPETITION TOUGHENS FOR NEAR-SUPERCOMPUTERS</field>
 	<field name = "AUTHOR">By Catherine Arnst</field>
 	<field name = "DATELINE">BOSTON, Oct 19 -</field>
-	<field name = "BODY">An announcement by Alliant Computer
+	<field name = "content">An announcement by Alliant Computer
 Systems Inc ALNT> of a new low-end near-supercomputer and ETA
 Systems Inc>'s unveiling of a high-end machine in the same
 category show competition is stiff in this market, industry

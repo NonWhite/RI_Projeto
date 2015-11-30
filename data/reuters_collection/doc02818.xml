@@ -4,12 +4,9 @@
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">C G T M
-f0378reute
-u f AM-FERRY   03-06 0087</field>
-	<field name = "TITLE">CHANNEL FERRY REPORTED SINKING OFF BELGIUM</field>
+	<field name = "titulo">CHANNEL FERRY REPORTED SINKING OFF BELGIUM</field>
 	<field name = "DATELINE">VLISSINGEN, Netherlands, March 6 -</field>
-	<field name = "BODY">The channel ferry Herald
+	<field name = "content">The channel ferry Herald
 of Free Enterprise from the British Townsend Thorensen company
 was sinking off the Belgian coast tonight with 463 people on
 board, the Dutch newsagency ANP reported today.

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 13:58:00.17</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2429reute
-a f BC-TOTAL-RESEARCH-CORP>   10-19 0033</field>
-	<field name = "TITLE">TOTAL RESEARCH CORP> FISCAL 1987 NET</field>
+	<field name = "titulo">TOTAL RESEARCH CORP> FISCAL 1987 NET</field>
 	<field name = "DATELINE">PRINCETON, N.J., Oct 19 -</field>
-	<field name = "BODY">June 30 end
+	<field name = "content">June 30 end
     Shr 0.3 ct vs four cts
     Net 18,463 vs 174,486
     Revs 5,074,686 vs 4,181,978

@@ -2,13 +2,10 @@
 	<field name = "DATE">20-OCT-1987 17:18:41.49</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM F A 
-f3359reute
-r f BC-U.S.-STOCK-DROP-SEEN   10-20 0109</field>
-	<field name = "TITLE">U.S. STOCK DROP SEEN SLOWING JAPANESE BUYING</field>
+	<field name = "titulo">U.S. STOCK DROP SEEN SLOWING JAPANESE BUYING</field>
 	<field name = "AUTHOR">By Hisanobu Ohse</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">A collapse in U.S. stock prices has  hit
+	<field name = "content">A collapse in U.S. stock prices has  hit
 Japanese investors hard, since they had shifted to stocks from
 bonds earlier this year, and will slow down Japanese capital
 flows to the U.S., investors and stock brokers said.

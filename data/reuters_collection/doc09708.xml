@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 01:13:01.71</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0035reute
-u f BC-BANK-OF-NEW-ZEALAND-S   03-26 0104</field>
-	<field name = "TITLE">BANK OF NEW ZEALAND SHARES TO BE LISTED NEXT WEEK</field>
+	<field name = "titulo">BANK OF NEW ZEALAND SHARES TO BE LISTED NEXT WEEK</field>
 	<field name = "DATELINE">WELLINGTON, March 26 -</field>
-	<field name = "BODY">Bank of New Zealand> (BNZ) shares
+	<field name = "content">Bank of New Zealand> (BNZ) shares
 will be listed on the New Zealand Stock Exchange next week,
 probably on Tuesday, the BNZ said.
     "We look forward to the challenge of public accountability

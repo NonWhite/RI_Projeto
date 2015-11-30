@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:10:00.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2509reute
-r f BC-ANADARKO-APC>-FILES   03-26 0072</field>
-	<field name = "TITLE">ANADARKO APC> FILES TO OFFER CONVERTIBLE DEBT</field>
+	<field name = "titulo">ANADARKO APC> FILES TO OFFER CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Anadarko Petroleum Corp said it filed
+	<field name = "content">Anadarko Petroleum Corp said it filed
 with the Securities and Exchange Commission a registration
 statement covering a 100 mln dlr issue of convertible
 subordinated debentures due 2012.

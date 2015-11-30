@@ -3,13 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nymex</field>
-	<field name = "UNKNOWN">C
-f0090
-reute
-d f BC-NYMEX-RULE-CHANGE-SEE   03-02 0116</field>
-	<field name = "TITLE">NYMEX RULE CHANGE SEEN BOOSTING ENERGY TRADE</field>
+	<field name = "titulo">NYMEX RULE CHANGE SEEN BOOSTING ENERGY TRADE</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">The New York Mercantile Exchange said
+	<field name = "content">The New York Mercantile Exchange said
 it will introduce exchanges for physicals (EFPS) to its energy
 futures markets April one.
     An exchange spokeswoman said the change will allow oil

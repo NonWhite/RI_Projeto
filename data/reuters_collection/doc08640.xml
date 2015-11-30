@@ -4,12 +4,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">RM
-f0392reute
-b f BC-MIYAZAWA-SAYS-U.S.-LI   03-24 0104</field>
-	<field name = "TITLE">MIYAZAWA SAYS U.S. LIKELY TO INTERVENE</field>
+	<field name = "titulo">MIYAZAWA SAYS U.S. LIKELY TO INTERVENE</field>
 	<field name = "DATELINE">TOKYO, March 24 -</field>
-	<field name = "BODY">Finance Minister Kiichi Miyazawa told
+	<field name = "content">Finance Minister Kiichi Miyazawa told
 Parliament's Lower House Finance Committee that the U.S. Is
 expected to intervene in the foreign exchange market to
 stabilise exchange rates, political sources said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 15:12:34.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2330reute
-d f BC-BELL-ATLANTIC-BEL>-U   04-13 0083</field>
-	<field name = "TITLE">BELL ATLANTIC BEL> UNIT TO SELL SERVICES, GEAR</field>
+	<field name = "titulo">BELL ATLANTIC BEL> UNIT TO SELL SERVICES, GEAR</field>
 	<field name = "DATELINE">PHILADELPHIA, April 13 -</field>
-	<field name = "BODY">Bell Atlantic Corp's Bell of
+	<field name = "content">Bell Atlantic Corp's Bell of
 Pennsylvania unit said federal regulators granted it interim
 permission to sell regulated telecommunications network
 services along with equipment provided by an unregulated Bell

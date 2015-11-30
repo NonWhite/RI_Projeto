@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 07:16:19.69</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM 
-f0549reute
-u f BC-WILLIAMS-HOLDINGS-SEE   10-19 0102</field>
-	<field name = "TITLE">WILLIAMS HOLDINGS SEEKS MULTIPLE FACILITY</field>
+	<field name = "titulo">WILLIAMS HOLDINGS SEEKS MULTIPLE FACILITY</field>
 	<field name = "DATELINE">LONDON, Oct 19 -</field>
-	<field name = "BODY">Williams Holdings Plc> said it has
+	<field name = "content">Williams Holdings Plc> said it has
 mandated Barclays de Zoete Wedd Ltd to arrange a 100 mln stg
 multiple option facility on a committed basis.
     The facility will be fully underwritten and have a maturity

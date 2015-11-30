@@ -3,13 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">E
-f0114
-reute
-r f BC-CCL-UNIT-ACQUIRES-NES   03-02 0097</field>
-	<field name = "TITLE">CCL UNIT ACQUIRES NESTLE CANADA CAN OPERATIONS</field>
+	<field name = "titulo">CCL UNIT ACQUIRES NESTLE CANADA CAN OPERATIONS</field>
 	<field name = "DATELINE">TORONTO, March 2 -</field>
-	<field name = "BODY">CCL Industries Inc>'s Continental Can
+	<field name = "content">CCL Industries Inc>'s Continental Can
 Canada Inc unit said it acquired the Wallaceburg, Ontario,
 metal can making operations of Nestle Enterprises Ltd, wholly
 owned by Nestle SA>, of Switzerland. Terms were undisclosed.

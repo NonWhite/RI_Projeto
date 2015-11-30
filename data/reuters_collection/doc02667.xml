@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:29:39.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0550reute
-r f BC-BAKER-BKO>,-HUGHES-   03-06 0113</field>
-	<field name = "TITLE">BAKER BKO>, HUGHES HT> STILL ON S/P WATCH</field>
+	<field name = "titulo">BAKER BKO>, HUGHES HT> STILL ON S/P WATCH</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Standard and Poor's Corp said debt
+	<field name = "content">Standard and Poor's Corp said debt
 ratings on 840 mln dlrs of debt of Baker International Corp and
 Hughes Tool Co remain on creditwatch.
     S and P cited the adjournment of a special shareholder

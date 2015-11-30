@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 14:39:24.90</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2118reute
-u f BC-/CSX-CORP-CSX>-1ST-Q   04-01 0037</field>
-	<field name = "TITLE">CSX CORP CSX> 1ST QTR NET</field>
+	<field name = "titulo">CSX CORP CSX> 1ST QTR NET</field>
 	<field name = "DATELINE">RICHMOND, Va, April 1 -</field>
-	<field name = "BODY">Shr 47 cts vs 56 cts
+	<field name = "content">Shr 47 cts vs 56 cts
     Net 73.0 mln vs 85.0 mln
     Revs 1.89 billion vs 1.69 billion
     NOTE: figures reflect the merger of Sea-Land Corp completed

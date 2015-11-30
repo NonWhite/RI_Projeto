@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 04:37:29.93</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">G C
-f0338reute
-u f BC-WORK-AT-CHITTAGONG-PO   03-11 0067</field>
-	<field name = "TITLE">WORK AT CHITTAGONG PORT HALTED BY STRIKE</field>
+	<field name = "titulo">WORK AT CHITTAGONG PORT HALTED BY STRIKE</field>
 	<field name = "DATELINE">CHITTAGONG, Bangladesh, March 11 -</field>
-	<field name = "BODY">Cargo handling remains
+	<field name = "content">Cargo handling remains
 halted at Bangladesh's Chittagong port since nearly 7,000
 workers walked out on Monday following a pay dispute, the Port
 Workers Association said today.

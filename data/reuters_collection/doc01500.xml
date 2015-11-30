@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 10:48:52.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0474reute
-u f BC-PS-NEW-MEXICO-PNM>-S   03-04 0092</field>
-	<field name = "TITLE">PS NEW MEXICO PNM> STUDIES SYSTEM PARTNERSHIP</field>
+	<field name = "titulo">PS NEW MEXICO PNM> STUDIES SYSTEM PARTNERSHIP</field>
 	<field name = "DATELINE">ALBUQUERQUE, N.M., March 4 -</field>
-	<field name = "BODY">Public Service Co of New
+	<field name = "content">Public Service Co of New
 Mexico said it is evaluating placing its electric distribution
 system in a limited partnership with assets of about 400 mln
 dlrs.

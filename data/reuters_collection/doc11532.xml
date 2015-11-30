@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 13:45:38.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2062reute
-r f BC-DIAMOND-DIA>-SPINOFF   03-31 0113</field>
-	<field name = "TITLE">DIAMOND DIA> SPINOFF TO HAVE 60/40 DEBT/EQUITY</field>
+	<field name = "titulo">DIAMOND DIA> SPINOFF TO HAVE 60/40 DEBT/EQUITY</field>
 	<field name = "DATELINE">SAN ANTONIO, March 31 -</field>
-	<field name = "BODY">Roger Hemminghaus, chairman of the
+	<field name = "content">Roger Hemminghaus, chairman of the
 refining and marketing company that is to spin off from Diamond
 Shamrock Corp told Reuters that the new company will have a
 debt to equity ratio of 60/40.

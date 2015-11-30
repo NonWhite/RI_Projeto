@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 18:10:51.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2658reute
-u f AM-UPI   04-01 0109</field>
-	<field name = "TITLE">UPI PRESIDENT RESIGNS AFTER FIVE MONTHS</field>
+	<field name = "titulo">UPI PRESIDENT RESIGNS AFTER FIVE MONTHS</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">United Press International  announced
+	<field name = "content">United Press International  announced
 that Milton Benjamin had resigned as company president and the
 news agency's chairman, Mario Vazquez-Rana, a Mexican newspaper
 owner, would take over his duties.

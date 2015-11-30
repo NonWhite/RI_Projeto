@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 15:46:09.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0657reute
-r f BC-SUMITOMO-TRUST-SELLS   03-05 0083</field>
-	<field name = "TITLE">SUMITOMO TRUST SELLS CD NOTES AT 7.28 PCT</field>
+	<field name = "titulo">SUMITOMO TRUST SELLS CD NOTES AT 7.28 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Sumitomo Trust and Banking Co Ltd is
+	<field name = "content">Sumitomo Trust and Banking Co Ltd is
 offering 100 mln dlrs of certificate of deposit notes due 1992
 yielding 7.28 pct, said sole manager Shearson Lehman Brothers
 Inc.

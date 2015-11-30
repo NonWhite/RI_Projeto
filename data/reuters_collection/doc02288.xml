@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 13:14:47.61</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">F
-f0159reute
-d f BC-CADBURY-REQUESTS-STOC   03-05 0085</field>
-	<field name = "TITLE">CADBURY REQUESTS STOCK EXCHANGE ENQUIRY</field>
+	<field name = "titulo">CADBURY REQUESTS STOCK EXCHANGE ENQUIRY</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">Cadbury-Schweppes Plc CADB.L> said it
+	<field name = "content">Cadbury-Schweppes Plc CADB.L> said it
 had asked the London Stock Exchange to launch a formal enquiry
 into dealings in the company's shares in recent months.
     It said it believed such a move was in the best interests

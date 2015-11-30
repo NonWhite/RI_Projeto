@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:45:56.85</field>
-	<field name = "UNKNOWN">F
-f0576
-reute
-u f BC-TRIANGLE-INDUSTRIES-I   03-02 0072</field>
-	<field name = "TITLE">TRIANGLE INDUSTRIES INC TRI> 4TH QTR LOSS</field>
+	<field name = "titulo">TRIANGLE INDUSTRIES INC TRI> 4TH QTR LOSS</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Oper shr loss three cts vs profit 27 cts
+	<field name = "content">Oper shr loss three cts vs profit 27 cts
     Oper net loss 178,000 vs profit 4,165,000
     Sales 783.7 mln vs 464.6 mln
     Avg shrs 25.3 mln vs 10.3 mln

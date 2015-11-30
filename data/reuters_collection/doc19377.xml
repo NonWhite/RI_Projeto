@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 15:13:11.91</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F 
-f2126reute
-u f BC-REED-DENIES-BID-APPRO   06-19 0110</field>
-	<field name = "TITLE">REED INTL DENIES BID APPROACH</field>
+	<field name = "titulo">REED INTL DENIES BID APPROACH</field>
 	<field name = "DATELINE">LONDON, June 19 -</field>
-	<field name = "BODY">Reed International Plc REED.L> denied
+	<field name = "content">Reed International Plc REED.L> denied
 rumours on the U.K. Stock market that it was the target of a
 takeover bid and said it had received no approach.
     "In view of the increase in our share price today, I want to

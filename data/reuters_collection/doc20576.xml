@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:46:17.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2772reute
-s f BC-TOLLAND-BANK-TOBK.O>   10-20 0023</field>
-	<field name = "TITLE">TOLLAND BANK TOBK.O> SETS QUARTERLY</field>
+	<field name = "titulo">TOLLAND BANK TOBK.O> SETS QUARTERLY</field>
 	<field name = "DATELINE">TOLLAND, Conn., Oct 20 -</field>
-	<field name = "BODY">Qtly div 10 cts vs 10 cts prior
+	<field name = "content">Qtly div 10 cts vs 10 cts prior
     Pay Nov Nine
     Record Nov Two
  Reuter</field>

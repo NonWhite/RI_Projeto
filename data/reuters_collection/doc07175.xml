@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:20:26.67</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">RM
-f1287reute
-r f BC-IRANIAN-PARLIAMENT-AP   03-19 0097</field>
-	<field name = "TITLE">IRANIAN PARLIAMENT APPROVES ENLARGED BUDGET</field>
+	<field name = "titulo">IRANIAN PARLIAMENT APPROVES ENLARGED BUDGET</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">Iran's budget for the fiscal year
+	<field name = "content">Iran's budget for the fiscal year
 starting on Saturday forecasts revenue of 50.3 billion dlrs, a
 15 pct increase from this year, figures published by the
 Iranian news agency IRNA show.

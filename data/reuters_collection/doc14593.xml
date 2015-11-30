@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:17:16.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2359reute
-u f BC-ITT-ITT>-TO-BUY-BACK   04-07 0048</field>
-	<field name = "TITLE">ITT ITT> TO BUY BACK COMMON, PREFERRED ISSUES</field>
+	<field name = "titulo">ITT ITT> TO BUY BACK COMMON, PREFERRED ISSUES</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">ITT Corp said its board authorized the
+	<field name = "content">ITT Corp said its board authorized the
 repurchase of up to 10 mln shares of its common and preferred
 stock as market conditions warrant.
     The company said the repurchased shares will be held as

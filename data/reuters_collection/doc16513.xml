@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f1991reute
-u f BC-AMEX-STARTS-TRADING-A   04-13 0036</field>
-	<field name = "TITLE">AMEX STARTS TRADING AMERICAN BUSINESSPHONES AB></field>
+	<field name = "titulo">AMEX STARTS TRADING AMERICAN BUSINESSPHONES AB></field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">The American Stock Exchange> said it
+	<field name = "content">The American Stock Exchange> said it
 has started trading American Businessphones Inc's common
 shares, which had traded on the NASDAQ system.
  Reuter</field>

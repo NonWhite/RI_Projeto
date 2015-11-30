@@ -4,12 +4,9 @@
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">lyng</field>
-	<field name = "UNKNOWN">C G L
-f1532reute
-u f BC-LYNG-DEFENDS-U.S.-MEA   04-02 0136</field>
-	<field name = "TITLE">LYNG DEFENDS U.S. MEAT INSPECTION SYSTEM</field>
+	<field name = "titulo">LYNG DEFENDS U.S. MEAT INSPECTION SYSTEM</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">U.S. Agriculture Secretary Richard
+	<field name = "content">U.S. Agriculture Secretary Richard
 Lyng, reacting to recent criticism of U.S. meat inspection,
 defended the program saying the United States has the best
 inspection system in the world.

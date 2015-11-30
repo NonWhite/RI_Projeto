@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2435reute
-d f BC-DEVON-DIN>-REPORTS-I   03-31 0108</field>
-	<field name = "TITLE">DEVON DIN> REPORTS INCREASE IN RESERVES</field>
+	<field name = "titulo">DEVON DIN> REPORTS INCREASE IN RESERVES</field>
 	<field name = "DATELINE">OKLAHOMA CITY, March 31 -</field>
-	<field name = "BODY">Devon Resource Investors said as
+	<field name = "content">Devon Resource Investors said as
 of January one, its estimated proven reserves increased
 by 443,000 net equivalent barrels to 32.4 billion cubic feet of
 natural gas and 660,000 barrels of oil, compared with 29.5 bcf

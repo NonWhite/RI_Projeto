@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 17:02:52.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0146
-reute
-d f BC-TEXAS-AIR-TEX>-UNIT   03-02 0114</field>
-	<field name = "TITLE">TEXAS AIR TEX> UNIT TO BEGIN NEW SERVICE</field>
+	<field name = "titulo">TEXAS AIR TEX> UNIT TO BEGIN NEW SERVICE</field>
 	<field name = "DATELINE">MIAMI, March 2 -</field>
-	<field name = "BODY">Texas Air Corp's Eastern Airlines said it
+	<field name = "content">Texas Air Corp's Eastern Airlines said it
 will offer low fare, night-time service from Chicago's O'Hare
 International Airport to 18 U.S. cities.
     It had previously offered similar service out of Houston.

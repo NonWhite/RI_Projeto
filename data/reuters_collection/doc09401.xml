@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 12:10:38.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1550reute
-r f BC-GREENWOOD-RESOURCES-S   03-25 0096</field>
-	<field name = "TITLE">GREENWOOD RESOURCES SAYS BANKS COULD FORECLOSE</field>
+	<field name = "titulo">GREENWOOD RESOURCES SAYS BANKS COULD FORECLOSE</field>
 	<field name = "DATELINE">ENGLEWOOD, Colo., March 25 -</field>
-	<field name = "BODY">Greenwood Resources Inc> 
+	<field name = "content">Greenwood Resources Inc> 
 said if it is unsuccessful in gaining shareholder approval for
 a debt refinancing with Colorado National Bankshares Inc
 COLC>, the bank will have the right to foreclose on

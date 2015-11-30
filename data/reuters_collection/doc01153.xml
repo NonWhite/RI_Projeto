@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0003reute
-u f BC-SWISS-MONEY-MARKET-PA   03-03 0074</field>
-	<field name = "TITLE">SWISS MONEY MARKET PAPER YIELDS 3.286 PCT</field>
+	<field name = "titulo">SWISS MONEY MARKET PAPER YIELDS 3.286 PCT</field>
 	<field name = "DATELINE">ZURICH, March 3 -</field>
-	<field name = "BODY">The Swiss Federal Government's new series
+	<field name = "content">The Swiss Federal Government's new series
 of six-month money market certificates raised 177.5 mln Swiss
 francs at an issue price of 98.401 pct to give an average
 annual yield of 3.286 pct, the National Bank said.

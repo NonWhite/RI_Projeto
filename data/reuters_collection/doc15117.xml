@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 12:05:02.81</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1601reute
-s f BC-RHODES-INC-RHD>-DECL   04-08 0023</field>
-	<field name = "TITLE">RHODES INC RHD> DECLARES DIVIDEND</field>
+	<field name = "titulo">RHODES INC RHD> DECLARES DIVIDEND</field>
 	<field name = "DATELINE">ATLANTA, Ga., April 8 -</field>
-	<field name = "BODY">Qtly div nine cts vs nine cts prior
+	<field name = "content">Qtly div nine cts vs nine cts prior
     Pay July 15
     Record June 15
  Reuter</field>

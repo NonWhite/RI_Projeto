@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 00:55:57.87</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">G C
-f0108reute
-u f BC-BANGLADESH-PORT-WORKE   03-12 0089</field>
-	<field name = "TITLE">BANGLADESH PORT WORKERS END STRIKE</field>
+	<field name = "titulo">BANGLADESH PORT WORKERS END STRIKE</field>
 	<field name = "DATELINE">CHITTAGONG, March 12 -</field>
-	<field name = "BODY">Cargo handling resumed at
+	<field name = "content">Cargo handling resumed at
 Bangladesh's Chittagong port today after 7,000 workers ended
 their three day walk-out triggered by a pay dispute, port
 officials said.

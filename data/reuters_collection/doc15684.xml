@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:57:39.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1487reute
-d f BC-WALL-ST.-SCANDAL-SAID   04-09 0101</field>
-	<field name = "TITLE">WALL ST. SCANDAL SAID TO REFLECT REAGAN ETHIC</field>
+	<field name = "titulo">WALL ST. SCANDAL SAID TO REFLECT REAGAN ETHIC</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">A key U.S. lawmaker in the securities
+	<field name = "content">A key U.S. lawmaker in the securities
 field said the insider trading scandal gripping Wall Street
 reflects the attitude of the Reagan administration.
     "They don't ask the question, 'Is it right or is it wrong?'

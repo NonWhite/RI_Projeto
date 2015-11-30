@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">thailand</field>
 	<field name = "PEOPLE">singhasaneh</field>
-	<field name = "UNKNOWN">RM
-f0009reute
-u f BC-KRUNG-THAI-BANK-TO-TA   03-20 0099</field>
-	<field name = "TITLE">KRUNG THAI BANK TO TAKE OVER SAYAM BANK</field>
+	<field name = "titulo">KRUNG THAI BANK TO TAKE OVER SAYAM BANK</field>
 	<field name = "DATELINE">BANGKOK, March 20 -</field>
-	<field name = "BODY">The state-owned Krung Thai Bank Ltd
+	<field name = "content">The state-owned Krung Thai Bank Ltd
 will start taking over state-owned Sayam Bank Ltd and complete
 the process in a year, Finance Minister Suthee Singhasaneh told
 a press conference.

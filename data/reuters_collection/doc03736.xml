@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0667reute
-u f BC-CHINA-BUYS-U.S.-HARD   03-11 0075</field>
-	<field name = "TITLE">CHINA BUYS U.S. HARD AND SOFT WHEAT</field>
+	<field name = "titulo">CHINA BUYS U.S. HARD AND SOFT WHEAT</field>
 	<field name = "DATELINE">CHICAGO, March 11 -</field>
-	<field name = "BODY">Private exporters said China bought a
+	<field name = "content">Private exporters said China bought a
 total of 550,000 tonnes of U.S. wheat under the export
 enhancement program, with final confirmation by the U.S.
 Department of Agriculture of the subsidies still awaited.

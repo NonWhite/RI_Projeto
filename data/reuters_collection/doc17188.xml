@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 19:04:56.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2768reute
-u f BC-AM-INT'L-AM>-SAYS-3R   04-24 0104</field>
-	<field name = "TITLE">AM INT'L AM> SAYS 3RD QTR MAY NOT TOP BREAKEVEN</field>
+	<field name = "titulo">AM INT'L AM> SAYS 3RD QTR MAY NOT TOP BREAKEVEN</field>
 	<field name = "DATELINE">CHICAGO, April 24 -</field>
-	<field name = "BODY">AM International Inc said its third
+	<field name = "content">AM International Inc said its third
 quarter net income may not exceed the breakeven level.
     However, the company said its fourth quarter operating
 profits are expected to be the largest of this year, and added

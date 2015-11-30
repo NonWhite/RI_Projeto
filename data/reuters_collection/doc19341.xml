@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:18:34.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1951reute
-u f BC-GYNEX-GYNXU.O>-IN-DE   06-19 0066</field>
-	<field name = "TITLE">GYNEX GYNXU.O> IN DEAL WITH WARNER WLA></field>
+	<field name = "titulo">GYNEX GYNXU.O> IN DEAL WITH WARNER WLA></field>
 	<field name = "DATELINE">DEERFIELD, ILL., June 19 -</field>
-	<field name = "BODY">Gynex Laboratories Inc said it
+	<field name = "content">Gynex Laboratories Inc said it
 signed an agreement under which Warner-Lambert Co's Chilcott
 Laboratories division will market Gynex's line of generic oral
 contraceptives.

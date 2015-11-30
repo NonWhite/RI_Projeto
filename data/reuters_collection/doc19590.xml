@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:07:37.14</field>
-	<field name = "UNKNOWN">C G T 
-f0841reute
-u f BC-CHIRAC-ATTACKS-EC-COM   06-29 0109</field>
-	<field name = "TITLE">CHIRAC ATTACKS EC COMMISSION BUDGET PROPOSALS</field>
+	<field name = "titulo">CHIRAC ATTACKS EC COMMISSION BUDGET PROPOSALS</field>
 	<field name = "DATELINE">PARIS, June 29 -</field>
-	<field name = "BODY">Prime Minister Jacques Chirac has attacked
+	<field name = "content">Prime Minister Jacques Chirac has attacked
 budget proposals made by the European Community's executive
 Commission, saying they ignore efforts to cut spending, and
 added that divisions over the issue would be hard to resolve at

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 07:10:38.80</field>
 	<field name = "PLACES">norway</field>
-	<field name = "UNKNOWN">RM
-f0523reute
-u f BC-NORWAY-TO-TIGHTEN-RUL   04-08 0118</field>
-	<field name = "TITLE">NORWAY TO TIGHTEN RULES FOR REGISTERING LOANS</field>
+	<field name = "titulo">NORWAY TO TIGHTEN RULES FOR REGISTERING LOANS</field>
 	<field name = "DATELINE">OSLO, April 8 -</field>
-	<field name = "BODY">Norway will from June require finance
+	<field name = "content">Norway will from June require finance
 institutions and insurance companies to report lending volume
 to the central bank once a month rather than quarterly in a bid
 to tighten domestic lending, Finance Ministry officials said.

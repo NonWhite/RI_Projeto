@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 11:09:38.03</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0482reute
-b f BC-/-FED-EXPECTED-TO-ADD   03-11 0089</field>
-	<field name = "TITLE">FED EXPECTED TO ADD RESERVES</field>
+	<field name = "titulo">FED EXPECTED TO ADD RESERVES</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">The Federal Reserve is expected to
+	<field name = "content">The Federal Reserve is expected to
 intervene in the government securities market to add temporary
 reserves via customer or system repurchase agreements,
 economists said.

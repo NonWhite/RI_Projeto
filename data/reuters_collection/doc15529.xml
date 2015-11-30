@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:38:13.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0878reute
-b f BC-TALKING-POINT/SEMICON   04-09 0103</field>
-	<field name = "TITLE">TALKING POINT/SEMICONDUCTOR BOOK TO BILL RATIO</field>
+	<field name = "titulo">TALKING POINT/SEMICONDUCTOR BOOK TO BILL RATIO</field>
 	<field name = "AUTHOR">by Janie Gabbett</field>
 	<field name = "DATELINE">LOS ANGELES, April 9 -</field>
-	<field name = "BODY">The Semiconductor Industry
+	<field name = "content">The Semiconductor Industry
 Association is expected to report the sixth straight increase
 in its three-month average book-to-bill ratio, reflecting a
 continued modest recovery in the computer chip industry,

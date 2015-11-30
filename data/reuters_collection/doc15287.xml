@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 16:01:10.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2423reute
-u f BC-GROUP-OF-24-COUNTRIES   04-08 0089</field>
-	<field name = "TITLE">GROUP OF 24 COUNTRIES CALLS FOR DEBT RELIEF</field>
+	<field name = "titulo">GROUP OF 24 COUNTRIES CALLS FOR DEBT RELIEF</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">The Group of 24 developing countries
+	<field name = "content">The Group of 24 developing countries
 said in a communique that some kind of debt relief is necessary
 and called for "a new attitude" on the part of the banks.
     The communique, released in conjunction with the semiannual

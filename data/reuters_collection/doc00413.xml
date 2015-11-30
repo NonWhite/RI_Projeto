@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 09:37:12.60</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0516
-reute
-u f BC-QUEBEC'S-CAISSE-DES-J   03-02 0110</field>
-	<field name = "TITLE">QUEBEC'S CAISSE DES JARDINS ISSUES YEN EUROBOND</field>
+	<field name = "titulo">QUEBEC'S CAISSE DES JARDINS ISSUES YEN EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">Caisse Centrale Desjardins du Quebec is
+	<field name = "content">Caisse Centrale Desjardins du Quebec is
 issuing a 10 billion yen step-up eurobond maturing on March 25,
 1992 and priced at 101-3/4 pct, joint-bookrunner Warburg
 Securities said.

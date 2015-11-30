@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0965reute
-b f BC-/USDA-CHANGES-LOW-PRO   04-13 0111</field>
-	<field name = "TITLE">USDA CHANGES LOW PROTEIN WHEAT TERMINAL PRICES</field>
+	<field name = "titulo">USDA CHANGES LOW PROTEIN WHEAT TERMINAL PRICES</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">The U.S. Agriculture Department has
+	<field name = "content">The U.S. Agriculture Department has
 lowered its ASCS terminal prices for low protein hard red
 winter and hard red spring wheat at a number of locations, a
 senior USDA official said.

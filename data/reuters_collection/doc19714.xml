@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:16:29.17</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM F 
-f1642reute
-r f AM-BRAZIL-MOTOR   06-29 0093</field>
-	<field name = "TITLE">BRAZIL MOTOR INDUSTRY SENDS 9,000 ON LEAVE</field>
+	<field name = "titulo">BRAZIL MOTOR INDUSTRY SENDS 9,000 ON LEAVE</field>
 	<field name = "DATELINE">SAO PAULO, June 29 -</field>
-	<field name = "BODY">Brazil's motor industry, facing the
+	<field name = "content">Brazil's motor industry, facing the
 worst crisis of its history, today sent thousands of workers on
 collective leave because of a sharp drop in demand.
     Company spokesmen said Autolatina, which last Friday laid

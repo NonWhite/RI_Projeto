@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:21:44.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1670reute
-d f BC-U.S.-CAR-OUTPUT-SEEN   06-29 0092</field>
-	<field name = "TITLE">U.S. CAR OUTPUT SEEN DROPPING IN 3RD QTR</field>
+	<field name = "titulo">U.S. CAR OUTPUT SEEN DROPPING IN 3RD QTR</field>
 	<field name = "DATELINE">DETROIT, June 29 -</field>
-	<field name = "BODY">U.S. car production is scheduled to drop
+	<field name = "content">U.S. car production is scheduled to drop
 by 10.4 pct to about 1.47 mln in the third quarter from last
 year's 1.63 mln as domestic automakers react to a drop in sales
 from last year's record levels, trade paper Automotive News

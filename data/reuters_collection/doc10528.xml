@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:13:37.69E F</field>
-	<field name = "UNKNOWN">f1552reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">r f BC-bramalea-ltd   03-27 0028</field>
-	<field name = "TITLE">BRAMALEA LTD> YEAR NET</field>
+	<field name = "titulo">BRAMALEA LTD> YEAR NET</field>
 	<field name = "DATELINE">TORONTO, March 27 -</field>
-	<field name = "BODY">Shr 73 cts vs 55 cts
+	<field name = "content">Shr 73 cts vs 55 cts
     Net 26.0 mln vs 17.1 mln
     Revs 673.3 mln vs 394.5 mln
     Avg shrs 29.3 mln vs 22.4 mln

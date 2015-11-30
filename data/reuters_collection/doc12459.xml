@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 06:45:42.32</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0559reute
-u f BC-DECISION-EXPECTED-ON   04-02 0105</field>
-	<field name = "TITLE">DECISION EXPECTED ON U.K ROYAL ORDNANCE SALE</field>
+	<field name = "titulo">DECISION EXPECTED ON U.K ROYAL ORDNANCE SALE</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">U.K. Defence secretary George Younger is
+	<field name = "content">U.K. Defence secretary George Younger is
 expected to announce the government's decision on the sale of
 state-owned arms manufacturer Royal Ordnance> today,
 parliamentary sources said.

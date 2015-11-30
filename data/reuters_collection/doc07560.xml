@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 04:56:20.68</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f0240reute
-r f BC-FINLAND-CONSIDERS-ABO   03-20 0095</field>
-	<field name = "TITLE">FINLAND CONSIDERS ABOLISHING PRICE CONTROLS</field>
+	<field name = "titulo">FINLAND CONSIDERS ABOLISHING PRICE CONTROLS</field>
 	<field name = "DATELINE">HELSINKI, March 20 -</field>
-	<field name = "BODY">An official proposal that Finland
+	<field name = "content">An official proposal that Finland
 scrap price controls and replace them with a system aimed at
 promoting competition is expected to go to parliament later
 this year, officials said.

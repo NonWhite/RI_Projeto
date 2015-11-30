@@ -7,13 +7,10 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">C G
-f9626reute
-u f BC-ARGENTINE-MAIZE,-SOYB   03-18 0103</field>
-	<field name = "TITLE">ARGENTINE MAIZE, SOYBEAN FORECASTS FALL</field>
+	<field name = "titulo">ARGENTINE MAIZE, SOYBEAN FORECASTS FALL</field>
 	<field name = "AUTHOR">By Manuel Villanueva</field>
 	<field name = "DATELINE">BUENOS AIRES, March 18 -</field>
-	<field name = "BODY">Argentine grain growers reduced
+	<field name = "content">Argentine grain growers reduced
 their estimates for maize and soybean production in the current
 harvest in the week to yesterday, trade sources said.
     Soybean production for 1986/87 is now estimated to reach

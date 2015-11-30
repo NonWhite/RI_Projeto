@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 13:24:15.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0097reute
-d f BC-NATIONWIDE-CELLULAR-   03-11 0100</field>
-	<field name = "TITLE">NATIONWIDE CELLULAR NCEL> HAS BUY OPTION</field>
+	<field name = "titulo">NATIONWIDE CELLULAR NCEL> HAS BUY OPTION</field>
 	<field name = "DATELINE">VALLEY STREAM, N.Y., March 11 -</field>
-	<field name = "BODY">Nationwide Cellular Service
+	<field name = "content">Nationwide Cellular Service
 Inc said it has acquired an option to purchase rights to about
 4,000 subscribers from Americom L.A. Systems, a Los Angeles
 reseller of mobile telephone service, for 2,750,000 dlrs.

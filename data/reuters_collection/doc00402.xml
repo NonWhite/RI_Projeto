@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 09:28:54.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F RM
-f0484
-reute
-r f BC-federal-industries   03-02 0079</field>
-	<field name = "TITLE">FEDERAL INDUSTRIES SETS COMMERCIAL PAPER ISSUE</field>
+	<field name = "titulo">FEDERAL INDUSTRIES SETS COMMERCIAL PAPER ISSUE</field>
 	<field name = "DATELINE">WINNIPEG, Manitoba, March 2 -</field>
-	<field name = "BODY">Federal Industries Ltd> said
+	<field name = "content">Federal Industries Ltd> said
 it introduced a commercial paper program with an authorization
 of 440 mln dlrs through agents Bank of Montreal>, Dominion
 Securities Inc> and Wood Gundy Inc.

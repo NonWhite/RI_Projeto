@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 16:02:01.49</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">RM A 
-f2257reute
-r f BC-MEXICO-REJECTS-CALLS   06-19 0110</field>
-	<field name = "TITLE">MEXICO REJECTS CALLS TO REPRIVATISE BANKS</field>
+	<field name = "titulo">MEXICO REJECTS CALLS TO REPRIVATISE BANKS</field>
 	<field name = "DATELINE">MEXICO CITY, June 19 -</field>
-	<field name = "BODY">Senior officials from government and
+	<field name = "content">Senior officials from government and
 the ruling Revolutionary Institutional Party (PRI) rejected
 business sector calls this week to reprivatise the 26 Mexican
 banks, nationalised five years ago.

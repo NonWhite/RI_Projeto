@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:11:48.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1498reute
-d f BC-ERICSSON-ERICY>-GETS   04-07 0076</field>
-	<field name = "TITLE">ERICSSON ERICY> GETS U S WEST USW> ORDER</field>
+	<field name = "titulo">ERICSSON ERICY> GETS U S WEST USW> ORDER</field>
 	<field name = "DATELINE">RICHARDSON, Texas, April 7 -</field>
-	<field name = "BODY">L.M. Ericsson Telephone Co
+	<field name = "content">L.M. Ericsson Telephone Co
 said it has received a contract to provide U S West Inc with
 AXE digital central office switching equipment for use in
 Idaho, replacing 50 older electro-mechanical switches.

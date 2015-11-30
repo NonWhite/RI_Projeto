@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 07:32:49.78</field>
 	<field name = "TOPICS">lei</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">A
-f0658reute
-h f BC-AUSTRALIA-LEADING-IND   03-11 0113</field>
-	<field name = "TITLE">AUSTRALIA LEADING INDEX CONTINUES RISE IN DECEMBER</field>
+	<field name = "titulo">AUSTRALIA LEADING INDEX CONTINUES RISE IN DECEMBER</field>
 	<field name = "DATELINE">MELBOURNE, March 11 -</field>
-	<field name = "BODY">Westpac Banking Corp and the
+	<field name = "content">Westpac Banking Corp and the
 Melbourne University Institute of Applied Economic and Social
 Research said their leading index of Australian economic
 activity rose for the ninth successive month in December.

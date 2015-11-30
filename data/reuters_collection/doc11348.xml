@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 10:21:31.81</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1211reute
-b f BC-keycorp-key>-agrees   03-31 0056</field>
-	<field name = "TITLE">KEYCORP KEY> AGREES TO ACQUIRE UTAH BANK</field>
+	<field name = "titulo">KEYCORP KEY> AGREES TO ACQUIRE UTAH BANK</field>
 	<field name = "DATELINE">ALBANY, N.Y., March 31 -</field>
-	<field name = "BODY">Keycorp said it has signed a
+	<field name = "content">Keycorp said it has signed a
 definitive agreement to acquire Commercial Security Bancorp
 CSEC> by exchanging Keycorp common valued at 63 dlrs for each
 Commercial Securities share.

@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 20:38:42.50</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f9832reute
-b f BC-AUSTRALIAN-GDP-RISES   03-18 0069</field>
-	<field name = "TITLE">AUSTRALIAN GDP RISES 1.1 PCT IN FOURTH QUARTER</field>
+	<field name = "titulo">AUSTRALIAN GDP RISES 1.1 PCT IN FOURTH QUARTER</field>
 	<field name = "DATELINE">CANBERRA, March 19 -</field>
-	<field name = "BODY">Australia's seasonally adjusted real
+	<field name = "content">Australia's seasonally adjusted real
 gross domestic product (GDP) rose 1.1 pct in the fourth quarter
 of 1986 after rising 0.2 pct in the third quarter, the
 Statistics Bureau said.

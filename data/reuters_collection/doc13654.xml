@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:40:24.48</field>
-	<field name = "UNKNOWN">L
-f0649reute
-u f BC-KANSAS-CITY-HOGS-SEEN   04-07 0035</field>
-	<field name = "TITLE">KANSAS CITY HOGS SEEN STEADY - PRIVATE SOURCES</field>
+	<field name = "titulo">KANSAS CITY HOGS SEEN STEADY - PRIVATE SOURCES</field>
 	<field name = "DATELINE">Kansas City, April 7 - Sunny/46 degrees -</field>
-	<field name = "BODY">Hog prices are
+	<field name = "content">Hog prices are
 expected steady on estimated receipts of 500 head, private
 sources said. Top seen at 50.00 dlrs per cwt.
  Reuter</field>

@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:40:58.53F A</field>
-	<field name = "UNKNOWN">f0887reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-METROPOLITAN-FINANCIA   03-27 0094</field>
-	<field name = "TITLE">METROPOLITAN FINANCIALMPC> TO ACQUIRE COMPANY</field>
+	<field name = "titulo">METROPOLITAN FINANCIALMPC> TO ACQUIRE COMPANY</field>
 	<field name = "DATELINE">FARGO, N.D., March 27 -</field>
-	<field name = "BODY">Metropolitan Financial Corp said it
+	<field name = "content">Metropolitan Financial Corp said it
 signed an agreement to acquire the stock of closely held
 Rothschild Financial Corp, St. Paul, Minn.
     Details of the purchase were withheld.

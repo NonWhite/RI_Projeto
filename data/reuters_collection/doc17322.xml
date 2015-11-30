@@ -4,12 +4,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1131reute
-d f BC-CONAGRA-TAKES-OVER-WE   04-27 0093</field>
-	<field name = "TITLE">CONAGRA TAKES OVER WEST GERMAN TRADE HOUSE</field>
+	<field name = "titulo">CONAGRA TAKES OVER WEST GERMAN TRADE HOUSE</field>
 	<field name = "DATELINE">BREMEN, April 27 -</field>
-	<field name = "BODY">One of West Germany's major feedstuff
+	<field name = "content">One of West Germany's major feedstuff
 and grain traders, Kurt A. Becher GmbH and Co KG, said ConAgra
 Inc of the U.S. Was taking it over, effective June 1.
     Becher said ConAgra, which already owns 50 pct of the trade

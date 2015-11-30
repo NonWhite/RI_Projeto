@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 13:14:23.59</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f0840reute
-b f BC-/IADB-CHIEF-WARNS-OF   03-13 0106</field>
-	<field name = "TITLE">IADB CHIEF WARNS OF EVENTUAL LATIN DEFAULT</field>
+	<field name = "titulo">IADB CHIEF WARNS OF EVENTUAL LATIN DEFAULT</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">Antonio Ortiz Mena, president of the
+	<field name = "content">Antonio Ortiz Mena, president of the
 Inter-American Development Bank, warned that if Latin countries
 were unable to speed up their economic growth, then in the long
 run there would be a default.

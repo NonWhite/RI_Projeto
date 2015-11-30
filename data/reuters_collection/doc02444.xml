@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:19:35.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">L
-f0771reute
-r f BC-NPPC-ELECTS-NEW-PRESI   03-05 0112</field>
-	<field name = "TITLE">NPPC ELECTS NEW PRESIDENT</field>
+	<field name = "titulo">NPPC ELECTS NEW PRESIDENT</field>
 	<field name = "DATELINE">Chicago, March 5 -</field>
-	<field name = "BODY">Delegates at the American Pork Congress
+	<field name = "content">Delegates at the American Pork Congress
 in Indianapolis elected Tom Miller of Maricopa, Ariz as the new
 president of the National Pork Producers Council (NPPC).
     Miller, who was vice president of the NPPC the past two

@@ -3,13 +3,10 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">ireland</field>
 	<field name = "PEOPLE">macsharry</field>
-	<field name = "UNKNOWN">RM
-f0611reute
-r f BC-LOWER-INTEREST-RATES   04-01 0105</field>
-	<field name = "TITLE">LOWER INTEREST RATES SEEN FOLLOWING IRISH BUDGET</field>
+	<field name = "titulo">LOWER INTEREST RATES SEEN FOLLOWING IRISH BUDGET</field>
 	<field name = "AUTHOR">By Paul Majendie, Reuters</field>
 	<field name = "DATELINE">DUBLIN, April 1 -</field>
-	<field name = "BODY">Financial markets welcomed public
+	<field name = "content">Financial markets welcomed public
 spending cuts announced by Ireland's new minority government in
 its budget, saying the move would lead to lower interest rates.
     Finance Minister Ray MacSharry, making cuts across the

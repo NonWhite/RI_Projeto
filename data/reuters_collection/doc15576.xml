@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 10:39:23.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1117reute
-r f BC-COMMONWEALTH-EDISON-   04-09 0052</field>
-	<field name = "TITLE">COMMONWEALTH EDISON CWE> FILES DEBT OFFER</field>
+	<field name = "titulo">COMMONWEALTH EDISON CWE> FILES DEBT OFFER</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Commonwealth Edison Co filed with the
+	<field name = "content">Commonwealth Edison Co filed with the
 Securities and Exchange Commission for the sale of 375 mln dlrs
 in first mortgage bonds.
     It said the proceedings would be used to discharge or

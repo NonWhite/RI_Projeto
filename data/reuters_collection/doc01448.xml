@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 09:56:01.20</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0253reute
-d f BC-MOLECULAR-GENETICS-IN   03-04 0085</field>
-	<field name = "TITLE">MOLECULAR GENETICS INC MOGN> 4TH QTR LOSS</field>
+	<field name = "titulo">MOLECULAR GENETICS INC MOGN> 4TH QTR LOSS</field>
 	<field name = "DATELINE">MINNETONKA, Minn., March 4 -</field>
-	<field name = "BODY">Oper shr loss 22 cts vs loss 13 cts
+	<field name = "content">Oper shr loss 22 cts vs loss 13 cts
     Oper net loss 1,712,916 vs loss 769,539
     Revs 2,292,972 vs 2,157,895
     Avg shrs 7,961,602 vs 6,200,293

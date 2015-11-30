@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C
-f1971reute
-r f BC-EC-OFFICIAL-WARNS-U.S   06-15 0106</field>
-	<field name = "TITLE">EC OFFICIAL WARNS U.S. ON UNILATERAL TRADE MOVES</field>
+	<field name = "titulo">EC OFFICIAL WARNS U.S. ON UNILATERAL TRADE MOVES</field>
 	<field name = "DATELINE">WASHINGTON, June 15 -</field>
-	<field name = "BODY">Roy Denman, the European Community
+	<field name = "content">Roy Denman, the European Community
 representative in Washington, warned the United States against
 setting a rule that trading partners running a surplus should
 be "beaten over the head" for not removing trade barriers.

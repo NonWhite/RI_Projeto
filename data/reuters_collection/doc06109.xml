@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 13:06:09.41</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f5876reute
-r f BC-BAYER-CONFIRMS-IT-REC   03-17 0116</field>
-	<field name = "TITLE">BAYER CONFIRMS IT RECEIVED AIDS DAMAGE CLAIMS</field>
+	<field name = "titulo">BAYER CONFIRMS IT RECEIVED AIDS DAMAGE CLAIMS</field>
 	<field name = "DATELINE">LEVERKUSEN, West Germany, March 17 -</field>
-	<field name = "BODY">West German chemical
+	<field name = "content">West German chemical
 group Bayer AG BAYG.F> said it had received claims for damages
 from haemophilics who allege they were infected with AIDS
 through a blood plasma produced by a Bayer subsidiary.

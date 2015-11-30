@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 11:23:36.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1402reute
-u f BC-PAINEWEBBER-ANALYST-S   06-01 0114</field>
-	<field name = "TITLE">PAINEWEBBER ANALYST SEES RECORD AIRLINE PROFITS</field>
+	<field name = "titulo">PAINEWEBBER ANALYST SEES RECORD AIRLINE PROFITS</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">PaineWebber Group Inc PWJ> analyst John
+	<field name = "content">PaineWebber Group Inc PWJ> analyst John
 Pincavage says most airline stocks are undervalued in relation
 to record industry earnings expected in 1987.
     Noting that the airlines as a group earned 85 mln dlrs in

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:42:03.69</field>
-	<field name = "UNKNOWN">C
-f1637reute
-r f BC-BIFFEX-FALLS-FURTHER   04-07 0111</field>
-	<field name = "TITLE">BIFFEX FALLS FURTHER BY CLOSE</field>
+	<field name = "titulo">BIFFEX FALLS FURTHER BY CLOSE</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Dry cargo futures on BIFFEX extended
+	<field name = "content">Dry cargo futures on BIFFEX extended
 early losses during the afternoon session to close 30 to 52
 points lower because of uncertainty as to where the physical
 market will go in the near term, dealers said.

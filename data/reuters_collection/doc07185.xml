@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 11:27:09.92</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nymex</field>
-	<field name = "UNKNOWN">C G T M
-f1318reute
-r f BC-NEW-NYMEX-CHAIRMAN-BR   03-19 0116</field>
-	<field name = "TITLE">NEW NYMEX CHAIRMAN BRADT SETS MERGER PRIORITIES</field>
+	<field name = "titulo">NEW NYMEX CHAIRMAN BRADT SETS MERGER PRIORITIES</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">William Bradt, new chairman of the New
+	<field name = "content">William Bradt, new chairman of the New
 York Mercantile Exchange, NYMEX, said his priorities are to
 merge the exchange with other futures exchanges at the World
 Trade Center and to reallocate space on the crowded NYMEX

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 09:34:18.67</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0847reute
-r f BC-rayrock   03-20 0089</field>
-	<field name = "TITLE">RAYROCK TO ISSUE 24 MLN DLRS OF NOTES</field>
+	<field name = "titulo">RAYROCK TO ISSUE 24 MLN DLRS OF NOTES</field>
 	<field name = "DATELINE">TORONTO, March 20 -</field>
-	<field name = "BODY">Rayrock Yellowknife Resources Inc>
+	<field name = "content">Rayrock Yellowknife Resources Inc>
 said it plans to sell 24 mln dlrs of convertible subordinated
 notes by way of a private placement through First Marathon
 Securities Ltd.

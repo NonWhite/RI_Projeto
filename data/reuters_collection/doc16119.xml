@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 03:11:28.04</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uae</field>
-	<field name = "UNKNOWN">RM
-f0108reute
-u f BC-UAE-CENTRAL-BANK-CD-Y   04-13 0061</field>
-	<field name = "TITLE">UAE CENTRAL BANK CD YIELDS RISE</field>
+	<field name = "titulo">UAE CENTRAL BANK CD YIELDS RISE</field>
 	<field name = "DATELINE">ABU DHABI, April 13 -</field>
-	<field name = "BODY">Yields on certificates of deposit
+	<field name = "content">Yields on certificates of deposit
 (CD) offered by the United Arab Emirates Central Bank were
 higher than last Monday's offering, the bank said.
     The one-month CD rose 1/4 point to 6-3/8 pct, while the

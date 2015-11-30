@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 12:57:40.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0196reute
-r f BC-SUN-MICROSYSTEMS-SUN   03-03 0111</field>
-	<field name = "TITLE">SUN MICROSYSTEMS SUNW> SETS PACT WITH PHILIPS</field>
+	<field name = "titulo">SUN MICROSYSTEMS SUNW> SETS PACT WITH PHILIPS</field>
 	<field name = "DATELINE">SEATTLE, March 3 -</field>
-	<field name = "BODY">Sun Microsystems Inc said it has agreed
+	<field name = "content">Sun Microsystems Inc said it has agreed
 to cooperate with Philips Corporate Group Home Interactive
 Systems, a Dutch electronics firm, to develop a multi-media
 authoring computer system.

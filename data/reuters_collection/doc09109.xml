@@ -2,13 +2,10 @@
 	<field name = "DATE">24-MAR-1987 19:01:07.62</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2818reute
-h f BC-MERGERS,-PUBLIC-OFFER   03-24 0071</field>
-	<field name = "TITLE">MERGERS, PUBLIC OFFERS SEEN AMONG CAR DEALERS</field>
+	<field name = "titulo">MERGERS, PUBLIC OFFERS SEEN AMONG CAR DEALERS</field>
 	<field name = "AUTHOR">By Scott Williams, Reuters</field>
 	<field name = "DATELINE">Detroit, March 24 -</field>
-	<field name = "BODY">Automobile dealerships have become
+	<field name = "content">Automobile dealerships have become
 large, multi-store operations, and the largest sell more than 1
 billion dlrs a year worth of vehicles a year.
     Around the auto industry there is talk of mergers and

@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:41:54.16A</field>
-	<field name = "UNKNOWN">f0572reute</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">r f BC-WALT-DISNEY-INCREASES   03-27 0057</field>
-	<field name = "TITLE">WALT DISNEY INCREASES EUROBOND TO 75 MLN AUST DLRS</field>
+	<field name = "titulo">WALT DISNEY INCREASES EUROBOND TO 75 MLN AUST DLRS</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">The amount of a eurobond issued
+	<field name = "content">The amount of a eurobond issued
 yesterday by Walt Disney Co Ltd has been raised to 75 mln
 Australian dlrs from an original 60 mln, lead manager Warburg
 Securities said.

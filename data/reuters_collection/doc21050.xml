@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 14:52:34.06</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2675reute
-d f BC-SUPERMARKETS-GENERAL   10-19 0113</field>
-	<field name = "TITLE">SUPERMARKETS GENERAL SGL> SELLS 11 DRUG STORES</field>
+	<field name = "titulo">SUPERMARKETS GENERAL SGL> SELLS 11 DRUG STORES</field>
 	<field name = "DATELINE">CARTERET, N.J., Oct 19 -</field>
-	<field name = "BODY">Supermarkets General Corp said it
+	<field name = "content">Supermarkets General Corp said it
 agreed to sell 11 super drug stores to F and M Distributors>.
     The nine existing and two unopened stores are located in
 Maryland, Virginia and upstate New York and are operated under

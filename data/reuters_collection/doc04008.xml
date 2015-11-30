@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 18:22:58.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0886reute
-r f BC-FORD-MOTOR-F>-DISTRI   03-11 0052</field>
-	<field name = "TITLE">FORD MOTOR F> DISTRIBUTES PROFIT SHARING</field>
+	<field name = "titulo">FORD MOTOR F> DISTRIBUTES PROFIT SHARING</field>
 	<field name = "DATELINE">DALLAS, March 11 -</field>
-	<field name = "BODY">Ford Motor COr said that profit-sharing
+	<field name = "content">Ford Motor COr said that profit-sharing
 checks were distributed to employees in its U.S. facilities.
     About 371 mln dlrs was distributed to 160,253 emplyees. The
 average payment per employee was more than 2,100 dlrs compared

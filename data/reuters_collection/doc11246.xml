@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 07:37:49.20</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f0685reute
-u f BC-SWISSAIR-TO-BUY-PRATT   03-31 0107</field>
-	<field name = "TITLE">SWISSAIR TO BUY PRATT AND WHITNEY ENGINES</field>
+	<field name = "titulo">SWISSAIR TO BUY PRATT AND WHITNEY ENGINES</field>
 	<field name = "DATELINE">ZURICH, March 31 -</field>
-	<field name = "BODY">Swissair SWSZ.Z> said it will buy Pratt
+	<field name = "content">Swissair SWSZ.Z> said it will buy Pratt
 and Whitney PW 4000 engines to power six newly-ordered
 McDonnell Douglas MD-11 long haul jets due to enter service
 from 1990.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 03:48:03.30</field>
 	<field name = "PLACES">lebanon</field>
-	<field name = "UNKNOWN">RM 
-f0195reute
-b f BC-LEBANESE-BANK-STAFF-S   06-29 0100</field>
-	<field name = "TITLE">LEBANESE BANK STAFF STRIKE OVER MISSING COLLEAGUES</field>
+	<field name = "titulo">LEBANESE BANK STAFF STRIKE OVER MISSING COLLEAGUES</field>
 	<field name = "DATELINE">BEIRUT, June 29 -</field>
-	<field name = "BODY">Lebanese bank employees went on a one-day
+	<field name = "content">Lebanese bank employees went on a one-day
 strike to draw attention to the fate of three Central Bank
 colleagues missing, believed kidnapped, since 1985.
     The strike, which shut the foreign exchange market and

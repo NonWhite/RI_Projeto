@@ -7,13 +7,10 @@
 	<field name = "EXCHANGES">cbt</field>
 	<field name = "EXCHANGES">liffe</field>
 	<field name = "EXCHANGES">simex</field>
-	<field name = "UNKNOWN">A
-f0143reute
-h f BC-ASIA-GENERALLY-WELCOM   04-17 0102</field>
-	<field name = "TITLE">ASIA GENERALLY WELCOMES U.S. NIGHT FUTURES TRADING</field>
+	<field name = "titulo">ASIA GENERALLY WELCOMES U.S. NIGHT FUTURES TRADING</field>
 	<field name = "AUTHOR">By John Parker, Reuters</field>
 	<field name = "DATELINE">HONG KONG, April 17 -</field>
-	<field name = "BODY">Traders in financial centers in Asia
+	<field name = "content">Traders in financial centers in Asia
 generally welcomed the first U.S. Night session of futures
 trading which starts in Chicago on April 30.
     Traders in Japan, Sydney and Hong Kong said they expected

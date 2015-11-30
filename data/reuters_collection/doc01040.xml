@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 10:12:44.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0456reute
-r f BC-KODAK-EK>-HAS-NEW-DA   03-03 0068</field>
-	<field name = "TITLE">KODAK EK> HAS NEW DATA STORAGE, USAGE SYSTEMS</field>
+	<field name = "titulo">KODAK EK> HAS NEW DATA STORAGE, USAGE SYSTEMS</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">Eastman Kodak Co said it is introducing
+	<field name = "content">Eastman Kodak Co said it is introducing
 four information technology systems that will be led by today's
 highest-capacity system for data storage and retrieval.
     The company said information management products will be

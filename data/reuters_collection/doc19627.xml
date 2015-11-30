@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 10:22:27.00</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F 
-f1107reute
-u f BC-ALLIS-CHALMERS-AH>-L   06-29 0063</field>
-	<field name = "TITLE">ALLIS-CHALMERS AH> LISTING EXAMINED BY NYSE</field>
+	<field name = "titulo">ALLIS-CHALMERS AH> LISTING EXAMINED BY NYSE</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">The New York Stock Exhcange said it is
+	<field name = "content">The New York Stock Exhcange said it is
 reviewing the eligiblity for continued listing of the common 
 stock and 5.875 dlrs cumulative convertible preferred stock,
 series C, of Allis-Chalmers Corp in view of its announcement

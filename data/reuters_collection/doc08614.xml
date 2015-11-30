@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 03:46:37.33</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0182reute
-u f BC-TMOC-TELLS-SHAREHOLDE   03-24 0107</field>
-	<field name = "TITLE">TMOC TELLS SHAREHOLDERS NOT TO ACCEPT SANTOS BID</field>
+	<field name = "titulo">TMOC TELLS SHAREHOLDERS NOT TO ACCEPT SANTOS BID</field>
 	<field name = "DATELINE">BRISBANE, March 24 -</field>
-	<field name = "BODY">TMOC Resources Ltd> told shareholders
+	<field name = "content">TMOC Resources Ltd> told shareholders
 not to accept Santos Ltd's STOS.S> 4.00 dlr a share takeover
 bid pending advice from Macquarie Hill Samuel Corporate
 Services, its corporate advisor.

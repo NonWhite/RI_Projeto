@@ -4,12 +4,9 @@
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C G L M T
-f0079reute
-d f BC-GATT-SETS-UP-DISPUTE   03-04 0133</field>
-	<field name = "TITLE">GATT SETS UP PANEL ON CANADIAN HERRING, SALMON</field>
+	<field name = "titulo">GATT SETS UP PANEL ON CANADIAN HERRING, SALMON</field>
 	<field name = "DATELINE">GENEVA, March 4 -</field>
-	<field name = "BODY">The ruling GATT Council today set up a
+	<field name = "content">The ruling GATT Council today set up a
 formal dispute panel to examine a U.S. complaint that a
 Canadian law prohibiting export of unprocessed herring and
 salmon was discriminatory.

@@ -4,13 +4,10 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">kiechle</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T
-f2086reute
-r f BC-GERMANY-PLANS-TO-RUSH   06-15 0091</field>
-	<field name = "TITLE">GERMANY PLANS TO RUSH SPECIAL CREDITS TO FARMERS</field>
+	<field name = "titulo">GERMANY PLANS TO RUSH SPECIAL CREDITS TO FARMERS</field>
 	<field name = "AUTHOR">By Felix Dearden, Reuters</field>
 	<field name = "DATELINE">BONN, June 15 -</field>
-	<field name = "BODY">Bonn is expected to rush through
+	<field name = "content">Bonn is expected to rush through
 legislation this month creating special credits to protect West
 German farmers from a proposed European Community, EC, payments
 freeze, government sources said.

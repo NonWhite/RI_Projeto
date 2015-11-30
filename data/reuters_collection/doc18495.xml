@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">austria</field>
-	<field name = "UNKNOWN">RM 
-f2285reute
-u f BC-AUSTRIAN-CURRENT-SURP   06-18 0111</field>
-	<field name = "TITLE">AUSTRIAN CURRENT SURPLUS GROWS IN FOUR MONTHS</field>
+	<field name = "titulo">AUSTRIAN CURRENT SURPLUS GROWS IN FOUR MONTHS</field>
 	<field name = "DATELINE">VIENNA, June 18 -</field>
-	<field name = "BODY">Austria's current account surplus grew to
+	<field name = "content">Austria's current account surplus grew to
 11.0 billion schillings in the first four months this year from
 8.2 billion in the same period last year, the National Bank
 said.

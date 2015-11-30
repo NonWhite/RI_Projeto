@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 11:31:37.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1547reute
-r f BC-SEACOAST-SAVINGS-SSB   03-31 0041</field>
-	<field name = "TITLE">SEACOAST SAVINGS SSBA> INITIAL OFFER UNDERWAY</field>
+	<field name = "titulo">SEACOAST SAVINGS SSBA> INITIAL OFFER UNDERWAY</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Underwriter Merrill Lynch and Co Inc
+	<field name = "content">Underwriter Merrill Lynch and Co Inc
 MER> said an initial public offering of 1,216,700 common
 shares of Seacoast Savings Bank of New Hampshire is underway at
 10 dlrs per share.

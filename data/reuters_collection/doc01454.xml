@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 10:02:58.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0279reute
-b f BC-/AMERICAN-MOTORS-AMO   03-04 0068</field>
-	<field name = "TITLE">AMERICAN MOTORS AMO> TO RESUME LABOR TALKS</field>
+	<field name = "titulo">AMERICAN MOTORS AMO> TO RESUME LABOR TALKS</field>
 	<field name = "DATELINE">SOUTHFIELD, MICH., March 4 -</field>
-	<field name = "BODY">American Motors Corp said it
+	<field name = "content">American Motors Corp said it
 is willing to resume negotiations with the United Auto Workers
 as requested by Wisconsin Governor Tommy Thompson.
     Negotiations began on January 21 on a contract for American

@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 01:24:53.22</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0044reute
-b f BC-BASF-AG-BASF.F>-1986   03-30 0078</field>
-	<field name = "TITLE">BASF AG BASF.F> 1986 YEAR</field>
+	<field name = "titulo">BASF AG BASF.F> 1986 YEAR</field>
 	<field name = "DATELINE">LUDWIGSHAFEN, West Germany, March 30 -</field>
-	<field name = "BODY">Year to December 31.
+	<field name = "content">Year to December 31.
     World group pre-tax profit 2.63 billion marks vs 3.04
 billion.
     World group turnover 40.47 billion vs 44.38 billion.

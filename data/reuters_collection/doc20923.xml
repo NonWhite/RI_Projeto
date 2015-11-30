@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 16:53:07.74</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">V RM 
-f3152reute
-u f BC-NYSE-CHAIRMAN-SAYS-MA   10-19 0116</field>
-	<field name = "TITLE">NYSE CHAIRMAN SAYS MARKET DECLINE NOT A CRASH</field>
+	<field name = "titulo">NYSE CHAIRMAN SAYS MARKET DECLINE NOT A CRASH</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">New York Stock Exchange chairman John
+	<field name = "content">New York Stock Exchange chairman John
 Phelan said the stock market underwent a significant correction
 today but he did not characterize it as a crash. He also said
 the NYSE will open tomorrow on time.

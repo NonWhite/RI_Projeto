@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">C G T
-f2196reute
-u f BC-/U.S.-SUGAR-PRODUCT-A   04-02 0128</field>
-	<field name = "TITLE">U.S. SUGAR PRODUCT AMENDMENT UNLIKELY TO SURVIVE</field>
+	<field name = "titulo">U.S. SUGAR PRODUCT AMENDMENT UNLIKELY TO SURVIVE</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">An amendment approved by the House
+	<field name = "content">An amendment approved by the House
 Agriculture Committee yesterday requiring quotas on U.S.
 imports of products containing sugar is unlikely to remain in a
 comprehensive trade bill, Congressional sources said.

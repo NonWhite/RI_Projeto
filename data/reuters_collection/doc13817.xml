@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:03:13.08</field>
-	<field name = "UNKNOWN">C
-f0887reute
-b f BC-midwest-cash-grain   04-07 0135</field>
-	<field name = "TITLE">MIDWEST CASH GRAIN - MODEST MOVEMENT, BIDS FIRM</field>
+	<field name = "titulo">MIDWEST CASH GRAIN - MODEST MOVEMENT, BIDS FIRM</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Country movement of corn and soybeans
+	<field name = "content">Country movement of corn and soybeans
 increased modestly this morning, and basis bids were steady to
 higher, cash grain dealers said.
     Basis bids firmed in response to lower rates for barge

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 11:41:58.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1508reute
-r f BC-AMERICAN-MICRO-SIGNS   06-02 0091</field>
-	<field name = "TITLE">AMERICAN MICRO SIGNS THREE-YEAR SERVICE PACT</field>
+	<field name = "titulo">AMERICAN MICRO SIGNS THREE-YEAR SERVICE PACT</field>
 	<field name = "DATELINE">TUSTIN, Calif., June 2 -</field>
-	<field name = "BODY">American Micro Technology Co>
+	<field name = "content">American Micro Technology Co>
 said it signed a three-year installation and service agreement
 with TRW Inc TRW>.
     Under the agreement, TRW initially will provide on-site

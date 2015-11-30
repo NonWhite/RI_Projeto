@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:04:36.95</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0741reute
-u f BC-GERMAN-BANKS-SAY-COMP   03-09 0107</field>
-	<field name = "TITLE">GERMAN BANKS SAY COMPANY HOLDINGS FALLING</field>
+	<field name = "titulo">GERMAN BANKS SAY COMPANY HOLDINGS FALLING</field>
 	<field name = "AUTHOR">By Jonathan Lynn, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 9 -</field>
-	<field name = "BODY">West German private banks, in the
+	<field name = "content">West German private banks, in the
 latest twist in a long-running battle over the size of their
 holdings in industry, have said the holdings were falling and
 rejected calls for tighter limits on these participations.

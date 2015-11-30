@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:14:55.47</field>
-	<field name = "UNKNOWN">C G
-f0942reute
-u f BC-cbt-s'prods-pre-opg   04-07 0103</field>
-	<field name = "TITLE">CBT SOYPRODUCT FUTURES EXPECTED STEADY/EASIER</field>
+	<field name = "titulo">CBT SOYPRODUCT FUTURES EXPECTED STEADY/EASIER</field>
 	<field name = "DATELINE">CHICAGO, April 6 -</field>
-	<field name = "BODY">CBT soyproduct futures were called
+	<field name = "content">CBT soyproduct futures were called
 steady to slightly easier in sympathy with expected weakness in
 soybeans, traders said.
     Soybean crush ratios remained under pressure yesterday, so

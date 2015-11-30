@@ -5,13 +5,10 @@
 	<field name = "PLACES">bahrain</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">RM
-f0267reute
-r f BC-MIDDLE-EAST-CURRENCY   03-25 0103</field>
-	<field name = "TITLE">MIDDLE EAST CURRENCY MARKET SEES KEY CHANGES</field>
+	<field name = "titulo">MIDDLE EAST CURRENCY MARKET SEES KEY CHANGES</field>
 	<field name = "AUTHOR">By Stephen Jukes, Reuters</field>
 	<field name = "DATELINE">BAHRAIN, March 25 -</field>
-	<field name = "BODY">Middle East currency dealers meet in
+	<field name = "content">Middle East currency dealers meet in
 Abu Dhabi this weekend at a time of fundamental change in their
 business, which has seen a growing volume of trade shift from
 the Arab world to London.

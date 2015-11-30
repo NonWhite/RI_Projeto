@@ -5,12 +5,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "TOPICS">wpi</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C M
-f0339reute
-r f BC-U.S.-PRODUCER-ENERGY   03-13 0116</field>
-	<field name = "TITLE">U.S. PRODUCER ENERGY PRICES RISE IN FEBRUARY</field>
+	<field name = "titulo">U.S. PRODUCER ENERGY PRICES RISE IN FEBRUARY</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">Prices of wholesale finished energy
+	<field name = "content">Prices of wholesale finished energy
 goods in the U.S. rose 4.0 pct in February after a 9.8 pct rise
 in January, the Labor Department said.
     The Producer Price Index for finished energy goods fell by

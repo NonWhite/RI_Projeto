@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 15:21:54.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2815reute
-h f BC-NATIONAL-CITY-NCTY.O   10-19 0106</field>
-	<field name = "TITLE">NATIONAL CITY NCTY.O> UNIT BEGINS NEW SERVICE</field>
+	<field name = "titulo">NATIONAL CITY NCTY.O> UNIT BEGINS NEW SERVICE</field>
 	<field name = "DATELINE">CLEVELAND, Oct 19 -</field>
-	<field name = "BODY">National City Corp's National City Bank
+	<field name = "content">National City Corp's National City Bank
 unit said it has begun a personal computer-based financial
 management service for small businesses.
     The service, the InTouch Financial Manager, is based on a

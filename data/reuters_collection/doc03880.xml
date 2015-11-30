@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G T
-f0321reute
-u f BC-CFTC-APPROVES-MGE-COR   03-11 0120</field>
-	<field name = "TITLE">CFTC APPROVES MGE CORN SYRUP FUTURES CONTRACT</field>
+	<field name = "titulo">CFTC APPROVES MGE CORN SYRUP FUTURES CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">The Commodity Futures Trading
+	<field name = "content">The Commodity Futures Trading
 Commission has approved the Minneapolis Grain Exchange's
 application to trade high fructose corn syrup-55, HFCS-55,
 futures contracts, the commission said.

@@ -3,13 +3,10 @@
 	<field name = "PLACES">new-zealand</field>
 	<field name = "PEOPLE">douglas</field>
 	<field name = "PEOPLE">lange</field>
-	<field name = "UNKNOWN">RM
-f2932reute
-u f BC-N.Z.-GOVERNMENT-POPUL   04-08 0106</field>
-	<field name = "TITLE">N.Z. GOVERNMENT POPULARITY RISES AHEAD OF ELECTION</field>
+	<field name = "titulo">N.Z. GOVERNMENT POPULARITY RISES AHEAD OF ELECTION</field>
 	<field name = "AUTHOR">By Christopher Pritchett, Reuters</field>
 	<field name = "DATELINE">WELLINGTON, April 9 -</field>
-	<field name = "BODY">New Zealand's ruling Labour Party
+	<field name = "content">New Zealand's ruling Labour Party
 government has just completed its three-year economic reform
 which threw thousands of people out of work, yet its popularity
 has risen as the September deadline for the election draws

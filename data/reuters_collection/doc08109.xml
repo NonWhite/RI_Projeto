@@ -3,13 +3,10 @@
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">sarney</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f0208reute
-u f BC-BRAZIL-BUSINESS-LEADE   03-22 0105</field>
-	<field name = "TITLE">BRAZIL BUSINESS LEADERS CALL FOR TALKS WITH IMF</field>
+	<field name = "titulo">BRAZIL BUSINESS LEADERS CALL FOR TALKS WITH IMF</field>
 	<field name = "AUTHOR">By Stephen Powell, Reuters</field>
 	<field name = "DATELINE">SAO PAULO, March 22 -</field>
-	<field name = "BODY">Brazilian business leaders attending
+	<field name = "content">Brazilian business leaders attending
 a weekend meeting with President Jose Sarney called on the
 government to seek help from the International Monetary Fund
 (IMF) in resolving its debt problems.

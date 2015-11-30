@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 17:21:45.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2525reute
-d f BC-BALLY-BLY>-SHIFTS-MA   03-23 0112</field>
-	<field name = "TITLE">BALLY BLY> SHIFTS MANAGEMENT AT SUBSIDIARY</field>
+	<field name = "titulo">BALLY BLY> SHIFTS MANAGEMENT AT SUBSIDIARY</field>
 	<field name = "DATELINE">CHICAGO, March 23 -</field>
-	<field name = "BODY">Bally Mfg Co said it is reorganizing
+	<field name = "content">Bally Mfg Co said it is reorganizing
 executive management of its lottery subsidiary, Scientific
 Games Inc, Norcross, Ga.
     Effective April One, it said John Koza, co-founder and

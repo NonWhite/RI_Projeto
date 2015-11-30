@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 17:28:08.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9628reute
-h f BC-PACIFIC-NUCLEAR-PACN   03-18 0078</field>
-	<field name = "TITLE">PACIFIC NUCLEAR PACN> LEASES OUT SHIPPING CASK</field>
+	<field name = "titulo">PACIFIC NUCLEAR PACN> LEASES OUT SHIPPING CASK</field>
 	<field name = "DATELINE">FEDERAL WAY, Wash., March 18 -</field>
-	<field name = "BODY">Pacific Nuclear Systems Inc
+	<field name = "content">Pacific Nuclear Systems Inc
 said it has received a contract to lease a nuclear packaging
 shipping cask to General Public Utilities GPU>.
     The cask will be leased for one year, beginning in the

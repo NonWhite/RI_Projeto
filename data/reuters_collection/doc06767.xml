@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 15:37:45.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f9279reute
-r f BC-KEYCORP-KEY>-SELLS-S   03-18 0071</field>
-	<field name = "TITLE">KEYCORP KEY> SELLS SUBORDINATED CAPITAL NOTES</field>
+	<field name = "titulo">KEYCORP KEY> SELLS SUBORDINATED CAPITAL NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">KeyCorp is offering 75 mln dlrs of
+	<field name = "content">KeyCorp is offering 75 mln dlrs of
 subordinated capital notes due 1999 with an 8.40 pct coupon and
 par pricing, said sole manager First Boston Corp.
     That is 122 basis points more than the yield of comparable

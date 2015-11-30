@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 13:06:52.14</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f3001reute
-r f BC-PARIS-FUTURES-MARKET   03-16 0091</field>
-	<field name = "TITLE">PARIS FUTURES MARKET TO NAME NEW MEMBERS</field>
+	<field name = "titulo">PARIS FUTURES MARKET TO NAME NEW MEMBERS</field>
 	<field name = "DATELINE">PARIS, March 16 -</field>
-	<field name = "BODY">The Paris Financial Futures Market,
+	<field name = "content">The Paris Financial Futures Market,
 MATIF, will shortly name 12 new members, bringing its total
 membership to 100 from 88, market officials said.
     The 12 new members will be selected from a list of 28

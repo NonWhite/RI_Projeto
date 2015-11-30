@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 17:04:30.17</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM 
-f3309reute
-u f BC-BRAZIL'S-SEPTEMBER-TR   10-20 0113</field>
-	<field name = "TITLE">BRAZIL'S SEPT TRADE SURPLUS HIGHEST OF THE YEAR</field>
+	<field name = "titulo">BRAZIL'S SEPT TRADE SURPLUS HIGHEST OF THE YEAR</field>
 	<field name = "DATELINE">RIO DE JANEIRO, Oct 20 -</field>
-	<field name = "BODY">Brazil's September trade surplus
+	<field name = "content">Brazil's September trade surplus
 was the best so far this year, totalling 1.494 billion dlrs,
 compared with 1.434 billion dlrs in August and 540 mln dlrs in
 September last year, Banco do Brasil's Foreign Trade Department

@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 08:46:08.86</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">A
-f0873reute
-h f BC-EMS-INTERVENTION-SAID   04-27 0116</field>
-	<field name = "TITLE">EMS INTERVENTION SAID SOMETIMES COUNTERPRODUCTIVE</field>
+	<field name = "titulo">EMS INTERVENTION SAID SOMETIMES COUNTERPRODUCTIVE</field>
 	<field name = "DATELINE">FRANKFURT, April 27 -</field>
-	<field name = "BODY">Attempts to hold currency rates
+	<field name = "content">Attempts to hold currency rates
 rigidly within tight ranges through European Monetary System
 intramarginal intervention can be counterproductive, bringing
 funds into the stronger currency from the weaker at rates still

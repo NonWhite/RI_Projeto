@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:49:15.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2290reute
-r f BC-RECENT-INITIAL-SHARE   04-07 0108</field>
-	<field name = "TITLE">RECENT INITIAL SHARE OFFERINGS FILED WITH SEC</field>
+	<field name = "titulo">RECENT INITIAL SHARE OFFERINGS FILED WITH SEC</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">The following initial securities
+	<field name = "content">The following initial securities
 offerings were filed recently with the Securities and Exchange
 Commission:
     RehabCare Corp, Chesterfield, Mo. - 2.5 mln shares of

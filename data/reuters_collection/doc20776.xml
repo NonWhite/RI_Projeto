@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 17:29:58.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3398reute
-d f BC-SIMMONS-AIRLINE-SIMM   10-20 0103</field>
-	<field name = "TITLE">SIMMONS AIRLINE SIMM.O> DOUBLES STOCK BUYBACK</field>
+	<field name = "titulo">SIMMONS AIRLINE SIMM.O> DOUBLES STOCK BUYBACK</field>
 	<field name = "DATELINE">CHICAGO, Oct. 20 -</field>
-	<field name = "BODY">Simmons Airlines Inc said its board of
+	<field name = "content">Simmons Airlines Inc said its board of
 directors authorized a doubling in the company's stock
 repurchase program to one mln shares from 500,000 shares.
     The buyback would represent about 20 pct of its issued

@@ -3,13 +3,10 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1274reute
-u f BC-DOLLAR-ENDS-LOWER-IN   04-09 0105</field>
-	<field name = "TITLE">DOLLAR ENDS LOWER IN LACKLUSTRE FRANKFURT</field>
+	<field name = "titulo">DOLLAR ENDS LOWER IN LACKLUSTRE FRANKFURT</field>
 	<field name = "AUTHOR">By Allan Saunderson, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, April 9 -</field>
-	<field name = "BODY">The dollar drifted down to end one
+	<field name = "content">The dollar drifted down to end one
 pfennig lower after a lacklustre session, held in limits by the
 lack of concrete news from the Group of Seven meeting and
 comments on the edge of the Washington IMF/World Bank meeting.

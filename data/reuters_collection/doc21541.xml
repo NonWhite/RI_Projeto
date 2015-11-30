@@ -12,13 +12,10 @@
 	<field name = "PLACES">italy</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">RM AI 
-f0279reute
-b f BC-LOUVRE-ACCORD-STILL-I   10-19 0110</field>
-	<field name = "TITLE">LOUVRE ACCORD STILL IN EFFECT, JAPAN OFFICIAL SAYS</field>
+	<field name = "titulo">LOUVRE ACCORD STILL IN EFFECT, JAPAN OFFICIAL SAYS</field>
 	<field name = "AUTHOR">By Kunio Inoue</field>
 	<field name = "DATELINE">TOKYO, Oct 19 -</field>
-	<field name = "BODY">The Group of Seven (G-7) industrial nations
+	<field name = "content">The Group of Seven (G-7) industrial nations
 still comply with last February's Louvre accord to stabilize
 currencies, a senior Bank of Japan official said.
     And U.S. Treasury Secretary James Baker's remarks at the

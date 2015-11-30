@@ -5,12 +5,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">libya</field>
-	<field name = "UNKNOWN">F Y
-f0908reute
-u f BC-USX-X>-PROVED-OIL,-G   03-11 0103</field>
-	<field name = "TITLE">USX X> PROVED OIL, GAS RESERVES FALL IN 1986</field>
+	<field name = "titulo">USX X> PROVED OIL, GAS RESERVES FALL IN 1986</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">USX Corp said proved reserves of oil
+	<field name = "content">USX Corp said proved reserves of oil
 and natural gas liquids fell 28 pct to 802.8 mln barrels at the
 end of 1986 from 1.12 billion barrels at year-end 1985.
     The figures, in USX's just-released 1986 annual report,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 15:17:12.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f2190reute
-d f BC-U.S.-GOVERNMENT-EXPAN   03-25 0105</field>
-	<field name = "TITLE">U.S. GOVERNMENT EXPANDS CRACKDOWN ON BAD DEBTS</field>
+	<field name = "titulo">U.S. GOVERNMENT EXPANDS CRACKDOWN ON BAD DEBTS</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The administration is expanding its
+	<field name = "content">The administration is expanding its
 crackdown on bad debts, officials of the White House Office of
 Management and Budget (OMB) told reporters.
     OMB Deputy Director Joseph Wright said the administration

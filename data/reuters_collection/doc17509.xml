@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 09:31:29.90</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F E
-f0924reute
-r f BC-CANADA-SOUTHERN-CSW.   06-01 0109</field>
-	<field name = "TITLE">CANADA SOUTHERN CSW.TO> TO OFFER SHARES</field>
+	<field name = "titulo">CANADA SOUTHERN CSW.TO> TO OFFER SHARES</field>
 	<field name = "DATELINE">CALGARY, June 1 -</field>
-	<field name = "BODY">Canada Southern Petroleum Ltd said its
+	<field name = "content">Canada Southern Petroleum Ltd said its
 board has authorized an offering of about three mln shares of
 limited voting stock to shareholders of record on June 23.
     The company said the rights offering will expire August

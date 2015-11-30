@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 13:24:16.71</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f1934reute
-u f BC-UNION-CARBIDE-FRENCH   04-02 0086</field>
-	<field name = "TITLE">UNION CARBIDE FRENCH UNIT IN TAKEOVER BID</field>
+	<field name = "titulo">UNION CARBIDE FRENCH UNIT IN TAKEOVER BID</field>
 	<field name = "DATELINE">PARIS, April 2 -</field>
-	<field name = "BODY">Union Carbide France, a unit of Union
+	<field name = "content">Union Carbide France, a unit of Union
 Carbide Corp UK>, has launched a bid to buy shares of French
 chemical group Duffour et Igon> at 2,100 francs a share until
 May 4, the stockbrokers' association CSAC said in a statement.

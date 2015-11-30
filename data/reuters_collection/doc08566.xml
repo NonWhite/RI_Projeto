@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 17:53:58.70</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2601reute
-d f BC-HECLA-HL>-BUYS-STAKE   03-23 0092</field>
-	<field name = "TITLE">HECLA HL> BUYS STAKE IN GREENS CREEK VENTURE</field>
+	<field name = "titulo">HECLA HL> BUYS STAKE IN GREENS CREEK VENTURE</field>
 	<field name = "DATELINE">DENVER, March 23 -</field>
-	<field name = "BODY">Hecla Mining Co said it agreed to buy a
+	<field name = "content">Hecla Mining Co said it agreed to buy a
 28 pct stake in the Greens Creek joint venture from Amselco
 Minerals Inc, a unit of British Petroleum PLC's BP> BP North
 America Inc unit.

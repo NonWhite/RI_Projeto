@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 13:10:14.00</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1805reute
-d f BC-CELLULAR-INC-CELS.O>   06-01 0082</field>
-	<field name = "TITLE">CELLULAR INC CELS.O> TO SELL UNIT, TAKE GAIN</field>
+	<field name = "titulo">CELLULAR INC CELS.O> TO SELL UNIT, TAKE GAIN</field>
 	<field name = "DATELINE">DENVER, June 1 -</field>
-	<field name = "BODY">Cellular Inc said it reached a definitive
+	<field name = "content">Cellular Inc said it reached a definitive
 agreement to sell assets of its wholly owned Michigan Cellular
 Inc to Century Telephone Enterprises Inc CTL> and add 28 cts a
 share to the year's earnings as a result.

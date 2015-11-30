@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 10:32:47.56</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1298reute
-r f BC-GTE-CORP-3RD-QT   10-20 0055</field>
-	<field name = "TITLE">GTE CORP GTE> 3RD QTR NET</field>
+	<field name = "titulo">GTE CORP GTE> 3RD QTR NET</field>
 	<field name = "DATELINE">STAMFORD, Oct 20 -</field>
-	<field name = "BODY">Shr 86 cts vs 96 cts
+	<field name = "content">Shr 86 cts vs 96 cts
     Net 297 mln vs 325 mln
     Revs 2.95 billion vs 2.86 billion
     Nine mths

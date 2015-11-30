@@ -10,13 +10,10 @@
 	<field name = "PLACES">iraq</field>
 	<field name = "PLACES">kuwait</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">F A Y 
-f1743reute
-r f BC-OIL-PRICES SCHEDULED  06-19 0089</field>
-	<field name = "TITLE">U.S. OIL PRICES STRONG AHEAD OF OPEC MEETING</field>
+	<field name = "titulo">U.S. OIL PRICES STRONG AHEAD OF OPEC MEETING</field>
 	<field name = "AUTHOR">By SUSAN SHERER, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">U.S. crude oil prices are at their
+	<field name = "content">U.S. crude oil prices are at their
 highest level in more than a year ahead of next week's OPEC
 meeting, even though most industry analysts do not expect any
 policy changes from the session.

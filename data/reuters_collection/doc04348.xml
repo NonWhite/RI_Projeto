@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f0820reute
-u f BC-ICO-BOARD-MEETING-DEL   03-12 0086</field>
-	<field name = "TITLE">ICO BOARD MEETING DELAYED ONE DAY</field>
+	<field name = "titulo">ICO BOARD MEETING DELAYED ONE DAY</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">The International Coffee Organization
+	<field name = "content">The International Coffee Organization
 (ICO) executive board meeting scheduled for the end of this
 month has been delayed by one day and will now run from March
 31 to April 2 and not March 30 to April 1, ICO officials said.

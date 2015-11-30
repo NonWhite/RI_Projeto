@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 14:50:00.09</field>
 	<field name = "TOPICS">pet-chem</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0465reute
-r f BC-NOVA-SUBSIDIARY-RAISE   03-05 0055</field>
-	<field name = "TITLE">NOVA SUBSIDIARY RAISES U.S. POLYETHYLENE PRICES</field>
+	<field name = "titulo">NOVA SUBSIDIARY RAISES U.S. POLYETHYLENE PRICES</field>
 	<field name = "DATELINE">CALGARY, Alberta, March 5 -</field>
-	<field name = "BODY">Novacor Inc, a unit of Nova,
+	<field name = "content">Novacor Inc, a unit of Nova,
 an Alberta Corp>, said it would raise prices for U.S. customers
 by five cts a pound on linear low-density and low-density
 polyethylene, effective April 1.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 17:14:13.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2635reute
-b f BC-BANK-OF-NEW-YORK-BK>   06-29 0110</field>
-	<field name = "TITLE">BANK OF NEW YORK BK> DEBT AFFIRMED BY MOODY'S</field>
+	<field name = "titulo">BANK OF NEW YORK BK> DEBT AFFIRMED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 affirmed 1.2 billion dlrs of debt of The Bank of New York Co
 Inc and units.
     Affirmed were the parent's A-1 senior notes and preferred

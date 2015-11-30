@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 15:31:16.60</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2305reute
-b f BC-/DISNEY-FAMILY-MAKES   04-09 0104</field>
-	<field name = "TITLE">DISNEY FAMILY MAKES BID FOR HOLLY SUGAR HLY></field>
+	<field name = "titulo">DISNEY FAMILY MAKES BID FOR HOLLY SUGAR HLY></field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The Roy Disney family disclosed in a
+	<field name = "content">The Roy Disney family disclosed in a
 filing with the Securities and Exchange Commission that it made
 a bid to acquire Holly Sugar Corp for a package of cash and
 securities.

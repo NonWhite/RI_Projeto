@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 16:03:28.59</field>
 	<field name = "TOPICS">jet</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2321reute
-u f BC-SHELL-OIL-GETS-104.3   03-25 0030</field>
-	<field name = "TITLE">SHELL OIL GETS 104.3 MLN DLR CONTRACT</field>
+	<field name = "titulo">SHELL OIL GETS 104.3 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">Shell Oil Co of Houston has been
+	<field name = "content">Shell Oil Co of Houston has been
 awarded a 104.3 mln dlr contract for jet fuel, the Defense
 Logistics Agency said.
  REUTER</field>

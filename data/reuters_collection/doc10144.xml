@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:09:39.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2507reute
-r f BC-PEPCO-POM>-TO-REDEEM   03-26 0110</field>
-	<field name = "TITLE">PEPCO POM> TO REDEEM PREFERRED STOCK</field>
+	<field name = "titulo">PEPCO POM> TO REDEEM PREFERRED STOCK</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">Potomac Electric and Power Co said
+	<field name = "content">Potomac Electric and Power Co said
 it will redeem on May 1, 1987, all of the shares of its
 outstanding 4.04 dlrs series of 1971 serial preferred stock at
 51.83 dlrs per share, plus accrued dividends.

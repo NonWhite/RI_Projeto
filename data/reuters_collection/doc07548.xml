@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 02:43:03.96</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0087reute
-u f BC-CHINA-OMITS-KEY-REFOR   03-20 0114</field>
-	<field name = "TITLE">CHINA OMITS KEY REFORM FROM PARLIAMENTARY AGENDA</field>
+	<field name = "titulo">CHINA OMITS KEY REFORM FROM PARLIAMENTARY AGENDA</field>
 	<field name = "DATELINE">PEKING, March 20 -</field>
-	<field name = "BODY">Hardliners have blocked debate on a key
+	<field name = "content">Hardliners have blocked debate on a key
 economic reform in China's parliament, a clear challenge to
 reformers among the leadership, western diplomats said.
     The annual session of the National People's Congress next

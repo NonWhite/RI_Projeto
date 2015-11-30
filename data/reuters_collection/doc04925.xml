@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 13:29:42.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0883reute
-r f BC-PEGASUS-GOLD-PGULF>   03-13 0089</field>
-	<field name = "TITLE">PEGASUS GOLD PGULF> REDUCES DEBT</field>
+	<field name = "titulo">PEGASUS GOLD PGULF> REDUCES DEBT</field>
 	<field name = "DATELINE">SPOKANE, WASH., March 13 -</field>
-	<field name = "BODY">Pegasus Gold Inc said it
+	<field name = "content">Pegasus Gold Inc said it
 cut its long term debt to 85 mln dlrs from 100 mln dlrs when
 its European bondholders voluntarily converted some of their
 debt holdings into 1.5 mln shares of Pegasus common.

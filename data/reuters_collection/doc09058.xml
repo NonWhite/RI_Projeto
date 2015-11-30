@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 17:10:32.59</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2620reute
-r f BC-KIRSCHNER-KMDC>-COMP   03-24 0065</field>
-	<field name = "TITLE">KIRSCHNER KMDC> COMPLETES PURCHASE</field>
+	<field name = "titulo">KIRSCHNER KMDC> COMPLETES PURCHASE</field>
 	<field name = "DATELINE">TIMONIUM, Md., March 24 -</field>
-	<field name = "BODY">Kirschner Medical corp said it
+	<field name = "content">Kirschner Medical corp said it
 completed the acquisition of Minnesota Mining and
 Manufacturing's MMM> orthopedic metal implant line division.
     The acquisition price is 12.0 mln dlrs in cash, a six mln

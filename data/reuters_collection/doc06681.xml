@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 13:43:25.98</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8938reute
-h f BC-BUTLER-BTLR>-COMPLET   03-18 0082</field>
-	<field name = "TITLE">BUTLER BTLR> COMPLETES SALE OF LIVESTOCK UNIT</field>
+	<field name = "titulo">BUTLER BTLR> COMPLETES SALE OF LIVESTOCK UNIT</field>
 	<field name = "DATELINE">KANSAS CITY, MO., March 18 -</field>
-	<field name = "BODY">Butler Manufacturing Co said
+	<field name = "content">Butler Manufacturing Co said
 it completed sale of its Livestock Systems division and part of
 its Control division in separate transactions to two unrelated
 parties.

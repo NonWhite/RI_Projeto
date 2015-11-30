@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 15:50:39.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2517reute
-u f BC-DATA-GENERAL-DGN>-SE   06-02 0098</field>
-	<field name = "TITLE">DATA GENERAL DGN> SEES LITTLE SALES UPTURN</field>
+	<field name = "titulo">DATA GENERAL DGN> SEES LITTLE SALES UPTURN</field>
 	<field name = "AUTHOR">By Lawrence Edelman, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Data General Corp said sales continue to
+	<field name = "content">Data General Corp said sales continue to
 remain flat and it sees little evidence that demand will pick
 up in the near future.
     The company had not "really seen any major change" in

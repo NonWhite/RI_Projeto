@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 17:43:05.57</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3297reute
-u f BC-GREAT-ATLANTIC-GAP>   10-19 0084</field>
-	<field name = "TITLE">GREAT ATLANTIC GAP> WITHDRAWS DECHAMPS BID</field>
+	<field name = "titulo">GREAT ATLANTIC GAP> WITHDRAWS DECHAMPS BID</field>
 	<field name = "DATELINE">MONTVALE, N.J., Oct 19 -</field>
-	<field name = "BODY">The Great Atlantic and Pacific Tea
+	<field name = "content">The Great Atlantic and Pacific Tea
 Co Inc said it withdrew its offer to acquire Delchamps Inc
 DLCH.O> for 27 dlrs a share or about 175 mln dlrs, which was
 made earlier this month.

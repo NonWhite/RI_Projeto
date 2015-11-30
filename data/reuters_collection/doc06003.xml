@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 11:03:32.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5283reute
-r f BC-DITTLER-BROTHERS-SEEK   03-17 0098</field>
-	<field name = "TITLE">DITTLER BROTHERS SEEK LOTTERY INVESTIGATIONS</field>
+	<field name = "titulo">DITTLER BROTHERS SEEK LOTTERY INVESTIGATIONS</field>
 	<field name = "DATELINE">ATLANTA, March 17 -</field>
-	<field name = "BODY">Dittler Brothers called for
+	<field name = "content">Dittler Brothers called for
 investigations by the attorneys general of 24 states in
 connection with possible violation of state lottery laws by
 Bally Manufacturing Corp BLY> and its subsidiary, Scientific

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-MAR-1987 03:03:03.14</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C G L M T
-f0011reute
-r f BC-DROUGHT-RAVAGES-CHINE   03-21 0106</field>
-	<field name = "TITLE">DROUGHT RAVAGES CHINESE FARMLAND</field>
+	<field name = "titulo">DROUGHT RAVAGES CHINESE FARMLAND</field>
 	<field name = "DATELINE">PEKING, March 21 -</field>
-	<field name = "BODY">A prolonged drought is ravaging more
+	<field name = "content">A prolonged drought is ravaging more
 than 13 mln hectares (32 mln acres) of farmland in China and
 has cut water levels in major rivers to record lows, the China
 Daily said.

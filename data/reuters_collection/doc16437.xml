@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1712reute
-r f BC-STANDARD-SRD>,MOBIL   04-13 0110</field>
-	<field name = "TITLE">STANDARD SRD>,MOBIL MOB>PLAN OFFSHORE PLATFORM</field>
+	<field name = "titulo">STANDARD SRD>,MOBIL MOB>PLAN OFFSHORE PLATFORM</field>
 	<field name = "DATELINE">HOUSTON, April 13 -</field>
-	<field name = "BODY">Standard Oil Co said a contract has
+	<field name = "content">Standard Oil Co said a contract has
 been awarded to CBS Engineering Inc> for a drilling and
 production platform to be installed in Ewing Bank Block 826 in
 the Gulf of Mexico where Standard and Mobil Corp each own a 40

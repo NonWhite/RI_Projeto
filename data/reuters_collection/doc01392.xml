@@ -3,12 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C L
-f0139reute
-d f BC-MANDATORY-PRODUCTION   03-03 0089</field>
-	<field name = "TITLE">MANDATORY PRODUCTION CONTROLS DEBATED AT APC</field>
+	<field name = "titulo">MANDATORY PRODUCTION CONTROLS DEBATED AT APC</field>
 	<field name = "DATELINE">Chicago, March 3 -</field>
-	<field name = "BODY">Delegates to the American Pork Congress
+	<field name = "content">Delegates to the American Pork Congress
 will decide whether or not they want mandatory production
 controls when they vote on the official pork producer policy
 wednesday, the National Pork Producers Council said.

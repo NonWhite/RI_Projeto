@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 17:06:40.68</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM F A
-f2578reute
-u f BC-BRAZIL-TRADE-SURPLUS   04-24 0105</field>
-	<field name = "TITLE">BRAZIL TRADE SURPLUS FALLS SHARPLY IN MARCH</field>
+	<field name = "titulo">BRAZIL TRADE SURPLUS FALLS SHARPLY IN MARCH</field>
 	<field name = "DATELINE">RIO DE JANEIRO, APRIL 24 -</field>
-	<field name = "BODY">Brazil's trade surplus in March
+	<field name = "content">Brazil's trade surplus in March
 totalled 136 mln dlrs, down from 1.13 billion dlrs in the same
 month last year, the official Banco do Brasil announced.
     In a news conference, the director of the bank's Foreign

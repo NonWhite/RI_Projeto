@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 15:22:57.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2226reute
-r f BC-NEWMONT-NGC>-SETS-HI   03-23 0084</field>
-	<field name = "TITLE">NEWMONT NGC> SETS HIGHER OUTLAYS, GOLD SALES</field>
+	<field name = "titulo">NEWMONT NGC> SETS HIGHER OUTLAYS, GOLD SALES</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Newmont Gold Co's business plan
+	<field name = "content">Newmont Gold Co's business plan
 forecasts a boost in capital spending and gold production this
 year, the preliminary prospectus for its planned offering of
 five mln common shares said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 16:43:59.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2419reute
-r f BC-S/P-MAY-UPGRADE-WAINO   03-25 0108</field>
-	<field name = "TITLE">S/P MAY UPGRADE WAINOCO OIL WOL></field>
+	<field name = "titulo">S/P MAY UPGRADE WAINOCO OIL WOL></field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it may
+	<field name = "content">Standard and Poor's Corp said it may
 upgrade Wainoco Oil Corp's 25 mln dlrs of C-rated subordinated
 debentures due 1998.
     S and P cited the company's proposed offering of two mln

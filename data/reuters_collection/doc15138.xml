@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 12:35:35.66</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">F A RM
-f1751reute
-u f BC-CME-ADDS-COMPLIANCE-C   04-08 0112</field>
-	<field name = "TITLE">CME ADDS COMPLIANCE CHIEF, EXPANDS SURVEILLANCE</field>
+	<field name = "titulo">CME ADDS COMPLIANCE CHIEF, EXPANDS SURVEILLANCE</field>
 	<field name = "DATELINE">CHICAGO, April 8 -</field>
-	<field name = "BODY">The Chicago Mercantile Exchange, CME,
+	<field name = "content">The Chicago Mercantile Exchange, CME,
 said it has added a new chief compliance officer and will
 expand its regulatory surveillance program.
     Paul O'Kelly, currently assistant regional administrator of

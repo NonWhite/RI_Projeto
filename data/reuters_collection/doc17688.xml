@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 13:57:53.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1964reute
-d f BC-GENCORP-GY>-STARTS-B   06-01 0044</field>
-	<field name = "TITLE">GENCORP GY> STARTS BUILDING NEW PLANT</field>
+	<field name = "titulo">GENCORP GY> STARTS BUILDING NEW PLANT</field>
 	<field name = "DATELINE">AKRON, Ohio, June 1 -</field>
-	<field name = "BODY">GenCorp said it has started
+	<field name = "content">GenCorp said it has started
 construction on a new 50 mln dlr 260,000 square foot plant for
 the reinforced plastics division of its DiversiTech General
 unit.

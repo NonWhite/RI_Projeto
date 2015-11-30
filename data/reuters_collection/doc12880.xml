@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 10:08:08.34</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1021reute
-r f BC-algoma-steel-has-no   04-03 0100</field>
-	<field name = "TITLE">ALGOMA STEEL HAS NO REASON FOR SHARE PRICE RISE</field>
+	<field name = "titulo">ALGOMA STEEL HAS NO REASON FOR SHARE PRICE RISE</field>
 	<field name = "DATELINE">SAULT STE MARIE, Ontario, April 3 -</field>
-	<field name = "BODY">Algoma Steel Corp Ltd>
+	<field name = "content">Algoma Steel Corp Ltd>
 said there were no specific developments to explain the recent
 increase in its share price and there were no announcements
 planned or anticipated.

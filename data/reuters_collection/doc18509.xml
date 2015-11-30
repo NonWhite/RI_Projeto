@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 05:17:20.63</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM 
-f2392reute
-r f BC-BANK-OF-FINLAND-PREDI   06-18 0102</field>
-	<field name = "TITLE">BANK OF FINLAND PREDICTS 1987 INVESTMENT SURGE</field>
+	<field name = "titulo">BANK OF FINLAND PREDICTS 1987 INVESTMENT SURGE</field>
 	<field name = "DATELINE">HELSINKI, June 18 -</field>
-	<field name = "BODY">Finnish industrial investment will rise
+	<field name = "content">Finnish industrial investment will rise
 10 pct in 1987 from last year reaching its highest rate since
 1980, the Bank of Finland's two year survey predicted.
     Investment will centre on machinery and equipment, with a

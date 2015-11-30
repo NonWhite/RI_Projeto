@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 09:40:55.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f0877reute
-u f BC-SALLIE-MAE-SLM>-OFFE   03-13 0096</field>
-	<field name = "TITLE">SALLIE MAE SLM> OFFERS FIXED RATE NOTES</field>
+	<field name = "titulo">SALLIE MAE SLM> OFFERS FIXED RATE NOTES</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">The Student Loan Marketing
+	<field name = "content">The Student Loan Marketing
 Association, Sallie Mae, announced an offering of 100 mln dlrs
 of three-year fixed rate notes redeemable at maturity in the
 U.S. dollar equivalent of 145.2 mln Australian dlrs.

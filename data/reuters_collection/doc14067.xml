@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 11:19:42.99</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">liffe</field>
-	<field name = "UNKNOWN">RM
-f1227reute
-u f BC-LIFFE,-AFTER-RECORD-V   04-07 0111</field>
-	<field name = "TITLE">LIFFE, AFTER RECORD VOLUMES, SEES MORE GROWTH</field>
+	<field name = "titulo">LIFFE, AFTER RECORD VOLUMES, SEES MORE GROWTH</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">The records in turnover set by the London
+	<field name = "content">The records in turnover set by the London
 International Financial Futures Exchange (LIFFE) in March could
 be surpassed in the coming months, Liffe Chief Executive
 Michael Jenkins said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 21:50:28.16</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0137reute
-u f BC-AUSTRALIAN-BUSINESS-C   03-09 0111</field>
-	<field name = "TITLE">AUSTRALIAN BUSINESS CRITICISES NATIONAL WAGE RISE</field>
+	<field name = "titulo">AUSTRALIAN BUSINESS CRITICISES NATIONAL WAGE RISE</field>
 	<field name = "DATELINE">MELBOURNE, March 10 -</field>
-	<field name = "BODY">Business groups criticised the
+	<field name = "content">Business groups criticised the
 Arbitration Commission's national wage case decision announced
 earlier but the Australian Council of Trade Unions (ACTU) gave
 it qualified approval.

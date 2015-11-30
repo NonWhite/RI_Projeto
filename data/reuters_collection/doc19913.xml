@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 16:39:17.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2521reute
-r f BC-INFINITE-GRAPHICS-IN   06-29 0073</field>
-	<field name = "TITLE">INFINITE GRAPHICS INFG.O> IN JOINT VEENTURE</field>
+	<field name = "titulo">INFINITE GRAPHICS INFG.O> IN JOINT VEENTURE</field>
 	<field name = "DATELINE">MINNEAPOLIS, June 29 -</field>
-	<field name = "BODY">Infinite Graphics Inc said it signed
+	<field name = "content">Infinite Graphics Inc said it signed
 a letter of intent to create a joint venture with Computer
 Design Equipment Co> to expand sales of its computer-aided
 design equipment in the Midwest.

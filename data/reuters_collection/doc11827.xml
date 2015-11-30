@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 06:04:01.46</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0403reute
-b f BC-BANK-OF-TOKYO-ISSUES   04-01 0110</field>
-	<field name = "TITLE">BANK OF TOKYO ISSUES CONVERTIBLE EUROBOND</field>
+	<field name = "titulo">BANK OF TOKYO ISSUES CONVERTIBLE EUROBOND</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">The Bank of Tokyo Ltd is issuing a 100
+	<field name = "content">The Bank of Tokyo Ltd is issuing a 100
 mln dlr convertible eurobond due March 31, 2002 paying an
 indicated coupon of two pct and priced at par, lead manager
 Bank of Tokyo International Ltd said.

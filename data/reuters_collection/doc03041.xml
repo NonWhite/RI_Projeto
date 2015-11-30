@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 09:26:28.51</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0035reute
-d f BC-NATIONWIDE-CELLULAR-   03-09 0073</field>
-	<field name = "TITLE">NATIONWIDE CELLULAR NCEL> COMPLETES PURCHASE</field>
+	<field name = "titulo">NATIONWIDE CELLULAR NCEL> COMPLETES PURCHASE</field>
 	<field name = "DATELINE">VALLEY STREAM, N.Y., March 9 -</field>
-	<field name = "BODY">Nationwide Cellular Service
+	<field name = "content">Nationwide Cellular Service
 Inc said it has completed the previously-announced acquisition
 of privately-held Nova Cellular Co, a Chicago reseller of
 mobile telephone service with 1,800 subscribers, for about

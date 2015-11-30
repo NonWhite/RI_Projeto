@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 17:36:58.83</field>
 	<field name = "TOPICS">strategic-metal</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2581reute
-u f BC-DOE-RECOMMENDS-SPECIA   04-07 0094</field>
-	<field name = "TITLE">DOE RECOMMENDS SPECIAL UNIT TO ENRICH URANIUM</field>
+	<field name = "titulo">DOE RECOMMENDS SPECIAL UNIT TO ENRICH URANIUM</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Energy Secretary John Herrington told
+	<field name = "content">Energy Secretary John Herrington told
 Congress that a federally chartered corporation would be the
 best way to manage and operate the government's uranium
 enrichment program.

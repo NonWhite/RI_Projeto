@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 08:29:53.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0749reute
-r f AM-AIDS-PEPTIDES   06-02 0086</field>
-	<field name = "TITLE">RESEARCHERS FIND PROMISING ANTI-AIDS AGENT</field>
+	<field name = "titulo">RESEARCHERS FIND PROMISING ANTI-AIDS AGENT</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">Peptide T, a minute chemical
+	<field name = "content">Peptide T, a minute chemical
 structure that can be easily manufactured, effectively blocks
 the attack of the deadly AIDS virus on human cells, researchers
 claimed.

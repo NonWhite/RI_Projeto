@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:44:04.16</field>
-	<field name = "UNKNOWN">C G
-f2445reute
-u f BC-MINNEAPOLIS-HFCS-TRAD   04-07 0099</field>
-	<field name = "TITLE">MINNEAPOLIS HFCS TRADE PUT AT 109 CONTRACTS</field>
+	<field name = "titulo">MINNEAPOLIS HFCS TRADE PUT AT 109 CONTRACTS</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 7 -</field>
-	<field name = "BODY">An estimated 109 high fructose corn
+	<field name = "content">An estimated 109 high fructose corn
 syrup futures contracts traded today in the contract's second
 day of trading at the Minneapolis Grain Exchange (MGE), an
 exchange spokesman said.

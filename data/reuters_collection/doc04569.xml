@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 17:11:13.46</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f0644reute
-u f BC-WITCHING   03-12 0114</field>
-	<field name = "TITLE">SEC ASKS NYSE TO TIGHTEN TRIPLE WITCHING PROCESS</field>
+	<field name = "titulo">SEC ASKS NYSE TO TIGHTEN TRIPLE WITCHING PROCESS</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">The Securities and Exchange
+	<field name = "content">The Securities and Exchange
 Commission asked the New York Stock Exchange to tighten an
 experimental procedure used in the past six months to dampen
 volatility linked to the so-called "triple-witching hour."

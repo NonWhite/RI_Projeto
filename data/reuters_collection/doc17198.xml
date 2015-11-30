@@ -3,13 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">qatar</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0032reute
-u f BC-QATAR"S-BANKS-SET-FOR   04-26 0105</field>
-	<field name = "TITLE">QATAR"S BANKS SET FOR FURTHER LEAN SPELL</field>
+	<field name = "titulo">QATAR"S BANKS SET FOR FURTHER LEAN SPELL</field>
 	<field name = "AUTHOR">By Stephen Jukes, Reuters</field>
 	<field name = "DATELINE">DOHA, April 26 -</field>
-	<field name = "BODY">Bank profits in the Gulf oil state of
+	<field name = "content">Bank profits in the Gulf oil state of
 Qatar are coming under renewed pressure and foreign banks are
 retrenching further in one of the region"s most overbanked
 markets.

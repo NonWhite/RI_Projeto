@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 09:50:57.39</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0127reute
-u f BC-JAPAN-EX-IM-BANK-SAYS   03-09 0106</field>
-	<field name = "TITLE">JAPAN EX-IM BANK SAYS NO NEW COMMITMENTS TO BRAZIL</field>
+	<field name = "titulo">JAPAN EX-IM BANK SAYS NO NEW COMMITMENTS TO BRAZIL</field>
 	<field name = "DATELINE">TOKYO, March 9 -</field>
-	<field name = "BODY">Export-Import Bank of Japan president
+	<field name = "content">Export-Import Bank of Japan president
 Takashi Tanaka told Brazil the bank will continue to cooperate
 with it, but he refrained from making any commitment to a new
 credit, Ex-Im officials said.

@@ -3,13 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f0048reute
-u f AM-BRAZIL-STRIKES   03-13 0104</field>
-	<field name = "TITLE">BRAZILIAN TROOPS TO LEAVE OIL REFINERIES</field>
+	<field name = "titulo">BRAZILIAN TROOPS TO LEAVE OIL REFINERIES</field>
 	<field name = "AUTHOR">By Stephen Powell, Reuters</field>
 	<field name = "DATELINE">SAO PAULO, MARCH 13 -</field>
-	<field name = "BODY">Brazil's labour troubles eased a
+	<field name = "content">Brazil's labour troubles eased a
 little today as the authorities announced they were withdrawing
 troops from the country's main oil installations occupied three
 days ago.

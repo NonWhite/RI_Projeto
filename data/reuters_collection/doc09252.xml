@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PLACES">papua-new-guinea</field>
-	<field name = "UNKNOWN">F
-f0759reute
-d f BC-OIL-ANALYST-SEES-PAPU   03-25 0097</field>
-	<field name = "TITLE">OIL ANALYST SEES PAPUA NEW GUINEA AS GOOD PROSPECT</field>
+	<field name = "titulo">OIL ANALYST SEES PAPUA NEW GUINEA AS GOOD PROSPECT</field>
 	<field name = "DATELINE">SURFERS PARADISE, Australia, March 25 -</field>
-	<field name = "BODY">Papua New Guinea
+	<field name = "content">Papua New Guinea
 (PNG) provides the most exciting new prospect in the
 Asia-Pacific region for oil production, energy analyst Fereidun
 Fesharaki said here.

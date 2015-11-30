@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 11:03:30.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3407reute
-d f BC-GLOBAL-YIELD-FUND-PG   06-18 0085</field>
-	<field name = "TITLE">GLOBAL YIELD FUND PGY> REVIEWS DIVIDEND POLICY</field>
+	<field name = "titulo">GLOBAL YIELD FUND PGY> REVIEWS DIVIDEND POLICY</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Global Yield Fund, in a review of its
+	<field name = "content">Global Yield Fund, in a review of its
 dividend policy, told shareholders that under the Internal
 Revenue Code of 1986, the fund must distribute substantially
 all of its net income by the end of each year.

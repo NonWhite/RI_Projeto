@@ -4,12 +4,9 @@
 	<field name = "TOPICS">platinum</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PEOPLE">keating</field>
-	<field name = "UNKNOWN">M C 
-f2250reute
-u f BC-AUSTRALIA-TO-PRODUCE   06-18 0119</field>
-	<field name = "TITLE">AUSTRALIA TO PRODUCE SILVER AND PLATINUM COINS</field>
+	<field name = "titulo">AUSTRALIA TO PRODUCE SILVER AND PLATINUM COINS</field>
 	<field name = "DATELINE">CANBERRA, June 18 -</field>
-	<field name = "BODY">The Australian government has given
+	<field name = "content">The Australian government has given
 support in principle to the production of platinum and silver
 bullion coins at the Perth Mint, Treasurer Paul Keating said.
     This followed the success of the Australian Nugget gold

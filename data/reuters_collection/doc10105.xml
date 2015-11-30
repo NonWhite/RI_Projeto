@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2269reute
-u f BC-USX-X>-SAYS-TALKS-EN   03-26 0105</field>
-	<field name = "TITLE">USX X> SAYS TALKS ENDED WITH BRITISH PETROLEUM</field>
+	<field name = "titulo">USX X> SAYS TALKS ENDED WITH BRITISH PETROLEUM</field>
 	<field name = "DATELINE">HOUSTON, March 26 -</field>
-	<field name = "BODY">USX Corp chairman David Roderick said
+	<field name = "content">USX Corp chairman David Roderick said
 the company had ended talks with British Petroleum Co Plc BP>
 about the possible sale of some energy assets and said USX has
 no immediate restructuring plans for its oil businesses.

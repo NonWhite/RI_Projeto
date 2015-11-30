@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:53:25.91</field>
-	<field name = "UNKNOWN">CQ LQ
-f2476reute
-u f BC-cash-ham/loin-prices   04-07 0058</field>
-	<field name = "TITLE">CASH WHOLESALE PORK PRICES</field>
+	<field name = "titulo">CASH WHOLESALE PORK PRICES</field>
 	<field name = "DATELINE">FOB RIVER -</field>
-	<field name = "BODY">CLOSE CDT  APRIL 7
+	<field name = "content">CLOSE CDT  APRIL 7
         CENTS PER LB    CHANGE
  BELLIES
  12-14  61-1/2          up 1-1/2

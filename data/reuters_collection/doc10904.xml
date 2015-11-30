@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM A
-f1821reute
-r f AM-TRADE-NEWS-ANALYSIS   03-30 0090</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - U.S. CONGRESS RAPS JAPAN</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - U.S. CONGRESS RAPS JAPAN</field>
 	<field name = "AUTHOR">By Jacqueline Frank, Reuter</field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">The U.S. Congress is making Japan,
+	<field name = "content">The U.S. Congress is making Japan,
 with its enormous worldwide trade surplus, the symbol of the
 U.S. trade crisis and the focus of its efforts to turn around
 America's record trade deficit.

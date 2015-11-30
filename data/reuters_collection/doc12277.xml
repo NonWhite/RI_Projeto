@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 15:58:54.98</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2351reute
-u f BC-CCC-INTEREST-RATE-FOR   04-01 0060</field>
-	<field name = "TITLE">CCC INTEREST RATE FOR APRIL IS SIX PCT -- USDA</field>
+	<field name = "titulo">CCC INTEREST RATE FOR APRIL IS SIX PCT -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">The Commodity Credit Corporation
+	<field name = "content">The Commodity Credit Corporation
 (CCC) interest rate on loans disbursed in April will carry a
 six pct ionterest rate, the U.S. Agriculture Department said.
     The April rate is up from March's 5-7/8 pct and reflects

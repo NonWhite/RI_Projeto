@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 09:53:38.89</field>
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">portugal</field>
-	<field name = "UNKNOWN">C G T M
-f0905reute
-d f PM-MACAO-portugal 1STLD  03-20 0145</field>
-	<field name = "TITLE">LISBON OFFICIAL SAYS "NO PROBLEMS" ON MACAO</field>
+	<field name = "titulo">LISBON OFFICIAL SAYS "NO PROBLEMS" ON MACAO</field>
 	<field name = "DATELINE">PEKING, March 20 -</field>
-	<field name = "BODY">A Portuguese official today said no more
+	<field name = "content">A Portuguese official today said no more
 problems remained in settling the future of Macao, and China's
 Foreign Ministry said an "important announcement" would be made
 at the end of talks on the tiny territory.

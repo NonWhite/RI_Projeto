@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 06:48:20.23</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0534reute
-r f BC-H.K.-M3-MONEY-SUPPLY   03-30 0110</field>
-	<field name = "TITLE">H.K. M3 MONEY SUPPLY RISES 1.4 PCT IN FEBRUARY</field>
+	<field name = "titulo">H.K. M3 MONEY SUPPLY RISES 1.4 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">HONG KONG, March 30 -</field>
-	<field name = "BODY">Hong Kong's broadly defined M-3 money
+	<field name = "content">Hong Kong's broadly defined M-3 money
 supply rose 1.4 pct in February to 615.59 billion H.K. Dlrs
 from January when it rose 2.2 pct, the government said.
     Total M3 rose 22.4 pct from February, 1984. Local currency

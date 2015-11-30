@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 10:55:28.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1397reute
-s f BC-GOTAAS-LARSEN-SHIPPIN   10-19 0023</field>
-	<field name = "TITLE">GOTAAS-LARSEN SHIPPING CORP GOTLF.O> IN PAYOUT</field>
+	<field name = "titulo">GOTAAS-LARSEN SHIPPING CORP GOTLF.O> IN PAYOUT</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Semi div 12 cts vs 12 cts prior
+	<field name = "content">Semi div 12 cts vs 12 cts prior
     Pay Nov 10
     Record Oct 27
  Reuter</field>

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 16:11:11.30</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2502reute
-u f BC-GAF-GAF>-SEEKS-INFOR   04-13 0107</field>
-	<field name = "TITLE">GAF GAF> SEEKS INFORMATION ON BORG-WARNERBOR></field>
+	<field name = "titulo">GAF GAF> SEEKS INFORMATION ON BORG-WARNERBOR></field>
 	<field name = "DATELINE">New York, April 13 -</field>
-	<field name = "BODY">GAF Corp said it is exploring its
+	<field name = "content">GAF Corp said it is exploring its
 options in response to Merrill Lynch Capital Partners' 4.23
 billion dlr offer for Borg-Warner Corp, and it has asked for
 all information that was supplied to Merrill Lynch.

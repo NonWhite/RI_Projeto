@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:52:50.73</field>
-	<field name = "UNKNOWN">C M
-f0594
-reute
-u f BC-U.S.-SAYS-TIN-DISPOSA   03-02 0139</field>
-	<field name = "TITLE">U.S. SAYS TIN DISPOSALS WILL NOT AFFECT ACCORD</field>
+	<field name = "titulo">U.S. SAYS TIN DISPOSALS WILL NOT AFFECT ACCORD</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">U.S. tin disposals should have little
+	<field name = "content">U.S. tin disposals should have little
 effect on an agreement reached last weekend by tin producing
 countries to limit group exports to 96,000 tonnes in the year
 started March 1, a government official said.

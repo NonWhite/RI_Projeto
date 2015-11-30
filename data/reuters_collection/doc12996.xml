@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 12:36:58.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1661reute
-u f BC-FAA-FEARS-CRACKS-ON-O   04-03 0088</field>
-	<field name = "TITLE">FAA FEARS CRACKS ON OLDER MCDONNELL MD> JUMBOS</field>
+	<field name = "titulo">FAA FEARS CRACKS ON OLDER MCDONNELL MD> JUMBOS</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The Federal Aviation Administration
+	<field name = "content">The Federal Aviation Administration
 said it ordered U.S. airlines to inspect their older DC10 jumbo
 jets within five days for hairline cracks in tail areas.
     The FAA action follows a warning to the airlines by the

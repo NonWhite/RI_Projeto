@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 16:24:09.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f9432reute
-u f BC-U.S.-TREASURY-SELLING   03-18 0117</field>
-	<field name = "TITLE">U.S. TREASURY SELLING 25 BILLION DLRS OF NOTES</field>
+	<field name = "titulo">U.S. TREASURY SELLING 25 BILLION DLRS OF NOTES</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">The U.S. Treasury said it will
+	<field name = "content">The U.S. Treasury said it will
 auction 25 billion dlrs of two, four and seven-year notes next
 week to raise a total of 9.275 billion dlrs of new cash.
     The financing will begin with the monthly auction on

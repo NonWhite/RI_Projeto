@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 00:59:46.55</field>
 	<field name = "TOPICS">housing</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0028reute
-b f BC-JAPAN-HOUSING-STARTS   03-31 0094</field>
-	<field name = "TITLE">JAPAN HOUSING STARTS RISE IN FEBRUARY</field>
+	<field name = "titulo">JAPAN HOUSING STARTS RISE IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 31 -</field>
-	<field name = "BODY">Japan's housing starts in February rose
+	<field name = "content">Japan's housing starts in February rose
 13.4 pct from a year earlier to 109,254, the 10th successive
 year-on-year gain, the Construction Ministry said.
     February housing starts were up 16.8 pct from 93,554 in

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:34:27.16</field>
-	<field name = "UNKNOWN">C T
-f1602reute
-b f BC-LONDON-COCOA-CLOSES-N   04-07 0116</field>
-	<field name = "TITLE">LONDON COCOA CLOSES NARROWLY MIXED</field>
+	<field name = "titulo">LONDON COCOA CLOSES NARROWLY MIXED</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Cocoa futures ended a moderate day's
+	<field name = "content">Cocoa futures ended a moderate day's
 trade narrowly mixed from last night at one stg down to two up
 in a 2,227 lot volume including 523 crossed and 278 switches.
     Dealers said contrasting bearish and bullish factors kept

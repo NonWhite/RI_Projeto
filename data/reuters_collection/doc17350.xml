@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">G C
-f2752reute
-r f BC-MANITOBA-SEEDINGS-PRO   04-28 0136</field>
-	<field name = "TITLE">MANITOBA SEEDINGS PROGRESS WELL IN DRY WEATHER</field>
+	<field name = "titulo">MANITOBA SEEDINGS PROGRESS WELL IN DRY WEATHER</field>
 	<field name = "DATELINE">WINNIPEG, April 28 -</field>
-	<field name = "BODY">The Manitoba Agriculture Department
+	<field name = "content">The Manitoba Agriculture Department
 weekly crop report said no measurable precipitation was
 reported across the province in the past week, allowing small
 grain seedings to progress rapidly across the south, with field

@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 08:30:30.77</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f0810reute
-r f BC-NASD-TO-DELIST-LOS-AN   03-11 0110</field>
-	<field name = "TITLE">NASD TO DELIST LOS ANGELES SECURITIES LASG></field>
+	<field name = "titulo">NASD TO DELIST LOS ANGELES SECURITIES LASG></field>
 	<field name = "DATELINE">LOS ANGELES, March 11 -</field>
-	<field name = "BODY">Los Angeles Securities Group said
+	<field name = "content">Los Angeles Securities Group said
 the National Association of Securities Dealers intends to
 delist its securities effective tomorrow because the NASD
 believes that market-making sales of the company's securities

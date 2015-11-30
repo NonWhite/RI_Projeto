@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 06:49:54.14</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM C T G
-f0514reute
-r f BC-WORLD-BANK-CAN-AID-PH   06-02 0104</field>
-	<field name = "TITLE">WORLD BANK CAN AID PHILIPPINES' LAND DEVELOPMENT</field>
+	<field name = "titulo">WORLD BANK CAN AID PHILIPPINES' LAND DEVELOPMENT</field>
 	<field name = "AUTHOR">By Chaitanya Kalbag, Reuters</field>
 	<field name = "DATELINE">MANILA, June 2 -</field>
-	<field name = "BODY">The World Bank's policies prevent it from
+	<field name = "content">The World Bank's policies prevent it from
 lending money for the transfer of land from landowners to the
 landless, but it can help finance development of the
 Philippines' proposed land reform program, a bank official

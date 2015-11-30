@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 12:35:47.03</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f1722reute
-u f BC-FRANCE'S-CNE-ISSUES-6   03-24 0115</field>
-	<field name = "TITLE">FRANCE'S CNE ISSUES 650 MLN FRANC DOMESTIC BOND</field>
+	<field name = "titulo">FRANCE'S CNE ISSUES 650 MLN FRANC DOMESTIC BOND</field>
 	<field name = "DATELINE">PARIS, March 24 -</field>
-	<field name = "BODY">Caisse Nationale de l'Energie is issuing
+	<field name = "content">Caisse Nationale de l'Energie is issuing
 a 650 mln franc, 8.70 pct bond, due October 13, 1997 at par,
 lead managers Banque National de Paris and Union de Garantie et
 de Placement said. Societe Marseillaise de Credit is co-lead.

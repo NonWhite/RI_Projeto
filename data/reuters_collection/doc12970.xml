@@ -4,13 +4,10 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f1503reute
-d f BC-EC-WHEAT-RELEASE-UNLI   04-03 0113</field>
-	<field name = "TITLE">EC WHEAT RELEASE UNLIKELY TO SATISFY U.K. DEMAND</field>
+	<field name = "titulo">EC WHEAT RELEASE UNLIKELY TO SATISFY U.K. DEMAND</field>
 	<field name = "AUTHOR">By Kenneth Brettell, Reuters</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">The European Commission's decision to
+	<field name = "content">The European Commission's decision to
 release an additional 300,000 tonnes of British intervention
 feed wheat for the home market will provide only moderate
 relief in an increasingly tight market, traders said.

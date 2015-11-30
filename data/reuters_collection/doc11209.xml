@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0385reute
-u f BC-ADSTEAM-TO-ACQUIRE-49   03-31 0115</field>
-	<field name = "TITLE">ADSTEAM TO ACQUIRE 49 PCT OF U.K. PROPERTY COMPANY</field>
+	<field name = "titulo">ADSTEAM TO ACQUIRE 49 PCT OF U.K. PROPERTY COMPANY</field>
 	<field name = "DATELINE">ADELAIDE, March 31 -</field>
-	<field name = "BODY">The Adelaide Steamship Co Ltd ADSA.S>
+	<field name = "content">The Adelaide Steamship Co Ltd ADSA.S>
 (Adsteam) said it will subscribe to 30 mln shares in listed
 British property developer, Markheath Securities Plc>, at 60p
 each, subject to shareholder approval.

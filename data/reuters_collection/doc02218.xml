@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 12:04:22.40</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0811reute
-r f BC-UNITEL-VIDEO   03-05 0108</field>
-	<field name = "TITLE">HOLDER PROPOSES UNITEL UNV> SALE OR LIQUIDATION</field>
+	<field name = "titulo">HOLDER PROPOSES UNITEL UNV> SALE OR LIQUIDATION</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Michael Landes, a major stockholder
+	<field name = "content">Michael Landes, a major stockholder
 in Unitel Video Inc, said he has asked the company to consider
 liquidating, or selling some or all of its assets.
     "Mr. Landes has requested the company to implement a

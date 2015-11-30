@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 09:14:26.58</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0849reute
-r f BC-central-capital-sets   03-24 0085</field>
-	<field name = "TITLE">CENTRAL CAPITAL SETS 100 MLN DLR SHARE ISSUE</field>
+	<field name = "titulo">CENTRAL CAPITAL SETS 100 MLN DLR SHARE ISSUE</field>
 	<field name = "DATELINE">HALIFAX, Nova Scotia, March 24 -</field>
-	<field name = "BODY">Central Capital Corp>
+	<field name = "content">Central Capital Corp>
 said it filed a final prospectus in all provinces for a 100 mln
 dlr offering of 7-5/8 pct cumulative redeemable retractable
 senior preferred shares, series A.

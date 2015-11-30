@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 11:59:34.49</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0114
-reute
-r f BC-KAPOK-CORP-KPK>-IN-T   03-02 0069</field>
-	<field name = "TITLE">KAPOK CORP KPK> IN TECHNICAL DEFAULT</field>
+	<field name = "titulo">KAPOK CORP KPK> IN TECHNICAL DEFAULT</field>
 	<field name = "DATELINE">CLEARWATER, Fla., March 2 -</field>
-	<field name = "BODY">Kapok Corp said it is in
+	<field name = "content">Kapok Corp said it is in
 techical default of its loans from Southeast Banking Corp STB>
 and Murray Steinfeld but is negotiating with the lenders.
     It said neither has declared the loans due.

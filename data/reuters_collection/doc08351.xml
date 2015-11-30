@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 11:51:45.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1476reute
-d f BC-HIGH-COURT-LETS-STAND   03-23 0101</field>
-	<field name = "TITLE">HIGH COURT LETS STAND RULING FOR WESTERN UNION</field>
+	<field name = "titulo">HIGH COURT LETS STAND RULING FOR WESTERN UNION</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">The Supreme Court let stand a ruling
+	<field name = "content">The Supreme Court let stand a ruling
 that threw out a 36-mln-dlr judgment that Western Union
 Telegraph Co had been ordered to pay to a now-defunct
 independent teleprinter vendor.

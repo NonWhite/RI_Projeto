@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">F
-f0719reute
-r f BC-HAPAG-ORDERS-NEW-CONT   03-31 0114</field>
-	<field name = "TITLE">HAPAG ORDERS NEW CONTAINER SHIP FROM CHINA</field>
+	<field name = "titulo">HAPAG ORDERS NEW CONTAINER SHIP FROM CHINA</field>
 	<field name = "DATELINE">HAMBURG, March 31 -</field>
-	<field name = "BODY">Hapag Lloyd AG> said it ordered a new
+	<field name = "content">Hapag Lloyd AG> said it ordered a new
 container vessel from China for its Australia service.
     The order was given to the Hudong shipyards> in Shanghai
 after lengthy negotiations with West German shipbuilders, the

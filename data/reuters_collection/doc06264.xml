@@ -4,12 +4,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f6488reute
-r f BC-FARM-PROGRAM-CHANGES   03-17 0134</field>
-	<field name = "TITLE">FARM PROGRAM CHANGES OUTLINED BY USDA OFFICIAL</field>
+	<field name = "titulo">FARM PROGRAM CHANGES OUTLINED BY USDA OFFICIAL</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Upcoming changes being considered in
+	<field name = "content">Upcoming changes being considered in
 the U.S. Agriculture Department's transportation and loan
 programs were outlined by a USDA official today.
     Addressing the annual meeting of the National Grain and

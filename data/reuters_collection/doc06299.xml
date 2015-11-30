@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 16:56:22.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f6611reute
-r f BC-HECHINGER-HECHA>-CON   03-17 0107</field>
-	<field name = "TITLE">HECHINGER HECHA> CONVERTIBLES UPGRADED BY S/P</field>
+	<field name = "titulo">HECHINGER HECHA> CONVERTIBLES UPGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 raised to BBB-plus from BBB Hechinger Co's 86 mln dlrs of
 convertible subordinated debentures of 2009.
     S and P cited Hechinger's outstanding record of sales and

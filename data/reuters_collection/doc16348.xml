@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:14:21.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1347reute
-d f BC-COMBUSTION-ENGINEERIN   04-13 0093</field>
-	<field name = "TITLE">COMBUSTION ENGINEERING CSP> IN SYSTEMS PACT</field>
+	<field name = "titulo">COMBUSTION ENGINEERING CSP> IN SYSTEMS PACT</field>
 	<field name = "DATELINE">STAMFORD, Conn., April 13 -</field>
-	<field name = "BODY">Combustion Engineering Inc said
+	<field name = "content">Combustion Engineering Inc said
 its C-E Environmental Systems and Services Inc unit agreed to
 work with Keeler/Dorr-Oliver, a unit of Standard Oil Co SRD>,
 to develop systems to destroy hazardous wastes.

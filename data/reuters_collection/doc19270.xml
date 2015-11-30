@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1651reute
-u f BC-N-D-RESOURCES-NUDY.O   06-19 0063</field>
-	<field name = "TITLE">N-D RESOURCES NUDY.O> AGREES TO ACQUIRE ATOKA</field>
+	<field name = "titulo">N-D RESOURCES NUDY.O> AGREES TO ACQUIRE ATOKA</field>
 	<field name = "DATELINE">CASTLE ROCK, COLO., June 19 -</field>
-	<field name = "BODY">N-D Resources Inc said it
+	<field name = "content">N-D Resources Inc said it
 agreed in principle to issue an undetermined number of shares
 to Recovery Resources Corp, Bahrain, in order to acquire
 Recovery's Atoka Gas Gathering Systems Inc.

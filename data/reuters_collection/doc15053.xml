@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:15:46.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1356reute
-r f BC-AVNET-INC-AVT>-FILES   04-08 0093</field>
-	<field name = "TITLE">AVNET INC AVT> FILES FOR DEBENTURE OFFERING</field>
+	<field name = "titulo">AVNET INC AVT> FILES FOR DEBENTURE OFFERING</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Anvet Inc said it filed with the
+	<field name = "content">Anvet Inc said it filed with the
 Securities and Exchange Commission a registration statement for
 a proposed public offering of 150 mln dlrs of convertible
 subordinated debentures due 2012.

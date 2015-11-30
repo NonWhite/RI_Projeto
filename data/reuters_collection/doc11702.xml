@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 16:46:35.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V
-f2680reute
-u f BC-/U.S.-SELLING-17-BILL   03-31 0110</field>
-	<field name = "TITLE">U.S. SELLING 17 BILLION DLRS OF 9-, 20-DAY BILLS</field>
+	<field name = "titulo">U.S. SELLING 17 BILLION DLRS OF 9-, 20-DAY BILLS</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">The U.S. Treasury said it will
+	<field name = "content">The U.S. Treasury said it will
 auction 17 billion dlrs of 9-day and 20-day cash management
 bills on April 2.
     The auction will consist of 11 billion dlrs in 9-day bills

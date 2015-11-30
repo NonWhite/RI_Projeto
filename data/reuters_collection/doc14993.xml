@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:05:16.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1020reute
-r f BC-ENDOTRONICS-SEEKS-TO   04-08 0090</field>
-	<field name = "TITLE">ENDOTRONICS SEEKS TO ESTABLISH 2ND QTR RESERVE</field>
+	<field name = "titulo">ENDOTRONICS SEEKS TO ESTABLISH 2ND QTR RESERVE</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 8 -</field>
-	<field name = "BODY">Endotronics Inc said because of its
+	<field name = "content">Endotronics Inc said because of its
 decisions to discontinue development of health care products,
 reorganize under Chapter 11 and establish adequate allowances
 for uncollectible receivables, it expects to establish reserves

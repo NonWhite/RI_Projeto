@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 05:09:20.55</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f7251reute
-u f BC-TURNER-AND-NEWALL-SEE   03-18 0094</field>
-	<field name = "TITLE">TURNER AND NEWALL SEEKS 71.7 MLN STG IN RIGHTS</field>
+	<field name = "titulo">TURNER AND NEWALL SEEKS 71.7 MLN STG IN RIGHTS</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">Turner and Newall Plc said it planned to
+	<field name = "content">Turner and Newall Plc said it planned to
 raise a net 71.7 mln stg with a one-for-six rights issue of
 36.15 mln shares.
     The shares would be offered at 205p, compared with Turner's

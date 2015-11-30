@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:34:36.45</field>
-	<field name = "UNKNOWN">RM C M
-f0181reute
-u f BC-SILVER-OPENS-HIGHER-I   04-07 0107</field>
-	<field name = "TITLE">SILVER OPENS HIGHER IN ZURICH, GOLD UNCHANGED</field>
+	<field name = "titulo">SILVER OPENS HIGHER IN ZURICH, GOLD UNCHANGED</field>
 	<field name = "DATELINE">ZURICH, April 7 -</field>
-	<field name = "BODY">Silver, trading at around two year highs,
+	<field name = "content">Silver, trading at around two year highs,
 began sharply higher in relatively active trading, pulling
 platinum up a little in its wake, dealers said. However, gold
 began little changed.

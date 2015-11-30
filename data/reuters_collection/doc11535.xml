@@ -4,12 +4,9 @@
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C G
-f2070reute
-r f BC-china-crop-weather   03-31 0105</field>
-	<field name = "TITLE">CHINA CROP WEATHER SUMMARY -- USDA/NOAA</field>
+	<field name = "titulo">CHINA CROP WEATHER SUMMARY -- USDA/NOAA</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Moderate to heavy rain continued
+	<field name = "content">Moderate to heavy rain continued
 over early double-crop rice areas in eastern Guangxi,
 Guanghdong, eastern Hunan, Jiangxi, Fujian, and Zhejiang in the
 week ended March 28, the Joint Agricultural Weather Facility of

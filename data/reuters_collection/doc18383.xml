@@ -2,12 +2,9 @@
 	<field name = "DATE">15-JUN-1987 11:36:19.03</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f1413reute
-r f BC-LEWIS-GALOOB-GATO.O>   06-15 0060</field>
-	<field name = "TITLE">LEWIS GALOOB GATO.O> CLEARED FOR NYSE LISTING</field>
+	<field name = "titulo">LEWIS GALOOB GATO.O> CLEARED FOR NYSE LISTING</field>
 	<field name = "DATELINE">SOUTH SAN FRANCISCO, Calif., June 15 -</field>
-	<field name = "BODY">Lewis Galoob Toys
+	<field name = "content">Lewis Galoob Toys
 Inc said it has been cleared to apply for New York Stock
 Exchange listing, and it has filed a formal application.
     the company said it expects to be listed on the NYSE by the

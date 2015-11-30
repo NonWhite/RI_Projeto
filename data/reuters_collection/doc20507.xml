@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:02:50.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2578reute
-u f BC-TEXACO-TX>-EXPECTS-T   10-20 0101</field>
-	<field name = "TITLE">TEXACO TX> EXPECTS TEXAS COURT TO HEAR CASE</field>
+	<field name = "titulo">TEXACO TX> EXPECTS TEXAS COURT TO HEAR CASE</field>
 	<field name = "DATELINE">HOUSTON, Oct 20 -</field>
-	<field name = "BODY">Texaco Inc chairman Alfred DeCrane said
+	<field name = "content">Texaco Inc chairman Alfred DeCrane said
 the company anticipates that the Texas State Supreme Court will
 agree to hear its 10.3 billion dlr legal battle with Pennzoil
 Co PZL> over ownership of Getty Oil.

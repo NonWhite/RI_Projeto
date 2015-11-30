@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 14:10:23.37</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F Y
-f0366reute
-d f BC-TOTAL-STILL-EXPECTS-1   03-04 0107</field>
-	<field name = "TITLE">TOTAL STILL EXPECTS 1.5 BILLION FRANC 1986 LOSS</field>
+	<field name = "titulo">TOTAL STILL EXPECTS 1.5 BILLION FRANC 1986 LOSS</field>
 	<field name = "DATELINE">PARIS, March 4 -</field>
-	<field name = "BODY">French oil group Total Cie Francaise des
+	<field name = "content">French oil group Total Cie Francaise des
 Petroles TPN.PA> is still expecting a 1.5 billion franc
 consolidated net loss, including minority interests, for 1986,
 after taking account of stock losses of 7.5 billion francs, the

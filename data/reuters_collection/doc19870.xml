@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 15:46:00.18</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f2363reute
-r f BC-candian-tire-hopes-to   06-29 0089</field>
-	<field name = "TITLE">CANADIAN TIRE CTC.TO> HOPES TO SOLVE DISPUTE</field>
+	<field name = "titulo">CANADIAN TIRE CTC.TO> HOPES TO SOLVE DISPUTE</field>
 	<field name = "DATELINE">TORONTO, June 29 -</field>
-	<field name = "BODY">Canadian Tire Corp Ltd said it still
+	<field name = "content">Canadian Tire Corp Ltd said it still
 hopes a special board committee can solve a voting rights
 dispute between class A and common stock shareholders.
     "Although no such proposal has yet been developed, the

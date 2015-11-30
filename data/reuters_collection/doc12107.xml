@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 12:51:17.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1731reute
-d f BC-PROPOSED-OFFERINGS   04-01 0098</field>
-	<field name = "TITLE">PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</field>
+	<field name = "titulo">PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">The following proposed securities
+	<field name = "content">The following proposed securities
 offerings were filed recently with the Securities and Exchange
 Commission:
     Southeast Banking Corp STB> - Offering of 50 mln dlrs of

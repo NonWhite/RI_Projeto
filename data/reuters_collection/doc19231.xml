@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 11:41:44.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1319reute
-u f BC-GTE-(GTE)-DEVELOPS-NE   06-19 0127</field>
-	<field name = "TITLE">GTE GTE> DEVELOPS METHOD FOR MAKING TRANSISTORS</field>
+	<field name = "titulo">GTE GTE> DEVELOPS METHOD FOR MAKING TRANSISTORS</field>
 	<field name = "DATELINE">WALTHAM, Mass., June 19 -</field>
-	<field name = "BODY">GTE Corp scientists said they
+	<field name = "content">GTE Corp scientists said they
 have discoverd a much simpler method for producing transistors
 by creating an entirely new electronic material.
     The new method, they said, consists of simultaneously

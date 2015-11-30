@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 11:49:31.32</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f1466reute
-d f BC-CAPITAL-ASSOCIATES-C   04-21 0053</field>
-	<field name = "TITLE">CAPITAL ASSOCIATES CAII.O> TO TRADE ON NASDAQ</field>
+	<field name = "titulo">CAPITAL ASSOCIATES CAII.O> TO TRADE ON NASDAQ</field>
 	<field name = "DATELINE">COLORADO SPRINGS, Colo., April 21 -</field>
-	<field name = "BODY">Capital Associates Inc
+	<field name = "content">Capital Associates Inc
 said its common stock will be included in NASDAQ's national
 market system, starting today.
     Capital Associates is an equipment leasing and financial

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f1920reute
-u f BC-FRANCE-REVISES-1986-G   04-24 0083</field>
-	<field name = "TITLE">FRANCE REVISES 1986 GDP GROWTH FROM TWO TO 1.9 PCT</field>
+	<field name = "titulo">FRANCE REVISES 1986 GDP GROWTH FROM TWO TO 1.9 PCT</field>
 	<field name = "DATELINE">PARIS, April 24 -</field>
-	<field name = "BODY">France's National Statistics Institute
+	<field name = "content">France's National Statistics Institute
 (INSEE) said French 1986 Gross Domestic Product (GDP) grew by
 1.9 pct, after Finance Minister Edouard Balladur reported a
 1986 rise of just two pct in February.

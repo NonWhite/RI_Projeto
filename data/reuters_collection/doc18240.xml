@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 15:27:37.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2446reute
-u f BC-NUCLEAR-DATA-NDI>-FI   06-02 0095</field>
-	<field name = "TITLE">NUCLEAR DATA NDI> FINANCIAL DATA QUALIFIED</field>
+	<field name = "titulo">NUCLEAR DATA NDI> FINANCIAL DATA QUALIFIED</field>
 	<field name = "DATELINE">SCHAUMBURG, ILL., June 2 -</field>
-	<field name = "BODY">Nuclear Data Inc said its
+	<field name = "content">Nuclear Data Inc said its
 auditors, Ernst and Whinney, quaified their opinion on its
 financial statements for the fiscal year ended February 28.
     As previously reported, Nuclear Data's bank debt matures on

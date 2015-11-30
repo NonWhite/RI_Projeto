@@ -5,12 +5,9 @@
 	<field name = "PEOPLE">conable</field>
 	<field name = "ORGS">worldbank</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM C G L M T
-f0614reute
-u f BC-WORLD-BANK-CHIEF-CONC   03-26 0101</field>
-	<field name = "TITLE">WORLD BANK CHIEF CONCERNED ABOUT BRAZIL ECONOMY</field>
+	<field name = "titulo">WORLD BANK CHIEF CONCERNED ABOUT BRAZIL ECONOMY</field>
 	<field name = "DATELINE">TOKYO, March 26 -</field>
-	<field name = "BODY">World Bank president Barber Conable said
+	<field name = "content">World Bank president Barber Conable said
 he was concerned about the state of Brazil's economy and urged
 the country to come up with a plan soon to put its economic
 house in order.

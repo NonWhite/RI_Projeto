@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 12:26:18.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1648reute
-u f BC-CORROON/BLACK-CBL>-S   04-09 0107</field>
-	<field name = "TITLE">CORROON/BLACK CBL> SAYS UNIT IN LLOYD'S FUND</field>
+	<field name = "titulo">CORROON/BLACK CBL> SAYS UNIT IN LLOYD'S FUND</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Corroon and Black Corp said Minet
+	<field name = "content">Corroon and Black Corp said Minet
 Holdings PLC>, of which it owns 25 pct, agreed to participate
 in a 103 mln stg fund set up by Lloyd's of London to cover part
 of the claims faced by PCW underwriting agencies.

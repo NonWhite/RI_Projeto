@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 11:06:20.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1163reute
-r f BC-FORD-F>-UNIT-TO-BUIL   06-19 0075</field>
-	<field name = "TITLE">FORD F> UNIT TO BUILD PLANT FOR TOKICO</field>
+	<field name = "titulo">FORD F> UNIT TO BUILD PLANT FOR TOKICO</field>
 	<field name = "DATELINE">DEARBORN, Mich., June 19 -</field>
-	<field name = "BODY">Ford Motor Land Development
+	<field name = "content">Ford Motor Land Development
 Corp, a wholly owned real estate subsidiary of Ford Motor Co,
 said it will build a 48,000 square foot facility for (Tokico
 America Inc) in return for a long-term lease.

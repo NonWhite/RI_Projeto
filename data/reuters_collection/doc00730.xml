@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 15:40:19.41</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0915
-reute
-d f BC-INT'L-HYDRON-CORP-HY   03-02 0085</field>
-	<field name = "TITLE">INT'L HYDRON CORP HYD> 4TH QTR OPER NET</field>
+	<field name = "titulo">INT'L HYDRON CORP HYD> 4TH QTR OPER NET</field>
 	<field name = "DATELINE">WOODBURY, N.Y., March 2 -</field>
-	<field name = "BODY">Oper shr profit six cts vs loss 20 cts
+	<field name = "content">Oper shr profit six cts vs loss 20 cts
     Oper net profit 734,000 vs loss 2,312,000
     Revs 16.8 mln vs 13.9 mln
     Year

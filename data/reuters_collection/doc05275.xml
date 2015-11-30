@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 07:30:05.22</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f1623reute
-u f BC-ALUSUISSE-SHARES-FALL   03-16 0111</field>
-	<field name = "TITLE">ALUSUISSE SHARES FALL AFTER CAPITAL CUT NEWS</field>
+	<field name = "titulo">ALUSUISSE SHARES FALL AFTER CAPITAL CUT NEWS</field>
 	<field name = "DATELINE">ZURICH, March 16 -</field>
-	<field name = "BODY">Bearer shares of Schweizerische
+	<field name = "content">Bearer shares of Schweizerische
 Aluminium AG ALUZ.Z> (Alusuisse) fell sharply as trading
 resumed after a one-day suspension on Friday, when the firm
 disclosed plans for a capital cut.

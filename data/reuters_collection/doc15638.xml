@@ -2,13 +2,10 @@
 	<field name = "DATE">9-APR-1987 11:26:15.27</field>
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1328reute
-u f BC-TALKING-POINT/STEEL-C   04-09 0102</field>
-	<field name = "TITLE">TALKING POINT/STEEL COMPANIES</field>
+	<field name = "titulo">TALKING POINT/STEEL COMPANIES</field>
 	<field name = "AUTHOR">By Steven Radwell, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Steel stocks, which have had a healthy
+	<field name = "content">Steel stocks, which have had a healthy
 runup recently, still present some short term investment
 opportunities, according to some steel analysts.
     But others say the upturn, based on strong orders and firm

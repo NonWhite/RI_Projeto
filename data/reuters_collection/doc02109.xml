@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 10:53:16.63</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0431reute
-b f BC-FRENCH-OFFICIAL-RESER   03-05 0066</field>
-	<field name = "TITLE">FRENCH OFFICIAL RESERVES FALL SHARPLY IN JANUARY</field>
+	<field name = "titulo">FRENCH OFFICIAL RESERVES FALL SHARPLY IN JANUARY</field>
 	<field name = "DATELINE">PARIS, March 5 -</field>
-	<field name = "BODY">French official reserves fell 45.06
+	<field name = "content">French official reserves fell 45.06
 billion francs to 375.95 billion at the end of January from
 421.00 billion at the end of December, the Finance Ministry
 said in a statement.

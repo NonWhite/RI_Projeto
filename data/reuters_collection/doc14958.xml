@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 09:09:18.73</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G L M T
-f0856reute
-u f BC-INDEPENDENT-CHAIRMAN   04-08 0138</field>
-	<field name = "TITLE">INDEPENDENT CHAIRMAN FOR DUTCH CARGO DISPUTE</field>
+	<field name = "titulo">INDEPENDENT CHAIRMAN FOR DUTCH CARGO DISPUTE</field>
 	<field name = "DATELINE">ROTTERDAM, April 8 -</field>
-	<field name = "BODY">The two sides in the Rotterdam port
+	<field name = "content">The two sides in the Rotterdam port
 general cargo dispute have agreed to appoint an independent
 chairman, Han Lammers, to preside over future meetings,
 employers' spokesman Gerard Zeebregts said.

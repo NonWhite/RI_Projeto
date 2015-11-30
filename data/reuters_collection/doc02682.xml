@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0607reute
-b f BC-/-FED-SETS-ONE-BILLIO   03-06 0057</field>
-	<field name = "TITLE">FED SETS ONE BILLION DLR CUSTOMER REPO</field>
+	<field name = "titulo">FED SETS ONE BILLION DLR CUSTOMER REPO</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">The Federal Reserve entered the
+	<field name = "content">The Federal Reserve entered the
 government securities market to arrange one billion dlrs of
 customer repurchase agreements, a spokesman for the New York
 Fed said.

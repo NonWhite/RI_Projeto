@@ -11,13 +11,10 @@
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">indonesia</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">C G L M T
-f0051reute
-u f BC-ECONOMIC-SPOTLIGHT--   03-20 0101</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - ASIAN DROUGHTS</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - ASIAN DROUGHTS</field>
 	<field name = "AUTHOR">By Gavin Greenwood, Reuters</field>
 	<field name = "DATELINE">HONG KONG, March 20 -</field>
-	<field name = "BODY">Three geographically diverse droughts
+	<field name = "content">Three geographically diverse droughts
 in Asia are being linked by some scientists to a
 reintensification of the complex and little-understood El Nino
 weather pattern, Accu-Weather Inc>, a commercial weather

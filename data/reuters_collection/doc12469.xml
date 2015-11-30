@@ -5,12 +5,9 @@
 	<field name = "TOPICS">yen</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0638reute
-u f BC-BANK-OF-JAPAN-INTERVE   04-02 0081</field>
-	<field name = "TITLE">BANK OF JAPAN INTERVENES JUST AFTER TOKYO OPENING</field>
+	<field name = "titulo">BANK OF JAPAN INTERVENES JUST AFTER TOKYO OPENING</field>
 	<field name = "DATELINE">TOKYO, April 2 -</field>
-	<field name = "BODY">The Bank of Japan intervened just after
+	<field name = "content">The Bank of Japan intervened just after
 the Tokyo market opened, buying dollars at around 147.65 yen,
 dealers said.
     They were unsure of the amount of the central bank's

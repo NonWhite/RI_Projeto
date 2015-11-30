@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">C G
-f2673reute
-u f BC-RAINS-AID-MANITOBA-CR   06-02 0128</field>
-	<field name = "TITLE">RAINS AID MANITOBA CROPS DURING WEEK</field>
+	<field name = "titulo">RAINS AID MANITOBA CROPS DURING WEEK</field>
 	<field name = "DATELINE">WINNIPEG, June 2 -</field>
-	<field name = "BODY">Widespread, soaking rains aided crop
+	<field name = "content">Widespread, soaking rains aided crop
 development across the province, with the northwest crop
 producing region receiving the most precipitation, according to
 the Manitoba Agriculture weekly crop report.

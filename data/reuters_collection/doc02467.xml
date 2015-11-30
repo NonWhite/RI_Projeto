@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 16:34:32.59</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V
-f0822reute
-b f BC-u.s.-money-supply-m-1   03-05 0093</field>
-	<field name = "TITLE">U.S. M-1 MONEY SUPPLY RISES 1.9 BILLION DLRS</field>
+	<field name = "titulo">U.S. M-1 MONEY SUPPLY RISES 1.9 BILLION DLRS</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">U.S. M-1 money supply rose 1.9 billion
+	<field name = "content">U.S. M-1 money supply rose 1.9 billion
 dlrs to a seasonally adjusted 738.5 billion dlrs in the
 February 23 week, the Federal Reserve said.
     The previous week's M-1 level was revised to 736.6 billion

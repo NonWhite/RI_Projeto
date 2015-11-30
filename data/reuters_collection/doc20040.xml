@@ -1,8 +1,5 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 05:03:42.33</field>
 	<field name = "EXCHANGES">pse</field>
-	<field name = "UNKNOWN">F 
-f0303reute
-f f BC-Paris-share-price-ind   10-20 0010</field>
-	<field name = "TITLE">Paris share price indicator opens 2.31 pct down - official</field>
+	<field name = "titulo">Paris share price indicator opens 2.31 pct down - official</field>
 </doc></add>

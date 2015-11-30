@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:51:22.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1726reute
-d f BC-GENCORP-GY>-RKO-UNIT   10-19 0106</field>
-	<field name = "TITLE">GENCORP GY> RKO UNIT ASKS TO KEEP FCC LICENSES</field>
+	<field name = "titulo">GENCORP GY> RKO UNIT ASKS TO KEEP FCC LICENSES</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">RKO General Inc, a unit of GenCorp
+	<field name = "content">RKO General Inc, a unit of GenCorp
 Inc, said it asked the Federal Communications Commission (FCC)
 to reverse a preliminary ruling by an agency hearing officer
 and let it keep its 14 broadcast licenses.

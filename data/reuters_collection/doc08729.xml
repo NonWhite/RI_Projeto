@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0921reute
-u f BC-PRINCEVILLE-PVDC>-GE   03-24 0115</field>
-	<field name = "TITLE">PRINCEVILLE PVDC> GETS LETTER OF CREDIT</field>
+	<field name = "titulo">PRINCEVILLE PVDC> GETS LETTER OF CREDIT</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Qintex Ltd> of Brisbane said Westpac
+	<field name = "content">Qintex Ltd> of Brisbane said Westpac
 Banking Corp> of Australia has issued a commitment letter to
 provide Princeville Development Corp with the letter of credit
 required under Qintex's proposed acquisition of Princeville.

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 16:12:02.57</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM V
-f2396reute
-b f BC-/BANKAMERICA-BAC>-PU   04-01 0096</field>
-	<field name = "TITLE">BANKAMERICA BAC> PUTS BRAZIL ON NON-ACCRUAL</field>
+	<field name = "titulo">BANKAMERICA BAC> PUTS BRAZIL ON NON-ACCRUAL</field>
 	<field name = "DATELINE">SAN FRANCISCO, April 1 -</field>
-	<field name = "BODY">BankAmerica Corp said it placed
+	<field name = "content">BankAmerica Corp said it placed
 its 1.9 billion dlrs in medium- and long-term term loans to the
 Brazilian public and private sectors on non-accrual status as
 of March 31.

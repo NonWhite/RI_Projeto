@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 16:40:11.27</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2445reute
-u f BC-USPCI-UPC>-SEEN-REJE   06-01 0078</field>
-	<field name = "TITLE">USPCI UPC> SEEN REJECTING UNION PACIFIC BID</field>
+	<field name = "titulo">USPCI UPC> SEEN REJECTING UNION PACIFIC BID</field>
 	<field name = "DATELINE">CHICAGO, June 1 - USPCI Inc likely will reject a 43-dlr-a-</field>
-	<field name = "BODY">share bid made last Wednesday by Union Pacific Corp (UNP), 
+	<field name = "content">share bid made last Wednesday by Union Pacific Corp (UNP), 
 analysts said.
     "The offer is inadequate," said Douglas Augenthaler, an
 analyst with E.F. Hutton, noting that it does not represent the

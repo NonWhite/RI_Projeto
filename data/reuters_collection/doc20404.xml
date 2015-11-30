@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 12:55:33.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2166reute
-r f BC-AUDIO/VIDEO-AFFILIATE   10-20 0087</field>
-	<field name = "TITLE">AUDIO/VIDEO AFFILIATES AVA> TO PURCHASE SHARES</field>
+	<field name = "titulo">AUDIO/VIDEO AFFILIATES AVA> TO PURCHASE SHARES</field>
 	<field name = "DATELINE">DAYTON, Ohio, Oct 20 -</field>
-	<field name = "BODY">Audio/Video Affiliates Inc said it
+	<field name = "content">Audio/Video Affiliates Inc said it
 has authorized the purchase of up to 2.5 mln shares of its
 common stock, in market transactions, from time to time.
     The company said the purchases were authorized because it

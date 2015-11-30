@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 12:48:28.42</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0730reute
-r f BC-FRANKLIN-RESOURCES-B   03-13 0057</field>
-	<field name = "TITLE">FRANKLIN RESOURCES BEN> SAYS NET MAY DOUBLE</field>
+	<field name = "titulo">FRANKLIN RESOURCES BEN> SAYS NET MAY DOUBLE</field>
 	<field name = "DATELINE">SAN MATEO, Calif., March 13 -</field>
-	<field name = "BODY">Franklin Resources Inc said
+	<field name = "content">Franklin Resources Inc said
 it believes earnings could double this year as compared to a
 year ago when the company reported income of 32 mln dlrs on 143
 mln dlrs in revenues.

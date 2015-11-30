@@ -7,12 +7,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">G C
-f0255reute
-b f BC-CBT-TRADERS-SEE-LOWER   03-09 0107</field>
-	<field name = "TITLE">CBT TRADERS SEE LOWER SOYBEAN EXPORT INSPECTIONS</field>
+	<field name = "titulo">CBT TRADERS SEE LOWER SOYBEAN EXPORT INSPECTIONS</field>
 	<field name = "DATELINE">CHICAGO, March 9 -</field>
-	<field name = "BODY">The USDA's weekly export inspection
+	<field name = "content">The USDA's weekly export inspection
 report is expected to show a decline in soybean exports and
 steady to slightly lower corn and wheat exports, according to
 CBT floor traders' forecasts.

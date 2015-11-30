@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:40:18.58</field>
-	<field name = "UNKNOWN">M
-f1340reute
-u f BC-abms-aluminum-stocks   04-07 0128</field>
-	<field name = "TITLE">U.S. ALUMINUM STOCKS HIGHER IN DECEMBER - ABMS</field>
+	<field name = "titulo">U.S. ALUMINUM STOCKS HIGHER IN DECEMBER - ABMS</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Total U.S. aluminum stocks held by
+	<field name = "content">Total U.S. aluminum stocks held by
 integrated and non-integrated producers and smelters including
 scrap, ingot, metal in process and finished products rose to
 2,470,000 short tons in December from 2,451,000 short tons in

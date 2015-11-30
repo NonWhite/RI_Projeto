@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 15:02:10.01</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3370reute
-r f BC-QUADREX-CORP-QUAD>-4   03-16 0049</field>
-	<field name = "TITLE">QUADREX CORP QUAD> 4TH QTR JAN 31 LOSS</field>
+	<field name = "titulo">QUADREX CORP QUAD> 4TH QTR JAN 31 LOSS</field>
 	<field name = "DATELINE">CAMPBELL, Calif., March 16 -</field>
-	<field name = "BODY">Shr loss eight cts vs loss 20 cts
+	<field name = "content">Shr loss eight cts vs loss 20 cts
     Net loss 586,000 vs los 1,497,000
     Revs 13.8 mln vs 14.4 mln
     Year

@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 11:20:03.62</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8287reute
-d f BC-ZENITH-LABORATORIES-I   03-18 0072</field>
-	<field name = "TITLE">ZENITH LABORATORIES INC ZEN> 4TH QTR LOSS</field>
+	<field name = "titulo">ZENITH LABORATORIES INC ZEN> 4TH QTR LOSS</field>
 	<field name = "DATELINE">RAMSEY, N.J., March 18 -</field>
-	<field name = "BODY">Shr loss 24 cts vs profit 23 cts
+	<field name = "content">Shr loss 24 cts vs profit 23 cts
     Net loss 5,106,000 vs profit 5,120,000
     Sales 11.4 mln vs 20.4 mln
     Year

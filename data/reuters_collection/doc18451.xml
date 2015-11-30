@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0431reute
-b f BC-BUNDESBANK-MAY-LIFT-V   06-16 0112</field>
-	<field name = "TITLE">BUNDESBANK MAY LIFT VETO ON ECU USE - SOURCES</field>
+	<field name = "titulo">BUNDESBANK MAY LIFT VETO ON ECU USE - SOURCES</field>
 	<field name = "DATELINE">FRANKFURT, June 16 -</field>
-	<field name = "BODY">The Bundesbank could announce today
+	<field name = "content">The Bundesbank could announce today
 that it will lift its veto on the private holding of European
 Currency Unit (ECU) liabilities, banking sources said.
     But this would probably be the only significant news from

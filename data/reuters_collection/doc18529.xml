@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 06:28:07.19</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F 
-f2520reute
-u f BC-FRENCH-STATE-SELL-OFF   06-18 0101</field>
-	<field name = "TITLE">FRENCH STATE SELL-OFFS RAISE 52 BILLION FRANCS</field>
+	<field name = "titulo">FRENCH STATE SELL-OFFS RAISE 52 BILLION FRANCS</field>
 	<field name = "DATELINE">PARIS, June 17 -</field>
-	<field name = "BODY">The French government's privatisation
+	<field name = "content">The French government's privatisation
 program, which began late last year, has earned the French
 State about 52 billion francs to date, the Finance Ministry
 said.

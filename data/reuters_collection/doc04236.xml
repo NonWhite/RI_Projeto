@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 10:19:40.20</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0142reute
-d f BC-BIOTECH-CAPITAL-BITC   03-12 0065</field>
-	<field name = "TITLE">BIOTECH CAPITAL BITC> TO BUY MAGAZINE</field>
+	<field name = "titulo">BIOTECH CAPITAL BITC> TO BUY MAGAZINE</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Biotech Capital Corp said it agreed to
+	<field name = "content">Biotech Capital Corp said it agreed to
 buy High Technology magazine from the Goldhirsh Group of
 Boston.
     Terms were not disclosed.

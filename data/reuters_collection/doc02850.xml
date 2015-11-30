@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 16:02:51.77</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f0498reute
-d f BC-USDA-TO-CONDUCT-SURVE   03-06 0134</field>
-	<field name = "TITLE">USDA TO CONDUCT SURVEY FOR AVIAN INFLUENZA</field>
+	<field name = "titulo">USDA TO CONDUCT SURVEY FOR AVIAN INFLUENZA</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">U.S. Agriculture Department animal
+	<field name = "content">U.S. Agriculture Department animal
 health officials are conducting a national survey of live-bird
 markets and auctions to check for signs of avian influenza, an
 infectious viral disease of poultry, the department said.

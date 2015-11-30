@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 10:11:02.64</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2123reute
-d f BC-smoky-river-coal-in-c   03-16 0063</field>
-	<field name = "TITLE">SMOKY RIVER SIGNS COAL SUPPLY AGREEMENT</field>
+	<field name = "titulo">SMOKY RIVER SIGNS COAL SUPPLY AGREEMENT</field>
 	<field name = "DATELINE">Calgary, Alberta, March 16 -</field>
-	<field name = "BODY">Smoky River Coal Ltd, operator
+	<field name = "content">Smoky River Coal Ltd, operator
 of the Smoky River coal mine near Grande Cache, Alberta, said
 it agreed to supply 1.5 metric tons of metallurgical coal in
 the next five years to Pohang Iron and Steel Co of Korea.

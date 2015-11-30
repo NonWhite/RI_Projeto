@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 08:18:26.57</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0686reute
-u f BC-USAIR-U>-CUTS-PIEDMO   03-23 0109</field>
-	<field name = "TITLE">USAIR U> CUTS PIEDMONT PIE> SHARES SOUGHT</field>
+	<field name = "titulo">USAIR U> CUTS PIEDMONT PIE> SHARES SOUGHT</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">USAir Group Inc said it has amended
+	<field name = "content">USAir Group Inc said it has amended
 its 69 dlr per share tender offer for shares of Piedmont
 Aviation Inc to reduce the maximum number it will accept to
 9,309,394. Previously it had sought all shares.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F M C
-f0312reute
-u f BC-NIPPON-STEEL,-INLAND   03-11 0082</field>
-	<field name = "TITLE">NIPPON STEEL, INLAND DISCUSSING U.S. JOINT VENTURE</field>
+	<field name = "titulo">NIPPON STEEL, INLAND DISCUSSING U.S. JOINT VENTURE</field>
 	<field name = "DATELINE">TOKYO, March 11 -</field>
-	<field name = "BODY">Nippon Steel Corp NSTC.T> and Inland
+	<field name = "content">Nippon Steel Corp NSTC.T> and Inland
 Steel Co> of the U.S. Are negotiating to set up a joint steel
 venture in Indiana, a Nippon Steel spokesman said, declining to
 give more details.

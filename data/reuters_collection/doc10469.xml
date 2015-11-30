@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:11:53.63E F</field>
-	<field name = "UNKNOWN">f1182reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">r f BC-galactic-adopts   03-27 0105</field>
-	<field name = "TITLE">GALACTIC GALCF> ADOPTS CONSERVATIVE ACCOUNTING</field>
+	<field name = "titulo">GALACTIC GALCF> ADOPTS CONSERVATIVE ACCOUNTING</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, March 27 -</field>
-	<field name = "BODY">Galactic Resources
+	<field name = "content">Galactic Resources
 Ltd, earlier reporting a 1986 loss of 25.6 mln U.S. dlrs, said
 it adopted a more conservative accounting policy, similar to
 other gold producers' accounting for exploration costs.

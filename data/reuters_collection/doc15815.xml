@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 14:17:39.26</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f2051reute
-b f BC-CANADIAN-BANK-RATE-RI   04-09 0078</field>
-	<field name = "TITLE">CANADIAN BANK RATE RISES IN WEEK</field>
+	<field name = "titulo">CANADIAN BANK RATE RISES IN WEEK</field>
 	<field name = "DATELINE">OTTAWA, April 9 -</field>
-	<field name = "BODY">Canada's key bank rate rose to 7.20 pct
+	<field name = "content">Canada's key bank rate rose to 7.20 pct
 from 7.15 pct the week before, Bank of Canada said.
     Bank rate is set 1/4 percentage point above the average
 yield on the weekly issue of 91-day treasury bills. This week's

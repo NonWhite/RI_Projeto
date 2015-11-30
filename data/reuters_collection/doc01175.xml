@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 12:43:33.36</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0125reute
-r f BC-INTERMEDICS-INC-ITM>   03-03 0069</field>
-	<field name = "TITLE">INTERMEDICS INC ITM> 1ST QTR FEB ONE NET</field>
+	<field name = "titulo">INTERMEDICS INC ITM> 1ST QTR FEB ONE NET</field>
 	<field name = "DATELINE">ANGLETON, Texas, March 3 -</field>
-	<field name = "BODY">Oper shr 26 cts vs 18 cts
+	<field name = "content">Oper shr 26 cts vs 18 cts
     Oper net 2,877,000 vs 1,838,000
     Revs 44.3 mln vs 40.8 mln
     NOTE: Current 1st qtr oper net excludes operating loss

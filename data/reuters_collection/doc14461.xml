@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:18:38.26</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">RM F A
-f2202reute
-u f BC-chase-manhattan-to-cl   04-07 0090</field>
-	<field name = "TITLE">CHASE MANHATTAN TO CLOSE PERU CONSUMER OPERATION</field>
+	<field name = "titulo">CHASE MANHATTAN TO CLOSE PERU CONSUMER OPERATION</field>
 	<field name = "DATELINE">Lima, april 7 -</field>
-	<field name = "BODY">the chase manhattan bank, N.A. CMB>, is
+	<field name = "content">the chase manhattan bank, N.A. CMB>, is
 closing its peruvian consumer banking operations less than
 three yeas after they opened, the bank's manager in peru, jorge
 sosa, said.

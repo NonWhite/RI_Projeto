@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:27:00.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2694reute
-h f BC-MONTENAY-POWER-TO-OPE   10-20 0092</field>
-	<field name = "TITLE">MONTENAY POWER TO OPERATE DADE COUNTY WASTE UNIT</field>
+	<field name = "titulo">MONTENAY POWER TO OPERATE DADE COUNTY WASTE UNIT</field>
 	<field name = "DATELINE">MIAMI, Oct 20 -</field>
-	<field name = "BODY">Montenay Power Corp> said it reached final
+	<field name = "content">Montenay Power Corp> said it reached final
 agreement on a 15-year-contract for operation of the Dade
 County Resources Recovery Facility, the largest plant of its
 type in the world.

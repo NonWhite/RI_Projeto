@@ -4,12 +4,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">C G
-f2588reute
-u f BC-MEXICO-BUYS-51,000-TO   04-01 0074</field>
-	<field name = "TITLE">MEXICO BUYS 51,000 TONNES U.S. SOYBEANS</field>
+	<field name = "titulo">MEXICO BUYS 51,000 TONNES U.S. SOYBEANS</field>
 	<field name = "DATELINE">KANSAS CITY, April 1 -</field>
-	<field name = "BODY">Mexico bought 51,000 tonnes of U.S.
+	<field name = "content">Mexico bought 51,000 tonnes of U.S.
 number two yellow soybeans in an overnight tender, for various
 ocean and rail shipments in May, private export sources said.
     About 40,000 tonnes sold for ocean shipment at prices

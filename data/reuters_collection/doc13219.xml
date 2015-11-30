@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 18:15:04.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C M
-f2522reute
-d f BC-U.S.-CAR-SALES-RECOVE   04-03 0117</field>
-	<field name = "TITLE">U.S. CAR SALES RECOVER IN LATE MARCH</field>
+	<field name = "titulo">U.S. CAR SALES RECOVER IN LATE MARCH</field>
 	<field name = "DATELINE">DETROIT, April 3 -</field>
-	<field name = "BODY">Sales of U.S.-built new cars surged
+	<field name = "content">Sales of U.S.-built new cars surged
 during the last 10 days of March to the second highest levels
 of 1987, indicating car buying may have fully rebounded from
 its January slump.

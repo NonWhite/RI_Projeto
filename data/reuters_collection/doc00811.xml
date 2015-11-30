@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 17:08:23.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0171
-reute
-r f BC-COMMERCIAL-CREDIT-CC   03-02 0086</field>
-	<field name = "TITLE">COMMERCIAL CREDIT CCC> SELLS 10-YEAR NOTES</field>
+	<field name = "titulo">COMMERCIAL CREDIT CCC> SELLS 10-YEAR NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Commercial Credit Co is raising 150 mln
+	<field name = "content">Commercial Credit Co is raising 150 mln
 dlrs through an offering of notes due 1997 yielding 8.217 pct,
 said lead manager Morgan Stanley and Co Inc.
     The notes have an 8-1/8 pct coupon and were priced at

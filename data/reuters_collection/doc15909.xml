@@ -9,12 +9,9 @@
 	<field name = "PLACES">thailand</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f2380reute
-r f BC-corn-s/d   04-09 0101</field>
-	<field name = "TITLE">CORN SUPPLY/DEMAND BY COUNTRY -- USDA</field>
+	<field name = "titulo">CORN SUPPLY/DEMAND BY COUNTRY -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 detailed world supply/demand data for major importers and
 exporters of corn, by country, as follows in mln tonnes --
     USSR CORN

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:36:41.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1732reute
-r f BC-EPA-DENIES-WHEELING-P   06-29 0111</field>
-	<field name = "TITLE">EPA DENIES WHEELING-PITTSBURGH QWHX> REQUEST</field>
+	<field name = "titulo">EPA DENIES WHEELING-PITTSBURGH QWHX> REQUEST</field>
 	<field name = "DATELINE">PHILADELPHIA, June 29 -</field>
-	<field name = "BODY">The U.S. Environmental Protection
+	<field name = "content">The U.S. Environmental Protection
 Agency said it denied a request by Wheeling-Pittsburgh Steel
 Corp that it be allowed to continue to operate the Follansbee,
 W. Va., sinter plant while court-ordered pollution control

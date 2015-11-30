@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 11:16:54.80</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A
-f1485reute
-d f BC-peter-miller-plans   03-30 0098</field>
-	<field name = "TITLE">PETER MILLER PLANS 2.2 MLN DLR DEBENTURE ISSUE</field>
+	<field name = "titulo">PETER MILLER PLANS 2.2 MLN DLR DEBENTURE ISSUE</field>
 	<field name = "DATELINE">TORONTO, March 30 -</field>
-	<field name = "BODY">Peter Miller Apparel Group Inc> said
+	<field name = "content">Peter Miller Apparel Group Inc> said
 it signed a letter of intent to issue 2.16 mln dlrs of
 convertible debentures, subject to regulatory and board
 approvals.

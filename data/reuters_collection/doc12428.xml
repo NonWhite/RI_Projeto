@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-supply</field>
 	<field name = "TOPICS">wpi</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">RM
-f0393reute
-u f BC-INDIA'S-CREDIT-POLICY   04-02 0092</field>
-	<field name = "TITLE">INDIA'S CREDIT POLICY AIMS TO CONTROL LIQUIDITY</field>
+	<field name = "titulo">INDIA'S CREDIT POLICY AIMS TO CONTROL LIQUIDITY</field>
 	<field name = "DATELINE">NEW DELHI, April 2 -</field>
-	<field name = "BODY">India's credit policy package for
+	<field name = "content">India's credit policy package for
 fiscal 1987/88 (April-March) will help ease inflationary
 pressures and control the growth of overall liqudity, the
 Reserve Bank of India (RBI) said in a statement.

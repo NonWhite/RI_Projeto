@@ -5,12 +5,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G T C
-f0175reute
-u f BC-CHINA-RAISES-CROP-PRI   03-09 0107</field>
-	<field name = "TITLE">CHINA RAISES CROP PRICES TO INCREASE OUTPUT</field>
+	<field name = "titulo">CHINA RAISES CROP PRICES TO INCREASE OUTPUT</field>
 	<field name = "DATELINE">PEKING, March 9 -</field>
-	<field name = "BODY">China has raised the prices it pays
+	<field name = "content">China has raised the prices it pays
 farmers for cotton, edible oil, sugar cane and beets to reverse
 a decline in output in 1986, He Kang, Minister of Agriculture,
 Animal Husbandry and Fisheries said.

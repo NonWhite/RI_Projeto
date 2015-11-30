@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 05:06:28.78F</field>
-	<field name = "UNKNOWN">f0310reute</field>
 	<field name = "PLACES">japan</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">u f BC-TOKYO-STOCK-TRADING-T   03-27 0085</field>
-	<field name = "TITLE">TOKYO STOCK TRADING TO BE SHORTENED FROM MONDAY</field>
+	<field name = "titulo">TOKYO STOCK TRADING TO BE SHORTENED FROM MONDAY</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">The Tokyo Stock Exchange said it will
+	<field name = "content">The Tokyo Stock Exchange said it will
 shorten the trading session for stocks and convertible bonds by
 30 minutes from March 30 to cope with high volume and will
 maintain the cut as long as excessive trading continues.

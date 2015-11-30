@@ -3,13 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0863
-reute
-u f BC-KLM-TO-TAKE-15-PCT-ST   03-03 0108</field>
-	<field name = "TITLE">KLM TO TAKE 15 PCT STAKE IN AIR UK</field>
+	<field name = "titulo">KLM TO TAKE 15 PCT STAKE IN AIR UK</field>
 	<field name = "DATELINE">AMSTERDAM, March 3 -</field>
-	<field name = "BODY">KLM Royal Dutch Airlines KLM.A> said
+	<field name = "content">KLM Royal Dutch Airlines KLM.A> said
 it agreed to take a 15 pct stake in Air U.K. Ltd, a subsidiary
 of British and Commonwealth Shipping Plc BCOM.L>, in a
 transaction worth around two mln stg.

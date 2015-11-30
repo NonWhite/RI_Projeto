@@ -2,14 +2,10 @@
 	<field name = "DATE">2-MAR-1987 05:16:36.39</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">RM
-f0865
-reute
-u f BC-JAPAN-SALES-TAX-MAY-F   03-02 0110</field>
-	<field name = "TITLE">JAPAN SALES TAX MAY FORCE NAKASONE OUT OF OFFICE</field>
+	<field name = "titulo">JAPAN SALES TAX MAY FORCE NAKASONE OUT OF OFFICE</field>
 	<field name = "AUTHOR">By Yuko Nakamikado, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 2 -</field>
-	<field name = "BODY">Prime Minister Yasuhiro Nakasone is likely
+	<field name = "content">Prime Minister Yasuhiro Nakasone is likely
 to leave office this summer amid opposition to his
 controversial tax-reform package, political analysts said.
     They said Nakasone's reputation as a skilled politician has

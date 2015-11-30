@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 15:53:56.33</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C M
-f9337reute
-r f BC-U.S.-HOUSE-PLAN-SEEKS   03-18 0137</field>
-	<field name = "TITLE">U.S. HOUSE PLAN SEEKS TO BAR FOREIGN TAKEOVER</field>
+	<field name = "titulo">U.S. HOUSE PLAN SEEKS TO BAR FOREIGN TAKEOVER</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">A U.S. House subcommittee voted to
+	<field name = "content">A U.S. House subcommittee voted to
 give President Reagan authority to block foreign takeovers of
 U.S. companies similar to the takeover of Fairchild
 Semiconductor Corp. by Fujitsu Ltd which was withdrawn.

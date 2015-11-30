@@ -4,13 +4,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PEOPLE">keating</field>
-	<field name = "UNKNOWN">RM
-f0490
-reute
-u f BC-AUSTRALIA'S-KEATING-C   02-26 0101</field>
-	<field name = "TITLE">AUSTRALIA'S KEATING CHANGES ECONOMIC FORECASTS</field>
+	<field name = "titulo">AUSTRALIA'S KEATING CHANGES ECONOMIC FORECASTS</field>
 	<field name = "DATELINE">CANBERRA, Feb 27 -</field>
-	<field name = "BODY">Domestic demand is now expected to make
+	<field name = "content">Domestic demand is now expected to make
 no contribution to Australian economic growth in fiscal
 1986/87, ending June 30, while net exports will account for all
 of the overall increase, Treasurer Paul Keating said here.

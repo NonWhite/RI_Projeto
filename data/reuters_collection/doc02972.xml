@@ -2,13 +2,10 @@
 	<field name = "DATE">9-MAR-1987 00:14:46.66</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">RM
-f0151reute
-nu f BC-ECUADOR-TO-EXPORT-NO   03-09 0114</field>
-	<field name = "TITLE">ECUADOR TO EXPORT NO OIL FOR FOUR MONTHS, OFFICIAL</field>
+	<field name = "titulo">ECUADOR TO EXPORT NO OIL FOR FOUR MONTHS, OFFICIAL</field>
 	<field name = "AUTHOR">By WALKER SIMON, REUTERS</field>
 	<field name = "DATELINE">QUITO, March 9 -</field>
-	<field name = "BODY">The suspension of Ecuador's crude oil
+	<field name = "content">The suspension of Ecuador's crude oil
 shipments after an earthquake cut an oil pipeline will last at
 least four months, a senior Energy Ministry official said.
     The official said Ecuador could resume exports after

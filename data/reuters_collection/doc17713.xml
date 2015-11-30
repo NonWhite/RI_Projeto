@@ -6,12 +6,9 @@
 	<field name = "TOPICS">alum</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">comex</field>
-	<field name = "UNKNOWN">C M
-f2071reute
-u f BC-/LITTLE-REACTION-TO-R   06-01 0139</field>
-	<field name = "TITLE">LITTLE REACTION TO REMOVAL COMEX DAILY LIMITS</field>
+	<field name = "titulo">LITTLE REACTION TO REMOVAL COMEX DAILY LIMITS</field>
 	<field name = "DATELINE">New York, June 1 -</field>
-	<field name = "BODY">The elimination of limits on daily price
+	<field name = "content">The elimination of limits on daily price
 fluctuations for metals futures contracts traded on the
 Commodity Exchange, COMEX, appears to be having little effect
 on the market, analysts said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 11:39:04.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1491reute
-r f BC-COLECO-CLO>-SUBORDIN   06-02 0110</field>
-	<field name = "TITLE">COLECO CLO> SUBORDINATED DEBT DOWNGRADED BY S/P</field>
+	<field name = "titulo">COLECO CLO> SUBORDINATED DEBT DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Strandard and Poor's Corp said it cut to
+	<field name = "content">Strandard and Poor's Corp said it cut to
 CCC-plus from B-minus Coleco Industries Inc's 300 mln dlrs of
 subordinated debt.
     The company's implied senior debt rating is B.

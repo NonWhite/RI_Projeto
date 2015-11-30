@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 11:08:28.72</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1320reute
-u f BC-pizza-inn   06-01 0110</field>
-	<field name = "TITLE">STEINBERG GROUP HAS FIVE PCT OF PIZZA INN PZA></field>
+	<field name = "titulo">STEINBERG GROUP HAS FIVE PCT OF PIZZA INN PZA></field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">A group controlled by New York
+	<field name = "content">A group controlled by New York
 investor Saul Steinberg told the Securities and Exchange
 Commission it has acquired 168,500 shares of Pizza Inn Inc, or
 5.02 pct of the total outstanding common stock.

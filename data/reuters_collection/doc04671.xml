@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 05:10:17.59</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0280reute
-u f BC-BELGIAN-GOVERNMENT-RE   03-13 0109</field>
-	<field name = "TITLE">BELGIAN GOVERNMENT REACHES BUDGETARY ACCORD</field>
+	<field name = "titulo">BELGIAN GOVERNMENT REACHES BUDGETARY ACCORD</field>
 	<field name = "DATELINE">BRUSSELS, March 13 -</field>
-	<field name = "BODY">Senior Belgian cabinet ministers
+	<field name = "content">Senior Belgian cabinet ministers
 reached an agreement on budgetary economies, which will allow
 the net budgetary financing requirement to remain within
 previously set limits, the government said in a statement.

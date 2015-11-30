@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 14:01:27.36</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F 
-f2572reute
-r f BC-TEVA-PHARMACEUTICAL-   10-20 0044</field>
-	<field name = "TITLE">TEVA PHARMACEUTICAL TEVIY.O> LISTED ON NASDAQ</field>
+	<field name = "titulo">TEVA PHARMACEUTICAL TEVIY.O> LISTED ON NASDAQ</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Teva Pharmaceutical Industries Ltd said
+	<field name = "content">Teva Pharmaceutical Industries Ltd said
 its shares are now quoted on the NASDAQ national market system.
     The company said its shares previously were quoted on the
 Nasdaq national market list.

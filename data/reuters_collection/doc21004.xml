@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 15:32:11.59</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f2854reute
-u f BC-CANADA-DEVELOPMENT-UN   10-19 0092</field>
-	<field name = "TITLE">CANADA DEVELOPMENT UNIT CDC.TO> REFINANCES</field>
+	<field name = "titulo">CANADA DEVELOPMENT UNIT CDC.TO> REFINANCES</field>
 	<field name = "DATELINE">SARNIA, Ontario, Oct 19 -</field>
-	<field name = "BODY">Canada Development Corp said its
+	<field name = "content">Canada Development Corp said its
 Polysar Ltd> unit completed a refinancing package worth about
 830 mln Canadian dlrs.
     The company said the financing, which involves 24 banks 

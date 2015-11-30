@@ -4,13 +4,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f0788
-reute
-u f BC-JAPAN-BUYS-SOME-95,00   03-02 0086</field>
-	<field name = "TITLE">JAPAN BUYS SOME 95,000 TONNES SOYBEANS FROM CHINA</field>
+	<field name = "titulo">JAPAN BUYS SOME 95,000 TONNES SOYBEANS FROM CHINA</field>
 	<field name = "DATELINE">TOKYO, March 2 -</field>
-	<field name = "BODY">Japanese importers bought some 95,000
+	<field name = "content">Japanese importers bought some 95,000
 tonnes of Chinese soybeans late last month for May to September
 shipment, under the semi-annual trade accords, trade sources
 said.

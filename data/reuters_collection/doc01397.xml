@@ -3,12 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C L
-f0150reute
-d f BC-PORK-CHECKOFF-REFUNDS   03-03 0124</field>
-	<field name = "TITLE">PORK CHECKOFF REFUNDS LESS THAN EXPECTED</field>
+	<field name = "titulo">PORK CHECKOFF REFUNDS LESS THAN EXPECTED</field>
 	<field name = "DATELINE">Chicago, March 3 -</field>
-	<field name = "BODY">The National Pork Board announced at the
+	<field name = "content">The National Pork Board announced at the
 American Pork Congress convention in Indianapolis that refunds
 under the legislative checkoff program are running less than
 expected.

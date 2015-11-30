@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 11:49:19.75</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0890reute
-u f BC-ford-canada-profit   03-03 0108</field>
-	<field name = "TITLE">FORD CANADA FC> PROFIT DOWN ON CHANGEOVER COST</field>
+	<field name = "titulo">FORD CANADA FC> PROFIT DOWN ON CHANGEOVER COST</field>
 	<field name = "DATELINE">OAKVILLE, Ontario, March 3 -</field>
-	<field name = "BODY">Ford Motor Co of Canada Ltd,
+	<field name = "content">Ford Motor Co of Canada Ltd,
 90 pct owned by Ford Motor Co F>, said the earlier reported
 decline in full year net profit was mainly due to changeoover
 costs at its Essex, Ontario engine plant.

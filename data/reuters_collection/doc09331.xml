@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 10:37:20.33</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1139reute
-d f BC-STOCKHOLDER-SYSTEMS-   03-25 0065</field>
-	<field name = "TITLE">STOCKHOLDER SYSTEMS SSIAA> MAKES ACQUISITION</field>
+	<field name = "titulo">STOCKHOLDER SYSTEMS SSIAA> MAKES ACQUISITION</field>
 	<field name = "DATELINE">ATLANTA, March 25 -</field>
-	<field name = "BODY">Stockholder Systems Inc said it has
+	<field name = "content">Stockholder Systems Inc said it has
 agreed in principle to acquire privately-held Software Concepts
 Inc, which provides software for check processing, mortgage
 application processing and safe deposit box accounting, for

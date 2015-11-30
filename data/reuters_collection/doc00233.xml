@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-MAR-1987 02:07:44.88</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0367
-reute
-u f BC-BRITISH-CONSERVATIVES   03-01 0113</field>
-	<field name = "TITLE">BRITISH CONSERVATIVES AHEAD OF LABOUR IN NEW POLLS</field>
+	<field name = "titulo">BRITISH CONSERVATIVES AHEAD OF LABOUR IN NEW POLLS</field>
 	<field name = "DATELINE">LONDON, March 1 -</field>
-	<field name = "BODY">Britain"s ruling Conservatives have
+	<field name = "content">Britain"s ruling Conservatives have
 enlarged their lead over the opposition Labour Party, according
 to results of two opinion polls released on Saturday.
     A Market and Opinion Research International (MORI) poll

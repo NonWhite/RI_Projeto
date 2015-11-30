@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 16:07:52.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2996reute
-r f BC-AMETEK-AME>-TO-BUY-S   10-19 0097</field>
-	<field name = "TITLE">AMETEK AME> TO BUY STOCK, REVIEW DIVIDEND</field>
+	<field name = "titulo">AMETEK AME> TO BUY STOCK, REVIEW DIVIDEND</field>
 	<field name = "DATELINE">PAOLI, Pa., oct 19 -</field>
-	<field name = "BODY">Ametek Inc said its board approved a
+	<field name = "content">Ametek Inc said its board approved a
 program to purchase the company's stock.
     It also announced directors will review increasing the
 quarterly dividend at their regular November meeting,

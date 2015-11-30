@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 18:21:08.62</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0699reute
-u f BC-PRATT-PRAT>-OFFER-FO   03-13 0081</field>
-	<field name = "TITLE">PRATT PRAT> OFFER FOR RESORTS RT> EXPIRES</field>
+	<field name = "titulo">PRATT PRAT> OFFER FOR RESORTS RT> EXPIRES</field>
 	<field name = "DATELINE">DALLAS, March 13 -</field>
-	<field name = "BODY">PH Acquisition Co, a unit of Pratt Hotel
+	<field name = "content">PH Acquisition Co, a unit of Pratt Hotel
 Corp, said its 135 mln dlrs per share tender offer for all
 shares of Class B common stock of Resorts INternational Inc
 expired.

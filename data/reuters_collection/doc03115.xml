@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 10:49:51.86</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">RM
-f0383reute
-b f BC-KINGDOM-OF-SWEDEN-ISS   03-09 0081</field>
-	<field name = "TITLE">KINGDOM OF SWEDEN ISSUES 100 MLN STG BOND</field>
+	<field name = "titulo">KINGDOM OF SWEDEN ISSUES 100 MLN STG BOND</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">Kingdom of Sweden is issuing a 100 mln
+	<field name = "content">Kingdom of Sweden is issuing a 100 mln
 stg bond due April 15, 1997 carrying a coupon of 9-1/2 pct and
 priced at 101-1/4, said Baring Brothers and Co Ltd as lead
 manager.

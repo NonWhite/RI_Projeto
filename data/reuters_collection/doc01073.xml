@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 10:58:14.10</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0655reute
-u f BC-CALMAR-CLMI>-SEEKS-T   03-03 0044</field>
-	<field name = "TITLE">CALMAR CLMI> SEEKS TO BE ACQUIRED BY KEBO AB></field>
+	<field name = "titulo">CALMAR CLMI> SEEKS TO BE ACQUIRED BY KEBO AB></field>
 	<field name = "DATELINE">WATCHUNG, N.J., March 3 -</field>
-	<field name = "BODY">Calmar Inc said KEBOO Ab of
+	<field name = "content">Calmar Inc said KEBOO Ab of
 Sweden, which now owns about 64 pct of Calmark, has approved
 the acquisition of remaining Calmar shares at 25.375 dlrs in
 cash at the request of the Calmar board.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 11:04:45.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2389reute
-r f BC-NEWS-CORP-NWS>-UNIT   03-16 0094</field>
-	<field name = "TITLE">NEWS CORP NWS> UNIT TO OFFER STOCK REDEMPTION</field>
+	<field name = "titulo">NEWS CORP NWS> UNIT TO OFFER STOCK REDEMPTION</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">News Corp's Fox Television Stations
+	<field name = "content">News Corp's Fox Television Stations
 said it will redeem 230,000 shares of increasing rate
 exchangeable guaranteed preferred stock from holders of record
 on April 1.

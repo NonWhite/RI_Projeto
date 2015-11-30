@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 10:19:45.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f2162reute
-b f BC-STONE-CONTAINER-STO>   03-16 0085</field>
-	<field name = "TITLE">STONE CONTAINER STO> FORMS CREDIT FACILITY</field>
+	<field name = "titulo">STONE CONTAINER STO> FORMS CREDIT FACILITY</field>
 	<field name = "DATELINE">CHICAGO, March 16 -</field>
-	<field name = "BODY">Stone Container Corp said it signed a
+	<field name = "content">Stone Container Corp said it signed a
 definitive agreement with a group of banks establishing a total
 of 1.1 billion dlrs term loan and revolving credit facility.
     It said the action represents the last step toward

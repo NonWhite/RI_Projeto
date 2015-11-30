@@ -3,13 +3,10 @@
 	<field name = "TOPICS">money-supply</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM F A
-f0823reute
-u f BC-FED-DATA-INDICATE-NO   03-12 0112</field>
-	<field name = "TITLE">FED DATA INDICATE NO POLICY CHANGE LIKELY</field>
+	<field name = "titulo">FED DATA INDICATE NO POLICY CHANGE LIKELY</field>
 	<field name = "AUTHOR">By Martin Cherrin, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">U.S. bank reserve, monetary and
+	<field name = "content">U.S. bank reserve, monetary and
 discount window borrowings data released by the Federal Reserve
 today clearly indicate that policy is "on hold" and may not be
 changed for weeks or even months, economists said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nickel</field>
 	<field name = "PLACES">philippines</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">M
-f1070reute
-u f BC-SOVIET-FIRM-SAYS-TALK   03-19 0133</field>
-	<field name = "TITLE">SOVIET FIRM SAYS TALKS ON FOR PHILIPPINE MINE</field>
+	<field name = "titulo">SOVIET FIRM SAYS TALKS ON FOR PHILIPPINE MINE</field>
 	<field name = "DATELINE">MANILA, March 19 -</field>
-	<field name = "BODY">Preliminary talks are on between two
+	<field name = "content">Preliminary talks are on between two
 state-owned Philippine banks and Soviet metal trading and
 equipment sales company Tsvetmetpromexport on rescuing Nonoc
 Mining and Industrial Corp (NMIC) which operates the

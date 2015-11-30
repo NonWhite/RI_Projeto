@@ -4,12 +4,9 @@
 	<field name = "TOPICS">zinc</field>
 	<field name = "TOPICS">silver</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">C M
-f0229reute
-r f AM-peru-guerrillas   03-11 0110</field>
-	<field name = "TITLE">PERU GUERRILLAS INTERRUPT TRAIN ROUTE TO MINES</field>
+	<field name = "titulo">PERU GUERRILLAS INTERRUPT TRAIN ROUTE TO MINES</field>
 	<field name = "DATELINE">LIMA, March 11 -</field>
-	<field name = "BODY">Maoist guerrillas using dynamite derailed
+	<field name = "content">Maoist guerrillas using dynamite derailed
 two locomotives and four train wagons, interrupting traffic on
 Peru's sole railway line linking the capital to the central
 Andes, where most of the country's mining centres are located,

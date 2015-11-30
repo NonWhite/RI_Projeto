@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 14:46:23.71</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0309reute
-u f BC-BANK-OF-ITALY-SETS-ME   03-11 0106</field>
-	<field name = "TITLE">BANK OF ITALY SETS MERCHANT BANK CAPITAL MINIMUM</field>
+	<field name = "titulo">BANK OF ITALY SETS MERCHANT BANK CAPITAL MINIMUM</field>
 	<field name = "DATELINE">ROME, March 11 -</field>
-	<field name = "BODY">A Bank of Italy circular that gives the
+	<field name = "content">A Bank of Italy circular that gives the
 green light for Italian banks to establish merchant banking
 units stipulates that such units must have a minimum capital of
 50 billion lire.

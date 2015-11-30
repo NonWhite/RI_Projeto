@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:26:59.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1424reute
-r f BC-FREEPORT-FTX>-TO-ACC   04-08 0083</field>
-	<field name = "TITLE">FREEPORT FTX> TO ACCRUE INTANGIBLE COSTS</field>
+	<field name = "titulo">FREEPORT FTX> TO ACCRUE INTANGIBLE COSTS</field>
 	<field name = "DATELINE">NEW ORLEANS, La., April 8 -</field>
-	<field name = "BODY">Freeport-McMoRan Inc said it
+	<field name = "content">Freeport-McMoRan Inc said it
 has decided to begin accruing a portion of its estimate of the
 intanmgible drilling and development cost recapture amount as a
 cost in determining payments to be made to Freeport-McMoRan Oil

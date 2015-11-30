@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 18:19:54.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f3854reute
-r f BC-FNMA-FNM>-WILL-NOT-B   03-16 0062</field>
-	<field name = "TITLE">FNMA FNM> WILL NOT BUY HOME-EQUITY LOANS</field>
+	<field name = "titulo">FNMA FNM> WILL NOT BUY HOME-EQUITY LOANS</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">The Federal National Mortgage
+	<field name = "content">The Federal National Mortgage
 Association said it will not purchase home-equity loans as part
 of its mortgage-purchase and swap activities in the secondary
 market.

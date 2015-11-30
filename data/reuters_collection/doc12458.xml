@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 06:42:04.23</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">F
-f0552reute
-u f BC-CABLE-AND-WIRELESS-IN   04-02 0110</field>
-	<field name = "TITLE">CABLE AND WIRELESS IN MALAYSIA CABLE DEAL</field>
+	<field name = "titulo">CABLE AND WIRELESS IN MALAYSIA CABLE DEAL</field>
 	<field name = "DATELINE">KUALA LUMPUR, April 2 -</field>
-	<field name = "BODY">Malaysia's telecommunication
+	<field name = "content">Malaysia's telecommunication
 authority has entered into a deal with a British firm to instal
 a 100 mln dlrs fibre optic submarine cable to link Peninsula
 Malaysia with eastern Sabah and Sarawak states, the national

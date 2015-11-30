@@ -4,12 +4,9 @@
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">israel</field>
-	<field name = "UNKNOWN">C G
-f8689reute
-u f BC-CCC-ACCEPTS-EXPORT-BO   03-18 0101</field>
-	<field name = "TITLE">CCC ACCEPTS EXPORT BONUS BID ON BARLEY TO ISRAEL</field>
+	<field name = "titulo">CCC ACCEPTS EXPORT BONUS BID ON BARLEY TO ISRAEL</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">The Commodity Credit Corporation
+	<field name = "content">The Commodity Credit Corporation
 (CCC) accepted a bid for an export bonus to cover the sale of
 30,000 long tons of barley to Israel, the U.S. Agriculture
 Department said.

@@ -8,12 +8,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">A F Y 
-f4964reute
-u f BC-JOINT-ACTION-IS-VITAL   06-18 0096</field>
-	<field name = "TITLE">JOINT ACTION SAID VITAL TO BOOST WORLD GROWTH</field>
+	<field name = "titulo">JOINT ACTION SAID VITAL TO BOOST WORLD GROWTH</field>
 	<field name = "DATELINE">PARIS, June 18 -</field>
-	<field name = "BODY">Prospects for world economic growth remain
+	<field name = "content">Prospects for world economic growth remain
 very sluggish, and coordinated action by western governments is
 urgently needed to restore business confidence, stabilize
 currencies and encourage investment, the Organization for

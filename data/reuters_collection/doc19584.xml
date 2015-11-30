@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 08:56:52.88</field>
-	<field name = "UNKNOWN">F 
-f0818reute
-u f BC-MICRON-PMR>-WILL-ACQ   06-29 0106</field>
-	<field name = "TITLE">MICRON PMR> WILL ACQUIRE NUMEDCO</field>
+	<field name = "titulo">MICRON PMR> WILL ACQUIRE NUMEDCO</field>
 	<field name = "DATELINE">FITCHBURG, Mass., June 29 -</field>
-	<field name = "BODY">Micron Products Inc said it has
+	<field name = "content">Micron Products Inc said it has
 agreed to acquire Numedco Inc from Myraid Group Inc> for
 500,000 Micron common shares, 2,400 shares of 1,000 dlrs par
 value preferred and an undisclosed amount of cash.

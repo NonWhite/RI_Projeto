@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 09:33:32.93</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0501
-reute
-u f BC-PITTSTON-PCO>-AGREES   03-02 0111</field>
-	<field name = "TITLE">PITTSTON PCO> AGREES TO ACQUIRE WTC WAF></field>
+	<field name = "titulo">PITTSTON PCO> AGREES TO ACQUIRE WTC WAF></field>
 	<field name = "DATELINE">STAMFORD, Conn., March 2 -</field>
-	<field name = "BODY">Pittston Co said it has
+	<field name = "content">Pittston Co said it has
 tentatively agreed to acquire WTC International N.V. in a
 tax-free exchange of stock.
     Pittston said it agreed to exchange 0.523 common share for

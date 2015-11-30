@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 13:59:49.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2088reute
-d f BC-UNICLUB-IN-JOINT-VENT   04-13 0117</field>
-	<field name = "TITLE">UNICLUB IN JOINT VENTURE</field>
+	<field name = "titulo">UNICLUB IN JOINT VENTURE</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Uniclub Inc said it has agreed to form
+	<field name = "content">Uniclub Inc said it has agreed to form
 an equally-owned joint venture called Uniclub Marketing Inc
 with Goodway Marketing Inc.
     The company said Uniclub Marketing will use narrowcast

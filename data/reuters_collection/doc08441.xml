@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 14:31:49.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2041reute
-r f BC-HIGHWAY-BILL-VETO-WIL   03-23 0067</field>
-	<field name = "TITLE">HIGHWAY BILL VETO WILL BE UPHELD, DOLE SAYS</field>
+	<field name = "titulo">HIGHWAY BILL VETO WILL BE UPHELD, DOLE SAYS</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">Senate Republican Leader Robert Dole
+	<field name = "content">Senate Republican Leader Robert Dole
 said he believed the Senate would vote to sustain a
 presidential veto of an 88 billion dlr highway and mass transit
 bill.

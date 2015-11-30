@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 09:30:57.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0977reute
-r f BC-NORD-RESOURCES-NRD>   03-31 0089</field>
-	<field name = "TITLE">NORD RESOURCES NRD> SETS PRIVATE SALE OF STOCK</field>
+	<field name = "titulo">NORD RESOURCES NRD> SETS PRIVATE SALE OF STOCK</field>
 	<field name = "DATELINE">DAYTON, Ohio, March 31 -</field>
-	<field name = "BODY">Nord Resources Corp said Kleinwort
+	<field name = "content">Nord Resources Corp said Kleinwort
 Grieveson and Co, a U.K. investment banking firm, has agreed to
 privately place 600,000 Nord common shares with institutional
 investors outside of the U.S., primarily in the U.K.

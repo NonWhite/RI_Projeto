@@ -1,14 +1,12 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:30:33.82RM</field>
-	<field name = "UNKNOWN">f1307reute</field>
 	<field name = "PLACES">ireland</field>
 	<field name = "PEOPLE">haughey</field>
 	<field name = "PEOPLE">macsharry</field>
-	<field name = "UNKNOWN">r f BC-ECONOMIC-SPOTLIGHT--   03-27 0114</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - IRISH BUDGET</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - IRISH BUDGET</field>
 	<field name = "AUTHOR">By Paul Majendie, Reuters</field>
 	<field name = "DATELINE">DUBLIN, March 27 -</field>
-	<field name = "BODY">New Irish Prime Minister Charles
+	<field name = "content">New Irish Prime Minister Charles
 Haughey, faced with a debt-ridden economy, will have to produce
 a harsh budget next week to impress financial markets, appease
 political opponents and maintain his tenuous hold on power,

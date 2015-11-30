@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">C G
-f2500reute
-r f BC-NEW-ZEALAND-MAY-BUY-U   04-01 0102</field>
-	<field name = "TITLE">NEW ZEALAND MAY BUY U.S. WHEAT -- USDA</field>
+	<field name = "titulo">NEW ZEALAND MAY BUY U.S. WHEAT -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">New Zealand may need about 100,000
+	<field name = "content">New Zealand may need about 100,000
 tonnes of wheat this year, which would normally come from
 Australia, but may be from the United States, the U.S.
 Agriculture Department said.

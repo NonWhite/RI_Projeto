@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 10:55:59.85</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">norway</field>
-	<field name = "UNKNOWN">RM 
-f1118reute
-u f BC-NORWEGIAN-CENTRAL-BAN   06-19 0102</field>
-	<field name = "TITLE">NORWEGIAN CENTRAL BANK RESERVES FALL IN MAY</field>
+	<field name = "titulo">NORWEGIAN CENTRAL BANK RESERVES FALL IN MAY</field>
 	<field name = "DATELINE">OSLO, June 19 -</field>
-	<field name = "BODY">Norway's central bank reserves totalled
+	<field name = "content">Norway's central bank reserves totalled
 73.71 billion crowns in May against 76.06 billion in April and
 95.02 billion in May 1986, the Central Bank said in its monthly
 report.

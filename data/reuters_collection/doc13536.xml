@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:24:25.60</field>
 	<field name = "PLACES">greece</field>
-	<field name = "UNKNOWN">A
-f0441reute
-h f BC-GREEK-OFFICIAL-SAYS-A   04-07 0094</field>
-	<field name = "TITLE">GREEK OFFICIAL SAYS AUSTERITY MEASURES PAYING OFF</field>
+	<field name = "titulo">GREEK OFFICIAL SAYS AUSTERITY MEASURES PAYING OFF</field>
 	<field name = "DATELINE">ATHENS, April 7 -</field>
-	<field name = "BODY">Economy Undersecretary Yannos Papantoniou
+	<field name = "content">Economy Undersecretary Yannos Papantoniou
 said the Greek economy was responding well to a two-year
 government austerity program.
     He told reporters the evidence for this was in last year's

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 10:59:38.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1387reute
-r f BC-AANCOR-UNIT-FILES-AME   03-31 0117</field>
-	<field name = "TITLE">AANCOR UNIT FILES AMENDED REGISTRATION STATEMENT</field>
+	<field name = "titulo">AANCOR UNIT FILES AMENDED REGISTRATION STATEMENT</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">National Gypsum Co, a unit of Aancor
+	<field name = "content">National Gypsum Co, a unit of Aancor
 Holdings Inc, said it filed with the Securities and Exchange
 Commission an amended registration statement covering up to 300
 mln dlrs of 10-year priority senior subordinated notes.

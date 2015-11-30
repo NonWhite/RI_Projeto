@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 12:03:22.68</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f1672reute
-b f BC-DUTCH-STATE-LOAN-RAIS   03-31 0061</field>
-	<field name = "TITLE">DUTCH STATE LOAN RAISES 3.25 BILLION GUILDERS</field>
+	<field name = "titulo">DUTCH STATE LOAN RAISES 3.25 BILLION GUILDERS</field>
 	<field name = "DATELINE">AMSTERDAM, March 31 -</field>
-	<field name = "BODY">The Dutch Finance Ministry said it
+	<field name = "content">The Dutch Finance Ministry said it
 accepted bids totalling 3.25 billion guilders on its 6.25 pct
 bullet bond due 1995, which it priced at 100.8 pct at tender
 today for an effective yield of 6.12 pct.

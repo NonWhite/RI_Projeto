@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">conable</field>
-	<field name = "UNKNOWN">V RM
-f0379reute
-u f BC-WORLD-BANK-HEAD-SAYS   03-05 0103</field>
-	<field name = "TITLE">WORLD BANK HEAD SAYS BRAZIL MORATORIUM TEMPORARY</field>
+	<field name = "titulo">WORLD BANK HEAD SAYS BRAZIL MORATORIUM TEMPORARY</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">World Bank president Barber Conable
+	<field name = "content">World Bank president Barber Conable
 said he believed that Brazil would come up with a medium term
 economic plan and that the current debt moritorium would be
 temporary.

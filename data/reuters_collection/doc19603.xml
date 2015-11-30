@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:41:12.77</field>
-	<field name = "UNKNOWN">F 
-f0944reute
-h f BC-RYZHKOV-CALLS-FOR-SOV   06-29 0107</field>
-	<field name = "TITLE">RYZHKOV CALLS FOR SOVIET ECONOMIC REFORMS</field>
+	<field name = "titulo">RYZHKOV CALLS FOR SOVIET ECONOMIC REFORMS</field>
 	<field name = "DATELINE">MOSCOW, June 29 -</field>
-	<field name = "BODY">Soviet Prime Minister Nikolai Ryzhkov
+	<field name = "content">Soviet Prime Minister Nikolai Ryzhkov
 described the Soviet Union's economic management system as
 obsolete and called on the Supreme Soviet, the nominal
 parliament, to adopt a draft law on major economic reform.

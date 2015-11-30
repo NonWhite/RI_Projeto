@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f2752reute
-r f BC-BUNDESBANK-CALLS-FOR   04-08 0118</field>
-	<field name = "TITLE">BUNDESBANK CALLS FOR CENTRAL BANK COOPERATION</field>
+	<field name = "titulo">BUNDESBANK CALLS FOR CENTRAL BANK COOPERATION</field>
 	<field name = "DATELINE">FRANKFURT, April 8 -</field>
-	<field name = "BODY">Bundesbank board member Claus Koehler
+	<field name = "content">Bundesbank board member Claus Koehler
 called on central banks of major industrialised nations to
 cooperate closely on exchange and interest rate policies.
     In a lecture at the University of Surrey, pre-released

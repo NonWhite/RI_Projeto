@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 16:36:57.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2403reute
-r f BC-ANCHOR-SAVINGS-BANK-O   03-25 0109</field>
-	<field name = "TITLE">ANCHOR SAVINGS BANK OFFERING FULLY SUBSCRIBED</field>
+	<field name = "titulo">ANCHOR SAVINGS BANK OFFERING FULLY SUBSCRIBED</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Anchor Savings Bank said its
+	<field name = "content">Anchor Savings Bank said its
 subscription offering was fully subscribed, precluding an
 underwritten public offering of Anchor stock.
     The company, which will be traded on Nasdaq under the

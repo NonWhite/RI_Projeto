@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:28:38.08</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0172reute
-u f BC-BRITISH-OPNION-POLLS   04-07 0112</field>
-	<field name = "TITLE">BRITISH OPNION POLLS KEEP CONSERVATIVES AHEAD</field>
+	<field name = "titulo">BRITISH OPNION POLLS KEEP CONSERVATIVES AHEAD</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Two British opinion polls showed the
+	<field name = "content">Two British opinion polls showed the
 ruling Conservative Party would retain power with a clear
 majority in general elections.
     A poll for commercial television, conducted after Prime

@@ -8,12 +8,9 @@
 	<field name = "TOPICS">rapeseed</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">G 
-f1147reute
-u f BC-OILMEAL-DEMAND-STILL   10-20 0111</field>
-	<field name = "TITLE">OILMEAL DEMAND STILL STRONG IN U.S., SOVIET UNION</field>
+	<field name = "titulo">OILMEAL DEMAND STILL STRONG IN U.S., SOVIET UNION</field>
 	<field name = "DATELINE">HAMBURG, Oct 20 -</field>
-	<field name = "BODY">Oilmeal demand remained strong in the
+	<field name = "content">Oilmeal demand remained strong in the
 United States in July and August and six pct up on levels seen
 in the same months last year, with most of the rise coming in
 soymeal, the Hamburg based publication Oil World said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 16:46:36.80</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0865reute
-u f BC-FERC-ISSUES-TAKE-OR-P   03-05 0107</field>
-	<field name = "TITLE">FERC ISSUES TAKE-OR-PAY GAS POLICY PLAN</field>
+	<field name = "titulo">FERC ISSUES TAKE-OR-PAY GAS POLICY PLAN</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">The Federal Energy Regulatory
+	<field name = "content">The Federal Energy Regulatory
 Commission (FERC) issued a proposed policy statement for the 
 recovery of take-or-pay costs imposed by existing natural gas
 contracts between producers and pipelines.

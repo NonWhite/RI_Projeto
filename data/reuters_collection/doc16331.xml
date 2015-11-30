@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 11:05:08.29</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1285reute
-u f BC-ALLIED-STORES-ALS>-S   04-13 0117</field>
-	<field name = "TITLE">ALLIED STORES ALS> SELLS DILLARD DDS> TWO UNITS</field>
+	<field name = "titulo">ALLIED STORES ALS> SELLS DILLARD DDS> TWO UNITS</field>
 	<field name = "DATELINE">New York, April 13 -</field>
-	<field name = "BODY">Dillard Department Stores Inc, based
+	<field name = "content">Dillard Department Stores Inc, based
 in Little Rock, Ark., and Allied Stores Corp jointly said they
 entered a definitive purchase agreement for the sale to Dillard
 of the Joske's and the Cain-Sloan divisions of Allied for 255

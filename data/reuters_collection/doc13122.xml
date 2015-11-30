@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2211reute
-u f BC-LOWER-U.S.-RICE-STOCK   04-03 0090</field>
-	<field name = "TITLE">LOWER U.S. RICE STOCKS, STRONG EXPORTS - USDA</field>
+	<field name = "titulo">LOWER U.S. RICE STOCKS, STRONG EXPORTS - USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">Rising demand for U.S. rice may
+	<field name = "content">Rising demand for U.S. rice may
 gradually reduce surpluses while a marketing loan should help
 increase the U.S. share of the world rice market despite
 sluggish trade this year, the U.S. Agriculture Department said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 14:01:00.14</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1896reute
-u f BC-N.-AMERICAN-COMMUNICA   06-19 0089</field>
-	<field name = "TITLE">N. AMERICAN COMMUNICATIONS NACS.O> WEIGHS SALE</field>
+	<field name = "titulo">N. AMERICAN COMMUNICATIONS NACS.O> WEIGHS SALE</field>
 	<field name = "DATELINE">HECTOR, Minn., June 19 -</field>
-	<field name = "BODY">North American Communications Corp
+	<field name = "content">North American Communications Corp
 said it is considering several options to maximize shareholder
 value, including a possible sale, merger, corporate
 restructuring, or leveraged buyout.

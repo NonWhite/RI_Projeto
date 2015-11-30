@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 15:19:44.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2207reute
-r f BC-MERCK-MRK>-GETS-FDA   03-25 0054</field>
-	<field name = "TITLE">MERCK MRK> GETS FDA HEARTWORM MEDICINE APPROVAL</field>
+	<field name = "titulo">MERCK MRK> GETS FDA HEARTWORM MEDICINE APPROVAL</field>
 	<field name = "DATELINE">RAHWAY, N.J., March 25 -</field>
-	<field name = "BODY">Merck and Co Inc said its
+	<field name = "content">Merck and Co Inc said its
 veterinary drug Heartgard-30 for the prevention of heartworm
 disease in dogs has been approved by the U.S. Food and Drug
 Administration.

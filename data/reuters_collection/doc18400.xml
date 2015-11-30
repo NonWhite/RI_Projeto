@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f2060reute
-r f BC-PREMIERS,-GOVERNORS-P   06-15 0097</field>
-	<field name = "TITLE">PREMIERS, GOVERNORS PUSH EAST COAST DEVELOPMENT</field>
+	<field name = "titulo">PREMIERS, GOVERNORS PUSH EAST COAST DEVELOPMENT</field>
 	<field name = "DATELINE">Halifax, Newfoundland, June 15 -</field>
-	<field name = "BODY">The premiers of Canada's
+	<field name = "content">The premiers of Canada's
 eastern provinces and the governors of America's New England
 states urged development of Canada's offshore oil and gas
 fields and construction of a pipeline from Nova Scotia to New

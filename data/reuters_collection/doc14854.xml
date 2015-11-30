@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 04:28:37.20</field>
-	<field name = "UNKNOWN">RM
-f0238reute
-b f BC-SAITAMA-BANK-ISSUES-1   04-08 0099</field>
-	<field name = "TITLE">SAITAMA BANK ISSUES 100 MLN DLR CONVERTIBLE BOND</field>
+	<field name = "titulo">SAITAMA BANK ISSUES 100 MLN DLR CONVERTIBLE BOND</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">The Saitama Bank Ltd is issuing a 100 mln
+	<field name = "content">The Saitama Bank Ltd is issuing a 100 mln
 dlr convertible eurobond due March 31, 2002 paying an indicated
 two pct and priced at par, the bank's London office said. The
 issue is being lead managed by Saitama Bank (Europe) SA.

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 20:02:32.05</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">C
-f2967reute
-r f AM-debt-peru   06-02 0117</field>
-	<field name = "TITLE">WORLD BANK SUSPENDS LOANS TO PERU - CENTRAL BANK</field>
+	<field name = "titulo">WORLD BANK SUSPENDS LOANS TO PERU - CENTRAL BANK</field>
 	<field name = "AUTHOR">By Walker Simon, Reuters</field>
 	<field name = "DATELINE">LIMA, June 2 -</field>
-	<field name = "BODY">The World Bank has suspended loans to Peru
+	<field name = "content">The World Bank has suspended loans to Peru
 because the country has over two months of payment arrears with
 the lending agency, central bank general manager Hector Neyra
 said.

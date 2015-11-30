@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 10:51:36.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1235reute
-d f BC-D-AND-N-DNSB.O>-APPL   06-29 0079</field>
-	<field name = "TITLE">D AND N DNSB.O> APPLIES FOR MART BRANCHES</field>
+	<field name = "titulo">D AND N DNSB.O> APPLIES FOR MART BRANCHES</field>
 	<field name = "DATELINE">HANCOCK, MICH., June 29 -</field>
-	<field name = "BODY">D and N Savings Bank said it
+	<field name = "content">D and N Savings Bank said it
 aapplied to the Federal Home Loan Bank Board for approval to
 open three new branches inside K mart Corp KM> stores in
 Michigan.

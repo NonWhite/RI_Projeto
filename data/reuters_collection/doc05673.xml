@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 16:14:30.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3553reute
-r f BC-BETHLEHEM   03-16 0099</field>
-	<field name = "TITLE">INVESTOR EYES BETHLEHEM STEEL BS> BOARD SEAT</field>
+	<field name = "titulo">INVESTOR EYES BETHLEHEM STEEL BS> BOARD SEAT</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">Joseph Harrosh, a Fremont, Calif.,
+	<field name = "content">Joseph Harrosh, a Fremont, Calif.,
 investor with a 5.6 pct in Bethlehem Steel Corp preferred
 stock, said he intends to seek at least one of two board seats
 which may open should Bethlehem delay dividend payments.

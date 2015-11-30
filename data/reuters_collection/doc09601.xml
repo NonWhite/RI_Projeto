@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 16:44:10.02</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-miller</field>
-	<field name = "UNKNOWN">F A RM
-f2420reute
-u f BC-U.S.-BUDGET-DIRECTOR   03-25 0099</field>
-	<field name = "TITLE">U.S. BUDGET DIRECTOR WARNS AGAINST TAX INCREASE</field>
+	<field name = "titulo">U.S. BUDGET DIRECTOR WARNS AGAINST TAX INCREASE</field>
 	<field name = "DATELINE">Philadelphia, March 25 -</field>
-	<field name = "BODY">The director of the Office of
+	<field name = "content">The director of the Office of
 Management and Budget James Miller warned that a tax increase
 would jeapordise real U.S. economic growth.
     "It's a bad idea. We don't need more money to balance the

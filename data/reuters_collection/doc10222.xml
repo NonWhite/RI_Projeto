@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 17:44:30.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f2782reute
-r f BC-FDIC-SAYS-OKLAHOMA-BA   03-26 0089</field>
-	<field name = "TITLE">FDIC SAYS OKLAHOMA BANK BECOME 51ST TO FAIL</field>
+	<field name = "titulo">FDIC SAYS OKLAHOMA BANK BECOME 51ST TO FAIL</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">The Federal Deposit Insurance Corp
+	<field name = "content">The Federal Deposit Insurance Corp
 said the First State Bank in Billings, Okla, was closed by
 banking regulators, bringing the total number of bank failures
 this year to 51.

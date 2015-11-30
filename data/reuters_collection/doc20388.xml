@@ -3,12 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">luxembourg</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G 
-f1762reute
-d f BC-COPA-URGES-TAX-ON-VEG   10-20 0119</field>
-	<field name = "TITLE">COPA URGES TAX ON VEGETABLE PROTEINS</field>
+	<field name = "titulo">COPA URGES TAX ON VEGETABLE PROTEINS</field>
 	<field name = "DATELINE">LUXEMBOURG, Oct 20 -</field>
-	<field name = "BODY">The European Community's farmers'
+	<field name = "content">The European Community's farmers'
 pressure group Copa has urged EC farm ministers to agree a tax
 on vegetable proteins similar to the oils and marine fats tax
 which has already been proposed by the EC Commission.

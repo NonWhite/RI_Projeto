@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 10:21:58.01</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0052reute
-b f BC-WEST-GERMAN-RAILWAY-I   03-13 0103</field>
-	<field name = "TITLE">WEST GERMAN RAILWAY ISSUES DOMESTIC STOCK</field>
+	<field name = "titulo">WEST GERMAN RAILWAY ISSUES DOMESTIC STOCK</field>
 	<field name = "DATELINE">FRANKFURT, March 13 -</field>
-	<field name = "BODY">The West German federal railway is
+	<field name = "content">The West German federal railway is
 raising 900 mln marks through a 10-year loan stock on the
 domestic market with a coupon of 6-1/4 pct and price of par, a
 Bundesbank spokesman said in response to enquiries.

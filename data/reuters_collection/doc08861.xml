@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 12:21:25.14</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1657reute
-d f BC-GIANT-BAY-GBYLF>,-YE   03-24 0103</field>
-	<field name = "TITLE">GIANT BAY GBYLF>, YELLOWKNIFE GYK> APPROVE DEAL</field>
+	<field name = "titulo">GIANT BAY GBYLF>, YELLOWKNIFE GYK> APPROVE DEAL</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, March 24 -</field>
-	<field name = "BODY">Giant Bay Resources
+	<field name = "content">Giant Bay Resources
 Ltd said its and Giant Yellowknife Mines Ltd's directors
 approved a previously announced plan to build and operate an
 ore bioleach plant at Giant Yellowknife's Salmita Mill in the

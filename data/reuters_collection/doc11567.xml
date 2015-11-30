@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 14:29:05.15</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2184reute
-h f BC-WILSON-BROTHERS-4TH-Q   03-31 0045</field>
-	<field name = "TITLE">WILSON BROTHERS 4TH QTR</field>
+	<field name = "titulo">WILSON BROTHERS 4TH QTR</field>
 	<field name = "DATELINE">MIAMI, Fla, March 31 -</field>
-	<field name = "BODY">Shr loss 30 cts vs loss 31 cts
+	<field name = "content">Shr loss 30 cts vs loss 31 cts
     Net loss 1.0 mln vs loss 1.0 mln
     Revs 2.3 mln vs 1.7 mln
     Year

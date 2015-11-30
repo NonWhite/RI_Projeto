@@ -3,13 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F Y
-f0191
-reute
-r f BC-GREENWOOD-RESOURCES-   03-03 0097</field>
-	<field name = "TITLE">GREENWOOD RESOURCES GRRL> SELLS COMPANY STAKE</field>
+	<field name = "titulo">GREENWOOD RESOURCES GRRL> SELLS COMPANY STAKE</field>
 	<field name = "DATELINE">DENVER, March 3 -</field>
-	<field name = "BODY">Greenwood Resources Inc said it has sold
+	<field name = "content">Greenwood Resources Inc said it has sold
 its 4,300,000 common share majority holding in New London Oil
 Ltd> of London to an affiliate of Guinness Peat Group PLC> of
 London and an affiliate of Sidro SA> of Belgium for a total of

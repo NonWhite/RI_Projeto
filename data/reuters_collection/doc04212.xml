@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 09:54:00.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0037reute
-d f BC-MUNICIPAL-DEVELOPMENT   03-12 0127</field>
-	<field name = "TITLE">MUNICIPAL DEVELOPMENT MUNI> PURCHASES LAND</field>
+	<field name = "titulo">MUNICIPAL DEVELOPMENT MUNI> PURCHASES LAND</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Municipal Development Corp said it
+	<field name = "content">Municipal Development Corp said it
 signed an agreement to purchase land and facilities in Florida
 from Quail Hollow Properties Inc> for 2.8 mln dlrs, and plans
 to invest an additional two mln dlrs to install infrastructure

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:47:22.39</field>
 	<field name = "PLACES">cuba</field>
-	<field name = "UNKNOWN">RM
-f2039reute
-u f BC-CUBA-TO-STIMULATE-ECO   04-08 0110</field>
-	<field name = "TITLE">CUBA TO STIMULATE ECONOMY DESPITE IMPORT CUTS</field>
+	<field name = "titulo">CUBA TO STIMULATE ECONOMY DESPITE IMPORT CUTS</field>
 	<field name = "DATELINE">HAVANA, APRIL 8 -</field>
-	<field name = "BODY">Cuba will continue to develop its economy
+	<field name = "content">Cuba will continue to develop its economy
 despite the need to cut imports from hard currency nations by
 half this year, President Fidel Castro said.
     The Cuban economy is going through a difficult period due

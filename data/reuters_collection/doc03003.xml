@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 05:12:17.12</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">F
-f0437reute
-u f BC-SOUTH-KOREA-DELAYS-CO   03-09 0110</field>
-	<field name = "TITLE">SOUTH KOREA DELAYS CONTRACT FOR NUCLEAR PLANTS</field>
+	<field name = "titulo">SOUTH KOREA DELAYS CONTRACT FOR NUCLEAR PLANTS</field>
 	<field name = "DATELINE">SEOUL, March 9 -</field>
-	<field name = "BODY">Technology transfer problems have delayed
+	<field name = "content">Technology transfer problems have delayed
 the finalising of contracts between South Korea's state-owned
 Korea Electric Power Corp (Kepco) and U.S. Firms for supplies
 of equipment and services for Kepco's latest two 950-megawatt

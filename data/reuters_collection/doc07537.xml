@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 23:01:34.66</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
-	<field name = "UNKNOWN">RM
-f2874reute
-u f BC-SHORT-TERM-YEN-INTERE   03-19 0104</field>
-	<field name = "TITLE">SHORT-TERM YEN INTEREST RATES SEEN FALLING SOON</field>
+	<field name = "titulo">SHORT-TERM YEN INTEREST RATES SEEN FALLING SOON</field>
 	<field name = "DATELINE">TOKYO, March 20 -</field>
-	<field name = "BODY">Japanese short-term interest rates,
+	<field name = "content">Japanese short-term interest rates,
 buoyed recently by seasonal factors, are likely to fall from
 the beginning of April when the new financial year begins,
 money traders said.

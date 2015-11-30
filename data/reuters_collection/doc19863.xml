@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 15:36:09.30</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2340reute
-d f BC-RTE-CORP-RTE>-BUYS-E   06-29 0071</field>
-	<field name = "TITLE">RTE CORP RTE> BUYS EMHART CORP UNIT</field>
+	<field name = "titulo">RTE CORP RTE> BUYS EMHART CORP UNIT</field>
 	<field name = "DATELINE">BROOKFIELD, Wis., June 29 -</field>
-	<field name = "BODY">RTE Corp said it completed the
+	<field name = "content">RTE Corp said it completed the
 purchase of Emhart Corp's United States aluminum electrolytic
 capacitor business for an undisclosed sum.
     The company said the capacitor business is part of Emhart's

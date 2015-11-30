@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 15:13:29.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2195reute
-r f BC-S/P-UPGRADES-AMERICAN   03-20 0099</field>
-	<field name = "TITLE">S/P UPGRADES AMERICAN SECURITY ASEC> AND UNIT</field>
+	<field name = "titulo">S/P UPGRADES AMERICAN SECURITY ASEC> AND UNIT</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 raised to A-1 from A-2 American Security Corp's commercial
 paper.
     S and P also upgraded, to A and A-1 from BBB-plus and A-2

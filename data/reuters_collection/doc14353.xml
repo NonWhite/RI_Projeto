@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 12:36:30.58</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1616reute
-u f BC-us-cotton-weather-noa   04-07 0110</field>
-	<field name = "TITLE">U.S. WEATHER/COTTON SUMMARY -- USDA/NOAA</field>
+	<field name = "titulo">U.S. WEATHER/COTTON SUMMARY -- USDA/NOAA</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Cotton planting continued progressing
+	<field name = "content">Cotton planting continued progressing
 in the week ended April 5, but cold, wet weather in the South
 hampered seedbed preparation, the Joint Agricultural Weather
 Facility of the U.S. Agriculture and Commerce Departments said.

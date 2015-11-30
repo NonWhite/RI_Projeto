@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 15:52:00.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0673reute
-h f BC-COMPUTER-IDENTICS-CI   03-04 0094</field>
-	<field name = "TITLE">COMPUTER IDENTICS CIDN> NAMES CHIEF EXECUTIVE</field>
+	<field name = "titulo">COMPUTER IDENTICS CIDN> NAMES CHIEF EXECUTIVE</field>
 	<field name = "DATELINE">CANTON, Mass, March 4 -</field>
-	<field name = "BODY">Computer Identics Corp said its
+	<field name = "content">Computer Identics Corp said its
 board elected Frank Wezniak to the new position of chief
 executive officer and as director and president, succeeding
 David Collins.

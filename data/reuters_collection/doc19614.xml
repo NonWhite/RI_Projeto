@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:59:24.22</field>
-	<field name = "UNKNOWN">F 
-f1007reute
-u f BC-MOSELEY-SECURITIES-M   06-29 0095</field>
-	<field name = "TITLE">MOSELEY SECURITIES MOSE.O> CHAIRMAN RESIGNS</field>
+	<field name = "titulo">MOSELEY SECURITIES MOSE.O> CHAIRMAN RESIGNS</field>
 	<field name = "DATELINE">BOSTON, June 29 -</field>
-	<field name = "BODY">Moseley Securities Corp said Howard Berg
+	<field name = "content">Moseley Securities Corp said Howard Berg
 resigned as chairman and chief executive officer.
     It said Frederick S. Moseley III assumed the position of
 chairman. In other management changes, Omar Kassem was named

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 15:20:25.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f2377reute
-r f BC-SOCIETY-FOR-SAVINGS-   03-30 0111</field>
-	<field name = "TITLE">SOCIETY FOR SAVINGS SOCS> TO OFFER NOTES</field>
+	<field name = "titulo">SOCIETY FOR SAVINGS SOCS> TO OFFER NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">Society for Savings said it will offer
+	<field name = "content">Society for Savings said it will offer
 up to 100 mln dlrs of medium-term notes with maturites of one
 to five years through Goldman, Sachs and Co and Shearson Lehman
 Brothers Inc.

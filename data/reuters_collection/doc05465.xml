@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:10:17.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2710reute
-d f BC-CETUS-CTUS>-CANCER-D   03-16 0088</field>
-	<field name = "TITLE">CETUS CTUS> CANCER DRUG TO GET EUROPE PATENT</field>
+	<field name = "titulo">CETUS CTUS> CANCER DRUG TO GET EUROPE PATENT</field>
 	<field name = "DATELINE">EMERYVILLE, Calif., March 16 -</field>
-	<field name = "BODY">Cetus Corp said the European
+	<field name = "content">Cetus Corp said the European
 Patent Office allowed and intends to grant the company a patent
 for pharmaceutical and veterinary preparations of genetically
 engineered Interleukin-2 analog.

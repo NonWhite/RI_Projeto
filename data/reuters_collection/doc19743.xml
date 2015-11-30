@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 12:46:52.82</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1780reute
-r f BC-MAXTOR-CORP-MXTR.O>   06-29 0100</field>
-	<field name = "TITLE">MAXTOR CORP MXTR.O> BUYS PRIVATE FIRM</field>
+	<field name = "titulo">MAXTOR CORP MXTR.O> BUYS PRIVATE FIRM</field>
 	<field name = "DATELINE">SAN JOSE, Calif., June 29 -</field>
-	<field name = "BODY">Maxtor Corp said it bought
+	<field name = "content">Maxtor Corp said it bought
 privately-held Storage Dimensions Inc for an undisclosed sum.
     The company said Storage Dimensions incorporates Maxtor's
 high-capacity 5-1/4-inch Winchester and optical disk drives

@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 17:29:03.06</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">F RM
-f0216
-reute
-u f BC-CME-SETS-FEBRUARY-TRA   03-02 0116</field>
-	<field name = "TITLE">CME SETS FEBRUARY TRADING VOLUME RECORD</field>
+	<field name = "titulo">CME SETS FEBRUARY TRADING VOLUME RECORD</field>
 	<field name = "DATELINE">CHICAGO, March 2 -</field>
-	<field name = "BODY">The Chicago Mercantile Exchange (CME)
+	<field name = "content">The Chicago Mercantile Exchange (CME)
 posted record trading volume for the month of February when
 6,556,464 futures and options contracts changed hands, up 15.2
 pct from last February's volume of 5,693,243 contracts.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 09:10:38.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0858reute
-d f BC-BOEING-BA>-UNIT-CHOO   04-08 0045</field>
-	<field name = "TITLE">BOEING BA> UNIT CHOOSES UNDUCTED FAN ENGINE</field>
+	<field name = "titulo">BOEING BA> UNIT CHOOSES UNDUCTED FAN ENGINE</field>
 	<field name = "DATELINE">SEATTLE, April 8 -</field>
-	<field name = "BODY">Boeing Co's Boeing Commerical Airplane
+	<field name = "content">Boeing Co's Boeing Commerical Airplane
 Co said it selected an unducted fan engine for continued
 development as the baseline engine for the advanced technology
 7J7 airliner due to enter service in 1992.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">nzdlr</field>
 	<field name = "PLACES">new-zealand</field>
 	<field name = "PEOPLE">douglas</field>
-	<field name = "UNKNOWN">RM 
-f2948reute
-u f BC-NEW-ZEALAND-BUDGET-FO   06-18 0103</field>
-	<field name = "TITLE">NEW ZEALAND BUDGET FORECAST SEEN AS POSITIVE</field>
+	<field name = "titulo">NEW ZEALAND BUDGET FORECAST SEEN AS POSITIVE</field>
 	<field name = "DATELINE">WELLINGTON, June 18 -</field>
-	<field name = "BODY">Analysts said they were surprised at
+	<field name = "content">Analysts said they were surprised at
 the government's announcement of a forecast budget surplus for
 fiscal 1988 but said it was consistent with previous policy
 statements and positive for the economy.

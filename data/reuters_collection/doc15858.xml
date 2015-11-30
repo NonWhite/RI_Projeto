@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 15:09:51.13</field>
 	<field name = "TOPICS">potato</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2198reute
-u f BC-USDA-REVISES-1986-SUM   04-09 0071</field>
-	<field name = "TITLE">USDA REVISES 1986 SUMMER POTATOES</field>
+	<field name = "titulo">USDA REVISES 1986 SUMMER POTATOES</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department made
+	<field name = "content">The U.S. Agriculture Department made
 the following revisions for 1986 crop summer potatoes --
     Production -- 21,003,000 cwt (100 lbs), vs 20,900,000 cwt
 estimated previously.

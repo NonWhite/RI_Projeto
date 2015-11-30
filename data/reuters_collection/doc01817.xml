@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 16:44:52.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0815reute
-r f BC-VICTORY-MARKETS-INC-F   03-04 0094</field>
-	<field name = "TITLE">VICTORY MARKETS INC FILES TO OFFER DEBENTURES</field>
+	<field name = "titulo">VICTORY MARKETS INC FILES TO OFFER DEBENTURES</field>
 	<field name = "DATELINE">NORWICH, N.Y., March 4 -</field>
-	<field name = "BODY">Victory Markets Inc> said it
+	<field name = "content">Victory Markets Inc> said it
 filed a registration statement with the Securities and Exchange
 Commission relating to the proposed public offering of 60 mln
 dlrs principal amounbt of subordinated debentures due 1999.

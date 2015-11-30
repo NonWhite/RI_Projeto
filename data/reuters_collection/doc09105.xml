@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 18:52:50.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2806reute
-r f BC-HAWKEYE-HWKB>-ISSUES   03-24 0072</field>
-	<field name = "TITLE">HAWKEYE HWKB> ISSUES PREFERENCE STOCK</field>
+	<field name = "titulo">HAWKEYE HWKB> ISSUES PREFERENCE STOCK</field>
 	<field name = "DATELINE">DES MOINES, March 24 -</field>
-	<field name = "BODY">Hawkeye Bancorp said it issued
+	<field name = "content">Hawkeye Bancorp said it issued
 2,690,877 shares of preference stock to its institutional
 creditors in payment of 32.3 mln dlrs of restructured debt.
     It said the new shares, which are convertible into common

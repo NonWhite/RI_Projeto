@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 00:28:04.91</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI
-f0024reute
-u f BC-JAPAN-VARIABLE-LIFE-I   06-01 0103</field>
-	<field name = "TITLE">JAPAN VARIABLE LIFE INSURANCE EARNS HIGH RETURNS</field>
+	<field name = "titulo">JAPAN VARIABLE LIFE INSURANCE EARNS HIGH RETURNS</field>
 	<field name = "AUTHOR">By Yoshiko Mori, Reuters</field>
 	<field name = "DATELINE">TOKYO, June 1 -</field>
-	<field name = "BODY">Companies offering variable life insurance
+	<field name = "content">Companies offering variable life insurance
 policies, introduced in Japan in October, look set to report
 sparkling results when they report on fund performance later
 this month, fund managers at major insurance companies said.

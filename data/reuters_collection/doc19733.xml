@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 12:40:29.42</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM F A 
-f1750reute
-u f BC-FED-ALLOWS-CITICORP-   06-29 0078</field>
-	<field name = "TITLE">FED ALLOWS CITICORP CCI>, SEARS S> THRIFT DEAL</field>
+	<field name = "titulo">FED ALLOWS CITICORP CCI>, SEARS S> THRIFT DEAL</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">The Federal Reserve Board said it
+	<field name = "content">The Federal Reserve Board said it
 approved Citicorp's application to purchase through its
 subsidiary, Citicorp Savings of Oakland, Calif., some assets
 and assume some liabilities of Sears Savings Bank of Glendale,

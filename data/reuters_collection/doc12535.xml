@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 09:40:11.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0974reute
-r f BC-TIDEWATER-TDW>-COMPL   04-02 0099</field>
-	<field name = "TITLE">TIDEWATER TDW> COMPLETES DEBT RESTRUCTURE</field>
+	<field name = "titulo">TIDEWATER TDW> COMPLETES DEBT RESTRUCTURE</field>
 	<field name = "DATELINE">NEW ORLEANS, April 2 -</field>
-	<field name = "BODY">Tidewater Inc said it completed
+	<field name = "content">Tidewater Inc said it completed
 agreements to restructure about 125 mln dlrs in debt that call
 for payment of interest only through March 1989.
     The deferral of all principal payments until April 1989

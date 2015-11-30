@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 17:47:39.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2772reute
-r f BC-ARVIN-ARV>-RAISES-NU   04-09 0081</field>
-	<field name = "TITLE">ARVIN ARV> RAISES NUMBER OF AUTHORIZED SHARES</field>
+	<field name = "titulo">ARVIN ARV> RAISES NUMBER OF AUTHORIZED SHARES</field>
 	<field name = "DATELINE">COLUMBUS, Ind., April 9 -</field>
-	<field name = "BODY">Arvin Industries Inc said its
+	<field name = "content">Arvin Industries Inc said its
 shareholders at the annual meeting voted to increase authorized
 common shares to 50 mln from 30 mln.
     The company told shareholders that the offering of 1.7 mln

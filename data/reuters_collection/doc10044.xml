@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 13:07:08.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1961reute
-b f BC-DUN/BRADSTREET-DB>-S   03-26 0056</field>
-	<field name = "TITLE">DUN/BRADSTREET DB> SAYS BUSINESS FAILURES UP</field>
+	<field name = "titulo">DUN/BRADSTREET DB> SAYS BUSINESS FAILURES UP</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Dun and Bradstreet Corp said business
+	<field name = "content">Dun and Bradstreet Corp said business
 failures in February increased 10.8 pct, to 5,390, from 4,864
 in February 1986.
     "The national level of business failures continues to be

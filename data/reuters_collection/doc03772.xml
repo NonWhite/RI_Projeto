@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 12:38:12.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0893reute
-r f BC-DATAPRODUCTS-DPC>-GE   03-11 0056</field>
-	<field name = "TITLE">DATAPRODUCTS DPC> GETS SIEMENS CONTRACT</field>
+	<field name = "titulo">DATAPRODUCTS DPC> GETS SIEMENS CONTRACT</field>
 	<field name = "DATELINE">WOODLAND HILLS, Calif., March 11 -</field>
-	<field name = "BODY">Dataproducts Corp said
+	<field name = "content">Dataproducts Corp said
 it received a multi-year contract, valued at more than 30 mln
 dlrs, to supply band printers to Siemens AG> of West Germany.
     Siemens will use the printers for office applications and

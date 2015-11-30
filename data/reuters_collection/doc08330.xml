@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 11:36:31.90</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1407reute
-r f BC-BP-BP>-UNIT-TO-BUILD   03-23 0112</field>
-	<field name = "TITLE">BP BP> UNIT TO BUILD GOLD EXTRACTION PLANT</field>
+	<field name = "titulo">BP BP> UNIT TO BUILD GOLD EXTRACTION PLANT</field>
 	<field name = "DATELINE">DENVER, March 23 -</field>
-	<field name = "BODY">Amselco Minerals Inc, a unit of British
+	<field name = "content">Amselco Minerals Inc, a unit of British
 Petroleum Co PLC, said it approved construction of a new plant
 with Nerco Minerals Co to process carbon ore to recover
 microscopic gold reserves.

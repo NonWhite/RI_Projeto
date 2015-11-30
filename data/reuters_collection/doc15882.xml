@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 15:26:19.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f2283reute
-r f BC-VLSI-VLSI>-PLANS-DEB   04-09 0078</field>
-	<field name = "TITLE">VLSI VLSI> PLANS DEBT OFFERING</field>
+	<field name = "titulo">VLSI VLSI> PLANS DEBT OFFERING</field>
 	<field name = "DATELINE">SAN JOSE, Calif., April 9 -</field>
-	<field name = "BODY">VLSI Technology Inc said it
+	<field name = "content">VLSI Technology Inc said it
 plans to file a registration statement with the Securities and
 Exchange Commission in mid-April covering a proposed
 underwritten public offering of 50 mln dlrs principal amount of

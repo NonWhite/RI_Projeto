@@ -4,12 +4,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">F Y
-f0903reute
-u f BC-UNION-PACIFIC-UNP>-I   03-12 0105</field>
-	<field name = "TITLE">UNION PACIFIC UNP> IN PARTNERSHIP WITH PDVSA</field>
+	<field name = "titulo">UNION PACIFIC UNP> IN PARTNERSHIP WITH PDVSA</field>
 	<field name = "DATELINE">NEW YORK, MARCH 12 -</field>
-	<field name = "BODY">Union Pacific Corp said it will enter
+	<field name = "content">Union Pacific Corp said it will enter
 a 50-50 partnership with Petroles de Venezuela, PDVSA, to own
 and operate Union Pacific's 160,000 barrel-per-day Corpus
 Christi, Texas, oil refinery.

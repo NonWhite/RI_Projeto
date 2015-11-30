@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 14:12:12.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2033reute
-r f BC-TOPPS-CO-INC>-FILES   04-01 0104</field>
-	<field name = "TITLE">TOPPS CO INC> FILES FOR INITIAL OFFERING</field>
+	<field name = "titulo">TOPPS CO INC> FILES FOR INITIAL OFFERING</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Topps Co Inc said it has filed for an
+	<field name = "content">Topps Co Inc said it has filed for an
 initial public offering of 4,500,000 common shares, including
 3,500,000 shares to be sold by shareholders.
     It said lead underwriters are Goldman, Sachs and Co> and

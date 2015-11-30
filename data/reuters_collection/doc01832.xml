@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 17:07:06.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0878reute
-r f BC-HUNTERDON-HUNT>-SETS   03-04 0105</field>
-	<field name = "TITLE">HUNTERDON HUNT> SETS DENTAL VENTURE</field>
+	<field name = "titulo">HUNTERDON HUNT> SETS DENTAL VENTURE</field>
 	<field name = "DATELINE">YARDLEY, Penn., March 4 -</field>
-	<field name = "BODY">Hunterdon Pharmaceuticals Inc
+	<field name = "content">Hunterdon Pharmaceuticals Inc
 said it formed a joint venture with Chesapeake Biological
 Laboratories> and E.B. Michaels Research Associates> to
 develop C31G, a substance that may be useful in the treatment

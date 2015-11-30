@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 16:08:25.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2363reute
-u f BC-COURT-APPROVES-LTV-Q   03-20 0095</field>
-	<field name = "TITLE">COURT APPROVES LTV QLTV> BANK CREDIT AGREEMENT</field>
+	<field name = "titulo">COURT APPROVES LTV QLTV> BANK CREDIT AGREEMENT</field>
 	<field name = "DATELINE">DALLAS, March 20 -</field>
-	<field name = "BODY">LTV Corp said a credit agreement between
+	<field name = "content">LTV Corp said a credit agreement between
 the company and its 22-member bank group has been approved by
 the U.S. Bankruptcy Court for the Southern District of New
 York.

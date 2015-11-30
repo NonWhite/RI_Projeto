@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:23:36.32F</field>
-	<field name = "UNKNOWN">f1838reute</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">b f BC-MCLEAN'S-MII>-U.S.-L   03-27 0097</field>
-	<field name = "TITLE">MCLEAN'S MII> U.S. LINES SETS SALE OF ASSETS</field>
+	<field name = "titulo">MCLEAN'S MII> U.S. LINES SETS SALE OF ASSETS</field>
 	<field name = "DATELINE">CRANFORD, N.J., March 27 -</field>
-	<field name = "BODY">McLean Industries Inc said its
+	<field name = "content">McLean Industries Inc said its
 two shipping subsidiaries -- UNITED States Lines Inc and United
 States Lines (S.A.) Inc -- have agreed in principle to dispose
 of substantially all their remaining operating shipping assets.

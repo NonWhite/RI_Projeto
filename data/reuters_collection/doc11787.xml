@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 03:18:52.62</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0152reute
-u f BC-SUMITOMO-METAL-SETS-U   04-01 0087</field>
-	<field name = "TITLE">SUMITOMO METAL SETS UP LONDON, OSAKA FINANCE FIRMS</field>
+	<field name = "titulo">SUMITOMO METAL SETS UP LONDON, OSAKA FINANCE FIRMS</field>
 	<field name = "DATELINE">TOKYO, April 1 -</field>
-	<field name = "BODY">Sumitomo Metal Industries Ltd> has set up
+	<field name = "content">Sumitomo Metal Industries Ltd> has set up
 two finance firms, one in Osaka and one in London, a company
 spokesman said.
     Sumitomo Metal International Finance Plc> in London is

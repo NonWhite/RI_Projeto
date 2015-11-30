@@ -6,12 +6,9 @@
 	<field name = "PLACES">poland</field>
 	<field name = "PLACES">czechoslovakia</field>
 	<field name = "PLACES">romania</field>
-	<field name = "UNKNOWN">C G T
-f0610reute
-u f BC-EAST-EUROPE-WHEAT-WIN   03-03 0099</field>
-	<field name = "TITLE">EAST EUROPE WHEAT WINTERKILL POSSIBLE, ACCU SAYS</field>
+	<field name = "titulo">EAST EUROPE WHEAT WINTERKILL POSSIBLE, ACCU SAYS</field>
 	<field name = "DATELINE">STATE COLLEGE, Pa., March 3 -</field>
-	<field name = "BODY">Winter wheat crops in the
+	<field name = "content">Winter wheat crops in the
 western Soviet Union, Poland and eastern Czechoslovakia through
 northern Romania may suffer some winterkill over the next two
 nights, private forecaster Accu-Weather Inc said.

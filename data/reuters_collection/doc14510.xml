@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:43:27.02</field>
-	<field name = "UNKNOWN">C T
-f2260reute
-u f BC-ny-cocoa-clsg-report   04-07 0114</field>
-	<field name = "TITLE">NY COCOA FUTURES CLOSE MIXED</field>
+	<field name = "titulo">NY COCOA FUTURES CLOSE MIXED</field>
 	<field name = "DATELINE">NEW YORK, April 6 -</field>
-	<field name = "BODY">Cocoa futures drifted into a dull
+	<field name = "content">Cocoa futures drifted into a dull
 finish, settling at nine dlrs lower to seven higher, with most
 contracts near unchanged from midday levels.
     May closed nine dlrs lower at 1,925 dlrs. Estimated volume

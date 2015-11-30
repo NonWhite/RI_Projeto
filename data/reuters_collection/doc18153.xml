@@ -3,12 +3,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">RM
-f2012reute
-u f BC-GERMAN-OFFICIALS-HAVE   06-02 0104</field>
-	<field name = "TITLE">GERMAN OFFICIALS HAVE NO COMMENT ON BAKER REMARK</field>
+	<field name = "titulo">GERMAN OFFICIALS HAVE NO COMMENT ON BAKER REMARK</field>
 	<field name = "DATELINE">BONN, June 2 -</field>
-	<field name = "BODY">West German officials said they could make
+	<field name = "content">West German officials said they could make
 no comment on remarks by U.S. Treasury Secretary James Baker
 who said Group of Seven (G-7) finance ministers had agreed a
 new process for economic coordination.

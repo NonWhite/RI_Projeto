@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 10:35:41.13</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1176reute
-b f BC-ASIAN-DEVELOPMENT-BAN   06-02 0082</field>
-	<field name = "TITLE">ASIAN DEVELOPMENT BANK ISSUES 50 MLN STG EUROBOND</field>
+	<field name = "titulo">ASIAN DEVELOPMENT BANK ISSUES 50 MLN STG EUROBOND</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">The Asian Development Bank is issuing a 50
+	<field name = "content">The Asian Development Bank is issuing a 50
 mln stg eurobond due July 1, 1997 paying 9-1/2 pct and priced
 at 101-7/8 pct, lead manager County Natwest Capital Markets Ltd
 said.

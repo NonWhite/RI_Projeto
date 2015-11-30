@@ -3,13 +3,10 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">philippines</field>
 	<field name = "PEOPLE">fernandez</field>
-	<field name = "UNKNOWN">RM AI
-f0192reute
-u f BC-CENTRAL-BANK-HEAD-SAY   06-02 0099</field>
-	<field name = "TITLE">CENTRAL BANK HEAD SAYS PHILIPPINE GROWTH ON TARGET</field>
+	<field name = "titulo">CENTRAL BANK HEAD SAYS PHILIPPINE GROWTH ON TARGET</field>
 	<field name = "AUTHOR">By Chaitanya Kalbag, Reuters</field>
 	<field name = "DATELINE">MANILA, June 2 -</field>
-	<field name = "BODY">The Philippines' first quarter growth
+	<field name = "content">The Philippines' first quarter growth
 figures released yesterday indicated the government was likely
 to achieve its 1987 targets, Central Bank governor Jose
 Fernandez said in an interview.

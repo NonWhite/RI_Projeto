@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 16:49:20.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2623reute
-r f BC-LTV-QLTV>-TO-MAKE-ON   04-09 0102</field>
-	<field name = "TITLE">LTV QLTV> TO MAKE ONE-TIME BENEFIT PAYMENTS</field>
+	<field name = "titulo">LTV QLTV> TO MAKE ONE-TIME BENEFIT PAYMENTS</field>
 	<field name = "DATELINE">DALLAS, April 9 -</field>
-	<field name = "BODY">LTV Corp said it will seek approval from
+	<field name = "content">LTV Corp said it will seek approval from
 the U.S. bankruptcy court to make one-time hardship payments to
 retired steelworkers who lost some pension benefits when their
 retirement plans were terminated.

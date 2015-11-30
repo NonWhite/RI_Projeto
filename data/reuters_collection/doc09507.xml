@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 14:25:15.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2037reute
-r f BC-SAS-TO-UPGRADE-CABIN   03-25 0090</field>
-	<field name = "TITLE">SAS TO UPGRADE CABIN SERVICE IN SCANDINAVIA</field>
+	<field name = "titulo">SAS TO UPGRADE CABIN SERVICE IN SCANDINAVIA</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Scandinavian Airlines Systems, SAS,
+	<field name = "content">Scandinavian Airlines Systems, SAS,
 said it will improve cabin service for business class
 passengers on intra-Scandinavian routes starting next week.
     The company also said it will simplify timetables on routes

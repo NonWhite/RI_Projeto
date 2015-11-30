@@ -8,12 +8,9 @@
 	<field name = "PEOPLE">chirac</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f1903reute
-u f AM-CHIRAC-1STLD   04-01 0101</field>
-	<field name = "TITLE">CHIRAC SAYS FRANCE RESOLVED TO SUPPORT CURRENCY PACT</field>
+	<field name = "titulo">CHIRAC SAYS FRANCE RESOLVED TO SUPPORT CURRENCY PACT</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">French Prime Minister Jacques Chirac
+	<field name = "content">French Prime Minister Jacques Chirac
 said that on financial issues, the United States and France had
 "very close" views, and he said Treasury Secretary James Baker
 was determined to support the February 22 Paris agreement on

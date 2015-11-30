@@ -5,13 +5,9 @@
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">colombia</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f0303
-reute
-u f BC-ICO-QUOTA-TALKS-CONTI   03-02 0107</field>
-	<field name = "TITLE">ICO QUOTA TALKS CONTINUE, OUTCOME HARD TO GAUGE</field>
+	<field name = "titulo">ICO QUOTA TALKS CONTINUE, OUTCOME HARD TO GAUGE</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">Talks at the extended special meeting of
+	<field name = "content">Talks at the extended special meeting of
 the International Coffee Organization (ICO) on the
 reintroduction of export quotas continued, but chances of
 success were still almost impossible to gauge, delegates said.

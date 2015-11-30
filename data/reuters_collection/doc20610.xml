@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G 
-f2863reute
-u f BC-CCC-CONFIRMS-IS-PREPA   10-20 0100</field>
-	<field name = "TITLE">CCC PREPARING WHEAT CATALOGUE</field>
+	<field name = "titulo">CCC PREPARING WHEAT CATALOGUE</field>
 	<field name = "DATELINE">KANSAS CITY, OCT 20 -</field>
-	<field name = "BODY">The Kansas City Commodity Credit Corp
+	<field name = "content">The Kansas City Commodity Credit Corp
 office is preparing a wheat catalogue containing roughly 300
 mln bushels, scheduled to be released in the next two to three
 weeks, a CCC spokesman said.

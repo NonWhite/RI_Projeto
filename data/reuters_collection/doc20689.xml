@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 16:06:36.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3113reute
-r f BC-INTERNATIONAL-GAME-(I   10-20 0119</field>
-	<field name = "TITLE">INTERNATIONAL GAME IGAM.O> EXPECTS PROFIT</field>
+	<field name = "titulo">INTERNATIONAL GAME IGAM.O> EXPECTS PROFIT</field>
 	<field name = "DATELINE">RENO, Nev., Oct 20 -</field>
-	<field name = "BODY">International Game Technology said it
+	<field name = "content">International Game Technology said it
 will report a profit of between 900,000 dlrs and one mln dlrs,
 or 17 cents to 19 cents a share, for the fourth quarter ended
 Sept. 30.

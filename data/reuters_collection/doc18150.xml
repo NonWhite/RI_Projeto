@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 13:24:42.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1995reute
-d f BC-SALOMON-SB>-ANNOUNCE   06-02 0105</field>
-	<field name = "TITLE">SALOMON SB> ANNOUNCES GLOBAL STOCK INDEXES</field>
+	<field name = "titulo">SALOMON SB> ANNOUNCES GLOBAL STOCK INDEXES</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Salomon Brothers Inc announced formation
+	<field name = "content">Salomon Brothers Inc announced formation
 of global stock indexes designed to make it easy for portfolio
 money managers to invest all over the world.
     "This is a way to put money into the Pacific or Europe

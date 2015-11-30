@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 12:39:39.48</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1785reute
-d f BC-ARRAYS-ARAY>-COMPLET   04-13 0056</field>
-	<field name = "TITLE">ARRAYS ARAY> COMPLETES MERGER</field>
+	<field name = "titulo">ARRAYS ARAY> COMPLETES MERGER</field>
 	<field name = "DATELINE">VAN NUYS, Calif., April 13 -</field>
-	<field name = "BODY">Arrays Inc said it completed
+	<field name = "content">Arrays Inc said it completed
 its merger with Haba Systems Inc.
     Terms of the merger called for each share of Arrays to be
 exchange for a share of Haba in a transaction valued at 4.1 mln

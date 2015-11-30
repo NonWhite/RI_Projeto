@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0358reute
-b f BC-/-FED-NOT-EXPECTED-TO   03-12 0092</field>
-	<field name = "TITLE">FED NOT EXPECTED TO ADD RESERVES</field>
+	<field name = "titulo">FED NOT EXPECTED TO ADD RESERVES</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">The Federal Reserve is not expected to
+	<field name = "content">The Federal Reserve is not expected to
 intervene in the government securities market today, several
 economists said.
     They said the Fed does not have a much of an adding need

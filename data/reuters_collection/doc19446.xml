@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F 
-f2424reute
-r f BC-SICO-(SIC.TO)-TO-BUY   06-19 0080</field>
-	<field name = "TITLE">SICO SIC.TO> TO BUY REICHOLD RCI> UNIT ASSETS</field>
+	<field name = "titulo">SICO SIC.TO> TO BUY REICHOLD RCI> UNIT ASSETS</field>
 	<field name = "DATELINE">MONTREAL, June 19 -</field>
-	<field name = "BODY">Sico Inc said it agreed in principle
+	<field name = "content">Sico Inc said it agreed in principle
 to buy the U.S. assets of Reichold Chemicals Inc's Sterling
 Group, which manufactures electrical insulation compounds and
 industrial resins and develops coatings for the electronics

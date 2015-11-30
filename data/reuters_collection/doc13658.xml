@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:50:02.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0663reute
-r f BC-MICHIGAN-GENERAL-MGL   04-07 0110</field>
-	<field name = "TITLE">MICHIGAN GENERAL MGL> GETS OFFER COMMITMENTS</field>
+	<field name = "titulo">MICHIGAN GENERAL MGL> GETS OFFER COMMITMENTS</field>
 	<field name = "DATELINE">SADDLE BROOK, N.J., April 7 -</field>
-	<field name = "BODY">Michigan General Corp said
+	<field name = "content">Michigan General Corp said
 holders of 75 pct of its outstanding 10-3/4 pct senior
 subordinated debentures due December 1, 1998, have indicated
 their intention to tender under the company's current exchange

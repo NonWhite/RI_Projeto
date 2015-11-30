@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 09:31:01.67</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">C G T M
-f0051reute
-u f BC-BLIZZARD-CLOSES-BOSPH   03-05 0099</field>
-	<field name = "TITLE">BLIZZARD CLOSES BOSPHORUS</field>
+	<field name = "titulo">BLIZZARD CLOSES BOSPHORUS</field>
 	<field name = "DATELINE">ISTANBUL, March 5 -</field>
-	<field name = "BODY">Blizzard conditions halted shipping
+	<field name = "content">Blizzard conditions halted shipping
 through the Bosphorus waterway and piled snow up to 70 cms deep
 in central Istanbul, paralysing the city for the second day
 running.

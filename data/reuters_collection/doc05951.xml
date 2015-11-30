@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 10:16:30.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5067reute
-u f BC-SEARS-S>-SUPPLIER-SE   03-17 0099</field>
-	<field name = "TITLE">SEARS S> SUPPLIER SETTLE FTC LABELING CHARGES</field>
+	<field name = "titulo">SEARS S> SUPPLIER SETTLE FTC LABELING CHARGES</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">The Federal Trade Commission (FTC)
+	<field name = "content">The Federal Trade Commission (FTC)
 said Sears, Roebuck and Co and Kellwood Co, a Sears supplier,
 agreed to pay penalties of 200,000 dlrs each to settle 1981 
 charges they misrepresented the amount of down filling in coats

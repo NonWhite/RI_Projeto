@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 12:30:15.90</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0283
-reute
-r f BC-HARLEY-DAVIDSON-INC-   03-02 0057</field>
-	<field name = "TITLE">HARLEY-DAVIDSON INC HDI> 4TH QTR NET</field>
+	<field name = "titulo">HARLEY-DAVIDSON INC HDI> 4TH QTR NET</field>
 	<field name = "DATELINE">MILWAUKEE, Wis., March 2-</field>
-	<field name = "BODY">Oper shr 18 cts vs 51 cts
+	<field name = "content">Oper shr 18 cts vs 51 cts
     Oper net 1,048,000 vs 1,870,000
     Revs 72.2 mln vs 73.5 mln
     Avg shrs 5,910,000 vs 3,680,000

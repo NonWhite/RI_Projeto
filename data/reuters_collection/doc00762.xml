@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:19:28.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0030
-reute
-d f BC-CONDOR-COMPUTER-INTRO   03-02 0058</field>
-	<field name = "TITLE">CONDOR COMPUTER INTRODUCES DATABASE PRODUCT</field>
+	<field name = "titulo">CONDOR COMPUTER INTRODUCES DATABASE PRODUCT</field>
 	<field name = "DATELINE">ANN ARBOR, Mich., March 2 -</field>
-	<field name = "BODY">Condor Computer Corp> said it
+	<field name = "content">Condor Computer Corp> said it
 is offering a 3.5-inch floppy diskette version of its Condor 3
 Database Management System.
     Th company said the new version contains all the features

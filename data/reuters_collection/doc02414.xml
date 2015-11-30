@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 15:49:10.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0674reute
-r f BC-NIPSCO-NI>-OUTLAYS-T   03-05 0082</field>
-	<field name = "TITLE">NIPSCO NI> OUTLAYS TO BE INTERNAL FUNDS</field>
+	<field name = "titulo">NIPSCO NI> OUTLAYS TO BE INTERNAL FUNDS</field>
 	<field name = "DATELINE">HAMMOND, Ind., March 5 -</field>
-	<field name = "BODY">Northern Indiana Public Service Co
+	<field name = "content">Northern Indiana Public Service Co
 said its five-year construction budget for 1987-1991 will be
 793 mln dlrs, almost all of which will be internally generated.
     The utility said in its 1986 annual report that this

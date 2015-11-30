@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 20:52:40.40</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">RM
-f3931reute
-b f BC-MIYAZAWA-SAYS-NO-INTE   03-16 0099</field>
-	<field name = "TITLE">MIYAZAWA SAYS NO INTENTION TO ALTER SALES TAX BILL</field>
+	<field name = "titulo">MIYAZAWA SAYS NO INTENTION TO ALTER SALES TAX BILL</field>
 	<field name = "DATELINE">TOKYO, March 17 -</field>
-	<field name = "BODY">Finance Minister Kiichi Miyazawa said he
+	<field name = "content">Finance Minister Kiichi Miyazawa said he
 had no intention of modifying at the moment a proposed bill
 introducing a sales tax.
     "Parliamentary deliberation must be conducted fully before

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 12:53:49.00</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2072reute
-r f BC-NBI-INC-NBI>-1ST-QTR   10-19 0057</field>
-	<field name = "TITLE">NBI INC NBI> 1ST QTR LOSS</field>
+	<field name = "titulo">NBI INC NBI> 1ST QTR LOSS</field>
 	<field name = "DATELINE">BOULDER, Colo., Oct 19 -</field>
-	<field name = "BODY">Sept 30 end
+	<field name = "content">Sept 30 end
     Shr loss 38 cts vs loss three cts
     Net loss 3,300,000 vs loss 205,000
     Revs 63.4 mln vs 72.1 mln

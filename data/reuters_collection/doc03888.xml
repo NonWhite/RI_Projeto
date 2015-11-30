@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 14:59:13.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0348reute
-w f BC-ENGELHARD-BUILDS-PLAN   03-11 0053</field>
-	<field name = "TITLE">ENGELHARD BUILDS PLANT IN JAPAN</field>
+	<field name = "titulo">ENGELHARD BUILDS PLANT IN JAPAN</field>
 	<field name = "DATELINE">EDISON, N.J., March 11 -</field>
-	<field name = "BODY">Engelhard Corp EC> said its
+	<field name = "content">Engelhard Corp EC> said its
 Japanese joint venture Nippon Engelhard Ltd is constructing a
 new chemical catalyst manufacturing facility at its Numazu
 complex and expanding its research laboratories at Ichikawa.

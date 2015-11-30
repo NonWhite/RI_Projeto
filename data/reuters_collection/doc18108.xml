@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 12:16:29.82</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">denmark</field>
-	<field name = "UNKNOWN">RM
-f1697reute
-r f BC-DANISH-RESERVES-RISE   06-02 0115</field>
-	<field name = "TITLE">DANISH RESERVES RISE 10.5 BILLION CROWNS IN MAY</field>
+	<field name = "titulo">DANISH RESERVES RISE 10.5 BILLION CROWNS IN MAY</field>
 	<field name = "DATELINE">COPENHAGEN, June 2 -</field>
-	<field name = "BODY">Denmark's net official reserves rose
+	<field name = "content">Denmark's net official reserves rose
 to 60.629 billion crowns in May from 48.380 billion in April,
 against 39.481 billion in May 1986, the Central Bank said in
 its monthly balance sheet report.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 23:12:23.12</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0163reute
-b f BC-JAPAN-AUCTIONS-1,000   03-09 0107</field>
-	<field name = "TITLE">JAPAN AUCTIONS 1,000 BILLION YEN SHORT-TERM PAPER</field>
+	<field name = "titulo">JAPAN AUCTIONS 1,000 BILLION YEN SHORT-TERM PAPER</field>
 	<field name = "DATELINE">TOKYO, March 10 -</field>
-	<field name = "BODY">Japan's Finance Ministry auctioned 1,000
+	<field name = "content">Japan's Finance Ministry auctioned 1,000
 billion yen worth of tankoku, six month debt-financing paper,
 to roll over previously issued tankoku maturing on March 19, a
 spokesman said.

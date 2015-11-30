@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 14:17:51.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0683
-reute
-r f BC-CHRYSLER-C>-UNIT-SEL   03-02 0105</field>
-	<field name = "TITLE">CHRYSLER C> UNIT SELLS NOTES AT 7-5/8 PCT</field>
+	<field name = "titulo">CHRYSLER C> UNIT SELLS NOTES AT 7-5/8 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Chrysler Financial Corp, a unit of
+	<field name = "content">Chrysler Financial Corp, a unit of
 Chrysler Corp, is raising 250 mln dlrs through an offering of
 notes due 1992 with a 7-5/8 pct coupon and par pricing, said
 lead manager Salomon Brothers Inc.

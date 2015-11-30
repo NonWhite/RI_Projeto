@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 11:12:26.27</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">RM V A
-f1296reute
-b f BC-/BAKER-URGES-BANKS-TO   03-23 0101</field>
-	<field name = "TITLE">BAKER URGES BANKS TO MULL NEW LOAN PLANS</field>
+	<field name = "titulo">BAKER URGES BANKS TO MULL NEW LOAN PLANS</field>
 	<field name = "DATELINE">MIAMI, March 23 -</field>
-	<field name = "BODY">Treasury Secretary James Baker urged
+	<field name = "content">Treasury Secretary James Baker urged
 commercial banks to be open to new ideas for reducing the third
 world debt burden.
     "I believe the commercial banks need to be open to creative

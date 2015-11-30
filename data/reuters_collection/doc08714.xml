@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 09:06:48.41</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0825reute
-u f BC-EARTHQUAKE-STRIKES-WE   03-24 0104</field>
-	<field name = "TITLE">EARTHQUAKE STRIKES WESTERN JAPANESE COAST</field>
+	<field name = "titulo">EARTHQUAKE STRIKES WESTERN JAPANESE COAST</field>
 	<field name = "DATELINE">TOKYO, March 24 -</field>
-	<field name = "BODY">A strong earthquake registering a
+	<field name = "content">A strong earthquake registering a
 preliminary reading of 6.5 on the Richter scale was felt on the
 coast northwest of Tokyo today, the Central Meteorological
 Agency said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 06:37:38.40</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0448reute
-u f BC-JAPANESE-CAPITAL-SPEN   03-24 0104</field>
-	<field name = "TITLE">JAPANESE CAPITAL SPENDING GROWTH EXPECTED TO SLOW</field>
+	<field name = "titulo">JAPANESE CAPITAL SPENDING GROWTH EXPECTED TO SLOW</field>
 	<field name = "DATELINE">TOKYO, March 24 -</field>
-	<field name = "BODY">Japanese private sector investment in
+	<field name = "content">Japanese private sector investment in
 plant and equipment is expected to grow a real 0.9 pct in 1987,
 after an estimated 5.5 pct rise last year, the Long-Term Credit
 Bank of Japan Ltd said.

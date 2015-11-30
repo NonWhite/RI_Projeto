@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 09:49:16.07</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">F
-f0153reute
-u f BC-INSTRUMENTARIUM-ACQUI   03-06 0093</field>
-	<field name = "TITLE">INSTRUMENTARIUM ACQUIRES NOKIA SUBSIDIARY</field>
+	<field name = "titulo">INSTRUMENTARIUM ACQUIRES NOKIA SUBSIDIARY</field>
 	<field name = "DATELINE">HELSINKI, March 6 -</field>
-	<field name = "BODY">Finland's medical group Instrumentarium
+	<field name = "content">Finland's medical group Instrumentarium
 Oy INMR.HE> said it has acquired electronics components
 importers and marketers Ferrado Oy> and Insele Oy>,
 subsidiaries of Finland's electronics group Nokia Oy NOKS.HE>.

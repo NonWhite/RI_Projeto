@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:45:58.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1528reute
-d f BC-PAN-AM-PN>-BEGINS-HI   04-08 0097</field>
-	<field name = "TITLE">PAN AM PN> BEGINS HIRING PILOTS</field>
+	<field name = "titulo">PAN AM PN> BEGINS HIRING PILOTS</field>
 	<field name = "DATELINE">NEW YORK, APril 8 -</field>
-	<field name = "BODY">Pan Am Corp's Pan Am World Airways said
+	<field name = "content">Pan Am Corp's Pan Am World Airways said
 it began hiring pilots and flight engineers for the first time
 in 19 years.
     The need for about 130 to 150 new pilots has been created

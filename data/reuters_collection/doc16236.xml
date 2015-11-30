@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 09:15:37.02</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0832reute
-r f BC-NOVA-NVA.TO>-TO-REDE   04-13 0099</field>
-	<field name = "TITLE">NOVA NVA.TO> TO REDEEM PREFERRED</field>
+	<field name = "titulo">NOVA NVA.TO> TO REDEEM PREFERRED</field>
 	<field name = "DATELINE">CALGARY, Alberta, April 13 -</field>
-	<field name = "BODY">Nova, An Alberta Corp said it
+	<field name = "content">Nova, An Alberta Corp said it
 will redeem its 12 pct cumulative redeemable convertible second
 preferred shares on May 15, 1987 at the redemption price of
 26.25 dlrs per share.

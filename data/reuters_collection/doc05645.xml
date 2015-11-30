@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 15:39:35.21</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-miller</field>
-	<field name = "UNKNOWN">V RM
-f3474reute
-u f BC-OMB-CHIEF-SAYS-CONGRE   03-16 0112</field>
-	<field name = "TITLE">OMB CHIEF SAYS CONGRESS CLOSE ON DEFICIT CUTS</field>
+	<field name = "titulo">OMB CHIEF SAYS CONGRESS CLOSE ON DEFICIT CUTS</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">Office of Management and Budget
+	<field name = "content">Office of Management and Budget
 Director James Miller said he believed Congress was moving
 closer to a compromise with the administration over federal
 budget deficit cuts for the coming fiscal year.

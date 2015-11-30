@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 13:49:28.82</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM 
-f1996reute
-u f BC-CANADA-SETS-NEW-STAND   06-29 0110</field>
-	<field name = "TITLE">CANADA SETS NEW STANDBY CREDIT FACILITY</field>
+	<field name = "titulo">CANADA SETS NEW STANDBY CREDIT FACILITY</field>
 	<field name = "DATELINE">OTTAWA, June 29 -</field>
-	<field name = "BODY">Finance Minister Michael Wilson announced
+	<field name = "content">Finance Minister Michael Wilson announced
 amendments to Canada's revolving standby credit facility with a
 group of Canadian banks to provide more favorable terms
 including a reduced commitment fee and lower-cost borrowing

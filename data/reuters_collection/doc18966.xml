@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 15:46:06.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4474reute
-d f BC-CORTEZ-COZYF.O>-UNIT   06-18 0100</field>
-	<field name = "TITLE">CORTEZ COZYF.O> UNIT SETS FOOD PARTNERSHIP</field>
+	<field name = "titulo">CORTEZ COZYF.O> UNIT SETS FOOD PARTNERSHIP</field>
 	<field name = "DATELINE">DALLAS, June 18 -</field>
-	<field name = "BODY">Ram Industries Inc, a unit of Cortez
+	<field name = "content">Ram Industries Inc, a unit of Cortez
 International Ltd., said an agreement has been reached with
 Treasure Valley Foods> of Nampa, Idaho, to lease all of
 Treasure's buildings and equipment.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 09:50:27.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0875reute
-r f BC-DIGITAL-OPTRONICS-CO   06-19 0078</field>
-	<field name = "TITLE">DIGITAL OPTRONICS CORP> SETS INITIAL OFFERING</field>
+	<field name = "titulo">DIGITAL OPTRONICS CORP> SETS INITIAL OFFERING</field>
 	<field name = "DATELINE">WASHINGTON, June 19 -</field>
-	<field name = "BODY">Digital Optronics Corp said it has
+	<field name = "content">Digital Optronics Corp said it has
 filed for an initial public offering of 850,000 common shares
 at an expected price of six to 6.50 dlrs a share through
 underwriters led by Yorke McCarter Owen and Bartels Inc and

@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 07:37:32.15</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F
-f0601reute
-u f BC-ECC-APPROVES-MONTEDIS   03-26 0110</field>
-	<field name = "TITLE">ECC APPROVES MONTEDISON/HERCULES VENTURE</field>
+	<field name = "titulo">ECC APPROVES MONTEDISON/HERCULES VENTURE</field>
 	<field name = "DATELINE">BRUSSELS, March 26 -</field>
-	<field name = "BODY">The European Community Commission said
+	<field name = "content">The European Community Commission said
 it had approved the creation of Himont, a company in which
 Montedison SpA MONI.MI> of Italy and Hercules Inc HPC.N) are
 major shareholders, after requesting changes in the two

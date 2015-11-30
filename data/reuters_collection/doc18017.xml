@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 10:29:53.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1136reute
-r f BC-DOMINION-D>-UNIT-SEL   06-02 0111</field>
-	<field name = "TITLE">DOMINION D> UNIT SELLS 30-YEAR BONDS</field>
+	<field name = "titulo">DOMINION D> UNIT SELLS 30-YEAR BONDS</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Virginia Electric and Power Co, a unit
+	<field name = "content">Virginia Electric and Power Co, a unit
 of Dominion Resources Inc, is raising 100 mln dlrs via an
 offering of first and refunding mortgage bonds due 2017
 yielding 9.89 pct, said sole manager E.F. Hutton and Co Inc.

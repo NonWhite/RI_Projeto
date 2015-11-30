@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 12:37:09.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f1655reute
-r f BC-ELSINOREELS>-MAKES-D   03-19 0111</field>
-	<field name = "TITLE">ELSINOREELS> MAKES DEPOSIT FOR INTEREST PAYMENT</field>
+	<field name = "titulo">ELSINOREELS> MAKES DEPOSIT FOR INTEREST PAYMENT</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Elsinore Corp said it deposited about
+	<field name = "content">Elsinore Corp said it deposited about
 2.33 mln dlrs with trustee Manufacturers Hanover Trust Co to
 cover accrued and unpaid interest on the 15-1/2 pct senior
 mortgage bonds due 1999 of its unit Elsinore Finance Corp.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">el-salvador</field>
-	<field name = "UNKNOWN">C G L
-f0974reute
-d f BC-CCC-REALLOCATES-CREDI   03-12 0131</field>
-	<field name = "TITLE">CCC REALLOCATES CREDIT GUARANTEES TO EL SALVADOR</field>
+	<field name = "titulo">CCC REALLOCATES CREDIT GUARANTEES TO EL SALVADOR</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">The Commodity Credit Corporation,
+	<field name = "content">The Commodity Credit Corporation,
 CCC, has reallocated two mln dlrs in credit gurantees
 previously earmarked for sales of U.S. protein meals to cover
 sales of vegetable oil and tallow to El Salvador, the U.S.

@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 09:40:05.09</field>
 	<field name = "PLACES">tunisia</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">C M
-f1002reute
-b f BC-TUNISIA-TO-BREAK-TIES   03-26 0065</field>
-	<field name = "TITLE">TUNISIA TO BREAK TIES WITH IRAN</field>
+	<field name = "titulo">TUNISIA TO BREAK TIES WITH IRAN</field>
 	<field name = "DATELINE">TUNIS, March 26 -</field>
-	<field name = "BODY">Tunisia has decided to break diplomatic
+	<field name = "content">Tunisia has decided to break diplomatic
 relations with Iran, the foreign ministry said.
     A communique published by the official TAP news agency said
 the Iranian embassy in Tunis had been engaged in activities

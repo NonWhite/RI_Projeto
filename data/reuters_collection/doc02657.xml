@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 11:24:16.23</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0527reute
-r f BC-UNITED-INDUSTRIAL-COR   03-06 0072</field>
-	<field name = "TITLE">UNITED INDUSTRIAL CORP UIC> 4TH QTR LOSS</field>
+	<field name = "titulo">UNITED INDUSTRIAL CORP UIC> 4TH QTR LOSS</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Shr loss 1.27 dlrs vs profit 43 cts
+	<field name = "content">Shr loss 1.27 dlrs vs profit 43 cts
     Net loss 17.0 mln vs profit 5,667,000
     Sales 67.8 mln vs 70.1 mln
     Year

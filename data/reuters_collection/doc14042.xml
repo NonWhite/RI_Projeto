@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:11:10.86</field>
-	<field name = "UNKNOWN">RM
-f1189reute
-u f BC-DOLLAR-CLOSES-LITTLE   04-07 0103</field>
-	<field name = "TITLE">DOLLAR CLOSES LITTLE CHANGED IN FRANKFURT</field>
+	<field name = "titulo">DOLLAR CLOSES LITTLE CHANGED IN FRANKFURT</field>
 	<field name = "DATELINE">FRANKFURT, April 7 -</field>
-	<field name = "BODY">The dollar closed virtually unchanged
+	<field name = "content">The dollar closed virtually unchanged
 from yesterday's finish, but near the day's high after another
 extremely quiet session.
     With the G-5 meeting in Washington ahead of this week's IMF

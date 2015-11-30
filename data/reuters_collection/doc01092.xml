@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 11:14:17.27</field>
 	<field name = "PLACES">syria</field>
 	<field name = "PLACES">israel</field>
-	<field name = "UNKNOWN">C T
-f0736reute
-d f AM-MIDEAST-CITRUS   03-03 0164</field>
-	<field name = "TITLE">SYRIA SAYS ISRAEL BLOCKS CITRUS EXPORT FROM GAZA</field>
+	<field name = "titulo">SYRIA SAYS ISRAEL BLOCKS CITRUS EXPORT FROM GAZA</field>
 	<field name = "DATELINE">UNITED NATIONS, March 3 -</field>
-	<field name = "BODY">Syria has complained to the
+	<field name = "content">Syria has complained to the
 United Nations that Israeli occupation authorities were
 blocking the export of citrus fruit from the Gaza Strip to the
 countries of the European Community, EC.

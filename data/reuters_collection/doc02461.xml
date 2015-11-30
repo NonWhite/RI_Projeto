@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 16:28:28.23</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0803reute
-d f BC-UNICORP-UAC>,-LINCOL   03-05 0096</field>
-	<field name = "TITLE">UNICORP UAC>, LINCOLN IN DEFINITVE PACT</field>
+	<field name = "titulo">UNICORP UAC>, LINCOLN IN DEFINITVE PACT</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Unicorp American Corp said it signed a
+	<field name = "content">Unicorp American Corp said it signed a
 definitive agreement to acquire Lincoln Savings Bank FSB.
     Under terms of the agreement announced in January, Lincoln
 would be acquired by a unit of Unicorp which is minority-owned

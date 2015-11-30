@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 16:00:01.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f6450reute
-r f BC-NO-POLICY-FOR-OR-AGAI   03-17 0134</field>
-	<field name = "TITLE">NO POLICY FOR OR AGAINST CERTIFICATES -- OMB</field>
+	<field name = "titulo">NO POLICY FOR OR AGAINST CERTIFICATES -- OMB</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">The U.S. Office of Management and
+	<field name = "content">The U.S. Office of Management and
 Budget does not have a policy position one way or another on
 whether the Agriculture Department's commodity certificate
 program should be expanded or contracted, an OMB official said.

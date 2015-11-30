@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 09:03:30.26</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0751reute
-b f BC-VW-DISMISSES-HEAD-OF   03-13 0108</field>
-	<field name = "TITLE">VW DISMISSES HEAD OF ITS FOREIGN EXCHANGE DEPT</field>
+	<field name = "titulo">VW DISMISSES HEAD OF ITS FOREIGN EXCHANGE DEPT</field>
 	<field name = "DATELINE">WOLFSBURG, March 13 -</field>
-	<field name = "BODY">Volkswagen AG VOWG.F> said it has
+	<field name = "content">Volkswagen AG VOWG.F> said it has
 dismissed the head of its foreign exchange department and
 suspended several other staff members following the recent
 emergence of a possible currency fraud at the company.

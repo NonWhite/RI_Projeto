@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 17:59:03.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0008reute
-u f BC-TRW-TRW>-RESPONDS-TO   03-04 0101</field>
-	<field name = "TITLE">TRW TRW> RESPONDS TO CHARGES BY EX-EMPLOYEE</field>
+	<field name = "titulo">TRW TRW> RESPONDS TO CHARGES BY EX-EMPLOYEE</field>
 	<field name = "DATELINE">CLEVELAND, March 4 -</field>
-	<field name = "BODY">TRW Inc, responding to allegations by
+	<field name = "content">TRW Inc, responding to allegations by
 an ex-employee that it was unethical in defense contract
 dealings, said it had previously informed the government of the
 billing problems.

@@ -3,13 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">RM
-f0777
-reute
-u f BC-PEMEX-SIGNS-500-MLN-D   03-03 0118</field>
-	<field name = "TITLE">PEMEX SIGNS 500 MLN DLR JAPAN LOAN FOR PIPELINE</field>
+	<field name = "titulo">PEMEX SIGNS 500 MLN DLR JAPAN LOAN FOR PIPELINE</field>
 	<field name = "DATELINE">TOKYO, March 3 -</field>
-	<field name = "BODY">Mexican state oil firm Petroleos Mexicanos
+	<field name = "content">Mexican state oil firm Petroleos Mexicanos
 (Pemex) signed for a 500 mln dlruntied loan from the
 Export-Import Bank of Japan to finance its Pacific Petroleum
 Project, Pemex Japan representative Tito Ayal said.

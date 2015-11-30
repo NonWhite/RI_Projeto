@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2460reute
-u f BC-/BP-BP>-RAISES-NORTH   04-01 0047</field>
-	<field name = "TITLE">BP BP> RAISES NORTH SEA BUTANE PRICES</field>
+	<field name = "titulo">BP BP> RAISES NORTH SEA BUTANE PRICES</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">British Petroleum Co plc said it raised
+	<field name = "content">British Petroleum Co plc said it raised
 its posted butane prices by 15.50 dlrs per tonne to 123 dlrs,
 fob north sea, effective today.
     Posted propane prices were unchanged at 110 dlrs per tonne,

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0642reute
-d f BC-PERMIAN-BASIN-PBT>-P   03-12 0084</field>
-	<field name = "TITLE">PERMIAN BASIN PBT> PROVEN RESERVES FALL</field>
+	<field name = "titulo">PERMIAN BASIN PBT> PROVEN RESERVES FALL</field>
 	<field name = "DATELINE">FORT WORTH, Texas, March 12 -</field>
-	<field name = "BODY">Permian Basin Royalty Trust
+	<field name = "content">Permian Basin Royalty Trust
 said that as of December 31, 1986, its estimated proved
 reserves totaled 18.5 mln barrels of oil and 52.9 mln MCF, or
 thousand cubic feet, of gas.

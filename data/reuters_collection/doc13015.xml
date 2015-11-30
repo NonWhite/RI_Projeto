@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 13:06:05.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1752reute
-d f BC-STEWART-INFORMATION-R   04-03 0032</field>
-	<field name = "TITLE">STEWART INFORMATION RESCHEDULES ANNUAL MEETING</field>
+	<field name = "titulo">STEWART INFORMATION RESCHEDULES ANNUAL MEETING</field>
 	<field name = "DATELINE">HOUSTON, APRIL 3 -</field>
-	<field name = "BODY">Stewart INformation Services Corp said
+	<field name = "content">Stewart INformation Services Corp said
 it rescheduled its annual meeting to May 18.
     It had been scheduled for APril 24.
  Reuter</field>

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 18:11:10.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0157reute
-r f BC-ARVIN-INDUSTRIES-ARV   03-03 0112</field>
-	<field name = "TITLE">ARVIN INDUSTRIES ARV> TO SELL 150 MLN DLRS DEBT</field>
+	<field name = "titulo">ARVIN INDUSTRIES ARV> TO SELL 150 MLN DLRS DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">Arvin Industries Inc said it is raising
+	<field name = "content">Arvin Industries Inc said it is raising
 150 mln dlrs through an offering of 8-3/8 pct 10-year notes and
 9-1/8 pct 30-year sinking fund debentures.
     Lead underwriter for the offerings, both of 75 mln dlrs, is

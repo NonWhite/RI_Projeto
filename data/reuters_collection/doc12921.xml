@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 11:08:56.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1301reute
-u f BC-FORD-F>-LATE-MARCH-S   04-03 0095</field>
-	<field name = "TITLE">FORD F> LATE-MARCH SALES UP 29.5 PCT</field>
+	<field name = "titulo">FORD F> LATE-MARCH SALES UP 29.5 PCT</field>
 	<field name = "DATELINE">DEARBORN, Mich., April 3 -</field>
-	<field name = "BODY">Ford Motor Co said domestic car
+	<field name = "content">Ford Motor Co said domestic car
 sales rose 29.5 pct in the March 20 to March 31 period compared
 with the late-March period a year ago.
     There were nine selling days in both periods.

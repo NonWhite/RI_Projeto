@@ -5,13 +5,10 @@
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">ivory-coast</field>
 	<field name = "PLACES">ghana</field>
-	<field name = "UNKNOWN">C T
-f1504reute
-u f BC-COCOA-EXPORTERS-EXPEC   04-08 0095</field>
-	<field name = "TITLE">COCOA EXPORTERS EXPECTED TO LIMIT SALES</field>
+	<field name = "titulo">COCOA EXPORTERS EXPECTED TO LIMIT SALES</field>
 	<field name = "AUTHOR">By Roger May, Reuters</field>
 	<field name = "DATELINE">YAOUNDE, April 8 -</field>
-	<field name = "BODY">Major cocoa exporters are likely to
+	<field name = "content">Major cocoa exporters are likely to
 limit sales in the weeks ahead in an effort to boost world
 prices, sources close to a meeting of the Cocoa Producers
 Alliance (CPA) said.

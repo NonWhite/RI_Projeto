@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:42:50.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0555reute
-h f BC-FARM-EQUIPMENT-RETAIL   03-12 0093</field>
-	<field name = "TITLE">FARM EQUIPMENT RETAIL SALES FALL IN FEBRUARY</field>
+	<field name = "titulo">FARM EQUIPMENT RETAIL SALES FALL IN FEBRUARY</field>
 	<field name = "DATELINE">CHICAGO, March 12 -</field>
-	<field name = "BODY">Sale of farm wheel tractors in February
+	<field name = "content">Sale of farm wheel tractors in February
 declined 26.7 pct to 4,123 units from 5,627 units a year ago,
 reported the Farm and Industrial Equipment Institute.
     Year to date, total tractor sales fell 21.7 pct to 10,354

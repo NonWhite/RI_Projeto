@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 09:00:40.27</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0734reute
-u f BC-TODD-SHIPYARDS-TOD>   04-09 0083</field>
-	<field name = "TITLE">TODD SHIPYARDS TOD> STRUCK ON WEST COAST</field>
+	<field name = "titulo">TODD SHIPYARDS TOD> STRUCK ON WEST COAST</field>
 	<field name = "DATELINE">JERSEY CITY, N.J., April 9 -</field>
-	<field name = "BODY">Todd Shipyards Corp said
+	<field name = "content">Todd Shipyards Corp said
 production workers represented by the multi-union Pacific Coast
 Metal Trades District Council at its San Francisco division
 struck on April Six.

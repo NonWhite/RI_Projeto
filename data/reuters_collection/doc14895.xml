@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 07:01:24.78</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0490reute
-b f BC-MAFINA-ISSUES-200-MLN   04-08 0091</field>
-	<field name = "TITLE">MAFINA ISSUES 200 MLN SFR BOND WITH WARRANTS</field>
+	<field name = "titulo">MAFINA ISSUES 200 MLN SFR BOND WITH WARRANTS</field>
 	<field name = "DATELINE">ZURICH, April 8 -</field>
-	<field name = "BODY">Mafina BV of Voorburg, a subsidiary of
+	<field name = "content">Mafina BV of Voorburg, a subsidiary of
 Petrofina SA PETB.BR>, is issuing a minimum 200 mln franc
 seven year bond with warrants, paying two pct, lead manager
 Credit Suisse said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 07:23:33.38</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0562reute
-r f BC-OTTAWA-SAID-BACKING-D   04-01 0116</field>
-	<field name = "TITLE">OTTAWA SAID BACKING DOWN ON BANKING CENTRES</field>
+	<field name = "titulo">OTTAWA SAID BACKING DOWN ON BANKING CENTRES</field>
 	<field name = "DATELINE">FRANKFURT, April 1 -</field>
-	<field name = "BODY">The Canadian federal government is
+	<field name = "content">The Canadian federal government is
 backing down on its plans to give Vancouver and Montreal
 special status as international banking centres, Ontario's
 minister of financial institutions Monte Kwinter said.

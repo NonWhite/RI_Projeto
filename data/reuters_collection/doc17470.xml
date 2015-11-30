@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 04:51:29.57</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0283reute
-u f BC-SKYLARK-TO-ISSUE-20-B   06-01 0091</field>
-	<field name = "TITLE">SKYLARK TO ISSUE 20 BILLION YEN CONVERTIBLE BOND</field>
+	<field name = "titulo">SKYLARK TO ISSUE 20 BILLION YEN CONVERTIBLE BOND</field>
 	<field name = "DATELINE">TOKYO, June 1 -</field>
-	<field name = "BODY">Skylark Co Ltd SKLK.T> said it will issue
+	<field name = "content">Skylark Co Ltd SKLK.T> said it will issue
 a 20 billion yen nine-year unsecured convertible bond in the
 domestic capital market through public placement with Nomura
 Securities Co Ltd as lead manager.

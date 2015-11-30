@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:24:26.33</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1301reute
-r f BC-domtar-to-issue-100-m   03-19 0058</field>
-	<field name = "TITLE">DOMTAR TO ISSUE 100 MLN DLRS OF DEBENTURES</field>
+	<field name = "titulo">DOMTAR TO ISSUE 100 MLN DLRS OF DEBENTURES</field>
 	<field name = "DATELINE">Montreal, March 19 -</field>
-	<field name = "BODY">Domtar Inc> said it filed a
+	<field name = "content">Domtar Inc> said it filed a
 preliminary prospectus for an issue of 100 mln dlrs of 10 pct
 debentures, to be offered at 99-3/4 to yield 10.03 pct and to
 mature April 15, 2011.

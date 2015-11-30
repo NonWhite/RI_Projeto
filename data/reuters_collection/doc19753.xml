@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 12:57:43.79</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">C 
-f1813reute
-d f BC-MEXICO-GETS-205-MLN-D   06-29 0110</field>
-	<field name = "TITLE">MEXICO GETS 205 MLN DLRS IN WORLD BANK LOANS</field>
+	<field name = "titulo">MEXICO GETS 205 MLN DLRS IN WORLD BANK LOANS</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">The World Bank said it approved two
+	<field name = "content">The World Bank said it approved two
 loans to Mexico totalling 205 mln dlrs to provide financial
 assistance to industrial companies and finance a project
 dealing with agricultural extension services.

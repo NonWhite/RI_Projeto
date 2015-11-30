@@ -3,13 +3,10 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f2279reute
-u f BC-TALKING-POINT/AMERICA   03-19 0099</field>
-	<field name = "TITLE">TALKING POINT/AMERICAN EXPRESS AXP></field>
+	<field name = "titulo">TALKING POINT/AMERICAN EXPRESS AXP></field>
 	<field name = "AUTHOR">By Patti Domm, Reuters</field>
 	<field name = "DATELINE">New York, March 19 -</field>
-	<field name = "BODY">American Express Co's plan to sell a
+	<field name = "content">American Express Co's plan to sell a
 stake in its Shearson Lehman Brothers is believed to be a
 prelude to a public offering of shares in the brokerage unit,
 analysts said.

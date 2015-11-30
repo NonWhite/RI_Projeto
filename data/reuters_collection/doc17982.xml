@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 09:19:36.99</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f0890reute
-u f BC-AMOCO-AN>-CANADA-OFF   06-02 0122</field>
-	<field name = "TITLE">AMOCO AN> CANADA OFFER TO TOP ONE BILLION DLRS</field>
+	<field name = "titulo">AMOCO AN> CANADA OFFER TO TOP ONE BILLION DLRS</field>
 	<field name = "DATELINE">Toronto, June 2 -</field>
-	<field name = "BODY">The public stock offering Amoco Canada
+	<field name = "content">The public stock offering Amoco Canada
 plans if it succeeds in its 5.2 billion-dlr takeover of Dome
 Petroleum Ltd DMP> will be worth more than one billion
 Canadian dlrs, a published report said.

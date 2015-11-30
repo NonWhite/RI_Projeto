@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 12:06:20.64</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1614reute
-h f BC-MADEIRA-IN-LETTER-OF   04-08 0051</field>
-	<field name = "TITLE">MADEIRA IN LETTER OF INTENT TO BE ACQUIRED</field>
+	<field name = "titulo">MADEIRA IN LETTER OF INTENT TO BE ACQUIRED</field>
 	<field name = "DATELINE">SALT LAKE CITY, UTAH, April 8 -</field>
-	<field name = "BODY">Madeira Inc> said it
+	<field name = "content">Madeira Inc> said it
 signed a letter of intent to be acquired by Tradevest Inc
 through a stock-for-stock exchange.
     After completion of the transaction, Tradevest would own 90

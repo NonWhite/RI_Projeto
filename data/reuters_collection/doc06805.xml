@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 16:11:47.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9401reute
-r f BC-CATO-FILES-FOR-INITIA   03-18 0112</field>
-	<field name = "TITLE">CATO FILES FOR INITIAL PUBLIC OFFERING</field>
+	<field name = "titulo">CATO FILES FOR INITIAL PUBLIC OFFERING</field>
 	<field name = "DATELINE">CAHRLOTTE, N.C., March 18 -</field>
-	<field name = "BODY">Cato Corp> said it filed with
+	<field name = "content">Cato Corp> said it filed with
 the Securities and Exchange Commission for an initial public
 offering of 2.7 mln shares of stock.
     The company said the offering is expected to be made in mid

@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 05:00:38.09</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F 
-f0299reute
-u f BC-MAZDA-SIGNS-AUSTRALIA   06-29 0101</field>
-	<field name = "TITLE">MAZDA SIGNS AUSTRALIAN COAL IMPORT AGREEMENT</field>
+	<field name = "titulo">MAZDA SIGNS AUSTRALIAN COAL IMPORT AGREEMENT</field>
 	<field name = "DATELINE">TOKYO, June 29 -</field>
-	<field name = "BODY">Mazda Motor Corp MAZT.T> has signed an
+	<field name = "content">Mazda Motor Corp MAZT.T> has signed an
 agreement to import coal from Coalex Pty Ltd> of Australia
 through Sumitomo Corp SUMT.T>, a Mazda spokesman said.
     Under the agreement, Mazda will annually import 144,000

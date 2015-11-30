@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 08:35:45.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f7644reute
-r f BC-WHEELING-PITTSBURGH-   03-18 0110</field>
-	<field name = "TITLE">WHEELING-PITTSBURGH QWHX> CHIEF EXECUTIVE QUITS</field>
+	<field name = "titulo">WHEELING-PITTSBURGH QWHX> CHIEF EXECUTIVE QUITS</field>
 	<field name = "DATELINE">PITTSBURGH, March 18 -</field>
-	<field name = "BODY">Wheeling-Pittsburgh Steel Corp said
+	<field name = "content">Wheeling-Pittsburgh Steel Corp said
 George A. Ferris, 70, has resigned as vice chairman and chief
 executive officer.
     The company also said Lloyd C. Lubensky, 64, its largest

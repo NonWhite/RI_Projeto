@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 01:00:58.60</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0043reute
-r f BC-NIXDORF-PLANS-TO-EXPA   06-02 0105</field>
-	<field name = "TITLE">NIXDORF PLANS TO EXPAND U.S. BUSINESS</field>
+	<field name = "titulo">NIXDORF PLANS TO EXPAND U.S. BUSINESS</field>
 	<field name = "DATELINE">PADERBORN, West Germany, June 2 -</field>
-	<field name = "BODY">Nixdorf Computer AG
+	<field name = "content">Nixdorf Computer AG
 NIXG.F> plans a sharp expansion of its activities in the
 United States, deputy management board chairman Arno Bohn said.
     He told a news conference that in the medium term Nixdorf

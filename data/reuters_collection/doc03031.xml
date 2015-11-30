@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 09:11:41.38</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">RM
-f0986reute
-r f BC-SAUDI-FRENCH-BANK-TO   03-09 0109</field>
-	<field name = "TITLE">SAUDI-FRENCH BANK TO DOUBLE PAID-UP CAPITAL</field>
+	<field name = "titulo">SAUDI-FRENCH BANK TO DOUBLE PAID-UP CAPITAL</field>
 	<field name = "DATELINE">JEDDAH, March 9 -</field>
-	<field name = "BODY">Al Bank Al Saudi Al Fransi>, also known
+	<field name = "content">Al Bank Al Saudi Al Fransi>, also known
 as Saudi-French, will double paid-up capital to 400 mln riyals
 from 200 mln by converting reserves into equity, bank officials
 said.

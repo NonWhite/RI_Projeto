@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 17:37:05.61</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2564reute
-u f BC-HUGHES'-U.S.-RIG-COUN   03-23 0137</field>
-	<field name = "TITLE">HUGHES' U.S. RIG COUNT RISES TO 784</field>
+	<field name = "titulo">HUGHES' U.S. RIG COUNT RISES TO 784</field>
 	<field name = "DATELINE">HOUSTON, March 23 -</field>
-	<field name = "BODY">U.S. drilling activity rose last week
+	<field name = "content">U.S. drilling activity rose last week
 with the number of working rotary rigs up by 23 to 784, against
 1,063 working rigs one year ago, Hughes Tool Co. said.
     The improvement was the first increase this year in the

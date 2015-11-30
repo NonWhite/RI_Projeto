@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 15:57:48.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f9344reute
-u f BC-S/P-AFFIRMS-RATINGS-O   03-18 0112</field>
-	<field name = "TITLE">S/P AFFIRMS RATINGS ON ATT T> DEBT</field>
+	<field name = "titulo">S/P AFFIRMS RATINGS ON ATT T> DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 affirmed the ratings on seven billion dlrs of debt and
 preferred stock of American Telephone and Telegraph Co.
     It said that despite flat revenues, ATT's interexchange

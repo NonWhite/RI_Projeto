@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 18:40:00.38</field>
 	<field name = "PLACES">south-korea</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0347
-reute
-r f BC-KOREAN-AIR-ORDERS-MCD   02-26 0088</field>
-	<field name = "TITLE">KOREAN AIR ORDERS MCDONNELL DOUGLAS MD> MD-11S</field>
+	<field name = "titulo">KOREAN AIR ORDERS MCDONNELL DOUGLAS MD> MD-11S</field>
 	<field name = "DATELINE">LOS ANGELES, Feb 26 -</field>
-	<field name = "BODY">McDonnell Douglas Corp said Korean
+	<field name = "content">McDonnell Douglas Corp said Korean
 Air signed formal orders for four MD-11 jets with options to
 buy four more.
     The company said if the options are exercised, the purchase

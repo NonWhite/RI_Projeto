@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 14:17:59.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0525reute
-u f BC-/AMR-AMR>-AIRCRAFT-F   03-03 0109</field>
-	<field name = "TITLE">AMR AMR> AIRCRAFT FINANCING SEEN POSITIVELY</field>
+	<field name = "titulo">AMR AMR> AIRCRAFT FINANCING SEEN POSITIVELY</field>
 	<field name = "AUTHOR">By Steven Radwell, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">The deal AMR Corp cut to buy 40 new
+	<field name = "content">The deal AMR Corp cut to buy 40 new
 planes is a plus for the company because it clearly puts the
 financial burden on aircraft manufacturers Boeing Co BA> and
 Airbus Industrie>, a European consortium, analysts said.

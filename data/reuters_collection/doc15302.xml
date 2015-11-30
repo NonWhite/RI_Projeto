@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 16:22:03.81</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G
-f2485reute
-d f BC-USDA-SEEKS-COMMENTS-O   04-08 0134</field>
-	<field name = "TITLE">USDA SEEKS COMMENTS ON GRAIN DISCOUNT SCHEDULE</field>
+	<field name = "titulo">USDA SEEKS COMMENTS ON GRAIN DISCOUNT SCHEDULE</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">The U.S. Agriculture Department is
+	<field name = "content">The U.S. Agriculture Department is
 seeking public comments on the question of adjusting the
 Commodity Credit Corporation's (CCC) discount and premium
 schedules to improve the quality of grain it accepts as loan

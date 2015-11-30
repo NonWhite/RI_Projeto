@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 11:00:12.78</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3386reute
-r f BC-ROBERT-BRUCE-INDUSTRI   06-18 0050</field>
-	<field name = "TITLE">ROBERT BRUCE INDUSTRIES BRUCA.O> 1ST QTR LOSS</field>
+	<field name = "titulo">ROBERT BRUCE INDUSTRIES BRUCA.O> 1ST QTR LOSS</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Qtr ends march 28
+	<field name = "content">Qtr ends march 28
     Shr loss 1.46 dlrs vs loss 49 cts
     Net loss 2,919,000 dlrs vs loss 892,000 dlrs
     Revs 10.3 mln vs 11.5 mln

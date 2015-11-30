@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 10:01:23.14</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0156reute
-r f BC-WHITE-ENGINE-BOUGHT-B   03-09 0108</field>
-	<field name = "TITLE">WHITE ENGINE BOUGHT BY PRIVATE INVESTOR</field>
+	<field name = "titulo">WHITE ENGINE BOUGHT BY PRIVATE INVESTOR</field>
 	<field name = "DATELINE">CANTON, Ohio, March 9 -</field>
-	<field name = "BODY">White Engine, a manufacturer of
+	<field name = "content">White Engine, a manufacturer of
 industrial and automotive diesel and gasoline engines with more
 than 100 mln dlrs in sales, said it has been sold to a group of
 group investors.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 13:45:07.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0270reute
-d f BC-PARADYNE-PDN>-FACING   03-05 0080</field>
-	<field name = "TITLE">PARADYNE PDN> FACING CRIMINAL CHARGES</field>
+	<field name = "titulo">PARADYNE PDN> FACING CRIMINAL CHARGES</field>
 	<field name = "DATELINE">LARGO, FLA, March 5 -</field>
-	<field name = "BODY">Paradyne Corp said a hearing is
+	<field name = "content">Paradyne Corp said a hearing is
 scheduled in the Federal District Court in Tampa today for
 criminal charges against it and eight of its present and former
 employees.

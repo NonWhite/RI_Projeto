@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">F
-f0746reute
-r f BC-NORTON-NRT>-TO-SELL   03-03 0093</field>
-	<field name = "TITLE">NORTON NRT> TO SELL SOUTH AFRICAN OPERATIONS</field>
+	<field name = "titulo">NORTON NRT> TO SELL SOUTH AFRICAN OPERATIONS</field>
 	<field name = "DATELINE">WORCESTER, Mass., March 3 -</field>
-	<field name = "BODY">Norton co said it has agreed to
+	<field name = "content">Norton co said it has agreed to
 sell its remaining South African business, Norton co Pty Ltd,
 to Global Mining and Industrial Corp> of South africa for
 undisclosed terms.

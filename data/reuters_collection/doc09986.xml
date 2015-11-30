@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 11:53:05.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1607reute
-r f BC-IONICS-ION>-WINS-20-   03-26 0115</field>
-	<field name = "TITLE">IONICS ION> WINS 20-YEAR DESALINATION CONTRACT</field>
+	<field name = "titulo">IONICS ION> WINS 20-YEAR DESALINATION CONTRACT</field>
 	<field name = "DATELINE">WATERTOWN, Mass., March 26 -</field>
-	<field name = "BODY">Ionics Inc said it received a
+	<field name = "content">Ionics Inc said it received a
 20-year seawater desalination contract valued at more than 50
 mln dlrs over the life of the contract from (Electrica
 Maspalomas SA), a water utility in Grand Canary Island, Spain.

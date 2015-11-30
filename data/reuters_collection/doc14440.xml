@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:12:38.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2178reute
-r f BC-ATT-T>-GETS-GEORGIA   04-07 0100</field>
-	<field name = "TITLE">ATT T> GETS GEORGIA RATE REDUCTION APPROVAL</field>
+	<field name = "titulo">ATT T> GETS GEORGIA RATE REDUCTION APPROVAL</field>
 	<field name = "DATELINE">ATLANTA, April 7 -</field>
-	<field name = "BODY">American Telephone and Telegraph Co said
+	<field name = "content">American Telephone and Telegraph Co said
 the Georgia Public Service Commission (PSC) approved its 4.1
 mln dlr rate restructuring proposal to reduce intrastate long
 distance rates by about 4.4 pct.

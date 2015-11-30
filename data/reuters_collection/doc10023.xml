@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 12:40:16.38</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">F
-f1854reute
-d f BC-EASTERN-AIR-TXN>-SEE   03-26 0102</field>
-	<field name = "TITLE">EASTERN AIR TXN> SEEKS MORE ARGENTINA FLIGHTS</field>
+	<field name = "titulo">EASTERN AIR TXN> SEEKS MORE ARGENTINA FLIGHTS</field>
 	<field name = "DATELINE">MIAMI, March 26 -</field>
-	<field name = "BODY">Texas Air Corp's Eastern Airlines Inc
+	<field name = "content">Texas Air Corp's Eastern Airlines Inc
 said it asked the U.S. Department of Transportation to approve
 an increase in the number of its weekly roundtrip flights to
 Buenos Aires to 11 from five.

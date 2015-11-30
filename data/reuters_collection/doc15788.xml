@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 13:44:16.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1955reute
-r f BC-ENDOTRONICS-ENDO>-NA   04-09 0108</field>
-	<field name = "TITLE">ENDOTRONICS ENDO> NAMES NEW PRESIDENT</field>
+	<field name = "titulo">ENDOTRONICS ENDO> NAMES NEW PRESIDENT</field>
 	<field name = "DATELINE">MINNEAPOLIS, MINN., April 9 -</field>
-	<field name = "BODY">Endotronics Inc said Richard
+	<field name = "content">Endotronics Inc said Richard
 Sakowicz has been named president, chief executive officer and
 a director, effective April 13.
     Sakowicz, recently vice president at Control Data Corp

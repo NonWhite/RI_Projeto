@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 12:10:23.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1720reute
-d f BC-NORTHROP-NOC>-TO-SPE   03-31 0100</field>
-	<field name = "TITLE">NORTHROP NOC> TO SPEND 70 MLN ON R AND D</field>
+	<field name = "titulo">NORTHROP NOC> TO SPEND 70 MLN ON R AND D</field>
 	<field name = "DATELINE">LOS ANGELES, March 31 -</field>
-	<field name = "BODY">Northrop Corp plans to spend 70 mln
+	<field name = "content">Northrop Corp plans to spend 70 mln
 dlrs this year for company-funded research and development on
 aircraft programs, including the Advanced Tactical Fighter
 (ATF) program, compared with 32 mln dlrs of expenditures in

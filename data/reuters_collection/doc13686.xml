@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:08:18.73</field>
-	<field name = "UNKNOWN">CQ MQ
-f0707reute
-u f BC-ny-comex-w'hse-stocks   04-07 0111</field>
-	<field name = "TITLE">N.Y. COMEX METALS WAREHOUSE STOCKS - APRIL 7</field>
+	<field name = "titulo">N.Y. COMEX METALS WAREHOUSE STOCKS - APRIL 7</field>
 	<field name = "DATELINE">SILVER -</field>
-	<field name = "BODY">total 156,708,754 off 323,664.   Chase Manhattan
+	<field name = "content">total 156,708,754 off 323,664.   Chase Manhattan
 30,034,873 unch, Citibank 61,107,328,
  off 340,082 Iron Mountain 25,980,352 unch,        Irving 
 Trust. 1,316,184. unch, Republic. Natl

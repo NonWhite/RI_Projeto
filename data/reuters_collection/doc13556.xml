@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:36:36.97</field>
-	<field name = "UNKNOWN">G C
-f0467reute
-r f BC-ADB-APPROVES-LOANS-FO   04-07 0113</field>
-	<field name = "TITLE">ADB APPROVES LOANS FOR AGRICULTURAL PROJECTS</field>
+	<field name = "titulo">ADB APPROVES LOANS FOR AGRICULTURAL PROJECTS</field>
 	<field name = "DATELINE">MANILA, April 7 -</field>
-	<field name = "BODY">The Asian Development Bank (ADB) said it
+	<field name = "content">The Asian Development Bank (ADB) said it
 approved two loans totalling 75.7 mln dlrs for agricultural
 projects in Bangladesh and Nepal.
     Both loans are repayable over 40 years, including a 10-year

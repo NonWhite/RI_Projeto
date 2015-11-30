@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 09:34:58.43</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">V
-f0926reute
-u f BC-CHRISTIAN-DEMOCRAT-MI   04-08 0106</field>
-	<field name = "TITLE">CHRISTIAN DEMOCRAT MINISTERS RESIGN</field>
+	<field name = "titulo">CHRISTIAN DEMOCRAT MINISTERS RESIGN</field>
 	<field name = "DATELINE">ROME, April 8 -</field>
-	<field name = "BODY">Italy's majority Christian Democrats have
+	<field name = "content">Italy's majority Christian Democrats have
 handed in their resignation from the five-party government in
 which they are senior partners, Deputy Prime Minister Arnaldo
 Forlani said.

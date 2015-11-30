@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 07:09:33.12</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E V RM
-f0457reute
-b f BC-embargoed-0700edtCANA   03-13 0064</field>
-	<field name = "TITLE">CANADA FEBRUARY UNEMPLOYMENT 9.6 PCT</field>
+	<field name = "titulo">CANADA FEBRUARY UNEMPLOYMENT 9.6 PCT</field>
 	<field name = "DATELINE">OTTAWA, March 13 -</field>
-	<field name = "BODY">Canada's February unemployment rate,
+	<field name = "content">Canada's February unemployment rate,
 seasonally adjusted, fell to 9.6 pct from 9.7 pct in January,
 Statistics Canada said. The rate was 9.8 pct in February last
 year.

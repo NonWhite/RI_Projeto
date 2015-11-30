@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G 
-f1716reute
-b f BC-RUMORS-THAT-USSR-BUYS   10-20 0058</field>
-	<field name = "TITLE">RUMORS THAT USSR BUYS U.S. CORN - TRADERS</field>
+	<field name = "titulo">RUMORS THAT USSR BUYS U.S. CORN - TRADERS</field>
 	<field name = "DATELINE">KANSAS CITY, Oct 20 -</field>
-	<field name = "BODY">Rumors circulated among the trade
+	<field name = "content">Rumors circulated among the trade
 this morning that the USSR may have purchased between one and
 two mln tonnes of U.S. corn, but there was no confirmation.
     One dealer said he felt some business had been done, but

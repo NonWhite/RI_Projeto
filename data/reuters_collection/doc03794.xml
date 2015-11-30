@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 13:06:27.68</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0011reute
-u f BC-MEESE-SEES-A-PLUS-IN   03-11 0103</field>
-	<field name = "TITLE">MEESE SEES A PLUS IN CHRYSLER-AMC MERGER</field>
+	<field name = "titulo">MEESE SEES A PLUS IN CHRYSLER-AMC MERGER</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">Attorney General Edwin Meese said he
+	<field name = "content">Attorney General Edwin Meese said he
 saw some benefit in the proposed purchase of American Motors Co
 AMO> By Chrysler Corp C> in that it would return the smallest
 of the U.S. auto manufacturers to American hands.

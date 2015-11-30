@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 07:50:45.38</field>
 	<field name = "PLACES">mauritius</field>
-	<field name = "UNKNOWN">F
-f0151reute
-r f BC-AIR-MAURITIUS-BUYS-TW   04-17 0092</field>
-	<field name = "TITLE">AIR MAURITIUS BUYS TWO BOEING 767-200'S</field>
+	<field name = "titulo">AIR MAURITIUS BUYS TWO BOEING 767-200'S</field>
 	<field name = "DATELINE">PORT LOUIS, April 17 -</field>
-	<field name = "BODY">Air Mauritius has leased a second
+	<field name = "content">Air Mauritius has leased a second
 Boeing 747 SP jumbo jet and will take delivery of two Boeing
 767-200 long-range airliners in 1988, the airline's general
 manager Tirvengadum told Reuters.

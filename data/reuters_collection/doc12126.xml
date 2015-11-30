@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 13:08:45.46</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1815reute
-u f BC-HORN/HARDART-HOR>-UN   04-01 0096</field>
-	<field name = "TITLE">HORN/HARDART HOR> UNIT DISPOSES 33 RESTAURANTS</field>
+	<field name = "titulo">HORN/HARDART HOR> UNIT DISPOSES 33 RESTAURANTS</field>
 	<field name = "DATELINE">LAS VEGAS, Nev., April 1 -</field>
-	<field name = "BODY">Horn and Hardart Co said it
+	<field name = "content">Horn and Hardart Co said it
 disposed of 33 Bojangles' Chicken 'N Biscuits restaurants in
 Florida as part of its previously announced retrenchment of its
 Bojangles' subsidiary.

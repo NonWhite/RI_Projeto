@@ -18,13 +18,10 @@
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "PLACES">venezuela</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">V
-f0915reute
-u f BC-EARLY-MARCH-OPEC-OUTP   03-05 0111</field>
-	<field name = "TITLE">EARLY MARCH OPEC OUTPUT SEEN WELL BELOW CEILING</field>
+	<field name = "titulo">EARLY MARCH OPEC OUTPUT SEEN WELL BELOW CEILING</field>
 	<field name = "AUTHOR">By Andrew Hill, Reuters</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">OPEC crude oil output in the first few
+	<field name = "content">OPEC crude oil output in the first few
 days of March was running at about 14.7 mln bpd, down from a 16
 mln bpd average for February and well below the 15.8 mln bpd
 ceiling the group adopted in December, a Reuter survey shows.

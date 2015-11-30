@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM F
-f0361reute
-r f BC-CHASE-MANHATTAN-STUDY   03-04 0109</field>
-	<field name = "TITLE">CHASE MANHATTAN STUDYING ITALIAN EXPANSION</field>
+	<field name = "titulo">CHASE MANHATTAN STUDYING ITALIAN EXPANSION</field>
 	<field name = "DATELINE">Milan, March 4 -</field>
-	<field name = "BODY">Chase Manhattan Bank N.A.> is considering
+	<field name = "content">Chase Manhattan Bank N.A.> is considering
 expanding its operations in Italy, particularly in the consumer
 banking sector, a Chase Manhattan official said.
     Robert D. Hunter, Chase Manhattan area executive for

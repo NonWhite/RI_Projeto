@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:25:40.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0531reute
-u f BC-EQUIMARK-EQK>-PARTNE   03-06 0096</field>
-	<field name = "TITLE">EQUIMARK EQK> PARTNERS TO BE DISSOLVED</field>
+	<field name = "titulo">EQUIMARK EQK> PARTNERS TO BE DISSOLVED</field>
 	<field name = "DATELINE">PITTSBURGH, March 6 -</field>
-	<field name = "BODY">Equimark Corp said Equimark
+	<field name = "content">Equimark Corp said Equimark
 Purchasing Partners> will be dissolved, effective February 24.
     Equimark, a bank holding company with is the limited
 partership's general partner, said the partnership's

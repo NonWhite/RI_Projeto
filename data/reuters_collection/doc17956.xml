@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 08:12:26.46</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F E
-f0712reute
-r f BC-DUMEZ-HAS-478,125-UNI   06-02 0084</field>
-	<field name = "TITLE">DUMEZ HAS 478,125 UNITED WESTBURNEUWI.TO>SHARES</field>
+	<field name = "titulo">DUMEZ HAS 478,125 UNITED WESTBURNEUWI.TO>SHARES</field>
 	<field name = "DATELINE">MONTREAL, June 2 -</field>
-	<field name = "BODY">Dumez Investments Inc said it is
+	<field name = "content">Dumez Investments Inc said it is
 accepting and paying for 478,125 shares of United Westburne
 Industries Ltd in response to its 25 dlr per share tender offer
 and it has extended the offer until June 26.

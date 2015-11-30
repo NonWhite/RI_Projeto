@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">rand</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM 
-f0376reute
-r f BC-VOLKSKAS-BANK-SEES-RA   10-19 0112</field>
-	<field name = "TITLE">VOLKSKAS BANK SEES RAND HINGING ON INFLATION RATE</field>
+	<field name = "titulo">VOLKSKAS BANK SEES RAND HINGING ON INFLATION RATE</field>
 	<field name = "DATELINE">JOHANNESBURG, Oct 19 -</field>
-	<field name = "BODY">South Africa must drive down its
+	<field name = "content">South Africa must drive down its
 inflation rate to much lower levels to prevent a further
 decline in the rand, said Volkskas Bank in its monthly economic
 review.

@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 17:11:01.51</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f0148
-reute
-d f BC-GAO-LIKELY-TO-SHOW-CE   02-26 0126</field>
-	<field name = "TITLE">GAO LIKELY TO SHOW CERTS MORE COSTLY THAN CASH</field>
+	<field name = "titulo">GAO LIKELY TO SHOW CERTS MORE COSTLY THAN CASH</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">A study on grain certificates due out
+	<field name = "content">A study on grain certificates due out
 shortly from the Government Accounting Office (GAO) could show
 that certificates cost the government 10 to 15 pct more than
 cash outlays, administration and industry sources said.

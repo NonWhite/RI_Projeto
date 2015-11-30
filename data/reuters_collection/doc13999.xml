@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:02:22.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f1136reute
-u f BC-ATLANTIC-RAISES-HEAVY   04-07 0086</field>
-	<field name = "TITLE">ATLANTIC RAISES HEAVY FUELS PRICES</field>
+	<field name = "titulo">ATLANTIC RAISES HEAVY FUELS PRICES</field>
 	<field name = "DATELINE">New York, April 7 -</field>
-	<field name = "BODY">Atlantic Fuels Marketing Corp said
+	<field name = "content">Atlantic Fuels Marketing Corp said
 today it raised the posted cargo prices for number six high
 sulphur fuels in the New York Habor 50 cts a barrel, effective
 today.

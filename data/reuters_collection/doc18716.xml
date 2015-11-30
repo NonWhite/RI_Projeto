@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 11:06:02.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V 
-f3430reute
-u f AM-LEBANON-GLASS   06-18 0109</field>
-	<field name = "TITLE">U.S. SAYS IT WON'T YIELD IN JOURNALIST'S KIDNAPPING</field>
+	<field name = "titulo">U.S. SAYS IT WON'T YIELD IN JOURNALIST'S KIDNAPPING</field>
 	<field name = "DATELINE">WASHINGTON, June 18-</field>
-	<field name = "BODY">The United States, responding to the
+	<field name = "content">The United States, responding to the
 kidnapping of American journalist Charles Glass, today insisted
 it would not yield to terrorist blackmail.
     "While much remains unclear, we assume this is another

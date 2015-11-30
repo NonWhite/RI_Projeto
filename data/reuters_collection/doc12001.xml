@@ -7,13 +7,10 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f1292reute
-u f BC-/SHULTZ-USSR-TRIP-FUE   04-01 0108</field>
-	<field name = "TITLE">SHULTZ USSR TRIP FUELS TALK OF EEP WHEAT OFFER</field>
+	<field name = "titulo">SHULTZ USSR TRIP FUELS TALK OF EEP WHEAT OFFER</field>
 	<field name = "AUTHOR">By Nelson Graves, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Speculation the United States will
+	<field name = "content">Speculation the United States will
 offer subsidized wheat to the Soviet Union appears to have
 reached a new level of intensity in the run-up to Secretary of
 State George Shultz' visit later this month to Moscow.

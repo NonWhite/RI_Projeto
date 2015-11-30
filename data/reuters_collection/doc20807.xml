@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 18:17:07.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F 
-f3525reute
-d f BC-S/P-MAY-DOWNGRADE-IC   10-20 0103</field>
-	<field name = "TITLE">S/P MAY DOWNGRADE IC INDUSTRIES ICX> UNIT DEBT</field>
+	<field name = "titulo">S/P MAY DOWNGRADE IC INDUSTRIES ICX> UNIT DEBT</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Standard and Poor's Corp said IC
+	<field name = "content">Standard and Poor's Corp said IC
 Products Co's BBB-plus senior debt is under review with
 negative implications. Also, Pneumo-Abex Corp's BBB-plus senior
 debt and BBB subordinated debt are being reviewed with

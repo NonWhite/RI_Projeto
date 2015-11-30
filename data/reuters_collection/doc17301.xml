@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 08:27:25.36</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">RM
-f0796reute
-r f BC-TOP-EXECUTIVE-OF-PAN   04-27 0102</field>
-	<field name = "TITLE">TOP EXECUTIVE OF PAN OCEAN SHIPPING CHARGED</field>
+	<field name = "titulo">TOP EXECUTIVE OF PAN OCEAN SHIPPING CHARGED</field>
 	<field name = "DATELINE">SEOUL, April 27 -</field>
-	<field name = "BODY">South Korean prosecutors formally charged
+	<field name = "content">South Korean prosecutors formally charged
 the chief executive of Pan Ocean Shipping Company, the
 country's largest shipping firm, with alleged financial
 offences.

@@ -2,13 +2,10 @@
 	<field name = "DATE">15-MAR-1987 02:25:10.09</field>
 	<field name = "PLACES">philippines</field>
 	<field name = "EXCHANGES">mnse</field>
-	<field name = "UNKNOWN">RM
-f0862reute
-r f BC-PANEL-HEAD-SAYS-MARCO   03-15 0113</field>
-	<field name = "TITLE">PANEL HEAD SAYS MARCOS STILL CONTROLS LARGE FUNDS</field>
+	<field name = "titulo">PANEL HEAD SAYS MARCOS STILL CONTROLS LARGE FUNDS</field>
 	<field name = "AUTHOR">By Chaitanya Kalbag, Reuters</field>
 	<field name = "DATELINE">MANILA, March 15 -</field>
-	<field name = "BODY">The head of a Philippine panel charged
+	<field name = "content">The head of a Philippine panel charged
 with recovering illegal wealth accumulated by former President
 Ferdinand Marcos and his associates said they still controlled
 large funds circulating in the country's economy.

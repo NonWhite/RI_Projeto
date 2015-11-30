@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 05:43:53.22</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM 
-f0380reute
-b f BC-E.F.-HUTTON-DENIES-RU   10-20 0113</field>
-	<field name = "TITLE">E.F. HUTTON DENIES RUMOURED SOLVENCY PROBLEMS</field>
+	<field name = "titulo">E.F. HUTTON DENIES RUMOURED SOLVENCY PROBLEMS</field>
 	<field name = "DATELINE">LONDON, Oct 20 -</field>
-	<field name = "BODY">Brokerage firm E.F. Hutton Group Inc EFH>
+	<field name = "content">Brokerage firm E.F. Hutton Group Inc EFH>
 is not facing liquidity problems as a result of the fall on
 Wall Street, nor is the firm on the brink of insolvency, London
 joint managing director Harry Romney said.

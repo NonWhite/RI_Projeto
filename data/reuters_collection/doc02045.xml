@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 10:03:43.41</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0186reute
-u f BC-DIAMOND-SHAMROCK-DIA   03-05 0073</field>
-	<field name = "TITLE">DIAMOND SHAMROCK DIA> RAISES CRUDE OIL POSTINGS</field>
+	<field name = "titulo">DIAMOND SHAMROCK DIA> RAISES CRUDE OIL POSTINGS</field>
 	<field name = "DATELINE">NEW YORK, MAR 5 -</field>
-	<field name = "BODY">Diamond Shamrock said it raised its
+	<field name = "content">Diamond Shamrock said it raised its
 posted prices for all grades of crude oil one dlr a barrel,
 effective yesterday.
     The one dlr increase brings West Texas Intermediate, WTI

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 14:32:11.19</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">M
-f0406reute
-d f BC-GM-CANADA-FEBRUARY-CA   03-04 0061</field>
-	<field name = "TITLE">GM CANADA FEBRUARY CAR SALES OFF 17.8 PCT</field>
+	<field name = "titulo">GM CANADA FEBRUARY CAR SALES OFF 17.8 PCT</field>
 	<field name = "DATELINE">OSHAWA, Ontario, March 4 -</field>
-	<field name = "BODY">General Motors of Canada Ltd,
+	<field name = "content">General Motors of Canada Ltd,
 wholly owned by General Motors Corp, said February car sales
 fell 17.8 pct to 25,779 units from 31,361 units the previous
 year.

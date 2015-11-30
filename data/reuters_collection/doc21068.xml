@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 14:40:54.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2619reute
-d f BC-THERMASCAN-INC>-RECE   10-19 0110</field>
-	<field name = "TITLE">THERMASCAN INC> RECEIVES FDA APPROVAL ON DRUG</field>
+	<field name = "titulo">THERMASCAN INC> RECEIVES FDA APPROVAL ON DRUG</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Thermascan Inc said the U.S. Food and
+	<field name = "content">Thermascan Inc said the U.S. Food and
 Drug Administration has approved clinical trials of a new,
 advanced AIDS confirmation test developed by the company.
     Thermascan said that about 10,000 trials will be taken on

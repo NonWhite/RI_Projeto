@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 10:29:56.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1258reute
-r f BC-FORD-F>-AWARDS-2.3-M   03-31 0069</field>
-	<field name = "TITLE">FORD F> AWARDS 2.3 MLN DLR CONTRACT</field>
+	<field name = "titulo">FORD F> AWARDS 2.3 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">DEARBORN, Mich., March 31 -</field>
-	<field name = "BODY">Ford Motor Co said it has
+	<field name = "content">Ford Motor Co said it has
 awarded Cimarron Express Inc>, an Ohio-based minority owned
 and operated trucking company, a 2.3 mln dlr regional
 transportation contract.

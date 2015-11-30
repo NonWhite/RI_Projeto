@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 11:46:01.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1731reute
-d f BC-GANDER-MOUNTAIN-GNDR   10-20 0084</field>
-	<field name = "TITLE">GANDER MOUNTAIN GNDR.O> DOUBLES COMMON SHARES</field>
+	<field name = "titulo">GANDER MOUNTAIN GNDR.O> DOUBLES COMMON SHARES</field>
 	<field name = "DATELINE">MILWAUKEE, Oct. 20 -</field>
-	<field name = "BODY">Gander Mountain Inc said shareholders
+	<field name = "content">Gander Mountain Inc said shareholders
 at its annual meeting approved a doubling of authorized common
 shares to 10 million from five million for general corporate
 purposes.

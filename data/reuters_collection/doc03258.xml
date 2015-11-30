@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 13:15:59.09</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0121reute
-r f BC-BERMUDA-STAR-LINE-BS   03-09 0082</field>
-	<field name = "TITLE">BERMUDA STAR LINE BSL> TO MAKE ACQUISITION</field>
+	<field name = "titulo">BERMUDA STAR LINE BSL> TO MAKE ACQUISITION</field>
 	<field name = "DATELINE">TEANECK, N.J., March 9 -</field>
-	<field name = "BODY">Bermuda Star Line Inc said it has
+	<field name = "content">Bermuda Star Line Inc said it has
 agreed in principle to acquire 815-passenger SS Liberte from
 Barnstead Shipping Ltd for use in its New York/Montreal
 "Northeast Passages" cruises, starting this summer.

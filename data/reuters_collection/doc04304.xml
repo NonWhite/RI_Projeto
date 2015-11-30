@@ -4,12 +4,9 @@
 	<field name = "TOPICS">palm-oil</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">C G
-f0542reute
-u f BC-INDIA-BUYS-RBD-PALM-O   03-12 0049</field>
-	<field name = "TITLE">INDIA BUYS RBD PALM OLEIN AT TENDER</field>
+	<field name = "titulo">INDIA BUYS RBD PALM OLEIN AT TENDER</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">The Indian State Trading Corp bought
+	<field name = "content">The Indian State Trading Corp bought
 one, or possibly two, 6,000 tonne cargoes of Malaysian refined
 bleached deodorised palm olein at its vegetable oil import
 tender today for Mar 15/Apr 15 shipment at 355 dlrs per tonne

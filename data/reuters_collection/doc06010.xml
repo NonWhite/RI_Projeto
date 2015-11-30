@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 11:14:30.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5335reute
-r f BC-CALIFORNIA-ENERGY-CE   03-17 0055</field>
-	<field name = "TITLE">CALIFORNIA ENERGY CECI> INITIAL OFFER STARTS</field>
+	<field name = "titulo">CALIFORNIA ENERGY CECI> INITIAL OFFER STARTS</field>
 	<field name = "DATELINE">SANTA ROSA, Calif., March 17 -</field>
-	<field name = "BODY">California Energy Co Inc
+	<field name = "content">California Energy Co Inc
 said an initial public offering of 1,900,000 common shares is
 underway at 7.50 dlrs each through underwriters led by Laidlaw
 Adams and Peck Inc.

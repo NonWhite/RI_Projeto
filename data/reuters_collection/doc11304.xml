@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 09:29:49.66</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0969reute
-d f BC-MAGELLAN-PETROLEUM-CO   03-31 0080</field>
-	<field name = "TITLE">MAGELLAN PETROLEUM CORP MPET> 3RD QTR JAN 31</field>
+	<field name = "titulo">MAGELLAN PETROLEUM CORP MPET> 3RD QTR JAN 31</field>
 	<field name = "DATELINE">HARTFORD, Conn., March 31 -</field>
-	<field name = "BODY">Shr loss nil vs profit nil
+	<field name = "content">Shr loss nil vs profit nil
     Net loss 90,656 vs profit 892
     Revs 2,194,242 vs 2,481,784
     Avg shrs 19.5 mln vs 16.1 mln

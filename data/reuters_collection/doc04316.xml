@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 12:15:25.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0645reute
-u f BC-NIAGARA-MOHAWK-NMK>   03-12 0109</field>
-	<field name = "TITLE">NIAGARA MOHAWK NMK> TO REPLACE NINE MILE VALVES</field>
+	<field name = "titulo">NIAGARA MOHAWK NMK> TO REPLACE NINE MILE VALVES</field>
 	<field name = "DATELINE">SYRACUSE, N.Y., March 12 -</field>
-	<field name = "BODY">Niagara Mohawk Power Co said the
+	<field name = "content">Niagara Mohawk Power Co said the
 existing ball-type main steam isolation valves installed at
 Unit Two of the Nine Mile Nuclear Station will be replaced with
 standard Y-pattern globe valves.

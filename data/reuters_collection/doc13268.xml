@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">philippines</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">T C
-f0169reute
-u f BC-PHILIPPINE-COFFEE-EXP   04-05 0092</field>
-	<field name = "TITLE">PHILIPPINE COFFEE EXPORTS SEEN FALLING SHARPLY</field>
+	<field name = "titulo">PHILIPPINE COFFEE EXPORTS SEEN FALLING SHARPLY</field>
 	<field name = "DATELINE">MANILA, April 6 -</field>
-	<field name = "BODY">Philippine coffee exports are expected
+	<field name = "content">Philippine coffee exports are expected
 to fall sharply due to a combination of the International
 Coffee Organisation's (ICO) decision not to revive export
 quotas and higher local prices, ICO Certifying Agency official

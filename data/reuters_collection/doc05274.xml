@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 07:27:31.18</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">V
-f1620reute
-u f AM-EXPLOSION   03-16 0097</field>
-	<field name = "TITLE">45 KILLED, 185 HURT IN CHINESE FACTORY BLAST</field>
+	<field name = "titulo">45 KILLED, 185 HURT IN CHINESE FACTORY BLAST</field>
 	<field name = "DATELINE">PEKING, March 16 -</field>
-	<field name = "BODY">A huge explosion in a flax factory in
+	<field name = "content">A huge explosion in a flax factory in
 the northeast China city of Harbin killed 45 workers and
 injured 185, the official China Legal News reported.
     The newspaper said the explosion in the early hours of

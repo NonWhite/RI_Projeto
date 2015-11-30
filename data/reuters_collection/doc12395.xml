@@ -4,12 +4,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0048reute
-u f BC-WORLD-RECESSION-UNLIK   04-02 0105</field>
-	<field name = "TITLE">WORLD RECESSION UNLIKELY - DEUTSCHE'S HERRHAUSEN</field>
+	<field name = "titulo">WORLD RECESSION UNLIKELY - DEUTSCHE'S HERRHAUSEN</field>
 	<field name = "DATELINE">FRANKFURT, April 2 -</field>
-	<field name = "BODY">A world recession is unlikely this
+	<field name = "content">A world recession is unlikely this
 year as fiscal and monetary policy in most industrialized
 countries is supporting the economy, Deutsche Bank AG DBKG.F>
 management board joint spokesman Alfred Herrhausen said.

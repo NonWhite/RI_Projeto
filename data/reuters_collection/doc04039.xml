@@ -3,12 +3,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">rapeseed</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f0024reute
-u f BC-CHINA'S-RAPESEED-CROP   03-11 0097</field>
-	<field name = "TITLE">CHINA'S RAPESEED CROP DAMAGED BY STORMS</field>
+	<field name = "titulo">CHINA'S RAPESEED CROP DAMAGED BY STORMS</field>
 	<field name = "DATELINE">PEKING, March 12 -</field>
-	<field name = "BODY">The yield on 46,000 hectares (ha) of
+	<field name = "content">The yield on 46,000 hectares (ha) of
 rapeseed in central China will be cut by up to 70 pct by
 hailstorms and tornadoes that swept across nearly 100,000 ha of
 crops on March 6, the New China News Agency said today.

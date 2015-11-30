@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 19:24:10.38</field>
 	<field name = "TOPICS">tea</field>
 	<field name = "PLACES">pakistan</field>
-	<field name = "UNKNOWN">T 
-f2841reute
-d f BC-STATE-TO-CONTROL-70-P   06-29 0125</field>
-	<field name = "TITLE">STATE TO CONTROL 70 PCT OF PAKISTAN TEA IMPORTS</field>
+	<field name = "titulo">STATE TO CONTROL 70 PCT OF PAKISTAN TEA IMPORTS</field>
 	<field name = "DATELINE">ISLAMABAD, June 29 -</field>
-	<field name = "BODY">Pakistan announced a new tea import
+	<field name = "content">Pakistan announced a new tea import
 policy, saying 70 pct of imports will in future be made through
 the state Trading Corporation of Pakistan (TCP).
    Commerce Minister Mahbubul Haq said in a television

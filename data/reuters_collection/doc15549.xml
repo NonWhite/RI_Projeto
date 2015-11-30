@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 10:10:58.67</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0978reute
-b f BC-BANK-OF-FRANCE-LEAVES   04-09 0079</field>
-	<field name = "TITLE">BANK OF FRANCE LEAVES INTERVENTION RATE UNCHANGED</field>
+	<field name = "titulo">BANK OF FRANCE LEAVES INTERVENTION RATE UNCHANGED</field>
 	<field name = "DATELINE">PARIS, April 9 -</field>
-	<field name = "BODY">The Bank of France said it left its
+	<field name = "content">The Bank of France said it left its
 intervention rate unchanged at 7-3/4 pct when it injected funds
 in the market against first category paper in today's money
 market intervention tender.

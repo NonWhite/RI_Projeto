@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 10:28:07.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0264reute
-r f BC-MESA-AIRLINES-INC>-I   03-11 0062</field>
-	<field name = "TITLE">MESA AIRLINES INC> INITIAL OFFERING UNDERWAY</field>
+	<field name = "titulo">MESA AIRLINES INC> INITIAL OFFERING UNDERWAY</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Lead underwriters Josephthal and Co
+	<field name = "content">Lead underwriters Josephthal and Co
 Inc, Emmett A. Larkin Co Inc and Hays Securities Corp said an
 initial public offering of 865,000 common shares of Mesa
 Airlines Inc is underway at 7.50 dlrs per share.

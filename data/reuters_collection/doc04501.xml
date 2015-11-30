@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:06:13.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0415reute
-r f BC-GM-GM>-ADDS-PLANT-TO   03-12 0096</field>
-	<field name = "TITLE">GM GM> ADDS PLANT TO TEMPORARY LAYOFF LIST</field>
+	<field name = "titulo">GM GM> ADDS PLANT TO TEMPORARY LAYOFF LIST</field>
 	<field name = "DATELINE">DETROIT, March 12 -</field>
-	<field name = "BODY">General Motors Corp said it is adding a
+	<field name = "content">General Motors Corp said it is adding a
 third plant to its temporary layoff ranks.
     It said the Arlington Assembly plant in Arlington, Texas,
 will be closed March 16 to 30 for inventory adjustment, a move

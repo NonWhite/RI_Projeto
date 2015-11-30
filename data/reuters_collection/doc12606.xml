@@ -4,12 +4,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">lawson</field>
-	<field name = "UNKNOWN">V
-f1436reute
-u f BC-LAWSON-SAYS-STERLING   04-02 0100</field>
-	<field name = "TITLE">LAWSON SAYS STERLING COMMENTS INSIGNIFICANT</field>
+	<field name = "titulo">LAWSON SAYS STERLING COMMENTS INSIGNIFICANT</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">Chancellor of the Exchequer Nigel Lawson
+	<field name = "content">Chancellor of the Exchequer Nigel Lawson
 criticised media coverage of comments he made yesterday, when
 he was reported as saying he wanted sterling to stay roughly
 where it was, specifying a rate of around 2.90 marks and 1.60

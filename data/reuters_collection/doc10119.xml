@@ -5,12 +5,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C G
-f2366reute
-b f BC-/CHINA-SWITCHES-U.S.   03-26 0086</field>
-	<field name = "TITLE">CHINA SWITCHES U.S. WHEAT TO 1987/88 FROM 86/87</field>
+	<field name = "titulo">CHINA SWITCHES U.S. WHEAT TO 1987/88 FROM 86/87</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">China has switched purchases of U.S.
+	<field name = "content">China has switched purchases of U.S.
 wheat totaling 60,000 tonnes from the 1986/87 season, which
 began June 1, to 1987/88 season delivery, the U.S. Agriculture
 Department said.

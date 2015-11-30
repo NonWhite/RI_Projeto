@@ -2,14 +2,10 @@
 	<field name = "DATE">2-MAR-1987 08:29:05.15</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0315
-reute
-u f PM-PUROLATOR   03-02 0102</field>
-	<field name = "TITLE">PUROLATOR PCC> IN BUYOUT WITH HUTTON EFH></field>
+	<field name = "titulo">PUROLATOR PCC> IN BUYOUT WITH HUTTON EFH></field>
 	<field name = "AUTHOR">By Patti Domm</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">New Jersey-based overnight messenger
+	<field name = "content">New Jersey-based overnight messenger
 Purolator Courier Corp said it has agreed to be acquired for
 about 265 mln dlrs by a company formed by E.F. Hutton LBO Inc
 and certain managers of Purolator's U.S. courier business.

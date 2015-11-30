@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "PEOPLE">languetin</field>
-	<field name = "UNKNOWN">RM
-f0379reute
-u f BC-SWISS-COMMITTED-TO-JO   04-24 0106</field>
-	<field name = "TITLE">SWISS COMMITTED TO JOINT CURRENCY INTERVENTION</field>
+	<field name = "titulo">SWISS COMMITTED TO JOINT CURRENCY INTERVENTION</field>
 	<field name = "DATELINE">BERNE, April 24 -</field>
-	<field name = "BODY">The Swiss National Bank will continue to
+	<field name = "content">The Swiss National Bank will continue to
 take part in concerted intervention on currency markets as
 necessary, president Pierre Languetin told the bank's annual
 meeting.

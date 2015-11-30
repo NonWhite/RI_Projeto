@@ -7,14 +7,10 @@
 	<field name = "TOPICS">soy-oil</field>
 	<field name = "TOPICS">soy-meal</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0326
-reute
-u f BC-FALLING-SOYBEAN-CRUSH   02-26 0123</field>
-	<field name = "TITLE">FALLING SOYBEAN CRUSH RATIOS CUT OUTPUT</field>
+	<field name = "titulo">FALLING SOYBEAN CRUSH RATIOS CUT OUTPUT</field>
 	<field name = "AUTHOR">by John Morrison, Reuters</field>
 	<field name = "DATELINE">CHICAGO, Feb 26 -</field>
-	<field name = "BODY">The sharp decline in soybean crush ratios
+	<field name = "content">The sharp decline in soybean crush ratios
 seen in the last few weeks, accelerating in recent days, has
 pushed margins below the cost of production at most soybean
 processing plants and prompted many to cut output of soybean

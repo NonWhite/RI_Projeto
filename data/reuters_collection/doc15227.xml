@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 14:24:25.21</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G L M T
-f2144reute
-u f BC-CONSERVATIVE-LEAD-DRO   04-08 0080</field>
-	<field name = "TITLE">CONSERVATIVE LEAD DROPS IN NEW U.K. OPINION POLL</field>
+	<field name = "titulo">CONSERVATIVE LEAD DROPS IN NEW U.K. OPINION POLL</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">A British opinion poll showed the ruling
+	<field name = "content">A British opinion poll showed the ruling
 Conservative party was still ahead of Labour and the
 Liberal-Social Democratic Alliance, but support appeared to be
 declining, raising the spectre of an inconclusive election

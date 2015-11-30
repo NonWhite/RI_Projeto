@@ -5,12 +5,9 @@
 	<field name = "TOPICS">carcass</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">cuba</field>
-	<field name = "UNKNOWN">C G L
-f0572reute
-r f BC-Cattle-drought   03-05 0141</field>
-	<field name = "TITLE">CUBAN CATTLE THREATENED BY DROUGHT</field>
+	<field name = "titulo">CUBAN CATTLE THREATENED BY DROUGHT</field>
 	<field name = "DATELINE">HAVANA, March 5 -</field>
-	<field name = "BODY">Over 750,000 head of cattle are suffering
+	<field name = "content">Over 750,000 head of cattle are suffering
 the effects of a severe shortage of feed as a result of a
 prolonged drought in the normally rich sugar and cattle
 producing province of Camaguey, the newspaper Granma reported.

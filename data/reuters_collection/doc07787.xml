@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:07:47.03</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">RM
-f1517reute
-u f BC-YUGOSLAVIA-FREEZING-P   03-20 0073</field>
-	<field name = "TITLE">YUGOSLAVIA FREEZING PRICES AFTER STRIKES</field>
+	<field name = "titulo">YUGOSLAVIA FREEZING PRICES AFTER STRIKES</field>
 	<field name = "DATELINE">BELGRADE, March 2O -</field>
-	<field name = "BODY">The government said it will freeze
+	<field name = "content">The government said it will freeze
 prices at end-December levels within five days.
     The announcement followed a wave of strikes that swept the
 country in protest against a wages freeze.

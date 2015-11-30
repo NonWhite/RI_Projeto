@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 14:41:42.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A F
-f2109reute
-u f BC-BANKERS-TRUST-BT>-FI   04-09 0079</field>
-	<field name = "TITLE">BANKERS TRUST BT> FILES 400 MLN DLR OFFERING</field>
+	<field name = "titulo">BANKERS TRUST BT> FILES 400 MLN DLR OFFERING</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Bankers Trust New York Corp filed
+	<field name = "content">Bankers Trust New York Corp filed
 with the Securities and Exchange Commission for a shelf
 offering of up to 400 mln dlrs of subordinated debentures on
 terms to be set at the time of sale.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 16:04:28.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0499reute
-r f BC-RJR-NABISCO-RJR>-FIL   03-06 0090</field>
-	<field name = "TITLE">RJR NABISCO RJR> FILES 500 MLN DLR DEBT OFFER</field>
+	<field name = "titulo">RJR NABISCO RJR> FILES 500 MLN DLR DEBT OFFER</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">RJR Nabisco Inc filed with the
+	<field name = "content">RJR Nabisco Inc filed with the
 Securities and Exchange Commission for a shelf offering of up
 to 500 mln dlrs of debt securities on terms to be set at the
 time of sale.

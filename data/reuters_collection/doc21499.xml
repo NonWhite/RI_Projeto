@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 07:57:00.04</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F 
-f0683reute
-b f BC-PUMA-FIRST-HALF-LOSS   10-19 0092</field>
-	<field name = "TITLE">PUMA FIRST-HALF LOSS ABOUT 14 MLN MARKS</field>
+	<field name = "titulo">PUMA FIRST-HALF LOSS ABOUT 14 MLN MARKS</field>
 	<field name = "DATELINE">MUNICH, Oct 19 -</field>
-	<field name = "BODY">Puma AG Rudolf Dassler Sport PUMA.F> said
+	<field name = "content">Puma AG Rudolf Dassler Sport PUMA.F> said
 it posted a 1987 first-half group loss of about 14 mln marks,
 of which the largest portion was in the U.S.
     Managing board chairman Armin Dassler told the annual

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 16:10:30.64</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3132reute
-u f BC-TELEX-TC>-ADOPTS-SHA   10-20 0109</field>
-	<field name = "TITLE">TELEX TC> ADOPTS SHAREHOLDER RIGHTS PLAN</field>
+	<field name = "titulo">TELEX TC> ADOPTS SHAREHOLDER RIGHTS PLAN</field>
 	<field name = "DATELINE">DALLAS, Oct 9 -</field>
-	<field name = "BODY">Telex Corp said its board adopted a
+	<field name = "content">Telex Corp said its board adopted a
 shareholder rights plan which will allow shareholders to
 purchase one common share for two dlrs if a hostile group
 acquires 15 pct or more of the company.

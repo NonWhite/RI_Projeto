@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 10:57:52.71</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0420reute
-d f BC-MAJOR-REALTY-CORP-MA   03-11 0049</field>
-	<field name = "TITLE">MAJOR REALTY CORP MAJR> 4TH QTR LOSS</field>
+	<field name = "titulo">MAJOR REALTY CORP MAJR> 4TH QTR LOSS</field>
 	<field name = "DATELINE">ORLANDO, Fla., March 11 -</field>
-	<field name = "BODY">Shr loss 19 cts vs profit 11 cts
+	<field name = "content">Shr loss 19 cts vs profit 11 cts
     Net loss 1,140,270 vs profit 590,463
     Revs 1,259,164 vs 3,225,512
     Year

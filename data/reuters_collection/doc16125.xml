@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 03:45:13.43</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">RM
-f0160reute
-u f BC-MALAYSIA'S-1986-MANUF   04-13 0102</field>
-	<field name = "TITLE">MALAYSIA'S 1986 MANUFACTURING EXPORTS RISE 24 PCT</field>
+	<field name = "titulo">MALAYSIA'S 1986 MANUFACTURING EXPORTS RISE 24 PCT</field>
 	<field name = "DATELINE">KUALA LUMPUR, April 13 -</field>
-	<field name = "BODY">Malaysia's manufacturing exports
+	<field name = "content">Malaysia's manufacturing exports
 rose by 24.5 pct to 15.1 billion ringgit in 1986, chairman of
 the Export Promotion Council Ahmad Sarji Abdul Hamind said.
     The improved export performance was led by electrical and

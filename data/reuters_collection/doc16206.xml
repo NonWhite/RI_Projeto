@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 08:21:00.99</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0684reute
-u f BC-BLUE-CIRCLE-PROFITS,   04-13 0062</field>
-	<field name = "TITLE">BLUE CIRCLE PROFITS, DIVIDEND RISE</field>
+	<field name = "titulo">BLUE CIRCLE PROFITS, DIVIDEND RISE</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">Year to end-December Shr 76.7p vs 67.7p
+	<field name = "content">Year to end-December Shr 76.7p vs 67.7p
     Div 17p making 23p vs 21p
     Pretax profit 127.0 mln stg vs 116.9 mln
     Turnover 1.10 billion vs 947.2 mln

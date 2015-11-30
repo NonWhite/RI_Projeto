@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:20:38.93</field>
-	<field name = "UNKNOWN">C M
-f1542reute
-u f BC-LME-COPPER-CLOSES-AFT   04-07 0114</field>
-	<field name = "TITLE">LME COPPER CLOSES AFTER RETREAT FROM EARLIER HIGHS</field>
+	<field name = "titulo">LME COPPER CLOSES AFTER RETREAT FROM EARLIER HIGHS</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">LME afternoon ring dealings in copper
+	<field name = "content">LME afternoon ring dealings in copper
 ended with three months Grade A business at 879 stg per tonne,
 a rise of three from yesterday's afternoon kerb close,
 equivalent to 1,410 dlrs per tonne, up four.

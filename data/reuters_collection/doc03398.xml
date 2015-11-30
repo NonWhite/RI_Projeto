@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 17:30:33.60</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0961reute
-r f BC-WASHINGTON-NAT'L-WNT   03-09 0097</field>
-	<field name = "TITLE">WASHINGTON NAT'L WNT> BUYS UNITED PRESIDENTIAL</field>
+	<field name = "titulo">WASHINGTON NAT'L WNT> BUYS UNITED PRESIDENTIAL</field>
 	<field name = "DATELINE">EVANSTON, Ill., March 9 -</field>
-	<field name = "BODY">Washington National Corp's
+	<field name = "content">Washington National Corp's
 Washington National Insurance Co said it bought the remaining
 15 pct of United Presidential Corp's UPCO> outstanding shares
 at 19 dlrs a share cash.

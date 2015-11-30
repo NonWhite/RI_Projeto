@@ -4,12 +4,9 @@
 	<field name = "TOPICS">palm-oil</field>
 	<field name = "PLACES">india</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G
-f0303reute
-b f BC-INDIA-TOOK-THREE-CARG   03-13 0094</field>
-	<field name = "TITLE">INDIA TOOK THREE CARGOES OF RBD OLEIN AT TENDER</field>
+	<field name = "titulo">INDIA TOOK THREE CARGOES OF RBD OLEIN AT TENDER</field>
 	<field name = "DATELINE">LONDON, March 13 -</field>
-	<field name = "BODY">The Indian State Trading Corporation
+	<field name = "content">The Indian State Trading Corporation
 (STC) bought three cargoes of rbd palm olein at its vegetable
 oil import tender yesterday, traders said. Late yesterday the
 market was reporting it had bought one to two cargoes.

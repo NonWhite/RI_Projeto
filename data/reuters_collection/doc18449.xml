@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-JUN-1987 06:10:47.65</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0425reute
-b f BC-TOYOTA-LIKELY-TO-ISSU   06-16 0075</field>
-	<field name = "TITLE">TOYOTA LIKELY TO ISSUE 800 MLN DLR WARRANT BOND</field>
+	<field name = "titulo">TOYOTA LIKELY TO ISSUE 800 MLN DLR WARRANT BOND</field>
 	<field name = "DATELINE">TOKYO, June 16 -</field>
-	<field name = "BODY">Toyota Motor Corp TOYO.T> is likely to
+	<field name = "content">Toyota Motor Corp TOYO.T> is likely to
 raise 800 mln dlrs through a Eurodollar bond with warrants in
 mid-July, underwriting sources said.
     A final official decision on the issue has yet to be made

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 11:25:21.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1421reute
-r f BC-PERRY-DRUG-STORES-PD   06-02 0068</field>
-	<field name = "TITLE">PERRY DRUG STORES PDS> NAMES NEW PRESIDENT</field>
+	<field name = "titulo">PERRY DRUG STORES PDS> NAMES NEW PRESIDENT</field>
 	<field name = "DATELINE">PONTIAC, Mich., June 2 -</field>
-	<field name = "BODY">Perry Drug Stores Inc said it has
+	<field name = "content">Perry Drug Stores Inc said it has
 elected David Schwartz as president and chief executive
 officer, effective immediately.
     Perry said Schwartz, who will also serve on the board,

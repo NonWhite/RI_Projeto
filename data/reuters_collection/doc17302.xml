@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ipi</field>
 	<field name = "TOPICS">inventories</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0849reute
-h f BC-JAPAN-INDUSTRIAL-PROD   04-27 0072</field>
-	<field name = "TITLE">JAPAN INDUSTRIAL PRODUCTION RISES IN MARCH</field>
+	<field name = "titulo">JAPAN INDUSTRIAL PRODUCTION RISES IN MARCH</field>
 	<field name = "DATELINE">TOKYO, April 27 -</field>
-	<field name = "BODY">Japan's preliminary industrial production
+	<field name = "content">Japan's preliminary industrial production
 index (base 1980) rose 0.7 pct to a seasonally adjusted 122.8
 in March from the previous month, the Ministry of International
 Trade and Industry said.

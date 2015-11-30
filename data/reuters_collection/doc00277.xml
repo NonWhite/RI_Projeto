@@ -1,14 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 02:01:55.38</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0635
-reute
-u f BC-GERMAN-EUROBOND-MARKE   03-02 0099</field>
-	<field name = "TITLE">GERMAN EUROBOND MARKET EXPECTS BREATHING SPACE</field>
+	<field name = "titulo">GERMAN EUROBOND MARKET EXPECTS BREATHING SPACE</field>
 	<field name = "AUTHOR">By Alice Ratcliffe, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 2 -</field>
-	<field name = "BODY">After an onslaught of new paper, fewer
+	<field name = "content">After an onslaught of new paper, fewer
 mark eurobonds issues are expected this week, bankers said.
     Most managers said they were planning a low issue volume
 for the Bundesbank's two-week bond calendar beginning today.

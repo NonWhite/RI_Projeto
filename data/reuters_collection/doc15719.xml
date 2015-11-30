@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f1640reute
-u f BC-EC-COMMISSION-AUTHORI   04-09 0103</field>
-	<field name = "TITLE">EC COMMISSION AUTHORISED TO BUY MAIZE IN JUNE</field>
+	<field name = "titulo">EC COMMISSION AUTHORISED TO BUY MAIZE IN JUNE</field>
 	<field name = "DATELINE">BRUSSELS, April 9 -</field>
-	<field name = "BODY">The European Commission was authorised
+	<field name = "content">The European Commission was authorised
 to buy up to one mln tonnes of maize into intervention stores
 in the second half of June, although sales into intervention
 normally end on April 30, Commission sources said.

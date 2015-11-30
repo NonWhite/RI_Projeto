@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">V RM
-f0466reute
-b f BC-/BAKER-SEES-LOWER-JAP   03-06 0082</field>
-	<field name = "TITLE">BAKER SEES LOWER JAPANESE TRADE SURPLUS</field>
+	<field name = "titulo">BAKER SEES LOWER JAPANESE TRADE SURPLUS</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">U.S. Treasury Secretary James Baker
+	<field name = "content">U.S. Treasury Secretary James Baker
 said the Japanese trade surplus would begin to decline this
 year.
     He told the National Newspaper Association "You're going to

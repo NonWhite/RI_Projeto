@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:34:45.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f1836reute
-r f BC-LEASEWAY-LTC>-DEBT-D   06-19 0113</field>
-	<field name = "TITLE">LEASEWAY LTC> DEBT DOWNGRADED BY S/P</field>
+	<field name = "titulo">LEASEWAY LTC> DEBT DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 downgraded to B-plus from A about 50 mln dlrs of collateral
 trust notes of Leaseway Transportation Corp.
     S and P cited a leveraged buyout offer from an investor

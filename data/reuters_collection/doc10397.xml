@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:05:15.00F</field>
-	<field name = "UNKNOWN">f0782reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">d f BC-PORSCHE-EXPECTS-IMPRO   03-27 0105</field>
-	<field name = "TITLE">PORSCHE EXPECTS IMPROVEMENT IN U.S. SALES</field>
+	<field name = "titulo">PORSCHE EXPECTS IMPROVEMENT IN U.S. SALES</field>
 	<field name = "DATELINE">STUTTGART, March 27 -</field>
-	<field name = "BODY">Sports carmaker Dr. Ing. H.C.F.
+	<field name = "content">Sports carmaker Dr. Ing. H.C.F.
 Porsche AG PSHG.F> said it expects to post a satisfactory
 profit in 1986/87, with domestic volume sales seen lower but
 U.S. Sales anticipated higher.

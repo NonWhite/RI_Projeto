@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 10:39:30.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0419reute
-r f BC-MOODY'S-UPGRADES-GE-   03-04 0099</field>
-	<field name = "TITLE">MOODY'S UPGRADES GE GE> MORTGAGE INSURANCE UNIT</field>
+	<field name = "titulo">MOODY'S UPGRADES GE GE> MORTGAGE INSURANCE UNIT</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 upgraded to Aaa from Aa-1 the insurance rating of General
 Electric Mortgage Insurance Co of Ohio, a unit of General
 Electric Co.

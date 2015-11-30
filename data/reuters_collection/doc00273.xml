@@ -3,13 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "TOPICS">palm-oil</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">G C
-f0609
-reute
-u f BC-INDONESIAN-PALM-OIL-O   03-02 0108</field>
-	<field name = "TITLE">INDONESIAN PALM OIL OUTPUT EXPECTED TO RISE</field>
+	<field name = "titulo">INDONESIAN PALM OIL OUTPUT EXPECTED TO RISE</field>
 	<field name = "DATELINE">JAKARTA, March 2 -</field>
-	<field name = "BODY">Indonesia's palm oil output is expected
+	<field name = "content">Indonesia's palm oil output is expected
 to rise and exports to increase, the U.S. Embassy said in its
 annual report on Indonesia's agriculture sector.
     The Indonesian government said crude palm oil (CPO) output

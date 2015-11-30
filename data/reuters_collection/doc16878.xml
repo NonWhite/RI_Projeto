@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 13:09:28.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0357reute
-r f BC-TODD-TOD>-DEBT-MAY-B   04-17 0109</field>
-	<field name = "TITLE">TODD TOD> DEBT MAY BE DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">TODD TOD> DEBT MAY BE DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, April 17 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 may downgrade Todd Shipyards Corp's 110 mln dlrs of debt.
     It cited Tood's report of significant and unanticipated
 losses on a commercial contract, and continuing uncertainty

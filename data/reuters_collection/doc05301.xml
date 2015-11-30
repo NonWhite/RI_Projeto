@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 08:51:21.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1869reute
-d f BC-TECHNOLOGY (SCHEDULED-FEATURE)  03-16 0103</field>
-	<field name = "TITLE">TECHNOLOGY/DESKTOP PUBLISHING</field>
+	<field name = "titulo">TECHNOLOGY/DESKTOP PUBLISHING</field>
 	<field name = "AUTHOR">by Catherine Arnst, Reuters</field>
 	<field name = "DATELINE">BOSTON, March 16 -</field>
-	<field name = "BODY">This month's endorsement by
+	<field name = "content">This month's endorsement by
 International Business Machines Corp IBM> of two desktop
 publishing software products should add some much-needed
 standards to one of the fastest growing segments of the

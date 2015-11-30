@@ -1,15 +1,13 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:43:04.69RM</field>
-	<field name = "UNKNOWN">f1079reute</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">greece</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">b f BC-NATO-HOLDS-EMERGENCY   03-27 0078</field>
-	<field name = "TITLE">NATO HOLDS EMERGENCY MEETING ON AEGEAN CRISIS</field>
+	<field name = "titulo">NATO HOLDS EMERGENCY MEETING ON AEGEAN CRISIS</field>
 	<field name = "DATELINE">BRUSSELS, March 27 -</field>
-	<field name = "BODY">NATO ambassadors met in emergency
+	<field name = "content">NATO ambassadors met in emergency
 session today to discuss tension between members Greece and
 Turkey over a disputed area of the Aegean Sea on the Western
 Alliance's southern flank, Greek diplomatic sources said.

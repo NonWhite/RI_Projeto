@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 12:10:25.64</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1637reute
-u f BC-DATRON-DATR>-AGREES   04-08 0079</field>
-	<field name = "TITLE">DATRON DATR> AGREES TO BUYOUT BY OFFICERS</field>
+	<field name = "titulo">DATRON DATR> AGREES TO BUYOUT BY OFFICERS</field>
 	<field name = "DATELINE">MINNEAPOLIS, MINN., April 8 -</field>
-	<field name = "BODY">Datron Corp said it agreed to
+	<field name = "content">Datron Corp said it agreed to
 merge with GGFH Inc, a Florida-based company formed by the four
 top officers of the company.
     According to terms of the proposed transaction, each share

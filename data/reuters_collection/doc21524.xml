@@ -4,13 +4,10 @@
 	<field name = "TOPICS">jobs</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">RM 
-f0498reute
-u f BC-HIGHER-SPENDING-EXPEC   10-19 0091</field>
-	<field name = "TITLE">HIGHER SPENDING EXPECTED IN MALAYSIA'S 1988 BUDGET</field>
+	<field name = "titulo">HIGHER SPENDING EXPECTED IN MALAYSIA'S 1988 BUDGET</field>
 	<field name = "AUTHOR">By Ho Wah Foon</field>
 	<field name = "DATELINE">KUALA LUMPUR, Oct 19 -</field>
-	<field name = "BODY">Malaysia's recovery from the worst
+	<field name = "content">Malaysia's recovery from the worst
 recession in 20 years should receive a boost on Friday when the
 government announces a reflationary budget for calendar 1988
 after seven years of austerity, economists said.

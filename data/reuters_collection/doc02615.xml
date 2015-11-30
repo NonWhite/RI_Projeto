@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 10:42:50.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0332reute
-r f BC-MTECH-MTCH>-TO-OFFER   03-06 0039</field>
-	<field name = "TITLE">MTECH MTCH> TO OFFER CONVERTIBLE DEBENTURES</field>
+	<field name = "titulo">MTECH MTCH> TO OFFER CONVERTIBLE DEBENTURES</field>
 	<field name = "DATELINE">DALLAS, March 6 -</field>
-	<field name = "BODY">MTech Corp said it expects to file
+	<field name = "content">MTech Corp said it expects to file
 shortly for an offering of subordinated debentures convertibe
 into common stock.
     It gave no details on the size of the offering.

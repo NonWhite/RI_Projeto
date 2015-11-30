@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 07:06:35.27</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0508reute
-r f BC-FEDERAL-REALTY-ISSUES   04-08 0105</field>
-	<field name = "TITLE">FEDERAL REALTY ISSUES 75 MLN DLR CONVERTIBLE BOND</field>
+	<field name = "titulo">FEDERAL REALTY ISSUES 75 MLN DLR CONVERTIBLE BOND</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">Federal Realty Investment Trust is
+	<field name = "content">Federal Realty Investment Trust is
 issuing a 75 mln dlr convertible eurobond due April 30, 2002
 paying an indicated coupon of 5-1/4 to 5-1/2 pct and priced at
 par, lead manager Salomon Brothers International said.

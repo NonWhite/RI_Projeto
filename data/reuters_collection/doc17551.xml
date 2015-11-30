@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:37:16.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1168reute
-u f BC-CIRCUS-CIRCUS-CIR>-T   06-01 0080</field>
-	<field name = "TITLE">CIRCUS CIRCUS CIR> TO HAVE 2ND QTR CHARGE</field>
+	<field name = "titulo">CIRCUS CIRCUS CIR> TO HAVE 2ND QTR CHARGE</field>
 	<field name = "DATELINE">LAS VEGAS, June 1 -</field>
-	<field name = "BODY">Circus Circus Enterprises Inc said it
+	<field name = "content">Circus Circus Enterprises Inc said it
 expects to report a charge of about six mln dlrs or 16 cts per
 share against results for the second quarter ending July 31 due
 to a tender for all 75 mln dlrs of its first mortgage bonds

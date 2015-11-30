@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 15:39:45.86</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2171reute
-r f BC-AMERICAN-HONDA-U.S.-L   04-03 0052</field>
-	<field name = "TITLE">AMERICAN HONDA U.S. LATE-MARCH CAR SALES UP</field>
+	<field name = "titulo">AMERICAN HONDA U.S. LATE-MARCH CAR SALES UP</field>
 	<field name = "DATELINE">DETROIT, April 3 -</field>
-	<field name = "BODY">American Honda Motor Co said domestic
+	<field name = "content">American Honda Motor Co said domestic
 car sales for the March 21-31 period rose to 16,635 from 6,358
 a year ago.
     It said sales for all of March advanced to 28,476 from

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0501reute
-b f BC-/-FED-ADDS-RESERVES-V   03-12 0060</field>
-	<field name = "TITLE">FED ADDS RESERVES VIA CUSTOMER REPURCHASES</field>
+	<field name = "titulo">FED ADDS RESERVES VIA CUSTOMER REPURCHASES</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">The Federal Reserve entered the U.S.
+	<field name = "content">The Federal Reserve entered the U.S.
 Government securities market to arrange two billion dlrs of
 customer repurchase agreements, a spokeswoman said.
     Dealers said Federal funds were trading at 6-1/8 pct when

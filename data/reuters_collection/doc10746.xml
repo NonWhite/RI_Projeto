@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 06:08:22.91</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f0479reute
-u f BC-BROWN-BOVERI-WINS-SUP   03-30 0103</field>
-	<field name = "TITLE">BROWN BOVERI WINS SUPERCHARGER ORDER FROM MAZDA</field>
+	<field name = "titulo">BROWN BOVERI WINS SUPERCHARGER ORDER FROM MAZDA</field>
 	<field name = "DATELINE">BADEN, Switzerland, March 30 -</field>
-	<field name = "BODY">BBC Brown Boveri und Cie
+	<field name = "content">BBC Brown Boveri und Cie
 BBCZ.Z> said it won a major order to supply its "Comprex"
 pressure-wave supercharger for use in a new car diesel engine
 to be produced by Mazda Motor Corp MAZT.T> of Hiroshima,

@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 09:15:59.76</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0817reute
-b f BC-HARPER/ROW-HPR>-GETS   03-23 0105</field>
-	<field name = "TITLE">HARPER/ROW HPR> GETS EXPRESSIONS OF INTEREST</field>
+	<field name = "titulo">HARPER/ROW HPR> GETS EXPRESSIONS OF INTEREST</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Harper and Row Publishers Inc said its
+	<field name = "content">Harper and Row Publishers Inc said its
 special committee of independent directors has received
 expressions of interest from a considerable number of domestic
 and foreign firms with respect to restructuring or acquisition

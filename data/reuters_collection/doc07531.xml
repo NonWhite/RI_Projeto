@@ -3,12 +3,9 @@
 	<field name = "PLACES">argentina</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">von-weizsaecker</field>
-	<field name = "UNKNOWN">RM
-f2849reute
-u f BC-WEIZSAECKER-CALLS-FOR   03-19 0103</field>
-	<field name = "TITLE">WEIZSAECKER CALLS FOR EASIER ARGENTINA DEBT TERMS</field>
+	<field name = "titulo">WEIZSAECKER CALLS FOR EASIER ARGENTINA DEBT TERMS</field>
 	<field name = "DATELINE">BUENOS AIRES, March 19 -</field>
-	<field name = "BODY">West German President Richard von
+	<field name = "content">West German President Richard von
 Weizsaecker called on creditor banks to ease pressure on
 Argentina's foreign debt repayment terms.
     "We cannot remain indifferent to the pressure of creditor

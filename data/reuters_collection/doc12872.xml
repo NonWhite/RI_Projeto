@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 09:55:17.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0961reute
-r f BC-NEWMONT-GOLD-NGC>-OF   04-03 0103</field>
-	<field name = "TITLE">NEWMONT GOLD NGC> OFFERS SHARES</field>
+	<field name = "titulo">NEWMONT GOLD NGC> OFFERS SHARES</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">Newmont Gold Co is offering five mln
+	<field name = "content">Newmont Gold Co is offering five mln
 common shares at 31 dlrs apiece, co-managing underwriters
 Kidder, Peabody and Co, Lazard Freres and Co and Salomon
 Brothers Inc said.

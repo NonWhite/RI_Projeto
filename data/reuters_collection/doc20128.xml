@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 08:54:00.79</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0870reute
-u f BC-TRIBUNE-CO-TRB>-3RD   10-20 0056</field>
-	<field name = "TITLE">TRIBUNE CO TRB> 3RD QTR NET</field>
+	<field name = "titulo">TRIBUNE CO TRB> 3RD QTR NET</field>
 	<field name = "DATELINE">CHICAGO, Oct 20 -</field>
-	<field name = "BODY">Shr 42 cts vs 1.53 dlrs
+	<field name = "content">Shr 42 cts vs 1.53 dlrs
     Net 33,085,000 vs 123,450,000
     Revs 535.0 mln vs 496.7 mln
     Avg shrs 78,755,000 vs 80,666,000

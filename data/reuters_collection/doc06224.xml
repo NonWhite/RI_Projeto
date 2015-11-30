@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 15:23:57.46</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">RM A
-f6360reute
-u f AM-peru-firms   03-17 0105</field>
-	<field name = "TITLE">PERU TO SELL 40 STATE FIRMS TO CUT BUDGET DEFICIT</field>
+	<field name = "titulo">PERU TO SELL 40 STATE FIRMS TO CUT BUDGET DEFICIT</field>
 	<field name = "DATELINE">Lima, march 17 -</field>
-	<field name = "BODY">peru will sell about 40 state-owned firms
+	<field name = "content">peru will sell about 40 state-owned firms
 to trim a projected 740 mln dlrs loss this year among
 government-owned companies.
     Some companies would be sold in their entirety and others

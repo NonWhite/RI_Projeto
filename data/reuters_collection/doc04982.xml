@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">ecuador</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">Y
-f0136reute
-u f BC-ecuador-begins-buildi   03-13 0094</field>
-	<field name = "TITLE">ECUADOR BEGINS WORK ON OIL PIPELINE TO COLOMBIA</field>
+	<field name = "titulo">ECUADOR BEGINS WORK ON OIL PIPELINE TO COLOMBIA</field>
 	<field name = "DATELINE">QUITO, March 13 -</field>
-	<field name = "BODY">Construction workers today began building
+	<field name = "content">Construction workers today began building
 a 26 km (16 mile) pipeline to link Ecuador's jungle oilfields
 to a pipeline in Colombia through which Ecuadorean crude could
 be pumped to the Pacific Coast, Ecuadorean energy minsitry

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 01:33:38.76</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">RM
-f0044reute
-u f BC-VIOLENCE-REPORTED-IN   03-26 0111</field>
-	<field name = "TITLE">VIOLENCE REPORTED IN ECUADOR GENERAL STRIKE</field>
+	<field name = "titulo">VIOLENCE REPORTED IN ECUADOR GENERAL STRIKE</field>
 	<field name = "DATELINE">QUITO, March 26 -</field>
-	<field name = "BODY">At least 14 people were injured and many
+	<field name = "content">At least 14 people were injured and many
 arrested in clashes during a one-day general strike called by
 Ecuadorean workers to protest against austerity measures
 imposed after a major earthquake on March 5.

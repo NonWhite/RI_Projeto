@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 12:20:58.05</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0914reute
-d f BC-CB-AND-T-FINANCIAL-CO   03-05 0028</field>
-	<field name = "TITLE">CB AND T FINANCIAL CORP CBTF> YEAR NET</field>
+	<field name = "titulo">CB AND T FINANCIAL CORP CBTF> YEAR NET</field>
 	<field name = "DATELINE">FAIRMONT, W.Va., March 5 -</field>
-	<field name = "BODY">Shr 2.10 dlrs vs 1.72 dlrs
+	<field name = "content">Shr 2.10 dlrs vs 1.72 dlrs
     Shr diluted 1.98 dlrs vs 1.72 dlrs
     Net 2,228,000 vs 1,730,000
  Reuter</field>

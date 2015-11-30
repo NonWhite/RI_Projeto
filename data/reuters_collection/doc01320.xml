@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 16:13:23.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0878reute
-d f BC-HOME-INTENSIVE-CARE-   03-03 0064</field>
-	<field name = "TITLE">HOME INTENSIVE CARE KDNY> EXTENDS CONVERSION</field>
+	<field name = "titulo">HOME INTENSIVE CARE KDNY> EXTENDS CONVERSION</field>
 	<field name = "DATELINE">MIAMI, March 3 -</field>
-	<field name = "BODY">Home Intensive Care Inc said it extended
+	<field name = "content">Home Intensive Care Inc said it extended
 until March 15 the period during which holders of its callable
 cumulative convertible preferred stock may convert each of
 their shares into 2.2 shares of the company's common stock.

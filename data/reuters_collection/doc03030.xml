@@ -5,12 +5,9 @@
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0984reute
-r f BC-BONN-SERIOUS-ABOUT-CU   03-09 0090</field>
-	<field name = "TITLE">BONN SERIOUS ABOUT CURRENCY PACT, SAYS TIETMEYER</field>
+	<field name = "titulo">BONN SERIOUS ABOUT CURRENCY PACT, SAYS TIETMEYER</field>
 	<field name = "DATELINE">BRUSSELS, March 9 -</field>
-	<field name = "BODY">West Germany takes "very seriously" the
+	<field name = "content">West Germany takes "very seriously" the
 recent undertaking by major industrial countries to promote
 exchange rate stability around current levels, Finance Ministry
 State Secretary Hans Tietmeyer said.

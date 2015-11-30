@@ -5,12 +5,9 @@
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PEOPLE">wilson</field>
-	<field name = "UNKNOWN">E Y
-f0305reute
-u f BC-WESTERN-CANADA-HURT-B   03-05 0116</field>
-	<field name = "TITLE">WESTERN CANADA HURT BY INTERNATIONAL FORCES</field>
+	<field name = "titulo">WESTERN CANADA HURT BY INTERNATIONAL FORCES</field>
 	<field name = "DATELINE">OTTAWA, March 5 -</field>
-	<field name = "BODY">Western Canada's resource-based economy
+	<field name = "content">Western Canada's resource-based economy
 is being hurt by international market forces and there is
 little Ottawa can do about it, Finance Minister Michael Wilson
 said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 15:22:12.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f2231reute
-r f BC-MEAD-MEA>-SELLS-DEBE   03-19 0089</field>
-	<field name = "TITLE">MEAD MEA> SELLS DEBENTURES AT NINE PCT</field>
+	<field name = "titulo">MEAD MEA> SELLS DEBENTURES AT NINE PCT</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">A 150 mln dlr issue of Mead Corp
+	<field name = "content">A 150 mln dlr issue of Mead Corp
 30-year debentures was given a nine pct coupon and priced at
 par, Smith Barney, Harris Upham and Co Inc said as lead
 manager.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:38:22.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2248reute
-u f BC-TWA-TWA>-MARCH-TRAFF   04-07 0083</field>
-	<field name = "TITLE">TWA TWA> MARCH TRAFFIC RISES</field>
+	<field name = "titulo">TWA TWA> MARCH TRAFFIC RISES</field>
 	<field name = "DATELINE">ST. LOUIS, APril 7 -</field>
-	<field name = "BODY">Trans World Airways said load factor
+	<field name = "content">Trans World Airways said load factor
 in March rose to 67.4 pct from 60.4 pct last year.
     Available seat miles rose 22 pct to 3.9 billion from 3.2
 billion and revenue passenger miles rose 35.4 pct to 2.6

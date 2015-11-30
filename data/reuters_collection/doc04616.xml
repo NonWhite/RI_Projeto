@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 21:25:07.29</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM
-f0922reute
-u f BC-TWO-BRAZILIAN-SHIPPIN   03-12 0110</field>
-	<field name = "TITLE">TWO BRAZILIAN SHIPPING FIRMS SETTLE WITH STRIKERS</field>
+	<field name = "titulo">TWO BRAZILIAN SHIPPING FIRMS SETTLE WITH STRIKERS</field>
 	<field name = "DATELINE">SAO PAULO, March 12 -</field>
-	<field name = "BODY">Two small shipping companies have
+	<field name = "content">Two small shipping companies have
 reached a pay deal with striking seamen, but union leaders said
 most of Brazil's 40,000 seamen were still on strike.
     A union spokesman in Rio de Janeiro said the seamen had

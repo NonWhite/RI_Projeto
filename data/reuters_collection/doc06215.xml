@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 15:10:38.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6315reute
-u f BC-U.S.-ATTORNEY-INDICTE   03-17 0115</field>
-	<field name = "TITLE">U.S. ATTORNEY INDICTED IN INSIDER SCHEME</field>
+	<field name = "titulo">U.S. ATTORNEY INDICTED IN INSIDER SCHEME</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">An attorney was named today in a
+	<field name = "content">An attorney was named today in a
 24-count federal indictment alleging he initiated an insider
 trading scheme which allowed friends and relatives to make
 nearly 1.5 mln dlrs in illegal profits on non-public knowledge

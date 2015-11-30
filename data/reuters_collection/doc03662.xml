@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 10:47:05.09</field>
-	<field name = "UNKNOWN">F RM
-f0363reute
-r f BC-DUFF/PHELPS-UPGRADES   03-11 0075</field>
-	<field name = "TITLE">DUFF/PHELPS UPGRADES BELLSOUTH CORP BLS> UNIT</field>
+	<field name = "titulo">DUFF/PHELPS UPGRADES BELLSOUTH CORP BLS> UNIT</field>
 	<field name = "DATELINE">CHICAGO, March 11 -</field>
-	<field name = "BODY">Duff and Phelps raised its ratings to
+	<field name = "content">Duff and Phelps raised its ratings to
 DP-1 (AAA) from DP-2 (high AA) on 2.6 billion dlrs in
 debentures and 150 mln dlrs in notes of South Central Bell
 Telephone Co, a unit of BellSouth Corp.

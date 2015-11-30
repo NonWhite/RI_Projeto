@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">stoltenberg</field>
 	<field name = "PEOPLE">lawson</field>
-	<field name = "UNKNOWN">V RM
-f2170reute
-b f BC-GROUP-OF-FIVE-MEETING   04-08 0083</field>
-	<field name = "TITLE">GROUP OF FIVE MEETING ENDS</field>
+	<field name = "titulo">GROUP OF FIVE MEETING ENDS</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">A meeting of finance ministers and
+	<field name = "content">A meeting of finance ministers and
 central bankers of the Group of Five ended after nearly three
 and a half hours.
     West German Finance Minister Gerhard Stoltenberg and

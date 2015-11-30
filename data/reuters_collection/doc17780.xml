@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 16:11:00.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2363reute
-u f BC-ANHEUSER-BUSCH-BUD>   06-01 0099</field>
-	<field name = "TITLE">ANHEUSER-BUSCH BUD> UNIT CHANGES PLANT SITE</field>
+	<field name = "titulo">ANHEUSER-BUSCH BUD> UNIT CHANGES PLANT SITE</field>
 	<field name = "DATELINE">ST. LOUIS, MO., June 1 -</field>
-	<field name = "BODY">Anheuser-Busch Companies Inc said
+	<field name = "content">Anheuser-Busch Companies Inc said
 its Metal Container Corp subsidiary will build its planned
 beverage can manufacturing plant in Orange County, New York
 instead of Chester, New York.

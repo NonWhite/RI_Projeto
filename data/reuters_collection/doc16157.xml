@@ -5,12 +5,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0366reute
-u f BC-INSTITUTES-DIVIDED-ON   04-13 0117</field>
-	<field name = "TITLE">INSTITUTES DIVIDED ON OUTLOOK FOR GERMAN ECONOMY</field>
+	<field name = "titulo">INSTITUTES DIVIDED ON OUTLOOK FOR GERMAN ECONOMY</field>
 	<field name = "DATELINE">BONN, April 13 -</field>
-	<field name = "BODY">The five leading West German economic
+	<field name = "content">The five leading West German economic
 research institutes have failed to agree about how strongly the
 domestic economy will expand this year but revised down
 forecasts contained in a report published six months ago.

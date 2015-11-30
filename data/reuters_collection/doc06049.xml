@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 11:47:33.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5500reute
-r f BC-GANNETT-GCI>-SEEKS-T   03-17 0046</field>
-	<field name = "TITLE">GANNETT GCI> SEEKS TO DOUBLE AUTHORIZED SHARES</field>
+	<field name = "titulo">GANNETT GCI> SEEKS TO DOUBLE AUTHORIZED SHARES</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Gannett Co Inc said it will ask
+	<field name = "content">Gannett Co Inc said it will ask
 shareholders at the May Seven annual meeting to approve a
 doubling of authorized common shares to 400 mln and limitations
 on the liability of directors under Delaware law.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 13:33:32.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1896reute
-d f BC-A-AND-W-BRANDS-FILES   04-01 0090</field>
-	<field name = "TITLE">A AND W BRANDS FILES INITIAL PUBLIC OFFERING</field>
+	<field name = "titulo">A AND W BRANDS FILES INITIAL PUBLIC OFFERING</field>
 	<field name = "DATELINE">WHITE PLAINS, N.Y., April 1 -</field>
-	<field name = "BODY">A and W Brands Inc said it
+	<field name = "content">A and W Brands Inc said it
 filed a registration statement with the Securities and Exchange
 Commission for a proposed public offering of 3,400,000 shares
 of common.

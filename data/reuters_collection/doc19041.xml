@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0069reute
-u f BC-MITSUI-BUYS-FIVE-PCT   06-19 0104</field>
-	<field name = "TITLE">MITSUI BUYS FIVE PCT STAKE IN U.S. CHIP MAKER</field>
+	<field name = "titulo">MITSUI BUYS FIVE PCT STAKE IN U.S. CHIP MAKER</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">Mitsui and Co Ltd MITS.T> paid 1.5 mln
+	<field name = "content">Mitsui and Co Ltd MITS.T> paid 1.5 mln
 dlrs in early May for a five pct stake in Zoran Corp>, a
 California-based maker of large scale integrated circuits (LSI)
 with computer graphic, communications and medical applications,

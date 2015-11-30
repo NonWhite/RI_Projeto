@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 10:45:03.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1072reute
-r f BC-MELAMINE-CHEMICALS-FI   06-19 0097</field>
-	<field name = "TITLE">MELAMINE CHEMICALS FILES FOR INITIAL OFFERING</field>
+	<field name = "titulo">MELAMINE CHEMICALS FILES FOR INITIAL OFFERING</field>
 	<field name = "DATELINE">DONALDSONVILLE, La., June 19 -</field>
-	<field name = "BODY">Melamine Chemicals Inc>
+	<field name = "content">Melamine Chemicals Inc>
 said it has filed for an initial public offering of 2,800,000
 common shares through underwriters led by PaineWebber Group Inc
 PWJ>.

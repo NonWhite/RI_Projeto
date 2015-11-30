@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 16:21:45.01</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0481reute
-u f BC-CARGILL-OFFICIAL-DEFE   03-12 0122</field>
-	<field name = "TITLE">CARGILL OFFICIAL DEFENDS CERTIFICATE PROGRAMS</field>
+	<field name = "titulo">CARGILL OFFICIAL DEFENDS CERTIFICATE PROGRAMS</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">The use of generic in-kind commodity
+	<field name = "content">The use of generic in-kind commodity
 certificates has helped ease storage problems and is a
 necessary part of export promotion programs, a senior executive
 for the world's largest grain company said.

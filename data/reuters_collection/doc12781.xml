@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 06:09:42.93</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM
-f0415reute
-u f BC-KEPPEL-RAISES-BOND-IS   04-03 0104</field>
-	<field name = "TITLE">KEPPEL RAISES BOND ISSUE TO 75 MLN DLRS</field>
+	<field name = "titulo">KEPPEL RAISES BOND ISSUE TO 75 MLN DLRS</field>
 	<field name = "DATELINE">SINGAPORE, April 3 -</field>
-	<field name = "BODY">Keppel Corp Ltd KPLM.SI> said it has
+	<field name = "content">Keppel Corp Ltd KPLM.SI> said it has
 decided to increase its convertible bond issue to 75 mln U.S.
 Dlrs from 60 mln following overwhelming response since its
 launch on March 24.

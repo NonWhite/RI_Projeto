@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:41:33.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0895reute
-r f BC-SENETEK-SNTKY>-UNIT   04-09 0110</field>
-	<field name = "TITLE">SENETEK SNTKY> UNIT TO MARKET AIDS TEST</field>
+	<field name = "titulo">SENETEK SNTKY> UNIT TO MARKET AIDS TEST</field>
 	<field name = "DATELINE">MOUNTAIN VIEW, Calif., April 9 -</field>
-	<field name = "BODY">Senetek PLC said its
+	<field name = "content">Senetek PLC said its
 Senetek A/S Danish subsidiary has signed a letter of intent to
 market Diagnostic Biotechnology Co Pt Ltd> of Singapore's AIDS
 antibody tests to the health care industries in Britain and the

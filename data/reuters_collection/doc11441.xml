@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 11:58:56.32</field>
 	<field name = "PLACES">portugal</field>
-	<field name = "UNKNOWN">RM
-f1648reute
-r f BC-PORTUGAL-PLANS-ECONOM   03-31 0114</field>
-	<field name = "TITLE">PORTUGAL PLANS ECONOMIC MODERNISATION PROGRAM</field>
+	<field name = "titulo">PORTUGAL PLANS ECONOMIC MODERNISATION PROGRAM</field>
 	<field name = "DATELINE">LISBON, March 31 -</field>
-	<field name = "BODY">Portugal's minority centre-right
+	<field name = "content">Portugal's minority centre-right
 government, which faces a crucial censure vote in parliament on
 Friday, unveiled an eight-year economic plan aimed at reducing
 foreign debt and boosting jobs and investment.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 15:32:13.47</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">F
-f2327reute
-u f AM-INDIA-GAS   04-02 0090</field>
-	<field name = "TITLE">BHOPAL CASE JUDGE SEEKS INTERIM COMPENSATION</field>
+	<field name = "titulo">BHOPAL CASE JUDGE SEEKS INTERIM COMPENSATION</field>
 	<field name = "DATELINE">BHOPAL, India, April 2 -</field>
-	<field name = "BODY">A judge hearing the Bhopal gas
+	<field name = "content">A judge hearing the Bhopal gas
 disaster case asked Union Carbide Corp UK> and the Indian
 government to agree on interim compensation for the victims.
     Judge M.W. Deo said he had made the appeal because the

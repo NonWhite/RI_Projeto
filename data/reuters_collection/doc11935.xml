@@ -5,12 +5,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G
-f0997reute
-u f BC-midwest-cash-grain   04-01 0132</field>
-	<field name = "TITLE">MIDWEST CASH GRAIN - SLOW COUNTRY MOVEMENT</field>
+	<field name = "titulo">MIDWEST CASH GRAIN - SLOW COUNTRY MOVEMENT</field>
 	<field name = "DATELINE">CHICAGO, April 1 -</field>
-	<field name = "BODY">Cash grain dealers reported slow country
+	<field name = "content">Cash grain dealers reported slow country
 movement of corn and soybeans across the Midwest, with even
 corn sales from PIK-and-roll activity seen earlier this week
 drying up.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 09:57:29.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0973reute
-r f BC-VICORP-VRES>-ENDS-SA   03-25 0079</field>
-	<field name = "TITLE">VICORP VRES> ENDS SALE/LEASEBACK DEAL</field>
+	<field name = "titulo">VICORP VRES> ENDS SALE/LEASEBACK DEAL</field>
 	<field name = "DATELINE">DENVER, March 25 -</field>
-	<field name = "BODY">VICORP Restaurants Inc said by mutual
+	<field name = "content">VICORP Restaurants Inc said by mutual
 agreement with United Trust Fund it has terminated the sale and
 leaseback of 29 Bakers Square restaurant properties.
     The company completed a sale/leaseback of 31 Baker Street's

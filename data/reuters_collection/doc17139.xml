@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C T
-f1825reute
-u f BC-GERMAN-INTERVENTION-S   04-24 0120</field>
-	<field name = "TITLE">GERMAN INTERVENTION SUGAR FOR EXPORT - LDN TRADE</field>
+	<field name = "titulo">GERMAN INTERVENTION SUGAR FOR EXPORT - LDN TRADE</field>
 	<field name = "DATELINE">LONDON, April 24 -</field>
-	<field name = "BODY">The most likely reason for West German
+	<field name = "content">The most likely reason for West German
 producers withdrawing white sugar from intervention stores is
 that they already have, or are reasonably certain of, obtaining
 European Community (EC) export licences for it, traders said.

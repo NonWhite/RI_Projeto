@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:09:33.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V 
-f2259reute
-u f BC-phlx-full-out-to-flas   10-20 0083</field>
-	<field name = "TITLE">PHILADELPHIA HALTS MAJOR INDEX OPTION TRADE</field>
+	<field name = "titulo">PHILADELPHIA HALTS MAJOR INDEX OPTION TRADE</field>
 	<field name = "DATELINE">PHILADELPHIA, Oct 20 -</field>
-	<field name = "BODY">The Philadelphia Stock Exchange said
+	<field name = "content">The Philadelphia Stock Exchange said
 trading was halted about 1105 EDT in its value line composite
 index option that involves about 1,700 stocks.
     The exchange added that its gold and silver options index

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 14:23:56.90</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2098reute
-b f BC-******RJR-NABISCO-TOB   04-02 0101</field>
-	<field name = "TITLE">RJR RJR> UNIT SELLS FOUR TOBACCO BRANDS</field>
+	<field name = "titulo">RJR RJR> UNIT SELLS FOUR TOBACCO BRANDS</field>
 	<field name = "DATELINE">WINSTON-SALEM, N.C. -</field>
-	<field name = "BODY">RJR Nabisco Inc's RJ Reynolds Tobacco
+	<field name = "content">RJR Nabisco Inc's RJ Reynolds Tobacco
 USA unit said it sold four of its smoking tobacco brands to
 John Middleton Inc> for undisclosed terms.
     The brands sold were Prince Albert, Carter Hall, Apple and

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:26:26.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1264reute
-d f BC-FEDERAL-RESOURCES-FD   04-07 0039</field>
-	<field name = "TITLE">FEDERAL RESOURCES FDRC> NAMES NEW PRESIDENT</field>
+	<field name = "titulo">FEDERAL RESOURCES FDRC> NAMES NEW PRESIDENT</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Federal Resources Corp said it has
+	<field name = "content">Federal Resources Corp said it has
 named John Kotts president and chief operating officer,
 replacing Paul Hannesson, who remains chairman and chief
 executive officer.

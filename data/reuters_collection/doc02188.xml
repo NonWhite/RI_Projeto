@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:41:26.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0700reute
-r f BC-ACETO-ACET>-EXTENDS   03-05 0059</field>
-	<field name = "TITLE">ACETO ACET> EXTENDS STOCK REPURCHASE PROGRAM</field>
+	<field name = "titulo">ACETO ACET> EXTENDS STOCK REPURCHASE PROGRAM</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Aceto Corp said its board authorized an
+	<field name = "content">Aceto Corp said its board authorized an
 extension of a stock buyback program for three years until May
 1990.
     The 200,000 share repurchase program, initially authorized

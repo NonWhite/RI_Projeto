@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 03:08:59.18</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0140reute
-b f BC-TOYO-TRUST-ISSUES-100   04-03 0116</field>
-	<field name = "TITLE">TOYO TRUST ISSUES 100 MLN DLR CONVERTIBLE BOND</field>
+	<field name = "titulo">TOYO TRUST ISSUES 100 MLN DLR CONVERTIBLE BOND</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">Toyo Trust and Banking Co Ltd is issuing
+	<field name = "content">Toyo Trust and Banking Co Ltd is issuing
 a 100 mln dlr convertible eurobond due March 31, 2002 paying an
 indicated two pct and priced at par, lead manager Toyo Trust
 International said.

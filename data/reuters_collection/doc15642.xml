@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1347reute
-u f BC-/BRAZIL-COTTON-CROP-L   04-09 0136</field>
-	<field name = "TITLE">BRAZIL COTTON CROP LOWER -- USDA REPORT</field>
+	<field name = "titulo">BRAZIL COTTON CROP LOWER -- USDA REPORT</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Brazil's 1986/87 cotton crop estimate
+	<field name = "content">Brazil's 1986/87 cotton crop estimate
 has been reduced to 710,000 from 735,000 tonnes (lint basis),
 the U.S. Agriculture Department's officer in Sao Paulo said in
 a field report.

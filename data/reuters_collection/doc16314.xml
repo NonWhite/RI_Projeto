@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 10:43:42.82</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1199reute
-b f BC-/CHEMICAL-NEW-YORK-CO   04-13 0084</field>
-	<field name = "TITLE">CHEMICAL NEW YORK CORP CHL> 1ST QTR NET</field>
+	<field name = "titulo">CHEMICAL NEW YORK CORP CHL> 1ST QTR NET</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">shr 1.58 dlrs vs 1.93 dlrs
+	<field name = "content">shr 1.58 dlrs vs 1.93 dlrs
     net 86,220,000 vs 102,629,000
     avg shrs 50,831,512 vs 49,156,828
     assets 61.04 billion vs 57.95 billion

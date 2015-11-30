@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 18:34:25.39</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0322
-reute
-h f BC-CANADIAN-SEAFARERS-TH   03-02 0102</field>
-	<field name = "TITLE">CANADIAN SEAFARERS THREATEN STRIKE</field>
+	<field name = "titulo">CANADIAN SEAFARERS THREATEN STRIKE</field>
 	<field name = "DATELINE">MONTREAL, March 2 -</field>
-	<field name = "BODY">Canadian seafarers are almost certain
+	<field name = "content">Canadian seafarers are almost certain
 to go on strike this spring in a refusal to meet rollbacks in
 wages and benefits asked for by their employers, Seafarers'
 International Union official Roman Gralewicz said.

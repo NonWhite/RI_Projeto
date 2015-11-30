@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f5809reute
-r f BC-AMERICAN-CYANAMID-AC   03-17 0084</field>
-	<field name = "TITLE">AMERICAN CYANAMID ACY> BUYS U.K. COMPANY</field>
+	<field name = "titulo">AMERICAN CYANAMID ACY> BUYS U.K. COMPANY</field>
 	<field name = "DATELINE">WAYNE, N.J., March 17 -</field>
-	<field name = "BODY">American Cyanamid Co said it bought
+	<field name = "content">American Cyanamid Co said it bought
 the 50 pct interest of Cyanamid Fothergill Ltd held by
 Fothergill and Harvey PLC>, making the unit a wholly owned
 subsidiary.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 11:47:10.74</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f5496reute
-r f BC-phoenix-canada-oil-to   03-17 0103</field>
-	<field name = "TITLE">PHOENIX CANADA OIL TO APPEAL RULING</field>
+	<field name = "titulo">PHOENIX CANADA OIL TO APPEAL RULING</field>
 	<field name = "DATELINE">Toronto, March 17 -</field>
-	<field name = "BODY">Phoenix Canada Oil Co Ltd> said it
+	<field name = "content">Phoenix Canada Oil Co Ltd> said it
 intends to appeal a ruling in U.S. Federal District Court of
 Delaware on its suit against Texaco Inc TX>, Chevron Corp
 CHV>, Chevron's Gulf Oil unit and their Ecuador subsidiaries.

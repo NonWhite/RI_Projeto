@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 12:09:18.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0865reute
-u f BC-IBM-IBM>-DEMONSTRATE   03-04 0088</field>
-	<field name = "TITLE">IBM IBM> DEMONSTRATES NEW CHIP</field>
+	<field name = "titulo">IBM IBM> DEMONSTRATES NEW CHIP</field>
 	<field name = "DATELINE">YORKTOWN HEIGHTS, N.Y., March 4 -</field>
-	<field name = "BODY">International Business
+	<field name = "content">International Business
 Machines Corp said it demonstrated an experimental computer
 chip called an opto-electronic receiver that transforms light
 into electrical signals that translate into computer language.

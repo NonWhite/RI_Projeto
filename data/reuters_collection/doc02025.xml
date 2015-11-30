@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 09:42:52.28</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0101reute
-r f BC-PRINCEVILLE-DEVELOPME   03-05 0069</field>
-	<field name = "TITLE">PRINCEVILLE DEVELOPMENT CORP PVDC> YEAR LOSS</field>
+	<field name = "titulo">PRINCEVILLE DEVELOPMENT CORP PVDC> YEAR LOSS</field>
 	<field name = "DATELINE">PRINCEVILLE, Hawaii, March 5 -</field>
-	<field name = "BODY">Shr diluted loss 31 cts vs profit 17 cts
+	<field name = "content">Shr diluted loss 31 cts vs profit 17 cts
     Net loss 2,806,005 vs profit 1,513,395
     Revs 15.0 mln vs 10.4 mln
     Avg shrs diluted 8,982,754 vs 8,804,899

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">luxembourg</field>
-	<field name = "UNKNOWN">RM
-f0270reute
-u f BC-BELGOLUX-TRADE-SWINGS   03-25 0107</field>
-	<field name = "TITLE">BELGOLUX TRADE SWINGS INTO JANUARY DEFICIT</field>
+	<field name = "titulo">BELGOLUX TRADE SWINGS INTO JANUARY DEFICIT</field>
 	<field name = "DATELINE">BRUSSELS, March 25 -</field>
-	<field name = "BODY">The Belgo-Luxembourg Economic Union
+	<field name = "content">The Belgo-Luxembourg Economic Union
 recorded a provisional trade deficit of 9.45 billion francs in
 January after a December surplus of 15.32 billion francs,
 revised upwards from a provisional surplus of 11.94 billion,

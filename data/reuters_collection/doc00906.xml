@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 04:40:42.53</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0705
-reute
-b f BC-MERRILL-MANDATED-FOR   03-03 0109</field>
-	<field name = "TITLE">MERRILL MANDATED FOR IEL U.S. NOTE.</field>
+	<field name = "titulo">MERRILL MANDATED FOR IEL U.S. NOTE.</field>
 	<field name = "DATELINE">LONDON, March 3 -</field>
-	<field name = "BODY">Merrill Lynch Capital Markets said it
+	<field name = "content">Merrill Lynch Capital Markets said it
 received a mandate from Industrial Equity Ltd (IEL) of
 Australia to arrange a letter of credit facility in support of
 100 mln dlrs of medium term notes and U.S. Commercial paper to

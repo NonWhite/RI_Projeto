@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 11:58:53.14</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0708reute
-r f BC-BERTELSMANN-TO-MARKET   03-09 0093</field>
-	<field name = "TITLE">BERTELSMANN TO MARKET APPLE SOFTWARE IN GERMANY</field>
+	<field name = "titulo">BERTELSMANN TO MARKET APPLE SOFTWARE IN GERMANY</field>
 	<field name = "DATELINE">GUETERSLOH, West Germany, March 9 -</field>
-	<field name = "BODY">Mixed media group
+	<field name = "content">Mixed media group
 Bertelsmann AG BETG.F> said its subsidiary Publicsoft GmbH has
 agreed to market Apple Computer Inc's AAPL.O> software
 products to the specialized West German computer retail trade.

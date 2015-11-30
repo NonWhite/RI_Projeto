@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 10:56:18.98</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">C G T M 
-f1120reute
-r f BC-HIGH-WATER-EXTENDS-RH   06-19 0133</field>
-	<field name = "TITLE">HIGH WATER EXTENDS RHINE RIVER BLOCKAGE</field>
+	<field name = "titulo">HIGH WATER EXTENDS RHINE RIVER BLOCKAGE</field>
 	<field name = "DATELINE">BONN, June 19 -</field>
-	<field name = "BODY">Rising water levels on the Rhine caused by
+	<field name = "content">Rising water levels on the Rhine caused by
 heavy rain are delaying an operation near Karlsruhe to raise
 two sunken boats which have blocked the river's main navigation
 channel since early last week, a Karlsruhe water authority

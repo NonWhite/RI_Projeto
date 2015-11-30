@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:00:07.66</field>
-	<field name = "UNKNOWN">C G
-f2133reute
-u f BC-KANSAS-CITY-WHEAT-LOS   04-07 0137</field>
-	<field name = "TITLE">KANSAS CITY WHEAT LOSES EARLY GAINS, ENDS LOWER</field>
+	<field name = "titulo">KANSAS CITY WHEAT LOSES EARLY GAINS, ENDS LOWER</field>
 	<field name = "DATELINE">KANSAS CITY, April 7 -</field>
-	<field name = "BODY">Hard wheat futures closed 1-1/4 to
+	<field name = "content">Hard wheat futures closed 1-1/4 to
 1/2 cents lower in light trading as exporter selling erased
 early gains to close the market near session lows, traders
 said. May closed 1-1/4 cents lower at 2.72-3/4 dlrs.

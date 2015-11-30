@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F
-f8583reute
-r f BC-DOE-SECRETARY-PROPOSE   03-18 0092</field>
-	<field name = "TITLE">U.S ENERGY SECRETARY PROPOSES OIL TAX INCENTIVES</field>
+	<field name = "titulo">U.S ENERGY SECRETARY PROPOSES OIL TAX INCENTIVES</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">Energy Secretary John Herrington
+	<field name = "content">Energy Secretary John Herrington
 said he will propose tax incentives to increase domestic oil
 and natural gas exploration and production to the Reagan
 Administration for consideration.

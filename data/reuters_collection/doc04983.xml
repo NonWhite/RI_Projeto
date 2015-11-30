@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 14:38:11.85</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0139reute
-u f BC-/USDA'S-EXPORT-BONUS   03-13 0142</field>
-	<field name = "TITLE">USDA'S EXPORT BONUS SAID TO AFFECT TRADE TALKS</field>
+	<field name = "titulo">USDA'S EXPORT BONUS SAID TO AFFECT TRADE TALKS</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">The U.S. Agriculture Department's
+	<field name = "content">The U.S. Agriculture Department's
 Export Enhancement Program, EEP, contributed to the recent
 agreement to include farm subsidies in the new round of global
 trade talks, according to the General Accounting Office.

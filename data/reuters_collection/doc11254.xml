@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 08:22:09.31</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">E
-f0762reute
-d f BC-SEDGWICK-BUYS-BSI-INC   03-31 0102</field>
-	<field name = "TITLE">SEDGWICK BUYS BSI INCORP</field>
+	<field name = "titulo">SEDGWICK BUYS BSI INCORP</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">Sedgwick Group Plc SDWK.L> said its
+	<field name = "content">Sedgwick Group Plc SDWK.L> said its
 wholly-owned Canadian subsidiary Sedgwick Tomenson Inc had
 acquired BSi Incorp for a maximum eight mln Canadian dlrs.
     The funds will be raised through the issue of up to 1.16

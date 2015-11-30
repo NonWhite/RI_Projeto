@@ -5,13 +5,10 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "EXCHANGES">biffex</field>
-	<field name = "UNKNOWN">C G
-f0974reute
-u f BC-SOVIET-TIMECHARTERING   03-19 0106</field>
-	<field name = "TITLE">SOVIET TIMECHARTERING BOOSTS GRAIN FREIGHT RATES</field>
+	<field name = "titulo">SOVIET TIMECHARTERING BOOSTS GRAIN FREIGHT RATES</field>
 	<field name = "AUTHOR">By Colin Brinsden, Reuters.</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">Current interest by Soviet charterers in
+	<field name = "content">Current interest by Soviet charterers in
 taking Panamax vessels on timecharter, mainly from the U.S. To
 carry grain, is seen as the chief factor behind the recent
 surge in values on the Baltic International Freight Futures

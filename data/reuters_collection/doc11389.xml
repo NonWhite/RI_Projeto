@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">yeutter</field>
-	<field name = "UNKNOWN">F
-f1466reute
-b f BC-/U.S.-STOCK-MARKET-OV   03-31 0101</field>
-	<field name = "TITLE">U.S. STOCK MARKET OVERREACTS TO TARIFFS - YEUTTER</field>
+	<field name = "titulo">U.S. STOCK MARKET OVERREACTS TO TARIFFS - YEUTTER</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">U.S. Trade Representative Clayton
+	<field name = "content">U.S. Trade Representative Clayton
 Yeutter said the stock market overreacted to a U.S. decision
 last week to proceed with tariffs on some Japanese computer
 products.

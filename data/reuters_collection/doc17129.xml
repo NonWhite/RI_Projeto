@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 12:41:07.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1716reute
-u f BC-SEARS-S>-RESTRUCTURE   04-24 0081</field>
-	<field name = "TITLE">SEARS S> RESTRUCTURES BUSINESS SYSTEMS CENTERS</field>
+	<field name = "titulo">SEARS S> RESTRUCTURES BUSINESS SYSTEMS CENTERS</field>
 	<field name = "DATELINE">CHICAGO, April 24 -</field>
-	<field name = "BODY">Sears Roebuck and Co said it will
+	<field name = "content">Sears Roebuck and Co said it will
 restructure its business systems centers, which sell computer
 systems.
     The restructuring reflects the changing personal computer

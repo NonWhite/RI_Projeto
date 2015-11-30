@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 15:03:26.51</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2196reute
-r f BC-UNI-MARTS-IMMA.O>-AC   06-01 0048</field>
-	<field name = "TITLE">UNI-MARTS IMMA.O> ACQUIRES GAS-N-ALL STORES</field>
+	<field name = "titulo">UNI-MARTS IMMA.O> ACQUIRES GAS-N-ALL STORES</field>
 	<field name = "DATELINE">STATE COLLEGE, Pa., June 1 -</field>
-	<field name = "BODY">Uni Marts Inc said it acquired
+	<field name = "content">Uni Marts Inc said it acquired
 seven Gas-N-All Inc> convenience stores for an undisclosed
 amount of cash.
     The acquisition bring to 228 the number of convenience

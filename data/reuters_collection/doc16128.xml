@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 04:04:17.76</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">RM
-f0184reute
-u f BC-MALAYSIAN-TREASURY-BI   04-13 0089</field>
-	<field name = "TITLE">MALAYSIAN TREASURY BILL RISES AT LATEST TENDER</field>
+	<field name = "titulo">MALAYSIAN TREASURY BILL RISES AT LATEST TENDER</field>
 	<field name = "DATELINE">KUALA LUMPUR, April 13 -</field>
-	<field name = "BODY">The central bank, Bank Negara,
+	<field name = "content">The central bank, Bank Negara,
 said yields on the 91-day Malaysian treasury bills rate rose
 slightly to 2.032 pct at this week's tender from 2.020 pct last
 week.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 17:02:11.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2696reute
-h f BC-DEXTER-DEX>-UNIT-TO   03-26 0082</field>
-	<field name = "TITLE">DEXTER DEX> UNIT TO LICENSE ADHESIVES</field>
+	<field name = "titulo">DEXTER DEX> UNIT TO LICENSE ADHESIVES</field>
 	<field name = "DATELINE">PITTSBURG, Calif., March 26 -</field>
-	<field name = "BODY">Dexter Corp said its Hysol
+	<field name = "content">Dexter Corp said its Hysol
 Aerospace and Industrial Products division signed an agreement
 to license its engineering adhesives to Toyoda Gosei, an
 affiliate of Toyota Motor Co> of Japan.

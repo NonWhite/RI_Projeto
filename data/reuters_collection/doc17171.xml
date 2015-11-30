@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM A
-f2432reute
-r f BC-BARCLAYS-SAYS-PROSPEC   04-24 0112</field>
-	<field name = "TITLE">BARCLAYS SAYS PROSPECTS BRIGHT FOR UK ECONOMY</field>
+	<field name = "titulo">BARCLAYS SAYS PROSPECTS BRIGHT FOR UK ECONOMY</field>
 	<field name = "DATELINE">NEW YORK, April 24 -</field>
-	<field name = "BODY">Britain can look forward to fairly
+	<field name = "content">Britain can look forward to fairly
 strong economic growth, falling interest rates and firm
 Sterling, Barclays Bank Plc chairman-elect John Quinton said.
     "We should see a reasonable decline in interest rates in

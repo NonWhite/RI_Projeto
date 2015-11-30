@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 11:40:26.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1453reute
-r f BC-S/P-UPGRADES-IOWA-ILL   03-24 0104</field>
-	<field name = "TITLE">S/P UPGRADES IOWA-ILLINOIS GAS IWG> PREFERRED</field>
+	<field name = "titulo">S/P UPGRADES IOWA-ILLINOIS GAS IWG> PREFERRED</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Standard and Poor's said it upgraded
+	<field name = "content">Standard and Poor's said it upgraded
 31 mln dlrs of preferred and preference stock of Iowa-Illinois
 Gas and Electric Co.
     It raised the preferred stock to AA-minus from A-plus and

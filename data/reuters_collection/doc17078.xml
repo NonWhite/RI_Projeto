@@ -5,12 +5,9 @@
 	<field name = "TOPICS">pet-chem</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f0708reute
-r f BC-shell-canada-shc.to>   04-24 0083</field>
-	<field name = "TITLE">SHELL CANADA SHC.TO> SEES BETTER YEAR</field>
+	<field name = "titulo">SHELL CANADA SHC.TO> SEES BETTER YEAR</field>
 	<field name = "DATELINE">CALGARY, Alberta, April 24 -</field>
-	<field name = "BODY">Shell Canada Ltd said
+	<field name = "content">Shell Canada Ltd said
 performance in all business segments in the first quarter
 showed improvement over last year and it expects "significantly
 enhanced performance" in 1987.

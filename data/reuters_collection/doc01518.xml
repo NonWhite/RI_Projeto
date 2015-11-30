@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 11:03:42.26</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">dominican-republic</field>
-	<field name = "UNKNOWN">C T
-f0537reute
-b f BC-DOMINICAN-REPUBLIC-SE   03-04 0074</field>
-	<field name = "TITLE">DOM REPUBLIC SELLS CZARNIKOW 35,000 TONS SUGAR</field>
+	<field name = "titulo">DOM REPUBLIC SELLS CZARNIKOW 35,000 TONS SUGAR</field>
 	<field name = "DATELINE">****SANTO DOMINGO, March 4 -</field>
-	<field name = "BODY">The Dominican Republic sold
+	<field name = "content">The Dominican Republic sold
 35,000 long tons of sugar for immediate delivery, with an
 option for 25,000 tons more, to Czarnikow Rionda of New York,
 the state sugar council announced.

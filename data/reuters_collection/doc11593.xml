@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 14:51:20.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2274reute
-u f BC-IBM-IBM>-VICE-CHAIRM   03-31 0101</field>
-	<field name = "TITLE">IBM IBM> VICE CHAIRMAN TO RETIRE</field>
+	<field name = "titulo">IBM IBM> VICE CHAIRMAN TO RETIRE</field>
 	<field name = "DATELINE">ARMONK, N.Y., March 21 -</field>
-	<field name = "BODY">International Business Machines
+	<field name = "content">International Business Machines
 Corp said Paul J. Rizzo will retire as vice chairman on August
 31.
     The company said effective immediately, Kaspar V. Cassani

@@ -8,12 +8,9 @@
 	<field name = "PLACES">chile</field>
 	<field name = "PLACES">mexico</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0715reute
-r f BC-WORLD-BANK-SAYS-S.-AM   03-04 0108</field>
-	<field name = "TITLE">WORLD BANK SAYS S. AMERICAN DEBTORS STILL TALKING</field>
+	<field name = "titulo">WORLD BANK SAYS S. AMERICAN DEBTORS STILL TALKING</field>
 	<field name = "DATELINE">FRANKFURT, March 4 -</field>
-	<field name = "BODY">Latin American debtor nations are
+	<field name = "content">Latin American debtor nations are
 still willing to negotiate on their debts, World Bank director
 for Latin America and the Caribbean Rainer Steckhan said.
     In an article published in today's Handelsblatt daily,

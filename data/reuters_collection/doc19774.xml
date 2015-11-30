@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F A RM 
-f1914reute
-b f BC-U.S.-TO-END-NETHERLAN   06-29 0055</field>
-	<field name = "TITLE">U.S. TO END NETHERLANDS ANTILLES TAX TREATY</field>
+	<field name = "titulo">U.S. TO END NETHERLANDS ANTILLES TAX TREATY</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">The Treasury Department said it
+	<field name = "content">The Treasury Department said it
 notified the Netherlands that it was terminating the 1948
 income tax treaty as it applies to the Netherlands Antilles and
 Aruba.

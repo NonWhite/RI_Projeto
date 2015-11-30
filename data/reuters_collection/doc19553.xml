@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 07:03:39.34</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0510reute
-u f BC-RICOH-SEES-GROUP-NET   06-29 0115</field>
-	<field name = "TITLE">RICOH SEES GROUP NET LITTLE CHANGED IN 1987/88</field>
+	<field name = "titulo">RICOH SEES GROUP NET LITTLE CHANGED IN 1987/88</field>
 	<field name = "DATELINE">TOKYO, June 29 -</field>
-	<field name = "BODY">Ricoh Co Ltd RICT.T> has predicted group
+	<field name = "content">Ricoh Co Ltd RICT.T> has predicted group
 net profit of 11 billion yen in the year ending March 31, 1988,
 up 0.5 pct from a year earlier, assuming a yen/dollar rate of
 140 yen, a company spokesman said.

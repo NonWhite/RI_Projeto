@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-APR-1987 11:08:48.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1426reute
-r f BC-STANLEY-WORKS-SWK>-S   04-27 0087</field>
-	<field name = "TITLE">STANLEY WORKS SWK> SEES RECORD 1987 NET</field>
+	<field name = "titulo">STANLEY WORKS SWK> SEES RECORD 1987 NET</field>
 	<field name = "DATELINE">NEW BRITAIN, Conn., April 27 -</field>
-	<field name = "BODY">Stanley Works said it
+	<field name = "content">Stanley Works said it
 expects record sales and earnings in 1987 against earnings of
 78.7 mln dlrs on sales of 1.37 billion dlrs in 1986.
     "We feel confident that, with our present momentum, the

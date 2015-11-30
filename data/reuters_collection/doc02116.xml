@@ -3,13 +3,10 @@
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0449reute
-u f BC-BRITAIN-SEEMS-SET-FOR   03-05 0108</field>
-	<field name = "TITLE">BRITAIN SEEMS SET FOR NEW CASH ROW WITH EC</field>
+	<field name = "titulo">BRITAIN SEEMS SET FOR NEW CASH ROW WITH EC</field>
 	<field name = "AUTHOR">By Youssef Azmeh, Reuters</field>
 	<field name = "DATELINE">BRUSSELS, March 5 -</field>
-	<field name = "BODY">Britain appeared set for a new cash row
+	<field name = "content">Britain appeared set for a new cash row
 with its European Community partners as evidence emerged that
 it could be much worse off as a result of new proposals to
 radically alter the way the EC is financed.

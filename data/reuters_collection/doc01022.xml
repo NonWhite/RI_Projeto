@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 09:46:55.59</field>
 	<field name = "TOPICS">lei</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0361reute
-u f BC-/U.S.-COMMERCE-SECRET   03-03 0106</field>
-	<field name = "TITLE">U.S. COMMERCE SECRETARY SAYS EXPORT RISE NEEDED</field>
+	<field name = "titulo">U.S. COMMERCE SECRETARY SAYS EXPORT RISE NEEDED</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">Commerce Secretary Malcolm Baldrige
+	<field name = "content">Commerce Secretary Malcolm Baldrige
 said after the release of a sharply lower January leading
 indicator index that a pickup in exports is needed.
     "The best tonic for the economy now would be a pickup in net

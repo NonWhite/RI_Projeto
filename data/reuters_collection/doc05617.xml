@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 14:47:39.68</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f3332reute
-h f BC-PRO-MED-CAPITAL-PRMD   03-16 0038</field>
-	<field name = "TITLE">PRO-MED CAPITAL PRMD> TO BE INCLUDED IN NMS</field>
+	<field name = "titulo">PRO-MED CAPITAL PRMD> TO BE INCLUDED IN NMS</field>
 	<field name = "DATELINE">NORTH MIAMI BEACH, Fla., March 16 -</field>
-	<field name = "BODY">Pro-Med Capital Inc
+	<field name = "content">Pro-Med Capital Inc
 said its common will be included in the next expansion of the
 NASDAQ National Market System, which will take place tomorrow.
  Reuter</field>

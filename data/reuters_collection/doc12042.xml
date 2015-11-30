@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 11:40:30.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1458reute
-d f BC-QUANTUM-DIAGNOSTICS-   04-01 0057</field>
-	<field name = "TITLE">QUANTUM DIAGNOSTICS QTMCU> GETS PATENT</field>
+	<field name = "titulo">QUANTUM DIAGNOSTICS QTMCU> GETS PATENT</field>
 	<field name = "DATELINE">HAUPPAUGE, N.Y., April 1 -</field>
-	<field name = "BODY">Quantum Diagnostics Ltd said it
+	<field name = "content">Quantum Diagnostics Ltd said it
 has been granted a patent for a new imaging technology it has
 developed that uses electrmagnetic radiation.
     It said it sees applications in airport security screening

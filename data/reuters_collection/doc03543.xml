@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 08:18:18.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0784reute
-r f BC-AXLON-AXLN>-NAMES-CO   03-11 0079</field>
-	<field name = "TITLE">AXLON AXLN> NAMES CO-CHIEF EXECUTIVE OFFICER</field>
+	<field name = "titulo">AXLON AXLN> NAMES CO-CHIEF EXECUTIVE OFFICER</field>
 	<field name = "DATELINE">SUNNYVALE, CALIF., March 11 -</field>
-	<field name = "BODY">Axlon Inc said Austin C.
+	<field name = "content">Axlon Inc said Austin C.
 Marshall has been named president and co-chief executive
 officer, sharing power in the latter post with founder and
 chairman Nolan K. Bushnell.

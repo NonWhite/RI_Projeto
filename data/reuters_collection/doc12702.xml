@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 15:54:27.48</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2401reute
-b f BC-ASSETS-OF-U.S.-MONEY   04-02 0073</field>
-	<field name = "TITLE">ASSETS OF U.S. MONEY FUNDS FELL IN WEEK</field>
+	<field name = "titulo">ASSETS OF U.S. MONEY FUNDS FELL IN WEEK</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">Assets of money market mutual funds
+	<field name = "content">Assets of money market mutual funds
 decreased 833 mln dlrs in the week ended yesterday to 235.40
 billion dlrs, the Investment Company Institute said.
     Assets of 197 general purpose funds rose 1.10 billion dlrs

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 15:57:21.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2302reute
-d f BC-HELM-H>-AFFILIATE-SE   03-25 0082</field>
-	<field name = "TITLE">HELM H> AFFILIATE SELLS SYSTEM</field>
+	<field name = "titulo">HELM H> AFFILIATE SELLS SYSTEM</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Teletrak Advanced Technology Systems
+	<field name = "content">Teletrak Advanced Technology Systems
 Inc, 35 pct-owned by Helm Resources Inc, said it received a 
 contract to provide its Laser Base 400 System to a national
 commercial bank.

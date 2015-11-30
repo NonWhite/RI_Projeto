@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 10:35:43.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8086reute
-r f BC-CANDLEWOOD-BANK-PLANS   03-18 0082</field>
-	<field name = "TITLE">CANDLEWOOD BANK PLANS INITIAL OFFERING</field>
+	<field name = "titulo">CANDLEWOOD BANK PLANS INITIAL OFFERING</field>
 	<field name = "DATELINE">NEW FAIRFIELD, Conn., March 18 -</field>
-	<field name = "BODY">Candlewood Bank and Trust
+	<field name = "content">Candlewood Bank and Trust
 Co> said it plans an initial public offering of 500,000 common
 shares at an expected price of 10 dlrs each through underwriter
 Moseley Holdings Corp MOSE>, which has been granted an option

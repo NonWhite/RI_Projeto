@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">C G
-f2043reute
-u f BC-FRENCH-1986/87-SOFT-W   03-30 0122</field>
-	<field name = "TITLE">FRENCH 1986/87 SOFT WHEAT EXPORTS FALL</field>
+	<field name = "titulo">FRENCH 1986/87 SOFT WHEAT EXPORTS FALL</field>
 	<field name = "DATELINE">PARIS, March 30 -</field>
-	<field name = "BODY">Exports of French soft wheat for the
+	<field name = "content">Exports of French soft wheat for the
 period July 1, 1986, to March 1, 1987, fell 27.6 pct to 8.21
 mln tonnes from 11.34 mln tonnes in the same 1985/86 period,
 the national cereals office ONIC said quoting customs figures.

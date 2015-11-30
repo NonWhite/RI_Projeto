@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:30:16.06</field>
-	<field name = "UNKNOWN">RM
-f0174reute
-u f BC-DOLLAR-STARTS-LOWER-I   04-07 0101</field>
-	<field name = "TITLE">DOLLAR STARTS LOWER IN QUIET PARIS</field>
+	<field name = "titulo">DOLLAR STARTS LOWER IN QUIET PARIS</field>
 	<field name = "DATELINE">PARIS, April 7 -</field>
-	<field name = "BODY">The dollar started lower after an easier
+	<field name = "content">The dollar started lower after an easier
 close in the Far East on selling amid continuing bearish
 sentiment and despite Bank of Japan intervention, dealers said.
     But they said European markets were likely to be calm

@@ -2,13 +2,10 @@
 	<field name = "DATE">5-MAR-1987 07:05:18.67</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0669reute
-u f BC-HONG-KONG-CD-MARKET-S   03-05 0104</field>
-	<field name = "TITLE">HONG KONG CD MARKET SHUTS DOWN AFTER NEW ISSUE</field>
+	<field name = "titulo">HONG KONG CD MARKET SHUTS DOWN AFTER NEW ISSUE</field>
 	<field name = "AUTHOR">By Allan Ng, Reuters</field>
 	<field name = "DATELINE">HONG KONG, March 5 -</field>
-	<field name = "BODY">The Hong Kong dollar fixed rate market
+	<field name = "content">The Hong Kong dollar fixed rate market
 was shut down this afternoon after a 200 mln H.K. Dlr
 certificate of deposit issue for the Chinese state-owned Bank
 of Communications Ltd Hong Kong branch suddenly surfaced,

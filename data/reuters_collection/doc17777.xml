@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 16:06:03.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2357reute
-b f BC-ALLEGIS-AEG>-FILING   06-01 0108</field>
-	<field name = "TITLE">ALLEGIS AEG> FILING MAY BE LATER THIS WEEK</field>
+	<field name = "titulo">ALLEGIS AEG> FILING MAY BE LATER THIS WEEK</field>
 	<field name = "DATELINE">New York, June 1 -</field>
-	<field name = "BODY">Allegis Corp may file its plan of
+	<field name = "content">Allegis Corp may file its plan of
 recapitalization with the Securities and Exchange Commission
 later this week, a company spokesman said.
     The spokesman also said the company has no comment on

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:15:20.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0665reute
-r f BC-KODAK-EK>-CONTINUES   03-03 0112</field>
-	<field name = "TITLE">KODAK EK> CONTINUES DRIVE INTO NEW MARKETS</field>
+	<field name = "titulo">KODAK EK> CONTINUES DRIVE INTO NEW MARKETS</field>
 	<field name = "AUTHOR">By Lawrence Edelman, Reuters</field>
 	<field name = "DATELINE">New York, March 3 -</field>
-	<field name = "BODY">Eastman Kodak Co, best known for its
+	<field name = "content">Eastman Kodak Co, best known for its
 cameras and film products, took several steps today to boost
 its image as a diversified information systems company.
     The Rochester, N.Y.-based company unwrapped a series of new

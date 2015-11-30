@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 11:24:34.83</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f1355reute
-r f BC-transcanada-trp>-den   04-21 0108</field>
-	<field name = "TITLE">TRANSCANADA TRP> DENIES REPORTS OF NEW BID</field>
+	<field name = "titulo">TRANSCANADA TRP> DENIES REPORTS OF NEW BID</field>
 	<field name = "DATELINE">Toronto, April 21 -</field>
-	<field name = "BODY">TransCanada PipeLines Ltd denied
+	<field name = "content">TransCanada PipeLines Ltd denied
 reports that it raised its offer for Dome Petroleum Ltd DMP>
 to 5.5 billion Canadian dlrs from 4.3 billion.
     A report on the Canadian Broadcasting Corp (CBC) late last

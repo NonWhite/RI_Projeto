@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PEOPLE">lyng</field>
-	<field name = "UNKNOWN">C G
-f0864reute
-u f BC-/LYNG-SAYS-NO-DECISIO   03-12 0107</field>
-	<field name = "TITLE">LYNG SAYS NO DECISION ON SOVIET EEP OFFER</field>
+	<field name = "titulo">LYNG SAYS NO DECISION ON SOVIET EEP OFFER</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">U.S. Agriculture Secretary Richard
+	<field name = "content">U.S. Agriculture Secretary Richard
 Lyng said the Reagan administration had not decided on offering
 the Soviet Union subsidized wheat but that such an offer had
 not been ruled out.

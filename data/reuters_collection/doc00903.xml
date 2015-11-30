@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 04:22:16.09</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0682
-reute
-u f BC-U.K.-CLEARS-CONS-GOLD   03-03 0070</field>
-	<field name = "TITLE">U.K. CLEARS CONS GOLD U.S. PURCHASE</field>
+	<field name = "titulo">U.K. CLEARS CONS GOLD U.S. PURCHASE</field>
 	<field name = "DATELINE">LONDON, March 3 -</field>
-	<field name = "BODY">The U.K. Trade Department said it would
+	<field name = "content">The U.K. Trade Department said it would
 not refer Consolidated Goldfields Plc's CGLD.L> purchase of
 American Aggregates Corp> to the Monopolies Commission.
     Cons Gold said last month that its ARC America Corp> unit

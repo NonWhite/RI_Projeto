@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">icco</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C T
-f1818reute
-u f BC-COCOA-TALKS-ON-BUFFER   03-25 0100</field>
-	<field name = "TITLE">COCOA TALKS SLOW AT CRUCIAL STAGE - DELEGATES</field>
+	<field name = "titulo">COCOA TALKS SLOW AT CRUCIAL STAGE - DELEGATES</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">International Cocoa Organization (ICCO)
+	<field name = "content">International Cocoa Organization (ICCO)
 talks on buffer stock rules have slowed during a crucial phase
 of negotiations, delegates said, but they remained confident
 about prospects for reaching agreement by Friday.

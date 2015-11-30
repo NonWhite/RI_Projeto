@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:11:38.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1497reute
-r f BC-NYNEX-NYN>-TO-HIRE-T   04-07 0111</field>
-	<field name = "TITLE">NYNEX NYN> TO HIRE TEMPORARY WORK FORCE</field>
+	<field name = "titulo">NYNEX NYN> TO HIRE TEMPORARY WORK FORCE</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Nynex Corp's New York Telephone said it
+	<field name = "content">Nynex Corp's New York Telephone said it
 will hire 1,900 temporary clerical and technical employees to
 work from April through October, with some positions open until
 December. It said salaries for jobs range from 245 dlrs a week

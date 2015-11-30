@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:29:00.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0716reute
-r f BC-MOODY'S-DOWNGRADES-LO   03-03 0101</field>
-	<field name = "TITLE">MOODY'S DOWNGRADES LORAL LOR> DEBT</field>
+	<field name = "titulo">MOODY'S DOWNGRADES LORAL LOR> DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 downgraded to Baa-2 from A-3 the rating on Loral Corp's 7-1/4
 pct convertible subordinated debentures of 2010 and on 10-3/4
 pct subordinated sinking fund debentures due 1997.

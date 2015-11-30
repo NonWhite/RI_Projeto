@@ -8,13 +8,10 @@
 	<field name = "PLACES">egypt</field>
 	<field name = "ORGS">imf</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f2050reute
-u f BC-EGYPT-FUEL-PRICE-INCR   04-29 0108</field>
-	<field name = "TITLE">EGYPT FUEL PRICE INCREASES PART OF REFORM PACKAGE</field>
+	<field name = "titulo">EGYPT FUEL PRICE INCREASES PART OF REFORM PACKAGE</field>
 	<field name = "AUTHOR">By John Rogers, Reuters</field>
 	<field name = "DATELINE">CAIRO, April 29 -</field>
-	<field name = "BODY">Egypt has embarked on reforms sought by
+	<field name = "content">Egypt has embarked on reforms sought by
 the International Monetary Fund (IMF) and the World Bank by
 raising the price of diesel oil and other types of transport
 fuels.

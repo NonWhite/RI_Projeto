@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:48:47.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f1717reute
-d f BC-HARLEY-DAVIDSON-HDI>   03-20 0093</field>
-	<field name = "TITLE">HARLEY-DAVIDSON HDI> UNIT FILES NOTE OFFERING</field>
+	<field name = "titulo">HARLEY-DAVIDSON HDI> UNIT FILES NOTE OFFERING</field>
 	<field name = "DATELINE">WAKARUSA, IND., March 20 -</field>
-	<field name = "BODY">Harley-Davidson Inc said its
+	<field name = "content">Harley-Davidson Inc said its
 wholly owned subsidiary, Holiday Rambler Corp, filed a
 registration statement covering 70 mln dlrs of subordinated
 notes due 1997.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">nkr</field>
 	<field name = "PLACES">norway</field>
-	<field name = "UNKNOWN">RM 
-f0434reute
-b f BC-NORWAY-CENTRAL-BANK-S   06-29 0112</field>
-	<field name = "TITLE">NORWAY CENTRAL BANK SELLS CROWNS TO EASE PRESSURE</field>
+	<field name = "titulo">NORWAY CENTRAL BANK SELLS CROWNS TO EASE PRESSURE</field>
 	<field name = "DATELINE">OSLO, June 29 -</field>
-	<field name = "BODY">Norway's central bank sold crowns in the
+	<field name = "content">Norway's central bank sold crowns in the
 open market in a bid to ease strong upward pressure on the
 currency, which threatens to rise above set levels in a basket
 of currencies, dealers said.

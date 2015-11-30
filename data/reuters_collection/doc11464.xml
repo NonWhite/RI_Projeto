@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 12:31:28.41</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1789reute
-r f BC-OCCIDENTAL-OXY>-SELL   03-31 0077</field>
-	<field name = "TITLE">OCCIDENTAL OXY> SELLS UNIT TO HENKEL KGAA></field>
+	<field name = "titulo">OCCIDENTAL OXY> SELLS UNIT TO HENKEL KGAA></field>
 	<field name = "DATELINE">MINNEAPOLIS, March 31 -</field>
-	<field name = "BODY">Henkel KGaA of Dusseldorf, West
+	<field name = "content">Henkel KGaA of Dusseldorf, West
 Germany, said it has completed the acquisition of the Process
 Chemicals Division of Occidental Petroleum Corp's OXY>
 Occidental Chemical Corp subsidiary for undisclosed terms.

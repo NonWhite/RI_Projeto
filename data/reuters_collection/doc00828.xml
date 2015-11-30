@@ -5,13 +5,9 @@
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nymex</field>
-	<field name = "UNKNOWN">Y
-f0233
-reute
-r f BC-NYMEX-TO-SUBMIT-PROPA   03-02 0100</field>
-	<field name = "TITLE">NYMEX TO SUBMIT PROPANE PROPOSAL TO CFTC</field>
+	<field name = "titulo">NYMEX TO SUBMIT PROPANE PROPOSAL TO CFTC</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">The New York Mercantile Exchange expects
+	<field name = "content">The New York Mercantile Exchange expects
 to submit a propane futures contract for federal regulatory
 approval within a few days, according to an exchange
 spokeswoman.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 12:32:55.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1556reute
-r f BC-GEMCRAFT-GEMH.O>-SEE   06-19 0082</field>
-	<field name = "TITLE">GEMCRAFT GEMH.O> SEES PROFIT IN 2ND QTR</field>
+	<field name = "titulo">GEMCRAFT GEMH.O> SEES PROFIT IN 2ND QTR</field>
 	<field name = "DATELINE">HOUSTON, June 19 -</field>
-	<field name = "BODY">Gemcraft Inc said it expects to post a
+	<field name = "content">Gemcraft Inc said it expects to post a
 profitable second quarter.
     Gemcraft recorded net income of 908,000 dlrs, or 16 cts per
 shr, for the second quarter ended June 30, 1986.

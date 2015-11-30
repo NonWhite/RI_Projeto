@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:01:41.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f4163reute
-r f BC-FORD-F>-UNIT-SELLS-T   06-18 0094</field>
-	<field name = "TITLE">FORD F> UNIT SELLS THREE-YEAR NOTES</field>
+	<field name = "titulo">FORD F> UNIT SELLS THREE-YEAR NOTES</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Ford Motor Credit Co, a unit of Ford
+	<field name = "content">Ford Motor Credit Co, a unit of Ford
 Motor Co, is raising 150 mln dlrs through an offering of notes
 due 1990 yielding 8.275 pct, said sole manager Bear, Stearns
 and Co.

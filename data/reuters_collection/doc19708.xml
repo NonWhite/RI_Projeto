@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:07:41.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1599reute
-w f BC-DSC-COMMUNICATIONSDI   06-29 0055</field>
-	<field name = "TITLE">DSC COMMUNICATIONSDIGI.O> IN SUPPLY AGREEMENT</field>
+	<field name = "titulo">DSC COMMUNICATIONSDIGI.O> IN SUPPLY AGREEMENT</field>
 	<field name = "DATELINE">DALLAS, June 29 -</field>
-	<field name = "BODY">DSC Communications Corp said it signed a
+	<field name = "content">DSC Communications Corp said it signed a
 supply agreement with United Telephone System Inc to deliver
 DSC Signal Transfer Points valued at about 3.0 mln dlrs.
     It said the agreement runs through 1990 with product

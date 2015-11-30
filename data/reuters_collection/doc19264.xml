@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 12:38:20.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f1587reute
-r f BC-TRIBUNE-CO-TRB>-TO-S   06-19 0073</field>
-	<field name = "TITLE">TRIBUNE CO TRB> TO SELL MEDIUM-TERM NOTES</field>
+	<field name = "titulo">TRIBUNE CO TRB> TO SELL MEDIUM-TERM NOTES</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Tribune Co said it is offering up to
+	<field name = "content">Tribune Co said it is offering up to
 100 mln dlrs of medium-term notes.
     The notes will have maturities from nine months to 15
 years, the company said. The terms of each deal will be set at

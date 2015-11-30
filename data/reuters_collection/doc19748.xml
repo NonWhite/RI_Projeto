@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:54:19.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1803reute
-r f BC-GM'S-GM>-OPEL-UNIT-H   06-29 0108</field>
-	<field name = "TITLE">GM'S GM> OPEL UNIT HAD 1ST HALF PROFIT - PAPER</field>
+	<field name = "titulo">GM'S GM> OPEL UNIT HAD 1ST HALF PROFIT - PAPER</field>
 	<field name = "DATELINE">DETROIT, June 29 -</field>
-	<field name = "BODY">General Motors Corp's German subsidiary
+	<field name = "content">General Motors Corp's German subsidiary
 Adam Opel AG had a first half profit after three years of
 losses, the trade paper Automotive News said.
     The paper quoted Opel chairman Horst Herke as saying the

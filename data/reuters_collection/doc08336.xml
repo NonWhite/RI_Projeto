@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 11:38:21.78</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1422reute
-d f BC-RECOTON-CORP-RCOT>-4   03-23 0080</field>
-	<field name = "TITLE">RECOTON CORP RCOT> 4TH QTR LOSS</field>
+	<field name = "titulo">RECOTON CORP RCOT> 4TH QTR LOSS</field>
 	<field name = "DATELINE">LONG ISLAND CITY, N.Y., March 23 -</field>
-	<field name = "BODY">Shr loss 14 cts vs profit 26 cts
+	<field name = "content">Shr loss 14 cts vs profit 26 cts
     Net loss 384,000 vs profit 714,000
     Revs 8,367,000 vs 9,909,000
     Year

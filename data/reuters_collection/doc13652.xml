@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:37:55.69</field>
-	<field name = "UNKNOWN">G
-f0641reute
-u f BC-LONDON-OILS/SEEDS-STE   04-07 0109</field>
-	<field name = "TITLE">LONDON OILS/SEEDS STEADY TO FIRMER AT MIDDAY</field>
+	<field name = "titulo">LONDON OILS/SEEDS STEADY TO FIRMER AT MIDDAY</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Oils and oilseeds showed steady to firmer
+	<field name = "content">Oils and oilseeds showed steady to firmer
 price movements at midday in moderately active trading.
     Processed palm oil traded five to 7.50 dlrs per tonne
 higher but buyers became more reserved near the end of the

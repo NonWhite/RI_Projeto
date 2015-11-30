@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 08:19:46.08</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F 
-f2786reute
-h f BC-BRITISH-TELECOM-LOOKS   06-18 0114</field>
-	<field name = "TITLE">BRITISH TELECOM LOOKS FORWARD TO MORE PROGRESS</field>
+	<field name = "titulo">BRITISH TELECOM LOOKS FORWARD TO MORE PROGRESS</field>
 	<field name = "DATELINE">LONDON, June 18 -</field>
-	<field name = "BODY">British Telecommunications Plc BTY.L>
+	<field name = "content">British Telecommunications Plc BTY.L>
 said it looked to further progress this year after reporting a
 11.7 pct rise in 1986/87 pretax profits to 2.07 billion stg.
     The result was at the top end of market expectations but

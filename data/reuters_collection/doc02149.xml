@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:18:19.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0574reute
-d f BC-SATELLITE-AUCTION-UNI   03-05 0108</field>
-	<field name = "TITLE">SATELLITE AUCTION UNIT MARCH, APRIL BOOKINGS UP</field>
+	<field name = "titulo">SATELLITE AUCTION UNIT MARCH, APRIL BOOKINGS UP</field>
 	<field name = "DATELINE">DALLAS, March  5 -</field>
-	<field name = "BODY">Satellite Auction Network Inc SATL>
+	<field name = "content">Satellite Auction Network Inc SATL>
 said its wholly owned unit, Premier Auction Services, has
 booked over nine mln dlrs in direct auction equipment for March
 and April, 1987, versus between six and seven mln dlrs in the

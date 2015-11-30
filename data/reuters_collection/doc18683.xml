@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 10:34:33.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3265reute
-u f BC-SYSTEMS/COMPUTER-SCT   06-18 0103</field>
-	<field name = "TITLE">SYSTEMS/COMPUTER SCTC.O> IN SETTLEMENT</field>
+	<field name = "titulo">SYSTEMS/COMPUTER SCTC.O> IN SETTLEMENT</field>
 	<field name = "DATELINE">MALVERN, Pa., June 18 -</field>
-	<field name = "BODY">Systems and Computer Technology
+	<field name = "content">Systems and Computer Technology
 Corp said it has received 4,879,000 dlrs from its former
 directors' and officers' liability insurance carrier in
 settlement of its claims for reimbursement of costs it incurred

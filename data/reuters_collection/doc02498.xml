@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">C G L M T
-f0962reute
-r f AM-FRANCE-YUGOSLAV   03-05 0124</field>
-	<field name = "TITLE">FRANCE, YUGOSLAVIA COMMISSION TO BOOST TRADE</field>
+	<field name = "titulo">FRANCE, YUGOSLAVIA COMMISSION TO BOOST TRADE</field>
 	<field name = "DATELINE">PARIS, March 5 -</field>
-	<field name = "BODY">France and Yugoslavia agreed to set up a
+	<field name = "content">France and Yugoslavia agreed to set up a
 joint economic commission as part of efforts to promote
 commercial links and industrial cooperation between the two
 countries.

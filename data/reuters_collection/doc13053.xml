@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 14:06:26.28</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1912reute
-u f BC-BRISTOL-MYERS-BMY>-R   04-03 0096</field>
-	<field name = "TITLE">BRISTOL-MYERS BMY> REVIEWING SCIMED MERGER</field>
+	<field name = "titulo">BRISTOL-MYERS BMY> REVIEWING SCIMED MERGER</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 3 -</field>
-	<field name = "BODY">SciMed Life Systems Inc SMLS> said
+	<field name = "content">SciMed Life Systems Inc SMLS> said
 Bristol-Myers Co is analyzing the pending lawsuit brought
 against SciMed by Advanced Cardiovascular Systems Inc> to
 determine whether to consummate its previously announced plans

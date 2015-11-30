@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 11:38:39.11</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">boesky</field>
-	<field name = "UNKNOWN">F
-f1385reute
-u f BC-JEFFERIES   03-19 0117</field>
-	<field name = "TITLE">SEC DETAILS CHARGES AGAINST JEFFERIES</field>
+	<field name = "titulo">SEC DETAILS CHARGES AGAINST JEFFERIES</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">Federal regulators said Boyd
+	<field name = "content">Federal regulators said Boyd
 Jefferies, who resigned as head of his Los Angeles brokerage
 firm, took part in schemes to manipulate the price of a stock
 and in a stock "parking" plot with inside trader Ivan Boesky.

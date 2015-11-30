@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:13:37.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1340reute
-d f BC-DSC-COMMUNICATIONS-D   04-13 0094</field>
-	<field name = "TITLE">DSC COMMUNICATIONS DISI.O> AMENDS SUPPLY PACT</field>
+	<field name = "titulo">DSC COMMUNICATIONS DISI.O> AMENDS SUPPLY PACT</field>
 	<field name = "DATELINE">DALLAS, April 13 -</field>
-	<field name = "BODY">DSC Communications Corp said it amended
+	<field name = "content">DSC Communications Corp said it amended
 an existing long term supply contract with MCI Communications
 Corp MCIC> for deliveries of a new tandem switch.
     Deliveries of the switch, the DEX 600E, are scheduled to

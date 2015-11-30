@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 11:19:36.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1358reute
-r f BC-ALLIED-SUPERMARKETS-   04-01 0093</field>
-	<field name = "TITLE">ALLIED SUPERMARKETS ASU> FILES FOR OFFERING</field>
+	<field name = "titulo">ALLIED SUPERMARKETS ASU> FILES FOR OFFERING</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Allied Supermarkets Inc said it filed
+	<field name = "content">Allied Supermarkets Inc said it filed
 with the Securities and Exchange Commission a registration
 statement covering 240 mln dlrs of debt securities.
     The company plans to offer 140 mln dlrs of senior

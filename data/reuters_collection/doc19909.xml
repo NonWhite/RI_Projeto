@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 16:36:14.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2511reute
-u f BC-JMB-REALTY-TRUST-JMB   06-29 0023</field>
-	<field name = "TITLE">JMB REALTY TRUST JMBR.O> SETS DECREASED PAYOUT</field>
+	<field name = "titulo">JMB REALTY TRUST JMBR.O> SETS DECREASED PAYOUT</field>
 	<field name = "DATELINE">CHICAGO, June 29 -</field>
-	<field name = "BODY">Qtly div 35 cts vs 41 cts prior
+	<field name = "content">Qtly div 35 cts vs 41 cts prior
     Pay July 31
     Record July 15
  Reuter</field>

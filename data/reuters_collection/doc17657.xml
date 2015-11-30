@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f1830reute
-r f BC-GULF-OF-MEXICO-RIG-CO   06-01 0102</field>
-	<field name = "TITLE">U.S. GULF OF MEXICO RIG COUNT CLIMBS TO 38.9 PCT</field>
+	<field name = "titulo">U.S. GULF OF MEXICO RIG COUNT CLIMBS TO 38.9 PCT</field>
 	<field name = "DATELINE">HOUSTON, June 1 -</field>
-	<field name = "BODY">Utilization of offshore mobile rigs in
+	<field name = "content">Utilization of offshore mobile rigs in
 the Gulf of Mexico climbed by 2.1 pct last week to 38.9 pct,
 reflecting a total of 91 working rigs, Offshore Data Services
 said.

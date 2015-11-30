@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uganda</field>
-	<field name = "UNKNOWN">C T
-f0624reute
-u f BC-CASH-CRISIS-HITS-UGAN   03-23 0110</field>
-	<field name = "TITLE">CASH CRISIS HITS UGANDAN COFFEE BOARD</field>
+	<field name = "titulo">CASH CRISIS HITS UGANDAN COFFEE BOARD</field>
 	<field name = "DATELINE">KAMPALA, March 23 -</field>
-	<field name = "BODY">Uganda's state-run Coffee Marketing
+	<field name = "content">Uganda's state-run Coffee Marketing
 Board (CMB) has been suffering a cash crisis for the past two
 months due to a bottleneck in export shipments and
 administrative delays in handling payments, trade sources said.

@@ -4,13 +4,10 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f4012reute
-u f BC-DOLLAR-SEEN-FALLING-U   03-16 0109</field>
-	<field name = "TITLE">DOLLAR SEEN FALLING UNLESS JAPAN SPURS ECONOMY</field>
+	<field name = "titulo">DOLLAR SEEN FALLING UNLESS JAPAN SPURS ECONOMY</field>
 	<field name = "AUTHOR">By Rie Sagawa, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 17 -</field>
-	<field name = "BODY">Underlying dollar sentiment is bearish,
+	<field name = "content">Underlying dollar sentiment is bearish,
 and operators may push the currency to a new low unless Japan
 takes steps to stimulate its economy as pledged in the Paris
 accord, foreign exchange analysts polled by Reuters said here.

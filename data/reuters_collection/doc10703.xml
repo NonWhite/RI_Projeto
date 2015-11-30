@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 03:45:19.60</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">bahrain</field>
-	<field name = "UNKNOWN">RM
-f0215reute
-u f BC-BAHRAIN-INTRODUCES-NE   03-30 0104</field>
-	<field name = "TITLE">BAHRAIN INTRODUCES NEW MONEY MARKET REGIME</field>
+	<field name = "titulo">BAHRAIN INTRODUCES NEW MONEY MARKET REGIME</field>
 	<field name = "DATELINE">BAHRAIN, March 30 -</field>
-	<field name = "BODY">Bahrain is introducing a new domestic
+	<field name = "content">Bahrain is introducing a new domestic
 money market regime to provide dinar liquidity aid centred on
 the island's newly launched treasury bill programme.
     The Bahrain Monetary Agency has issued a circular to all

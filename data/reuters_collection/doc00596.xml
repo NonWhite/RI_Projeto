@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:11:47.94</field>
-	<field name = "UNKNOWN">RM
-f0453
-reute
-u f BC-OPEC-PRESIDENT-SAYS-O   03-02 0107</field>
-	<field name = "TITLE">OPEC PRESIDENT SAYS OIL MARKET BEING MANIPULATED</field>
+	<field name = "titulo">OPEC PRESIDENT SAYS OIL MARKET BEING MANIPULATED</field>
 	<field name = "DATELINE">KINGSTON, March 2 -</field>
-	<field name = "BODY">OPEC president Rilwanu Lukman accused
+	<field name = "content">OPEC president Rilwanu Lukman accused
 "oil market manipulators" of drawing down their own stocks and
 spreading rumours to give the impression OPEC was breaking its
 15.8 mln barrels per day output ceiling, set last December.

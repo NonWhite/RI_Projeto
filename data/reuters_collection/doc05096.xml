@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 17:11:27.91</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0587reute
-r f BC-BORG-WARNER-BOR>-BOA   03-13 0072</field>
-	<field name = "TITLE">BORG-WARNER BOR> BOARD OKS SALE OF UNIT</field>
+	<field name = "titulo">BORG-WARNER BOR> BOARD OKS SALE OF UNIT</field>
 	<field name = "DATELINE">CHICAGO, March 13 -</field>
-	<field name = "BODY">Borg-Warner Corp said its directors
+	<field name = "content">Borg-Warner Corp said its directors
 approved the sale, for about 240 mln dlrs, of its industrial
 products division to a New York-based private investment firm,
 Clayton and Dubilier Inc, and senior management of the group.

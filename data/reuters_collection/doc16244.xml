@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 09:26:41.77</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">RM A
-f0863reute
-r f BC-CBT-NIGHT-TRADING-SES   04-13 0114</field>
-	<field name = "TITLE">CBT NIGHT TRADING SESSION SEEN GETTING APPROVAL</field>
+	<field name = "titulo">CBT NIGHT TRADING SESSION SEEN GETTING APPROVAL</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">The Commodity Futures Trading
+	<field name = "content">The Commodity Futures Trading
 Commission, CFTC, is expected to accept the Chicago Board of
 Trade's, CBT, proposal to establish a night trading session
 when the commission meets Wednesday, CFTC officials said.

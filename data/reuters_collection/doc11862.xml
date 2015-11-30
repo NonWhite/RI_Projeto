@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 08:23:47.85</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0666reute
-u f PM-AIRLINES--2NDLD (WRITETHROUGH)  04-01 0108</field>
-	<field name = "TITLE">U.S. SUPREME COURT ALLOWS DELTA-WESTERN MERGER</field>
+	<field name = "titulo">U.S. SUPREME COURT ALLOWS DELTA-WESTERN MERGER</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">U.S. Supreme Court Justice Sandra Day
+	<field name = "content">U.S. Supreme Court Justice Sandra Day
 O'Connor early this morning lifted an Appeals Court injunction
 blocking the planned merger of Delta DAL> Airlines
 Inc and Western Airlines WAL>, the Court said.

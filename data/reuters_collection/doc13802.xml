@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:58:22.84</field>
-	<field name = "UNKNOWN">C G
-f0865reute
-u f BC-agriculture-loan   04-07 0118</field>
-	<field name = "TITLE">U.S. AGRICULTURE LOAN REPORT</field>
+	<field name = "titulo">U.S. AGRICULTURE LOAN REPORT</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 released its loan activity report, as of April 1, in mln
 bushels, with previous week figures underneath.--
  1986 Crops --    Wheat     Corn   Soybean  

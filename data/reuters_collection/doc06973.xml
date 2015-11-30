@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 04:32:23.49</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f0214reute
-b f BC-SWISSAIR-ORDERS-SIX-M   03-19 0093</field>
-	<field name = "TITLE">SWISSAIR ORDERS SIX MCDONNELL DOUGLAS MD-11 JETS</field>
+	<field name = "titulo">SWISSAIR ORDERS SIX MCDONNELL DOUGLAS MD-11 JETS</field>
 	<field name = "DATELINE">ZURICH, March 19 -</field>
-	<field name = "BODY">Swissair SWSZ.Z> said it was confirming
+	<field name = "content">Swissair SWSZ.Z> said it was confirming
 six orders for the new MD-11 long-haul jet of McDonnell Douglas
 Corp MD> and had taken options for a further 12 planes.
     The order, which involved rejecting the A-340 plane being

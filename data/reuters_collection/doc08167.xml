@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0394reute
-u f BC-BANK-OF-FRANCE-SAYS-N   03-23 0118</field>
-	<field name = "TITLE">BANK OF FRANCE SAYS NO MONEY MARKET TENDER TODAY</field>
+	<field name = "titulo">BANK OF FRANCE SAYS NO MONEY MARKET TENDER TODAY</field>
 	<field name = "DATELINE">PARIS, March 23 -</field>
-	<field name = "BODY">The Bank of France will not hold a money
+	<field name = "content">The Bank of France will not hold a money
 market intervention tender today, ruling out a further cut in
 its 7-3/4 pct intervention rate, central bank sources said.
     At the tenders, depending on market conditions, the Bank

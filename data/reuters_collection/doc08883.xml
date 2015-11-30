@@ -4,13 +4,10 @@
 	<field name = "TOPICS">stg</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1838reute
-u f BC-STERLING-OUTLOOK-CLOU   03-24 0111</field>
-	<field name = "TITLE">STERLING OUTLOOK CLOUDED BY TEST OF PARIS ACCORD</field>
+	<field name = "titulo">STERLING OUTLOOK CLOUDED BY TEST OF PARIS ACCORD</field>
 	<field name = "AUTHOR">By Myra MacDonald, Reuters</field>
 	<field name = "DATELINE">LONDON, March 24 -</field>
-	<field name = "BODY">The move by foreign exchange markets to
+	<field name = "content">The move by foreign exchange markets to
 test the strength of the Paris currency accord has thrown into
 question the near-term outlook for sterling, until recently one
 of the main beneficiaries of the agreement, analysts said.

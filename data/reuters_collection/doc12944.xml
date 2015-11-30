@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 11:44:54.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1426reute
-r f BC-OLIN-OLN>-TO-RESTRUC   04-03 0066</field>
-	<field name = "TITLE">OLIN OLN> TO RESTRUCTURE DEFENSE GROUP</field>
+	<field name = "titulo">OLIN OLN> TO RESTRUCTURE DEFENSE GROUP</field>
 	<field name = "DATELINE">STAMFORD, Conn., April 3 -</field>
-	<field name = "BODY">Olin Corp said it was conducting
+	<field name = "content">Olin Corp said it was conducting
 an organizational restructuring of its defense systems group to
 meet growth plans.
     The corporation said the restructuring creates several

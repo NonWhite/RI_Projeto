@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 14:13:58.30</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0357reute
-r f BC-STANLEY-WORKS-SWK>-M   03-05 0062</field>
-	<field name = "TITLE">STANLEY WORKS SWK> MAKES ACQUISITIONS</field>
+	<field name = "titulo">STANLEY WORKS SWK> MAKES ACQUISITIONS</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Stanley Works said it has acquired Acme
+	<field name = "content">Stanley Works said it has acquired Acme
 Holding corp, a maker of sliding and folding door hardware, and
 the designs, patents and other righs of Plan-A-Flex Designer
 Co, which provides kits for home design and remodeling

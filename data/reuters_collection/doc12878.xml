@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 10:02:37.14</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G T M C
-f0993reute
-r f PM-CHINA-PRICES (NEWS-ANALYSIS)  04-03 0117</field>
-	<field name = "TITLE">CHINA PUTS BRAKE ON KEY REFORM GOAL</field>
+	<field name = "titulo">CHINA PUTS BRAKE ON KEY REFORM GOAL</field>
 	<field name = "AUTHOR">By Mark O'Neill</field>
 	<field name = "DATELINE">PEKING, April 3 -</field>
-	<field name = "BODY">Fear of social instability and inflation
+	<field name = "content">Fear of social instability and inflation
 has forced China to put the brakes on one of its most important
 economic reforms -- overhauling a pricing system which often
 bears no relation to production costs.

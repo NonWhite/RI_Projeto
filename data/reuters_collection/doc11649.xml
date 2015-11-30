@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 15:55:15.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2539reute
-r f BC-INTERNATIONAL-MINERAL   03-31 0108</field>
-	<field name = "TITLE">INTERNATIONAL MINERALS IGL> OFFERS PREFERRED</field>
+	<field name = "titulo">INTERNATIONAL MINERALS IGL> OFFERS PREFERRED</field>
 	<field name = "DATELINE">NORTHBROOK, ILL., March 31 -</field>
-	<field name = "BODY">International Minerals and
+	<field name = "content">International Minerals and
 Chemical Corp said it is offering 1,500,000 shares of 3.25 dlr
 Convertible Exchangeable Preferred Stock, Series B.
     It said each share of Series B Preferred will be

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 12:28:35.62</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F A RM
-f0625reute
-r f BC-TALKING-POINT/DOME-PE   03-13 0105</field>
-	<field name = "TITLE">TALKING POINT/DOME PETROLEUM DMP></field>
+	<field name = "titulo">TALKING POINT/DOME PETROLEUM DMP></field>
 	<field name = "AUTHOR">By Larry Welsh, Reuters</field>
 	<field name = "DATELINE">TORONTO, March 13 -</field>
-	<field name = "BODY">Dome Petroleum Ltd's revised debt
+	<field name = "content">Dome Petroleum Ltd's revised debt
 restructuring plan keeps the company alive and improves its
 appeal as a takeover target, but full debt repayment depends on
 a sharp oil price rise, oil and banking analysts said.

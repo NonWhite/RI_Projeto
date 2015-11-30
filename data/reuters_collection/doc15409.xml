@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">bahrain</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">RM
-f0368reute
-u f BC-SAUDI-RATES-RISE-AS-B   04-09 0105</field>
-	<field name = "TITLE">SAUDI RATES RISE AS BAHRAIN BANKS CAUGHT SHORT</field>
+	<field name = "titulo">SAUDI RATES RISE AS BAHRAIN BANKS CAUGHT SHORT</field>
 	<field name = "DATELINE">BAHRAIN, April 9 -</field>
-	<field name = "BODY">Saudi riyal interest rates rose as
+	<field name = "content">Saudi riyal interest rates rose as
 Bahrain-based banks scrambled to cover short positions, dealers
 said.
     Several Bahrain banks had been lending in the fixed periods

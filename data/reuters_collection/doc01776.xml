@@ -5,12 +5,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f0672reute
-u f BC-/MORE-SOVIET-GRAIN-BU   03-04 0131</field>
-	<field name = "TITLE">MORE SOVIET GRAIN BUYING FROM U.S. TIED TO PRICE</field>
+	<field name = "titulo">MORE SOVIET GRAIN BUYING FROM U.S. TIED TO PRICE</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">Whether the Soviet Union will fulfill
+	<field name = "content">Whether the Soviet Union will fulfill
 its buying obligations under the U.S./USSR grains agreement
 depends entirely on the United States, a Soviet trade official
 told Reuters.

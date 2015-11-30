@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-APR-1987 11:55:57.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1503reute
-r f BC-U.S.-WEST-USW>-INTRO   04-21 0082</field>
-	<field name = "TITLE">U.S. WEST USW> INTRODUCES DATA NETWORK PRODUCT</field>
+	<field name = "titulo">U.S. WEST USW> INTRODUCES DATA NETWORK PRODUCT</field>
 	<field name = "DATELINE">NEW YORK, April 21 -</field>
-	<field name = "BODY">U.S. WEST INC said it introduced its
+	<field name = "content">U.S. WEST INC said it introduced its
 first product for managing data networks, called the NETCENTER
 graphic network monitor.
     The product was developed by U.S. WEST Network Systems Inc,

@@ -3,13 +3,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM AI 
-f0050reute
-u f BC-TAIWAN-DOLLAR-AND-RES   06-19 0086</field>
-	<field name = "TITLE">TAIWAN DOLLAR AND RESERVES SEEN RISING MORE SLOWLY</field>
+	<field name = "titulo">TAIWAN DOLLAR AND RESERVES SEEN RISING MORE SLOWLY</field>
 	<field name = "AUTHOR">By Chen Chien-Kuo, Reuters</field>
 	<field name = "DATELINE">TAIPEI, June 19 -</field>
-	<field name = "BODY">Recent government moves to curb capital
+	<field name = "content">Recent government moves to curb capital
 inflow have temporarily helped to slow the rise of Taiwan's
 foreign exchange reserves and to stabilise the local dollar
 against the U.S. Currency, officials and bankers said.

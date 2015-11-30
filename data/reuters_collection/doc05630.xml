@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 15:09:23.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM F A
-f3396reute
-u f BC-/U.S.-MONEY-MANAGERS   03-16 0113</field>
-	<field name = "TITLE">U.S. MONEY MANAGERS MAY LEAN TO STOCKS VS BONDS</field>
+	<field name = "titulo">U.S. MONEY MANAGERS MAY LEAN TO STOCKS VS BONDS</field>
 	<field name = "AUTHOR">By Martin Cherrin, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">U.S. money managers and investment
+	<field name = "content">U.S. money managers and investment
 advisors said they expect stocks to continue to outperform
 bonds, but some are hedging bets by keeping roughly half of
 portfolios in bonds and cash for quick investment shifts.

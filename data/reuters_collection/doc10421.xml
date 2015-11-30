@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:00:30.10RM</field>
-	<field name = "UNKNOWN">f0928reute</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">u f BC-COMMERCIAL-UNION-GETS   03-27 0103</field>
-	<field name = "TITLE">COMMERCIAL UNION GETS MEDIUM-TERM NOTE PROGRAM</field>
+	<field name = "titulo">COMMERCIAL UNION GETS MEDIUM-TERM NOTE PROGRAM</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">Commercial Union Assurance CUAC.L>, a
+	<field name = "content">Commercial Union Assurance CUAC.L>, a
 composite insurance company in the U.K., Said it is arranging a
 financing facility totalling 750 mln European Currency Units
 (ECUs) which will now include a medium term note program.

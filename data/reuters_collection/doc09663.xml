@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 18:41:10.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F
-f2698reute
-r f BC-BANK-BOARD-TAKES-CONT   03-25 0101</field>
-	<field name = "TITLE">BANK BOARD TAKES CONTROL OF FLORIDA THRIFT</field>
+	<field name = "titulo">BANK BOARD TAKES CONTROL OF FLORIDA THRIFT</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The Federal Home Loan Bank Board
+	<field name = "content">The Federal Home Loan Bank Board
 said it took control of the South Florida Banks and transferred
 its assets and deposits to a newly chartered federal mutual
 association.

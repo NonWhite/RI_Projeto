@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">kuwait</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">RM V
-f0251reute
-u f BC-MOSCOW-SAYS-WILL-RETA   06-01 0109</field>
-	<field name = "TITLE">MOSCOW SAYS WILL RETALIATE AGAINST GULF ATTACKS</field>
+	<field name = "titulo">MOSCOW SAYS WILL RETALIATE AGAINST GULF ATTACKS</field>
 	<field name = "DATELINE">KUWAIT, June 1 -</field>
-	<field name = "BODY">Any Iranian attack on Soviet ships in the
+	<field name = "content">Any Iranian attack on Soviet ships in the
 Gulf will bring a forceful and violent response, a Soviet
 foreign ministry official said in an interview published here.
     Alexander Ivanov, head of the Gulf desk at the Soviet

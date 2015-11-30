@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:51:30.71</field>
-	<field name = "UNKNOWN">F
-f0368
-reute
-d f BC-FRANKLIN-RESOURCES-B   03-02 0105</field>
-	<field name = "TITLE">FRANKLIN RESOURCES BEN> FORMS THREE FUNDS</field>
+	<field name = "titulo">FRANKLIN RESOURCES BEN> FORMS THREE FUNDS</field>
 	<field name = "DATELINE">SAN MATEO, Calif., March 2 -</field>
-	<field name = "BODY">Franklin Resources Inc said it
+	<field name = "content">Franklin Resources Inc said it
 formed three mutual funds that free Pennsylvania residents of
 taxes levied by the state's counties on stocks, bonds and
 mutual fund shares.

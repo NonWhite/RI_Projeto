@@ -8,12 +8,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">Y
-f1195reute
-u f BC-VENEZUELA-RE-ESTABLIS   04-24 0105</field>
-	<field name = "TITLE">VENEZUELA RE-ESTABLISHES POSTED PRODUCT PRICES</field>
+	<field name = "titulo">VENEZUELA RE-ESTABLISHES POSTED PRODUCT PRICES</field>
 	<field name = "DATELINE">NEW YORK, APRIL 24 -</field>
-	<field name = "BODY">Petroleos de Venezuela, PDVSA, the
+	<field name = "content">Petroleos de Venezuela, PDVSA, the
 state owned oil company, has re-established posted prices for
 some light products and heavy fuel oil, industry sources in New
 York said.

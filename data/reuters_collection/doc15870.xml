@@ -15,12 +15,9 @@
 	<field name = "TOPICS">oat</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2239reute
-b f BC-net-change-exports   04-09 0111</field>
-	<field name = "TITLE">NET CHANGE IN EXPORT COMMITMENTS -- USDA</field>
+	<field name = "titulo">NET CHANGE IN EXPORT COMMITMENTS -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department gave
+	<field name = "content">The U.S. Agriculture Department gave
 the net change in export commitments, including sales,
 cancellations, foreign purchases and cumulative exports, in the
 current seasons through the week ended April 2, with

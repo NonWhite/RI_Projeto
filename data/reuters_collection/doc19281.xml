@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:13:33.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1733reute
-b f BC-/IC-INDUSTRIES-ICX>   06-19 0065</field>
-	<field name = "TITLE">IC INDUSTRIES ICX> NAMES KARL BAYS AS CHAIRMAN</field>
+	<field name = "titulo">IC INDUSTRIES ICX> NAMES KARL BAYS AS CHAIRMAN</field>
 	<field name = "DATELINE">CHICAGO, June 19 -</field>
-	<field name = "BODY">IC industries Inc said Karl Bays has
+	<field name = "content">IC industries Inc said Karl Bays has
 been elected chairman and chief executive officer effective
 July one.
     William Johnson, who is recovering from a recent stroke,

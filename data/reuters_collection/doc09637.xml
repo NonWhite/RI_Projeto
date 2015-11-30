@@ -2,13 +2,10 @@
 	<field name = "DATE">25-MAR-1987 17:46:02.58</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2592reute
-u f BC-GENCORP-GY>-BID-COUL   03-25 0105</field>
-	<field name = "TITLE">GENCORP GY> BID COULD BE RAISED, GROUP SAYS</field>
+	<field name = "titulo">GENCORP GY> BID COULD BE RAISED, GROUP SAYS</field>
 	<field name = "AUTHOR">BY CAL MANKOWSKI, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">An investor group said it might be
+	<field name = "content">An investor group said it might be
 willing to raise its 100 dlr per share offer for GenCorp but so
 far the company has turned down requests for a meeting.
     "We might be able to see some additional value if we could

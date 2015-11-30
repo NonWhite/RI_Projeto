@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 05:02:16.14</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0257reute
-b f BC-BANK-OF-ENGLAND-OFFER   03-13 0098</field>
-	<field name = "TITLE">BANK OF ENGLAND OFFERS EARLY HELP TO MONEY MARKET</field>
+	<field name = "titulo">BANK OF ENGLAND OFFERS EARLY HELP TO MONEY MARKET</field>
 	<field name = "DATELINE">LONDON, March 13 -</field>
-	<field name = "BODY">The Bank of England said it invited an
+	<field name = "content">The Bank of England said it invited an
 early round of bill offers to help ease tight conditions in the
 money market.
     The bank estimated today's liquidity shortage at about 1.10

@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 16:38:09.27</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2630reute
-h f BC-TERRANO-CORP-TRNO>-Y   03-26 0064</field>
-	<field name = "TITLE">TERRANO CORP TRNO> YEAR DEC 31 OPER NET</field>
+	<field name = "titulo">TERRANO CORP TRNO> YEAR DEC 31 OPER NET</field>
 	<field name = "DATELINE">LINCOLN, NEB., March 26 -</field>
-	<field name = "BODY">Oper shr profit 12 cts vs loss 1.15 dlrs
+	<field name = "content">Oper shr profit 12 cts vs loss 1.15 dlrs
     Oper net profit 300,286 vs loss 2,855,887
     Revs 2,456,616 mln vs 2,979,206
     Avg shrs 2,527,720 vs 2,482,197

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 14:10:13.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0365reute
-d f BC-FIRST-UNION-REAL-ESTA   03-04 0095</field>
-	<field name = "TITLE">FIRST UNION REAL ESTATE UNIT HIT WITH LABOR SUIT</field>
+	<field name = "titulo">FIRST UNION REAL ESTATE UNIT HIT WITH LABOR SUIT</field>
 	<field name = "DATELINE">PITTSBURGH, Pa., March 4 -</field>
-	<field name = "BODY">The National Labor Relations
+	<field name = "content">The National Labor Relations
 Board said it issued an unfair Labor practice complaint against
 First Union Management, a unit of First Union Real Estate
 Investments FUR>, for discouraging membership in a labor

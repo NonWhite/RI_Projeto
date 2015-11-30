@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 09:29:34.86</field>
 	<field name = "PLACES">kenya</field>
-	<field name = "UNKNOWN">RM 
-f0993reute
-u f BC-KENYA-DEBT-SERVICING   10-19 0092</field>
-	<field name = "TITLE">KENYA DEBT SERVICING TO ABSORB MOST AID - MOI</field>
+	<field name = "titulo">KENYA DEBT SERVICING TO ABSORB MOST AID - MOI</field>
 	<field name = "DATELINE">NAIROBI, Oct 19 -</field>
-	<field name = "BODY">Rising service payments on Kenya's three
+	<field name = "content">Rising service payments on Kenya's three
 billion dlr external debt will absorb nearly all the 1.1
 billion dlrs of foreign aid likely over the next four years,
 President Daniel arap Moi said.

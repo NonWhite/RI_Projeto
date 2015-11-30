@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 14:22:34.88</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">RM
-f3253reute
-r f BC-SAUDI-BUSINESSMEN-SEE   03-16 0102</field>
-	<field name = "TITLE">SAUDI BUSINESSMEN SEEK TO BOOST PRIVATE SECTOR</field>
+	<field name = "titulo">SAUDI BUSINESSMEN SEEK TO BOOST PRIVATE SECTOR</field>
 	<field name = "AUTHOR">By Stephen Jukes, Reuters</field>
 	<field name = "DATELINE">ABHA, Saudi Arabia, March 16 -</field>
-	<field name = "BODY">Top Saudi businessmen
+	<field name = "content">Top Saudi businessmen
 discussing ways to bolster the kingdom's private sector at a
 Chamber of Commerce conference here today called for finance to
 be made available more easily for industrial projects.

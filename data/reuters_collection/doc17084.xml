@@ -5,12 +5,9 @@
 	<field name = "TOPICS">cpi</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0811reute
-r f BC-SWISS-GROWTH-SEEN-SLO   04-24 0115</field>
-	<field name = "TITLE">SWISS GROWTH SEEN SLOWING THIS YEAR AND NEXT</field>
+	<field name = "titulo">SWISS GROWTH SEEN SLOWING THIS YEAR AND NEXT</field>
 	<field name = "DATELINE">BASLE, Switzerland, April 24 -</field>
-	<field name = "BODY">The growth of the Swiss
+	<field name = "content">The growth of the Swiss
 economy will likely slow to 2.2 pct this year and 1.9 pct in
 1988 after reaching 2.8 pct last year, according to a study by
 a group at Basle University's Institute of Applied Economics.

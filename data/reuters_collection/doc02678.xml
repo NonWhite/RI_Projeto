@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:40:56.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0595reute
-r f BC-GENENTECH-GENE>-FILE   03-06 0103</field>
-	<field name = "TITLE">GENENTECH GENE> FILES SUIT AGAINST FDA</field>
+	<field name = "titulo">GENENTECH GENE> FILES SUIT AGAINST FDA</field>
 	<field name = "DATELINE">SOUTH SAN FRANCISCO, March 6 -</field>
-	<field name = "BODY">Genentech Inc said it filed
+	<field name = "content">Genentech Inc said it filed
 a suit against the Food and Drug Administration in the U.S.
 District Court for the District of Columbia over an unresolved
 issue relating to genetically engineered human growth hormone.

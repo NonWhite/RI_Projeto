@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 09:57:58.36</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">RM
-f1054reute
-r f BC-CHERNOBYL-TO-CAUSE-PR   04-02 0120</field>
-	<field name = "TITLE">CHERNOBYL TO CAUSE PROBLEMS FOR SOVIET ELECTRICITY</field>
+	<field name = "titulo">CHERNOBYL TO CAUSE PROBLEMS FOR SOVIET ELECTRICITY</field>
 	<field name = "DATELINE">BRUSSELS, April 2 -</field>
-	<field name = "BODY">The Chernobyl nuclear plant disaster
+	<field name = "content">The Chernobyl nuclear plant disaster
 has left Soviet plans to extend nuclear power stations
 unchanged, but will in the long run cause major problems for
 the electricity industry, a Western expert said.

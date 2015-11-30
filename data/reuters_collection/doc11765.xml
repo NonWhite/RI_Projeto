@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 21:18:15.52</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">T C
-f2981reute
-u f BC-BRAZILIAN-FARMERS-STA   03-31 0111</field>
-	<field name = "TITLE">BRAZILIAN FARMERS STAGE FRESH PROTESTS</field>
+	<field name = "titulo">BRAZILIAN FARMERS STAGE FRESH PROTESTS</field>
 	<field name = "DATELINE">SAO PAULO, March 31 -</field>
-	<field name = "BODY">Brazilian farmers, angry about high
+	<field name = "content">Brazilian farmers, angry about high
 interest rates, staged fresh protests yesterday in the southern
 state of Rio Grande do Sul and three people died when a lorry
 careered into one of the farmers' roadblocks, police said.

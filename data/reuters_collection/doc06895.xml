@@ -4,13 +4,10 @@
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">A RM
-f9651reute
-r f BC-BAKER-AND-VOLCKER-SAY   03-18 0106</field>
-	<field name = "TITLE">BAKER AND VOLCKER SAY DEBT STRATEGY WILL WORK</field>
+	<field name = "titulo">BAKER AND VOLCKER SAY DEBT STRATEGY WILL WORK</field>
 	<field name = "AUTHOR">By Peter Torday, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">Treasury Secretary James Baker and
+	<field name = "content">Treasury Secretary James Baker and
 Federal Reserve Board chairman Paul Volcker have told House
 leaders they were optimistic their debt strategy would work,
 but acknowledged the crisis could take a sharp turn for the

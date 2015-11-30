@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 02:28:26.45</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">RM
-f4132reute
-u f BC-MALAYSIA-PLANS-1.6-BI   03-17 0098</field>
-	<field name = "TITLE">MALAYSIA PLANS 1.6 BILLION RINGGIT LOAN ISSUE</field>
+	<field name = "titulo">MALAYSIA PLANS 1.6 BILLION RINGGIT LOAN ISSUE</field>
 	<field name = "DATELINE">KUALA LUMPUR, March 17 -</field>
-	<field name = "BODY">The Malaysian government said it
+	<field name = "content">The Malaysian government said it
 is issuing 1.6 billion ringgit worth of loan stock on the
 domestic money market, a treasury statement said.
     The issue, the first such offering this year, will comprise

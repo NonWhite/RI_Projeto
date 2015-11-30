@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 00:43:42.82</field>
 	<field name = "TOPICS">rubber</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">T C
-f0501
-reute
-u f BC-MALAYSIA-RE-IMPOSES-E   03-03 0076</field>
-	<field name = "TITLE">MALAYSIA RE-IMPOSES EXPORT DUTIES ON RUBBER</field>
+	<field name = "titulo">MALAYSIA RE-IMPOSES EXPORT DUTIES ON RUBBER</field>
 	<field name = "DATELINE">KUALA LUMPUR, March 3 -</field>
-	<field name = "BODY">The Malaysian government said it
+	<field name = "content">The Malaysian government said it
 has re-imposed export duties on rubber at 3/8 cent per kilo
 after the gazetted price moved above the threshold price of 210
 cents per kilo.

@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 16:06:59.90</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0421reute
-r f BC-CIRCON-CORP-CCON>-4T   03-12 0047</field>
-	<field name = "TITLE">CIRCON CORP CCON> 4TH QTR</field>
+	<field name = "titulo">CIRCON CORP CCON> 4TH QTR</field>
 	<field name = "DATELINE">SANTA BARBARA, Calif., March 12 -</field>
-	<field name = "BODY">Shr loss two cts vs profit 10 cts
+	<field name = "content">Shr loss two cts vs profit 10 cts
     Net loss 79,000 vs profit 507,000
     Revs 10.6 mln vs 2,238,000
     12 mths

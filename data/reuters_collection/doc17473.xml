@@ -2,13 +2,10 @@
 	<field name = "DATE">1-JUN-1987 05:02:05.63</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0302reute
-r f BC-GERMAN-CAR-FIRMS-SEEN   06-01 0115</field>
-	<field name = "TITLE">GERMAN CAR FIRMS SEEN PRODUCING SOLID 1987 RESULTS</field>
+	<field name = "titulo">GERMAN CAR FIRMS SEEN PRODUCING SOLID 1987 RESULTS</field>
 	<field name = "AUTHOR">By Anthony Williams, Reuters</field>
 	<field name = "DATELINE">BONN, June 1 -</field>
-	<field name = "BODY">The West German car industry celebrated its
+	<field name = "content">The West German car industry celebrated its
 100th birthday with a record-breaking 1986 performance at home
 and is due to turn in another set of solid results in 1987.
     But share market analysts warn it faces continued problems

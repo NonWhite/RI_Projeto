@@ -6,12 +6,9 @@
 	<field name = "PLACES">denmark</field>
 	<field name = "PLACES">canada</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">G L 
-f0514reute
-r f BC-CANADA-THREATENS-BAN   06-29 0110</field>
-	<field name = "TITLE">CANADA THREATENS BAN ON DANISH PIGMEAT IMPORTS</field>
+	<field name = "titulo">CANADA THREATENS BAN ON DANISH PIGMEAT IMPORTS</field>
 	<field name = "DATELINE">COPENHAGEN, June 29 -</field>
-	<field name = "BODY">Canada has threatened to stop imports
+	<field name = "content">Canada has threatened to stop imports
 of Danish pigmeat from July 14 after Canadian veterinary
 inspectors approved only two of 33 slaughterhouses, a Danish
 agriculture ministry official told Reuters.

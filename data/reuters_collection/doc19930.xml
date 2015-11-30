@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 17:07:09.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM 
-f2601reute
-u f BC-U.S.-HOUSING-DEPT.-BA   06-29 0098</field>
-	<field name = "TITLE">U.S. HOUSING DEPT. BACKS PRIVATIZING FNMA FNM></field>
+	<field name = "titulo">U.S. HOUSING DEPT. BACKS PRIVATIZING FNMA FNM></field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">The U.S. Department of Housing and
+	<field name = "content">The U.S. Department of Housing and
 Urban Development (HUD) said it backed an eventual severing of
 the link between the government and the Federal National
 Mortgage Association -- better known as Fannie Mae.

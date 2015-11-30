@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">C G
-f0739reute
-u f BC-YUGOSLAVIA-WHEAT-FREE   03-03 0101</field>
-	<field name = "TITLE">YUGOSLAVIA WHEAT FREE OF WINTERKILL - USDA</field>
+	<field name = "titulo">YUGOSLAVIA WHEAT FREE OF WINTERKILL - USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">There was no evidence of winterkill
+	<field name = "content">There was no evidence of winterkill
 in Yugoslavian winter wheat during field travel along a line
 running northwest from Belgrade to near Maribor, the U.S.
 Agriculture Department's counselor in Belgrade said in a field

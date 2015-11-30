@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 05:47:33.41</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0342reute
-b f BC-COMMONWEALTH-BANK-CUT   04-13 0101</field>
-	<field name = "TITLE">COMMONWEALTH BANK CUTS AUSTRALIA PRIME TO 17.5 PCT</field>
+	<field name = "titulo">COMMONWEALTH BANK CUTS AUSTRALIA PRIME TO 17.5 PCT</field>
 	<field name = "DATELINE">SYDNEY, April 13 -</field>
-	<field name = "BODY">The Commonwealth Bank of Australia said
+	<field name = "content">The Commonwealth Bank of Australia said
 it will lower its prime lending rate to 17.5 pct from 18.25,
 effective April 15.
     The bank's new rate will be the lowest of Australia's

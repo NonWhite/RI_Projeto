@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:53:00.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1535reute
-r f BC-CHARTERHOUSE-GETS-310   04-13 0100</field>
-	<field name = "TITLE">CHARTERHOUSE GETS 310 MLN DLRS IN NEW CAPITAL</field>
+	<field name = "titulo">CHARTERHOUSE GETS 310 MLN DLRS IN NEW CAPITAL</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Charterhouse Group International>,
+	<field name = "content">Charterhouse Group International>,
 which specializes in leveraged buyouts and purchasing troubled
 companies, said it has raised 310 mln dlrs in new capital to
 help it compete in the acquisition market for U.S. companies.

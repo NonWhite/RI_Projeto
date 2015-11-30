@@ -3,13 +3,10 @@
 	<field name = "PLACES">australia</field>
 	<field name = "PEOPLE">keating</field>
 	<field name = "PEOPLE">hawke</field>
-	<field name = "UNKNOWN">RM AI 
-f5192reute
-u f BC-AUSTRALIA'S-OPPOSITIO   06-18 0107</field>
-	<field name = "TITLE">AUSTRALIA'S OPPOSITION FACES SETBACK ON TAX PLAN</field>
+	<field name = "titulo">AUSTRALIA'S OPPOSITION FACES SETBACK ON TAX PLAN</field>
 	<field name = "AUTHOR">By Francis Daniel, Reuters</field>
 	<field name = "DATELINE">SYDNEY, June 19 -</field>
-	<field name = "BODY">The conservative opposition, already
+	<field name = "content">The conservative opposition, already
 fighting an uphill election battle, now faces controversy in
 its own ranks over a possible error in its major tax cutting
 program, economists said.

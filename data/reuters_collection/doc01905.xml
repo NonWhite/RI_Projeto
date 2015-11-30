@@ -2,13 +2,10 @@
 	<field name = "DATE">4-MAR-1987 23:27:47.90</field>
 	<field name = "PLACES">indonesia</field>
 	<field name = "PEOPLE">suharto</field>
-	<field name = "UNKNOWN">RM
-f0222reute
-u f BC-ECONOMIC-SPOTLIGHT--   03-04 0099</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - INDONESIA'S ECONOMY</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - INDONESIA'S ECONOMY</field>
 	<field name = "AUTHOR">By Jeremy Clift, Reuters</field>
 	<field name = "DATELINE">JAKARTA, March 5 -</field>
-	<field name = "BODY">Indonesia heads for general elections in
+	<field name = "content">Indonesia heads for general elections in
 six weeks' time with its economy in the worst shape in 20
 years, economists and officials said.
     The government expects no spillover of "people power" from

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">RM
-f1725reute
-u f BC-EXPORTS-OTHER-THAN-CO   04-09 0108</field>
-	<field name = "TITLE">EXPORTS OTHER THAN COFFEE RISE SHARPLY IN COLOMBIA</field>
+	<field name = "titulo">EXPORTS OTHER THAN COFFEE RISE SHARPLY IN COLOMBIA</field>
 	<field name = "DATELINE">BOGOTA, April 9 -</field>
-	<field name = "BODY">Colombian exports other than coffee rose
+	<field name = "content">Colombian exports other than coffee rose
 55 pct in January compared with the same period last year,
 figures from the government statistics institute show.
     Non-coffee exports amounted to 180.8 mln dlrs fob compared

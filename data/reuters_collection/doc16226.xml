@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 09:03:14.72</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">RM
-f0803reute
-u f BC-MALAYSIA-CUTS-FIVE-YE   04-13 0108</field>
-	<field name = "TITLE">MALAYSIA CUTS FIVE YEAR PLAN BUDGET</field>
+	<field name = "titulo">MALAYSIA CUTS FIVE YEAR PLAN BUDGET</field>
 	<field name = "DATELINE">KUALA LUMPUR, April 13 -</field>
-	<field name = "BODY">Malaysia will reduce its budget
+	<field name = "content">Malaysia will reduce its budget
 for the 1986-1990 development plan to 49 billion ringgit from
 its original 74 billion to limit expenditure, the Economic
 Planning Unit (EPU) of the Prime Minister's Department said.

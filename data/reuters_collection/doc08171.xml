@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">france</field>
 	<field name = "PEOPLE">balladur</field>
-	<field name = "UNKNOWN">RM
-f0409reute
-r f BC-BALLADUR-SEES-ONLY-TW   03-23 0118</field>
-	<field name = "TITLE">BALLADUR SEES ONLY TWO PCT FRENCH GROWTH IN 1987</field>
+	<field name = "titulo">BALLADUR SEES ONLY TWO PCT FRENCH GROWTH IN 1987</field>
 	<field name = "DATELINE">PARIS, March 23 -</field>
-	<field name = "BODY">French 1987 growth will probably be about
+	<field name = "content">French 1987 growth will probably be about
 two pct, the same as last year, due to an international
 environment that is less favourable than expected, Finance
 Minister Edouard Balladur was quoted as saying.

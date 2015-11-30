@@ -2,13 +2,9 @@
 	<field name = "DATE">1-MAR-1987 08:22:30.94</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">qatar</field>
-	<field name = "UNKNOWN">RM
-f0413
-reute
-u f BC-QATAR-UNVEILS-BUDGET   03-01 0111</field>
-	<field name = "TITLE">QATAR UNVEILS BUDGET FOR FISCAL 1987/88</field>
+	<field name = "titulo">QATAR UNVEILS BUDGET FOR FISCAL 1987/88</field>
 	<field name = "DATELINE">DOHA, March 1 -</field>
-	<field name = "BODY">The Gulf oil state of Qatar, recovering
+	<field name = "content">The Gulf oil state of Qatar, recovering
 slightly from last year's decline in world oil prices,
 announced its first budget since early 1985 and projected a
 deficit of 5.472 billion riyals.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 19:29:57.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0885reute
-d f BC-GREENWOOD-GRRL>-BOAR   03-12 0056</field>
-	<field name = "TITLE">GREENWOOD GRRL> BOARD APPROVES RESTRUCTURING</field>
+	<field name = "titulo">GREENWOOD GRRL> BOARD APPROVES RESTRUCTURING</field>
 	<field name = "DATELINE">DENVER, Colo, March 12 -</field>
-	<field name = "BODY">Greenwood Resources Inc said its
+	<field name = "content">Greenwood Resources Inc said its
 board approved a restrucuting and recapitalization plan uner
 which more than four mln dlrs of debt and interest will be
 restructured.

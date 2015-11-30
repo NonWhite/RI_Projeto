@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:52:53.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2667reute
-r f BC-TROUND-INTERNATIONAL   03-26 0091</field>
-	<field name = "TITLE">TROUND INTERNATIONAL TROU> IN JOINT VENTURE</field>
+	<field name = "titulo">TROUND INTERNATIONAL TROU> IN JOINT VENTURE</field>
 	<field name = "DATELINE">PHILLIPSBURG, N.J., March 26 -</field>
-	<field name = "BODY">Tround International Inc
+	<field name = "content">Tround International Inc
 said it entered into a joint agreement with Lucas Aerospace
 Ltd>.
     The company said the agreement calls for the selection of

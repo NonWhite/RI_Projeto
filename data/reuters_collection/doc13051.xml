@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 14:04:13.24</field>
 	<field name = "TOPICS">strategic-metal</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">C M
-f1903reute
-u f BC-MINAS-DE-ALMADEN-RAIS   04-03 0113</field>
-	<field name = "TITLE">MINAS DE ALMADEN RAISES MERCURY PRICE</field>
+	<field name = "titulo">MINAS DE ALMADEN RAISES MERCURY PRICE</field>
 	<field name = "DATELINE">MADRID, April 3 -</field>
-	<field name = "BODY">Spain's Minas de Almaden y Arrayanes S.A.
+	<field name = "content">Spain's Minas de Almaden y Arrayanes S.A.
 has agreed with Algerian producer ENOF to establish a minimum
 price of 300 dlrs per flask for spot mercury sales, Almaden
 spokesman Jesus Gallego said.

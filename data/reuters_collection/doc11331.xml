@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 10:08:30.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1131reute
-u f BC-NEW-PLAN-REALTY-TRUST   03-31 0091</field>
-	<field name = "TITLE">NEW PLAN REALTY TRUST NPR> TO REDEEM NOTES</field>
+	<field name = "titulo">NEW PLAN REALTY TRUST NPR> TO REDEEM NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">New Plan Realty Trust said it plans to
+	<field name = "content">New Plan Realty Trust said it plans to
 redeem on April 30 all of its outstanding 8-3/8 pct convertible
 subordinated debentures due Nov 15, 2000.
     As of March 30, there were 55.6 mln dlrs of debentures

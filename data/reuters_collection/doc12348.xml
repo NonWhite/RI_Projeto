@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 17:20:50.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2590reute
-d f BC-SCIMED-SMLS>-BEING-S   04-01 0090</field>
-	<field name = "TITLE">SCIMED SMLS> BEING SUED FOR PATENT INFRINGEMENT</field>
+	<field name = "titulo">SCIMED SMLS> BEING SUED FOR PATENT INFRINGEMENT</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 1 -</field>
-	<field name = "BODY">SciMed Life Systems Inc said
+	<field name = "content">SciMed Life Systems Inc said
 Advanced Cardiovascular Systems Inc> is suing it for patent
 infringement.
     The company said the suit involves a patent for a vascular

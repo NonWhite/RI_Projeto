@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 15:10:11.16</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM A 
-f2771reute
-u f BC-GERMAN-BANKER-CALLS-F   10-19 0107</field>
-	<field name = "TITLE">GERMAN BANKER CALLS FOR SPECIAL MONETARY MEETING</field>
+	<field name = "titulo">GERMAN BANKER CALLS FOR SPECIAL MONETARY MEETING</field>
 	<field name = "DATELINE">BONN, Oct 19 -</field>
-	<field name = "BODY">Finance ministers from major industrial
+	<field name = "content">Finance ministers from major industrial
 nations should hold a special meeting to deal with the U.S.
 Dollar's sharp decline, Helmut Geiger, president of the West
 German savings bank association, said.

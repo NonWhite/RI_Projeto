@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 12:42:22.69</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1701reute
-r f BC-FIRST-CHICAGO-FNB>-U   04-01 0071</field>
-	<field name = "TITLE">FIRST CHICAGO FNB> UNIT BUYS BANKS</field>
+	<field name = "titulo">FIRST CHICAGO FNB> UNIT BUYS BANKS</field>
 	<field name = "DATELINE">CHICAGO, April 1 -</field>
-	<field name = "BODY">First Chicago Corp's American National
+	<field name = "content">First Chicago Corp's American National
 Bank unit said it completed the acquisition of four suburban
 Chicago banks with combined assets of about 231 mln dlrs.
     The banks are National Bank of North Evanston, Elgin

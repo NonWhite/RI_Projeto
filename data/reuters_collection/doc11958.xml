@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:34:52.07</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f1119reute
-u f BC-U.S.-SENATOR-HITS-JAP   04-01 0115</field>
-	<field name = "TITLE">U.S. SENATOR ASSAILS JAPANESE TRADE PRACTICES</field>
+	<field name = "titulo">U.S. SENATOR ASSAILS JAPANESE TRADE PRACTICES</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Senate Agriculture Committee
+	<field name = "content">Senate Agriculture Committee
 Chairman Patrick Leahy (D-Vt.) charged Japan with lying and
 cheating in its trade practices.
      "The Japanese, not to put too fine a point on it, have

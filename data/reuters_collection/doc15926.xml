@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">C G
-f2434reute
-u f BC-EXPORT-BONUS-WHEAT-FL   04-09 0107</field>
-	<field name = "TITLE">EXPORT BONUS WHEAT FLOUR TO IRAQ --USDA</field>
+	<field name = "titulo">EXPORT BONUS WHEAT FLOUR TO IRAQ --USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The Commodity Credit Corporation
+	<field name = "content">The Commodity Credit Corporation
 (CCC) accepted a bid for an export bonus to cover a sale of
 12,500 tonnes of U.S. wheat flour to Iraq, the U.S. Agriculture
 Department said.

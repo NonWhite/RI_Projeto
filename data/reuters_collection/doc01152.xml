@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 12:11:00.65</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0001reute
-b f BC-PANTERA-PANT>-AND-PI   03-03 0029</field>
-	<field name = "TITLE">PANTERA PANT> AND PIZZA PZA> AGREE TO MERGE</field>
+	<field name = "titulo">PANTERA PANT> AND PIZZA PZA> AGREE TO MERGE</field>
 	<field name = "DATELINE">ST. LOUIS, MO., March 3 -</field>
-	<field name = "BODY">Pantera's Corp said it agreed in
+	<field name = "content">Pantera's Corp said it agreed in
 principle to acquire Pizza Inn Inc in a cash and stock
 transaction.
     Under terms of the proposed transaction, each Pizza Inn

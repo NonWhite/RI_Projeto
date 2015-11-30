@@ -4,13 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">honduras</field>
-	<field name = "UNKNOWN">C G
-f0907
-reute
-u f BC-CCC-CREDITS-FOR-HONDU   02-26 0097</field>
-	<field name = "TITLE">CCC CREDITS FOR HONDURAS SWITCHED TO WHITE CORN</field>
+	<field name = "titulo">CCC CREDITS FOR HONDURAS SWITCHED TO WHITE CORN</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">The Commodity Credit Corporation (CCC)
+	<field name = "content">The Commodity Credit Corporation (CCC)
 announced 1.5 mln dlrs in credit guarantees previously
 earmarked to cover sales of dry edible beans to Honduras have
 been switched to cover sales of white corn, the U.S.

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 17:55:41.85</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0016reute
-b f BC-TAFT   03-09 0108</field>
-	<field name = "TITLE">LINDNER SAYS HE DISCUSSED CONTROL OF TAFT TFB></field>
+	<field name = "titulo">LINDNER SAYS HE DISCUSSED CONTROL OF TAFT TFB></field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">Financier Carl Lindner, who holds a
+	<field name = "content">Financier Carl Lindner, who holds a
 16.2 pct stake in Taft Broadcasting Co, told the Securities and
 Exchange Commission he has discussed with the company the
 possibility of seeking control of it.

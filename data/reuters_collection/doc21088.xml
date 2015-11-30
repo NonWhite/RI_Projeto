@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 14:34:05.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2578reute
-r f BC-COASTAL-CGP>-TO-BUY   10-19 0092</field>
-	<field name = "TITLE">COASTAL CGP> TO BUY BACK UP TO ONE MLN SHARES</field>
+	<field name = "titulo">COASTAL CGP> TO BUY BACK UP TO ONE MLN SHARES</field>
 	<field name = "DATELINE">HOUSTON, Oct 19 -</field>
-	<field name = "BODY">Coastal Corp said it authorized the
+	<field name = "content">Coastal Corp said it authorized the
 purchase of up to one mln shares of the company's common stock.
     Coastal said the purchases were authorized because it
 believes the current market price of the stock is substantially

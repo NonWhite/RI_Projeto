@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 16:32:07.28</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">C G L M T
-f0814reute
-r f BC-coffee-prices-drop-no   03-05 0088</field>
-	<field name = "TITLE">COFFEE FALL NOT SEEN AFFECTING COLOMBIA'S DEBT</field>
+	<field name = "titulo">COFFEE FALL NOT SEEN AFFECTING COLOMBIA'S DEBT</field>
 	<field name = "DATELINE">BOGOTA, March 5 -</field>
-	<field name = "BODY">The sharp fall in international coffee
+	<field name = "content">The sharp fall in international coffee
 prices will not affect Colombia's external credit situation,
 finance minister Cesar Gaviria told reuters.
     He said the current depression on world coffee markets was

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:45:42.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0620reute
-r f BC-DUFF/PHELPS-DOWNGRADE   03-06 0103</field>
-	<field name = "TITLE">DUFF/PHELPS DOWNGRADES USX CORP X> DEBT</field>
+	<field name = "titulo">DUFF/PHELPS DOWNGRADES USX CORP X> DEBT</field>
 	<field name = "DATELINE">CHICAGO, March 6 -</field>
-	<field name = "BODY">Duff and Phelps said it has downgraded
+	<field name = "content">Duff and Phelps said it has downgraded
 fixed income securities of USX Corp and its subsidiaries and at
 the same time took the issues off its watch list.
     The change affects about 6.6 billion dlrs in debt

@@ -2,13 +2,10 @@
 	<field name = "DATE">9-MAR-1987 17:22:25.14</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0930reute
-u f BC-CHRYSLER-C>-AMC-BUYO   03-09 0118</field>
-	<field name = "TITLE">CHRYSLER C> AMC BUYOUT VALUED AT 1.55 BILLION</field>
+	<field name = "titulo">CHRYSLER C> AMC BUYOUT VALUED AT 1.55 BILLION</field>
 	<field name = "AUTHOR">By Richard Walker, Reuters</field>
 	<field name = "DATELINE">DETROIT, March 9 -</field>
-	<field name = "BODY">Chrysler Corp's proposed acquisition of
+	<field name = "content">Chrysler Corp's proposed acquisition of
 American Motors Corp is valued at about 1.55 billion dlrs,
 including the cost of acquisition and the 767 mln dlrs in
 American Motor' debt that Chrysler will assume, analysts said.

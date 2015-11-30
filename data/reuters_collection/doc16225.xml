@@ -6,13 +6,10 @@
 	<field name = "PLACES">portugal</field>
 	<field name = "PEOPLE">cavaco-silva</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0801reute
-r f BC-PORTUGUESE-ECONOMY-RE   04-13 0111</field>
-	<field name = "TITLE">PORTUGUESE ECONOMY REMAINS BUOYANT DESPITE CRISIS</field>
+	<field name = "titulo">PORTUGUESE ECONOMY REMAINS BUOYANT DESPITE CRISIS</field>
 	<field name = "AUTHOR">By Pascal Fletcher, Reuters</field>
 	<field name = "DATELINE">LISBON, April 13 -</field>
-	<field name = "BODY">Portugal's economy, which has been
+	<field name = "content">Portugal's economy, which has been
 enjoying one of its most buoyant periods in more than a decade,
 may now be strong enough to shrug off the country's latest
 government crisis, analysts said.

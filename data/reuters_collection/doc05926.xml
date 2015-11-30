@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 09:46:34.50</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f4955reute
-b f BC-EIB-ISSUES-400-MLN-MA   03-17 0058</field>
-	<field name = "TITLE">EIB ISSUES 400 MLN MARK EUROBOND</field>
+	<field name = "titulo">EIB ISSUES 400 MLN MARK EUROBOND</field>
 	<field name = "DATELINE">FRANKFURT, March 17 -</field>
-	<field name = "BODY">The European Investment Bank, EIB, is
+	<field name = "content">The European Investment Bank, EIB, is
 raising 400 mln marks through a 10-year eurobond carrying a
 coupon of 6-1/8 pct and priced at 100-1/4, market sources said.
     Deutsche Bank AG will be lead managing the issue, the

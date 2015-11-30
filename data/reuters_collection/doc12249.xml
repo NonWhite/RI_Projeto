@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 15:20:40.23</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2244reute
-u f BC-CRIME-CONTROL>-ASSET   04-01 0097</field>
-	<field name = "TITLE">CRIME CONTROL> ASSETS TO BE SOLD TO HAWLEY</field>
+	<field name = "titulo">CRIME CONTROL> ASSETS TO BE SOLD TO HAWLEY</field>
 	<field name = "DATELINE">INDIANAPOLIS, April 1 -</field>
-	<field name = "BODY">Crime Control Inc said it reached a
+	<field name = "content">Crime Control Inc said it reached a
 definitive agreement under which a subsidiary of Hawley Group
 Ltd will buy assets and assume certain liabilities of Crime
 Control for 51.3 mln dlrs.

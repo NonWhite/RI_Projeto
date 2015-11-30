@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 12:43:09.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1706reute
-w f BC-DIAMOND-STAR-MOTORS-N   04-01 0080</field>
-	<field name = "TITLE">DIAMOND-STAR MOTORS NAMES ADDITIONAL SUPPLIERS</field>
+	<field name = "titulo">DIAMOND-STAR MOTORS NAMES ADDITIONAL SUPPLIERS</field>
 	<field name = "DATELINE">BLOOMINGTON, ILL., April 1 -</field>
-	<field name = "BODY">Diamond-Star Motors Corp, the
+	<field name = "content">Diamond-Star Motors Corp, the
 joint-venture company owned by Chrysler Corp C> and Mitsubishi
 Motors, named additional production suppliers for the new
 vehicle to be produced at the company's plant under

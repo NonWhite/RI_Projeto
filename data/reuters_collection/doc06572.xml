@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 11:45:41.52</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8392reute
-d f BC-CREDO-PETROLEUM-CORP   03-18 0046</field>
-	<field name = "TITLE">CREDO PETROLEUM CORP CRED> 1ST QTR JAN 31 NET</field>
+	<field name = "titulo">CREDO PETROLEUM CORP CRED> 1ST QTR JAN 31 NET</field>
 	<field name = "DATELINE">DENVER, March 18 -</field>
-	<field name = "BODY">Shr profit one ct vs loss 27 cts
+	<field name = "content">Shr profit one ct vs loss 27 cts
     Net profit 22,000 vs loss 763,000
     Revs 161,000 vs 316,000
     NOTE: Prior year net includes 1,209,000 dlr writedown of

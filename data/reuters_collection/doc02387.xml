@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 15:22:40.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0571reute
-h f BC-BILL-PROPOSED-ON-INTE   03-05 0122</field>
-	<field name = "TITLE">BILL PROPOSED ON INTERNATIONAL DEBT FACILITY</field>
+	<field name = "titulo">BILL PROPOSED ON INTERNATIONAL DEBT FACILITY</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Rep. John LaFalce, D-N.Y., has
+	<field name = "content">Rep. John LaFalce, D-N.Y., has
 introduced a bill to create an international debt adjustment
 facility to deal with third world debt.
     He said in a statement the facility would purchase debt of

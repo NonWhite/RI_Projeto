@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 11:53:35.08</field>
 	<field name = "TOPICS">interest</field>
-	<field name = "UNKNOWN">V RM
-f1610reute
-b f BC-/-FED-SETS-TWO-BILLIO   03-26 0057</field>
-	<field name = "TITLE">FED SETS TWO BILLION DLR CUSTOMER REPURCHASE</field>
+	<field name = "titulo">FED SETS TWO BILLION DLR CUSTOMER REPURCHASE</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">The Federal Reserve entered the U.S.
+	<field name = "content">The Federal Reserve entered the U.S.
 government securities market to arrange two billion dlrs of
 customer repurchase agreements, a spokeswoman for the New York
 Fed said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2655reute
-u f BC-/USDA-ADJUSTS-LOUISIA   04-24 0107</field>
-	<field name = "TITLE">USDA ADJUSTS LOUISIANA GULF PRICE DIFFERENTIALS</field>
+	<field name = "titulo">USDA ADJUSTS LOUISIANA GULF PRICE DIFFERENTIALS</field>
 	<field name = "DATELINE">WASHINGTON, April 24 -</field>
-	<field name = "BODY">The U.S. Agriculture Department has
+	<field name = "content">The U.S. Agriculture Department has
 narrowed by three cents the price differential between the
 Louisiana Gulf price of corn and posted country prices pegged
 to the gulf price, USDA officials said.

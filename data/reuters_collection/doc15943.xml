@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 16:11:04.21</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2482reute
-u f BC-WESTINGHOUSE-ELECTRIC   04-09 0041</field>
-	<field name = "TITLE">WESTINGHOUSE ELECTRIC CORP WX> 1ST QTR NET</field>
+	<field name = "titulo">WESTINGHOUSE ELECTRIC CORP WX> 1ST QTR NET</field>
 	<field name = "DATELINE">PITTSBURGH, April 9 -</field>
-	<field name = "BODY">Shr primary 1.05 dlrs vs 88 cts
+	<field name = "content">Shr primary 1.05 dlrs vs 88 cts
     Shr dilulted 1.05 dlrs vs 86 cts
     Net 151.6 mln vs 135.2 mln
     Revs 2.32 billion vs 2.55 billion

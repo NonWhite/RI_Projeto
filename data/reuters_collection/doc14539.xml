@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 15:51:00.16</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2297reute
-h f BC-TELETRAK-ADVANCED-TEC   04-07 0090</field>
-	<field name = "TITLE">TELETRAK ADVANCED TECHNOLOGY 4TH QTR LOSS</field>
+	<field name = "titulo">TELETRAK ADVANCED TECHNOLOGY 4TH QTR LOSS</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Shr loss two cts vs loss two cts
+	<field name = "content">Shr loss two cts vs loss two cts
     Net loss 183,597 vs loss 136,990
     Rev 36,600 vs 61,763
     Avg shares 12,355,000 vs 9,205,000

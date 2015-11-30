@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">A
-f0733reute
-r f BC-TREASURY'S-BAKER-DECL   03-26 0100</field>
-	<field name = "TITLE">TREASURY'S BAKER DECLINES COMMENT ON VOLCKER</field>
+	<field name = "titulo">TREASURY'S BAKER DECLINES COMMENT ON VOLCKER</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">Treasury Secretary James Baker
+	<field name = "content">Treasury Secretary James Baker
 declined to comment on whether President Reagan would reappoint
 Paul Volcker to a third term as chairman of the Federal Reserve
 Board.

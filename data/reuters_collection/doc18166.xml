@@ -2,13 +2,10 @@
 	<field name = "DATE">2-JUN-1987 13:49:43.83</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">greenspan</field>
-	<field name = "UNKNOWN">V RM
-f2083reute
-b f BC-/GREENSPAN-SEEN-AS-ST   06-02 0078</field>
-	<field name = "TITLE">GREENSPAN SEEN AS STRONG INFLATION FIGHTER</field>
+	<field name = "titulo">GREENSPAN SEEN AS STRONG INFLATION FIGHTER</field>
 	<field name = "AUTHOR">By Donna Smith, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">Alan Greenspan, who has been nominated
+	<field name = "content">Alan Greenspan, who has been nominated
 to replace Paul Volcker as Chairman of the Federal Reserve
 Board, is regarded by financial analysts as a conservative
 economist who will take a strong stand against inflation.

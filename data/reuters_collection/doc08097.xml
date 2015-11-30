@@ -2,13 +2,10 @@
 	<field name = "DATE">22-MAR-1987 19:22:20.02</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM C G L M T
-f0098reute
-u f BC-U.S.-CREDIT-MARKET-OU   03-22 0100</field>
-	<field name = "TITLE">U.S. CREDIT MARKET OUTLOOK - MINI-REFUNDING</field>
+	<field name = "titulo">U.S. CREDIT MARKET OUTLOOK - MINI-REFUNDING</field>
 	<field name = "AUTHOR">By Claire Miller, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">A hefty slice of new U.S. Treasury
+	<field name = "content">A hefty slice of new U.S. Treasury
 supply is not the most welcome prospect for a slumbering credit
 market, but at least this week's offerings should provide it
 with some focus, economists said.

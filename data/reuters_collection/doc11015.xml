@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 14:38:10.07</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">F
-f2254reute
-u f BC-MEXICO-FUND-MFX>-TO   03-30 0086</field>
-	<field name = "TITLE">MEXICO FUND MFX> TO BUY BACK TWO MLN SHARES</field>
+	<field name = "titulo">MEXICO FUND MFX> TO BUY BACK TWO MLN SHARES</field>
 	<field name = "DATELINE">MEXICO CITY, March 30 -</field>
-	<field name = "BODY">The Mexico Fund Inc said its board
+	<field name = "content">The Mexico Fund Inc said its board
 authorized an offer to purchase two mln shares, or about 10.2
 pct, of its common stock at 6.75 dlrs a share cash.
     The fund, at a special board meeting, said the offer is not

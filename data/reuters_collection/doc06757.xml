@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 15:29:07.89</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C
-f9244reute
-u f BC-BRAZIL'S-GDP-GREW-8.2   03-18 0115</field>
-	<field name = "TITLE">BRAZIL'S GDP GREW 8.2 PCT LAST YEAR</field>
+	<field name = "titulo">BRAZIL'S GDP GREW 8.2 PCT LAST YEAR</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 18 -</field>
-	<field name = "BODY">Brazil's Gross Domestic Product,
+	<field name = "content">Brazil's Gross Domestic Product,
 GDP, rose by 8.2 pct in real terms last year following an 8.3
 pct increase in 1985, the Geography and Statistics Institute
 said.

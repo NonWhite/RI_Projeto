@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0248reute
-b f BC-U.K.-MONEY-MARKET-OFF   03-20 0100</field>
-	<field name = "TITLE">U.K. MONEY MARKET OFFERED EARLY ASSISTANCE</field>
+	<field name = "titulo">U.K. MONEY MARKET OFFERED EARLY ASSISTANCE</field>
 	<field name = "DATELINE">LONDON, March 20 -</field>
-	<field name = "BODY">The Bank of England said it had invited
+	<field name = "content">The Bank of England said it had invited
 an early round of bill offers from the discount houses after
 forecasting a shortage of around 950 mln stg in the money
 market today.

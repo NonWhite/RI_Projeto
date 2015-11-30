@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 12:03:31.01</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0808reute
-d f BC-ERICSSON'S-U.S.-UNIT   03-05 0078</field>
-	<field name = "TITLE">ERICSSON'S U.S. UNIT WINS 1.4 MLN DLR CONTRACT</field>
+	<field name = "titulo">ERICSSON'S U.S. UNIT WINS 1.4 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">RICHARDSON, Texas, March 5 -</field>
-	<field name = "BODY">Ericsson Corp, the U.S. unit
+	<field name = "content">Ericsson Corp, the U.S. unit
 of LM Ericsson Telephone Co> of Sweden, said it won a 1.4 mln
 dlr contract from California's Somona State University for
 computer communications equipment.

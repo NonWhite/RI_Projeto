@@ -3,12 +3,9 @@
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">philippines</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">M C
-f0154reute
-u f BC-PHILIPPINE-COPPER-SME   03-20 0098</field>
-	<field name = "TITLE">PHILIPPINE COPPER SMELTER FACES SHIPMENT DELAYS</field>
+	<field name = "titulo">PHILIPPINE COPPER SMELTER FACES SHIPMENT DELAYS</field>
 	<field name = "DATELINE">MANILA, March 20 -</field>
-	<field name = "BODY">Copper shipments are likely to be
+	<field name = "content">Copper shipments are likely to be
 delayed because of power problems at Philippine Associated
 Smelting and Refining Corp> (PASAR), the country's only
 smelter, a company official said.

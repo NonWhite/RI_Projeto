@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E Y
-f1773reute
-u f BC-CANADA-OIL-EXPORTS-RI   03-26 0077</field>
-	<field name = "TITLE">CANADA OIL EXPORTS RISE 20 PCT IN 1986</field>
+	<field name = "titulo">CANADA OIL EXPORTS RISE 20 PCT IN 1986</field>
 	<field name = "DATELINE">OTTAWA, March 26 -</field>
-	<field name = "BODY">Canadian oil exports rose 20 pct in 1986
+	<field name = "content">Canadian oil exports rose 20 pct in 1986
 over the previous year to 33.96 mln cubic meters, while oil
 imports soared 25.2 pct to 20.58 mln cubic meters, Statistics
 Canada said.

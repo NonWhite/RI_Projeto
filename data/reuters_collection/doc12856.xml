@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 09:32:14.16</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0866reute
-u f BC-NORANDA-SAYS-MINE-FIR   04-03 0103</field>
-	<field name = "TITLE">NORANDA SAYS FIRE CAUSED 10 MLN DLRS IN DAMAGE</field>
+	<field name = "titulo">NORANDA SAYS FIRE CAUSED 10 MLN DLRS IN DAMAGE</field>
 	<field name = "DATELINE">Murdochville, Quebec, April 3 -</field>
-	<field name = "BODY">Noranda Inc> said a copper
+	<field name = "content">Noranda Inc> said a copper
 mine fire that killed one miner and trapped 44 others for
 nearly a day caused an estimated 10 mln Canadian dlrs in
 damage.

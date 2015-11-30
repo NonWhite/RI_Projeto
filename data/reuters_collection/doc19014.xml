@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 20:15:24.21</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PEOPLE">wilson</field>
-	<field name = "UNKNOWN">V E RM 
-f5041reute
-u f BC-CANADA-FINANCIAL-TAX   06-18 0074</field>
-	<field name = "TITLE">CANADA FINANCIAL TAX RATE INCREASED</field>
+	<field name = "titulo">CANADA FINANCIAL TAX RATE INCREASED</field>
 	<field name = "DATELINE">OTTAWA, June 18 -</field>
-	<field name = "BODY">The average tax rate for Canadian
+	<field name = "content">The average tax rate for Canadian
 financial insitutions will increase to 21.3 pct from 14.5 pct
 under the new tax reform package, the federal finance
 department said.

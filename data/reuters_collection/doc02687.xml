@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 11:52:43.19</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">RM
-f0639reute
-b f BC-ECUADOR-SAYS-SUSPENDS   03-06 0086</field>
-	<field name = "TITLE">ECUADOR SAYS SUSPENDS OIL EXPORTS DUE EARTHQUAKE</field>
+	<field name = "titulo">ECUADOR SAYS SUSPENDS OIL EXPORTS DUE EARTHQUAKE</field>
 	<field name = "DATELINE">QUITO, March 6 -</field>
-	<field name = "BODY">Ecuador today suspended its crude oil
+	<field name = "content">Ecuador today suspended its crude oil
 exports indefinitely due to an earthquake last night that
 damaged pumping and crude transport installations, an Energy
 and Mines MInistry statement said.

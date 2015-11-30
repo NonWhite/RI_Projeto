@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 07:16:37.17</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">A
-f0476reute
-h f BC-NAKASONE-REFUSES-TO-D   03-13 0107</field>
-	<field name = "TITLE">NAKASONE REFUSES TO DROP SALES TAX</field>
+	<field name = "titulo">NAKASONE REFUSES TO DROP SALES TAX</field>
 	<field name = "DATELINE">TOKYO, March 13 -</field>
-	<field name = "BODY">Japan's Prime Minister Yasuhiro Nakasone
+	<field name = "content">Japan's Prime Minister Yasuhiro Nakasone
 has refused to drop a proposed sales tax as debate on a draft
 budget for 1987 resumed after a nine-day opposition boycott.
     "I have no plan to withdraw the sales tax as I think it is

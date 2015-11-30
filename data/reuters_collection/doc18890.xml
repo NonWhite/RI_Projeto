@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:09:38.23</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f4182reute
-r f BC-gulfcan   06-18 0112</field>
-	<field name = "TITLE">GULF CANADA GOC> IN DEAL WITH BONDHOLDERS</field>
+	<field name = "titulo">GULF CANADA GOC> IN DEAL WITH BONDHOLDERS</field>
 	<field name = "DATELINE">TORONTO, June 18 -</field>
-	<field name = "BODY">A compromise reached between Gulf Canada
+	<field name = "content">A compromise reached between Gulf Canada
 Corp and debenture holders at the annual meeting today will
 cost the company or its major shareholder "a couple of million"
 dollars, chairman Marshall Cohen said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 18:15:12.44</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM
-f2862reute
-u f BC-LEADING-BRAZILIAN-POL   03-31 0109</field>
-	<field name = "TITLE">LEADING BRAZILIAN PARTY SUPPORTS MORATORIUM</field>
+	<field name = "titulo">LEADING BRAZILIAN PARTY SUPPORTS MORATORIUM</field>
 	<field name = "DATELINE">BRASILIA, MARCH 31 -</field>
-	<field name = "BODY">Brazil's leading political party has
+	<field name = "content">Brazil's leading political party has
 expressed full support to President Jose Sarney's decision
 suspending interest payment of 68 billion dollars owed to
 private foreign banks.

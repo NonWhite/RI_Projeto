@@ -1,14 +1,12 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:16:49.94A</field>
-	<field name = "UNKNOWN">f0502reute</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">r f BC-NAKASONE-TO-VISIT-WAS   03-27 0088</field>
-	<field name = "TITLE">NAKASONE TO VISIT WASHINGTON IN LATE APRIL</field>
+	<field name = "titulo">NAKASONE TO VISIT WASHINGTON IN LATE APRIL</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Prime Minister Yasuhiro Nakasone will
+	<field name = "content">Prime Minister Yasuhiro Nakasone will
 make an official week-long visit to the United States from
 April 29 and hold talks in Washington with President Reagan,
 Chief Cabinet Secretary Masaharu Gotoda told reporters.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 05:48:54.18</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0444reute
-u f BC-GERMAN-FEBRUARY-WHOLE   03-30 0105</field>
-	<field name = "TITLE">GERMAN FEBRUARY WHOLESALE TURNOVER RISES ONE PCT</field>
+	<field name = "titulo">GERMAN FEBRUARY WHOLESALE TURNOVER RISES ONE PCT</field>
 	<field name = "DATELINE">WIESBADEN, March 30 -</field>
-	<field name = "BODY">West German wholesale turnover
+	<field name = "content">West German wholesale turnover
 provisionally totalled about 58 billion marks in February, a
 rise of a real one pct compared with the same month last year,
 the Federal Statistics Office said.

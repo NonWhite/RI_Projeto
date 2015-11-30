@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 14:47:08.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2647reute
-d f BC-COUNTRYWIDE-CCR>-SEE   10-19 0106</field>
-	<field name = "TITLE">COUNTRYWIDE CCR> SEES 3RD QTR NET OF 20 CTS</field>
+	<field name = "titulo">COUNTRYWIDE CCR> SEES 3RD QTR NET OF 20 CTS</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Countrywide Credit Industries Inc said
+	<field name = "content">Countrywide Credit Industries Inc said
 it expects fiscal third quarter earnings of 20 or 21 cents per
 fully diluted share, based on 18 mln shares outstanding.
     The company posted net income of 31 cents per fully diluted

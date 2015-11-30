@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 13:45:59.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4127reute
-r f BC-MESA-OFFSHORE-TRUST-   06-18 0024</field>
-	<field name = "TITLE">MESA OFFSHORE TRUST MOS> PAYOUT FALLS SHARPLY</field>
+	<field name = "titulo">MESA OFFSHORE TRUST MOS> PAYOUT FALLS SHARPLY</field>
 	<field name = "DATELINE">HOUSTON, June 18 -</field>
-	<field name = "BODY">Mthly div 1.2827 cts vs 3.3974 cts prior
+	<field name = "content">Mthly div 1.2827 cts vs 3.3974 cts prior
     Pay July 31
     Record June 30
  Reuter</field>

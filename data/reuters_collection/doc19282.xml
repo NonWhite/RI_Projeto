@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 13:14:39.27</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1739reute
-u f BC-STIFEL-FINANCIAL-SF>   06-19 0063</field>
-	<field name = "TITLE">STIFEL FINANCIAL SF> RECEIVES MERGER PROPOSAL</field>
+	<field name = "titulo">STIFEL FINANCIAL SF> RECEIVES MERGER PROPOSAL</field>
 	<field name = "DATELINE">ST LOUIS, Mo., June 19 -</field>
-	<field name = "BODY">Stifel Financial Corp said it
+	<field name = "content">Stifel Financial Corp said it
 received an unsolicited merger proposal from privately held
 Laidlaw Adams and Peck Inc for 15 dlrs a share in cash for all
 its outstanding shares.

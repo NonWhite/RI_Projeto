@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0989reute
-b f BC-UK-MONEY-MARKET-GIVEN   03-13 0088</field>
-	<field name = "TITLE">UK MONEY MARKET GIVEN LATE HELP OF 185 MLN STG</field>
+	<field name = "titulo">UK MONEY MARKET GIVEN LATE HELP OF 185 MLN STG</field>
 	<field name = "DATELINE">LONDON, March 13 -</field>
-	<field name = "BODY">The Bank of England said it gave the
+	<field name = "content">The Bank of England said it gave the
 money market late, unspecified assistance of around 185 mln
 stg.
     This takes the total liquidity injected into the system by

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 15:29:46.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2457reute
-d f BC-NORTH-AMERICAN-VENTUR   06-02 0088</field>
-	<field name = "TITLE">NORTH AMERICAN VENTURES NAVI.O> SELLS COMMON</field>
+	<field name = "titulo">NORTH AMERICAN VENTURES NAVI.O> SELLS COMMON</field>
 	<field name = "DATELINE">EAST HARTFORT, Conn., June 2 -</field>
-	<field name = "BODY">North American Ventures Inc
+	<field name = "content">North American Ventures Inc
 said it has sold about nine mln dlrs of the company's
 restricted common shares to the newly created Butler
 International Inc> Employee Stock Option Plan.

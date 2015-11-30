@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 19:26:04.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM C
-f0105reute
-u f BC-fin-futures-outlook   03-04 0100</field>
-	<field name = "TITLE">CHARTS SIGNAL BULLISH BREAKOUT IN DEBT FUTURES</field>
+	<field name = "titulo">CHARTS SIGNAL BULLISH BREAKOUT IN DEBT FUTURES</field>
 	<field name = "AUTHOR">By Brad Schade, Reuters</field>
 	<field name = "DATELINE">CHICAGO, March 4 -</field>
-	<field name = "BODY">The rally Wednesday in U.S. interest
+	<field name = "content">The rally Wednesday in U.S. interest
 rate futures left the Treasury bond contract above the top of a
 three month trading range which signals a bullish chart
 breakout, financial analysts said.

@@ -7,13 +7,10 @@
 	<field name = "PEOPLE">poehl</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">RM F A 
-f3455reute
-u f BC-BAKER/STOLTENBERG-MEE   10-19 0096</field>
-	<field name = "TITLE">BAKER/STOLTENBERG MEETING SOOTHES MARKETS</field>
+	<field name = "titulo">BAKER/STOLTENBERG MEETING SOOTHES MARKETS</field>
 	<field name = "AUTHOR">By Jonathan Lynn and Anthony Williams</field>
 	<field name = "DATELINE">FRANKFURT, Oct 19 -</field>
-	<field name = "BODY">News of a meeting between U.S. Treasury
+	<field name = "content">News of a meeting between U.S. Treasury
 Secretary James Baker and West German Finance Minister Gerhard
 Stoltenberg on Monday soothed currency markets, allowing the
 dollar to recoup much of the day's losses, dealers said.

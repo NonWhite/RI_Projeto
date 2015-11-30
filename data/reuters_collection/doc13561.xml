@@ -1,9 +1,6 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:38:03.87</field>
-	<field name = "UNKNOWN">C T
-f0473reute
-u f BC-LONDON-COFFEE-GRADING   04-07 0015</field>
-	<field name = "TITLE">LONDON COFFEE GRADINGS/TENDERS - APR 7</field>
+	<field name = "titulo">LONDON COFFEE GRADINGS/TENDERS - APR 7</field>
 	<field name = "DATELINE">GRADINGS -</field>
-	<field name = "BODY">None posted, Total todate 20 originals.</field>
+	<field name = "content">None posted, Total todate 20 originals.</field>
 </doc></add>

@@ -5,12 +5,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">thatcher</field>
 	<field name = "PEOPLE">ryzhkov</field>
-	<field name = "UNKNOWN">RM
-f0465reute
-u f BC-THATCHER-SAYS-TRADE-T   03-31 0099</field>
-	<field name = "TITLE">THATCHER SAYS TRADE TARGETS SET WITH MOSCOW</field>
+	<field name = "titulo">THATCHER SAYS TRADE TARGETS SET WITH MOSCOW</field>
 	<field name = "DATELINE">MOSCOW, March 31 -</field>
-	<field name = "BODY">British Prime Minister Margaret Thatcher
+	<field name = "content">British Prime Minister Margaret Thatcher
 said she and Soviet Premier Nikolai Ryzhkov had set targets for
 increased trade between the two countries during talks earlier
 today.

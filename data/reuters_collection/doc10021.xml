@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:38:22.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1840reute
-r f BC-CIRCLE-K-CKP>-OFFICI   03-26 0071</field>
-	<field name = "TITLE">CIRCLE K CKP> OFFICIAL INCREASES HOLDINGS</field>
+	<field name = "titulo">CIRCLE K CKP> OFFICIAL INCREASES HOLDINGS</field>
 	<field name = "DATELINE">PHOENIX, Ariz., March 26 -</field>
-	<field name = "BODY">Circle K Corp said its chairman,
+	<field name = "content">Circle K Corp said its chairman,
 Karl Eller, will buy 750,000 shares of Circle K common stock
 from the company's founder and Vice Chairman, Fred Hervey, in a
 private transaction.

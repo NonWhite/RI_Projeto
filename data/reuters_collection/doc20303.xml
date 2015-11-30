@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 11:09:26.43</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1517reute
-u f BC-BANKERS-TRUST-BT>-3R   10-20 0076</field>
-	<field name = "TITLE">BANKERS TRUST BT> 3RD QTR NET</field>
+	<field name = "titulo">BANKERS TRUST BT> 3RD QTR NET</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Shr 2.03 dlrs vs 1.53 dlrs
+	<field name = "content">Shr 2.03 dlrs vs 1.53 dlrs
     Net 146.4 mln vs 110.3 mln
     Nine months
     shr loss 3.99 dlrs vs profit 4.62 dlrs

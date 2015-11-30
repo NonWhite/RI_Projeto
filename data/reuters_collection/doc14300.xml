@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:20:30.83</field>
-	<field name = "UNKNOWN">G
-f1541reute
-u f BC-cbt-wheat-report   04-07 0131</field>
-	<field name = "TITLE">CBT WHEAT FUTURES EASE TO MIXED BY MIDSESSION</field>
+	<field name = "titulo">CBT WHEAT FUTURES EASE TO MIXED BY MIDSESSION</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">CBT wheat futures closed from early
+	<field name = "content">CBT wheat futures closed from early
 contract highs in new crop to trade quietly mixed at
 midsession, ranging from up 3/4 cent per bushel in May to down
 3/4 in new crop July.

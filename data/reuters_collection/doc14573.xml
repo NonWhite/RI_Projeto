@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:08:36.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2336reute
-d f BC-GENERAL-PHYSICS-GPHY   04-07 0069</field>
-	<field name = "TITLE">GENERAL PHYSICS GPHY> TO PURCHASE SHARES</field>
+	<field name = "titulo">GENERAL PHYSICS GPHY> TO PURCHASE SHARES</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">General Physics Corp said it will
+	<field name = "content">General Physics Corp said it will
 purchase up to 100,000 shares of its common stock from time to
 time in open market transactions.
     The purchase would represent approximately 16 pct of the

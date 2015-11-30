@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 15:10:06.18</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2165reute
-r f BC-BELLSOUTH-BLS>-COMPL   03-23 0068</field>
-	<field name = "TITLE">BELLSOUTH BLS> COMPLETES PURCHASE FOR SHARES</field>
+	<field name = "titulo">BELLSOUTH BLS> COMPLETES PURCHASE FOR SHARES</field>
 	<field name = "DATELINE">ATLANTA, March 23 -</field>
-	<field name = "BODY">BellSouth Corp said it completed its
+	<field name = "content">BellSouth Corp said it completed its
 previously-announced agreement to acquire Dataserv Inc> for an
 exchange of shares.
     BellSouth said under the Nov 25, 1986, agreement, it

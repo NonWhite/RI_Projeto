@@ -3,13 +3,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">RM AI 
-f3504reute
-b f BC-TOKYO-BROKERS-SEE-SHA   10-19 0098</field>
-	<field name = "TITLE">TOKYO BROKERS SEE SHARP EARLY STOCK PRICE FALL</field>
+	<field name = "titulo">TOKYO BROKERS SEE SHARP EARLY STOCK PRICE FALL</field>
 	<field name = "AUTHOR">By James Kynge</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">Stock market analysts polled before Tokyo's
+	<field name = "content">Stock market analysts polled before Tokyo's
 market opened on Tuesday said Wall Street's dramatic fall on
 Monday was overdone and although Tokyo would fall drastically
 at the opening it might stabilise later.

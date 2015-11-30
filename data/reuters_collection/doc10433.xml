@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:21:08.71F</field>
-	<field name = "UNKNOWN">f1000reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-RESTAURANT-ASSOCIATES   03-27 0126</field>
-	<field name = "TITLE">RESTAURANT ASSOCIATES RA.A> SETS 1ST QTR GAIN</field>
+	<field name = "titulo">RESTAURANT ASSOCIATES RA.A> SETS 1ST QTR GAIN</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">Restaurant Associates Industries Inc
+	<field name = "content">Restaurant Associates Industries Inc
 said it expects to record a pretax gain of 3.3 mln dlrs in the
 first quarter from the sale and lease of real estate.
     The company said it received a 2.5 mln dlrs partial payment

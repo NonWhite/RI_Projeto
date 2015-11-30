@@ -6,12 +6,9 @@
 	<field name = "PLACES">netherlands</field>
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">F
-f1409reute
-r f BC-EC-SAYS-U.S.-BROKE-TR   03-20 0099</field>
-	<field name = "TITLE">EC SAYS U.S. BROKE TRADE RULES IN AKZO-DUPONT ROW</field>
+	<field name = "titulo">EC SAYS U.S. BROKE TRADE RULES IN AKZO-DUPONT ROW</field>
 	<field name = "DATELINE">BRUSSELS, March 20 -</field>
-	<field name = "BODY">The European Community Commission has
+	<field name = "content">The European Community Commission has
 charged the United States with breaking international trade
 rules by excluding Dutch-made fibres from the U.S. Market and
 said it would take the issue to the world trade body GATT.

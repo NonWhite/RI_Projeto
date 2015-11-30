@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E
-f2604reute
-h f AM-TRADE   03-20 0138</field>
-	<field name = "TITLE">CANADA'S CLARK SEES TRADE AS MOST URGENT PROBLEM</field>
+	<field name = "titulo">CANADA'S CLARK SEES TRADE AS MOST URGENT PROBLEM</field>
 	<field name = "AUTHOR">By Dean Lokken, Reuters</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 20 -</field>
-	<field name = "BODY">Trade is the most urgent problem
+	<field name = "content">Trade is the most urgent problem
 facing U.S.-Canadian relations because of a pressing need to
 reach a new bilateral pact within the coming months, Joe Clark,
 Canadian secretary of state for external affairs, said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 16:22:03.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0751reute
-h f BC-SAVIN-SVB>-NOTE-CONV   03-04 0076</field>
-	<field name = "TITLE">SAVIN SVB> NOTE CONVERSION ENDS</field>
+	<field name = "titulo">SAVIN SVB> NOTE CONVERSION ENDS</field>
 	<field name = "DATELINE">STAMFORD, Conn., March 4 -</field>
-	<field name = "BODY">Savin Corp said the first period
+	<field name = "content">Savin Corp said the first period
 for the exercise of the special conversion right for its zero
 coupon convertible senior notes due February one, 1996, has
 expired.

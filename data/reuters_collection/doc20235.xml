@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 10:26:58.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1259reute
-d f BC-SOUTHWEST-AIRLINES-L   10-20 0059</field>
-	<field name = "TITLE">SOUTHWEST AIRLINES LUV> TO REPURCHASE SHARES</field>
+	<field name = "titulo">SOUTHWEST AIRLINES LUV> TO REPURCHASE SHARES</field>
 	<field name = "DATELINE">DALLAS, Oct 20 -</field>
-	<field name = "BODY">Southwest Airlines Co said it intends to
+	<field name = "content">Southwest Airlines Co said it intends to
 repurchase up to 500,000 common shares in the open market from
 time to time.
     The company also said it is expanding its air freight

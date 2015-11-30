@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 11:51:16.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1437reute
-r f BC-ELECTRONIC-MAILEMCAC   03-20 0100</field>
-	<field name = "TITLE">ELECTRONIC MAILEMCAC> REFINANCES, PRESIDENT QUITS</field>
+	<field name = "titulo">ELECTRONIC MAILEMCAC> REFINANCES, PRESIDENT QUITS</field>
 	<field name = "DATELINE">OLD GREENWHICH, Conn, March 20 -</field>
-	<field name = "BODY">Electronic Mail Corp of
+	<field name = "content">Electronic Mail Corp of
 America has completed financing arrangements in the amount of
 200,000 dlrs.
     It also announced its president, J.R.Moman, resigned last

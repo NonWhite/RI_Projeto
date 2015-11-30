@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 08:04:55.32</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">C G L M T 
-f0562reute
-u f BC-BELGIAN-ONE-DAY-STRIK   06-19 0106</field>
-	<field name = "TITLE">BELGIAN ONE-DAY STRIKE HITS TRANSPORT, SHIPPING</field>
+	<field name = "titulo">BELGIAN ONE-DAY STRIKE HITS TRANSPORT, SHIPPING</field>
 	<field name = "DATELINE">BRUSSELS, June 19 -</field>
-	<field name = "BODY">A 24-hour strike by Belgian public
+	<field name = "content">A 24-hour strike by Belgian public
 employees protesting against a government pay offer disrupted
 transport and hit ferry services and shipping, port and union
 officials said.

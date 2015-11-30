@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 16:19:13.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V F
-f2275reute
-u f BC-QT8916   04-03 0109</field>
-	<field name = "TITLE">WALL STREET AT RECORD IN BIGGEST ONE DAY GAIN</field>
+	<field name = "titulo">WALL STREET AT RECORD IN BIGGEST ONE DAY GAIN</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">Wall Street scored its biggest one
+	<field name = "content">Wall Street scored its biggest one
 session gain ever, climbing to a record in extremely active
 trading. A strong bond market, triggering arbitrage related buy
 programs and drawing many short sellers in to even up

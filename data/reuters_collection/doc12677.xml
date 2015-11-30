@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 14:24:16.64</field>
 	<field name = "PLACES">spain</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f2100reute
-w f BC-ALCATEL-TO-RESTRUCTUR   04-02 0115</field>
-	<field name = "TITLE">ALCATEL TO RESTRUCTURE SPANISH SUBSIDIARIES</field>
+	<field name = "titulo">ALCATEL TO RESTRUCTURE SPANISH SUBSIDIARIES</field>
 	<field name = "DATELINE">MADRID, April 2 -</field>
-	<field name = "BODY">Alcatel NV>, the telecommunications
+	<field name = "content">Alcatel NV>, the telecommunications
 venture set up by ITT Corp ITT> and France's Cie Generale
 d'Electricite>, has accepted a proposal from the Industry
 Ministry to restructure ITT's former Spanish subsidiary,

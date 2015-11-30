@@ -8,13 +8,10 @@
 	<field name = "EXCHANGES">simex</field>
 	<field name = "EXCHANGES">cbt</field>
 	<field name = "EXCHANGES">liffe</field>
-	<field name = "UNKNOWN">RM
-f0124reute
-u f BC-SINGAPORE-MONETARY-EX   03-13 0102</field>
-	<field name = "TITLE">SINGAPORE MONETARY EXCHANGE FACES NON-ASIAN RIVALS</field>
+	<field name = "titulo">SINGAPORE MONETARY EXCHANGE FACES NON-ASIAN RIVALS</field>
 	<field name = "AUTHOR">By Tay Liam Hwee, Reuters</field>
 	<field name = "DATELINE">SINGAPORE, March 13 -</field>
-	<field name = "BODY">Expanding global links between
+	<field name = "content">Expanding global links between
 futures markets mean that the Singapore International Monetary
 Exchange (SIMEX) must add Chicago and London to its list of
 rivals, banking sources said.

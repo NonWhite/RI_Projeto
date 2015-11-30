@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 18:27:09.26</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0323
-reute
-u f BC-N.Z.-MONEY-SUPPLY-RIS   02-26 0091</field>
-	<field name = "TITLE">N.Z. MONEY SUPPLY RISES 3.6 PCT IN DECEMBER</field>
+	<field name = "titulo">N.Z. MONEY SUPPLY RISES 3.6 PCT IN DECEMBER</field>
 	<field name = "DATELINE">WELLINGTON, Feb 27 -</field>
-	<field name = "BODY">New Zealand's broadly defined,
+	<field name = "content">New Zealand's broadly defined,
 seasonally adjusted M-3 money supply grew an estimated 3.6 pct
 in December after rising a revised 2.4 pct in November and 4.04
 pct in December last year, the Reserve Bank said in a

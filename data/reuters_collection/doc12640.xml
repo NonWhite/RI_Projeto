@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 12:20:58.08</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1697reute
-r f BC-NORANDA-MINE-PRODUCTI   04-02 0110</field>
-	<field name = "TITLE">NORANDA'S MURDOCHVILLE MINE SHUT DOWN BY FIRE</field>
+	<field name = "titulo">NORANDA'S MURDOCHVILLE MINE SHUT DOWN BY FIRE</field>
 	<field name = "DATELINE">Toronto, April 2 -</field>
-	<field name = "BODY">Noranda Inc> said production at its
+	<field name = "content">Noranda Inc> said production at its
 Murdochville, Quebec, copper mine was shut down by the fire
 that trapped 44 miners and killed at least one.
     Noranda spokesman Denis Morin said it was impossible to

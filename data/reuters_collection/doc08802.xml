@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 11:14:19.26</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1329reute
-u f BC-CREDIT-NATIONAL-ISSUE   03-24 0079</field>
-	<field name = "TITLE">CREDIT NATIONAL ISSUES 100 MLN DLR EUROBOND</field>
+	<field name = "titulo">CREDIT NATIONAL ISSUES 100 MLN DLR EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 24 -</field>
-	<field name = "BODY">Credit National is issuing a 100 mln dlr
+	<field name = "content">Credit National is issuing a 100 mln dlr
 eurobond, due April 23, 1992 with a 7-3/8 pct coupon and priced
 at 101-5/8 pct, LTCB International said as lead manager.
     The bonds, guaranteed by the French government, will be

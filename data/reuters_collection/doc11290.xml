@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 09:17:29.06</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">austria</field>
-	<field name = "UNKNOWN">RM
-f0921reute
-r f BC-ECONOMISTS-CUT-AUSTRI   03-31 0112</field>
-	<field name = "TITLE">ECONOMISTS CUT AUSTRIAN GDP GROWTH FORECAST</field>
+	<field name = "titulo">ECONOMISTS CUT AUSTRIAN GDP GROWTH FORECAST</field>
 	<field name = "DATELINE">VIENNA, March 31 -</field>
-	<field name = "BODY">The Institute for Economic Research
+	<field name = "content">The Institute for Economic Research
 (WIFO) said it has cut its forecast for Austria's 1987 gross
 domestic product growth to a real one pct from a two pct
 forecast made last December.

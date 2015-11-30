@@ -4,12 +4,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f0299reute
-u f BC-TAIWAN-BUYS-27,000-TO   03-12 0096</field>
-	<field name = "TITLE">TAIWAN BUYS 27,000 TONNES OF U.S. SOYBEANS</field>
+	<field name = "titulo">TAIWAN BUYS 27,000 TONNES OF U.S. SOYBEANS</field>
 	<field name = "DATELINE">TAIPEI, March 12 -</field>
-	<field name = "BODY">The joint committee of Taiwan's soybean
+	<field name = "content">The joint committee of Taiwan's soybean
 importers awarded a contract to Richco Grain Ltd of New York to
 supply a 27,000-tonne cargo of U.S. Soybeans, a committee
 spokesman told Reuters.

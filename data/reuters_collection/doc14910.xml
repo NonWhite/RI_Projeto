@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 07:13:30.28</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f0532reute
-b f BC-JARDINE-MATHESON-REPL   04-08 0066</field>
-	<field name = "TITLE">JARDINE MATHESON REPLACES "B" SHARE BY BONUS ISSUE</field>
+	<field name = "titulo">JARDINE MATHESON REPLACES "B" SHARE BY BONUS ISSUE</field>
 	<field name = "DATELINE">HONG KONG, April 8 -</field>
-	<field name = "BODY">Jardine Matheson Holdings Ltd
+	<field name = "content">Jardine Matheson Holdings Ltd
 JARD.HK> said it will withdraw the previously announced
 four-for-one bonus issue of "B" shares and replace it by a
 two-for-five bonus issue of ordinary shares.

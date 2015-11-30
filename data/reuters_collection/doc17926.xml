@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 05:49:29.21</field>
 	<field name = "TOPICS">propane</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">Y
-f0398reute
-u f BC-BP-CUTS-NORTH-SEA-PRO   06-02 0123</field>
-	<field name = "TITLE">BP CUTS NORTH SEA PROPANE PRICE, BUTANE UNCHANGED</field>
+	<field name = "titulo">BP CUTS NORTH SEA PROPANE PRICE, BUTANE UNCHANGED</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">British Petroleum LP Gas International
+	<field name = "content">British Petroleum LP Gas International
 said it cut its North Sea LPG (Liquified Petroleum Gas) posted
 price for propane to 95 dlrs from 110 dlrs a tonne, effective
 June 1.

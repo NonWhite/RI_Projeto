@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 17:17:20.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0916reute
-u f BC-BEKER-BKI>-REORGANIZ   03-09 0100</field>
-	<field name = "TITLE">BEKER BKI> REORGANIZATION PLAN DELAYED</field>
+	<field name = "titulo">BEKER BKI> REORGANIZATION PLAN DELAYED</field>
 	<field name = "DATELINE">GREEWICH, Conn., March 9 -</field>
-	<field name = "BODY">Beker Industries Corp said it
+	<field name = "content">Beker Industries Corp said it
 was unable to confirm its plan for reorganization at a March 5
 hearing before the U.S. Bankruptcy Court because necessary
 agreements had not been reached with its institutional lenders.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 14:09:02.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f1992reute
-u f BC-U.S.-THRIFTS-CUT-LIAB   03-23 0095</field>
-	<field name = "TITLE">U.S. THRIFTS CUT LIABILITIES IN JANUARY</field>
+	<field name = "titulo">U.S. THRIFTS CUT LIABILITIES IN JANUARY</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">The Federal Home Loan Bank Board
+	<field name = "content">The Federal Home Loan Bank Board
 said thrift institutions insured by the Federal Savings and
 Loan Insurance Corp reduced their liabilities at a 4.1 pct
 annual rate during January.

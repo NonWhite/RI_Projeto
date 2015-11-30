@@ -5,12 +5,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F
-f0541reute
-u f BC-EC-LAUNCHES-ANTI-DUMP   04-09 0111</field>
-	<field name = "TITLE">EC LAUNCHES ANTI-DUMPING PROBE ON JAPANESE CHIPS</field>
+	<field name = "titulo">EC LAUNCHES ANTI-DUMPING PROBE ON JAPANESE CHIPS</field>
 	<field name = "DATELINE">BRUSSELS, April 9 -</field>
-	<field name = "BODY">The European Community launched an
+	<field name = "content">The European Community launched an
 investigation into allegations of dumping by Japanese
 semiconductor makers in a move which diplomats said could mark
 an intensification of world trade strains.

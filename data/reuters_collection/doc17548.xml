@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:28:47.98</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f1133reute
-d f BC-HOLDERBANK-EXPECTS-19   06-01 0113</field>
-	<field name = "TITLE">HOLDERBANK EXPECTS 1987 RESULTS TO BE STEADY</field>
+	<field name = "titulo">HOLDERBANK EXPECTS 1987 RESULTS TO BE STEADY</field>
 	<field name = "DATELINE">ZURICH, June 1 -</field>
-	<field name = "BODY">Holderbank Financiere Glarus AG HOLZ.G>
+	<field name = "content">Holderbank Financiere Glarus AG HOLZ.G>
 expects its 1987 results to be at least steady, with increases
 in volume sales and negative currency factors roughly
 cancelling each other out, deputy chairman Max Amstutz said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 08:29:32.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0721reute
-r f BC-CALIFORNIA-MOVES-AGAI   04-08 0082</field>
-	<field name = "TITLE">CALIFORNIA MOVES AGAINST KMG MAIN HURDMAN</field>
+	<field name = "titulo">CALIFORNIA MOVES AGAINST KMG MAIN HURDMAN</field>
 	<field name = "DATELINE">SAN FRANCISCO, April 8 -</field>
-	<field name = "BODY">California regulators said they
+	<field name = "content">California regulators said they
 were seeking disciplinary action against the accounting firm
 KMG Main Hurdman as the result of a 1985 audit of Technical
 Equities Corp., an investment firm that filed for bankruptcy

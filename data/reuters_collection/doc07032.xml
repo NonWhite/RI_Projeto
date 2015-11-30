@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 07:55:53.04</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0557reute
-u f BC-H.K.-REVIEWS-BANKING   03-19 0100</field>
-	<field name = "TITLE">H.K. REVIEWS BANKING STRUCTURE, CAPITAL RATIO</field>
+	<field name = "titulo">H.K. REVIEWS BANKING STRUCTURE, CAPITAL RATIO</field>
 	<field name = "DATELINE">HONG KONG, March 19 -</field>
-	<field name = "BODY">The Banking Commission is reviewing
+	<field name = "content">The Banking Commission is reviewing
 the present three-tier banking system and its newly established
 capital adequacy ratio, banking commissioner Robert Fell said.
     He told a news conference his office has had talks with the

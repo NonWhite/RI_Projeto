@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 15:04:15.24</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0505reute
-h f BC-ELECTRO-SENSORS-INC-   03-05 0050</field>
-	<field name = "TITLE">ELECTRO-SENSORS INC ELSE> YEAR OPER NET</field>
+	<field name = "titulo">ELECTRO-SENSORS INC ELSE> YEAR OPER NET</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 5 -</field>
-	<field name = "BODY">Oper shr 52 cts vs 51 cts
+	<field name = "content">Oper shr 52 cts vs 51 cts
     Oper net 626,013 vs 613,127
     Sales 4,544,929 vs 4,402,572
     NOTE: Earnings exclude extraordinary securities loss of

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 16:03:16.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2980reute
-s f BC-ELI-LILLY-AND-CO-LLY   10-19 0024</field>
-	<field name = "TITLE">ELI LILLY AND CO LLY> REG QTLY DIV</field>
+	<field name = "titulo">ELI LILLY AND CO LLY> REG QTLY DIV</field>
 	<field name = "DATELINE">INDIANAPOLIS, IND., Oct 19 -</field>
-	<field name = "BODY">Qtly div 50 cts vs 50 cts prior
+	<field name = "content">Qtly div 50 cts vs 50 cts prior
     Pay December 10
     Record November 13
  Reuter</field>

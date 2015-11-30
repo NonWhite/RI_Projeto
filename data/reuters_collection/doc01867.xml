@@ -2,13 +2,10 @@
 	<field name = "DATE">4-MAR-1987 18:02:51.76</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nymex</field>
-	<field name = "UNKNOWN">Y
-f0013reute
-d f BC-NYMEX-OUTGOING-CHAIRM   03-04 0094</field>
-	<field name = "TITLE">NYMEX OUTGOING CHAIRMAN SEES MAJOR CHANGES</field>
+	<field name = "titulo">NYMEX OUTGOING CHAIRMAN SEES MAJOR CHANGES</field>
 	<field name = "AUTHOR">By Bernice Napach, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Trading in energy futures on the New
+	<field name = "content">Trading in energy futures on the New
 York Mercantile Exchange will change dramatically over the next
 five to 10 years as the market matures, according to outgoing
 chairman Michel Marks.

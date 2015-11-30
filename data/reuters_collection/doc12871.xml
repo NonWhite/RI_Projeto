@@ -4,12 +4,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">spain</field>
 	<field name = "PLACES">greece</field>
-	<field name = "UNKNOWN">C G
-f0958reute
-u f BC-SPAIN-AGREES-SALE-OF   04-03 0090</field>
-	<field name = "TITLE">SPAIN AGREES SALE OF CORN TO GREECE</field>
+	<field name = "titulo">SPAIN AGREES SALE OF CORN TO GREECE</field>
 	<field name = "DATELINE">MADRID, April 3 -</field>
-	<field name = "BODY">Greece has agreed to buy between 27,000
+	<field name = "content">Greece has agreed to buy between 27,000
 and 33,000 tonnes of Spanish corn, a spokesman for Cargill's
 Spanish unit Compania Industrial y de Abastecimiento S.A.
 (CINDASA) said.

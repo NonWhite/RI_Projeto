@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 10:20:02.86</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C T
-f1089reute
-u f BC-DUTCH-SUGAR-BEET-PLAN   04-08 0103</field>
-	<field name = "TITLE">DUTCH SUGAR BEET PLANTING HALF FINISHED</field>
+	<field name = "titulo">DUTCH SUGAR BEET PLANTING HALF FINISHED</field>
 	<field name = "DATELINE">ROTTERDAM, April 8 -</field>
-	<field name = "BODY">Roughly half of this year's expected
+	<field name = "content">Roughly half of this year's expected
 130,000 hectare Dutch sugar beet crop is already in the ground,
 a spokesman for Suiker Unie, the largest sugar processor in the
 Netherlands, told Reuters.

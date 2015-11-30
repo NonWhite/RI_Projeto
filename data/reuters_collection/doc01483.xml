@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 10:38:50.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0414reute
-u f BC-TANDY-TAN>-FEBRUARY   03-04 0066</field>
-	<field name = "TITLE">TANDY TAN> FEBRUARY SALES UP 12 PCT</field>
+	<field name = "titulo">TANDY TAN> FEBRUARY SALES UP 12 PCT</field>
 	<field name = "DATELINE">FORT WORTH, Texas, March 4 -</field>
-	<field name = "BODY">Tandy Corp said February sales
+	<field name = "content">Tandy Corp said February sales
 and operating revenues were up 12 pct to 244.4 mln dlrs from
 218.1 mln dlrs a year before.
     It said sales and revenues of U.S. retail operations were

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 08:33:57.06</field>
 	<field name = "PLACES">france</field>
 	<field name = "EXCHANGES">pse</field>
-	<field name = "UNKNOWN">F 
-f0663reute
-d f BC-MOULINEX-SHARES-FALL   06-19 0103</field>
-	<field name = "TITLE">MOULINEX SHARES FALL TO 1987 LOW ON PARIS BOURSE</field>
+	<field name = "titulo">MOULINEX SHARES FALL TO 1987 LOW ON PARIS BOURSE</field>
 	<field name = "DATELINE">PARIS, June 19 -</field>
-	<field name = "BODY">French domestic appliance maker Moulinex
+	<field name = "content">French domestic appliance maker Moulinex
 MOUP.PA> shares continued to fall on the Paris Bourse reaching
 its year's low amid controversy over an auditor's report on
 1987 profit forecasts, dealers said.

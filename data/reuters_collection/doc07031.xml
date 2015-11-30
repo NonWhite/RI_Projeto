@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">france</field>
 	<field name = "PEOPLE">balladur</field>
-	<field name = "UNKNOWN">RM
-f0534reute
-u f BC-NO-FRENCH-REFLATION,   03-19 0103</field>
-	<field name = "TITLE">NO FRENCH REFLATION, SOURCES CLOSE TO BALLADUR SAY</field>
+	<field name = "titulo">NO FRENCH REFLATION, SOURCES CLOSE TO BALLADUR SAY</field>
 	<field name = "DATELINE">PARIS, March 19 -</field>
-	<field name = "BODY">There is no question of stimulating
+	<field name = "content">There is no question of stimulating
 consumption or relying on a systematic budget deficit or other
 reflationary policies to boost the French economy, sources
 close to finance minister Edouard Balladur said.

@@ -5,12 +5,9 @@
 	<field name = "PLACES">argentina</field>
 	<field name = "PLACES">australia</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T
-f0179reute
-u f BC-FRENCH-PRODUCERS-SAY   03-12 0108</field>
-	<field name = "TITLE">FRENCH FARMERS SAY U.S. SUBSIDISES MORE THAN EC</field>
+	<field name = "titulo">FRENCH FARMERS SAY U.S. SUBSIDISES MORE THAN EC</field>
 	<field name = "DATELINE">PARIS, March 12 -</field>
-	<field name = "BODY">The United States subsidises its
+	<field name = "content">The United States subsidises its
 agricultural industry much more than the European Community,
 according to an internal USDA report, Marcel Cazale, President
 of the French Maize Producers' Association (AGPM), said.

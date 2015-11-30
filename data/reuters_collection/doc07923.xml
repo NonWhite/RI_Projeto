@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 15:10:54.68</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">pork-belly</field>
-	<field name = "UNKNOWN">C L
-f2181reute
-b f BC-cold-stg-reaction   03-20 0104</field>
-	<field name = "TITLE">COLD STORAGE REPORT FOR BELLIES NEUTRAL/NEGATIVE</field>
+	<field name = "titulo">COLD STORAGE REPORT FOR BELLIES NEUTRAL/NEGATIVE</field>
 	<field name = "DATELINE">CHICAGO, March 20 -</field>
-	<field name = "BODY">Chicago Mercantile Exchange floor
+	<field name = "content">Chicago Mercantile Exchange floor
 traders' immediate reaction to the cold storage report for pork
 bellies was neutral to slightly negative.
     Frozen pork belly stocks at 34.5 mln lbs on March 1

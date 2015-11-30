@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 12:04:32.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1410reute
-r f BC-GEN-DYNAMICS-GD>-IN   06-19 0110</field>
-	<field name = "TITLE">GEN DYNAMICS GD> IN CONTRACT CONSORTIUM</field>
+	<field name = "titulo">GEN DYNAMICS GD> IN CONTRACT CONSORTIUM</field>
 	<field name = "DATELINE">ST LOUIS, Mo., June 19 -</field>
-	<field name = "BODY">General Dynamics Corp said it
+	<field name = "content">General Dynamics Corp said it
 formed an international consortium to compete for the contract
 relating to the multinational air to ground missile known as
 the modular standoff weapon.

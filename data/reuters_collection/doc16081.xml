@@ -4,12 +4,9 @@
 	<field name = "PLACES">switzerland</field>
 	<field name = "PEOPLE">languetin</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f2981reute
-u f BC-SWISS-BANKER-SAYS-COU   04-09 0111</field>
-	<field name = "TITLE">SWISS BANKER SAYS COUNTRIES SEEK NEW DEBT ANSWERS</field>
+	<field name = "titulo">SWISS BANKER SAYS COUNTRIES SEEK NEW DEBT ANSWERS</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Countries meeting at the
+	<field name = "content">Countries meeting at the
 International Monetary Fund (IMF) this week are looking at a
 variety of new ways to resolve the problem of third world debt,
 Swiss National Bank president Pierre Languetin said.

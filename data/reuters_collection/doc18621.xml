@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 09:07:37.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2941reute
-s f BC-RYLAND-GROUP-INC-RYL   06-18 0030</field>
-	<field name = "TITLE">RYLAND GROUP INC RYL> IN PAYOUT</field>
+	<field name = "titulo">RYLAND GROUP INC RYL> IN PAYOUT</field>
 	<field name = "DATELINE">COLUMBIA, Md., June 18 -</field>
-	<field name = "BODY">Qtly div 10 cts vs 10 cts prior
+	<field name = "content">Qtly div 10 cts vs 10 cts prior
     Pay July 30
     Record July 15
                                                  

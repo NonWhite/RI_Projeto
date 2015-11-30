@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 16:13:25.97</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nymex</field>
-	<field name = "UNKNOWN">C M T
-f2459reute
-u f BC-NYMEX-SURVEILLANCE-AD   04-02 0132</field>
-	<field name = "TITLE">NYMEX SURVEILLANCE ADEQUATE, CFTC SAYS</field>
+	<field name = "titulo">NYMEX SURVEILLANCE ADEQUATE, CFTC SAYS</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">The New York Mercantile Exchange,
+	<field name = "content">The New York Mercantile Exchange,
 NYMEX, has adequate trade practice surveillance and
 disciplinary programs, but could take steps to improve them,
 the Commodity Futures Trading Commission, CFTC, said.

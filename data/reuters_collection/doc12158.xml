@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 13:49:45.79</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f1941reute
-u f BC-BANKAMERICA-BAC>-TO   04-01 0075</field>
-	<field name = "TITLE">BANKAMERICA BAC> TO POST GAIN ON UNIT SALE</field>
+	<field name = "titulo">BANKAMERICA BAC> TO POST GAIN ON UNIT SALE</field>
 	<field name = "DATELINE">SAN FRANCISCO, April 1 -</field>
-	<field name = "BODY">BankAmerica Corp said it completed
+	<field name = "content">BankAmerica Corp said it completed
 the sale of its Consumer Trust Services division to Well Fargo
 and Co WFC>, a transaction that will result in a second
 quarter pre-tax gain of more than 75 mln dlrs.

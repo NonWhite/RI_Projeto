@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 11:40:26.25</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">G
-f5457reute
-d f BC-WEST-GERMAN-FEED-OUTP   03-17 0102</field>
-	<field name = "TITLE">WEST GERMAN FEED OUTPUT SEEN DECLINING</field>
+	<field name = "titulo">WEST GERMAN FEED OUTPUT SEEN DECLINING</field>
 	<field name = "DATELINE">BONN, March 17 -</field>
-	<field name = "BODY">West German feedstuffs production is
+	<field name = "content">West German feedstuffs production is
 expected to decline further after it dropped to 16.5 mln tonnes
 in 1986 from 16.7 mln the previous year, the West German Feed
 Stuff Industry Association (MFI) said.

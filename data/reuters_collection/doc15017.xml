@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:30:36.41</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E Y
-f1126reute
-r f BC-pancontinental-oil-ha   04-08 0093</field>
-	<field name = "TITLE">PANCONTINENTAL OIL HAS PRIVATE FINANCING</field>
+	<field name = "titulo">PANCONTINENTAL OIL HAS PRIVATE FINANCING</field>
 	<field name = "DATELINE">Calgary, Alberta, April 8 -</field>
-	<field name = "BODY">Pancontinental Oil Ltd> said
+	<field name = "content">Pancontinental Oil Ltd> said
 it arranged a 10 mln dlr private financing with Pemberton
 Houston Willoughby Bell Gouinlock Inc.
     The private placement consists of special warrants to

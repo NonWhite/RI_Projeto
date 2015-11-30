@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 18:00:26.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2769reute
-r f BC-ERC-INTERNATIONAL-ER   04-13 0080</field>
-	<field name = "TITLE">ERC INTERNATIONAL ERC> TO OFFER DEBENTURES</field>
+	<field name = "titulo">ERC INTERNATIONAL ERC> TO OFFER DEBENTURES</field>
 	<field name = "DATELINE">FAIRFAX, Va., April 13 -</field>
-	<field name = "BODY">ERC International said it will
+	<field name = "content">ERC International said it will
 file in the first quarter for a public offering of 25 mln dlrs
 principal amount convertible subordinated debentures due 2012.
     It said it will file a registration statement with the

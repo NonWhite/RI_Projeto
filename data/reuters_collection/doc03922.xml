@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 15:48:15.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0501reute
-r f BC-ROCKWELL-INTERNATIONA   03-11 0105</field>
-	<field name = "TITLE">ROCKWELL INTERNATIONAL ROK> SELLS 10-YEAR NOTES</field>
+	<field name = "titulo">ROCKWELL INTERNATIONAL ROK> SELLS 10-YEAR NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Rockwell International Corp is raising
+	<field name = "content">Rockwell International Corp is raising
 200 mln dlrs through an offering of notes due 1997 yielding
 7.682 pct, said lead underwriter Daiwa Securities America Inc.
     An officer on Daiwa's corporate syndicate desk said he

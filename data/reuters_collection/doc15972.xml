@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 16:28:44.38</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2562reute
-u f BC-WORLD-MARKET-PRICE-FO   04-09 0123</field>
-	<field name = "TITLE">WORLD MARKET PRICE FOR UPLAND COTTON - USDA</field>
+	<field name = "titulo">WORLD MARKET PRICE FOR UPLAND COTTON - USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 announced the prevailing world market price, adjusted to U.S.
 quality and location, for Strict Low Middling, 1-1/16 inch
 upland cotton at 50.57 cts per lb, to be in effect through

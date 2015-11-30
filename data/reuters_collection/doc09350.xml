@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 10:57:07.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1225reute
-r f BC-ADVANCED-MICRO-AMD>   03-25 0090</field>
-	<field name = "TITLE">ADVANCED MICRO AMD> PREFERRED OFFERED</field>
+	<field name = "titulo">ADVANCED MICRO AMD> PREFERRED OFFERED</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Lead underwriters Donaldson, Lufkin
+	<field name = "content">Lead underwriters Donaldson, Lufkin
 and Jenrette> and Salomon Inc SB> said an offering of three
 mln shares of Advanced Micro Devices Inc depositary convertible
 exchangeable preferred shares is under way at 50 dlrs per

@@ -4,12 +4,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">nicaragua</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">A
-f2481reute
-u f AM-REAGAN   04-08 0136</field>
-	<field name = "TITLE">REAGAN TO ALLOW REVIEW OF HIS NOTES ON IRAN</field>
+	<field name = "titulo">REAGAN TO ALLOW REVIEW OF HIS NOTES ON IRAN</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">President Reagan has agreed to let
+	<field name = "content">President Reagan has agreed to let
 the House and Senate select committees investigating the Iran
 arms sale review his personal diary notes on the affair,
 committee members said today.

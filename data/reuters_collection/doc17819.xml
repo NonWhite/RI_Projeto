@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 16:54:59.14</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">F
-f2496reute
-r f BC-CME-PROPOSES-NIKKEI-S   06-01 0110</field>
-	<field name = "TITLE">CME PROPOSES NIKKEI STOCK AVERAGE FUTURES</field>
+	<field name = "titulo">CME PROPOSES NIKKEI STOCK AVERAGE FUTURES</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">The Chicago Mercantile Exchange (CME)
+	<field name = "content">The Chicago Mercantile Exchange (CME)
 has proposed a futures contract based on the Nikkei Stock
 Average, a price-weighted index of 225 stocks on the Tokyo
 Stock Exchange, federal regulators said.

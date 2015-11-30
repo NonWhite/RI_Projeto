@@ -4,12 +4,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">C G
-f2145reute
-u f BC-USDA-OFFERS-EEP-BARLE   04-03 0098</field>
-	<field name = "TITLE">USDA OFFERS EEP BARLEY MALT TO COLOMBIA</field>
+	<field name = "titulo">USDA OFFERS EEP BARLEY MALT TO COLOMBIA</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 announced Colombia has been made eligible for sales of up to
 15,000 tonnes of barley malt under the department's export
 enhancement program, EEP.

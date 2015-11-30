@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:49:27.83</field>
-	<field name = "UNKNOWN">RM C
-f0196reute
-u f BC-SYDNEY-FINANCIAL-FUTU   04-07 0104</field>
-	<field name = "TITLE">SYDNEY FINANCIAL FUTURES CLOSE MIXED</field>
+	<field name = "titulo">SYDNEY FINANCIAL FUTURES CLOSE MIXED</field>
 	<field name = "DATELINE">SYDNEY, April 7 -</field>
-	<field name = "BODY">Exhausted buyers and a late fall on the
+	<field name = "content">Exhausted buyers and a late fall on the
 Australian share market due to profit-taking led to a sharp
 drop in share price index contracts on the Sydney Futures
 Exchange, dealers said.

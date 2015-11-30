@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 10:56:27.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0284reute
-w f BC-HERLEY-MICROWAVE-HRL   03-12 0074</field>
-	<field name = "TITLE">HERLEY MICROWAVE HRLY> WINS CONTRACTS</field>
+	<field name = "titulo">HERLEY MICROWAVE HRLY> WINS CONTRACTS</field>
 	<field name = "DATELINE">LANDCASTER, Penn., March 12 -</field>
-	<field name = "BODY">Herley Microwave Systems Inc
+	<field name = "content">Herley Microwave Systems Inc
 said it won a series of contract additions and new awards worth
 7.7 mln dlrs.
     It said the contracts were from the U.S. Navy and Airforce,

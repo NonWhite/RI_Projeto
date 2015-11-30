@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 06:14:44.34</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0865
-reute
-u f BC-AIRBUS-SIGNS-ONE-BILL   03-03 0115</field>
-	<field name = "TITLE">AIRBUS SIGNS ONE BILLION DLR JAPANESE CONTRACT</field>
+	<field name = "titulo">AIRBUS SIGNS ONE BILLION DLR JAPANESE CONTRACT</field>
 	<field name = "DATELINE">PARIS, March 3 -</field>
-	<field name = "BODY">The European Airbus Industrie> consortium
+	<field name = "content">The European Airbus Industrie> consortium
 has signed a one billion dlr contract to sell 10 A320
 short-haul jets to All Nippon Airways> of Japan, with an
 option on the sale of a further 10 planes, an Airbus spokesman

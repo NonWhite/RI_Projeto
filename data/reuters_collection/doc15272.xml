@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">egypt</field>
-	<field name = "UNKNOWN">C G
-f2377reute
-u f BC-EGYPT-AUTHORIZED-TO-B   04-08 0061</field>
-	<field name = "TITLE">EGYPT AUTHORIZED TO BUY PL-480 WHEAT - USDA</field>
+	<field name = "titulo">EGYPT AUTHORIZED TO BUY PL-480 WHEAT - USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">Egypt has been authorized to purchase
+	<field name = "content">Egypt has been authorized to purchase
 about 200,000 tonnes of U.S. wheat under an existing PL-480
 agreement, the U.S. Agriculture Department said.
     It may buy the wheat, valued at 22.0 mln dlrs, between

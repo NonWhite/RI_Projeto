@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 11:28:23.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1474reute
-r f BC-ORIENTAL-FEDERAL-INIT   03-26 0067</field>
-	<field name = "TITLE">ORIENTAL FEDERAL INITIAL OFFERING UNDER WAY</field>
+	<field name = "titulo">ORIENTAL FEDERAL INITIAL OFFERING UNDER WAY</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Oriental Federal Savings Bank of
+	<field name = "content">Oriental Federal Savings Bank of
 Humacao, Puerto Rico, said an initial public offering of
 656,819 common shares is under way at 11.50 dlrs per share.
     The company issued a total of 1,075,000 shares in

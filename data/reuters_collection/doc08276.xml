@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 10:30:36.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f1080reute
-r f BC-IADB-BANK-SAYS-IT-WIL   03-23 0112</field>
-	<field name = "TITLE">IADB BANK SAYS IT WILL MATCH 1986 LENDING</field>
+	<field name = "titulo">IADB BANK SAYS IT WILL MATCH 1986 LENDING</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">The Inter-American Development Bank
+	<field name = "content">The Inter-American Development Bank
 said it intended this year to match the over three billion
 dollars it lent to Latin America in 1986 despite growing
 pressures on its capital.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:33:11.90</field>
-	<field name = "UNKNOWN">C
-f0461reute
-u f BC-LONDON-GASOIL-CALL-CO   04-07 0091</field>
-	<field name = "TITLE">LONDON GASOIL CALL COMPLETE  1231 - APR 7</field>
+	<field name = "titulo">LONDON GASOIL CALL COMPLETE  1231 - APR 7</field>
 	<field name = "DATELINE">Mar       ---    ---    ---    ---    ---   ---</field>
-	<field name = "BODY">Apr    149.00 149.00 149.25 149.50 147.75   987
+	<field name = "content">Apr    149.00 149.00 149.25 149.50 147.75   987
  May    147.50 147.25 147.50 147.75 146.25   898
  Jun    146.50 146.50 146.75 147.25 146.00   280
  Jul    146.50 146.50 146.75 147.00 146.50    64

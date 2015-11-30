@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 07:30:06.18</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">V
-f0567reute
-u f PM-BLAST   03-24 0127</field>
-	<field name = "TITLE">BOMB EXPLODES AT BRITISH ARMY BASE, 30 INJURED</field>
+	<field name = "titulo">BOMB EXPLODES AT BRITISH ARMY BASE, 30 INJURED</field>
 	<field name = "DATELINE">BONN, March 24 -</field>
-	<field name = "BODY">A huge car bomb exploded at the
+	<field name = "content">A huge car bomb exploded at the
 headquarters of the British Army of the Rhine last night,
 injuring about 30 people just hours after British Prime
 Minister Margaret Thatcher left the West German capital.

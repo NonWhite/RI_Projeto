@@ -1,10 +1,7 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:36:55.77</field>
-	<field name = "UNKNOWN">RM F V
-f0790reute
-u f BC-QT8911   04-07 0017</field>
-	<field name = "TITLE">WALL STREET STOCKS OPEN LOWER</field>
+	<field name = "titulo">WALL STREET STOCKS OPEN LOWER</field>
 	<field name = "DATELINE">NEW YORK, APRIL 7 -</field>
-	<field name = "BODY">Wall Street stocks were lower at the
+	<field name = "content">Wall Street stocks were lower at the
 opening bell.</field>
 </doc></add>

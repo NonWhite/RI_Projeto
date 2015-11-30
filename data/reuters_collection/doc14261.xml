@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:10:39.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1489reute
-r f BC-MANHATTAN-NATIONAL-M   04-07 0097</field>
-	<field name = "TITLE">MANHATTAN NATIONAL MLC> NAMES NEW CHAIRMAN</field>
+	<field name = "titulo">MANHATTAN NATIONAL MLC> NAMES NEW CHAIRMAN</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">The board of directors of Manhattan
+	<field name = "content">The board of directors of Manhattan
 National Corp said it has named Charles Hinckley chairman and
 chief executive officer of the life insurance holding company,
 replacing Wilmot Wheeler Jr, who returns to his former position

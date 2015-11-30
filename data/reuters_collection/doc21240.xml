@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 12:34:29.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1980reute
-h f BC-PERIPHERAL-PSIX.O>-C   10-19 0108</field>
-	<field name = "TITLE">PERIPHERAL PSIX.O> COMPLETES BATTERY TESTS</field>
+	<field name = "titulo">PERIPHERAL PSIX.O> COMPLETES BATTERY TESTS</field>
 	<field name = "DATELINE">PORTLAND, Ore.,  Oct 19 -</field>
-	<field name = "BODY">Peripheral Systems Inc said it
+	<field name = "content">Peripheral Systems Inc said it
 completed tests of the Nucell-50 radio isotope generating
 system, known as a resonant nuclear battery, designed to
 produce up to 50 kilowatts of AC electricity.

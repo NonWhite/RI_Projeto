@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 16:05:24.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0502reute
-u f BC-GEORGIA-PACIFIC-GP>   03-06 0113</field>
-	<field name = "TITLE">GEORGIA-PACIFIC GP> DEBT UPGRADED BY S/P</field>
+	<field name = "titulo">GEORGIA-PACIFIC GP> DEBT UPGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 upgraded Georgia-Pacific Corp's 1.1 billion dlrs of debt.
     Raised were the company's senior debt to A-minus from
 BBB-plus, preferred stock to BBB-plus from BBB and preliminary

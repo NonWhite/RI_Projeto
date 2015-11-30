@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 09:53:33.73</field>
 	<field name = "TOPICS">wpi</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0961reute
-b f BC-GERMAN-PRODUCER-PRICE   04-13 0094</field>
-	<field name = "TITLE">GERMAN PRODUCER PRICES FALL 0.1 PCT IN MARCH</field>
+	<field name = "titulo">GERMAN PRODUCER PRICES FALL 0.1 PCT IN MARCH</field>
 	<field name = "DATELINE">WIESBADEN, April 13 -</field>
-	<field name = "BODY">West German producer prices fell 0.1
+	<field name = "content">West German producer prices fell 0.1
 pct in March compared with February to stand 3.9 pct lower than
 in March last year, the Federal Statistics Office said.
     In February, producer prices fell 0.3 pct from January and

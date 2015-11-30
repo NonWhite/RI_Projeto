@@ -8,13 +8,10 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">italy</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0628reute
-u f BC-FEW-EXPECT-NEW-ECONOM   06-02 0113</field>
-	<field name = "TITLE">FEW EXPECT NEW ECONOMIC INITIATIVES IN VENICE</field>
+	<field name = "titulo">FEW EXPECT NEW ECONOMIC INITIATIVES IN VENICE</field>
 	<field name = "AUTHOR">By Geert Linnebank, Reuters</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">The Venice summit on June 8-10 is likely
+	<field name = "content">The Venice summit on June 8-10 is likely
 to disappoint those hoping for new policies to whip up flagging
 world growth, according to officials from summit countries.
     Worries over protectionist threats and the Third World debt

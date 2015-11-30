@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 10:30:02.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1002reute
-u f BC-TEXAS-INSTRUMENTS-INC   06-19 0045</field>
-	<field name = "TITLE">TEXAS INSTRUMENTS INC TXN> RAISES QUARTERLY</field>
+	<field name = "titulo">TEXAS INSTRUMENTS INC TXN> RAISES QUARTERLY</field>
 	<field name = "DATELINE">DALLAS, June 19 -</field>
-	<field name = "BODY">Qtly div 18 cts vs 16.6 cts prior
+	<field name = "content">Qtly div 18 cts vs 16.6 cts prior
     Pay July 20
     Record June 30
     NOTE: Prior payment adjusted for three-for-one stock split.

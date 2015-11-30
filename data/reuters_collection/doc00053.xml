@@ -1,14 +1,10 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 15:54:55.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0901
-reute
-u f BC-/U.S.-DATA-POINT-TO-C   02-26 0102</field>
-	<field name = "TITLE">U.S. DATA POINT TO CAPITAL SPENDING SLOWDOWN</field>
+	<field name = "titulo">U.S. DATA POINT TO CAPITAL SPENDING SLOWDOWN</field>
 	<field name = "AUTHOR">By Kathleen Hays, Reuters</field>
 	<field name = "DATELINE">NEW YORK, Feb 26 -</field>
-	<field name = "BODY">A surprise 7.5 pct drop in U.S. January
+	<field name = "content">A surprise 7.5 pct drop in U.S. January
 durable goods orders points to a slowdown in capital spending
 that could presage lackluster real growth in the U.S. economy
 in the first quarter of 1987, economists said.

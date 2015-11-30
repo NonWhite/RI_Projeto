@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">algeria</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0048reute
-u f BC-ALGERIA-SIGNS-MAJOR-L   04-27 0108</field>
-	<field name = "TITLE">ALGERIA SIGNS MAJOR LNG DEAL WITH U.S. GROUP</field>
+	<field name = "titulo">ALGERIA SIGNS MAJOR LNG DEAL WITH U.S. GROUP</field>
 	<field name = "DATELINE">ALGIERS, April 27 -</field>
-	<field name = "BODY">Algeria's national petroleum agency
+	<field name = "content">Algeria's national petroleum agency
 Sonatrach and the U.S. Panhandle-Trunkline PEL.N> group signed
 a 20-year accord for the delivery of liquefied natural gas
 (LNG), the official APS news agency said.

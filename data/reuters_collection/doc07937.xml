@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 15:29:53.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f2242reute
-u f BC-FIRST-INTERSTATE-BANC   03-20 0088</field>
-	<field name = "TITLE">FIRST INTERSTATE BANCORP I> FILES DEBT OFFER</field>
+	<field name = "titulo">FIRST INTERSTATE BANCORP I> FILES DEBT OFFER</field>
 	<field name = "DATELINE">LOS ANGELES, March 20 -</field>
-	<field name = "BODY">First Interstate Bancorp said it
+	<field name = "content">First Interstate Bancorp said it
 has filed a shelf registration with the Securities and Exchange
 Commission for up to 1.50 billion dlrs principal amount of its
 debt securities.

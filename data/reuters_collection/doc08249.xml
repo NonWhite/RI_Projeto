@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 09:49:14.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0930reute
-r f BC-MYLES-MYLX>-RESUMES   03-23 0105</field>
-	<field name = "TITLE">MYLES MYLX> RESUMES SHIPMENTS TO CUSTOMER</field>
+	<field name = "titulo">MYLES MYLX> RESUMES SHIPMENTS TO CUSTOMER</field>
 	<field name = "DATELINE">MIMAI, March 23 -</field>
-	<field name = "BODY">Mylex Corp said it has received scheduled
+	<field name = "content">Mylex Corp said it has received scheduled
 orders to resume shipments under an existing contract with one
 of its major customers that it did not name.
     In May it said it did not have product releases from that

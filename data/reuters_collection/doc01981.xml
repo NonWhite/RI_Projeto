@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0850reute
-u f BC-SWISS-OFFERS-NEW-SERI   03-05 0065</field>
-	<field name = "TITLE">SWISS OFFERS NEW SERIES OF MONEY MARKET PAPER</field>
+	<field name = "titulo">SWISS OFFERS NEW SERIES OF MONEY MARKET PAPER</field>
 	<field name = "DATELINE">ZURICH, March 5 -</field>
-	<field name = "BODY">The Swiss Finance Ministry is inviting
+	<field name = "content">The Swiss Finance Ministry is inviting
 tenders for a new series of three-month money market
 certificates to raise about 150 mln Swiss francs, the Swiss
 National Bank said.

@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:56:18.60F</field>
-	<field name = "UNKNOWN">f1731reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">h f BC-COMPUTER-NETWORK-CMN   03-27 0065</field>
-	<field name = "TITLE">COMPUTER NETWORK CMNT> IN PACT WITH CRAY CYR></field>
+	<field name = "titulo">COMPUTER NETWORK CMNT> IN PACT WITH CRAY CYR></field>
 	<field name = "DATELINE">MINNEAPOLIS, March 27 -</field>
-	<field name = "BODY">Computer Network Technology Corp
+	<field name = "content">Computer Network Technology Corp
 said it has signed an OEM agreement with Cray Research Inc,
 allowing Cray to resell Computer Network's CHANNELink 5000
 Series Channel processor.

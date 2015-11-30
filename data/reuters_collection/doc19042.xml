@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 01:59:21.71</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0081reute
-u f BC-JAPAN-REPORT-SAYS-FAU   06-19 0100</field>
-	<field name = "TITLE">JAPAN REPORT SAYS FAULTY REPAIRS CAUSED JAL CRASH</field>
+	<field name = "titulo">JAPAN REPORT SAYS FAULTY REPAIRS CAUSED JAL CRASH</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">Faulty repairs and inadequate inspection
+	<field name = "content">Faulty repairs and inadequate inspection
 caused the 1985 crash of a Japan Airlines Co Ltd JAPN.T> (JAL)
 Boeing 747 which killed 520 people, the Japanese government
 said in a final official report.

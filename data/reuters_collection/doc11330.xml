@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 10:07:18.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1125reute
-b f BC-/U.S.-FACTORY-ORDERS   03-31 0110</field>
-	<field name = "TITLE">U.S. FACTORY ORDERS ROSE 4.3 PCT IN FEBRUARY</field>
+	<field name = "titulo">U.S. FACTORY ORDERS ROSE 4.3 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">New orders for manufactured goods
+	<field name = "content">New orders for manufactured goods
 rose 8.0 billion dlrs, or 4.3 pct, in February to a seasonally
 adjusted 194.6 billion dlrs, the Commerce Department said.
     It was the largest one month rise in orders since a 4.8 pct

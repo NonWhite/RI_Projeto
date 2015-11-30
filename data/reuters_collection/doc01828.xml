@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 17:00:16.15</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">israel</field>
-	<field name = "UNKNOWN">V
-f0858reute
-u f AM-ESPIONAGE   03-04 0095</field>
-	<field name = "TITLE">POLLARD SENTENCED TO LIFE IN PRISON IN SPY CASE</field>
+	<field name = "titulo">POLLARD SENTENCED TO LIFE IN PRISON IN SPY CASE</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">Confessed spy Jonathan Pollard was
+	<field name = "content">Confessed spy Jonathan Pollard was
 sentenced today to life in prison for passing thousands of
 pages of top-secret U.S. military documents to Israel.
     Pollard, a former Navy intelligence analyst, was sentenced

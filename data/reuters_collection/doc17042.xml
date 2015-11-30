@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-APR-1987 20:30:17.87</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f3094reute
-b f BC-JAPANESE-PARLIAMENT-P   04-23 0111</field>
-	<field name = "TITLE">JAPANESE PARLIAMENT PASSES 1987 BUDGET</field>
+	<field name = "titulo">JAPANESE PARLIAMENT PASSES 1987 BUDGET</field>
 	<field name = "DATELINE">TOKYO, April 24 -</field>
-	<field name = "BODY">Parliament's Lower House passed the 1987
+	<field name = "content">Parliament's Lower House passed the 1987
 budget shortly before midnight local time, official
 parliamentary sources said.
     The move followed agreement by the ruling Liberal

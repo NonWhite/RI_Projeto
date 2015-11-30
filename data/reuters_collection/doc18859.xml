@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 13:31:53.26</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C T 
-f4081reute
-b f BC-IBC-DETAILS-PLANS-TO   06-18 0107</field>
-	<field name = "TITLE">IBC DETAILS PLANS TO PAY CREDITORS</field>
+	<field name = "titulo">IBC DETAILS PLANS TO PAY CREDITORS</field>
 	<field name = "DATELINE">RIO DE JANEIRO, June 18 -</field>
-	<field name = "BODY">The Brazilian Coffee Institute,
+	<field name = "content">The Brazilian Coffee Institute,
 IBC, gave details of its plans to pay the 18 companies that
 bought 630,000 bags of robusta coffee in the London market on
 its behalf last September.

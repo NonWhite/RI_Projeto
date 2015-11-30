@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 14:14:03.21</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">boesky</field>
-	<field name = "UNKNOWN">F
-f3229reute
-u f BC-BOESKY   03-16 0113</field>
-	<field name = "TITLE">SEC OKAYS BOESKY FIRMS' MOVE TO PROTECT FUNDS</field>
+	<field name = "titulo">SEC OKAYS BOESKY FIRMS' MOVE TO PROTECT FUNDS</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">The Securities and Exchange
+	<field name = "content">The Securities and Exchange
 Commission approved a request by two firms controlled by inside
 trader Ivan Boesky that allows them to take steps to protect
 hundreds of millions of dollars from potential claimants.

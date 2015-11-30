@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C T
-f1567reute
-u f BC-FIRE-AT-TATE-AND-LYLE   04-09 0136</field>
-	<field name = "TITLE">FIRE AT TATE/LYLE LONDON JETTY HALTS UNLOADING</field>
+	<field name = "titulo">FIRE AT TATE/LYLE LONDON JETTY HALTS UNLOADING</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">No raw sugar is being unloaded at Tate
+	<field name = "content">No raw sugar is being unloaded at Tate
 and Lyles refinery at Silvertown on the River Thames following
 a fire yesterday afternoon, Tate and Lyle Plc said.
     The fire destroyed a large sector of the main conveyor from

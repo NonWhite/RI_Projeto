@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 10:58:29.20</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0291reute
-h f BC-VITRONICS-VITX>-PLAN   03-12 0028</field>
-	<field name = "TITLE">VITRONICS VITX> PLANS BRITISH PLANT</field>
+	<field name = "titulo">VITRONICS VITX> PLANS BRITISH PLANT</field>
 	<field name = "DATELINE">NEWMARKET, N.H., March 12 -</field>
-	<field name = "BODY">Vitronics Corp said it plans to
+	<field name = "content">Vitronics Corp said it plans to
 establish a plant in Plymouth, England, to serve European
 customers.
  Reuter</field>

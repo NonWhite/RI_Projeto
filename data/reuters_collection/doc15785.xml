@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 13:37:35.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1933reute
-u f BC-FHLBB-HIRES-ADVISOR-F   04-09 0089</field>
-	<field name = "TITLE">FHLBB HIRES ADVISOR FOR FINANCIAL CORP FIN></field>
+	<field name = "titulo">FHLBB HIRES ADVISOR FOR FINANCIAL CORP FIN></field>
 	<field name = "DATELINE">IRVINE, Calif., April 9 -</field>
-	<field name = "BODY">The Federal Home Loan Bank Board
+	<field name = "content">The Federal Home Loan Bank Board
 has retained Salomon Bros to seek ways to inject new capital
 into Financial Corp of America, a Financial Corp spokeswoman
 said.

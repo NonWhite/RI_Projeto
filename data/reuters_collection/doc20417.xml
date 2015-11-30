@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:03:01.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2212reute
-r f BC-PRIME-COMPUTER-PRM>   10-20 0072</field>
-	<field name = "TITLE">PRIME COMPUTER PRM> TO BUY BACK STOCK</field>
+	<field name = "titulo">PRIME COMPUTER PRM> TO BUY BACK STOCK</field>
 	<field name = "DATELINE">NATICK, Mass., Oct 20 -</field>
-	<field name = "BODY">Prime Computer Inc said it will
+	<field name = "content">Prime Computer Inc said it will
 periodically repurchase an unspecified number of its common
 stock on the open market.
     The company has 49.1 mln shares outstanding.

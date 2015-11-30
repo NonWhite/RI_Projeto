@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 04:01:35.38</field>
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">M C
-f0164reute
-u f BC-TAIWAN-STEEL-FIRM-SEE   03-19 0090</field>
-	<field name = "TITLE">TAIWAN STEEL FIRM SEES LOWER EXPORTS, MORE OUTPUT</field>
+	<field name = "titulo">TAIWAN STEEL FIRM SEES LOWER EXPORTS, MORE OUTPUT</field>
 	<field name = "DATELINE">TAIPEI, March 19 -</field>
-	<field name = "BODY">State-owned China Steel Corp> said its
+	<field name = "content">State-owned China Steel Corp> said its
 steel exports will drop to some 600,000 tonnes in the year
 ending June 30, 1987 from more than 810,000 in 1985/86.
     Production by the company, Taiwan's largest steel maker, is

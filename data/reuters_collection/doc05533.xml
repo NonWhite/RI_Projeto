@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 13:12:56.84</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f3027reute
-d f BC-VW-FOREIGN-EXCHANGE-E   03-16 0108</field>
-	<field name = "TITLE">VW FOREIGN EXCHANGE INQUIRIES FOCUS ON WOLFSBURG</field>
+	<field name = "titulo">VW FOREIGN EXCHANGE INQUIRIES FOCUS ON WOLFSBURG</field>
 	<field name = "DATELINE">BRUNSWICK, West Germany, March 16 -</field>
-	<field name = "BODY">West German state
+	<field name = "content">West German state
 prosecutors have focussed their inquiries in the suspected
 foreign exchange fraud reported by Volkswagen VOWG.F> on
 Wolfsburg, the company's headquarters, the state prosecutor's

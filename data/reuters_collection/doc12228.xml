@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 14:50:56.99</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2160reute
-r f BC-BANK-OF-NEW-YORK-BK>   04-01 0033</field>
-	<field name = "TITLE">BANK OF NEW YORK BK> RAISES PRIME TO 7-3/4 PCT</field>
+	<field name = "titulo">BANK OF NEW YORK BK> RAISES PRIME TO 7-3/4 PCT</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Bank of New York said it raised its
+	<field name = "content">Bank of New York said it raised its
 prime lending rate a quarter point to 7-3/4 pct.
     It said the move is effective immediately.
  Reuter</field>

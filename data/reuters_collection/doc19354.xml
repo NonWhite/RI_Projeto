@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:40:38.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2012reute
-r f AM-INSIDER   06-19 0102</field>
-	<field name = "TITLE">SEC SUPPORTS INSIDER TRADING DEFINITION</field>
+	<field name = "titulo">SEC SUPPORTS INSIDER TRADING DEFINITION</field>
 	<field name = "DATELINE">WASHINGTON, June 19 -</field>
-	<field name = "BODY">The Securities and Exchange
+	<field name = "content">The Securities and Exchange
 Commission said it supported legislation to define insider
 trading and would recommend language for such a definition
 within six weeks.

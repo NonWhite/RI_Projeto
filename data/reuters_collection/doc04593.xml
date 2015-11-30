@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 17:57:02.22</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cboe</field>
-	<field name = "UNKNOWN">F
-f0760reute
-u f BC-CBOE-CREATES-NEW-CLAS   03-12 0099</field>
-	<field name = "TITLE">CBOE CREATES NEW CLASS OF S AND P 500 OPTIONS</field>
+	<field name = "titulo">CBOE CREATES NEW CLASS OF S AND P 500 OPTIONS</field>
 	<field name = "DATELINE">CHICAGO, March 12 -</field>
-	<field name = "BODY">In order to accomodate the shift in the
+	<field name = "content">In order to accomodate the shift in the
 settlement procedure for options on the Standard and Poor's 500
 stock index that the exchange announced last month, the Chicago
 Board Options Exchange (CBOE) said it has created a new class

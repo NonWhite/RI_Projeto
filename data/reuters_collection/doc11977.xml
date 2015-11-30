@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:45:04.22</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1183reute
-h f BC-COSMO-COMMUNICATIONS   04-01 0028</field>
-	<field name = "TITLE">COSMO COMMUNICATIONS CORP CSMO> YEAR LOSS</field>
+	<field name = "titulo">COSMO COMMUNICATIONS CORP CSMO> YEAR LOSS</field>
 	<field name = "DATELINE">MIAMI, April 1 -</field>
-	<field name = "BODY">Shr loss one ct vs loss 2.16 dlrs
+	<field name = "content">Shr loss one ct vs loss 2.16 dlrs
     Net loss 30,000 vs loss 12.4 mln
     Revs 27.4 mln vs 38.3 mln
  Reuter</field>

@@ -2,13 +2,10 @@
 	<field name = "DATE">31-MAR-1987 18:27:52.91</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2879reute
-u f BC-ANALYSTS-SEE-SLOW-MOV   03-31 0105</field>
-	<field name = "TITLE">ANALYSTS SEE SLOW MOVE TO HIGHER U.S. PRIME RATE</field>
+	<field name = "titulo">ANALYSTS SEE SLOW MOVE TO HIGHER U.S. PRIME RATE</field>
 	<field name = "AUTHOR">By Martin Cherrin, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Quarter-point prime rate increases to
+	<field name = "content">Quarter-point prime rate increases to
 7-3/4 pct by Citibank and Chase Manhattan Bank today will be
 followed by other banks only after they see clearer signs of
 the Federal Reserve's policy intentions, economists said.

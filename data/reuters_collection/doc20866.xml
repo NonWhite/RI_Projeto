@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 19:47:36.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM A 
-f3460reute
-u f BC--U.S.-STOCK-DECLINE-R   10-19 0102</field>
-	<field name = "TITLE">U.S. STOCK DECLINE RENEWS DEBATE ABOUT FUTURES</field>
+	<field name = "titulo">U.S. STOCK DECLINE RENEWS DEBATE ABOUT FUTURES</field>
 	<field name = "AUTHOR">BY CAL MANKOWSKI</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Wall Street's biggest one-day drop since
+	<field name = "content">Wall Street's biggest one-day drop since
 1914 has revived a bitter debate about whether modern
 investment techniques turn shifts in investor psychology into
 colossal moves in share prices.

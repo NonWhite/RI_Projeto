@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 16:10:38.80</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3133reute
-d f BC-SPHINX-MINING-SPNXF.   10-20 0097</field>
-	<field name = "TITLE">SPHINX MINING SPNXF.O> FINDS GOLD</field>
+	<field name = "titulo">SPHINX MINING SPNXF.O> FINDS GOLD</field>
 	<field name = "DATELINE">FORT SMITH, Ark., Oct 20 -</field>
-	<field name = "BODY">Sphinx Mining Inc said leased
+	<field name = "content">Sphinx Mining Inc said leased
 mining claims in Alaska could produce revenues between 322 mln
 dlrs and 966 mln dlrs from gold reserves.
     The range of the value of the reserves is attributed to the

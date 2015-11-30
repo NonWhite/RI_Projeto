@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:31:15.85</field>
-	<field name = "UNKNOWN">C T
-f0522
-reute
-b f BC-U.S.-DELEGATION-PLANS   03-02 0118</field>
-	<field name = "TITLE">U.S. DELEGATION PLANS TO LEAVE ICO TALKS TUESDAY</field>
+	<field name = "titulo">U.S. DELEGATION PLANS TO LEAVE ICO TALKS TUESDAY</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">The U.S. Delegation at the International
+	<field name = "content">The U.S. Delegation at the International
 Coffee Organization (ICO) talks on export quotas is planning to
 leave tomorrow morning, but will ask a representative from the
 U.S. Embassy in London to attend the negotiations if they

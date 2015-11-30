@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 14:17:53.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0371reute
-u f BC-FED'S-JOHNSON-SEES-RI   03-05 0098</field>
-	<field name = "TITLE">FED'S JOHNSON SEES RISKS IN DEBT LOAD GROWTH</field>
+	<field name = "titulo">FED'S JOHNSON SEES RISKS IN DEBT LOAD GROWTH</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Federal Reserve Board Vice Chairman
+	<field name = "content">Federal Reserve Board Vice Chairman
 Manuel Johnson said the rapid recent growth in corporate and
 household debt burdens posed risks to the economy but should be
 kept in perspective.

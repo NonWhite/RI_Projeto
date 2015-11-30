@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 11:39:27.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8363reute
-d f BC-NAT'L-SAVINGS-BANK-N   03-18 0067</field>
-	<field name = "TITLE">NAT'L SAVINGS BANK NSBA> HIRES NEW PRESIDENT</field>
+	<field name = "titulo">NAT'L SAVINGS BANK NSBA> HIRES NEW PRESIDENT</field>
 	<field name = "DATELINE">ALBANY, N.Y., March 18 -</field>
-	<field name = "BODY">National Savings Bank of Albany
+	<field name = "content">National Savings Bank of Albany
 said Thomas P. Bilbao will join the company as President and
 Chief Executive officer next month.
     He was fomerly a Senior Vice President for Goldome FSB>.

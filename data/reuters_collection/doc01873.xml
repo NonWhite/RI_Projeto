@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 18:24:24.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0047reute
-r f BC-REGAL-RGL>,-BELL-PET   03-04 0086</field>
-	<field name = "TITLE">REGAL RGL>, BELL PETROLEUM IN REORGANIZATION</field>
+	<field name = "titulo">REGAL RGL>, BELL PETROLEUM IN REORGANIZATION</field>
 	<field name = "DATELINE">HOUSTON, March 4 -</field>
-	<field name = "BODY">Regal International Inc said it proposed
+	<field name = "content">Regal International Inc said it proposed
 to submit a plan of reorganization with the U.S. Bankruptcy
 Court under which it will acquire Bell Petroleum Services INc's
 by paying out all of its creditors and issue one share for each

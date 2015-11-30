@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f1012reute
-u f BC-U.S.-GOLD-EAGLE-SALES   03-26 0104</field>
-	<field name = "TITLE">U.S. GOLD EAGLE SALES PROJECTED AT 3.1 MLN OUNCES</field>
+	<field name = "titulo">U.S. GOLD EAGLE SALES PROJECTED AT 3.1 MLN OUNCES</field>
 	<field name = "DATELINE">FRANKFURT, March 26 -</field>
-	<field name = "BODY">American Eagle gold bullion coin
+	<field name = "content">American Eagle gold bullion coin
 sales are projected at 3.1 mln troy ounces in their first year
 on the market, well above the target of 2.2 mln, Donna Pope,
 director of the U.S. Mint, told journalists.

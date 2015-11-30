@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 09:38:40.50</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1022reute
-r f BC-UST-INC-UST>-3RD-QTR   10-20 0047</field>
-	<field name = "TITLE">UST INC UST> 3RD QTR NET</field>
+	<field name = "titulo">UST INC UST> 3RD QTR NET</field>
 	<field name = "DATELINE">GREENWICH, Conn., Oct 20 -</field>
-	<field name = "BODY">Shr 60 cts vs 48 cts
+	<field name = "content">Shr 60 cts vs 48 cts
     Net 35.0 mln vs 27.8 mln
     Revs 147.2 mln vs 131.6 mln
     Nine mths

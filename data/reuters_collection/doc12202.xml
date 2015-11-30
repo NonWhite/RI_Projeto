@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 14:29:00.47</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2072reute
-u f BC-WALL-STREET-STOCKS/PO   04-01 0087</field>
-	<field name = "TITLE">WALL STREET STOCKS/POLAROID PRD></field>
+	<field name = "titulo">WALL STREET STOCKS/POLAROID PRD></field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Rumors that New York investor Asher
+	<field name = "content">Rumors that New York investor Asher
 Edelman has acquired a stake in Polaroid Corp and optimism
 about tomorrow's status hearing on the patent infringement suit
 pending with Eastman Kodak Co EK> sent Polaroid's stock

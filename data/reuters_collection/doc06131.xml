@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 13:29:51.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5967reute
-r f BC-HILTON-HOTELS-HLT>-T   03-17 0113</field>
-	<field name = "TITLE">HILTON HOTELS HLT> TO BUILD ALL SUITE HOTELS</field>
+	<field name = "titulo">HILTON HOTELS HLT> TO BUILD ALL SUITE HOTELS</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Hilton Hotels Corp chairman Barron
+	<field name = "content">Hilton Hotels Corp chairman Barron
 Hilton said the company will build 10 all-suite hotels in
 suburban markets in the next 18 to 30 months.
     Hilton said the hotels will feature between 150 and 200

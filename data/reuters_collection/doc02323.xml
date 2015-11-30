@@ -7,12 +7,9 @@
 	<field name = "PLACES">sudan</field>
 	<field name = "PLACES">somalia</field>
 	<field name = "ORGS">adb-africa</field>
-	<field name = "UNKNOWN">RM
-f0292reute
-u f AM-BANK   03-05 0100</field>
-	<field name = "TITLE">AFRICAN DEVELOPMENT BANK OPENS MOROCCO OFFICE</field>
+	<field name = "titulo">AFRICAN DEVELOPMENT BANK OPENS MOROCCO OFFICE</field>
 	<field name = "DATELINE">RABAT, March 5 -</field>
-	<field name = "BODY">The African Development Bank (ADB) opened
+	<field name = "content">The African Development Bank (ADB) opened
 a regional office in Rabat which will cover Morocco, Algeria,
 Tunisia, Egypt, Sudan and Somalia.
     Babacar N'Diaye, president of the Abidjan-based bank, said

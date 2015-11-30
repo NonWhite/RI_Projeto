@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">sumita</field>
-	<field name = "UNKNOWN">RM
-f0153reute
-b f BC-JAPAN-CAREFULLY-CONSI   03-29 0115</field>
-	<field name = "TITLE">JAPAN CAREFULLY CONSIDERING MONEY POLICY -- SUMITA</field>
+	<field name = "titulo">JAPAN CAREFULLY CONSIDERING MONEY POLICY -- SUMITA</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">Bank of Japan governor Satoshi Sumita
+	<field name = "content">Bank of Japan governor Satoshi Sumita
 said the central bank will carefully consider its monetary
 policy in light of the recent sharp fall of the dollar.
     Asked if the Bank of Japan will consider a further cut in

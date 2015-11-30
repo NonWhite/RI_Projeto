@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 12:31:42.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0076reute
-r f BC-ELECTROSPACE-ELE>-GE   03-03 0116</field>
-	<field name = "TITLE">ELECTROSPACE ELE> GETS ARMY OK FOR CONTRACT</field>
+	<field name = "titulo">ELECTROSPACE ELE> GETS ARMY OK FOR CONTRACT</field>
 	<field name = "DATELINE">RICHARDSON, Texas, March 3 -</field>
-	<field name = "BODY">Electrospace Systems Inc said
+	<field name = "content">Electrospace Systems Inc said
 it was ordered by the U.S. Army to immediately proceed with the
 design and production of a computer-based control system for
 the army's tactical voice and data communications network, in a

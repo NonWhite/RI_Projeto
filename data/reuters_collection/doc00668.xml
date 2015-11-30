@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 14:08:10.32</field>
-	<field name = "UNKNOWN">F
-f0656
-reute
-r f BC-APPLE-AAPL>,-AST-AS   03-02 0107</field>
-	<field name = "TITLE">APPLE AAPL>, AST ASTA> OFFER MS-DOS PRODUCTS</field>
+	<field name = "titulo">APPLE AAPL>, AST ASTA> OFFER MS-DOS PRODUCTS</field>
 	<field name = "DATELINE">LOS ANGELES, March 2 -</field>
-	<field name = "BODY">Apple Computer Inc and AST Research
+	<field name = "content">Apple Computer Inc and AST Research
 Inc said they are offering two products that allow MS-DOS
 software compatibility with Apple's new Macintosh SE and
 Macintosh II.

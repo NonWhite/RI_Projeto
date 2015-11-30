@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 09:09:43.36</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0859reute
-u f BC-SPECTRA-PHYSICS-SPY>   06-01 0092</field>
-	<field name = "TITLE">SPECTRA-PHYSICS SPY> BOARD REJECTS TENDER OFFER</field>
+	<field name = "titulo">SPECTRA-PHYSICS SPY> BOARD REJECTS TENDER OFFER</field>
 	<field name = "DATELINE">SAN JOSE, Calif., June 1 -</field>
-	<field name = "BODY">Spectra-Physics Inc said its
+	<field name = "content">Spectra-Physics Inc said its
 board rejected a 32 dlrs per share unsolicited tender offer for
 the company's stock from Ciba-Geigy Ltd CIGZ.Z>, which already
 holds 18.8 pct of the stock.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 11:48:33.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1533reute
-r f BC-NEW-YORK-LIFE-OFFERIN   06-02 0060</field>
-	<field name = "TITLE">NEW YORK LIFE OFFERING A GLOBAL MUTUAL FUND</field>
+	<field name = "titulo">NEW YORK LIFE OFFERING A GLOBAL MUTUAL FUND</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">New York Life Insurance Co> said it is
+	<field name = "content">New York Life Insurance Co> said it is
 offering its first global mutual fund through its wholly-owned
 subsidiary, MacKay-Shields Financial Corp.
     The new fund is called the MacKay-Shields Global Fund, the

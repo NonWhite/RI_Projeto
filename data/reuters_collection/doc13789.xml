@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 09:53:55.69</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0845reute
-u f BC-HUTTON-EFH>-ENDS-PUR   04-07 0103</field>
-	<field name = "TITLE">HUTTON EFH> ENDS PUROLATOR PCC> BID</field>
+	<field name = "titulo">HUTTON EFH> ENDS PUROLATOR PCC> BID</field>
 	<field name = "DATELINE">WILTON, Conn., April 7 -</field>
-	<field name = "BODY">Emery Air Freight Corp said it has
+	<field name = "content">Emery Air Freight Corp said it has
 entered into an agreement with E.F. Hutton Group Inc EFH under
 which Hutton will terminate its merger agreement with Purolator
 Courier Corp and its pending 35-dlr-per-share tender offer,

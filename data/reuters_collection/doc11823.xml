@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 05:47:30.94</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0382reute
-b f BC-GLAVERBEL-SHARE-OFFER   04-01 0078</field>
-	<field name = "TITLE">GLAVERBEL SHARE OFFER OVER 100 TIMES OVERSUBSCRIBED</field>
+	<field name = "titulo">GLAVERBEL SHARE OFFER OVER 100 TIMES OVERSUBSCRIBED</field>
 	<field name = "DATELINE">BRUSSELS, April 1 -</field>
-	<field name = "BODY">The public offer by Glaverbel SA,
+	<field name = "content">The public offer by Glaverbel SA,
 Europe's third biggest glassmaker, of 755,000 shares was more
 than 100 times oversubscribed, a statement by banks and share
 dealers responsible for the issue said.

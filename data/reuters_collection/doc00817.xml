@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 17:23:55.56</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0206
-reute
-u f BC-PITTWAY-CORP-PRY>-4T   03-02 0043</field>
-	<field name = "TITLE">PITTWAY CORP PRY> 4TH QTR NET</field>
+	<field name = "titulo">PITTWAY CORP PRY> 4TH QTR NET</field>
 	<field name = "DATELINE">NORTHBROOK, Ill., March 2 -</field>
-	<field name = "BODY">Shr 1.35 dlrs vs two dlrs
+	<field name = "content">Shr 1.35 dlrs vs two dlrs
     Net 6,195,000 vs 9,202,000
     Sales 157.5 mln vs 151.6 mln
     Year

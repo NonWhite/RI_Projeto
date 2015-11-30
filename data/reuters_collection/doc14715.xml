@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:31:51.97</field>
-	<field name = "UNKNOWN">G C
-f2574reute
-u f BC-export-business   04-07 0086</field>
-	<field name = "TITLE">EXPORT BUSINESS - GRAINS/OILSEEDS COMPLEX</field>
+	<field name = "titulo">EXPORT BUSINESS - GRAINS/OILSEEDS COMPLEX</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Grain and oilseed complex export
+	<field name = "content">Grain and oilseed complex export
 business reported since yesterday by government agencies and
 private exporters -
     Japanese crushers bought a total of 5,000 tonnes of

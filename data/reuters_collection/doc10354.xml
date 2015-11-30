@@ -1,15 +1,13 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:27:59.04RM</field>
-	<field name = "UNKNOWN">f0521reute</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">r f BC-NAKASONE-HARD-PRESSED   03-27 0091</field>
-	<field name = "TITLE">NAKASONE HARD-PRESSED TO SOOTHE U.S ANGER ON TRADE</field>
+	<field name = "titulo">NAKASONE HARD-PRESSED TO SOOTHE U.S ANGER ON TRADE</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Prime Minister Yasuhiro Nakasone will
+	<field name = "content">Prime Minister Yasuhiro Nakasone will
 visit Washington next month in a bid to defuse mounting U.S.
 Anger over Japanese trade policies, but Western diplomats said
 they believed his chances of success were slim.

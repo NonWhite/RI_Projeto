@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 08:19:37.17</field>
 	<field name = "PLACES">spain</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0284
-reute
-u f BC-SPANISH-FARMERS-PROTE   03-02 0102</field>
-	<field name = "TITLE">SPANISH FARMERS PROTEST, THEN CALL TRUCE</field>
+	<field name = "titulo">SPANISH FARMERS PROTEST, THEN CALL TRUCE</field>
 	<field name = "DATELINE">MADRID, March 2 -</field>
-	<field name = "BODY">Spanish farmers demanding a better deal
+	<field name = "content">Spanish farmers demanding a better deal
 from the European Community blocked roads and staged protest
 rallies this weekend before their leaders announced a truce to
 negotiate with the government.

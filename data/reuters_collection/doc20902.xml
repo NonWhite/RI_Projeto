@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 17:27:22.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f3260reute
-r f BC-KYOWA-BANK-SHORT-TERM   10-19 0116</field>
-	<field name = "TITLE">KYOWA BANK SHORT-TERM RATES UPGRADED BY S/P</field>
+	<field name = "titulo">KYOWA BANK SHORT-TERM RATES UPGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it raised
+	<field name = "content">Standard and Poor's Corp said it raised
 short-term ratings to A-1-plus from A-1 of Kyowa Bank Ltd.
     S and P cited a steady progress in all major areas of
 operation over the past few years. The upward trend in

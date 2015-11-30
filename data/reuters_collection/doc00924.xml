@@ -4,14 +4,10 @@
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">RM
-f0829
-reute
-u f BC-CHINA-CALLS-FOR-BETTE   03-03 0109</field>
-	<field name = "TITLE">CHINA CALLS FOR BETTER TRADE DEAL WITH U.S.</field>
+	<field name = "titulo">CHINA CALLS FOR BETTER TRADE DEAL WITH U.S.</field>
 	<field name = "AUTHOR">By Mark O'Neill, Reuters</field>
 	<field name = "DATELINE">PEKING, March 3 -</field>
-	<field name = "BODY">China called on the United States to
+	<field name = "content">China called on the United States to
 remove curbs on its exports, to give it favourable trading
 status and ease restrictions on exports of high technology.
     But the U.S. Embassy replied that Chinese figures showing

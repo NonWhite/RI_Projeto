@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 05:32:14.16</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0326reute
-u f BC-TOKYO-STOCKS-SEEN-HEA   06-19 0101</field>
-	<field name = "TITLE">TOKYO STOCKS SEEN HEADING FOR POSSIBLE CORRECTION</field>
+	<field name = "titulo">TOKYO STOCKS SEEN HEADING FOR POSSIBLE CORRECTION</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">The Tokyo stock market will probably not
+	<field name = "content">The Tokyo stock market will probably not
 make significant gains next week and may suffer a temporary
 correction, brokers said.
     Dashed hopes of a further cut in Japan's 2.5 pct discount

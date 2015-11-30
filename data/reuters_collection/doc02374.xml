@@ -3,13 +3,10 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">icahn</field>
-	<field name = "UNKNOWN">F
-f0477reute
-u f BC-TALKING-POINT/PIEDMON   03-05 0099</field>
-	<field name = "TITLE">TALKING POINT/PIEDMONT PIE></field>
+	<field name = "titulo">TALKING POINT/PIEDMONT PIE></field>
 	<field name = "AUTHOR">By Patti Domm, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Carl Icahn's bold takeover bid for
+	<field name = "content">Carl Icahn's bold takeover bid for
 USAir Group U> has clouded the fate of Piedmont Aviation Inc,
 which was being courted by USAir.
     Yesterday, Icahn's Transworld Airlines Inc TWA> made a 1.4

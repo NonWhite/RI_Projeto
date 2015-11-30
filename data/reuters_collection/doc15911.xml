@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 15:45:45.98</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2382reute
-u f BC-INTERNATIONAL-AMERICA   04-09 0066</field>
-	<field name = "TITLE">INTERNATIONAL AMERICAN HOME> TO ACQUIRE COS</field>
+	<field name = "titulo">INTERNATIONAL AMERICAN HOME> TO ACQUIRE COS</field>
 	<field name = "DATELINE">UNION, N.J., April 9 -</field>
-	<field name = "BODY">International American Homes Inc
+	<field name = "content">International American Homes Inc
 said it entered into a conditional contract to acquire the
 Maione-Hirschberg Cos Inc> and affiliated entitles for 19 mln
 dlrs.

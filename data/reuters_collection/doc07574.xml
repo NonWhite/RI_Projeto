@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 06:08:32.74</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0339reute
-u f BC-MOODY'S-ASSIGNS-EUROB   03-20 0097</field>
-	<field name = "TITLE">MOODY'S ASSIGNS EUROBOND RATINGS</field>
+	<field name = "titulo">MOODY'S ASSIGNS EUROBOND RATINGS</field>
 	<field name = "DATELINE">LONDON, March 20 -</field>
-	<field name = "BODY">Moody's Investors Service said it
+	<field name = "content">Moody's Investors Service said it
 assigned the following ratings to new eurobonds.
     AAA ratings were assigned to:
     Eastman Kodak Co's 135 mln U.S. Dlrs of 7-1/8 pct euronotes

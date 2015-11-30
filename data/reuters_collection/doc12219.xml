@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 14:45:38.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2137reute
-r f BC-GRUMMAN-GQ>-UNIT-WIN   04-01 0066</field>
-	<field name = "TITLE">GRUMMAN GQ> UNIT WINS MCDONNELL DOUGLAS ORDER</field>
+	<field name = "titulo">GRUMMAN GQ> UNIT WINS MCDONNELL DOUGLAS ORDER</field>
 	<field name = "DATELINE">LONG BEACH, Calif., April 1 -</field>
-	<field name = "BODY">McDonnell Douglas Corp MD>
+	<field name = "content">McDonnell Douglas Corp MD>
 said it awarded a contract valued at 28 mln dlrs to a unit of
 Grumman Corp to develop flight control surfaces for the new
 U.S. Air Force C-17 transport.

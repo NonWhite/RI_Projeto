@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 11:07:13.72</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1416reute
-b f BC-/-FED-EXPECTED-TO-SET   04-27 0102</field>
-	<field name = "TITLE">FED EXPECTED TO SET MULTI-DAY REPURCHASE PACTS</field>
+	<field name = "titulo">FED EXPECTED TO SET MULTI-DAY REPURCHASE PACTS</field>
 	<field name = "DATELINE">NEW YORK, April 27 -</field>
-	<field name = "BODY">The Federal Reserve is expected to
+	<field name = "content">The Federal Reserve is expected to
 directly supply temporary reserves by arranging three or
 four-day System repurchase agreements, economists said.
     They said there is less chance that it will add reserves

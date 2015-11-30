@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 15:05:42.30</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2745reute
-u f BC-CALMAT-CZM>-SUES-IND   10-19 0082</field>
-	<field name = "TITLE">CALMAT CZM> SUES INDUSTRIAL EQUITY</field>
+	<field name = "titulo">CALMAT CZM> SUES INDUSTRIAL EQUITY</field>
 	<field name = "DATELINE">LOS ANGELES, Oct 19 -</field>
-	<field name = "BODY">CalMat Co said it filed suit in Los
+	<field name = "content">CalMat Co said it filed suit in Los
 Angeles Superior Court against Industrial Equity (Pacific) Ltd,
 against certain of its affiliates and against Ronald Langley,
 president of Industrial Equity's North American operations.

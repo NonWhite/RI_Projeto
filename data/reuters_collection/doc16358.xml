@@ -4,12 +4,9 @@
 	<field name = "PLACES">bulgaria</field>
 	<field name = "PLACES">romania</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f1372reute
-u f BC-BULGARIA,-ROMANIA-GRA   04-13 0113</field>
-	<field name = "TITLE">BULGARIA, ROMANIA GRAIN CROP SEEN LESS FAVORABLE</field>
+	<field name = "titulo">BULGARIA, ROMANIA GRAIN CROP SEEN LESS FAVORABLE</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">Current prospects for this year's
+	<field name = "content">Current prospects for this year's
 grain crop in Bulgaria and Romania appear less favorable than
 in 1986, the U.S. Agriculture Department's officer in Belgrade
 said in a field report.

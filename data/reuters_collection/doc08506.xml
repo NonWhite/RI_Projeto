@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 16:17:44.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2359reute
-r f BC-ADVANCED-VIRAL-RESEAR   03-23 0069</field>
-	<field name = "TITLE">ADVANCED VIRAL RESEARCH PLANT SET FOR APPROVAL</field>
+	<field name = "titulo">ADVANCED VIRAL RESEARCH PLANT SET FOR APPROVAL</field>
 	<field name = "DATELINE">MIAMI BEACH, Fla., March 23 -</field>
-	<field name = "BODY">Advanced Viral Research 
+	<field name = "content">Advanced Viral Research 
 Corp> said its facility to manufacture reticulose, an anti-
 viral agent, is ready for FDA inspection.
     The company said it will make a formal request for the

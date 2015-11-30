@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">volcker</field>
 	<field name = "PEOPLE">greenspan</field>
-	<field name = "UNKNOWN">V RM
-f2906reute
-u f BC-FORD-F>-HAILS-VOLKER   06-02 0076</field>
-	<field name = "TITLE">FORD F> HAILS VOLKER, GREENSPAN</field>
+	<field name = "titulo">FORD F> HAILS VOLKER, GREENSPAN</field>
 	<field name = "DATELINE">DETROIT, June 2 -</field>
-	<field name = "BODY">Ford Motor Co praised President Reagan's
+	<field name = "content">Ford Motor Co praised President Reagan's
 nomination of Alan Greenspan as Federal Reserve Board chairman,
 saying the conservative economist has a "sound record to fill
 the void of (Paul) Volker's departure."

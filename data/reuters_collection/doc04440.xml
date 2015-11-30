@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 14:53:04.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f0169reute
-u f BC-U.S.-FARM-CREDIT-LOSS   03-12 0115</field>
-	<field name = "TITLE">U.S. FARM CREDIT LOSS PUT AT 900 MLN IN 1ST HALF</field>
+	<field name = "titulo">U.S. FARM CREDIT LOSS PUT AT 900 MLN IN 1ST HALF</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">A member of the board which
+	<field name = "content">A member of the board which
 regulates the Farm Credit System predicted the troubled farm
 lender may lose about 900 mln dlrs in the first half of 1987,
 hastening the need for a federal rescue this year.

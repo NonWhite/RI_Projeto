@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:00:19.60</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2355reute
-r f BC-dome-talking-point   04-01 0105</field>
-	<field name = "TITLE">TALKING POINT/DOME PETROLEUM DMP></field>
+	<field name = "titulo">TALKING POINT/DOME PETROLEUM DMP></field>
 	<field name = "AUTHOR">By LARRY WELSH, Reuters</field>
 	<field name = "DATELINE">TORONTO, April 1 -</field>
-	<field name = "BODY">Dome Petroleum Ltd's loss of 2.20
+	<field name = "content">Dome Petroleum Ltd's loss of 2.20
 billion dlrs, believed to be the biggest ever by a Canadian
 company, will have little impact on daily operations but will
 pressure creditors to accept a proposal to restructure Dome's

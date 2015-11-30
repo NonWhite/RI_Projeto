@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 16:23:27.39</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0042
-reute
-u f BC-ANALYSTS-SEE-NO-OTHER   03-02 0107</field>
-	<field name = "TITLE">ANALYSTS SEE NO OTHER BIDDER FOR PUROLATORPCC></field>
+	<field name = "titulo">ANALYSTS SEE NO OTHER BIDDER FOR PUROLATORPCC></field>
 	<field name = "DATELINE">New York, March 2 -</field>
-	<field name = "BODY">Several analysts said they do not
+	<field name = "content">Several analysts said they do not
 believe another suitor will top the 265 mln dlr bid for
 Purolator Courier Corp by E.F. Hutton LBO Inc and a management
 group from Purolator's courier division.

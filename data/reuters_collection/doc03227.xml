@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">T
-f0962reute
-r f BC-EC-SUGAR-IMPORT-LEVIE   03-09 0061</field>
-	<field name = "TITLE">EC SUGAR IMPORT LEVIES</field>
+	<field name = "titulo">EC SUGAR IMPORT LEVIES</field>
 	<field name = "DATELINE">BRUSSELS, MARch 9 -</field>
-	<field name = "BODY">The following import levies for white
+	<field name = "content">The following import levies for white
 and raw sugar are effective tomorrow, in European currency
 units (ecu) per 100 kilos.
     White sugar, denatured and non-denatured 49.70 versus 50.05

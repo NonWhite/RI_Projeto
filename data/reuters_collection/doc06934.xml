@@ -12,12 +12,9 @@
 	<field name = "PLACES">turkey</field>
 	<field name = "PLACES">yugoslavia</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C T
-f9787reute
-u f BC-CZARNIKOW-EXPECTS-LOW   03-18 0119</field>
-	<field name = "TITLE">CZARNIKOW EXPECTS LOWER EUROPEAN SUGAR OUTPUT</field>
+	<field name = "titulo">CZARNIKOW EXPECTS LOWER EUROPEAN SUGAR OUTPUT</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">European sugar output on the basis of
+	<field name = "content">European sugar output on the basis of
 three year average yields will be over half a mln tonnes white
 value down on last year although yields do vary widely from
 year to year, broker C Czarnikow said in its market review.

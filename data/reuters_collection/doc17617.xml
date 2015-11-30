@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">norway</field>
 	<field name = "PEOPLE">oeien</field>
-	<field name = "UNKNOWN">F
-f1520reute
-d f BC-COMPROMISE-SEEN-LIKEL   06-01 0120</field>
-	<field name = "TITLE">COMPROMISE SEEN LIKELY OVER CONOCO-STATOIL DISPUTE</field>
+	<field name = "titulo">COMPROMISE SEEN LIKELY OVER CONOCO-STATOIL DISPUTE</field>
 	<field name = "DATELINE">OSLO, June 1 -</field>
-	<field name = "BODY">Norway is expected to seek a compromise
+	<field name = "content">Norway is expected to seek a compromise
 solution to defuse a row between Den Norske Stats Oljeselskap
 A/S STAT.OL> (Statoil) and Conoco Norge A/S over which firm
 will operate the Heidrun oil field, government sources said.

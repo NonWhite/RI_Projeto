@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 10:46:24.45</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0357reute
-r f BC-SPAIN'S-MONEY-SUPPLY   03-11 0079</field>
-	<field name = "TITLE">SPAIN'S MONEY SUPPLY GROWTH DOUBLES IN FEBRUARY</field>
+	<field name = "titulo">SPAIN'S MONEY SUPPLY GROWTH DOUBLES IN FEBRUARY</field>
 	<field name = "DATELINE">MADRID, March 11 -</field>
-	<field name = "BODY">Spain's broad based M-4 money supply
+	<field name = "content">Spain's broad based M-4 money supply
 rose at an annualised rate of 16.7 pct in February against 8.1
 pct in January and 22.4 pct in February last year, Bank of
 Spain figures show.

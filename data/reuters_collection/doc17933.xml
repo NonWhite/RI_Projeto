@@ -2,13 +2,10 @@
 	<field name = "DATE">2-JUN-1987 06:33:35.26</field>
 	<field name = "PLACES">china</field>
 	<field name = "PEOPLE">deng-xiaoping</field>
-	<field name = "UNKNOWN">RM
-f0467reute
-u f BC-CHINA-DELAYS-REFORM-B   06-02 0095</field>
-	<field name = "TITLE">CHINA DELAYS REFORM BECAUSE OF POLITICS, ECONOMICS</field>
+	<field name = "titulo">CHINA DELAYS REFORM BECAUSE OF POLITICS, ECONOMICS</field>
 	<field name = "AUTHOR">By Mark O'Neill, Reuters</field>
 	<field name = "DATELINE">PEKING, June 2 -</field>
-	<field name = "BODY">China had postponed wide-ranging plans to
+	<field name = "content">China had postponed wide-ranging plans to
 reform its economy because of financial difficulties and
 pressure from powerful conservatives within the ruling
 Communist Party, western diplomats said.

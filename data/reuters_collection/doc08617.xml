@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 04:23:02.67</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0222reute
-b f BC-WILLIAMS-HOLDINGS-BID   03-24 0071</field>
-	<field name = "TITLE">WILLIAMS HOLDINGS BIDS 542.2 MLN STG FOR NORCROS</field>
+	<field name = "titulo">WILLIAMS HOLDINGS BIDS 542.2 MLN STG FOR NORCROS</field>
 	<field name = "DATELINE">LONDON, March 24 -</field>
-	<field name = "BODY">Industrial holding company Williams
+	<field name = "content">Industrial holding company Williams
 Holdings Plc said it was bidding 542.2 mln stg for the ordinary
 shares of building products and packaging group Norcros Plc.
     The offer would be made on the basis of 29 new Williams

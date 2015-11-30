@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">F
-f0527reute
-u f BC-NIPPON-STEEL-DENIES-C   04-08 0112</field>
-	<field name = "TITLE">NIPPON STEEL DENIES CHINA SEEKING JAPANESE PLANTS</field>
+	<field name = "titulo">NIPPON STEEL DENIES CHINA SEEKING JAPANESE PLANTS</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">Nippon Steel Corp NSTC.T> denied local
+	<field name = "content">Nippon Steel Corp NSTC.T> denied local
 newspaper reports that China has been seeking to buy steel
 plants from Japanese firms which plan to suspend output under
 the recently announced rationalisation program.

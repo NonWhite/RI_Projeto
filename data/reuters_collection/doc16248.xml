@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 09:33:57.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0893reute
-r f AM-texaco-analysis   04-13 0103</field>
-	<field name = "TITLE">TEXACO TX> USES BANKRUPTCY COURT TO BUY TIME</field>
+	<field name = "titulo">TEXACO TX> USES BANKRUPTCY COURT TO BUY TIME</field>
 	<field name = "AUTHOR">By Julie Vorman, Reuters</field>
 	<field name = "DATELINE">HOUSTON, April 13 -</field>
-	<field name = "BODY">Texaco Inc.'s plunge into bankruptcy to
+	<field name = "content">Texaco Inc.'s plunge into bankruptcy to
 shield it from posting a bond in its 10.53 billion dlr legal
 battle with Pennzoil Co. PZL> is a strategy that will give it
 breathing room until the fight over the 1984 acquisition of

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 15:28:09.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0412reute
-r f BC-gulf-and-western   04-17 0099</field>
-	<field name = "TITLE">GULF AND WESTERN GW> RESPONDS TO VALVE SUIT</field>
+	<field name = "titulo">GULF AND WESTERN GW> RESPONDS TO VALVE SUIT</field>
 	<field name = "DATELINE">NEW YORK, April 17 -</field>
-	<field name = "BODY">Gulf and Western Inc GW> said it
+	<field name = "content">Gulf and Western Inc GW> said it
 believes it has no liability under an earlier reported lawsuit
 seeking 500 mln dlrs in damages against it and two other
 companies.

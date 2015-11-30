@@ -2,12 +2,9 @@
 	<field name = "DATE">15-MAR-1987 22:54:27.96</field>
 	<field name = "PLACES">ecuador</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f1010reute
-u f BC-PARIBAS-PLAN-TO-ADJUS   03-15 0112</field>
-	<field name = "TITLE">PARIBAS PLAN TO ADJUST ECUADOR LOAN TERMS OPPOSED</field>
+	<field name = "titulo">PARIBAS PLAN TO ADJUST ECUADOR LOAN TERMS OPPOSED</field>
 	<field name = "DATELINE">NEW YORK, March 15 -</field>
-	<field name = "BODY">Banque Paribas, which arranged a 220
+	<field name = "content">Banque Paribas, which arranged a 220
 mln dlr loan for Ecuador last year to pre-finance oil exports,
 wants to adjust the terms of the facility to help the country
 recover from a devastating earthquake, bankers said.

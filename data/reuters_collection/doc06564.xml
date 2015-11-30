@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 11:39:47.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8365reute
-d f BC-POLICY-MANAGEMENT-PM   03-18 0070</field>
-	<field name = "TITLE">POLICY MANAGEMENT PMSC> TO DEVELOP NEW SYSTEMS</field>
+	<field name = "titulo">POLICY MANAGEMENT PMSC> TO DEVELOP NEW SYSTEMS</field>
 	<field name = "DATELINE">COLUMBIA, S.C., March 18 -</field>
-	<field name = "BODY">Policy Management Systems Corp
+	<field name = "content">Policy Management Systems Corp
 said it has begun development of a new generation of systems
 that will be introduced in early 1988.
     The provider of software to the insurance industry said the

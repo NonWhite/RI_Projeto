@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G
-f1079reute
-d f BC-CPC-EXPECTS-EUROPEAN   03-25 0120</field>
-	<field name = "TITLE">CPC EXPECTS EUROPEAN SALE TO CUT DEBT</field>
+	<field name = "titulo">CPC EXPECTS EUROPEAN SALE TO CUT DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">CPC International Inc officials said
+	<field name = "content">CPC International Inc officials said
 the sale of the company's European corn wet milling business
 will remove about 700 mln dlrs of debt and liabilities from
 CPC's balance sheet.

@@ -2,12 +2,9 @@
 	<field name = "DATE">5-APR-1987 20:33:27.71</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">thatcher</field>
-	<field name = "UNKNOWN">RM
-f0096reute
-u f BC-BRITISH-OPINION-POLLS   04-05 0095</field>
-	<field name = "TITLE">BRITISH OPINION POLLS CONFIRM THATCHER LEAD</field>
+	<field name = "titulo">BRITISH OPINION POLLS CONFIRM THATCHER LEAD</field>
 	<field name = "DATELINE">LONDON, April 6 -</field>
-	<field name = "BODY">Public opinion polls showing a surge in
+	<field name = "content">Public opinion polls showing a surge in
 support for British Prime Minister Margaret Thatcher following
 her trip to Moscow have raised the possibility she will call a
 spring election, political analysts said.

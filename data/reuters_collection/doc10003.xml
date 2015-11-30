@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:17:26.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f1745reute
-d f BC-KEY-HOUSE-MEMBER-OPPO   03-26 0113</field>
-	<field name = "TITLE">KEY U.S. HOUSE MEMBER OPPOSES CFTC USER PLAN</field>
+	<field name = "titulo">KEY U.S. HOUSE MEMBER OPPOSES CFTC USER PLAN</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">A key U.S. House member said he
+	<field name = "content">A key U.S. House member said he
 opposed a Reagan administration plan to shift the cost of
 surveillance of futures exchanges to the private sector.
     "I just think user fees are the wrong way to attack a

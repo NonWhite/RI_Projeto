@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:50:01.42</field>
-	<field name = "UNKNOWN">RM F
-f0498reute
-u f BC-SHARE-PRICES-NEAR-DAY   04-07 0105</field>
-	<field name = "TITLE">SHARE PRICES NEAR DAY'S LOWS AT LONDON MIDSESSION</field>
+	<field name = "titulo">SHARE PRICES NEAR DAY'S LOWS AT LONDON MIDSESSION</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Equities steadied near the day's lows at
+	<field name = "content">Equities steadied near the day's lows at
 midsession after a hesistant start mainly due to lack of
 interest in quiet trading conditions.
     Dealers said most of the trading appeared to be

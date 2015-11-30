@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:27:37.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1426reute
-r f BC-ATT-T>-DEVELOPS-SUPE   04-08 0102</field>
-	<field name = "TITLE">ATT T> DEVELOPS SUPERCONDUCTING WIRE</field>
+	<field name = "titulo">ATT T> DEVELOPS SUPERCONDUCTING WIRE</field>
 	<field name = "DATELINE">DENVER, April 8 -</field>
-	<field name = "BODY">American Telephone and Telegraph Co said
+	<field name = "content">American Telephone and Telegraph Co said
 it has developed superconducting wires that can easily be
 formed into coils.
     It said when cooled to 91 degrees Kelvin, or 296 degrees

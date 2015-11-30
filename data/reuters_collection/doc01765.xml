@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 15:42:19.87</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f0645reute
-d f BC-IRVINE-SENSORS-IRSN>   03-04 0071</field>
-	<field name = "TITLE">IRVINE SENSORS IRSN> COMPLETES UNIT OFFERING</field>
+	<field name = "titulo">IRVINE SENSORS IRSN> COMPLETES UNIT OFFERING</field>
 	<field name = "DATELINE">COSTA MESA, Calif., March 4 -</field>
-	<field name = "BODY">Irvine Sensors Corp said it
+	<field name = "content">Irvine Sensors Corp said it
 completed a public offering of 1.25 mln units, consisting of
 two shares of common stock and one warrant to purchase an
 additional share.

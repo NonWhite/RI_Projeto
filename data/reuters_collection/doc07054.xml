@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 08:49:57.02</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f0709reute
-u f BC-SWISSAIR-PLANE-ORDER   03-19 0112</field>
-	<field name = "TITLE">SWISSAIR PLANE ORDER FOR 1.2 BILLION SWISS FRANCS</field>
+	<field name = "titulo">SWISSAIR PLANE ORDER FOR 1.2 BILLION SWISS FRANCS</field>
 	<field name = "DATELINE">ZURICH, March 19 -</field>
-	<field name = "BODY">Swissair SWSZ.Z> said that the order
+	<field name = "content">Swissair SWSZ.Z> said that the order
 for McDonnell Douglas Corp MD> MD-11 long haul jets confirmed
 this morning was worth a total 1.2 billion Swiss francs.
     President Robert Staubli told a news conference it had not

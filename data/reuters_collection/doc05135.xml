@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 19:13:45.10</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">E A RM
-f0748reute
-u f BC-CANADIAN-BANKER-THINK   03-13 0101</field>
-	<field name = "TITLE">CANADIAN BANKER SAYS BRAZIL ECONOMIC GROWTH VITAL</field>
+	<field name = "titulo">CANADIAN BANKER SAYS BRAZIL ECONOMIC GROWTH VITAL</field>
 	<field name = "DATELINE">BRASILIA, MARCH 13 -</field>
-	<field name = "BODY">William Mulholland, president of the
+	<field name = "content">William Mulholland, president of the
 Bank of Montreal, said here it is important for Brazil to seek
 its economic growth.
     Speaking to reporters after a meeting with Brazilian

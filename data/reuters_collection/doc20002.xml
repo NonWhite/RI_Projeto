@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 23:59:09.79</field>
 	<field name = "PLACES">japan</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">RM AI 
-f0013reute
-b f BC-JAPAN-TAKES-WAIT-AND-   10-19 0107</field>
-	<field name = "TITLE">JAPAN TAKES WAIT-AND-SEE STANCE ON STOCKS-OFFICIAL</field>
+	<field name = "titulo">JAPAN TAKES WAIT-AND-SEE STANCE ON STOCKS-OFFICIAL</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">The Finance Ministry will take a
+	<field name = "content">The Finance Ministry will take a
 wait-and-see stance on Tokyo Stock Exchange movement, although
 it is gravely concerned about the sharp fall in stock prices, a
 senior Ministry official said.

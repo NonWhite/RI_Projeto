@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:51:49.32F</field>
-	<field name = "UNKNOWN">f1104reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">b f BC-GM-GM>,-STRIKING-UAW   03-27 0093</field>
-	<field name = "TITLE">GM GM>, STRIKING UAW RESUME TALKS</field>
+	<field name = "titulo">GM GM>, STRIKING UAW RESUME TALKS</field>
 	<field name = "DATELINE">PONTIAC, Mich., March 27 -</field>
-	<field name = "BODY">Negotiators for General Motors
+	<field name = "content">Negotiators for General Motors
 Corp and the United Auto Workers union, which yesterday shut
 down the automaker's Pontiac, Mich., truck plant, resumed talks
 in search of a local contract for the facility.

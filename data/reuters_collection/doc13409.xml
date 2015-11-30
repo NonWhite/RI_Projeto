@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:22:58.73</field>
-	<field name = "UNKNOWN">RM
-f0164reute
-u f BC-GERMAN-BONDS-BARELY-C   04-07 0114</field>
-	<field name = "TITLE">GERMAN BONDS BARELY CHANGED IN QUIET PRE-BOURSE</field>
+	<field name = "titulo">GERMAN BONDS BARELY CHANGED IN QUIET PRE-BOURSE</field>
 	<field name = "DATELINE">FRANKFURT, April 7 -</field>
-	<field name = "BODY">Prices of public authority bonds were
+	<field name = "content">Prices of public authority bonds were
 barely changed in quiet pre-bourse trading, with some foreign
 investors taking profits but others opening fresh positions.
     Dealers said long maturities fluctuated between gains and

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 10:23:12.54</field>
 	<field name = "PLACES">nigeria</field>
-	<field name = "UNKNOWN">RM
-f1221reute
-u f BC-NIGERIA-IN-MAJOR-TARI   03-31 0106</field>
-	<field name = "TITLE">NIGERIA IN MAJOR TARIFFS REVIEW BY JULY</field>
+	<field name = "titulo">NIGERIA IN MAJOR TARIFFS REVIEW BY JULY</field>
 	<field name = "DATELINE">LAGOS, MARCH 31 -</field>
-	<field name = "BODY">The Nigerian government will carry out a
+	<field name = "content">The Nigerian government will carry out a
 major review of import tariffs by the end of July, said member
 of the ruling council and chief of general staff Rear-Admiral
 Augustus Aikhomu, seen as the government's number two.

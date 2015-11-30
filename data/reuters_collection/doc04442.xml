@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 14:58:35.94</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0178reute
-r f BC-macmillan-bloedel   03-12 0094</field>
-	<field name = "TITLE">MACMILLAN BLOEDEL MMBLF> STOCK UP SHARPLY</field>
+	<field name = "titulo">MACMILLAN BLOEDEL MMBLF> STOCK UP SHARPLY</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, March 12 -</field>
-	<field name = "BODY">MacMillan Bloedel
+	<field name = "content">MacMillan Bloedel
 Ltd's share price rose 4-1/2 dlrs to 79-1/4 after climbing by
 as much as 5-1/4 dlrs in trading earlier on the Toronto Stock
 Exchange.

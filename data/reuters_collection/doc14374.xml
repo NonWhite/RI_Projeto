@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 12:44:00.11</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">boesky</field>
-	<field name = "UNKNOWN">V RM
-f1646reute
-b f BC-BOESKY-AIDE-AGREES-TO   04-07 0091</field>
-	<field name = "TITLE">BOESKY AIDE AGREES TO STOCK TRADING PENALTIES</field>
+	<field name = "titulo">BOESKY AIDE AGREES TO STOCK TRADING PENALTIES</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Michael Davidoff, head trader for
+	<field name = "content">Michael Davidoff, head trader for
 Ivan Boesky's Seemala Corp, consented to Securities and
 Exchange Commission penalities and agreed to help in its
 continuing investigation of insider trading, the SEC said.

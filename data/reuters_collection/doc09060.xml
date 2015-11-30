@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2623reute
-b f BC-/FED'S-JOHNSON-SAYS-F   03-24 0088</field>
-	<field name = "TITLE">FED'S JOHNSON SAYS FED ACTED TO STABILIZE DOLLAR</field>
+	<field name = "titulo">FED'S JOHNSON SAYS FED ACTED TO STABILIZE DOLLAR</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">Federal Reserve Board Vice Chairman
+	<field name = "content">Federal Reserve Board Vice Chairman
 Manuel Johnson said the dollar has stabilized against other
 currencies after action taken by the Fed.
     "We have taken the appropriate action and the dollar has

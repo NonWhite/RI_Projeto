@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 05:44:48.03</field>
 	<field name = "PLACES">singapore</field>
 	<field name = "EXCHANGES">sse</field>
-	<field name = "UNKNOWN">RM
-f4407reute
-u f BC-SINGAPORE-ENDS-SCHEME   03-17 0115</field>
-	<field name = "TITLE">SINGAPORE ENDS SCHEME TO HELP BROKING FIRMS</field>
+	<field name = "titulo">SINGAPORE ENDS SCHEME TO HELP BROKING FIRMS</field>
 	<field name = "DATELINE">SINGAPORE, March 17 -</field>
-	<field name = "BODY">The Stock Exchange of Singapore has
+	<field name = "content">The Stock Exchange of Singapore has
 decided to discontinue a 150 mln dlr standby credit facility
 for broking firms facing financial problems because of the
 failure of Pan-Electric Industries Ltd, an exchange statement

@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 11:08:55.24</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f0457reute
-r f BC-AMERICAN-CAN-AC>-TO   03-06 0097</field>
-	<field name = "TITLE">AMERICAN CAN AC> TO CHANGE NAME</field>
+	<field name = "titulo">AMERICAN CAN AC> TO CHANGE NAME</field>
 	<field name = "DATELINE">GREENWICH, Conn., March 6 -</field>
-	<field name = "BODY">American Can Co said it plans
+	<field name = "content">American Can Co said it plans
 to change its name to Primerica Corp, subject to approval by
 shareholders at the April 28 annual meeting.
     It said its new New York Stock Exchange ticker symbol would

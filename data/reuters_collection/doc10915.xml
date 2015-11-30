@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 12:52:14.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1876reute
-u f BC-GM-GM>-SAID-TO-CUT-2   03-30 0097</field>
-	<field name = "TITLE">GM GM> SAID TO CUT 2ND QTR OUTPUT SCHEDULES</field>
+	<field name = "titulo">GM GM> SAID TO CUT 2ND QTR OUTPUT SCHEDULES</field>
 	<field name = "DATELINE">DETROIT, March 30 -</field>
-	<field name = "BODY">General Motors Corp has cut 100,000
+	<field name = "content">General Motors Corp has cut 100,000
 cars from its second quarter production schedule, according to
 Automotive News.
     The trade paper, citing "sources both within GM and on the

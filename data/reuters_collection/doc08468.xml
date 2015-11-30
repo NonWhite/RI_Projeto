@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 15:13:01.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2179reute
-r f BC-MOODY'S-CUTS-TEXAS-AI   03-23 0110</field>
-	<field name = "TITLE">MOODY'S CUTS TEXAS AIR TEX>, AFFIRMS EASTERN</field>
+	<field name = "titulo">MOODY'S CUTS TEXAS AIR TEX>, AFFIRMS EASTERN</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 downgraded Texas Air Corp's 410 mln dlrs of debt and affirmed
 the unit Eastern Air Lines Inc's 703.4 mln dlrs of debt.
     The agency cut Texas Air's senior secured debt to B-3 from

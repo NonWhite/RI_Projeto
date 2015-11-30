@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 17:30:45.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0459reute
-r f BC-DIAMOND-SHAMROCK-DIA   04-17 0090</field>
-	<field name = "TITLE">DIAMOND SHAMROCK DIA> TO REDEEM DEBENTURES</field>
+	<field name = "titulo">DIAMOND SHAMROCK DIA> TO REDEEM DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, April 17 -</field>
-	<field name = "BODY">Diamond Shamrock Corp said it will
+	<field name = "content">Diamond Shamrock Corp said it will
 redeem May 29 the entire outstanding amounts of three separate
 sinking fund debenture issues.
     The company will buy back its outstanding 79.7 mln dlrs of

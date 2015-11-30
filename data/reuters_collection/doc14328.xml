@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:29:28.17</field>
-	<field name = "UNKNOWN">M
-f1580reute
-u f BC-LME-NICKEL-CLOSE-SLIP   04-07 0132</field>
-	<field name = "TITLE">LME NICKEL CLOSE SLIPS TO DAY'S LOW</field>
+	<field name = "titulo">LME NICKEL CLOSE SLIPS TO DAY'S LOW</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">LME nickel ended the afternoon rings with
+	<field name = "content">LME nickel ended the afternoon rings with
 three months metal indicated from 2,355 to 2,360 stg per tonne,
 equivalent to 1.7175 dlrs per lb, unchanged from yesterday's
 afternoon kerb close.

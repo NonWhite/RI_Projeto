@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 15:20:49.21</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0259reute
-d f BC-NEW-LINE-CINEMA-CORP   03-12 0046</field>
-	<field name = "TITLE">NEW LINE CINEMA CORP NLN> 4TH QTR NET</field>
+	<field name = "titulo">NEW LINE CINEMA CORP NLN> 4TH QTR NET</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Shr 11 cts vs nine cts
+	<field name = "content">Shr 11 cts vs nine cts
     Net 677,498 vs 461,485
     Revs 6,271,010 vs 5,135,729
     Year

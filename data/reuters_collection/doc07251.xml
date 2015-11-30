@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 12:40:42.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1675reute
-r f BC-IMMUNOGENETICS-IGEN>   03-19 0072</field>
-	<field name = "TITLE">IMMUNOGENETICS IGEN> IN RIGHTS PLAN</field>
+	<field name = "titulo">IMMUNOGENETICS IGEN> IN RIGHTS PLAN</field>
 	<field name = "DATELINE">VINELAND, N.J., March 19 -</field>
-	<field name = "BODY">Immunogenetics Inc said it
+	<field name = "content">Immunogenetics Inc said it
 declared the distribution of one common stock purchase right on
 each outstanding share.
     Each right will entitle holders to buy a share at 20 dlrs

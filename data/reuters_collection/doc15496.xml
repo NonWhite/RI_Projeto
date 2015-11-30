@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:13:08.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0778reute
-r f BC-BIOSYSTEMS-RESEARCH-T   04-09 0083</field>
-	<field name = "TITLE">BIOSYSTEMS RESEARCH TESTS TECHNOLOGY FOR AIDS</field>
+	<field name = "titulo">BIOSYSTEMS RESEARCH TESTS TECHNOLOGY FOR AIDS</field>
 	<field name = "DATELINE">CUPERTINO, Calif., April 9 -</field>
-	<field name = "BODY">Biosystems Research Inc> said
+	<field name = "content">Biosystems Research Inc> said
 its new technique for a treatment for Acquired Immune
 Deficiency Syndrome showed good results on subjects who were
 treated.

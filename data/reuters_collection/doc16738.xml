@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">ecuador</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">Y RM
-f2827reute
-u f AM-oil-ecuador   04-13 0086</field>
-	<field name = "TITLE">ECUADOR SAYS WILL RESUME LIMITED OIL PRODUCTION</field>
+	<field name = "titulo">ECUADOR SAYS WILL RESUME LIMITED OIL PRODUCTION</field>
 	<field name = "DATELINE">QUITO, April 13 -</field>
-	<field name = "BODY">Ecuador will resume limited crude output
+	<field name = "content">Ecuador will resume limited crude output
 next week to fill up storage tanks as a first step to pump oil
 to a Colombian pipeline on May one, the state Ecuadorean
 Petroleum Corp (CEPE) said.

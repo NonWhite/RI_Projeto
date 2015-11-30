@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 18:49:16.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2695reute
-u f BC-DALLAS-BASED-THRIFT-C   03-20 0103</field>
-	<field name = "TITLE">DALLAS-BASED THRIFT CLOSED BY REGULATORS</field>
+	<field name = "titulo">DALLAS-BASED THRIFT CLOSED BY REGULATORS</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">The Federal Home Loan Bank Board
+	<field name = "content">The Federal Home Loan Bank Board
 said Dallas-based Vernon Savings and Loan Association, the 15th
 largest thrift in Texas, was closed by state authorities and
 its assets, deposits and liabilities were transfered to a new

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 12:56:06.85</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1654reute
-r f BC-SAFEWAY-AGREES-TO-SEV   06-19 0095</field>
-	<field name = "TITLE">SAFEWAY AGREES TO SEVERANCE FOR DALLAS WORKERS</field>
+	<field name = "titulo">SAFEWAY AGREES TO SEVERANCE FOR DALLAS WORKERS</field>
 	<field name = "DATELINE">WASHINGTON, June 19 -</field>
-	<field name = "BODY">The United Food and Commercial
+	<field name = "content">The United Food and Commercial
 Workers Union said unlisted Safeway Inc has agreed to provide
 severance pay to about 5,000 workers in the Dallas area
 resulting from the closure of a division last April.

@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:47:25.64RM</field>
-	<field name = "UNKNOWN">f1692reute</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">b f BC-BULL-TO-ISSUE-800-MLN   03-27 0108</field>
-	<field name = "TITLE">BULL TO ISSUE 800 MLN FRANCS STOCK OPTION BONDS</field>
+	<field name = "titulo">BULL TO ISSUE 800 MLN FRANCS STOCK OPTION BONDS</field>
 	<field name = "DATELINE">PARIS, March 27 -</field>
-	<field name = "BODY">French state computer group Cie des
+	<field name = "content">French state computer group Cie des
 Machines Bull BULP.PA> will issue 800 mln French francs worth
 of stock option bonds, the Finance Ministry said.
     Each bond of 1,000 francs nominal and six pct interest,

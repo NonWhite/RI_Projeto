@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 08:41:05.58</field>
 	<field name = "TOPICS">housing</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V 
-f0827reute
-b f BC-/U.S.-HOUSING-STARTS   10-20 0081</field>
-	<field name = "TITLE">U.S. HOUSING STARTS ROSE 4.4 PCT IN SEPTEMBER</field>
+	<field name = "titulo">U.S. HOUSING STARTS ROSE 4.4 PCT IN SEPTEMBER</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">U.S. housing starts rose 4.4 pct in
+	<field name = "content">U.S. housing starts rose 4.4 pct in
 September to a seasonally adjusted annual rate of 1,669,000
 units, the Commerce Department said.
     In August, housing starts were unchanged from July levels

@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T 
-f3256reute
-u f AM-COMMUNITY-AGRICULTURE   10-20 0128</field>
-	<field name = "TITLE">EC FARM MINISTERS BACK SPENDING CURBS IDEA</field>
+	<field name = "titulo">EC FARM MINISTERS BACK SPENDING CURBS IDEA</field>
 	<field name = "DATELINE">LUXEMBOURG, Oct 20 -</field>
-	<field name = "BODY">European Community (EC) agriculture
+	<field name = "content">European Community (EC) agriculture
 ministers gave their support in principle for a new scheme to
 limit spending on the bloc's controversial farm policy at a
 meeting in Luxembourg on Tuesday, Danish minister Laurits

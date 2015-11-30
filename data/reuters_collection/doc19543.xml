@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 06:27:31.93</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F 
-f0447reute
-u f BC-VW-SUFFERS-IMAGE-LOSS   06-29 0092</field>
-	<field name = "TITLE">VW SUFFERS IMAGE LOSS IN WAKE OF CURRENCY SCANDAL</field>
+	<field name = "titulo">VW SUFFERS IMAGE LOSS IN WAKE OF CURRENCY SCANDAL</field>
 	<field name = "AUTHOR">By Anthony Williams, Reuters</field>
 	<field name = "DATELINE">BONN, June 29 -</field>
-	<field name = "BODY">Share analysts and commentators say
+	<field name = "content">Share analysts and commentators say
 Volkswagen AG VOWG.F> has suffered an enormous loss of face
 from which it could take time to recover over its 473 mln mark
 currency swindle.

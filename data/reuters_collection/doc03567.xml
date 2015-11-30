@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 09:00:34.25</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0921reute
-r f BC-SHANGHAI-PLANS-SOFT-L   03-11 0105</field>
-	<field name = "TITLE">SHANGHAI PLANS SOFT LOANS TO FINANCE MAIN PROJECTS</field>
+	<field name = "titulo">SHANGHAI PLANS SOFT LOANS TO FINANCE MAIN PROJECTS</field>
 	<field name = "DATELINE">SHANGHAI, March 11 -</field>
-	<field name = "BODY">Shanghai plans to rely on soft loans
+	<field name = "content">Shanghai plans to rely on soft loans
 to finance a number of large-scale projects in the city
 including an underground railway system, Mayor Jiang Zemin
 said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">28-APR-1987 17:23:28.70</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f2959reute
-u f BC-NYSE-SAYS-ADVEST-ADV   04-28 0079</field>
-	<field name = "TITLE">NYSE SAYS ADVEST ADV> DECLINES COMMENT</field>
+	<field name = "titulo">NYSE SAYS ADVEST ADV> DECLINES COMMENT</field>
 	<field name = "DATELINE">NEW YORK, APril 28 -</field>
-	<field name = "BODY">Advest Group Inc said it is against
+	<field name = "content">Advest Group Inc said it is against
 company policy to comment on unusual market activity or rumors
 in response to inquiries on the unusual activity of its stock,
 according to the New York Stock Exchange.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 14:10:37.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2041reute
-u f BC-VOLKSWAGEN-TO-IDLE-U.   04-24 0064</field>
-	<field name = "TITLE">VOLKSWAGEN TO IDLE U.S. PLANT, 1,650 WORKERS</field>
+	<field name = "titulo">VOLKSWAGEN TO IDLE U.S. PLANT, 1,650 WORKERS</field>
 	<field name = "DATELINE">NEW STANTON, Pa., April 24 -</field>
-	<field name = "BODY">Volkswagen of America said it
+	<field name = "content">Volkswagen of America said it
 will shut down its U.S. car assembly plant for two weeks and
 idle 1,650 workers.
     The wholly owned subsidiary of Volkswagen A.G. said the

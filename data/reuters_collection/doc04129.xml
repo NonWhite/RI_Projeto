@@ -2,13 +2,10 @@
 	<field name = "DATE">12-MAR-1987 07:34:26.59</field>
 	<field name = "PLACES">france</field>
 	<field name = "EXCHANGES">pse</field>
-	<field name = "UNKNOWN">RM
-f0592reute
-r f BC-ECONOMIC-SPOTLIGHT--   03-12 0099</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - PARIS BOURSE REFORM</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - PARIS BOURSE REFORM</field>
 	<field name = "AUTHOR">By Malcolm Whittaker and Franck Pauly, Reuters</field>
 	<field name = "DATELINE">PARIS, March 12 -</field>
-	<field name = "BODY">French stockbrokers will lose their
+	<field name = "content">French stockbrokers will lose their
 jealously guarded 180-year-old monopoly of share trading over
 the next five years under reforms announced on Tuesday by
 Finance Minister Edouard Balladur.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 15:48:37.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2925reute
-d f BC-FMC-FMC>-UNIT-WINS-P   10-19 0086</field>
-	<field name = "TITLE">FMC FMC> UNIT WINS PATENT FOR ANTI-ICING FLUID</field>
+	<field name = "titulo">FMC FMC> UNIT WINS PATENT FOR ANTI-ICING FLUID</field>
 	<field name = "DATELINE">PHILADELPHIA, Oct 19 -</field>
-	<field name = "BODY">FMC Corp said its Marine Colloids
+	<field name = "content">FMC Corp said its Marine Colloids
 division was awarded a patent for anti-icing fluids thickened
 with carrageenan seaplant extract.
     The company said the patent covers glycol-based anti-icing

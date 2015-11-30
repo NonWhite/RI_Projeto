@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F
-f2810reute
-u f BC-OIL-EXECUTIVES-SEE-ST   03-26 0108</field>
-	<field name = "TITLE">OIL EXECUTIVES SEE GRADUAL RISE IN PRICES</field>
+	<field name = "titulo">OIL EXECUTIVES SEE GRADUAL RISE IN PRICES</field>
 	<field name = "DATELINE">HOUSTON, March 26 -</field>
-	<field name = "BODY">Top executives with Tenneco Corp TGT>
+	<field name = "content">Top executives with Tenneco Corp TGT>
 and Sabine Corp SAB> said they expected world oil prices to
 gradually increase over the next two years as U.S. reliance on
 imports of oil from the Middle East grows.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:24:01.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2682reute
-u f BC-US-WEST-USW>-REPURCH   10-20 0037</field>
-	<field name = "TITLE">US WEST USW> REPURCHASING SHARES</field>
+	<field name = "titulo">US WEST USW> REPURCHASING SHARES</field>
 	<field name = "DATELINE">DENVER, COLO., Oct 20 -</field>
-	<field name = "BODY">US West Inc said it is aggressively
+	<field name = "content">US West Inc said it is aggressively
 repurchasing its shares.
     In 1984, directors authorized the repurchase of up to 10
 mln shares over any three year period.

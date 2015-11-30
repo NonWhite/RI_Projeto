@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:23:17.89</field>
-	<field name = "UNKNOWN">C T
-f1555reute
-b f BC-LONDON-COFFEE-CLOSES   04-07 0102</field>
-	<field name = "TITLE">LONDON COFFEE CLOSES FIRMER IN DULL TRADING</field>
+	<field name = "titulo">LONDON COFFEE CLOSES FIRMER IN DULL TRADING</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Robusta futures closed firmer after a
+	<field name = "content">Robusta futures closed firmer after a
 lacklustre session, ranging 19 to three stg per tonne higher.
 Second position July settled up 19 at 1,270 stg.
     The rise mostly reflected a technical consolidation of

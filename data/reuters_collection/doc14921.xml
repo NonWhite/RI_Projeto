@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 07:31:06.12</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">C T
-f0569reute
-u f BC-RAIN-BOOSTS-CENTRAL-Q   04-08 0111</field>
-	<field name = "TITLE">RAIN BOOSTS CENTRAL QUEENSLAND SUGAR CANE CROP</field>
+	<field name = "titulo">RAIN BOOSTS CENTRAL QUEENSLAND SUGAR CANE CROP</field>
 	<field name = "DATELINE">SYDNEY, April 8 -</field>
-	<field name = "BODY">Good rains of one to four inches in the
+	<field name = "content">Good rains of one to four inches in the
 past 10 days have boosted moisture-stressed sugar cane crops in
 the Mackay-Burdekin region of Queensland's central coast, an
 Australian Sugar Producers' Association spokesman said.

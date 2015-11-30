@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 09:09:14.26</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0819reute
-r f BC-COOPER-CANADA-CPC.TO   04-13 0070</field>
-	<field name = "TITLE">COOPER CANADA CPC.TO> SETS SHARE CONSOLIDATION</field>
+	<field name = "titulo">COOPER CANADA CPC.TO> SETS SHARE CONSOLIDATION</field>
 	<field name = "DATELINE">TORONTO, April 13 -</field>
-	<field name = "BODY">Cooper Canada Ltd said it planned to
+	<field name = "content">Cooper Canada Ltd said it planned to
 consolidate its common and class A non-voting shares into one
 class of common shares, subject to shareholder approval on May
 1.

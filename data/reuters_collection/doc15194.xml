@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:34:36.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1999reute
-w f BC-RESEARCH-INDUSTRIES-   04-08 0070</field>
-	<field name = "TITLE">RESEARCH INDUSTRIES REIC> UNVEILS NEW PRODUCTS</field>
+	<field name = "titulo">RESEARCH INDUSTRIES REIC> UNVEILS NEW PRODUCTS</field>
 	<field name = "DATELINE">SALT LAKE CITY, April 8 -</field>
-	<field name = "BODY">Research Industries Corp said it
+	<field name = "content">Research Industries Corp said it
 is introducing three additions to its line of cardiovascular
 specialty products.
     The company said the products are a patented drainage

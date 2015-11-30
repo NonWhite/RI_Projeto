@@ -5,12 +5,9 @@
 	<field name = "PEOPLE">de-clercq</field>
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">RM
-f0008reute
-u f BC-EC-LINKS-AGRICULTURAL   03-26 0117</field>
-	<field name = "TITLE">EC LINKS AGRICULTURAL TRADE TALKS TO OTHER REFORM</field>
+	<field name = "titulo">EC LINKS AGRICULTURAL TRADE TALKS TO OTHER REFORM</field>
 	<field name = "DATELINE">SYDNEY, March 25 -</field>
-	<field name = "BODY">The European Community (EC) considers
+	<field name = "content">The European Community (EC) considers
 talks on agricultural trade reform to be inseperable from talks
 on other trade reform in the present GATT round, Willy de
 Clercq, external relations commissioner of the EC, said.

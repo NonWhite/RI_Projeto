@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">Y 
-f0686reute
-u f BC-INDONESIA-FINDS-NEW-O   10-20 0109</field>
-	<field name = "TITLE">INDONESIA FINDS NEW OFFSHORE OIL AND GAS RESOURCES</field>
+	<field name = "titulo">INDONESIA FINDS NEW OFFSHORE OIL AND GAS RESOURCES</field>
 	<field name = "DATELINE">JAKARTA, Oct 20 -</field>
-	<field name = "BODY">The Indonesian state-owned oil company
+	<field name = "content">The Indonesian state-owned oil company
 Pertamina has found new offshore oil and gas resources in East
 Aceh, on the western tip of northern Sumatra, a company
 spokesman said.

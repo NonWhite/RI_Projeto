@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:42:47.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0603reute
-r f BC-FIELDCREST-CANNON-FL   03-06 0077</field>
-	<field name = "TITLE">FIELDCREST CANNON FLD> TO SELL CONVERTIBLE DEBT</field>
+	<field name = "titulo">FIELDCREST CANNON FLD> TO SELL CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Fieldcrest Cannon Inc said it filed
+	<field name = "content">Fieldcrest Cannon Inc said it filed
 with the Securities and Exchange Commission a registration
 statement covering a 100 mln dlr issue of convertible
 subordinated debentures.

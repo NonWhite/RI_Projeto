@@ -2,13 +2,9 @@
 	<field name = "DATE">1-MAR-1987 02:02:38.54</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0365
-reute
-u f BC-ITALIAN-TREASURY-CUTS   03-01 0076</field>
-	<field name = "TITLE">ITALIAN TREASURY CUTS INTEREST ON CERTIFICATES</field>
+	<field name = "titulo">ITALIAN TREASURY CUTS INTEREST ON CERTIFICATES</field>
 	<field name = "DATELINE">ROME, March 1 -</field>
-	<field name = "BODY">The Italian treasury said annual coupon
+	<field name = "content">The Italian treasury said annual coupon
 rates payable March 1988 on two issues of long-term treasury
 certificates (CCTs) would be cut by about four percentage
 points compared with rates this March.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:29:53.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2704reute
-s f BC-LOEWS-CORP-LTR>-SETS   10-20 0020</field>
-	<field name = "TITLE">LOEWS CORP LTR> SETS QUARTERLY</field>
+	<field name = "titulo">LOEWS CORP LTR> SETS QUARTERLY</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Qtly div 25 cts vs 25 cts prior
+	<field name = "content">Qtly div 25 cts vs 25 cts prior
     Pay Dec One
     Record Nov 12
  Reuter</field>

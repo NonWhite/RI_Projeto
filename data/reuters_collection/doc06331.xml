@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 17:47:29.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6743reute
-r f BC-HAWKEYE-HWKB>-HOLDER   03-17 0069</field>
-	<field name = "TITLE">HAWKEYE HWKB> HOLDERS APPROVE DEBT PLAN</field>
+	<field name = "titulo">HAWKEYE HWKB> HOLDERS APPROVE DEBT PLAN</field>
 	<field name = "DATELINE">DES MOINES, Ia., March 17 -</field>
-	<field name = "BODY">Hawkeye Bancorporation said
+	<field name = "content">Hawkeye Bancorporation said
 shareholders at the annual meeting approved the bank holding
 company's debt restructuring package with its principal
 creditors.

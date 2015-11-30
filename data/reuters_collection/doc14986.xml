@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">V RM
-f0976reute
-u f BC-/STOLTENBERG-SEES-MOV   04-08 0097</field>
-	<field name = "TITLE">STOLTENBERG SEES MOVES TO STRENGTHEN PARIS ACCORD</field>
+	<field name = "titulo">STOLTENBERG SEES MOVES TO STRENGTHEN PARIS ACCORD</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">West German Finance Minister Gerhard
+	<field name = "content">West German Finance Minister Gerhard
 Stoltenberg said today's meetings of major industrial countries
 would look at ways of strengthening the Paris accord on
 stabilizing foreign exchange rates.

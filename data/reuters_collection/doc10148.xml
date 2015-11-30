@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:11:56.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2518reute
-d f BC-SEALED-POWER-SPW>,-G   03-26 0099</field>
-	<field name = "TITLE">SEALED POWER SPW>, GENERAL MOTORSGM> SIGN PACT</field>
+	<field name = "titulo">SEALED POWER SPW>, GENERAL MOTORSGM> SIGN PACT</field>
 	<field name = "DATELINE">DETROIT, March 26 -</field>
-	<field name = "BODY">Sealed Power Corp, an automotive parts
+	<field name = "content">Sealed Power Corp, an automotive parts
 producer and distributor, said its Kent-Moore Group has signed
 a memorandum of understanding with General Motors which would
 allow the group to distribute and market GM's Dealer Equipment

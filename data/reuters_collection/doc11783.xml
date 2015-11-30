@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 02:44:28.53</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "EXCHANGES">hkse</field>
-	<field name = "UNKNOWN">F
-f0119reute
-b f BC-H.K.-STOCK-EXCHANGE-B   04-01 0093</field>
-	<field name = "TITLE">H.K. STOCK EXCHANGE BARS NEW 'B' SHARE ISSUES</field>
+	<field name = "titulo">H.K. STOCK EXCHANGE BARS NEW 'B' SHARE ISSUES</field>
 	<field name = "DATELINE">HONG KONG, April 1 -</field>
-	<field name = "BODY">The Hong Kong Stock Exchange said it
+	<field name = "content">The Hong Kong Stock Exchange said it
 will not accept further proposals by listed firms to issue new
 shares with reduced par value but equal voting rights.
     It said in a statement the exchange will review the

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 11:03:23.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1286reute
-r f BC-BORDEN-BN>-CALLS-4-3   04-01 0067</field>
-	<field name = "TITLE">BORDEN BN> CALLS 4-3/8 PCT DEBENTURES</field>
+	<field name = "titulo">BORDEN BN> CALLS 4-3/8 PCT DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Borden Inc said it called for
+	<field name = "content">Borden Inc said it called for
 redemption on May one its outstanding 605,000 dlrs of 4-3/8 pct
 sinking fund debentures due 1991.
     It will buy back the debentures at par plus accrued

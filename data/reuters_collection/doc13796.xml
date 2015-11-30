@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:55:22.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0853reute
-r f BC-TWISTEE-TREAT-TWST>   04-07 0093</field>
-	<field name = "TITLE">TWISTEE TREAT TWST> SETS STORE DEVELOPMENT</field>
+	<field name = "titulo">TWISTEE TREAT TWST> SETS STORE DEVELOPMENT</field>
 	<field name = "DATELINE">NORTH FORT MYERS, Fla., April 7 -</field>
-	<field name = "BODY">Twistee Treat Corp said
+	<field name = "content">Twistee Treat Corp said
 it has signed letters of intent for four investor group to
 develop a total of 585 additional Twistee Treat Ice Cream
 Stores in western New York, California, North Carolina, South

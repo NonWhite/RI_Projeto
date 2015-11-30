@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 12:20:00.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8568reute
-h f BC-BOEING-SAYS-NO-"GIVE-   03-18 0098</field>
-	<field name = "TITLE">BOEINGBA> SAYS NO "GIVE-AWAYS" FOR AWACS OFFSET</field>
+	<field name = "titulo">BOEINGBA> SAYS NO "GIVE-AWAYS" FOR AWACS OFFSET</field>
 	<field name = "DATELINE">PARIS, March 18 -</field>
-	<field name = "BODY">An official of Boeing Co said the company
+	<field name = "content">An official of Boeing Co said the company
 would not be handing out any "give-away" deals under its
 commitment to provide business worth 4.4 billion francs to
 French firms over eight years.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:32:34.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1452reute
-r f BC-SHOPSMITH-SHOP>-REMO   04-08 0067</field>
-	<field name = "TITLE">SHOPSMITH SHOP> REMOVES PRESIDENT</field>
+	<field name = "titulo">SHOPSMITH SHOP> REMOVES PRESIDENT</field>
 	<field name = "DATELINE">DAYTON, Ohio, April 8 -</field>
-	<field name = "BODY">Shopsmith Inc said its board has
+	<field name = "content">Shopsmith Inc said its board has
 released Joseph DiGaicomo Jr. as president, but he will remain
 on the board.
     The company said the post of president will not be filled

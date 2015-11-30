@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 18:00:31.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2841reute
-u f BC-TACO-VILLATVLA>-IN-D   03-31 0112</field>
-	<field name = "TITLE">TACO VILLATVLA> IN DEBT TALKS, MAY SELL ASSETS</field>
+	<field name = "titulo">TACO VILLATVLA> IN DEBT TALKS, MAY SELL ASSETS</field>
 	<field name = "DATELINE">DALLAS, March 31 -</field>
-	<field name = "BODY">Taco Villa Inc said it is holding talks
+	<field name = "content">Taco Villa Inc said it is holding talks
 with RepublicBank Corp RPT> to restructure its loan payments
 and waive some financial convenants on its debt.
     It also said it may sell certain assets to repay the bank

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 06:28:22.31</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f4464reute
-b f BC-KOBEYA-BAKING-HAS-SWI   03-17 0094</field>
-	<field name = "TITLE">KOBEYA BAKING HAS SWISS FRANC PRIVATE PLACEMENT</field>
+	<field name = "titulo">KOBEYA BAKING HAS SWISS FRANC PRIVATE PLACEMENT</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">Kobeya Baking Co Ltd is planning a
+	<field name = "content">Kobeya Baking Co Ltd is planning a
 private placement of 10 mln Swiss franc notes paying 4-5/8 pct
 and priced at 100-1/8 pct, lead manager The Long Term Credit
 Bank of Japan (Schweiz) AG said.

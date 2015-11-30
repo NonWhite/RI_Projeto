@@ -2,12 +2,9 @@
 	<field name = "DATE">5-APR-1987 22:05:37.40</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0130reute
-b f BC-AUSTRALIAN-GAS-LIGHT   04-05 0102</field>
-	<field name = "TITLE">AUSTRALIAN GAS LIGHT CO COUNTER-BIDS FOR TMOC</field>
+	<field name = "titulo">AUSTRALIAN GAS LIGHT CO COUNTER-BIDS FOR TMOC</field>
 	<field name = "DATELINE">SYDNEY, April -</field>
-	<field name = "BODY">The Australian Gas Light Co> (AGL) said it
+	<field name = "content">The Australian Gas Light Co> (AGL) said it
 will offer one share plus one dlr cash for every two shares in
 oil and gas producer TMOC Resources Ltd> in a counter-bid to
 the previously reported takeover offer by Santos Ltd STOS.S>.

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 10:04:55.22</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">T
-f1086reute
-d f BC-JACOBS-TAKES-MAJORITY   04-02 0101</field>
-	<field name = "TITLE">JACOBS TAKES MAJORITY STAKE IN COTE D'OR</field>
+	<field name = "titulo">JACOBS TAKES MAJORITY STAKE IN COTE D'OR</field>
 	<field name = "DATELINE">ZURICH, April 2 -</field>
-	<field name = "BODY">Jacobs Suchard AG said it acquired a
+	<field name = "content">Jacobs Suchard AG said it acquired a
 "comfortable majority" interest in its takeover bid for Cote d'Or
 SA, Belgium's leading producer of chocolate.
     In a statement, Jacobs said it had acquired all the shares

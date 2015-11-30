@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 16:21:11.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2393reute
-r f BC-PEPSICO-PEP>-CHICKEN   06-01 0057</field>
-	<field name = "TITLE">PEPSICO PEP> CHICKEN UNIT COMMITS 40 MLN DLRS</field>
+	<field name = "titulo">PEPSICO PEP> CHICKEN UNIT COMMITS 40 MLN DLRS</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Pepsico Inc's Kentucky Fried Chicken
+	<field name = "content">Pepsico Inc's Kentucky Fried Chicken
 said it has committed 40 mln dlrs over the next 90 days to
 introduce a major new product category.
     The company said it is introducing Chicken Littles, a

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 11:21:06.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8293reute
-h f BC-LYPHOMED-LMED>-TO-MA   03-18 0074</field>
-	<field name = "TITLE">LYPHOMED LMED> TO MARKET ANTIBIOTIC</field>
+	<field name = "titulo">LYPHOMED LMED> TO MARKET ANTIBIOTIC</field>
 	<field name = "DATELINE">ROSEMONT, ILL., March 18 -</field>
-	<field name = "BODY">LyphoMed Inc said the Food and
+	<field name = "content">LyphoMed Inc said the Food and
 Drug Administration gave it approval to market Vancomycin HCL,
 an antibiotic used in hospitals to treat life-threatening
 infections.

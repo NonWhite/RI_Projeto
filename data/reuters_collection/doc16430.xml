@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:22:30.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1693reute
-r f BC-SUNCOOK-BANK-MEETING   04-13 0088</field>
-	<field name = "TITLE">SUNCOOK BANK MEETING ENJOINED BY COURT ORDER</field>
+	<field name = "titulo">SUNCOOK BANK MEETING ENJOINED BY COURT ORDER</field>
 	<field name = "DATELINE">CONCORD, N.H., April 13 -</field>
-	<field name = "BODY">BankEast Corp BENH> said a state
+	<field name = "content">BankEast Corp BENH> said a state
 Superior Court enjoined Suncook Bank> from delivering any
 notices of shareholder meetings until it produces a shareholder
 list.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0138reute
-b f BC-JAPANESE-PURCHASE-OF   03-12 0109</field>
-	<field name = "TITLE">JAPANESE PURCHASE OF U.S. HIGH-TECH FIRM OPPOSED</field>
+	<field name = "titulo">JAPANESE PURCHASE OF U.S. HIGH-TECH FIRM OPPOSED</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">Commerce Secretary Malcolm Baldrige
+	<field name = "content">Commerce Secretary Malcolm Baldrige
 has asked the White House to consider blocking the planned
 Japanese acquisition of a major U.S. Computer and semiconductor
 maker, U.S. Officials said yesterday.

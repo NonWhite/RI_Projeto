@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0627reute
-u f BC-/AMERICAN-EXPRESS-AX   03-19 0044</field>
-	<field name = "TITLE">AMERICAN EXPRESS AXP> MAY SELL SHEARSON STAKE</field>
+	<field name = "titulo">AMERICAN EXPRESS AXP> MAY SELL SHEARSON STAKE</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">American Express Co said it and its
+	<field name = "content">American Express Co said it and its
 Shearson Lehman Brothers Inc subsidiary have been holding talks
 on the possible equity investment in Shearson Lehman by Nippon
 Life Insurance Co> of Japan.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 10:48:49.65</field>
 	<field name = "PLACES">portugal</field>
-	<field name = "UNKNOWN">RM
-f1246reute
-u f BC-PORTUGAL-CONTRACTS-FO   06-02 0105</field>
-	<field name = "TITLE">PORTUGAL CONTRACTS FOR 150 MLN ECU LOAN</field>
+	<field name = "titulo">PORTUGAL CONTRACTS FOR 150 MLN ECU LOAN</field>
 	<field name = "DATELINE">LISBON, June 2 -</field>
-	<field name = "BODY">Portugal has contracted a six-year, 150
+	<field name = "content">Portugal has contracted a six-year, 150
 mln ECU loan from a group of foreign banks led by Daiwa Europe
 Ltd to finance investment projects, the finance ministry said.
     Interest of 7.75 pct is to be paid in annual instalments

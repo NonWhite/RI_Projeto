@@ -2,13 +2,10 @@
 	<field name = "DATE">12-MAR-1987 03:24:08.77</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM
-f0205reute
-u f BC-STRIKING-BRAZIL-SEAME   03-12 0094</field>
-	<field name = "TITLE">STRIKING BRAZIL SEAMEN THREATEN MASS RESIGNATION</field>
+	<field name = "titulo">STRIKING BRAZIL SEAMEN THREATEN MASS RESIGNATION</field>
 	<field name = "AUTHOR">By Stephen Powell, Reuters</field>
 	<field name = "DATELINE">SANTOS, Brazil, March 12 -</field>
-	<field name = "BODY">Striking seamen said they would
+	<field name = "content">Striking seamen said they would
 offer their collective resignation rather than end their
 13-day-old national strike on management's terms.
     The seamen said they were spurred to their decision after

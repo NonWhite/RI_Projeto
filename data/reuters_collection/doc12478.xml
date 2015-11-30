@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 07:58:45.64</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "EXCHANGES">ase</field>
-	<field name = "UNKNOWN">F
-f0719reute
-u f BC-AMSTERDAM-BOURSE-TURN   04-02 0102</field>
-	<field name = "TITLE">AMSTERDAM BOURSE TURNOVER UP SHARPLY IN MARCH</field>
+	<field name = "titulo">AMSTERDAM BOURSE TURNOVER UP SHARPLY IN MARCH</field>
 	<field name = "DATELINE">AMSTERDAM, April 2 -</field>
-	<field name = "BODY">Turnover on the Amsterdam Bourse rose
+	<field name = "content">Turnover on the Amsterdam Bourse rose
 38 pct in March to 25.8 billion guilders from 18.7 billion in
 February compared with 27.6 billion in March last year, the
 Bourse said in its monthly review.

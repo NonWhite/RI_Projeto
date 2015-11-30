@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 03:33:49.54</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0215reute
-u f BC-NORTH-RHINE-WESTPHALI   03-31 0105</field>
-	<field name = "TITLE">NORTH RHINE-WESTPHALIA TO ISSUE BOND TODAY</field>
+	<field name = "titulo">NORTH RHINE-WESTPHALIA TO ISSUE BOND TODAY</field>
 	<field name = "DATELINE">DUESSELDORF, West Germany, March 31 -</field>
-	<field name = "BODY">The West German
+	<field name = "content">The West German
 federal state of North Rhine-Westphalia will issue a domestic
 mark bond this afternoon, a syndicate manager for the
 Westdeutsche Landesbank Girozentrale, WestLB, said.

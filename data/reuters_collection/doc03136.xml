@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0457reute
-b f BC-UK-MONEY-RATES-FALL-A   03-09 0117</field>
-	<field name = "TITLE">UK MONEY RATES FALL AS BANK APPROVES BASE RATE CUT</field>
+	<field name = "titulo">UK MONEY RATES FALL AS BANK APPROVES BASE RATE CUT</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">A half point cut in base lending rates
+	<field name = "content">A half point cut in base lending rates
 was announced by the big four clearing banks today after the
 Bank of England finally endorsed such a move following weeks of
 downward pressure, dealers said.

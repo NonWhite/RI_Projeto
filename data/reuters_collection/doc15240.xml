@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 15:02:27.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2231reute
-u f BC-SALOMON-SB>-SEES-MOR   04-08 0110</field>
-	<field name = "TITLE">SALOMON SB> SEES MORE STOCK GAINS WORLDWIDE</field>
+	<field name = "titulo">SALOMON SB> SEES MORE STOCK GAINS WORLDWIDE</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Analysts at Salomon Brothers Inc say
+	<field name = "content">Analysts at Salomon Brothers Inc say
 the outlook for stock markets worldwide is postivie, although
 total returns in the U.S. stock market are not expected to
 exceed 10 pct over the next 12 months.

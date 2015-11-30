@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:39:00.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4276reute
-u f BC-GLAXO-GLX>-STOCK-OFF   06-18 0114</field>
-	<field name = "TITLE">GLAXO GLX> STOCK OFF ON ULCER REPORT</field>
+	<field name = "titulo">GLAXO GLX> STOCK OFF ON ULCER REPORT</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Shares of Glaxo Holdings PLC fell
+	<field name = "content">Shares of Glaxo Holdings PLC fell
 following a report in today's New England Journal of Medicine
 that antibiotics may be able to treat ulcers, threatening 
 Glaxo's billion dlr antiulcer drug Zantac, analysts said.

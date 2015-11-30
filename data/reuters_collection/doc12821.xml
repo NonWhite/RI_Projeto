@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 08:42:31.67</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0721reute
-d f BC-ALTEX-AII>-SETS-ACQU   04-03 0105</field>
-	<field name = "TITLE">ALTEX AII> SETS ACQUISITION OF COMPUTER FIRMS</field>
+	<field name = "titulo">ALTEX AII> SETS ACQUISITION OF COMPUTER FIRMS</field>
 	<field name = "DATELINE">DENVER, April 3 -</field>
-	<field name = "BODY">Altex Industries Inc said it has agreed
+	<field name = "content">Altex Industries Inc said it has agreed
 in principle to buy 82 pct of two privately-held affiliated
 computer retail companies for an undisclosed amount.
     Altex said the Denver-based companies had revenues of over

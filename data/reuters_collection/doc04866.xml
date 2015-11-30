@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 12:15:45.44</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f0569reute
-u f BC-PETROBRAS-ASKS-ARMY-T   03-13 0128</field>
-	<field name = "TITLE">PETROBRAS ASKS ARMY TO WITHDRAW TROOPS</field>
+	<field name = "titulo">PETROBRAS ASKS ARMY TO WITHDRAW TROOPS</field>
 	<field name = "DATELINE">RIO DE JANEIRO, MARCH 13 -</field>
-	<field name = "BODY">Brazil's state-oil company
+	<field name = "content">Brazil's state-oil company
 Petrobras has asked the Army to withdraw the troops which were
 occupying its oil installations since Tuesday, Petrobras said
 in a statement.

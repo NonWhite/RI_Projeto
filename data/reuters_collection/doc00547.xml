@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 12:23:07.04</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0253
-reute
-s f BC-MUTUAL-OF-OMAHA-INTER   03-02 0024</field>
-	<field name = "TITLE">MUTUAL OF OMAHA INTEREST SHARES MUO> QTLY DIV</field>
+	<field name = "titulo">MUTUAL OF OMAHA INTEREST SHARES MUO> QTLY DIV</field>
 	<field name = "DATELINE">OMAHA, Neb., March 2 -</field>
-	<field name = "BODY">Qtly div 36 cts vs 36 cts prior
+	<field name = "content">Qtly div 36 cts vs 36 cts prior
     Pay April one
     Record March 13
  Reuter</field>

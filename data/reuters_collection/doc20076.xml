@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 06:59:20.94</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM 
-f0546reute
-b f BC-GOLDMAN-SACHS-DENIES   10-20 0093</field>
-	<field name = "TITLE">GOLDMAN SACHS DENIES RUMOURS OF SOLVENCY PROBLEM</field>
+	<field name = "titulo">GOLDMAN SACHS DENIES RUMOURS OF SOLVENCY PROBLEM</field>
 	<field name = "DATELINE">LONDON, Oct 20 -</field>
-	<field name = "BODY">Goldman Sachs and Co> is not facing
+	<field name = "content">Goldman Sachs and Co> is not facing
 severe financial problems and has not filed for protection
 under U.S. Bankruptcy laws, Robert Conway, managing director of
 Goldman Sachs International Corp said.

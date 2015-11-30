@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 04:09:25.77</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0223reute
-b f BC-TDK-GROUP-NET-UP-17.6   10-19 0057</field>
-	<field name = "TITLE">TDK GROUP NET UP 17.6 PCT IN NINE MONTHS</field>
+	<field name = "titulo">TDK GROUP NET UP 17.6 PCT IN NINE MONTHS</field>
 	<field name = "DATELINE">TOKYO, Oct 19 -</field>
-	<field name = "BODY">Nine months ended August 31
+	<field name = "content">Nine months ended August 31
     Group shr 118.66 yen vs 100.89 yen
     Group shr per ADS 237.32 vs 201.78
     Net 14.28 billion vs 12.14 billion

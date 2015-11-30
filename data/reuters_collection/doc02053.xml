@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0223reute
-d f BC-MANNESMANN-SEEKS-STAK   03-05 0101</field>
-	<field name = "TITLE">MANNESMANN SEEKS STAKE IN U.S. FIRM</field>
+	<field name = "titulo">MANNESMANN SEEKS STAKE IN U.S. FIRM</field>
 	<field name = "DATELINE">DUESSELDORF, March 5 -</field>
-	<field name = "BODY">Mannesmann AG MMWG.F>, the
+	<field name = "content">Mannesmann AG MMWG.F>, the
 diversified engineering and pipe-making group, is interested in
 taking a stake in a U.S. Company or companies but has not yet
 found a suitable firm, a spokesman said in reply to questions.

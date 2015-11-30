@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">poehl</field>
-	<field name = "UNKNOWN">A 
-f0531reute
-u f BC-POEHL-SPEAKS-AGAINST   06-29 0097</field>
-	<field name = "TITLE">POEHL SPEAKS AGAINST GERMAN INTEREST RATE CUT</field>
+	<field name = "titulo">POEHL SPEAKS AGAINST GERMAN INTEREST RATE CUT</field>
 	<field name = "DATELINE">BONN, June 29 -</field>
-	<field name = "BODY">Bundesbank President Karl Otto Poehl said
+	<field name = "content">Bundesbank President Karl Otto Poehl said
 West Germany would be badly advised to lower interest rates and
 that he believed the economy would continue to recover after a
 six-month lull.

@@ -5,12 +5,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">norway</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM Y A
-f3051reute
-u f BC-NORWAY-APPROVES-TRADE   03-16 0108</field>
-	<field name = "TITLE">NORWAY APPROVES TRADE BAN AGAINST SOUTH AFRICA</field>
+	<field name = "titulo">NORWAY APPROVES TRADE BAN AGAINST SOUTH AFRICA</field>
 	<field name = "DATELINE">OSLO, March 16 -</field>
-	<field name = "BODY">Norway's parliament has approved an
+	<field name = "content">Norway's parliament has approved an
 extensive trade ban against South Africa but left shipowners a
 key loophole through which controversial oil shipments on
 Norwegian tankers may continue, government officials said.

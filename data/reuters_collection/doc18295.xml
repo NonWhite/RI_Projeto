@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 16:35:13.36</field>
 	<field name = "TOPICS">instal-debt</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2631reute
-u f BC-FED-TO-RELEASE-U.S.-A   06-02 0054</field>
-	<field name = "TITLE">FED TO RELEASE U.S. APRIL CONSUMER CREDIT JUNE 5</field>
+	<field name = "titulo">FED TO RELEASE U.S. APRIL CONSUMER CREDIT JUNE 5</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">The Federal Reserve Board said it
+	<field name = "content">The Federal Reserve Board said it
 would release April consumer instalment credit figures on
 Friday.
     No fixed time was set for the release.

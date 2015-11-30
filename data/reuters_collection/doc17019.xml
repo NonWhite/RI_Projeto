@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-APR-1987 12:28:08.02</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">F
-f1702reute
-d f BC-BRAZIL-FUND-SHOULD-ST   04-21 0095</field>
-	<field name = "TITLE">BRAZIL FUND SHOULD START OPERATING SOON</field>
+	<field name = "titulo">BRAZIL FUND SHOULD START OPERATING SOON</field>
 	<field name = "DATELINE">SAO PAULO, April 21 -</field>
-	<field name = "BODY">A Brazil Fund through which foreign
+	<field name = "content">A Brazil Fund through which foreign
 investors will be able to buy stocks in Brazilian companies
 should start operating in about two months, the Securities and
 Exchange Commission said.

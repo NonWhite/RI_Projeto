@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 16:41:22.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0799reute
-u f BC-S/P-MAY-DOWNGRADE-CHR   03-09 0112</field>
-	<field name = "TITLE">S/P MAY DOWNGRADE CHRYSLER C></field>
+	<field name = "titulo">S/P MAY DOWNGRADE CHRYSLER C></field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Standard and Poor's said it placed 6.6
+	<field name = "content">Standard and Poor's said it placed 6.6
 billion dlrs of Chrysler Corp securities on CreditWatch with
 negative implications because of its plan to acquire the
 outstanding common shares of American Motors Corp AMO> from

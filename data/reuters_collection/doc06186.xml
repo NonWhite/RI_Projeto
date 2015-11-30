@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 14:22:06.41</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6158reute
-d f BC-SIMMONS-AIRLINES-INC   03-17 0056</field>
-	<field name = "TITLE">SIMMONS AIRLINES INC SIMM> 2ND QTR LOSS</field>
+	<field name = "titulo">SIMMONS AIRLINES INC SIMM> 2ND QTR LOSS</field>
 	<field name = "DATELINE">CHICAGO, March 17 -</field>
-	<field name = "BODY">Period end Jan 31
+	<field name = "content">Period end Jan 31
     Shr loss 17 cts vs loss 26 cts
     Net loss 765,808 vs loss 1,216,501
     Revs 15.8 mln vs 18.7 mln

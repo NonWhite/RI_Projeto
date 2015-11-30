@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 16:10:37.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2547reute
-r f BC-U.S.-WEEKLY-ELECTRIC   06-02 0073</field>
-	<field name = "TITLE">U.S. WEEKLY ELECTRIC OUTPUT UP 6.8 PCT FROM 1986</field>
+	<field name = "titulo">U.S. WEEKLY ELECTRIC OUTPUT UP 6.8 PCT FROM 1986</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">U.S. power companies generated a net
+	<field name = "content">U.S. power companies generated a net
 49.92 billion kilowatt-hours of electrical energy in the week
 ended May 30, up 6.8 pct from 46.74 billion a year earlier, the
 Edison Electric Institute (EEI) said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 08:13:01.11</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">V
-f1752reute
-r f BC-17-KILLED-AFTER-SOVIE   03-16 0090</field>
-	<field name = "TITLE">17 KILLED AFTER SOVIET DAM COLLAPSES</field>
+	<field name = "titulo">17 KILLED AFTER SOVIET DAM COLLAPSES</field>
 	<field name = "DATELINE">MOSCOW, March 16 -</field>
-	<field name = "BODY">Seventeen people were killed and 22 are
+	<field name = "content">Seventeen people were killed and 22 are
 missing after a dam collapsed following heavy rains in Soviet
 Tadzhikistan, the official news agency Tass said.
     Water broke through the dam in the Kulyab region of the

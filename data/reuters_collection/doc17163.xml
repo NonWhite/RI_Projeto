@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 15:00:00.68</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f2172reute
-r f BC-interstate-(I)-spent   04-24 0093</field>
-	<field name = "TITLE">INTERSTATE (I) SPENT 3.5 MLN ON TAKEOVER BID</field>
+	<field name = "titulo">INTERSTATE (I) SPENT 3.5 MLN ON TAKEOVER BID</field>
 	<field name = "DATELINE">LOS ANGELES, April 24 -</field>
-	<field name = "BODY">First Interstate Bank Corp spent
+	<field name = "content">First Interstate Bank Corp spent
 about 3.5 mln dlrs on its attempted takeover of BankAmerica
 Corp, First Interstate Chairman Joseph Pinola said.
     In response to a shareholder's question following the

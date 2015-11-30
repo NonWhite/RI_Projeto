@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 10:26:57.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1251reute
-r f BC-AMERICAN-VISION-AMVC   10-19 0097</field>
-	<field name = "TITLE">AMERICAN VISION AMVC.O> ELECTS NEW PRESIDENT</field>
+	<field name = "titulo">AMERICAN VISION AMVC.O> ELECTS NEW PRESIDENT</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">American Vision Centers Inc said Michael
+	<field name = "content">American Vision Centers Inc said Michael
 C. Barlerin has been elected president and chief operating
 officer of the company, replacing Robert S. Cohen, who will
 remain a member of the company's board.

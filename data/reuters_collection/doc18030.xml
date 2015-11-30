@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 10:44:13.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1226reute
-d f BC-ONE-OF-TWO-SARA-LEE-   06-02 0098</field>
-	<field name = "TITLE">ONE OF TWO SARA LEE SLE> STRIKES SETTLED</field>
+	<field name = "titulo">ONE OF TWO SARA LEE SLE> STRIKES SETTLED</field>
 	<field name = "DATELINE">DEERFIELD, ILL., June 2 -</field>
-	<field name = "BODY">Sara Lee Corp said 500 workers at
+	<field name = "content">Sara Lee Corp said 500 workers at
 its Kitchens of Sara Lee bakery operation in Deerfield, Ill.,
 have returned to work this week after ratifying a contract.
     A company spokesman said members of Local Two of the

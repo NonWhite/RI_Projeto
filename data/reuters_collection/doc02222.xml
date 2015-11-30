@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0853reute
-u f BC-WORLD-GRAIN-TRADE-REC   03-05 0141</field>
-	<field name = "TITLE">WORLD GRAIN TRADE RECOVERY MAY BE UNDERWAY</field>
+	<field name = "titulo">WORLD GRAIN TRADE RECOVERY MAY BE UNDERWAY</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 5 -</field>
-	<field name = "BODY">World grain trade could be turning
+	<field name = "content">World grain trade could be turning
 the corner and heading toward recovery in the 1986-87 season, a
 Cargill, Inc. analyst said.
     Writing in the March issue of the Cargill Bulletin, David

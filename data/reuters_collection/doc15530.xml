@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G
-f0885reute
-u f BC-LONDON-FREIGHT-MARKET   04-09 0100</field>
-	<field name = "TITLE">LONDON FREIGHT MARKET FEATURES GRAIN OUT OF U.S.</field>
+	<field name = "titulo">LONDON FREIGHT MARKET FEATURES GRAIN OUT OF U.S.</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Moderately active grain fixing was
+	<field name = "content">Moderately active grain fixing was
 reported out of the U.S. But none of the business involved the
 significant voyages to the Continent or Japan, ship brokers
 said.

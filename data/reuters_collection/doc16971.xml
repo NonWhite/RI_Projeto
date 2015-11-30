@@ -5,12 +5,9 @@
 	<field name = "TOPICS">groundnut</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C G L M T
-f0763reute
-u f BC-GATT-TO-INVESTIGATE-J   04-21 0081</field>
-	<field name = "TITLE">GATT TO PROBE JAPAN'S FARM IMPORT RESTRICTIONS</field>
+	<field name = "titulo">GATT TO PROBE JAPAN'S FARM IMPORT RESTRICTIONS</field>
 	<field name = "DATELINE">TOKYO, April 21 -</field>
-	<field name = "BODY">The General Agreement on Tariffs and
+	<field name = "content">The General Agreement on Tariffs and
 Trade (GATT) will begin a probe on May 7-8 on the legality of
 Japanese import restrictions on 12 farm products, Agriculture
 Ministry officials said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 19:32:49.60</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f9806reute
-d f BC-U.S.-CARGO-PREFERENCE   03-18 0140</field>
-	<field name = "TITLE">U.S. CARGO PREFERENCE FUNDING ACCORD SEEN NEAR</field>
+	<field name = "titulo">U.S. CARGO PREFERENCE FUNDING ACCORD SEEN NEAR</field>
 	<field name = "DATELINE">WASHINGTON, MARCH 18 -</field>
-	<field name = "BODY">The U.S. Departments of Agriculture
+	<field name = "content">The U.S. Departments of Agriculture
 and Transportation are close to agreement on how to fund the
 increasing share of food aid to be shipped on U.S. flag vessels
 under a 1985 farm bill provision on cargo preference.

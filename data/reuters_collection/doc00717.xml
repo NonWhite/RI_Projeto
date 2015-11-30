@@ -3,13 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">C G L M T
-f0843
-reute
-d f AM-AGREEMENT   03-02 0132</field>
-	<field name = "TITLE">TALKS SHOW NEW CANADIAN CONFIDENCE, GROUP SAYS</field>
+	<field name = "titulo">TALKS SHOW NEW CANADIAN CONFIDENCE, GROUP SAYS</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">Canada's decision to raise the issue
+	<field name = "content">Canada's decision to raise the issue
 of a free trade pact with the U.S. was a sign of what many see
 as a new spirit of Canadian self-confidence, a public policy
 study group said 

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f2307reute
-r f BC-ALLIS-CHALMERS-AH>-S   03-25 0048</field>
-	<field name = "TITLE">ALLIS-CHALMERS AH> SELLS SWISS UNIT</field>
+	<field name = "titulo">ALLIS-CHALMERS AH> SELLS SWISS UNIT</field>
 	<field name = "DATELINE">MILWAUKEE, Wisc., March 25 -</field>
-	<field name = "BODY">Allis-Chalmers Corp said it
+	<field name = "content">Allis-Chalmers Corp said it
 has sold its Elex Ag unit in Zurich, Switzerland, to private
 investors for an undisclosed amount.
     The company said Elex produces electrostatic precipitators

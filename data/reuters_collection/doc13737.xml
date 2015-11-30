@@ -5,12 +5,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">malaysia</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">G C
-f0772reute
-u f BC-PALM-OIL-OUTPUT-SEEN   04-07 0108</field>
-	<field name = "TITLE">PALM OIL OUTPUT SEEN DROPPING SHARPLY - OIL WORLD</field>
+	<field name = "titulo">PALM OIL OUTPUT SEEN DROPPING SHARPLY - OIL WORLD</field>
 	<field name = "DATELINE">HAMBURG, April 7 -</field>
-	<field name = "BODY">Malaysian and Indonesian palm oil
+	<field name = "content">Malaysian and Indonesian palm oil
 production is likely to drop sharply this year, due to lower
 yields, the Hamburg-based newsletter Oil World said.
     The publication expects total Malaysian output during

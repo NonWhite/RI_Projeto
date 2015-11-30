@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 15:08:33.69</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0333reute
-d f BC-MONITERM-CORP-MTRM>   03-06 0062</field>
-	<field name = "TITLE">MONITERM CORP MTRM> 4TH QTR LOSS</field>
+	<field name = "titulo">MONITERM CORP MTRM> 4TH QTR LOSS</field>
 	<field name = "DATELINE">MINNETONKA, Minn., March 6 -</field>
-	<field name = "BODY">Shr loss 15 cts vs loss 11 cts
+	<field name = "content">Shr loss 15 cts vs loss 11 cts
     Net loss 632,000 vs loss 437,000
     Revs 3,206,000 vs 2,650,000
     Year

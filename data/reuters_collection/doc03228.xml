@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 12:41:24.02</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0965reute
-d f BC-TECHNOLOGY   03-09 0067</field>
-	<field name = "TITLE">INVESTOR HAS TECHNOLOGY DEVELOPMENT TDCX> STAKE</field>
+	<field name = "titulo">INVESTOR HAS TECHNOLOGY DEVELOPMENT TDCX> STAKE</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">Leon Greenblatt, a Chicago investor,
+	<field name = "content">Leon Greenblatt, a Chicago investor,
 told the Securities and Exchange Commission he has acquired
 89,450 shares of Technology Development Corp, or 5.3 pct of the
 total outstanding common stock.

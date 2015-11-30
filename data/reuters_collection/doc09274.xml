@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 09:24:38.25</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0860reute
-d f BC-UK-EQUITIES-SEEN-DUE   03-25 0111</field>
-	<field name = "TITLE">UK EQUITIES SEEN DUE FOR DOWNWARD CORRECTION</field>
+	<field name = "titulo">UK EQUITIES SEEN DUE FOR DOWNWARD CORRECTION</field>
 	<field name = "AUTHOR">By Iain Pears, Reuters</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">The chances of U.K. Stocks continuing
+	<field name = "content">The chances of U.K. Stocks continuing
 recent rises as budget euphoria gives way to the uncertainties
 of a probable election are small, and market analysts say there
 will probably be a downwards correction in the next few weeks.

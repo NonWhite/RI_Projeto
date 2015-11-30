@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 10:00:44.74</field>
 	<field name = "PLACES">greece</field>
 	<field name = "PEOPLE">halikias</field>
-	<field name = "UNKNOWN">RM
-f0267reute
-u f BC-GREECE-PLANS-TO-REDUC   03-04 0085</field>
-	<field name = "TITLE">GREECE PLANS TO REDUCE 1987 FOREIGN BORROWING</field>
+	<field name = "titulo">GREECE PLANS TO REDUCE 1987 FOREIGN BORROWING</field>
 	<field name = "DATELINE">ATHENS, March 4 -</field>
-	<field name = "BODY">Greece aims to reduce foreign borrowing
+	<field name = "content">Greece aims to reduce foreign borrowing
 to 1.6 or 1.7 billion dlrs this year from 2.6 billion in 1986,
 and will use some of the funds to make early debt servicing
 payments, the Governor of the Bank of Greece, Dimitris

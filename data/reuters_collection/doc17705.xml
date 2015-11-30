@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 14:23:43.75</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2049reute
-r f BC-U.S.-VIDEO-VVCO.O>,   06-01 0071</field>
-	<field name = "TITLE">U.S. VIDEO VVCO.O>, FIRST NATIONAL IN MERGER</field>
+	<field name = "titulo">U.S. VIDEO VVCO.O>, FIRST NATIONAL IN MERGER</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">U.S. Video Vending Corp said it
+	<field name = "content">U.S. Video Vending Corp said it
 completed acquiring First National Telecommunications INc from
 First National Entertainment Corp for about 10 mln, or a
 controlling interest of U.S. Video Vending shares.

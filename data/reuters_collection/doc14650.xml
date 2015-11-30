@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:42:20.99</field>
-	<field name = "UNKNOWN">C T
-f2440reute
-u f BC-BAHIA-COCOA-FUTURES-C   04-07 0067</field>
-	<field name = "TITLE">BAHIA COCOA FUTURES CLSG</field>
+	<field name = "titulo">BAHIA COCOA FUTURES CLSG</field>
 	<field name = "DATELINE">SALVADOR, BRAZIL, APR 7 -</field>
-	<field name = "BODY">Closing prices on the Bahia Cocoa
+	<field name = "content">Closing prices on the Bahia Cocoa
 Futures Market were as follows (in cruzados per 60 kilo bag
 delivered Ilheus/Itabuna with previous in brackets) -
     May       2,560  (2,560)  volume 23 lots

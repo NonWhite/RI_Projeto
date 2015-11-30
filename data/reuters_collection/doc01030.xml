@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 09:58:00.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0401reute
-r f BC-YANKEE-YNK>-SWAPS-ST   03-03 0048</field>
-	<field name = "TITLE">YANKEE YNK> SWAPS STOCK FOR DEBENTURES</field>
+	<field name = "titulo">YANKEE YNK> SWAPS STOCK FOR DEBENTURES</field>
 	<field name = "DATELINE">COHASSET, Mass., March 3 -</field>
-	<field name = "BODY">Yankee Cos Inc said it has
+	<field name = "content">Yankee Cos Inc said it has
 acquired 3,916,000 dlrs of 7-1/2 pct convertible subordinated
 debentures due May 15, 1998 of its YFC International Finance NV
 affiliate for 501,807 common shares from an institutional

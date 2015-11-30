@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 11:50:23.62</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1500reute
-d f BC-GEODYNE-GEOD.O>-SETS   06-01 0135</field>
-	<field name = "TITLE">GEODYNE GEOD.O> SETS WARRANTS, ACQUISITION</field>
+	<field name = "titulo">GEODYNE GEOD.O> SETS WARRANTS, ACQUISITION</field>
 	<field name = "DATELINE">TULSA, June 1 -</field>
-	<field name = "BODY">Geodyne Resources Inc said iit filed a
+	<field name = "content">Geodyne Resources Inc said iit filed a
 registration with the Securities and Exchange Commission
 covering a planned offering of 3.6 mln warrants to buy its
 common.

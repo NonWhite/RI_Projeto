@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 17:00:00.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F RM
-f2619reute
-u f BC-TIME-TL>-UNIT-TO-RED   03-30 0104</field>
-	<field name = "TITLE">TIME TL> UNIT TO REDEEM 100 MLN DLRS IN NOTES</field>
+	<field name = "titulo">TIME TL> UNIT TO REDEEM 100 MLN DLRS IN NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">Time Inc said its wholly-owned
+	<field name = "content">Time Inc said its wholly-owned
 subsidiary, Time-Life Overseas Finance Corp, NV, has called for
 redemption of all 100 mln dlrs in principal amount of its
 10-3/4 pct guaranteed notes due January 26, 1990.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 09:42:43.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0963reute
-u f BC-SMITHKLINE-SKB>,-BOE   06-01 0100</field>
-	<field name = "TITLE">SMITHKLINE SKB>, BOEHRINGER FINALIZE PACT</field>
+	<field name = "titulo">SMITHKLINE SKB>, BOEHRINGER FINALIZE PACT</field>
 	<field name = "DATELINE">PHILADELPHIA, June 1 -</field>
-	<field name = "BODY">SmithKline Beckman Corp said it and
+	<field name = "content">SmithKline Beckman Corp said it and
 Boehringer Mannheim GmbH> signed a final agreement to develop
 and market new cardiovascular medicines discovered by
 Boehringer.

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 16:47:53.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0076
-reute
-r f BC-FORD-MOTOR-CREDIT-F>   02-26 0087</field>
-	<field name = "TITLE">FORD MOTOR CREDIT F> TO REDEEM DEBENTURES</field>
+	<field name = "titulo">FORD MOTOR CREDIT F> TO REDEEM DEBENTURES</field>
 	<field name = "DATELINE">DEARBORN, MICH., Feb 26 -</field>
-	<field name = "BODY">Ford Motor Co said its Ford Motor
+	<field name = "content">Ford Motor Co said its Ford Motor
 Credit Co on April One will redeem 4.0 mln dlrs of its 8.70 pct
 debentures due April 1, 1999.
     It said the debentures are redeemable at a price of 100 pct

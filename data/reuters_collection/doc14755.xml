@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 18:43:02.22</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E Y F
-f2664reute
-d f BC-TRANS-CANADA-RESOURCE   04-07 0074</field>
-	<field name = "TITLE">TRANS-CANADA RESOURCES WINS FILING EXTENSION</field>
+	<field name = "titulo">TRANS-CANADA RESOURCES WINS FILING EXTENSION</field>
 	<field name = "DATELINE">CALGARY, Alberta, April 7 -</field>
-	<field name = "BODY">Trans-Canada Resources Ltd>
+	<field name = "content">Trans-Canada Resources Ltd>
 said it received an Alberta court order extending to April 20
 from April six the filing of a plan of arrangement with the
 court under the Companies' Creditors Arrangement Act.

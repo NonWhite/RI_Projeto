@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:42:20.17</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1804reute
-b f BC-BANK-OF-ENGLAND-TO-MO   04-13 0116</field>
-	<field name = "TITLE">BANK OF ENGLAND TO MONITOR WHEN-ISSUED TRADING</field>
+	<field name = "titulo">BANK OF ENGLAND TO MONITOR WHEN-ISSUED TRADING</field>
 	<field name = "DATELINE">London, April 13 -</field>
-	<field name = "BODY">The Bank of England will step up
+	<field name = "content">The Bank of England will step up
 reporting requirements for primary dealers in U.K. Government
 gilts during the when-issued trading period in between the date
 an auction is announced and the date the sale is actually held.

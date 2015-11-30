@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 14:30:03.16</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0104reute
-u f BC-FAIRCHILD-INDUSTRIES   03-13 0065</field>
-	<field name = "TITLE">FAIRCHILD INDUSTRIES INC FEN> 4TH QTR LOSS</field>
+	<field name = "titulo">FAIRCHILD INDUSTRIES INC FEN> 4TH QTR LOSS</field>
 	<field name = "DATELINE">CHANTILLY, Va., March 13 -</field>
-	<field name = "BODY">Oper shr loss 44 cts vs oper loss eight cts
+	<field name = "content">Oper shr loss 44 cts vs oper loss eight cts
     Oper net loss 3,158,000 vs profit 2,035,000
     Rev 166.0 mln vs 162.3 mln
     Year

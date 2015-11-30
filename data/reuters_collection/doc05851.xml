@@ -5,12 +5,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">norway</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">C M
-f4507reute
-u f BC-LOOPHOLE-FOR-TANKERS   03-17 0120</field>
-	<field name = "TITLE">LOOPHOLE FOR TANKERS IN NORWAY'S S. AFRICA BAN</field>
+	<field name = "titulo">LOOPHOLE FOR TANKERS IN NORWAY'S S. AFRICA BAN</field>
 	<field name = "DATELINE">OSLO, March 17 -</field>
-	<field name = "BODY">Norway's parliament has approved an
+	<field name = "content">Norway's parliament has approved an
 extensive trade ban against South Africa but left shipowners a
 key loophole through which controversial oil shipments on
 Norwegian tankers may continue, government officials said.

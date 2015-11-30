@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 16:18:54.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2385reute
-r f BC-UNIVERSAL-HEALTH-UHT   06-01 0071</field>
-	<field name = "TITLE">UNIVERSAL HEALTH UHT> TO BUY BACK SHARES</field>
+	<field name = "titulo">UNIVERSAL HEALTH UHT> TO BUY BACK SHARES</field>
 	<field name = "DATELINE">KING OF PRUSSIA, Pa., June 1 -</field>
-	<field name = "BODY">Universal Health Realty
+	<field name = "content">Universal Health Realty
 Income Trust said its board approved the repurchase over the
 next 12 months of up to one mln shares of beneficial interest
 of the trust in the open market or subject to obtaining

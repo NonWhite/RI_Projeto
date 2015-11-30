@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 15:28:23.79</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0594reute
-d f BC-ENDEVCO-EI>-AGREES-T   03-05 0105</field>
-	<field name = "TITLE">ENDEVCO EI> AGREES TO BUY MISSISSIPPI PIPELINE</field>
+	<field name = "titulo">ENDEVCO EI> AGREES TO BUY MISSISSIPPI PIPELINE</field>
 	<field name = "DATELINE">DALLAS, March 5 -</field>
-	<field name = "BODY">Endevco Inc said it has agreed to acquire
+	<field name = "content">Endevco Inc said it has agreed to acquire
 a 17.5-mile, 16-inch pipeline in Marion and Pearl River
 Counties, Mississippi, for undisclosed terms.
     The company said the pipeline was recently constructed from

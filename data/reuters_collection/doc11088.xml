@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 16:53:09.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2592reute
-r f BC-COLUMBIA-GAS-CG>-IN   03-30 0078</field>
-	<field name = "TITLE">COLUMBIA GAS CG> IN SINKING FUND REDEMPTION</field>
+	<field name = "titulo">COLUMBIA GAS CG> IN SINKING FUND REDEMPTION</field>
 	<field name = "DATELINE">WILMINGTON, Del., march 30 -</field>
-	<field name = "BODY">Columbia Gas System INc said
+	<field name = "content">Columbia Gas System INc said
 that on June 1 it will redeem 1.4 mln dlrs principal amount of
 its 9-7/8 pct debentures, series due June 1999, to meet
 mandatory sinking fund requirements.

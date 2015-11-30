@@ -4,12 +4,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">V 
-f0686reute
-u f BC-SAUDI-OIL-RESERVES-RI   06-19 0115</field>
-	<field name = "TITLE">SAUDI OIL RESERVES RISE DESPITE HIGHER OUTPUT</field>
+	<field name = "titulo">SAUDI OIL RESERVES RISE DESPITE HIGHER OUTPUT</field>
 	<field name = "DATELINE">JEDDAH, June 19 -</field>
-	<field name = "BODY">Proven oil and gas deposits in Saudi
+	<field name = "content">Proven oil and gas deposits in Saudi
 Arabia increased in 1986 despite higher oil output, according
 to the kingdom's main producing company, Aramco.
     Recoverable oil reserves in Aramco fields rose to 167

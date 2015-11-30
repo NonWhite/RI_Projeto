@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:19:18.58</field>
-	<field name = "UNKNOWN">C G
-f2543reute
-u f BC-FOB-U.S.-GULF-CORN-VA   04-07 0103</field>
-	<field name = "TITLE">FOB U.S. GULF CORN VALUES SLIGHTLY FIRMER</field>
+	<field name = "titulo">FOB U.S. GULF CORN VALUES SLIGHTLY FIRMER</field>
 	<field name = "DATELINE">KANSAS CITY, April 7 -</field>
-	<field name = "BODY">FOB U.S. gulf corn values were
+	<field name = "content">FOB U.S. gulf corn values were
 slightly firmer as active gulf interest boosted gulf FOB and
 CIF values today, exporters said.
     Loading programs and relatively slow country movement kept

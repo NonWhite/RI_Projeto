@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 10:27:58.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1123reute
-u f BC-YANKEE-COS-YNK>-SEEK   06-02 0063</field>
-	<field name = "TITLE">YANKEE COS YNK> SEEKS DEBT RESTRUCTURING</field>
+	<field name = "titulo">YANKEE COS YNK> SEEKS DEBT RESTRUCTURING</field>
 	<field name = "DATELINE">COHASSET, Mass., June 2 -</field>
-	<field name = "BODY">Yankee Cos Inc said it will be 
+	<field name = "content">Yankee Cos Inc said it will be 
 working with the holders of substantially all of its 12-5/8 pct
 senior secured notres due 1996 to develop and overall debt and
 asset restructuring program, and as a first step, the

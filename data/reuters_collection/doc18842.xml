@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">argentina</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM V 
-f4018reute
-b f BC-/COMMITMENTS-TO-NEW-A   06-18 0101</field>
-	<field name = "TITLE">COMMITMENTS TO NEW ARGENTINE LOAN REACH 91 PCT</field>
+	<field name = "titulo">COMMITMENTS TO NEW ARGENTINE LOAN REACH 91 PCT</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Commitments to Argentina's external
+	<field name = "content">Commitments to Argentina's external
 financing program for 1987 and 1988 have reached about 91 pct
 of the 1.95 billion dlrs in new loans that banks have been
 asked to provide, Citibank and Argentina said in a joint

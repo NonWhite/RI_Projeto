@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 18:38:22.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f2867reute
-d f BC-U.S.-FARM-CREDIT-PROB   03-26 0104</field>
-	<field name = "TITLE">U.S. FARM CREDIT PROBLEMS SOLVABLE -BOARD MEMBER</field>
+	<field name = "titulo">U.S. FARM CREDIT PROBLEMS SOLVABLE -BOARD MEMBER</field>
 	<field name = "DATELINE">CHICAGO, March 26 -</field>
-	<field name = "BODY">Substantial difficulties faced by the
+	<field name = "content">Substantial difficulties faced by the
 U.S. farm credit system can be solved with a business-like
 approach to the problems, a Farm Credit Admimistration official
 said.

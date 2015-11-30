@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 10:30:13.38</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">RM
-f1237reute
-r f BC-YUGOSLAV-TRADE-FALLS   03-30 0111</field>
-	<field name = "TITLE">YUGOSLAV TRADE FALLS SHARPLY  STATISTICS SHOW</field>
+	<field name = "titulo">YUGOSLAV TRADE FALLS SHARPLY  STATISTICS SHOW</field>
 	<field name = "DATELINE">BELGRADE, March 30 -</field>
-	<field name = "BODY">Yugoslav trade is declining rapidly
+	<field name = "content">Yugoslav trade is declining rapidly
 this year in hard currency terms, according to the latest
 Federal Statistics Office (FSO) figures.
     The FSO figures showed total exports from January 1 to

@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 04:56:42.17</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0292reute
-u f BC-JAPAN-TO-HELP-U.S.-ON   06-29 0116</field>
-	<field name = "TITLE">JAPAN TO HELP U.S. ON ANTI-SUBMARINE DEFENCES</field>
+	<field name = "titulo">JAPAN TO HELP U.S. ON ANTI-SUBMARINE DEFENCES</field>
 	<field name = "DATELINE">TOKYO, June 29 -</field>
-	<field name = "BODY">Japan has agreed to help the United States
+	<field name = "content">Japan has agreed to help the United States
 strengthen anti-submarine defences after illegal
 high-technology Japanese exports significantly damaged mutual
 security, U.S. Defence Secretary Caspar Weinberger said.

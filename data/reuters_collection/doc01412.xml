@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 18:37:30.54</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM
-f0186reute
-u f AM-REAGAN-CIA   03-03 0109</field>
-	<field name = "TITLE">REAGAN NOMINATES FBI DIRECTOR TO HEAD CIA</field>
+	<field name = "titulo">REAGAN NOMINATES FBI DIRECTOR TO HEAD CIA</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">President Reagan nominated Federal
+	<field name = "content">President Reagan nominated Federal
 Bureau of Investigation Director William Webster to be director
 of the Central Intelligence Agency (CIA), in succession to
 ailing William Casey.

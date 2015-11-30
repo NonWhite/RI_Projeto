@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 13:39:31.69</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f6016reute
-r f BC-cominco   03-17 0097</field>
-	<field name = "TITLE">COMINCO CLT> IN TRAIL, KIMBERLEY NEGOTIATIONS</field>
+	<field name = "titulo">COMINCO CLT> IN TRAIL, KIMBERLEY NEGOTIATIONS</field>
 	<field name = "DATELINE">TRAIL, British Columbia, March 17 -</field>
-	<field name = "BODY">Cominco Ltd said it was
+	<field name = "content">Cominco Ltd said it was
 in the second round of two-week-old negotiations with about
 3,200 unionized workers at its Trail and Kimberley, British
 Columbia zinc-lead operations.

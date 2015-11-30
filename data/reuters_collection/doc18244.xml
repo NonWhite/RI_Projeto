@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 15:28:50.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2452reute
-u f BC-HARCOURTHBJ>-CHIEF-S   06-02 0099</field>
-	<field name = "TITLE">HARCOURTHBJ> CHIEF SAYS MANAGERS ARE CONFIDENT</field>
+	<field name = "titulo">HARCOURTHBJ> CHIEF SAYS MANAGERS ARE CONFIDENT</field>
 	<field name = "DATELINE">ORLANDO, Fla., June 2 -</field>
-	<field name = "BODY">Harcourt Brace Jovanovich Inc
+	<field name = "content">Harcourt Brace Jovanovich Inc
 managers who use a special cash dividend to buy additional
 stock are demonstrating confidence in the company, chairman
 William Jovanovich said.

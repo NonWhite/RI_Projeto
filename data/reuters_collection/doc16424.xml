@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:16:22.58</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1665reute
-r f BC-mitel   04-13 0113</field>
-	<field name = "TITLE">MITEL MLT> HAS TWO NEW PRODUCTS</field>
+	<field name = "titulo">MITEL MLT> HAS TWO NEW PRODUCTS</field>
 	<field name = "DATELINE">OTTAWA, April 13 -</field>
-	<field name = "BODY">Mitel Corp said it introduced two new
+	<field name = "content">Mitel Corp said it introduced two new
 digital telephone switching systems and additional applications
 software for its current product line.
     The new SX-2000s digital private branch exchange is a

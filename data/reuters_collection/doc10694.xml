@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0131reute
-u f BC-JAPAN-HAS-LITTLE-NEW   03-30 0107</field>
-	<field name = "TITLE">JAPAN HAS LITTLE NEW TO OFFER IN MICROCHIP DISPUTE</field>
+	<field name = "titulo">JAPAN HAS LITTLE NEW TO OFFER IN MICROCHIP DISPUTE</field>
 	<field name = "AUTHOR">By Linda Sieg, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">The Japanese government appears to have
+	<field name = "content">The Japanese government appears to have
 little new to offer to settle a dispute with the U.S. Over
 computer chips, trade analysts and government officials said.
     The U.S. Has threatened to impose tariffs worth up to 300

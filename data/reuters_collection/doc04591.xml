@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0757reute
-d f BC-SEAL-SINC>-ACQUIRES   03-12 0079</field>
-	<field name = "TITLE">SEAL SINC> ACQUIRES ADEMCO LTD</field>
+	<field name = "titulo">SEAL SINC> ACQUIRES ADEMCO LTD</field>
 	<field name = "DATELINE">NAUGATUCK, Conn., March 12 -</field>
-	<field name = "BODY">Seal Inc said it acquired
+	<field name = "content">Seal Inc said it acquired
 Ademco Ltd, a United Kingdom company which distributes mounting
 and laminating equipment and supplies, for a combination of
 cash and stock valued at 2.6 mln dlrs, based on current

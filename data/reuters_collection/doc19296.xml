@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 13:32:01.61</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1822reute
-r f BC-METRO-AIRLINES-MAIR.   06-19 0062</field>
-	<field name = "TITLE">METRO AIRLINES MAIR.O> TO MAKE ACQUISITION</field>
+	<field name = "titulo">METRO AIRLINES MAIR.O> TO MAKE ACQUISITION</field>
 	<field name = "DATELINE">DALLAS, June 19 -</field>
-	<field name = "BODY">Metro Airlines Inc said it has agreed in
+	<field name = "content">Metro Airlines Inc said it has agreed in
 principle to acquire privately held Chaparral Airlines inc for
 5,700,000 dlrs in cash.
     Chaparral provides regularly scheduled service out of

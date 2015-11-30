@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 10:09:30.78</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1150reute
-u f BC-CIRCLE-EXPRESSCEXX.O   10-20 0067</field>
-	<field name = "TITLE">CIRCLE EXPRESSCEXX.O> ENDS OVERLANDOVER.O> BUY</field>
+	<field name = "titulo">CIRCLE EXPRESSCEXX.O> ENDS OVERLANDOVER.O> BUY</field>
 	<field name = "DATELINE">INDIANAPOLIS, Oct 20 -</field>
-	<field name = "BODY">Circle Express Inc said negotiations
+	<field name = "content">Circle Express Inc said negotiations
 on its proposed acquisitions of Overland Express Inc and
 privately-held Continental Training Services Inc have been
 terminated by mutual agreement.

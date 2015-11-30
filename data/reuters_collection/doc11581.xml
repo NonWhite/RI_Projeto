@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 14:43:11.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2243reute
-d f BC-CALIFORNIA-ENERGY-CE   03-31 0106</field>
-	<field name = "TITLE">CALIFORNIA ENERGY CECI> NEGOTIATES FINANCING</field>
+	<field name = "titulo">CALIFORNIA ENERGY CECI> NEGOTIATES FINANCING</field>
 	<field name = "DATELINE">SANTA ROSA, Calif., March 31 -</field>
-	<field name = "BODY">California Energy Co Inc
+	<field name = "content">California Energy Co Inc
 said it negotiated a 160 mln dlr private financing with Drexel
 Burnham Lambert Inc.
     As part of the financing, it received a commitment letter,

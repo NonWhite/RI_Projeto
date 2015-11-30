@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 10:56:04.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0644reute
-u f BC-AMR-AMR>-DISCOUNTS-T   03-03 0100</field>
-	<field name = "TITLE">AMR AMR> DISCOUNTS TALK ON PAN AM PN> DEAL</field>
+	<field name = "titulo">AMR AMR> DISCOUNTS TALK ON PAN AM PN> DEAL</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">AMR Corp chairman Robert Crandall,
+	<field name = "content">AMR Corp chairman Robert Crandall,
 denying industry speculation, said the company is not
 interested in acquiring shuttle routes in the northeast region
 of the U.S. from Pan Am Corp.

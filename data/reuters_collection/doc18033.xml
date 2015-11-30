@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 10:50:08.18</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f1251reute
-b f BC-CHICKEN-NOT-MAIN-SALM   06-02 0140</field>
-	<field name = "TITLE">CHICKEN NOT MAIN SALMONELLA CAUSE, OFFICIAL SAYS</field>
+	<field name = "titulo">CHICKEN NOT MAIN SALMONELLA CAUSE, OFFICIAL SAYS</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">A representative of the poultry
+	<field name = "content">A representative of the poultry
 industry said statistics showed that chicken is less frequently
 the cause of salmonella poisoning than beef, dairy products or
 salads and other mixed foods.

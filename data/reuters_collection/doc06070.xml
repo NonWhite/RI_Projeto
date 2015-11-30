@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 12:08:46.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f5612reute
-u f AM-REAGAN-POINDEXTER   03-17 0093</field>
-	<field name = "TITLE">POINDEXTER REFUSES TO TESTIFY BEFORE COMMITTEE</field>
+	<field name = "titulo">POINDEXTER REFUSES TO TESTIFY BEFORE COMMITTEE</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Adm. John Poindexter, a former
+	<field name = "content">Adm. John Poindexter, a former
 National Security Adviser who resigned over the Iran arms
 scandal, refused to testify before a House committee probing a
 recent expansion of White House and military control over

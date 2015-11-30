@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 12:12:43.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0303reute
-r f BC-GOLDOMEXFSB>-SEEKS-T   04-17 0104</field>
-	<field name = "TITLE">GOLDOMEXFSB> SEEKS TO GO PUBLIC</field>
+	<field name = "titulo">GOLDOMEXFSB> SEEKS TO GO PUBLIC</field>
 	<field name = "DATELINE">BUFFALO, N.Y., April 17 -</field>
-	<field name = "BODY">Goldome FSB said it has filed
+	<field name = "content">Goldome FSB said it has filed
 with the New York Superintendent of Banks to convert to a state
 stock savings bank from a federal mutual savings bank as part
 of its plan to go public.

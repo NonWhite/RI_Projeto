@@ -4,12 +4,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">V RM 
-f0759reute
-b f AM-GULF-REPORTSN   10-19 0042</field>
-	<field name = "TITLE">NBC NEWS SAYS U.S. HAS RETALIATED AGAINST IRAN</field>
+	<field name = "titulo">NBC NEWS SAYS U.S. HAS RETALIATED AGAINST IRAN</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">U.S. television networks said on
+	<field name = "content">U.S. television networks said on
 Monday that U.S. forces launched a retaliatory strike against
 Iran late Sunday, apparently attacking two Iranian offshore oil
 drilling platforms.

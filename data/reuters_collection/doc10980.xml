@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 14:04:27.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2145reute
-u f BC-TEXACO-TX>-SEEKS-PEN   03-30 0085</field>
-	<field name = "TITLE">TEXACO TX> SEEKS PENNZOIL PZL> CASE REHEARING</field>
+	<field name = "titulo">TEXACO TX> SEEKS PENNZOIL PZL> CASE REHEARING</field>
 	<field name = "DATELINE">WHITE PLAINS, N.Y., March 30 -</field>
-	<field name = "BODY">Texaco Inc said it has filed
+	<field name = "content">Texaco Inc said it has filed
 a motion with the Texas Court of Appeals in Houston seeking a
 rehearing of the court's decision to uphold most of Pennzoil
 Co's 11.12 billion dlr judgment against Texaco.

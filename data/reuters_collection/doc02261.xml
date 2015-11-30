@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 12:47:15.12</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f0041reute
-b f BC-BP-CAPITAL-BV-PLANS-D   03-05 0067</field>
-	<field name = "TITLE">BP CAPITAL BV PLANS DUAL-CURRENCY BOND ISSUE</field>
+	<field name = "titulo">BP CAPITAL BV PLANS DUAL-CURRENCY BOND ISSUE</field>
 	<field name = "DATELINE">AMSTERDAM, March 5 -</field>
-	<field name = "BODY">Amro Bank NV announced a 150 mln
+	<field name = "content">Amro Bank NV announced a 150 mln
 guilder seven-year dual-currency bond issue with a 6.5 pct
 coupon on behalf of BP Capital BV, guaranteed by British
 Petroleum Co Plc BP.L> subsidiary BP Maatschappij Nederland

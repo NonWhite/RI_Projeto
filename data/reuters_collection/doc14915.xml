@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 07:22:20.23</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM
-f0549reute
-r f BC-SOUTH-AFRICAN-OUTLOOK   04-08 0103</field>
-	<field name = "TITLE">SOUTH AFRICAN OUTLOOK SEEN BRIGHTER, LIBERTY LIFE</field>
+	<field name = "titulo">SOUTH AFRICAN OUTLOOK SEEN BRIGHTER, LIBERTY LIFE</field>
 	<field name = "DATELINE">JOHANNESBURG, April 8 -</field>
-	<field name = "BODY">South Africa's economic recovery
+	<field name = "content">South Africa's economic recovery
 has broadened as favourable terms of a three-year foreign debt
 rescheduling accord have given confidence to local business,
 Liberty Life Association of Africa Ltd said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 01:28:05.50</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f0046reute
-u f BC-TAIWAN-UNEMPLOYMENT-F   04-27 0096</field>
-	<field name = "TITLE">TAIWAN UNEMPLOYMENT FALLS IN MARCH</field>
+	<field name = "titulo">TAIWAN UNEMPLOYMENT FALLS IN MARCH</field>
 	<field name = "DATELINE">TAIPEI, April 27 -</field>
-	<field name = "BODY">Taiwan's unemployment rate fell to 2.03
+	<field name = "content">Taiwan's unemployment rate fell to 2.03
 pct of the labour force in March from 2.37 pct in February and
 2.79 pct in March 1986, the government statistics department
 said.

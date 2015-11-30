@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 17:45:00.59</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0242
-reute
-r f BC-MARSHALL-STEEL-DETAIL   02-26 0049</field>
-	<field name = "TITLE">MARSHALL STEEL DETAILS GAIN FROM UNIT SALE</field>
+	<field name = "titulo">MARSHALL STEEL DETAILS GAIN FROM UNIT SALE</field>
 	<field name = "DATELINE">MONTREAL, Feb 26 -</field>
-	<field name = "BODY">(Marshall Steel Ltd), formerly Marshall
+	<field name = "content">(Marshall Steel Ltd), formerly Marshall
 Drummond McCall Inc, said it will report a 17 mln dlr net gain
 before taxes this year from the sale of its Drummond McCall
 division, which was sold effective January one.                

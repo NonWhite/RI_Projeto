@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 07:09:42.28</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f0496reute
-u f BC-MOSCOW-STAGES-NUCLEAR   04-03 0083</field>
-	<field name = "TITLE">MOSCOW STAGES NUCLEAR TEST</field>
+	<field name = "titulo">MOSCOW STAGES NUCLEAR TEST</field>
 	<field name = "DATELINE">MOSCOW, April 3 -</field>
-	<field name = "BODY">The Soviet Union conducted an underground
+	<field name = "content">The Soviet Union conducted an underground
 nuclear test aimed at perfecting military techology, the
 official news agency Tass reported.
     Tass said the test was carried out at 0120 gmt at the

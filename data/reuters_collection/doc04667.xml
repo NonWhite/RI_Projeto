@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">RM
-f0263reute
-u f BC-REAGAN-DID-NOT-RECALL   03-13 0113</field>
-	<field name = "TITLE">REAGAN DID NOT RECALL APPROVING ARMS DEAL, COUNSEL</field>
+	<field name = "titulo">REAGAN DID NOT RECALL APPROVING ARMS DEAL, COUNSEL</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">President Reagan's legal adviser said
+	<field name = "content">President Reagan's legal adviser said
 the President could not recall when he approved a 1985 arms
 sale to Iran, the New York Times reported.
     "We were trying to stimulate his (Reagan's) recollection and

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:44:11.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2263reute
-u f BC-AMR-AMR>-FORMS-NEW-I   04-07 0090</field>
-	<field name = "TITLE">AMR AMR> FORMS NEW INVESTMENT UNIT</field>
+	<field name = "titulo">AMR AMR> FORMS NEW INVESTMENT UNIT</field>
 	<field name = "DATELINE">DALLAS, April 7 -</field>
-	<field name = "BODY">AMR Corp, parent company of American
+	<field name = "content">AMR Corp, parent company of American
 Airlines, said it has formed a new unit named AMR Investment
 Services to provide cash and pension fund management services
 to AMR and to small and medium-sized companies and

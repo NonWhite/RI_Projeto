@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 16:28:06.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2468reute
-d f BC-ATCOR-INC-ATCO.O>-TO   04-24 0111</field>
-	<field name = "TITLE">ATCOR INC ATCO.O> TO CONTEST ANTITRUST RULING</field>
+	<field name = "titulo">ATCOR INC ATCO.O> TO CONTEST ANTITRUST RULING</field>
 	<field name = "DATELINE">HARVEY, Ill., April 24 -</field>
-	<field name = "BODY">Atcor Inc said a Federal Court has
+	<field name = "content">Atcor Inc said a Federal Court has
 reinstated a 1986 jury verdict against it and in favor of
 Indian Head Inc for antitrust damages of 3.8 mln dlrs before
 trebling and attorneys' fees.

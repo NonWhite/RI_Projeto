@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM
-f0578reute
-u f AM-REAGAN (SCHEDULED)  03-04 0110</field>
-	<field name = "TITLE">REAGAN IRAN SPEECH SAID TO ADMIT NEED FOR CHANGE</field>
+	<field name = "titulo">REAGAN IRAN SPEECH SAID TO ADMIT NEED FOR CHANGE</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">President Reagan, fighting to recover
+	<field name = "content">President Reagan, fighting to recover
 politically from the Iran-contra scandal, plans to acknowledge
 in a critical speech to the nation tonight he needs to change
 his ways, administration officials said.

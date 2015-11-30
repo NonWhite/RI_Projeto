@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 15:44:23.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2434reute
-r f BC-TEXTRON-TXT>-TO-REPA   03-30 0114</field>
-	<field name = "TITLE">TEXTRON TXT> TO REPAY DEBT THROUGH ASSET SALES</field>
+	<field name = "titulo">TEXTRON TXT> TO REPAY DEBT THROUGH ASSET SALES</field>
 	<field name = "DATELINE">PROVIDENCE, R.I., March 30 -</field>
-	<field name = "BODY">Texton Inc said it intends to
+	<field name = "content">Texton Inc said it intends to
 repay a substantial portion of the debt generated to acquire
 Ex-Cell-O Corp last year through internally generated cash and
 proceeds from the sale of assets.

@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 10:42:25.35</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G T
-f1292reute
-d f BC-HIGH-COURT-REFUSES-TO   04-27 0109</field>
-	<field name = "TITLE">U.S. COURT REFUSES TO DISMISS ADM-NABISCO SUIT</field>
+	<field name = "titulo">U.S. COURT REFUSES TO DISMISS ADM-NABISCO SUIT</field>
 	<field name = "DATELINE">WASHINGTON, April 27 -</field>
-	<field name = "BODY">The Supreme Court refused to dismiss
+	<field name = "content">The Supreme Court refused to dismiss
 a Justice Department civil suit charging Archer Daniels Midland
 Co, ADM, and Nabisco Brands Inc with violating the antitrust
 laws.

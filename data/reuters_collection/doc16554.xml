@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 14:08:13.23</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2126reute
-u f BC-RJ-NABISCO'S-RJR>-UN   04-13 0093</field>
-	<field name = "TITLE">RJ NABISCO'S RJR> UNIT SELLS CIGAR BUSINESS</field>
+	<field name = "titulo">RJ NABISCO'S RJR> UNIT SELLS CIGAR BUSINESS</field>
 	<field name = "DATELINE">WINSTON-SALEM, N.C., April 13 -</field>
-	<field name = "BODY">RJR Nabisco Inc's RJ
+	<field name = "content">RJR Nabisco Inc's RJ
 Reynolds Tobacco USA unit said it reached a definitive
 agreement to sell Winchester Little Cigar Business to Tobacco
 Exporters International USA Ltd of Atlanta, the U.S. subsidiary

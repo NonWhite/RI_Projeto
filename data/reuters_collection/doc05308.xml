@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 09:01:35.32</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1902reute
-r f BC-RENOUF-EXTENDS-BENEQU   03-16 0086</field>
-	<field name = "TITLE">RENOUF EXTENDS BENEQUITY HOLDINGS BH> OFFER</field>
+	<field name = "titulo">RENOUF EXTENDS BENEQUITY HOLDINGS BH> OFFER</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">Renouf Corp International said it has
+	<field name = "content">Renouf Corp International said it has
 extended the expiration of its offer to pay 31 dlrs a unit to
 buy all outstanding units of Benequity Holdings a California
 Limited Partnership to March 24 from March 13.

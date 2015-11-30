@@ -2,12 +2,9 @@
 	<field name = "DATE">21-MAR-1987 08:26:48.39</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0030reute
-r f BC-FORMER-GOLD-FIRM-EXEC   03-21 0106</field>
-	<field name = "TITLE">FORMER GOLD FIRM EXECUTIVES ARRESTED IN JAPAN</field>
+	<field name = "titulo">FORMER GOLD FIRM EXECUTIVES ARRESTED IN JAPAN</field>
 	<field name = "DATELINE">OSAKA, Japan, March 21 -</field>
-	<field name = "BODY">The public prosecutors and police
+	<field name = "content">The public prosecutors and police
 here arrested five former senior executives of a bankrupt gold
 deposit business group for defrauding about 450 clients of
 about 1.5 billion yen for gold bars which were never delivered,

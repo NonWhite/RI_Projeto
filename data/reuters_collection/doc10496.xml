@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:43:37.74F</field>
-	<field name = "UNKNOWN">f1391reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-TELEPHONE-AND-DATA-SY   03-27 0077</field>
-	<field name = "TITLE">TELEPHONE AND DATA SYSTEMS TDS> FILES SHELF</field>
+	<field name = "titulo">TELEPHONE AND DATA SYSTEMS TDS> FILES SHELF</field>
 	<field name = "DATELINE">CHICAGO, March 27 -</field>
-	<field name = "BODY">Telephone and Data Systems Inc said it
+	<field name = "content">Telephone and Data Systems Inc said it
 filed a shelf registration statement covering securities to be
 used in connection with acquisitions.
     It said the shelf covers 2,500,000 common shares and

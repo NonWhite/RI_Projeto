@@ -3,12 +3,9 @@
 	<field name = "TOPICS">tin</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">itc</field>
-	<field name = "UNKNOWN">C M
-f1914reute
-u f BC-TIN-PACT-SPECIAL-SESS   03-23 0102</field>
-	<field name = "TITLE">TIN PACT SPECIAL SESSION THIS WEEK ROUTINE</field>
+	<field name = "titulo">TIN PACT SPECIAL SESSION THIS WEEK ROUTINE</field>
 	<field name = "DATELINE">LONDON, March 23 -</field>
-	<field name = "BODY">A further special session of the
+	<field name = "content">A further special session of the
 International Tin Council, ITC, held here tomorrow, March 24,
 will give member countries an update on the latest debate over
 the hundreds of millions of sterling lost when its buffer stock

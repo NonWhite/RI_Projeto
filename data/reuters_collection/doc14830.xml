@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 01:28:33.99</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">F
-f0060reute
-u f BC-NEW-ZEALAND-RAISES-FO   04-08 0099</field>
-	<field name = "TITLE">NEW ZEALAND RAISES FOREIGN INVESTMENT THRESHOLD</field>
+	<field name = "titulo">NEW ZEALAND RAISES FOREIGN INVESTMENT THRESHOLD</field>
 	<field name = "DATELINE">WELLINGTON, April 8 -</field>
-	<field name = "BODY">Foreigners will be able to invest up
+	<field name = "content">Foreigners will be able to invest up
 to two mln N.Z. Dlrs in New Zealand assets without getting
 approval from the Overseas Investment Commission, the
 Commission said.

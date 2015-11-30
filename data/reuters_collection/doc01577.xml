@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 12:06:59.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0855reute
-u f BC-PAINE-WEBBER-PWJ>-IN   03-04 0093</field>
-	<field name = "TITLE">PAINE WEBBER PWJ> IN FOUR MLN SHARE OFFERING</field>
+	<field name = "titulo">PAINE WEBBER PWJ> IN FOUR MLN SHARE OFFERING</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">PaineWebber Inc, The First Boston Corp
+	<field name = "content">PaineWebber Inc, The First Boston Corp
 FBC> and Salomon Inc SB> said Paine Webber Group Inc has
 made a public offering of four mln shares of 1.375 dlrs
 convertible exchangeable preferred stock, with a liquidation

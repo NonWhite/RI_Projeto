@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 07:58:25.35</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0662reute
-u f BC-GUINNESS-PEAT-HAS-CAS   03-26 0093</field>
-	<field name = "TITLE">GUINNESS PEAT HAS CASH ADVANCE FACILITY</field>
+	<field name = "titulo">GUINNESS PEAT HAS CASH ADVANCE FACILITY</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">Guinness Peat Group Plc GNSP.L> has
+	<field name = "content">Guinness Peat Group Plc GNSP.L> has
 arranged to receive a 125 mln dlr five year cash advance
 facility, said Barclays de Zoete Wedd Ltd and Guinness Mahon
 and Co Ltd as joint arrangers.

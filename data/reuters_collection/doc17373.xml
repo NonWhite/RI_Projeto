@@ -3,13 +3,10 @@
 	<field name = "TOPICS">reserves</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f0201reute
-u f BC-TAIWAN-RESERVES-RISE   04-29 0098</field>
-	<field name = "TITLE">TAIWAN RESERVES RISE ON TRADE SURPLUS, SPECULATION</field>
+	<field name = "titulo">TAIWAN RESERVES RISE ON TRADE SURPLUS, SPECULATION</field>
 	<field name = "AUTHOR">By Chen Chien-kuo, Reuters</field>
 	<field name = "DATELINE">TAIPEI, April 29 -</field>
-	<field name = "BODY">Taiwan's foreign exchange reserves have
+	<field name = "content">Taiwan's foreign exchange reserves have
 risen to a new high of 56 billion U.S. Dlrs, and officials
 attribute the increase to a surging trade surplus and the
 influx of speculative funds.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">herrington</field>
-	<field name = "UNKNOWN">Y F C
-f5924reute
-u f BC-U.S.-WARNS-OF-DEPENDE   03-17 0085</field>
-	<field name = "TITLE">U.S. WARNS OF DEPENDENCE ON FOREIGN OIL</field>
+	<field name = "titulo">U.S. WARNS OF DEPENDENCE ON FOREIGN OIL</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">A White House-ordered report said 
+	<field name = "content">A White House-ordered report said 
 that growing U.S. reliance on foreign oil into the year 2000
 could have potentially damaging implications for national
 security.

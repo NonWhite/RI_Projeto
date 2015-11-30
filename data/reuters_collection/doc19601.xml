@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:37:48.64</field>
-	<field name = "UNKNOWN">F 
-f0923reute
-u f BC-DI-GIORGIO-DIG>-OFFE   06-29 0099</field>
-	<field name = "TITLE">DI GIORGIO DIG> OFFERED 28 DLRS A SHARE</field>
+	<field name = "titulo">DI GIORGIO DIG> OFFERED 28 DLRS A SHARE</field>
 	<field name = "DATELINE">SAN FRANCISCO, Calif., June 29 -</field>
-	<field name = "BODY">Di Giorgio Corp dig> said
+	<field name = "content">Di Giorgio Corp dig> said
 it received an unsolicited letter from Gabelli and Co Inc>
 proposing a Di Giorgio recapitalization in which stockholders
 would receive 20 dlrs a share in cash and certain securitites,

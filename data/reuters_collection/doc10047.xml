@@ -6,12 +6,9 @@
 	<field name = "PEOPLE">balladur</field>
 	<field name = "PEOPLE">lawson</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f1973reute
-r f BC-BRITISH,-FRENCH-MINIS   03-26 0115</field>
-	<field name = "TITLE">BRITISH, FRENCH MINISTERS DISCUSS PUBLIC SPENDING</field>
+	<field name = "titulo">BRITISH, FRENCH MINISTERS DISCUSS PUBLIC SPENDING</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">French Finance Minister Edouard Balladur
+	<field name = "content">French Finance Minister Edouard Balladur
 discussed the need to control public spending in talks here
 today with British Chancellor of the Exchequer Nigel Lawson, a
 Treasury spokesman said.

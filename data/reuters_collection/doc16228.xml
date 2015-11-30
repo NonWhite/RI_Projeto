@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 09:06:02.68</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0813reute
-a f BC-SHULTZ-ARRIVES-IN-MOS   04-13 0090</field>
-	<field name = "TITLE">SHULTZ ARRIVES IN MOSCOW FOR ARMS TALKS</field>
+	<field name = "titulo">SHULTZ ARRIVES IN MOSCOW FOR ARMS TALKS</field>
 	<field name = "DATELINE">MOSCOW, April 13 -</field>
-	<field name = "BODY">U.S. Secretary of State George Shultz
+	<field name = "content">U.S. Secretary of State George Shultz
 arrived in Moscow for talks with Soviet leaders likely to focus
 on nuclear arms reductions.
     Shultz flew in from Helsinki and drove straight from the

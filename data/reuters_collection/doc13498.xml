@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:59:24.26</field>
-	<field name = "UNKNOWN">C T
-f0388reute
-b f BC-MALAYSIAN-RUBBER-MARK   04-07 0109</field>
-	<field name = "TITLE">MALAYSIAN RUBBER MARKET CLOSES HIGHER</field>
+	<field name = "titulo">MALAYSIAN RUBBER MARKET CLOSES HIGHER</field>
 	<field name = "DATELINE">KUALA LUMPUR, April 7 -</field>
-	<field name = "BODY">The Malaysian rubber market closed
+	<field name = "content">The Malaysian rubber market closed
 higher at 228 cents per kilo for May Int. Ones RSS buyer on
 further short covering, up 1.50 cents from yesterday's close,
 dealers said.

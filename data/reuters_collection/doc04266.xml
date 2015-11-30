@@ -3,13 +3,10 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f0294reute
-b f BC-NO-NEAR-TERM-BRAZIL-C   03-12 0105</field>
-	<field name = "TITLE">NO NEAR TERM BRAZIL COFFEE MOVES EXPECTED</field>
+	<field name = "titulo">NO NEAR TERM BRAZIL COFFEE MOVES EXPECTED</field>
 	<field name = "AUTHOR">By Richard Jarvie, Reuters</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 12 -</field>
-	<field name = "BODY">The Brazilian Coffee Institute,
+	<field name = "content">The Brazilian Coffee Institute,
 IBC, is unlikely to disclose its future export policy until the
 end of next week at the earliest, trade sources said.
     IBC president Jorio Dauster is meeting government

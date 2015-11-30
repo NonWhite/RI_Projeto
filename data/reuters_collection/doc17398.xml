@@ -2,12 +2,9 @@
 	<field name = "DATE">29-APR-1987 11:30:03.51</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">L
-f1414reute
-d f BC-USDA-PROGRAM-TO-FIGHT   04-29 0135</field>
-	<field name = "TITLE">USDA PROGRAM TO FIGHT SCREWWORMS IN LIVESTOCK</field>
+	<field name = "titulo">USDA PROGRAM TO FIGHT SCREWWORMS IN LIVESTOCK</field>
 	<field name = "DATELINE">WASHINGTON, April 29 -</field>
-	<field name = "BODY">Sterile screwworm flies will be
+	<field name = "content">Sterile screwworm flies will be
 released this weekend in Miami, Florida, and Albuquerque, New
 Mexico, to combat a potential outbreak of screwworms, a serious
 pest of livestock, the Agriculture Department said.

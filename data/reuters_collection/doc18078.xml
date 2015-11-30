@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 11:42:19.36</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1511reute
-r f BC-RAYCOMM-TRANSWORLD-R   06-02 0104</field>
-	<field name = "TITLE">RAYCOMM TRANSWORLD RACM.O> TO MAKE ACQUISITION</field>
+	<field name = "titulo">RAYCOMM TRANSWORLD RACM.O> TO MAKE ACQUISITION</field>
 	<field name = "DATELINE">FREEHOLD, N.J., June 2 -</field>
-	<field name = "BODY">Raycomm Transworld Industries Inc
+	<field name = "content">Raycomm Transworld Industries Inc
 said it has agreed in principle subject to board approvals to
 acquire Spiridellis Consulting Group Inc, a privately-held
 computer services consulting firm, for a number of common

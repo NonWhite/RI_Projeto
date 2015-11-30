@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:27:35.59</field>
-	<field name = "UNKNOWN">C M
-f0759reute
-u f BC-LME-SILVER-REACHES-FI   04-07 0097</field>
-	<field name = "TITLE">LME SILVER REACHES FIVE MONTHS HIGH BY MIDSESSION</field>
+	<field name = "titulo">LME SILVER REACHES FIVE MONTHS HIGH BY MIDSESSION</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">LME silver ended the morning with the
+	<field name = "content">LME silver ended the morning with the
 three months large contract trading at a new five month high of
 420 pence per troy ounce, compared with 415/418 pence indicated
 on yesterday's afternoon kerb close.

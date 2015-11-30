@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 13:18:50.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5935reute
-r f BC-FEDERAL-PAPER-BOARD-   03-17 0077</field>
-	<field name = "TITLE">FEDERAL PAPER BOARD FBO> TO SELL PREFERRED</field>
+	<field name = "titulo">FEDERAL PAPER BOARD FBO> TO SELL PREFERRED</field>
 	<field name = "DATELINE">MONTVALE, N.J., March 17 -</field>
-	<field name = "BODY">Federal Paper Board Co said its
+	<field name = "content">Federal Paper Board Co said its
 board has approved the issuance of 140 mln dlrs of convertible
 preferred stock, with proceeds to be used to redeem on June 15
 its 125 mln dlrs in 13 pct subordinated debentures.

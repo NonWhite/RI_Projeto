@@ -13,12 +13,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">meal-feed</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">G
-f0784reute
-r f BC-RPT---ARGENTINE-GRAIN   04-09 0085</field>
-	<field name = "TITLE">RPT - ARGENTINE GRAIN/OILSEED EXPORT PRICES ADJUSTED</field>
+	<field name = "titulo">RPT - ARGENTINE GRAIN/OILSEED EXPORT PRICES ADJUSTED</field>
 	<field name = "DATELINE">BUENOS AIRES, April 8 -</field>
-	<field name = "BODY">The Argentine Grain Board adjusted
+	<field name = "content">The Argentine Grain Board adjusted
 minimum export prices of grain and oilseed products in dlrs per
 tonne FOB, previous in brackets, as follows:
     Sorghum 64 (63), sunflowerseed cake and expellers 103 (102)

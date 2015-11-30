@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">F
-f0884reute
-h f BC-BALDRIGE-SAYS-U.S.-MA   03-05 0113</field>
-	<field name = "TITLE">BALDRIGE SAYS U.S. MAY RETALIATE ON KANSAI</field>
+	<field name = "titulo">BALDRIGE SAYS U.S. MAY RETALIATE ON KANSAI</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Commerce Secretary Malcolm Baldrige
+	<field name = "content">Commerce Secretary Malcolm Baldrige
 said he may recommend that the United States retaliate against
 Japan if the Japanese do not permit U.S. construction firms to
 participate in building the eight billion dlr Kansai airport.

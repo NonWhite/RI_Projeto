@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 14:26:38.95</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2107reute
-b f BC-AMOCO-AN>-SEES-1ST-Q   04-02 0081</field>
-	<field name = "TITLE">AMOCO AN> SEES 1ST QTR NET TOPPING 4TH QTR</field>
+	<field name = "titulo">AMOCO AN> SEES 1ST QTR NET TOPPING 4TH QTR</field>
 	<field name = "DATELINE">NEWE YORK, April 2 -</field>
-	<field name = "BODY">Amoco Corp first quarter profits are
+	<field name = "content">Amoco Corp first quarter profits are
 expected to exceed the 165 mln dlrs, or 65 cts per share,
 reported for 1986's fourth quarter, chairman Richard Morrow
 said.

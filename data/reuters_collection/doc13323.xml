@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 01:47:43.11</field>
-	<field name = "UNKNOWN">RM
-f0050reute
-u f BC-HUNGARIAN-EXCHANGE-RA   04-07 0166</field>
-	<field name = "TITLE">HUNGARIAN EXCHANGE RATES</field>
+	<field name = "titulo">HUNGARIAN EXCHANGE RATES</field>
 	<field name = "DATELINE">BUDAPEST, April 7, Reuter -</field>
-	<field name = "BODY">Hungarian National Bank forint
+	<field name = "content">Hungarian National Bank forint
 buying/selling rates for April 7. Previous rates in brackets.
 (USSR denotes transferable and clearing rouble).
     U.S.        47.6538/7492       (47.5485/6437)

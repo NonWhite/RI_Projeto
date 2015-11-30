@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 05:29:51.32</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f1401reute
-r f BC-DUTCH-COST-OF-LIVING   03-16 0074</field>
-	<field name = "TITLE">DUTCH COST OF LIVING FALLS 1.2 PCT IN FEBRUARY</field>
+	<field name = "titulo">DUTCH COST OF LIVING FALLS 1.2 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">THE HAGUE, March 16 -</field>
-	<field name = "BODY">The Dutch cost of living index (base
+	<field name = "content">The Dutch cost of living index (base
 1980) fell 1.2 pct to 121.5 in the year to mid-February after a
 1.3 pct fall in the year to mid-January 1987, the Economics
 Ministry said.

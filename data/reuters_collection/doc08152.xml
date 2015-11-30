@@ -5,12 +5,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0284reute
-u f BC-JAPAN-ECONOMY-SEEN-GR   03-23 0109</field>
-	<field name = "TITLE">JAPAN ECONOMY SEEN GROWING 3.6 PCT IN 1987/88</field>
+	<field name = "titulo">JAPAN ECONOMY SEEN GROWING 3.6 PCT IN 1987/88</field>
 	<field name = "DATELINE">TOKYO, March 23 -</field>
-	<field name = "BODY">Japan is expected to post a 3.6 pct rise
+	<field name = "content">Japan is expected to post a 3.6 pct rise
 in real gross national product in 1987/88, higher than the
 official 3.5 pct target, a private economic institute said.
     The Research Institute on National Economy said in a report

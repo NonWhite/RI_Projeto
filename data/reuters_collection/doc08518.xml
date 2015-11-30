@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 16:39:11.52</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f2409reute
-b f BC-CANADA-PLANS-TWO-BOND   03-23 0092</field>
-	<field name = "TITLE">CANADA PLANS TWO BOND AUCTIONS</field>
+	<field name = "titulo">CANADA PLANS TWO BOND AUCTIONS</field>
 	<field name = "DATELINE">OTTAWA, March 23 -</field>
-	<field name = "BODY">Canada plans an auction of three-year
+	<field name = "content">Canada plans an auction of three-year
 bonds March 31 and an auction of seven-year bonds April 1, the
 finance department said.
     Further details would be announced March 25 on the bonds

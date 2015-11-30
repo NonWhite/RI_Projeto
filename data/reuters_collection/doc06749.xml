@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 15:16:17.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f9218reute
-r f BC-S/P-MAY-DOWNGRADE-AFG   03-18 0113</field>
-	<field name = "TITLE">S/P MAY DOWNGRADE AFG AFG> AND GENCORP GY></field>
+	<field name = "titulo">S/P MAY DOWNGRADE AFG AFG> AND GENCORP GY></field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it may
+	<field name = "content">Standard and Poor's Corp said it may
 downgrade AFG Industries Inc and GenCorp Inc because a
 partnership affiliated with AFG and Wagner and Brown made a 2.2
 billion dlr tender offer to acquire GenCorp.

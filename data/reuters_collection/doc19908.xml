@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 16:35:45.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y 
-f2509reute
-u f BC-FERC-SEEKS-STAY-OF-MI   06-29 0099</field>
-	<field name = "TITLE">FERC SEEKS STAY OF MIDDLE SOUTH MSU> RULING</field>
+	<field name = "titulo">FERC SEEKS STAY OF MIDDLE SOUTH MSU> RULING</field>
 	<field name = "DATELINE">NEW ORLEANS, June 29 -</field>
-	<field name = "BODY">Middle South Utilities Inc said the
+	<field name = "content">Middle South Utilities Inc said the
 Federal Energy Regulatory Commission has requested a 30-day
 stay of a U.S. Court of Appeals ruling ordering the commission
 to reconsider its allocation of costs from the Grand Gulf One

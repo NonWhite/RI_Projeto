@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 01:53:38.99</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0063reute
-u f BC-SUPERCONDUCTOR-RESEAR   03-24 0108</field>
-	<field name = "TITLE">SUPERCONDUCTOR RESEARCH MAY BOOST TOKYO STOCKS</field>
+	<field name = "titulo">SUPERCONDUCTOR RESEARCH MAY BOOST TOKYO STOCKS</field>
 	<field name = "AUTHOR">By James Kynge, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 24 -</field>
-	<field name = "BODY">Research into materials that conduct
+	<field name = "content">Research into materials that conduct
 electricity with minimal resistance could lead to further gains
 on Tokyo's booming stock market, brokers said.
     They said the share prices of companies likely to benefit

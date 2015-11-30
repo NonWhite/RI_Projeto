@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 17:11:06.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2569reute
-d f BC-E-SYSTEMS-ESY>-SEES   06-01 0065</field>
-	<field name = "TITLE">E-SYSTEMS ESY> SEES REDUCED SECOND QUARTER</field>
+	<field name = "titulo">E-SYSTEMS ESY> SEES REDUCED SECOND QUARTER</field>
 	<field name = "DATELINE">DALLAS, June 1 -</field>
-	<field name = "BODY">E-Systems said it expects earnings for the
+	<field name = "content">E-Systems said it expects earnings for the
 second quarter will likely be below prior expectations due to a
 reduction in investment income and higher than expected costs
 on several power amplifier programs.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 17:10:57.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2623reute
-u f BC-MOODY'S-AFFIRMS-NATIO   06-29 0110</field>
-	<field name = "TITLE">MOODY'S AFFIRMS NATIONAL CITY CORP NCTY> DEBT</field>
+	<field name = "titulo">MOODY'S AFFIRMS NATIONAL CITY CORP NCTY> DEBT</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 affirmed National City Corp's long-term debt ratings and those
 of its major subsidiaries, National City Bank and BancOhio
 National Bank. Some 200 mln dlrs of issues are affected.

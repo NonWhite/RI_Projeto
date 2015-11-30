@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 15:23:33.18</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f2269reute
-d f BC-SALOMON-BROTHERS-REST   04-09 0093</field>
-	<field name = "TITLE">SALOMON BROTHERS RESTRUCTURES LONDON OPERATION</field>
+	<field name = "titulo">SALOMON BROTHERS RESTRUCTURES LONDON OPERATION</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Salomon Brothers Inc said it was altering
+	<field name = "content">Salomon Brothers Inc said it was altering
 the management structure of its London operation, Salomon
 Brothers International Ltd, following a similar move in New
 York last October.

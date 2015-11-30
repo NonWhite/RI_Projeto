@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 17:38:46.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3790reute
-r f BC-ZIMMER-ZIM>-BOOSTS-C   03-16 0103</field>
-	<field name = "TITLE">ZIMMER ZIM> BOOSTS CREDIT LINE BY 4.3 MLN DLRS</field>
+	<field name = "titulo">ZIMMER ZIM> BOOSTS CREDIT LINE BY 4.3 MLN DLRS</field>
 	<field name = "DATELINE">BOCA RATON, Fla., March 16 -</field>
-	<field name = "BODY">Zimmer Corp said it reached an
+	<field name = "content">Zimmer Corp said it reached an
 agreement with its banks to boost its credit line by 4.3 mln
 dlrs.
     It currently has 7,660,000 dlrs in outstanding debt.

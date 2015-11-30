@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 17:12:51.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2625reute
-r f BC-REPUBLIC-AMERICAN-RA   03-24 0088</field>
-	<field name = "TITLE">REPUBLIC AMERICAN RAWC> PLANS EXCHANGE OFFER</field>
+	<field name = "titulo">REPUBLIC AMERICAN RAWC> PLANS EXCHANGE OFFER</field>
 	<field name = "DATELINE">ENCINO, Calif., March 24 -</field>
-	<field name = "BODY">Republic American Corp said it
+	<field name = "content">Republic American Corp said it
 began an offer to exchange a new issue of 9-1/2 pct
 subordinated debentures due 2002 for a portion of its common
 stock.

@@ -7,12 +7,9 @@
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">yugoslavia</field>
 	<field name = "PEOPLE">mikulic</field>
-	<field name = "UNKNOWN">RM
-f0102reute
-u f BC-YUGOSLAV-ECONOMY-WORS   04-13 0112</field>
-	<field name = "TITLE">YUGOSLAV ECONOMY WORSENED IN 1986, BANK DATA SHOWS</field>
+	<field name = "titulo">YUGOSLAV ECONOMY WORSENED IN 1986, BANK DATA SHOWS</field>
 	<field name = "DATELINE">BELGRADE, April 13 -</field>
-	<field name = "BODY">National Bank economic data for 1986
+	<field name = "content">National Bank economic data for 1986
 shows that Yugoslavia's trade deficit grew, the inflation rate
 rose, wages were sharply higher, the money supply expanded and
 the value of the dinar fell.

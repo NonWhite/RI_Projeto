@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 02:33:11.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0086reute
-u f BC-NEC-SUES-SEIKO-EPSON   04-08 0113</field>
-	<field name = "TITLE">NEC SUES SEIKO EPSON OVER COPYRIGHT INFRINGEMENT</field>
+	<field name = "titulo">NEC SUES SEIKO EPSON OVER COPYRIGHT INFRINGEMENT</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">NEC Corp NESI.T> filed suit in Tokyo
+	<field name = "content">NEC Corp NESI.T> filed suit in Tokyo
 District Court to temporarily halt the manufacture and
 marketing of Seiko Epson Corp>'s NEC-compatible personal
 computer series, an NEC spokesman said.

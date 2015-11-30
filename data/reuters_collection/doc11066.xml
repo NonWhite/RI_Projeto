@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 16:13:10.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2501reute
-d f BC-ALLIED-SIGNAL-ALD>-G   03-30 0037</field>
-	<field name = "TITLE">ALLIED-SIGNAL ALD> GETS 38.6 MLN DLR CONTRACT</field>
+	<field name = "titulo">ALLIED-SIGNAL ALD> GETS 38.6 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">Allied Corp, a division of
+	<field name = "content">Allied Corp, a division of
 Allied-Signal Inc, has received a 38.6 mln dlr contract for
 work on F-15 aircraft avionics maintenance, the Air Force said.
  reuter</field>

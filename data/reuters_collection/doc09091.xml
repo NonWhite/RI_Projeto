@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 18:09:40.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2747reute
-r f BC-UNION-TAKES-AMERICAN   03-24 0089</field>
-	<field name = "TITLE">UNION TAKES AMERICAN AIRLINES TO COURT</field>
+	<field name = "titulo">UNION TAKES AMERICAN AIRLINES TO COURT</field>
 	<field name = "DATELINE">DALLAS, March 24 -</field>
-	<field name = "BODY">The Association of Professional Flight
+	<field name = "content">The Association of Professional Flight
 Attendants announced today that it was seeking a court order
 prohibiting any additional actions by AMR Corp's American
 Airlines restricting the right of its members to communicate

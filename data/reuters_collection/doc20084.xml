@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 07:20:31.37</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F 
-f0594reute
-r f BC-GERMAN-NEW-CAR-REGIST   10-20 0104</field>
-	<field name = "TITLE">GERMAN NEW CAR REGISTRATIONS RISE IN SEPTEMBER</field>
+	<field name = "titulo">GERMAN NEW CAR REGISTRATIONS RISE IN SEPTEMBER</field>
 	<field name = "DATELINE">FLENSBURG, West Germany, Oct 20 -</field>
-	<field name = "BODY">West German new car
+	<field name = "content">West German new car
 registrations rose four pct last month compared with September
 1986, and were 28 pct higher than August's figure, the Federal
 Motor Office said.

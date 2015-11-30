@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 06:40:12.16</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0490reute
-u f BC-GERMAN-IBM-REPORTS-NI   03-12 0113</field>
-	<field name = "TITLE">GERMAN IBM REPORTS NINE PCT DROP IN TURNOVER IN 1986</field>
+	<field name = "titulo">GERMAN IBM REPORTS NINE PCT DROP IN TURNOVER IN 1986</field>
 	<field name = "DATELINE">STUTTGART, March 12 -</field>
-	<field name = "BODY">IBM Deutschland GmbH IBM.F>, the
+	<field name = "content">IBM Deutschland GmbH IBM.F>, the
 West German subsidiary of International Business Machines Corp
 IBM.N>, said its turnover fell nine pct to 12.0 billion marks
 in 1986 as a result of currency factors, weaker demand in the

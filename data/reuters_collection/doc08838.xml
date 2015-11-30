@@ -2,13 +2,10 @@
 	<field name = "DATE">24-MAR-1987 12:00:36.26</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f1518reute
-u f BC-TALKING-POINT/U.S.-BR   03-24 0086</field>
-	<field name = "TITLE">TALKING POINT/U.S. BROKERAGE FIRMS</field>
+	<field name = "titulo">TALKING POINT/U.S. BROKERAGE FIRMS</field>
 	<field name = "AUTHOR">By Patti Domm, Reuters</field>
 	<field name = "DATELINE">New York, March 24 -</field>
-	<field name = "BODY">Wall Street's biggest brokerage firms,
+	<field name = "content">Wall Street's biggest brokerage firms,
 eager for funds and foreign ties to fuel international
 expansion, are expected to find more partnerships among Japan's
 cash-rich companies, analysts said.

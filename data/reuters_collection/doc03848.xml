@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 13:57:11.80</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0184reute
-w f BC-ERICSSON-ERICY>-WINS   03-11 0064</field>
-	<field name = "TITLE">ERICSSON ERICY> WINS ORDER FROM WEST GERMANY</field>
+	<field name = "titulo">ERICSSON ERICY> WINS ORDER FROM WEST GERMANY</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">L.M. Ericsson Telephone Co of Sweden
+	<field name = "content">L.M. Ericsson Telephone Co of Sweden
 said it was awarded a 7.5 mln dlr contract to supply its
 Alfaskop computer terminals to the West German Bundespost, West
 Germany's telecommunications and postal administration.

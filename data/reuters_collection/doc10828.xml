@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 11:07:19.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1445reute
-r f BC-TECHNOLOGY   03-30 0125</field>
-	<field name = "TITLE">TECHNOLOGY/IBM'S NEW COMPUTER NERVOUSLY AWAITED</field>
+	<field name = "titulo">TECHNOLOGY/IBM'S NEW COMPUTER NERVOUSLY AWAITED</field>
 	<field name = "AUTHOR">By Catherine Arnst, Reuters</field>
 	<field name = "DATELINE">BOSTON, March 30 -</field>
-	<field name = "BODY">International Business Machines Corp
+	<field name = "content">International Business Machines Corp
 IBM> is widely expected to deeply affect the personal computer
 industry this week when it announces a long awaited new
 generation of desktop machines.

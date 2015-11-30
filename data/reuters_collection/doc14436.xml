@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:11:06.75</field>
-	<field name = "UNKNOWN">CQ GQ
-f2174reute
-u f BC-cbt-deliv-grain-stock   04-07 0081</field>
-	<field name = "TITLE">CHICAGO BOARD OF TRADE DELIVERABLE GRAIN STOCKS</field>
+	<field name = "titulo">CHICAGO BOARD OF TRADE DELIVERABLE GRAIN STOCKS</field>
 	<field name = "DATELINE">April 7 -</field>
-	<field name = "BODY">as of Friday, April 3 , 1986.
+	<field name = "content">as of Friday, April 3 , 1986.
     WHEAT - 2,602,000 bushels including 1,647,000 in CHICAGO
 and   955,000 in TOLEDO.
     CORN - 26,620,000 bushels including 11,502,000 in CHICAGO,

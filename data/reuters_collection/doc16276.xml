@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 10:00:12.04</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0978reute
-b f BC-boston-five,-newworld   04-13 0073</field>
-	<field name = "TITLE">BOSTON FIVE BFCS.O>, NEWORLD NWOR.O> TO MERGE</field>
+	<field name = "titulo">BOSTON FIVE BFCS.O>, NEWORLD NWOR.O> TO MERGE</field>
 	<field name = "DATELINE">BOSTON, April 13 -</field>
-	<field name = "BODY">Boston Five Cents Savings Bank said it
+	<field name = "content">Boston Five Cents Savings Bank said it
 and Neworld Bank for Savings have agreed to merge, forming a
 new holding company, Boston Five Bancorp.
     Boston Five said the proposal calls for its holders to

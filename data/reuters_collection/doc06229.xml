@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 15:27:55.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f6373reute
-r f BC-DANA-DCN>-DEBT-MAY-B   03-17 0110</field>
-	<field name = "TITLE">DANA DCN> DEBT MAY BE DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">DANA DCN> DEBT MAY BE DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 may downgrade 700 mln dlrs of debt of Dana Corp and its unit,
 Dana Credit Corp.
     The agency said its review would focus on the implications

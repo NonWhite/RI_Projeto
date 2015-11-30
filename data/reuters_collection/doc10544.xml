@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:33:36.16RM</field>
-	<field name = "UNKNOWN">f1635reute</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">u f BC-GROS-DENIES-COURT-ACT   03-27 0108</field>
-	<field name = "TITLE">GROS DENIES COURT ACTION AGAINST BRAZIL</field>
+	<field name = "titulo">GROS DENIES COURT ACTION AGAINST BRAZIL</field>
 	<field name = "DATELINE">BRASILIA, March 27 -</field>
-	<field name = "BODY">Central Bank president Francisco Gros
+	<field name = "content">Central Bank president Francisco Gros
 denied rumours that foreign creditors had filed court actions
 against Brazil to seek payment of its 109-billion dlr debt.
     "There is no court action against Brazil," Gros said in a

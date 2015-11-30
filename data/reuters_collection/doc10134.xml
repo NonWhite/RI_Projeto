@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f2464reute
-u f BC-ITALIAN-1986-GDP-UP-2   03-26 0103</field>
-	<field name = "TITLE">ITALIAN 1986 GDP UP 2.7 PCT, UNEMPLOYMENT RISES</field>
+	<field name = "titulo">ITALIAN 1986 GDP UP 2.7 PCT, UNEMPLOYMENT RISES</field>
 	<field name = "DATELINE">ROME, March 26 -</field>
-	<field name = "BODY">Extracts from a report by Italy's Budget
+	<field name = "content">Extracts from a report by Italy's Budget
 Ministry on the country's economic development in 1986 showed
 gross domestic product (GDP) 2.7 pct higher in real terms than
 in 1985 but a rise in unemployment.

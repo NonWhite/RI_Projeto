@@ -2,12 +2,9 @@
 	<field name = "DATE">29-APR-1987 13:34:29.62</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2026reute
-u f BC-OIL-IMPORT-FEE-BILL-I   04-29 0101</field>
-	<field name = "TITLE">OIL IMPORT FEE BILL INTRODUCED IN U.S. HOUSE</field>
+	<field name = "titulo">OIL IMPORT FEE BILL INTRODUCED IN U.S. HOUSE</field>
 	<field name = "DATELINE">WASHINGTON, April 29 -</field>
-	<field name = "BODY">A bill that would impose an oil
+	<field name = "content">A bill that would impose an oil
 import fee to support a world floor price for oil of 25 dlrs a
 barrel was introduced in the U.S. House of Representatives by
 12 Congressmen from oil-producing states.

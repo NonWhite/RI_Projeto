@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 17:37:30.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0717reute
-r f BC-CHRYSLER-C>-TO-KEEP   03-12 0076</field>
-	<field name = "TITLE">CHRYSLER C> TO KEEP AMERICAN MOTORS AMO> PLANS</field>
+	<field name = "titulo">CHRYSLER C> TO KEEP AMERICAN MOTORS AMO> PLANS</field>
 	<field name = "DATELINE">SOUTHFIELD, Mich., March 12 -</field>
-	<field name = "BODY">American Motors Corp
+	<field name = "content">American Motors Corp
 president Joseph E. Cappy, in a telegram to dealers, said
 Chrysler Corp will retain American Motors' plans to begin
 selling four new cars within the next year.

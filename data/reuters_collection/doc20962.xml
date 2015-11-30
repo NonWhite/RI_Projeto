@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 16:14:37.57</field>
-	<field name = "UNKNOWN">V F RM 
-f3017reute
-b f BC-QT8916   10-19 0093</field>
-	<field name = "TITLE">WALL STREET SUFFERS WORST EVER SELLOFF</field>
+	<field name = "titulo">WALL STREET SUFFERS WORST EVER SELLOFF</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Wall Street tumbled to its worst point
+	<field name = "content">Wall Street tumbled to its worst point
 loss ever and the worst percentage decline since the First
 World War as a frenzy of stock selling stunned even the most
 bearish market participants. "Everyone is in awe and the word

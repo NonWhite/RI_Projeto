@@ -2,13 +2,10 @@
 	<field name = "DATE">18-MAR-1987 07:07:24.30</field>
 	<field name = "PLACES">zaire</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f7403reute
-r f BC-ZAIRE-AND-IMF-IN-ECON   03-18 0102</field>
-	<field name = "TITLE">ZAIRE AND IMF IN ECONOMIC RESCUE TALKS</field>
+	<field name = "titulo">ZAIRE AND IMF IN ECONOMIC RESCUE TALKS</field>
 	<field name = "AUTHOR">By Jean-Loup Fievet, Reuters</field>
 	<field name = "DATELINE">KINSHASA, March 18 -</field>
-	<field name = "BODY">Talks are underway between financially
+	<field name = "content">Talks are underway between financially
 troubled Zaire and the International Monetary Fund (IMF) aimed
 at rescuing the economy of the second largest nation in
 sub-Saharan Africa.

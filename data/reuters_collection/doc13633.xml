@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:30:19.63</field>
-	<field name = "UNKNOWN">CQ MQ
-f0608reute
-b f BC-NYMEX-FUTURES-VOLUME/   04-07 0052</field>
-	<field name = "TITLE">NYMEX FUTURES VOLUME/OPEN INTEREST FOR APRIL 6</field>
+	<field name = "titulo">NYMEX FUTURES VOLUME/OPEN INTEREST FOR APRIL 6</field>
 	<field name = "DATELINE">(totals -</field>
-	<field name = "BODY">in contracts)
+	<field name = "content">in contracts)
               volume    open   change
 Platinum       4321     19120  off  173
 Palladium       348      6895  off   45

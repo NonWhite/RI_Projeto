@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 10:30:23.09</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1268reute
-u f BC-IBC'S-INTERSTATE-BAKE   10-19 0082</field>
-	<field name = "TITLE">IBC'S INTERSTATE BAKERIESIBC>BID OVERSUBSCRIBED</field>
+	<field name = "titulo">IBC'S INTERSTATE BAKERIESIBC>BID OVERSUBSCRIBED</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">IBC Acquisition Corp said it received
+	<field name = "content">IBC Acquisition Corp said it received
 about 8,857,807 Interstate Bakeries Corp shares in response to
 its tender offer for up to 8,053,181 shares that expired
 October 16, and it will purchase about 90.9 pct of the shares

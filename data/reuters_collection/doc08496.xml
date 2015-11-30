@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 16:04:04.25</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2326reute
-u f BC-DIXONS-SAYS-CITICORP   03-23 0095</field>
-	<field name = "TITLE">DIXONS SAYS CITICORP TO WITHDRAW CYCLOPS OFFER</field>
+	<field name = "titulo">DIXONS SAYS CITICORP TO WITHDRAW CYCLOPS OFFER</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Dixons Group PLC> said it received a
+	<field name = "content">Dixons Group PLC> said it received a
 letter on March 19 from Citicorp Capital Investors Ltd, part of
 the Cyacq investor group making a rival bid for Cyclops Corp
 CYL>, proposing to drop the group's offer if Dixons would sell

@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:13:40.67F</field>
-	<field name = "UNKNOWN">f0490reute</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">r f BC-USSR-SEES-STRONG-FORE   03-27 0112</field>
-	<field name = "TITLE">USSR SEES STRONG FOREIGN INTEREST IN JOINT VENTURES</field>
+	<field name = "titulo">USSR SEES STRONG FOREIGN INTEREST IN JOINT VENTURES</field>
 	<field name = "AUTHOR">By Helen Womack, Reuters</field>
 	<field name = "DATELINE">MOSCOW, March 27 -</field>
-	<field name = "BODY">Soviet officials said foreign
+	<field name = "content">Soviet officials said foreign
 businessmen are expressing strong interest in establishing
 joint enterprises in the Soviet Union and already 30
 preliminary agreements had been signed with Western firms.

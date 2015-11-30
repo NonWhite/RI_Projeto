@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 10:22:59.97</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM 
-f1109reute
-u f BC-ABN-DETAILS-SYNDICATE   06-29 0114</field>
-	<field name = "TITLE">ABN DETAILS SYNDICATE FOR 50 MLN AUS DLR AKZO LOAN</field>
+	<field name = "titulo">ABN DETAILS SYNDICATE FOR 50 MLN AUS DLR AKZO LOAN</field>
 	<field name = "DATELINE">AMSTERDAM, June 29 -</field>
-	<field name = "BODY">Lead manager Algemene Bank Nederland
+	<field name = "content">Lead manager Algemene Bank Nederland
 (ABN) said it has completed the formation of a syndicate for
 Dutch chemical firm Akzo NV AKZO.AS>'s three-year 14 pct, 50
 mln Australian dlr bonds priced at 101.5 pct.

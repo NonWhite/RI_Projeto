@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 10:44:32.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0761
-reute
-r f BC-JUDGE-RULES-IN-FAVOR   03-02 0099</field>
-	<field name = "TITLE">JUDGE RULES IN FAVOR OF DOW CHEM DOW> UNIT</field>
+	<field name = "titulo">JUDGE RULES IN FAVOR OF DOW CHEM DOW> UNIT</field>
 	<field name = "DATELINE">FREEHOLD, N.J., March 2 -</field>
-	<field name = "BODY">Dow Chemical Co said a judge on
+	<field name = "content">Dow Chemical Co said a judge on
 the New Jersey Superior Court for Monmouth County granted its
 Merrell Dow Pharmaceuticals Inc unit a motion for a directed
 verdict in its favor in a case alleging its morning sickness

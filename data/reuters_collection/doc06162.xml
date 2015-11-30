@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">herrington</field>
-	<field name = "UNKNOWN">F Y
-f6083reute
-u f BC-HERRINGTON-SAYS-HE-MA   03-17 0090</field>
-	<field name = "TITLE">HERRINGTON SAYS HE MAY CALL FOR OIL TAX BENEFITS</field>
+	<field name = "titulo">HERRINGTON SAYS HE MAY CALL FOR OIL TAX BENEFITS</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Energy Secretary John Herrington
+	<field name = "content">Energy Secretary John Herrington
 said he may recommend to the White House that the domestic oil
 industry be given tax benefits to help it produce more oil and
 head off increasing U.S. dependence on foreign oil.

@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 21:23:11.10</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">T C
-f2889reute
-r f BC-JAPAN'S-1986/87-SUGAR   03-24 0091</field>
-	<field name = "TITLE">JAPAN'S 1986/87 SUGAR CANE OUTPUT SEEN FALLING</field>
+	<field name = "titulo">JAPAN'S 1986/87 SUGAR CANE OUTPUT SEEN FALLING</field>
 	<field name = "DATELINE">TOKYO, March 25 -</field>
-	<field name = "BODY">An Agriculture Ministry survey has
+	<field name = "content">An Agriculture Ministry survey has
 estimated the nation's 1986/87 crop sugar cane output at 2.14
 mln tonnes, down from 2.62 mln a year earlier.
     Ministry officials said the decline was due to bad weather

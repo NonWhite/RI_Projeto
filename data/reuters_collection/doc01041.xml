@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 10:14:49.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0467reute
-r f BC-BANGOR-HYDRO-BANG>-S   03-03 0081</field>
-	<field name = "TITLE">BANGOR HYDRO BANG> SEEKS RATE CUT</field>
+	<field name = "titulo">BANGOR HYDRO BANG> SEEKS RATE CUT</field>
 	<field name = "DATELINE">BANGOR, Maine, March 3 -</field>
-	<field name = "BODY">Bangor Hydro-Electric Cor said it
+	<field name = "content">Bangor Hydro-Electric Cor said it
 has filed with the Maine Public Utilities Commission (MPUC) for
 a two-stage base rate reduction.
     Bangor Hydro said the first stage, which could take effect

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 13:30:35.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1878reute
-b f BC-MORRISON-KNUDSEN-MRN   04-01 0070</field>
-	<field name = "TITLE">MORRISON-KNUDSEN MRN> GETS ARMY CONTRACT</field>
+	<field name = "titulo">MORRISON-KNUDSEN MRN> GETS ARMY CONTRACT</field>
 	<field name = "DATELINE">BOISE, Idaho, April 1 -</field>
-	<field name = "BODY">Morrison-Knudsen Corp said Black
+	<field name = "content">Morrison-Knudsen Corp said Black
 River Constructors, a joint venture with Martin Eby and a
 subsidiary of Hunt Corp, has received a 517-mln-dlr
 construction contract from the U.S. Army Corp of Engineers.

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 02:08:01.26</field>
 	<field name = "PLACES">australia</field>
 	<field name = "EXCHANGES">asx</field>
-	<field name = "UNKNOWN">E
-f0059reute
-u f BC-AUSTRALIAN-SHARE-MARK   04-09 0112</field>
-	<field name = "TITLE">AUSTRALIAN SHARE MARKET CLOSES AT ALL-TIME HIGHS</field>
+	<field name = "titulo">AUSTRALIAN SHARE MARKET CLOSES AT ALL-TIME HIGHS</field>
 	<field name = "DATELINE">SYDNEY, April 9 -</field>
-	<field name = "BODY">Keen demand for gold stocks and quality
+	<field name = "content">Keen demand for gold stocks and quality
 industrials pushed the Australian share market to all-time
 highs in active trading, brokers said.
     A higher close on Wall Street, a strong local dollar and

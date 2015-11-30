@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 08:53:19.13</field>
-	<field name = "UNKNOWN">C G T 
-f0813reute
-d f PM-FLOODS   06-29 0117</field>
-	<field name = "TITLE">THOUSANDS TRAPPED IN BANGLADESH FLASH FLOODS</field>
+	<field name = "titulo">THOUSANDS TRAPPED IN BANGLADESH FLASH FLOODS</field>
 	<field name = "DATELINE">DHAKA, June 29 -</field>
-	<field name = "BODY">Flash floods and high winds have trapped
+	<field name = "content">Flash floods and high winds have trapped
 some 10,000 people and injured at least 50 in northeastern
 Bangladesh's Sunamganj district, officials said.
     They said water, knee-deep in at least 10 villages

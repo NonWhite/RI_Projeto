@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 12:54:22.85</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1745reute
-d f BC-WRATHER-CORP-WCO>-4T   04-01 0049</field>
-	<field name = "TITLE">WRATHER CORP WCO> 4TH QTR LOSS</field>
+	<field name = "titulo">WRATHER CORP WCO> 4TH QTR LOSS</field>
 	<field name = "DATELINE">BEVERLY HILLS, Calif., April 1 -</field>
-	<field name = "BODY">Shr loss 53 cts vs loss 55 cts
+	<field name = "content">Shr loss 53 cts vs loss 55 cts
     Net loss 3,865,000 vs 3,963,000
     Revs 24.2 mln vs 26.8 mln
     Year

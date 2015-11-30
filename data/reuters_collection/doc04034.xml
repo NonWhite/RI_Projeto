@@ -3,12 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0968reute
-r f AM-COMMUNITY-BRITAIN   03-11 0087</field>
-	<field name = "TITLE">BRITISH MINISTER CRITICISES PROPOSED EC OILS TAX</field>
+	<field name = "titulo">BRITISH MINISTER CRITICISES PROPOSED EC OILS TAX</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">A British minister said that a proposed
+	<field name = "content">A British minister said that a proposed
 European Community tax on vegetable oils and fats would raise
 the price of fish and chips and he pledged the government would
 fight against it.

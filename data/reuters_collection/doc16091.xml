@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">imf</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0032reute
-r f BC-IMF,-WORLD-BANK-CRITI   04-11 0094</field>
-	<field name = "TITLE">IMF, WORLD BANK CRITICAL OF AGRICULTURE PROTECTION</field>
+	<field name = "titulo">IMF, WORLD BANK CRITICAL OF AGRICULTURE PROTECTION</field>
 	<field name = "DATELINE">WASHINGTON, April 10 -</field>
-	<field name = "BODY">A committee of the International
+	<field name = "content">A committee of the International
 Monetary Fund (IMF) and World Bank said protectionist
 agricultural policies of industrial countries were a major
 cause of depressed global commodity prices.

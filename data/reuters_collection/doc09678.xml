@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 19:01:30.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM A
-f2740reute
-r f BC-DREXEL   03-25 0075</field>
-	<field name = "TITLE">DREXEL SAYS BUSINESS STRONG DESPITE TRADE PROBE</field>
+	<field name = "titulo">DREXEL SAYS BUSINESS STRONG DESPITE TRADE PROBE</field>
 	<field name = "AUTHOR">By Richard Satran, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Drexel Burnham Lambert Inc said
+	<field name = "content">Drexel Burnham Lambert Inc said
 Wednesday its business is booming, despite its inability to
 distance itself from the insider trading scandal that has
 spread rumors and doubts through Wall Street.

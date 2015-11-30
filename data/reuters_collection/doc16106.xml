@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">pakistan</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f0034reute
-u f BC-CHINA-WANTS-TO-BUY-5,   04-13 0110</field>
-	<field name = "TITLE">CHINA WANTS TO BUY 5,000 TONNES PAKISTANI COTTON</field>
+	<field name = "titulo">CHINA WANTS TO BUY 5,000 TONNES PAKISTANI COTTON</field>
 	<field name = "DATELINE">KARACHI, April 12 -</field>
-	<field name = "BODY">China is negotiating with Pakistan to
+	<field name = "content">China is negotiating with Pakistan to
 buy 5,000 tonnes of cotton this year, after importing the same
 amount last year under a barter agreement, Chinese consulate
 sources said.

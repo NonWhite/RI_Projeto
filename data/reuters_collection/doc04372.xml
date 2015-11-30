@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 13:27:33.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0934reute
-u f BC-MAGMA-MGCPV>-STOCK-T   03-12 0114</field>
-	<field name = "TITLE">MAGMA MGCPV> STOCK TRANSFERABILITY LIMITED</field>
+	<field name = "titulo">MAGMA MGCPV> STOCK TRANSFERABILITY LIMITED</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Newmont Mining Corp NEM> said Magma
+	<field name = "content">Newmont Mining Corp NEM> said Magma
 Copper Co's certificate of incorporation and by-laws have been
 restated to limit the transferability of the company's stock.
     In an information statement on its decision to distribute

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:09:37.83</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0520reute
-u f BC-SALOMON-SELLS-200-MLN   03-05 0094</field>
-	<field name = "TITLE">SALOMON SELLS 200 MLN STG MORTGAGES-BACKED NOTES</field>
+	<field name = "titulo">SALOMON SELLS 200 MLN STG MORTGAGES-BACKED NOTES</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">Salomon Inc's TMC Mortgage Securities I
+	<field name = "content">Salomon Inc's TMC Mortgage Securities I
 Plc unit is issuing 200 mln stg floating rate mortgage-backed
 notes priced at par, said Salomon Brothers International as
 co-lead manager.

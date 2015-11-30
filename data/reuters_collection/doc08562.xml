@@ -3,13 +3,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">C
-f2587reute
-d f BC-CHICAGO-FUTURES-LEADE   03-23 0123</field>
-	<field name = "TITLE">CHICAGO FUTURES LEADER SAYS MARKETS CAN ADAPT</field>
+	<field name = "titulo">CHICAGO FUTURES LEADER SAYS MARKETS CAN ADAPT</field>
 	<field name = "AUTHOR">By Nelson Graves, Reuter</field>
 	<field name = "DATELINE">BOCA RATON, Fla., March 23 -</field>
-	<field name = "BODY">Foreign currency futures
+	<field name = "content">Foreign currency futures
 markets would not be harmed if the leading industrial countries
 agreed to restrict currency movements to within a narrow band,
 said Leo Melamed, chairman of the Chicago Mercantile

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 11:49:58.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1480reute
-h f BC-CONTROL-RESOURCE-CRI   03-24 0083</field>
-	<field name = "TITLE">CONTROL RESOURCE CRIX> NAMES NEW PRESIDENT</field>
+	<field name = "titulo">CONTROL RESOURCE CRIX> NAMES NEW PRESIDENT</field>
 	<field name = "DATELINE">MICHIGAN CITY, IND., March 24 -</field>
-	<field name = "BODY">Control Resource Industries
+	<field name = "content">Control Resource Industries
 Inc said it named R. Joseph Clancy as president.
     R. Steven Lutterbach, who previously held the president's
 title, continues as chairman and chief executive officer.

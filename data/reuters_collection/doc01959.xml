@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 06:22:29.71</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM C T
-f0620reute
-u f BC-CREDITOR-BANKS-MAY-BU   03-05 0091</field>
-	<field name = "TITLE">CREDITOR BANKS MAY BUY INTO SINGAPORE COFFEE FIRM</field>
+	<field name = "titulo">CREDITOR BANKS MAY BUY INTO SINGAPORE COFFEE FIRM</field>
 	<field name = "DATELINE">SINGAPORE, March 5 -</field>
-	<field name = "BODY">The nine creditor banks of the
+	<field name = "content">The nine creditor banks of the
 Singapore coffee trader Teck Hock and Co (Pte) Ltd> are
 thinking of buying a controlling stake in the company
 themselves, a creditor bank official said.

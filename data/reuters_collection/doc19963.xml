@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G 
-f2768reute
-u f BC-U.S./SOVIET-GRAIN-MEE   06-29 0137</field>
-	<field name = "TITLE">U.S./SOVIET GRAIN MEETING UNLIKELY THIS SUMMER</field>
+	<field name = "titulo">U.S./SOVIET GRAIN MEETING UNLIKELY THIS SUMMER</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">Prospects appear slim for a summer
+	<field name = "content">Prospects appear slim for a summer
 meeting between U.S. and Soviet officials before the two
 countries enter the final year of their bilateral grains
 agreement, Agriculture Department officials said.

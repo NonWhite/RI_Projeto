@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 05:42:04.93</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0459reute
-u f BC-POLLY-PECK-PPKL.L>-R   03-11 0110</field>
-	<field name = "TITLE">POLLY PECK PPKL.L> RAISES 20.3 MLN STG</field>
+	<field name = "titulo">POLLY PECK PPKL.L> RAISES 20.3 MLN STG</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Polly Peck International Plc> said it
+	<field name = "content">Polly Peck International Plc> said it
 has agreed to place 10 mln new ordinary shares at 203p each
 with a group of institutional investors.
     Polly Peck said it proposes to use the 20.3 mln stg raised

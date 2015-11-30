@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 21:30:24.87</field>
 	<field name = "TOPICS">wpi</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f3950reute
-b f BC-JAPAN-WHOLESALE-PRICE   03-16 0087</field>
-	<field name = "TITLE">JAPAN WHOLESALE PRICES FALL 0.1 PCT IN FEBRUARY</field>
+	<field name = "titulo">JAPAN WHOLESALE PRICES FALL 0.1 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 17 -</field>
-	<field name = "BODY">Japan's overall wholesale price index
+	<field name = "content">Japan's overall wholesale price index
 (base 1980) fell 0.1 pct in February from a month earlier to
 86.4 for the second consecutive month-on-month fall, the Bank
 of Japan said.

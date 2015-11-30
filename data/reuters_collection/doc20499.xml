@@ -7,13 +7,10 @@
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "PEOPLE">stoltenberg</field>
 	<field name = "PEOPLE">poehl</field>
-	<field name = "UNKNOWN">RM 
-f2561reute
-u f BC-BAKER-SEEN-WINNING-GE   10-20 0101</field>
-	<field name = "TITLE">BAKER SEEN WINNING GERMAN INTEREST RATES BATTLE</field>
+	<field name = "titulo">BAKER SEEN WINNING GERMAN INTEREST RATES BATTLE</field>
 	<field name = "AUTHOR">By Felix Dearden</field>
 	<field name = "DATELINE">BONN, Oct 20 -</field>
-	<field name = "BODY">The United States appears to have won a
+	<field name = "content">The United States appears to have won a
 transatlantic battle by forcing the Bundesbank to trim interest
 rates, European economists said.
     But they added Washington set the stakes high by testing

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 11:53:26.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1587reute
-u f BC-COMDISCO-CDO>-SEES-R   04-02 0092</field>
-	<field name = "TITLE">COMDISCO CDO> SEES RECORD 2ND QTR EARNINGS</field>
+	<field name = "titulo">COMDISCO CDO> SEES RECORD 2ND QTR EARNINGS</field>
 	<field name = "DATELINE">ROSEMONT, ILL., April 2 -</field>
-	<field name = "BODY">Comdisco Inc expects record
+	<field name = "content">Comdisco Inc expects record
 earnings for the second quarter ended March 31 in the range of
 65 to 75 cts a share, Chairman Kenneth Pontikes said in remarks
 prepared for delivery to a group of Los Angeles financial

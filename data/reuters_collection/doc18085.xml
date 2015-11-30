@@ -3,13 +3,10 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1528reute
-u f BC-BUNDESBANK-CREDIT-POL   06-02 0105</field>
-	<field name = "TITLE">BUNDESBANK CREDIT POLICY CHANGES UNLIKELY</field>
+	<field name = "titulo">BUNDESBANK CREDIT POLICY CHANGES UNLIKELY</field>
 	<field name = "AUTHOR">By Jonathan Lynn, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, June 2 -</field>
-	<field name = "BODY">The Bundesbank is unlikely to change
+	<field name = "content">The Bundesbank is unlikely to change
 credit policies when its central bank council meets on Thursday
 for its last session before the Venice summit, banking
 economists and money market dealers said.

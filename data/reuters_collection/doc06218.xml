@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 15:14:03.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f6330reute
-r f BC-VALERO-VLO>-PREFERRE   03-17 0115</field>
-	<field name = "TITLE">VALERO VLO> PREFERRED STOCK UPGRADED BY S/P</field>
+	<field name = "titulo">VALERO VLO> PREFERRED STOCK UPGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 raised to B from B-minus Valero Energy Corp's preferred stock.
     Also, the rating agency affirmed Valero's BB-minus
 industrial revenue bonds and B-rated debentures. About 950 mln

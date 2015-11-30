@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 10:08:46.25</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F A
-f0190reute
-r f BC-continental-bank/cana   03-09 0098</field>
-	<field name = "TITLE">CONTINENTAL BANK/CANADA SETS DISTRIBUTION</field>
+	<field name = "titulo">CONTINENTAL BANK/CANADA SETS DISTRIBUTION</field>
 	<field name = "DATELINE">TORONTO, March 9 -</field>
-	<field name = "BODY">Continental Bank of Canada, a subsidiary
+	<field name = "content">Continental Bank of Canada, a subsidiary
 of Lloyds Bank PLC LLOY.L>, said it intends to redeem all
 existing preferred shares and distribute a stock dividend to
 common shareholders.

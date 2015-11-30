@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 09:06:48.90</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f0247
-reute
-u f BC-CANADA-REVEALS-PRICES   03-03 0085</field>
-	<field name = "TITLE">CANADA PRICES 1.2 BILLION DLR BOND ISSUE</field>
+	<field name = "titulo">CANADA PRICES 1.2 BILLION DLR BOND ISSUE</field>
 	<field name = "DATELINE">OTTAWA, March 3 -</field>
-	<field name = "BODY">The finance department announced the new
+	<field name = "content">The finance department announced the new
 1.2 billion dlr, four-part bond issue, to be dated March 15 and
 delivered March 16, will be priced as follows.
     - 8 pct bonds due July 1, 1990 at a price of 100.30 pct

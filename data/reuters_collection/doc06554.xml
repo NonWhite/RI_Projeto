@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 11:31:42.35</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f8321reute
-w f BC-UNIVERSAL-MEDICAL-UM   03-18 0033</field>
-	<field name = "TITLE">UNIVERSAL MEDICAL UMBIZ> JOINS NASDAQ SYSTEM</field>
+	<field name = "titulo">UNIVERSAL MEDICAL UMBIZ> JOINS NASDAQ SYSTEM</field>
 	<field name = "DATELINE">MILWAUKEE, WIS., March 18 -</field>
-	<field name = "BODY">UIniversal Medical Buildings LP
+	<field name = "content">UIniversal Medical Buildings LP
 said its partnership units were admitted for trading on the
 NASDAQ National Market System.
  Reuter</field>

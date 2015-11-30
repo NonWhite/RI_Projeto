@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:01:21.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2647reute
-d f BC-EASTMAN-KODAK-EK>-SE   03-16 0072</field>
-	<field name = "TITLE">EASTMAN KODAK EK> SETS CHEMICAL VENTURE</field>
+	<field name = "titulo">EASTMAN KODAK EK> SETS CHEMICAL VENTURE</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 16 -</field>
-	<field name = "BODY">Wilson and George Meyer and Co>
+	<field name = "content">Wilson and George Meyer and Co>
 and the Eastman Chemicals division of Eastman Kodak Co said
 they formed 50-50 joint venture called WGM/Eastman Inc.
     According to the agreement, Eastman will buy Meyer and Co's

@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 12:57:26.37</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C
-f8731reute
-r f BC-CBT-TO-SUBMIT-YEN-BON   03-18 0106</field>
-	<field name = "TITLE">CBT TO SUBMIT YEN BOND FUTURES CONTRACT TO CFTC</field>
+	<field name = "titulo">CBT TO SUBMIT YEN BOND FUTURES CONTRACT TO CFTC</field>
 	<field name = "DATELINE">CHICAGO, March 18 -</field>
-	<field name = "BODY">Directors of the Chicago Board of
+	<field name = "content">Directors of the Chicago Board of
 Trade, CBT, decided at their regular board meeting late
 yesterday to submit a long-term Japanese Government Bond
 futures conrtact to the Commodity Futures Trading Commission,

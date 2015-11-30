@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 06:09:40.78</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">F
-f0342reute
-u f BC-STANDARD-BANK-UNABLE   03-20 0077</field>
-	<field name = "TITLE">STANDARD BANK UNABLE TO MAKE EARNINGS FORECAST</field>
+	<field name = "titulo">STANDARD BANK UNABLE TO MAKE EARNINGS FORECAST</field>
 	<field name = "DATELINE">JOHANNESBURG, March 20 -</field>
-	<field name = "BODY">Standard Bank Investment Corp Ltd
+	<field name = "content">Standard Bank Investment Corp Ltd
 (SPRJ.J) chairman Henri de Villiers said he could not predict
 profits for the bank this year because of South Africa's
 continuing political unrest.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 03:00:00.32</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">RM
-f0131reute
-b f BC-SWEDEN-ISSUES-SEVEN-Y   04-03 0059</field>
-	<field name = "TITLE">SWEDEN ISSUES SEVEN-YEAR DOMESTIC BOND</field>
+	<field name = "titulo">SWEDEN ISSUES SEVEN-YEAR DOMESTIC BOND</field>
 	<field name = "DATELINE">STOCKHOLM, April 3 -</field>
-	<field name = "BODY">Sweden's National Debt Office said it
+	<field name = "content">Sweden's National Debt Office said it
 was issuing a four billion crown, seven-year domestic
 government bond with a coupon of 10.75 pct.
     It invited bids by April 6 and payment date for the loan is

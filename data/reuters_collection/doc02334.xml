@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 14:06:45.02</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0325reute
-d f BC-LTX-CORP-LTXX>-2ND-Q   03-05 0078</field>
-	<field name = "TITLE">LTX CORP LTXX> 2ND QTR JAN 31 LOSS</field>
+	<field name = "titulo">LTX CORP LTXX> 2ND QTR JAN 31 LOSS</field>
 	<field name = "DATELINE">WESTWOOD, Mass., March 5 -</field>
-	<field name = "BODY">Shr loss 28 cts vs loss 32 cts
+	<field name = "content">Shr loss 28 cts vs loss 32 cts
     Net loss 2,585,000 vs loss 2,885,000
     Sales 27.6 mln vs 23.5 mln
     Avg shrs 9,352,000 vs 9,049,000

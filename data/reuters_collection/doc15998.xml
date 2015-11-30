@@ -6,12 +6,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f2645reute
-b f BC-ussr-shipments   04-09 0115</field>
-	<field name = "TITLE">GRAIN SHIPMENTS TO THE USSR -- USDA</field>
+	<field name = "titulo">GRAIN SHIPMENTS TO THE USSR -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">There were 287,700 tonnes of U.S.
+	<field name = "content">There were 287,700 tonnes of U.S.
 corn shipped to the Soviet Union in the week ended April 2,
 according to the U.S. Agriculture Department's latest Export
 Sales report.

@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 12:21:28.30</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0671reute
-r f BC-BANCROFT-BCF>-SUES-Z   03-12 0089</field>
-	<field name = "TITLE">BANCROFT BCF> SUES ZICO</field>
+	<field name = "titulo">BANCROFT BCF> SUES ZICO</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Zico INvestment Holdings INc said that
+	<field name = "content">Zico INvestment Holdings INc said that
 Bancroft Convertible Fund Inc filed suit seeking to enjoin
 Zico's 30 dlr-a-share tender offer for 500,000 Bancroft shares.
     In its complaint, Bancroft said the tender offer materials

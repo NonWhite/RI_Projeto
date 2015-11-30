@@ -4,12 +4,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f6456reute
-u f BC-UK-TRADE-FEARS-HIGHER   03-17 0105</field>
-	<field name = "TITLE">UK TRADE WARY OF HIGHER EC GRAIN LEVY</field>
+	<field name = "titulo">UK TRADE WARY OF HIGHER EC GRAIN LEVY</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">The European Community may decide to
+	<field name = "content">The European Community may decide to
 increase the cereals co-responsibility levy and extend its
 scope to cover cereal substitutes if the Commission's 1987/88
 farm price package is opposed by member states, Edgar Pye,

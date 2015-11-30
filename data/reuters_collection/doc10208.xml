@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L M T
-f2721reute
-r f BC-WHITE-HOUSE-UNIT-DECI   03-26 0134</field>
-	<field name = "TITLE">WHITE HOUSE UNIT DECIDES ON SEMICONDUCTORS</field>
+	<field name = "titulo">WHITE HOUSE UNIT DECIDES ON SEMICONDUCTORS</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">The White House Economic Policy
+	<field name = "content">The White House Economic Policy
 Council made a recommendation to President Reagan whether to
 retaliate against Japan for alleged unfair practices in
 semiconductor trade, U.S. officials said.

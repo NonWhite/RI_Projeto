@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 08:23:05.67</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0707reute
-r f BC-DISNEY-DIS>-FRENCH-D   03-24 0094</field>
-	<field name = "TITLE">DISNEY DIS> FRENCH DISNEYLAND DEAL DEFINITIVE</field>
+	<field name = "titulo">DISNEY DIS> FRENCH DISNEYLAND DEAL DEFINITIVE</field>
 	<field name = "DATELINE">BURBANK, Calif., March 24 -</field>
-	<field name = "BODY">Walt Disney Co said it has
+	<field name = "content">Walt Disney Co said it has
 signed a definitive agreement with the French government to
 build and operate Euro Disneyland on 5,000 acres at
 Marne-la-Vallee, a new town 20 miles east of Paris.

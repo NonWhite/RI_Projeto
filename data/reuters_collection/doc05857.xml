@@ -2,13 +2,10 @@
 	<field name = "DATE">17-MAR-1987 07:14:17.71</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f4538reute
-r f BC-DOLLAR-SEEN-FALLING-U   03-17 0109</field>
-	<field name = "TITLE">DOLLAR SEEN FALLING UNLESS JAPAN SPURS ECONOMY</field>
+	<field name = "titulo">DOLLAR SEEN FALLING UNLESS JAPAN SPURS ECONOMY</field>
 	<field name = "AUTHOR">By Rie Sagawa, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 17 -</field>
-	<field name = "BODY">Underlying dollar sentiment is bearish,
+	<field name = "content">Underlying dollar sentiment is bearish,
 and operators may push the currency to a new low unless Japan
 takes steps to stimulate its economy as pledged in the Paris
 accord, foreign exchange analysts polled by Reuters said here.

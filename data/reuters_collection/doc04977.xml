@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 14:33:05.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0114reute
-h f BC-AUXTON-COMPUTER-AUXT   03-13 0119</field>
-	<field name = "TITLE">AUXTON COMPUTER AUXT> IN ARRANGEMENTS</field>
+	<field name = "titulo">AUXTON COMPUTER AUXT> IN ARRANGEMENTS</field>
 	<field name = "DATELINE">MAITLAND, Fla., March 13 -</field>
-	<field name = "BODY">Auxton Computer Enterprises Inc
+	<field name = "content">Auxton Computer Enterprises Inc
 said it has entered into an agreement to provide cellular
 business office services to a major non-wireline cellular
 carrier in 12 major cellular markets throughout the U.S.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 13:28:20.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2010reute
-d f BC-MEDICAL-IMAGING-MIKA   04-13 0096</field>
-	<field name = "TITLE">MEDICAL IMAGING MIKA.O> L.P. PLANS OFFER</field>
+	<field name = "titulo">MEDICAL IMAGING MIKA.O> L.P. PLANS OFFER</field>
 	<field name = "DATELINE">SAN DIEGO, Calif., April 13 -</field>
-	<field name = "BODY">Medical Imaging Centers of
+	<field name = "content">Medical Imaging Centers of
 America Inc said Shared Imaging Partners L.P., a Delaware
 limited partnership, filed a registration statement with the
 Securities and Exchange Commission covering a planned offering

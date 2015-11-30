@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 15:02:15.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E
-f0198reute
-r f BC-LOADMASTER-SYSTEMS-L   03-13 0056</field>
-	<field name = "TITLE">LOADMASTER SYSTEMS LSMIF> NAMES NEW PRESIDENT</field>
+	<field name = "titulo">LOADMASTER SYSTEMS LSMIF> NAMES NEW PRESIDENT</field>
 	<field name = "DATELINE">TUCSON, Ariz., March 13 -</field>
-	<field name = "BODY">Loadmaster Systems Inc said Mark
+	<field name = "content">Loadmaster Systems Inc said Mark
 A Cote has been appointed president of the company and its
 Loadmaster Systems Inc USA subsidiary.
     The company said he succeeds David L. Shorey who accepted

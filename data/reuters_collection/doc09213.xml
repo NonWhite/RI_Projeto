@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0516reute
-r f BC-JAPAN-BUYS-MODEST-AMO   03-25 0101</field>
-	<field name = "TITLE">JAPAN BUYS MODEST AMOUNT OF DOLLARS, DEALERS SAY</field>
+	<field name = "titulo">JAPAN BUYS MODEST AMOUNT OF DOLLARS, DEALERS SAY</field>
 	<field name = "DATELINE">TOKYO, March 25 -</field>
-	<field name = "BODY">The Bank of Japan bought a modest amount
+	<field name = "content">The Bank of Japan bought a modest amount
 of dollars this morning, possibly around 200 to 300 mln,
 dealers said.
     One dealer said the central bank bought about 200 mln dlrs

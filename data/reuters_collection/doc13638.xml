@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:31:53.94</field>
-	<field name = "UNKNOWN">C T
-f0615reute
-b f BC-LONDON-COFFEE-FUTURES   04-07 0114</field>
-	<field name = "TITLE">LONDON COFFEE FUTURES QUIETLY FIRMER AT MIDDAY</field>
+	<field name = "titulo">LONDON COFFEE FUTURES QUIETLY FIRMER AT MIDDAY</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Robusta futures firmed at midday in
+	<field name = "content">Robusta futures firmed at midday in
 extremely quiet trading, ranging three to 12 stg per tonne
 higher at the end of the morning call. Second position July
 rose seven stg to 1,258 stg.

@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 11:44:54.11</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f5478reute
-u f BC-NYSE-REVIEWS-PROGRAM   03-17 0037</field>
-	<field name = "TITLE">NYSE REVIEWS PROGRAM TRADING</field>
+	<field name = "titulo">NYSE REVIEWS PROGRAM TRADING</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">The New York Stock Exchange> said it
+	<field name = "content">The New York Stock Exchange> said it
 is undertaking a review of the long-term effects on securities
 markets of computer-driven trading techniques known as program
 trading.

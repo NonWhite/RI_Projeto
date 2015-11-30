@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">herrington</field>
-	<field name = "UNKNOWN">Y
-f0926reute
-u f BC-U.S.-ENERGY-CHIEF-SEE   03-19 0097</field>
-	<field name = "TITLE">U.S. ENERGY CHIEF SEES PROMISE IN OIL-TAX CHANGE</field>
+	<field name = "titulo">U.S. ENERGY CHIEF SEES PROMISE IN OIL-TAX CHANGE</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">Energy Secretary John Herrington
+	<field name = "content">Energy Secretary John Herrington
 said his proposed option to raise the oil depletion allowance
 to 27.5 pct was probably the most economically promising way to
 spur domestic production.

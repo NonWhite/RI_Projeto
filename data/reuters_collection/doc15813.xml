@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 14:12:41.93</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f2044reute
-r f BC-SULPETRO-AWAITS-GOVER   04-09 0099</field>
-	<field name = "TITLE">SULPETRO AWAITS GOVERNMENT APPROVAL ON DEBT</field>
+	<field name = "titulo">SULPETRO AWAITS GOVERNMENT APPROVAL ON DEBT</field>
 	<field name = "DATELINE">CALGARY, Alberta, April 9 -</field>
-	<field name = "BODY">Sulpetro Ltd> said it had not
+	<field name = "content">Sulpetro Ltd> said it had not
 yet obtained Canadian government approval of a previously
 reported agreement to restructure its 505 mln dlr debt, and
 remaines dependent in the interim on support from its principal

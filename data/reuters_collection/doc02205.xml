@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">C T
-f0765reute
-b f BC-INDIA-BOUGHT-AT-LEAST   03-05 0118</field>
-	<field name = "TITLE">INDIA BOUGHT AT LEAST EIGHT CARGOES SUGAR--TRADE</field>
+	<field name = "titulo">INDIA BOUGHT AT LEAST EIGHT CARGOES SUGAR--TRADE</field>
 	<field name = "DATELINE">****LONDON, March 5 -</field>
-	<field name = "BODY">India bought eight cargoes of white
+	<field name = "content">India bought eight cargoes of white
 sugar at a buying tender this week but also gave sellers
 options to sell an extra eight cargoes at the same prices,
 traders said.

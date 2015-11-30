@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 01:22:15.49</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0052reute
-u f BC-JAPAN-VEHICLE-PRODUCT   03-23 0104</field>
-	<field name = "TITLE">JAPAN VEHICLE PRODUCTION FALLS IN FEBRUARY</field>
+	<field name = "titulo">JAPAN VEHICLE PRODUCTION FALLS IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 23 -</field>
-	<field name = "BODY">Japan's vehicle output in February fell
+	<field name = "content">Japan's vehicle output in February fell
 0.4 pct from a year earlier to 1.03 mln units for the fifth
 consecutive monthly year-on-year drop, but February output was
 up 10 pct from a month earlier, the Japan Automobile

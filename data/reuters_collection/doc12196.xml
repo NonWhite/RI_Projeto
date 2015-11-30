@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 14:19:04.39</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2050reute
-r f BC-CANADIAN-IMPERIAL-BAN   04-01 0097</field>
-	<field name = "TITLE">CANADIAN IMPERIAL BANK LOWERING VISA RATES</field>
+	<field name = "titulo">CANADIAN IMPERIAL BANK LOWERING VISA RATES</field>
 	<field name = "DATELINE">TORONTO, April 1 -</field>
-	<field name = "BODY">Canadian Imperial Bank of Commerce>
+	<field name = "content">Canadian Imperial Bank of Commerce>
 said it was lowering the interest rate on its Visa credit card
 to 15.9 pct from 18.6 pct, effective with the May billing
 statement.

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 11:32:12.74</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0580reute
-b f BC-/UAW-SAYS-IT-BACK-CHR   03-09 0099</field>
-	<field name = "TITLE">UAW SAYS IT BACK CHRYSLER C>, AMC AMO> MERGER</field>
+	<field name = "titulo">UAW SAYS IT BACK CHRYSLER C>, AMC AMO> MERGER</field>
 	<field name = "DATELINE">DETROIT, March 9 -</field>
-	<field name = "BODY">The United Auto Workers UAW> union said
+	<field name = "content">The United Auto Workers UAW> union said
 it supports Chrysler Corp's proposal to buy American Motors
 Corp as creating "a good match that potentially points the way
 to a more secure future for workers at both companies."

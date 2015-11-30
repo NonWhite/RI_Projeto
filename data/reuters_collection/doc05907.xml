@@ -4,12 +4,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">south-korea</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C G T M
-f4905reute
-d f BC-JAPAN-ALERTS-GATT-TO   03-17 0144</field>
-	<field name = "TITLE">JAPAN ALERTS GATT TO SOUTH KOREA IMPORT PLAN</field>
+	<field name = "titulo">JAPAN ALERTS GATT TO SOUTH KOREA IMPORT PLAN</field>
 	<field name = "DATELINE">TOKYO, March 17 -</field>
-	<field name = "BODY">Japan told the General Agreement on
+	<field name = "content">Japan told the General Agreement on
 Tariffs and Trade that South Korea's five-year import
 diversification plan violated the spirit of the world trade
 governing body, a Foreign Ministry spokesman said.

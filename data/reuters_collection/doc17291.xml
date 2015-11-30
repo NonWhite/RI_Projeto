@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 07:40:49.36</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">RM
-f0649reute
-r f BC-INDIAN-BANKER-SAYS-RA   04-27 0108</field>
-	<field name = "TITLE">INDIAN BANKER SAYS RATES CUT AFFECTS PROFITABILITY</field>
+	<field name = "titulo">INDIAN BANKER SAYS RATES CUT AFFECTS PROFITABILITY</field>
 	<field name = "DATELINE">BOMBAY, April 27 -</field>
-	<field name = "BODY">The cut in the lending rates and other
+	<field name = "content">The cut in the lending rates and other
 changes made in the interest rates will hit the profitability
 of many commercial banks in India, Indian Banks' Association
 chairman M. N. Goiporia told a bankers' conference.

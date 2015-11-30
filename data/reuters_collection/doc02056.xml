@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:18:25.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0245reute
-r f BC-FIRST-EXECUTIVE-CORP   03-05 0085</field>
-	<field name = "TITLE">FIRST EXECUTIVE CORP FEXC> GIVES UNIT FUNDS</field>
+	<field name = "titulo">FIRST EXECUTIVE CORP FEXC> GIVES UNIT FUNDS</field>
 	<field name = "DATELINE">LOS ANGELES, March 5 -</field>
-	<field name = "BODY">First Executive Corp said that its
+	<field name = "content">First Executive Corp said that its
 principal subsidiary contributed 152 mln dlrs to one of its
 divisions to cover credits it wrongfully took on its 1983 to
 1985 regulatory accounting statements.

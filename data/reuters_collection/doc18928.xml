@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:46:52.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4296reute
-s f BC-TRITON-ENERGY-CORP-O   06-18 0023</field>
-	<field name = "TITLE">TRITON ENERGY CORP OIL> SETS QUARTERLY</field>
+	<field name = "titulo">TRITON ENERGY CORP OIL> SETS QUARTERLY</field>
 	<field name = "DATELINE">DALLAS, June 18 -</field>
-	<field name = "BODY">Qtly div 2-1/2 cts vs 2-1/2 cts prior
+	<field name = "content">Qtly div 2-1/2 cts vs 2-1/2 cts prior
     Pay Oct One
     Record Sept Three
  Reuter</field>

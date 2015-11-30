@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 14:52:10.35</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4312reute
-r f BC-ALLEGHENY-ALGH.O>-FO   06-18 0070</field>
-	<field name = "TITLE">ALLEGHENY ALGH.O> FORMING SUBSIDIARY</field>
+	<field name = "titulo">ALLEGHENY ALGH.O> FORMING SUBSIDIARY</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Allegheny and Western Energy Corp said
+	<field name = "content">Allegheny and Western Energy Corp said
 it was forming a subsidiary to market gas to smaller users in
 West Virginia.
     The company also said it completed negotiations to sell

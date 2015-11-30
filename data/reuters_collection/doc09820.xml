@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G T M
-f0820reute
-u f BC-U.K.-VISIBLE-TRADE-DE   03-26 0113</field>
-	<field name = "TITLE">U.K. VISIBLE TRADE DEFICIT NARROWS IN FEBRUARY</field>
+	<field name = "titulo">U.K. VISIBLE TRADE DEFICIT NARROWS IN FEBRUARY</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">Britain's visible trade deficit narrowed
+	<field name = "content">Britain's visible trade deficit narrowed
 to a seasonally adjusted provisional 224 mln stg in February
 from 527 mln in January, The Trade and Industry Department
 said.

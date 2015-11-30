@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 19:18:23.01</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM A 
-f3432reute
-u f AM-BRAZIL-DEBT   10-19 0094</field>
-	<field name = "TITLE">BRAZIL WILL LIFT MORATORIUM ONLY AFTER BANK PACT</field>
+	<field name = "titulo">BRAZIL WILL LIFT MORATORIUM ONLY AFTER BANK PACT</field>
 	<field name = "DATELINE">BRASILIA, Oct 19 -</field>
-	<field name = "BODY">Brazil will only lift the partial
+	<field name = "content">Brazil will only lift the partial
 moratorium on its 113-billion-dlr foreign debt after an accord
 is reached with the private banks, the Finance Ministry said in
 a statement.

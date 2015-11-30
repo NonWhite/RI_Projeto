@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 02:12:03.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0073reute
-u f BC-SUPREME-COURT-UPHOLDS   03-26 0109</field>
-	<field name = "TITLE">SUPREME COURT UPHOLDS AFFIRMATIVE ACTION FOR WOMEN</field>
+	<field name = "titulo">SUPREME COURT UPHOLDS AFFIRMATIVE ACTION FOR WOMEN</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">The U.S. Supreme Court upheld
+	<field name = "content">The U.S. Supreme Court upheld
 affirmative action programmes designed to promote women in the
 workplace yesterday, handing President Reagan's civil rights
 policy a major defeat.

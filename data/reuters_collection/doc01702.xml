@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 14:19:18.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0383reute
-u f BC-S/P-UPGRADES-WILLIAMS   03-04 0112</field>
-	<field name = "TITLE">S/P UPGRADES WILLIAMS COS WMB> DEBT SECURITIES</field>
+	<field name = "titulo">S/P UPGRADES WILLIAMS COS WMB> DEBT SECURITIES</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it has
+	<field name = "content">Standard and Poor's Corp said it has
 upgraded approximately two billion dlrs of securities for the
 Williams Cos. and its related entities.
     S and P said recent sales of non-regulated oil and gas,

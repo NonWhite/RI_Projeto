@@ -3,12 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C
-f0122reute
-r f BC-JAPAN'S-LIPC-TO-BUY-B   04-07 0103</field>
-	<field name = "TITLE">JAPAN'S LIPC TO BUY BEEF ON APRIL 23</field>
+	<field name = "titulo">JAPAN'S LIPC TO BUY BEEF ON APRIL 23</field>
 	<field name = "DATELINE">TOKYO, April 7 -</field>
-	<field name = "BODY">Japan's Livestock Industry Promotion Corp
+	<field name = "content">Japan's Livestock Industry Promotion Corp
 (LIPC) said that on April 28 it will import 7,515 tonnes of
 beef for the first half of the 1987 fiscal year started on
 April 1 under the simultaneous buy and sell tender system,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 15:44:50.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2425reute
-r f BC-U.S.-SENATE-GROUP-EYE   03-26 0093</field>
-	<field name = "TITLE">U.S. SENATE GROUP EYES 37 BLN DLR DEFICIT CUT</field>
+	<field name = "titulo">U.S. SENATE GROUP EYES 37 BLN DLR DEFICIT CUT</field>
 	<field name = "DATELINE">WASHINGTON, March 26 - Senate budget writers worked on a 37-</field>
-	<field name = "BODY">billion-dlr package of budget deficit reductions, half through
+	<field name = "content">billion-dlr package of budget deficit reductions, half through
 unspecificed new revenues, to cut the 1988 deficit with a goal
 of balancing the budget in 1991 under a new law's target.
     The committee went over a package of deficit reductions

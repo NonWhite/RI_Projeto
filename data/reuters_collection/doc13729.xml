@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:29:57.17</field>
-	<field name = "UNKNOWN">T
-f0764reute
-b f BC-ny-coffee-pre-opg   04-07 0135</field>
-	<field name = "TITLE">NEW YORK COFFEE FUTURES CALLED LITTLE CHANGED</field>
+	<field name = "titulo">NEW YORK COFFEE FUTURES CALLED LITTLE CHANGED</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Coffee futures are expected to open
+	<field name = "content">Coffee futures are expected to open
 little changed following London coffee prices.
     -----
     U.S. State Dept. undersecretary Allen Wallis said U.S. will

@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 12:34:25.61</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0319reute
-u f BC-U.S.-COMMERCE-TRADE-R   04-17 0110</field>
-	<field name = "TITLE">U.S. COMMERCE TRADE REPORT OMITS FREIGHT COSTS</field>
+	<field name = "titulo">U.S. COMMERCE TRADE REPORT OMITS FREIGHT COSTS</field>
 	<field name = "DATELINE">WASHINGTON, April 17 -</field>
-	<field name = "BODY">The Commerce Department said on that
+	<field name = "content">The Commerce Department said on that
 insurance and freight costs for imported goods of 1.45 billion
 dlrs were included in the February trade deficit of 15.1
 billion dlrs reported on Tuesday.

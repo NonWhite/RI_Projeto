@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 12:28:05.43</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1721reute
-u f BC-NATIONAL-VIDEO-NVIS>   04-02 0106</field>
-	<field name = "TITLE">NATIONAL VIDEO NVIS>, UNIVISA IN AGREEMENT</field>
+	<field name = "titulo">NATIONAL VIDEO NVIS>, UNIVISA IN AGREEMENT</field>
 	<field name = "DATELINE">CHICAGO, April 2 -</field>
-	<field name = "BODY">National Video Inc said it entered an
+	<field name = "content">National Video Inc said it entered an
 agreement with Univisa Inc for the development of 600 National
 Video franchised stores in Hispanic communities by 1992.
     Univisa, a Spanish-language group with interests in

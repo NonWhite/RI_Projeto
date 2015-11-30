@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 14:43:40.62</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">F
-f0138reute
-u f BC-BALDRIGE-WILL-NOT-OBJ   03-12 0104</field>
-	<field name = "TITLE">BALDRIGE WILL NOT OBJECT TO COMPUTERS FOR IRAN</field>
+	<field name = "titulo">BALDRIGE WILL NOT OBJECT TO COMPUTERS FOR IRAN</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">Commerce Secretary Malcolm Baldrige
+	<field name = "content">Commerce Secretary Malcolm Baldrige
 said he would not object to the sale of computers to Iran
 because the technology was that of U.S.-designed personal
 computers developed ten years ago.

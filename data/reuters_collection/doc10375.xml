@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:18:32.29A</field>
-	<field name = "UNKNOWN">f0676reute</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">r f BC-JAPAN-FEBRUARY-CURREN   03-27 0087</field>
-	<field name = "TITLE">JAPAN FEBRUARY CURRENT ACCOUNT, TRADE SURPLUS JUMP</field>
+	<field name = "titulo">JAPAN FEBRUARY CURRENT ACCOUNT, TRADE SURPLUS JUMP</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Japan's current account surplus rose to
+	<field name = "content">Japan's current account surplus rose to
 7.38 billion dlrs in February from 3.89 billion a year ago and
 from 4.95 billion in January, the Finance Ministry said.
     The trade surplus rose to 8.14 billion dlrs in February

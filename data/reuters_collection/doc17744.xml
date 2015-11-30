@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 15:02:18.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2189reute
-r f BC-INTERNATIONAL-RESEARC   06-01 0103</field>
-	<field name = "TITLE">INTERNATIONAL RESEARCH IRDV.O> SEES HIGHER NET</field>
+	<field name = "titulo">INTERNATIONAL RESEARCH IRDV.O> SEES HIGHER NET</field>
 	<field name = "DATELINE">MATTAWAN, Mich., June 1 -</field>
-	<field name = "BODY">International Research and
+	<field name = "content">International Research and
 Development Corp's earnings per share in its second quarter
 should be higher than the three cts a share earned in the 1986
 period, president Francis X. Wazeter told shareholders.

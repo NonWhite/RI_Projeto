@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 11:01:28.46</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">C G L T
-f0298reute
-d f BC-REAGAN-SENDS-CONGRESS   03-12 0143</field>
-	<field name = "TITLE">REAGAN SENDS CONGRESS FEDERAL CREDIT REFORM BILL</field>
+	<field name = "titulo">REAGAN SENDS CONGRESS FEDERAL CREDIT REFORM BILL</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">The White House said President
+	<field name = "content">The White House said President
 Reagan would send to Congress today proposed legislation
 providing for sweeping reform of the budgetary treatment of the
 federal credit program.

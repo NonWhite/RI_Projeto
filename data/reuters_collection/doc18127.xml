@@ -4,12 +4,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">C T
-f1776reute
-u f BC-TIGHT-FAR-EAST-FREIGH   06-02 0138</field>
-	<field name = "TITLE">TIGHT FAR EAST FREIGHT SPACE HITS SUGAR MARKET</field>
+	<field name = "titulo">TIGHT FAR EAST FREIGHT SPACE HITS SUGAR MARKET</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">The Far Eastern sugar market is being hit
+	<field name = "content">The Far Eastern sugar market is being hit
 by a tightening in available nearby freight space needed to
 move raw sugar to various destinations, notably from Thailand,
 traders said.

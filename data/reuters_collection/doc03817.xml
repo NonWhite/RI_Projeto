@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 13:24:04.29</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0096reute
-h f BC-FRENCH-AEROSPACE-INDU   03-11 0107</field>
-	<field name = "TITLE">FRENCH AEROSPACE INDUSTRY HAS MIXED 1986</field>
+	<field name = "titulo">FRENCH AEROSPACE INDUSTRY HAS MIXED 1986</field>
 	<field name = "DATELINE">PARIS, March 11 -</field>
-	<field name = "BODY">The French aerospace industry had a mixed
+	<field name = "content">The French aerospace industry had a mixed
 year in 1986, with military sales hit by the falling dollar and
 lower oil and raw material prices but the civilian sector
 performing better, Jacques Benichou, president of the the

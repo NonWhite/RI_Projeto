@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">RM
-f0036reute
-u f BC-S.-KOREAN-FEBRUARY-CU   03-20 0095</field>
-	<field name = "TITLE">S. KOREAN FEBRUARY CURRENT ACCOUNT SURPLUS NARROWS</field>
+	<field name = "titulo">S. KOREAN FEBRUARY CURRENT ACCOUNT SURPLUS NARROWS</field>
 	<field name = "DATELINE">SEOUL, March 20 -</field>
-	<field name = "BODY">South Korea's current account surplus
+	<field name = "content">South Korea's current account surplus
 narrowed to 419 mln dlrs in February from 679 mln in January
 compared with a deficit of 112 mln dlrs in February last year,
 provisional Bank of Korea figures show.

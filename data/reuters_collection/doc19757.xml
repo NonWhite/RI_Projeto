@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 13:05:03.27</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1846reute
-u f BC-CAREMARK-CMRK.O>-TO   06-29 0092</field>
-	<field name = "TITLE">CAREMARK CMRK.O> TO VOTE BAXTER BAX> MERGER</field>
+	<field name = "titulo">CAREMARK CMRK.O> TO VOTE BAXTER BAX> MERGER</field>
 	<field name = "DATELINE">NEWPORT BEACH, Calif., June 29 -</field>
-	<field name = "BODY">Caremark Inc and Baxter
+	<field name = "content">Caremark Inc and Baxter
 Travenol Laboratories Inc jointly announced that Caremark
 shareholders will vote on July 31 to approve the previously
 announced merger with Baxter.

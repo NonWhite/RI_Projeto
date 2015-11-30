@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 10:45:16.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0350reute
-u f BC-VERSAR-INC-VSR>-TO-M   03-11 0060</field>
-	<field name = "TITLE">VERSAR INC VSR> TO MAKE ANNOUNCEMENT</field>
+	<field name = "titulo">VERSAR INC VSR> TO MAKE ANNOUNCEMENT</field>
 	<field name = "DATELINE">SPRINGFIELD, N.J., March 11 -</field>
-	<field name = "BODY">Versar Inc, a technical
+	<field name = "content">Versar Inc, a technical
 environmental services company, said it will release an
 announcement this afternoon concerning the company.
     A Versar spokesman said he was unable to divulge any

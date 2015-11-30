@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:54:42.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2518reute
-r f BC-NBC-MAKES-'FINAL'-OFF   04-01 0108</field>
-	<field name = "TITLE">NBC MAKES 'FINAL' OFFER TO WRITERS, TECHNICIANS</field>
+	<field name = "titulo">NBC MAKES 'FINAL' OFFER TO WRITERS, TECHNICIANS</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">The National Broadcasting Co delivered
+	<field name = "content">The National Broadcasting Co delivered
 its "final offer" for a new contract to representatives of
 2,800 writers, editors and technicians early today and waited
 for a response.

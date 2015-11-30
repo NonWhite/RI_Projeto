@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 11:07:42.14</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">M
-f0707reute
-d f BC-MORE-GOLD-DETECTED-AT   03-03 0101</field>
-	<field name = "TITLE">MORE GOLD DETECTED AT DOYON MINE</field>
+	<field name = "titulo">MORE GOLD DETECTED AT DOYON MINE</field>
 	<field name = "DATELINE">TORONTO, March 3 -</field>
-	<field name = "BODY">Lac Minerals Ltd and Cambior Inc said
+	<field name = "content">Lac Minerals Ltd and Cambior Inc said
 they completed a second hole at their jointly owned Doyon mine
 in Quebec, which showed two significant gold intersections.
     One intersection graded 0.33 ounce gold per short ton over

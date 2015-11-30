@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 11:10:57.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f0352reute
-r f BC-PHILADELPHIA-ELECTRIC   03-12 0074</field>
-	<field name = "TITLE">PHILADELPHIA ELECTRIC PE> TO SELL BONDS</field>
+	<field name = "titulo">PHILADELPHIA ELECTRIC PE> TO SELL BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Philadelphia Electric Co said it filed
+	<field name = "content">Philadelphia Electric Co said it filed
 with the Securities and Exchange Commission a shelf
 registration statement covering up to 250 mln dlrs of first and
 refunding mortgage bonds.

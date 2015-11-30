@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 13:36:54.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f2035reute
-u f BC-us-crop-weather-noaa   03-31 0109</field>
-	<field name = "TITLE">U.S. LIVESTOCK STRESSED BY COLD - USDA/NOAA</field>
+	<field name = "titulo">U.S. LIVESTOCK STRESSED BY COLD - USDA/NOAA</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Snow and cold weather stressed
+	<field name = "content">Snow and cold weather stressed
 livestock in the northern and Central plains and Rocky Mountain
 States in the week ended March 29, the Joint Agricultural
 Weather Facility of the U.S. Agriculture and Commerce

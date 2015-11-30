@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 14:55:01.65</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2684reute
-u f BC-HENLEY-HENG.O>-ENDS   10-19 0084</field>
-	<field name = "TITLE">HENLEY HENG.O> ENDS TALKS WITH SANTE FE</field>
+	<field name = "titulo">HENLEY HENG.O> ENDS TALKS WITH SANTE FE</field>
 	<field name = "DATELINE">LA JOLLA, Calif., Oct 19 -</field>
-	<field name = "BODY">Henley Group Inc said it ended
+	<field name = "content">Henley Group Inc said it ended
 talks with Sante Fe Southern Pacific Corp concerning the
 possible acquisition of Sante Fe's Southern Pacific
 Transportation Co subsidiary.

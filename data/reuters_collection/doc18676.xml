@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 10:19:25.07</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM 
-f3196reute
-u f BC-COUPON-FIXED-AS-INDIC   06-18 0074</field>
-	<field name = "TITLE">COUPON FIXED AS INDICATED ON WACOAL WARRANT BOND</field>
+	<field name = "titulo">COUPON FIXED AS INDICATED ON WACOAL WARRANT BOND</field>
 	<field name = "DATELINE">LONDON, June 18 -</field>
-	<field name = "BODY">The coupon on the 80 mln ECU, five year
+	<field name = "content">The coupon on the 80 mln ECU, five year
 equity warrant eurobond for Japan's Wacoal Corp has been fixed
 at the indicated 1-1/2 pct, bookrunner Banque Paribas Capital
 Markets said.

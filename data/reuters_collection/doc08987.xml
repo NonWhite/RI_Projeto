@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 15:42:02.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2361reute
-r f BC-UNOCAL-UCL>-UNIT-OFF   03-24 0090</field>
-	<field name = "TITLE">UNOCAL UCL> UNIT OFFERS 450 MLN DLRS OF NOTES</field>
+	<field name = "titulo">UNOCAL UCL> UNIT OFFERS 450 MLN DLRS OF NOTES</field>
 	<field name = "DATELINE">LOS ANGELES, March 24 -</field>
-	<field name = "BODY">Unocal Corp said its Union Oil Co
+	<field name = "content">Unocal Corp said its Union Oil Co
 of California unit is making a public offering of 450 mln dlrs
 of long-term notes.
     It said the issues consist of 150 mln dlrs of non-callable

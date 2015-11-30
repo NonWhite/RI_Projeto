@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 11:54:52.53</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "EXCHANGES">ase</field>
-	<field name = "UNKNOWN">RM
-f1472reute
-b f BC-AMRO-BANK-PLANS-300-M   04-09 0095</field>
-	<field name = "TITLE">AMRO BANK PLANS 300 MLN GUILDER 6.75 PCT BONDS</field>
+	<field name = "titulo">AMRO BANK PLANS 300 MLN GUILDER 6.75 PCT BONDS</field>
 	<field name = "DATELINE">AMSTERDAM, April 9 -</field>
-	<field name = "BODY">Amsterdam-Rotterdam Bank NV AMRO.AS>
+	<field name = "content">Amsterdam-Rotterdam Bank NV AMRO.AS>
 said it plans to issue 300 mln 6.75 pct capital bonds due
 1988/2007.
     The bonds will be redeemable in 20 almost equal annual

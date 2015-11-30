@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:07:52.89</field>
-	<field name = "UNKNOWN">C T
-f0409reute
-u f BC-LONDON-COFFEE-HOLDS-S   04-07 0114</field>
-	<field name = "TITLE">LONDON COFFEE HOLDS SMALL GAINS AT MIDMORNING</field>
+	<field name = "titulo">LONDON COFFEE HOLDS SMALL GAINS AT MIDMORNING</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Robusta futures held small gains of 12 to
+	<field name = "content">Robusta futures held small gains of 12 to
 five stg per tonne at midmorning in quiet trade, with second
 position July traded up seven at 1,258 stg.
     Recent increased roaster demand and physical offtake of

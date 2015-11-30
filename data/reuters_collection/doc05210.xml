@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 04:26:49.11</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1265reute
-b f BC-EXSPORTFINANS-LAUNCHE   03-16 0075</field>
-	<field name = "TITLE">EKSPORTFINANS LAUNCHES EUROBOND</field>
+	<field name = "titulo">EKSPORTFINANS LAUNCHES EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 16 -</field>
-	<field name = "BODY">Eksportfinans A/S of Norway is issuing
+	<field name = "content">Eksportfinans A/S of Norway is issuing
 15 billion yen in eurobonds due April 23, 1992 priced at 103
 with a five pct coupon, Mitsubishi Finance International Ltd
 said as lead manager.

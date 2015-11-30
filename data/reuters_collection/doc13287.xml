@@ -2,12 +2,9 @@
 	<field name = "DATE">6-APR-1987 06:53:13.22</field>
 	<field name = "TOPICS">instal-debt</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0403reute
-b f BC-U.K.-CREDIT-BUSINESS   04-06 0105</field>
-	<field name = "TITLE">U.K. CREDIT BUSINESS RISES IN FEBRUARY</field>
+	<field name = "titulo">U.K. CREDIT BUSINESS RISES IN FEBRUARY</field>
 	<field name = "DATELINE">LONDON, April 6 -</field>
-	<field name = "BODY">New credit advanced by finance houses,
+	<field name = "content">New credit advanced by finance houses,
 retailers, bank credit cards and other specialist providers of
 credit rose to 2.95 billion stg in February from 2.70 billion
 in Janaury, when bad weather had a depressing effect, the

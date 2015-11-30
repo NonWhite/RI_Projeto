@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 16:58:17.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2514reute
-r f BC-SUPERMARKETS-SGL>-RE   06-01 0039</field>
-	<field name = "TITLE">SUPERMARKETS SGL> REDEEMS PURCHASE RIGHTS</field>
+	<field name = "titulo">SUPERMARKETS SGL> REDEEMS PURCHASE RIGHTS</field>
 	<field name = "DATELINE">CARTERET, N.J., June 1 -</field>
-	<field name = "BODY">Supermarkets General Corp said it
+	<field name = "content">Supermarkets General Corp said it
 redeemed its preferred stock purchase rights on May 29 and will
 pay five cts a right in the near future to holders of record
 May 29.

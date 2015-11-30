@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 11:17:27.95</field>
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">G
-f0922
-reute
-u f BC-CARGILL-U.K.-STRIKE-T   03-02 0064</field>
-	<field name = "TITLE">CARGILL U.K. STRIKE TALKS POSTPONED</field>
+	<field name = "titulo">CARGILL U.K. STRIKE TALKS POSTPONED</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">Talks due today between management and
+	<field name = "content">Talks due today between management and
 unions to try to end the strike at Cargill U.K. Ltd's Seaforth
 oilseed crushing plant have been rescheduled for Thursday, a
 company spokesman said.

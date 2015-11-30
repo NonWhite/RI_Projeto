@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 22:53:34.35</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f2900reute
-b f BC-EQUITICORP-TASMAN-TO   06-01 0110</field>
-	<field name = "TITLE">EQUITICORP TASMAN TO BID FOR MONIER LTD</field>
+	<field name = "titulo">EQUITICORP TASMAN TO BID FOR MONIER LTD</field>
 	<field name = "DATELINE">SYDNEY, June 2 -</field>
-	<field name = "BODY">Equiticorp Tasman Ltd> (ETL) said it will
+	<field name = "content">Equiticorp Tasman Ltd> (ETL) said it will
 offer 4.15 dlrs a share cash for all the issued capital of
 Monier Ltd MNRA.S>, currently the subject of a 3.80 dlrs a
 share bid by CSR Ltd CSRA.S>.

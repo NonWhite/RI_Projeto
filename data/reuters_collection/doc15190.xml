@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:31:24.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f1979reute
-r f BC-LANESBOROUGH'S-SUBORD   04-08 0100</field>
-	<field name = "TITLE">LANESBOROUGH'S SUBORDINATED NOTES LOWERED BY S/P</field>
+	<field name = "titulo">LANESBOROUGH'S SUBORDINATED NOTES LOWERED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it cut to
+	<field name = "content">Standard and Poor's Corp said it cut to
 CCC-plus from B-minus Lanesborough Corp's 50 mln dlrs of senior
 subordinated notes.
     S and P said the downgrade reflected Lanesborough's planned

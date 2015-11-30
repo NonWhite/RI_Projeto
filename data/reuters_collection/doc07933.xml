@@ -9,12 +9,9 @@
 	<field name = "PLACES">australia</field>
 	<field name = "PLACES">argentina</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f2232reute
-u f BC-/ANALYST-SAYS-USSR-WI   03-20 0134</field>
-	<field name = "TITLE">ANALYST SAYS USSR WINTER GRAINS HURT BY WEATHER</field>
+	<field name = "titulo">ANALYST SAYS USSR WINTER GRAINS HURT BY WEATHER</field>
 	<field name = "DATELINE">MILWAUKEE, Wis., March 20 -</field>
-	<field name = "BODY">The Soviet Union's winter grain
+	<field name = "content">The Soviet Union's winter grain
 crop is likely to have suffered losses due to dry planting
 conditions last fall and severe cold this winter, an analyst of
 world weather and crop conditions said.

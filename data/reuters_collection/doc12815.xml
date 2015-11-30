@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 08:30:38.46</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0678reute
-u f PM-PLANE   04-03 0130</field>
-	<field name = "TITLE">JAL SAYS MAJOR DEFECT FOUND IN BOEING PLANE</field>
+	<field name = "titulo">JAL SAYS MAJOR DEFECT FOUND IN BOEING PLANE</field>
 	<field name = "DATELINE">TOKYO, April 3 -</field>
-	<field name = "BODY">Japan Air Lines ordered checks on its
+	<field name = "content">Japan Air Lines ordered checks on its
 fleet of Boeing Co. BA> 747-SR jumbo jets after a major defect
 was found in one of them last month, an airline spokesman said.
     Inspectors running a routine check found that one of three

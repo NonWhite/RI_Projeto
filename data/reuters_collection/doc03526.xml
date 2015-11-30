@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 07:26:10.60</field>
 	<field name = "PLACES">denmark</field>
 	<field name = "PEOPLE">schlueter</field>
-	<field name = "UNKNOWN">RM
-f0637reute
-u f BC-DANISH-BOND-PRICES-RI   03-11 0104</field>
-	<field name = "TITLE">DANISH BOND PRICES RISE AFTER AUSTERITY PLEDGE</field>
+	<field name = "titulo">DANISH BOND PRICES RISE AFTER AUSTERITY PLEDGE</field>
 	<field name = "DATELINE">COPENHAGEN, March 11 -</field>
-	<field name = "BODY">Prices rose on the Danish bond
+	<field name = "content">Prices rose on the Danish bond
 market after Prime Minister Poul Schlueter said the government
 was prepared to impose further austerity measures to limit
 domestic consumption if the economy did not improve over the

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2360reute
-r f BC-TEXACO-TX>-RESERVES   03-25 0083</field>
-	<field name = "TITLE">TEXACO TX> RESERVES DOWN DESPITE LOWER OUTPUT</field>
+	<field name = "titulo">TEXACO TX> RESERVES DOWN DESPITE LOWER OUTPUT</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Texaco Inc's oil and gas reserves
+	<field name = "content">Texaco Inc's oil and gas reserves
 declined in 1986 despite reduced production and upward
 revisions in the company's previous reserve estimates, its
 annual report said.

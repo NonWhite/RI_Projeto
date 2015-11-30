@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 00:26:32.02</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0581
-reute
-b f BC-STRONG-EARTHQUAKE-HIT   03-02 0060</field>
-	<field name = "TITLE">STRONG EARTHQUAKE HITS NEW ZEALAND</field>
+	<field name = "titulo">STRONG EARTHQUAKE HITS NEW ZEALAND</field>
 	<field name = "DATELINE">WELLINGTON, March 2 -</field>
-	<field name = "BODY">An earthquake measuring 6.5 on the
+	<field name = "content">An earthquake measuring 6.5 on the
 Richter scale caused widespread damage in northern New Zealand
 and a civil defence emergency was declared in some areas,
 officials and seismologists said.

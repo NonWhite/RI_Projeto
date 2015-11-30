@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-miller</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">RM V
-f1645reute
-b f BC-/MILLER-SAYS-REAGAN-W   04-08 0105</field>
-	<field name = "TITLE">MILLER SAYS REAGAN WILL REJECT TAX INCREASE</field>
+	<field name = "titulo">MILLER SAYS REAGAN WILL REJECT TAX INCREASE</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">Office of Management and Budget
+	<field name = "content">Office of Management and Budget
 Director James Miller said President Reagan will reject the tax
 increase called for in the House Budget Committee's 1988 budget
 proposal which is before the House for a vote today.

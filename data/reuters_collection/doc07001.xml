@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 06:20:33.63</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0367reute
-b f BC-BANK-OF-FRANCE-SELLS   03-19 0095</field>
-	<field name = "TITLE">BANK OF FRANCE SELLS 1.6 BILLION FRANCS CRH TAP</field>
+	<field name = "titulo">BANK OF FRANCE SELLS 1.6 BILLION FRANCS CRH TAP</field>
 	<field name = "DATELINE">PARIS, March 19 -</field>
-	<field name = "BODY">The Bank of France sold 1.6 billion
+	<field name = "content">The Bank of France sold 1.6 billion
 francs of 8.50 pct March 1987/99 Caisse de Refinancement
 Hypothecaire (CRH) state-guaranteed tap stock at an auction,
 the Bank said.

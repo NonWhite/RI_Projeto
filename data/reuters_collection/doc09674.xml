@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 18:55:01.02</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f2726reute
-u f BC-RESERVE-BANK-CUTS-RED   03-25 0094</field>
-	<field name = "TITLE">AUSTRALIAN RESERVE BANK CUTS REDISCOUNT RATE</field>
+	<field name = "titulo">AUSTRALIAN RESERVE BANK CUTS REDISCOUNT RATE</field>
 	<field name = "DATELINE">SYDNEY, Mar 26 -</field>
-	<field name = "BODY">The Reserve Bank of Australia this morning
+	<field name = "content">The Reserve Bank of Australia this morning
 cut the rediscount rate from 17.30 pct to 17.00 pct.
     The rediscount is the rate at which the bank buys back
 treasury notes.

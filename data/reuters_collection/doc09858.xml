@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 09:36:15.59</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E RM
-f0992reute
-u f BC-CANADA-DETAILS-TWO-BO   03-26 0049</field>
-	<field name = "TITLE">CANADA DETAILS TWO BOND AUCTIONS</field>
+	<field name = "titulo">CANADA DETAILS TWO BOND AUCTIONS</field>
 	<field name = "DATELINE">OTTAWA, March 26 -</field>
-	<field name = "BODY">The finance department said it will sell
+	<field name = "content">The finance department said it will sell
 500 mln dlrs of three-year 3-1/2 month bonds to primary
 distributors in a previously announced auction March 31.
     It said another 400 mln dlrs of seven-year 3 month bonds

@@ -3,12 +3,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">ipe</field>
 	<field name = "EXCHANGES">liffe</field>
-	<field name = "UNKNOWN">C G L M T
-f0623reute
-u f BC-LCE-AND-IPE-TO-INTROD   03-20 0110</field>
-	<field name = "TITLE">LCE AND IPE TO INTRODUCE TIME-STAMPING</field>
+	<field name = "titulo">LCE AND IPE TO INTRODUCE TIME-STAMPING</field>
 	<field name = "DATELINE">LONDON, March 20 -</field>
-	<field name = "BODY">The London Commodity Exchange (LCE) and
+	<field name = "content">The London Commodity Exchange (LCE) and
 International Petroleum Exchange (IPE) are to introduce revised
 trading slip systems incorporating the time that futures
 business is executed, an LCE spokeswoman said.

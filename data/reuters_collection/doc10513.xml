@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:59:37.40F</field>
-	<field name = "UNKNOWN">f1469reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">d f BC-OAKITE-OKT>-TO-SELL   03-27 0081</field>
-	<field name = "TITLE">OAKITE OKT> TO SELL BEAUTY PRODUCTS LINE</field>
+	<field name = "titulo">OAKITE OKT> TO SELL BEAUTY PRODUCTS LINE</field>
 	<field name = "DATELINE">BERKELEY HEIGHTS, N.J., March 27 -</field>
-	<field name = "BODY">Oakite Products Inc said
+	<field name = "content">Oakite Products Inc said
 it intends to sell its personal care and beauty product
 business, Paula Payne Inc.
     Oakite said it plans to retain Paula Payne's warehousing

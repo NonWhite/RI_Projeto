@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 11:25:51.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1247reute
-r f BC-FEDERATED-FINANCIAL-   06-19 0067</field>
-	<field name = "TITLE">FEDERATED FINANCIAL FEDF.O> SEES LOWER PROFITS</field>
+	<field name = "titulo">FEDERATED FINANCIAL FEDF.O> SEES LOWER PROFITS</field>
 	<field name = "DATELINE">MILWAUKEE, Wis., June 19 -</field>
-	<field name = "BODY">Federated Financial Savings and
+	<field name = "content">Federated Financial Savings and
 Loan Association said per share earnings in fiscal 1987 ending
 September 30 will be reduced by about 16 cents a share due to
 the write-off of its secondary reserve with the Federal Savings

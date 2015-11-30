@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 04:45:57.78</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0812
-reute
-b f BC-WALLENBERGS-FIGHT-BID   03-02 0115</field>
-	<field name = "TITLE">WALLENBERGS FIGHT BID FOR SWEDISH MATCH STAKE</field>
+	<field name = "titulo">WALLENBERGS FIGHT BID FOR SWEDISH MATCH STAKE</field>
 	<field name = "DATELINE">STOCKHOLM, March 2 -</field>
-	<field name = "BODY">Sweden's Wallenberg group fought back
+	<field name = "content">Sweden's Wallenberg group fought back
 a bid by the London-based Swedish financier Erik Penser to
 secure a large stake in Swedish Match SMBS ST>, one of the
 companies at the core of their business empire.

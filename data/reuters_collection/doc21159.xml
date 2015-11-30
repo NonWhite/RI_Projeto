@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 13:46:41.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2353reute
-r f BC-INFOTRON-INFN.O>-NAM   10-19 0061</field>
-	<field name = "TITLE">INFOTRON INFN.O> NAMES NEW CHIEF EXECUTIVE</field>
+	<field name = "titulo">INFOTRON INFN.O> NAMES NEW CHIEF EXECUTIVE</field>
 	<field name = "DATELINE">CHERRY HILL, N.J., Oct 19 -</field>
-	<field name = "BODY">Infotron Systems Corp said
+	<field name = "content">Infotron Systems Corp said
 James C. Castle has been named president and chief executive
 officer, succeeding James C. Hann, who becomes vice chairman
 and will focus on product technology issues.

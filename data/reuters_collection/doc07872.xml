@@ -6,12 +6,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">thailand</field>
 	<field name = "ORGS">un</field>
-	<field name = "UNKNOWN">T
-f1928reute
-b f BC-CONFERENCE-FORMALLY-A   03-20 0122</field>
-	<field name = "TITLE">UN CONFERENCE FORMALLY ADOPTS NEW RUBBER PACT</field>
+	<field name = "titulo">UN CONFERENCE FORMALLY ADOPTS NEW RUBBER PACT</field>
 	<field name = "DATELINE">GENEVA, March 20 -</field>
-	<field name = "BODY">A new International Natural Rubber
+	<field name = "content">A new International Natural Rubber
 Agreement, INRA, was formally adopted by a United Nations
 Conference today.
     The new accord is due to replace the current one, which

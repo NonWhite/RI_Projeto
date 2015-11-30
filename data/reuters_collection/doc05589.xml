@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 14:17:35.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3241reute
-u f BC-INVESTORS-SAVINGS-IS   03-16 0083</field>
-	<field name = "TITLE">INVESTORS SAVINGS ISLA> CALLS PREFERRED</field>
+	<field name = "titulo">INVESTORS SAVINGS ISLA> CALLS PREFERRED</field>
 	<field name = "DATELINE">RICHMOND, Va., Marc 16 -</field>
-	<field name = "BODY">Investors Savings Bank said it has
+	<field name = "content">Investors Savings Bank said it has
 called its Series B 8-1/2 pct cumulative convertible preferred
 stock for redemption on April 24 at 64.80 dlrs plus accrued
 dividends of 34 cts per share.

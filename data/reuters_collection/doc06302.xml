@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 17:00:32.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6622reute
-u f BC-PACIFIC-STOCK-EXCHANG   03-17 0036</field>
-	<field name = "TITLE">PACIFIC STOCK EXCHANGE HIT BY COMPUTER FAILURE</field>
+	<field name = "titulo">PACIFIC STOCK EXCHANGE HIT BY COMPUTER FAILURE</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">The Pacific Stock Exchange said it was
+	<field name = "content">The Pacific Stock Exchange said it was
 omitting today's closing report on the most active issues
 because of a computer malfunction at the exchange.
  Reuter</field>

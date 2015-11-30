@@ -6,12 +6,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G L
-f2621reute
-r f BC-U.S.-SENATORS-SEEK-TO   03-24 0126</field>
-	<field name = "TITLE">U.S. SENATORS SEEK TO EXPAND USDA EXPORT BONUS</field>
+	<field name = "titulo">U.S. SENATORS SEEK TO EXPAND USDA EXPORT BONUS</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">Leading U.S. farm state senators are
+	<field name = "content">Leading U.S. farm state senators are
 seeking to insert into the Senate's omnibus trade bill a
 provision that would broaden eligibility requirements under the
 U.S. Agriculture Department's export enhancement program, EEP,

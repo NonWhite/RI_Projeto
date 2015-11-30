@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 23:00:56.20</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0052reute
-u f BC-FOREIGN-INVESTMENT-IN   03-11 0113</field>
-	<field name = "TITLE">FOREIGN INVESTMENT IN AUSTRALIA JUMPS IN LAST QTR</field>
+	<field name = "titulo">FOREIGN INVESTMENT IN AUSTRALIA JUMPS IN LAST QTR</field>
 	<field name = "DATELINE">CANBERRA, March 12 -</field>
-	<field name = "BODY">The net inflow of foreign investment
+	<field name = "content">The net inflow of foreign investment
 into Australia jumped to 7.3 billion dlrs in the fourth quarter
 of 1986 from 4.32 billion in the third quarter and 4.55 billion
 a year earlier, the Statistics Bureau said.

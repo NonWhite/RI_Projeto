@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:46:47.86</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2501reute
-u f AM-BUDGET   04-01 0100</field>
-	<field name = "TITLE">U.S. DEMOCRATS RAM BUDGET THROUGH COMMITTEE</field>
+	<field name = "titulo">U.S. DEMOCRATS RAM BUDGET THROUGH COMMITTEE</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Democrats rammed through the House
+	<field name = "content">Democrats rammed through the House
 Budget Committee a trillion dollar U.S. spending budget for
 1988 over Republican protests.
     After a brief partisan debate in which Republicans said

@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 13:03:09.88</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1912reute
-b f BC-GENCORP-GY>-ALTERNAT   03-31 0111</field>
-	<field name = "TITLE">GENCORP GY> ALTERNATIVE PLAN DUE WITHIN A WEEK</field>
+	<field name = "titulo">GENCORP GY> ALTERNATIVE PLAN DUE WITHIN A WEEK</field>
 	<field name = "DATELINE">AKRON, Ohio, March 31 -</field>
-	<field name = "BODY">A. William Reynolds, chairman and
+	<field name = "content">A. William Reynolds, chairman and
 chief executive of GenCorp Inc, told shareholders he expects to
 announce a company alternative to a 100-dlr-per-share hostile
 tender within a week.

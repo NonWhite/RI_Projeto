@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 12:54:40.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1887reute
-d f BC-CARTER-DAY-IN-SETTLEM   03-31 0098</field>
-	<field name = "TITLE">CARTER-DAY IN SETTLEMENT WITH POWER COMPANIES</field>
+	<field name = "titulo">CARTER-DAY IN SETTLEMENT WITH POWER COMPANIES</field>
 	<field name = "DATELINE">CHARLESTON, S.C, March 31 -</field>
-	<field name = "BODY">Carter-Day INdustries Inc said
+	<field name = "content">Carter-Day INdustries Inc said
 it reached an eight mln dlrs settlement in a suit filed in the
 Bankruptcy Court for the Southern District of N.Y. against five
 power companies.

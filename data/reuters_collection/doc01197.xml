@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 13:02:15.90</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0208reute
-u f BC-KAY-CORP-KAY>-4TH-QT   03-03 0074</field>
-	<field name = "TITLE">KAY CORP KAY> 4TH QTR NET</field>
+	<field name = "titulo">KAY CORP KAY> 4TH QTR NET</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">Oper shr 25 cts vs 1.21 dlrs
+	<field name = "content">Oper shr 25 cts vs 1.21 dlrs
     Oper net 1,366,000 vs 6,287,000
     Revs 251.3 mln vs 107.1 mln
     Year

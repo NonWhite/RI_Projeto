@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:14:01.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0800reute
-r f BC-COMAIR-COMR>-FEBRUAR   03-09 0090</field>
-	<field name = "TITLE">COMAIR COMR> FEBRUARY LOAD FACTOR FALLS</field>
+	<field name = "titulo">COMAIR COMR> FEBRUARY LOAD FACTOR FALLS</field>
 	<field name = "DATELINE">CINCINNATI, March 9 -</field>
-	<field name = "BODY">Comair Inc said February load factor
+	<field name = "content">Comair Inc said February load factor
 fell to 34.6 pct from 38.0 pct a year before.
     The company said revenue passenger miles rose 9.5 pct to
 10.9 mln from 9,962,399 a year before and available seat miles

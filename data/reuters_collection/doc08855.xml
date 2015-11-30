@@ -8,12 +8,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1635reute
-u f BC-MOSCOW-SUPPORTS-FREE   03-24 0101</field>
-	<field name = "TITLE">MOSCOW SUPPORTS FREE GULF NAVIGATION, ENVOY SAYS</field>
+	<field name = "titulo">MOSCOW SUPPORTS FREE GULF NAVIGATION, ENVOY SAYS</field>
 	<field name = "DATELINE">BAHRAIN, March 24 -</field>
-	<field name = "BODY">The Soviet Union supports the freedom
+	<field name = "content">The Soviet Union supports the freedom
 of navigation in the Gulf and does not support any act which
 would cause the deterioration of the situation in the region,
 its ambassador to Kuwait, Ernest Zverev, told the Kuwaiti news

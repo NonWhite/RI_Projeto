@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 12:21:13.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1594reute
-r f BC-ALLTEL-AT>-CHAIRMAN   04-03 0075</field>
-	<field name = "TITLE">ALLTEL AT> CHAIRMAN TO RECOMMEND PRESIDENT</field>
+	<field name = "titulo">ALLTEL AT> CHAIRMAN TO RECOMMEND PRESIDENT</field>
 	<field name = "DATELINE">HUDSON, Ohio, April 3 -</field>
-	<field name = "BODY">ALLTEL Corp chairman and chief
+	<field name = "content">ALLTEL Corp chairman and chief
 executive officer Weldon Case said he will recommend Joe Ford,
 who now is president, be elected chief executive officer of the
 company, also.

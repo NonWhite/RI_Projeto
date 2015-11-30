@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:45:34.42C G T M</field>
-	<field name = "UNKNOWN">f0742reute</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-STORMY-WEATHER-SEEN-D   03-27 0108</field>
-	<field name = "TITLE">STORMY WEATHER TO DISRUPT NORTH SEA SHIPPING</field>
+	<field name = "titulo">STORMY WEATHER TO DISRUPT NORTH SEA SHIPPING</field>
 	<field name = "DATELINE">STATE COLLEGE, PA., March 27 -</field>
-	<field name = "BODY">Very stormy weather is
+	<field name = "content">Very stormy weather is
 likely in the North Sea through Saturday, disrupting shipping
 in the region, private forecaster Accu-Weather Inc said.
     Rain will accompany the strong winds that are expected over

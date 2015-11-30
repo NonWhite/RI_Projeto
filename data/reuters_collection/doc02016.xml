@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 09:34:57.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0072reute
-u f BC-STOP-AND-SHOP'S-SHP>   03-05 0083</field>
-	<field name = "TITLE">STOP AND SHOP'S SHP> BRADLEES FEBRUARY SALES UP</field>
+	<field name = "titulo">STOP AND SHOP'S SHP> BRADLEES FEBRUARY SALES UP</field>
 	<field name = "DATELINE">BOSTON, March 5 -</field>
-	<field name = "BODY">Stop and Shop Cos Inc said sales for the
+	<field name = "content">Stop and Shop Cos Inc said sales for the
 four weeks ended February 28 for its Bradlees Discount
 Department Stores Division were up six pct to 104 mln dlrs from
 98 mln dlrs a year before, with same-store sales up three pct. 

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 11:12:18.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f1315reute
-b f BC-OWENS-ILLINOIS   04-03 0110</field>
-	<field name = "TITLE">OWENS-ILLINOIS OI> FILES 2.05 BILLION DLR OFFER</field>
+	<field name = "titulo">OWENS-ILLINOIS OI> FILES 2.05 BILLION DLR OFFER</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">Ownes-Illinois Holdings Corp filed
+	<field name = "content">Ownes-Illinois Holdings Corp filed
 with the Securities and Exchange Commission for debt offerings
 with principal amounts totalling 2.05 billion dlrs.
     The company, which is the successor to Ownens-Illinois Inc,

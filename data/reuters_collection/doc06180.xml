@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 14:15:41.23</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6140reute
-d f BC-EQUION-CORP-EQUI>-2N   03-17 0067</field>
-	<field name = "TITLE">EQUION CORP EQUI> 2ND QTR JAN 31 NET</field>
+	<field name = "titulo">EQUION CORP EQUI> 2ND QTR JAN 31 NET</field>
 	<field name = "DATELINE">HARRODSBURG, Ky., March 17 -</field>
-	<field name = "BODY">Oper shr 19 cts vs 18 cts
+	<field name = "content">Oper shr 19 cts vs 18 cts
     Oper net 951,902 vs 987,860
     Revs 19.0 mln vs 17.1 mln
     Six mths

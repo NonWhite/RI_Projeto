@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 04:05:43.05</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C T
-f0283reute
-u f BC-SUGAR-OFFERED-TO-DUTC   04-02 0100</field>
-	<field name = "TITLE">SUGAR OFFERED TO DUTCH INTERVENTION REFUSED</field>
+	<field name = "titulo">SUGAR OFFERED TO DUTCH INTERVENTION REFUSED</field>
 	<field name = "DATELINE">ROTTERDAM, April 2 -</field>
-	<field name = "BODY">The 2,500 tonnes of sugar offered to
+	<field name = "content">The 2,500 tonnes of sugar offered to
 intervention in the Netherlands has been refused by the
 intervention board because of wrong packaging, a spokeswoman
 for the Ministry of Agriculture said.

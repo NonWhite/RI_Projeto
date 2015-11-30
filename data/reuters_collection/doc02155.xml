@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:21:58.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0592reute
-b f BC-WRIGHT-SAYS-TAX-RISE   03-05 0101</field>
-	<field name = "TITLE">WRIGHT SAYS TAX RISE NEEDED TO CUT U.S. DEFICIT</field>
+	<field name = "titulo">WRIGHT SAYS TAX RISE NEEDED TO CUT U.S. DEFICIT</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">House Speaker James Wright said
+	<field name = "content">House Speaker James Wright said
 President Reagan should realize that there will be no way to
 meet the deficit reduction targets in the 1988 budget without a
 tax increase.

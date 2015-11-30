@@ -2,13 +2,10 @@
 	<field name = "DATE">24-MAR-1987 14:25:59.15</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2099reute
-u f BC-CONRAC-CAX>-SOARS-FO   03-24 0102</field>
-	<field name = "TITLE">CONRAC CAX> SOARS FOLLOWING MARK IV IV> BID</field>
+	<field name = "titulo">CONRAC CAX> SOARS FOLLOWING MARK IV IV> BID</field>
 	<field name = "AUTHOR">By Cal Mankowski, Reutersd</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Heavy buying by speculators boosted
+	<field name = "content">Heavy buying by speculators boosted
 Conrac Corp 7-7/8 to 29, higher than a 25-dlr-per-share cash
 tender offer announced by Mark IV Industries Inc IV>.
     "It's a case of ChemLawn euphoria," said one arbitrageur,

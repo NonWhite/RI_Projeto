@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:57:42.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1260reute
-r f BC-GLEASON-GLE>-UNIT-AD   06-01 0079</field>
-	<field name = "TITLE">GLEASON GLE> UNIT ADDS EQUIPMENT TO AUDI MODEL</field>
+	<field name = "titulo">GLEASON GLE> UNIT ADDS EQUIPMENT TO AUDI MODEL</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., June 1 -</field>
-	<field name = "BODY">Gleason Corp's subsidiary,
+	<field name = "content">Gleason Corp's subsidiary,
 Gleason Power Systems, said its Torsen torque-sensing
 differential will be supplied as standard equipment in the new
 Audi 90 Quattro four-wheel drive vehicle.

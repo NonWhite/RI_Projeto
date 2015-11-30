@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:10:58.95</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f2173reute
-r f BC-BANK-SEES-STRONG-DEMA   04-07 0116</field>
-	<field name = "TITLE">BANK SEES STRONG DEMAND FOR BTP PRIVATISATION OFFER</field>
+	<field name = "titulo">BANK SEES STRONG DEMAND FOR BTP PRIVATISATION OFFER</field>
 	<field name = "DATELINE">PARIS, April 7 -</field>
-	<field name = "BODY">The French government's privatisation
+	<field name = "content">The French government's privatisation
 offer of Banque du Batiment et des Travaux Publics> (BTP) is
 attracting strong demand, a spokesman for the government's
 adviser for the offer, Credit Industriel et Commercial> said.

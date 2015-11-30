@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:23:37.02</field>
-	<field name = "UNKNOWN">M
-f0750reute
-u f BC-LME-NICKEL-MIDSESSION   04-07 0106</field>
-	<field name = "TITLE">LME NICKEL MIDSESSION BOOSTED BY TRADE BUYING</field>
+	<field name = "titulo">LME NICKEL MIDSESSION BOOSTED BY TRADE BUYING</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">LME nickel ended the morning with three
+	<field name = "content">LME nickel ended the morning with three
 months business at 2,365 stg per tonne, up about seven stg from
 yesterday's afternoon kerb close, equivalent to 1.7225 dlrs per
 lb, a rise of 0.5 cents.

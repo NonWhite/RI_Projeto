@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 14:54:32.09</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2283reute
-u f BC-SCHWAB-COMPLETES-PURC   03-31 0068</field>
-	<field name = "TITLE">SCHWAB COMPLETES PURCHASE OF SCHWAB AND CO</field>
+	<field name = "titulo">SCHWAB COMPLETES PURCHASE OF SCHWAB AND CO</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 31 -</field>
-	<field name = "BODY">Charles Schwab announced the
+	<field name = "content">Charles Schwab announced the
 completion of the 280-mln-dlr purchase from BankAmerica Co of
 Charles Schwab and Co Inc and its holding company Charles
 Schwab Corp.

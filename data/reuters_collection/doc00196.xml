@@ -4,13 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">oat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G
-f0321
-reute
-d f BC-RELIEF-TO-U.S.-CORN/O   02-26 0143</field>
-	<field name = "TITLE">RELIEF TO U.S. CORN/OATS GROWERS SAID LIKELY</field>
+	<field name = "titulo">RELIEF TO U.S. CORN/OATS GROWERS SAID LIKELY</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">U.S. farmers who in the past have
+	<field name = "content">U.S. farmers who in the past have
 grown oats for their own use but failed to certify to the
 government that they had done so probably will be allowed to
 continue planting that crop and be eligible for corn program

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 12:09:13.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1533reute
-u f BC-AFG-AFG>-EXPANDS-INT   03-25 0088</field>
-	<field name = "TITLE">AFG AFG> EXPANDS INTO AUTO GLASS REPLACEMENT</field>
+	<field name = "titulo">AFG AFG> EXPANDS INTO AUTO GLASS REPLACEMENT</field>
 	<field name = "DATELINE">IRVINE, Calif., March 25 -</field>
-	<field name = "BODY">AFG Industries Inc said it is
+	<field name = "content">AFG Industries Inc said it is
 entering the automobile replacement glass market with the
 acquisition of A-1 Quality Glass, of Salt Lake City, and Tempo
 Auto Glass, of Tacoma, Wash.

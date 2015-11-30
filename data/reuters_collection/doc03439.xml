@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 23:38:49.90</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">F
-f0178reute
-u f BC-SEARCH-FOR-BRITISH-FE   03-09 0099</field>
-	<field name = "TITLE">SEARCH FOR BRITISH FERRY'S TOXIC CARGO CONTINUES</field>
+	<field name = "titulo">SEARCH FOR BRITISH FERRY'S TOXIC CARGO CONTINUES</field>
 	<field name = "DATELINE">ZEEBRUGGE, Belgium, March 10 -</field>
-	<field name = "BODY">The search continued for a
+	<field name = "content">The search continued for a
 cargo of poisonous chemical substances loaded on the Herald of
 Free Enterprise Ferry which capsized in Zeebrugge harbour
 Friday.

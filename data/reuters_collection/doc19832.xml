@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 14:47:40.53</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2189reute
-r f BC-ARDEN-GROUP-ARDNA.O>   06-29 0104</field>
-	<field name = "TITLE">ARDEN GROUP ARDNA.O> PLANS ISSUER TENDER</field>
+	<field name = "titulo">ARDEN GROUP ARDNA.O> PLANS ISSUER TENDER</field>
 	<field name = "DATELINE">LOS ANGELES, June 29 -</field>
-	<field name = "BODY">Arden Group Inc said it filed a
+	<field name = "content">Arden Group Inc said it filed a
 registration statement with the Securities and Exchange
 Commission covering two issuer tender offers.
     It said one offer its directed to its class A common stock

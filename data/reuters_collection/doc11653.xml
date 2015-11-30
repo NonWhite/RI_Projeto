@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 15:59:15.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2552reute
-r f BC-GM-GM>-LABOR-STRIFE   03-31 0108</field>
-	<field name = "TITLE">GM GM> LABOR STRIFE PRECURSOR TO TOUGH TALKS</field>
+	<field name = "titulo">GM GM> LABOR STRIFE PRECURSOR TO TOUGH TALKS</field>
 	<field name = "AUTHOR">By Scott Williams, Reuter</field>
 	<field name = "DATELINE">DETROIT, March 31 -</field>
-	<field name = "BODY">General Motors Corp's relationship with
+	<field name = "content">General Motors Corp's relationship with
 its hourly employees has turned ugly, and security analysts say
 the discord forebodes tough talks this fall on a new national
 labor contract at General Motors.

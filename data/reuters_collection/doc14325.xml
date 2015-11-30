@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:28:22.38</field>
-	<field name = "UNKNOWN">T
-f1575reute
-u f BC-ny-sugar-mids-report   04-07 0121</field>
-	<field name = "TITLE">WORLD SUGAR FUTURES PARE LOSSES BY MIDSESSION</field>
+	<field name = "titulo">WORLD SUGAR FUTURES PARE LOSSES BY MIDSESSION</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">World sugar futures pared their losses
+	<field name = "content">World sugar futures pared their losses
 by midsession when early selling dried up, allowing an easy
 retracement on trade buying, brokers said.
     The market dropped sharply this morning when computer fund

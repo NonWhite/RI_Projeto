@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 09:43:28.57</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2033reute
-u f BC-DWG-CORP-DWG>-3RD-QT   03-16 0064</field>
-	<field name = "TITLE">DWG CORP DWG> 3RD QTR JAN 31 NET</field>
+	<field name = "titulo">DWG CORP DWG> 3RD QTR JAN 31 NET</field>
 	<field name = "DATELINE">MIAMI, March 16 -</field>
-	<field name = "BODY">Oper shr profit 17 cts vs profit 10 cts
+	<field name = "content">Oper shr profit 17 cts vs profit 10 cts
     Oper net profit 5,146,000 vs profit 2,691,000
     Revs 269.5 mln vs 274.4 mln
     Avg shrs 20.5 mln vs 17.0 mln

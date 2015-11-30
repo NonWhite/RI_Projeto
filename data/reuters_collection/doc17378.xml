@@ -3,12 +3,9 @@
 	<field name = "TOPICS">income</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0331reute
-u f BC-CHINA'S-WAGE-BILL-GRE   04-29 0107</field>
-	<field name = "TITLE">CHINA'S WAGE BILL GREW TOO FAST IN FIRST QUARTER</field>
+	<field name = "titulo">CHINA'S WAGE BILL GREW TOO FAST IN FIRST QUARTER</field>
 	<field name = "DATELINE">PEKING, April 29 -</field>
-	<field name = "BODY">China's total wage bill for state
+	<field name = "content">China's total wage bill for state
 employees grew too fast in the first quarter, because of
 excessive bonuses, allowances and overtime pay, the official
 Economic Information newspaper said.

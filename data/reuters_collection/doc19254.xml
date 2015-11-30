@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 12:24:32.58</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1510reute
-r f BC-MINNESOTA-MAY-CONSIDE   06-19 0122</field>
-	<field name = "TITLE">MINNESOTA MAY CONSIDER ANTI-TAKEOVER AMENDMENT</field>
+	<field name = "titulo">MINNESOTA MAY CONSIDER ANTI-TAKEOVER AMENDMENT</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Minnesota Governor Rudy Perpich is
+	<field name = "content">Minnesota Governor Rudy Perpich is
 considering calling a special legislative session to consider
 amendments to the state's anti-takeover statute, according to
 the governor's office.

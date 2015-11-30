@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 14:50:18.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2153reute
-r f BC-HAYES-MICROCOMPUTER-A   06-01 0102</field>
-	<field name = "TITLE">HAYES MICROCOMPUTER ANNOUNCES NEW MODEMS</field>
+	<field name = "titulo">HAYES MICROCOMPUTER ANNOUNCES NEW MODEMS</field>
 	<field name = "DATELINE">NORCORSS, Ga., June 1 -</field>
-	<field name = "BODY">Hayes Microcomputer Products Inc>
+	<field name = "content">Hayes Microcomputer Products Inc>
 said it has introduced five new V-series system products and a
 new generation communication software package, Smartcom III.
     Hayes said the new V-series includes the V-Series

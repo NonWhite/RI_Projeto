@@ -3,12 +3,9 @@
 	<field name = "TOPICS">pet-chem</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0408reute
-r f BC-PPG-INDUSTRIES-PPG>   03-09 0078</field>
-	<field name = "TITLE">PPG INDUSTRIES PPG> SELLS ETHYLENE INTERESTS</field>
+	<field name = "titulo">PPG INDUSTRIES PPG> SELLS ETHYLENE INTERESTS</field>
 	<field name = "DATELINE">PITTSBURGH, March 9 -</field>
-	<field name = "BODY">PPG Industries Inc said a group of
+	<field name = "content">PPG Industries Inc said a group of
 investors led by Sterling Group> of Houston said it has agreed
 to acquire PPG's ethylene products business, including its
 inteest in an ethylene glycols joint venture with du Pont Co

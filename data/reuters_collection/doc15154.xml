@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:08:54.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1874reute
-r f BC-EMERSON-RADIO-EME>-S   04-08 0058</field>
-	<field name = "TITLE">EMERSON RADIO EME> SELLS NOTES PRIVATELY</field>
+	<field name = "titulo">EMERSON RADIO EME> SELLS NOTES PRIVATELY</field>
 	<field name = "DATELINE">NORTH BERGEN, N.J., April 8 -</field>
-	<field name = "BODY">Emerson Radio Corp said it
+	<field name = "content">Emerson Radio Corp said it
 has sold 10 mln dlrs of eight pct senior notes due March 1992
 to a major institutional investor it did not name.
     The company also said 5,800,000 dlrs of its convertible

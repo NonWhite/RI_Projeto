@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 16:47:00.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0650reute
-r f BC-AQUA-CHEM-UNIT-SET-TO   03-11 0077</field>
-	<field name = "TITLE">AQUA CHEM UNIT SET TO BUILD SITE NEAR TULSA</field>
+	<field name = "titulo">AQUA CHEM UNIT SET TO BUILD SITE NEAR TULSA</field>
 	<field name = "DATELINE">TULSA, OKLA., March 11 -</field>
-	<field name = "BODY">Cleaver Brooks, a subsidiary of
+	<field name = "content">Cleaver Brooks, a subsidiary of
 Aqua Chem>, which is owned by the French firm Societe
 Lyonnaise DesEaux Et de L'Eclairage, said it plans to build a
 manufacturing plant near Tulsa.

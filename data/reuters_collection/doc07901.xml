@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 14:15:31.20</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2019reute
-r f BC-ECHLINECH>-EXPECTS-C   03-20 0098</field>
-	<field name = "TITLE">ECHLINECH> EXPECTS CONTINUED PROFIT GROWTH</field>
+	<field name = "titulo">ECHLINECH> EXPECTS CONTINUED PROFIT GROWTH</field>
 	<field name = "DATELINE">BRANFORD, Conn., March 20 -</field>
-	<field name = "BODY">Echlin Inc said it expects
+	<field name = "content">Echlin Inc said it expects
 further earnings increases for the second half of fiscal 1987
 ending in August due to unit sales growth and improved
 operations.

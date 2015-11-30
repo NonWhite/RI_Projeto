@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 04:27:34.27</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0182reute
-u f BC-GERMAN-BANKERS'-REMAR   04-09 0110</field>
-	<field name = "TITLE">GERMAN BANKERS' REMARKS REVIVE TALK OF RATE CUT</field>
+	<field name = "titulo">GERMAN BANKERS' REMARKS REVIVE TALK OF RATE CUT</field>
 	<field name = "DATELINE">FRANKFURT, April 9 -</field>
-	<field name = "BODY">Remarks by two leading central bankers
+	<field name = "content">Remarks by two leading central bankers
 sparked renewed speculation in financial markets that a cut in
 the West German three pct discount rate may be under
 discussion, currency dealers said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">rand</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM
-f0630reute
-r f BC-S.AFRICA'S-FINANCIAL   03-19 0093</field>
-	<field name = "TITLE">S.AFRICA'S FINANCIAL RAND SEEN HEADED HIGHER</field>
+	<field name = "titulo">S.AFRICA'S FINANCIAL RAND SEEN HEADED HIGHER</field>
 	<field name = "DATELINE">JOHANNESBURG, March 19 -</field>
-	<field name = "BODY">The financial rand, widely viewed
+	<field name = "content">The financial rand, widely viewed
 as a direct reflection of foreign investor confidence in South
 Africa, appears headed above 30 U.S. Cents, dealers and bank
 economists said.

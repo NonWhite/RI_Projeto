@@ -4,12 +4,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">nicaragua</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM
-f0143reute
-b f AM-REAGAN-2NDLD***URGENT (EMBARGOED)  03-04 0091</field>
-	<field name = "TITLE">REAGAN ADMITS IRAN ARMS OPERATION A MISTAKE</field>
+	<field name = "titulo">REAGAN ADMITS IRAN ARMS OPERATION A MISTAKE</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">President Reagan, fighting to regain
+	<field name = "content">President Reagan, fighting to regain
 public confidence in the wake of the Iran arms scandal,
 admitted tonight that the clandestine operation wound up as an
 arms-for-hostages deal and, "It was a mistake."

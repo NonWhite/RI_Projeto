@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 12:01:25.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1681reute
-r f BC-EL-DE-ELECTRO-ELOPF>   03-30 0042</field>
-	<field name = "TITLE">EL-DE ELECTRO ELOPF> OFFERING SELLS OUT</field>
+	<field name = "titulo">EL-DE ELECTRO ELOPF> OFFERING SELLS OUT</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">El-De Electro-Optic Developments Ltd
+	<field name = "content">El-De Electro-Optic Developments Ltd
 said all one mln common shares it offered in its initial public
 offering at three dlrs each have been sold.
     Underwriters was Brown, Knapp and Co Inc.

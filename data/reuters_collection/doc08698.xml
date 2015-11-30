@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0725reute
-h f BC-TAIWAN-PROPOSES-FURTH   03-24 0099</field>
-	<field name = "TITLE">TAIWAN PROPOSES FURTHER TARIFF CUTS</field>
+	<field name = "titulo">TAIWAN PROPOSES FURTHER TARIFF CUTS</field>
 	<field name = "DATELINE">TAIPEI, March 24 -</field>
-	<field name = "BODY">Taiwan said it plans another round of
+	<field name = "content">Taiwan said it plans another round of
 tariff cuts, possibly within a month, to try to narrow its
 trade surplus with the U.S.
     Vice Finance Minister Ronald Ho said a high-level economic

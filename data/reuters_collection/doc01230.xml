@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 14:33:16.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0553reute
-r f BC-GM-GM>-TO-CLOSE-NORW   03-03 0107</field>
-	<field name = "TITLE">GM GM> TO CLOSE NORWOOD PLANT IN AUGUST</field>
+	<field name = "titulo">GM GM> TO CLOSE NORWOOD PLANT IN AUGUST</field>
 	<field name = "DATELINE">DETROIT, March 3 -</field>
-	<field name = "BODY">General Motors Corp said it will cease
+	<field name = "content">General Motors Corp said it will cease
 production at its Norwood, Ohio, car assembly plant effective
 August 26 to reduce output of the sporty CHevrolet Camaro and
 Pontiac Firebird models built there.

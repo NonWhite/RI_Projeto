@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 08:27:30.72</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">T C
-f0630reute
-u f BC-WEST-GERMAN-BEET-PLAN   04-09 0090</field>
-	<field name = "TITLE">WEST GERMAN BEET PLANTINGS DELAYED THREE WEEKS</field>
+	<field name = "titulo">WEST GERMAN BEET PLANTINGS DELAYED THREE WEEKS</field>
 	<field name = "DATELINE">HAMBURG, April 9 -</field>
-	<field name = "BODY">Unseasonal cold weather has delayed
+	<field name = "content">Unseasonal cold weather has delayed
 sugar beet plantings in West Germany by up to three weeks, the
 agriculture ministry said.
     A ministry spokesman said in some central areas, especially

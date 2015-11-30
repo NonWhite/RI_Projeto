@@ -5,12 +5,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">F
-f0629reute
-d f BC-U.S.-CAR-MAKERS-HOPE   03-04 0107</field>
-	<field name = "TITLE">U.S. CAR MAKERS HOPE TO PROFIT FROM WEAK DOLLAR</field>
+	<field name = "titulo">U.S. CAR MAKERS HOPE TO PROFIT FROM WEAK DOLLAR</field>
 	<field name = "DATELINE">GENEVA, March 4 -</field>
-	<field name = "BODY">The Geneva Motor Show, the first major
+	<field name = "content">The Geneva Motor Show, the first major
 car show of the year, opens tomorrow with U.S. Car makers
 hoping to make new inroads into European markets due to the
 cheap dollar, automobile executives said.

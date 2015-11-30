@@ -5,13 +5,9 @@
 	<field name = "PLACES">bahrain</field>
 	<field name = "PEOPLE">hisham-nazer</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">F
-f0161
-reute
-r f AM-OIL-SAUDI   03-02 0114</field>
-	<field name = "TITLE">SAUDI ARABIA REITERATES COMMITMENT TO OPEC ACCORD</field>
+	<field name = "titulo">SAUDI ARABIA REITERATES COMMITMENT TO OPEC ACCORD</field>
 	<field name = "DATELINE">BAHRAIN, March 2 -</field>
-	<field name = "BODY">Saudi Arabian Oil Minister Hisham Nazer
+	<field name = "content">Saudi Arabian Oil Minister Hisham Nazer
 reiterated the kingdom's commitment to last December's OPEC
 accord to boost world oil prices and stabilize the market, the
 official Saudi Press Agency SPA said.

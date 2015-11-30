@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 11:40:11.89</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">RM V 
-f1647reute
-b f BC-/SEC-HEAD-NOT-URGING   10-19 0072</field>
-	<field name = "TITLE">SEC HEAD NOT URGING U.S. TRADING HALT AT PRESENT</field>
+	<field name = "titulo">SEC HEAD NOT URGING U.S. TRADING HALT AT PRESENT</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">Securities and Exchange Commission
+	<field name = "content">Securities and Exchange Commission
 Chairman David Ruder said a brief trading halt has been
 discussed as one way of restoring order to the stock market,
 but stressed he is not recommending one at present.

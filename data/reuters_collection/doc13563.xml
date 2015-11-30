@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:40:40.02</field>
-	<field name = "UNKNOWN">RM C G L M T F
-f0477reute
-u f BC-DOLLAR-STEADY-NEAR-LO   04-07 0116</field>
-	<field name = "TITLE">DOLLAR STEADY NEAR LOWS AT LONDON MIDSESSION</field>
+	<field name = "titulo">DOLLAR STEADY NEAR LOWS AT LONDON MIDSESSION</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">The dollar was steady near lower opening
+	<field name = "content">The dollar was steady near lower opening
 levels in extremely quiet trading and dealers did not expect
 the U.S. Currency to move significantly before the series of
 high-level monetary meetings starting today in Washington.

@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 16:49:40.69</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F
-f0880reute
-r f BC-INTER-CITY-GAS-CORP-   03-05 0041</field>
-	<field name = "TITLE">INTER-CITY GAS CORP ICG> 4TH QTR NET</field>
+	<field name = "titulo">INTER-CITY GAS CORP ICG> 4TH QTR NET</field>
 	<field name = "DATELINE">TORONTO, March 5 -</field>
-	<field name = "BODY">Shr 36 cts vs 68 cts
+	<field name = "content">Shr 36 cts vs 68 cts
     Net 10.0 mln vs 16.1 mln
     Revs 441.6 mln vs 470.8 mln
     YEAR

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:23:10.63</field>
-	<field name = "UNKNOWN">RM
-f0165reute
-u f BC-TOKYO-BOND-MARKET-CLO   04-07 0116</field>
-	<field name = "TITLE">TOKYO BOND MARKET CLOSES SHARPLY HIGHER</field>
+	<field name = "titulo">TOKYO BOND MARKET CLOSES SHARPLY HIGHER</field>
 	<field name = "DATELINE">TOKYO, April 7 -</field>
-	<field name = "BODY">The cash bond market closed higher in
+	<field name = "content">The cash bond market closed higher in
 active trade led by securities houses' speculative buying and
 end-investor purchases of low coupon issues, triggered by
 declines in short-term interest rates, dealers said.

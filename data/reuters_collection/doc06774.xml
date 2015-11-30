@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 15:44:07.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f9306reute
-r f BC-COCA-COLA-BOTTLING-C   03-18 0060</field>
-	<field name = "TITLE">COCA-COLA BOTTLING COKE> FILES TO OFFER NOTES</field>
+	<field name = "titulo">COCA-COLA BOTTLING COKE> FILES TO OFFER NOTES</field>
 	<field name = "DATELINE">DALLAS, March 18 -</field>
-	<field name = "BODY">Coca-Cola Bottling Group Inc said it
+	<field name = "content">Coca-Cola Bottling Group Inc said it
 filed with the Securities and Exchange Commission to offer 125
 mln dlrs of subordinated notes due 1997 through Salomon
 Brothers Inc.

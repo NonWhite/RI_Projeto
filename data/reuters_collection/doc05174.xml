@@ -2,12 +2,9 @@
 	<field name = "DATE">15-MAR-1987 21:54:20.84</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">T C
-f0978reute
-u f BC-NO-TAIWAN-SUGAR-EXPOR   03-15 0115</field>
-	<field name = "TITLE">NO TAIWAN SUGAR EXPORTS EXPECTED THIS YEAR</field>
+	<field name = "titulo">NO TAIWAN SUGAR EXPORTS EXPECTED THIS YEAR</field>
 	<field name = "DATELINE">TAIPEI, March 16 -</field>
-	<field name = "BODY">Taiwan is not expected to export sugar
+	<field name = "content">Taiwan is not expected to export sugar
 this year because of falling production and growing domestic
 consumption, state-owned Taiwan Sugar Corp said.
     A company spokesman told Reuters this will be the first

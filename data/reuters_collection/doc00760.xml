@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:19:06.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0028
-reute
-h f BC-VANGUARD-TECHNOLOGIES   03-02 0085</field>
-	<field name = "TITLE">VANGUARD TECHNOLOGIES VTI> WINS CONTRACT</field>
+	<field name = "titulo">VANGUARD TECHNOLOGIES VTI> WINS CONTRACT</field>
 	<field name = "DATELINE">FAIRFAX, Va., March 2 -</field>
-	<field name = "BODY">Vanguard Technologies International
+	<field name = "content">Vanguard Technologies International
 Inc said it was awarded a 2.2 mln dlr contract from the Office
 of the Secretary of Defense to provide facilities management
 services.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 09:03:01.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0844reute
-d f BC-AAR-AIR>-ELEASING-UN   06-02 0067</field>
-	<field name = "TITLE">AAR AIR> ELEASING UNIT SELLS FIVE AIRCRAFT</field>
+	<field name = "titulo">AAR AIR> ELEASING UNIT SELLS FIVE AIRCRAFT</field>
 	<field name = "DATELINE">ELK GROVE VILLAGE, ILL., June 2 -</field>
-	<field name = "BODY">AAR Corp said its AAR
+	<field name = "content">AAR Corp said its AAR
 Financial Services Corp nonconsolidated leasing subsidiary sold
 its beneficial interest in five used Boeing 737-200 aircraft.
     In March, 1985 the aircraft were acquired from and leased

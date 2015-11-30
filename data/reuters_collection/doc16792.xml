@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 08:30:28.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0178reute
-r f BC-LITTLEFIELD-ADAMS-LF   04-17 0107</field>
-	<field name = "TITLE">LITTLEFIELD ADAMS LFA> MAY GET QUALIFIED AUDIT</field>
+	<field name = "titulo">LITTLEFIELD ADAMS LFA> MAY GET QUALIFIED AUDIT</field>
 	<field name = "DATELINE">TOTOWA, N.J., April 17 -</field>
-	<field name = "BODY">Littlefield, Adams and Co said it
+	<field name = "content">Littlefield, Adams and Co said it
 is attempting to work out new financing arrangements with
 lender Congress Financial, and unless it receives an extension
 of its loan to at least year-end, it expects a qualified audit

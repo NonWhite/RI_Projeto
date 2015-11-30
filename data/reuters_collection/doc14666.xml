@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyce</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">C T
-f2470reute
-d f BC-NYFE-TO-MOVE-TO-N.Y.   04-07 0132</field>
-	<field name = "TITLE">NYFE TO MOVE TO N.Y. COTTON EXCHANGE</field>
+	<field name = "titulo">NYFE TO MOVE TO N.Y. COTTON EXCHANGE</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">The New York Futures Exchange will move
+	<field name = "content">The New York Futures Exchange will move
 its trading operations to the floor of the New York Cotton
 Exchange, NYFE president Lewis J. Horowitz and Cotton Exchange
 president Joseph O'Neill announced.

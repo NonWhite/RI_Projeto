@@ -2,13 +2,10 @@
 	<field name = "DATE">25-MAR-1987 08:34:10.95</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0711reute
-u f BC-LONDON-ON-RISE-AS-TRA   03-25 0112</field>
-	<field name = "TITLE">LONDON ON RISE AS TRADING CENTRE IN U.S. DEBT</field>
+	<field name = "titulo">LONDON ON RISE AS TRADING CENTRE IN U.S. DEBT</field>
 	<field name = "AUTHOR">By Norma Cohen, Reuters</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">London's rise as a trading centre for
+	<field name = "content">London's rise as a trading centre for
 U.S. Government debt has been spurred by the increasing use of
 interest rate swaps, which are now arranged for most new issues
 in the eurobond markets, traders and analysts said.

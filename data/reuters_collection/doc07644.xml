@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "TOPICS">silver</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">M
-f0803reute
-u f BC-GEODOME-SETS-IDAHO-GO   03-20 0141</field>
-	<field name = "TITLE">GEODOME SETS IDAHO GOLD/SILVER MINE CONSTRUCTION</field>
+	<field name = "titulo">GEODOME SETS IDAHO GOLD/SILVER MINE CONSTRUCTION</field>
 	<field name = "DATELINE">HAILEY, Idaho, March 20 -</field>
-	<field name = "BODY">Geodome Resources Ltd said
+	<field name = "content">Geodome Resources Ltd said
 following receipt of a feasibility study from Raytheon Co's
 Stearns Catalytic unit it will proceed with construction and
 pre-production stripping at its Sunbeam Mine in Custer County,

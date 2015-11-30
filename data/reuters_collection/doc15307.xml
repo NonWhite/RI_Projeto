@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 16:27:15.48</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2500reute
-u f BC-******NATIONAL-DISTIL   04-08 0088</field>
-	<field name = "TITLE">NATIONAL DISTILLERS DR> TO SELL SPIRITS UNIT</field>
+	<field name = "titulo">NATIONAL DISTILLERS DR> TO SELL SPIRITS UNIT</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">National Distillers and Chemical Corp
+	<field name = "content">National Distillers and Chemical Corp
 said it signed a definitive agreement to sell its spirits
 division for 545 mln dlrs to James Beam Distilling Co, a unit
 of American Brands Inc AMB>.

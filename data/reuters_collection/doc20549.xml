@@ -5,12 +5,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">sunseed</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">C G 
-f2695reute
-u f BC-ARGENTINA-SETS-NEW-SU   10-20 0098</field>
-	<field name = "TITLE">ARGENTINA SETS NEW SUPPORT PRICES FOR GRAINS</field>
+	<field name = "titulo">ARGENTINA SETS NEW SUPPORT PRICES FOR GRAINS</field>
 	<field name = "DATELINE">BUENOS AIRES, Oct 20 -</field>
-	<field name = "BODY">Argentina's agriculture secretariat
+	<field name = "content">Argentina's agriculture secretariat
 set new support prices for grains and oilseeds, an official
 statement said.
     It said the support price for wheat was hiked to 300

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 15:28:05.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2228reute
-r f BC-BARRIS-BRRS>-TO-BUY   03-25 0071</field>
-	<field name = "TITLE">BARRIS BRRS> TO BUY BACK STOCK</field>
+	<field name = "titulo">BARRIS BRRS> TO BUY BACK STOCK</field>
 	<field name = "DATELINE">BEVERLY HILLS, Calif., March 25 -</field>
-	<field name = "BODY">Barris Industries Inc
+	<field name = "content">Barris Industries Inc
 said it agreed to buy back 763,546 shares, or 8.6 pct of its
 own common stock from company founder Charles Barris for 12.50
 dlrs per share.

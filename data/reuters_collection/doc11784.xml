@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 02:52:53.52</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PEOPLE">hawke</field>
-	<field name = "UNKNOWN">RM
-f0127reute
-u f BC-HAWKE-CONFIRMS-HE-WIL   04-01 0105</field>
-	<field name = "TITLE">HAWKE CONFIRMS HE WILL NOT CALL SNAP POLL</field>
+	<field name = "titulo">HAWKE CONFIRMS HE WILL NOT CALL SNAP POLL</field>
 	<field name = "DATELINE">SYDNEY, April 1 -</field>
-	<field name = "BODY">Prime Minister Bob Hawke said he would
+	<field name = "content">Prime Minister Bob Hawke said he would
 not call snap elections although disarray within the opposition
 was a strong temptation to do so.
     Confirming earlier comments by government officials, Hawke

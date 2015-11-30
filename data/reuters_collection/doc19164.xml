@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">ghana</field>
-	<field name = "UNKNOWN">C G T 
-f0959reute
-d f BC-GHANA-LIFTS-RICE/MAIZ   06-19 0100</field>
-	<field name = "TITLE">GHANA LIFTS RICE/MAIZE IMPORT BAN DUE TO DROUGHT</field>
+	<field name = "titulo">GHANA LIFTS RICE/MAIZE IMPORT BAN DUE TO DROUGHT</field>
 	<field name = "DATELINE">ACCRA, June 19 -</field>
-	<field name = "BODY">Ghana has lifted a ban on rice and maize
+	<field name = "content">Ghana has lifted a ban on rice and maize
 imports due to crop problems caused by unusually dry weather,
 the official Ghana News Agency (GNA) reported today.
     Secretary for Finance and Economic Planning Kwesi Botchwey

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 19:36:34.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2876reute
-r f BC-U.S.-THRIFT-OFFICIAL   04-09 0119</field>
-	<field name = "TITLE">U.S. THRIFT OFFICIAL URGES MORE LENDER INSURANCE</field>
+	<field name = "titulo">U.S. THRIFT OFFICIAL URGES MORE LENDER INSURANCE</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">The Administration's 15 billion dlr
+	<field name = "content">The Administration's 15 billion dlr
 plan to recapitalize the Federal Savings and Loan Insurance
 Corporation is needed to ensure the future profitablity of the
 U.S. thrift industry, according to a top industry regulator.

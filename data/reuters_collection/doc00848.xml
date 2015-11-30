@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 18:09:46.79</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0296
-reute
-r f BC-REXNORD-REX>-TO-REDE   03-02 0065</field>
-	<field name = "TITLE">REXNORD REX> TO REDEEM RIGHTS</field>
+	<field name = "titulo">REXNORD REX> TO REDEEM RIGHTS</field>
 	<field name = "DATELINE">BROOKFIELD, Wis., March 2 -</field>
-	<field name = "BODY">Rexnord Inc said it will redeem
+	<field name = "content">Rexnord Inc said it will redeem
 all of its preferred stock purchase rights for 10 cts a right
 effective today.
     Rexnord said the rights will be redeemed because it is

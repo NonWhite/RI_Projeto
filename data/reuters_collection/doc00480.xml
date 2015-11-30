@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 11:10:22.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0891
-reute
-u f BC-TEMPLE-INLAND/INT'L-P   03-02 0099</field>
-	<field name = "TITLE">TEMPLE INLAND/INT'L PAPER UP ON RAISED OPINION</field>
+	<field name = "titulo">TEMPLE INLAND/INT'L PAPER UP ON RAISED OPINION</field>
 	<field name = "DATELINE">NEW YORK, MARCH 2 -</field>
-	<field name = "BODY">Shares of Temple Inland Inc TIN> and
+	<field name = "content">Shares of Temple Inland Inc TIN> and
 International Paper Co IP> rose sharply this morning following
 a recommendation by Prudential Bache Securities, traders said.
     Temple Inland jumped 2-7/8 to 73 and International Paper 

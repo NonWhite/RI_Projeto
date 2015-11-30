@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">V RM
-f1120reute
-b f BC-VOLCKER-SEES-DOLLAR-A   04-07 0104</field>
-	<field name = "TITLE">VOLCKER SEES DOLLAR AS FACTOR IN MONETARY POLICY</field>
+	<field name = "titulo">VOLCKER SEES DOLLAR AS FACTOR IN MONETARY POLICY</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Federal Reserve Board Chairman Paul
+	<field name = "content">Federal Reserve Board Chairman Paul
 Volcker said the performance of the dollar in exchange markets
 could be a factor in the U.S. central bank's decisions on
 monetary policy.

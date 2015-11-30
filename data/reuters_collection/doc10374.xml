@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:13:21.80A</field>
-	<field name = "UNKNOWN">f0655reute</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">h f BC-INDIA-STEPS-UP-COUNTE   03-27 0107</field>
-	<field name = "TITLE">INDIA STEPS UP COUNTERTRADE DEALS TO CUT TRADE GAP</field>
+	<field name = "titulo">INDIA STEPS UP COUNTERTRADE DEALS TO CUT TRADE GAP</field>
 	<field name = "AUTHOR">By Ajoy Sen, Reuters</field>
 	<field name = "DATELINE">NEW DELHI, March 27 -</field>
-	<field name = "BODY">India is searching for non-communist
+	<field name = "content">India is searching for non-communist
 countertrade partners to help it cut its trade deficit and
 conserve foreign exchange.
     Wheat, tobacco, tea, coffee, jute, engineering and

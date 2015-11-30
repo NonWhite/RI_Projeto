@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 10:51:09.44</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0389reute
-d f BC-SAHLEN-AND-ASSOCIATES   03-11 0088</field>
-	<field name = "TITLE">SAHLEN AND ASSOCIATES SALNU> COMPLETES PURCHASE</field>
+	<field name = "titulo">SAHLEN AND ASSOCIATES SALNU> COMPLETES PURCHASE</field>
 	<field name = "DATELINE">DEERFIELD BEACH, Fla., March 11 -</field>
-	<field name = "BODY">Sahlen and Associates Inc
+	<field name = "content">Sahlen and Associates Inc
 said it has completed the purchase of Gleason Securities
 Service Inc of New York and Gleason Plant Security Inc of
 Connecticut.

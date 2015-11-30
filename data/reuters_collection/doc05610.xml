@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 14:39:50.46</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f3307reute
-u f BC-U.S.-SENATOR-UNCOMMIT   03-16 0127</field>
-	<field name = "TITLE">U.S. SENATOR UNCOMMITTED ON OFFERING 0/92 BILL</field>
+	<field name = "titulo">U.S. SENATOR UNCOMMITTED ON OFFERING 0/92 BILL</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">Senator Richard Lugar of Indiana,
+	<field name = "content">Senator Richard Lugar of Indiana,
 ranking Republican on the U.S. Senate Agriculture Committee,
 has not decided whether to introduce an administration-backed
 bill to apply the so-called 0/92 provision to 1988 through 1990

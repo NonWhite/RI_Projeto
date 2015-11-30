@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1303reute
-b f BC-/-FED-EXPECTED-TO-TAK   04-03 0098</field>
-	<field name = "TITLE">FED EXPECTED TO TAKE NO MONEY MARKET ACTION</field>
+	<field name = "titulo">FED EXPECTED TO TAKE NO MONEY MARKET ACTION</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">The Federal Reserve is expected to take
+	<field name = "content">The Federal Reserve is expected to take
 no reserve-management action in the U.S. Government securities
 market during its usual intervention period, economists said.
     They said that, if the Fed does act, it will likely add

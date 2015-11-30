@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 14:28:16.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2046reute
-u f AM-FRAUD   03-25 0106</field>
-	<field name = "TITLE">U.S. TAX FRAUD CHARGES BROUGHT AGAINST THREE</field>
+	<field name = "titulo">U.S. TAX FRAUD CHARGES BROUGHT AGAINST THREE</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Three men were charged today with
+	<field name = "content">Three men were charged today with
 operating a large tax fraud scheme that provided more than 500
 mln dlrs in phony tax losses for many prominent people,
 including CBS Inc. CBS> president Laurence Tisch and his

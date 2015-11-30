@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 18:14:22.31</field>
 	<field name = "TOPICS">meal-feed</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2675reute
-d f BC-U.S.-FEED-SITUATION-S   04-01 0070</field>
-	<field name = "TITLE">U.S. FEED SITUATION SUMMARY REPORT DELAYED</field>
+	<field name = "titulo">U.S. FEED SITUATION SUMMARY REPORT DELAYED</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">The U.S. Agriculture Department said
+	<field name = "content">The U.S. Agriculture Department said
 its summary report on the Feed Situation and Outlook, scheduled
 for release April 24, has been delayed until May 15.
     The department said the delay will enable analysts to

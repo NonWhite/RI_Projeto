@@ -3,13 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y F
-f0069reute
-r f BC-ENERGY/CALIFORNIA-OIL   03-04 0099</field>
-	<field name = "TITLE">ENERGY/CALIFORNIA OIL PRODUCTION</field>
+	<field name = "titulo">ENERGY/CALIFORNIA OIL PRODUCTION</field>
 	<field name = "AUTHOR">BY MICHAEL FITZPATRICK, Reuters</field>
 	<field name = "DATELINE">LOS ANGELES, March 4 -</field>
-	<field name = "BODY">Drilling for oil in California is
+	<field name = "content">Drilling for oil in California is
 likely to continue at last year's sharply reduced levels
 despite recent gains in crude oil prices, industry analysts
 said.

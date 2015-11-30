@@ -2,13 +2,10 @@
 	<field name = "DATE">5-APR-1987 06:13:27.54</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0062reute
-r f BC-BRITISH-MINISTER-GOES   04-05 0108</field>
-	<field name = "TITLE">BRITISH MINISTER GOES TO TOKYO ASKING FREER ACCESS</field>
+	<field name = "titulo">BRITISH MINISTER GOES TO TOKYO ASKING FREER ACCESS</field>
 	<field name = "AUTHOR">By Michael Wise, Reuters</field>
 	<field name = "DATELINE">LONDON, April 5 -</field>
-	<field name = "BODY">Britain's corporate affairs minister left
+	<field name = "content">Britain's corporate affairs minister left
 for Tokyo saying he planned to present Japanese authorities
 with a timetable for obtaining fair market access for his
 country's goods and financial services.

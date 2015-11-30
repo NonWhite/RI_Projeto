@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 12:43:43.13</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1709reute
-d f BC-RSI-CORP-RSIC>-2ND-Q   03-25 0067</field>
-	<field name = "TITLE">RSI CORP RSIC> 2ND QTR FEB 28 NET</field>
+	<field name = "titulo">RSI CORP RSIC> 2ND QTR FEB 28 NET</field>
 	<field name = "DATELINE">GREENVILLE, S.C., March 25 -</field>
-	<field name = "BODY">Shr 33 cts vs 13 cts
+	<field name = "content">Shr 33 cts vs 13 cts
     Net 2,266,000 vs 849,000
     Revs 24.1 mln vs 16.0 mln
     1st half

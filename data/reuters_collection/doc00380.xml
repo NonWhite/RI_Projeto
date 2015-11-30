@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 08:43:56.94</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f0364
-reute
-d f BC-BROWN-BOVERI-OMITS-DI   03-02 0107</field>
-	<field name = "TITLE">BROWN BOVERI OMITS DIVIDEND, PLANS WARRANT BOND</field>
+	<field name = "titulo">BROWN BOVERI OMITS DIVIDEND, PLANS WARRANT BOND</field>
 	<field name = "DATELINE">BADEN, Switzerland, March 2 -</field>
-	<field name = "BODY">BBC AG Brown Boveri und Cie
+	<field name = "content">BBC AG Brown Boveri und Cie
 BBCZ.Z> said it will omit dividend in 1986 for the second
 consecutive year.
     It said it planned to invite shareholders and non-voting

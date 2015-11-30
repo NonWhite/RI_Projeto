@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:45:12.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0991reute
-d f BC-WEAREVER-WRPS>-TO-RE   03-09 0100</field>
-	<field name = "TITLE">WEAREVER WRPS> TO RELOCATE HEADQUARTERS</field>
+	<field name = "titulo">WEAREVER WRPS> TO RELOCATE HEADQUARTERS</field>
 	<field name = "DATELINE">CHILLICOTHE, Ohio, March 9 -</field>
-	<field name = "BODY">WearEver-ProctorSilex Inc said
+	<field name = "content">WearEver-ProctorSilex Inc said
 it will relocate is corporate headquarters from Chillicothe to
 Richmond, Va., beginning this fall and ending by early 1988.
     The company said Richmond was chosen because it is

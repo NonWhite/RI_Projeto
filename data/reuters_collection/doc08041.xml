@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 18:14:24.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2647reute
-r f BC-LOUISIANA-LAND-LLX>   03-20 0064</field>
-	<field name = "TITLE">LOUISIANA LAND LLX> ASSUMES INEXCO'S DEBT</field>
+	<field name = "titulo">LOUISIANA LAND LLX> ASSUMES INEXCO'S DEBT</field>
 	<field name = "DATELINE">NEW ORLEANS, March 20 -</field>
-	<field name = "BODY">Louisiana Land and Exploration Co
+	<field name = "content">Louisiana Land and Exploration Co
 said it assumed the obligation to pay the principal and
 interest on the 8-1/2 pct convertible subordinated debentures
 due September 1, 2000 of Inexco Oil Co, a unit of Louisiana

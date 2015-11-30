@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 13:45:13.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1982reute
-d f BC-S-K-I--LTD-SKII>-SAY   03-24 0060</field>
-	<field name = "TITLE">S-K-I  LTD SKII> SAYS SKIER VISITS A RECORD</field>
+	<field name = "titulo">S-K-I  LTD SKII> SAYS SKIER VISITS A RECORD</field>
 	<field name = "DATELINE">KILLINGTON, Vt., March 24 -</field>
-	<field name = "BODY">S-K-I Ltd said its skier visits
+	<field name = "content">S-K-I Ltd said its skier visits
 for the curret season have exceeded 1,500,000, up from the
 record of 1,400,000 set last year.
     The company said its Killington Ski Area in central Vermont

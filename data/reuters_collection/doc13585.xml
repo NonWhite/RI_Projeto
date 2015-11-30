@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:01:59.56</field>
 	<field name = "PLACES">denmark</field>
-	<field name = "UNKNOWN">RM
-f0515reute
-u f BC-DENMARK-PLANS-TO-END   04-07 0116</field>
-	<field name = "TITLE">DENMARK PLANS TO END SALES TAX ON SOME ITEMS</field>
+	<field name = "titulo">DENMARK PLANS TO END SALES TAX ON SOME ITEMS</field>
 	<field name = "DATELINE">COPENHAGEN, April 7 -</field>
-	<field name = "BODY">The Danish government said it planned
+	<field name = "content">The Danish government said it planned
 tax changes to discourage people making shopping trips to West
 Germany and other countries where consumer durables are
 cheaper.

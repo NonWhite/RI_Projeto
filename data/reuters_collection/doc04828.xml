@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 10:17:10.14</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0040reute
-b f BC-FRANCE-REPAYS-SOME-OF   03-13 0109</field>
-	<field name = "TITLE">FRANCE REPAYS SOME OF CURRENCY INTERVENTION DEBT</field>
+	<field name = "titulo">FRANCE REPAYS SOME OF CURRENCY INTERVENTION DEBT</field>
 	<field name = "DATELINE">PARIS, March 13 -</field>
-	<field name = "BODY">France today repaid 21.95 billion francs
+	<field name = "content">France today repaid 21.95 billion francs
 of short-term currency intervention debt to the European
 Monetary Cooperation Fund, EMCF, the Finance Ministry said.
     It said the debt was part of a 33.90 billion franc

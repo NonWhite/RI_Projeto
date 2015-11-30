@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-APR-1987 12:17:02.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1633reute
-r f BC-IMARK-INDS-IMAR.O>-V   04-21 0041</field>
-	<field name = "TITLE">IMARK INDS IMAR.O> VOTES ANNUAL 25 CT DIVIDEND</field>
+	<field name = "titulo">IMARK INDS IMAR.O> VOTES ANNUAL 25 CT DIVIDEND</field>
 	<field name = "DATELINE">GENESEO, ILL., April 21 -</field>
-	<field name = "BODY">Imark Industries Inc said its
+	<field name = "content">Imark Industries Inc said its
 directors approved payment of an annual dividend of 25 cts on
 May 21, record May seven.
     The company paid the same dividend last year.

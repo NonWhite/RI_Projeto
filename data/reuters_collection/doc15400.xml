@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 06:04:32.12</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0328reute
-u f BC-CHINA-LIGHT-UNIT-RENE   04-09 0113</field>
-	<field name = "TITLE">CHINA LIGHT UNIT RENEWS COMMERCIAL PAPER FACILITY</field>
+	<field name = "titulo">CHINA LIGHT UNIT RENEWS COMMERCIAL PAPER FACILITY</field>
 	<field name = "DATELINE">HONG KONG, April 9 -</field>
-	<field name = "BODY">Kowloon Electricity Supply Co Ltd>, a
+	<field name = "content">Kowloon Electricity Supply Co Ltd>, a
 joint venture of China Light and Power Co Ltd CLPH.HK> and
 Exxon Corp XON>, has renewed and increased an existing
 commercial paper program, arranger Schroders Asia Ltd> said.

@@ -9,13 +9,10 @@
 	<field name = "PLACES">kuwait</field>
 	<field name = "PLACES">iran</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">L C
-f0459reute
-u f BC-AUSTRALIA-EXPECTS-RIS   03-12 0102</field>
-	<field name = "TITLE">AUSTRALIA EXPECTS RISE IN MEAT EXPORTS TO MIDEAST</field>
+	<field name = "titulo">AUSTRALIA EXPECTS RISE IN MEAT EXPORTS TO MIDEAST</field>
 	<field name = "AUTHOR">By Ian MacKenzie, Reuters</field>
 	<field name = "DATELINE">BAHRAIN, March 12 -</field>
-	<field name = "BODY">Australia expects meat and livestock
+	<field name = "content">Australia expects meat and livestock
 exports to the Middle East to maintain an upward trend this
 year, managing director of the Australian Meat and Livestock
 Corp, Peter Frawley, said.

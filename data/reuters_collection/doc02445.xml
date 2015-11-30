@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:19:52.29</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0772reute
-r f BC-mitel   03-05 0073</field>
-	<field name = "TITLE">MITEL MLT> AWARDS SELLING RIGHTS TO TWO FIRMS</field>
+	<field name = "titulo">MITEL MLT> AWARDS SELLING RIGHTS TO TWO FIRMS</field>
 	<field name = "DATELINE">KANATA, Ontario, March 5 -</field>
-	<field name = "BODY">Mitel Corp said it awarded
+	<field name = "content">Mitel Corp said it awarded
 exclusive rights to units of British Columbia Telephone Co>
 and provincially owned Alberta Government Telephones to sell
 its new SX-200 Digital systems in the western Canadian

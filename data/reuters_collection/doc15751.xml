@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 13:02:01.12</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">A
-f1790reute
-u f BC-REAGAN-DECLARES-MAINE   04-09 0091</field>
-	<field name = "TITLE">REAGAN DECLARES MAINE DISASTER AREA</field>
+	<field name = "titulo">REAGAN DECLARES MAINE DISASTER AREA</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">President Reagan declared that a
+	<field name = "content">President Reagan declared that a
 major disaster existed in the State of Maine in following
 severe storms and flooding there, paving the way for federal
 relief and reconstruction assistance.

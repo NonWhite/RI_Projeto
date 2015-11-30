@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 18:09:22.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2635reute
-r f BC-FARM-CREDIT-SYSTEM-TO   03-25 0113</field>
-	<field name = "TITLE">FARM CREDIT SYSTEM TO ASK FOR CONGRESSIONAL AID</field>
+	<field name = "titulo">FARM CREDIT SYSTEM TO ASK FOR CONGRESSIONAL AID</field>
 	<field name = "AUTHOR">By Greg McCune, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, MARCH 25 -</field>
-	<field name = "BODY">A senior representative of the
+	<field name = "content">A senior representative of the
 financially-troubled U.S. farm credit system is expected for
 the first time tomorrow to ask Congress to provide assurances
 that stock held by system borrowers will be guaranteed.

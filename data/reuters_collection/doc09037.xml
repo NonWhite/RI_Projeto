@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 16:40:00.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2541reute
-r f BC-MONOLITHIC-MMIC>-TO   03-24 0096</field>
-	<field name = "TITLE">MONOLITHIC MMIC> TO DROP GATE ARRAY LINE</field>
+	<field name = "titulo">MONOLITHIC MMIC> TO DROP GATE ARRAY LINE</field>
 	<field name = "DATELINE">SANTA CLARA, Calif., March 24 -</field>
-	<field name = "BODY">Monolithic Memories Inc
+	<field name = "content">Monolithic Memories Inc
 said it plans to discontinue marketing its gate array
 integrated circuit product line and focus efforts on the market
 for field-programmable products.

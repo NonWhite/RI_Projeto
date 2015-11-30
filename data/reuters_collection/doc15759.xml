@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 13:07:59.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1829reute
-r f BC-FITCHBURG-GAS-FGE>-P   04-09 0108</field>
-	<field name = "TITLE">FITCHBURG GAS FGE> PLANS TO ISSUE NOTES</field>
+	<field name = "titulo">FITCHBURG GAS FGE> PLANS TO ISSUE NOTES</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Fitchburg Gas and Electric Light Co
+	<field name = "content">Fitchburg Gas and Electric Light Co
 said its Board of Directors authorized a filing with the
 Massachusetts Department of Public Utilities seeking authority
 to issue up to 27 mln dlrs of long-term notes.

@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">V 
-f2631reute
-b f BC-U.S.-SENATORS-PROPOSE   06-18 0105</field>
-	<field name = "TITLE">U.S. SENATORS PROPOSE BAN ON TOSHIBA IMPORTS</field>
+	<field name = "titulo">U.S. SENATORS PROPOSE BAN ON TOSHIBA IMPORTS</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">Three U.S. Senators said they will
+	<field name = "content">Three U.S. Senators said they will
 propose a temporary ban on imports of all Toshiba products due
 to the company's illegal sales of sensitive high-technology
 goods to the Soviet Union.

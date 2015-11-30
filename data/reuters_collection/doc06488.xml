@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 10:12:29.38</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f7984reute
-b f BC-CHRISTIANIA-BANK-ISSU   03-18 0101</field>
-	<field name = "TITLE">CHRISTIANIA BANK ISSUES EUROYEN BOND</field>
+	<field name = "titulo">CHRISTIANIA BANK ISSUES EUROYEN BOND</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">Christiania Bank og Kreditkasse is
+	<field name = "content">Christiania Bank og Kreditkasse is
 issuing a 15 billion yen eurobond due March 31, 1992 paying
 7-1/2 pct and priced at 101-3/4 pct, lead manager Yamaichi
 International (Europe) Ltd said.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:59:40.25</field>
-	<field name = "UNKNOWN">RM
-f1415reute
-u f BC-INTERNATIONAL-BOND-HI   04-07 0098</field>
-	<field name = "TITLE">INTERNATIONAL BOND HIGHLIGHTS - APRIL 7</field>
+	<field name = "titulo">INTERNATIONAL BOND HIGHLIGHTS - APRIL 7</field>
 	<field name = "DATELINE">LONDON -</field>
-	<field name = "BODY">Kansai Electric Power Co Inc is issuing a 60
+	<field name = "content">Kansai Electric Power Co Inc is issuing a 60
 billion yen eurobond due April 30, 1994 paying a 4-5/8 pct
 coupon and priced at 101 pct, lead manager Nomura International
 Ltd said.

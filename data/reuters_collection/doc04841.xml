@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 10:34:40.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0115reute
-u f BC-BENEFICIAL-BNL>-DOWN   03-13 0104</field>
-	<field name = "TITLE">BENEFICIAL BNL> DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">BENEFICIAL BNL> DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 downgraded 3.4 billion dlrs of debt of Beneficial Corp.
     Cut to Baa-2 from Baa-1 were the senior debt of the company
 and the guaranteed debt of its unit, Beneficial Overseas

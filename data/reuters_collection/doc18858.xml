@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 13:31:17.08</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4078reute
-h f BC-LEASEWAY-TRANSPORTATI   06-18 0064</field>
-	<field name = "TITLE">LEASEWAY TRANSPORTATION LTC>COMPLETES UNIT SALE</field>
+	<field name = "titulo">LEASEWAY TRANSPORTATION LTC>COMPLETES UNIT SALE</field>
 	<field name = "DATELINE">CLEVELAND, June 18 -</field>
-	<field name = "BODY">Leaseway Transportation Corp said it
+	<field name = "content">Leaseway Transportation Corp said it
 has completed the previously-announced sale of its Leaseway of
 Puerto Rico Inc subsidiary to Caguas Central Federal Savings
 Bank for undisclosed terms.

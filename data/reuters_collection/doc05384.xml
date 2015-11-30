@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 10:44:21.36</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2284reute
-r f BC-LOWRANCE-ELECTRONICS   03-16 0102</field>
-	<field name = "TITLE">LOWRANCE ELECTRONICS LEIX> SEES ORDERS OFF</field>
+	<field name = "titulo">LOWRANCE ELECTRONICS LEIX> SEES ORDERS OFF</field>
 	<field name = "DATELINE">TULSA, Okla., March 16 -</field>
-	<field name = "BODY">Lowrance Electronics Inc said
+	<field name = "content">Lowrance Electronics Inc said
 results from operations in the third and fourth quarter may not
 be comparable to the first and second quarters, which were
 strong because of orders for new sonar equipment.

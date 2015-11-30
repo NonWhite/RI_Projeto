@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 16:22:41.62</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2529reute
-r f BC-OHIO-MATTRESS-OMT>-B   04-09 0069</field>
-	<field name = "TITLE">OHIO MATTRESS OMT> BUYS SEALY OF MICHIGAN</field>
+	<field name = "titulo">OHIO MATTRESS OMT> BUYS SEALY OF MICHIGAN</field>
 	<field name = "DATELINE">CLEVELAND, April 9 -</field>
-	<field name = "BODY">Ohio Mattress Co said that its
+	<field name = "content">Ohio Mattress Co said that its
 Ohio-Sealy Mattress Manufacturing Co unit completed its
 previously announced acquisition of Sealy Mattress Co of
 Michigan Inc.

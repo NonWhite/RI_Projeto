@@ -6,12 +6,9 @@
 	<field name = "PLACES">qatar</field>
 	<field name = "PEOPLE">subroto</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0257reute
-b f BC-OPEC-STICKING-FIRM-ON   03-05 0114</field>
-	<field name = "TITLE">OPEC STICKING FIRM ON OFFICIAL PRICES - SUBROTO</field>
+	<field name = "titulo">OPEC STICKING FIRM ON OFFICIAL PRICES - SUBROTO</field>
 	<field name = "DATELINE">TOKYO, March 5 -</field>
-	<field name = "BODY">OPEC countries are all sticking firmly to
+	<field name = "content">OPEC countries are all sticking firmly to
 official crude oil prices but the volatility of spot prices is
 likely to continue into the third quarter, Indonesian Minister
 of Mines and Energy Subroto told Reuters.

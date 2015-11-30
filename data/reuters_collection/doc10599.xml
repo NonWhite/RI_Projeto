@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:59:59.61F</field>
-	<field name = "UNKNOWN">f1945reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">h f BC-DENNING-MOBILE-ROBOTI   03-27 0074</field>
-	<field name = "TITLE">DENNING MOBILE ROBOTICS INC GARD> 4TH QTR LOSS</field>
+	<field name = "titulo">DENNING MOBILE ROBOTICS INC GARD> 4TH QTR LOSS</field>
 	<field name = "DATELINE">WOBURN, Mass., March 27 -</field>
-	<field name = "BODY">Shr loss nine cts loss 12 cts
+	<field name = "content">Shr loss nine cts loss 12 cts
     Net loss 585,866 vs loss 455,866
     Avg shrs 6,841,638 vs 3,651,505
     Year

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 12:21:45.90</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1622reute
-r f BC-FOOTHILL-FGI>,-SIERR   04-09 0115</field>
-	<field name = "TITLE">FOOTHILL FGI>, SIERRITA IN STANDSTILL ACCORD</field>
+	<field name = "titulo">FOOTHILL FGI>, SIERRITA IN STANDSTILL ACCORD</field>
 	<field name = "DATELINE">LOS ANGELES, April 9 -</field>
-	<field name = "BODY">Foothill Group Inc said it reached a
+	<field name = "content">Foothill Group Inc said it reached a
 standstill agreement with Santa Cruz Resources Inc and its
 parent, Sierrita Resources Inc, that bars the companies from
 acquiring more than a 30 pct interest in Foothill, except

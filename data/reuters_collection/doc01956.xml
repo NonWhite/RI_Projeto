@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 06:13:54.00</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">RM
-f0602reute
-u f BC-JAPAN-RULING-PARTY-FI   03-05 0111</field>
-	<field name = "TITLE">JAPAN RULING PARTY FIXES DATE OF BUDGET HEARING</field>
+	<field name = "titulo">JAPAN RULING PARTY FIXES DATE OF BUDGET HEARING</field>
 	<field name = "DATELINE">TOKYO, March 5 -</field>
-	<field name = "BODY">Japan's ruling Liberal Democratic Party
+	<field name = "content">Japan's ruling Liberal Democratic Party
 started moves to push through the delayed draft budget for
 1987/88 through Parliament, deepening a clash with the
 opposition which called the move rash and unforgivable.

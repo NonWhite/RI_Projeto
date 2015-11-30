@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 18:02:40.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9709reute
-u f BC-******HOME-SHOPPING-S   03-18 0101</field>
-	<field name = "TITLE">HOME SHOPPING SAYS IT NOT INVESTIGATION TARGET</field>
+	<field name = "titulo">HOME SHOPPING SAYS IT NOT INVESTIGATION TARGET</field>
 	<field name = "DATELINE">CLEARWATER, Fla., March 18 -</field>
-	<field name = "BODY">Home Shopping Network Inc
+	<field name = "content">Home Shopping Network Inc
 HSN> said, in response to published reports, that it is not
 the target of a formal Securities and Exchange commission
 investigation.

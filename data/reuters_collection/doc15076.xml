@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 11:30:59.80</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1442reute
-s f BC-DIEBOLD-INC-DBD>-DEC   04-08 0022</field>
-	<field name = "TITLE">DIEBOLD INC DBD> DECLARES DIVIDEND</field>
+	<field name = "titulo">DIEBOLD INC DBD> DECLARES DIVIDEND</field>
 	<field name = "DATELINE">CANTON, Ohio, April  8 -</field>
-	<field name = "BODY">Qtly div 30 cts vs 30 cts prior
+	<field name = "content">Qtly div 30 cts vs 30 cts prior
     Pay June 8
     Record May 18
  Reuter</field>

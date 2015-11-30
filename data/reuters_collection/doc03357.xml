@@ -5,12 +5,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0749reute
-r f BC-ASCS-BUYS-PROCESSED-P   03-09 0092</field>
-	<field name = "TITLE">ASCS BUYS PROCESSED PRODUCTS FOR DOMESTIC USE</field>
+	<field name = "titulo">ASCS BUYS PROCESSED PRODUCTS FOR DOMESTIC USE</field>
 	<field name = "DATELINE">KANSAS CITY, March 9 -</field>
-	<field name = "BODY">The Agricultural Stabilization and
+	<field name = "content">The Agricultural Stabilization and
 Conservation Service (ASCS) bought 25.7 mln pounds of wheat
 flour at a cost of 2.8 mln dlrs for domestic shipment April
 1-15 and April 16-30, an ASCS spokesman said.

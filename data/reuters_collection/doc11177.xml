@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 02:24:52.49</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0087reute
-u f BC-CHINA-RURAL-INDUSTRY   03-31 0109</field>
-	<field name = "TITLE">CHINA RURAL INDUSTRY FACES PROBLEMS IN ADVANCING</field>
+	<field name = "titulo">CHINA RURAL INDUSTRY FACES PROBLEMS IN ADVANCING</field>
 	<field name = "AUTHOR">By Mark O'Neill, Reuters</field>
 	<field name = "DATELINE">HONGSHAN, China, March 31 -</field>
-	<field name = "BODY">Workers in China's rural
+	<field name = "content">Workers in China's rural
 factories are struggling against a variety of problems to
 maintain the momentum of progress since industrialisation of
 the countryside began in the 1970s.

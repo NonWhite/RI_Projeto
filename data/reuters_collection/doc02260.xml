@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 12:46:59.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0040reute
-u f BC-FIRST-INTERSTAE   03-05 0119</field>
-	<field name = "TITLE">FIRST INTERSTATE I> FILES FOR PREFERRED OFFER</field>
+	<field name = "titulo">FIRST INTERSTATE I> FILES FOR PREFERRED OFFER</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">First Interstate Bancorp, which last
+	<field name = "content">First Interstate Bancorp, which last
 month withdrew its takeover proposal for BankAmerica Corp
 BAC>, filed with the Securities and Exchange Commission for an
 offering of 1,500 shares of auction preferred stock.

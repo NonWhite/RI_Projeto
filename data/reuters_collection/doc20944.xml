@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 16:30:50.67</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3074reute
-u f BC-CALNY   10-19 0082</field>
-	<field name = "TITLE">PEPSICO UNIT PEP> LIFTS CALNY.O> STAKE</field>
+	<field name = "titulo">PEPSICO UNIT PEP> LIFTS CALNY.O> STAKE</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">Taco Bell Corp, a unit of Pepsico Inc,
+	<field name = "content">Taco Bell Corp, a unit of Pepsico Inc,
 said it increased its stake in Calny Inc common stock to
 1,349,884 shares, or 27.9 pct of the total outstanding, from a
 previous figure of approximately 1,230,107 shares, or 25.4 pct.

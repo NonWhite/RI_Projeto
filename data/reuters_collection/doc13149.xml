@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 16:29:05.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2311reute
-u f BC-ADMINISTRATION-SUPPOR   04-03 0096</field>
-	<field name = "TITLE">ADMINISTRATION SUPPORTS RESEARCH TAX CREDIT IDEA</field>
+	<field name = "titulo">ADMINISTRATION SUPPORTS RESEARCH TAX CREDIT IDEA</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">Assistant Treasury Secretary Roger
+	<field name = "content">Assistant Treasury Secretary Roger
 Mentz said the administration supported continuing a tax credit
 for business research expenses after the current 20 pct credit
 expires at the end of next year.

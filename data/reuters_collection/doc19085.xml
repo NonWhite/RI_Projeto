@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 07:18:11.44</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM 
-f0466reute
-u f BC-NEWS-CORP-UNIT-LOAN-T   06-19 0101</field>
-	<field name = "TITLE">NEWS CORP UNIT LOAN TO RISE TO 888 MLN H.K. DLRS</field>
+	<field name = "titulo">NEWS CORP UNIT LOAN TO RISE TO 888 MLN H.K. DLRS</field>
 	<field name = "DATELINE">HONG KONG, June 19 -</field>
-	<field name = "BODY">The proposed 500 mln Hong Kong dlr
+	<field name = "content">The proposed 500 mln Hong Kong dlr
 transferable loan facility for South China Morning Post Co
 Ltd>, a unit of News Corp Ltd NCPA.S>, will be raised to 888
 mln dlrs, lead manager Manufacturers Hanover Asia Ltd said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 11:28:51.76</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F
-f1540reute
-r f BC-UNLEADED-GASOLINE-   03-31 0111</field>
-	<field name = "TITLE">NEW GASOLINE GRADE TO RAISE U.S. REFINING COSTS</field>
+	<field name = "titulo">NEW GASOLINE GRADE TO RAISE U.S. REFINING COSTS</field>
 	<field name = "DATELINE">SAN ANTONIO, March 31 -</field>
-	<field name = "BODY">A new grade of unleaded gasoline
+	<field name = "content">A new grade of unleaded gasoline
 now being test marketed will increase refining costs when
 refiners can least afford it, according to officials attending
 the National Petroleum Refiners Association conference here.

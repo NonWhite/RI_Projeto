@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 08:48:15.78</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">C G T M
-f0837reute
-u f PM-YUGOSLAVIA-STRIKE   04-02 0139</field>
-	<field name = "TITLE">THOUSANDS STAGE STRIKES IN EASTERN YUGOSLAVIA</field>
+	<field name = "titulo">THOUSANDS STAGE STRIKES IN EASTERN YUGOSLAVIA</field>
 	<field name = "DATELINE">BELGRADE, April 2 -</field>
-	<field name = "BODY">About 10,000 workers have gone on
+	<field name = "content">About 10,000 workers have gone on
 strike in eastern Yugoslavia during the past few days demanding
 higher wages, the official Tanjug news agency said.
     It said about 20 strikes broke out in the Yugoslav republic

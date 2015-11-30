@@ -6,13 +6,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">RM C
-f0743reute
-u f BC-fin-futures-outlook   03-11 0103</field>
-	<field name = "TITLE">POUND AND CANADIAN DOLLAR CAPTURING ATTENTION</field>
+	<field name = "titulo">POUND AND CANADIAN DOLLAR CAPTURING ATTENTION</field>
 	<field name = "AUTHOR">By Andrew Stern, Reuters</field>
 	<field name = "DATELINE">CHICAGO, March 11 -</field>
-	<field name = "BODY">Interest in the currency futures market
+	<field name = "content">Interest in the currency futures market
 has shifted to the soaring British pound and the potentially
 explosive Canadian dollar, and away from the dull Continental
 and Japanese currencies, analysts said.

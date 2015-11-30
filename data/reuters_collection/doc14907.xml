@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 07:10:59.51</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">A
-f0525reute
-r f BC-SOUTH-AFRICA-MINES-BO   04-08 0102</field>
-	<field name = "TITLE">S. AFRICA MINES BODY SEES MAY DAY WORK STOPPAGE</field>
+	<field name = "titulo">S. AFRICA MINES BODY SEES MAY DAY WORK STOPPAGE</field>
 	<field name = "DATELINE">JOHANNESBURG, April 8 -</field>
-	<field name = "BODY">Negotiations between mining
+	<field name = "content">Negotiations between mining
 companies and the National Union of Mineworkers are foundering
 and mines could face a May Day work stoppage, the Chamber of
 Mines said.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:54:08.85</field>
-	<field name = "UNKNOWN">C M
-f1110reute
-b f BC-LME-METAL-PM-1ST-RING   04-07 0077</field>
-	<field name = "TITLE">LME METAL PM 1ST RING VOLUMES/PAIDS - APR 7</field>
+	<field name = "titulo">LME METAL PM 1ST RING VOLUMES/PAIDS - APR 7</field>
 	<field name = "DATELINE">COPPER GRADE A -</field>
-	<field name = "BODY">3250 tonnes mainly carries cash nil
+	<field name = "content">3250 tonnes mainly carries cash nil
 3months 880.00 79.00  STANDARD - Nil
     LEAD - 350 tonnes mainly carries cash nil 3months 302.00
     ZINC HIGH GRADE - 1750 tonnes mainly carries cash nil

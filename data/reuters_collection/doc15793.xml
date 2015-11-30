@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 13:53:30.01</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1979reute
-u f BC-WARD-CRITICISES-GUINN   04-09 0107</field>
-	<field name = "TITLE">WARD CRITICISES GUINNESS'S FEE COMPLAINT</field>
+	<field name = "titulo">WARD CRITICISES GUINNESS'S FEE COMPLAINT</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Guinness Plc GUIN.L> director Thomas
+	<field name = "content">Guinness Plc GUIN.L> director Thomas
 Ward told a High Court hearing that the company's action
 against him and ex-chairman Ernest Saunders sought to give the
 impression of an international hunt for Ward's 5.2 mln stg fee

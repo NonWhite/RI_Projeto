@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 12:06:47.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0712reute
-r f BC-REUTERS-RTRSY>-IN-PR   03-06 0107</field>
-	<field name = "TITLE">REUTERS RTRSY> IN PROPERTY FINANCE SYSTEM</field>
+	<field name = "titulo">REUTERS RTRSY> IN PROPERTY FINANCE SYSTEM</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Reuters Holdings PLC's Reuters
+	<field name = "content">Reuters Holdings PLC's Reuters
 Information Services Inc subsidiary and Real Estate Financing
 Partnership of Philadelphia said they have developed RSVP, an
 electronic market access system for commercial property

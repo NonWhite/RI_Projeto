@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 03:46:16.80</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">RM 
-f2232reute
-u f BC-NEW-BANGLADESH-LAW-AL   06-18 0104</field>
-	<field name = "TITLE">NEW BANGLADESH LAW ALLOWS STATE FIRM SHARE SALES</field>
+	<field name = "titulo">NEW BANGLADESH LAW ALLOWS STATE FIRM SHARE SALES</field>
 	<field name = "DATELINE">DHAKA, June 18 -</field>
-	<field name = "BODY">Parliament passed a law allowing
+	<field name = "content">Parliament passed a law allowing
 state-owned industrial companies to sell 49 pct of their shares
 to staff and private investors, the official BSS news agency
 said.

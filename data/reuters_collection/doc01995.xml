@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">icahn</field>
-	<field name = "UNKNOWN">F
-f0963reute
-b f BC-/USAIR-U>-REJECTS-TW   03-05 0064</field>
-	<field name = "TITLE">USAIR U> REJECTS TWA TWA> TAKEOVER BID</field>
+	<field name = "titulo">USAIR U> REJECTS TWA TWA> TAKEOVER BID</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">USAir Group Inc said its board has
+	<field name = "content">USAir Group Inc said its board has
 rejected Trans World Airlines Inc's offer to acquire USAir for
 52 dlrs per share in cash as grossly in adequate and not in the
 best interests of USAir shareholders, employees or passengers.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:12:46.53</field>
-	<field name = "UNKNOWN">C G
-f0935reute
-u f BC-cbt-s'beans-pre-opg   04-07 0135</field>
-	<field name = "TITLE">CBT SOYBEAN FUTURES EXPECTED STEADY TO EASIER</field>
+	<field name = "titulo">CBT SOYBEAN FUTURES EXPECTED STEADY TO EASIER</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">CBT soybean futures were expected to
+	<field name = "content">CBT soybean futures were expected to
 open steady, possibly easier on a disappointing weekly soybean
 export figure below the previous week and year ago levels and
 moderate country movement overnight, traders said.

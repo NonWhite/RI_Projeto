@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:35:33.79F</field>
-	<field name = "UNKNOWN">f1648reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-HONEYWELL-BULL-SEES-R   03-27 0107</field>
-	<field name = "TITLE">HONEYWELL BULL SEES REVENUE GROWTH</field>
+	<field name = "titulo">HONEYWELL BULL SEES REVENUE GROWTH</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">Honeywell Bull Inc, owned by Honeywell
+	<field name = "content">Honeywell Bull Inc, owned by Honeywell
 Inc HON>, Cie des Machines Bull> and NEC Corp>, said it
 expects its 1987 revenues to increase 15 to 20 pct over its
 current level of about 1.9 billion dlrs.

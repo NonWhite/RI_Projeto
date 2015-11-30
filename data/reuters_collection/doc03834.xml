@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 13:33:28.56</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">F A RM
-f0134reute
-r f BC-BANK-OF-CHINA>-TO-JO   03-11 0090</field>
-	<field name = "TITLE">BANK OF CHINA> TO JOIN VISA NETWORK</field>
+	<field name = "titulo">BANK OF CHINA> TO JOIN VISA NETWORK</field>
 	<field name = "DATELINE">SAN MATEO, Calif., March 11 -</field>
-	<field name = "BODY">Visa International>, owned
+	<field name = "content">Visa International>, owned
 by a consortium of banks, said Bank of China has agreed to
 become a Visa member in May, and a Visa card will be issued for
 use in China and around the world.

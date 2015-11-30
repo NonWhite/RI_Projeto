@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 15:05:39.26</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">C
-f2157reute
-r f BC-TREASURY'S-BAKER-SAYS   03-25 0145</field>
-	<field name = "TITLE">TREASURY'S BAKER SAYS NEW MONEY NOT DEBT PANACEA</field>
+	<field name = "titulo">TREASURY'S BAKER SAYS NEW MONEY NOT DEBT PANACEA</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 massive new lending to debtor nations could actually increase
 their difficulties in the period ahead without protections.
     In testimony before the Senate Committee on Governmental

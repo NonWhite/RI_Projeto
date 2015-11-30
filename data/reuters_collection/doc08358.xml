@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1501reute
-u f BC-KLM-SAYS-IT-IS-NOT-SE   03-23 0110</field>
-	<field name = "TITLE">KLM SAYS IT IS NOT SEEKING AIR ATLANTA STAKE</field>
+	<field name = "titulo">KLM SAYS IT IS NOT SEEKING AIR ATLANTA STAKE</field>
 	<field name = "DATELINE">AMSTERDAM, March 23 -</field>
-	<field name = "BODY">KLM Royal Dutch Airlines KLM.AS> is
+	<field name = "content">KLM Royal Dutch Airlines KLM.AS> is
 discussing marketing cooperation with U.S. regional carrier Air
 Atlanta Inc but it is not seeking to take a stake in the
 airline, a KLM spokesman said.

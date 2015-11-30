@@ -9,12 +9,9 @@
 	<field name = "PLACES">kuwait</field>
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM V 
-f0158reute
-u f BC-FAR-EAST-TRADERS-EXPE   06-29 0108</field>
-	<field name = "TITLE">FAR EAST TRADERS EXPECT 20 DLR OIL IN JANUARY</field>
+	<field name = "titulo">FAR EAST TRADERS EXPECT 20 DLR OIL IN JANUARY</field>
 	<field name = "DATELINE">TOKYO, June 29 -</field>
-	<field name = "BODY">OPEC's agreement to limit output to 16.6
+	<field name = "content">OPEC's agreement to limit output to 16.6
 mln barrels per day (bpd) for the rest of the year should boost
 spot prices and enable the group to raise its official
 reference price to 20 dlrs a barrel in January from the current

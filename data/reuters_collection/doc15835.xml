@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">egypt</field>
-	<field name = "UNKNOWN">C G
-f2135reute
-b f BC-EGYPT-CANCELS-WHEAT-T   04-09 0118</field>
-	<field name = "TITLE">EGYPT CANCELS WHEAT TENDER</field>
+	<field name = "titulo">EGYPT CANCELS WHEAT TENDER</field>
 	<field name = "DATELINE">PARIS, April 9 -</field>
-	<field name = "BODY">Egypt has cancelled its April 2 tender for
+	<field name = "content">Egypt has cancelled its April 2 tender for
 200,000 tonnes of any origin wheat for April 15-30 shipment,
 trade and Egyptian official sources said.
     Trade sources said the cancellation followed an offer by an

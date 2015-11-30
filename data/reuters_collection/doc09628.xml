@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 17:25:22.05</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F A RM
-f2543reute
-b f BC-/U.S.-LEGISLATION-COU   03-25 0112</field>
-	<field name = "TITLE">U.S. LEGISLATION COULD BAR JAPANESE DEALERS</field>
+	<field name = "titulo">U.S. LEGISLATION COULD BAR JAPANESE DEALERS</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The House Banking Committee approved
+	<field name = "content">The House Banking Committee approved
 legislation to bar foreign securities firms from designation as
 primary dealers in U.S. government securities unless the
 relevant foreign government allows U.S. securities firms the

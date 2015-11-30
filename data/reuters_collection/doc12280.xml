@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F Y
-f2357reute
-u f BC-STANDARD-OIL-SRD>-CO   04-01 0109</field>
-	<field name = "TITLE">STANDARD OIL SRD> COMMITTEE TRIED TO DELAY BID</field>
+	<field name = "titulo">STANDARD OIL SRD> COMMITTEE TRIED TO DELAY BID</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">A committee of independent directors of
+	<field name = "content">A committee of independent directors of
 the Standard Oil Co unsuccessfully sought a delay in a tender
 offer for Standard shares by British Petroleum Co plc,
 according to offering documents.

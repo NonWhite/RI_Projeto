@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 06:43:26.99</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0430reute
-b f BC-SAAB-SCANIA-LAUNCHES   03-25 0083</field>
-	<field name = "TITLE">SAAB-SCANIA LAUNCHES 100 MLN DLR EURO-CP PROGRAM</field>
+	<field name = "titulo">SAAB-SCANIA LAUNCHES 100 MLN DLR EURO-CP PROGRAM</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">Saab-Scania AB is establishing a 100 mln
+	<field name = "content">Saab-Scania AB is establishing a 100 mln
 dlr euro-commercial paper issuance program, Enskilda Securities
 said as arranger.
     Dealers will be Enskilda and Bankers Trust International

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 15:21:47.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0265reute
-r f BC-COMMERCE-BANCORP-COB   03-13 0095</field>
-	<field name = "TITLE">COMMERCE BANCORP COBA> FILES FOR OFFERING</field>
+	<field name = "titulo">COMMERCE BANCORP COBA> FILES FOR OFFERING</field>
 	<field name = "DATELINE">CHERRY HILL, N.J., March 13 -</field>
-	<field name = "BODY">Commerce Bancorp Inc said it
+	<field name = "content">Commerce Bancorp Inc said it
 has filed a registration statement with the Securities and
 Exchange Commission for a 575,000 share Series B cumulative
 preferred stock offering, including 75,000 shares to cover

@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 15:39:08.96</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f2169reute
-d f BC-BIOASSAY-SYSTEMS>-ST   04-03 0086</field>
-	<field name = "TITLE">BIOASSAY SYSTEMS> STOCK DELETED FROM NASDAQ</field>
+	<field name = "titulo">BIOASSAY SYSTEMS> STOCK DELETED FROM NASDAQ</field>
 	<field name = "DATELINE">WOBURN, Mass., April 3 -</field>
-	<field name = "BODY">Bioassay Systems Corp said its
+	<field name = "content">Bioassay Systems Corp said its
 common stock was deleted from Nasdaq as of March 17 because two
 of the company's three market makers ceased trading in the
 stock.

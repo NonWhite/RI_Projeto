@@ -2,13 +2,10 @@
 	<field name = "DATE">2-JUN-1987 09:43:12.90</field>
 	<field name = "PLACES">ivory-coast</field>
 	<field name = "ORGS">adb-africa</field>
-	<field name = "UNKNOWN">RM
-f0955reute
-r f BC-AFRICAN-BANK-OFFICIAL   06-02 0100</field>
-	<field name = "TITLE">AFRICAN BANK OFFICIAL CONFIDENT ON LOAN REPAYMENTS</field>
+	<field name = "titulo">AFRICAN BANK OFFICIAL CONFIDENT ON LOAN REPAYMENTS</field>
 	<field name = "AUTHOR">By Brian Killen, Reuters</field>
 	<field name = "DATELINE">ABIDJAN, June 2 -</field>
-	<field name = "BODY">The Secretary-General of the African
+	<field name = "content">The Secretary-General of the African
 Development Bank expressed confidence in the institution's
 ability to handle potential problems with repayment of
 development financing loans.

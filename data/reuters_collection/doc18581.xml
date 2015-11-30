@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 08:20:18.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM E 
-f2790reute
-r f BC-FLETCHER-CHALLENGE-UN   06-18 0097</field>
-	<field name = "TITLE">FLETCHER CHALLENGE UNIT SELLS 10-YEAR NOTES</field>
+	<field name = "titulo">FLETCHER CHALLENGE UNIT SELLS 10-YEAR NOTES</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Fletcher Challenge Finance USA Inc, a
+	<field name = "content">Fletcher Challenge Finance USA Inc, a
 unit of Fletcher Challenge Ltd, is raising 190 mln dlrs via an
 offering of notes due 1997 yielding 9.28 pct, said sole manager
 First Boston Corp.

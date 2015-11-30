@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 14:58:32.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0345reute
-r f BC-WHITE-HOUSE-OPPOSES-S   03-11 0087</field>
-	<field name = "TITLE">WHITE HOUSE OPPOSES STOCK TRANSFER TAX</field>
+	<field name = "titulo">WHITE HOUSE OPPOSES STOCK TRANSFER TAX</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">The White House said that a proposal
+	<field name = "content">The White House said that a proposal
 by House Speaker Jim Wright for a tax on stock transfers "would
 clearly be a tax increase" and that President Reagan opposed it.
     Spokesman Marlin Fitzwater noted that some 47 mln Americans

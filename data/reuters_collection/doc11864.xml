@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 08:26:26.58</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0671reute
-u f PM-MARINES-(SCHEDULED)   04-01 0103</field>
-	<field name = "TITLE">THIRD MARINE ARRESTED; U.S. PRESSES SPY PROBE</field>
+	<field name = "titulo">THIRD MARINE ARRESTED; U.S. PRESSES SPY PROBE</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">A second U.S. Marine has been charged
+	<field name = "content">A second U.S. Marine has been charged
 with spying and a third arrested on suspicion of lying about
 contacts with Soviet women in a growing scandal involving the
 American Embassy in Moscow.

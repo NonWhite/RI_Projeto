@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">C G 
-f1218reute
-b f BC-TUNISIA-BUYS-150,000   06-19 0078</field>
-	<field name = "TITLE">TUNISIA BUYS 150,000 TONNES FRENCH WHEAT</field>
+	<field name = "titulo">TUNISIA BUYS 150,000 TONNES FRENCH WHEAT</field>
 	<field name = "DATELINE">****PARIS, June 19 -</field>
-	<field name = "BODY">Tunisia has bought 150,000 tonnes of
+	<field name = "content">Tunisia has bought 150,000 tonnes of
 French soft wheat for August to December shipment at 76.70 dlrs
 per tonne fob with COFACE export credit, trade sources said.
     This is the second French soft wheat export sale for the

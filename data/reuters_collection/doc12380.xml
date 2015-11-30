@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 18:23:41.45</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">C
-f2691reute
-r f BC-CME-POSTS-RECORD-TRAD   04-01 0103</field>
-	<field name = "TITLE">CME POSTS RECORD TRADING VOLUME IN FIRST QUARTER</field>
+	<field name = "titulo">CME POSTS RECORD TRADING VOLUME IN FIRST QUARTER</field>
 	<field name = "DATELINE">CHICAGO, April 1 -</field>
-	<field name = "BODY">The Chicago Mercantile Exchange (CME)
+	<field name = "content">The Chicago Mercantile Exchange (CME)
 traded a record 19,656,498 contracts in the first quarter of
 1987, up 17 pct from 16,768,145 in the same quarter last year.
     The previous record for quarterly volume total was

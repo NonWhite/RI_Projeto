@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 23:18:57.78</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">T C
-f0870reute
-u f BC-COLOMBIA-DENIES-SELLI   03-06 0057</field>
-	<field name = "TITLE">COLOMBIA DENIES SELLING COFFEE BELOW MARKET</field>
+	<field name = "titulo">COLOMBIA DENIES SELLING COFFEE BELOW MARKET</field>
 	<field name = "DATELINE">BOGOTA, March 7 -</field>
-	<field name = "BODY">Colombia denied having sold 440,000 60-kg
+	<field name = "content">Colombia denied having sold 440,000 60-kg
 bags of old crop coffee below current market prices to clients
 in Europe and Asia.
     A spokesman for the National Coffee Growers Federation,

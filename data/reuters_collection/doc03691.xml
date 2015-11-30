@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 11:08:51.09</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">pakistan</field>
-	<field name = "UNKNOWN">F
-f0479reute
-r f BC-LTV-LTV>-WINS-18.5-M   03-11 0064</field>
-	<field name = "TITLE">LTV LTV> WINS 18.5 MLN DLR PAKISTAN ORDER</field>
+	<field name = "titulo">LTV LTV> WINS 18.5 MLN DLR PAKISTAN ORDER</field>
 	<field name = "DATELINE">SOUTH BEND, Ind., March 11 -</field>
-	<field name = "BODY">LTV Corp said Pakistan ordered
+	<field name = "content">LTV Corp said Pakistan ordered
 180 military trucks and spare parts worth 18.5 mln dlrs from AM
 General, a unit of LTV's Missles and Electronics Group.
     The company said the order includes 140 M809 Series

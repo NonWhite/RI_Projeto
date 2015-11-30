@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:59:10.88F</field>
-	<field name = "UNKNOWN">f1742reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">france</field>
 	<field name = "PEOPLE">balladur</field>
-	<field name = "UNKNOWN">d f BC-FRENCH-MINISTERIAL-ME   03-27 0087</field>
-	<field name = "TITLE">FRENCH MINISTERIAL MEETING HELD ON CGCT SALE</field>
+	<field name = "titulo">FRENCH MINISTERIAL MEETING HELD ON CGCT SALE</field>
 	<field name = "DATELINE">PARIS, March 27 -</field>
-	<field name = "BODY">Finance Minister Edouard Balladur,
+	<field name = "content">Finance Minister Edouard Balladur,
 Industry Minister Alain Madelin and Telecommunications Minister
 Gerard Longuet met for more than an hour today to discuss the
 imminent sale of the French telephone switching group Cie

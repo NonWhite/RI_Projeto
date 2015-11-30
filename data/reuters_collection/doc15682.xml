@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:55:29.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F
-f1474reute
-r f BC-FIRST-INTERSTATE-I>   04-09 0101</field>
-	<field name = "TITLE">FIRST INTERSTATE I> SETS TWO FRANCHISE PACTS</field>
+	<field name = "titulo">FIRST INTERSTATE I> SETS TWO FRANCHISE PACTS</field>
 	<field name = "DATELINE">LOS ANGELES, April 9 -</field>
-	<field name = "BODY">First Interstate Bancorp said it
+	<field name = "content">First Interstate Bancorp said it
 signed franchise agreements with banks in Louisiana and
 Washington D.C.
     The banks, Citizens Bank and Trust Co of Thibodaux,

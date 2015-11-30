@@ -2,13 +2,10 @@
 	<field name = "DATE">16-JUN-1987 00:38:08.02</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM AI
-f0033reute
-u f BC-SUMMIT-DEEPENS-IMF-CO   06-16 0090</field>
-	<field name = "TITLE">SUMMIT DEEPENS IMF COORDINATION ROLE,OFFICIAL SAYS</field>
+	<field name = "titulo">SUMMIT DEEPENS IMF COORDINATION ROLE,OFFICIAL SAYS</field>
 	<field name = "AUTHOR">By Alver Carlson, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, June 15 -</field>
-	<field name = "BODY">The Venice summit accord gives the
+	<field name = "content">The Venice summit accord gives the
 International Monetary Fund (IMF) increased responsibility in
 smoothing vital economic cooperation between industrial
 countries, a senior IMF official said.

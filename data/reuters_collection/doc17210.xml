@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">RM
-f0164reute
-b f BC-MIYAZAWA-SAYS-POLICY   04-26 0107</field>
-	<field name = "TITLE">MIYAZAWA SAYS POLICY COORDINATION KEY TO CURRENCY</field>
+	<field name = "titulo">MIYAZAWA SAYS POLICY COORDINATION KEY TO CURRENCY</field>
 	<field name = "DATELINE">OSAKA, April 27 -</field>
-	<field name = "BODY">Japanese Finance Minister Kiichi Miyazawa
+	<field name = "content">Japanese Finance Minister Kiichi Miyazawa
 told a press conference the basic solution to currency
 instability among major nations is economic policy
 coordination.

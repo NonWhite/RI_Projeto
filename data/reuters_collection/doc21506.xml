@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 07:30:11.26</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0595reute
-d f BC-TOYOTA,-VW-CONSIDER-U   10-19 0106</field>
-	<field name = "TITLE">TOYOTA, VW CONSIDER UPPING JOINT PROCUREMENT RATE</field>
+	<field name = "titulo">TOYOTA, VW CONSIDER UPPING JOINT PROCUREMENT RATE</field>
 	<field name = "DATELINE">TOKYO, Oct 19 -</field>
-	<field name = "BODY">Toyota Motor Corp TOYO.T> and Volkswagen
+	<field name = "content">Toyota Motor Corp TOYO.T> and Volkswagen
 AG VOWG.F> are considering raising the local procurement rate
 at their West German joint venture to at least 60 pct from an
 earlier planned 50 pct after one year's output, a Toyota

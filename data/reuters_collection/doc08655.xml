@@ -4,12 +4,9 @@
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">portugal</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0470reute
-r f BC-PORTUGUESE-GRAIN-AGEN   03-24 0087</field>
-	<field name = "TITLE">PORTUGUESE GRAIN AGENCY BAN TO REMAIN - EC SOURCES</field>
+	<field name = "titulo">PORTUGUESE GRAIN AGENCY BAN TO REMAIN - EC SOURCES</field>
 	<field name = "DATELINE">BRUSSELS, March 24 -</field>
-	<field name = "BODY">A ban by a Portuguese court on the
+	<field name = "content">A ban by a Portuguese court on the
 state buying agency EPAC taking part in cereals import tenders
 open to private traders will remain unless it is reversed in
 Portugal or challenged in the European Court of Justice,

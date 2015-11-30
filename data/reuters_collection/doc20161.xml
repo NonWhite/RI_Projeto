@@ -1,8 +1,5 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 09:21:59.97</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">V 
-f0962reute
-b f BC-CBT-MAJOR-MARKE   10-20 0014</field>
-	<field name = "TITLE">CBT MAJOR MARKET INDEX (MMI) STOCK INDEX FUTURES OPEN 35.00 TO 43.50 POINTS HIGHER</field>
+	<field name = "titulo">CBT MAJOR MARKET INDEX (MMI) STOCK INDEX FUTURES OPEN 35.00 TO 43.50 POINTS HIGHER</field>
 </doc></add>

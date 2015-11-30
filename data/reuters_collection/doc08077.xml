@@ -2,12 +2,9 @@
 	<field name = "DATE">22-MAR-1987 00:53:12.64</field>
 	<field name = "PLACES">cuba</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0022reute
-u f BC-SPAIN-GIVES-CUBA-25-M   03-22 0078</field>
-	<field name = "TITLE">SPAIN GIVES CUBA 25 MLN DLR CREDIT LINE</field>
+	<field name = "titulo">SPAIN GIVES CUBA 25 MLN DLR CREDIT LINE</field>
 	<field name = "DATELINE">HAVANA, March 22 -</field>
-	<field name = "BODY">Spain has granted Cuba a 25 mln dlr
+	<field name = "content">Spain has granted Cuba a 25 mln dlr
 credit line for the purchase of Spanish goods and services in
 the iron and steel industry, the repair of fishing boats and
 development of industrial projects, Prensa Latina said.

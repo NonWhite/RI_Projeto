@@ -3,13 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">greece</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">Y
-f0260
-reute
-r f AM-GREECE-AEGEAN   03-02 0113</field>
-	<field name = "TITLE">GREECE SAYS IT HAS RIGHT ON AEGEAN OIL DRILLING</field>
+	<field name = "titulo">GREECE SAYS IT HAS RIGHT ON AEGEAN OIL DRILLING</field>
 	<field name = "DATELINE">ATHENS, March 2 -</field>
-	<field name = "BODY">Greece, responding to a warning by Turkey
+	<field name = "content">Greece, responding to a warning by Turkey
 against conducting oil activities in the Aegean Sea, said today
 it had the right to decide where and how to do research or
 drilling work in the area.

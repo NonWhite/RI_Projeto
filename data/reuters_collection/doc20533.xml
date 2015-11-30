@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:17:53.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2659reute
-s f BC-INTERPUBLIC-GROUP-OF   10-20 0037</field>
-	<field name = "TITLE">INTERPUBLIC GROUP OF COS IPG> SETS DIVIDEND</field>
+	<field name = "titulo">INTERPUBLIC GROUP OF COS IPG> SETS DIVIDEND</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Interpublic Group of Companies said it
+	<field name = "content">Interpublic Group of Companies said it
 declared a regular quarterly dividend of 17 cts a share payable
 December 15 to shareholdres or record November 27.
  Reuter</field>

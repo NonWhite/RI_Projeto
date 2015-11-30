@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:41:21.34</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f1344reute
-b f BC-GOTTHARD-BANK-SELLS-W   04-07 0072</field>
-	<field name = "TITLE">GOTTHARD BANK SELLS WARRANTS INTO DAINIPPON INK</field>
+	<field name = "titulo">GOTTHARD BANK SELLS WARRANTS INTO DAINIPPON INK</field>
 	<field name = "DATELINE">LUGANO, Switzerland, April 7 -</field>
-	<field name = "BODY">Gotthard Bank said it is
+	<field name = "content">Gotthard Bank said it is
 selling 65,000 covered warrants at 255 Swiss francs each
 exercisable into shares of Dainippon Ink and Chemicals Inc.
      Each warrant entitles the holder to buy 100 shares in the

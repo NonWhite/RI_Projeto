@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 09:50:11.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1044reute
-u f BC-TWIN-CITY-BARGE>-PRO   03-31 0049</field>
-	<field name = "TITLE">TWIN CITY BARGE> PROPOSES REORGANIZATION</field>
+	<field name = "titulo">TWIN CITY BARGE> PROPOSES REORGANIZATION</field>
 	<field name = "DATELINE">SOUTH ST. PAUL, MINN., March 31 -</field>
-	<field name = "BODY">Twin City Barge Inc said
+	<field name = "content">Twin City Barge Inc said
 it proposed a plan of reorganization to several of its largest
 creditors.
     The company also said it expects to file a Chapter 11

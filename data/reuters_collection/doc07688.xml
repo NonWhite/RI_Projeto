@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 10:20:33.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1012reute
-u f BC-CHICAGO-PACIFIC-CPAC   03-20 0111</field>
-	<field name = "TITLE">CHICAGO PACIFIC CPAC> SETTLES HOOVER OVERFUNDING</field>
+	<field name = "titulo">CHICAGO PACIFIC CPAC> SETTLES HOOVER OVERFUNDING</field>
 	<field name = "DATELINE">CHICAGO, March 20 -</field>
-	<field name = "BODY">Chicago Pacific Corp said it received
+	<field name = "content">Chicago Pacific Corp said it received
 about 40 mln dlrs in cash from a surplus in the pension fund of
 Hoover Plc, its U.K. subsidiary.
     As part of an agreement to refund the amount to the

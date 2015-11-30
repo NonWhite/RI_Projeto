@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0310reute
-u f BC-CABLE-SHARES-FIRM-ON   03-31 0108</field>
-	<field name = "TITLE">CABLE SHARES FIRM ON JAPAN SPECULATION</field>
+	<field name = "titulo">CABLE SHARES FIRM ON JAPAN SPECULATION</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">Shares in Cable and Wireless Plc
+	<field name = "content">Shares in Cable and Wireless Plc
 CAWL.L> firmed in morning trading on market speculation that
 its participation in a joint telecommunications venture in
 Japan would not be curtailed, dealers said.

@@ -1,15 +1,13 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:53:00.39C M</field>
-	<field name = "UNKNOWN">f1927reute</field>
 	<field name = "TOPICS">alum</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">singapore</field>
 	<field name = "EXCHANGES">lme</field>
-	<field name = "UNKNOWN">d f BC-NEW-LME-ALUMINIUM-CON   03-27 0112</field>
-	<field name = "TITLE">NEW LME ALUMINIUM CONTRACT WELCOMED BY TRADE</field>
+	<field name = "titulo">NEW LME ALUMINIUM CONTRACT WELCOMED BY TRADE</field>
 	<field name = "AUTHOR">By Martin Hayes, Reuters</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">The London Metal Exchange's, LME,
+	<field name = "content">The London Metal Exchange's, LME,
 decision to introduce a dollar-denominated aluminium contract,
 with the Port of Singapore listed as a delivery point, is a
 positive move, physical traders and LME dealers said.

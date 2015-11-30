@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 21:34:46.15</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">RM
-f0932reute
-u f BC-U.S.-JUDGE-DISMISSES   03-12 0110</field>
-	<field name = "TITLE">U.S. JUDGE DISMISSES SUIT CHALLENGING IRAN PROBE</field>
+	<field name = "titulo">U.S. JUDGE DISMISSES SUIT CHALLENGING IRAN PROBE</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">A U.S. Judge dismissed a lawsuit by
+	<field name = "content">A U.S. Judge dismissed a lawsuit by
 fired White House aide Oliver North seeking to halt a special
 prosecutor's investigation into the Iran arms scandal.
     In a 21-page ruling, Judge Barrington Parker threw out

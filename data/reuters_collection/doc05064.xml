@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 16:28:15.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0441reute
-r f BC-GENERAL-HOST-GH>-TO   03-13 0094</field>
-	<field name = "TITLE">GENERAL HOST GH> TO APPEAL COURT RULING</field>
+	<field name = "titulo">GENERAL HOST GH> TO APPEAL COURT RULING</field>
 	<field name = "DATELINE">STAMFORD, Conn., March 13 -</field>
-	<field name = "BODY">General Host Corp said a
+	<field name = "content">General Host Corp said a
 federal district judge in Wichita, Kan., affirmed a preliminary
 1984 ruling that the company's Amerian Salt Co unit polluted
 groundwater near a plant in Lyons, Kan.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 13:54:27.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f0241reute
-r f AM-REAGAN-STAFF   03-09 0119</field>
-	<field name = "TITLE">KOEHLER RESIGNS AFTER ONE-WEEK AS REAGAN AIDE</field>
+	<field name = "titulo">KOEHLER RESIGNS AFTER ONE-WEEK AS REAGAN AIDE</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">White House communications director
+	<field name = "content">White House communications director
 John Koehler resigned after just one week in the job, saying
 President Reagans' new chief of staff Howard Baker had a right
 to appoint his own team.

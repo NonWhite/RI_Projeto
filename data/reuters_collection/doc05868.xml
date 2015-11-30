@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 08:06:20.82</field>
-	<field name = "UNKNOWN">A
-f4652reute
-u f BC--U.S.-CREDIT-MARKET-O   03-17 0113</field>
-	<field name = "TITLE">U.S. CREDIT MARKET OUTLOOK - HOUSING STARTS</field>
+	<field name = "titulo">U.S. CREDIT MARKET OUTLOOK - HOUSING STARTS</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">While most of the world's financial
+	<field name = "content">While most of the world's financial
 markets will be monitoring the U.K. budget, traders and
 analysts in the U.S. credit market will be pouring over latest
 housing starts data for fresh clues about current and future

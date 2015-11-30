@@ -10,13 +10,9 @@
 	<field name = "PLACES">liechtenstein</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">C G
-f0966
-reute
-u f BC-TRADERS-DETAIL-FRENCH   03-02 0086</field>
-	<field name = "TITLE">TRADERS DETAIL FRENCH CEREAL EXPORT REQUESTS</field>
+	<field name = "titulo">TRADERS DETAIL FRENCH CEREAL EXPORT REQUESTS</field>
 	<field name = "DATELINE">PARIS, March 2 -</field>
-	<field name = "BODY">French operators last Friday requested
+	<field name = "content">French operators last Friday requested
 licences to export 10,500 tonnes of free market maize, 11,950
 tonnes of free market barley and 13,000 of soft wheat flour to
 non-EC countries, at prefixed daily (droit commun) rebates,

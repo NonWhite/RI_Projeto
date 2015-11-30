@@ -3,12 +3,9 @@
 	<field name = "TOPICS">lumber</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">C
-f0206reute
-u f BC-CME-SETS-MAY-29-START   03-06 0139</field>
-	<field name = "TITLE">CME SETS MAY 29 START FOR LUMBER FUTURES OPTIONS</field>
+	<field name = "titulo">CME SETS MAY 29 START FOR LUMBER FUTURES OPTIONS</field>
 	<field name = "DATELINE">CHICAGO, March 6 -</field>
-	<field name = "BODY">The Chicago Mercantile Exchange (CME)
+	<field name = "content">The Chicago Mercantile Exchange (CME)
 board of governors announced today the options on Random Length
 lumber futures will begin trading on May 29.
     The contract received Commodity Futures Trading Commission

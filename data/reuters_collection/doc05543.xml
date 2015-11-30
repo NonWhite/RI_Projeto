@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 13:21:13.87</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3058reute
-r f BC-LEAR-PETROLEUM-PARTNE   03-16 0057</field>
-	<field name = "TITLE">LEAR PETROLEUM PARTNERS LP LPP> 4TH QTR LOSS</field>
+	<field name = "titulo">LEAR PETROLEUM PARTNERS LP LPP> 4TH QTR LOSS</field>
 	<field name = "DATELINE">DALLAS, March 16 -</field>
-	<field name = "BODY">Oper shr loss nil vs loss nil
+	<field name = "content">Oper shr loss nil vs loss nil
     Oper net loss 112,000 vs loss 125,000
     Revs nil vs nil
     Avg shrs 26.7 mln vs 21.9 mln

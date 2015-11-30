@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">south-korea</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">C G
-f1763reute
-u f BC-SOUTH-KOREA-BUYS-50,0   04-21 0038</field>
-	<field name = "TITLE">SOUTH KOREA BUYS 50,000 TONNES CANADIAN WHEAT</field>
+	<field name = "titulo">SOUTH KOREA BUYS 50,000 TONNES CANADIAN WHEAT</field>
 	<field name = "DATELINE">WINNIPEG, April 21 -</field>
-	<field name = "BODY">South Korea yesterday bought 50,000
+	<field name = "content">South Korea yesterday bought 50,000
 tonnes of Canadian feed wheat for late June/early July shipment
 at 95.00 dlrs per tonne FOB Vancouver, trade sources said.
  Reuter</field>

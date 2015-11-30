@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 12:56:00.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1750reute
-d f BC-WEATHERFORD-INT'L-WI   04-01 0102</field>
-	<field name = "TITLE">WEATHERFORD INT'L WII> GETS DEBT AGREEMENT</field>
+	<field name = "titulo">WEATHERFORD INT'L WII> GETS DEBT AGREEMENT</field>
 	<field name = "DATELINE">HOUSTON, April 1 -</field>
-	<field name = "BODY">Weatherford International Inc said it
+	<field name = "content">Weatherford International Inc said it
 reached an agreement to restructure about 41 mln dlrs of debt
 held by bank and insurance company lenders.
     Under the agreement, the oil drilling equipment and oil

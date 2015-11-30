@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 16:02:59.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6462reute
-r f BC-HYDRAULIC-CO-THC>-UN   03-17 0117</field>
-	<field name = "TITLE">HYDRAULIC CO THC> UNIT LAND SALE PLAN DENIED</field>
+	<field name = "titulo">HYDRAULIC CO THC> UNIT LAND SALE PLAN DENIED</field>
 	<field name = "DATELINE">BRIDGEPORT, Conn., March 17 -</field>
-	<field name = "BODY">The Hydraulic Co said its
+	<field name = "content">The Hydraulic Co said its
 Bridgeport Hydraulic Co subsidiary had its proposal to use land
 sales proceeds to help fund capital improvements denied by the
 Connecticut Department of Public Utility Control.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 01:22:34.18</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0039reute
-u f BC-BELL-RESOURCES-TO-ISS   04-13 0113</field>
-	<field name = "TITLE">BELL RESOURCES TO ISSUE WARRANTS ON BHP GOLD MINES</field>
+	<field name = "titulo">BELL RESOURCES TO ISSUE WARRANTS ON BHP GOLD MINES</field>
 	<field name = "DATELINE">PERTH, April 13 -</field>
-	<field name = "BODY">Bell Resources Ltd BLLA.S> said it will
+	<field name = "content">Bell Resources Ltd BLLA.S> said it will
 raise about 50.8 mln dlrs by issuing 135.6 mln warrants at 37.5
 cents each, entitling the holder to take up shares in BHP Gold
 Mines Ltd BHPG.ME> at 1.60 dlrs each on or before December 15,

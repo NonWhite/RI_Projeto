@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 14:23:03.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F E
-f0390reute
-r f BC-AMERICAN-HOME-AHP>-U   03-05 0109</field>
-	<field name = "TITLE">AMERICAN HOME AHP> UNIT TO GET RIGHTS TO DRUG</field>
+	<field name = "titulo">AMERICAN HOME AHP> UNIT TO GET RIGHTS TO DRUG</field>
 	<field name = "DATELINE">TORONTO, March 5 -</field>
-	<field name = "BODY">Polydex Pharmaceuticals Ltd POLYXF>
+	<field name = "content">Polydex Pharmaceuticals Ltd POLYXF>
 said the Canadian unit of American Home Products Corp's Ayerst
 Labs subsidiary will probably receive marketing and
 distribution rights to its cholesterol lowering drug Dexide,

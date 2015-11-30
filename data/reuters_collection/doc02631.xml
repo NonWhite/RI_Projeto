@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">V RM
-f0407reute
-b f BC-/BAKER-SEES-BRAZIL/BA   03-06 0104</field>
-	<field name = "TITLE">BAKER SEES BRAZIL/BANKS REACHING AGREEMENT</field>
+	<field name = "titulo">BAKER SEES BRAZIL/BANKS REACHING AGREEMENT</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">U.S. Treasury Secretary James Baker
+	<field name = "content">U.S. Treasury Secretary James Baker
 said he believes Brazil will strike an agreement with its
 private creditors.
     Answering questions from the National Newspaper

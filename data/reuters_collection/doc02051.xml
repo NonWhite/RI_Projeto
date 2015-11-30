@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">C G L M T
-f0214reute
-r f BC-Trade   03-05 0143</field>
-	<field name = "TITLE">CONGRESS MAY CURB U.S. AID TO DEVELOPMENT BANKS</field>
+	<field name = "titulo">CONGRESS MAY CURB U.S. AID TO DEVELOPMENT BANKS</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Congressional ire is rising against
+	<field name = "content">Congressional ire is rising against
 the multinational development banks which make loans to help
 other countries produce goods in direct competition with
 beleagured U.S. farmers and miners.

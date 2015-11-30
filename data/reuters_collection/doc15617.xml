@@ -5,12 +5,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">C G
-f1248reute
-u f BC-FRENCH-FREE-MARKET-CE   04-09 0109</field>
-	<field name = "TITLE">FRENCH FREE MARKET CEREAL EXPORT BIDS DETAILED</field>
+	<field name = "titulo">FRENCH FREE MARKET CEREAL EXPORT BIDS DETAILED</field>
 	<field name = "DATELINE">PARIS, April 9 -</field>
-	<field name = "BODY">French operators have requested licences
+	<field name = "content">French operators have requested licences
 to export 320,000 tonnes of free market barley, 225,000 tonnes
 of maize, 25,000 tonnes of free market bread-making wheat and
 20,000 tonnes of feed wheat at today's EC tender, trade sources

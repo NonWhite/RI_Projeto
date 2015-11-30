@@ -10,12 +10,9 @@
 	<field name = "TOPICS">soy-meal</field>
 	<field name = "TOPICS">meal-feed</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2187reute
-b f BC-us/supply/demand   04-09 0090</field>
-	<field name = "TITLE">U.S. SUPPLY/DEMAND HIGHLIGHTS</field>
+	<field name = "titulo">U.S. SUPPLY/DEMAND HIGHLIGHTS</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Following are highlights of the U.S.
+	<field name = "content">Following are highlights of the U.S.
 Agriculture Department supply/demand projections for the
 1986/87 seasons, in mln bushels, with comparisons, unless noted
 --

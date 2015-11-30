@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 12:10:21.66</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1561reute
-u f BC-GENCORP-SUES-GENERAL   03-23 0079</field>
-	<field name = "TITLE">GENCORP SUES GENERAL PARTNERS</field>
+	<field name = "titulo">GENCORP SUES GENERAL PARTNERS</field>
 	<field name = "DATELINE">AKRON, OHIO, March 23 -</field>
-	<field name = "BODY">Gencorp Inc said it filed suit
+	<field name = "content">Gencorp Inc said it filed suit
 against the unsolicited 100 dlr-a-share tender offer of Wagner
 and Brown and AFG INdustries.
     Gencorp said it is seeking an injunction against the offer

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 14:12:46.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2037reute
-d f BC-DIGITAL-COMM-DCAI>-W   04-01 0088</field>
-	<field name = "TITLE">DIGITAL COMM DCAI> WINS FAVORABLE RULING</field>
+	<field name = "titulo">DIGITAL COMM DCAI> WINS FAVORABLE RULING</field>
 	<field name = "DATELINE">ATLANTA, Apri 1 -</field>
-	<field name = "BODY">Digital Communications Associates Inc
+	<field name = "content">Digital Communications Associates Inc
 said the U.S. District Court issued a ruling prohibiting
 Softklone Distributing Corp> from selling a software product
 that Digital claimed violates one of its copyrights.

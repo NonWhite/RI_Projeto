@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 05:50:59.08</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0373reute
-u f BC-BELGIAN-PUBLIC-DEBT-R   03-25 0093</field>
-	<field name = "TITLE">BELGIAN PUBLIC DEBT RISES IN FEBRUARY</field>
+	<field name = "titulo">BELGIAN PUBLIC DEBT RISES IN FEBRUARY</field>
 	<field name = "DATELINE">BRUSSELS, March 25 -</field>
-	<field name = "BODY">Belgian public debt rose a nominal
+	<field name = "content">Belgian public debt rose a nominal
 89.5 billion francs in February to 5,591.1 billion francs, and
 compared with 5,074.2 billion in February 1986, the finance
 ministry said in its monthly statement.

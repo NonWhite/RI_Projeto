@@ -2,12 +2,9 @@
 	<field name = "DATE">26-APR-1987 22:57:22.08</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0173reute
-b f BC-CSR-PLANS-TAKEOVER-BI   04-26 0098</field>
-	<field name = "TITLE">CSR PLANS TAKEOVER BID FOR MONIER</field>
+	<field name = "titulo">CSR PLANS TAKEOVER BID FOR MONIER</field>
 	<field name = "DATELINE">SYDNEY, April 27 -</field>
-	<field name = "BODY">CSR Ltd CSRA.S> said it plans to offer
+	<field name = "content">CSR Ltd CSRA.S> said it plans to offer
 3.50 dlrs a share cum-bonus for all the issued capital of
 building products group Monier Ltd MNRA.S>.
     The offer values Monier's current issued capital of 156.28

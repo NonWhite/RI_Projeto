@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 13:30:08.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2015reute
-r f BC-NWA-NWA>-AIRLINE-ADD   04-13 0045</field>
-	<field name = "TITLE">NWA NWA> AIRLINE ADDS TRANSPACIFIC FLIGHT</field>
+	<field name = "titulo">NWA NWA> AIRLINE ADDS TRANSPACIFIC FLIGHT</field>
 	<field name = "DATELINE">ST. PAUL, Minn., April 13 -</field>
-	<field name = "BODY">NWA Inc said its Northwest
+	<field name = "content">NWA Inc said its Northwest
 Airlines unit will add a nonstop Detroit to Tokyo flight April
 17.
     The new flight will operate three times a week until June

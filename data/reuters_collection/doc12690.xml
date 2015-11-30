@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 15:05:45.68</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2239reute
-d f BC-EPA-TO-SHIELD-WATER-S   04-02 0103</field>
-	<field name = "TITLE">EPA TO SHIELD WATER SUPPLY FROM GASOLINE LEAKS</field>
+	<field name = "titulo">EPA TO SHIELD WATER SUPPLY FROM GASOLINE LEAKS</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">The Environmental Protection Agency
+	<field name = "content">The Environmental Protection Agency
 proposed rules to shield water supplies from potential leaks
 from 1.4 mln underground storage tanks, nearly half of which
 are used to store gasoline at service stations.

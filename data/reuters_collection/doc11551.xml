@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 14:07:59.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2131reute
-r f BC-AMERICUS-TRUST-FOR-AM   03-31 0098</field>
-	<field name = "TITLE">AMERICUS TRUST FOR AMOCO SHARES EFFECTIVE</field>
+	<field name = "titulo">AMERICUS TRUST FOR AMOCO SHARES EFFECTIVE</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Americus Trust for Amoco Corp shares
+	<field name = "content">Americus Trust for Amoco Corp shares
 said its registration has been delcared effective, and shares
 of Amoco Corp AN> may now be exchanged for Americus units on a
 one-for-one basis.

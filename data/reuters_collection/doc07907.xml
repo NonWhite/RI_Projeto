@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 14:36:29.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2074reute
-d f BC-FIRST-UNION-FUNC>-BA   03-20 0116</field>
-	<field name = "TITLE">FIRST UNION FUNC> BANKS ELECTRONICALLY LINKED</field>
+	<field name = "titulo">FIRST UNION FUNC> BANKS ELECTRONICALLY LINKED</field>
 	<field name = "DATELINE">CHARLOTTE, N.C., March 20 -</field>
-	<field name = "BODY">First Union National Bank of
+	<field name = "content">First Union National Bank of
 Florida, a unit of First Union Corp, said it has electronically
 linked its Florida and North Carolina 24-hour banking machines.
     The bank said the service, which starts April 15, will let

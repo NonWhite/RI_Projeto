@@ -4,12 +4,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">A F 
-f3072reute
-d f BC-SENATOR-URGES-ACTION   10-20 0104</field>
-	<field name = "TITLE">SENATOR URGES ACTION TO STABILIZE STOCK MARKETS</field>
+	<field name = "titulo">SENATOR URGES ACTION TO STABILIZE STOCK MARKETS</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">Sen. John Heinz, R-Pa, urged the
+	<field name = "content">Sen. John Heinz, R-Pa, urged the
 Administration to take steps to reduce volatility in the
 financial markets, including suspending program trading and
 limiting daily trading on stock index futures.

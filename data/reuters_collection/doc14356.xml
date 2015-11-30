@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:37:48.10</field>
-	<field name = "UNKNOWN">RM F
-f1620reute
-u f BC-DOLLAR-STEADY-IN-EURO   04-07 0113</field>
-	<field name = "TITLE">DOLLAR STEADY IN EUROPE AHEAD OF WASHINGTON TALKS</field>
+	<field name = "titulo">DOLLAR STEADY IN EUROPE AHEAD OF WASHINGTON TALKS</field>
 	<field name = "AUTHOR">By Rowena Whelan, Reuters</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">The dollar was steady ahead of a series
+	<field name = "content">The dollar was steady ahead of a series
 of meetings of leading finance ministers starting today in
 Washington, despite low expectations for the outcome of the
 talks and still negative underlying sentiment toward the

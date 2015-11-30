@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V
-f0537reute
-u f BC-JAPAN-GIVEN-LITTLE-HO   04-08 0109</field>
-	<field name = "TITLE">JAPAN GIVEN LITTLE HOPE OF AVOIDING U.S. SANCTIONS</field>
+	<field name = "titulo">JAPAN GIVEN LITTLE HOPE OF AVOIDING U.S. SANCTIONS</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">A top U.S. Official said Japan has little
+	<field name = "content">A top U.S. Official said Japan has little
 chance of persuading the U.S. to drop threatened trade
 sanctions, despite the efforts of a Japanese team that left for
 Washington today.

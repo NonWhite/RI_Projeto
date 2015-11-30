@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 19:44:15.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f5022reute
-b f BC-NBC-SAYS-IT-WILL-IMPL   06-18 0116</field>
-	<field name = "TITLE">NBC SAYS IT WILL IMPLEMENT CONTRACT JUNE 29</field>
+	<field name = "titulo">NBC SAYS IT WILL IMPLEMENT CONTRACT JUNE 29</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">The National Broadcasting Co, a unit of
+	<field name = "content">The National Broadcasting Co, a unit of
 General Electric Co GE>, said it intends to implement on June
 29 a labor contract rejected by union represenatives.
     A spokesman for the National Association of Broadcast

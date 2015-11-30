@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
 	<field name = "EXCHANGES">nyce</field>
-	<field name = "UNKNOWN">F RM
-f2222reute
-u f BC-REGULATORS-TO-CONSIDE   03-30 0112</field>
-	<field name = "TITLE">REGULATORS TO CONSIDER CBT EVENING SESSION</field>
+	<field name = "titulo">REGULATORS TO CONSIDER CBT EVENING SESSION</field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">The Commodity Futures Trading
+	<field name = "content">The Commodity Futures Trading
 Commission, CFTC, said that on April 15 it will consider the
 Chicago Board of Trade's proposal to establish night trading.
     The Chicago exchange hopes to begin night trading at the

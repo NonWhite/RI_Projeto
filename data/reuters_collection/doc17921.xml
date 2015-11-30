@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 05:28:02.09</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0354reute
-u f BC-DE-LA-RUE-RAISES-ANNU   06-02 0092</field>
-	<field name = "TITLE">DE LA RUE RAISES ANNUAL PROFITS BY 12.7 PCT</field>
+	<field name = "titulo">DE LA RUE RAISES ANNUAL PROFITS BY 12.7 PCT</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">Year ended March 31, 1987
+	<field name = "content">Year ended March 31, 1987
     Fin div 9.25p making 12p vs 10.74p
     Shr 28.3p vs 27.5p
     Pretax profit 55.63 mln stg vs 49.36 mln

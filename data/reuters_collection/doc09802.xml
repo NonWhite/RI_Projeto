@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 08:22:39.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0753reute
-r f BC-NEW-CAPITAL-RULES-WOU   03-26 0103</field>
-	<field name = "TITLE">NEW CAPITAL RULES WOULD FAVOR FIRST INTERSTATE</field>
+	<field name = "titulo">NEW CAPITAL RULES WOULD FAVOR FIRST INTERSTATE</field>
 	<field name = "DATELINE">LOS ANGELES, March 26 -</field>
-	<field name = "BODY">First Interstate Bancorp I> would
+	<field name = "content">First Interstate Bancorp I> would
 benefit from new banking capital adequacy rules proposed by the
 Federal Reserve Board, Chairman Joseph Pinola said.
     "We are one of the few banks that would have an improved

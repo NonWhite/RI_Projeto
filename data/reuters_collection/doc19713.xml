@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:15:35.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1636reute
-d f BC-HENLEY-GROUP-HENG>-U   06-29 0058</field>
-	<field name = "TITLE">HENLEY GROUP HENG> UNIT WINS NEWS PLANT ORDER</field>
+	<field name = "titulo">HENLEY GROUP HENG> UNIT WINS NEWS PLANT ORDER</field>
 	<field name = "DATELINE">HAMPTON, N.H., June 29 -</field>
-	<field name = "BODY">Henley Group Inc unit,
+	<field name = "content">Henley Group Inc unit,
 Wheelabrator Technologies Inc, said it won a 243 mln dlrs
 contract from Mississippi Chemical Corp> unit Newsprint South
 Inc.

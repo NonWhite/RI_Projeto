@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 13:53:28.76</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8978reute
-d f BC-RABBIT-SOFTWARE-RABT   03-18 0043</field>
-	<field name = "TITLE">RABBIT SOFTWARE RABT> TO MAKE ACQUISITION</field>
+	<field name = "titulo">RABBIT SOFTWARE RABT> TO MAKE ACQUISITION</field>
 	<field name = "DATELINE">MALVERN, Pa., March 18 -</field>
-	<field name = "BODY">Rabbit Software Corp said it has
+	<field name = "content">Rabbit Software Corp said it has
 agreed in principle to acquire privately-held communications
 hardware maker Micro Plus II Corp for about two mln common
 shares, with closing expected by May.

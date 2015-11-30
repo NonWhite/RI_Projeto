@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 17:37:22.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0208
-reute
-d f BC-VARIAN-VAR>,-SIEMENS   02-26 0091</field>
-	<field name = "TITLE">VARIAN VAR>, SIEMENS FORM JOINT VENTURE</field>
+	<field name = "titulo">VARIAN VAR>, SIEMENS FORM JOINT VENTURE</field>
 	<field name = "DATELINE">PALO ALTO, Calif., Feb 26 -</field>
-	<field name = "BODY">Varian Associates Inc and
+	<field name = "content">Varian Associates Inc and
 Siemens A.G.> said they signed a letter of intent to form and
 jointly operate a nuclear magnetic resonance imaging
 spectroscopy business in Fremont, Calif.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">F A RM
-f2502reute
-u f BC-FIRST-INTERSTATE   03-19 0112</field>
-	<field name = "TITLE">FIRST INTERSTATE I> ESTIMATES BRAZIL RISKS</field>
+	<field name = "titulo">FIRST INTERSTATE I> ESTIMATES BRAZIL RISKS</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">First Interstate Bancorp said its
+	<field name = "content">First Interstate Bancorp said its
 1987 pre-tax income could be reduced by about 33.5 mln dlrs if
 it decides to reclassify its 339 mln dlrs in medium- to
 long-term loans to Brazil as nonperforming.

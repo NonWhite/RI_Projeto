@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">conable</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">A
-f2066reute
-d f BC-WORLD-BANK-PRESIDENT   04-13 0111</field>
-	<field name = "TITLE">WORLD BANK PRESIDENT OPPOSES DEBT FORGIVENESS</field>
+	<field name = "titulo">WORLD BANK PRESIDENT OPPOSES DEBT FORGIVENESS</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">World Bank President Barber Conable
+	<field name = "content">World Bank President Barber Conable
 said he opposed forgiving developing countries' debt because
 the proposal, if adopted, would lead to a cutoff in lending to
 the indebted countries.

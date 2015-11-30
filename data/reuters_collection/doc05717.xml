@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 17:00:45.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3699reute
-r f BC-NEW-ENGLAND-POWER-TO   03-16 0082</field>
-	<field name = "TITLE">NEW ENGLAND POWER TO REDEEM PREFERRED SHARES</field>
+	<field name = "titulo">NEW ENGLAND POWER TO REDEEM PREFERRED SHARES</field>
 	<field name = "DATELINE">WESTBOROUGH, Mass, March 16 -</field>
-	<field name = "BODY">New England Power Co said it
+	<field name = "content">New England Power Co said it
 will redeem all 250,000 shares of its Preferred Stock
 cumulative, 100 dlr par value, 13.48 pct series in two stages.
     First on July 1, it will redeem 225,000 shares at 110.86

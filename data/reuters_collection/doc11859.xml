@@ -3,13 +3,10 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">sweden</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0628reute
-u f BC-BOLIDEN-SAYS-IT-NOW-L   04-01 0106</field>
-	<field name = "TITLE">BOLIDEN SAYS IT NOW LEADER IN MINING GEAR</field>
+	<field name = "titulo">BOLIDEN SAYS IT NOW LEADER IN MINING GEAR</field>
 	<field name = "AUTHOR">By Per Isaksson, Reuters</field>
 	<field name = "DATELINE">STOCKHOLM, April 1 -</field>
-	<field name = "BODY">Swedish mining and metals group
+	<field name = "content">Swedish mining and metals group
 Boliden AB BLDS.ST> said the takeover of the U.S.
 Allis-Chalmers Corp's AH.O> mining machinery division made it
 the world's leading maker of such equipment.

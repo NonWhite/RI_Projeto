@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 10:50:25.41</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1211reute
-r f BC-ASTROTECH-AIX>-DIREC   03-24 0078</field>
-	<field name = "TITLE">ASTROTECH AIX> DIRECTOR BUYS COMPANY STOCK</field>
+	<field name = "titulo">ASTROTECH AIX> DIRECTOR BUYS COMPANY STOCK</field>
 	<field name = "DATELINE">PITTSBURGH, March 24 -</field>
-	<field name = "BODY">Astrotech International Corp said
+	<field name = "content">Astrotech International Corp said
 its director S. Kent Rockwell, who controls Rockwell Venture
 Capital Inc, will buy 27 pct of the company's cumulative
 preferred stock.

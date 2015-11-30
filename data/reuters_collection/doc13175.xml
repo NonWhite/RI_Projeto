@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 16:58:55.86</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2393reute
-r f BC-RESIDENTIAL-RMI>-ISS   04-03 0072</field>
-	<field name = "TITLE">RESIDENTIAL RMI> ISSUES 54.3 MLN MORTGAGE</field>
+	<field name = "titulo">RESIDENTIAL RMI> ISSUES 54.3 MLN MORTGAGE</field>
 	<field name = "DATELINE">FORT WORTH, Texas, April 3 -</field>
-	<field name = "BODY">Residential Mortgage
+	<field name = "content">Residential Mortgage
 Investments Inc's Mortgage Acceptance Inc unit said it is
 offering a 54.3 mln dlrs collaterized mortgage obligation using
 mortgage pass-through certificates evidencing undivided

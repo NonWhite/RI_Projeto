@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V RM
-f0939reute
-b f BC-/N.Y.-DEALERS-BELIEVE   03-24 0116</field>
-	<field name = "TITLE">N.Y. DEALERS BELIEVE FED INTERVENED TO BUY DLRS</field>
+	<field name = "titulo">N.Y. DEALERS BELIEVE FED INTERVENED TO BUY DLRS</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">The Federal Reserve appears to have
+	<field name = "content">The Federal Reserve appears to have
 intervened in the U.S. foreign exchange market to buy dollars
 against yen this morning, currency dealers said.
     They said the intervention occurred near the dollar's early

@@ -4,12 +4,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">indonesia</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM AI 
-f0063reute
-u f BC-JAPAN-APPROVES-AID-FO   06-19 0112</field>
-	<field name = "TITLE">JAPAN APPROVES AID FOR INDONESIA, BRAZIL ALUMINIUM</field>
+	<field name = "titulo">JAPAN APPROVES AID FOR INDONESIA, BRAZIL ALUMINIUM</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">Japan's cabinet approved a plan to help
+	<field name = "content">Japan's cabinet approved a plan to help
 financially-troubled aluminium ventures in Indonesia and
 Brazil, an official at the Ministry of International and Trade
 Industry (MITI) said.

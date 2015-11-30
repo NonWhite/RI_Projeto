@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 16:10:20.34</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2243reute
-d f BC-SCOTT-INSTRUMENTS-COR   04-03 0028</field>
-	<field name = "TITLE">SCOTT INSTRUMENTS CORP SCTI> YEAR LOSS</field>
+	<field name = "titulo">SCOTT INSTRUMENTS CORP SCTI> YEAR LOSS</field>
 	<field name = "DATELINE">DENTON, Texas, April 3 -</field>
-	<field name = "BODY">Shr loss 15 cts vs loss 27 cts
+	<field name = "content">Shr loss 15 cts vs loss 27 cts
     Net loss 1,905,774 vs loss 2,160,717
     Revs 868,117 vs 307,135
  Reuter</field>

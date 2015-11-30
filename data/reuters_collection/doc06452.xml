@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 09:31:00.21</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f7826reute
-u f BC-WEST-GERMAN-BANKS-SLO   03-18 0104</field>
-	<field name = "TITLE">WEST GERMAN BANKS SLOWLY CUTTING KEY SAVINGS RATES</field>
+	<field name = "titulo">WEST GERMAN BANKS SLOWLY CUTTING KEY SAVINGS RATES</field>
 	<field name = "DATELINE">FRANKFURT, March 18 -</field>
-	<field name = "BODY">West German commercial banks are
+	<field name = "content">West German commercial banks are
 cautiously cutting key savings and lending rates, banking
 sources said. The cuts follow nearly two months after the
 Bundesbank reduced leading interest rates, far longer than the

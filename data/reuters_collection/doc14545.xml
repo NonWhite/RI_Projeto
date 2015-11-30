@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:54:23.42</field>
-	<field name = "UNKNOWN">C T
-f2305reute
-u f BC-ny-coffee-mids-report   04-07 0128</field>
-	<field name = "TITLE">NY COFFEE FUTURES CLOSE HIGHER</field>
+	<field name = "titulo">NY COFFEE FUTURES CLOSE HIGHER</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">N.Y. coffee futures closed higher again
+	<field name = "content">N.Y. coffee futures closed higher again
 today on trade talk Brazil would not be an aggressive seller
 near term, analysts said.
     In addition, roaster demand emerged in some forward

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">G C
-f0058reute
-u f BC-TAIWAN'S-FIRST-QUARTE   03-11 0086</field>
-	<field name = "TITLE">TAIWAN'S FIRST QUARTER MAIZE IMPORTS SEEN RISING</field>
+	<field name = "titulo">TAIWAN'S FIRST QUARTER MAIZE IMPORTS SEEN RISING</field>
 	<field name = "DATELINE">TAIPEI, March 12 -</field>
-	<field name = "BODY">Taiwan's maize import commitments are
+	<field name = "content">Taiwan's maize import commitments are
 expected to rise to 970,000 tonnes in the first four months of
 1987 from 870,000 tonnes a year earlier, a spokesman for the
 Joint Committee of Maize Importers told Reuters.

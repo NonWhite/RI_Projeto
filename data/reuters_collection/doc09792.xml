@@ -9,12 +9,9 @@
 	<field name = "PLACES">canada</field>
 	<field name = "ORGS">iwc-wheat</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0675reute
-u f BC-IWC-SAYS-EFFECT-OF-LO   03-26 0112</field>
-	<field name = "TITLE">IWC SAYS EFFECT OF LOWER SUPPORT PRICES LIMITED</field>
+	<field name = "titulo">IWC SAYS EFFECT OF LOWER SUPPORT PRICES LIMITED</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">Efforts by governments to control wheat
+	<field name = "content">Efforts by governments to control wheat
 surpluses by cutting support prices have met with only partial
 success, the International Wheat Council (IWC) says in its
 latest monthly report.

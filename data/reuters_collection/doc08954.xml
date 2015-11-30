@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 14:32:03.03</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">C
-f2125reute
-d f BC-REAGAN-SIGNS-GNMA-BIL   03-24 0114</field>
-	<field name = "TITLE">REAGAN SIGNS GNMA BILL WITH RESERVATIONS</field>
+	<field name = "titulo">REAGAN SIGNS GNMA BILL WITH RESERVATIONS</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">President Reagan signed a bill
+	<field name = "content">President Reagan signed a bill
 limiting fees that may be charged by the Government National
 Mortgage Association (GNMA) for its guarantees of privately
 issued mortgage-backed securities but voiced serious

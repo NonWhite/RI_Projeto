@@ -2,13 +2,10 @@
 	<field name = "DATE">23-MAR-1987 14:30:22.14</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2038reute
-u f BC-TALKING-POINT/WENDY'S   03-23 0101</field>
-	<field name = "TITLE">TALKING POINT/WENDY'S INTERNATIONAL WEN></field>
+	<field name = "titulo">TALKING POINT/WENDY'S INTERNATIONAL WEN></field>
 	<field name = "AUTHOR">By Patti Domm, Reuters</field>
 	<field name = "DATELINE">New York, March 23 -</field>
-	<field name = "BODY">Takeover speculation buoyed Wendy's
+	<field name = "content">Takeover speculation buoyed Wendy's
 International Inc's stock, even after Coca Cola Co took the
 fizz out of market rumors by denying it was an interested
 suitor.

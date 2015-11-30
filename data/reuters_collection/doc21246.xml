@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 12:27:08.80</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM 
-f1939reute
-u f BC-COUPON-SET-HIGHER-FOR   10-19 0105</field>
-	<field name = "TITLE">COUPON SET HIGHER FOR HEALTHVEST CONVERTIBLE</field>
+	<field name = "titulo">COUPON SET HIGHER FOR HEALTHVEST CONVERTIBLE</field>
 	<field name = "DATELINE">ZURICH, Oct 19 -</field>
-	<field name = "BODY">The coupon on Healthvest>'s 40 mln Swiss
+	<field name = "content">The coupon on Healthvest>'s 40 mln Swiss
 franc seven-year subordinated convertible bond was set at 4-1/2
 pct and not at the four pct indicated, lead manager S.G.
 Warburg Soditic SA said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 04:08:42.39</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0303reute
-u f BC-NIPPON-OIL-SEES-SHARP   03-11 0114</field>
-	<field name = "TITLE">NIPPON OIL SEES SHARPLY LOWER SALES AND PROFITS</field>
+	<field name = "titulo">NIPPON OIL SEES SHARPLY LOWER SALES AND PROFITS</field>
 	<field name = "DATELINE">TOKYO, March 11 -</field>
-	<field name = "BODY">Nippon Oil Co Ltd NPOL.T> predicted
+	<field name = "content">Nippon Oil Co Ltd NPOL.T> predicted
 parent company net profit of about nine billion yen in the year
 ending March 31, down 10.4 pct from a year earlier, president
 Yasuoki Takeuchi told a press conference.

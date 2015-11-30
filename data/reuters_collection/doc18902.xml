@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:18:36.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4212reute
-d f BC-GE-GE>-SIGNS-CONTRAC   06-18 0105</field>
-	<field name = "TITLE">GE GE> SIGNS CONTRACT ON SMALL POWER PLANT</field>
+	<field name = "titulo">GE GE> SIGNS CONTRACT ON SMALL POWER PLANT</field>
 	<field name = "DATELINE">SCHENECTADY, N.Y., June 18 -</field>
-	<field name = "BODY">General Electric said it
+	<field name = "content">General Electric said it
 signed a 21 mln contract to build a 12.5 megawatt power plant,
 fueled by agricultural waste, for El Nido Biomass Power Plant
 Associates.

@@ -4,12 +4,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">lawson</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">RM
-f1820reute
-r f BC-U.K.-MERCHANT-BANKS-T   06-02 0100</field>
-	<field name = "TITLE">U.K. MERCHANT BANKS TO JOIN TOKYO EXCHANGE IN 1988</field>
+	<field name = "titulo">U.K. MERCHANT BANKS TO JOIN TOKYO EXCHANGE IN 1988</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">Chancellor of the Exchequer Nigel Lawson
+	<field name = "content">Chancellor of the Exchequer Nigel Lawson
 said satisfactory progress has been made in talks with Japan
 that would lead to membership of the Tokyo Stock Exchange for
 three British merchant banks next year.

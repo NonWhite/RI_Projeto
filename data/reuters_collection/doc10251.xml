@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 18:51:48.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2882reute
-d f BC-FLIGHT-DYNAMICS-FLTY   03-26 0075</field>
-	<field name = "TITLE">FLIGHT DYNAMICS FLTY> CHAIRMAN STEPS DOWN</field>
+	<field name = "titulo">FLIGHT DYNAMICS FLTY> CHAIRMAN STEPS DOWN</field>
 	<field name = "DATELINE">PORTLAND, Ore., March 26 -</field>
-	<field name = "BODY">Flight Dynamics Inc said Robert
+	<field name = "content">Flight Dynamics Inc said Robert
 L. Carter has stepped down as chairman but will continue as a
 director.
     The company said Carter has been succeeded by John H.

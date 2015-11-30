@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 17:40:28.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0630reute
-d f BC-ENZO-BIOCHEM-ENZO>-C   03-13 0115</field>
-	<field name = "TITLE">ENZO BIOCHEM ENZO> CONTRACT PAYMENT WITHHELD</field>
+	<field name = "titulo">ENZO BIOCHEM ENZO> CONTRACT PAYMENT WITHHELD</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">Enzo Biochem Inc said (Ortho
+	<field name = "content">Enzo Biochem Inc said (Ortho
 Diagnostic Systems Inc) withheld a payment of 1.5 mln dlrs due
 Jan 15, 1987 under a research and development contract.
     Ortho indicated it suspended payments due under the 1985

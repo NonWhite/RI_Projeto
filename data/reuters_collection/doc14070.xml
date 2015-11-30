@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:20:25.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1232reute
-r f BC-OXFORD-ENERGY-CO-OEN   04-07 0095</field>
-	<field name = "TITLE">OXFORD ENERGY CO OEN> TO BUILD ENRGY PLANT</field>
+	<field name = "titulo">OXFORD ENERGY CO OEN> TO BUILD ENRGY PLANT</field>
 	<field name = "DATELINE">NEW YORK , APri 7 -</field>
-	<field name = "BODY">The Oxford Energy Co said it received
+	<field name = "content">The Oxford Energy Co said it received
 final approval from the Connecticut Department of Public Utiliy
 Control of a power contract for the company's tire burning
 energy plant to be located in Sterling, Conn.

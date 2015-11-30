@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 11:07:16.49</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">F
-f1283reute
-u f BC-STATE-OF-N.J.-IN-43-M   04-21 0111</field>
-	<field name = "TITLE">STATE OF N.J. IN 43 MLN DLR PROGRAM STOCK SALE</field>
+	<field name = "titulo">STATE OF N.J. IN 43 MLN DLR PROGRAM STOCK SALE</field>
 	<field name = "DATELINE">NEW YORK, April 21 -</field>
-	<field name = "BODY">The State of New Jersey said that it
+	<field name = "content">The State of New Jersey said that it
 sold 23 stocks in a program trade worth 43 mln dlrs this
 morning.
     Roland Machold, director of the Division of Investment for

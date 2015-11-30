@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 07:04:48.12</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">V
-f7396reute
-u f BC-PHILIPPINE-ARMY-ACADE   03-18 0078</field>
-	<field name = "TITLE">PHILIPPINE ARMY ACADEMY BOMBED</field>
+	<field name = "titulo">PHILIPPINE ARMY ACADEMY BOMBED</field>
 	<field name = "DATELINE">MANILA, March 18 -</field>
-	<field name = "BODY">Suspected communist rebels bombed the
+	<field name = "content">Suspected communist rebels bombed the
 Philippine Military Academy and injured at least 20 soldiers,
 many of them senior officers, the state-run Philippine News
 Agency (PNA) said.

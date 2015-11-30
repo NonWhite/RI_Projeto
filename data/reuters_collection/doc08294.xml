@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 10:55:55.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1200reute
-d f BC-PRIME-COMPUTER-PRM>   03-23 0099</field>
-	<field name = "TITLE">PRIME COMPUTER PRM> INTRODUCES WORKSTATION</field>
+	<field name = "titulo">PRIME COMPUTER PRM> INTRODUCES WORKSTATION</field>
 	<field name = "DATELINE">PHILADELPHIA, March 23 -</field>
-	<field name = "BODY">Prime Computer Inc said it
+	<field name = "content">Prime Computer Inc said it
 introduced an interactive three dimensional graphics
 workstation.
     Prime said it is its first offering in a new

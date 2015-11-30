@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:07:58.08</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1227reute
-r f BC-gandalf   03-19 0110</field>
-	<field name = "TITLE">GANDALF GANDF> INTRODUCES NEW PRODUCTS</field>
+	<field name = "titulo">GANDALF GANDF> INTRODUCES NEW PRODUCTS</field>
 	<field name = "DATELINE">OTTAWA, March 19 -</field>
-	<field name = "BODY">Gandalf Technologies Inc said it
+	<field name = "content">Gandalf Technologies Inc said it
 introduced two new products, one of which allows its private
 automatic computer exchange networking systems to connect
 directly to Digital Equipment Corp DEC>'s Unibus-equipped

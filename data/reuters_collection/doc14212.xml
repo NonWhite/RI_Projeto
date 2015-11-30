@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:01:34.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1423reute
-r f BC-GM-GM>-SHIFTS-LATIN   04-07 0098</field>
-	<field name = "TITLE">GM GM> SHIFTS LATIN AMERICAN, ASIA OFFICERS</field>
+	<field name = "titulo">GM GM> SHIFTS LATIN AMERICAN, ASIA OFFICERS</field>
 	<field name = "DATELINE">DETROIT, April 7 -</field>
-	<field name = "BODY">General Motors Corp said it set up a new
+	<field name = "content">General Motors Corp said it set up a new
 office of Latin American operations as part of the company's
 continuing international restructuring.
     The automaker named James F. Waters Jr to head the

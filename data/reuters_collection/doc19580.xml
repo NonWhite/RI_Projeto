@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 08:48:10.85</field>
-	<field name = "UNKNOWN">F 
-f0802reute
-u f BC-FIELDCOR-FICR.O>-TO   06-29 0082</field>
-	<field name = "TITLE">FIELDCOR FICR.O> TO ADD TO LOAN LOSSES</field>
+	<field name = "titulo">FIELDCOR FICR.O> TO ADD TO LOAN LOSSES</field>
 	<field name = "DATELINE">PHILADELPHIA, June 29 -</field>
-	<field name = "BODY">Fieldcor Inc said it will take a
+	<field name = "content">Fieldcor Inc said it will take a
 one-time 30 mln dlr special provision in the second quarter for
 possible losses in loans to developing countries.
     The corporation said it will be profitable in the quarter

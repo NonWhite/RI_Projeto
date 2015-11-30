@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 01:01:30.93</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0027reute
-r f BC-LINDE-TURNOVER-UP-IN   03-26 0116</field>
-	<field name = "TITLE">LINDE TURNOVER UP IN FIRST TWO MONTHS OF 1987</field>
+	<field name = "titulo">LINDE TURNOVER UP IN FIRST TWO MONTHS OF 1987</field>
 	<field name = "DATELINE">WIESBADEN, West Germany, March 26 -</field>
-	<field name = "BODY">Engineering group Linde
+	<field name = "content">Engineering group Linde
 AG's LING.F> world group turnover rose to 518.6 mln marks in
 the first two months of 1987, 5.2 pct more than in the same
 1986 period, management board chairman Hans Meinhardt said.

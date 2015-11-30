@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 11:30:35.72</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F A RM
-f0581reute
-b f BC-/MERRILL-LYNCH-MER>   03-11 0111</field>
-	<field name = "TITLE">MERRILL LYNCH MER> SUSPENDS U.K. MERGER CHIEF</field>
+	<field name = "titulo">MERRILL LYNCH MER> SUSPENDS U.K. MERGER CHIEF</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Merrill Lynch and Co MER> said the
+	<field name = "content">Merrill Lynch and Co MER> said the
 head of its mergers and acquisitions department in London,
 accused by U.S. authorities of insider trading violations, has
 been suspended from the firm.

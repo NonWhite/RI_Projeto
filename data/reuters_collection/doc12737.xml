@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 02:52:30.41</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0129reute
-b f BC-LUCAS-INDUSTRIES-CONV   04-03 0114</field>
-	<field name = "TITLE">LUCAS INDUSTRIES CONVERTIBLE BOND INCREASED, FIXED</field>
+	<field name = "titulo">LUCAS INDUSTRIES CONVERTIBLE BOND INCREASED, FIXED</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">Lucas Industries Inc's convertible
+	<field name = "content">Lucas Industries Inc's convertible
 eurobond has been increased to 83 mln dlrs from the initial 75
 mln dlrs due to strong demand for the deal, lead manager J.
 Henry Schroder Wagg and Co Ltd said.

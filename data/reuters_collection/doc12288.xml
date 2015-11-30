@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:08:06.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2389reute
-u f BC-AMERICAN-PETROFINA-A   04-01 0088</field>
-	<field name = "TITLE">AMERICAN PETROFINA API.A>AUDIT REPORT QUALIFIED</field>
+	<field name = "titulo">AMERICAN PETROFINA API.A>AUDIT REPORT QUALIFIED</field>
 	<field name = "DATELINE">DALLAS, April 1 -</field>
-	<field name = "BODY">American Petrofina Inc said its auditor,
+	<field name = "content">American Petrofina Inc said its auditor,
 Peat Marwick Mitchell and Co, has qualified its opinion of the
 company's annual report because of the unknown impact of the
 U.S. Energy Department's investigation into crude oil trading

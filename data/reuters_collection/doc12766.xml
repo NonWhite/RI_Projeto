@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 05:13:44.77</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0324reute
-u f BC-HORIZ0N-AGREES-TO-94.   04-03 0106</field>
-	<field name = "TITLE">HORIZ0N AGREES TO 94.8 MLN STG BID FROM BASS</field>
+	<field name = "titulo">HORIZ0N AGREES TO 94.8 MLN STG BID FROM BASS</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">Bass Plc BASS.L> and Horizon Travel
+	<field name = "content">Bass Plc BASS.L> and Horizon Travel
 Plc> said terms have been agreed for an offer worth around 94.8
 mln stg for Horizon by Bass.
     The offer values each Horizon share at some 0.213 of a Bass

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 14:47:20.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2282reute
-r f BC-WARNER-LAMBERT-WLA>   03-30 0097</field>
-	<field name = "TITLE">WARNER-LAMBERT WLA> WINS PACKAGING SUIT</field>
+	<field name = "titulo">WARNER-LAMBERT WLA> WINS PACKAGING SUIT</field>
 	<field name = "DATELINE">MORRIS PLAINS, N.J., March 30 -</field>
-	<field name = "BODY">Warner-Lambert Co said a
+	<field name = "content">Warner-Lambert Co said a
 federal court judgment resulted in My-K Laboratories Inc>
 agreeing to discontinue the sale of cough syrup and a
 children's allergy elixir because it imitates Warner-Lambert 

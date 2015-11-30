@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">RM
-f0043reute
-u f BC-MALAYSIA-MAY-CUT-BASE   04-27 0097</field>
-	<field name = "TITLE">MALAYSIA MAY CUT BASE LENDING RATE IN JUNE</field>
+	<field name = "titulo">MALAYSIA MAY CUT BASE LENDING RATE IN JUNE</field>
 	<field name = "DATELINE">KUALA LUMPUR, April 27 -</field>
-	<field name = "BODY">Malaysia may cut its base lending
+	<field name = "content">Malaysia may cut its base lending
 rate by 0.75 to one percentage point from a current 8.5 pct in
 June to stimulate economic growth, Finance Minister Daim
 Zainuddin said.

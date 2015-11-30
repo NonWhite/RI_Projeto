@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 15:05:27.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2330reute
-d f BC-MEDIQ-MED>-UNIT-IN-C   03-31 0057</field>
-	<field name = "TITLE">MEDIQ MED> UNIT IN CONTRACT</field>
+	<field name = "titulo">MEDIQ MED> UNIT IN CONTRACT</field>
 	<field name = "DATELINE">PENNSAUKEN, N.J., March 31 -</field>
-	<field name = "BODY">Mediq Inc said its Computer
+	<field name = "content">Mediq Inc said its Computer
 Health Corp unit has contracted with the Florida State
 Employees Health Insurance Plan to provide mobile health exams
 to about 100,000 employees and their spouses.

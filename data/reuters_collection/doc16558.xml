@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 14:13:32.03</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "ORGS">bis</field>
-	<field name = "UNKNOWN">RM
-f2137reute
-r f BC-BIS-HOLDS-REGULAR-MON   04-13 0052</field>
-	<field name = "TITLE">CENTRAL BANKERS HOLDS REGULAR BIS MONTHLY MEETING</field>
+	<field name = "titulo">CENTRAL BANKERS HOLDS REGULAR BIS MONTHLY MEETING</field>
 	<field name = "DATELINE">BASLE, Switzerland, April 13 -</field>
-	<field name = "BODY">Leading central bank
+	<field name = "content">Leading central bank
 governors held their routine monthly meeting at the Bank for
 International Settlements (BIS) here today, monetary sources
 said.

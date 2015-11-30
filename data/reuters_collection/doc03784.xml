@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 12:54:00.36</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0952reute
-d f BC-ENGINEERING-MEASUREME   03-11 0071</field>
-	<field name = "TITLE">ENGINEERING MEASUREMENTS CO EMCO> 3RD QTR NET</field>
+	<field name = "titulo">ENGINEERING MEASUREMENTS CO EMCO> 3RD QTR NET</field>
 	<field name = "DATELINE">LONGMONT, Colo., March 11 -</field>
-	<field name = "BODY">Qtr ends Jan 31
+	<field name = "content">Qtr ends Jan 31
     Shr four cts vs 12 cts
     Net 102,508 vs 264,910
     Revs 2,278,083 vs 2,536,312

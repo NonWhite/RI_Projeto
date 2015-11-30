@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">V RM
-f1504reute
-b f BC-/NO-DECISION-YET-ON-R   06-01 0097</field>
-	<field name = "TITLE">NO DECISION YET ON RENAMING VOLCKER AT FED</field>
+	<field name = "titulo">NO DECISION YET ON RENAMING VOLCKER AT FED</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">The White House said President Reagan
+	<field name = "content">The White House said President Reagan
 had made no decision on whether to reappoint Paul Volcker as
 chairman of the Federal Reserve Board when Volcker's term
 expires in August.

@@ -5,12 +5,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">balladur</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">V 
-f1659reute
-u f BC-BALLADUR-HAS-HAD-CONT   10-20 0097</field>
-	<field name = "TITLE">BALLADUR HAS HAD CONTACT WITH G-7 MINISTERS</field>
+	<field name = "titulo">BALLADUR HAS HAD CONTACT WITH G-7 MINISTERS</field>
 	<field name = "DATELINE">PARIS, Oct 20 -</field>
-	<field name = "BODY">French Finance Minister Edouard Balladur
+	<field name = "content">French Finance Minister Edouard Balladur
 has been in contact with several Finance Ministers from the
 Group of Seven leading industrial countries, in particular West
 German Finance Minister Gerhard Stoltenberg, to discuss the

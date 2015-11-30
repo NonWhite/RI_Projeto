@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM 
-f0399reute
-u f BC-S.-AFRICAN-RESERVE-BA   06-19 0114</field>
-	<field name = "TITLE">S. AFRICAN RESERVE BANK SAYS GROWTH RATE ON TARGET</field>
+	<field name = "titulo">S. AFRICAN RESERVE BANK SAYS GROWTH RATE ON TARGET</field>
 	<field name = "DATELINE">JOHANNESBURG, June 19 -</field>
-	<field name = "BODY">South Africa recorded annualised
+	<field name = "content">South Africa recorded annualised
 real growth in GDP of 3.25 pct in the first quarter of this
 year and the economy should achieve the government's target of
 three pct growth for 1987, the Reserve Bank said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:35:27.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f3850reute
-b f BC-/1988-U.S.-BUDGET-CLE   06-18 0094</field>
-	<field name = "TITLE">1988 U.S. BUDGET CLEARED BY COMMITTEE</field>
+	<field name = "titulo">1988 U.S. BUDGET CLEARED BY COMMITTEE</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">A joint House-Senate committee
+	<field name = "content">A joint House-Senate committee
 formally approved a 1988 budget plan certain to touch off a
 battle with President Reagan over taxes and defense.
     The budget, a compromise of earlier House and Senate

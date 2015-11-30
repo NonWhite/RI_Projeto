@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:26:10.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1789reute
-u f BC-MERCK-MRK>,-SQUIBB-   06-19 0107</field>
-	<field name = "TITLE">MERCK MRK>, SQUIBB SQB> BENEFIT FROM STUDY</field>
+	<field name = "titulo">MERCK MRK>, SQUIBB SQB> BENEFIT FROM STUDY</field>
 	<field name = "AUTHOR">By Samuel Fromartz, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Merck Co MRK> and Squibb Corp SQB>
+	<field name = "content">Merck Co MRK> and Squibb Corp SQB>
 will benefit from a study that shows lower levels of blood
 cholesterol slows the build-up of fat in the heart's arteries,
 lowering the risk of heart attacks, industry analysts said.

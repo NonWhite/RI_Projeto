@@ -4,12 +4,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f1145reute
-u f BC-EC-MUST-EXPLAIN-FARM   04-02 0112</field>
-	<field name = "TITLE">EC MUST EXPLAIN FARM POLICY TO U.S., FRANCE SAYS</field>
+	<field name = "titulo">EC MUST EXPLAIN FARM POLICY TO U.S., FRANCE SAYS</field>
 	<field name = "DATELINE">PARIS, April 2 -</field>
-	<field name = "BODY">The U.S. and the European Community could
+	<field name = "content">The U.S. and the European Community could
 enter into a new trade dispute unless urgent action is taken to
 explain EC farm policy to the U.S. Congress, French official
 sources said.

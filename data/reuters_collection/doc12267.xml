@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 15:43:06.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2313reute
-r f BC-DOE-SEEKS-SUPERCOLLID   04-01 0114</field>
-	<field name = "TITLE">DOE SEEKS SUPERCOLLIDER SITE PROPOSALS</field>
+	<field name = "titulo">DOE SEEKS SUPERCOLLIDER SITE PROPOSALS</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">The Energy Department issued an
+	<field name = "content">The Energy Department issued an
 invitation for site proposals from states or others for its 4.4
 billion dlr Super Conducting Supercollider atom smasher.
     Department officials said there is expected to be tough

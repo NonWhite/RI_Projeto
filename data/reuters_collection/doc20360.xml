@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 11:43:09.44</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f1708reute
-r f BC-Jannock   10-20 0022</field>
-	<field name = "TITLE">JANNOCK LTD JN.TO> INCREASES QTLY DIVIDEND</field>
+	<field name = "titulo">JANNOCK LTD JN.TO> INCREASES QTLY DIVIDEND</field>
 	<field name = "DATELINE">TORONTO, Oct 20 -</field>
-	<field name = "BODY">Qtly div 17 cts vs 13 cts
+	<field name = "content">Qtly div 17 cts vs 13 cts
     Pay Jan one
     Record Dec four
  Reuter</field>

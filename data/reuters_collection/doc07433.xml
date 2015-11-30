@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 16:35:01.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2462reute
-h f BC-MMR-HOLDING-CORP-INIT   03-19 0079</field>
-	<field name = "TITLE">MMR HOLDING CORP INITIAL OFFERING PRICED</field>
+	<field name = "titulo">MMR HOLDING CORP INITIAL OFFERING PRICED</field>
 	<field name = "DATELINE">CHICAGO, March 19 -</field>
-	<field name = "BODY">The initial public offering of 1.1 mln
+	<field name = "content">The initial public offering of 1.1 mln
 shares of MMR Holding Corp common stock was priced at 13.50
 dlrs a share, said William Blair and Co and Howard, Weil,
 Labouisse, Friedrichs Inc, co-managers of the underwriting

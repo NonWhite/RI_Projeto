@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 07:17:55.57</field>
 	<field name = "TOPICS">tin</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">C M
-f0548reute
-u f BC-BULLETIN-SAYS-TIN-PRI   03-12 0120</field>
-	<field name = "TITLE">BULLETIN SAYS TIN PRICE MAY RISE TO 20 RINGGIT</field>
+	<field name = "titulo">BULLETIN SAYS TIN PRICE MAY RISE TO 20 RINGGIT</field>
 	<field name = "DATELINE">KUALA LUMPUR, March 12 -</field>
-	<field name = "BODY">The tin price is likely to rise to
+	<field name = "content">The tin price is likely to rise to
 20 ringgit a kilo this year because of the producers' accord on
 export quotas and the reluctance of brokers and banks to sell
 the metal at lower prices, a Malaysian government bulletin

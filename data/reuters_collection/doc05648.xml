@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 15:42:13.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3483reute
-r f BC-ADVANCED-MICRO-AMD>   03-16 0099</field>
-	<field name = "TITLE">ADVANCED MICRO AMD> PLANS NEW MICROPROCESSOR</field>
+	<field name = "titulo">ADVANCED MICRO AMD> PLANS NEW MICROPROCESSOR</field>
 	<field name = "DATELINE">SUNNYVALE, Calif., March 16 -</field>
-	<field name = "BODY">Advanced Micro Devices said
+	<field name = "content">Advanced Micro Devices said
 it plans to build the first of a new generation of 32-bit CMOS
 microprocessors designed to operate three to five times faster
 than the 32-bit devices currently built.

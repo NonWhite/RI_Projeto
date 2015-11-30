@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 10:29:46.99</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM F A
-f0367reute
-u f BC-SENATE'S-PROXMIRE-URG   03-04 0100</field>
-	<field name = "TITLE">SENATE'S PROXMIRE URGES CURBS ON TAKEOVERS</field>
+	<field name = "titulo">SENATE'S PROXMIRE URGES CURBS ON TAKEOVERS</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">Senate Banking Committee chairman
+	<field name = "content">Senate Banking Committee chairman
 William Proxmire called for curbs of hostile corporate
 takeovers and new restrictions on risk arbitrageurs.
     "At the very least, it is high time that we require all risk

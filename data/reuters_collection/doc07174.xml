@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:19:04.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1281reute
-r f BC-GTE-GTE>-SELLS-DEBEN   03-19 0111</field>
-	<field name = "TITLE">GTE GTE> SELLS DEBENTURES YIELDING 8.737 PCT</field>
+	<field name = "titulo">GTE GTE> SELLS DEBENTURES YIELDING 8.737 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">GTE Corp is raising 250 mln dlrs
+	<field name = "content">GTE Corp is raising 250 mln dlrs
 through an offering of debentures due 2017 yielding 8.737 pct,
 said sole underwriter UBS Securities Inc.
     UBS, the U.S. unit of Union Bank of Switzerland, won the

@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 09:24:09.43</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0205reute
-r f BC-HOLIDAY-CORP-HIA>-SE   04-17 0071</field>
-	<field name = "TITLE">HOLIDAY CORP HIA> SELLS STAKE IN VENTURE</field>
+	<field name = "titulo">HOLIDAY CORP HIA> SELLS STAKE IN VENTURE</field>
 	<field name = "DATELINE">WICHITA, Ka., April 17 -</field>
-	<field name = "BODY">Residence Inn Corp said it has
+	<field name = "content">Residence Inn Corp said it has
 agreed to buy Holiday Corp out of their equaly-owned joint
 venture for 51.4 mln dlrs, with closing expected within the
 next few weeks.

@@ -6,12 +6,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">V RM
-f0704reute
-b f BC-/U.S.-COMMERCE'S-ORTN   03-05 0085</field>
-	<field name = "TITLE">U.S. COMMERCE'S ORTNER SAYS YEN UNDERVALUED</field>
+	<field name = "titulo">U.S. COMMERCE'S ORTNER SAYS YEN UNDERVALUED</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Commerce Dept. undersecretary of
+	<field name = "content">Commerce Dept. undersecretary of
 economic affairs Robert Ortner said that he believed the dollar
 at  current levels was fairly priced against most European
 currencies.

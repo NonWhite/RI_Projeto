@@ -5,12 +5,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">rapeseed</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">C G
-f0752reute
-u f BC-WEST-GERMAN-BARLEY,-R   03-23 0094</field>
-	<field name = "TITLE">WEST GERMAN BARLEY, RAPE AFFECTED BY WINTER KILL</field>
+	<field name = "titulo">WEST GERMAN BARLEY, RAPE AFFECTED BY WINTER KILL</field>
 	<field name = "DATELINE">HAMBURG, March 23 -</field>
-	<field name = "BODY">Winter kill has probably affected West
+	<field name = "content">Winter kill has probably affected West
 German winter barley and rapeseed to an above average degree
 this season, West German grain trader Alfred C. Toepfer said in
 its latest report.

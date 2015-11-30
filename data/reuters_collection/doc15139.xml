@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 12:41:38.39</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">RM
-f1773reute
-u f BC-POLAND-REASSURES-CRED   04-08 0115</field>
-	<field name = "TITLE">POLAND REASSURES CREDITORS ON ECONOMIC REFORMS</field>
+	<field name = "titulo">POLAND REASSURES CREDITORS ON ECONOMIC REFORMS</field>
 	<field name = "DATELINE">STOCKHOLM, April 8 -</field>
-	<field name = "BODY">Plans to rejuvenate Poland's economy
+	<field name = "content">Plans to rejuvenate Poland's economy
 by reducing central government control would help reassure
 Western creditors that the country's economy was safe to invest
 in, a senior Polish official said.

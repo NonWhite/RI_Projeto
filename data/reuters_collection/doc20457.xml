@@ -3,12 +3,9 @@
 	<field name = "TOPICS">tin</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">itc</field>
-	<field name = "UNKNOWN">M 
-f2410reute
-r f BC-TIN-COUNCIL-ALLOWED-A   10-20 0109</field>
-	<field name = "TITLE">TIN COUNCIL ALLOWED APPEAL ON USE OF DOCUMENTS</field>
+	<field name = "titulo">TIN COUNCIL ALLOWED APPEAL ON USE OF DOCUMENTS</field>
 	<field name = "DATELINE">LONDON, Oct 20 -</field>
-	<field name = "BODY">Britain's highest court has decided the
+	<field name = "content">Britain's highest court has decided the
 International Tin Council (ITC) can appeal over the use of ITC
 documents in court actions.
     On November 2 the House of Lords will decide if and to what

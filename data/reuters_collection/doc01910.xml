@@ -2,13 +2,10 @@
 	<field name = "DATE">5-MAR-1987 01:54:56.80</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0284reute
-u f BC-ECONOMIC-SPOTLIGHT--   03-05 0110</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - EUROYEN BOND ISSUES INCREASE</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - EUROYEN BOND ISSUES INCREASE</field>
 	<field name = "AUTHOR">By Jeff Stearns, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 5 -</field>
-	<field name = "BODY">The easing of rules governing overseas use
+	<field name = "content">The easing of rules governing overseas use
 of the yen has caused an explosion of Euroyen bond activity but
 has failed to turn the yen into a truly international currency,
 bond managers and traders said.

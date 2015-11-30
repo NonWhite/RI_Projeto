@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 12:55:41.32</field>
 	<field name = "TOPICS">fuel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y 
-f2167reute
-r f BC-GLOBAL-PETROLEUM-GNR   10-20 0091</field>
-	<field name = "TITLE">GLOBAL PETROLEUM GNR> UPS HEAVY FUEL PRICES</field>
+	<field name = "titulo">GLOBAL PETROLEUM GNR> UPS HEAVY FUEL PRICES</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Global Petroleum Corp said it had raised
+	<field name = "content">Global Petroleum Corp said it had raised
 the contract prices for heavy fuel oil from 25 cts to one dlr
 per barrel, effective today.
     The company said 0.3 pct fuel oil is up one dlr a barrel to

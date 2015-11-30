@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 19:31:59.80</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f2835reute
-b f BC-JAPAN-UNEMPLOYMENT-FA   03-30 0069</field>
-	<field name = "TITLE">JAPAN UNEMPLOYMENT FALLS IN FEBRUARY</field>
+	<field name = "titulo">JAPAN UNEMPLOYMENT FALLS IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 31 -</field>
-	<field name = "BODY">Japan's seasonally adjusted unemployment
+	<field name = "content">Japan's seasonally adjusted unemployment
 rate fell to 2.9 pct in February from the record 3.0 pct in
 January, the government's Management and Coordination Agency
 said.

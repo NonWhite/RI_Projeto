@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 11:10:07.33</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0505reute
-u f BC-WALL-STREET-STOCKS/AM   03-09 0113</field>
-	<field name = "TITLE">WALL STREET STOCKS/AMERICAN EXPRESS AXP></field>
+	<field name = "titulo">WALL STREET STOCKS/AMERICAN EXPRESS AXP></field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">American Express Co's stock fell
+	<field name = "content">American Express Co's stock fell
 sharply, reflecting, in part, investors' disappointment that
 the company did not make an announcement about its plans for
 brokerage unit Shearson Lehman Brothers, traders said.

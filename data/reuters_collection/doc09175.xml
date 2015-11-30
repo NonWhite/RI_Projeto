@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 05:13:52.81</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0306reute
-u f BC-SWISS-BANK-NET-FOREIG   03-25 0117</field>
-	<field name = "TITLE">SWISS BANK NET FOREIGN ASSESTS UP IN 4TH QUARTER</field>
+	<field name = "titulo">SWISS BANK NET FOREIGN ASSESTS UP IN 4TH QUARTER</field>
 	<field name = "DATELINE">ZURICH, March 25 -</field>
-	<field name = "BODY">Net foreign assets of Swiss banks rose
+	<field name = "content">Net foreign assets of Swiss banks rose
 by 3.5 billion Swiss francs to 71.2 billion francs in the
 fourth quarter of 1986, due to increased interbank business and
 purchases of foreign securities, the Swiss National Bank said.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0034reute
-r f BC-U.S.-SEES-MORE-HARMON   03-29 0089</field>
-	<field name = "TITLE">U.S. SEES MORE HARMONY IN TALKS WITH FRANCE</field>
+	<field name = "titulo">U.S. SEES MORE HARMONY IN TALKS WITH FRANCE</field>
 	<field name = "DATELINE">WASHINGTON, March 29 -</field>
-	<field name = "BODY">The U.S. Expects more harmonious
+	<field name = "content">The U.S. Expects more harmonious
 talks than usual during French Prime Minister Jacques Chirac's
 first official visit this week as frequently rancorous disputes
 between the two countries begin to fade.

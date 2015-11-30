@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 13:58:05.51</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0147reute
-u f BC-SIEMENS-WANTS-TO-AMEN   03-06 0105</field>
-	<field name = "TITLE">SIEMENS WANTS TO AMEND TELECOM PLUS TELE> PACT</field>
+	<field name = "titulo">SIEMENS WANTS TO AMEND TELECOM PLUS TELE> PACT</field>
 	<field name = "DATELINE">BOCA RATON, Fla., March 6 -</field>
-	<field name = "BODY">Telecom Plus International Inc
+	<field name = "content">Telecom Plus International Inc
 said Siemens AG>'s Siemens Information Systems wants to amend
 its agreement to purchase Telecom's 65 pct interest in Tel Plus
 Communications to delay payment of 25 mln dlrs for 11 months.

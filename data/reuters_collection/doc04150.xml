@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 08:31:27.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0753reute
-d f BC-CALIFORNIA-WORKERS-EN   03-12 0124</field>
-	<field name = "TITLE">CALIFORNIA WORKERS END LONG CANNERY STRIKE</field>
+	<field name = "titulo">CALIFORNIA WORKERS END LONG CANNERY STRIKE</field>
 	<field name = "DATELINE">WATSONVILLE, Calif, March 12 -</field>
-	<field name = "BODY">An 18-month strike against
+	<field name = "content">An 18-month strike against
 Watsonville Canning and Frozen Foods, one of California's
 largest food processors, ended with workers overwhelmingly
 ratifying a new contract.

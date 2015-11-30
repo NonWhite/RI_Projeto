@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 13:05:49.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1749reute
-r f BC-TIERCO-TIER>-SELLS-N   04-03 0057</field>
-	<field name = "TITLE">TIERCO TIER> SELLS NOTE</field>
+	<field name = "titulo">TIERCO TIER> SELLS NOTE</field>
 	<field name = "DATELINE">OKLAHOMA CITY, April 3 -</field>
-	<field name = "BODY">Tierco Group INc said it sold at
+	<field name = "content">Tierco Group INc said it sold at
 par to the Kuwait Real Estate INvestment and Management Co its
 10 mln dlrs 75. pct senior subordinated note due 1997, together
 with warrants to buy 1.1 mln shares of common stock.

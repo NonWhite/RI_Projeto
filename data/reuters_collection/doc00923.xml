@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 05:43:28.79</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0814
-reute
-u f BC-SWISS-CAPITAL-EXPORTS   03-03 0088</field>
-	<field name = "TITLE">SWISS CAPITAL EXPORTS RISE IN JANUARY</field>
+	<field name = "titulo">SWISS CAPITAL EXPORTS RISE IN JANUARY</field>
 	<field name = "DATELINE">ZURICH, March 3 -</field>
-	<field name = "BODY">Swiss capital exports rose to 4.64
+	<field name = "content">Swiss capital exports rose to 4.64
 billion francs in January after 2.54 billion in December and a
 year earlier 3.64 billion, the Swiss National Bank said.
     New bond issues accounted for 4.12 billion of the total

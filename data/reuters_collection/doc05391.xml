@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 10:51:58.78</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">RM
-f2327reute
-u f BC-SWEDISH-UNEMPLOYMENT   03-16 0113</field>
-	<field name = "TITLE">SWEDISH UNEMPLOYMENT DOWN AS DATA IS REVISED</field>
+	<field name = "titulo">SWEDISH UNEMPLOYMENT DOWN AS DATA IS REVISED</field>
 	<field name = "DATELINE">STOCKHOLM, March 16 -</field>
-	<field name = "BODY">A new method of calculating Sweden's
+	<field name = "content">A new method of calculating Sweden's
 unemployment figures reduced the number of jobless by a sixth,
 a spokesman for the Central Bureau of Statistics (SCB) said,
 reporting a substantial drop in the past year.

@@ -6,13 +6,10 @@
 	<field name = "PLACES">south-korea</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM A
-f1118reute
-r f BC--ECONOMIC-SPOTLIGHT--   03-19 0105</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - U.S. DEFICIT WITH NICs</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - U.S. DEFICIT WITH NICs</field>
 	<field name = "AUTHOR">By Claire Miller, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">The U.S. trade deficit with Taiwan and
+	<field name = "content">The U.S. trade deficit with Taiwan and
 Korea is expected to widen this year, despite some economic and
 currency adjustments by the two newly industrialized countries,
 economists said.

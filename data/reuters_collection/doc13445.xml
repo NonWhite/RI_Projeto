@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 05:01:32.16</field>
-	<field name = "UNKNOWN">RM F
-f0213reute
-u f BC-EUROBOND-MARKET-GENER   04-07 0108</field>
-	<field name = "TITLE">EUROBOND MARKET GENERALLY FIRMER WHERE CHANGED</field>
+	<field name = "titulo">EUROBOND MARKET GENERALLY FIRMER WHERE CHANGED</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Secondary sectors of the eurobond market,
+	<field name = "content">Secondary sectors of the eurobond market,
 where changed, were generally firmer in quiet morning trading
 with attention again tending to focus on currencies other than
 the dollar, dealers said.

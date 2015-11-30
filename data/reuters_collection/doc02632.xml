@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">V RM
-f0411reute
-b f BC-/BAKER-DENIES-CHANGE   03-06 0066</field>
-	<field name = "TITLE">BAKER DENIES CHANGE IN U.S. POLICY ON DOLLAR</field>
+	<field name = "titulo">BAKER DENIES CHANGE IN U.S. POLICY ON DOLLAR</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 there has been no change in U.S. policy on the value of the
 dollar.
     Baker, when asked if the policy was changed in view of

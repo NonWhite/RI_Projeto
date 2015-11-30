@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:19:07.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1580reute
-h f BC-ASTROCOM-ACOM>-ADDS   03-20 0103</field>
-	<field name = "TITLE">ASTROCOM ACOM> ADDS NEW NETWORKING PRODUCTS</field>
+	<field name = "titulo">ASTROCOM ACOM> ADDS NEW NETWORKING PRODUCTS</field>
 	<field name = "DATELINE">ST. PAUL, March 20 -</field>
-	<field name = "BODY">Astrocom Corp said it added two new
+	<field name = "content">Astrocom Corp said it added two new
 products aimed at improving on-premise data network efficiency.
     Its ATDM/MS six-port time-division multiplexor is designed
 to combine and send data from up to 18 remove terminals on a

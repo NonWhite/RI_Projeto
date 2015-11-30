@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 15:57:38.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2308reute
-r f BC-MOODY'S-MAY-CUT-ECOLA   03-23 0108</field>
-	<field name = "TITLE">MOODY'S MAY CUT ECOLAB ECL>, UP CHEMLAWN CHEM></field>
+	<field name = "titulo">MOODY'S MAY CUT ECOLAB ECL>, UP CHEMLAWN CHEM></field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 may downgrade the ratings of Ecolab Inc's 25 mln dlrs of debt
 and upgrade ChemLawn Corp's 15 mln dlrs of debt.
     The agency cited Ecolab's definitive agreement to acquire

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">south-africa</field>
 	<field name = "PEOPLE">de-kock</field>
-	<field name = "UNKNOWN">RM A
-f0665reute
-u f BC-SOUTH-AFRICAN-FOREIGN   03-04 0101</field>
-	<field name = "TITLE">SOUTH AFRICAN FOREIGN RESERVES UP SHARPLY IN FEB</field>
+	<field name = "titulo">SOUTH AFRICAN FOREIGN RESERVES UP SHARPLY IN FEB</field>
 	<field name = "DATELINE">JOHANNESBURG, March 4 -</field>
-	<field name = "BODY">South Africa's total gold and
+	<field name = "content">South Africa's total gold and
 foreign assets rose by 700 mln rand in February to 6.2 billion
 rand after rising by almost one billion rand in January,
 Reserve Bank Governor Gerhard de Kock said.

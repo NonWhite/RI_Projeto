@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 08:27:21.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0629reute
-r f BC-WESTRONIX-WSTX>-COMP   04-09 0027</field>
-	<field name = "TITLE">WESTRONIX WSTX> COMPLETES STOCK SALE</field>
+	<field name = "titulo">WESTRONIX WSTX> COMPLETES STOCK SALE</field>
 	<field name = "DATELINE">MIDVALE, Utah, April 9 -</field>
-	<field name = "BODY">Westronix Inc said it has
+	<field name = "content">Westronix Inc said it has
 completed the private sale of 2,500,000 common shares at 2.30
 dlrs each.
  Reuter</field>

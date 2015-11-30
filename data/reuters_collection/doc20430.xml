@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:13:47.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2288reute
-d f BC-ACETO-ACET.O>-BOOSTS   10-20 0051</field>
-	<field name = "TITLE">ACETO ACET.O> BOOSTS SHARE REPURCHASE</field>
+	<field name = "titulo">ACETO ACET.O> BOOSTS SHARE REPURCHASE</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Aceto Corp said its board increased its
+	<field name = "content">Aceto Corp said its board increased its
 authorized share repurchase program to 500,000 shares from
 200,000. The shares will be bought in the open market.
     It has bought back 185,422 shares under the previously

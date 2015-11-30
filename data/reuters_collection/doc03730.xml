@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:43:16.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0654reute
-d f BC-BELLSOUTH-BSC>-UNIT   03-11 0097</field>
-	<field name = "TITLE">BELLSOUTH BSC> UNIT OFFERS NEW TELEPHONE SYSTEM</field>
+	<field name = "titulo">BELLSOUTH BSC> UNIT OFFERS NEW TELEPHONE SYSTEM</field>
 	<field name = "DATELINE">BIRMINGHAM, Ala., March 11 -</field>
-	<field name = "BODY">BellSouth Advanced Systems, a
+	<field name = "content">BellSouth Advanced Systems, a
 unit of BellSouth Corp, said it has introduced a private
 telephone system, called BellSouth System 30, offering smaller
 companies a wide range of advanced telecommunications services.

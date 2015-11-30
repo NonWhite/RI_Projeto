@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 13:50:06.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2086reute
-d f BC-PUTNAM-LAUNHCES-NEW-G   06-02 0076</field>
-	<field name = "TITLE">PUTNAM LAUNHCES NEW GLOBAL INCOME FUND</field>
+	<field name = "titulo">PUTNAM LAUNHCES NEW GLOBAL INCOME FUND</field>
 	<field name = "DATELINE">BOSTON, June 2 -</field>
-	<field name = "BODY">Putnam Financial Services Inc said its
+	<field name = "content">Putnam Financial Services Inc said its
 newest fund offering, Putnam Global Governmental Income Trust,
 is among the few global funds with an investment objective of
 high current income through a portfolio of mainly government

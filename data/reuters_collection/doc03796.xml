@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 13:09:22.58</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0022reute
-u f BC-CAESARS   03-11 0109</field>
-	<field name = "TITLE">SOSNOFF SAYS CAESARS CAW> OFFERED STOCK BUYBACK</field>
+	<field name = "titulo">SOSNOFF SAYS CAESARS CAW> OFFERED STOCK BUYBACK</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">Martin Sosnoff, who has offered to
+	<field name = "content">Martin Sosnoff, who has offered to
 buy Caesars World Inc for 28 dlrs a share, said senior
 officials of the company have offered to buy back the Caesars
 stake he already holds, now 13.6 pct of the total outstanding.

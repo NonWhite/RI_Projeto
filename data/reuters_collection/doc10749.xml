@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 06:12:28.52</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0492reute
-u f BC-BP-U.K.-REFINERY-DUE   03-30 0116</field>
-	<field name = "TITLE">BP U.K. REFINERY DUE TO PARTLY RE-OPEN NEXT WEEK</field>
+	<field name = "titulo">BP U.K. REFINERY DUE TO PARTLY RE-OPEN NEXT WEEK</field>
 	<field name = "DATELINE">LONDON, March 30 -</field>
-	<field name = "BODY">The British Petroleum Co PLC (BP.L) oil
+	<field name = "content">The British Petroleum Co PLC (BP.L) oil
 refinery at Grangemouth, closed after an explosion and fire
 eight days ago, is expected to partially reopen next week, a
 refinery spokesman said.

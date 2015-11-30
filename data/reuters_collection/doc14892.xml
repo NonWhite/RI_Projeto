@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 06:52:12.26</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0472reute
-u f BC-ELDERS-PLANS-TO-FLOAT   04-08 0113</field>
-	<field name = "TITLE">ELDERS PLANS TO FLOAT OFF COURAGE PUBS</field>
+	<field name = "titulo">ELDERS PLANS TO FLOAT OFF COURAGE PUBS</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">Elders IXL Ltd ELXA.S> plans to float
+	<field name = "content">Elders IXL Ltd ELXA.S> plans to float
 off the around 5,000 public houses belonging to its U.K.
 Subsidiary Courage Ltd to raise about one billion stg, Elders
 strategy executive director Stuart Kelso said.

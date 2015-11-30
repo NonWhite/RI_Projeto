@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:47:31.22</field>
-	<field name = "UNKNOWN">CQ GQ
-f1084reute
-u f BC-WINNIPEG-GRAIN-OPG-TR   04-07 0102</field>
-	<field name = "TITLE">WINNIPEG GRAIN OPG TRENDS 7-APR</field>
+	<field name = "titulo">WINNIPEG GRAIN OPG TRENDS 7-APR</field>
 	<field name = "DATELINE">MAY7    --</field>
-	<field name = "BODY">846
+	<field name = "content">846
  JUL7   877A          877
  OCT7    --           926
  DEC7    --           953

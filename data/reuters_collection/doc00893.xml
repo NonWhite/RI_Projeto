@@ -3,13 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0604
-reute
-u f BC-JAPAN-MOVES-TO-TIGHTE   03-03 0105</field>
-	<field name = "TITLE">JAPAN MOVES TO TIGHTEN CHIP-EXPORT CURBS</field>
+	<field name = "titulo">JAPAN MOVES TO TIGHTEN CHIP-EXPORT CURBS</field>
 	<field name = "DATELINE">TOKYO, March 3 -</field>
-	<field name = "BODY">The Ministry of International Trade and
+	<field name = "content">The Ministry of International Trade and
 Industry (MITI) acted to tighten restrictions on microchip
 exports to countries other than the U.S. To preserve a
 U.S.-Japan pact on semiconductor trade, but major Japanese

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 16:48:30.85</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0517reute
-u f BC-SPAIN-LIBERALISES-SOM   03-13 0096</field>
-	<field name = "TITLE">SPAIN LIBERALISES SOME EXCHANGES CONTROLS</field>
+	<field name = "titulo">SPAIN LIBERALISES SOME EXCHANGES CONTROLS</field>
 	<field name = "DATELINE">MADRID, March 13 -</field>
-	<field name = "BODY">The Bank of Spain said it approved a
+	<field name = "content">The Bank of Spain said it approved a
 package of measures liberalising some exchange controls and
 easing some restrictions on the raising of foreign funds.
     It said in a statement that the circulars were the latest

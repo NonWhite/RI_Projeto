@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 13:43:45.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2052reute
-r f BC-IMMUNEX-IMNX>-GETS-F   03-31 0105</field>
-	<field name = "TITLE">IMMUNEX IMNX> GETS FDA OKAY FOR HUMAN TESTS</field>
+	<field name = "titulo">IMMUNEX IMNX> GETS FDA OKAY FOR HUMAN TESTS</field>
 	<field name = "DATELINE">SEATTLE, March 31 -</field>
-	<field name = "BODY">Immunex Corp said it received Food and
+	<field name = "content">Immunex Corp said it received Food and
 Drug Administration approval to begin human clinical testing of
 a protein as a possible treatment for cancer.
     The company said the protein, granulocyte-macrophage colony

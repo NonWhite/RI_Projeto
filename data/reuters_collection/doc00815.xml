@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 17:15:02.61</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">M
-f0186
-reute
-u f BC-us-brsmill-copper-stk   03-02 0117</field>
-	<field name = "TITLE">U.S. BRASS MILL COPPER STOCKS LOWER IN JANUARY</field>
+	<field name = "titulo">U.S. BRASS MILL COPPER STOCKS LOWER IN JANUARY</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">U.S. brass mill copper stocks fell to
+	<field name = "content">U.S. brass mill copper stocks fell to
 185,400 short tons (copper content) at the end of January from
 191,200 short tons at the end of December, according to the
 American Bureau of Metal Statistics.

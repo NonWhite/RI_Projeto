@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:57:06.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3935reute
-d f BC-SANFORD-CORP-SANF.O>   06-18 0042</field>
-	<field name = "TITLE">SANFORD CORP SANF.O> 2ND QTR MAY 31 NET</field>
+	<field name = "titulo">SANFORD CORP SANF.O> 2ND QTR MAY 31 NET</field>
 	<field name = "DATELINE">BELLWOOD, Ill., June 18 -</field>
-	<field name = "BODY">Shr 44 cts vs 23 cts
+	<field name = "content">Shr 44 cts vs 23 cts
     Net 3,050,000 vs 1,555,000
     Sales 21.0 mln vs 19.2 mln
     1st half

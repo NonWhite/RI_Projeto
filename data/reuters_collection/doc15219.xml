@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 14:08:02.04</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">pakistan</field>
-	<field name = "UNKNOWN">C G
-f2108reute
-u f BC-PAKISTAN-COTTON-CROP   04-08 0124</field>
-	<field name = "TITLE">PAKISTAN COTTON CROP SEEN RECORD 7.6 MLN BALES</field>
+	<field name = "titulo">PAKISTAN COTTON CROP SEEN RECORD 7.6 MLN BALES</field>
 	<field name = "DATELINE">KARACHI, April 8 -</field>
-	<field name = "BODY">Pakistan is likely to produce a record
+	<field name = "content">Pakistan is likely to produce a record
 7.6 mln bales (375 lbs each) of cotton from the current 1986/87
 crop, exceeding a target of 7.2 mln bales, Food and Agriculture
 Minister Mohammad Ibrahim Baluch said.

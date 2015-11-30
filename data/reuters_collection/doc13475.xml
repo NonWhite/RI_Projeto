@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:30:09.95</field>
-	<field name = "UNKNOWN">C G
-f0355reute
-u f BC-ROTTERDAM-GRAINS---AP   04-07 0080</field>
-	<field name = "TITLE">ROTTERDAM GRAINS - APR 7 Sellers rulling at 1200 local time in</field>
+	<field name = "titulo">ROTTERDAM GRAINS - APR 7 Sellers rulling at 1200 local time in</field>
 	<field name = "DATELINE">WHEAT -</field>
-	<field name = "BODY">No Two Soft Red Winter Jne 129.50 up 1.50       Jly
+	<field name = "content">No Two Soft Red Winter Jne 129.50 up 1.50       Jly
 124.50 up 1.50 Aug 126.50 up 1.50       Sep 127.50 up 1.50
     US Northern Spring 14 pct protein Apl/May 139.50 up one   
 Jne 139 up 0.50 Jly 138 down 0.50        Aug 134.50 up 0.50

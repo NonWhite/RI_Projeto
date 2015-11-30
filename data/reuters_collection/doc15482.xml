@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">C G L M T
-f0731reute
-u f BC-MIYAZAWA-SAYS-YEN-STI   04-09 0102</field>
-	<field name = "TITLE">MIYAZAWA SAYS YEN STILL INSIDE PARIS RANGE</field>
+	<field name = "titulo">MIYAZAWA SAYS YEN STILL INSIDE PARIS RANGE</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Japanese Finance Minister Kiichi
+	<field name = "content">Japanese Finance Minister Kiichi
 Miyazawa said the strengthening of the yen against the dollar
 since the Paris Agreement was within the range agreed in the
 Louvre discussions.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">F RM
-f2060reute
-b f BC-TREASURY'S-BAKER-OUTL   03-25 0095</field>
-	<field name = "TITLE">TREASURY'S BAKER OUTLINES TRADE BILL CRITICISMS</field>
+	<field name = "titulo">TREASURY'S BAKER OUTLINES TRADE BILL CRITICISMS</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 that some of the trade bills proposed by Congress conflict
 significantly with certain basic principles the Reagan
 administration considers critical.

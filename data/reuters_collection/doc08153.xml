@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 05:12:02.83</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f0289reute
-u f BC-TOSHIBA-SETS-UP-HONG   03-23 0073</field>
-	<field name = "TITLE">TOSHIBA SETS UP HONG KONG CIRCUIT DESIGN CENTRE</field>
+	<field name = "titulo">TOSHIBA SETS UP HONG KONG CIRCUIT DESIGN CENTRE</field>
 	<field name = "DATELINE">TOKYO, March 23 -</field>
-	<field name = "BODY">Toshiba Corp TSBA.T> said it has set up
+	<field name = "content">Toshiba Corp TSBA.T> said it has set up
 a design centre for large integrated circuits (LSI) in Hong
 Kong.
     The centre, located at its wholly-owned Hong Kong

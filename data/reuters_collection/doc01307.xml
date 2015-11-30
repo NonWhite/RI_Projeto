@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 16:03:42.64</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0852reute
-u f BC-TREASURY-BALANCES-AT   03-03 0082</field>
-	<field name = "TITLE">TREASURY BALANCES AT FED ROSE ON FEB 27</field>
+	<field name = "titulo">TREASURY BALANCES AT FED ROSE ON FEB 27</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">Treasury balances at the Federal
+	<field name = "content">Treasury balances at the Federal
 Reserve rose on Feb 27 to 3.482 billion dlrs from 1.538 billion
 dlrs the previous business day, the Treasury said in its latest
 budget statement.

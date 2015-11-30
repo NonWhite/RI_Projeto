@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 12:56:44.99</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f2176reute
-u f BC-DONALD-REGAN-SAYS-U.S   10-20 0116</field>
-	<field name = "TITLE">DONALD REGAN SAYS U.S. SHOULD EASE CREDIT SUPPLY</field>
+	<field name = "titulo">DONALD REGAN SAYS U.S. SHOULD EASE CREDIT SUPPLY</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">Donald Regan, President Reagan's
+	<field name = "content">Donald Regan, President Reagan's
 former chief of staff, said the government should loosen the
 money supply, try to keep interest rates down and try to reduce
 the federal budget and trade deficits to avoid a recession.

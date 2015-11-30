@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:05:20.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM 
-f1447reute
-u f BC-FINANCIAL-CORP-FIN>   10-19 0102</field>
-	<field name = "TITLE">FINANCIAL CORP FIN> LOAN SALES DOWN IN QTR</field>
+	<field name = "titulo">FINANCIAL CORP FIN> LOAN SALES DOWN IN QTR</field>
 	<field name = "DATELINE">IRVINE, Calif., Oct 19 -</field>
-	<field name = "BODY">Financial Corp of America, in
+	<field name = "content">Financial Corp of America, in
 reporting a third quarter loss, said gains on the sale of loans
 and mortgage-backed securities, which has been the company's
 main source of profit during the past two years, fell to 12.4

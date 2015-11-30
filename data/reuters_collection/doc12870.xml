@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 09:51:38.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0950reute
-r f BC-NYNEX-NYN>-TO-SELL-N   04-03 0098</field>
-	<field name = "TITLE">NYNEX NYN> TO SELL NEW IBM IBM> COMPUTERS</field>
+	<field name = "titulo">NYNEX NYN> TO SELL NEW IBM IBM> COMPUTERS</field>
 	<field name = "DATELINE">WHITE PLAINS, N.Y., April 3 -</field>
-	<field name = "BODY">Nynex Corp said its Nynex
+	<field name = "content">Nynex Corp said its Nynex
 Business Centers on Monday will start marketing International
 Business Machine Corp's new line of personal computers.
     The company said the computers will be available for

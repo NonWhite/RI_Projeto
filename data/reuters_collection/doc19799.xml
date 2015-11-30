@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 13:58:18.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2036reute
-r f BC-COURT-TO-HEAR-NEC-LAW   06-29 0077</field>
-	<field name = "TITLE">COURT TO HEAR NEC LAWSUIT PETITION</field>
+	<field name = "titulo">COURT TO HEAR NEC LAWSUIT PETITION</field>
 	<field name = "DATELINE">MOUNTAIN VIEW, Calif., June 29 -</field>
-	<field name = "BODY">Nec Electronics Inc said
+	<field name = "content">Nec Electronics Inc said
 the U.S. Ninth District Circuit Court of Appeals has agreed to
 hear the company's petition seeking the disqualification of the
 judge presiding over its lawsuit against Intel Corp INTC.O>.

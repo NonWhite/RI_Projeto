@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 15:07:14.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0381reute
-r f BC-ATLANTIC-SOUTHEAST-A   03-11 0073</field>
-	<field name = "TITLE">ATLANTIC SOUTHEAST ASAI> TRAFFIC INCREASES</field>
+	<field name = "titulo">ATLANTIC SOUTHEAST ASAI> TRAFFIC INCREASES</field>
 	<field name = "DATELINE">COLLEGE PARK, Ga., March 11 -</field>
-	<field name = "BODY">Atlantic Southeast Airlines
+	<field name = "content">Atlantic Southeast Airlines
 Inc reported an 11.1 pct increase of revenue passenger miles
 during February 1987 from a year ago the same period.
     The regional carrier reported it flew 17.5 mln passenger

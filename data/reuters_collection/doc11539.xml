@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 13:53:07.84</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2082reute
-d f BC-ELSINORE-CORP-ELX>-Y   03-31 0085</field>
-	<field name = "TITLE">ELSINORE CORP ELX> YEAR LOSS</field>
+	<field name = "titulo">ELSINORE CORP ELX> YEAR LOSS</field>
 	<field name = "DATELINE">LAS VEGAS, Nev., March 31 -</field>
-	<field name = "BODY">Shr loss 4.05 dlrs vs loss 2.47 dlrs
+	<field name = "content">Shr loss 4.05 dlrs vs loss 2.47 dlrs
     Net loss 39,598,000 vs loss 24,152,000
     Revs 96.0 mln vs 87.9 mln
     Note: Current year figures include 7.2 mln dlr provision

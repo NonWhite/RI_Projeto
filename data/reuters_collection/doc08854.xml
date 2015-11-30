@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 12:18:17.96</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">F
-f1634reute
-u f BC-CHRYSLER,-LAMBORGHINI   03-24 0099</field>
-	<field name = "TITLE">CHRYSLER, LAMBORGHINI STILL IN JOINT VENTURE TALKS</field>
+	<field name = "titulo">CHRYSLER, LAMBORGHINI STILL IN JOINT VENTURE TALKS</field>
 	<field name = "DATELINE">BOLOGNA, Italy, March 24 -</field>
-	<field name = "BODY">Joint venture talks that could
+	<field name = "content">Joint venture talks that could
 lead to Chrysler Corp C> taking a stake in Italian car maker
 Automobili Lamborghini SpA> are continuing, a Lamborghini
 spokesman said.

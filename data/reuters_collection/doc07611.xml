@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V
-f0618reute
-u f BC-REAGAN-SAYS-U.S.-STIL   03-20 0106</field>
-	<field name = "TITLE">REAGAN SAYS U.S. STILL PROBING ACID RAIN PROBLEM</field>
+	<field name = "titulo">REAGAN SAYS U.S. STILL PROBING ACID RAIN PROBLEM</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">President Reagan said the U.S.
+	<field name = "content">President Reagan said the U.S.
 government is still looking into the problem of acid rain.
     "We're still investigating this," he told a nationally
 televised news conference.

@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:42:44.88</field>
-	<field name = "UNKNOWN">F
-f0570
-reute
-h f BC-PACKAGING-SYSTEMS-COR   03-02 0097</field>
-	<field name = "TITLE">PACKAGING SYSTEMS CORP PAKS> 4TH QTR NET</field>
+	<field name = "titulo">PACKAGING SYSTEMS CORP PAKS> 4TH QTR NET</field>
 	<field name = "DATELINE">PEARL RIVER, N.Y., March 2 -</field>
-	<field name = "BODY">Oper shr eight cts vs five cts
+	<field name = "content">Oper shr eight cts vs five cts
     Oper net 164,000 vs 116,000
     Sales 8,059,000 vs 7,148,000
     Year

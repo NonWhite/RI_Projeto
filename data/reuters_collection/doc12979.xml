@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">chile</field>
-	<field name = "UNKNOWN">C M
-f1572reute
-r f BC-CHILE,-CHINA-JOINT-VE   04-03 0112</field>
-	<field name = "TITLE">CHILE, CHINA TO ESTABLISH PEKING COPPER PLANT</field>
+	<field name = "titulo">CHILE, CHINA TO ESTABLISH PEKING COPPER PLANT</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">The Chilean state copper corporation,
+	<field name = "content">The Chilean state copper corporation,
 Codelco, the privately-owned Chilean copper fabricator Madeco
 and Chinese interests are to establish a copper tube plant in
 Peking, Codelco's U.K. Subsidiary Chile Copper Ltd said.

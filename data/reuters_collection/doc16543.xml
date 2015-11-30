@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 13:54:49.75</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f2075reute
-h f BC-ELECTION-RESULT-MAY-D   04-13 0104</field>
-	<field name = "TITLE">ELECTION RESULT MAY DELAY JAPAN ECONOMIC STIMULUS</field>
+	<field name = "titulo">ELECTION RESULT MAY DELAY JAPAN ECONOMIC STIMULUS</field>
 	<field name = "AUTHOR">By Kunio Inoue, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 13 -</field>
-	<field name = "BODY">The ruling Liberal Democratic Party's
+	<field name = "content">The ruling Liberal Democratic Party's
 (LDP) setback in Sunday's nationwide local elections may force
 the government to water down its controversial proposal for a
 five pct sales tax and undermine its commitment to stimulating

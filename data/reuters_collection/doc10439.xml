@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:28:27.98F</field>
-	<field name = "UNKNOWN">f1029reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-TOKHEIM-TOK>-SEES-IM   03-27 0105</field>
-	<field name = "TITLE">TOKHEIM TOK> SEES IMPROVING SALES IN 1987</field>
+	<field name = "titulo">TOKHEIM TOK> SEES IMPROVING SALES IN 1987</field>
 	<field name = "DATELINE">FORT WAYNE, Ind., March 27 -</field>
-	<field name = "BODY">Tokheim Corp, manufacturer of
+	<field name = "content">Tokheim Corp, manufacturer of
 electronic petroleum marketing systems, said it expects
 shipments of Tokheim Convenience Systems (TCS), its new family
 of dispensers, to improve its sales trend throughout 1987.

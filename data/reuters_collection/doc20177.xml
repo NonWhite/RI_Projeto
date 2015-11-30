@@ -1,8 +1,5 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 09:32:03.60</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">V RM 
-f1001reute
-f f BC-CME-STANDARD-AN   10-20 0014</field>
-	<field name = "TITLE">CME STANDARD AND POOR'S 500 STOCK INDEX FUTURES OPEN MORE THAN 20 POINTS HIGHER</field>
+	<field name = "titulo">CME STANDARD AND POOR'S 500 STOCK INDEX FUTURES OPEN MORE THAN 20 POINTS HIGHER</field>
 </doc></add>

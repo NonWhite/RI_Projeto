@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 18:12:00.19</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3515reute
-d f BC-COMSHARE-INC-CSRE.O>   10-20 0030</field>
-	<field name = "TITLE">COMSHARE INC CSRE.O> 1ST QTR SEPT 30 LOSS</field>
+	<field name = "titulo">COMSHARE INC CSRE.O> 1ST QTR SEPT 30 LOSS</field>
 	<field name = "DATELINE">ANN ARBOR, Mich, Oct 20 -</field>
-	<field name = "BODY">Shr loss 35 cts vs profit 18 cts shr
+	<field name = "content">Shr loss 35 cts vs profit 18 cts shr
     Net loss 946,300 vs profit 502,500
     Revs 17.3 mln vs 16.8 mln
  Reuter</field>

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 16:19:07.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3158reute
-r f BC-GENERAL-HOST-GH>-TO   10-20 0078</field>
-	<field name = "TITLE">GENERAL HOST GH> TO BUY BACK SHARES</field>
+	<field name = "titulo">GENERAL HOST GH> TO BUY BACK SHARES</field>
 	<field name = "DATELINE">STAMFORD, Conn., Oct 20 -</field>
-	<field name = "BODY">General Host Corp said its board
+	<field name = "content">General Host Corp said its board
 authorized the repurchase of up to one mln additional shares of
 its common.
     It said previous buy back authorizations of 6.5 mln shares

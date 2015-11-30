@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:20:17.38F</field>
-	<field name = "UNKNOWN">f0996reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-SPARTECHSPTN>-SETS-R   03-27 0079</field>
-	<field name = "TITLE">SPARTECHSPTN> SETS REVERSE SPLIT,DEBENTURE SALE</field>
+	<field name = "titulo">SPARTECHSPTN> SETS REVERSE SPLIT,DEBENTURE SALE</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">Spartech Corp said it plans a one for
+	<field name = "content">Spartech Corp said it plans a one for
 five reverse stock split and has filed a registration statement
 with the Securities and Exchange Commission covering a planned
 25 mln dlr offering of convertible subordinated debentures due

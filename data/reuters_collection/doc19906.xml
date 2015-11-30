@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 16:33:29.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2501reute
-r f BC-INTERNATIONAL-BROADCA   06-29 0077</field>
-	<field name = "TITLE">INTERNATIONAL BROADCASTING IBCA.O> IN OFFERING</field>
+	<field name = "titulo">INTERNATIONAL BROADCASTING IBCA.O> IN OFFERING</field>
 	<field name = "DATELINE">MINNEAPOLIS, June 29 -</field>
-	<field name = "BODY">International Broadcasting Corp said
+	<field name = "content">International Broadcasting Corp said
 it plans to make a secondary public offering of between 700,000
 and 800,000 shares of common stock.
     The offering will be made through underwriters in

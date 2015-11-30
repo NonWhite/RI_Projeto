@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 05:03:38.51</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">F
-f0426reute
-u f BC-AMOCO-REPORTS-SOUTH-C   03-09 0073</field>
-	<field name = "TITLE">AMOCO REPORTS SOUTH CHINA SEA OIL FIND</field>
+	<field name = "titulo">AMOCO REPORTS SOUTH CHINA SEA OIL FIND</field>
 	<field name = "DATELINE">PEKING, March 9 -</field>
-	<field name = "BODY">The U.S. Amoco Petroleum Corp> has
+	<field name = "content">The U.S. Amoco Petroleum Corp> has
 reported an offshore oil find at its Pearl River basin
 concession in the South China Sea, the New China News Agency
 said.

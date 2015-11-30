@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:14:34.73</field>
-	<field name = "UNKNOWN">E RM
-f2533reute
-u f BC-CANADIAN-BONDS-CLOSE   04-07 0093</field>
-	<field name = "TITLE">CANADIAN BONDS CLOSE LOWER</field>
+	<field name = "titulo">CANADIAN BONDS CLOSE LOWER</field>
 	<field name = "DATELINE">TORONTO, April 7 -</field>
-	<field name = "BODY">Canadian bonds extended mild losses from
+	<field name = "content">Canadian bonds extended mild losses from
 early activity to close up to 3/4 of a point lower in moderate
 trading, dealers said.
     The decline reflected investor concern about economic

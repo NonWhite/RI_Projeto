@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 21:09:30.49</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM AI 
-f5084reute
-b f BC-ANZ-BANKING-GROUP-CUT   06-18 0092</field>
-	<field name = "TITLE">ANZ BANKING GROUP CUTS PRIME RATE TO 16.00 PCT</field>
+	<field name = "titulo">ANZ BANKING GROUP CUTS PRIME RATE TO 16.00 PCT</field>
 	<field name = "DATELINE">MELBOURNE, June 19 -</field>
-	<field name = "BODY">The Australia and New Zealand Banking
+	<field name = "content">The Australia and New Zealand Banking
 Group Ltd ANZA.S> said it will cut its prime rate to 16.00 pct
 from 16.50, effective June 22.
     The cut takes the ANZ's prime to the lower end of the range

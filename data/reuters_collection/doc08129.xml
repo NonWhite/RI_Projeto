@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 02:01:29.35</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f0073reute
-u f BC-ARIADNE-UNIT-CONFIRMS   03-23 0102</field>
-	<field name = "TITLE">ARIADNE UNIT CONFIRMS BID FOR SAN MIGUEL</field>
+	<field name = "titulo">ARIADNE UNIT CONFIRMS BID FOR SAN MIGUEL</field>
 	<field name = "DATELINE">HONG KONG, March 23 -</field>
-	<field name = "BODY">Ariadne group unit Barwon Farmlands
+	<field name = "content">Ariadne group unit Barwon Farmlands
 Ltd> confirmed it offered 3.8 billion pesos in cash for the 38
 mln shares of Philippine brewing company San Miguel Corp>.
     The Australia-based Barwon, 30 pct owned by New Zealander

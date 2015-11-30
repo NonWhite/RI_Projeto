@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 05:08:04.76</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0268reute
-u f BC-JAPAN-PLANS-MORE-DECO   03-20 0111</field>
-	<field name = "TITLE">JAPAN PLANS MORE DECONTROL ON LARGE BANK DEPOSITS</field>
+	<field name = "titulo">JAPAN PLANS MORE DECONTROL ON LARGE BANK DEPOSITS</field>
 	<field name = "DATELINE">TOKYO, March 20 -</field>
-	<field name = "BODY">The Finance Ministry plans to further
+	<field name = "content">The Finance Ministry plans to further
 ease restrictions on large-denomination bank deposits this year
 and is studying several deregulation plans, a ministry official
 said, without elaborating.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 16:53:37.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2631reute
-r f BC-textron-vice-chairman   04-13 0058</field>
-	<field name = "TITLE">TEXTRON TXT> VICE-CHAIRMAN RESIGNS</field>
+	<field name = "titulo">TEXTRON TXT> VICE-CHAIRMAN RESIGNS</field>
 	<field name = "DATELINE">PROVIDENCE, R.I., April 13 -</field>
-	<field name = "BODY">Textron Inc said E. Paul Casey
+	<field name = "content">Textron Inc said E. Paul Casey
 resigned as vice-chairman and a director to pursue other
 interests.
     Casey assumed his duties at Textron in October, 1986,

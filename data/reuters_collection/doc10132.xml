@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 15:52:29.48</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A F RM
-f2454reute
-u f BC-BANKERS-SEE-GOOD-RECE   03-26 0116</field>
-	<field name = "TITLE">BANKERS SEE GOOD RECEPTION OF BP CREDIT FACILITY</field>
+	<field name = "titulo">BANKERS SEE GOOD RECEPTION OF BP CREDIT FACILITY</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">A huge five billion dlr credit facility
+	<field name = "content">A huge five billion dlr credit facility
 being syndicated for two subsidiaries of British Petroleum Co
 Plc BP.L> should be well received in the market, given the
 relatively generous terms it carries, banking sources said.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">C L
-f0126reute
-u f BC-slaughter-guesstimate   03-06 0089</field>
-	<field name = "TITLE">HOG AND CATTLE SLAUGHTER GUESSTIMATES</field>
+	<field name = "titulo">HOG AND CATTLE SLAUGHTER GUESSTIMATES</field>
 	<field name = "DATELINE">CHICAGO, March 6 -</field>
-	<field name = "BODY">Chicago Mercantile Exchange floor
+	<field name = "content">Chicago Mercantile Exchange floor
 traders and commission house representatives are guesstimating
 today's hog slaughter at about 300,000 to 305,000 head versus
 292,000 week ago and 316,000 a year ago.

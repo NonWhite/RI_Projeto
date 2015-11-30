@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">G C
-f0321reute
-u f BC-THAILAND-REDUCES-MAIN   03-05 0088</field>
-	<field name = "TITLE">THAILAND REDUCES MAIN RICE CROP PROJECTION</field>
+	<field name = "titulo">THAILAND REDUCES MAIN RICE CROP PROJECTION</field>
 	<field name = "DATELINE">BANGKOK, March 5 -</field>
-	<field name = "BODY">Thailand's main paddy crop is expected
+	<field name = "content">Thailand's main paddy crop is expected
 to fall to 15.4 mln tonnes in the 1986/87 (Nov/Oct) season from
 a previous 15.68 mln estimate in November and an actual 17.35
 mln a year ago, the Thai Rice Mills Association said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">spain</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0944reute
-u f BC-SPAIN-DEREGULATES-BAN   03-05 0106</field>
-	<field name = "TITLE">SPAIN DEREGULATES BANK DEPOSIT INTEREST RATES</field>
+	<field name = "titulo">SPAIN DEREGULATES BANK DEPOSIT INTEREST RATES</field>
 	<field name = "DATELINE">MADRID, March 5 -</field>
-	<field name = "BODY">Spain's Finance Ministry deregulated bank
+	<field name = "content">Spain's Finance Ministry deregulated bank
 deposit rates in an effort to raise competition among banks and
 bring legislation into line with the European Community (EC), a
 ministry spokesman said.

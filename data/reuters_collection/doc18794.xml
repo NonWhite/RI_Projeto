@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 12:23:41.55</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y 
-f3784reute
-b f BC-UNOCAL-UCL>-RAISED-C   06-18 0070</field>
-	<field name = "TITLE">UNOCAL UCL> RAISED CRUDE OIL POSTINGS BY 50 CTS/BBL</field>
+	<field name = "titulo">UNOCAL UCL> RAISED CRUDE OIL POSTINGS BY 50 CTS/BBL</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Unocal said it raised its postings for
+	<field name = "content">Unocal said it raised its postings for
 crude oil by 50 cts a barrel, effective June 17. The company
 said it is now posting West Texas Intermediate and West Texas
 Sour at 19 dlrs a barrel.

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 11:00:47.15</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">A RM
-f1266reute
-b f BC-MOODY'S-MAY-DOWNGRADE   04-13 0110</field>
-	<field name = "TITLE">MOODY'S MAY DOWNGRADE THREE FRENCH BANKS</field>
+	<field name = "titulo">MOODY'S MAY DOWNGRADE THREE FRENCH BANKS</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 may downgrade the top-flight Aaa ratings of Societe Generale,
 Banque Nationale de Paris and Credit Lyonnais.
     The rating agency cited the ongoing deregulation of the

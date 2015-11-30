@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 19:13:40.25</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0840reute
-u f BC-TWA-TWA>-TO-REFILE-W   03-06 0097</field>
-	<field name = "TITLE">TWA TWA> TO REFILE WITH U.S. AGENCY</field>
+	<field name = "titulo">TWA TWA> TO REFILE WITH U.S. AGENCY</field>
 	<field name = "DATELINE">NEW YORK, MARCH 6 -</field>
-	<field name = "BODY">Transworld Airlines Inc plans to refile
+	<field name = "content">Transworld Airlines Inc plans to refile
 an application Monday with the Department of Transportation for
 approval to acquire USAir Group U>.
     The DOT late today dismissed TWA's application to acquire

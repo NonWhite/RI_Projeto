@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 11:08:07.60</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">RM F
-f1306reute
-u f BC-CBT-MMI-STOCK-INDEX-F   04-13 0095</field>
-	<field name = "TITLE">CBT MMI STOCK INDEX FUTURES TO EXPIRE THURSDAY</field>
+	<field name = "titulo">CBT MMI STOCK INDEX FUTURES TO EXPIRE THURSDAY</field>
 	<field name = "DATELINE">Chicago, April 13 -</field>
-	<field name = "BODY">The Chicago Board of Trade's (CBT)
+	<field name = "content">The Chicago Board of Trade's (CBT)
 April Major Market Index (MMI) stock index futures will expire
 1515 CDT Thursday instead of Friday because of the Good Friday
 holiday, the exchange said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 10:12:46.78</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f0195reute
-r f BC-AMERICAN-COMMUNICATIO   03-11 0078</field>
-	<field name = "TITLE">AMERICAN COMMUNICATIONS ASTVE> GETS EXCEPTION</field>
+	<field name = "titulo">AMERICAN COMMUNICATIONS ASTVE> GETS EXCEPTION</field>
 	<field name = "DATELINE">GAINESVILLE, Fla., March 11 -</field>
-	<field name = "BODY">American Communications and
+	<field name = "content">American Communications and
 Television Inc said its common stock will continue to be
 included in the National Association of Securities Dealers'
 NASDAQ system due to an exception from filing requirements,

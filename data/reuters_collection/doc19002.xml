@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 18:48:35.56</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F A 
-f4972reute
-d f AM-POLICY   06-18 0078</field>
-	<field name = "TITLE">U.S. HOUSE CALLS HIGHER JAPAN DEFENSE SPENDING</field>
+	<field name = "titulo">U.S. HOUSE CALLS HIGHER JAPAN DEFENSE SPENDING</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">The House today supported a call for
+	<field name = "content">The House today supported a call for
 Japan to boost its defense spending to help share the burden of
 protecting Western interests in sensitive areas around the
 world, including in the Gulf.

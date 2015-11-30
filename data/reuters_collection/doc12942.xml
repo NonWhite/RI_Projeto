@@ -4,12 +4,9 @@
 	<field name = "TOPICS">lumber</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">C G
-f1407reute
-r f BC-USDA-CORRECTS-TURKEY   04-03 0117</field>
-	<field name = "TITLE">USDA CORRECTS TURKEY CREDIT ANNOUNCEMENT</field>
+	<field name = "titulo">USDA CORRECTS TURKEY CREDIT ANNOUNCEMENT</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The U.S. Agriculture Department said
+	<field name = "content">The U.S. Agriculture Department said
 an announcement by the department yesterday concerning 15.0 mln
 dlrs in additional credit guarantees for exports of U.S.
 commodities to Turkey contained two inaccuracies.

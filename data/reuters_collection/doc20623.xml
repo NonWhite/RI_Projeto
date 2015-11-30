@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">F A RM Y 
-f2920reute
-r f AM-GULF-CONGRESS   10-20 0082</field>
-	<field name = "TITLE">US SENATE CUTS OFF STALL TACTICS ON GULF BILL</field>
+	<field name = "titulo">US SENATE CUTS OFF STALL TACTICS ON GULF BILL</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">Confronted by new hostilities
+	<field name = "content">Confronted by new hostilities
 involving U.S. forces in the Gulf, the U.S. Senate voted to end
 Republican stalling tactics and limit debate on a measure that
 could give Congress a larger role in Gulf policy.

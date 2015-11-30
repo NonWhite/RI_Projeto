@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:01:20.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0393reute
-r f BC-ALLEGHENY-BEVERAGE-A   03-12 0112</field>
-	<field name = "TITLE">ALLEGHENY BEVERAGE ABEV> DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">ALLEGHENY BEVERAGE ABEV> DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 cut to Caa from B-2 Allegheny Beverage Corp's 112 mln dlrs of
 subordinated debt.
     The rating agency cited Allegheny's high leverage and poor

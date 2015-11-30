@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 13:28:12.11</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2002reute
-u f BC-us-cotton-weather-noa   03-31 0108</field>
-	<field name = "TITLE">U.S. WEATHER/COTTON SUMMARY -- USDA/NOAA</field>
+	<field name = "titulo">U.S. WEATHER/COTTON SUMMARY -- USDA/NOAA</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Cotton planting began in California
+	<field name = "content">Cotton planting began in California
 and was expected to proceed rapidly in the week ended March 28,
 the Joint Agriculture Weather Facility of the U.S. Agriculture
 and Commerce Departments said.

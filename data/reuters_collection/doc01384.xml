@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C G
-f0095reute
-u f BC-JAPAN-CUTTING-CHINA-C   03-03 0108</field>
-	<field name = "TITLE">JAPAN CUTTING CHINA CORN COMMITMENTS - USDA</field>
+	<field name = "titulo">JAPAN CUTTING CHINA CORN COMMITMENTS - USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">Japanese traders have apparently
+	<field name = "content">Japanese traders have apparently
 sharply reduced commitments to buy Chinese corn over the next
 six months due to high prices, the U.S. Agriculture Department
 said.

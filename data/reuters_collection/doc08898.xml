@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 13:16:54.32</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1883reute
-r f BC-CORRECTED---MANHATTAN   03-24 0071</field>
-	<field name = "TITLE">CORRECTED - MANHATTAN NATIONAL CORP MLC> 4TH</field>
+	<field name = "titulo">CORRECTED - MANHATTAN NATIONAL CORP MLC> 4TH</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Oper shr loss 20 cts vs loss 81 cts
+	<field name = "content">Oper shr loss 20 cts vs loss 81 cts
     Oper net loss 1,042,000 vs loss 4,077,000
     Revs 38.5 mln vs 50.3 mln
     12 mths

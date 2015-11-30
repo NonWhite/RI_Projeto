@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 06:26:14.44</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM 
-f2515reute
-u f BC-AIR-NEW-ZEALAND-WELCO   06-18 0112</field>
-	<field name = "TITLE">AIR NEW ZEALAND WELCOMES GOVERNMENT SHARE SALE</field>
+	<field name = "titulo">AIR NEW ZEALAND WELCOMES GOVERNMENT SHARE SALE</field>
 	<field name = "DATELINE">WELLINGTON, June 18 -</field>
-	<field name = "BODY">The New Zealand government's sale of
+	<field name = "content">The New Zealand government's sale of
 a 25 pct stake in Air New Zealand would release the airline
 from the shackles of burdensome government processes, managing
 director Norman Geary told reporters.

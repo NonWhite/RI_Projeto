@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">F A RM Y 
-f3568reute
-u f AM-GULF-CONGRESS 3RDLD-(WRITETHROUGH)  10-20 0100</field>
-	<field name = "TITLE">SENATE BACKS U.S. RETALIATION IN GULF</field>
+	<field name = "titulo">SENATE BACKS U.S. RETALIATION IN GULF</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">The U.S. Senate on Tuesday backed
+	<field name = "content">The U.S. Senate on Tuesday backed
 President Reagan's retaliatory strike against Iranian targets
 in the Gulf as it moved to take a greater role in making policy
 in the volatile region.

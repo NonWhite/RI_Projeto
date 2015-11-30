@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:00:48.13</field>
-	<field name = "UNKNOWN">RM
-f1128reute
-b f BC-LONDON-MONEY-MARKET-C   04-07 0111</field>
-	<field name = "TITLE">LONDON MONEY MARKET CLOSES LITTLE CHANGED</field>
+	<field name = "titulo">LONDON MONEY MARKET CLOSES LITTLE CHANGED</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Money market interest rates closed little
+	<field name = "content">Money market interest rates closed little
 changed after a quiet session as yesterday's talk of lower U.K.
 Base lending rates fizzled out, dealers said.
     Further opinion polls showing the ruling Conservative Party

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 13:52:39.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2006reute
-d f BC-DEROSE-DRI>-CHAIRMAN   03-24 0079</field>
-	<field name = "TITLE">DEROSE DRI> CHAIRMAN STEPS DOWN</field>
+	<field name = "titulo">DEROSE DRI> CHAIRMAN STEPS DOWN</field>
 	<field name = "DATELINE">TAMPA, Fla., March 24 -</field>
-	<field name = "BODY">DeRose Industries Inc said Robert
+	<field name = "content">DeRose Industries Inc said Robert
 A. DeRose has retired as chairman and chief executive officer
 but will remain on the board through 1987 in an advisory
 capacity.

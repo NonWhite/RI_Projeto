@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:42:08.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0378reute
-d f BC-EXIM-BANK-UNVEILS-RIS   03-05 0102</field>
-	<field name = "TITLE">EXIM BANK UNVEILS RISK RELATED FEES</field>
+	<field name = "titulo">EXIM BANK UNVEILS RISK RELATED FEES</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Export Import Bank president John
+	<field name = "content">Export Import Bank president John
 Bohn said the agency was adopting a new policy of increased
 risk coverage and as part of it will adopt a system of
 risk-related fees.

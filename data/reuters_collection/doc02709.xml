@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 12:15:06.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0765reute
-u f BC-NEW-JERSEY-APPROVES-G   03-06 0102</field>
-	<field name = "TITLE">NEW JERSEY APPROVES GPU GPU> UNIT'S RATE CUT</field>
+	<field name = "titulo">NEW JERSEY APPROVES GPU GPU> UNIT'S RATE CUT</field>
 	<field name = "DATELINE">PARSIPPANY, N.J., March 6 -</field>
-	<field name = "BODY">General Public Utilities Corp
+	<field name = "content">General Public Utilities Corp
 said the New Jersey Board of Public Utilities has approved a 72
 mln dlrs annual reduction in energy-adjustment charges for the
 company's Jersey Central Power and Light Co subsidiary.

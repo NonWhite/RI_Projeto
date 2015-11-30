@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 14:16:25.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2080reute
-r f BC-TIME-TL>-BEGINS-DEBT   03-24 0103</field>
-	<field name = "TITLE">TIME TL> BEGINS DEBT TENDER, FILES SHELF</field>
+	<field name = "titulo">TIME TL> BEGINS DEBT TENDER, FILES SHELF</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Time Inc said it began a tender offer
+	<field name = "content">Time Inc said it began a tender offer
 for all of its 150 mln dlrs of outstanding 10-5/8 pct notes due
 Oct 15, 1992.
     The publishing company also said it filed a shelf

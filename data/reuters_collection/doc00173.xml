@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 17:51:29.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0250
-reute
-r f BC-DAEWOO-MOTOR-TO-BOOST   02-26 0108</field>
-	<field name = "TITLE">DAEWOO MOTOR TO BOOST IMPORTS OF U.S. GOODS</field>
+	<field name = "titulo">DAEWOO MOTOR TO BOOST IMPORTS OF U.S. GOODS</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">Daewoo Motor Corp, the Korea-based
+	<field name = "content">Daewoo Motor Corp, the Korea-based
 joint venture between Daewoo Group and General Motors Corp
 GM>, said it will boost its 1987 imports of U.S. goods to 200
 mln dlrs from 104 mln dlrs in 1986.

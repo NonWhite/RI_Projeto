@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 17:17:21.41</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f3234reute
-r f BC-AMCA-International   10-19 0103</field>
-	<field name = "TITLE">AMCA INTERNATIONAL AIL> SEES 4TH QTR PROFIT</field>
+	<field name = "titulo">AMCA INTERNATIONAL AIL> SEES 4TH QTR PROFIT</field>
 	<field name = "DATELINE">TORONTO, Oct 19 -</field>
-	<field name = "BODY">AMCA International said it expects to
+	<field name = "content">AMCA International said it expects to
 earn a profit in the fourth quarter which will exceed the third
 quarter result.
     The company earned 4.9 mln dlrs in the third quarter

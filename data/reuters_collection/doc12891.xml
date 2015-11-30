@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 10:28:36.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1104reute
-b f BC-VOLKSWAGEN-LATE-MARCH   04-03 0073</field>
-	<field name = "TITLE">VOLKSWAGEN LATE MARCH U.S. SALES LOWER</field>
+	<field name = "titulo">VOLKSWAGEN LATE MARCH U.S. SALES LOWER</field>
 	<field name = "DATELINE">TROY, Mich., April 3 -</field>
-	<field name = "BODY">Volkswagen of America Inc, the U.S.
+	<field name = "content">Volkswagen of America Inc, the U.S.
 arm of Volkswagen AG, said its domestic car sales for late
 March fell to 2,145 vehicles, from 3,342 vehicles for the same
 period in 1986.

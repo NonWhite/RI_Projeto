@@ -8,12 +8,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">poehl</field>
-	<field name = "UNKNOWN">RM
-f2702reute
-b f BC-POEHL-WARNS-AGAINST-F   04-07 0099</field>
-	<field name = "TITLE">POEHL WARNS AGAINST FURTHER DOLLAR FALL</field>
+	<field name = "titulo">POEHL WARNS AGAINST FURTHER DOLLAR FALL</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Bundesbank President Karl Otto Poehl
+	<field name = "content">Bundesbank President Karl Otto Poehl
 said a weaker dollar would be risky and a further appreciation
 of the mark would damage prospects for sustained West German
 economic growth.

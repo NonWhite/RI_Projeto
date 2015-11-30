@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 16:15:49.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2397reute
-w f BC-CHRYSLER-C>-TO-RUN-F   03-19 0071</field>
-	<field name = "TITLE">CHRYSLER C> TO RUN FOUR PLANTS ON OVERTIME</field>
+	<field name = "titulo">CHRYSLER C> TO RUN FOUR PLANTS ON OVERTIME</field>
 	<field name = "DATELINE">DETROIT, March 19 -</field>
-	<field name = "BODY">Chrysler Corp said it scheduled six of
+	<field name = "content">Chrysler Corp said it scheduled six of
 its seven U.S. car and truck assembly plants to operate the
 week of March 23, with four on overtime.
     The company also said it scheduled two of its U.S. assembly

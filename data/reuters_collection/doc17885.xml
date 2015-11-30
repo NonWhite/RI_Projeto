@@ -3,13 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0080reute
-u f BC-JAPAN-OIL-INDUSTRY-DE   06-02 0110</field>
-	<field name = "TITLE">JAPAN OIL INDUSTRY DECONTROL MAY LEAD TO MERGERS</field>
+	<field name = "titulo">JAPAN OIL INDUSTRY DECONTROL MAY LEAD TO MERGERS</field>
 	<field name = "AUTHOR">By Masaru Sato, Reuters</field>
 	<field name = "DATELINE">TOKYO, June 2 -</field>
-	<field name = "BODY">Deregulation of Japan's oil industry could
+	<field name = "content">Deregulation of Japan's oil industry could
 mean hardship for smaller firms and lead to their merging into
 bigger refining and marketing groups, industry sources said.
     They said the relaxation of controls was now under review

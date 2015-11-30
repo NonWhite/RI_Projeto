@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 06:50:12.16</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0501reute
-r f BC-JAPAN-READY-TO-DISCUS   03-12 0110</field>
-	<field name = "TITLE">JAPAN READY TO DISCUSS BANK REGULATION</field>
+	<field name = "titulo">JAPAN READY TO DISCUSS BANK REGULATION</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">Japan is ready to discuss bank
+	<field name = "content">Japan is ready to discuss bank
 regulation and capital adequacy with western monetary
 authorities but cannot say when or how joint rules can be
 agreed, Japanese vice-minister of finance for international

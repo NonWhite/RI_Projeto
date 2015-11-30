@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:11:03.44F</field>
-	<field name = "UNKNOWN">f1538reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">w f BC-SOURCE-VENTURE-CAPITA   03-27 0027</field>
-	<field name = "TITLE">SOURCE VENTURE CAPITAL INC YEAR</field>
+	<field name = "titulo">SOURCE VENTURE CAPITAL INC YEAR</field>
 	<field name = "DATELINE">ENGLEWOOD, Colo., March 27 -</field>
-	<field name = "BODY">Shr profit nil vs loss nil
+	<field name = "content">Shr profit nil vs loss nil
     Net profit 68,895 vs loss 160,893
     Revs 3.3 mln vs 104,801
  Reuter</field>

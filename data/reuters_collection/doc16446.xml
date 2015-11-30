@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:36:17.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1760reute
-r f BC-USG-USG>-TO-ASK-INCR   04-13 0098</field>
-	<field name = "TITLE">USG USG> TO ASK INCREASE IN AUTHORIZED SHARES</field>
+	<field name = "titulo">USG USG> TO ASK INCREASE IN AUTHORIZED SHARES</field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">USG Corp in a proxy for its May 13
+	<field name = "content">USG Corp in a proxy for its May 13
 annual meeting said it will ask shareholders to increase the
 authorized common shares to 300 mln from 100 mln and the
 preferred shares to 36 mln from 12 mln.

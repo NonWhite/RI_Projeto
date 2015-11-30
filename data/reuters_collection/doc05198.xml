@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 02:11:36.30</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f1122reute
-u f BC-AUSTRALIAN-ECONOMY-NE   03-16 0107</field>
-	<field name = "TITLE">AUSTRALIAN ECONOMY NEEDS MORE INVESTMENT, BANK</field>
+	<field name = "titulo">AUSTRALIAN ECONOMY NEEDS MORE INVESTMENT, BANK</field>
 	<field name = "DATELINE">SYDNEY, March 16 -</field>
-	<field name = "BODY">Australia faces the risk of recession if
+	<field name = "content">Australia faces the risk of recession if
 capital expenditure does not grow from the subdued levels of
 recent years, the Commonwealth Bank of Australia said.
     "Without stronger levels of capital expenditure, the

@@ -5,14 +5,10 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0451
-reute
-u f BC-ECONOMIC-SPOTLIGHT--   02-26 0110</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - JAPAN EYEING FOREIGN STOCKS</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - JAPAN EYEING FOREIGN STOCKS</field>
 	<field name = "AUTHOR">By Jeff Stearns, Reuters</field>
 	<field name = "DATELINE">TOKYO, Feb 27 -</field>
-	<field name = "BODY">Japanese life insurers, trust banks and
+	<field name = "content">Japanese life insurers, trust banks and
 corporations, largely responsible for vitalising the U.S. Bond
 market in recent years, are now eyeing stockmarkets in the
 U.S., Britain, France and Hong Kong, fund managers said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 05:07:04.60</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">RM
-f0309reute
-u f BC-JAPAN-STUDY-URGES-FOR   04-03 0113</field>
-	<field name = "TITLE">JAPAN STUDY URGES FOREIGN ACCESS TO FARM MARKETS</field>
+	<field name = "titulo">JAPAN STUDY URGES FOREIGN ACCESS TO FARM MARKETS</field>
 	<field name = "DATELINE">TOKYO, April 3 -</field>
-	<field name = "BODY">Japan should increase foreign access to
+	<field name = "content">Japan should increase foreign access to
 its farm products market, while encouraging further development
 of domestic agriculture, a government report said.
     The white paper on agriculture for the year ended March 31

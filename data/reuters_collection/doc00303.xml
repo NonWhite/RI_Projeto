@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 04:52:58.27</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0825
-reute
-b f BC-SHV-SAYS-IT-MAKING-TE   03-02 0061</field>
-	<field name = "TITLE">SHV SAYS IT MAKING TENDER OFFER FOR IC GAS</field>
+	<field name = "titulo">SHV SAYS IT MAKING TENDER OFFER FOR IC GAS</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">SHV (United Kingdom) Holding Co Ltd>
+	<field name = "content">SHV (United Kingdom) Holding Co Ltd>
 said it was making a tender offer for up to 33 mln ordinary
 shares in Imperial Continental Gas Association.ICGS.L>.
     It said in a statement the offer was on the basis of 700p

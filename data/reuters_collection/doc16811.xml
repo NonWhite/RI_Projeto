@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 09:24:26.79</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0206reute
-d f BC-CADNETIX-CORP-CADX.O   04-17 0077</field>
-	<field name = "TITLE">CADNETIX CORP CADX.O> 3RD QTR MARCH 31 NET</field>
+	<field name = "titulo">CADNETIX CORP CADX.O> 3RD QTR MARCH 31 NET</field>
 	<field name = "DATELINE">BOULDER, Colo., April 17 -</field>
-	<field name = "BODY">Oper shr 12 cts vs five cts
+	<field name = "content">Oper shr 12 cts vs five cts
     Oper net 1,715,000 vs 730,000
     Sales 12.1 mln vs 7,719,000
     Avg shrs 13.9 mln vs 13.7 mln

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 02:54:02.22</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0183reute
-b f BC-GERMAN-INDUSTRIAL-OUT   04-02 0058</field>
-	<field name = "TITLE">GERMAN INDUSTRIAL OUTPUT RISES 3.2 PCT IN FEBRUARY</field>
+	<field name = "titulo">GERMAN INDUSTRIAL OUTPUT RISES 3.2 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">BONN, April 2 -</field>
-	<field name = "BODY">West German industrial production,
+	<field name = "content">West German industrial production,
 seasonally adjusted, rose a provisional 3.2 pct in February
 after a downwards revised decline of 3.4 pct in January, the
 Economics Ministry said.

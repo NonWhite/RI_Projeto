@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:50:48.33</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f1209reute
-r f BC-CIBA-GEIGY-UNIT-SPINS   04-01 0104</field>
-	<field name = "TITLE">CIBA-GEIGY UNIT SPINS OFF INTO OPERATING GROUP</field>
+	<field name = "titulo">CIBA-GEIGY UNIT SPINS OFF INTO OPERATING GROUP</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Ciba-Geigy Ltd> announced the
+	<field name = "content">Ciba-Geigy Ltd> announced the
 formation of its Ciba Vision Group, becoming the first group
 within the corporate structure to carry the Ciba name.
     The Swiss-based pharmaceutical giant said the new group,

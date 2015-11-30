@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 04:49:31.85</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0275reute
-u f BC-CHINA'S-FIFTH-SECURIT   03-24 0100</field>
-	<field name = "TITLE">CHINA'S FIFTH SECURITIES MARKET TO OPEN</field>
+	<field name = "titulo">CHINA'S FIFTH SECURITIES MARKET TO OPEN</field>
 	<field name = "DATELINE">PEKING, March 24 -</field>
-	<field name = "BODY">China's fifth securities market will
+	<field name = "content">China's fifth securities market will
 open on April 1 in the industrial port city of Tianjin, the
 People's Daily overseas edition said.
     It said the market will in its first phase trade four

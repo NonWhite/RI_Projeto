@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 11:59:59.28</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f8433reute
-u f BC-CONT'L-ILLINOIS-CIL>   03-18 0100</field>
-	<field name = "TITLE">CONT'L ILLINOIS CIL> SEES IMPACT FROM TAX REFORM</field>
+	<field name = "titulo">CONT'L ILLINOIS CIL> SEES IMPACT FROM TAX REFORM</field>
 	<field name = "DATELINE">CHICAGO, March 18 -</field>
-	<field name = "BODY">The Tax Reform Act of 1986 will have a
+	<field name = "content">The Tax Reform Act of 1986 will have a
 substantial impact on Continental Illinois Corp, the company's
 annual report says.
     One provision repeals the reserve method of providing for

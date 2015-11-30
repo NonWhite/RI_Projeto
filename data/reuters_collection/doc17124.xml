@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 12:26:00.70</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1640reute
-r f BC-AMOCO-AN>-TO-SUPPLY   04-24 0086</field>
-	<field name = "TITLE">AMOCO AN> TO SUPPLY LEADED GAS TO FARMERS</field>
+	<field name = "titulo">AMOCO AN> TO SUPPLY LEADED GAS TO FARMERS</field>
 	<field name = "DATELINE">CHICAGO, April 24 -</field>
-	<field name = "BODY">Amoco Oil Co said it will continue to
+	<field name = "content">Amoco Oil Co said it will continue to
 sell leaded gasoline to farmers in certain portions of the
 midwest as long as there is sufficient demand for the product.
     "It appears that the agricultural community will need

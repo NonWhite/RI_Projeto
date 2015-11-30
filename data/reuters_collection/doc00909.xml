@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 04:49:58.71</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0723
-reute
-u f BC-JAPANESE-FINANCIAL-FU   03-03 0095</field>
-	<field name = "TITLE">JAPANESE FINANCIAL FUTURES PLAN REVEALED</field>
+	<field name = "titulo">JAPANESE FINANCIAL FUTURES PLAN REVEALED</field>
 	<field name = "DATELINE">TOKYO, March 3 -</field>
-	<field name = "BODY">The Federation of Bankers' Associations of
+	<field name = "content">The Federation of Bankers' Associations of
 Japan released its proposal for early creation of a
 comprehensive financial futures market in Tokyo.
     The market should include a comprehensive range of futures

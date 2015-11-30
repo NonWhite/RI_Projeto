@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 08:23:06.19</field>
 	<field name = "PLACES">botswana</field>
-	<field name = "UNKNOWN">G C
-f0708reute
-r f BC-BOTSWANA-APPEALS-FOR   04-08 0111</field>
-	<field name = "TITLE">BOTSWANA APPEALS FOR DROUGHT AID</field>
+	<field name = "titulo">BOTSWANA APPEALS FOR DROUGHT AID</field>
 	<field name = "DATELINE">GABORONE, April 8 -</field>
-	<field name = "BODY">President Quett Masire appealed for
+	<field name = "content">President Quett Masire appealed for
 international aid to combat the effects of a drought ravaging
 land-locked Botswana for the sixth consecutive year.
     Speaking on state radio, Masire said the drought had

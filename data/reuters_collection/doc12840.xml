@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 09:05:14.40</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0784reute
-u f BC-BELGIAN-MONEY-SUPPLY   04-03 0112</field>
-	<field name = "TITLE">BELGIAN MONEY SUPPLY RISES IN FOURTH QUARTER 1986</field>
+	<field name = "titulo">BELGIAN MONEY SUPPLY RISES IN FOURTH QUARTER 1986</field>
 	<field name = "DATELINE">BRUSSELS, April 3 -</field>
-	<field name = "BODY">Belgian total money stock rose to
+	<field name = "content">Belgian total money stock rose to
 1,140.4 billion francs at the end of 1986 from 1,115.4 billion
 at the end of the third quarter of last year and 1,055.0
 billion at the end of 1985, Belgian National Bank figures

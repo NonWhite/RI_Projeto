@@ -5,12 +5,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0726reute
-u f BC-BIG-U.S.-CONSERVATION   03-11 0143</field>
-	<field name = "TITLE">BIG U.S. CONSERVATION ENROLLMENT EXPECTED</field>
+	<field name = "titulo">BIG U.S. CONSERVATION ENROLLMENT EXPECTED</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">Enrollment in the U.S. Agriculture
+	<field name = "content">Enrollment in the U.S. Agriculture
 Department's fourth conservation signup is expected to be
 announced tomorrow, and USDA officials said the figure may be
 higher than total enrollment for the first three signups.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-APR-1987 10:22:14.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1198reute
-u f BC-DU-PONT-DD>-NET-DOWN   04-27 0086</field>
-	<field name = "TITLE">DU PONT DD> NET DOWN ON OIL EARNINGS DECLINE</field>
+	<field name = "titulo">DU PONT DD> NET DOWN ON OIL EARNINGS DECLINE</field>
 	<field name = "DATELINE">WILMAINGTON, Del., April 27 -</field>
-	<field name = "BODY">Du Pont Co, reporting lower
+	<field name = "content">Du Pont Co, reporting lower
 first quarter profits, said a drop in energy earnings was only
 partially offset by surging chemical and specialty products.
     Du Pont earned 391 mln dlrs, or 1.62 dlrs a share, in the

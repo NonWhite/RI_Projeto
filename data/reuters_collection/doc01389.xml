@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 17:52:31.05</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0120reute
-r f BC-MARK-RESOURCES-TO-SEL   03-03 0096</field>
-	<field name = "TITLE">MARK RESOURCES TO SELL SECURITIES</field>
+	<field name = "titulo">MARK RESOURCES TO SELL SECURITIES</field>
 	<field name = "DATELINE">CALGARY, ALBERTA, March 3 -</field>
-	<field name = "BODY">Mark Resources Inc> said it
+	<field name = "content">Mark Resources Inc> said it
 agreed to sell 50.3 mln dlrs of securities to Canadian
 investment dealers Nesbitt Thomson Deacon Inc, Gordon Capital
 Corp and First Marathon Securities Ltd.

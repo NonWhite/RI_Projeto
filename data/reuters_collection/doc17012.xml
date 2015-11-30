@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-APR-1987 12:13:34.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1606reute
-r f BC-NEW-YORK-TIMES-NYT>   04-21 0079</field>
-	<field name = "TITLE">NEW YORK TIMES NYT> SEES UNEVEN GAINS IN 1987</field>
+	<field name = "titulo">NEW YORK TIMES NYT> SEES UNEVEN GAINS IN 1987</field>
 	<field name = "DATELINE">HUNTSVILLE, Ala., April 21 -</field>
-	<field name = "BODY">The New York Times Co said
+	<field name = "content">The New York Times Co said
 that if prevailing business conditions continue, the company
 sees "another outstanding year, although the remaining quarters
 of 1987 will probably not show uniform gains."

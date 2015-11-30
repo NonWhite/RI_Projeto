@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 12:19:29.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1613reute
-r f BC-MITSUBISHI-RAISES-TRU   03-23 0073</field>
-	<field name = "TITLE">MITSUBISHI RAISES TRUCK PRICES 1.1 PCT</field>
+	<field name = "titulo">MITSUBISHI RAISES TRUCK PRICES 1.1 PCT</field>
 	<field name = "DATELINE">FOUNTAIN VALLEY, CALIF., March 23 -</field>
-	<field name = "BODY">Mitsubishi Motor Sales
+	<field name = "content">Mitsubishi Motor Sales
 of America Inc> said it is increasing suggested retail prices
 of its line of two- and four-wheel drive trucks by an average
 1.1 pct, or an average of 74 dlrs, effective immediately.

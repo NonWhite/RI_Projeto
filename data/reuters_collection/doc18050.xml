@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1376reute
-b f BC-/-FED-NOT-EXPECTED-TO   06-02 0071</field>
-	<field name = "TITLE">FED NOT EXPECTED TO TAKE MONEY MARKET ACTION</field>
+	<field name = "titulo">FED NOT EXPECTED TO TAKE MONEY MARKET ACTION</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">The Federal Reserve is not expected to
+	<field name = "content">The Federal Reserve is not expected to
 intervene in the government securities market to add or drain
 reserves at its usual intervention time this morning,
 economists said.

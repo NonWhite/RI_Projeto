@@ -2,14 +2,10 @@
 	<field name = "DATE">2-MAR-1987 16:00:28.60</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0971
-reute
-u f BC-PESCH-SEES-SHAREHOLDE   03-02 0092</field>
-	<field name = "TITLE">PESCH SEES SHAREHOLDER SUPPORT IN AMI AMI> BID</field>
+	<field name = "titulo">PESCH SEES SHAREHOLDER SUPPORT IN AMI AMI> BID</field>
 	<field name = "AUTHOR">By Patti Domm, Reuters</field>
 	<field name = "DATELINE">New york, March 2 -</field>
-	<field name = "BODY">Chicago physician LeRoy Pesch said he
+	<field name = "content">Chicago physician LeRoy Pesch said he
 has had discussions with several American Medical International
 Inc shareholders and sees support for a restructuring of the
 company.

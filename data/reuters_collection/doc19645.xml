@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 10:52:27.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1240reute
-d f BC-ADVANCED-NMR-SYSTEMS   06-29 0085</field>
-	<field name = "TITLE">ADVANCED NMR SYSTEMS ANMR.O> EXTENDS WARRANTS</field>
+	<field name = "titulo">ADVANCED NMR SYSTEMS ANMR.O> EXTENDS WARRANTS</field>
 	<field name = "DATELINE">WOBURN, Mass., June 29 -</field>
-	<field name = "BODY">Advanced NMR Systems Inc said it
+	<field name = "content">Advanced NMR Systems Inc said it
 extended the exercise period for its class A and class B
 warrants by one year.
     The company said class A warrants, entitling the purchase

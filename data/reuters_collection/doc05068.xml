@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 16:36:20.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0467reute
-r f BC-GUILFORD-MILLS-GFD>   03-13 0087</field>
-	<field name = "TITLE">GUILFORD MILLS GFD> TO SELL CONVERTIBLE DEBT</field>
+	<field name = "titulo">GUILFORD MILLS GFD> TO SELL CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">Guilford Mills Inc said it filed with
+	<field name = "content">Guilford Mills Inc said it filed with
 the Securities and Exchange Commission a registration statement
 covering a 60 mln dlr issue of convertible subordinated
 debentures.

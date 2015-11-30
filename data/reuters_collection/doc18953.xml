@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C G 
-f4400reute
-b f BC-/CHINA-ADDS-CORN-TO-C   06-18 0070</field>
-	<field name = "TITLE">CHINA ADDS CORN TO COMMITMENTS - USDA</field>
+	<field name = "titulo">CHINA ADDS CORN TO COMMITMENTS - USDA</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">China has added 30,000 tonnes of U.S.
+	<field name = "content">China has added 30,000 tonnes of U.S.
 corn to its previous commitments, according to the U.S.
 Agriculture Department's latest Export Sales report.
     The report, covering transactions in the week June 11, the

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 14:24:28.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2036reute
-h f BC-CYANOTECH-CYAN>-SETS   03-25 0057</field>
-	<field name = "TITLE">CYANOTECH CYAN> SETS WAY TO EXTRACT CAROTENE</field>
+	<field name = "titulo">CYANOTECH CYAN> SETS WAY TO EXTRACT CAROTENE</field>
 	<field name = "DATELINE">WOODINVILLE, Wash., March 25 -</field>
-	<field name = "BODY">Cyanotech Corp said it has
+	<field name = "content">Cyanotech Corp said it has
 developed a new way to extract beta carotene from algae.
     The company said the method reduces energy requirements by
 70 pct and produces 90 pct recovery.

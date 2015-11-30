@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 16:32:07.68</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2518reute
-r f BC-NASHUA-NSH>-TO-PURCH   03-24 0083</field>
-	<field name = "TITLE">NASHUA NSH> TO PURCHASE PRIVATE DISC MAKER</field>
+	<field name = "titulo">NASHUA NSH> TO PURCHASE PRIVATE DISC MAKER</field>
 	<field name = "DATELINE">NASHUA, N.H., March 24 -</field>
-	<field name = "BODY">Nashua Corp said it signed a
+	<field name = "content">Nashua Corp said it signed a
 letter of intent to purchase Lin Data Corp>, a private
 manufacturer of high-capacity rigid discs for storage of
 computer data.

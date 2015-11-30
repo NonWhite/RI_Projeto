@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 15:30:22.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F
-f2144reute
-r f BC-chrysler   04-03 0084</field>
-	<field name = "TITLE">CHRYSLER C> CANADA MARCH CAR SALES UP 9.7 PCT</field>
+	<field name = "titulo">CHRYSLER C> CANADA MARCH CAR SALES UP 9.7 PCT</field>
 	<field name = "DATELINE">WINDSOR, Ontario, April 3 -</field>
-	<field name = "BODY">Chrysler Canada Ltd, wholly
+	<field name = "content">Chrysler Canada Ltd, wholly
 owned by Chrysler Corp, said it sold 16,484 passenger cars in
 March, a 9.7 pct increase over the 15,024 sold in the same
 month of last year.

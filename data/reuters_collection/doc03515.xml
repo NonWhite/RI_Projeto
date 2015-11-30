@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 07:13:48.51</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM
-f0596reute
-u f BC-CAPITAL-MARKET-BORROW   03-11 0115</field>
-	<field name = "TITLE">CAPITAL MARKET BORROWING ONLY MODERATE IN FEBRUARY</field>
+	<field name = "titulo">CAPITAL MARKET BORROWING ONLY MODERATE IN FEBRUARY</field>
 	<field name = "DATELINE">PARIS, March 11 -</field>
-	<field name = "BODY">Borrowing on the international capital
+	<field name = "content">Borrowing on the international capital
 markets rose moderately in February with 25.9 billion dlrs of
 medium and long term funds raised, up 1.5 billion from January
 and up 3.2 billion from February last year, the Organisation

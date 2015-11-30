@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 07:43:24.90</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM 
-f0639reute
-b f BC-SPRINT-II-ISSUES-35-M   10-19 0114</field>
-	<field name = "TITLE">SPRINT II ISSUES 35 MLN DLR REPACKAGED FLOATER</field>
+	<field name = "titulo">SPRINT II ISSUES 35 MLN DLR REPACKAGED FLOATER</field>
 	<field name = "DATELINE">LONDON, Oct 19 -</field>
-	<field name = "BODY">Sprint II, a special purpose corporation
+	<field name = "content">Sprint II, a special purpose corporation
 based in the Cayman Islands, is issuing 35 mln dlrs of floating
 rate bonds due November 6, 1992 and priced at 100.10, said Fuji
 International finance Ltd as lead manager.

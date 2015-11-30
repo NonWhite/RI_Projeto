@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 13:23:45.54</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0024reute
-b f BC-MOET-HENNESSY-ISSUING   03-06 0098</field>
-	<field name = "TITLE">MOET-HENNESSY ISSUING CONVERTIBLE EUROBOND</field>
+	<field name = "titulo">MOET-HENNESSY ISSUING CONVERTIBLE EUROBOND</field>
 	<field name = "DATELINE">PARIS, March 6 -</field>
-	<field name = "BODY">Moet-Hennessy MHSP.PA> is issuing an 800
+	<field name = "content">Moet-Hennessy MHSP.PA> is issuing an 800
 mln French franc 10-year eurobond with share warrants,
 lead-manager Lazard Freres et Cie said.
     The issue will be priced at par with a one pct coupon, and

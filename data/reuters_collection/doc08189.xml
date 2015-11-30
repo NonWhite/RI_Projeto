@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 07:26:18.78</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0512reute
-b f BC-FRENCH-INDUSTRIAL-PRO   03-23 0094</field>
-	<field name = "TITLE">FRENCH INDUSTRIAL PRODUCTION FALLS IN JANUARY</field>
+	<field name = "titulo">FRENCH INDUSTRIAL PRODUCTION FALLS IN JANUARY</field>
 	<field name = "DATELINE">PARIS, March 23 -</field>
-	<field name = "BODY">French industrial production fell a
+	<field name = "content">French industrial production fell a
 seasonally adjusted 1.98 pct in January after revised unchanged
 output in December, the National Statistics Institute (INSEE)
 said.

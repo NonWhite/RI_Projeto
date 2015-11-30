@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:10:58.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0651reute
-r f BC-GAO-SAYS-FSLIC-SHOWS   03-03 0080</field>
-	<field name = "TITLE">GAO SAYS FSLIC SHOWS DEFICIT, NEEDS FUNDS</field>
+	<field name = "titulo">GAO SAYS FSLIC SHOWS DEFICIT, NEEDS FUNDS</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">The Federal Savings and Loan
+	<field name = "content">The Federal Savings and Loan
 Insurance Corp is facing a deficit because of its potential
 liability from insolvent savings associations, the General
 Accounting Office told a House Banking hearing.

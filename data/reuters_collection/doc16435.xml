@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 12:25:30.97</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f1705reute
-u f BC-MORGAN-STANLEY-ISSUES   04-13 0105</field>
-	<field name = "TITLE">MORGAN STANLEY ISSUES WARRANTS INTO JAPANESE FIRM</field>
+	<field name = "titulo">MORGAN STANLEY ISSUES WARRANTS INTO JAPANESE FIRM</field>
 	<field name = "DATELINE">ZURICH, April 13 -</field>
-	<field name = "BODY">Morgan Stanley (Jersey) Ltd is issuing
+	<field name = "content">Morgan Stanley (Jersey) Ltd is issuing
 45,000 covered equity warrants exercisable into shares of Japan
 Synthetic Rubber Co Ltd at an issue price of 212 Swiss francs
 per warrant, lead manager Morgan Stanley SA said.

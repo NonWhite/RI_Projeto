@@ -3,13 +3,10 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">stg</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0260reute
-b f BC-PRIMARY-EUROSTERLING   03-09 0097</field>
-	<field name = "TITLE">PRIMARY EUROSTERLING MARKET BOOMS DESPITE RATE CUT</field>
+	<field name = "titulo">PRIMARY EUROSTERLING MARKET BOOMS DESPITE RATE CUT</field>
 	<field name = "AUTHOR">By Dominique Jackson, Reuters</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">Two new eurosterling bonds were launched
+	<field name = "content">Two new eurosterling bonds were launched
 today, making a total of 10 new deals in the sector so far this
 month, as borrowers rush to cash in on a bull sterling market
 fueled by the strength of the pound and pre-budget euphoria.

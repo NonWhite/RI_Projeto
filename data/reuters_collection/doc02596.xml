@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 10:20:53.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0245reute
-b f BC-ATT-T>-PROPOSES-NEW   03-06 0107</field>
-	<field name = "TITLE">ATT T> PROPOSES NEW SIMPLIFIED REGULATIONS</field>
+	<field name = "titulo">ATT T> PROPOSES NEW SIMPLIFIED REGULATIONS</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">American Telephone and Telegraph Co
+	<field name = "content">American Telephone and Telegraph Co
 said it is proposing a new simplified approach to regulating
 the long-distance telecommunications market.
     In a filing with the Federal Communications Commission, ATT

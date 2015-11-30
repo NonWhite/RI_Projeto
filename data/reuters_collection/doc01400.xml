@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 18:11:38.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0158reute
-r f BC-TENNECO-TGT>-TO-REDE   03-03 0073</field>
-	<field name = "TITLE">TENNECO TGT> TO REDEEM PREFERRED STOCK</field>
+	<field name = "titulo">TENNECO TGT> TO REDEEM PREFERRED STOCK</field>
 	<field name = "DATELINE">HOUSTON, March 3 -</field>
-	<field name = "BODY">Tenneco Inc said it will redeem on April
+	<field name = "content">Tenneco Inc said it will redeem on April
 eight all 2,515,400 outstanding shares of its 11 dlr cumulative
 preferred stock.
     The company said it would pay 102 dlrs a share for the

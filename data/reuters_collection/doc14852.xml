@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 04:21:46.71</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">RM
-f0222reute
-u f BC-ECONOMIC-SPOTLIGHT--   04-08 0112</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - EXCESS MONEY HURTS THAI BANKS</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - EXCESS MONEY HURTS THAI BANKS</field>
 	<field name = "AUTHOR">By Vithoon Amorn, Reuters</field>
 	<field name = "DATELINE">BANGKOK, April 8 -</field>
-	<field name = "BODY">Thailand's improving economy may have
+	<field name = "content">Thailand's improving economy may have
 helped its trade and finance position but it has also created
 major problems for local banks, Thai and foreign bankers said.
     They said a 900 mln dlr saving from cheaper imported oil

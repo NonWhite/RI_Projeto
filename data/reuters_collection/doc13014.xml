@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 13:06:02.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1751reute
-d f BC-******ALLIED-SIGNAL-T   04-03 0089</field>
-	<field name = "TITLE">CALIFORNIA MICRO DEVICES CAMD> IN DEFENSE DEAL</field>
+	<field name = "titulo">CALIFORNIA MICRO DEVICES CAMD> IN DEFENSE DEAL</field>
 	<field name = "DATELINE">MILPITAS, Calif, April 3 -</field>
-	<field name = "BODY">California Micro Devices Corp
+	<field name = "content">California Micro Devices Corp
 said an additional 3.2 mln dlrs contract was received from
 General Dynamics Corp GD> to supply electronic components
 contained in the guidance control for Defense Electronics

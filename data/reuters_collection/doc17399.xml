@@ -2,12 +2,9 @@
 	<field name = "DATE">29-APR-1987 11:33:50.14</field>
 	<field name = "TOPICS">wpi</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f1433reute
-u f BC-DUTCH-PRODUCER-PRICES   04-29 0090</field>
-	<field name = "TITLE">DUTCH PRODUCER PRICES RISE 0.3 IN JANUARY</field>
+	<field name = "titulo">DUTCH PRODUCER PRICES RISE 0.3 IN JANUARY</field>
 	<field name = "DATELINE">THE HAGUE, April 29 -</field>
-	<field name = "BODY">The index of Dutch producer prices of
+	<field name = "content">The index of Dutch producer prices of
 finished and intermediate goods rose 0.3 pct in January to a
 provisional 112.1, base 1980, against 111.8 in December 1986,
 Central Bureau of Statistics figures show.

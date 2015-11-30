@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 16:38:42.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2550reute
-u f BC-RJR-NABISCO-RJR>-SAY   03-30 0097</field>
-	<field name = "TITLE">RJR NABISCO RJR> SAYS TOBACCO SPINOFF UNLIKELY</field>
+	<field name = "titulo">RJR NABISCO RJR> SAYS TOBACCO SPINOFF UNLIKELY</field>
 	<field name = "DATELINE">WINSTON-SALEM, N.C., March 30 -</field>
-	<field name = "BODY">RJR Nabisco Inc said it is
+	<field name = "content">RJR Nabisco Inc said it is
 unlikely that it will spin off any of its tobacco operations
 into a master limited partnership in the "immediately
 foreseeable future."

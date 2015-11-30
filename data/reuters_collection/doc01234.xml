@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 14:45:29.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0579reute
-h f BC-PERINI-INVESTMENT-PN   03-03 0060</field>
-	<field name = "TITLE">PERINI INVESTMENT PNV> BUYS FLORIDA PROPERTIES</field>
+	<field name = "titulo">PERINI INVESTMENT PNV> BUYS FLORIDA PROPERTIES</field>
 	<field name = "DATELINE">FRAMINGHAM, Mass., March 3 -</field>
-	<field name = "BODY">Perini Investment Properties
+	<field name = "content">Perini Investment Properties
 Inc said it has purchased three industrial/warehouse properties
 in Boca Raton, Fla., and one in Pompano Beach, Fla., for an
 undisclosed amount.

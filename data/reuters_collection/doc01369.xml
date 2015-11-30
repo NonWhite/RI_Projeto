@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 17:20:21.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0044reute
-b f BC-PENNZOIL-(PZL)-SAYS-I   03-03 0083</field>
-	<field name = "TITLE">PENNZOIL PZL> SAYS IT HAS MADE SETTLEMENT OFFERS</field>
+	<field name = "titulo">PENNZOIL PZL> SAYS IT HAS MADE SETTLEMENT OFFERS</field>
 	<field name = "DATELINE">HOUSTON, March 3 -</field>
-	<field name = "BODY">Pennzoil Co chairman J. Hugh Liedtke
+	<field name = "content">Pennzoil Co chairman J. Hugh Liedtke
 said the company has made several proposals to Texaco Inc TX> 
 to settle a 9.13 billion dlr judgment awarded to Pennzoil and
 that a settlement was "in the best interests of both

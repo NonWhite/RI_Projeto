@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 04:23:14.09</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0193reute
-u f BC-GUINNESS-STARTS-COURT   03-20 0109</field>
-	<field name = "TITLE">GUINNESS STARTS COURT ACTION AGAINST SAUNDERS</field>
+	<field name = "titulo">GUINNESS STARTS COURT ACTION AGAINST SAUNDERS</field>
 	<field name = "DATELINE">LONDON, March 20 -</field>
-	<field name = "BODY">Guinness Plc GUIN.L> said it has
+	<field name = "content">Guinness Plc GUIN.L> said it has
 started court proceedings against former chairman and chief
 executive Ernest Saunders and non-executive director Thomas
 Ward for recovery of 5.2 mln stg.

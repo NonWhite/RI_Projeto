@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:49:47.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1421reute
-b f BC-MERRILL-LYNCH-MER>-D   03-19 0105</field>
-	<field name = "TITLE">MERRILL LYNCH MER> DEBT DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">MERRILL LYNCH MER> DEBT DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, March 119 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 downgraded the ratings on six billion dlrs of debt of Merrill
 Lynch and Co Inc.
     Cut were the firm's senior debt, Eurodebt and senior

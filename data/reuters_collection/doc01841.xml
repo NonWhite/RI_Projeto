@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 17:19:33.15</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C T
-f0909reute
-u f BC-RIO-COFFEE-TRADE-PREF   03-04 0104</field>
-	<field name = "TITLE">RIO COFFEE TRADE PREFERS NO PACT TO QUOTA CUT</field>
+	<field name = "titulo">RIO COFFEE TRADE PREFERS NO PACT TO QUOTA CUT</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 4 -</field>
-	<field name = "BODY">The failure of talks to introduce
+	<field name = "content">The failure of talks to introduce
 new coffee export quotas within the International Coffee
 Agreement, ICA, was preferable to the alternative of Brazil
 having a sharply reduced quota, as had been proposed, President

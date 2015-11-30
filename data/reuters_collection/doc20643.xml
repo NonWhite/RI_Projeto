@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 15:34:47.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2983reute
-d f BC-BEST-BES>-TO-BUY-BAC   10-20 0043</field>
-	<field name = "TITLE">BEST BES> TO BUY BACK TWO MLN SHARES</field>
+	<field name = "titulo">BEST BES> TO BUY BACK TWO MLN SHARES</field>
 	<field name = "DATELINE">RICHMOND, Va., Oct 20 -</field>
-	<field name = "BODY">Best Products Co Inc said 
+	<field name = "content">Best Products Co Inc said 
 planned to repurchase up to two mln shares of its common for
 employee benefit plans and general corporate purposes.
     Best has about 27.1 mln shares outstanding.

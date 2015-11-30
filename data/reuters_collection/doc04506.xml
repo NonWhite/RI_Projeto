@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 16:09:11.38</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0437reute
-r f BC-WRIGHT-SAYS-A-GAS-TAX   03-12 0097</field>
-	<field name = "TITLE">WRIGHT SAYS A GAS TAX AN OPTION TO CUT DEFICIT</field>
+	<field name = "titulo">WRIGHT SAYS A GAS TAX AN OPTION TO CUT DEFICIT</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">House Speaker Jim Wright said a
+	<field name = "content">House Speaker Jim Wright said a
 gasoline tax is one option to finding a way to reduce the
 deficit, but told reporters in response to a question he will
 not try to dictate a solution to the debt problem.

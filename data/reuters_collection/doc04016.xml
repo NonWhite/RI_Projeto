@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 18:50:05.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0914reute
-r f BC-PHILLIPSP>-SAYS-STOC   03-11 0099</field>
-	<field name = "TITLE">PHILLIPSP> SAYS STOCK UP ON STEPS TO PARE DEBT</field>
+	<field name = "titulo">PHILLIPSP> SAYS STOCK UP ON STEPS TO PARE DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Phillips Petroleum Co Chairman C. J.
+	<field name = "content">Phillips Petroleum Co Chairman C. J.
 "Pete" Silas said his company's stock, ranked fourth on the
 most active list of stocks traded today, rose partly because of
 steps it took to pare its debt.

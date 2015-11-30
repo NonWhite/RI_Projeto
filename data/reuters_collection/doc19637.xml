@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 10:44:13.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1208reute
-r f BC-CORRECTED-FIDELCOR-F   06-29 0090</field>
-	<field name = "TITLE">CORRECTED-FIDELCOR FICR.O> TO ADD TO LOAN LOSSES</field>
+	<field name = "titulo">CORRECTED-FIDELCOR FICR.O> TO ADD TO LOAN LOSSES</field>
 	<field name = "DATELINE">PHILADELPHIA, June 29 -</field>
-	<field name = "BODY">Fidelcor Inc said it will take a
+	<field name = "content">Fidelcor Inc said it will take a
 one-time 30 mln dlr special provision in the second quarter for
 possible losses in loans to developing countries.
     The corporation said it will be profitable in the quarter

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:06:32.41</field>
-	<field name = "UNKNOWN">V
-f0905reute
-u f BC-QT8912   04-07 0103</field>
-	<field name = "TITLE">WALL STREET STOCKS LOWER IN EARLY TRADING</field>
+	<field name = "titulo">WALL STREET STOCKS LOWER IN EARLY TRADING</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Weakness in the dollar and a subsequent
+	<field name = "content">Weakness in the dollar and a subsequent
 easing of bond prices underscored Wall Street's lingering
 anxiety with interest rates and inflation, and prompted
 investors to take some profits. The decline, though mild, was

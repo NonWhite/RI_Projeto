@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 13:43:38.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2051reute
-r f BC-DIGITAL-DEC>-SETTLES   03-31 0101</field>
-	<field name = "TITLE">DIGITAL DEC> SETTLES SUITS WITH COMPUTER FIRM</field>
+	<field name = "titulo">DIGITAL DEC> SETTLES SUITS WITH COMPUTER FIRM</field>
 	<field name = "DATELINE">MAYNARD, Mass., March 31 -</field>
-	<field name = "BODY">Digital Equipment Corp and
+	<field name = "content">Digital Equipment Corp and
 Systems Industries Inc SYSM> said they settled all pending
 litigation between the two companies.
     They said Digital's 1980 patent infringement suit against

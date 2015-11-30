@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 14:57:28.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0802
-reute
-u f BC-GULF-OF-MEXICO-RIG-CO   03-02 0112</field>
-	<field name = "TITLE">GULF OF MEXICO RIG COUNT FALLS THIS WEEK</field>
+	<field name = "titulo">GULF OF MEXICO RIG COUNT FALLS THIS WEEK</field>
 	<field name = "DATELINE">HOUSTON, March 2 -</field>
-	<field name = "BODY">Utilization of offshore mobile rigs in
+	<field name = "content">Utilization of offshore mobile rigs in
 the Gulf of Mexico declined by 0.7 pct during the past week, to
 35.6 pct, reflecting a decrease of two working rigs, Offshore
 Data Services said.

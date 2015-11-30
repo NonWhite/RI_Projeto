@@ -5,12 +5,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">north-korea</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C G M
-f0569reute
-r f BC-NORTH-KOREA-PLANS-TO   04-21 0116</field>
-	<field name = "TITLE">NORTH KOREA PLANS TO EXPAND OUTPUT AND TRADE</field>
+	<field name = "titulo">NORTH KOREA PLANS TO EXPAND OUTPUT AND TRADE</field>
 	<field name = "DATELINE">TOKYO, April 21 -</field>
-	<field name = "BODY">North Korea unveiled plans to boost
+	<field name = "content">North Korea unveiled plans to boost
 industrial and agricultural production over the next seven
 years and to greatly expand trade with other nations, the
 official North Korean Central News Agency, monitored in Tokyo,

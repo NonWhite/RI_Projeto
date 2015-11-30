@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:59:31.41</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">A
-f0684reute
-r f AM-ITALY   04-07 0136</field>
-	<field name = "TITLE">ITALIAN GOVERNMENT EXPECTED TO FALL TOMORROW</field>
+	<field name = "titulo">ITALIAN GOVERNMENT EXPECTED TO FALL TOMORROW</field>
 	<field name = "DATELINE">ROME, April 7 -</field>
-	<field name = "BODY">Italy's government is expected to fall
+	<field name = "content">Italy's government is expected to fall
 tomorrow after the majority Christian Democrats decided to
 withdraw their 16 ministers unless Socialist Prime Minister
 Bettino Craxi resigned, political sources said today.

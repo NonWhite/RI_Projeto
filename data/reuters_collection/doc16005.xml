@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">V RM
-f2670reute
-b f BC-TREASURY'S-BAKER-SAYS   04-09 0098</field>
-	<field name = "TITLE">TREASURY'S BAKER SAYS SYSTEM NEEDS STABILITY</field>
+	<field name = "titulo">TREASURY'S BAKER SAYS SYSTEM NEEDS STABILITY</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 the floating exchange rate system has not been as effective as
 had been hoped in promoting stability and preventing imbalances
 from emerging in the global economy.

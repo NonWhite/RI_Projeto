@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 16:07:25.45</field>
 	<field name = "TOPICS">fuel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f9390reute
-r f BC-BELCHER-TO-RAISE-HEAV   03-18 0101</field>
-	<field name = "TITLE">BELCHER TO RAISE HEAVY FUELS PRICES</field>
+	<field name = "titulo">BELCHER TO RAISE HEAVY FUELS PRICES</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">The Belcher Co of New York, a
+	<field name = "content">The Belcher Co of New York, a
 subsidiary of Coastal Corp CGP>, said it will raise the posted
 prices for number six fuel in New York 25 cts to 1.75 dlrs a
 barrel, depending on grades.

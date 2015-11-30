@@ -3,13 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">sweden</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM
-f0078
-reute
-u f BC-SWEDEN-TO-GO-AHEAD-WI   03-02 0094</field>
-	<field name = "TITLE">SWEDEN TO GO AHEAD WITH S. AFRICAN TRADE SANCTIONS</field>
+	<field name = "titulo">SWEDEN TO GO AHEAD WITH S. AFRICAN TRADE SANCTIONS</field>
 	<field name = "DATELINE">STOCKHOLM, March 2 -</field>
-	<field name = "BODY">Sweden's ruling Social Democratic
+	<field name = "content">Sweden's ruling Social Democratic
 Party gave full power to the government to decree unilateral
 trade sanctions against South Africa, Prime Minister Ingvar
 Calrsson said.

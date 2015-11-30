@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 14:14:17.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0225reute
-u f BC-CHRYSLER-C>-SELLS-BO   03-11 0100</field>
-	<field name = "TITLE">CHRYSLER C> SELLS BONDS FROM ITS PORTFOLIO</field>
+	<field name = "titulo">CHRYSLER C> SELLS BONDS FROM ITS PORTFOLIO</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Chrysler Corp today sold 405 mln dlrs
+	<field name = "content">Chrysler Corp today sold 405 mln dlrs
 of corporate bonds from its nearly 3.5 billion dlr pension fund
 to Wall Street investment bankers, vice president and treasurer
 Fred Zuckerman said.

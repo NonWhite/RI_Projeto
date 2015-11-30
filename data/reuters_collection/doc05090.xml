@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 16:55:27.48</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0543reute
-u f BC-TENDER-FOR-ALLEGHENY   03-13 0083</field>
-	<field name = "TITLE">TENDER FOR ALLEGHENY INT'L AG> UNDERWAY</field>
+	<field name = "titulo">TENDER FOR ALLEGHENY INT'L AG> UNDERWAY</field>
 	<field name = "DATELINE">PITTSBURGH, March 13 -</field>
-	<field name = "BODY">First Boston Inc's FBC> Sunter
+	<field name = "content">First Boston Inc's FBC> Sunter
 Acquisition Corp said it began its previously announced 24.60
 dlr per share tender offer for Allegheny International Inc's
 common stock.

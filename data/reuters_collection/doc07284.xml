@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 13:23:51.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1832reute
-w f BC-RETAIL-CHAIN-TO-SELL   03-19 0071</field>
-	<field name = "TITLE">RETAIL CHAIN TO SELL ROCKY MOUNTAIN RMED> ITEM</field>
+	<field name = "titulo">RETAIL CHAIN TO SELL ROCKY MOUNTAIN RMED> ITEM</field>
 	<field name = "DATELINE">DENVER, March 19 -</field>
-	<field name = "BODY">Rocky Mountain Medical Corp said the
+	<field name = "content">Rocky Mountain Medical Corp said the
 Baby News Store chain of children's stores will carry its
 tenderCare line of non-chemical disposable diapers.
     Rocky claimed its patented dryness technology provides a

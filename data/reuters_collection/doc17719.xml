@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 14:30:17.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2080reute
-d f BC-KMS-INDUSTRIES-INC-K   06-01 0072</field>
-	<field name = "TITLE">KMS INDUSTRIES INC KMSI.O> GETS CONTRACT</field>
+	<field name = "titulo">KMS INDUSTRIES INC KMSI.O> GETS CONTRACT</field>
 	<field name = "DATELINE">ANN ARBOR, Mich., June 1 -</field>
-	<field name = "BODY">KMS Industries Inc said its
+	<field name = "content">KMS Industries Inc said its
 Covalent Technology Corp subsidiary won a one-year 60,000 dlr
 contract for develpoing a rapid and simple method for detecting
 heaptitis B antigen and diarrheal disease toxins.

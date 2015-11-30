@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 12:09:17.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0529reute
-b f BC-SALOMON-INC-SB>-SAID   03-13 0098</field>
-	<field name = "TITLE">SALOMON INC SB> SAID TO CUT U.S. BANKS RATINGS</field>
+	<field name = "titulo">SALOMON INC SB> SAID TO CUT U.S. BANKS RATINGS</field>
 	<field name = "DATELINE">NEW YORK, MARCH 13 -</field>
-	<field name = "BODY">Salomon Inc has lowered its investment
+	<field name = "content">Salomon Inc has lowered its investment
 ratings on all U.S. money center banks, institutional sources
 said.
     The sources said Salomon believes that other money center

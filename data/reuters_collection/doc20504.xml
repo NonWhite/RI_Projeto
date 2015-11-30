@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:01:22.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2571reute
-r f BC-RJR-NABISCO-RJR>-NAM   10-20 0100</field>
-	<field name = "TITLE">RJR NABISCO RJR> NAMES TWO TO POSTS</field>
+	<field name = "titulo">RJR NABISCO RJR> NAMES TWO TO POSTS</field>
 	<field name = "DATELINE">ATLANTA, Oct 20 -</field>
-	<field name = "BODY">RJR Nabisco Inc said it named Robert J.
+	<field name = "content">RJR Nabisco Inc said it named Robert J.
 Carbonell to the post of vice chairman and Edward J. Robinson
 to the newly-created position of executive vice president,
 finance.

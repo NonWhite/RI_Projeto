@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:59:50.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0136
-reute
-d f BC-ADVANCE-CIRCUITS-ADV   03-02 0094</field>
-	<field name = "TITLE">ADVANCE CIRCUITS ADVC> GETS LOAN AGREEMENT</field>
+	<field name = "titulo">ADVANCE CIRCUITS ADVC> GETS LOAN AGREEMENT</field>
 	<field name = "DATELINE">MINNETONKA, Minn., March 2 -</field>
-	<field name = "BODY">Advance Circuits Inc said it
+	<field name = "content">Advance Circuits Inc said it
 has signed a 9,500,000 dlrs borrowing agreement with Washington
 Square Capital Inc.
     The new loan consists of a revolving credit facility of

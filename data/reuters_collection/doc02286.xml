@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 13:13:55.21</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0156reute
-u f BC-ROYAL-TRUST-PLANS-NO   03-05 0111</field>
-	<field name = "TITLE">ROYAL TRUST PLANS NO BROKERAGE UNIT</field>
+	<field name = "titulo">ROYAL TRUST PLANS NO BROKERAGE UNIT</field>
 	<field name = "DATELINE">TORONTO, March 5 -</field>
-	<field name = "BODY">Royal Trustco Ltd> said it does not
+	<field name = "content">Royal Trustco Ltd> said it does not
 plan to enter the brokerage business when ownership of Ontario
 investment dealers is opened to other financial institutions on
 June 30.

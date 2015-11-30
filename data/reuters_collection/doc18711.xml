@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 11:02:29.39</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F 
-f3399reute
-r f BC-FRANCE-VIDEOTEX-SERVI   06-18 0081</field>
-	<field name = "TITLE">FRANCE VIDEOTEX SERVICE IN PACT WITH U.S. UNIT</field>
+	<field name = "titulo">FRANCE VIDEOTEX SERVICE IN PACT WITH U.S. UNIT</field>
 	<field name = "DATELINE">NEW YORK, June 17 -</field>
-	<field name = "BODY">The French agency for international
+	<field name = "content">The French agency for international
 marketing of videotex, Intelmatique>, said it plans to bring
 the Minitel network to the U.S. in cooperation with Infonet, an
 international network service of Computer Sciences Corp CSC>.

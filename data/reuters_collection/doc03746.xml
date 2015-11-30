@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 12:09:38.62</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F
-f0760reute
-d f BC-SHV-WITHDRAWS-IC-GAS   03-11 0105</field>
-	<field name = "TITLE">SHV WITHDRAWS IC GAS OFFER</field>
+	<field name = "titulo">SHV WITHDRAWS IC GAS OFFER</field>
 	<field name = "DATELINE">UTRECHT, Netherlands, March 11 -</field>
-	<field name = "BODY">SHV Holdings NV said it is
+	<field name = "content">SHV Holdings NV said it is
 withdrawing its take-over bid for Imperial Continental Gas
 Association ICGS.L> after failing to gain the minimum number
 of pledges sought from IC Gas shareholders.

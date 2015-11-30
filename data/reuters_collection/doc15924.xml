@@ -6,12 +6,9 @@
 	<field name = "PLACES">pakistan</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C G
-f2431reute
-r f BC-cotton--s/d   04-09 0103</field>
-	<field name = "TITLE">COTTON SUPPLY/DEMAND BY COUNTRY -- USDA</field>
+	<field name = "titulo">COTTON SUPPLY/DEMAND BY COUNTRY -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 detailed world supply/demand data for major importers and
 exporters of cotton, by country, as follows, in mln 480-lb
 bales --

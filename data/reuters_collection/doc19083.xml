@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 07:10:04.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM 
-f0455reute
-r f BC-S/P-AFFIRMS-NATIONAL   06-19 0110</field>
-	<field name = "TITLE">S/P AFFIRMS NATIONAL WESTMINSTER DEBT</field>
+	<field name = "titulo">S/P AFFIRMS NATIONAL WESTMINSTER DEBT</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 yesterday affirmed the AAA senior debt and A-1-plus commercial
 paper of National Westminster Bank Plc NWBL.L>.
     The AA long-term and A-1-plus short-term certificates of

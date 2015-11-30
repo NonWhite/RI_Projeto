@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:27:17.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0293reute
-u f BC-MCI-MCIC>-SEEKS-IMME   03-05 0079</field>
-	<field name = "TITLE">MCI MCIC> SEEKS IMMEDIATE ATT T> DEREGULATION</field>
+	<field name = "titulo">MCI MCIC> SEEKS IMMEDIATE ATT T> DEREGULATION</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">MCI Communications Corp. called for
+	<field name = "content">MCI Communications Corp. called for
 immediate federal deregulation of American Telephone and
 Telegraph Co., its principal competitor.
     MCI said it will ask the Federal Communications Commission

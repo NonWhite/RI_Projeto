@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 13:50:07.11</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0229reute
-r f BC-READING-RDGC>-TO-SEL   03-09 0091</field>
-	<field name = "TITLE">READING RDGC> TO SELL PHILADELPHIA PROPERTIES</field>
+	<field name = "titulo">READING RDGC> TO SELL PHILADELPHIA PROPERTIES</field>
 	<field name = "DATELINE">PHILADELPHIA, March 9 -</field>
-	<field name = "BODY">Reading Co said it has agreed in
+	<field name = "content">Reading Co said it has agreed in
 principle to convey properties it owns in and around the
 Philadelphia Convention Center site to the city of Philadelphia
 and the Philadelphia Convention Center Authority.

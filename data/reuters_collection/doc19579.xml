@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 08:48:04.43</field>
-	<field name = "UNKNOWN">F 
-f0801reute
-d f BC-DIVERSIFIED-GETS-APPR   06-29 0103</field>
-	<field name = "TITLE">DIVERSIFIED GETS APPROVAL FOR SALMONELLA TEST</field>
+	<field name = "titulo">DIVERSIFIED GETS APPROVAL FOR SALMONELLA TEST</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Diversified Diagnostic Industries Inc>
+	<field name = "content">Diversified Diagnostic Industries Inc>
 said it has received approval from the Food and Drug
 Administration (FDA) for a sceening kit that would test for
 salmonella in a number of foods including meat.

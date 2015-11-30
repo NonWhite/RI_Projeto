@@ -2,12 +2,9 @@
 	<field name = "DATE">15-MAR-1987 00:05:58.72</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">F
-f0853reute
-r f BC-VW-AFFAIR-COULD-DELAY   03-15 0094</field>
-	<field name = "TITLE">VW AFFAIR COULD DELAY SHARE SALE - STOLTENBERG</field>
+	<field name = "titulo">VW AFFAIR COULD DELAY SHARE SALE - STOLTENBERG</field>
 	<field name = "DATELINE">BONN, March 15 -</field>
-	<field name = "BODY">West German Finance Minister Gerhard
+	<field name = "content">West German Finance Minister Gerhard
 Stoltenberg was quoted as saying a possible currency fraud at
 Volkswagen AG VOWG.F> may affect government plans to sell its
 20 pct stake in the carmaker this year.

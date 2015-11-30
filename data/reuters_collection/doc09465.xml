@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:35:52.38</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1886reute
-u f BC-UK-POLL-SHOWS-SURGE-F   03-25 0111</field>
-	<field name = "TITLE">UK POLL SHOWS SURGE FOR CENTRIST ALLIANCE PARTIES</field>
+	<field name = "titulo">UK POLL SHOWS SURGE FOR CENTRIST ALLIANCE PARTIES</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">A British voter opinion poll in
+	<field name = "content">A British voter opinion poll in
 tomorrow's Today newspaper shows a surge in support for the
 centrist Alliance grouping and a fall for both the ruling
 Conservatives and the Labour opposition party.

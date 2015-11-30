@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 15:00:13.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f4340reute
-r f BC-ALCOA-AA>-TO-BUY-BAC   06-18 0097</field>
-	<field name = "TITLE">ALCOA AA> TO BUY BACK 12 PCT DEBENTURES</field>
+	<field name = "titulo">ALCOA AA> TO BUY BACK 12 PCT DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Aluminum Co of America said it is
+	<field name = "content">Aluminum Co of America said it is
 offering to purchase any and all of its outstanding 150 mln
 dlrs of 12 pct sinking fund debentures of 2012.
     It said it will buy back the debentures at 1,105 dlrs per

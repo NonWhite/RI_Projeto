@@ -3,13 +3,10 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0244reute
-u f BC-JAPAN-REJECTS-U.S.-OB   03-13 0100</field>
-	<field name = "TITLE">JAPAN REJECTS U.S. OBJECTIONS TO FAIRCHILD SALE</field>
+	<field name = "titulo">JAPAN REJECTS U.S. OBJECTIONS TO FAIRCHILD SALE</field>
 	<field name = "AUTHOR">By Linda Sieg, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 13 -</field>
-	<field name = "BODY">A Foreign Ministry official dismissed
+	<field name = "content">A Foreign Ministry official dismissed
 arguments made by senior U.S. Government officials seeking to
 block the sale of a U.S. Microchip maker to a Japanese firm.
     "They appear to be linking completely unrelated issues,"

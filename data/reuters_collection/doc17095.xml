@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1097reute
-u f BC-/EXXON-XON>-NET-DROP   04-24 0090</field>
-	<field name = "TITLE">EXXON XON> NET DROPS ON LOWER OIL, GAS PRICES</field>
+	<field name = "titulo">EXXON XON> NET DROPS ON LOWER OIL, GAS PRICES</field>
 	<field name = "DATELINE">NEW YORK, April 24 -</field>
-	<field name = "BODY">Exxon Corp reported a 37 pct drop in
+	<field name = "content">Exxon Corp reported a 37 pct drop in
 first quarter profits to 1.07 billion dlrs citing lower oil and
 gas prices.
     The company said profits in the lastest quarter included a

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 14:50:38.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2159reute
-u f BC-PHELPS-DODGE-PD>-CAL   04-01 0102</field>
-	<field name = "TITLE">PHELPS DODGE PD> CALLS PREFERENCE SHARES</field>
+	<field name = "titulo">PHELPS DODGE PD> CALLS PREFERENCE SHARES</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Phelps Dodge Corp said it is calling
+	<field name = "content">Phelps Dodge Corp said it is calling
 for redemption on May One all of its five dlr convertible
 exchangeable preference shares at 53.50 dlrs per share.
     The company said the shares may be converted into common

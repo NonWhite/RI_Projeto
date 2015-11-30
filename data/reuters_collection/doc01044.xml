@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987  10:16:24.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0473reute
-d f BC-VWR-CORP-VWRX>-FORMS   03-03 0069</field>
-	<field name = "TITLE">VWR CORP VWRX> FORMS NEW UNIT</field>
+	<field name = "titulo">VWR CORP VWRX> FORMS NEW UNIT</field>
 	<field name = "DATELINE">SEATTLE, March 3 -</field>
-	<field name = "BODY">VWR Corp said it has formed a new
+	<field name = "content">VWR Corp said it has formed a new
 subsidiary, Momentun Textiles, to handle the distribution of
 upholstery fabrics, leathers and naugahyde to contract and
 consumer furniture manufacturers.

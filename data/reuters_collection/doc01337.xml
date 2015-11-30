@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 16:41:33.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0948reute
-r f BC-PIEDMONT-AIR-PIE>-FE   03-03 0087</field>
-	<field name = "TITLE">PIEDMONT AIR PIE> FEBRUARY LOAD FACTOR RISES</field>
+	<field name = "titulo">PIEDMONT AIR PIE> FEBRUARY LOAD FACTOR RISES</field>
 	<field name = "DATELINE">WINSTON-SALEM, N.C., March 3 -</field>
-	<field name = "BODY">Piedmont Aviation Inc's
+	<field name = "content">Piedmont Aviation Inc's
 Piedmont Airlines said its February load factor, or percentage
 of seats filled, rose to 55.5 pct, from 52.6 pct for the same
 month last year.

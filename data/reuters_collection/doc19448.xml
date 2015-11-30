@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 16:57:26.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2428reute
-u f BC-MOSELY-MOSE.O>-EXPEC   06-19 0072</field>
-	<field name = "TITLE">MOSELY MOSE.O> EXPECTS 1ST QTR LOSS</field>
+	<field name = "titulo">MOSELY MOSE.O> EXPECTS 1ST QTR LOSS</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Mosely Holding Corp said it expects to
+	<field name = "content">Mosely Holding Corp said it expects to
 report an unspecified loss in the first quarter ending June 30.
     The company said the current quarter result will reflect
 losses associated with municipal bond, unit trust, and

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-supply</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1060reute
-u f BC-BUNDESBANK-RETAINS-MO   04-07 0105</field>
-	<field name = "TITLE">BUNDESBANK RETAINS MONEY SUPPLY POLICY</field>
+	<field name = "titulo">BUNDESBANK RETAINS MONEY SUPPLY POLICY</field>
 	<field name = "DATELINE">FRANKFURT, April 7 -</field>
-	<field name = "BODY">Bundesbank council member Lothar
+	<field name = "content">Bundesbank council member Lothar
 Mueller said the bank has not given up its money supply policy
 and that restraining money supply growth does not always mean
 pushing up interest rates.

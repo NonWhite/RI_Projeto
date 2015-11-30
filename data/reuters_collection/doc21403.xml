@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 10:23:09.86</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1233reute
-u f BC-WOOLWORTH-Z>-COMPLET   10-19 0106</field>
-	<field name = "TITLE">WOOLWORTH Z> COMPLETING TENDER OFFER</field>
+	<field name = "titulo">WOOLWORTH Z> COMPLETING TENDER OFFER</field>
 	<field name = "DATELINE">NEW YORK, Oct. 19 -</field>
-	<field name = "BODY">FW Woolworth and Co said that 2,223,996
+	<field name = "content">FW Woolworth and Co said that 2,223,996
 shares of Armel Inc's AML> common stock were tendered to and
 accepted for payment by Woolworth, under the terms of the
 previosuly announced cash tender offer which expired at 2400

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 16:14:52.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2255reute
-d f BC-GREAT-AMERICAN-GAMI>   04-03 0082</field>
-	<field name = "TITLE">GREAT AMERICAN GAMI> FORMS NEW SUBSIDIARY</field>
+	<field name = "titulo">GREAT AMERICAN GAMI> FORMS NEW SUBSIDIARY</field>
 	<field name = "DATELINE">CHICAGO, April 3 -</field>
-	<field name = "BODY">Great American Management and Investment
+	<field name = "content">Great American Management and Investment
 Inc said it formed a new subsidiary, Eagle Industries Inc, and
 secured a 125 mln dlr credit facility for the unit from Heller
 Financial Inc.

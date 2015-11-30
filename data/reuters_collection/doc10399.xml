@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:08:09.60F</field>
-	<field name = "UNKNOWN">f0792reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-FCS-LABS-FCSI>-PRESI   03-27 0066</field>
-	<field name = "TITLE">FCS LABS FCSI> PRESIDENT, TREASURER RESIGN</field>
+	<field name = "titulo">FCS LABS FCSI> PRESIDENT, TREASURER RESIGN</field>
 	<field name = "DATELINE">FLEMINGTON, N.J., March 27 -</field>
-	<field name = "BODY">FCS Laboratories Inc said
+	<field name = "content">FCS Laboratories Inc said
 George D. Fowle Jr has resigned as president of the company and
 Garu Griffin resigned as treasurer, both effective March 31.
     The company said directors elected Chairman Nicholas A.

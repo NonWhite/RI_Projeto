@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 14:42:43.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0135reute
-u f BC-RESORTS-INTL-RT.A>-D   03-12 0115</field>
-	<field name = "TITLE">RESORTS INTL RT.A> DEBT RATINGS AFFIRMED BY S/P</field>
+	<field name = "titulo">RESORTS INTL RT.A> DEBT RATINGS AFFIRMED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 affirmed the ratings on 600 mln dlrs of debt of Resorts
 International Inc and Resorts International Financing Inc.
     Developer Donald Trump has agreed to pay 101 mln dlrs for

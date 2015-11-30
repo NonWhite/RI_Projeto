@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 11:53:50.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1456reute
-u f BC-SALLIE-MAE-TO-PRICE-F   04-03 0113</field>
-	<field name = "TITLE">SALLIE MAE TO PRICE FLOATING RATE NOTES MONDAY</field>
+	<field name = "titulo">SALLIE MAE TO PRICE FLOATING RATE NOTES MONDAY</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The Student Loan Marketing
+	<field name = "content">The Student Loan Marketing
 Association said it plans to price 300 mln dlrs of short-term
 floating rate notes due Oct 8, 1987, on Monday.
     The notes are for settlement April 9 and when-issued

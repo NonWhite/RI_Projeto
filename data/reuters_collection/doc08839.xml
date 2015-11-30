@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 12:01:07.71</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">F
-f1520reute
-r f BC-OLIVETTI-ADDS-COMPUTE   03-24 0103</field>
-	<field name = "TITLE">OLIVETTI ADDS COMPUTER, SOFTWARE TO PRODUCT LINE</field>
+	<field name = "titulo">OLIVETTI ADDS COMPUTER, SOFTWARE TO PRODUCT LINE</field>
 	<field name = "DATELINE">IVREA, Italy, March 24 -</field>
-	<field name = "BODY">Ing C. Olivetti EC Spa OLIV.MI>
+	<field name = "content">Ing C. Olivetti EC Spa OLIV.MI>
 said a new computer and software have been added to its 3B Unix
 computer line, which is developed by American Telephone and
 Telegraph Co A> and distributed by Olivetti outside the U.S.

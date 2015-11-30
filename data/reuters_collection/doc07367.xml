@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 15:14:50.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2206reute
-u f BC-U.S.-ATTORNEY-SAYS-BO   03-19 0101</field>
-	<field name = "TITLE">U.S. ATTORNEY SAYS BOYD JEFFERIES COOPERATING</field>
+	<field name = "titulo">U.S. ATTORNEY SAYS BOYD JEFFERIES COOPERATING</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">U.S. Attorney Rudolph Giuliani said
+	<field name = "content">U.S. Attorney Rudolph Giuliani said
 Boyd Jefferies, former chairman of Jefferies Group Inc JEFG>,
 is cooperating with an investigation into violations of U.S.
 securities laws.

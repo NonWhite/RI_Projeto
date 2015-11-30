@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 13:14:50.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1875reute
-r f BC-MITSUBISHI-RAISES-CAR   06-29 0081</field>
-	<field name = "TITLE">MITSUBISHI RAISES CAR/TRUCK PRICES IN U.S.</field>
+	<field name = "titulo">MITSUBISHI RAISES CAR/TRUCK PRICES IN U.S.</field>
 	<field name = "DATELINE">FOUNTAIN VALLEY, Calif, June 29 -</field>
-	<field name = "BODY">Mitsubishi Motor Sales of
+	<field name = "content">Mitsubishi Motor Sales of
 America Inc said it is raising car prices by an average 1.8
 pct, or 227 dlrs and truck prices by 1.6 pct, or 150 dlrs,
 because of the continued strength of the Japanese yen against

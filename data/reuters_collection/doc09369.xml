@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 11:27:09.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1343reute
-b f BC-SOME-FIRMS-CURB-COMMO   03-25 0114</field>
-	<field name = "TITLE">SOME FIRMS CURB COMMODITIES BUSINESS WITH DREXEL</field>
+	<field name = "titulo">SOME FIRMS CURB COMMODITIES BUSINESS WITH DREXEL</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Drexel Burnham Lambert Inc> said
+	<field name = "content">Drexel Burnham Lambert Inc> said
 some Wall Street firms have limited their commodities trading
 business with Drexel.
     Rumors circulated in financial and commodity markets

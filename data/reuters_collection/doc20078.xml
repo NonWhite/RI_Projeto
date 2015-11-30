@@ -3,12 +3,9 @@
 	<field name = "TOPICS">rubber</field>
 	<field name = "PLACES">malaysia</field>
 	<field name = "ORGS">inro</field>
-	<field name = "UNKNOWN">T 
-f0568reute
-u f BC-INRO-COUNCIL-MEETING   10-20 0098</field>
-	<field name = "TITLE">INRO COUNCIL MEETING ADJOURNED UNTIL THURSDAY</field>
+	<field name = "titulo">INRO COUNCIL MEETING ADJOURNED UNTIL THURSDAY</field>
 	<field name = "DATELINE">KUALA LUMPUR, Oct 20 -</field>
-	<field name = "BODY">A Council meeting of the
+	<field name = "content">A Council meeting of the
 International Natural Rubber Organization (INRO) has been
 adjourned until Thursday as tomorrow is a Malaysian national
 holiday, officials of the organisation said.

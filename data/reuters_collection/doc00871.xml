@@ -5,13 +5,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0437
-reute
-u f BC-JAPANESE-ECONOMIST-SE   03-02 0117</field>
-	<field name = "TITLE">JAPANESE ECONOMIST SEES STABLE YEN/DOLLAR RATES</field>
+	<field name = "titulo">JAPANESE ECONOMIST SEES STABLE YEN/DOLLAR RATES</field>
 	<field name = "DATELINE">KUALA LUMPUR, March 3 -</field>
-	<field name = "BODY">The yen should stabilize at around
+	<field name = "content">The yen should stabilize at around
 152 to 153 to the U.S. Dollar for about a year, the Bank of
 Tokyo's economic adviser Koei Narusawa said.
     "Both sides are showing clear interest to secure stability

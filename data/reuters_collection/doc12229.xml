@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 14:51:11.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2161reute
-d f BC-NORTH-CENTRAL-LABS-N   04-01 0080</field>
-	<field name = "TITLE">NORTH CENTRAL LABS NCLB> DISCUSSES AIDS TESTS</field>
+	<field name = "titulo">NORTH CENTRAL LABS NCLB> DISCUSSES AIDS TESTS</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 1 -</field>
-	<field name = "BODY">North Central Laboratories Inc said
+	<field name = "content">North Central Laboratories Inc said
 it has had preliminary discussions with MikroMed Inc about
 providing laboratory testing services to screen the presence of
 the AIDS virus.

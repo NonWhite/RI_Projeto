@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 12:07:00.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8473reute
-u f BC-FAA-ADMINISTRATOR-ENG   03-18 0080</field>
-	<field name = "TITLE">FAA ADMINISTRATOR ENGEN TO RESIGN IN JULY</field>
+	<field name = "titulo">FAA ADMINISTRATOR ENGEN TO RESIGN IN JULY</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">Federal Aviation Administration
+	<field name = "content">Federal Aviation Administration
 chief Donald Engen said he plans to leave the government in
 July.
     Engen, 62, has been FAA administrator for the past three

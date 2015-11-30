@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 14:35:23.77</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM 
-f2146reute
-u f BC-BC-CANADA-(SCHEDULED   06-29 0103</field>
-	<field name = "TITLE">CANADA SETS OFF ITS OWN BIG BANG</field>
+	<field name = "titulo">CANADA SETS OFF ITS OWN BIG BANG</field>
 	<field name = "AUTHOR">By Peter Cooney, Reuters</field>
 	<field name = "DATELINE">TORONTO, June 29 - Echoes of London's Big Bang --</field>
-	<field name = "BODY">stock
+	<field name = "content">stock
 market deregulation -- will be heard Tuesday when the Canadian
 securities industry sets off its own fireworks.
     Some companies are quickly taking advantage of

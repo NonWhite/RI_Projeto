@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 16:23:56.07</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">RM A 
-f3045reute
-r f PM-YUGOSLAVIA   10-19 0078</field>
-	<field name = "TITLE">YUGOSLAV ECONOMIC PLAN SEEN FACING HURDLES</field>
+	<field name = "titulo">YUGOSLAV ECONOMIC PLAN SEEN FACING HURDLES</field>
 	<field name = "AUTHOR">By Andrej Gustincic</field>
 	<field name = "DATELINE">BELGRADE, Oct 19 -</field>
-	<field name = "BODY">Yugoslavia's ambitious economic recovery
+	<field name = "content">Yugoslavia's ambitious economic recovery
 and anti-inflation plan faces major hurdles before it can be
 implemented, Yugoslav economists and Western diplomats said.
     Prime Minister Branko Mikulic on Monday proposed new taxes

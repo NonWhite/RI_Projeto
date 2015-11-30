@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G
-f0749reute
-u f BC-MAIZE-IMPORTS-SUSPEND   03-05 0121</field>
-	<field name = "TITLE">BRAZIL SUSPENDS IMPORT OF 500,000 TONNES MAIZE</field>
+	<field name = "titulo">BRAZIL SUSPENDS IMPORT OF 500,000 TONNES MAIZE</field>
 	<field name = "DATELINE">SAO PAULO, March 5 -</field>
-	<field name = "BODY">Brazil has suspended the importation
+	<field name = "content">Brazil has suspended the importation
 of 500,000 tonnes of maize ordered last year because of the
 excellent domestic maize harvest expected this year,
 Agriculture Minister Iris Resende said.

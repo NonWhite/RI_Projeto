@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 06:36:57.59</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM 
-f0505reute
-u f BC-JAPANESE-STOCK-PLUNGE   10-20 0105</field>
-	<field name = "TITLE">JAPANESE STOCK PLUNGE RAISES FUNDING PROBLEMS</field>
+	<field name = "titulo">JAPANESE STOCK PLUNGE RAISES FUNDING PROBLEMS</field>
 	<field name = "AUTHOR">By James Kynge</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">The massive plunge in Tokyo stock prices on
+	<field name = "content">The massive plunge in Tokyo stock prices on
 Tuesday could rob the Government of much-needed revenue to spur
 Japan's economy, and may hurt banks' ability to lend abroad,
 analysts polled by Reuters said.

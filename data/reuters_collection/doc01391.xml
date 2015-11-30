@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 17:56:37.62</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0133reute
-u f BC-U.S.-COMMERCE-SECRETA   03-03 0112</field>
-	<field name = "TITLE">U.S. COMMERCE SECRETARY QUESTIONS FUJITSU DEAL</field>
+	<field name = "titulo">U.S. COMMERCE SECRETARY QUESTIONS FUJITSU DEAL</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">Commerce Secretary Malcolm Baldrige
+	<field name = "content">Commerce Secretary Malcolm Baldrige
 said he felt a proposed takeover by Japan's Fujitsu Ltd> of
 U.S.-based Fairchild Semiconductor Corp, a subsidiary of
 Schlumberger Ltd SLB>, should be carefully reviewed.

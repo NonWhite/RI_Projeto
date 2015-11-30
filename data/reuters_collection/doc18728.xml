@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 11:20:49.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3497reute
-r f BC-MICROELECTRONICS-TO-R   06-18 0110</field>
-	<field name = "TITLE">MICROELECTRONICS TO RESTRUCTURE PROGRAM</field>
+	<field name = "titulo">MICROELECTRONICS TO RESTRUCTURE PROGRAM</field>
 	<field name = "DATELINE">AUSTIN, Texas, June 18 -</field>
-	<field name = "BODY">Microelectronics and Computer
+	<field name = "content">Microelectronics and Computer
 Technology Corp> said its board approved a restructuring of its
 advanced computer architecture program.
     The private sector cooperative research venture, which is

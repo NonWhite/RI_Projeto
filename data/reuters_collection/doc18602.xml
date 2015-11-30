@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 08:47:56.89</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">eib</field>
-	<field name = "UNKNOWN">RM 
-f2885reute
-u f BC-EIB-MAKES-300-MLN-FRA   06-18 0083</field>
-	<field name = "TITLE">EIB MAKES 300 MLN FRANC LOAN TO PEUGEOT</field>
+	<field name = "titulo">EIB MAKES 300 MLN FRANC LOAN TO PEUGEOT</field>
 	<field name = "DATELINE">PARIS, June 18 -</field>
-	<field name = "BODY">The European Investment Bank said it is
+	<field name = "content">The European Investment Bank said it is
 making a 300 mln franc loan to Peugeot SA PEUP.PA> to
 restructure the paint works at its Sochaux car factory in
 France.

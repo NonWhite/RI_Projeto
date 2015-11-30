@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 12:28:23.59</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">G 
-f3803reute
-d f BC-WORLD-BANK-LOANS-MEXI   06-18 0101</field>
-	<field name = "TITLE">WORLD BANK LOANS MEXICO 400 MLN DLRS</field>
+	<field name = "titulo">WORLD BANK LOANS MEXICO 400 MLN DLRS</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">The World Bank said it has loaned
+	<field name = "content">The World Bank said it has loaned
 Mexico 400 mln dlrs to help support an agricultural credit
 project.
     The project hopes to increase agricultural productivity,

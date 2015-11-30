@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 09:06:36.56</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f0758reute
-d f BC-SWISSAIR-REPORTS-LOWE   03-19 0112</field>
-	<field name = "TITLE">SWISSAIR REPORTS LOWER PROFIT AND DIVIDEND</field>
+	<field name = "titulo">SWISSAIR REPORTS LOWER PROFIT AND DIVIDEND</field>
 	<field name = "DATELINE">ZURICH, March 19 -</field>
-	<field name = "BODY">Swissair SWSZ.Z> reported a 5.8 pct
+	<field name = "content">Swissair SWSZ.Z> reported a 5.8 pct
 drop in 1986 net profit to 64.5 mln Swiss francs and said that,
 in line with its new, flexible dividend policy, it would cut
 its payout to 33 francs per share from 38.

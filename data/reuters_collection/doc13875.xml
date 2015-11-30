@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:19:58.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0969reute
-d f BC-PYRAMID-TECHNOLOGY-P   04-07 0124</field>
-	<field name = "TITLE">PYRAMID TECHNOLOGY PYRD>, ORACLE ORCL> IN DEAL</field>
+	<field name = "titulo">PYRAMID TECHNOLOGY PYRD>, ORACLE ORCL> IN DEAL</field>
 	<field name = "DATELINE">MOUNTAIN VIEW, Calif., April 7 -</field>
-	<field name = "BODY">Pyramid Technology Corp
+	<field name = "content">Pyramid Technology Corp
 said it has reached an agreement to sell Oracle Corp's Oracle
 database and Relational Technology Inc's> Ingres database
 through the Pyramid direct sales force and to original

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 08:45:36.10</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">F
-f0741reute
-u f BC-LONDON-STOCK-SYSTEM-B   04-01 0100</field>
-	<field name = "TITLE">LONDON STOCK SYSTEM BIG SUCCESS, OFFICIAL SAYS</field>
+	<field name = "titulo">LONDON STOCK SYSTEM BIG SUCCESS, OFFICIAL SAYS</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">The restructured London Stock Exchange
+	<field name = "content">The restructured London Stock Exchange
 has proved itself an unqualified success in less than
 six months of operation, according to exchange chairman Sir
 Nicholas Goodison.

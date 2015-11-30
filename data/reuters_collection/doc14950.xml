@@ -3,12 +3,9 @@
 	<field name = "TOPICS">groundnut</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L M T
-f0798reute
-u f BC-JAPAN'S-LDP-URGES-MOR   04-08 0109</field>
-	<field name = "TITLE">JAPAN'S LDP URGES MORE IMPORTS OF 12 FARM ITEMS</field>
+	<field name = "titulo">JAPAN'S LDP URGES MORE IMPORTS OF 12 FARM ITEMS</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">The ruling Liberal Democratic Party (LDP)
+	<field name = "content">The ruling Liberal Democratic Party (LDP)
 has proposed expanding imports of 12 farm products named in a
 U.S. Complaint against Japan to the General Agreement on
 Tariffs and Trade last year, an LDP official said.

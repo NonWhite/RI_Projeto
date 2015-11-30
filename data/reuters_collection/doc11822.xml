@@ -2,13 +2,10 @@
 	<field name = "DATE">1-APR-1987 05:30:52.32</field>
 	<field name = "PLACES">turkey</field>
 	<field name = "PEOPLE">ozal</field>
-	<field name = "UNKNOWN">RM
-f0361reute
-r f BC-TURKISH-BANKS-ANNOUNC   04-01 0112</field>
-	<field name = "TITLE">TURKISH BANKS ANNOUNCE HIGHER PROFITS FOR 1986</field>
+	<field name = "titulo">TURKISH BANKS ANNOUNCE HIGHER PROFITS FOR 1986</field>
 	<field name = "AUTHOR">By Ragip Erten, Reuters</field>
 	<field name = "DATELINE">ISTANBUL, April 1 -</field>
-	<field name = "BODY">Turkey's banks are reporting a strong
+	<field name = "content">Turkey's banks are reporting a strong
 recovery in 1986 profits, but a government drive to liberalise
 capital markets poses new challenges to a banking industry
 seeking to broaden its earnings base.

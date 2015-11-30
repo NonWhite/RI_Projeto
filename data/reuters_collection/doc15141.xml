@@ -3,12 +3,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">RM
-f1809reute
-u f BC-IRAN-SAYS-OFFENSIVE-A   04-08 0119</field>
-	<field name = "TITLE">IRAN SAYS OFFENSIVE AIMED AT DESTROYING IRAQ ARMY</field>
+	<field name = "titulo">IRAN SAYS OFFENSIVE AIMED AT DESTROYING IRAQ ARMY</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">Iran decided to continue its operations
+	<field name = "content">Iran decided to continue its operations
 east of Basra to destroy Iraq's forces, Iranian Prime Minister
 Mir-Hossein Mousavi told Tehran Radio.
     "That seems to be the best spot for the complete destruction

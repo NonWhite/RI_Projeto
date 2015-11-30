@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 13:25:34.80</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">C T
-f1912reute
-u f BC-colombia's-coffee-rev   03-24 0095</field>
-	<field name = "TITLE">COLOMBIA COFFEE REVENUE SHARPLY DOWN IN JAN/FEB</field>
+	<field name = "titulo">COLOMBIA COFFEE REVENUE SHARPLY DOWN IN JAN/FEB</field>
 	<field name = "DATELINE">BOGOTA, March 24 -</field>
-	<field name = "BODY">Colombia's coffee export revenue dropped
+	<field name = "content">Colombia's coffee export revenue dropped
 97 mln dlrs to 233.6 mln dlrs for the first two months of the
 year against 330.9 mln dlrs in the similar period of 1986,
 central bank preliminary figures show.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 12:34:26.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0730reute
-u f BC-LANE-CO-LANB>-CHAIRM   03-12 0079</field>
-	<field name = "TITLE">LANE CO LANB> CHAIRMAN SUBMITS RESIGNATION</field>
+	<field name = "titulo">LANE CO LANB> CHAIRMAN SUBMITS RESIGNATION</field>
 	<field name = "DATELINE">ALTAVISTA, Va., March 12 -</field>
-	<field name = "BODY">Lane Co Inc said its chairman,
+	<field name = "content">Lane Co Inc said its chairman,
 B.B. Lane, has submitted his resignation as a director, officer
 and employee, effective immediately.
     A company spokesman said there were no details available

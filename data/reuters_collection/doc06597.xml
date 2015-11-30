@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 12:17:34.90</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f8556reute
-d f BC-U.S.-OIL-TAX-BREAK-PR   03-18 0097</field>
-	<field name = "TITLE">U.S. OIL TAX BREAK PROPOSAL TO BE EXAMINED</field>
+	<field name = "titulo">U.S. OIL TAX BREAK PROPOSAL TO BE EXAMINED</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">The White House said a proposal for
+	<field name = "content">The White House said a proposal for
 a tax break for the oil industry would undergo review.
     Spokesman Marlin Fitzwater said President Reagan had no
 position on recommendations submitted by Energy Secretary John

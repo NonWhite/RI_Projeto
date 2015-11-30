@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 06:47:22.79</field>
 	<field name = "TOPICS">wpi</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0646reute
-r f BC-BELGIAN-WHOLESALE-PRI   03-05 0087</field>
-	<field name = "TITLE">BELGIAN WHOLESALE PRICES FALL IN JANUARY</field>
+	<field name = "titulo">BELGIAN WHOLESALE PRICES FALL IN JANUARY</field>
 	<field name = "DATELINE">BRUSSELS, March 4 -</field>
-	<field name = "BODY">Belgian wholesale prices fell by 5.9
+	<field name = "content">Belgian wholesale prices fell by 5.9
 pct in January from a year earlier after a 5.7 pct year on year
 fall in December, figures from the economics ministry show.
     A ministry spokesman said the wholesale price index, base

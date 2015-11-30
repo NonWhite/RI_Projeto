@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:08:35.98</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f0512reute
-r f BC-FINNISH-TAXATION-MAJO   03-05 0102</field>
-	<field name = "TITLE">FINNISH TAXATION MAJOR ISSUE IN ELECTION CAMPAIGN</field>
+	<field name = "titulo">FINNISH TAXATION MAJOR ISSUE IN ELECTION CAMPAIGN</field>
 	<field name = "AUTHOR">By Peter Verschoor, Reuters</field>
 	<field name = "DATELINE">HELSINKI, March 5 -</field>
-	<field name = "BODY">Personal taxation has emerged as the
+	<field name = "content">Personal taxation has emerged as the
 major economic issue in Finnish general elections later this
 month, and Conservative gains could mark a shift towards
 indirect taxation and accelerate moves towards more

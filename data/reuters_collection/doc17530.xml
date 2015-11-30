@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:05:15.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1038reute
-r f BC-INNOVATIVE-SOFTWARE-   06-01 0063</field>
-	<field name = "TITLE">INNOVATIVE SOFTWARE INSO> TO OFFER CONVERTIBLES</field>
+	<field name = "titulo">INNOVATIVE SOFTWARE INSO> TO OFFER CONVERTIBLES</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Innovative Software Inc said it plans to
+	<field name = "content">Innovative Software Inc said it plans to
 sell later this month or in July about 25 mln dlrs of
 convertible subordinated debentures due 2012.
     Proceeds will be used for general corporate purposes,

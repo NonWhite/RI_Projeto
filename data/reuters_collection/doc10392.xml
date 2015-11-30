@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:53:33.47F</field>
-	<field name = "UNKNOWN">f0759reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">b f BC-NATIONAL-MEDICAL-ENTE   03-27 0044</field>
-	<field name = "TITLE">NATIONAL MEDICAL ENTERPRISES INC NME> 3RD QTR</field>
+	<field name = "titulo">NATIONAL MEDICAL ENTERPRISES INC NME> 3RD QTR</field>
 	<field name = "DATELINE">LOS ANGELES, March 27 -</field>
-	<field name = "BODY">Periods ended Feb 28
+	<field name = "content">Periods ended Feb 28
     Oper shr 46 cts vs 51 cts
     Oper shr diluted 43 cts vs 50 cts
     Oper net 34.2 mln vs 39.8 mln

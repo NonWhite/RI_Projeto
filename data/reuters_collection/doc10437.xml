@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:28:10.33F</field>
-	<field name = "UNKNOWN">f1027reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-BLINDER-INTERNATIONAL   03-27 0046</field>
-	<field name = "TITLE">BLINDER INTERNATIONAL BINL> TO RELEASE NEWS</field>
+	<field name = "titulo">BLINDER INTERNATIONAL BINL> TO RELEASE NEWS</field>
 	<field name = "DATELINE">ENGLEWOOD, Colo., March 27 -</field>
-	<field name = "BODY">Blinder International
+	<field name = "content">Blinder International
 Enterprises Inc said it will release news concerning an appeals
 court decision within the hour.
     Blinder said the news concerns its subsidiary, Blinder

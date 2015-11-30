@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:58:50.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2964reute
-u f BC-NAVISTAR-NAV>-RECALL   03-16 0105</field>
-	<field name = "TITLE">NAVISTAR NAV> RECALLING 52,000 TRUCKS, BUSES</field>
+	<field name = "titulo">NAVISTAR NAV> RECALLING 52,000 TRUCKS, BUSES</field>
 	<field name = "DATELINE">CHICAGO, March 16 -</field>
-	<field name = "BODY">Navistar International Corp said it is
+	<field name = "content">Navistar International Corp said it is
 recalling 33,000 medium tucks and 19,000 school buses equipped
 with power assisted hydraulic brakes to modify the electrical
 power supply to the backup breaking system.

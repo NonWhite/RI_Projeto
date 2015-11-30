@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">finland</field>
 	<field name = "PEOPLE">kullberg</field>
-	<field name = "UNKNOWN">RM
-f1112reute
-u f BC-BANK-OF-FINLAND-TO-TR   03-20 0118</field>
-	<field name = "TITLE">BANK OF FINLAND TO TRADE IN BANKS' CERTIFICATES</field>
+	<field name = "titulo">BANK OF FINLAND TO TRADE IN BANKS' CERTIFICATES</field>
 	<field name = "DATELINE">HELSINKI, March 20 -</field>
-	<field name = "BODY">The Bank of Finland said it has
+	<field name = "content">The Bank of Finland said it has
 started dealings in banks' certificates of deposits (CDs) with
 immediate effect and that it was prepared to issue its own
 paper to stimulate operations on the domestic money market.

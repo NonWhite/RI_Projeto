@@ -3,12 +3,9 @@
 	<field name = "TOPICS">reserves</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f0509reute
-u f BC-TAIWAN-FOREIGN-EXCHAN   03-05 0107</field>
-	<field name = "TITLE">TAIWAN FOREIGN EXCHANGE RESERVES HIT NEW HIGH</field>
+	<field name = "titulo">TAIWAN FOREIGN EXCHANGE RESERVES HIT NEW HIGH</field>
 	<field name = "DATELINE">TAIPEI, March 5 -</field>
-	<field name = "BODY">Taiwan's foreign exchange reserves hit a
+	<field name = "content">Taiwan's foreign exchange reserves hit a
 new high of more than 51 billion U.S. Dlrs on March 4, compared
 with 50 billion in mid-February and 25.1 billion a year
 earlier, the central bank said.

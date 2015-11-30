@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 13:59:50.85</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f2435reute
-b f BC-/FED'S-JOHNSON-SEES-E   10-19 0103</field>
-	<field name = "TITLE">FED'S JOHNSON SEES EASING OF INFLATIONARY FEARS</field>
+	<field name = "titulo">FED'S JOHNSON SEES EASING OF INFLATIONARY FEARS</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">Federal Reserve Board Vice-Chairman
+	<field name = "content">Federal Reserve Board Vice-Chairman
 Manuel Johnson said the inflationary expectations in the
 financial markets have eased since the Fed's last half-point
 increase in its discount rate to 6.0 pct.

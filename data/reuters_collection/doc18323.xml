@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 17:26:50.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2776reute
-b f BC-MERCANTILE-MTRC.O>-R   06-02 0108</field>
-	<field name = "TITLE">MERCANTILE MTRC.O> RAISES RESERVE, SEES LOSS</field>
+	<field name = "titulo">MERCANTILE MTRC.O> RAISES RESERVE, SEES LOSS</field>
 	<field name = "DATELINE">ST. LOUIS, June 2 -</field>
-	<field name = "BODY">Mercantile Bancorp Inc said it will add
+	<field name = "content">Mercantile Bancorp Inc said it will add
 a special provision of 75 mln dlrs to its reserve for possible
 loan losses in the second quarter, and expects to report a loss
 of 33 mln dlrs during the period.

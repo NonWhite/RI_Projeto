@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 17:03:59.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2609reute
-h f BC-SUMMA-SUMA>-TO-FILE   04-08 0052</field>
-	<field name = "TITLE">SUMMA SUMA> TO FILE FOR FINANCING COMMITMENT</field>
+	<field name = "titulo">SUMMA SUMA> TO FILE FOR FINANCING COMMITMENT</field>
 	<field name = "DATELINE">ALBUQUERQUE, N.M., April 8 -</field>
-	<field name = "BODY">Summa Medical Corp said it
+	<field name = "content">Summa Medical Corp said it
 intends to file a prospectus with the Securities and Exchange
 Commission outling a commitment for a six mln dlr financing,
 signed yesterday.

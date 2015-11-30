@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 11:15:59.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1335reute
-h f BC-AEQUITRON-AQTN>-SELL   04-03 0104</field>
-	<field name = "TITLE">AEQUITRON AQTN> SELLS LAND FOR 1.8 MLN DLRS</field>
+	<field name = "titulo">AEQUITRON AQTN> SELLS LAND FOR 1.8 MLN DLRS</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 3 -</field>
-	<field name = "BODY">Aequitron Medical Inc said that
+	<field name = "content">Aequitron Medical Inc said that
 Vantage Properties Inc> has exercised its option to buy 15.3
 acres of land from Aequitron for 1.8 mln dlrs.
     Aequitron orginally gave Vantage the option in May 1986 in

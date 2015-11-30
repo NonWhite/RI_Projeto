@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 04:46:35.82</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f1301reute
-u f BC-U.S.-BANKER-URGES-FAS   03-16 0094</field>
-	<field name = "TITLE">U.S. BANKER URGES FASTER JAPANESE LIBERALISATION</field>
+	<field name = "titulo">U.S. BANKER URGES FASTER JAPANESE LIBERALISATION</field>
 	<field name = "DATELINE">TOKYO, March 16 -</field>
-	<field name = "BODY">Japan should step up the pace of its
+	<field name = "content">Japan should step up the pace of its
 financial liberalisation if it wants to become a world
 financial centre equal to New York or London, a leading U.S
 banker said.

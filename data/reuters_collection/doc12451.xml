@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 06:25:17.70</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "EXCHANGES">hkse</field>
-	<field name = "UNKNOWN">F
-f0520reute
-u f BC-H.K.-STOCK-EXCHANGE-M   04-02 0109</field>
-	<field name = "TITLE">H.K. STOCK EXCHANGE MULLS NEW RULE FOR "B" SHARES</field>
+	<field name = "titulo">H.K. STOCK EXCHANGE MULLS NEW RULE FOR "B" SHARES</field>
 	<field name = "DATELINE">HONG KONG, April 2 -</field>
-	<field name = "BODY">The Hong Kong Stock Exchange is
+	<field name = "content">The Hong Kong Stock Exchange is
 considering new rules governing different classes of shares
 following a spate of new "B" share issues by leading local firms,
 exchange chairman Ronald Li said.

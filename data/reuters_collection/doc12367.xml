@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2642reute
-r f BC-american-barrick   04-01 0102</field>
-	<field name = "TITLE">AMERICAN BARRICK ABX> SELLS COAL ASSETS</field>
+	<field name = "titulo">AMERICAN BARRICK ABX> SELLS COAL ASSETS</field>
 	<field name = "DATELINE">TORONTO, April 1 -</field>
-	<field name = "BODY">American Barrick Resources Corp said it
+	<field name = "content">American Barrick Resources Corp said it
 sold two coal supply agreements and certain mining equipment,
 representing substantially all of the assets of its two Ohio
 coal mines, to Peabody Coal Co, of Kentucky.

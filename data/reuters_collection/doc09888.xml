@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 10:20:12.60</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E RM
-f1158reute
-r f BC-emco-sets-75-mln-dlr   03-26 0108</field>
-	<field name = "TITLE">EMCO SETS 75 MLN DLR DEBENTURE OFFERING</field>
+	<field name = "titulo">EMCO SETS 75 MLN DLR DEBENTURE OFFERING</field>
 	<field name = "DATELINE">TORONTO, March 26 -</field>
-	<field name = "BODY">Emco Ltd> said the board approved a
+	<field name = "content">Emco Ltd> said the board approved a
 public offering of 75.0 mln dlrs principal amount of 7-1/4 pct
 convertible subordinated debentures, maturing April 30, 2002,
 subject to regulatory approvals.

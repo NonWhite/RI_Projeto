@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 09:55:39.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1103reute
-u f BC-COOPER-COMPANIES   10-19 0078</field>
-	<field name = "TITLE">COOPER COO> FILES FOR 300 MLN DLR NOTE OFFERING</field>
+	<field name = "titulo">COOPER COO> FILES FOR 300 MLN DLR NOTE OFFERING</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">Cooper Companies Inc filed with the
+	<field name = "content">Cooper Companies Inc filed with the
 Securities and Exchange Commission for a proposed offering of
 up to 300 mln dlrs of senior extendible notes set to mature on
 January 1, 1993.

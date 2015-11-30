@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 06:02:48.10</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0362reute
-u f BC-KYUSHU-ELECTRIC-TO-IS   04-13 0094</field>
-	<field name = "TITLE">KYUSHU ELECTRIC TO ISSUE 20 BILLION YEN BOND</field>
+	<field name = "titulo">KYUSHU ELECTRIC TO ISSUE 20 BILLION YEN BOND</field>
 	<field name = "DATELINE">TOKYO, April 13 -</field>
-	<field name = "BODY">Kyushu Electric Power Co Inc will issue a
+	<field name = "content">Kyushu Electric Power Co Inc will issue a
 seven-year 20 billion Euroyen bond on April 22, a company
 spokesman said.
     The straight bond, to be priced at 101.625, will carry a

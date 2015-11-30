@@ -5,13 +5,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">nakasone</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">RM
-f0047reute
-u f BC-TRADE-FRICTION-THREAT   03-31 0093</field>
-	<field name = "TITLE">TRADE FRICTION THREATENS TO TOPPLE NAKASONE</field>
+	<field name = "titulo">TRADE FRICTION THREATENS TO TOPPLE NAKASONE</field>
 	<field name = "AUTHOR">By Linda Sieg, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 31 -</field>
-	<field name = "BODY">Prime Minister Yasuhiro Nakasone may have
+	<field name = "content">Prime Minister Yasuhiro Nakasone may have
 been dealt a fatal political blow by the yen's renewed rapid
 rise and the threat of a trade war with the United States,
 political analysts said.

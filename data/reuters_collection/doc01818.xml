@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 16:46:23.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0822reute
-r f BC-SYNTEX-SYN>-SETS-RAP   03-04 0100</field>
-	<field name = "TITLE">SYNTEX SYN> SETS RAPID STREP THROAT TEST</field>
+	<field name = "titulo">SYNTEX SYN> SETS RAPID STREP THROAT TEST</field>
 	<field name = "DATELINE">PALO ALTO, Calif., March 4 -</field>
-	<field name = "BODY">Syntex Corp said its
+	<field name = "content">Syntex Corp said its
 diagnostics subsidiary has introduced a rapid, antibody-based
 test to diagnose strep throat infections, called AccuPoint (T)
 Group H Strep Test.

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 08:07:53.89</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0617reute
-u f BC-ITALIAN-GDP-ROSE-2.4   04-13 0104</field>
-	<field name = "TITLE">ITALIAN GDP ROSE 2.4 PCT IN 1986 FOURTH QUARTER</field>
+	<field name = "titulo">ITALIAN GDP ROSE 2.4 PCT IN 1986 FOURTH QUARTER</field>
 	<field name = "DATELINE">ROME, April 13 -</field>
-	<field name = "BODY">Italy's Gross Domestic Product, calculated
+	<field name = "content">Italy's Gross Domestic Product, calculated
 at 1980 prices, rose 2.4 pct in the fourth quarter of 1986,
 compared with the same period in 1985, National Statistics
 Institute ISTAT said.

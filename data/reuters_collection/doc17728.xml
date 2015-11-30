@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 14:39:58.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2127reute
-d f BC-AMERICAN-CREDIT-CARD   06-01 0057</field>
-	<field name = "TITLE">AMERICAN CREDIT CARD ACCT.O> TO MAKE PURCHASE</field>
+	<field name = "titulo">AMERICAN CREDIT CARD ACCT.O> TO MAKE PURCHASE</field>
 	<field name = "DATELINE">FORT LAUDERDALE, Fla., June 1 -</field>
-	<field name = "BODY">American Credit Card
+	<field name = "content">American Credit Card
 Telephone Co said it has completed arrangements to purchase
 500,000 of its common shares and 500,000 of its warrants as
 well as all payphone technology, software and rights from

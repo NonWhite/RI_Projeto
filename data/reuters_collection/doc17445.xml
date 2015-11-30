@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 01:19:26.93</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">Y
-f0063reute
-u f BC-SINGAPORE-PETROLEUM-C   06-01 0107</field>
-	<field name = "TITLE">SINGAPORE PETROLEUM CO REVISES PETROL PUMP PRICES</field>
+	<field name = "titulo">SINGAPORE PETROLEUM CO REVISES PETROL PUMP PRICES</field>
 	<field name = "DATELINE">SINGAPORE, June 1 -</field>
-	<field name = "BODY">Singapore Petroleum Co Pte Ltd will
+	<field name = "content">Singapore Petroleum Co Pte Ltd will
 revise pump prices of petrol from June 2, an official said.
     Grade 97 octane with 0.15 gm/lead will be 96.8 cents/litre
 against 94 cents previously for 0.4 gm lead. Grade 92 octane

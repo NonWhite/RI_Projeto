@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 15:00:52.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2158reute
-u f BC-INTERNATIONAL-AMERICA   04-09 0062</field>
-	<field name = "TITLE">INTERNATIONAL AMERICAN HOME> NEWS TO COME</field>
+	<field name = "titulo">INTERNATIONAL AMERICAN HOME> NEWS TO COME</field>
 	<field name = "DATELINE">UNION, N.J., April 9 -</field>
-	<field name = "BODY">International American Homes Inc
+	<field name = "content">International American Homes Inc
 said it would not be able to release any statements concerning
 its stock halt on Nasdaq for about 45 minutes to an hour.
     American Homes, whose stock halted on a last sale of 7-3/4,

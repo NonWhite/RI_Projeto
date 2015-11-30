@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 15:13:43.09</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2256reute
-r f BC-TELECOM-TELE>-COMPLE   03-24 0071</field>
-	<field name = "TITLE">TELECOM TELE> COMPLETES SALE</field>
+	<field name = "titulo">TELECOM TELE> COMPLETES SALE</field>
 	<field name = "DATELINE">BOCA RATON, Fla, March 24 -</field>
-	<field name = "BODY">Telecom Plus INternational Inc
+	<field name = "content">Telecom Plus INternational Inc
 said it completed the sale of its 65 pct interest in Tel Plus
 Communications Inc to Siemens Information Systems INc for about
 173 mln dlrs.

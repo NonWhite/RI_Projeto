@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 05:42:03.94</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM
-f0380reute
-u f BC-SINGAPORE-LAWS-TO-LIB   03-26 0111</field>
-	<field name = "TITLE">SINGAPORE LAWS TO LIBERALISE LOCAL CAPITAL MARKET</field>
+	<field name = "titulo">SINGAPORE LAWS TO LIBERALISE LOCAL CAPITAL MARKET</field>
 	<field name = "AUTHOR">By Lai Kwok Kin, Reuters</field>
 	<field name = "DATELINE">SINGAPORE, March 26 -</field>
-	<field name = "BODY">Parliament passed laws increasing the
+	<field name = "content">Parliament passed laws increasing the
 amounts and frequency of treasury bill issues and allowing the
 government to raise up to 35 billion dlrs through issues of
 registered stock, bearer bonds and book-entry securities.

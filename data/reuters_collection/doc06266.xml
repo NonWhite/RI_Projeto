@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 16:18:18.94</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f6507reute
-u f BC-USDA-OFFICIAL-SEES-7-   03-17 0135</field>
-	<field name = "TITLE">USDA OFFICIAL SEES 7-8 BILLION DLRS CERTIFICATES</field>
+	<field name = "titulo">USDA OFFICIAL SEES 7-8 BILLION DLRS CERTIFICATES</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">There will be seven to eight billion
+	<field name = "content">There will be seven to eight billion
 dlrs of generic certificates on the market by the end of
 harvest, an Agriculture Department official said.
     The Commodity Credit Corp will "depend heavily" on

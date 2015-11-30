@@ -3,12 +3,9 @@
 	<field name = "TOPICS">tin</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lme</field>
-	<field name = "UNKNOWN">C M
-f1070reute
-u f BC-LEGAL-DISPUTES-FORCE   04-21 0109</field>
-	<field name = "TITLE">LEGAL DISPUTES FORCE NEW HOLDING COMPANY FOR LME</field>
+	<field name = "titulo">LEGAL DISPUTES FORCE NEW HOLDING COMPANY FOR LME</field>
 	<field name = "DATELINE">LONDON, April 21 -</field>
-	<field name = "BODY">The London Metal Exchange (LME) said it
+	<field name = "content">The London Metal Exchange (LME) said it
 has applied to form a new holding company because of
 uncertainties relating to lawsuits filed over the 1985 tin
 crisis.

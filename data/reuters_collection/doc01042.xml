@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 10:15:06.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0469reute
-d f BC-BROWNING-FERRIS-BFI>   03-03 0105</field>
-	<field name = "TITLE">BROWNING-FERRIS BFI>WASTE DISPOSAL SITE CLEARED</field>
+	<field name = "titulo">BROWNING-FERRIS BFI>WASTE DISPOSAL SITE CLEARED</field>
 	<field name = "DATELINE">HOUSTON, March 3 -</field>
-	<field name = "BODY">Browning-Ferris Industries Inc said the
+	<field name = "content">Browning-Ferris Industries Inc said the
 Colorado Department of Health and the U.S. Environmental
 Protection Agency have awarded the company permits to build and
 operate a hazardous waste disposal site near Last Chance, Colo.

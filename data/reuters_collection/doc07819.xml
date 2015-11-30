@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 12:42:06.98</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1690reute
-u f BC-REVLON-REV>-BUYS-BEE   03-20 0079</field>
-	<field name = "TITLE">REVLON REV> BUYS BEECHAM'S COMSMETICS UNIT</field>
+	<field name = "titulo">REVLON REV> BUYS BEECHAM'S COMSMETICS UNIT</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Revlon Group Inc said it bought
+	<field name = "content">Revlon Group Inc said it bought
 Germaine Monteil's cosmetics business in the U.S. from the
 Beecham Group PLC.
     Terms of the sale were not disclosed.

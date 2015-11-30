@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 15:33:59.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2981reute
-u f BC-PACIFIC-STOCK-EXCHANG   10-20 0067</field>
-	<field name = "TITLE">PACIFIC STOCK EXCHANGE RESUMES SOME OPTIONS</field>
+	<field name = "titulo">PACIFIC STOCK EXCHANGE RESUMES SOME OPTIONS</field>
 	<field name = "DATELINE">SAN FRANCISCO, Oct 20 -</field>
-	<field name = "BODY">The Pacific Stock Exchange said it
+	<field name = "content">The Pacific Stock Exchange said it
 has resumed trading on 17 of the equities options that were
 halted earlier because of conditions in the underlying
 securities.

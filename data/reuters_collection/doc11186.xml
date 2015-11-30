@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 03:29:32.93</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0207reute
-u f BC-HITACHI-EXPECTS-TO-AC   03-31 0115</field>
-	<field name = "TITLE">HITACHI EXPECTS TO ACHIEVE SALES ESTIMATE</field>
+	<field name = "titulo">HITACHI EXPECTS TO ACHIEVE SALES ESTIMATE</field>
 	<field name = "DATELINE">TOKYO, March 31 -</field>
-	<field name = "BODY">Hitachi Ltd HIT.T> expects to achieve
+	<field name = "content">Hitachi Ltd HIT.T> expects to achieve
 its parent company sales estimate of 2,900 billion yen in the
 year ending March 31, helped by high general-use ultra-large
 computer sales and despite the higher-than-expected yen.

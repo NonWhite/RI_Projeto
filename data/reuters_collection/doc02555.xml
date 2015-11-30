@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 20:54:10.33</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0195reute
-u f BC-NATIONAL-OPPOSITION-A   03-05 0109</field>
-	<field name = "TITLE">NATIONAL OPPOSITION AHEAD IN N.Z. OPINION POLL</field>
+	<field name = "titulo">NATIONAL OPPOSITION AHEAD IN N.Z. OPINION POLL</field>
 	<field name = "DATELINE">WELLINGTON, March 6 -</field>
-	<field name = "BODY">The opposition National Party took a
+	<field name = "content">The opposition National Party took a
 five percentage point lead over New Zealand's Labour government
 in an opinion poll, reversing the seven point lead held by
 Labour in a comparable poll in February.

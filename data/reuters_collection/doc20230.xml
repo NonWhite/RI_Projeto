@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PEOPLE">lyng</field>
-	<field name = "UNKNOWN">C G 
-f1240reute
-b f BC-/NO-PRESSING-NEED-FOR   10-20 0137</field>
-	<field name = "TITLE">NO PRESSING NEED FOR SOVIET WHEAT SUBSIDY - LYNG</field>
+	<field name = "titulo">NO PRESSING NEED FOR SOVIET WHEAT SUBSIDY - LYNG</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">The Soviets have not indicated an
+	<field name = "content">The Soviets have not indicated an
 urgent need for a U.S. wheat subsidy offer, and it is unlikely
 that such an offer will be ma during the U.S./Soviet summit
 expected to be held next month, Agriculture Secretary Richard

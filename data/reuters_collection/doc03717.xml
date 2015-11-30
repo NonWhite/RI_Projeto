@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:32:35.44</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0590reute
-u f BC-BREMER-LANDESBANK-ISS   03-11 0089</field>
-	<field name = "TITLE">BREMER LANDESBANK ISSUES AUSTRALIAN DOLLAR BOND</field>
+	<field name = "titulo">BREMER LANDESBANK ISSUES AUSTRALIAN DOLLAR BOND</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Bremer Landesbank Kreditanstalt Finance
+	<field name = "content">Bremer Landesbank Kreditanstalt Finance
 Curacao NV is issuing a 40 mln Australian dlr eurobond due
 April 24, 1990 paying 15 pct and priced at 101-3/8 pct, lead
 manager ANZ Merchant Bank Ltd said.

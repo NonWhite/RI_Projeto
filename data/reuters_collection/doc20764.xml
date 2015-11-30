@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 17:12:43.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3338reute
-w f BC-BERKEY-BKY>-TO-DISTR   10-20 0051</field>
-	<field name = "TITLE">BERKEY BKY> TO DISTRIBUTE DISNEY HOME VIDEOS</field>
+	<field name = "titulo">BERKEY BKY> TO DISTRIBUTE DISNEY HOME VIDEOS</field>
 	<field name = "DATELINE">GREENWICH, Conn., Oct 20 -</field>
-	<field name = "BODY">Berkey Inc said it signed a
+	<field name = "content">Berkey Inc said it signed a
 long-term agreement to distribute Walt Disney Co's DIS> home
 video cassettes.
     Terms of the agreement were not disclosed.

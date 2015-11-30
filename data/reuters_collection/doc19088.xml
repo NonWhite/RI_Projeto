@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 08:00:04.79</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">F 
-f0534reute
-u f BC-PHILIPPINES-APPROVES   06-19 0095</field>
-	<field name = "TITLE">PHILIPPINES APPROVES NEW CAR PROGRAMME</field>
+	<field name = "titulo">PHILIPPINES APPROVES NEW CAR PROGRAMME</field>
 	<field name = "DATELINE">MANILA, June 19 -</field>
-	<field name = "BODY">Philippines' Board of Investments (BOI)
+	<field name = "content">Philippines' Board of Investments (BOI)
 has approved new guidelines on making cars but is still
 awaiting rules on the tax component of the programme, trade and
 industry secretary Jose Concepcion said.

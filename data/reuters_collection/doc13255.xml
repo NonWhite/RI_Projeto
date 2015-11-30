@@ -5,12 +5,9 @@
 	<field name = "ORGS">iea</field>
 	<field name = "ORGS">oecd</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0076reute
-u f BC-IEA-SEES-ONE-PCT-GROW   04-05 0107</field>
-	<field name = "TITLE">IEA SEES ONE PCT GROWTH IN 1987 OECD OIL DEMAND</field>
+	<field name = "titulo">IEA SEES ONE PCT GROWTH IN 1987 OECD OIL DEMAND</field>
 	<field name = "DATELINE">PARIS, April 5 -</field>
-	<field name = "BODY">Growth in oil consumption in the Western
+	<field name = "content">Growth in oil consumption in the Western
 industrialised countries is likely to slow to around one pct
 this year compared with 2.3 pct in 1986, the International
 Energy Agency (IEA) said.

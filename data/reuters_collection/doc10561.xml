@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:59:03.15A</field>
-	<field name = "UNKNOWN">f1741reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-CABOT-CBT>-CALLS-NOT   03-27 0102</field>
-	<field name = "TITLE">CABOT CBT> CALLS NOTES FOR REDEMPTION</field>
+	<field name = "titulo">CABOT CBT> CALLS NOTES FOR REDEMPTION</field>
 	<field name = "DATELINE">WALTHAM, Mass., March 27 -</field>
-	<field name = "BODY">Cabot Corp said it called for
+	<field name = "content">Cabot Corp said it called for
 redemption its outstanding 12-1/4 pct notes due November 1,
 1994 and 10-3/4 pct notes due September 1, 1995, aggregating 89
 mln dlrs at face amount.

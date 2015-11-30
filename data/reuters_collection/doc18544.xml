@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 06:52:00.41</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM 
-f2571reute
-u f BC-AMRO-LINES-UP-FIRST-G   06-18 0112</field>
-	<field name = "TITLE">AMRO LINES UP FIRST GUILDER MULTI-OPTION FACILITY</field>
+	<field name = "titulo">AMRO LINES UP FIRST GUILDER MULTI-OPTION FACILITY</field>
 	<field name = "DATELINE">AMSTERDAM, June 18 -</field>
-	<field name = "BODY">Amro Bank said it is arranging the
+	<field name = "content">Amro Bank said it is arranging the
 first guilder multi-option facility for Greenland NV in a loan
 package of up to 300 mln guilders.
     The package consists of a 150 mln guilder, five year

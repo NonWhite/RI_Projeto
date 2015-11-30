@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 06:25:21.60</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM
-f0506reute
-r f BC-SINGAPORE-BANK-CREDIT   03-30 0097</field>
-	<field name = "TITLE">SINGAPORE BANK CREDIT RISES IN JANUARY</field>
+	<field name = "titulo">SINGAPORE BANK CREDIT RISES IN JANUARY</field>
 	<field name = "DATELINE">SINGAPORE, March 30 -</field>
-	<field name = "BODY">Total loans and advances extended by
+	<field name = "content">Total loans and advances extended by
 banks in Singapore rose in January to 36.01 billion Singapore
 dlrs from 35.79 billion in December but fell from 36.93 billion
 a year ago, the Monetary Authority of Singapore said.

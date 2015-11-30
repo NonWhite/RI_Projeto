@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">colombia</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">C G L M T
-f0091reute
-r f BC-colombian-oil-exports   03-06 0114</field>
-	<field name = "TITLE">COLOMBIAN OIL EXPORTS NOT AFFECTED BY QUAKE</field>
+	<field name = "titulo">COLOMBIAN OIL EXPORTS NOT AFFECTED BY QUAKE</field>
 	<field name = "DATELINE">BOGOTA, March 6 -</field>
-	<field name = "BODY">Colombian oil installations were not
+	<field name = "content">Colombian oil installations were not
 damaged by an earthquake which shook Ecuador and southern
 Colombia last night and there are no plans to suspend exports,
 a spokesman for the state-run oil company Ecopetrol said.

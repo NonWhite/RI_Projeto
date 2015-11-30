@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 18:41:01.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2697reute
-u f BC-TELECOMMUNICATIONS-BI   03-25 0113</field>
-	<field name = "TITLE">TELECOMMUNICATIONS BILL CLEARS U.S. HOUSE PANEL</field>
+	<field name = "titulo">TELECOMMUNICATIONS BILL CLEARS U.S. HOUSE PANEL</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The House Energy and Commerce
+	<field name = "content">The House Energy and Commerce
 Committee approved major trade legislation that will give
 President Reagan authority to retaliate if negotiations to open
 foreign markets to U.S. telecommunications products fail.

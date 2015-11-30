@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 18:32:29.95</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2780reute
-u f BC-COMDATA   03-30 0100</field>
-	<field name = "TITLE">GROUP SELLS STAKE IN COMDATA NETWORK CDN></field>
+	<field name = "titulo">GROUP SELLS STAKE IN COMDATA NETWORK CDN></field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">A group of investment firms which
+	<field name = "content">A group of investment firms which
 had once sought control of Comdata Network Inc, told the
 Securities and Exchange Commission it sold its remaining
 1,113,500-share, or 5.9 pct, stake in the company.

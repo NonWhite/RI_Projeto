@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:08:21.98F</field>
-	<field name = "UNKNOWN">f1158reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">r f BC-ALLEGHENY-INT'L-AG>   03-27 0082</field>
-	<field name = "TITLE">ALLEGHENY INT'L AG> SELLS THREE OVERSEAS UNITS</field>
+	<field name = "titulo">ALLEGHENY INT'L AG> SELLS THREE OVERSEAS UNITS</field>
 	<field name = "DATELINE">PITTSBURGH, Pa., March 27 -</field>
-	<field name = "BODY">Allegheny International Inc
+	<field name = "content">Allegheny International Inc
 said it sold three overseas subsidiaries to Reil Corp Ltd, a
 North Sydney, Australia, investment group.
     Terms were not disclosed.

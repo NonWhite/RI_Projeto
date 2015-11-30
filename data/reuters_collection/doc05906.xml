@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 09:19:50.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f4885reute
-d f BC-LUFTHANSA-SETS-WASHIN   03-17 0098</field>
-	<field name = "TITLE">LUFTHANSA SETS WASHINGTON/FRANKFURT SERVICE</field>
+	<field name = "titulo">LUFTHANSA SETS WASHINGTON/FRANKFURT SERVICE</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Deutsche Lufthansa AG> said on
+	<field name = "content">Deutsche Lufthansa AG> said on
 April 1 it will start nonstop service between Washington and
 Frankfurt, initially operating four roundtrips weekly.
     It said frequency of the McDonnell Douglas Corp MD> DC-10

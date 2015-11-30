@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 22:25:09.31</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">M C
-f2856reute
-u f BC-CHINESE-PORT-UNDERUSE   03-19 0108</field>
-	<field name = "TITLE">CHINESE PORT UNDERUSED DESPITE CONGESTION NEARBY</field>
+	<field name = "titulo">CHINESE PORT UNDERUSED DESPITE CONGESTION NEARBY</field>
 	<field name = "DATELINE">NINGBO, China, March 20 -</field>
-	<field name = "BODY">The Chinese port of Ningbo is
+	<field name = "content">The Chinese port of Ningbo is
 working well below capacity despite being only 130 miles from
 Shanghai, which is seriously congested, a port official said.
     Jiang Feng Xiang said the port -- the deepest in China --

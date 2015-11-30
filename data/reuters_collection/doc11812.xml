@@ -7,13 +7,10 @@
 	<field name = "PLACES">south-korea</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">M C
-f0311reute
-u f BC-TAIWAN-SEES-SHARP-DEC   04-01 0099</field>
-	<field name = "TITLE">TAIWAN SEES SHARP DECLINE IN SHIPBREAKING</field>
+	<field name = "titulo">TAIWAN SEES SHARP DECLINE IN SHIPBREAKING</field>
 	<field name = "AUTHOR">By Chen Chien-kuo, Reuters</field>
 	<field name = "DATELINE">TAIPEI, April 1 -</field>
-	<field name = "BODY">Taiwan's shipbreaking industry is
+	<field name = "content">Taiwan's shipbreaking industry is
 expected to decline sharply this year despite the boom in 1986
 because of keener competition from South Korea and China, the
 rising Taiwan dollar and U.S. Import curbs on steel products,

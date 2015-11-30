@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">V
-f0896reute
-u f BC-DUTCH-CENTRAL-BANK-IN   04-27 0102</field>
-	<field name = "TITLE">DUTCH CENTRAL BANK INTERVENES TO SUPPORT DOLLAR</field>
+	<field name = "titulo">DUTCH CENTRAL BANK INTERVENES TO SUPPORT DOLLAR</field>
 	<field name = "DATELINE">AMSTERDAM, April 27 -</field>
-	<field name = "BODY">The Dutch Central Bank intervened
+	<field name = "content">The Dutch Central Bank intervened
 modestly to support the dollar with spot market transactions,
 dealers said.
     They said the bank bought dollars against guilders as the

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:13:10.54</field>
-	<field name = "UNKNOWN">C T
-f0557reute
-b f BC-LONDON-SUGAR-DOWN-1.4   04-07 0109</field>
-	<field name = "TITLE">LONDON SUGAR DOWN 1.40 TO 2.00 DLRS BY MIDDAY</field>
+	<field name = "titulo">LONDON SUGAR DOWN 1.40 TO 2.00 DLRS BY MIDDAY</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Raw sugar futures were near session lows
+	<field name = "content">Raw sugar futures were near session lows
 by midday, sustaining losses of 1.40 to 2.00 dlrs a tonne from
 last night's slightly easier close, dealers said.
     Volume was 484 lots.

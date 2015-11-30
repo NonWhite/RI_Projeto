@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:03:12.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2579reute
-u f BC-BALLYBLY>-SETS-STOCK   10-20 0074</field>
-	<field name = "TITLE">BALLYBLY> SETS STOCK BUYBACK UP TO 25 MLN DLRS</field>
+	<field name = "titulo">BALLYBLY> SETS STOCK BUYBACK UP TO 25 MLN DLRS</field>
 	<field name = "DATELINE">CHICAGO, Oct 20 -</field>
-	<field name = "BODY">Bally Manufacturing Corp said it will
+	<field name = "content">Bally Manufacturing Corp said it will
 repurchase up to 25 mln dlrs worth of its common stock in the
 open market or privately negotiated transactions
     Company officials could not be reached immediately for

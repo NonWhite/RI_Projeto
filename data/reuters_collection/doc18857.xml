@@ -3,12 +3,9 @@
 	<field name = "TOPICS">fuel</field>
 	<field name = "PLACES">tanzania</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM 
-f4071reute
-u f BC-TANZANIA-RAISES-FUEL   06-18 0103</field>
-	<field name = "TITLE">TANZANIA RAISES FUEL PRICES,TAXES IN 1987/8 BUDGET</field>
+	<field name = "titulo">TANZANIA RAISES FUEL PRICES,TAXES IN 1987/8 BUDGET</field>
 	<field name = "DATELINE">DAR ES SALAAM, June 18 -</field>
-	<field name = "BODY">The Tanzanian government, in its
+	<field name = "content">The Tanzanian government, in its
 second annual budget since embarking on an economic recovery
 program inspired by the International Monetary Fund, announced
 increases in fuel prices and sales tax and higher levies on

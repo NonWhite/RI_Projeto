@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">fuel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F
-f3395reute
-r f BC-PACIFIC-RESOURCES-PR   03-16 0124</field>
-	<field name = "TITLE">PACIFIC RESOURCES PRI> INSTALLS OIL MOORING</field>
+	<field name = "titulo">PACIFIC RESOURCES PRI> INSTALLS OIL MOORING</field>
 	<field name = "DATELINE">HONOLULU, March 16 -</field>
-	<field name = "BODY">Pacific Resources Inc said it has
+	<field name = "content">Pacific Resources Inc said it has
 installed a CALM (Catenary Anchor Leg Mooring) single-point
 mooring terminal off the southwest coast of Oahu at its
 Hawaiian Independent Refinery at a cost of 3.5 mln dlrs.

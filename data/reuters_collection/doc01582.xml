@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 12:14:28.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0902reute
-r f BC-DELTA-DAL>-UNIT-POST   03-04 0109</field>
-	<field name = "TITLE">DELTA DAL> UNIT POSTS LOWER LOAD FACTOR</field>
+	<field name = "titulo">DELTA DAL> UNIT POSTS LOWER LOAD FACTOR</field>
 	<field name = "DATELINE">LOS ANGELES, March 4 -</field>
-	<field name = "BODY">The Western Airlines unit of Delta
+	<field name = "content">The Western Airlines unit of Delta
 Air Lines Inc said its February load factor fell to 52.6 pct
 from 57 pct a year earlier and its year-to-date load factor was
 down to 52.2 pct from 54.8 pct during the same period last

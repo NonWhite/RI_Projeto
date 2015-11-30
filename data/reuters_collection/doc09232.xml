@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 08:14:49.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0658reute
-u f BC-JEFFERIES-JEFG>-SETS   03-25 0037</field>
-	<field name = "TITLE">JEFFERIES JEFG> SETS SUPERMARKETS SGL> MARKET</field>
+	<field name = "titulo">JEFFERIES JEFG> SETS SUPERMARKETS SGL> MARKET</field>
 	<field name = "DATELINE">LOS ANGELES, March 25 -</field>
-	<field name = "BODY">Jefferies Group Inc said it is
+	<field name = "content">Jefferies Group Inc said it is
 making a market in the stock of Supermarkets General Corp.
     It said the current bid is 45 dlrs bid, 46 dlrs offered.
  Reuter</field>

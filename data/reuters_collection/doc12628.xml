@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 12:00:03.14</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1601reute
-u f BC-XYVISION   04-02 0072</field>
-	<field name = "TITLE">COMPUTER FIRM SELLS 5.4 PCT XYVISION XYV> STAKE</field>
+	<field name = "titulo">COMPUTER FIRM SELLS 5.4 PCT XYVISION XYV> STAKE</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">A group led by Leading Edge Hardware
+	<field name = "content">A group led by Leading Edge Hardware
 Products Inc, a Massachusetts computer firm, told the
 Securities and Exchange Commission it sold its entire 5.4 pct
 stake in Xyvision Inc.

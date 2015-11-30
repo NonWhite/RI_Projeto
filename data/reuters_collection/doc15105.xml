@@ -5,12 +5,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G
-f1545reute
-b f BC-BRAZIL-GRAIN-HARVEST   04-08 0102</field>
-	<field name = "TITLE">BRAZIL GRAIN HARVEST FACES STORAGE PROBLEMS</field>
+	<field name = "titulo">BRAZIL GRAIN HARVEST FACES STORAGE PROBLEMS</field>
 	<field name = "DATELINE">SAO PAULO, April 8 -</field>
-	<field name = "BODY">Storage problems with Brazil's record
+	<field name = "content">Storage problems with Brazil's record
 grain crop are likely to result in losses of about five mln
 tonnes, an Agriculture Ministry spokesman said.
     Ministry spokesman Leonardo Brito, speaking from Brasilia,

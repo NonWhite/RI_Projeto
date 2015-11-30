@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 13:51:54.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2094reute
-u f BC-ASHLAND-OIL-ASH>-SEE   03-30 0097</field>
-	<field name = "TITLE">ASHLAND OIL ASH> SEEKS CHEMICAL ACQUISITIONS</field>
+	<field name = "titulo">ASHLAND OIL ASH> SEEKS CHEMICAL ACQUISITIONS</field>
 	<field name = "DATELINE">HOUSTON, March 30 -</field>
-	<field name = "BODY">Ashland Oil Inc is actively seeking a
+	<field name = "content">Ashland Oil Inc is actively seeking a
 chemical acquisition and is willing to spend between 100 to 200
 mln dlrs, Chairman John Hall said.
     "We're looking for privately held companies or units of

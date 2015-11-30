@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 12:15:02.29</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1589reute
-r f BC-JP-INDUSTRIES-JPI>-C   04-09 0100</field>
-	<field name = "TITLE">JP INDUSTRIES JPI> CONFIRMS PROPOSAL</field>
+	<field name = "titulo">JP INDUSTRIES JPI> CONFIRMS PROPOSAL</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">JP Industries Inc confirmed the
+	<field name = "content">JP Industries Inc confirmed the
 announcement by Clevite Industries Inc CLEV> that JP
 Industries has submitted a proposal to Clevite for the
 acquisition of the company at 13.50 dlrs per share in cash.

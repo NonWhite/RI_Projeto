@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 03:05:09.76</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0127reute
-u f BC-KAWASAKI-TO-INCREASE   03-26 0115</field>
-	<field name = "TITLE">KAWASAKI TO INCREASE MOTORCYCLE OUTPUT</field>
+	<field name = "titulo">KAWASAKI TO INCREASE MOTORCYCLE OUTPUT</field>
 	<field name = "DATELINE">TOKYO, March 26 -</field>
-	<field name = "BODY">Kawasaki Heavy Industries Ltd KAWH.T>
+	<field name = "content">Kawasaki Heavy Industries Ltd KAWH.T>
 will increase output of motorcycles, dune buggies and jet skis
 to 380,000 units in the year starting April 1 from 303,000 a
 year earlier, a company spokesman said.

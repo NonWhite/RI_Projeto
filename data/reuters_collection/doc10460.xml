@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:56:16.61RM</field>
-	<field name = "UNKNOWN">f1123reute</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">b f BC-U.K.-ISSUES-250-MLN-S   03-27 0102</field>
-	<field name = "TITLE">U.K. ISSUES 250 MLN STG IN INDEX-LINKED BONDS</field>
+	<field name = "titulo">U.K. ISSUES 250 MLN STG IN INDEX-LINKED BONDS</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">The U.K. Treasury issued to the Bank of
+	<field name = "content">The U.K. Treasury issued to the Bank of
 England 250 mln stg in two tranches of existing index-linked
 stocks, for first dealings on Monday, the Bank said.
     The issues are 150 mln stg of 2-1/2 pct index-linked

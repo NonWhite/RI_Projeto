@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 08:21:12.59</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2798reute
-r f BC-SERVICE-RESOURCES-SR   06-18 0065</field>
-	<field name = "TITLE">SERVICE RESOURCES SRC> ENDS SORG SRG> BID</field>
+	<field name = "titulo">SERVICE RESOURCES SRC> ENDS SORG SRG> BID</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Service Resources Corp said it has
+	<field name = "content">Service Resources Corp said it has
 withdrawn and terminated its 23 dlr per share takeover offer to
 Sorg Inc because Sorg failed to respond to the bid.
     It said, as Sorg's largest single shareholder, it will

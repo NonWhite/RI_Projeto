@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 17:17:37.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2518reute
-b f BC-DANA-CORP-DCN>-DEBT   03-25 0116</field>
-	<field name = "TITLE">DANA CORP DCN> DEBT LOWERED BY S/P</field>
+	<field name = "titulo">DANA CORP DCN> DEBT LOWERED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 downgraded Dana Corp's 900 mln dlrs of debt securities.
     Cut were Dana's senior debentures, industrial revenue bonds
 and medium-term notes to A-minus from A, and commercial paper

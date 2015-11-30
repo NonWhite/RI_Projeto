@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 10:12:00.13</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1034reute
-r f BC-RUSS-TOGS-INC-RTS>-4   03-25 0063</field>
-	<field name = "TITLE">RUSS TOGS INC RTS> 4TH QTR JAN 31 NET</field>
+	<field name = "titulo">RUSS TOGS INC RTS> 4TH QTR JAN 31 NET</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Shr 82 cts vs 76 cts
+	<field name = "content">Shr 82 cts vs 76 cts
     Net 4,200,000 vs 3,954,000
     Sales 58.7 mln vs 60.6 mln
     Year

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 15:55:20.24</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">A RM
-f0694reute
-u f BC-venezuela-will-reprog   03-05 0123</field>
-	<field name = "TITLE">VENEZUELA WILL REPROGRAM SIX BILLION DLRS IN DEBT</field>
+	<field name = "titulo">VENEZUELA WILL REPROGRAM SIX BILLION DLRS IN DEBT</field>
 	<field name = "DATELINE">CARACAS, March 5 -</field>
-	<field name = "BODY">Venezuela's recent agreement with its
+	<field name = "content">Venezuela's recent agreement with its
 creditor banks reprograms six billion dlrs of its 21 billion
 dlr public sector foreign debt rescheduling and reduces
 repayments due between 1987 and 1992, Finance Minister Manuel

@@ -1,15 +1,13 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:49:39.83V</field>
-	<field name = "UNKNOWN">f1098reute</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-UK-MAY-REVOKE-JAPANES   03-27 0113</field>
-	<field name = "TITLE">UK MAY REVOKE JAPANESE FINANCIAL LICENSES</field>
+	<field name = "titulo">UK MAY REVOKE JAPANESE FINANCIAL LICENSES</field>
 	<field name = "AUTHOR">By Sten Stovall, Reuters</field>
 	<field name = "DATELINE">London, March 27 -</field>
-	<field name = "BODY">The British government may revoke the
+	<field name = "content">The British government may revoke the
 licences of selected Japanese banks and securities companies
 operating in London's financial City when they come up for
 renewal next summer if progress is not made towards opening up

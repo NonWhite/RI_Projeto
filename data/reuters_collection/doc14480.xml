@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:27:06.85</field>
-	<field name = "UNKNOWN">RM C M F
-f2223reute
-u f BC-ny-gold-clsg-report   04-07 0110</field>
-	<field name = "TITLE">U.S. GOLD FUTURES END STRONGER, NEAR DAY'S HIGHS</field>
+	<field name = "titulo">U.S. GOLD FUTURES END STRONGER, NEAR DAY'S HIGHS</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Comex gold futures closed stronger and
+	<field name = "content">Comex gold futures closed stronger and
 near the day's highs, underpinned by a buoyant silver market,
 brokers said.
     Silver again set the pace for the precious metals. Silver

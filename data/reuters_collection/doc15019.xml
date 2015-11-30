@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 10:34:45.43</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f1147reute
-r f BC-VOLKSWAGEN-DIVIDEND-D   04-08 0114</field>
-	<field name = "TITLE">VOLKSWAGEN DIVIDEND DECISION DUE TOMORROW</field>
+	<field name = "titulo">VOLKSWAGEN DIVIDEND DECISION DUE TOMORROW</field>
 	<field name = "DATELINE">WOLFSBURG, West Germany, April 8 -</field>
-	<field name = "BODY">Volkswagen AG VOWG.F>,
+	<field name = "content">Volkswagen AG VOWG.F>,
 VW, is due to make a formal announcement about its 1986
 dividend tomorrow after saying the 1985 level of 10 marks per
 ordinary share would be held, despite massive losses because of

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L M T
-f2613reute
-d f AM-TRADE-LAWMAKERS   04-07 0129</field>
-	<field name = "TITLE">CANADIANS URGE EXEMPTION FROM U.S. TRADE BILL</field>
+	<field name = "titulo">CANADIANS URGE EXEMPTION FROM U.S. TRADE BILL</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">A group of Canadian lawmakers from
+	<field name = "content">A group of Canadian lawmakers from
 Ontario today asked their U.S. counterparts to exempt Canada
 from the mandatory trade retaliation provisions in a major
 trade bill being considered by the U.S. Congress.

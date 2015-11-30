@@ -4,12 +4,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T
-f3896reute
-u f AM-COMMUNITY-MINISTERS 1STwm  03-16 0126</field>
-	<field name = "TITLE">EC COMMISSION DEFENDS FARM PROGRAM</field>
+	<field name = "titulo">EC COMMISSION DEFENDS FARM PROGRAM</field>
 	<field name = "DATELINE">BRUSSELS, March 16 -</field>
-	<field name = "BODY">The European Community's (EC)
+	<field name = "content">The European Community's (EC)
 executive Commission defended attacks on major elements of its
 ambitious program to rid the EC of its controversial farm
 surpluses, after strong attacks from northern states.

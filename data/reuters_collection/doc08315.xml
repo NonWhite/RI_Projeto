@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 11:16:53.25</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1311reute
-u f BC-TOKAI-BANK-DOUBLES-ST   03-23 0098</field>
-	<field name = "TITLE">TOKAI BANK DOUBLES STERLING CD FACILITY</field>
+	<field name = "titulo">TOKAI BANK DOUBLES STERLING CD FACILITY</field>
 	<field name = "DATELINE">LONDON, March 23 -</field>
-	<field name = "BODY">The Tokai Bank Ltd, London Branch, is
+	<field name = "content">The Tokai Bank Ltd, London Branch, is
 doubling the size of a sterling certificate of deposit issuance
 facility established last year to 200 mln stg from the original
 100 mln, Chemical Bank International Ltd said as arranger.

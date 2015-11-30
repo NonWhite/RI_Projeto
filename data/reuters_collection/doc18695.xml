@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 10:50:08.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3338reute
-u f BC-OLSTEN-CORP-OLS>-MAK   06-18 0064</field>
-	<field name = "TITLE">OLSTEN CORP OLS> MAKES EXCHANGE OFFER FOR STOCK</field>
+	<field name = "titulo">OLSTEN CORP OLS> MAKES EXCHANGE OFFER FOR STOCK</field>
 	<field name = "DATELINE">WESTBURY, N.Y., June 18 -</field>
-	<field name = "BODY">Olsten Corp OLS> said it has
+	<field name = "content">Olsten Corp OLS> said it has
 begun an offer to exchange on a share-for-share basis shares of
 newly authorized Class B common shares for existing common
 stock.

@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">lawson</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">RM
-f2956reute
-b f BC-JAPAN-HAS-NO-PLANS-TO   04-09 0102</field>
-	<field name = "TITLE">JAPAN HAS NO PLANS TO CUT DISCOUNT RATE</field>
+	<field name = "titulo">JAPAN HAS NO PLANS TO CUT DISCOUNT RATE</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Bank of Japan sources said the bank
+	<field name = "content">Bank of Japan sources said the bank
 has no plans to cut its discount rate.
     They told reporters that there was no pressure on Japan
 during the Group of Seven (G-7) meeting here yesterday to lower

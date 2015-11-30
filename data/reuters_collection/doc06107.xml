@@ -7,12 +7,9 @@
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f5847reute
-u f BC-DOLLAR-VALUE-APPROPRI   03-17 0109</field>
-	<field name = "TITLE">DOLLAR VALUE APPROPRIATE, BUNDESBANK OFFICIAL SAYS</field>
+	<field name = "titulo">DOLLAR VALUE APPROPRIATE, BUNDESBANK OFFICIAL SAYS</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">The dollar is near appropriate levels
+	<field name = "content">The dollar is near appropriate levels
 against European currencies and the yen, and a further fall
 could damage confidence in the currency while endangering world
 economic growth, a top Bundesbank official said.

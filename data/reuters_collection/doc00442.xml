@@ -14,13 +14,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
 	<field name = "ORGS">fao</field>
-	<field name = "UNKNOWN">L
-f0684
-reute
-d f BC-HEALTH-EXPERTS-CALL-F   03-02 0121</field>
-	<field name = "TITLE">HEALTH EXPERTS URGE ERADICATION OF RINDERPEST</field>
+	<field name = "titulo">HEALTH EXPERTS URGE ERADICATION OF RINDERPEST</field>
 	<field name = "DATELINE">ROME, March 2 -</field>
-	<field name = "BODY">World animal health experts called for a
+	<field name = "content">World animal health experts called for a
 campaign to eradicate the lethal cattle disease Rinderpest in
 Bangladesh, Bhutan, India, Nepal and Pakistan, a statement from
 a Food and Agriculture Organization (FAO) meeting here said.

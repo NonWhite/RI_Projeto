@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:41:10.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0761reute
-r f BC-NORFOLK-SOUTHERN-NSC   03-03 0102</field>
-	<field name = "TITLE">NORFOLK SOUTHERN NSC> IN BUILDING VENTURE</field>
+	<field name = "titulo">NORFOLK SOUTHERN NSC> IN BUILDING VENTURE</field>
 	<field name = "DATELINE">NORFOLK, Va., March 3 -</field>
-	<field name = "BODY">Norfolk Southern Corp said it
+	<field name = "content">Norfolk Southern Corp said it
 entered into a joint venture with Sovran Financial Corp SOVN>
 to build the Sovran III Building, which will be renamed Norfolk
 Southern Tower.

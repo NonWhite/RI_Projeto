@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 02:22:15.63</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0047reute
-u f BC-OSAKA-POSTPONES-STOCK   03-19 0113</field>
-	<field name = "TITLE">OSAKA POSTPONES STOCK FUTURES CONTRACT</field>
+	<field name = "titulo">OSAKA POSTPONES STOCK FUTURES CONTRACT</field>
 	<field name = "DATELINE">TOKYO, March 19 -</field>
-	<field name = "BODY">The Osaka Stock Exchange has postponed
+	<field name = "content">The Osaka Stock Exchange has postponed
 its planned April 6 launch of a futures contract tied to stock
 market movements until after parliament considers a bill to cut
 tax on futures transactions, an exchange official said.

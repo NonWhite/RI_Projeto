@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 15:04:05.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2321reute
-r f BC-INTEGRATED-GENERICS-   03-31 0095</field>
-	<field name = "TITLE">INTEGRATED GENERICS IGN> UNIT IN NEGOTIATIONS</field>
+	<field name = "titulo">INTEGRATED GENERICS IGN> UNIT IN NEGOTIATIONS</field>
 	<field name = "DATELINE">BELLPORT, N.Y., March 31 -</field>
-	<field name = "BODY">Intergrated Generics Inc said
+	<field name = "content">Intergrated Generics Inc said
 its Biopharmaceutics Inc subsidiary is in negotiations with a
 manufacturer and distributor of generic equivalents of brand
 name prescription drugs.

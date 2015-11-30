@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 14:25:25.45</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">Y F
-f2161reute
-r f BC-SHELL-SAYS-IT-NEEDS-1   03-31 0100</field>
-	<field name = "TITLE">ROYAL DUTCH/SHELL RD> SPECIAL MEETING REQUESTED</field>
+	<field name = "titulo">ROYAL DUTCH/SHELL RD> SPECIAL MEETING REQUESTED</field>
 	<field name = "DATELINE">ROTTERDAM, March 31 -</field>
-	<field name = "BODY">Royal Dutch/Shell said two groups of
+	<field name = "content">Royal Dutch/Shell said two groups of
 U.S. investors have requested a special shareholders meeting to
 discuss the company's presence in South Africa.
     But it said that a special meeting could only be held under

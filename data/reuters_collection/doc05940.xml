@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f5013reute
-b f BC-/U.S.-CURRENT-ACCOUNT   03-17 0095</field>
-	<field name = "TITLE">U.S. CURRENT ACCOUNT DEFICIT 36.84 BILLION DLRS</field>
+	<field name = "titulo">U.S. CURRENT ACCOUNT DEFICIT 36.84 BILLION DLRS</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">The U.S. current account deficit
+	<field name = "content">The U.S. current account deficit
 widened to a record 36.84 billion dlrs on a balance of payments
 basis in the October-December fourth quarter of 1986 from a
 revised 35.29 billion dlrs in the third quarter, the Commerce

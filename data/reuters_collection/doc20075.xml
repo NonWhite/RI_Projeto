@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 06:57:24.20</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM 
-f0542reute
-b f BC-NIKKO-PULLS-INTEC-EQU   10-20 0121</field>
-	<field name = "TITLE">NIKKO PULLS INTEC EQUITY WARRANT BOND</field>
+	<field name = "titulo">NIKKO PULLS INTEC EQUITY WARRANT BOND</field>
 	<field name = "DATELINE">LONDON, Oct 20 -</field>
-	<field name = "BODY">A 100 mln dlr equity warrant bond for
+	<field name = "content">A 100 mln dlr equity warrant bond for
 Intec Inc INTT.T> of Japan has been cancelled because of
 turbulent market activity following today's 14.9 pct plunge in
 Tokyo stock prices, Nikko Securities Co (Europe) Ltd said as

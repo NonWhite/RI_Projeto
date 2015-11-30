@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 15:48:25.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0672reute
-r f BC-MANOR-CARE-INC-MNR>   03-05 0064</field>
-	<field name = "TITLE">MANOR CARE INC MNR> CHAIRMAN RESIGNS</field>
+	<field name = "titulo">MANOR CARE INC MNR> CHAIRMAN RESIGNS</field>
 	<field name = "DATELINE">SILVER SPRING, Md., March 5 -</field>
-	<field name = "BODY">Manor Care Inc said its
+	<field name = "content">Manor Care Inc said its
 chairman and chief executive officer, Stewart Bainum Sr., has
 resigned his post.
     The company said he is being replaced by his son, Stewart

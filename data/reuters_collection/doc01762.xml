@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 15:41:12.68</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0639reute
-s f BC-E-SYSTEMS-ESY>-SETS   03-04 0022</field>
-	<field name = "TITLE">E-SYSTEMS ESY> SETS QTRLY PAYOUT</field>
+	<field name = "titulo">E-SYSTEMS ESY> SETS QTRLY PAYOUT</field>
 	<field name = "DATELINE">DALLAS, March 4 -</field>
-	<field name = "BODY">Qtrly div 12.5 cts vs 12.5 cts prior
+	<field name = "content">Qtrly div 12.5 cts vs 12.5 cts prior
     Pay April 1
     Record March 13
  Reuter</field>

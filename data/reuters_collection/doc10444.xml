@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:37:39.86F</field>
-	<field name = "UNKNOWN">f1050reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">b f BC-WESTINGHOUSE-WX>-SEE   03-27 0105</field>
-	<field name = "TITLE">WESTINGHOUSE WX> SEES HIGHER EARNINGS GROWTH</field>
+	<field name = "titulo">WESTINGHOUSE WX> SEES HIGHER EARNINGS GROWTH</field>
 	<field name = "DATELINE">NEW YORK, MARCH 27 -</field>
-	<field name = "BODY">Westinghouse Electric Corp said
+	<field name = "content">Westinghouse Electric Corp said
 earnings per share growth will exceed sales growth and will be
 in the double digit range through 1989.
     In 1986, the company earned 4.42 dlrs a share on revenues

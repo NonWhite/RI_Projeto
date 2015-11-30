@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:42:28.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1693reute
-r f BC-QUOTRON-IN-PACT-WITH   03-20 0092</field>
-	<field name = "TITLE">QUOTRON IN PACT WITH MERRILL LYNCH MER></field>
+	<field name = "titulo">QUOTRON IN PACT WITH MERRILL LYNCH MER></field>
 	<field name = "DATELINE">LOS ANGELES, March 20 -</field>
-	<field name = "BODY">Quotron Systems Inc> said it signed
+	<field name = "content">Quotron Systems Inc> said it signed
 a contract to deliver financial information services to more
 than 500 Merrill Lynch Pierce Fenner and Smith offices.
     The agreement provides all the offices served by Quotron be

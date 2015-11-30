@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:55:29.68</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0854reute
-b f BC-FRANCE'S-CNA-ISSUES-1   04-07 0082</field>
-	<field name = "TITLE">FRANCE'S CNA ISSUES 120 MLN ECU EUROBOND</field>
+	<field name = "titulo">FRANCE'S CNA ISSUES 120 MLN ECU EUROBOND</field>
 	<field name = "DATELINE">PARIS, April 7 -</field>
-	<field name = "BODY">Caisse Nationale des Autoroutes is issuing
+	<field name = "content">Caisse Nationale des Autoroutes is issuing
 a 120 mln ecu, 7-3/8 pct bond due May 15, 1995 at 101-3/4 pct,
 lead manager Credit Lyonnais (CL) said.
     The non-callable issue of senior debt, guaranteed by

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 14:41:29.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2237reute
-r f BC-FORMER-GE>-MANAGERS   03-31 0089</field>
-	<field name = "TITLE">FORMER GE> MANAGERS START ELECTRONICS COMPANY</field>
+	<field name = "titulo">FORMER GE> MANAGERS START ELECTRONICS COMPANY</field>
 	<field name = "DATELINE">LANCASTER, Pa., March 31 -</field>
-	<field name = "BODY">Cardinal Technologies Inc> said
+	<field name = "content">Cardinal Technologies Inc> said
 it spun off its former parent company, General Electric Co,
 when the company put the division up for sale.
     Cardinal Technologies said it was started by seven former

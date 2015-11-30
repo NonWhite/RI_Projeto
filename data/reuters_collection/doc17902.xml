@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 04:14:25.31</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">RM AI
-f0231reute
-u f BC-SOUTH-KOREAN-FIRMS-FE   06-02 0113</field>
-	<field name = "TITLE">SOUTH KOREAN FIRMS FEAR LOAN CUTS MAY HURT EXPORTS</field>
+	<field name = "titulo">SOUTH KOREAN FIRMS FEAR LOAN CUTS MAY HURT EXPORTS</field>
 	<field name = "AUTHOR">By Jo Yun-jeung, Reuters</field>
 	<field name = "DATELINE">SEOUL, June 2 -</field>
-	<field name = "BODY">South Korean firms affected by a government
+	<field name = "content">South Korean firms affected by a government
 order to cut bank loan exposures fear the move may make their
 exports less competitive, company officials said.
     Last month, the government ordered 82 companies to repay 10

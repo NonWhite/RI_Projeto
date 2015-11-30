@@ -5,13 +5,9 @@
 	<field name = "TOPICS">wool</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">C
-f0571
-reute
-d f BC-RECORD-N.Z.-FUTURES-V   03-02 0101</field>
-	<field name = "TITLE">RECORD N.Z. FUTURES VOLUMES TRADED IN FEBRUARY</field>
+	<field name = "titulo">RECORD N.Z. FUTURES VOLUMES TRADED IN FEBRUARY</field>
 	<field name = "DATELINE">WELLINGTON, March 2 -</field>
-	<field name = "BODY">The volume of contracts traded on the
+	<field name = "content">The volume of contracts traded on the
 New Zealand Futures Exchange (NZFE) reached a record 25,559
 contracts in February, the International Commodities Clearing
 House (ICCH) said.

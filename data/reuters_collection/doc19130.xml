@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 09:21:04.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0779reute
-u f BC-FIRST-FEDERAL-FFSD.O   06-19 0044</field>
-	<field name = "TITLE">FIRST FEDERAL FFSD.O> TO TAKE WRITEOFF</field>
+	<field name = "titulo">FIRST FEDERAL FFSD.O> TO TAKE WRITEOFF</field>
 	<field name = "DATELINE">DECATUR, Ala., June 19 -</field>
-	<field name = "BODY">First Federal Savings Bank said it
+	<field name = "content">First Federal Savings Bank said it
 will take a 274,000 dlr or 25 ct per share writeoff of its
 secondary reserve with the Federal Savings and Loan Insurance
 Corp in the third quartger ending June 30.

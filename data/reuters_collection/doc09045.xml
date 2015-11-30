@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 16:48:46.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2569reute
-r f BC-U.S.-CAR-SALES-DOWN-3   03-24 0117</field>
-	<field name = "TITLE">U.S. CAR SALES DOWN 3.9 PCT IN MID-MARCH</field>
+	<field name = "titulo">U.S. CAR SALES DOWN 3.9 PCT IN MID-MARCH</field>
 	<field name = "DATELINE">Detroit, March 24 -</field>
-	<field name = "BODY">Sales of U.S.-made cars during
+	<field name = "content">Sales of U.S.-made cars during
 mid-March, the traditional start of the spring selling season,
 dropped 3.9 pct behind last year's level, analysts say.
     Automakers sold about 204,000 cars in the March 11-20

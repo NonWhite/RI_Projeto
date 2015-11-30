@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 17:49:43.16</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">M
-f0826reute
-d f BC-franco-nevada-stock-r   03-11 0119</field>
-	<field name = "TITLE">FRANCO NEVADA SAYS STOCK RISE DUE TO DRILLING</field>
+	<field name = "titulo">FRANCO NEVADA SAYS STOCK RISE DUE TO DRILLING</field>
 	<field name = "DATELINE">Toronto, March 11 -</field>
-	<field name = "BODY">Franco Nevada Mining Corp Ltd said the
+	<field name = "content">Franco Nevada Mining Corp Ltd said the
 gain in its stock price today is related to deep drilling being
 conducted by American Barrick Resources Corp at the Goldstrike
 claims in the Carlin camp in northern Nevada.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 09:24:18.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0890reute
-d f BC-NORTH-STAR-URANIUM-I   04-08 0068</field>
-	<field name = "TITLE">NORTH STAR URANIUM INC> CHANGES NAME</field>
+	<field name = "titulo">NORTH STAR URANIUM INC> CHANGES NAME</field>
 	<field name = "DATELINE">LOS ANGELES, April 8 -</field>
-	<field name = "BODY">North Star Uranium Inc said it has
+	<field name = "content">North Star Uranium Inc said it has
 changed its name to West Coast Traders Inc to reflect its
 business, the bulk importing of olive oil.
     The company said it plans to start distributing its Italia

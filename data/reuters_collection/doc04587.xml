@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 17:47:58.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0749reute
-r f BC-MOTOROLA-(MOT)-SEES-C   03-12 0126</field>
-	<field name = "TITLE">MOTOROLA (MOT) SEES CONTINUED GROWTH FOR CHIPS</field>
+	<field name = "titulo">MOTOROLA (MOT) SEES CONTINUED GROWTH FOR CHIPS</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 12 -</field>
-	<field name = "BODY">Motorola Inc expects continued
+	<field name = "content">Motorola Inc expects continued
 steady improvement in semiconductor orders for the rest of the
 year, Executive Vice President and Chief Corporate Staff
 Officer Gary Tooker told security analysts.

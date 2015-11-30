@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 05:49:04.79</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM 
-f2459reute
-b f BC-BELGIUM-CUTS-TREASURY   06-18 0060</field>
-	<field name = "TITLE">BELGIUM CUTS TREASURY CERTIFICATE RATES</field>
+	<field name = "titulo">BELGIUM CUTS TREASURY CERTIFICATE RATES</field>
 	<field name = "DATELINE">BRUSSELS, June 18 -</field>
-	<field name = "BODY">The Belgian National Bank said it cut
+	<field name = "content">The Belgian National Bank said it cut
 one, two, and three month treasury certificate rates, all by
 0.10 points, effective immediately.
     The cuts take the one month rate to 6.75 pct, the two month

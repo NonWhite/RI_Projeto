@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f2908reute
-b f BC-N.Z.-APRIL-CURRENT-AC   06-02 0113</field>
-	<field name = "TITLE">N.Z. APRIL CURRENT ACCOUNT DEFICIT NARROWS</field>
+	<field name = "titulo">N.Z. APRIL CURRENT ACCOUNT DEFICIT NARROWS</field>
 	<field name = "DATELINE">WELLINGTON, June 3 -</field>
-	<field name = "BODY">New Zealand's current account deficit
+	<field name = "content">New Zealand's current account deficit
 narrowed to 76 mln N.Z. Dlrs in April from a revised 89 mln
 dlrs in March, and 224 mln dlrs in April 1986, in a smoothed
 seasonally-adjusted measurement, the Statistics Department

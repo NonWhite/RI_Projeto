@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 14:40:31.78</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0295reute
-d f BC-PARALAX-VIDO>-AGREES   03-11 0146</field>
-	<field name = "TITLE">PARALAX VIDO> AGREES TO ACQUIRE AMERICAN VIDEO</field>
+	<field name = "titulo">PARALAX VIDO> AGREES TO ACQUIRE AMERICAN VIDEO</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Paralax Video Enterprises Inc said it
+	<field name = "content">Paralax Video Enterprises Inc said it
 has agreeed to acquire American Video Group Inc> in exchange
 for 287,700 Paralax restricted common shares and three year
 warrants to buy 318,600 restricted shares at six dlrs a share.

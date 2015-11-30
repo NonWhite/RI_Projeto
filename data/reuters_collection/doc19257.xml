@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 12:31:14.92</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1546reute
-d f BC-MEGAVEST-TO-ACQUIRE-C   06-19 0061</field>
-	<field name = "TITLE">MEGAVEST TO ACQUIRE COMPUTER TRADE DEVELOPMENT</field>
+	<field name = "titulo">MEGAVEST TO ACQUIRE COMPUTER TRADE DEVELOPMENT</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">MegaVest Industries Inc> said it has
+	<field name = "content">MegaVest Industries Inc> said it has
 agreed in principle to acquire unlisted Computer Trade
 Development Corp in exchange for 119 mln shares of its common
 stock.

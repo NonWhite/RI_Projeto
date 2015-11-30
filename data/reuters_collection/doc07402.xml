@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 16:01:21.57</field>
 	<field name = "PLACES">france</field>
 	<field name = "EXCHANGES">pse</field>
-	<field name = "UNKNOWN">RM
-f2340reute
-u f BC-PARIS-BOURSE-OPENING   03-19 0108</field>
-	<field name = "TITLE">PARIS BOURSE LIBERALIZATION NOT LIMITED TO BANKS</field>
+	<field name = "titulo">PARIS BOURSE LIBERALIZATION NOT LIMITED TO BANKS</field>
 	<field name = "DATELINE">PARIS, March 19 -</field>
-	<field name = "BODY">Industrial and financial groups will be
+	<field name = "content">Industrial and financial groups will be
 allowed to take a share in stockbrokers' capital when Paris
 Bourse regulations are liberalized beginning next year,
 Stockbrokers' Association chairman Xavier Dupont told a news

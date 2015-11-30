@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:59:53.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4339reute
-u f BC-A.H.-ROBINS-QRAH>-WI   06-18 0102</field>
-	<field name = "TITLE">A.H. ROBINS QRAH> WINS APPEALS COURT RULING</field>
+	<field name = "titulo">A.H. ROBINS QRAH> WINS APPEALS COURT RULING</field>
 	<field name = "DATELINE">RICHMOND, June 18 -</field>
-	<field name = "BODY">A.H. Robins Co, facing suits over its
+	<field name = "content">A.H. Robins Co, facing suits over its
 Dalkon Shield birth control device, said a Federal Court of
 Appeals approved of the way the company notified potential
 victims about a possible liability.

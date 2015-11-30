@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 12:51:02.95</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0007reute
-b f BC-CHRYSLER-C>-VALUES-A   03-09 0101</field>
-	<field name = "TITLE">CHRYSLER C> VALUES AMC AMO> AT 757 MLN DLRS</field>
+	<field name = "titulo">CHRYSLER C> VALUES AMC AMO> AT 757 MLN DLRS</field>
 	<field name = "DATELINE">DETROIT, March 9 -</field>
-	<field name = "BODY">Chrysler Corp said it valued its
+	<field name = "content">Chrysler Corp said it valued its
 proposed buyout of American Motors Corp at 757 mln dlrs, not
 counting the effect of a contingent payment that could reach
 350 mln dlrs based on AMC's future profits.

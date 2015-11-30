@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 03:38:53.58</field>
-	<field name = "UNKNOWN">RM
-f0127reute
-u f BC-ASIAN-DOLLAR-DEPOSITS   04-07 0098</field>
-	<field name = "TITLE">ASIAN DOLLAR DEPOSITS CLOSE QUIETLY STEADY</field>
+	<field name = "titulo">ASIAN DOLLAR DEPOSITS CLOSE QUIETLY STEADY</field>
 	<field name = "DATELINE">SINGAPORE, April 7 -</field>
-	<field name = "BODY">Asian dollar deposit rates closed
+	<field name = "content">Asian dollar deposit rates closed
 steady at opening levels in dull and featureless trading,
 dealers said.
     They said most operators refrained from taking large

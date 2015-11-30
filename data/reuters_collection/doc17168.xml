@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 16:00:35.93</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2378reute
-u f BC-TREASURY-BALANCES-AT   04-24 0084</field>
-	<field name = "TITLE">TREASURY BALANCES AT FED FELL ON APRIL 23</field>
+	<field name = "titulo">TREASURY BALANCES AT FED FELL ON APRIL 23</field>
 	<field name = "DATELINE">WASHINGTON, April 24 -</field>
-	<field name = "BODY">Treasury balances at the Federal
+	<field name = "content">Treasury balances at the Federal
 Reserve fell on April 23 to 6.211 billion dlrs from 9.431
 billion dlrs on the previous business day, the Treasury said in
 its latest budget statement.

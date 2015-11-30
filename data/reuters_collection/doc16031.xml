@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 18:01:43.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2798reute
-r f AM-ASPIRIN (EMBARGOED)  04-09 0097</field>
-	<field name = "TITLE">DRUG INDUSTRY ATTACKED ON ASPIRIN ISSUE</field>
+	<field name = "titulo">DRUG INDUSTRY ATTACKED ON ASPIRIN ISSUE</field>
 	<field name = "DATELINE">CHICAGO, April 9 -</field>
-	<field name = "BODY">Elements of the drug industry endangered
+	<field name = "content">Elements of the drug industry endangered
 the lives of children by pressuring the government to delay a
 now common warning on the link between aspirin and an often
 fatal disease, a doctor said.

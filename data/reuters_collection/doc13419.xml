@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:31:32.21</field>
-	<field name = "UNKNOWN">F
-f0176reute
-u f BC-EQUITIES-OPEN-MIXED-I   04-07 0112</field>
-	<field name = "TITLE">EQUITIES OPEN MIXED IN QUIET LONDON TRADING</field>
+	<field name = "titulo">EQUITIES OPEN MIXED IN QUIET LONDON TRADING</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Share prices opened mixed in relatively
+	<field name = "content">Share prices opened mixed in relatively
 quiet trading after early indications suggested a positive move
 forward on the back of the latest opinion polls and record
 closing highs on the Tokyo and Wall Street stock exchanges. At

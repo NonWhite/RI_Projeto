@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 09:49:53.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0229reute
-r f AM-NARCOTICS-1STLD WRITETHROUGH  04-17 0124</field>
-	<field name = "TITLE">WALL STREET STOCKBROKERS CHARGED IN DRUG ARRESTS</field>
+	<field name = "titulo">WALL STREET STOCKBROKERS CHARGED IN DRUG ARRESTS</field>
 	<field name = "DATELINE">NEW YORK, April 17 -</field>
-	<field name = "BODY">Sixteen Wall Street stockbrokers were
+	<field name = "content">Sixteen Wall Street stockbrokers were
 charged with dealing cocaine, some at a brokerage house federal
 officials said was deeply involved in drug trafficking as well
 as trading violations.

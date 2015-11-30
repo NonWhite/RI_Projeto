@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 14:16:54.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0071reute
-d f BC-NEW-YORK-LIFE-SETS-RE   03-12 0101</field>
-	<field name = "TITLE">NEW YORK LIFE SETS REAL ESTATE INVESTMENTS</field>
+	<field name = "titulo">NEW YORK LIFE SETS REAL ESTATE INVESTMENTS</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">New York Life Insurance Co> said it
+	<field name = "content">New York Life Insurance Co> said it
 will invest up to 30 mln dlrs in properties purchased by
 NYLIFE Realty Income Partners I L.P.>, a newly formed real
 estate limited partnership.

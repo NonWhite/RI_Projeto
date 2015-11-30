@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">tamura</field>
 	<field name = "PEOPLE">yeutter</field>
-	<field name = "UNKNOWN">RM
-f0778reute
-u f BC-JAPAN-CONSIDERING-BUY   04-21 0098</field>
-	<field name = "TITLE">JAPAN CONSIDERING BUYING U.S. SUPERCOMPUTERS</field>
+	<field name = "titulo">JAPAN CONSIDERING BUYING U.S. SUPERCOMPUTERS</field>
 	<field name = "DATELINE">TOKYO, April 21 -</field>
-	<field name = "BODY">The Japanese government is considering
+	<field name = "content">The Japanese government is considering
 buying U.S.-made supercomputers to help defuse mounting trade
 friction between the two countries, Trade Minister Hajime
 Tamura was quoting as saying.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 09:22:43.14</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0848reute
-r f BC-american-resourcesets   03-25 0096</field>
-	<field name = "TITLE">AMERICAN RESOURCE SETS RIGHTS OFFERING</field>
+	<field name = "titulo">AMERICAN RESOURCE SETS RIGHTS OFFERING</field>
 	<field name = "DATELINE">TORONTO, March 24 -</field>
-	<field name = "BODY">American Resource Corp Ltd> said the
+	<field name = "content">American Resource Corp Ltd> said the
 board approved a rights offering to class A non-voting
 shareholders to be made on a one-for-one basis and expected to
 raise between 80 mln and 100 mln dlrs.

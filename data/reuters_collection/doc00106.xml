@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 16:40:00.82</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">RM V Y
-f0052
-reute
-b f AM-GULF-OPERATION ***URGENT  02-26 0097</field>
-	<field name = "TITLE">IRAN ANNOUNCES END OF MAJOR OFFENSIVE IN GULF WAR</field>
+	<field name = "titulo">IRAN ANNOUNCES END OF MAJOR OFFENSIVE IN GULF WAR</field>
 	<field name = "DATELINE">LONDON, Feb 26 -</field>
-	<field name = "BODY">Iran announced tonight that its major
+	<field name = "content">Iran announced tonight that its major
 offensive against Iraq in the Gulf war had ended after dealing
 savage blows against the Baghdad government.
     The Iranian news agency IRNA, in a report received in

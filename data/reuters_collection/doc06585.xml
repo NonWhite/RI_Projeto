@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 12:05:14.77</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8460reute
-u f BC-FHLMC-FREPR>-4TH-QTR   03-18 0078</field>
-	<field name = "TITLE">FHLMC FREPR> 4TH QTR NET</field>
+	<field name = "titulo">FHLMC FREPR> 4TH QTR NET</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">net 65 mln vs 57 mln
+	<field name = "content">net 65 mln vs 57 mln
     year
     shr preferred 14.87 dlrs vs 12.51 dlrs
     shr common 236.77 dlrs vs 197.40 dlrs

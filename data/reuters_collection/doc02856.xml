@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PEOPLE">lyng</field>
-	<field name = "UNKNOWN">C G
-f0505reute
-u f BC-LYNG-SAYS-NO-DECISION   03-06 0126</field>
-	<field name = "TITLE">LYNG SAYS NO DECISIONS TAKEN AT CABINET COUNCIL</field>
+	<field name = "titulo">LYNG SAYS NO DECISIONS TAKEN AT CABINET COUNCIL</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">U.S. Agriculture Secretary Richard
+	<field name = "content">U.S. Agriculture Secretary Richard
 Lyng said no decisions were taken today at a White House
 Economic Policy Council meeting.
     Speaking to reporters on his return from the meeting, Lyng

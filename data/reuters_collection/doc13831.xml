@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:07:28.43</field>
-	<field name = "UNKNOWN">C
-f0908reute
-d f BC-LIFFE-VOLUMES-HIGHER   04-07 0085</field>
-	<field name = "TITLE">LIFFE VOLUMES HIGHER IN MARCH</field>
+	<field name = "titulo">LIFFE VOLUMES HIGHER IN MARCH</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Turnover on the London International
+	<field name = "content">Turnover on the London International
 Financial Futures Exchange (LIFFE) rose to 1.16 mln contracts
 in March, up from 517,746 a year earlier, figures issued by the
 International Commodities Clearing House (ICCH) show.

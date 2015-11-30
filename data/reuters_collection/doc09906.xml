@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 10:35:36.35</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">G C
-f1251reute
-u f BC-DUTCH-GRAIN-LEVY-TEST   03-26 0091</field>
-	<field name = "TITLE">DUTCH GRAIN LEVY TEST CASE TO START IN APRIL</field>
+	<field name = "titulo">DUTCH GRAIN LEVY TEST CASE TO START IN APRIL</field>
 	<field name = "DATELINE">ROTTERDAM, March 26 -</field>
-	<field name = "BODY">A large Dutch animal feed compounder
+	<field name = "content">A large Dutch animal feed compounder
 will begin formal legal proceedings early next month as a test
 case on the way the EC grain co-responsibility levy is applied,
 a spokesman for Dutch grain and feed trade association, Het

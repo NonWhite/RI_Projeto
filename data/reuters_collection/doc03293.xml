@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 14:20:01.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0307reute
-u f BC-SALLIE-MAE-PRICES-SHO   03-09 0102</field>
-	<field name = "TITLE">SALLIE MAE PRICES SHORT-TERM FLOATING RATE NOTES</field>
+	<field name = "titulo">SALLIE MAE PRICES SHORT-TERM FLOATING RATE NOTES</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">The Student Loan Marketing
+	<field name = "content">The Student Loan Marketing
 Association said it priced its 300 mln dlr short-term floating
 rate note offer at par to yield 25 basis points above the
 bond-equivalent yield of the 91-day Treasury bill.

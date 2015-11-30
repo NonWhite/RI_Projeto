@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 10:43:31.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8131reute
-r f BC-PREMARK-PMI>-EXTENDS   03-18 0081</field>
-	<field name = "TITLE">PREMARK PMI> EXTENDS BUY-BACK DEADLINE</field>
+	<field name = "titulo">PREMARK PMI> EXTENDS BUY-BACK DEADLINE</field>
 	<field name = "DATELINE">NORTHBROOK, Ill., March 18 -</field>
-	<field name = "BODY">Premark International Inc said
+	<field name = "content">Premark International Inc said
 it is extending to April 17 the offer to buy its common stock
 from holders of fewer than 100 shares.
     Owners of record Jan 27, 1987 are eligible for the offer,

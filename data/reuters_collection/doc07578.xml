@@ -4,12 +4,9 @@
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0363reute
-u f BC-EC-APPROVES-25,000-TO   03-20 0118</field>
-	<field name = "TITLE">EC APPROVES 25,000 TONNES OF BARLEY EXPORTS</field>
+	<field name = "titulo">EC APPROVES 25,000 TONNES OF BARLEY EXPORTS</field>
 	<field name = "DATELINE">LONDON, March 20 -</field>
-	<field name = "BODY">The European Community authorised the
+	<field name = "content">The European Community authorised the
 export of 25,000 tonnes of barley yesterday, bringing the
 cumulative total at weekly tenders since the series started
 last June to 3.33 mln tonnes, close to the 3.37 mln under

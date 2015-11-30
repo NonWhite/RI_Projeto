@@ -2,13 +2,10 @@
 	<field name = "DATE">19-MAR-1987 18:29:57.08</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "TOPICS">interest</field>
-	<field name = "UNKNOWN">A RM F
-f2707reute
-u f BC-FED-DATA-SUGGEST-U.S.   03-19 0105</field>
-	<field name = "TITLE">FED DATA SUGGEST U.S. CREDIT POLICY IS ON HOLD</field>
+	<field name = "titulo">FED DATA SUGGEST U.S. CREDIT POLICY IS ON HOLD</field>
 	<field name = "AUTHOR">by Jeremy Solomons, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Latest Federal Reserve data suggest
+	<field name = "content">Latest Federal Reserve data suggest
 that the U.S. banking system is flush with reserves going into
 a period of traditional tightness and that overall monetary
 policy is on hold, economists said.

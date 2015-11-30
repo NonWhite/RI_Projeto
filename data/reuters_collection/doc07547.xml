@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 02:34:59.45</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">F
-f0082reute
-u f BC-RAINBOW-AND-EQUITICOR   03-20 0113</field>
-	<field name = "TITLE">RAINBOW AND EQUITICORP PLACE ULTRAMAR STAKE</field>
+	<field name = "titulo">RAINBOW AND EQUITICORP PLACE ULTRAMAR STAKE</field>
 	<field name = "DATELINE">WELLINGTON, March 20 -</field>
-	<field name = "BODY">New Zealand investment companies
+	<field name = "content">New Zealand investment companies
 Rainbow Corp Ltd> and Equiticorp Holdings Ltd> have placed
 the majority of their joint shareholding in oil and gas
 conglomerate Ultramar PLC UMAR.L> at prices up to 2.20 stg per

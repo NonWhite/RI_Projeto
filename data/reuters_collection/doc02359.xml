@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 14:33:03.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0409reute
-r f BC-FREYMILLER-TRUCKING   03-05 0086</field>
-	<field name = "TITLE">FREYMILLER TRUCKING INC> SETS INITIAL OFFER</field>
+	<field name = "titulo">FREYMILLER TRUCKING INC> SETS INITIAL OFFER</field>
 	<field name = "DATELINE">BAKERSFIELD, Calif., March 5 -</field>
-	<field name = "BODY">Freymiller Trucking inc said
+	<field name = "content">Freymiller Trucking inc said
 it has filed for an initial public offering of one mln common
 shares, including 250,000 to be sold by its principal
 shareholder.

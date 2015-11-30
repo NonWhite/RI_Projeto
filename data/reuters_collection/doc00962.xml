@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 08:10:59.45</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0101
-reute
-u f BC-BRYSON-PAYS-5.4-MLN-D   03-03 0108</field>
-	<field name = "TITLE">BRYSON PAYS 5.4 MLN DLRS FOR CENERGY CORP STAKE</field>
+	<field name = "titulo">BRYSON PAYS 5.4 MLN DLRS FOR CENERGY CORP STAKE</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">Bryson Oil and Gas Plc> said it paid a
+	<field name = "content">Bryson Oil and Gas Plc> said it paid a
 cash consideration of around 5.4 mln dlrs for about 8.6 pct of
 Cenergy Corp>, a U.S. Oil and gas exploration and production
 company.

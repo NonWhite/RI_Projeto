@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 19:01:00.69</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2817reute
-d f BC-CHRYSLER-C>-NON-PROF   04-13 0085</field>
-	<field name = "TITLE">CHRYSLER C> NON-PROFIT GROUP SELLS UNIT</field>
+	<field name = "titulo">CHRYSLER C> NON-PROFIT GROUP SELLS UNIT</field>
 	<field name = "DATELINE">DETROIT, April 13 -</field>
-	<field name = "BODY">Chrysler Corp's Chrysler Motors Corp
+	<field name = "content">Chrysler Corp's Chrysler Motors Corp
 said its Chrysler Training Corp non-profit organization sold
 the name and assets of its Motech Auto Mechanic and Body Shop
 Schools to O/E Corp of Troy, Mich.

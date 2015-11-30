@@ -2,13 +2,10 @@
 	<field name = "DATE">25-MAR-1987 07:35:07.17</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">V
-f0555reute
-u f PM-DEBT 1STLD  03-25 0136</field>
-	<field name = "TITLE">BRAZIL, BANKS FAIL TO MAKE BREAKTHROUGH IN DEBT TALKS</field>
+	<field name = "titulo">BRAZIL, BANKS FAIL TO MAKE BREAKTHROUGH IN DEBT TALKS</field>
 	<field name = "AUTHOR">By Keith Grant</field>
 	<field name = "DATELINE">MIAMI, March 25 -</field>
-	<field name = "BODY">Brazil and its bank creditors failed to
+	<field name = "content">Brazil and its bank creditors failed to
 achieve any breakthrough in debt talks here last night after
 Brazil refused to say when it would resume interest payments.
     Central Bank governor Francisco Gros said after a meeting

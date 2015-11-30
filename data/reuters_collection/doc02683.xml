@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:44:09.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0609reute
-u f BC-RESIDENTIAL-MORTGAGE   03-06 0110</field>
-	<field name = "TITLE">RESIDENTIAL MORTGAGE RMI> SELLS CMOS</field>
+	<field name = "titulo">RESIDENTIAL MORTGAGE RMI> SELLS CMOS</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Residential Mortgage Acceptance Inc, a
+	<field name = "content">Residential Mortgage Acceptance Inc, a
 unit of Residential Mortgage Investments Inc, is offering 100
 mln dlrs of collateralized mortgage obligations, said sole
 manager Merrill Lynch Capital Markets.

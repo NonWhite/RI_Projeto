@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 14:10:38.92</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F 
-f2628reute
-h f BC-BRITISH-AEROSPACE-WIN   10-20 0107</field>
-	<field name = "TITLE">BRITISH AEROSPACE WINS SWISS DEAL</field>
+	<field name = "titulo">BRITISH AEROSPACE WINS SWISS DEAL</field>
 	<field name = "DATELINE">LONDON, Oct 20 -</field>
-	<field name = "BODY">British Aerospace Plc BAEL.L> has won a
+	<field name = "content">British Aerospace Plc BAEL.L> has won a
 150 mln stg contract to supply Switzerland with military
 equipment, including 20 Hawk Mk 66 advanced jet trainers.
     The training and logistic package includes a Rediffusion

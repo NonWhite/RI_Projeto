@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T
-f3698reute
-u f AM-JOPLING   03-16 0090</field>
-	<field name = "TITLE">BRITISH FARM MINISTER ATTACKS SUBSIDIES</field>
+	<field name = "titulo">BRITISH FARM MINISTER ATTACKS SUBSIDIES</field>
 	<field name = "DATELINE">INDIANAPOLIS, March 16 -</field>
-	<field name = "BODY">Farm subsidies and protectionist
+	<field name = "content">Farm subsidies and protectionist
 moves threaten healthy trade on both sides of the Atlantic,
 Michael Jopling, British minister of Agriculture, Fisheries and
 Food, warned.

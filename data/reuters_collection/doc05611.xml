@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 14:40:38.12</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F RM A
-f3309reute
-u f BC-NYSE-TO-REPORT-IMBALA   03-16 0115</field>
-	<field name = "TITLE">NYSE TO REPORT IMBALANCES ON EXPIRATION FRIDAY</field>
+	<field name = "titulo">NYSE TO REPORT IMBALANCES ON EXPIRATION FRIDAY</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">The New York Stock Exchange said it
+	<field name = "content">The New York Stock Exchange said it
 will cooperate with the Securities and Exchange Commission by
 disclosing imbalances in market-on-close orders in 50 major
 stocks thirty minutes prior to the close of trading Friday.

@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 06:16:27.16</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0413reute
-u f BC-JAPAN,-BRITAIN-TO-EXC   04-08 0108</field>
-	<field name = "TITLE">JAPAN, BRITAIN TO EXCHANGE SECURITIES MARKET INFO</field>
+	<field name = "titulo">JAPAN, BRITAIN TO EXCHANGE SECURITIES MARKET INFO</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">Japan and Britain have signed a memorandum
+	<field name = "content">Japan and Britain have signed a memorandum
 on exchange of securities market information to protect
 investors and promote the integrity of securities markets,
 Finance Ministry officials said.

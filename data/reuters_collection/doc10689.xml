@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 02:03:41.65</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0073reute
-b f BC-JAPAN-SEEKS-RECORD-LO   03-30 0090</field>
-	<field name = "TITLE">JAPAN SEEKS RECORD LOW 4.7 PCT APRIL BOND COUPON</field>
+	<field name = "titulo">JAPAN SEEKS RECORD LOW 4.7 PCT APRIL BOND COUPON</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">The Finance Ministry said it proposed to
+	<field name = "content">The Finance Ministry said it proposed to
 the underwriting syndicate a record low 4.7 pct coupon on the
 10-year government bond to be issued in April, down from the
 previous record low five pct March issue.

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 10:40:33.86</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">C G
-f1123reute
-r f BC-ARGENTINE-GRAIN-BELT   04-09 0099</field>
-	<field name = "TITLE">ARGENTINE GRAIN BELT WEATHER REPORT</field>
+	<field name = "titulo">ARGENTINE GRAIN BELT WEATHER REPORT</field>
 	<field name = "DATELINE">BUENOS AIRES, ABR 9 -</field>
-	<field name = "BODY">ARGENTINE GRAIN BELT TEMPERATURES
+	<field name = "content">ARGENTINE GRAIN BELT TEMPERATURES
 (CENTIGRADE) AND RAIN (MM) IN THE 24 HOURS TO 12.00 GMT WERE:
     ...............MAX TEMP..MIN TEMP..RAINFALL
     BUENOS AIRES.......24.......12............0

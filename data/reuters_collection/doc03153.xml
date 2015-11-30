@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 11:36:38.14</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F RM
-f0606reute
-u f BC-MOODY'S-MAY-DOWNGRADE   03-09 0098</field>
-	<field name = "TITLE">MOODY'S MAY DOWNGRADE PIEDMONT AVIATION PIE></field>
+	<field name = "titulo">MOODY'S MAY DOWNGRADE PIEDMONT AVIATION PIE></field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 may downgrade 120 mln dlrs of debt of Piedmont Aviation Inc
 because of the airline's agreement to be acquired by USAir
 Group Inc U>.

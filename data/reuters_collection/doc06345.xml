@@ -3,13 +3,10 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f7081reute
-u f BC-ECONOMIC-SPOTLIGHT--   03-18 0103</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - JAPAN BUYING OVERSEAS FIRMS</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - JAPAN BUYING OVERSEAS FIRMS</field>
 	<field name = "AUTHOR">By JEFF STEARNS, REUTERS</field>
 	<field name = "DATELINE">TOKYO, March 18 -</field>
-	<field name = "BODY">More U.S. And European firms will be
+	<field name = "content">More U.S. And European firms will be
 falling prey to Japanese corporations bulging with cash and
 eager to extend their reach further overseas, according to
 merger and acquisitions specialists polled by Reuters.

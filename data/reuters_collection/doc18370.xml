@@ -2,12 +2,9 @@
 	<field name = "DATE">15-JUN-1987 09:12:50.74</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">C G L M T
-f0863reute
-u f BC-BLOCKED-RHINE-NAVIGAT   06-15 0136</field>
-	<field name = "TITLE">BLOCKED RHINE NAVIGATION CHANNEL REMAINS CLOSED</field>
+	<field name = "titulo">BLOCKED RHINE NAVIGATION CHANNEL REMAINS CLOSED</field>
 	<field name = "DATELINE">MANNHEIM, June 15 -</field>
-	<field name = "BODY">The main navigation channel of the
+	<field name = "content">The main navigation channel of the
 Rhine, blocked by two sunken boats, will remain closed at least
 until the beginning of next week, a water authority spokesman
 said today.

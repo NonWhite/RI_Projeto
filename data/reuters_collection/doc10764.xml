@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 07:16:34.72</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0589reute
-u f BC-GERMAN-BANKS-OUTLOOK   03-30 0113</field>
-	<field name = "TITLE">GERMAN BANKS OUTLOOK CLOUDIER AFTER RECORD 1986</field>
+	<field name = "titulo">GERMAN BANKS OUTLOOK CLOUDIER AFTER RECORD 1986</field>
 	<field name = "AUTHOR">By Allan Saunderson, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 30 -</field>
-	<field name = "BODY">When the largest German "universal"
+	<field name = "content">When the largest German "universal"
 banks begin announcing 1986 results this week they should
 report the third consecutive record year. But prospects for
 1987 and beyond would be distinctly cloudier, bank analysts

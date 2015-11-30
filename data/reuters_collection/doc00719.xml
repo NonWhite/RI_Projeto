@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 15:25:05.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0877
-reute
-h f BC-DAIWA-SECURITIES-CO>   03-02 0096</field>
-	<field name = "TITLE">DAIWA SECURITIES CO> TO SUPPLY MARKET UPDATE</field>
+	<field name = "titulo">DAIWA SECURITIES CO> TO SUPPLY MARKET UPDATE</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Daiwa Securities Co Ltd said it will
+	<field name = "content">Daiwa Securities Co Ltd said it will
 provide Financial News Network FNNI> with an exclusive daily
 market update from Tokyo.
     The report can be seen on FNN's World Business Update, the

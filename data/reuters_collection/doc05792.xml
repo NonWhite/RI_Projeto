@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 00:56:04.47</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f4084reute
-u f BC-COASTAL-CGP>-SEEKS-T   03-17 0097</field>
-	<field name = "TITLE">COASTAL CGP> SEEKS TO HALT BILLION DLR LAWSUIT</field>
+	<field name = "titulo">COASTAL CGP> SEEKS TO HALT BILLION DLR LAWSUIT</field>
 	<field name = "DATELINE">HOUSTON, March 17 -</field>
-	<field name = "BODY">Coastal Corp said a federal bankruptcy
+	<field name = "content">Coastal Corp said a federal bankruptcy
 court will hear its request today for a restraining order to
 stop a two billion dlr lawsuit against it by TransAmerican
 Natural Gas Corp>.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 13:50:47.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2091reute
-d f BC-ATT-T>-INTRODUCES-OV   06-02 0094</field>
-	<field name = "TITLE">ATT T> INTRODUCES OVERVIEW SCANNER</field>
+	<field name = "titulo">ATT T> INTRODUCES OVERVIEW SCANNER</field>
 	<field name = "DATELINE">ATLANTA, June 2 -</field>
-	<field name = "BODY">American Telephone and Telegraph Co said
+	<field name = "content">American Telephone and Telegraph Co said
 it introduced its Overview Scanner that works in conjunction
 with a personal computer.
     The company said the Overview Scanner lends itself to

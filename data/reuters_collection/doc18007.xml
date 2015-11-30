@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 10:13:22.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1060reute
-b f BC-/U.S.-FACTORY-ORDERS   06-02 0107</field>
-	<field name = "TITLE">U.S. FACTORY ORDERS ROSE 0.2 PCT IN APRIL</field>
+	<field name = "titulo">U.S. FACTORY ORDERS ROSE 0.2 PCT IN APRIL</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">New orders for manufactured goods rose
+	<field name = "content">New orders for manufactured goods rose
 401 mln dlrs, or 0.2 pct, in April to a seasonally adjusted
 199.8 billion dlrs, the Commerce Department said.
     The slight April gain followed a revised orders increase in

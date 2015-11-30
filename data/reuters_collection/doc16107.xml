@@ -4,12 +4,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0035reute
-u f BC-AUSTRALIAN-GOVERNMENT   04-13 0109</field>
-	<field name = "TITLE">AUSTRALIAN GOVERNMENT MUST CUT SPENDING, ANZ SAYS</field>
+	<field name = "titulo">AUSTRALIAN GOVERNMENT MUST CUT SPENDING, ANZ SAYS</field>
 	<field name = "DATELINE">SYDNEY, April 13 -</field>
-	<field name = "BODY">The government must announce harsh cuts
+	<field name = "content">The government must announce harsh cuts
 in spending in its May 14 economic statement if it is to give
 an adequate response to Australia's economic problems, the ANZ
 Banking Group Ltd ANZA.S> said.

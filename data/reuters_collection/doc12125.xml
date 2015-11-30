@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 13:07:39.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1813reute
-d f BC-ATT-T>-OFFERS-DOCUME   04-01 0067</field>
-	<field name = "TITLE">ATT T> OFFERS DOCUMENT SOFTWARE PRODUCT</field>
+	<field name = "titulo">ATT T> OFFERS DOCUMENT SOFTWARE PRODUCT</field>
 	<field name = "DATELINE">BASKING RIDGE, N.J., April 1 -</field>
-	<field name = "BODY">American Telephone and
+	<field name = "content">American Telephone and
 Telegraph Co said it has a new version of docuFORUM, a software
 product used to review, revise and transfer documents
 electronically.

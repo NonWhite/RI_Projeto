@@ -6,12 +6,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G
-f1490reute
-u f BC-/BRAZIL-SOYBEAN-YIELD   04-09 0128</field>
-	<field name = "TITLE">BRAZIL SOYBEAN YIELDS SEEN AVERAGE - USDA REPORT</field>
+	<field name = "titulo">BRAZIL SOYBEAN YIELDS SEEN AVERAGE - USDA REPORT</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Based on field travel in the
+	<field name = "content">Based on field travel in the
 Brazilian state of Parana, soybean yields should be about
 average or 2.0 to 2.2 tonnes per hectare, the U.S. Agriculture
 Department's officer in Sao Paulo said in a field report.

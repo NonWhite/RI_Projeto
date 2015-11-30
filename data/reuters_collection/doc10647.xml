@@ -2,12 +2,9 @@
 	<field name = "DATE">29-MAR-1987 06:01:35.33</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0048reute
-r f BC-BFG-PARTIAL-OPERATING   03-29 0118</field>
-	<field name = "TITLE">BFG PARTIAL OPERATING PROFITS FALL SHARPLY IN 1986</field>
+	<field name = "titulo">BFG PARTIAL OPERATING PROFITS FALL SHARPLY IN 1986</field>
 	<field name = "DATELINE">FRANKFURT, March 29 -</field>
-	<field name = "BODY">Bank fuer Gemeinwirtschaft AG
+	<field name = "content">Bank fuer Gemeinwirtschaft AG
 BKFG.F>, BfG, partial operating profits fell to 182.6 mln
 marks in 1986 from 313.7 mln in 1985, new majority shareholder
 Aachener und Muenchener Beteiligungs-AG AMVG.F>, AMB, said.

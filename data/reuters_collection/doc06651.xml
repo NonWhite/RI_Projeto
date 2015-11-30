@@ -4,12 +4,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">C M
-f8820reute
-r f BC-IRAQ-SAYS-IT-HIT-SHIP   03-18 0110</field>
-	<field name = "TITLE">IRAQ SAYS IT HIT SHIP IN GULF OFF IRAN TODAY</field>
+	<field name = "titulo">IRAQ SAYS IT HIT SHIP IN GULF OFF IRAN TODAY</field>
 	<field name = "DATELINE">BAGHDAD, March 18 -</field>
-	<field name = "BODY">Iraq said its warplanes had hit a
+	<field name = "content">Iraq said its warplanes had hit a
 vessel in the Gulf off the Iranian coast today, the third in
 the past 24 hours.
     A military spokesman told the Iraqi news agency INA the

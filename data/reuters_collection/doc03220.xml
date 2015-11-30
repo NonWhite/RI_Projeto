@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:38:09.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0944reute
-r f BC-OGLETHORPE-POWER-COR   03-09 0108</field>
-	<field name = "TITLE">OGLETHORPE POWER CORP> SEES NO RATE INCREASE</field>
+	<field name = "titulo">OGLETHORPE POWER CORP> SEES NO RATE INCREASE</field>
 	<field name = "DATELINE">ATLANTA, March 9 -</field>
-	<field name = "BODY">Oglethorpe Power Corp said it does not
+	<field name = "content">Oglethorpe Power Corp said it does not
 plan to raise its electric rates to cover higher construction
 costs at the Alvin W. Vogtle Nuclear Plant, in which Oglethorpe
 holds a 30 pct interest.

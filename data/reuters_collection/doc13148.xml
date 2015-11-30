@@ -3,12 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C L
-f2309reute
-r f BC-U.S.-MEAT-PROCESSORS   04-03 0137</field>
-	<field name = "TITLE">U.S. MEAT PROCESSORS ASK FOR LABELLING CHANGE</field>
+	<field name = "titulo">U.S. MEAT PROCESSORS ASK FOR LABELLING CHANGE</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">Four U.S. meat processors have asked
+	<field name = "content">Four U.S. meat processors have asked
 the federal government to relax a labelling requirement which
 they said discourages the use of mechanically separated meat,
 the U.S. Agriculture Department said.

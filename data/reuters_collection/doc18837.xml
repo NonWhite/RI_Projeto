@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 13:09:09.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3982reute
-u f BC-FERRO-FOE>-SEES-STRO   06-18 0106</field>
-	<field name = "TITLE">FERRO FOE> SEES STRONG 2ND QTR, SIX MONTHS</field>
+	<field name = "titulo">FERRO FOE> SEES STRONG 2ND QTR, SIX MONTHS</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Ferro Corp said it expects to report
+	<field name = "content">Ferro Corp said it expects to report
 second quarter earnings of about seven mln dlrs, or about 1.02
 dlrs a share, on sales of about 220.0 mln dlrs
     In the year ago quarter, the maker of industrial specialty

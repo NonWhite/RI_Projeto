@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 10:19:08.67</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F RM
-f0137reute
-r f BC-merrill-lynch-canada   03-12 0103</field>
-	<field name = "TITLE">MERRILL LYNCHMER> CANADA MULLS BUYING BROKER</field>
+	<field name = "titulo">MERRILL LYNCHMER> CANADA MULLS BUYING BROKER</field>
 	<field name = "DATELINE">TORONTO, March 12 -</field>
-	<field name = "BODY">Merrill Lynch Canada Inc, wholly owned
+	<field name = "content">Merrill Lynch Canada Inc, wholly owned
 by Merrill Lynch and Co, is considering acquiring another
 Canadian securities company as the result of federal and
 provincial government moves to lift investment dealer ownership

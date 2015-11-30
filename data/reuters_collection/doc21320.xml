@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 11:26:43.58</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C T 
-f1572reute
-u f BC-UK-SUGAR-FACTORY-CLOS   10-19 0111</field>
-	<field name = "TITLE">UK SUGAR FACTORY CLOSES DUE TO SHORTAGE OF BEET</field>
+	<field name = "titulo">UK SUGAR FACTORY CLOSES DUE TO SHORTAGE OF BEET</field>
 	<field name = "DATELINE">LONDON, Oct 19 -</field>
-	<field name = "BODY">British Sugar Plc was forced to shut its
+	<field name = "content">British Sugar Plc was forced to shut its
 Ipswich sugar factory on Sunday afternoon due to an acute
 shortage of beet supplies, a spokesman said, responding to a
 Reuter inquiry

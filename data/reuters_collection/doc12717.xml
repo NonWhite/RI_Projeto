@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 17:00:36.21</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "ORGS">fao</field>
-	<field name = "UNKNOWN">C
-f2622reute
-d f AM-BRAZIL-UNICEF   04-02 0137</field>
-	<field name = "TITLE">500 MLN STARVING IN THE WORLD, SAYS FAO DIRECTOR</field>
+	<field name = "titulo">500 MLN STARVING IN THE WORLD, SAYS FAO DIRECTOR</field>
 	<field name = "DATELINE">RECIFE, Brazil, April 2 -</field>
-	<field name = "BODY">An estimated 500 million people,
+	<field name = "content">An estimated 500 million people,
 or about 10 pct of the world's population, are living in
 critical condition, starving, Food and Agricultural
 Organisation (FAO) director Edouard Saouma said.

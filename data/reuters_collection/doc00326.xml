@@ -12,13 +12,9 @@
 	<field name = "TOPICS">rapeseed</field>
 	<field name = "TOPICS">rape-meal</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G
-f0006
-reute
-u f BC-DUTCH-ANIMAL-FEED-USA   03-02 0092</field>
-	<field name = "TITLE">DUTCH ANIMAL FEED USAGE DOWN IN FIRST HALF SEASON</field>
+	<field name = "titulo">DUTCH ANIMAL FEED USAGE DOWN IN FIRST HALF SEASON</field>
 	<field name = "DATELINE">ROTTERDAM, March 2 -</field>
-	<field name = "BODY">Dutch animal feed usage in the first
+	<field name = "content">Dutch animal feed usage in the first
 half of the current season from July through December 1986 fell
 7.6 pct to 6.5 mln tonnes from 7.1 mln in the same period of
 1985, figures in the latest newsletter from the co-operative

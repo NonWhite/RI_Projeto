@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 17:59:54.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2608reute
-d f BC-U.S.-TREASURY-TO-MODI   03-23 0102</field>
-	<field name = "TITLE">U.S. TREASURY TO MODIFY TRANSFERS PROGRAM</field>
+	<field name = "titulo">U.S. TREASURY TO MODIFY TRANSFERS PROGRAM</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">The Treasury said it was modifying
+	<field name = "content">The Treasury said it was modifying
 its computerized Coupons Under Book-Entry Safekeeping (CUBES)
 program by permitting on-line transfers of funds against
 payment by deposit-taking institutions.

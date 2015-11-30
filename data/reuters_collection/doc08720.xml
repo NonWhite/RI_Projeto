@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 09:16:39.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0855reute
-u f BC-MONOCLONAL-ANTIBODIES   03-24 0089</field>
-	<field name = "TITLE">MONOCLONAL ANTIBODIES MABS> ORDER BARS SALES</field>
+	<field name = "titulo">MONOCLONAL ANTIBODIES MABS> ORDER BARS SALES</field>
 	<field name = "DATELINE">MOUNTAIN VIEW, Calif., March 24 -</field>
-	<field name = "BODY">Monoclonal Antibodies Inc
+	<field name = "content">Monoclonal Antibodies Inc
 said a a district court has decided to grant a motion by
 Hybritech Inc, a unit of Eli Lilly and Co LLY>, preventing the
 sale of certain Monoclonal products.

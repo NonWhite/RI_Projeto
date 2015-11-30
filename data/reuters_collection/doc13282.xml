@@ -3,12 +3,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">F
-f0334reute
-b f BC-REUTERS-SEEKS-SHARE-L   04-06 0106</field>
-	<field name = "TITLE">REUTERS SEEKS SHARE LISTING IN TOKYO</field>
+	<field name = "titulo">REUTERS SEEKS SHARE LISTING IN TOKYO</field>
 	<field name = "DATELINE">LONDON, April 6 -</field>
-	<field name = "BODY">Reuters Holdings Plc RTRS.L> said it
+	<field name = "content">Reuters Holdings Plc RTRS.L> said it
 plans to seek a listing for its shares on the Tokyo Stock
 Exchange later this year, subject to shareholder approval.
     The Tokyo listing will create a 24-hour market for the

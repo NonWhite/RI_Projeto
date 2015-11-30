@@ -4,12 +4,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM A
-f2007reute
-r f BC-FED'S-HELLER-URGES-JA   03-24 0072</field>
-	<field name = "TITLE">FED'S HELLER URGES JAPANESE TO BUY U.S. GOODS</field>
+	<field name = "titulo">FED'S HELLER URGES JAPANESE TO BUY U.S. GOODS</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">A member of the Federal Reserve
+	<field name = "content">A member of the Federal Reserve
 Board, Robert Heller, said he wanted to see stronger Japanese
 demand for American goods.
     "What I was advocating here was more Japanese purchases of

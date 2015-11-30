@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G T
-f0117reute
-d f BC-MGE-PLANNING-APRIL-6   03-06 0131</field>
-	<field name = "TITLE">MGE PLANNING APRIL 6 START UP OF HFCS CONTRACT</field>
+	<field name = "titulo">MGE PLANNING APRIL 6 START UP OF HFCS CONTRACT</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 6 -</field>
-	<field name = "BODY">The Minneapolis Grain Exchange (MGE)
+	<field name = "content">The Minneapolis Grain Exchange (MGE)
 will start trading futures contracts in high fructose corn
 syrup on April 6 if the Commodity Futures Trading Commission
 (CFTC) approves the contract as expected next week.

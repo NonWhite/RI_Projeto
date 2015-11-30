@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:49:48.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3899reute
-u f BC-STATE-STREET-BOSTON-C   06-18 0022</field>
-	<field name = "TITLE">STATE STREET BOSTON CORP STBK.O> LIFTS DIV</field>
+	<field name = "titulo">STATE STREET BOSTON CORP STBK.O> LIFTS DIV</field>
 	<field name = "DATELINE">BOSTON, June 18 -</field>
-	<field name = "BODY">Qtly div 11 cts vs 10 cts prior
+	<field name = "content">Qtly div 11 cts vs 10 cts prior
     Pay July 15
     Record July 1
  Reuter</field>

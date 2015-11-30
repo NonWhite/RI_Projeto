@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 12:14:39.49</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T
-f0806reute
-d f BC-EC-FARMERS'-INCOMES-R   03-09 0095</field>
-	<field name = "TITLE">EC FARMERS' INCOMES ROSE SLIGHTLY IN 1986</field>
+	<field name = "titulo">EC FARMERS' INCOMES ROSE SLIGHTLY IN 1986</field>
 	<field name = "DATELINE">LUXEMBOURG, March 9 -</field>
-	<field name = "BODY">Disposable income available to people
+	<field name = "content">Disposable income available to people
 employed in European Community agriculture rose 0.9 pct in 1986
 after an 8.8 pct fall the previous year, the EC statistics
 agency Eurostat said in a report.

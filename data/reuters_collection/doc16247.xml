@@ -4,12 +4,9 @@
 	<field name = "TOPICS">silver</field>
 	<field name = "TOPICS">platinum</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">M C
-f0891reute
-u f BC-MORE-BRITISH-GOLD-ART   04-13 0105</field>
-	<field name = "TITLE">MORE BRITISH GOLD ARTICLES HALLMARKED</field>
+	<field name = "titulo">MORE BRITISH GOLD ARTICLES HALLMARKED</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">The number of British gold articles
+	<field name = "content">The number of British gold articles
 hallmarked during the first quarter of this year rose by more
 than 11 pct on the corresponding period last year, figures
 released by the Assay Offices of Great Britain show.

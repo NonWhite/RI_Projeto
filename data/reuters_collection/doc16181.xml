@@ -3,12 +3,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">RM
-f0526reute
-u f BC-JAPAN-DENIES-REPORT-I   04-13 0112</field>
-	<field name = "TITLE">JAPAN DENIES REPORT IT MAY END CHIP PACT WITH U.S.</field>
+	<field name = "titulo">JAPAN DENIES REPORT IT MAY END CHIP PACT WITH U.S.</field>
 	<field name = "DATELINE">TOKYO, April 13 -</field>
-	<field name = "BODY">A Ministry of International Trade and
+	<field name = "content">A Ministry of International Trade and
 Industry (MITI) official denied a local news agency report that
 Japan will end its seven-month-old semiconductor agreement with
 the U.S. If Washington imposes tariffs on 300 mln dlrs worth of

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 07:43:05.59</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">RM
-f0669reute
-r f BC-YUGOSLAVIA-SHARPLY-IN   03-30 0094</field>
-	<field name = "TITLE">YUGOSLAVIA SHARPLY INCREASES SAVINGS RATES</field>
+	<field name = "titulo">YUGOSLAVIA SHARPLY INCREASES SAVINGS RATES</field>
 	<field name = "DATELINE">BELGRADE, March 30 -</field>
-	<field name = "BODY">Yugoslav banks said they will raise
+	<field name = "content">Yugoslav banks said they will raise
 interest rates sharply on savings accounts from April 1.
     The Association of Yugoslav Banks said interest rates on
 six month deposit accounts will be raised to 81 pct from 51

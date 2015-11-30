@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 15:27:12.98</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f2245reute
-r f BC-PARIBAS-TO-SEEK-SHARE   03-19 0080</field>
-	<field name = "TITLE">PARIBAS TO SEEK SHARE, BOND ISSUES</field>
+	<field name = "titulo">PARIBAS TO SEEK SHARE, BOND ISSUES</field>
 	<field name = "DATELINE">PARIS, March 19 -</field>
-	<field name = "BODY">Newly privatised financial services group
+	<field name = "content">Newly privatised financial services group
 Cie Financiere de Paribas PARI.PA> said it will call an
 extraordinary general meeting of shareholders for the
 authorisation to issue various share and bond issues over

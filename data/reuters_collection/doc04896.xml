@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 12:50:22.68</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f0735reute
-r f BC-USSR-LIVESTOCK-MAY-BE   03-13 0141</field>
-	<field name = "TITLE">USSR LIVESTOCK MAY BE IN GOOD SHAPE-U.S. REPORT</field>
+	<field name = "titulo">USSR LIVESTOCK MAY BE IN GOOD SHAPE-U.S. REPORT</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">Soviet livestock herds are possibly
+	<field name = "content">Soviet livestock herds are possibly
 in better shape than expected after the recent harsh winter,
 the U.S. agriculture counselor in Moscow said.
     Livestock procurement levels for January and February were

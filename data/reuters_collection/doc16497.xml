@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 13:03:40.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1901reute
-h f BC-APOLLO-COMPUTER-APCI   04-13 0050</field>
-	<field name = "TITLE">APOLLO COMPUTER APCI.O> IN PACT WITH INFERENCE</field>
+	<field name = "titulo">APOLLO COMPUTER APCI.O> IN PACT WITH INFERENCE</field>
 	<field name = "DATELINE">CHELMSFORD, Mass., April 13 -</field>
-	<field name = "BODY">Apollo Computer Inc said it
+	<field name = "content">Apollo Computer Inc said it
 has entered into a joint marketing agreement with Inference
 Corp> whereby Apollo will join with Inference to market
 Inference's Automated Reasoning Tool software on Apollo

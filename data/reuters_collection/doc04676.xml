@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 05:18:46.79</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0289reute
-u f BC-NORDBANKEN-POSTPONES   03-13 0121</field>
-	<field name = "TITLE">NORDBANKEN POSTPONES PLANNED AUCTION OF FERMENTA SHARES</field>
+	<field name = "titulo">NORDBANKEN POSTPONES PLANNED AUCTION OF FERMENTA SHARES</field>
 	<field name = "DATELINE">STOCKHOLM, March 13 -</field>
-	<field name = "BODY">Sweden's Nordbanken banking group
+	<field name = "content">Sweden's Nordbanken banking group
 
 said it would postpone indefinitely its planned auction on
 Monday of 4.2 mln B free shares deposited as loan collateral by

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">F A Y RM 
-f2956reute
-r f AM-GULF-AMERICAN-3RDLD URGENT  10-19 0111</field>
-	<field name = "TITLE">U.S. FORCES DESTROYED OIL RIG, RAIDED ANOTHER</field>
+	<field name = "titulo">U.S. FORCES DESTROYED OIL RIG, RAIDED ANOTHER</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">U.S. warships destroyed an Iranian oil
+	<field name = "content">U.S. warships destroyed an Iranian oil
 platform in the Gulf on Monday and the Navy also raided a
 second oil rig in retaliation for Friday's Iranian missile
 attack on a U.S. flag tanker, the Pentagon said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 12:57:26.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2099reute
-r f BC-STANDARD-PRODUCTS-SP   10-19 0094</field>
-	<field name = "TITLE">STANDARD PRODUCTS SPD> INCREASES COMMON</field>
+	<field name = "titulo">STANDARD PRODUCTS SPD> INCREASES COMMON</field>
 	<field name = "DATELINE">CLEVELAND, Oct 19 -</field>
-	<field name = "BODY">Standard Products Inc said shareholders
+	<field name = "content">Standard Products Inc said shareholders
 at its annual meeting approved an increase in the company's
 authorized common to 25 mln shares from 15 mln shares.
     Standard also said shareholders approved an increase in the

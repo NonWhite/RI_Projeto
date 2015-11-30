@@ -4,12 +4,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM C M
-f0514reute
-u f BC-BELGIAN-ECU-COIN-ISSU   03-05 0105</field>
-	<field name = "TITLE">BELGIAN ECU COIN ISSUE PRICED, SALE DATE SET</field>
+	<field name = "titulo">BELGIAN ECU COIN ISSUE PRICED, SALE DATE SET</field>
 	<field name = "DATELINE">BRUSSELS, March 5 -</field>
-	<field name = "BODY">A limited Belgian issue of silver Ecu
+	<field name = "content">A limited Belgian issue of silver Ecu
 coins with a face value of five Ecus will go on sale from March
 23 at a price of 500 Belgian francs each, a Finance Ministry
 spokesman said.

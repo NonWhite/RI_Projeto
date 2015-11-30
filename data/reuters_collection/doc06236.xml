@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 15:38:05.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6405reute
-r f BC-CALUMET-CALI>-GETS-4   03-17 0095</field>
-	<field name = "TITLE">CALUMET CALI> GETS 4.2 MLN DLRS FROM WARRANTS</field>
+	<field name = "titulo">CALUMET CALI> GETS 4.2 MLN DLRS FROM WARRANTS</field>
 	<field name = "DATELINE">CHICAGO, March 17 -</field>
-	<field name = "BODY">Calumet Industries Inc said it raised
+	<field name = "content">Calumet Industries Inc said it raised
 4.2 mln dlrs from holders exercising company warrants. The
 program expired February 27.
     It issued 420,000 shares to holders who had exercised

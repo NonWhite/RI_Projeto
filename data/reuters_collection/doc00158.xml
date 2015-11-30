@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 17:42:11.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0223
-reute
-r f BC-ARMY-TO-RENEGOTIATE-I   02-26 0095</field>
-	<field name = "TITLE">ARMY TO RENEGOTIATE ITT ITT> RADIO CONTRACT</field>
+	<field name = "titulo">ARMY TO RENEGOTIATE ITT ITT> RADIO CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">The Army said it will renegotiate a
+	<field name = "content">The Army said it will renegotiate a
 400 mln dlr contract with ITT Corp for jam-proof field radios
 after recent tests indicated the radios will work properly.
     Full production of 44,600 of the Single Channel Ground and

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 09:23:06.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">M
-f0854reute
-d f PM-UAW   04-13 0133</field>
-	<field name = "TITLE">UAW CHEERS CALL FOR "WAR" ON GM AND FORD</field>
+	<field name = "titulo">UAW CHEERS CALL FOR "WAR" ON GM AND FORD</field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">Leaders of the nation's unionized
+	<field name = "content">Leaders of the nation's unionized
 automobile workers have signalled their intent for a major work
 stoppage later this year if General Motors (GM) and Ford Motor
 Co., fail to satisfy demands for job security, pay raises and

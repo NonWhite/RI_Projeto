@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 18:07:18.31</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">F A RM
-f0283
-reute
-b f BC-U.S.-TREASURY-PART-OF   02-26 0088</field>
-	<field name = "TITLE">U.S. TREASURY PART OF ARGENTINE BRIDGE LOAN</field>
+	<field name = "titulo">U.S. TREASURY PART OF ARGENTINE BRIDGE LOAN</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">The U.S. Treasury said it was willing
+	<field name = "content">The U.S. Treasury said it was willing
 to participate with several other industrial countries in
 providing a 500 mln-dlr short-term bridge loan to Argentina.
     The Treasury announcecement did not name the other

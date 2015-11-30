@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-JUN-1987 06:13:18.90</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0428reute
-b f BC-OLYMPIC-CO-ISSUES-50   06-16 0070</field>
-	<field name = "TITLE">OLYMPIC CO ISSUES 50 MLN SWISS FRANC WARRANT NOTES</field>
+	<field name = "titulo">OLYMPIC CO ISSUES 50 MLN SWISS FRANC WARRANT NOTES</field>
 	<field name = "DATELINE">ZURICH, June 16 -</field>
-	<field name = "BODY">Olympic Co Ltd of Tokyo is issuing 50 mln
+	<field name = "content">Olympic Co Ltd of Tokyo is issuing 50 mln
 Swiss francs of five year notes with an indicated one pct
 coupon, lead manager Morgan Stanley said.
     The issue is guaranteed by Mitsubishi Trust and Banking

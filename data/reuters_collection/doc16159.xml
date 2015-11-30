@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 06:13:02.40</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0383reute
-b f BC-VICTORIA-STATE-BANK-I   04-13 0090</field>
-	<field name = "TITLE">VICTORIA STATE BANK ISSUES 50 MLN AUS DLR EUROBOND</field>
+	<field name = "titulo">VICTORIA STATE BANK ISSUES 50 MLN AUS DLR EUROBOND</field>
 	<field name = "DATELINE">FRANKFURT, April 13 -</field>
-	<field name = "BODY">The State Bank of Victoria is raising
+	<field name = "content">The State Bank of Victoria is raising
 50 mln Australian dlrs through a three-year bullet eurobond at
 14-1/2 pct and priced at 101-3/8, lead and sole manager
 Commerzbank AG said.

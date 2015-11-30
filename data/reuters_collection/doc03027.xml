@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 09:01:34.94</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f0951reute
-u f BC-BRAZIL-SEAMEN-CONTINU   03-09 0114</field>
-	<field name = "TITLE">BRAZIL SEAMEN CONTINUE STRIKE DESPITE COURT</field>
+	<field name = "titulo">BRAZIL SEAMEN CONTINUE STRIKE DESPITE COURT</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 9 -</field>
-	<field name = "BODY">Hundreds of marines were on alert
+	<field name = "content">Hundreds of marines were on alert
 at 11 key Brazilian ports after 40,000 seamen decided to remain
 on indefinite strike, even after the Higher Labour Court
 Saturday ruled it illegal, union leaders said.

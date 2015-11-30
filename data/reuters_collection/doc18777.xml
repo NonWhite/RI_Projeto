@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 12:05:07.83</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3693reute
-r f BC-SOUTHMARK-SM>-ACQUIR   06-18 0112</field>
-	<field name = "TITLE">SOUTHMARK SM> ACQUIRES BERG VENTURES</field>
+	<field name = "titulo">SOUTHMARK SM> ACQUIRES BERG VENTURES</field>
 	<field name = "DATELINE">DALLAS, June 18 -</field>
-	<field name = "BODY">Southmark Corp said it acquired Berg
+	<field name = "content">Southmark Corp said it acquired Berg
 Ventures Inc, which manages 84 apartment complexes with over
 18,000 units and 12 shopping centers stretching from New Jersey
 to Florida that are controlled or affiliated with Berg Harmon

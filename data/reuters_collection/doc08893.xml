@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 13:13:31.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1868reute
-d f BC-RIBI-RIBI>-SIGNS-PAC   03-24 0107</field>
-	<field name = "TITLE">RIBI RIBI> SIGNS PACT WITH TRAVENOL BAX></field>
+	<field name = "titulo">RIBI RIBI> SIGNS PACT WITH TRAVENOL BAX></field>
 	<field name = "DATELINE">HAMILTON, Montana, March 24 -</field>
-	<field name = "BODY">Ribi ImmunoChem Research Inc
+	<field name = "content">Ribi ImmunoChem Research Inc
 said Baxter Travenol Laboratories Inc's Travenol Laboratories
 Inc unit will evaluate whether one of its products can be used
 to prevent infectious disease.

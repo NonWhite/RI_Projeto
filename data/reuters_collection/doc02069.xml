@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:26:01.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0286reute
-u f BC-MERCANTILE-STORES-MS   03-05 0046</field>
-	<field name = "TITLE">MERCANTILE STORES MST> FEBRUARY SALES UP 6.9 PCT</field>
+	<field name = "titulo">MERCANTILE STORES MST> FEBRUARY SALES UP 6.9 PCT</field>
 	<field name = "DATELINE">WILMINGTON, Del., March 5 -</field>
-	<field name = "BODY">Mercantile Stores Co Inc said
+	<field name = "content">Mercantile Stores Co Inc said
 its February sales totaled 113.2 mln dlrs, up 6.9 pct 105.9 mln
 dlrs in the year earlier month.
     The company said its comparable store sales rose 4.3 pct

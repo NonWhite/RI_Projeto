@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 09:39:30.30</field>
 	<field name = "TOPICS">rubber</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">T
-f0080reute
-r f BC-MALAYSIA-SAYS-RUBBER   03-09 0138</field>
-	<field name = "TITLE">MALAYSIA SAYS RUBBER PACT DEPENDS ON CONSUMERS</field>
+	<field name = "titulo">MALAYSIA SAYS RUBBER PACT DEPENDS ON CONSUMERS</field>
 	<field name = "DATELINE">KUALA LUMPUR, March 9 -</field>
-	<field name = "BODY">Malaysia said the success of talks
+	<field name = "content">Malaysia said the success of talks
 opening today on a new International Natural Rubber Agreement
 (INRA) depends on how flexible consumer countries are.
     Rubber producer and consumer countries meet for 12 days in

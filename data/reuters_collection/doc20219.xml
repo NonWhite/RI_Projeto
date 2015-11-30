@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 10:16:35.92</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1195reute
-r f BC-WEIRTON-STEEL-CORP-3R   10-20 0065</field>
-	<field name = "TITLE">WEIRTON STEEL CORP 3RD QTR</field>
+	<field name = "titulo">WEIRTON STEEL CORP 3RD QTR</field>
 	<field name = "DATELINE">WEIRTON, W.Va., Oct 20 -</field>
-	<field name = "BODY">Net 33.6 mln vs 11.1 mln
+	<field name = "content">Net 33.6 mln vs 11.1 mln
     Revs 319.6 mln vs 295.1 mln
     Nine mths
     Net 97.3 mln vs 30.0 mln

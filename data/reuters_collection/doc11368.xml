@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 10:48:36.69</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1351reute
-u f BC-BORG-WARNER-BOR>-EXA   03-31 0044</field>
-	<field name = "TITLE">BORG-WARNER BOR> EXAMINING GAF GAF> PROPOSAL</field>
+	<field name = "titulo">BORG-WARNER BOR> EXAMINING GAF GAF> PROPOSAL</field>
 	<field name = "DATELINE">CHICAGO, March 31 -</field>
-	<field name = "BODY">Borg-Warner Corp in a statement said it
+	<field name = "content">Borg-Warner Corp in a statement said it
 has received GAF Corp's 46 dlrs a share acquisition proposal
 and will have no comment until its board of directors has had a
 chance to examine it thoroughly.

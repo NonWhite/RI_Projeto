@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 05:20:36.90</field>
 	<field name = "PLACES">pakistan</field>
 	<field name = "PLACES">afghanistan</field>
-	<field name = "UNKNOWN">RM
-f0314reute
-u f BC-PAKISTAN-SAYS-AFGHAN   03-25 0080</field>
-	<field name = "TITLE">PAKISTAN SAYS AFGHAN AIR RAID KILLED ALMOST 150</field>
+	<field name = "titulo">PAKISTAN SAYS AFGHAN AIR RAID KILLED ALMOST 150</field>
 	<field name = "DATELINE">ISLAMABAD, March 25 -</field>
-	<field name = "BODY">Almost 150 people were killed when
+	<field name = "content">Almost 150 people were killed when
 Afghan aircraft raided a number of Pakistani villages on
 Monday, Pakistani officials said.
     The toll in Teri Mangal in Kurram Agency rose to 81, about

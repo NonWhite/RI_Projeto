@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 15:46:15.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2363reute
-r f BC-ATT-T>-LAUNCHES-NEW   03-24 0104</field>
-	<field name = "TITLE">ATT T> LAUNCHES NEW SOFTWARE PACKAGES</field>
+	<field name = "titulo">ATT T> LAUNCHES NEW SOFTWARE PACKAGES</field>
 	<field name = "DATELINE">PHILADELPHIA, March 24 -</field>
-	<field name = "BODY">American Telephone and Telegraph
+	<field name = "content">American Telephone and Telegraph
 Co said it is introducing four new software packages for
 graphic designers and those who produce slides who need
 advanced but inexpensive software.

@@ -8,13 +8,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">johnston</field>
-	<field name = "UNKNOWN">RM
-f0453reute
-u f BC-ECONOMIC-SPOTLIGHT--   04-08 0110</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - AUSTRALIAN MARKETS BOOMING</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - AUSTRALIAN MARKETS BOOMING</field>
 	<field name = "AUTHOR">By Peter Bale, Reuters</field>
 	<field name = "DATELINE">SYDNEY, April 8 -</field>
-	<field name = "BODY">Australian markets are booming as foreign
+	<field name = "content">Australian markets are booming as foreign
 fund managers redirect capital away from the United States and
 other traditional markets, analysts said.
     High short-term interest rates, a bullish stock market and

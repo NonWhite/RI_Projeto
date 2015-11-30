@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 13:09:28.15</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1861reute
-u f BC-ALLIED-SIGNAL-ALD>-C   06-29 0092</field>
-	<field name = "TITLE">ALLIED-SIGNAL ALD> COMPLETES UNIT SALES</field>
+	<field name = "titulo">ALLIED-SIGNAL ALD> COMPLETES UNIT SALES</field>
 	<field name = "DATELINE">MORRIS TOWNSHIP, N.J., June 29 -</field>
-	<field name = "BODY">Allied-Signal Inc said it
+	<field name = "content">Allied-Signal Inc said it
 completed the sale seven businesses in its electronics and
 instrumentation sector for 1.8 billion dlrs in cash and in debt
 assumed by the purchasers.

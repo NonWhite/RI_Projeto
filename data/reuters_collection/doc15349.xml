@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 17:33:34.41</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">Y
-f2692reute
-u f BC-pdvsa-signs-with-agip   04-08 0105</field>
-	<field name = "TITLE">PDVSA SIGNS WITH AGIP, ARCO FOR COAL PROJECT</field>
+	<field name = "titulo">PDVSA SIGNS WITH AGIP, ARCO FOR COAL PROJECT</field>
 	<field name = "DATELINE">CARACAS, April 8 -</field>
-	<field name = "BODY">Petroleos de Venezuela, S.A. signed a
+	<field name = "content">Petroleos de Venezuela, S.A. signed a
 letter of intent with Agip Carbone and Arco Coal Co, a unit of
 Atlantic Richfield Co ARC> to exploit the coal deposits at
 Guasare in western Zulia state, PDVSA officials said.

@@ -5,12 +5,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f0533reute
-b f BC-/USDA-RAISES-SOVIET-G   03-09 0099</field>
-	<field name = "TITLE">USDA RAISES SOVIET GRAIN IMPORT ESTIMATE</field>
+	<field name = "titulo">USDA RAISES SOVIET GRAIN IMPORT ESTIMATE</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 increased its estimate of Soviet 1986/87 grain imports to 26
 mln tonnes from last month's projection of 23 mln tonnes.
     In its monthly USSR Grain Situation and Outlook, USDA said

@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 16:33:16.21</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6556reute
-r f BC-GRACE-GRA>-COMPLETES   03-17 0093</field>
-	<field name = "TITLE">GRACE GRA> COMPLETES RETAIL UNIT SALE</field>
+	<field name = "titulo">GRACE GRA> COMPLETES RETAIL UNIT SALE</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">W.R. Grace and Co said it completed
+	<field name = "content">W.R. Grace and Co said it completed
 the sale of its Bermans The Leather Experts retail business to
 a new company in a management led buyout.
     Grace received 99.3 mln dlrs cash and will record a pretax

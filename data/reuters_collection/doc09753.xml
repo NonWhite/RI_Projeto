@@ -4,13 +4,10 @@
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">L
-f0345reute
-u f BC-JAPAN-BEEF-PRICE-SUPP   03-26 0111</field>
-	<field name = "TITLE">JAPAN BEEF PRICE SUPPORT CUT WILL NOT RAISE DEMAND</field>
+	<field name = "titulo">JAPAN BEEF PRICE SUPPORT CUT WILL NOT RAISE DEMAND</field>
 	<field name = "AUTHOR">By Fumiko Fujisaki, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 26 -</field>
-	<field name = "BODY">Japan's plan to cut beef intervention
+	<field name = "content">Japan's plan to cut beef intervention
 prices for the fiscal year starting April 1 will not boost
 demand because of strict supply controls and a complex
 distribution system, Japanese and U.S. Industry sources said.

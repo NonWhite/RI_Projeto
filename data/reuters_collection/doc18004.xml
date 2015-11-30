@@ -5,12 +5,9 @@
 	<field name = "PEOPLE">volcker</field>
 	<field name = "PEOPLE">greenspan</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">V RM
-f1037reute
-b f BC-REAGAN-FED   06-02 0043</field>
-	<field name = "TITLE">REAGAN SAYS VOLCKER WILL NOT SERVE NEW TERM</field>
+	<field name = "titulo">REAGAN SAYS VOLCKER WILL NOT SERVE NEW TERM</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">President Reagan said Paul Volcker has
+	<field name = "content">President Reagan said Paul Volcker has
 declined to serve another term as chairman of the Federal
 Reserve Board, the U.S. central bank. Reagan
 nominated economist Alan Greenspan in his place.

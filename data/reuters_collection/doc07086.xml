@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">jordan</field>
 	<field name = "PLACES">sudan</field>
-	<field name = "UNKNOWN">C G
-f0852reute
-r f BC-JORDAN,-SUDAN-SIGN-10   03-19 0061</field>
-	<field name = "TITLE">JORDAN, SUDAN SIGN 100 MLN DLR BARTER TRADE PACT</field>
+	<field name = "titulo">JORDAN, SUDAN SIGN 100 MLN DLR BARTER TRADE PACT</field>
 	<field name = "DATELINE">AMMAN, March 19 -</field>
-	<field name = "BODY">Jordan and Sudan signed a barter trade
+	<field name = "content">Jordan and Sudan signed a barter trade
 agreement under which they will exchange 100 mln dlrs' worth of
 goods a year, Sudanese officials said.
     They said Sudan will export corn, sesame, peanuts, spices

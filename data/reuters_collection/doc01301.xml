@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:52:03.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E
-f0813reute
-r f BC-MUSTO-MUSMF>-NEGOTIA   03-03 0070</field>
-	<field name = "TITLE">MUSTO MUSMF> NEGOTIATES PRIVATE PLACEMENT</field>
+	<field name = "titulo">MUSTO MUSMF> NEGOTIATES PRIVATE PLACEMENT</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, March 3 -</field>
-	<field name = "BODY">Musto Explorations
+	<field name = "content">Musto Explorations
 Ltd said it negotiated the private placement of up to 300,000
 shares at 1.65 dlrs each.
     It said the investors would receive non-transferable share

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 13:01:12.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f0822reute
-r f BC-EMERSON-EMR>-TO-ISSU   03-12 0078</field>
-	<field name = "TITLE">EMERSON EMR> TO ISSUE NEW ZEALAND NOTES</field>
+	<field name = "titulo">EMERSON EMR> TO ISSUE NEW ZEALAND NOTES</field>
 	<field name = "DATELINE">ST. LOUIS, March 12 -</field>
-	<field name = "BODY">Emerson Electric Co said it will
+	<field name = "content">Emerson Electric Co said it will
 issue about 56 mln dlrs (U.S.) 18.55 pct notes due 1989.
     It said interest and principal are payable in either New
 Zealand or U.S. dollars.

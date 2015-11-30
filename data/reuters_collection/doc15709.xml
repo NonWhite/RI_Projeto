@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">GQ
-f1611reute
-r f BC-n'orleans-grain-ships   04-09 0065</field>
-	<field name = "TITLE">GRAIN SHIPS WAITING AT NEW ORLEANS</field>
+	<field name = "titulo">GRAIN SHIPS WAITING AT NEW ORLEANS</field>
 	<field name = "DATELINE">New Orleans, April 9 -</field>
-	<field name = "BODY">Ten grain ships were loading and 14
+	<field name = "content">Ten grain ships were loading and 14
 were waiting to load at New Orleans elevators, trade sources
 said.
  ELEVATOR                     LOADING  WAITING

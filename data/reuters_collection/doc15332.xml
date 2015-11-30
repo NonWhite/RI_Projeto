@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 17:02:59.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2602reute
-d f BC-ENGINEERED-SYSTEMS-E   04-08 0102</field>
-	<field name = "TITLE">ENGINEERED SYSTEMS ESD> UNIT GETS LOAN NOTICE</field>
+	<field name = "titulo">ENGINEERED SYSTEMS ESD> UNIT GETS LOAN NOTICE</field>
 	<field name = "DATELINE">SAN JOSE, Calif, April 8 -</field>
-	<field name = "BODY">Engineered Systems and
+	<field name = "content">Engineered Systems and
 Development Corp said Wells Fargo and Co's WFC> Wells Fargo
 Bank has demanded immediate payment of a 1,750,000 dlr loan
 made to Engineered's Seaborn Development Inc unit under a

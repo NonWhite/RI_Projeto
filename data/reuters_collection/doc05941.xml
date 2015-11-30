@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 10:03:50.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f5022reute
-r f BC-HECHINGER-HECHA>-DEB   03-17 0104</field>
-	<field name = "TITLE">HECHINGER HECHA> DEBT UPGRADED BY MOODY'S</field>
+	<field name = "titulo">HECHINGER HECHA> DEBT UPGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 raised to Baa-3 from Ba-1 about 86 mln dlrs of subordinated
 debt of Hechinger Co.
     The rating agency cited Hechinger's consistently increasing

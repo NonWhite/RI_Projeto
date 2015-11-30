@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 19:00:27.86</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">C G L M T
-f2679reute
-r f BC-CAR-BOMB-EXPLODES-AT   03-23 0059</field>
-	<field name = "TITLE">CAR BOMB EXPLODES AT BRITISH BASE IN W. GERMANY</field>
+	<field name = "titulo">CAR BOMB EXPLODES AT BRITISH BASE IN W. GERMANY</field>
 	<field name = "DATELINE">BONN, March 23 -</field>
-	<field name = "BODY">A big car bomb exploded at the
+	<field name = "content">A big car bomb exploded at the
 headquarters of the British Rhine army near Moenchengladbach in
 West Germany tonight, police said.
     A police spokesman said it was not immediately known if

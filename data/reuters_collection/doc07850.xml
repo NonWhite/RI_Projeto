@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 13:17:14.33</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1831reute
-s f BC-SOUTHEAST-BANKING-COR   03-20 0024</field>
-	<field name = "TITLE">SOUTHEAST BANKING CORP STB> DECLARES QTLY DIV</field>
+	<field name = "titulo">SOUTHEAST BANKING CORP STB> DECLARES QTLY DIV</field>
 	<field name = "DATELINE">MIAMI, Fla., March 20 -</field>
-	<field name = "BODY">Qtly div 22 cts vs 22 cts prior
+	<field name = "content">Qtly div 22 cts vs 22 cts prior
     Pay April 10
     Record March 30
  Reuter</field>

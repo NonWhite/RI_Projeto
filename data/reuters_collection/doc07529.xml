@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 21:36:32.84</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">RM
-f2836reute
-u f BC-BELGRADE-UNIONS-ATTAC   03-19 0111</field>
-	<field name = "TITLE">BELGRADE UNIONS ATTACK YUGOSLAV PAY FREEZE</field>
+	<field name = "titulo">BELGRADE UNIONS ATTACK YUGOSLAV PAY FREEZE</field>
 	<field name = "DATELINE">BELGRADE, March 20 -</field>
-	<field name = "BODY">Belgrade trade union leaders have
+	<field name = "content">Belgrade trade union leaders have
 joined attacks on a controversial wage freeze in Yugoslavia and
 reported strikes spreading to the capital.
     Miodrag Lazarevic, president of the Belgrade trade unions

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM 
-f3350reute
-b f BC-/REAGAN-SEES-ROOM-FOR   10-20 0084</field>
-	<field name = "TITLE">REAGAN SEES ROOM FOR INTEREST RATE DECLINES</field>
+	<field name = "titulo">REAGAN SEES ROOM FOR INTEREST RATE DECLINES</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">President Reagan said he was pleased
+	<field name = "content">President Reagan said he was pleased
 with the actions of some banks to reduce their prime lending
 rates today and said he sees room for a further decline in
 interest rates.

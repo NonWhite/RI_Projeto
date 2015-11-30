@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 15:20:56.52</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2215reute
-r f BC-WASHINGTON-GAS-LIGHT   03-25 0023</field>
-	<field name = "TITLE">WASHINGTON GAS LIGHT CO WGL> HIKES PAYOUT</field>
+	<field name = "titulo">WASHINGTON GAS LIGHT CO WGL> HIKES PAYOUT</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">Qtly div 45 cts vs 44 cts prior
+	<field name = "content">Qtly div 45 cts vs 44 cts prior
     Pay May one
     Record April 10
  Reuter</field>

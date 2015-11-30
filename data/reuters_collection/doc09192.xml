@@ -4,12 +4,9 @@
 	<field name = "TOPICS">sun-oil</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">egypt</field>
-	<field name = "UNKNOWN">C G
-f0384reute
-b f BC-EGYPT-BUYS-46,000-TON   03-25 0077</field>
-	<field name = "TITLE">EGYPT BUYS 46,000 TONNES OF SUNFLOWERSEED OIL</field>
+	<field name = "titulo">EGYPT BUYS 46,000 TONNES OF SUNFLOWERSEED OIL</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">Egypt purchased 46,000 tonnes of
+	<field name = "content">Egypt purchased 46,000 tonnes of
 optional origin sunflowerseed oil at its import tender
 yesterday, all for May arrival, traders said.
     The business comprised 41,000 tonnes of crude sunflowerseed

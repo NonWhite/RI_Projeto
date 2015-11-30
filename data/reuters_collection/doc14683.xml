@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:02:10.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2504reute
-r f BC-CONRAIL-FILES-PETITIO   04-07 0085</field>
-	<field name = "TITLE">CONRAIL FILES PETITION AGAINST ERIE ERIE></field>
+	<field name = "titulo">CONRAIL FILES PETITION AGAINST ERIE ERIE></field>
 	<field name = "DATELINE">CLEVELAND, April 7 -</field>
-	<field name = "BODY">Erie Lackawanna Inc said Consolidated
+	<field name = "content">Erie Lackawanna Inc said Consolidated
 Rail Corp filed with the U.S. Supreme Court seeking review of a
 Court of Appeals opinion which held Erie as not being liable
 for damages allegedly resulting from operations prior to its

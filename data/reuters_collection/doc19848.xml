@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 15:12:08.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2268reute
-u f BC-ALLIS-CHALMERS-AH>-L   06-29 0094</field>
-	<field name = "TITLE">ALLIS-CHALMERS AH> LISTS MAIN CREDITORS</field>
+	<field name = "titulo">ALLIS-CHALMERS AH> LISTS MAIN CREDITORS</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Court documents filed with the U.S.
+	<field name = "content">Court documents filed with the U.S.
 bankruptcy court by attorneys for Allis-Chalmers Corp AH>
 listed Equitable Life Assurance Co as one of the largest
 creditors.

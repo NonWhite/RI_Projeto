@@ -4,13 +4,10 @@
 	<field name = "PLACES">south-africa</field>
 	<field name = "PEOPLE">du-plessis</field>
 	<field name = "PEOPLE">de-kock</field>
-	<field name = "UNKNOWN">A
-f1148reute
-d f BC-SOUTH-AFRICA-PROBLEMS   03-25 0102</field>
-	<field name = "TITLE">SOUTH AFRICA PROBLEMS REMAIN DESPITE DEBT PACT</field>
+	<field name = "titulo">SOUTH AFRICA PROBLEMS REMAIN DESPITE DEBT PACT</field>
 	<field name = "AUTHOR">By Robert Ricci, Reuters</field>
 	<field name = "DATELINE">JOHANNESBURG, March 25 -</field>
-	<field name = "BODY">South Africa's new foreign debt
+	<field name = "content">South Africa's new foreign debt
 agreement sparked a rally in local financial markets, but
 bankers and economists said the pact removes only one source of
 anxiety from a still depressed economy.

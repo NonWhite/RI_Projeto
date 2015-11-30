@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F 
-f3044reute
-u f BC-AMEX-SAYS-BEAR-STEARN   10-20 0100</field>
-	<field name = "TITLE">AMEX SAYS BEAR STEARNS BOUGHT SPECIALIST UNIT</field>
+	<field name = "titulo">AMEX SAYS BEAR STEARNS BOUGHT SPECIALIST UNIT</field>
 	<field name = "DATELINE">NEW YORK, Oct. 20 -</field>
-	<field name = "BODY">The American Stock Exchange said, as
+	<field name = "content">The American Stock Exchange said, as
 previously reported, that Bear Stearns and Co BSC> has
 purchased W. Damm, M. Frank and Co>, a specialist unit on the
 Amex trading floor.

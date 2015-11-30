@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 16:12:50.96</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0728reute
-r f BC-U.S.-SEMICONDUCTOR-PL   03-04 0094</field>
-	<field name = "TITLE">U.S. SEMICONDUCTOR PLAN RAISES ANTITRUST ISSUE</field>
+	<field name = "titulo">U.S. SEMICONDUCTOR PLAN RAISES ANTITRUST ISSUE</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">A plan by U.S. semiconductor firms to
+	<field name = "content">A plan by U.S. semiconductor firms to
 cooperate in a manufacturing facility to compete with firms in
 Japan could conflict with anti-monopoly law, the plan's backers
 said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 17:17:35.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2650reute
-u f BC-LTV-QLTV>-AND-STEELW   04-08 0080</field>
-	<field name = "TITLE">LTV QLTV> AND STEELWORKERS BEGIN NEGOTIATIONS</field>
+	<field name = "titulo">LTV QLTV> AND STEELWORKERS BEGIN NEGOTIATIONS</field>
 	<field name = "DATELINE">CLEVELAND, April 8 -</field>
-	<field name = "BODY">The negotiating committees for the
+	<field name = "content">The negotiating committees for the
 United Steelworkers of America and LTV Corp said they have
 begun intensive negotiations and have made a "firm commitment"
 to successfully conclude these negotiations by May one.

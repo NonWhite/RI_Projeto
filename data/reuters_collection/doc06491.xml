@@ -2,13 +2,10 @@
 	<field name = "DATE">18-MAR-1987 10:13:35.41</field>
 	<field name = "TOPICS">l-cattle</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C L
-f7989reute
-u f BC-CATTLE-BEING-PLACED-O   03-18 0136</field>
-	<field name = "TITLE">CATTLE BEING PLACED ON FEED LIGHTER THAN NORMAL</field>
+	<field name = "titulo">CATTLE BEING PLACED ON FEED LIGHTER THAN NORMAL</field>
 	<field name = "AUTHOR">By Jerry Bieszk, Reuter</field>
 	<field name = "DATELINE">CHICAGO, March 18 -</field>
-	<field name = "BODY">Most of the cattle now being placed on
+	<field name = "content">Most of the cattle now being placed on
 U.S. feedlots weigh less than normal and likely will remain on
 feed longer, spreading out marketings and supporting cattle
 prices through the summer because of reduced beef supply.

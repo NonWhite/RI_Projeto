@@ -5,12 +5,9 @@
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">A
-f0582reute
-r f BC-G-6-WANTS-TO-HOLD-DLR   03-30 0100</field>
-	<field name = "TITLE">G-6 WANTS TO HOLD DLR ABOVE 150 YEN - NAKASONE</field>
+	<field name = "titulo">G-6 WANTS TO HOLD DLR ABOVE 150 YEN - NAKASONE</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">Prime Minister Yasuhiro Nakasone said
+	<field name = "content">Prime Minister Yasuhiro Nakasone said
 that Japan and other industrialized nations committed
 themselves in Paris last month to stabilize the dollar above
 150 yen.

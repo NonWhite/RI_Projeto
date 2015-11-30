@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 05:14:57.37</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f0286reute
-r f BC-BANK-OF-FINLAND-WILL   03-20 0097</field>
-	<field name = "TITLE">BANK OF FINLAND WILL ANNOUNCE NEW MEASURES</field>
+	<field name = "titulo">BANK OF FINLAND WILL ANNOUNCE NEW MEASURES</field>
 	<field name = "DATELINE">HELSINKI, March 20 -</field>
-	<field name = "BODY">The Bank of Finland called a news
+	<field name = "content">The Bank of Finland called a news
 conference at 1200 GMT to announce new measures for the
 "development of the system of monetary control."
     A spokesman for the Bank declined to give further details.

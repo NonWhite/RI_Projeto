@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:54:17.76</field>
-	<field name = "UNKNOWN">F
-f0385
-reute
-h f BC-WESTERN-DIGITAL-WDC>   03-02 0101</field>
-	<field name = "TITLE">WESTERN DIGITAL WDC> ADDS E-MAIL PACKAGE</field>
+	<field name = "titulo">WESTERN DIGITAL WDC> ADDS E-MAIL PACKAGE</field>
 	<field name = "DATELINE">IRVINE, Calif., March 2 -</field>
-	<field name = "BODY">Western Digital Corp said it
+	<field name = "content">Western Digital Corp said it
 signed a licensing agreement under which it will sell an
 electronic mail software package from Consumers Software>,
 Gilroy, Calif.

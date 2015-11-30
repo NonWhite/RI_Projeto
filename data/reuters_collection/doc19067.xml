@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 05:48:32.48</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F 
-f0355reute
-u f BC-TELEMECANIQUE-SEES-ST   06-19 0111</field>
-	<field name = "TITLE">TELEMECANIQUE SEES STABLE PROFITS AND DIVIDEND UP</field>
+	<field name = "titulo">TELEMECANIQUE SEES STABLE PROFITS AND DIVIDEND UP</field>
 	<field name = "DATELINE">PARIS, June 19 -</field>
-	<field name = "BODY">French electronics group La Telemecanique
+	<field name = "content">French electronics group La Telemecanique
 Electric TLMF.PA> expects 1987 consolidated profits to remain
 steady on 1986 levels, allowing the company to pay a higher
 dividend this year, chairman Jacques Valla told the company's

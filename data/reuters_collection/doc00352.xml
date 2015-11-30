@@ -3,13 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">kuwait</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">V
-f0163
-reute
-r f BC-OIL-KUWAIT   03-02 0109</field>
-	<field name = "TITLE">KUWAIT MINISTER SAYS NO EMERGENCY OPEC TALKS SET</field>
+	<field name = "titulo">KUWAIT MINISTER SAYS NO EMERGENCY OPEC TALKS SET</field>
 	<field name = "DATELINE">KUWAIT, March 2 -</field>
-	<field name = "BODY">Kuwait's oil minister said in a newspaper
+	<field name = "content">Kuwait's oil minister said in a newspaper
 interview that there were no plans for an emergency OPEC
 meeting after the recent weakness in world oil prices.
     Sheikh Ali al-Khalifa al-Sabah was quoted by the local

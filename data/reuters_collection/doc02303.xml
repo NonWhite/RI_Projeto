@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 13:31:01.47</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0216reute
-d f BC-AMREP-CORP-AXR>-3RD   03-05 0053</field>
-	<field name = "TITLE">AMREP CORP AXR> 3RD QTR JAN 31 NET</field>
+	<field name = "titulo">AMREP CORP AXR> 3RD QTR JAN 31 NET</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Shr 12 cts vs 34 cts
+	<field name = "content">Shr 12 cts vs 34 cts
     Net 787,000 vs 2,250,000
     Revs 23.6 mln vs 23.6 mln
     Nine mths

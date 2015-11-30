@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 10:47:21.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0365reute
-d f BC-LEUCADIA-HAS-50-MLN-D   03-11 0108</field>
-	<field name = "TITLE">LEUCADIA HAS 50 MLN DLR REVOLVING FACILITY</field>
+	<field name = "titulo">LEUCADIA HAS 50 MLN DLR REVOLVING FACILITY</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Leucadia National Corp, a U.S. Financial
+	<field name = "content">Leucadia National Corp, a U.S. Financial
 services holding company, has received a 50 mln dlr, five-year
 revolving underwriting facility (RUF), said Merrill Lynch
 Capital Markets as arranger.

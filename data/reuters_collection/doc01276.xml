@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 15:37:42.69</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0743reute
-s f BC-PREMIER-INDUSTRIAL-CO   03-03 0025</field>
-	<field name = "TITLE">PREMIER INDUSTRIAL CORP PRE> REGULAR DIVIDEND</field>
+	<field name = "titulo">PREMIER INDUSTRIAL CORP PRE> REGULAR DIVIDEND</field>
 	<field name = "DATELINE">CLEVELAND, March 3 -</field>
-	<field name = "BODY">Qtly div 11 cts vs 11 cts in prior qtr
+	<field name = "content">Qtly div 11 cts vs 11 cts in prior qtr
     Payable April 10
     Record March 23
  Reuter</field>

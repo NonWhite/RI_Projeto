@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 13:09:00.20</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">A F RM
-f1841reute
-r f AM-BANK   03-24 0108</field>
-	<field name = "TITLE">U.S. EX-IM BANK TO CHANGE LENDING POLICIES</field>
+	<field name = "titulo">U.S. EX-IM BANK TO CHANGE LENDING POLICIES</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">The president of the Export-Import
+	<field name = "content">The president of the Export-Import
 Bank said the Bank was changing its lending policies to reflect
 changing conditions in export financing.
     President John Bohn told a House Appropriations

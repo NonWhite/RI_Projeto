@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 14:48:48.26</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2129reute
-r f BC-TEMPO-TPO>-TO-SELL-C   03-19 0045</field>
-	<field name = "TITLE">TEMPO TPO> TO SELL CABLE SYSTEMS TO EAGLE</field>
+	<field name = "titulo">TEMPO TPO> TO SELL CABLE SYSTEMS TO EAGLE</field>
 	<field name = "DATELINE">TULSA, Okla., March 19 -</field>
-	<field name = "BODY">Tempo Enterprises Inc said it
+	<field name = "content">Tempo Enterprises Inc said it
 signed a letter of intent to sell seven cable television
 systems, representing about 5,000 subscribers, to Eagle
 Cable>.

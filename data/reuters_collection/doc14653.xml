@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:45:58.29</field>
-	<field name = "UNKNOWN">RM A
-f2447reute
-b f BC--DOLLAR-ENDS-WITH-MOD   04-07 0114</field>
-	<field name = "TITLE">DOLLAR ENDS WITH MODEST LOSSES IN NEW YORK</field>
+	<field name = "titulo">DOLLAR ENDS WITH MODEST LOSSES IN NEW YORK</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">The dollar ended with modest net losses
+	<field name = "content">The dollar ended with modest net losses
 against most major currencies as the market conducted a final
 round of position-squaring ahead of tomorrow's crucial Group of
 Five and Group of Seven meetings, dealers said.

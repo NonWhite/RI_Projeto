@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 23:49:49.85</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f2783reute
-u f BC-JAPANESE-OFFICIAL-TAK   04-07 0115</field>
-	<field name = "TITLE">JAPANESE OFFICIAL TAKES DATA TO MICROCHIP TALKS</field>
+	<field name = "titulo">JAPANESE OFFICIAL TAKES DATA TO MICROCHIP TALKS</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">Ministry of International Trade and
+	<field name = "content">Ministry of International Trade and
 Industry (MITI) Vice Minister Makoto Kuroda leaves for
 Washington today with data he hopes will refute U.S. Charges
 Japan has violated a pact on microchip trade.

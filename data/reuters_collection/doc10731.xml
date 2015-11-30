@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 05:22:06.81</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0396reute
-b f BC-QUEBECOR-ISSUES-60-ML   03-30 0114</field>
-	<field name = "TITLE">QUEBECOR ISSUES 60 MLN DLR CONVERTIBLE BOND</field>
+	<field name = "titulo">QUEBECOR ISSUES 60 MLN DLR CONVERTIBLE BOND</field>
 	<field name = "DATELINE">LONDON, March 30 -</field>
-	<field name = "BODY">Quebecor Inc PQB.A>, the Canadian
+	<field name = "content">Quebecor Inc PQB.A>, the Canadian
 publishing concern, is issuing a 60 mln dlr convertible bond
 due May 14, 1997 bearing an indicated coupon of 5-3/4 to six
 pct, said Merrill Lynch Capital Markets as lead manager.

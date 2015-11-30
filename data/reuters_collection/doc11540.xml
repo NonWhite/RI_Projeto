@@ -3,12 +3,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f2084reute
-u f BC-EC-MINISTER-SEES-OILS   03-31 0113</field>
-	<field name = "TITLE">EC MINISTER SEES OILS TAX STILL IN NEGOTIATION</field>
+	<field name = "titulo">EC MINISTER SEES OILS TAX STILL IN NEGOTIATION</field>
 	<field name = "DATELINE">BRUSSELS, March 31 -</field>
-	<field name = "BODY">The outcome of negotiations on
+	<field name = "content">The outcome of negotiations on
 proposals by the European Commission for a 330 Ecus a tonne tax
 on EC-produced and imported oilseeds and marine oils remains
 difficult to predict, Belgian agriculture minister Paul de

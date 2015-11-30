@@ -1,10 +1,8 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:37:24.90F</field>
-	<field name = "UNKNOWN">f0727reute</field>
-	<field name = "UNKNOWN">r f BC-JUDGE-DENIES-DISMISSA   03-27 0076</field>
-	<field name = "TITLE">JUDGE DENIES DISMISSAL OF HUNT LOAN CHALLENGE</field>
+	<field name = "titulo">JUDGE DENIES DISMISSAL OF HUNT LOAN CHALLENGE</field>
 	<field name = "DATELINE">DALLAS, March 27 -</field>
-	<field name = "BODY">A federal judge has denied motions by
+	<field name = "content">A federal judge has denied motions by
 several banks for summary dismissal of lawsuits challenging the
 loans they made to the Hunt brothers' two energy companies.
     Nelson Bunker, W. Herbert and Lamar Hunt sued the 23 banks

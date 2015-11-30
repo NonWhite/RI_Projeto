@@ -3,13 +3,10 @@
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">icco</field>
-	<field name = "UNKNOWN">C T
-f2051reute
-u f BC-SOME-COCOA-ORIGINS-DI   06-01 0108</field>
-	<field name = "TITLE">COCOA ORIGINS DISMAYED BY BUFFER STOCK ACTION</field>
+	<field name = "titulo">COCOA ORIGINS DISMAYED BY BUFFER STOCK ACTION</field>
 	<field name = "AUTHOR">By Peter Read, Reuters</field>
 	<field name = "DATELINE">LONDON, June 1 -</field>
-	<field name = "BODY">Traders recently returned from West Africa
+	<field name = "content">Traders recently returned from West Africa
 say some producers there are dismayed by the ineffective action
 so far by the International Cocoa Organization (ICCO) buffer
 stock manager on buffer stock purchases.

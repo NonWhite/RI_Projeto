@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 07:09:22.82</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0510reute
-r f BC-ECONOMIC-SPOTLIGHT--   03-26 0097</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - SWISS BANKING SECRECY</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - SWISS BANKING SECRECY</field>
 	<field name = "AUTHOR">By Peter Conradi, Reuters</field>
 	<field name = "DATELINE">ZURICH, March 26 -</field>
-	<field name = "BODY">Swiss lawyers have largely headed off an
+	<field name = "content">Swiss lawyers have largely headed off an
 attempt to restrict banking secrecy and curb their powers to
 act for clients despite the new, revised code of banking
 conduct agreed by the Bankers' Association this week, analysts

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 15:18:39.45</field>
 	<field name = "TOPICS">strategic-metal</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2241reute
-h f BC-HOUSE-PANEL-WANTS-PEN   04-09 0141</field>
-	<field name = "TITLE">HOUSE PANEL WANTS PENTAGON MANAGE U.S. STOCKPILE</field>
+	<field name = "titulo">HOUSE PANEL WANTS PENTAGON MANAGE U.S. STOCKPILE</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The House Armed Services Committee
+	<field name = "content">The House Armed Services Committee
 has voted for a transfer in the management of stockpiled
 materials for national defense to the U.S. Defense Secretary.
     The committee also voted for legally-binding quantity and

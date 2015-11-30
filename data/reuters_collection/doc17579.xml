@@ -3,12 +3,9 @@
 	<field name = "TOPICS">pet-chem</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">F
-f1350reute
-r f BC-MONSANTO-TO-BUY-RHONE   06-01 0097</field>
-	<field name = "TITLE">MONSANTO TO BUY RHONE-POULENC POLYPHENYL BUSINESS</field>
+	<field name = "titulo">MONSANTO TO BUY RHONE-POULENC POLYPHENYL BUSINESS</field>
 	<field name = "DATELINE">BRUSSELS, June 1 -</field>
-	<field name = "BODY">Monsanto Chemical Company, a unit of
+	<field name = "content">Monsanto Chemical Company, a unit of
 Monsanto Co MTC.N>, is to acquire the polyphenyls business of
 Rhone-Poulenc Chimie, a unit of Rhone-Poulenc RHON.PA>,
 Monsanto said in a statement issued from its European

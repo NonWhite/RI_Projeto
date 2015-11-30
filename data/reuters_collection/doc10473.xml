@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:15:48.87F</field>
-	<field name = "UNKNOWN">f1206reute</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "EXCHANGES">ase</field>
-	<field name = "UNKNOWN">h f BC-AMSTERDAM-BOURSE-IN-I   03-27 0111</field>
-	<field name = "TITLE">AMSTERDAM BOURSE IN INSIDER TRADING INVESTIGATION</field>
+	<field name = "titulo">AMSTERDAM BOURSE IN INSIDER TRADING INVESTIGATION</field>
 	<field name = "DATELINE">AMSTERDAM, March 27 -</field>
-	<field name = "BODY">The Amsterdam Stock Exchange will
+	<field name = "content">The Amsterdam Stock Exchange will
 start an official inquiry into dealings in shares and share
 certificates of Dutch construction company Bredero Vast Goed
 N.V.> earlier this week, amid suspicions of insider trading, a

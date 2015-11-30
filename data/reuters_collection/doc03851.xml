@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 14:00:04.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0188reute
-r f BC-PRE-PAID-LEGAL-PPD>   03-11 0104</field>
-	<field name = "TITLE">PRE-PAID LEGAL PPD> SEES HIGHER SALES GROWTH</field>
+	<field name = "titulo">PRE-PAID LEGAL PPD> SEES HIGHER SALES GROWTH</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Pre-Paid Legal Services Inc chairman
+	<field name = "content">Pre-Paid Legal Services Inc chairman
 Harland Stonecipher said the company's sales growth rate for
 each of the next five years would substantially exceed the
 average 100 pct recorded over each of the last few years.

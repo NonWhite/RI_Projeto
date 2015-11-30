@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 21:05:26.12</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">RM
-f0392
-reute
-u f BC-REAGAN'S-CIA-MAN-WITH   03-02 0114</field>
-	<field name = "TITLE">REAGAN'S CIA MAN WITHDRAWS, VICTIM OF IRAN SCANDAL</field>
+	<field name = "titulo">REAGAN'S CIA MAN WITHDRAWS, VICTIM OF IRAN SCANDAL</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">President Reagan's nominee as
+	<field name = "content">President Reagan's nominee as
 director of the Central Intelligence Agency (CIA), Robert
 Gates, withdrew his name from consideration by the Senate in
 the face of a long battle for confirmation.

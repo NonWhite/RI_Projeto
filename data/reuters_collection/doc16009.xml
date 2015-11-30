@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 17:15:43.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2694reute
-u f BC-GENERAL-MOTORS-GM>-T   04-09 0052</field>
-	<field name = "TITLE">GENERAL MOTORS GM> TO IDLE 9,800 WORKERS</field>
+	<field name = "titulo">GENERAL MOTORS GM> TO IDLE 9,800 WORKERS</field>
 	<field name = "DATELINE">DETROIT, April 9 -</field>
-	<field name = "BODY">General Motors Corp said it will
+	<field name = "content">General Motors Corp said it will
 temporarily lay off 9,800 workers at two plants next week.
     The layoffs will bring to 11,900 the number of General
 Motors workers temporarily let go by the company.

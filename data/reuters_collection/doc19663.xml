@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 11:06:18.74</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y 
-f1319reute
-r f BC-EXXON-XON>-EXTENDS-M   06-29 0113</field>
-	<field name = "TITLE">EXXON XON> EXTENDS MID-GRADE UNLEADED MARKETING</field>
+	<field name = "titulo">EXXON XON> EXTENDS MID-GRADE UNLEADED MARKETING</field>
 	<field name = "DATELINE">HOUSTON, June 29 -</field>
-	<field name = "BODY">Exxon Co U.S.A. said it is extending
+	<field name = "content">Exxon Co U.S.A. said it is extending
 marketing of its mid-grade unleaded gasoline, Exxon Plus, into
 the Houston and Dallas/Fort Worth metropolitan areas beginning
 early next month.

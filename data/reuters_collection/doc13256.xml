@@ -2,12 +2,9 @@
 	<field name = "DATE">5-APR-1987 19:55:20.06</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">kohl</field>
-	<field name = "UNKNOWN">RM
-f0083reute
-b f BC-CENTRE-RIGHT-WIN-GERM   04-05 0109</field>
-	<field name = "TITLE">CENTRE-RIGHT WIN GERMANY'S HESSE STATE POLL</field>
+	<field name = "titulo">CENTRE-RIGHT WIN GERMANY'S HESSE STATE POLL</field>
 	<field name = "DATELINE">BONN, April 5  -</field>
-	<field name = "BODY">West Germany's Christian Democrats (CDU)
+	<field name = "content">West Germany's Christian Democrats (CDU)
 and their liberal Free Democrat Party (FDP) allies today won
 control of the central state of Hesse in state elections,
 toppling the Social Democrats (SPD) who had governed the state

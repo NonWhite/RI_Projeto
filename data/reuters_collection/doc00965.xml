@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 08:20:05.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0132
-reute
-r f BC-GM-GM>-CUTS-WAGE-BOO   03-03 0110</field>
-	<field name = "TITLE">GM GM> CUTS WAGE BOOSTS FOR SALARIED EMPLOYEES</field>
+	<field name = "titulo">GM GM> CUTS WAGE BOOSTS FOR SALARIED EMPLOYEES</field>
 	<field name = "DATELINE">DETROIT, March 3 -</field>
-	<field name = "BODY">General Motors Corp has changed its
+	<field name = "content">General Motors Corp has changed its
 method of disbursing merit raises for salaried employees and is
 reducing the size of the merit raise pool to 3.5 pct of the
 total amount available for salaries from 5.5 pct last year, a

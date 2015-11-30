@@ -4,12 +4,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">algeria</field>
-	<field name = "UNKNOWN">C G
-f2136reute
-u f BC-U.S.-DURUM-WHEAT-BONU   04-03 0084</field>
-	<field name = "TITLE">U.S. DURUM WHEAT BONUS BID TO ALGERIA ACCEPTED</field>
+	<field name = "titulo">U.S. DURUM WHEAT BONUS BID TO ALGERIA ACCEPTED</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The U.S. Agriculture Department said
+	<field name = "content">The U.S. Agriculture Department said
 it has accepted a bid for an export bonus to cover the sale of
 18,000 tonnes of U.S. durum wheat to Algeria.
     A bonus of 43.25 dlrs per tonne was awarded to Cam USA Inc

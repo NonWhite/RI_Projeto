@@ -4,12 +4,9 @@
 	<field name = "TOPICS">silver</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">comex</field>
-	<field name = "UNKNOWN">F A RM
-f1815reute
-u f BC-LITTLE-REACTION-TO-CO   06-01 0109</field>
-	<field name = "TITLE">LITTLE REACTION TO COMEX PRICE LIMIT REMOVAL</field>
+	<field name = "titulo">LITTLE REACTION TO COMEX PRICE LIMIT REMOVAL</field>
 	<field name = "DATELINE">New York, June 1 -</field>
-	<field name = "BODY">The elimination of price limits on
+	<field name = "content">The elimination of price limits on
 precious metals contracts trading at the Commodity Exchange in
 New York appears to be having little effect on the market,
 analysts said.

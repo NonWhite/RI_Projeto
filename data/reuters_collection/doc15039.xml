@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:56:40.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1250reute
-u f BC-MEDICAL-JOURNAL-REPOR   04-08 0106</field>
-	<field name = "TITLE">MEDICAL JOURNAL REPORTS NEW INTERLEUKIN PROMISE</field>
+	<field name = "titulo">MEDICAL JOURNAL REPORTS NEW INTERLEUKIN PROMISE</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">Promising new findings in the use of
+	<field name = "content">Promising new findings in the use of
 a controversial experimental drug called Interleukin-2 as a
 cure for cancer will be published in the April 9 issue of the
 prestigious New England Journal of Medicine, according to a

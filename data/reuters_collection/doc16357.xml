@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:18:16.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1367reute
-u f BC-U.S.-JUNK-BONDS-UNAFF   04-13 0106</field>
-	<field name = "TITLE">U.S. JUNK BONDS UNAFFECTED BY TEXACO TX> FILING</field>
+	<field name = "titulo">U.S. JUNK BONDS UNAFFECTED BY TEXACO TX> FILING</field>
 	<field name = "AUTHOR">By John Picinich, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Despite a sharp early fall in Texaco
+	<field name = "content">Despite a sharp early fall in Texaco
 Inc bonds, the 125 billion dlr U.S. junk bond market was
 largely unaffected by Texaco's weekend filing for protection
 under Chapter 11 of the Bankruptcy Code, analysts said.

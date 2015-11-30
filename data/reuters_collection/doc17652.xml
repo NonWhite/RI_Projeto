@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 13:12:30.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1814reute
-b f BC-JUDGE-REDUCES-JURY-AW   06-01 0103</field>
-	<field name = "TITLE">JUDGE REDUCES JURY AWARD TO COASTAL CGP></field>
+	<field name = "titulo">JUDGE REDUCES JURY AWARD TO COASTAL CGP></field>
 	<field name = "DATELINE">CHEYENNE, Wyo., June 1 -</field>
-	<field name = "BODY">Coastal Corp said a federal
+	<field name = "content">Coastal Corp said a federal
 district court judge has upheld a trial jury's judgment against
 a Occidental Petroleum Corp OXY> subsidiary but reduced the
 amount awarded a Coastal subsidiary to 412 mln dlrs from 549

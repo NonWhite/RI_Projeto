@@ -10,12 +10,9 @@
 	<field name = "PLACES">morocco</field>
 	<field name = "PLACES">jordan</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C
-f0999reute
-d f BC-EC-APPROVES-MEDITERRA   03-31 0106</field>
-	<field name = "TITLE">EC APPROVES MEDITERRANEAN FINANCIAL PACKAGES</field>
+	<field name = "titulo">EC APPROVES MEDITERRANEAN FINANCIAL PACKAGES</field>
 	<field name = "DATELINE">BRUSSELS, March 31 -</field>
-	<field name = "BODY">EC ministers have approved financial
+	<field name = "content">EC ministers have approved financial
 packages for several Mediterranean states totalling 1.6 billion
 European currency units, an EC official said.
     The packages, part of special EC trade agreements with

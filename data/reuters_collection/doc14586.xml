@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F E
-f2351reute
-u f BC-COCA-COLA-BOTTLING-C   04-07 0065</field>
-	<field name = "TITLE">COCA-COLA BOTTLING COKE> TERMINATES TALKS</field>
+	<field name = "titulo">COCA-COLA BOTTLING COKE> TERMINATES TALKS</field>
 	<field name = "DATELINE">CHARLOTTE, N.C., APril 7 -</field>
-	<field name = "BODY">Coca-Cola Bottling Co
+	<field name = "content">Coca-Cola Bottling Co
 Consolidated said it terminated negotiations with the proposed
 purchaser of its wholly owned subsidiary headquartered in
 Vancouver, B.C.

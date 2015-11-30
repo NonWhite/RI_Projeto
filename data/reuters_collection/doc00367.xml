@@ -3,13 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F
-f0300
-reute
-u f BC-PHILADELPHIA-PORT-CLO   03-02 0115</field>
-	<field name = "TITLE">PHILADELPHIA PORT CLOSED BY TANKER CRASH</field>
+	<field name = "titulo">PHILADELPHIA PORT CLOSED BY TANKER CRASH</field>
 	<field name = "DATELINE">PHILADELPHIA, March 2 -</field>
-	<field name = "BODY">The port of Philadelphia was closed
+	<field name = "content">The port of Philadelphia was closed
 when a Cypriot oil tanker, Seapride II, ran aground after
 hitting a 200-foot tower supporting power lines across the
 river, a Coast Guard spokesman said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0645reute
-b f BC-U.K.-FOURTH-QUARTER-T   03-05 0074</field>
-	<field name = "TITLE">U.K. FOURTH QUARTER TRADE DEFICIT 2.6 BILLION STG</field>
+	<field name = "titulo">U.K. FOURTH QUARTER TRADE DEFICIT 2.6 BILLION STG</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">Britain had a visible trade deficit of
+	<field name = "content">Britain had a visible trade deficit of
 2.6 billion stg in the fourth quarter of 1986 against a revised
 deficit of 2.9 billion in the third quarter, official
 statistics show.

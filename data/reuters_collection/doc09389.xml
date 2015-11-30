@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 11:51:30.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1444reute
-r f BC-(CORRECTED)---TSENG-   03-25 0113</field>
-	<field name = "TITLE">(CORRECTED) - TSENG TSNG> SEES SALES INCREASE</field>
+	<field name = "titulo">(CORRECTED) - TSENG TSNG> SEES SALES INCREASE</field>
 	<field name = "DATELINE">NEWTON, Pa., March 25 -</field>
-	<field name = "BODY">Tseng Laboratories Inc said it
+	<field name = "content">Tseng Laboratories Inc said it
 expects first quarter 1987 sales to exceed total sales for the
 entire 1986 year, and said it expects earnings for the quarter
 to grow at a faster rate than sales.

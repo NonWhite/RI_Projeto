@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 08:40:12.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0697reute
-u f BC-CATER-HAWLEY-HALE-CH   04-09 0094</field>
-	<field name = "TITLE">CATER HAWLEY HALE CHH> MARCH SALES UP 7.8 PCT</field>
+	<field name = "titulo">CATER HAWLEY HALE CHH> MARCH SALES UP 7.8 PCT</field>
 	<field name = "DATELINE">LOS ANGELES, April 9 -</field>
-	<field name = "BODY">Carter Hawley Hale Stores Inc said
+	<field name = "content">Carter Hawley Hale Stores Inc said
 sales for the five weeks ended April Four were up 7.8 pct to
 314.0 mln dlrs from 291.3 mln dlrs a year earlier, with
 same-store sales up 5.5 pct.

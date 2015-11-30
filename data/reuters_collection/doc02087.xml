@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:36:58.41</field>
-	<field name = "UNKNOWN">RM
-f0349reute
-b f BC-NISSAN-MOTOR-ISSUES-3   03-05 0087</field>
-	<field name = "TITLE">NISSAN MOTOR ISSUES 35 BILLION YEN EUROBOND</field>
+	<field name = "titulo">NISSAN MOTOR ISSUES 35 BILLION YEN EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">Nissan Motor Co Ltd NSAN.T> is issuing a
+	<field name = "content">Nissan Motor Co Ltd NSAN.T> is issuing a
 35 billion yen eurobond due March 25 1992 paying 5-1/8 pct and
 priced at 103-3/8, Nikko Securities Co (Europe) Ltd said.
     The non-callable issue is available in denominations of one

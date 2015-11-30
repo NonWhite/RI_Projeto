@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">22-MAR-1987 05:06:28.74</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0049reute
-u f BC-FOREIGN-SHARE-OF-GERM   03-22 0108</field>
-	<field name = "TITLE">FOREIGN SHARE OF GERMAN CAR MARKET FALLS</field>
+	<field name = "titulo">FOREIGN SHARE OF GERMAN CAR MARKET FALLS</field>
 	<field name = "DATELINE">FLENSBURG, March 22 -</field>
-	<field name = "BODY">Foreign manufacturers' share of the
+	<field name = "content">Foreign manufacturers' share of the
 West German new car market fell to 30.8 pct in the first two
 months of this year from 33.3 pct in January/February 1986, the
 Federal Motor Office said.

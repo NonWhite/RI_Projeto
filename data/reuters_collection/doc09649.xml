@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2631reute
-u f BC-PENNZOIL-(PZL)-WILLIN   03-25 0084</field>
-	<field name = "TITLE">PENNZOIL (PZL) WILLING TO SETTLE TEXACO (TX) LAWSUIT</field>
+	<field name = "titulo">PENNZOIL (PZL) WILLING TO SETTLE TEXACO (TX) LAWSUIT</field>
 	<field name = "DATELINE">HOUSTON, March 25 -</field>
-	<field name = "BODY">Pennzoil Co said it had not yet
+	<field name = "content">Pennzoil Co said it had not yet
 received any "meaningful settlement offer" from Texaco Inc but
 added that the company remained willing to consider proposals
 to settle the 10.2 billion dlr jury judgment it won against

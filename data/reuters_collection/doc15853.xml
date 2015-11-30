@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 15:08:51.10</field>
 	<field name = "TOPICS">orange</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C T
-f2192reute
-b f BC-citrus-estimate   04-09 0098</field>
-	<field name = "TITLE">U.S. CITRUS CROP ESTIMATE -- USDA</field>
+	<field name = "titulo">U.S. CITRUS CROP ESTIMATE -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 estimated 1986/87 citrus production, as follows (in boxes) --
     Total U.S. orange crop (excluding Florida Temples) --
 190,050,000 boxes, vs 190,850,000 boxes last month and

@@ -5,14 +5,10 @@
 	<field name = "PLACES">lebanon</field>
 	<field name = "PEOPLE">reagan</field>
 	<field name = "PEOPLE">howard-baker</field>
-	<field name = "UNKNOWN">V
-f0407
-reute
-r f PM-REAGAN   03-02 0099</field>
-	<field name = "TITLE">REAGAN AND BAKER BEGIN TASK OF REBUILDING</field>
+	<field name = "titulo">REAGAN AND BAKER BEGIN TASK OF REBUILDING</field>
 	<field name = "AUTHOR">By Peter Szekely</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">After a week that left his presidency
+	<field name = "content">After a week that left his presidency
 shaken and his popularity at a new low, Ronald Reagan and his
 new chief of staff today begin trying to revive an
 administration tattered by the Iran-contra arms scandal.

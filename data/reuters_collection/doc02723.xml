@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 12:32:45.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0848reute
-u f BC-FOOD-LION-FDLNB>-FEB   03-06 0063</field>
-	<field name = "TITLE">FOOD LION FDLNB> FEBRUARY SALES UP 26 PCT</field>
+	<field name = "titulo">FOOD LION FDLNB> FEBRUARY SALES UP 26 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Food Lion Inc said its sales totaled
+	<field name = "content">Food Lion Inc said its sales totaled
 207.5 mln dlrs last month, up 26.0 pct from the 164.7 mln dlrs
 reported for February 1986.
     The company said sales for the first eight weeks of the

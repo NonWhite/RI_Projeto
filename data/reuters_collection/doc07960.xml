@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 16:05:59.70</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2356reute
-u f BC-/FREIGHT,-INSURANCE-P   03-20 0121</field>
-	<field name = "TITLE">FREIGHT, INSURANCE PROPOSED FOR CCC SALES - USDA</field>
+	<field name = "titulo">FREIGHT, INSURANCE PROPOSED FOR CCC SALES - USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">the U.S. Agriculture Department is
+	<field name = "content">the U.S. Agriculture Department is
 proposing to permit coverage of freight cost and marine and war
 risk insurance for sales  of all agricultural commodities sold
 on credit terms under the Commodity Credit Corporation's, CCC,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 04:43:40.13</field>
 	<field name = "PLACES">luxembourg</field>
-	<field name = "UNKNOWN">RM
-f0275reute
-u f BC-LUXEMBOURG-BANK-BALAN   04-01 0090</field>
-	<field name = "TITLE">LUXEMBOURG BANK BALANCES' JANUARY FALL</field>
+	<field name = "titulo">LUXEMBOURG BANK BALANCES' JANUARY FALL</field>
 	<field name = "DATELINE">LUXEMBOURG, April 1 -</field>
-	<field name = "BODY">The balance sheet total of all
+	<field name = "content">The balance sheet total of all
 Luxembourg-based banks fell in January to 7,888 billion
 luxembourg francs, a decline of 1.49 pct on the previous month,
 the Institut Monetaire Luxembourgeois (IML) said.

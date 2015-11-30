@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 19:44:08.04</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f2916reute
-b f BC-JAPAN-CONSUMER-PRICES   03-26 0084</field>
-	<field name = "TITLE">JAPAN CONSUMER PRICES UNCHANGED IN FEBRUARY</field>
+	<field name = "titulo">JAPAN CONSUMER PRICES UNCHANGED IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Japan's consumer price index (base 1985)
+	<field name = "content">Japan's consumer price index (base 1985)
 was unchanged at 99.7 in February from a month earlier, the
 government's Management and Coodination Agency said.
     The index showed a 0.4 pct drop in January.

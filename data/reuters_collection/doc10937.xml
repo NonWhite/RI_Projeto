@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 13:17:12.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1977reute
-r f BC-MCDONNELL-MD>-UNIT-S   03-30 0109</field>
-	<field name = "TITLE">MCDONNELL MD> UNIT SIGNS PACT WITH MARTIN ML></field>
+	<field name = "titulo">MCDONNELL MD> UNIT SIGNS PACT WITH MARTIN ML></field>
 	<field name = "DATELINE">BETHESDA, Md., March 30 -</field>
-	<field name = "BODY">Martin Marietta Corp said it
+	<field name = "content">Martin Marietta Corp said it
 signed an exclusive agreement with McDonnell Douglas Corp's
 Tymnet Co for Tymnet to provide data communications services as
 a member of its team bidding on the federal government's FTS

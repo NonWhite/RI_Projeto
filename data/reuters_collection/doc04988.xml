@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 14:54:43.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0181reute
-u f BC-FAIRCHILD-INDUSTRIES   03-13 0048</field>
-	<field name = "TITLE">FAIRCHILD INDUSTRIES FEN> CLOSES PLANT</field>
+	<field name = "titulo">FAIRCHILD INDUSTRIES FEN> CLOSES PLANT</field>
 	<field name = "DATELINE">FARMINGDALE, N.Y., March 13 -</field>
-	<field name = "BODY">Fairchild Industries Inc said
+	<field name = "content">Fairchild Industries Inc said
 it will close the Fairchild Republic plant at Farmingdale this
 year, and sell it next year, after agreeing with the U.S. Air
 Force to terminate the T-46A trainer aircraft program.

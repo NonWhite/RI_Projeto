@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 13:06:58.68</field>
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1810reute
-u f BC-ASCS-SEEKS-12.5-MLN-P   04-24 0062</field>
-	<field name = "TITLE">ASCS SEEKS 12.5 MLN POUNDS VEG OIL FOR EXPORT</field>
+	<field name = "titulo">ASCS SEEKS 12.5 MLN POUNDS VEG OIL FOR EXPORT</field>
 	<field name = "DATELINE">CHICAGO, April 24 -</field>
-	<field name = "BODY">The Agricultural Stabilization and
+	<field name = "content">The Agricultural Stabilization and
 Conservation Service (ASCS) is seeking 12.5 mln pounds of
 vegetable oil for export June 6-20 and June 21/July 5, an ASCS
 official said.

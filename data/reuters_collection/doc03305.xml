@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0379reute
-r f BC-FINAL-50/50-CORN-CERT   03-09 0143</field>
-	<field name = "TITLE">FINAL 50/50 CORN CERTS SEEN AT 1.6 BILLION DLRS</field>
+	<field name = "titulo">FINAL 50/50 CORN CERTS SEEN AT 1.6 BILLION DLRS</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">The Agriculture Department will have
+	<field name = "content">The Agriculture Department will have
 to release an estimated 1.6 billion dlrs worth of in-kind
 certificates, or certs, to corn farmers this fall if USDA
 decides to maintain an equal split of total 1986 feedgrain

@@ -4,12 +4,9 @@
 	<field name = "PLACES">italy</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">RM
-f0664reute
-u f BC-ITALY'S-BNL-NEGOTIATI   03-03 0097</field>
-	<field name = "TITLE">ITALY'S BNL NEGOTIATING PURCHASE OF GERMAN BANK</field>
+	<field name = "titulo">ITALY'S BNL NEGOTIATING PURCHASE OF GERMAN BANK</field>
 	<field name = "DATELINE">ROME, March 3 -</field>
-	<field name = "BODY">Italy's state-owned Banca Nazionale Del
+	<field name = "content">Italy's state-owned Banca Nazionale Del
 Lavoro-BNL> said it is negotiating to buy a West German bank as
 part of its foreign expansion policy.
     BNL president Nerio Nesi told a news conference the Italian

@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 09:55:18.27</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0248reute
-d f BC-VOICEMAIL-INTERNATION   03-04 0060</field>
-	<field name = "TITLE">VOICEMAIL INTERNATIONAL INC 4TH QTR LOSS</field>
+	<field name = "titulo">VOICEMAIL INTERNATIONAL INC 4TH QTR LOSS</field>
 	<field name = "DATELINE">CUPERTINO, Calif., March 4 -</field>
-	<field name = "BODY">Shr loss 21 cts vs loss 14 cts
+	<field name = "content">Shr loss 21 cts vs loss 14 cts
     Net loss 838,069 vs loss 433,875
     Revs 1,080,068 vs 1,793,398
     Avg shrs 4,004,826 vs 3,172,537

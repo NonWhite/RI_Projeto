@@ -3,13 +3,10 @@
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C
-f2815reute
-d f AM-ECONOMY-SOVIET-(EMBAR GOED)  03-26 0102</field>
-	<field name = "TITLE">REPORT SAYS SOVIET ECONOMIC PLANS TOO OPTIMISTIC</field>
+	<field name = "titulo">REPORT SAYS SOVIET ECONOMIC PLANS TOO OPTIMISTIC</field>
 	<field name = "AUTHOR">by Robert Green, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">The Soviet economy has grown at an
+	<field name = "content">The Soviet economy has grown at an
 increased rate under Mikhail Gorbachev's leadership, but his
 goals may be too ambitious, according to a report from U.S.
 intelligence agencies.

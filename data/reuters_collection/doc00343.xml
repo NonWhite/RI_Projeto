@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 07:31:00.79</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0120
-reute
-r f BC-QANTAS-TO-BUY-FOUR-74   03-02 0087</field>
-	<field name = "TITLE">QANTAS TO BUY FOUR 747-400'S FOR ONE BILLION DLRS</field>
+	<field name = "titulo">QANTAS TO BUY FOUR 747-400'S FOR ONE BILLION DLRS</field>
 	<field name = "DATELINE">SYDNEY, March 2 -</field>
-	<field name = "BODY">Qantas Airways Ltd> has placed a firm
+	<field name = "content">Qantas Airways Ltd> has placed a firm
 order with Boeing Co BA> for four 747-400 aircraft at a cost
 of 250 mln Australian dlrs each, chairman Jim Leslie said.
     The first is due for delivery in April 1989 with the others

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:31:22.60</field>
-	<field name = "UNKNOWN">Y
-f1282reute
-u f BC-u.s.-energy-futures   04-07 0103</field>
-	<field name = "TITLE">U.S. ENERGY FUTURES STEADY BUT QUIET</field>
+	<field name = "titulo">U.S. ENERGY FUTURES STEADY BUT QUIET</field>
 	<field name = "DATELINE">NEW YORK, APRIL 7 -</field>
-	<field name = "BODY">U.S. energy futures traded consistently
+	<field name = "content">U.S. energy futures traded consistently
 above yesterday's closing prices in thin activity this morning
 with underlying support from April 15-day forward North Sea
 Brent crude, traders said.

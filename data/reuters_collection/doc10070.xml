@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 14:01:18.81</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2124reute
-r f BC-DENNISON-MANUFACTURIN   03-26 0098</field>
-	<field name = "TITLE">DENNISON MANUFACTURING DSN> TO SELL PAPER UNIT</field>
+	<field name = "titulo">DENNISON MANUFACTURING DSN> TO SELL PAPER UNIT</field>
 	<field name = "DATELINE">FRAMINGHAM, Mass., March 26 -</field>
-	<field name = "BODY">Dennison Manufacturing Co
+	<field name = "content">Dennison Manufacturing Co
 said it has signed a letter of intent to sell its Dunn Paper Co
 subsidiary to James River Corp JR> for an undisclosed amount
 of cash, resulting in a first quarter charge against earnings.

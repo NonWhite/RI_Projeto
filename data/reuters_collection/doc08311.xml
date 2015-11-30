@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 11:08:37.61</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM
-f1270reute
-u f BC-BRAZIL-DEBT-OFFICIAL   03-23 0094</field>
-	<field name = "TITLE">BRAZIL DEBT OFFICIAL OFFERS RESIGNATION</field>
+	<field name = "titulo">BRAZIL DEBT OFFICIAL OFFERS RESIGNATION</field>
 	<field name = "DATELINE">SAO PAULO, March 23 -</field>
-	<field name = "BODY">A senior Brazilian debt negotiator,
+	<field name = "content">A senior Brazilian debt negotiator,
 Antonio de Padua Seixas, has offered to resign from his post as
 Director for External Debt Management at the Central Bank, a
 bank spokesman said.

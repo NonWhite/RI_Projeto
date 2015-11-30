@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1305reute
-b f BC-/-FED-EXPECTED-TO-ADD   03-25 0096</field>
-	<field name = "TITLE">FED EXPECTED TO ADD RESERVES IN MARKET</field>
+	<field name = "titulo">FED EXPECTED TO ADD RESERVES IN MARKET</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">The Federal Reserve will probably
+	<field name = "content">The Federal Reserve will probably
 intervene in the government securities market to add reserves
 today, economists said.
     They expected the Fed will supply temporary reserves

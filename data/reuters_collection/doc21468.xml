@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 09:03:44.72</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0905reute
-b f BC-/GAF-GAF>-GROUP-RECO   10-19 0107</field>
-	<field name = "TITLE">GAF GAF> GROUP RECONSIDERS BUYOUT BID</field>
+	<field name = "titulo">GAF GAF> GROUP RECONSIDERS BUYOUT BID</field>
 	<field name = "DATELINE">WAYNE, N.J., Oct 19 -</field>
-	<field name = "BODY">GAF Corp said the management group
+	<field name = "content">GAF Corp said the management group
 led by chairman Samuel J. Heyman intends to reconsider its
 proposal to acquire GAF.
     On September 8, the group offered 64.00 dlrs in cash and

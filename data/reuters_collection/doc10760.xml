@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 07:11:22.58</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0573reute
-r f BC-JAPAN-WANTS-GOVERNMEN   03-30 0099</field>
-	<field name = "TITLE">JAPAN WANTS GOVERNMENTS TO BUY ITS T-BILLS</field>
+	<field name = "titulo">JAPAN WANTS GOVERNMENTS TO BUY ITS T-BILLS</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">The Finance Ministry is trying to
+	<field name = "content">The Finance Ministry is trying to
 eliminate technical obstacles so as to encourage purchases of
 Japanese Treasury bills by foreign governments and central
 banks, in order to increase overseas holdings of yen assets, a

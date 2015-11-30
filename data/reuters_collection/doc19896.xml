@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 16:25:01.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM Y 
-f2467reute
-u f BC-TEXACO-(QTX)-MAY-BENE   06-29 0098</field>
-	<field name = "TITLE">TEXACO (QTX) MAY BENEFIT FROM SEC BRIEF</field>
+	<field name = "titulo">TEXACO (QTX) MAY BENEFIT FROM SEC BRIEF</field>
 	<field name = "AUTHOR">By Patti Domm, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">The Securities and Exchange
+	<field name = "content">The Securities and Exchange
 Commission's entry into the battle between Texaco Inc and
 Pennzoil Co PZL> could affect the outcome of the 10.3 billion
 dlr legal saga, some analysts said.

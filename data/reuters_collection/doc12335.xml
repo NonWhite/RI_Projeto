@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 17:04:09.20</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2546reute
-r f BC-union-bank-raises prime-to-7.75-pct  04-01 0037</field>
-	<field name = "TITLE">UNION BANK RAISES ITS PRIME RATE TO 7.5 PCT</field>
+	<field name = "titulo">UNION BANK RAISES ITS PRIME RATE TO 7.5 PCT</field>
 	<field name = "DATELINE">LOS ANGELES, April 1 -</field>
-	<field name = "BODY">The Union Bank subsidiary of
+	<field name = "content">The Union Bank subsidiary of
 Standard Chartered PLC said today it was raising its prime
 lending rate to 7.75 pct from 7.50 pct, effective immediately.
  Reuter</field>

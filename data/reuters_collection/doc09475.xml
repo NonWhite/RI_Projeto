@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:45:40.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1928reute
-d f BC-VISTA-MANAGEMENT-INC   03-25 0083</field>
-	<field name = "TITLE">VISTA MANAGEMENT INC> GETS BOND GUARANTEES</field>
+	<field name = "titulo">VISTA MANAGEMENT INC> GETS BOND GUARANTEES</field>
 	<field name = "DATELINE">HIALEAH, Fla., March 25 -</field>
-	<field name = "BODY">Vista Managemement Inc said it
+	<field name = "content">Vista Managemement Inc said it
 has obtained notice of the availability of insurance guarantees
 on 60 mln dlrs of leasing receivable bonds of its CBS Leasing
 subsidiary from Developers Insurance Co, allowing the bonds to

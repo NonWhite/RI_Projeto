@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 01:28:02.49</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f4098reute
-u f BC-STUDY-PREDICTS-U.S.-D   03-17 0109</field>
-	<field name = "TITLE">STUDY PREDICTS U.S. DEPENDENCE ON FOREIGN OIL</field>
+	<field name = "titulo">STUDY PREDICTS U.S. DEPENDENCE ON FOREIGN OIL</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">A government study has concluded the
+	<field name = "content">A government study has concluded the
 U.S. Will be dependent on oil from the middle east into the
 next century and must take steps to reduce its vulnerability,
 the New York Times said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:14:48.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1939reute
-r f BC-MANUFACTURERS-NAT'L-   06-19 0101</field>
-	<field name = "TITLE">MANUFACTURERS NAT'L MNTL.O> ADDS LOAN LOSSES</field>
+	<field name = "titulo">MANUFACTURERS NAT'L MNTL.O> ADDS LOAN LOSSES</field>
 	<field name = "DATELINE">DETROIT, June 19 -</field>
-	<field name = "BODY">Manufacturers National Corp said it will
+	<field name = "content">Manufacturers National Corp said it will
 add 30.4 mln dlrs to its reserve to cover exposure for Latin
 American loans.
     It said the added reserves are expected to result in a

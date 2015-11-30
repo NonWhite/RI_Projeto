@@ -4,13 +4,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0913
-reute
-r f BC-ICI-ICI>-SEEKS-GAINS   03-02 0109</field>
-	<field name = "TITLE">ICI ICI> SEEKS GAINS IN SPECIALTY BUSINESSES</field>
+	<field name = "titulo">ICI ICI> SEEKS GAINS IN SPECIALTY BUSINESSES</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Imperial Chemical Industries PLC, the
+	<field name = "content">Imperial Chemical Industries PLC, the
 largest chemical company in the United Kingdom, will expand its
 specialty chemicals and drug businesses this year, and better
 its 1986 results, said chairman-elect Denys Henderson.

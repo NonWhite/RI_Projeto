@@ -3,13 +3,10 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">housing</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f2383reute
-u f BC-INTEREST-RATES-HURT-U   06-29 0100</field>
-	<field name = "TITLE">INTEREST RATES HURT U.S. MAY HOUSING SALES</field>
+	<field name = "titulo">INTEREST RATES HURT U.S. MAY HOUSING SALES</field>
 	<field name = "AUTHOR">By Steven Radwell, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Sales of new single-family homes
+	<field name = "content">Sales of new single-family homes
 tumbled 14.9 pct in May from April levels because of higher
 mortgage interest rates, analysts said.
     "There should be another month or two of very weak new home

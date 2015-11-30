@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:24:22.80</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f2786reute
-h f BC-U.K.-AIRPORT-AUTHORIT   03-16 0116</field>
-	<field name = "TITLE">U.K. AIRPORT AUTHORITY TO BE PRIVATISED IN SUMMER</field>
+	<field name = "titulo">U.K. AIRPORT AUTHORITY TO BE PRIVATISED IN SUMMER</field>
 	<field name = "DATELINE">LONDON, March 16 - State-owned BAA PLC> -</field>
-	<field name = "BODY">formerly the
+	<field name = "content">formerly the
 British Airports Authority - is to be privatised in June or
 July of this year, Transport Secretary John Moore told
 Parliament.

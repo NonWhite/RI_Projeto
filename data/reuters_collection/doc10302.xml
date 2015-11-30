@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 03:26:09.38F</field>
-	<field name = "UNKNOWN">f0146reute</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">b f BC-FISONS-RAISING-110-ML   03-27 0100</field>
-	<field name = "TITLE">FISONS RAISING 110 MLN STG IN SHARE PLACING</field>
+	<field name = "titulo">FISONS RAISING 110 MLN STG IN SHARE PLACING</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">Fisons Plc FISN.L> said it planned to
+	<field name = "content">Fisons Plc FISN.L> said it planned to
 raise about 110 mln stg through an international placing of up
 to 18 mln new shares, mainly in Europe and the Far East.
     The operation would be conducted by a syndicate of

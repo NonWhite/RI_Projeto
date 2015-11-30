@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">lawson</field>
-	<field name = "UNKNOWN">RM V
-f1243reute
-b f BC-/LAWSON-SAYS-SOME-COU   04-09 0099</field>
-	<field name = "TITLE">LAWSON SAYS SOME COUNTRIES COULD CUT RATES</field>
+	<field name = "titulo">LAWSON SAYS SOME COUNTRIES COULD CUT RATES</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Nigel Lawson, Britain's Chancellor of
+	<field name = "content">Nigel Lawson, Britain's Chancellor of
 the Exchequer, said some countries may need to cut interest
 rates with the aim of maintaining exchange rate stability.
     Speaking to journalists one day after the Group of Seven

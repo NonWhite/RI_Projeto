@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 15:23:15.71</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f2367reute
-u f BC-ROYAL-BANK-WARNS-REGU   03-26 0104</field>
-	<field name = "TITLE">ROYAL BANK WARNS REGULATORY HARMONY NEEDED</field>
+	<field name = "titulo">ROYAL BANK WARNS REGULATORY HARMONY NEEDED</field>
 	<field name = "DATELINE">OTTAWA, March 26 -</field>
-	<field name = "BODY">Royal Bank of Canada Chairman Allan
+	<field name = "content">Royal Bank of Canada Chairman Allan
 Taylor said Ottawa and the provinces risk weakening the
 country's financial system if they do not agree on a harmonized
 regulatory regime for financial institutions.

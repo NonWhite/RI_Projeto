@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 09:35:03.37</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0333reute
-u f BC-MINSTAR-INC-MNST>-4T   03-03 0064</field>
-	<field name = "TITLE">MINSTAR INC MNST> 4TH QTR NET</field>
+	<field name = "titulo">MINSTAR INC MNST> 4TH QTR NET</field>
 	<field name = "DATELINE">MINNEAPOLIS, MINN., March 3 -</field>
-	<field name = "BODY">Oper shr loss 31 cts vs loss 30 cts
+	<field name = "content">Oper shr loss 31 cts vs loss 30 cts
     Oper net loss 5,429,000 vs loss 5,216,000
     Revs 257.5 mln vs 243.6 mln
     Avg shrs 17.5 mln vs 13.5 mln

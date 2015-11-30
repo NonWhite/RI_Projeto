@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">stoltenberg</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">RM V 
-f0523reute
-b f BC-STOLTENBERG-SAYS-BAKE   10-20 0094</field>
-	<field name = "TITLE">STOLTENBERG SAYS BAKER MEETING UNDERSCORES ACCORD</field>
+	<field name = "titulo">STOLTENBERG SAYS BAKER MEETING UNDERSCORES ACCORD</field>
 	<field name = "DATELINE">BONN, Oct 20 -</field>
-	<field name = "BODY">West German Finance minister Gerhard
+	<field name = "content">West German Finance minister Gerhard
 Stoltenberg said the meeting on Monday with U.S. Treasury
 Secretary James Baker underscored the determination of the U.S.
 And West Germany to continue close cooperation to stabilise

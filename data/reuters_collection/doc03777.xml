@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 12:43:30.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0916reute
-r f BC-WASTE-MANAGEMENT-WMX   03-11 0071</field>
-	<field name = "TITLE">WASTE MANAGEMENT WMX> SEEKS SUIT'S DISMISSAL</field>
+	<field name = "titulo">WASTE MANAGEMENT WMX> SEEKS SUIT'S DISMISSAL</field>
 	<field name = "DATELINE">OAK BROOK, ILL., March 11 -</field>
-	<field name = "BODY">Waste Management Inc said it
+	<field name = "content">Waste Management Inc said it
 filed a motion in U.S. District Court for the southern district
 of Ohio to dismiss the counterclaim brought against it by
 Chemlawn Corp CHEM>.

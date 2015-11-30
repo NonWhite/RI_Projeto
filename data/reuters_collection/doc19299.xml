@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:33:23.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f1830reute
-r f BC-CRAZY-EDDIE-CRZY.O>   06-19 0114</field>
-	<field name = "TITLE">CRAZY EDDIE CRZY.O> REMAINS ON S/P CREDITWATCH</field>
+	<field name = "titulo">CRAZY EDDIE CRZY.O> REMAINS ON S/P CREDITWATCH</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it is
+	<field name = "content">Standard and Poor's Corp said it is
 keeping Crazy Eddie Inc's 81 mln dlrs of B-rated convertible
 subordinated debt on creditwatch with negatives implications.
     The company's implied senior debt rating is BB-minus.

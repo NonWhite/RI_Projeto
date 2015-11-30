@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 10:50:29.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1208reute
-r f BC-M/A-COM-MAI>-EXPANDS   04-01 0100</field>
-	<field name = "TITLE">M/A-COM MAI> EXPANDS BUYBACK, NAMES PRESIDENT</field>
+	<field name = "titulo">M/A-COM MAI> EXPANDS BUYBACK, NAMES PRESIDENT</field>
 	<field name = "DATELINE">BURLINGTON, Mass., April 1 -</field>
-	<field name = "BODY">M/A-Com Inc said its board
+	<field name = "content">M/A-Com Inc said its board
 authorized the repurchase of up to five mln of the company's
 common shares from time to time in the open market or private 
 transactions.

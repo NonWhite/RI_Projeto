@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 17:00:10.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0981reute
-u f BC-GM-GM>-TO-REPUCHASE   03-03 0085</field>
-	<field name = "TITLE">GM GM> TO REPUCHASE COMMON STOCK</field>
+	<field name = "titulo">GM GM> TO REPUCHASE COMMON STOCK</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">General Motors Corp said its directors
+	<field name = "content">General Motors Corp said its directors
 authorized the repurchase of up to 20 pct of its 1.66 dlr par
 value common stock by the end of 1990.
     GM said the level of repurchases this year will not exceed

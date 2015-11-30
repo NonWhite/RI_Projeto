@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 17:05:44.62</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0697reute
-r f BC-POWER-CORP-DETAILS-PR   03-11 0039</field>
-	<field name = "TITLE">POWER CORP DETAILS PREFERRED SHARE SUBSCRIPTION</field>
+	<field name = "titulo">POWER CORP DETAILS PREFERRED SHARE SUBSCRIPTION</field>
 	<field name = "DATELINE">MONTREAL, March 11 -</field>
-	<field name = "BODY">(Power Corp of Canada) said it
+	<field name = "content">(Power Corp of Canada) said it
 received subscriptions for 252,223 shares of its recent issue
 of participating preferred shares for total proceeds of 4.3 mln
 dlrs.

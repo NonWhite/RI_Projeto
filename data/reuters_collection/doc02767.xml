@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 13:41:01.99</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0092reute
-r f BC-CHICAGO-MILWAUKEE-CH   03-06 0092</field>
-	<field name = "TITLE">CHICAGO MILWAUKEE CHG> GREETS SHEARSON STAKE</field>
+	<field name = "titulo">CHICAGO MILWAUKEE CHG> GREETS SHEARSON STAKE</field>
 	<field name = "DATELINE">CHICAGO, March 6 -</field>
-	<field name = "BODY">Chicago Milwaukee Corp said it welcomed
+	<field name = "content">Chicago Milwaukee Corp said it welcomed
 an investment by Shearson Lehman Brothers Inc in its company.
     Yesterday, Shearson Lehman, a subsidiary of American
 Express Co (AXP), disclosed in a Securities and Exchange

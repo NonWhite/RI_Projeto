@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 10:41:44.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1261reute
-u f BC-IBM-IBM>-DOWN-ON-LOW   04-02 0099</field>
-	<field name = "TITLE">IBM IBM> DOWN ON LOWER MORGAN STANLEY OPINION</field>
+	<field name = "titulo">IBM IBM> DOWN ON LOWER MORGAN STANLEY OPINION</field>
 	<field name = "DATELINE">NEW YORK, April 2 -</field>
-	<field name = "BODY">The stock of International Business
+	<field name = "content">The stock of International Business
 Machine Corp declined slightly today and shares of Digital
 Equipment Corp DEC> rose after brokerage house Morgan Stanley
 and Co reiterated a negative opinion on IBM and a buy on

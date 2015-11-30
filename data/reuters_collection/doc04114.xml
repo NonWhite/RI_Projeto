@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 07:09:26.65</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E V RM
-f0526reute
-b f BC-embargoed-0700edt-CAN   03-12 0095</field>
-	<field name = "TITLE">CANADA JANUARY TRADE SURPLUS 533 MLN DLRS</field>
+	<field name = "titulo">CANADA JANUARY TRADE SURPLUS 533 MLN DLRS</field>
 	<field name = "DATELINE">OTTAWA, Mar 12 -</field>
-	<field name = "BODY">Canada had a trade surplus of 533 mln dlrs
+	<field name = "content">Canada had a trade surplus of 533 mln dlrs
 in January compared with an upward revised 965 mln dlrs surplus
 in December, Statistics Canada said.
     The December surplus originally was reported at 964 mln

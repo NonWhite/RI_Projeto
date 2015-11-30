@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 09:38:43.63</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f0891reute
-b f BC-transcanada-trp>-boo   04-21 0085</field>
-	<field name = "TITLE">TRANSCANADA TRP> UPS DOME DMP> BID - REPORT</field>
+	<field name = "titulo">TRANSCANADA TRP> UPS DOME DMP> BID - REPORT</field>
 	<field name = "DATELINE">TORONTO, April 21 -</field>
-	<field name = "BODY">TransCanada PipeLines Ltd has raised
+	<field name = "content">TransCanada PipeLines Ltd has raised
 its takeover offer for Dome Petroleum Ltd to 5.5 billion
 Canadian dlrs from 4.3 billion, according to a report on the
 Canadian Broadcasting Corp (CBC).

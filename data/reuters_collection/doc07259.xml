@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">F
-f1720reute
-u f BC-SOLAR-SYSTEMS-SSDN>,   03-19 0101</field>
-	<field name = "TITLE">SOLAR SYSTEMS SSDN>, INKEY OF SPAIN SET PACT</field>
+	<field name = "titulo">SOLAR SYSTEMS SSDN>, INKEY OF SPAIN SET PACT</field>
 	<field name = "DATELINE">MIAMI, March 19 -</field>
-	<field name = "BODY">Solar Systems by Sundance Inc said it
+	<field name = "content">Solar Systems by Sundance Inc said it
 agreed to buy a 45 pct interest in a company that will sell
 condoms produced by INKEY SA of Spain.
     It said a spermicide used in INKEY's condoms contains an

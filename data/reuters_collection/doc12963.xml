@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 11:56:26.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1471reute
-r f BC-MOODY'S-MAY-UPGRADE-U   04-03 0115</field>
-	<field name = "TITLE">MOODY'S MAY UPGRADE UPJOHN UPJ> DEBT RATINGS</field>
+	<field name = "titulo">MOODY'S MAY UPGRADE UPJOHN UPJ> DEBT RATINGS</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 may upgrade the ratings on Upjohn Co's 400 mln dlrs of debt.
     The agency said it will study the effect new products may
 have on Upjohn's earnings potential. Moody's will also assess

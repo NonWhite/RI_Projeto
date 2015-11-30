@@ -3,12 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">egypt</field>
-	<field name = "UNKNOWN">C G L
-f0932reute
-u f BC-CCC-ACCEPTS-BONUS-BID   03-25 0104</field>
-	<field name = "TITLE">CCC ACCEPTS BONUS BID ON CATTLE FOR EGYPT - USDA</field>
+	<field name = "titulo">CCC ACCEPTS BONUS BID ON CATTLE FOR EGYPT - USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The Commodity Credit Corporation has
+	<field name = "content">The Commodity Credit Corporation has
 accepted a bid for an export bonus to cover the sale of 760
 head of dairy cattle to Egypt, the U.S. Agriculture Department
 said.

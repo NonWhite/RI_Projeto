@@ -2,13 +2,10 @@
 	<field name = "DATE">30-MAR-1987 03:02:08.19</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0153reute
-u f BC-JAPANESE-KEEN-TO-ENTE   03-30 0103</field>
-	<field name = "TITLE">JAPANESE KEEN TO ENTER GERMAN PRIMARY BOND MARKET</field>
+	<field name = "titulo">JAPANESE KEEN TO ENTER GERMAN PRIMARY BOND MARKET</field>
 	<field name = "AUTHOR">By Alice Ratcliffe, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 30 -</field>
-	<field name = "BODY">Japanese securities houses and banks
+	<field name = "content">Japanese securities houses and banks
 are eager to enter the market for lead-management of mark
 eurobonds when the ban on Japanese institutions is lifted, but
 the entry may be difficult, Japanese bankers said.

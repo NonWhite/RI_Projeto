@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 14:10:04.86</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0341reute
-d f BC-SCITEX-CORP-SCIXF>-4   03-05 0073</field>
-	<field name = "TITLE">SCITEX CORP SCIXF> 4TH QTR LOSS</field>
+	<field name = "titulo">SCITEX CORP SCIXF> 4TH QTR LOSS</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Shr loss 46 cts vs loss 1.17 dlrs
+	<field name = "content">Shr loss 46 cts vs loss 1.17 dlrs
     Net loss 4,990,000 vs loss 12.8 mln
     Revs 47.0 mln vs 42.3 mln
     Year

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 13:07:48.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1796reute
-b f BC-HARCOURT-HBJ>-HAS-NO   06-01 0089</field>
-	<field name = "TITLE">HARCOURT HBJ> HAS NO COMMENT ON SUIT</field>
+	<field name = "titulo">HARCOURT HBJ> HAS NO COMMENT ON SUIT</field>
 	<field name = "DATELINE">New York, June 1 -</field>
-	<field name = "BODY">Harcourt Brace Jovanovich Inc said it
+	<field name = "content">Harcourt Brace Jovanovich Inc said it
 has no comment at this time on the lawsuit filed against it by
 British publisher Robert Maxwell.
     In the suit, Maxwell's British Printing and Communication

@@ -8,12 +8,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">zse</field>
-	<field name = "UNKNOWN">F 
-f2312reute
-u f BC-VOLVO-TO-BE-LISTED-ON   06-18 0106</field>
-	<field name = "TITLE">VOLVO TO BE LISTED ON SWISS BOURSES</field>
+	<field name = "titulo">VOLVO TO BE LISTED ON SWISS BOURSES</field>
 	<field name = "DATELINE">STOCKHOLM, June 18 -</field>
-	<field name = "BODY">Sweden's Volvo AB VOLV ST> said its
+	<field name = "content">Sweden's Volvo AB VOLV ST> said its
 B-Free shares are to be listed on the Zurich, Basle and Geneva
 bourses in the autumn.
     The company said in a statement that the new listing would

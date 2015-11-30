@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 17:23:54.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F RM
-f2743reute
-r f BC-NATIONAL-BANKING-POSS   03-26 0108</field>
-	<field name = "TITLE">NATIONAL BANKING POSSIBLE BY 1991, HELLER SAYS</field>
+	<field name = "titulo">NATIONAL BANKING POSSIBLE BY 1991, HELLER SAYS</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Federal Reserve Governor Robert Heller
+	<field name = "content">Federal Reserve Governor Robert Heller
 said that there should be something approaching full nationwide
 banking in the U.S. by 1990 or 1991.
     While much of the basic reform in anachronistic interstate

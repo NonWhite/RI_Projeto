@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:34:27.68</field>
-	<field name = "UNKNOWN">E F
-f0539
-reute
-u f BC-MURGOLD-RESOURCES-MG   03-02 0104</field>
-	<field name = "TITLE">MURGOLD RESOURCES MGDVF> HAS PARTIAL ASSAYS</field>
+	<field name = "titulo">MURGOLD RESOURCES MGDVF> HAS PARTIAL ASSAYS</field>
 	<field name = "DATELINE">TORONTO, March 2 -</field>
-	<field name = "BODY">Murgold Resources Inc said the number
+	<field name = "content">Murgold Resources Inc said the number
 three vein zone at its Timmins, Ontario property yielded
 partial assay results of 1.08 ounces gold a short ton across an
 average width of 4.2 feet and length of 200 feet.

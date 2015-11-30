@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">yugoslavia</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0828reute
-r f BC-YUGOSLAVIAN-OIL-FIRM   03-14 0115</field>
-	<field name = "TITLE">YUGOSLAVIAN OIL FIRM STARTS WORKING WITH FRENCH</field>
+	<field name = "titulo">YUGOSLAVIAN OIL FIRM STARTS WORKING WITH FRENCH</field>
 	<field name = "DATELINE">BELGRADE, March 14 -</field>
-	<field name = "BODY">Yugoslavia's top oil and natural gas
+	<field name = "content">Yugoslavia's top oil and natural gas
 producer Ina-Naftaplin> has started to implement a cooperation
 contract signed last year with the French petrochemical concern
 Petro Chemie>, the official Tanjug news agency said.

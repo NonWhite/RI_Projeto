@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 15:01:59.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2187reute
-r f BC-PEPSICO-PEP>-NEW-JER   06-01 0093</field>
-	<field name = "TITLE">PEPSICO PEP> NEW JERSEY BOTTLING UNIT ON STRIKE</field>
+	<field name = "titulo">PEPSICO PEP> NEW JERSEY BOTTLING UNIT ON STRIKE</field>
 	<field name = "DATELINE">PURCHASE, N.Y., June 1 -</field>
-	<field name = "BODY">The New Jersey operations of
+	<field name = "content">The New Jersey operations of
 Pepsico Inc's Pepsicola Bottling Group in the New York
 metropolitan area have been struck by Teamsters Union Local
 125, a Pepsico spokesman said.

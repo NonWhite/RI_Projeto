@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">22-MAR-1987 01:32:43.80</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0032reute
-u f BC-FRANCE-TO-SIGN-DISNEY   03-22 0103</field>
-	<field name = "TITLE">FRANCE TO SIGN DISNEYLAND CONTRACT ON TUESDAY</field>
+	<field name = "titulo">FRANCE TO SIGN DISNEYLAND CONTRACT ON TUESDAY</field>
 	<field name = "DATELINE">PARIS, March 22 -</field>
-	<field name = "BODY">The French government said it would sign
+	<field name = "content">The French government said it would sign
 a contract with Walt Disney Co> on Tuesday for the
 construction of Europe's first Disneyland amusement park.
     A statement from the office of Prime Minister Jacques

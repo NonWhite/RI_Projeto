@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">romania</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">RM A
-f2482reute
-r f AM-TRADE   06-02 0083</field>
-	<field name = "TITLE">REAGAN SEEKS ROMANIA TRADE CONCESSION</field>
+	<field name = "titulo">REAGAN SEEKS ROMANIA TRADE CONCESSION</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">President Reagan called for continued
+	<field name = "content">President Reagan called for continued
 nondiscriminatory treatment for Romanian exports to the United
 States in the face of congressional opposition because of the
 Bucharest government's record on human rights.

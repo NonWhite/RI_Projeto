@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 16:40:35.27</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V
-f2598reute
-b f BC-u.s.-bank-borrowings   04-09 0106</field>
-	<field name = "TITLE">U.S. BANK DISCOUNT BORROWINGS 361 MLN DLRS</field>
+	<field name = "titulo">U.S. BANK DISCOUNT BORROWINGS 361 MLN DLRS</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">U.S. bank discount window borrowings
+	<field name = "content">U.S. bank discount window borrowings
 less extended credits averaged 361 mln dlrs a day in the week
 to Wednesday, April 8, the Federal Reserve said.
     Total daily borrowings in the week fell 99 mln dlrs to 591

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 16:14:16.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2289reute
-u f BC-CHRYSLER-C>-MOVE-CON   06-19 0097</field>
-	<field name = "TITLE">CHRYSLER C> MOVE CONTINUES TREND</field>
+	<field name = "titulo">CHRYSLER C> MOVE CONTINUES TREND</field>
 	<field name = "AUTHOR">By Steven Radwell, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Chrysler Corp is taking a small step
+	<field name = "content">Chrysler Corp is taking a small step
 away from automobiles and towards military contracting with the
 purchase of Electrospace Systems Inc ELE>, analysts said.
     "A chief goal of Chrysler is to gain military business for

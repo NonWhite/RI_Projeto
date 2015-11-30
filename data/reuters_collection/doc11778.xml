@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 00:42:56.47</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PEOPLE">hawke</field>
-	<field name = "UNKNOWN">RM
-f0018reute
-u f BC-HAWKE-DECIDES-AGAINST   04-01 0096</field>
-	<field name = "TITLE">HAWKE DECIDES AGAINST EARLY AUSTRALIAN ELECTION</field>
+	<field name = "titulo">HAWKE DECIDES AGAINST EARLY AUSTRALIAN ELECTION</field>
 	<field name = "DATELINE">SYDNEY, April 1 -</field>
-	<field name = "BODY">Prime Minister Bob Hawke has decided
+	<field name = "content">Prime Minister Bob Hawke has decided
 against an early election despite a leadership crisis in the
 opposition coalition, Australian government officials said.
     They said Hawke made the decision after meeting senior

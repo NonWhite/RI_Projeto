@@ -4,13 +4,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">F
-f0137reute
-u f BC-ECONOMIC-SPOTLIGHT--   03-11 0093</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - JAPAN PUSHES ITS CHIPMAKERS</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - JAPAN PUSHES ITS CHIPMAKERS</field>
 	<field name = "AUTHOR">By Linda Sieg, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 11 -</field>
-	<field name = "BODY">Japanese microchip makers are being
+	<field name = "content">Japanese microchip makers are being
 strong-armed into compliance with a U.S.-Japan pact on
 semiconductors halting predatory pricing and opening Japan's
 market to foreign chips, industry analysts said.

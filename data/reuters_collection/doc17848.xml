@@ -2,13 +2,10 @@
 	<field name = "DATE">1-JUN-1987 17:46:32.84</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2658reute
-r f BC-INVESTORS-MAY-TAKE-CO   06-01 0102</field>
-	<field name = "TITLE">INVESTORS MAY TAKE COMPUTERLAND PUBLIC</field>
+	<field name = "titulo">INVESTORS MAY TAKE COMPUTERLAND PUBLIC</field>
 	<field name = "AUTHOR">BY LAWRENCE EDELMAN, REUTERS</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">The investor group that has agreed to
+	<field name = "content">The investor group that has agreed to
 buy Computerland Corp> will likely take the leading personal
 computer retailer public or sell it to other investors,
 industry analysts said.

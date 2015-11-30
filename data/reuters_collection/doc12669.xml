@@ -3,12 +3,9 @@
 	<field name = "TOPICS">heat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nymex</field>
-	<field name = "UNKNOWN">C
-f2011reute
-d f BC-NYMEX-SCHEDULES-START   04-02 0128</field>
-	<field name = "TITLE">NYMEX SCHEDULES START OF HEATING OIL OPTIONS</field>
+	<field name = "titulo">NYMEX SCHEDULES START OF HEATING OIL OPTIONS</field>
 	<field name = "DATELINE">NEW YORK, April 2 -</field>
-	<field name = "BODY">The New York Mercantile Exchange said
+	<field name = "content">The New York Mercantile Exchange said
 options on heating oil futures will begin trading June 26.
     This would be the second options contract to trade at the
 exchange. NYMEX introduced crude oil options last November.

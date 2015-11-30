@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">RM
-f0850reute
-r f BC-REAGAN-SAYS-HE-WRONG   03-14 0115</field>
-	<field name = "TITLE">REAGAN SAYS HE WRONG IN SELLING ARMS TO IRAN</field>
+	<field name = "titulo">REAGAN SAYS HE WRONG IN SELLING ARMS TO IRAN</field>
 	<field name = "DATELINE">WASHINGTON, March 15 -</field>
-	<field name = "BODY">President Reagan for the first time
+	<field name = "content">President Reagan for the first time
 admitted he was wrong to sell arms to Iran in an initiative
 which four months ago plunged him into the worst crisis of his
 six-year-old presidency.

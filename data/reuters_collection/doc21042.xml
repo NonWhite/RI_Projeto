@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 14:55:34.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2687reute
-d f BC-SAFEGUARD-SFGD.O>-TO   10-19 0070</field>
-	<field name = "TITLE">SAFEGUARD SFGD.O> TO BUY BACK MORE SHARES</field>
+	<field name = "titulo">SAFEGUARD SFGD.O> TO BUY BACK MORE SHARES</field>
 	<field name = "DATELINE">ANAHEIM, Calif., Oct 19 -</field>
-	<field name = "BODY">Safeguard Health Enterprises Inc
+	<field name = "content">Safeguard Health Enterprises Inc
 said its board authorized management to step up its stock
 repurchase program by doubling the repurchase ceiling to 1.6
 mln shares.

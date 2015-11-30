@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 18:16:43.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2699reute
-r f BC-ARIZONA-NUCLEAR-PLANT   06-01 0089</field>
-	<field name = "TITLE">ARIZONA NUCLEAR PLANT RESTARTED AFTER SHUTDOWN</field>
+	<field name = "titulo">ARIZONA NUCLEAR PLANT RESTARTED AFTER SHUTDOWN</field>
 	<field name = "DATELINE">WINTERSBURG, Ariz., June 1 -</field>
-	<field name = "BODY">The Palo Verde Unit 1 nuclear
+	<field name = "content">The Palo Verde Unit 1 nuclear
 power plant returned to service today following an automatic
 shutdown early Saturday morning, the Arizona Nuclear Power
 Project said.

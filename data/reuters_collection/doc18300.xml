@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 16:45:10.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2654reute
-u f BC-AHMANSON-AHM>-TO-TAK   06-02 0074</field>
-	<field name = "TITLE">AHMANSON AHM> TO TAKE 2ND QTR WRITEOFF</field>
+	<field name = "titulo">AHMANSON AHM> TO TAKE 2ND QTR WRITEOFF</field>
 	<field name = "DATELINE">LOS ANGELES, June 2 -</field>
-	<field name = "BODY">H.F. Ahmanson and Co said second
+	<field name = "content">H.F. Ahmanson and Co said second
 quarter earnings will include the write-off of the company's 24
 mln dlr investment in the Federal Savings and Loans Insurance
 Corporation.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 14:36:52.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2072reute
-d f BC-WORTHERN-BANKING-WOR   03-25 0068</field>
-	<field name = "TITLE">WORTHERN BANKING WOR> IN AGREEMENT WITH FEDS</field>
+	<field name = "titulo">WORTHERN BANKING WOR> IN AGREEMENT WITH FEDS</field>
 	<field name = "DATELINE">LITTLE ROCK, Ark., March 25 -</field>
-	<field name = "BODY">Worthern Banking Corp said it
+	<field name = "content">Worthern Banking Corp said it
 entered into a formal written agreement with the Federal
 Reserve Bank of St. Louis.
     The corporation said it will submit written plans and

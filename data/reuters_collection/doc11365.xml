@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 10:46:32.43</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1341reute
-d f BC-FIAT-PLANS-MORE-INVOL   03-31 0112</field>
-	<field name = "TITLE">FIAT PLANS MORE INVOLVEMENT IN HIGH TECH SECTORS</field>
+	<field name = "titulo">FIAT PLANS MORE INVOLVEMENT IN HIGH TECH SECTORS</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">Italian automotive group Fiat SpA
+	<field name = "content">Italian automotive group Fiat SpA
 FIAT.MI> plans greater involvement in emerging high-technology
 sectors which it believes will represent an increasing share of
 advanced economies, a group executive said.

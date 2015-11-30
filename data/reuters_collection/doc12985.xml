@@ -4,12 +4,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">portugal</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f1610reute
-r f BC-PORTUGAL'S-GDP-FORECA   04-03 0117</field>
-	<field name = "TITLE">PORTUGAL'S GDP FORECAST TO GROW FOUR PCT THIS YEAR</field>
+	<field name = "titulo">PORTUGAL'S GDP FORECAST TO GROW FOUR PCT THIS YEAR</field>
 	<field name = "DATELINE">LISBON, April 3 -</field>
-	<field name = "BODY">Portugal's Gross Domestic Product (GDP)
+	<field name = "content">Portugal's Gross Domestic Product (GDP)
 will grow around four pct this year, the same rate as in 1986,
 according to a Bank of Portugal forecast.
     Total investment this year, the country's second as a

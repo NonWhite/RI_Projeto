@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 12:02:07.44</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">panama</field>
-	<field name = "UNKNOWN">C G L M T
-f1490reute
-d f AM-DRUGS-MEXICO   04-03 0123</field>
-	<field name = "TITLE">U.S. SENATE VOTES TO CUT PANAMA AID</field>
+	<field name = "titulo">U.S. SENATE VOTES TO CUT PANAMA AID</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The Democratic-controlled U.S. Senate
+	<field name = "content">The Democratic-controlled U.S. Senate
 voted to slash foreign aid to Panama because of drug
 trafficking, but sided with President Reagan by refusing to cut
 U.S. aid to Mexico as a protest it is failing to cooperate

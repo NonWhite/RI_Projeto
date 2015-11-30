@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 15:52:58.78</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f6442reute
-d f BC-majestic-contractors   03-17 0061</field>
-	<field name = "TITLE">MAJESTIC CONTRACTORS TO PURCHASE SHARES</field>
+	<field name = "titulo">MAJESTIC CONTRACTORS TO PURCHASE SHARES</field>
 	<field name = "DATELINE">Edmonton, Alberta, March 17 -</field>
-	<field name = "BODY">Majestic Contractors Ltd>
+	<field name = "content">Majestic Contractors Ltd>
 said it will purchase up to a maximum of 403,828 of its common
 shares on the Toronto Stock Exchange at the market price.
     Purchases will begin on April 13, 1987 and will end when

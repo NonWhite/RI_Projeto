@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 07:59:38.40</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0667reute
-b f BC-SUMITOMO-BANK-HAS-500   03-26 0088</field>
-	<field name = "TITLE">SUMITOMO BANK HAS 500 MLN STG CD PROGRAM</field>
+	<field name = "titulo">SUMITOMO BANK HAS 500 MLN STG CD PROGRAM</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">Sumitomo Bank Ltd said it established a
+	<field name = "content">Sumitomo Bank Ltd said it established a
 500 mln stg certificate of deposit (CD) issuance program,
 arranged by Morgan Grenfell and Co Ltd.
     Dealers will be Morgan Grenfell, Lloyds Merchant Bank Ltd,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 07:32:40.92</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">F
-f0645reute
-r f BC-ALITALIA-PILOTS-START   03-30 0100</field>
-	<field name = "TITLE">ALITALIA PILOTS START WEEK OF INDUSTRIAL ACTION</field>
+	<field name = "titulo">ALITALIA PILOTS START WEEK OF INDUSTRIAL ACTION</field>
 	<field name = "DATELINE">ROME, March 30 -</field>
-	<field name = "BODY">Alitalia AZPI.MI> pilots started five
+	<field name = "content">Alitalia AZPI.MI> pilots started five
 days of industrial action today causing cancellations to dozens
 of domestic flights and chaos to several international
 services, Italian airport officials said.

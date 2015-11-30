@@ -6,12 +6,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "TOPICS">soy-oil</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G
-f0375reute
-u f BC-CARGILL-U.K.-STRIKE-T   04-02 0097</field>
-	<field name = "TITLE">CARGILL U.K. STRIKE TALKS BREAK OFF WITHOUT RESULT</field>
+	<field name = "titulo">CARGILL U.K. STRIKE TALKS BREAK OFF WITHOUT RESULT</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">Two days of talks between management and
+	<field name = "content">Two days of talks between management and
 unions to try to end the 3-1/2 month labour dispute at Cargill
 U.K. Ltd's oilseed crushing plant at Seaforth ended yesterday
 without resolving the situation, a company spokesman said.

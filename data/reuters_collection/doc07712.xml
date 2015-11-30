@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">liffe</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">A RM
-f1131reute
-r f BC-CBT-SEES-LIFFE-LINK-O   03-20 0074</field>
-	<field name = "TITLE">CBT SEES LIFFE LINK OPERATING BY EARLY 1988</field>
+	<field name = "titulo">CBT SEES LIFFE LINK OPERATING BY EARLY 1988</field>
 	<field name = "DATELINE">BOCA RATON, Fla, March 20 -</field>
-	<field name = "BODY">A trading link between the
+	<field name = "content">A trading link between the
 Chicago Board of Trade, CBT, and the London International
 Financial Futures Exchange, LIFFE, should be in operation by
 the beginning of next year, CBT Chairman Karsten Mahlmann said.

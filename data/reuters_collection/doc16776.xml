@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0106reute
-u f BC-JAPAN-FARM-REFORM-A-K   04-17 0098</field>
-	<field name = "TITLE">JAPAN FARM REFORM A KEY TO TRIMMING TRADE SURPLUS</field>
+	<field name = "titulo">JAPAN FARM REFORM A KEY TO TRIMMING TRADE SURPLUS</field>
 	<field name = "AUTHOR">By Linda Sieg, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 17 -</field>
-	<field name = "BODY">Basic reform of Japan's protected farm
+	<field name = "content">Basic reform of Japan's protected farm
 sector is a key to shifting its economy away from export to
 domestic-led growth, a vital step if it is to trim its trade
 surplus, securities analysts said.

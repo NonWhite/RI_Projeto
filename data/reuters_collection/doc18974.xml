@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 15:51:15.23</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F RM Y 
-f4501reute
-u f BC-NOVA-NVAA.TO>-CONSID   06-18 0114</field>
-	<field name = "TITLE">NOVA NVAA.TO> CONSIDERING BID FOR DOME DMP></field>
+	<field name = "titulo">NOVA NVAA.TO> CONSIDERING BID FOR DOME DMP></field>
 	<field name = "DATELINE">Calgary, Alberta, June 18 -</field>
-	<field name = "BODY">Nova Corp is considering a
+	<field name = "content">Nova Corp is considering a
 takeover bid for Dome Petroleum Ltd, either alone or as part of
 a consortium, Nova chairman Bob Blair said.
     "We are thinking about making an offer to Dome or Amoco

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f1383reute
-u f BC-BP-SAYS-NO-PLANS-TO-C   04-03 0113</field>
-	<field name = "TITLE">BP SAYS NO PLANS TO CLOSE SWEDISH REFINERY</field>
+	<field name = "titulo">BP SAYS NO PLANS TO CLOSE SWEDISH REFINERY</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">The British Petroleum Co Plc BP.L> said
+	<field name = "content">The British Petroleum Co Plc BP.L> said
 it had no plans to close its refinery in Gothenburg, despite
 forecasts by a Swedish finance ministry committee that it might
 be planning such a move.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 11:41:34.25</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F
-f1410reute
-d f BC-HAGENSBORG-RESOURCES   04-24 0100</field>
-	<field name = "TITLE">HAGENSBORG RESOURCES HGS.V> RAISES SEVEN MLN</field>
+	<field name = "titulo">HAGENSBORG RESOURCES HGS.V> RAISES SEVEN MLN</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, April 24 -</field>
-	<field name = "BODY">Hagensborg
+	<field name = "content">Hagensborg
 Resources Ltd said it will receive a seven mln dlrs Canadian
 line of credit from the Bank of Novia Scotia to develop a
 salmon farming operation.

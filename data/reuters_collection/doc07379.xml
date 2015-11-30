@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 15:30:02.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2256reute
-u f BC-3M-MMM>-CANNOT-ACCOU   03-19 0055</field>
-	<field name = "TITLE">3M MMM> CANNOT ACCOUNT FOR STOCK RISE</field>
+	<field name = "titulo">3M MMM> CANNOT ACCOUNT FOR STOCK RISE</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 19 -</field>
-	<field name = "BODY">Minnesota Mining and Manufacturing
+	<field name = "content">Minnesota Mining and Manufacturing
 Co knows of no reason for the rise in its stock, trading at
 129, up 3-1/4 on the New York Stock Exchange, a company
 spokeswoman told Reuters.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:15:24.80</field>
-	<field name = "UNKNOWN">RM M
-f0159reute
-r f BC-TOKYO-GOLD-FUTURES-CL   04-07 0076</field>
-	<field name = "TITLE">TOKYO GOLD FUTURES CLOSE MOSTLY EASIER</field>
+	<field name = "titulo">TOKYO GOLD FUTURES CLOSE MOSTLY EASIER</field>
 	<field name = "DATELINE">TOKYO, April 7 -</field>
-	<field name = "BODY">Yen-denominated gold futures closed down
+	<field name = "content">Yen-denominated gold futures closed down
 three to 10 yen per gramme following the lower New York market
 except distant December which was unchanged, dealers said.
     Trading in gold was featureless as most speculators'

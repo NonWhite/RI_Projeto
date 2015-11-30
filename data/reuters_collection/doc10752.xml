@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 06:23:08.51</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0502reute
-b f BC-CERTAINTEED-SEEKS-150   03-30 0101</field>
-	<field name = "TITLE">CERTAINTEED SEEKS 150 MLN DLR CREDIT FACILITY</field>
+	<field name = "titulo">CERTAINTEED SEEKS 150 MLN DLR CREDIT FACILITY</field>
 	<field name = "DATELINE">LONDON, March 30 -</field>
-	<field name = "BODY">CertainTeed Corp is seeking a 150 mln
+	<field name = "content">CertainTeed Corp is seeking a 150 mln
 dlr multiple facility, which will incorporate a revolving
 credit and allow the borrower to issue short-term advances,
 euronotes and euro-commercial paper on an uncommitted basis,

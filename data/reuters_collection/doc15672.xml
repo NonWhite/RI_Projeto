@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:49:54.73</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f1448reute
-b f BC-HONEYWELL-BULL-SEEKIN   04-09 0046</field>
-	<field name = "TITLE">HONEYWELL BULL SEEKING 400 MLN DLR FACILITY</field>
+	<field name = "titulo">HONEYWELL BULL SEEKING 400 MLN DLR FACILITY</field>
 	<field name = "DATELINE">PARIS, April 9 -</field>
-	<field name = "BODY">Honeywell Bull> is seeking a 400 mln dlr,
+	<field name = "content">Honeywell Bull> is seeking a 400 mln dlr,
 five-year multi option facility, arranger Banque Nationale de
 Paris said.
     The facility will be co-arranged by Morgan Guaranty and The

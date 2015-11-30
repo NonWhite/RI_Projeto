@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 02:44:37.52</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0090reute
-u f BC-JAPAN-SHIPBUILDERS-SE   03-13 0107</field>
-	<field name = "TITLE">JAPAN SHIPBUILDERS SEEK CARTEL TO RESTRICT OUTPUT</field>
+	<field name = "titulo">JAPAN SHIPBUILDERS SEEK CARTEL TO RESTRICT OUTPUT</field>
 	<field name = "DATELINE">TOKYO, March 13 -</field>
-	<field name = "BODY">Japanese shipbuilders have applied to the
+	<field name = "content">Japanese shipbuilders have applied to the
 state's Fair Trade Commission to form a cartel to restrict
 tonnage built to about half of total capacity for the year
 starting April 1, officials of the Shipbuilders Association of

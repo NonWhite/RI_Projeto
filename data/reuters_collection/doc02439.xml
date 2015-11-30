@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 16:15:26.32</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0759reute
-s f BC-HUMANA-INC-HUM>-REGU   03-05 0024</field>
-	<field name = "TITLE">HUMANA INC HUM> REGULAR DIVIDEND</field>
+	<field name = "titulo">HUMANA INC HUM> REGULAR DIVIDEND</field>
 	<field name = "DATELINE">LOUISVILLE, Ky., March 5 -</field>
-	<field name = "BODY">Qtly div 19 cts vs 19 cts in prior qtr
+	<field name = "content">Qtly div 19 cts vs 19 cts in prior qtr
     Payable May one
     Record April two
  Reuter</field>

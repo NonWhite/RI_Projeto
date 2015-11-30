@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:26:27.22</field>
-	<field name = "UNKNOWN">F
-f0169reute
-b f BC-EQUITIES-MAINLY-HIGHE   04-07 0116</field>
-	<field name = "TITLE">EQUITIES MAINLY HIGHER IN QUIET EARLY LONDON</field>
+	<field name = "titulo">EQUITIES MAINLY HIGHER IN QUIET EARLY LONDON</field>
 	<field name = "DATELINE">London, April 7 -</field>
-	<field name = "BODY">Shares prices were mostly higher at the
+	<field name = "content">Shares prices were mostly higher at the
 oustset, bouyed by the latest opinion polls, one of which shows
 the ruling Conservative party having a 13 point lead over the
 Labour opposition party. Record closes on both the New york and

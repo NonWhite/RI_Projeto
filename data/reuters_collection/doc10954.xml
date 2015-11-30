@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 13:35:11.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2037reute
-r f BC-VESTRON-VV>-IN-SUIT   03-30 0109</field>
-	<field name = "TITLE">VESTRON VV> IN SUIT OVER VIDEOCASSETTE RIGHTS</field>
+	<field name = "titulo">VESTRON VV> IN SUIT OVER VIDEOCASSETTE RIGHTS</field>
 	<field name = "DATELINE">STAMFORD, Conn., March 30 -</field>
-	<field name = "BODY">Vestron Inc said it is seeking
+	<field name = "content">Vestron Inc said it is seeking
 an order in California Superior court for Los Angeles County to
 restrain Hemdale Film Corp and its Hemdale Video corp affiliate
 from distributing or relasing the films "Platoon" and

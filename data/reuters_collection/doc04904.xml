@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0783reute
-u f BC-U.S.-CONSERVATION-SIG   03-13 0140</field>
-	<field name = "TITLE">U.S. CONSERVATION SIGNUP SEEN 10 TO 12 MLN ACRES</field>
+	<field name = "titulo">U.S. CONSERVATION SIGNUP SEEN 10 TO 12 MLN ACRES</field>
 	<field name = "DATELINE">CHICAGO, March 13 -</field>
-	<field name = "BODY">Grain traders and analysts look for a
+	<field name = "content">Grain traders and analysts look for a
 10 to 12 mln acre sign-up in the USDA's conservation reserve
 program, scheduled to be announced after 1400 CST today.
     The USDA probably will accept about 80 to 90 pct of the

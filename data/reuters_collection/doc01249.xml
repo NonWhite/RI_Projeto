@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 15:11:40.49</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM
-f0652reute
-b f BC-/REAGAN-TO-MAKE-ANNOU   03-03 0085</field>
-	<field name = "TITLE">REAGAN TO MAKE ANNOUNCEMENT</field>
+	<field name = "titulo">REAGAN TO MAKE ANNOUNCEMENT</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">The White House said President Reagan
+	<field name = "content">The White House said President Reagan
 would make an announcement at 1530 EST/2030 gmt but the topic
 was undisclosed.
     A spokesman said officials would brief reporters on details

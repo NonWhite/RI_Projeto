@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM
-f4390reute
-u f BC-OECD-JANUARY-ANNUAL-I   03-17 0105</field>
-	<field name = "TITLE">OECD JANUARY ANNUAL INFLATION STEADY AT 2.1 PCT</field>
+	<field name = "titulo">OECD JANUARY ANNUAL INFLATION STEADY AT 2.1 PCT</field>
 	<field name = "DATELINE">PARIS, March 17 -</field>
-	<field name = "BODY">Inflation in the 24 industrialised
+	<field name = "content">Inflation in the 24 industrialised
 nations of the Organisation for Economic Cooperation and
 Development was 2.1 pct in the year to January, unchanged from
 December, the OECD said.

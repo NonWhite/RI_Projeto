@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 18:12:46.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2833reute
-r f BC-WESTERN-TELE-WTLCA>   03-26 0084</field>
-	<field name = "TITLE">WESTERN TELE WTLCA> PLANS STOCK BUYBACKS</field>
+	<field name = "titulo">WESTERN TELE WTLCA> PLANS STOCK BUYBACKS</field>
 	<field name = "DATELINE">ENGLEWOOD, Calif., March 26 -</field>
-	<field name = "BODY">Western Tele-Communications
+	<field name = "content">Western Tele-Communications
 Inc said it plans to periodically repurchase shares of its
 class A and class B stock.
     The company said it will repurchase an indeterminate amount

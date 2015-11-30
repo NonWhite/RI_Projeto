@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 09:47:32.32</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0945reute
-u f BC-/IBM-IBM>-HAS-HIGHER   04-13 0097</field>
-	<field name = "TITLE">IBM IBM> HAS HIGHER SHIPMENTS, COSTS IN QTR</field>
+	<field name = "titulo">IBM IBM> HAS HIGHER SHIPMENTS, COSTS IN QTR</field>
 	<field name = "DATELINE">ARMONK, N.Y., April 13 -</field>
-	<field name = "BODY">International Business Machines
+	<field name = "content">International Business Machines
 Corp said shipments and revenues were higher in the first
 quarter, but net earnings fell 22.8 pct in part due to higher
 expenses.

@@ -3,13 +3,9 @@
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">comex</field>
-	<field name = "UNKNOWN">C M
-f0095
-reute
-u f BC-us-refin-copper-stks   03-02 0129</field>
-	<field name = "TITLE">U.S. REFINERY COPPER STOCKS FALL IN JANUARY</field>
+	<field name = "titulo">U.S. REFINERY COPPER STOCKS FALL IN JANUARY</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Refined copper stocks held by U.S.
+	<field name = "content">Refined copper stocks held by U.S.
 refineries fell to 109,200 short tons at the end of January
 from 145,400 short tons at the end of December, the American
 Bureau of Metal Statistics reported.

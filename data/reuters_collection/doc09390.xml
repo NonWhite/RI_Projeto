@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 11:54:07.16</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM
-f1453reute
-u f BC-BRAZILIAN-BANK-STRIKE   03-25 0105</field>
-	<field name = "TITLE">BRAZILIAN BANK STRIKE SPREADS, UNION SAYS</field>
+	<field name = "titulo">BRAZILIAN BANK STRIKE SPREADS, UNION SAYS</field>
 	<field name = "DATELINE">SAO PAULO, March 25 -</field>
-	<field name = "BODY">A nationwide bank strike launched
+	<field name = "content">A nationwide bank strike launched
 yesterday by Brazilian bank workers gained more support today
 with the closure of the Banco do Estado de Sao Paulo>
 (Banespa) in Sao Paulo, a union spokesman said.

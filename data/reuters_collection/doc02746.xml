@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f0992reute
-b f BC-/USSR-WHEAT-BONUS-OFF   03-06 0127</field>
-	<field name = "TITLE">USSR WHEAT BONUS OFFER SAID STILL UNDER DEBATE</field>
+	<field name = "titulo">USSR WHEAT BONUS OFFER SAID STILL UNDER DEBATE</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">The Reagan administration continues
+	<field name = "content">The Reagan administration continues
 to debate whether to offer subsidized wheat to the Soviet
 Union, but would need assurances from the Soviets that they
 would buy the wheat before the subsidy offer would be made, a

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 18:45:03.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0356
-reute
-u f AM-LAUNCH   02-26 0118</field>
-	<field name = "TITLE">DELTA ROCKET BLASTS OFF FROM CAPE CANAVERAL</field>
+	<field name = "titulo">DELTA ROCKET BLASTS OFF FROM CAPE CANAVERAL</field>
 	<field name = "DATELINE">CAPE CANAVERAL, Fla., Feb 26 -</field>
-	<field name = "BODY">An unmanned Delta rocket
+	<field name = "content">An unmanned Delta rocket
 carrying a 57 mln dlr hurricane-tracking satellite blasted off
 here today in NASA's first successful launch of the year.
     The 116-foot (35.4-meter) Delta -- a reliable workhorse of

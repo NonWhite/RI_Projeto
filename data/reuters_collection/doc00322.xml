@@ -4,13 +4,9 @@
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0991
-reute
-r f BC-TAIWAN-POWER-FIRM-PLA   03-02 0119</field>
-	<field name = "TITLE">TAIWAN POWER FIRM PLANS MORE FOREIGN DEBT CUTS</field>
+	<field name = "titulo">TAIWAN POWER FIRM PLANS MORE FOREIGN DEBT CUTS</field>
 	<field name = "DATELINE">TAIPEI, March 2 -</field>
-	<field name = "BODY">State-owned (Taiwan Power co) will boost
+	<field name = "content">State-owned (Taiwan Power co) will boost
 its domestic borrowings to further cut its foreign debt in line
 with a government policy to trim the island's huge foreign
 exchange reserves, a company official said.

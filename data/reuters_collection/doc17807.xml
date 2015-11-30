@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 16:34:12.74</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2428reute
-u f BC-PHILLIPS-VAN-HEUSEN-C   06-01 0050</field>
-	<field name = "TITLE">PHILLIPS-VAN HEUSEN CORP PVH> 1ST QTR</field>
+	<field name = "titulo">PHILLIPS-VAN HEUSEN CORP PVH> 1ST QTR</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Shr 73 cts vs 60 cts
+	<field name = "content">Shr 73 cts vs 60 cts
     Net 4.6 mln vs 3.8 mln
     Revs 112.8 mln vs 104.1 mln
     NOTE:1987 includes lifo charge of 1.5 mln dlrs, pension

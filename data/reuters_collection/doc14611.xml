@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 16:25:07.29</field>
 	<field name = "TOPICS">instal-debt</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2383reute
-u f BC-U.S.-FEB-CONSUMER-CRE   04-07 0088</field>
-	<field name = "TITLE">U.S. FEB CONSUMER CREDIT ROSE 1.77 BILLION DLRS</field>
+	<field name = "titulo">U.S. FEB CONSUMER CREDIT ROSE 1.77 BILLION DLRS</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">U.S. consumer instalment credit rose
+	<field name = "content">U.S. consumer instalment credit rose
 a seasonally adjusted 1.77 billion dlrs in February after a
 revised rise of 789 mln dlrs in January, the Federal Reserve
 Board said.

@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 16:32:51.13</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0081
-reute
-r f BC-FERRO-CORP-FOE>-SETS   03-02 0097</field>
-	<field name = "TITLE">FERRO CORP FOE> SETS JOINT VENTURE</field>
+	<field name = "titulo">FERRO CORP FOE> SETS JOINT VENTURE</field>
 	<field name = "DATELINE">LOS ANGELES, March 2 -</field>
-	<field name = "BODY">Ferro Corp said it has formed a
+	<field name = "content">Ferro Corp said it has formed a
 joint venture with Paris-based Alsthom Inudstrial Group to
 export U.S. epxertise in specialty composite materials to the
 European market.

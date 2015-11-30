@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 18:57:22.82</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2810reute
-r f BC-PS-GROUP-PSG>,-USAIR   03-24 0105</field>
-	<field name = "TITLE">PS GROUP PSG>, USAIR U> MOVE UP DEADLINE</field>
+	<field name = "titulo">PS GROUP PSG>, USAIR U> MOVE UP DEADLINE</field>
 	<field name = "DATELINE">SAN DIEGO, Calif., March 24 -</field>
-	<field name = "BODY">PS Group Inc said it and
+	<field name = "content">PS Group Inc said it and
 USAir Group agreed to move up the completion date of USAir's
 acquisition of Pacific Southwest Airlines to April 30 from
 September 30 originally.

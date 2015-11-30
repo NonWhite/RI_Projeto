@@ -2,13 +2,9 @@
 	<field name = "DATE">1-MAR-1987 22:52:21.31</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0523
-reute
-u f BC-EC-MINISTERS-CONSIDER   03-01 0109</field>
-	<field name = "TITLE">EC MINISTERS CONSIDER BIG AGRICULTURE PRICE CUTS</field>
+	<field name = "titulo">EC MINISTERS CONSIDER BIG AGRICULTURE PRICE CUTS</field>
 	<field name = "DATELINE">BRUSSELS, March 2 -</field>
-	<field name = "BODY">European Community (EC) agriculture
+	<field name = "content">European Community (EC) agriculture
 ministers meet later today to consider a package of deep cuts
 in prices and subsidies after a week marked by strong protests
 by European farmers, Community officials said.

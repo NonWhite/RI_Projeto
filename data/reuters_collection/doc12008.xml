@@ -4,12 +4,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">F
-f1337reute
-d f BC-SHULTZ-USSR-TRIP-FUEL   04-01 0103</field>
-	<field name = "TITLE">SHULTZ USSR TRIP FUELS TALK OF EEP WHEAT OFFER</field>
+	<field name = "titulo">SHULTZ USSR TRIP FUELS TALK OF EEP WHEAT OFFER</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Speculation the United States will
+	<field name = "content">Speculation the United States will
 offer subsidized wheat to the Soviet Union appears to have
 reached a new level of intensity in the run-up to Secretary of
 State George Shultz' visit later this month to Moscow.

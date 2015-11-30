@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-MAR-1987 22:59:29.60</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">F
-f0189reute
-u f BC-YUGOSLAVIA-TO-BUY-FIV   03-29 0084</field>
-	<field name = "TITLE">YUGOSLAVIA TO BUY FIVE U.S.-BUILT AIRLINERS</field>
+	<field name = "titulo">YUGOSLAVIA TO BUY FIVE U.S.-BUILT AIRLINERS</field>
 	<field name = "DATELINE">BELGRADE, March 30 -</field>
-	<field name = "BODY">State-owned JAT-Jugoslav Airlines has
+	<field name = "content">State-owned JAT-Jugoslav Airlines has
 signed a contract to buy five McDonnell Douglas Corp MD.N>
 MD-11 wide-bodied airliners for its longhaul routes, Tanjug
 news agency reported.

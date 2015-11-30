@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 14:32:24.46</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2199reute
-u f BC-/BROADER-U.S.-EEP-SOU   03-31 0136</field>
-	<field name = "TITLE">BROADER U.S. EEP SOUGHT BY REPUBLICAN LAWMAKERS</field>
+	<field name = "titulo">BROADER U.S. EEP SOUGHT BY REPUBLICAN LAWMAKERS</field>
 	<field name = "DATELINE">WASHINGTON, MARCH 31 -</field>
-	<field name = "BODY">Republican members of the House
+	<field name = "content">Republican members of the House
 Agriculture Committee said they will propose amendments
 tomorrow to a pending trade bill increasing funding for the
 export enhancement program, EEP, and significantly expanding

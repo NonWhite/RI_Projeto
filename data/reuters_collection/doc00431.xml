@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 10:02:26.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0595
-reute
-b f BC-/U.S.-NON-FARM-PRODUC   03-02 0088</field>
-	<field name = "TITLE">U.S. NON-FARM PRODUCTIVITY FELL 2.2 PCT IN QTR</field>
+	<field name = "titulo">U.S. NON-FARM PRODUCTIVITY FELL 2.2 PCT IN QTR</field>
 	<field name = "DATELINE">WASHINGTON, Mar 2 -</field>
-	<field name = "BODY">Productivity in the non-farm business
+	<field name = "content">Productivity in the non-farm business
 sector fell at a seasonally adjusted, revised annual rate of
 2.2 pct in the fourth quarter last year, the Labor department
 said.

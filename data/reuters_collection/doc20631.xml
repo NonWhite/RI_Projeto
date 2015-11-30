@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">Y 
-f2946reute
-u f AM-GULF-SILKWORM-(NEWS-A NALYSIS)  10-20 0086</field>
-	<field name = "TITLE">US RULED OUT ATTACK ON IRANIAN SILKWORMS</field>
+	<field name = "titulo">US RULED OUT ATTACK ON IRANIAN SILKWORMS</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">U.S. military planners ruled out
+	<field name = "content">U.S. military planners ruled out
 Iran's Silkworm missiles as a target in the retaliatory attack
 mounted on Monday for fear of being drawn more deeply into the
 Iran-Iraq war, defense and Middle East experts said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">heat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0840reute
-u f BC-u.s.-energy-futures   04-09 0100</field>
-	<field name = "TITLE">U.S. ENERGY FUTURES CALLED UNCHANGED TO LOWER</field>
+	<field name = "titulo">U.S. ENERGY FUTURES CALLED UNCHANGED TO LOWER</field>
 	<field name = "DATELINE">NEW YORK, APRIL 9 -</field>
-	<field name = "BODY">Traders expect U.S. energy futures will
+	<field name = "content">Traders expect U.S. energy futures will
 open unchanged to slightly lower this morning with support near
 yesterday's lows.
     Crude futures are called unchanged to five cts weaker

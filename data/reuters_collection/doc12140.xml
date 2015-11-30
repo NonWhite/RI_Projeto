@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 13:29:33.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1874reute
-d f BC-GENERAL-HYDROCARBONS   04-01 0098</field>
-	<field name = "TITLE">GENERAL HYDROCARBONS DISTRIBUTION DELAYED</field>
+	<field name = "titulo">GENERAL HYDROCARBONS DISTRIBUTION DELAYED</field>
 	<field name = "DATELINE">BILLINGS, Mont., April 1 -</field>
-	<field name = "BODY">General Hydrocarbons Inc said
+	<field name = "content">General Hydrocarbons Inc said
 claims aggregating over one mln dlrs related to liens and
 alleging title deficiencies have been made against the escrow
 fund holding its assets for distribution.

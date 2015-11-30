@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 10:35:29.47</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">iceland</field>
-	<field name = "UNKNOWN">RM
-f8085reute
-r f BC-ICELAND-TO-PRIVATISE   03-18 0111</field>
-	<field name = "TITLE">ICELAND TO PRIVATISE STATE BANK UTVEGSBANKI</field>
+	<field name = "titulo">ICELAND TO PRIVATISE STATE BANK UTVEGSBANKI</field>
 	<field name = "DATELINE">REYKJAVIK, March 18 -</field>
-	<field name = "BODY">The Icelandic government said it will
+	<field name = "content">The Icelandic government said it will
 privatise the state-owned bank Utvegsbanki, the country's
 second largest. Parliament also granted an 800 mln crown cash
 infusion to ease cash flow problems that arose when the bank

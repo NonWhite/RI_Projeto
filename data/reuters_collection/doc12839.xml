@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0783reute
-b f BC-U.K.-MONEY-MARKET-REC   04-03 0047</field>
-	<field name = "TITLE">U.K. MONEY MARKET RECEIVES 205 MLN STG LATE HELP</field>
+	<field name = "titulo">U.K. MONEY MARKET RECEIVES 205 MLN STG LATE HELP</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">The Bank of England said it has provided
+	<field name = "content">The Bank of England said it has provided
 around 205 mln stg late assistance to the market, bringing the
 total help today to 722 mln which compares with the Bank's
 revised deficit forecast of 800 mln stg.

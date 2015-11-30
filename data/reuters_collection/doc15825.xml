@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 14:34:36.86</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2090reute
-r f BC-SEAGRAM-VO>-REORGANI   04-09 0108</field>
-	<field name = "TITLE">SEAGRAM VO> REORGANIZES U.S. SALES, MARKETING</field>
+	<field name = "titulo">SEAGRAM VO> REORGANIZES U.S. SALES, MARKETING</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">The House of Seagram, Seagram Co Ltd's
+	<field name = "content">The House of Seagram, Seagram Co Ltd's
 U.S. marketing arm for Joseph E. Seagram and Son's distilled
 spirits and wine coolers, said it is replacing its four current
 national spirits companies with a single sales force, one

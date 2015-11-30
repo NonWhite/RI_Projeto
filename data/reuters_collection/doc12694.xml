@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f2274reute
-b f BC-USSR-ADDS-CORN-TO-PUR   04-02 0098</field>
-	<field name = "TITLE">USSR ADDS CORN TO PURCHASES -- USDA</field>
+	<field name = "titulo">USSR ADDS CORN TO PURCHASES -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">The Soviet Union has added 50,000
+	<field name = "content">The Soviet Union has added 50,000
 tonnes to its previous purchases of U.S. corn purchases, the
 U.S. Agriculture Department said.
     In its Export Sales Report covering transactions in the

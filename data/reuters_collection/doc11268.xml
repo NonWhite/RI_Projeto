@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">ivory-coast</field>
-	<field name = "UNKNOWN">G
-f0838reute
-d f BC-IVORY-COAST-BOOSTS-MA   03-31 0100</field>
-	<field name = "TITLE">IVORY COAST BOOSTS MAIZE OUTPUT</field>
+	<field name = "titulo">IVORY COAST BOOSTS MAIZE OUTPUT</field>
 	<field name = "DATELINE">ABIDJAN, March 31 -</field>
-	<field name = "BODY">Ivory Coast maize output has risen
+	<field name = "content">Ivory Coast maize output has risen
 steadily during the last two decades and the country aims to
 produce two mln tonnes annually "very rapidly," the official
 daily Fraternite Matin reported.

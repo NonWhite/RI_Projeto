@@ -3,12 +3,9 @@
 	<field name = "TOPICS">tin</field>
 	<field name = "PLACES">france</field>
 	<field name = "EXCHANGES">lme</field>
-	<field name = "UNKNOWN">C M
-f1561reute
-u f BC-PARIS-GROUP-PUBLISHIN   04-08 0084</field>
-	<field name = "TITLE">PARIS GROUP PUBLISHING DAILY FRANC TIN PRICE</field>
+	<field name = "titulo">PARIS GROUP PUBLISHING DAILY FRANC TIN PRICE</field>
 	<field name = "DATELINE">PARIS, April 8 -</field>
-	<field name = "BODY">The Association of White Metals has
+	<field name = "content">The Association of White Metals has
 decided to publish a daily tin price here in French francs per
 100 kilos, the French Federation of Non-Ferrous Metals said.
     The price, quoted for the first time yesterday, was

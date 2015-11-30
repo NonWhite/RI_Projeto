@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:41:05.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0638reute
-r f BC-WITCO-CORP-WIT>-OFFE   03-11 0107</field>
-	<field name = "TITLE">WITCO CORP WIT> OFFERS DEBENTURES</field>
+	<field name = "titulo">WITCO CORP WIT> OFFERS DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Witco Corp said it is offering 140 mln
+	<field name = "content">Witco Corp said it is offering 140 mln
 dlrs of 5-1/2 pct convertible subordinated debentures due 2012
 through co-managing underwriters Smith Barney Harris Upham and
 Co and Goldman Sachs and Co.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">uae</field>
-	<field name = "UNKNOWN">Y
-f0394reute
-r f BC-UAE-TRADE,-CURRENT-AC   06-02 0115</field>
-	<field name = "TITLE">UAE TRADE, CURRENT ACCOUNT SURPLUSES NARROW</field>
+	<field name = "titulo">UAE TRADE, CURRENT ACCOUNT SURPLUSES NARROW</field>
 	<field name = "DATELINE">ABU DHABI, June 2 -</field>
-	<field name = "BODY">The United Arab Emirates (UAE) recorded
+	<field name = "content">The United Arab Emirates (UAE) recorded
 a 1986 trade surplus of 12.2 billion dirhams, narrowing from
 30.2 billion in 1985, the central bank's latest bulletin shows.
     The central bank said the lower surplus was mainly due to

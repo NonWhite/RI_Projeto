@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-APR-1987 12:17:09.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1634reute
-r f BC-DUQUESNE-LIGHT-DQU>   04-21 0083</field>
-	<field name = "TITLE">DUQUESNE LIGHT DQU> HURT BY LEGISLATION</field>
+	<field name = "titulo">DUQUESNE LIGHT DQU> HURT BY LEGISLATION</field>
 	<field name = "DATELINE">PITTSBURGH, APril 21 -</field>
-	<field name = "BODY">Duquesne Light Co president Wesley
+	<field name = "content">Duquesne Light Co president Wesley
 von Schack told shareholders that current state law and
 regulatory policies will result in higher capital rates and
 higher rates for customers.

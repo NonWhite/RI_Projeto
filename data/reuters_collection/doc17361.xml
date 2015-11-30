@@ -2,12 +2,9 @@
 	<field name = "DATE">28-APR-1987 17:35:02.42</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f2991reute
-d f BC-AMERICUS-TRUST/KODAK   04-28 0101</field>
-	<field name = "TITLE">AMERICUS TRUST/KODAK KDUWI> BEGINS TRADING</field>
+	<field name = "titulo">AMERICUS TRUST/KODAK KDUWI> BEGINS TRADING</field>
 	<field name = "DATELINE">NEW YORK, April 28 -</field>
-	<field name = "BODY">The American Stock Exchange said an
+	<field name = "content">The American Stock Exchange said an
 investment trust which issues units in exchange for Eastman
 Kodak Co EK> shares began trading today on a "when issued"
 basis.

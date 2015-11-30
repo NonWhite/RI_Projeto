@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 16:48:10.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3240reute
-b f BC-REPURCHASE   10-20 0095</field>
-	<field name = "TITLE">SEC MAKES ONE-DAY EXCEPTION TO REPURCHASE RULE</field>
+	<field name = "titulo">SEC MAKES ONE-DAY EXCEPTION TO REPURCHASE RULE</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">The Securities and Exchange Commission
+	<field name = "content">The Securities and Exchange Commission
 said it made a one-day exception to its rule of prohibiting
 companies from repurchasing their own stock in the last half
 hour of trading, and allowed firms to continue stock

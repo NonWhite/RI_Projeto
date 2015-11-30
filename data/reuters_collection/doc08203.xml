@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 08:17:42.83</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0683reute
-u f BC-GENERAL-PARTNERS-IN-G   03-23 0096</field>
-	<field name = "TITLE">GENERAL PARTNERS IN GENCORP GY> PROXY FIGHT</field>
+	<field name = "titulo">GENERAL PARTNERS IN GENCORP GY> PROXY FIGHT</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">General Partners, the group tendering
+	<field name = "content">General Partners, the group tendering
 for all GenCorp Inc shares at 100 dlrs each, said it has
 started soliciting proxies against GenCorp's proposals to
 increase its number of authorized shares outstanding, create a

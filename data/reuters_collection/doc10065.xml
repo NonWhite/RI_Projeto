@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 13:57:24.34</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2118reute
-d f BC-SECURITY-SPC>,-USERS   03-26 0097</field>
-	<field name = "TITLE">SECURITY SPC>, USERS, END MERGER TALKS</field>
+	<field name = "titulo">SECURITY SPC>, USERS, END MERGER TALKS</field>
 	<field name = "DATELINE">VALLEY FORGE, Penn., March 26 -</field>
-	<field name = "BODY">Security Pacific Corp and
+	<field name = "content">Security Pacific Corp and
 Users Inc>, a credit union data processing concern, said they
 have mutually agreed to withdraw from further merger
 negotiations.

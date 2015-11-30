@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 09:27:05.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0936reute
-r f BC-THERMO-ELECTRON-TMO>   04-02 0100</field>
-	<field name = "TITLE">THERMO ELECTRON TMO> SELLS CONVERTIBLE DEBT</field>
+	<field name = "titulo">THERMO ELECTRON TMO> SELLS CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, April 2 -</field>
-	<field name = "BODY">Thermo Electron Corp is raising 75 mln
+	<field name = "content">Thermo Electron Corp is raising 75 mln
 dlrs via an offering of convertible subordinated debentures due
 2012 with a 5-3/4 pct coupon and par pricing, said lead manager
 Shearson Lehman Brothers Inc.

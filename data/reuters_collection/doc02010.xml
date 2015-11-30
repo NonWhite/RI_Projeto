@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 09:27:39.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0039reute
-b f BC-/SPEAKER-SEEKING-SUPP   03-05 0112</field>
-	<field name = "TITLE">SPEAKER SEEKING SUPPORT FOR U.S. TAX INCREASES</field>
+	<field name = "titulo">SPEAKER SEEKING SUPPORT FOR U.S. TAX INCREASES</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">House Speaker Jim Wright is lobbying
+	<field name = "content">House Speaker Jim Wright is lobbying
 congressmen to support a plan to cut the 1988 budget deficit
 about 40 billion dlrs, half through spending cuts and the
 remainder through tax hikes, congressional sources said.

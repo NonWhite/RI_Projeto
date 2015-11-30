@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 12:27:54.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0623reute
-d f BC-DUFF/PHELPS-CHANGES-B   03-13 0086</field>
-	<field name = "TITLE">DUFF/PHELPS CHANGES BAKERBKO>, HUGHESHT> DEBT</field>
+	<field name = "titulo">DUFF/PHELPS CHANGES BAKERBKO>, HUGHESHT> DEBT</field>
 	<field name = "DATELINE">CHICAGO, March 13 -</field>
-	<field name = "BODY">Duff and Phelps said it changed the
+	<field name = "content">Duff and Phelps said it changed the
 ratings on outstanding senior debt of Baker International Corp
 and Hughes Tool Company.
     The change affects 515 mln dlrs in debt and assumes a

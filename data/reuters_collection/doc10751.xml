@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 06:18:15.32</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">C T
-f0499reute
-u f BC-TOP-QUALITIES-SOUGHT   03-30 0106</field>
-	<field name = "TITLE">TOP QUALITIES SOUGHT ON HAMBURG COFFEE MARKET</field>
+	<field name = "titulo">TOP QUALITIES SOUGHT ON HAMBURG COFFEE MARKET</field>
 	<field name = "DATELINE">HAMBURG, March 30 -</field>
-	<field name = "BODY">The green coffee market saw some demand
+	<field name = "content">The green coffee market saw some demand
 for high quality coffees in the past week, but business was
 described as generally unsatisfactory, trade sources said.
     Especially sought were spot East African and Ethiopian and

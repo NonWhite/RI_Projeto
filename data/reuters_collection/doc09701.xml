@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F
-f0001reute
-u f BC-JAPAN-VTR-AND-TV-EXPO   03-26 0100</field>
-	<field name = "TITLE">JAPAN VTR AND TV EXPORTS FALL IN FEBRUARY</field>
+	<field name = "titulo">JAPAN VTR AND TV EXPORTS FALL IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 26 -</field>
-	<field name = "BODY">Japan's video tape recorder (VTR) exports
+	<field name = "content">Japan's video tape recorder (VTR) exports
 fell to 1.73 mln sets in February from 2.01 mln a year earlier
 for the fourth successive year-on-year drop, Finance Ministry
 customs-cleared export statistics show.

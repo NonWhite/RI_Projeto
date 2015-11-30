@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 00:50:32.37</field>
 	<field name = "TOPICS">nickel</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">M C
-f0026reute
-u f BC-SUMITOMO-MINING-SMIT   03-30 0101</field>
-	<field name = "TITLE">SUMITOMO MINING SMIT.T> RAISES NICKEL OUTPUT</field>
+	<field name = "titulo">SUMITOMO MINING SMIT.T> RAISES NICKEL OUTPUT</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">Sumitomo Metal Mining Co said it will
+	<field name = "content">Sumitomo Metal Mining Co said it will
 raise its monthly nickel output to around 1,750 tonnes from
 April 1 from 1,650 now because of increased domestic demand,
 mainly from stainless steel makers.

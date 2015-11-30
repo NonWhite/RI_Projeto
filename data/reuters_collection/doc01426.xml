@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 09:36:11.28</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0172reute
-u f BC-GM'S-GM>-PONTIAC-HAS   03-04 0043</field>
-	<field name = "TITLE">GM'S GM> PONTIAC HAS INTEREST RATE INCENTIVES</field>
+	<field name = "titulo">GM'S GM> PONTIAC HAS INTEREST RATE INCENTIVES</field>
 	<field name = "DATELINE">PONTIAC, Mich., March 4 -</field>
-	<field name = "BODY">General Motors Corp said its
+	<field name = "content">General Motors Corp said its
 Pontiac Division has established an interest rate support
 incentive program, effective immediately, as an alternative to
 its current option bonus program.

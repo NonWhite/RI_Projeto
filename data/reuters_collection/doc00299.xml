@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 04:37:30.88</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM
-f0798
-reute
-u f BC-TRADING-DELAYED-ON-SI   03-02 0115</field>
-	<field name = "TITLE">TRADING DELAYED ON SINGAPORE'S NEW BILL MARKET</field>
+	<field name = "titulo">TRADING DELAYED ON SINGAPORE'S NEW BILL MARKET</field>
 	<field name = "DATELINE">SINGAPORE, March 2 -</field>
-	<field name = "BODY">The start of trading on the new
+	<field name = "content">The start of trading on the new
 Singapore Government Securities Market has been postponed until
 late March or early April because legislative amendments still
 need parliamentary approval, banking sources said.

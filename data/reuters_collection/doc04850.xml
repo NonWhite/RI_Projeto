@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 10:48:02.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0167reute
-r f BC-3COM-CORP-COMS>-OFFE   03-13 0084</field>
-	<field name = "TITLE">3COM CORP COMS> OFFERS SHARES OF COMMON</field>
+	<field name = "titulo">3COM CORP COMS> OFFERS SHARES OF COMMON</field>
 	<field name = "DATELINE">SANTA CLARA, Calif., March 13 -</field>
-	<field name = "BODY">3Com Corp said it is
+	<field name = "content">3Com Corp said it is
 offering 1.2 mln shares of its common stock for sale at 23.50
 per share in a public offering.
     It said the sale is being co-managed by Goldman, Sachs and

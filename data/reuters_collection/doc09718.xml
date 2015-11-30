@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 02:39:31.80</field>
 	<field name = "PLACES">sri-lanka</field>
-	<field name = "UNKNOWN">RM
-f0095reute
-u f BC-SRI-LANKA-TO-LAUNCH-A   03-26 0106</field>
-	<field name = "TITLE">SRI LANKA TO LAUNCH APPEAL FOR DROUGHT AID</field>
+	<field name = "titulo">SRI LANKA TO LAUNCH APPEAL FOR DROUGHT AID</field>
 	<field name = "DATELINE">COLOMBO, March 26 -</field>
-	<field name = "BODY">Sri Lanka will appeal to its major aid
+	<field name = "content">Sri Lanka will appeal to its major aid
 donors for at least 21 mln dlrs in financial support to help it
 overcome the country's worst drought in 26 years.
     Government officials told Reuters that letters detailing

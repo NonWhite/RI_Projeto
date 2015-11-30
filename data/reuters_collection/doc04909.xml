@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 13:08:10.74</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0822reute
-u f BC-SUNTER-BEGINS-TENDER   03-13 0099</field>
-	<field name = "TITLE">SUNTER BEGINS TENDER FOR ALLEGHENY AG></field>
+	<field name = "titulo">SUNTER BEGINS TENDER FOR ALLEGHENY AG></field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">Allegheny International Inc said  
+	<field name = "content">Allegheny International Inc said  
 Sunter Acquisititon Corp, formed by First Boston Inc, began a
 cash tender offer in accordance with their previously announced
 merger agreement for all the outsanding shares of Allegheny's

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 11:15:57.17</field>
 	<field name = "TOPICS">heat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f1438reute
-u f BC-SUN-SUN>-RAISES-HEAT   04-02 0057</field>
-	<field name = "TITLE">SUN SUN> RAISES HEATING OIL BARGE PRICE</field>
+	<field name = "titulo">SUN SUN> RAISES HEATING OIL BARGE PRICE</field>
 	<field name = "DATELINE">NEW YORK, April 2 -</field>
-	<field name = "BODY">Sun Co's Sun Refining and Marketing Co
+	<field name = "content">Sun Co's Sun Refining and Marketing Co
 subsidiary said it raised the price it charges contract barge
 customers for heating oil in ny harbor by 0.50 cent a gallon,
 effective today.

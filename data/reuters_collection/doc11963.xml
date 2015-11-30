@@ -6,12 +6,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">C G
-f1137reute
-u f BC-FRENCH-FARMERS-PLAN-T   04-01 0097</field>
-	<field name = "TITLE">FRENCH FARMERS PLAN TO CUT MAIZE PLANTINGS</field>
+	<field name = "titulo">FRENCH FARMERS PLAN TO CUT MAIZE PLANTINGS</field>
 	<field name = "DATELINE">PARIS, April 1 -</field>
-	<field name = "BODY">French farmers are planning to cut their
+	<field name = "content">French farmers are planning to cut their
 maize sowings by between 100,000 and 150,000 hectares this year
 from the 1.87 mln ha harvested in 1986, the French Maize
 Producers' Association, AGPM, said.

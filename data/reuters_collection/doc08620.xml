@@ -4,13 +4,10 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0240reute
-u f BC-DOUBTS-ABOUT-ACCORD-S   03-24 0108</field>
-	<field name = "TITLE">DOUBTS ABOUT ACCORD SEEN WEAKENING DOLLAR FURTHER</field>
+	<field name = "titulo">DOUBTS ABOUT ACCORD SEEN WEAKENING DOLLAR FURTHER</field>
 	<field name = "AUTHOR">By Kunio Inoue, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 24 -</field>
-	<field name = "BODY">The dollar is expected to decline further
+	<field name = "content">The dollar is expected to decline further
 in coming days as scepticism mounts about the effectiveness of
 last month's Paris accord to stabilise currency exchange rates,
 senior foreign exchange dealers said.

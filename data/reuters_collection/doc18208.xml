@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:28:36.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2236reute
-d f BC-INTERNATIONAL-ICC.O>   06-02 0079</field>
-	<field name = "TITLE">INTERNATIONAL ICC.O> SETS NEW SOUND TECHNOLOGY</field>
+	<field name = "titulo">INTERNATIONAL ICC.O> SETS NEW SOUND TECHNOLOGY</field>
 	<field name = "DATELINE">CHICAGO, June 2 -</field>
-	<field name = "BODY">International Cablecasting Technologies
+	<field name = "content">International Cablecasting Technologies
 Inc, said it introduced its proprietary new technology that can
 broadcast compact disk-quality digital sound into the home.
     The company said the new technology, called digital

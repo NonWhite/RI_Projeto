@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 14:04:55.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3204reute
-r f BC-KRON-CHOCOLATIER-INC   03-16 0096</field>
-	<field name = "TITLE">KRON CHOCOLATIER INC> TO REDEEM WARRANTS</field>
+	<field name = "titulo">KRON CHOCOLATIER INC> TO REDEEM WARRANTS</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">Kron Chocolatier Inc said it will
+	<field name = "content">Kron Chocolatier Inc said it will
 redeem on April 13 all its outstanding class A warrants at 0.01
 ct a warrant.
     The company said the warrants, which allow the holder to

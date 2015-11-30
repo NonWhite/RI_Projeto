@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 12:13:11.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1549reute
-r f BC-AMERICAN-ELECTRIC-AE   03-19 0111</field>
-	<field name = "TITLE">AMERICAN ELECTRIC AEP> UNIT SELLS BONDS</field>
+	<field name = "titulo">AMERICAN ELECTRIC AEP> UNIT SELLS BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Columbus and Southern Ohio Electric
+	<field name = "content">Columbus and Southern Ohio Electric
 Co, a unit of American Electric Power Co Inc, is offering 100
 mln dlrs of first mortgage bonds due 2017 priced to yield nine
 pct, said lead manager Morgan Stanley and Co Inc.

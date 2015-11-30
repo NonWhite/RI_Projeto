@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">V RM 
-f0936reute
-b f AM-GULF-AMERICAN-URGENT   10-19 0072</field>
-	<field name = "TITLE">U.S. NAVAL FORCES ATTACK IRANIAN OIL PLATFORM</field>
+	<field name = "titulo">U.S. NAVAL FORCES ATTACK IRANIAN OIL PLATFORM</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">U.S. warships attacked and destroyed
+	<field name = "content">U.S. warships attacked and destroyed
 an Iranian oil platform on Monday in retaliation for Friday's
 Iranian attack damaging a U.S.-flagged ship, U.S. Defense
 Secretary Caspar Weinberger said.

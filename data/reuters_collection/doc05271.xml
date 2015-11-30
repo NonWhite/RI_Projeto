@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f1604reute
-u f BC-BANK-OF-CHINA-TAKES-S   03-16 0101</field>
-	<field name = "TITLE">BANK OF CHINA TAKES STAKE IN BAII HOLDINGS</field>
+	<field name = "titulo">BANK OF CHINA TAKES STAKE IN BAII HOLDINGS</field>
 	<field name = "DATELINE">LONDON, March 16 -</field>
-	<field name = "BODY">Bank of China has taken a stake in
+	<field name = "content">Bank of China has taken a stake in
 Luxembourg-based finance company BAII Holdings SA, a spokesman
 for BAII said.
     The stake was between three and five pct but no further

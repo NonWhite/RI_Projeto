@@ -5,12 +5,9 @@
 	<field name = "TOPICS">pet-chem</field>
 	<field name = "PLACES">venezuela</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A F
-f0626reute
-d f BC-VENEZUELA-FINANCE-MIN   04-27 0102</field>
-	<field name = "TITLE">VENEZUELA FINANCE MINISTER TO JAPAN IN MID-MAY</field>
+	<field name = "titulo">VENEZUELA FINANCE MINISTER TO JAPAN IN MID-MAY</field>
 	<field name = "DATELINE">CARACAS, April 27 -</field>
-	<field name = "BODY">Finance Minister Manuel Azpurua said
+	<field name = "content">Finance Minister Manuel Azpurua said
 today he will travel to Japan in mid-May to seek new credits
 for planned expansions in Venezuela's state aluminum, steel and
 petrochemical industries.

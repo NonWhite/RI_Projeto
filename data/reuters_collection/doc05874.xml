@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 08:18:18.93</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f4696reute
-d f BC-TIMEX-CORP>-SELLS-UN   03-17 0049</field>
-	<field name = "TITLE">TIMEX CORP> SELLS UNIT</field>
+	<field name = "titulo">TIMEX CORP> SELLS UNIT</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Swiss Corp for Microelectronics and
+	<field name = "content">Swiss Corp for Microelectronics and
 Watchmaking Industries> said it has acquired International time
 corp from privately-held Timex corp for undisclosed terms.
     International Time is exclusive distributor of Swiss Corp's

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2646reute
-r f BC-STANDARD-OIL-SRD>-SE   03-26 0114</field>
-	<field name = "TITLE">STANDARD OIL SRD> SEES BOOST IN 1987 CASH FLOW</field>
+	<field name = "titulo">STANDARD OIL SRD> SEES BOOST IN 1987 CASH FLOW</field>
 	<field name = "DATELINE">CLEVELAND, March 26 -</field>
-	<field name = "BODY">Standard Oil Co expects the sale of
+	<field name = "content">Standard Oil Co expects the sale of
 assets and federal tax refunds resulting from last year's loss
 to add about one billion dlrs to its normal cash flows from
 operations in 1987, its annual report said.

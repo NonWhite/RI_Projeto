@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 19:43:08.56</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0406
-reute
-u f BC-JAPAN-MARCH-BOND-COUP   02-26 0109</field>
-	<field name = "TITLE">JAPAN MARCH BOND COUPON SEEN UNCHANGED AT FIVE PCT</field>
+	<field name = "titulo">JAPAN MARCH BOND COUPON SEEN UNCHANGED AT FIVE PCT</field>
 	<field name = "DATELINE">TOKYO, Feb 27 -</field>
-	<field name = "BODY">The Finance Ministry has proposed
+	<field name = "content">The Finance Ministry has proposed
 informally to its bond underwriting syndicate that the coupon
 on the January 10-year government bond remain unchanged from
 February at five pct, underwriting sources said.

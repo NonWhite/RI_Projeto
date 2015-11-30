@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 09:02:13.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L M T
-f1905reute
-r f BC-CFTC-OPPOSES-U.S.-FED   03-16 0110</field>
-	<field name = "TITLE">CFTC OPPOSES U.S. FEDERAL FUTURES MARGIN SETTING</field>
+	<field name = "titulo">CFTC OPPOSES U.S. FEDERAL FUTURES MARGIN SETTING</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">Commodity Futures Trading
+	<field name = "content">Commodity Futures Trading
 Commission, CFTC, chairman Susan Phillips said the agency
 opposed efforts to set up a federal regulatory framework over
 futures and options margins.

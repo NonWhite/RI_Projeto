@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 16:52:16.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2627reute
-r f BC-MEDIZONE-SAYS-AIDS-TH   04-13 0115</field>
-	<field name = "TITLE">MEDIZONE SAYS AIDS THERAPY TO BE TESTED</field>
+	<field name = "titulo">MEDIZONE SAYS AIDS THERAPY TO BE TESTED</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Medizone International Inc> said it
+	<field name = "content">Medizone International Inc> said it
 expects the Food and Drug Administration to soon approve the
 company's application to begin limited tests of its potential
 therapy against AIDS using a combination of ozone and oxygen.

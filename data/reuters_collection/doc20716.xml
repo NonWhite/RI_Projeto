@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 16:21:01.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3163reute
-h f BC-SYNTECH-INTERNATIONAL   10-20 0070</field>
-	<field name = "TITLE">SYNTECH INTERNATIONAL SYNE.O> SUES SOUTHLAND</field>
+	<field name = "titulo">SYNTECH INTERNATIONAL SYNE.O> SUES SOUTHLAND</field>
 	<field name = "DATELINE">RENO, Nev., Oct 20 -</field>
-	<field name = "BODY">Syntech International Inc said it
+	<field name = "content">Syntech International Inc said it
 initiated a suit in Nevada District Court against Southland
 Corp SM> for alleged breach of contract.
     Syntech said its complaint alleges that Southland failed to

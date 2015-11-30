@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:02:35.07</field>
-	<field name = "UNKNOWN">E
-f1137reute
-b f BC-JOHANNESBURG-GOLD-SHA   04-07 0120</field>
-	<field name = "TITLE">JOHANNESBURG GOLD SHARES CLOSE MIXED TO FIRMER</field>
+	<field name = "titulo">JOHANNESBURG GOLD SHARES CLOSE MIXED TO FIRMER</field>
 	<field name = "DATELINE">JOHANNESBURG, April 7 -</field>
-	<field name = "BODY">Gold share prices closed mixed to
+	<field name = "content">Gold share prices closed mixed to
 slightly firmer in quiet and cautious trading, showing little
 reaction to a retreat in the bullion price back to below 420
 dlrs and a firmer financial rand, dealers said.

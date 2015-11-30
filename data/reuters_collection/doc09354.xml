@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 11:06:42.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1270reute
-r f BC-UNISYS-UIS>-INTRODUC   03-25 0096</field>
-	<field name = "TITLE">UNISYS UIS> INTRODUCES NEW PRODUCTS</field>
+	<field name = "titulo">UNISYS UIS> INTRODUCES NEW PRODUCTS</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Unisys Corp introduced two new
+	<field name = "content">Unisys Corp introduced two new
 mainframe computers, new workstations, and other products.
     The company said the V510 and V530 large-scale computers
 offer up to a four-fold increase in performance over existing V

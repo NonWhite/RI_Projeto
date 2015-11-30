@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 18:23:47.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0317
-reute
-r f AM-NUCLEAR   02-26 0097</field>
-	<field name = "TITLE">AGENCY VOTES TO END LOCAL NUCLEAR PLANT VETO</field>
+	<field name = "titulo">AGENCY VOTES TO END LOCAL NUCLEAR PLANT VETO</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">The Nuclear Regulatory Commission
+	<field name = "content">The Nuclear Regulatory Commission
 (NRC) proposed to ease evacuation standards for nuclear plants,
 which could lead the way to the licensing of controversial
 plants in New York and New Hampshire.

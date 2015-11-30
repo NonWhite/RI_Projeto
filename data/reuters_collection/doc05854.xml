@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 07:11:30.06</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">E A
-f4530reute
-r f BC-GMAC-CANADA-UNIT-ISSU   03-17 0104</field>
-	<field name = "TITLE">GMAC CANADA UNIT ISSUES CANADIAN DOLLAR BOND</field>
+	<field name = "titulo">GMAC CANADA UNIT ISSUES CANADIAN DOLLAR BOND</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">General Motors Acceptance Corp Canada is
+	<field name = "content">General Motors Acceptance Corp Canada is
 issuing a 100 mln Canadian dlr eurobond due October 15, 1992
 paying 8-1/2 pct and priced at 101-1/2 pct, lead manager Union
 Bank of Switzerland Securities Ltd said.

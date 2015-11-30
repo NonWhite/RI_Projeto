@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 12:42:33.46</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0706reute
-u f BC-TELEMEDIA-TO-BUY-HARR   03-13 0112</field>
-	<field name = "TITLE">TELEMEDIA TO BUY HARROWSMITH, EQUINOX MAGAZINES</field>
+	<field name = "titulo">TELEMEDIA TO BUY HARROWSMITH, EQUINOX MAGAZINES</field>
 	<field name = "DATELINE">MONTREAL, March 13 -</field>
-	<field name = "BODY">(Telemedia Inc) said its (Telemedia
+	<field name = "content">(Telemedia Inc) said its (Telemedia
 Publishing Inc) subsidiary agreed to buy privately-owned
 Harrowsmith and Equinox magazines for an undisclosed amount of
 cash.

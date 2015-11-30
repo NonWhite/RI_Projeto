@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 10:30:13.97</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f8052reute
-d f BC-SHELDAHL-SHEL>-IN-AG   03-18 0108</field>
-	<field name = "TITLE">SHELDAHL SHEL> IN AGREEMENT WITH SUMITOMO</field>
+	<field name = "titulo">SHELDAHL SHEL> IN AGREEMENT WITH SUMITOMO</field>
 	<field name = "DATELINE">NORTHFIELD, MINN., March 18 -</field>
-	<field name = "BODY">Sheldahl Inc said it signed
+	<field name = "content">Sheldahl Inc said it signed
 the previously announced agreements with Sumitomo Bakelite Co
 Ltd, Tokyo, Japan, providing for a joint participation program
 for manufacturing flexible circuits and circuitry components.

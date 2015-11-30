@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:21:00.36</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0975reute
-b f BC-BRIERLEY-UNIT-ISSUES   04-07 0087</field>
-	<field name = "TITLE">BRIERLEY UNIT ISSUES 100 MLN DLR EUROBOND</field>
+	<field name = "titulo">BRIERLEY UNIT ISSUES 100 MLN DLR EUROBOND</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Brierley Investments Overseas NV is
+	<field name = "content">Brierley Investments Overseas NV is
 issuing a 100 mln dlr eurobond due April 30, 1992 paying 8-1/4
 pct and priced at par, lead manager Banque Paribas Capital
 Markets said.

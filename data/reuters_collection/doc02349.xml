@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 14:17:42.35</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0370reute
-d f BC-SCIENCE-MANAGEMENT-CO   03-05 0104</field>
-	<field name = "TITLE">SCIENCE MANAGEMENT CORP SMG> 4TH QTR OPER NET</field>
+	<field name = "titulo">SCIENCE MANAGEMENT CORP SMG> 4TH QTR OPER NET</field>
 	<field name = "DATELINE">BASKING RIDGE, N.J., March 5 -</field>
-	<field name = "BODY">Oper shr profit 14 cts vs loss 31 cts
+	<field name = "content">Oper shr profit 14 cts vs loss 31 cts
     Oper net profit 374,000 vs loss 707,000
     Revs 19.1 mln vs 15.5 mln
     Avg shrs 2,610,000 vs 2,560,000

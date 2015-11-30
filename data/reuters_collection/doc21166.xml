@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 13:42:19.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f2332reute
-b f BC-MARKETS   10-19 0090</field>
-	<field name = "TITLE">CLOSING OF MARKETS NOT UNDER DISCUSSION, SEC SAYS</field>
+	<field name = "titulo">CLOSING OF MARKETS NOT UNDER DISCUSSION, SEC SAYS</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">Federal securities regulators are not
+	<field name = "content">Federal securities regulators are not
 discussing a move to close U.S. securities markets, a
 spokesperson for the Securities and Exchange Commission said.
     The SEC "...is not discussing closing the nation's

@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 18:27:41.18</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2773reute
-r f BC-TRANSCONTINENTAL-TGP   03-24 0097</field>
-	<field name = "TITLE">TRANSCONTINENTAL TGP> FILES NEW OFFER</field>
+	<field name = "titulo">TRANSCONTINENTAL TGP> FILES NEW OFFER</field>
 	<field name = "DATELINE">HOUSTON, March 24 -</field>
-	<field name = "BODY">Transcontinental Gas Pipe Line Corp
+	<field name = "content">Transcontinental Gas Pipe Line Corp
 said that it is not willing to accept the Federal Energy
 Regulatory Commission's conditioned approval of its proposed
 offer of settlement dated May 13.

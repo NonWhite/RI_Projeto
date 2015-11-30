@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 04:15:31.77</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f7141reute
-u f BC-CHINA-TO-CUT-EXCESSIV   03-18 0107</field>
-	<field name = "TITLE">CHINA TO CUT EXCESSIVE CAPITAL INVESTMENT FURTHER</field>
+	<field name = "titulo">CHINA TO CUT EXCESSIVE CAPITAL INVESTMENT FURTHER</field>
 	<field name = "DATELINE">PEKING, March 18 -</field>
-	<field name = "BODY">China said it will continue its efforts
+	<field name = "content">China said it will continue its efforts
 to cut excessive capital investment, and noted policies to cool
 the economy have so far failed.
     Fixed asset investment grew 16.7 pct to 296.7 billion yuan

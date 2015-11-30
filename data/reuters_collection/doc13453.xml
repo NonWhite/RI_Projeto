@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:10:58.66</field>
-	<field name = "UNKNOWN">C T
-f0317reute
-b f BC-LONDON-SUGAR-OPENS-SL   04-07 0117</field>
-	<field name = "TITLE">LONDON SUGAR OPENS SLIGHTLY EASIER</field>
+	<field name = "titulo">LONDON SUGAR OPENS SLIGHTLY EASIER</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Raw sugar futures continued their
+	<field name = "content">Raw sugar futures continued their
 overnight decline in early trading by posting losses from
 yesterday's final call of 0.40 to 1.20 dlrs, dealers said.
     Volume at the end of a 10 minute opening call was 85 lots.

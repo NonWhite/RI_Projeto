@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 11:28:03.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0648reute
-d f BC-NATIONAL-SEMI-NSM>-U   03-04 0098</field>
-	<field name = "TITLE">NATIONAL SEMI NSM> UNIT STEPS UP DELIVERIES</field>
+	<field name = "titulo">NATIONAL SEMI NSM> UNIT STEPS UP DELIVERIES</field>
 	<field name = "DATELINE">MOUNTAIN VIEW, Calif., March 4 -</field>
-	<field name = "BODY">National Semiconductor
+	<field name = "content">National Semiconductor
 Corp's National Advanced Systems unit said it is accelerating
 the delivery schedule for the two most powerful models of its
 AS/XL series mainframe processors because of growing customer

@@ -4,12 +4,9 @@
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0889reute
-r f BC-EC-CONCERN-OVER-U.S.   03-11 0111</field>
-	<field name = "TITLE">EC CONCERNED OVER U.S. TEXTILE IMPORT MOVES</field>
+	<field name = "titulo">EC CONCERNED OVER U.S. TEXTILE IMPORT MOVES</field>
 	<field name = "DATELINE">BRUSSELS, March 11 -</field>
-	<field name = "BODY">The European Community (EC) expressed
+	<field name = "content">The European Community (EC) expressed
 disquiet over protectionist moves in the United States to limit
 imports of textiles and said it would retaliate immediately if
 EC exports were hit.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:37:26.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2245reute
-b f BC-DEERE-DE>-AND-UNIT-D   04-07 0116</field>
-	<field name = "TITLE">DEERE DE> AND UNIT DEBT DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">DEERE DE> AND UNIT DEBT DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 downgraded 1.8 billion dlrs of long-term debt of Deere and Co
 and its finance unit John Deere Credit Co.
     Downgraded were senior notes and debentures to Baa-2 from

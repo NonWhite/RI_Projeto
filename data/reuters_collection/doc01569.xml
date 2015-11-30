@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">poland</field>
-	<field name = "UNKNOWN">C G
-f0817reute
-u f BC-FROST-NOT-EXPECTED-TO   03-04 0110</field>
-	<field name = "TITLE">FROST NOT EXPECTED TO DAMAGE POLAND'S WHEAT</field>
+	<field name = "titulo">FROST NOT EXPECTED TO DAMAGE POLAND'S WHEAT</field>
 	<field name = "DATELINE">WARSAW, March 4 -</field>
-	<field name = "BODY">Poland's winter wheat is likely to
+	<field name = "content">Poland's winter wheat is likely to
 survive recent frosts but the impact of the cold will not be
 known until late April, the Polish meteorology institute said.
     Some varieties of winter wheat sown in Poland can survive

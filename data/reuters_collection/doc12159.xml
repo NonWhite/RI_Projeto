@@ -7,13 +7,10 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "TOPICS">sorghum</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">C G
-f1943reute
-u f BC-HEAVY-RAINS-DAMAGE-AR   04-01 0101</field>
-	<field name = "TITLE">HEAVY RAINS DAMAGE ARGENTINE COARSE GRAINS CROP</field>
+	<field name = "titulo">HEAVY RAINS DAMAGE ARGENTINE COARSE GRAINS CROP</field>
 	<field name = "AUTHOR">By Manuel Villanueva</field>
 	<field name = "DATELINE">BUENOS AIRES, April 1 -</field>
-	<field name = "BODY">Fresh, heavy rains caused further
+	<field name = "content">Fresh, heavy rains caused further
 damage to the Argentine 1986/87 coarse grains crop in the week
 to yesterday, particularly in Buenos Aires province, trade
 sources said.

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 08:01:11.71</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f0072
-reute
-u f BC-OERLIKON-UNIT-REJECTS   03-03 0120</field>
-	<field name = "TITLE">OERLIKON UNIT REJECTS DUTCH PATENT CHARGES</field>
+	<field name = "titulo">OERLIKON UNIT REJECTS DUTCH PATENT CHARGES</field>
 	<field name = "DATELINE">ZURICH, March 3 -</field>
-	<field name = "BODY">Oerlikon-Buehrle Holding AG OEBZ.Z> unit
+	<field name = "content">Oerlikon-Buehrle Holding AG OEBZ.Z> unit
 Contraves AG> unequivocally rejects charges by NV Philips
 Gloeilampenfabrieken PGLO.AS> subsidiary Hollandse
 Signaalapparaten BV> that it violated patent rights in a radar

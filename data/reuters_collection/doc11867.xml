@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 08:29:20.52</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0677reute
-r f BC-EIGHT-CALABRIAN-BANK   04-01 0100</field>
-	<field name = "TITLE">EIGHT CALABRIAN BANK OFFICIALS RELEASED FROM JAIL</field>
+	<field name = "titulo">EIGHT CALABRIAN BANK OFFICIALS RELEASED FROM JAIL</field>
 	<field name = "DATELINE">REGGIO CALABRIA, Italy, April l -</field>
-	<field name = "BODY">Eight banking officials
+	<field name = "content">Eight banking officials
 arrested on embezzlement charges nine days ago have been
 released from jail on provisional liberty, pending a hearing of
 charges in court, judicial sources said.

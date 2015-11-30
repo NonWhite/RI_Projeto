@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 03:09:10.98</field>
-	<field name = "UNKNOWN">F
-f0085reute
-u f BC-STOCKS-CLOSE-AT-RECOR   04-07 0113</field>
-	<field name = "TITLE">STOCKS CLOSE AT RECORD HIGH IN HEAVY TOKYO TRADE</field>
+	<field name = "titulo">STOCKS CLOSE AT RECORD HIGH IN HEAVY TOKYO TRADE</field>
 	<field name = "DATELINE">TOKYO, April 7 -</field>
-	<field name = "BODY">Share prices surged to close at a record
+	<field name = "content">Share prices surged to close at a record
 high in heavy trade as record gains on Wall Street yesterday
 and expectations that Japan will take further steps to boost
 its economy drew investors into the market, brokers said.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G 
-f0988reute
-u f BC-EC-FARM-PRICE-TALKS-F   06-19 0103</field>
-	<field name = "TITLE">FAILURE OF EC FARM PRICE TALKS DISRUPTS TENDERS</field>
+	<field name = "titulo">FAILURE OF EC FARM PRICE TALKS DISRUPTS TENDERS</field>
 	<field name = "DATELINE">LONDON, June 19 -</field>
-	<field name = "BODY">There will be no serious bids at European
+	<field name = "content">There will be no serious bids at European
 Community open market tenders for wheat and barley until EC
 farm ministers agree to the 1987/88 farm price package, trade
 sources said.

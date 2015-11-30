@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 17:31:08.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2690reute
-r f BC-TIMES-MIRROR-TMC>-SE   03-30 0056</field>
-	<field name = "TITLE">TIMES MIRROR TMC> SELLS TIMBERLANDS</field>
+	<field name = "titulo">TIMES MIRROR TMC> SELLS TIMBERLANDS</field>
 	<field name = "DATELINE">LOS ANGELES, March 30 -</field>
-	<field name = "BODY">Times Mirror Co said it completed
+	<field name = "content">Times Mirror Co said it completed
 the sale of 26,000 acres of timberlands located in Washington
 and Oregon to Fibre Co>.
     Terms were not disclosed.

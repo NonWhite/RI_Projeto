@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 05:12:22.81</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">RM
-f0330reute
-u f BC-INDONESIAN-BANKS-PROF   03-24 0103</field>
-	<field name = "TITLE">INDONESIAN BANKS PROFITS RISE AFTER DEVALUATION</field>
+	<field name = "titulo">INDONESIAN BANKS PROFITS RISE AFTER DEVALUATION</field>
 	<field name = "AUTHOR">By Jeremy Clift, Reuters</field>
 	<field name = "DATELINE">JAKARTA, March 24 -</field>
-	<field name = "BODY">Indonesia's September devaluation
+	<field name = "content">Indonesia's September devaluation
 helped bank profits to rise by 28.6 pct in calendar 1986, but
 despite higher world oil prices, banks are likely to see
 profits stabilise or fall in 1987, the head of Indonesia's

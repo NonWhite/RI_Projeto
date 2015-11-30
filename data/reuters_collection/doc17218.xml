@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-APR-1987 01:08:32.41</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">G C
-f0034reute
-u f BC-STRONG-INDONESIAN-EAR   04-27 0104</field>
-	<field name = "TITLE">STRONG INDONESIAN EARTHQUAKE LEADS TO FLOOD FEARS</field>
+	<field name = "titulo">STRONG INDONESIAN EARTHQUAKE LEADS TO FLOOD FEARS</field>
 	<field name = "DATELINE">JAKARTA, April 27 -</field>
-	<field name = "BODY">Fresh tremors hit the northern area of
+	<field name = "content">Fresh tremors hit the northern area of
 the Indonesian island of Sumatra after an earthquake measuring
 6.6 on the Richter scale yesterday and local officials told
 Reuters they fear flooding after a dam was cracked.

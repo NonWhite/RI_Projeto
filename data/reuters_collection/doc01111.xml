@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f0813reute
-u f BC-DUTCH-MONEY-MARKET-DE   03-03 0112</field>
-	<field name = "TITLE">DUTCH MONEY MARKET DEBT BARELY CHANGED IN WEEK</field>
+	<field name = "titulo">DUTCH MONEY MARKET DEBT BARELY CHANGED IN WEEK</field>
 	<field name = "DATELINE">AMSTERDAM, March 3 -</field>
-	<field name = "BODY">Loans and advances from the Dutch
+	<field name = "content">Loans and advances from the Dutch
 central bank to the commercial banks were barely changed at
 12.9 billion guilders in the week up to and including March 2,
 the central bank weekly return showed.

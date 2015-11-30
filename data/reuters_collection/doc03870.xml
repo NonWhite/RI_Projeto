@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 14:36:20.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0280reute
-u f AM-CENTAM-AMERICAN 1STLD  03-11 0099</field>
-	<field name = "TITLE">U.S. HOUSE PROCEDURAL VOTE OPPOSES CONTRA AID</field>
+	<field name = "titulo">U.S. HOUSE PROCEDURAL VOTE OPPOSES CONTRA AID</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">The U.S. House of Representatives,
+	<field name = "content">The U.S. House of Representatives,
 in a key procedural vote, today opposed a grant of 40 mln dlrs
 to the Nicaraguan rebels until President Reagan accounts for
 previous aid, including proceeds from U.S. Arms sales to Iran.

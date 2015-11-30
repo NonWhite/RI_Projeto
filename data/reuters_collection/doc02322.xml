@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 13:53:27.77</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0288reute
-d f BC-FIRST-EASTERN-CORP-F   03-05 0047</field>
-	<field name = "TITLE">FIRST EASTERN CORP FEBC> COMPLETES ACQUISITION</field>
+	<field name = "titulo">FIRST EASTERN CORP FEBC> COMPLETES ACQUISITION</field>
 	<field name = "DATELINE">WILKES-BARRE, Pa., March 5 -</field>
-	<field name = "BODY">First Eastern Corp said it has
+	<field name = "content">First Eastern Corp said it has
 completed the acquisition of Peoples Bank of Nanticoke, Pa., in
 an exchange of 11 First Eastern shares for each Peoples share.
     Peoples has assets of about 24 mln dlrs.

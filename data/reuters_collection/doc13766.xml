@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:44:45.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0815reute
-r f BC-REXON-REXN>-SHARE-OF   04-07 0050</field>
-	<field name = "TITLE">REXON REXN> SHARE OFFERING UNDERWAY</field>
+	<field name = "titulo">REXON REXN> SHARE OFFERING UNDERWAY</field>
 	<field name = "DATELINE">CULVER CITY, Calif., April 7 -</field>
-	<field name = "BODY">Rexon Inc said an offering
+	<field name = "content">Rexon Inc said an offering
 of two mln common shares is underway at 13.25 dlrs per share
 through underwriters led by Hambrecht and Quist Inc.
     Underwriters have been granted an overallotment option for

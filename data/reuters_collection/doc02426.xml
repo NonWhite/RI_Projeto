@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:02:58.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0720reute
-d f BC-FARM-CREDIT-RESCUE-CA   03-05 0113</field>
-	<field name = "TITLE">FARM CREDIT RESCUE CAUTION URGED BY HOUSE LEADER</field>
+	<field name = "titulo">FARM CREDIT RESCUE CAUTION URGED BY HOUSE LEADER</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">House Majority leader Thomas Foley
+	<field name = "content">House Majority leader Thomas Foley
 (D-Wash.) has urged Congress to give the farm credit system a
 few more months to reorganize itself before rushing into a
 federal rescue of the system, a senior aide to Foley said.

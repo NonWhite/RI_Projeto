@@ -5,12 +5,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">C G
-f1484reute
-u f BC-WEATHER-HURTING-YUGOS   03-31 0112</field>
-	<field name = "TITLE">WEATHER HURTING YUGOSLAV WHEAT - USDA REPORT</field>
+	<field name = "titulo">WEATHER HURTING YUGOSLAV WHEAT - USDA REPORT</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Unfavorable late winter weather
+	<field name = "content">Unfavorable late winter weather
 conditions in the main wheat growing areas of Yugoslavia
 indicate dimmed prospects for the emerging winter wheat crop,
 the U.S. embassy's agricultural officer in Belgrade said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 10:05:21.56</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f7961reute
-b f BC-BANK-OF-ENGLAND-LENDS   03-18 0120</field>
-	<field name = "TITLE">BANK OF ENGLAND LENDS ONE BILLION STG AT 10 PCT</field>
+	<field name = "titulo">BANK OF ENGLAND LENDS ONE BILLION STG AT 10 PCT</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">The Bank of England said it had lent one
+	<field name = "content">The Bank of England said it had lent one
 billion stg to the discount market for fourteen days at 10 pct.
     This brings the Banks total help today to some 1.34 billion
 stg and satisfies the estimated shortage in the system today

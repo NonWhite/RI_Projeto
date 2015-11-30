@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:22:27.81</field>
 	<field name = "PLACES">finland</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1064reute
-d f BC-FINLAND-ORDERS-MCDONN   04-01 0111</field>
-	<field name = "TITLE">FINLAND ORDERS MCDONNELL DOUGLAS MD-11S</field>
+	<field name = "titulo">FINLAND ORDERS MCDONNELL DOUGLAS MD-11S</field>
 	<field name = "DATELINE">HELSINKI, April 1 -</field>
-	<field name = "BODY">The Finnish national airline Finnair>
+	<field name = "content">The Finnish national airline Finnair>
 said in a statement today it ordered two McDonnell Douglas Corp
 MD.N> MD-11 passenger planes for delivery in October 1990 and
 May 1991 and had taken an option to buy on two more.

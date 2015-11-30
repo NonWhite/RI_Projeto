@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 18:46:21.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0061reute
-r f BC-AIRCAL-ACF>-FEBRUARY   03-09 0103</field>
-	<field name = "TITLE">AIRCAL ACF> FEBRUARY LOAD FACTOR DOWN SLIGHTLY</field>
+	<field name = "titulo">AIRCAL ACF> FEBRUARY LOAD FACTOR DOWN SLIGHTLY</field>
 	<field name = "DATELINE">NEWPORT BEACH, Calif., March 9 -</field>
-	<field name = "BODY">AirCal said its February
+	<field name = "content">AirCal said its February
 load factor averaged 53.4 pct, down slightly from 54.2 pct a
 year earlier.
     The company said available seat miles, at 357.1 mln, were

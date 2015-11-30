@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 09:44:52.36</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1068reute
-h f BC-TOWNSEND-FERRY-INQUIR   04-27 0097</field>
-	<field name = "TITLE">TOWNSEND FERRY INQUIRY TOLD BOW DOORS TO BLAME</field>
+	<field name = "titulo">TOWNSEND FERRY INQUIRY TOLD BOW DOORS TO BLAME</field>
 	<field name = "DATELINE">LONDON, April 27 -</field>
-	<field name = "BODY">The Zeebrugge ferry disaster, in which
+	<field name = "content">The Zeebrugge ferry disaster, in which
 around 200 people drowned seven weeks ago, was almost certainly
 caused by the ship leaving port with its bow doors wide open, a
 British government inquiry was told.

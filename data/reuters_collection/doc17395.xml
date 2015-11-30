@@ -4,13 +4,10 @@
 	<field name = "TOPICS">dmk</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1294reute
-u f BC-LOWER-MARK-RATE-SPECU   04-29 0112</field>
-	<field name = "TITLE">LOWER MARK RATE SPECULATION NOT SHARED IN GERMANY</field>
+	<field name = "titulo">LOWER MARK RATE SPECULATION NOT SHARED IN GERMANY</field>
 	<field name = "AUTHOR">By Jonathan Lynn, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, April 29 -</field>
-	<field name = "BODY">Speculation abroad that the
+	<field name = "content">Speculation abroad that the
 Bundesbank will steer money market rates lower, opening the
 for interest rate cuts around Europe, is not shared by many
 economists and money market dealers within Germany.

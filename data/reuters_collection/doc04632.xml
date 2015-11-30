@@ -4,12 +4,9 @@
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">tamura</field>
-	<field name = "UNKNOWN">RM
-f0062reute
-b f BC-JAPAN-MINISTER-SAYS-A   03-13 0117</field>
-	<field name = "TITLE">JAPAN MINISTER SAYS ABOUT 170 YEN APPROPRIATE</field>
+	<field name = "titulo">JAPAN MINISTER SAYS ABOUT 170 YEN APPROPRIATE</field>
 	<field name = "DATELINE">TOKYO, March 13 -</field>
-	<field name = "BODY">International Trade and Industry Minister
+	<field name = "content">International Trade and Industry Minister
 Hajime Tamura told a parliamentary session Japan's small- and
 medium-sized enterprises are seriously suffering from the yen's
 rise and can only stand levels around 170 yen.

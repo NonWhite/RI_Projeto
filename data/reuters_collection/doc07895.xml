@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 14:05:08.93</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1991reute
-u f BC-NEW-YORK-STATE-ELECTR   03-20 0066</field>
-	<field name = "TITLE">NEW YORK STATE ELECTRIC NGE> ENDS ACQUISITION</field>
+	<field name = "titulo">NEW YORK STATE ELECTRIC NGE> ENDS ACQUISITION</field>
 	<field name = "DATELINE">BINGHAMTON, N.Y., March 20 -</field>
-	<field name = "BODY">New York State Electric and
+	<field name = "content">New York State Electric and
 Gas Corp said it has terminated its effort to acquire Corning
 Natural Gas Corp.
     It cited as reasons the uncertain regulatory climate in New

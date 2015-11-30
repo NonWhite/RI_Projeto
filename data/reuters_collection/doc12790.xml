@@ -4,12 +4,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">RM
-f0481reute
-b f BC-STOLTENBERG-SAYS-PARI   04-03 0109</field>
-	<field name = "TITLE">STOLTENBERG SAYS PARIS ACCORD POLICY TO CONTINUE</field>
+	<field name = "titulo">STOLTENBERG SAYS PARIS ACCORD POLICY TO CONTINUE</field>
 	<field name = "DATELINE">BONN, April 3 -</field>
-	<field name = "BODY">West German Finance Minister Gerhard
+	<field name = "content">West German Finance Minister Gerhard
 Stoltenberg said the currency agreement reached in Paris in
 February had been successful and would be continued.
     Stoltenberg told journalists before he attends next week's

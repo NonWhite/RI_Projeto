@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 21:38:25.33</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0933reute
-u f BC-JAPAN-MULLING-CHANGES   03-12 0090</field>
-	<field name = "TITLE">JAPAN MULLING CHANGES TO CORPORATE DISCLOSURE RULES</field>
+	<field name = "titulo">JAPAN MULLING CHANGES TO CORPORATE DISCLOSURE RULES</field>
 	<field name = "DATELINE">TOKYO, March 13 -</field>
-	<field name = "BODY">The Finance Ministry will institute a
+	<field name = "content">The Finance Ministry will institute a
 study to consider changing the corporate disclosure rules to
 provide more information for investors, a ministry official
 said.

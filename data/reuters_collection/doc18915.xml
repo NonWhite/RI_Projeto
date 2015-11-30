@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:30:37.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4241reute
-d f BC-OPTO-MECHANIK-OPTO.O   06-18 0070</field>
-	<field name = "TITLE">OPTO MECHANIK OPTO.O> GETS 7.2 MLN IN CONTRACTS</field>
+	<field name = "titulo">OPTO MECHANIK OPTO.O> GETS 7.2 MLN IN CONTRACTS</field>
 	<field name = "DATELINE">MELBOURNE, Fla., June 18 -</field>
-	<field name = "BODY">Opto Mechanik Inc, a designer
+	<field name = "content">Opto Mechanik Inc, a designer
 and manufacturer of military optical and electro-optical
 systems, said it received 7.2 mln in contracts from domestic
 and foreign customers.

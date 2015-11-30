@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 17:32:04.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2551reute
-r f BC-ICN-ICN>-SAYS-KODAK   03-25 0109</field>
-	<field name = "TITLE">ICN ICN> SAYS KODAK SALE WILL NOT AFFECT R/D</field>
+	<field name = "titulo">ICN ICN> SAYS KODAK SALE WILL NOT AFFECT R/D</field>
 	<field name = "DATELINE">COSTA MESA, Calif., March 25 -</field>
-	<field name = "BODY">ICN Pharmaceutical Inc said
+	<field name = "content">ICN Pharmaceutical Inc said
 it did not view Eastman Kodak Co's EK> decision to sell its
 2.3 pct share of ICN's common stock as having any effect on the
 status of its drug ribavirin or the previously reported ongoing

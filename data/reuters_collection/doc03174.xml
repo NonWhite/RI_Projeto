@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 11:58:32.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0705reute
-r f BC-FUJITSU-LIMITED-UNIT   03-09 0106</field>
-	<field name = "TITLE">FUJITSU LIMITED UNIT SIGNS JOINT VENTURE PACT</field>
+	<field name = "titulo">FUJITSU LIMITED UNIT SIGNS JOINT VENTURE PACT</field>
 	<field name = "DATELINE">SAN JOSE, Calif., March 9 -</field>
-	<field name = "BODY">Fujitsu America Inc>, a
+	<field name = "content">Fujitsu America Inc>, a
 subsidiary of Fujitsu Ltd, said it will form a joint company
 with GTE Communication System> to develop and market voice and
 data business communication systems to the North American

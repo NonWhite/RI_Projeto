@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 13:31:17.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0946reute
-r f BC-U.S.-AUTO-OUTPUT-SAID   03-12 0098</field>
-	<field name = "TITLE">U.S. AUTO OUTPUT SAID DOWN THIS WEEK</field>
+	<field name = "titulo">U.S. AUTO OUTPUT SAID DOWN THIS WEEK</field>
 	<field name = "DATELINE">DETROIT, March 12 -</field>
-	<field name = "BODY">Automobile production by U.S.
+	<field name = "content">Automobile production by U.S.
 manufacturers this week will be 2.5 pct below output for the
 same week last year, according to Automotive News.
     The trade paper said 167,942 cars will be made in the

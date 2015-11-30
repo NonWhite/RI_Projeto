@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">yemen-demo-republic</field>
 	<field name = "PLACES">cyprus</field>
-	<field name = "UNKNOWN">Y 
-f0672reute
-u f BC-SOUTH-YEMEN-PLANS-OIL   10-19 0100</field>
-	<field name = "TITLE">SOUTH YEMEN PLANS OIL EXPORT PIPELINE - MEES</field>
+	<field name = "titulo">SOUTH YEMEN PLANS OIL EXPORT PIPELINE - MEES</field>
 	<field name = "DATELINE">NICOSIA, Oct 19 -</field>
-	<field name = "BODY">South Yemen is planning a major oil
+	<field name = "content">South Yemen is planning a major oil
 pipeline system to be completed in 18-months time to start
 exports at a initial rate of 100,000 barrels per day, (bpd) the
 Middle East Economic Survey (MEES) said.

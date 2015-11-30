@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 19:24:29.96</field>
 	<field name = "PLACES">canada</field>
 	<field name = "EXCHANGES">tose</field>
-	<field name = "UNKNOWN">E
-f2871reute
-r f BC-power   04-09 0119</field>
-	<field name = "TITLE">TORONTO FINANCIAL DISTRICT HIT BY POWER OUTAGE</field>
+	<field name = "titulo">TORONTO FINANCIAL DISTRICT HIT BY POWER OUTAGE</field>
 	<field name = "DATELINE">TORONTO, April 9 -</field>
-	<field name = "BODY">Toronto's financial district, the
+	<field name = "content">Toronto's financial district, the
 business heart of Canada, slowed to a near halt this afternoon
 after being struck by a power blackout, utility and business
 officials said.

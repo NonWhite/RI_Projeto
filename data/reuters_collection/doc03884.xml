@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 14:56:20.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0339reute
-r f AM-MERGERS   03-11 0101</field>
-	<field name = "TITLE">ADMINISTRATION SAID LAX ON ANTITRUST ENFORCEMENT</field>
+	<field name = "titulo">ADMINISTRATION SAID LAX ON ANTITRUST ENFORCEMENT</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">A group of state officials and a key
+	<field name = "content">A group of state officials and a key
 U.S. senator said a corporate merger wave was harming the
 economy and blamed the Reagan administration for laxness in
 enforcing the federal antitrust laws.

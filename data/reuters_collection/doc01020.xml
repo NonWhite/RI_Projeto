@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 09:45:54.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0358reute
-r f BC-HOLIDAY-CORP-HIA>-HO   03-03 0086</field>
-	<field name = "TITLE">HOLIDAY CORP HIA> HOTEL GROUP ADDS PROPERTIES</field>
+	<field name = "titulo">HOLIDAY CORP HIA> HOTEL GROUP ADDS PROPERTIES</field>
 	<field name = "DATELINE">MEMPHIS, Tenn., March 3 -</field>
-	<field name = "BODY">Holiday Corp's Holiday Inn Hotel
+	<field name = "content">Holiday Corp's Holiday Inn Hotel
 Group said it will add a record 17 hotels with 4,440 rooms to
 its international division as part of its plan to double its
 presence abroad by 1995.

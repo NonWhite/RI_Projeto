@@ -5,12 +5,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0722reute
-r f BC-AMERICAN-FARM-BUREAU   03-04 0109</field>
-	<field name = "TITLE">AMERICAN FARM BUREAU OPPOSES FARM BILL CHANGES</field>
+	<field name = "titulo">AMERICAN FARM BUREAU OPPOSES FARM BILL CHANGES</field>
 	<field name = "DATELINE">CHICAGO, March 4 -</field>
-	<field name = "BODY">The directors of the American Farm
+	<field name = "content">The directors of the American Farm
 Bureau, the nation's largest farm organization, voted Tuesday
 to urge Congress to leave the 1985 farm bill in place without
 alterations.

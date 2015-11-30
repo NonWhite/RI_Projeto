@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 10:12:43.17</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0020reute
-d f BC-TRANSACT-INT'L-INC-T   03-13 0092</field>
-	<field name = "TITLE">TRANSACT INT'L INC TACT> 3RD QTR JAN 31 NET</field>
+	<field name = "titulo">TRANSACT INT'L INC TACT> 3RD QTR JAN 31 NET</field>
 	<field name = "DATELINE">DARIEN, Conn., March 13 -</field>
-	<field name = "BODY">Shr one ct vs three cts
+	<field name = "content">Shr one ct vs three cts
     Net 66,922 vs 194,531
     Rev 4.2 mln vs 5.7 mln
     Nine months

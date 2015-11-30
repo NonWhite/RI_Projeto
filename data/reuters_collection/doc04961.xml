@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0069reute
-r f BC-MOBIL-MOB>-ADDS-NATU   03-13 0109</field>
-	<field name = "TITLE">MOBIL MOB> ADDS NATURAL GAS RESERVES IN 1986</field>
+	<field name = "titulo">MOBIL MOB> ADDS NATURAL GAS RESERVES IN 1986</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">Mobil Corp increased net proven
+	<field name = "content">Mobil Corp increased net proven
 reserves of natural gas liquids in 1986 from the previous year
 according to data in its 1986 annual report.
     The report states that total net proved reserves at year's

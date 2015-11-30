@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 15:27:49.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2247reute
-u f BC-ALLEGHENY-INT'L-AG>   03-19 0095</field>
-	<field name = "TITLE">ALLEGHENY INT'L AG> BANKS EXTEND WAIVER</field>
+	<field name = "titulo">ALLEGHENY INT'L AG> BANKS EXTEND WAIVER</field>
 	<field name = "DATELINE">PITTSBURGH, March 19 -</field>
-	<field name = "BODY">Allegheny International Inc said a
+	<field name = "content">Allegheny International Inc said a
 consortium of banks which entered into long term and short term
 secured revolving credit agreements with the company last year
 has agreed to extend a previously granted waiver of certain

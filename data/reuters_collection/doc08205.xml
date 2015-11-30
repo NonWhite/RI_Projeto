@@ -3,12 +3,9 @@
 	<field name = "TOPICS">rubber</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "ORGS">unctad</field>
-	<field name = "UNKNOWN">F
-f0689reute
-r f PM-RUBBER   03-23 0107</field>
-	<field name = "TITLE">NEW RUBBER PACT ADOPTED AT GENEVA CONFERENCE</field>
+	<field name = "titulo">NEW RUBBER PACT ADOPTED AT GENEVA CONFERENCE</field>
 	<field name = "DATELINE">GENEVA, March 23 -</field>
-	<field name = "BODY">Producers and consumers representing
+	<field name = "content">Producers and consumers representing
 most of world trade in natural rubber adopted a new
 International Natural Rubber Agreement (INRA) aimed at
 stabilizing world prices over the next five years.

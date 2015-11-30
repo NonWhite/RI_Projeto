@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">guatemala</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f1384reute
-b f BC-GUATEMALA-TO-HOST-OTH   03-31 0109</field>
-	<field name = "TITLE">GUATEMALA TO HOST OTHER MILDS COFFEE MEETING</field>
+	<field name = "titulo">GUATEMALA TO HOST OTHER MILDS COFFEE MEETING</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">Guatemala will host a meeting of other
+	<field name = "content">Guatemala will host a meeting of other
 milds coffee producers probably in May to discuss basic export
 quotas, the Guatemalan delegate to the International Coffee
 Organization, ICO, said.

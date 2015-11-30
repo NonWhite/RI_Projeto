@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 06:20:44.59</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0615reute
-u f BC-GERMAN-ECONOMIC-OUTLO   03-05 0114</field>
-	<field name = "TITLE">GERMAN ECONOMIC OUTLOOK SEEN FAIRLY BRIGHT</field>
+	<field name = "titulo">GERMAN ECONOMIC OUTLOOK SEEN FAIRLY BRIGHT</field>
 	<field name = "DATELINE">KIEL, West Germany, March 5 -</field>
-	<field name = "BODY">The outlook for the West
+	<field name = "content">The outlook for the West
 German economy is relatively bright, with gross national
 product expected to expand by three pct this year, Kiel
 University's Institute for World Economy said.

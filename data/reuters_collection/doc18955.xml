@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 15:24:10.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4412reute
-r f BC-ALEXANDER-AAL>-ESTAB   06-18 0073</field>
-	<field name = "TITLE">ALEXANDER AAL> ESTABLISHES INSURANCE UNIT</field>
+	<field name = "titulo">ALEXANDER AAL> ESTABLISHES INSURANCE UNIT</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Alexander and Alexander Services Inc
+	<field name = "content">Alexander and Alexander Services Inc
 said it formed an insurance unit known as the Environmental
 Protection Insurance Co-Risk Retention Group to specialize in
 environmental liability coverage.

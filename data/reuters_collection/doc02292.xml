@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 13:16:24.25</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0167reute
-u f BC-FRANCE'S-FSGT-ISSUES   03-05 0096</field>
-	<field name = "TITLE">FRANCE'S FSGT ISSUES 1.7 BILLION FRANC BOND</field>
+	<field name = "titulo">FRANCE'S FSGT ISSUES 1.7 BILLION FRANC BOND</field>
 	<field name = "DATELINE">PARIS, March 5 -</field>
-	<field name = "BODY">The Fonds Special de Grands Travaux (FSGT)
+	<field name = "content">The Fonds Special de Grands Travaux (FSGT)
 is issuing a 1.7 billion franc, 9.10 pct, 12-year domestic bond
 at 99.30 pct, lead manager Societe Generale said.
     The bond, guaranteed by the state, will carry warrants

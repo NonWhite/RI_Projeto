@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 10:57:20.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5258reute
-d f BC-LTV-QLTV>-GETS-MARIN   03-17 0059</field>
-	<field name = "TITLE">LTV QLTV> GETS MARINE CORPS CONTRACT</field>
+	<field name = "titulo">LTV QLTV> GETS MARINE CORPS CONTRACT</field>
 	<field name = "DATELINE">SOUTH BEND, Ind., March 17 -</field>
-	<field name = "BODY">LTV Corp said it has received
+	<field name = "content">LTV Corp said it has received
 a 23.5 mln dlr fixed-price contract to rebuild 923 M54 five-ton
 cargo trucks into more modern M813 cargo trucks.
     It said it will deliver 120 conversion kits a months,

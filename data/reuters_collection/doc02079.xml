@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 10:32:49.32</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0321reute
-u f BC-COMDATA-CDN>-IN-MERG   03-05 0045</field>
-	<field name = "TITLE">COMDATA CDN> IN MERGER AGREEMENT</field>
+	<field name = "titulo">COMDATA CDN> IN MERGER AGREEMENT</field>
 	<field name = "DATELINE">NASHVILLE, Tenn., March 5 -</field>
-	<field name = "BODY">Comdata Network Inc said
+	<field name = "content">Comdata Network Inc said
 it has entered into a letter of intent with a limited
 partnership managed by Welsh, Carson, Anderson and Stowe (WCAS)
 to merge Comdata into a corproration to be formed by WCAS.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 09:12:53.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0933reute
-d f BC-OGDEN-OG>-SETS-BERKS   10-19 0100</field>
-	<field name = "TITLE">OGDEN OG> SETS BERKS COUNTY WASTE FACILITY</field>
+	<field name = "titulo">OGDEN OG> SETS BERKS COUNTY WASTE FACILITY</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Ogden Corp said its Ogden Martin System
+	<field name = "content">Ogden Corp said its Ogden Martin System
 of Berks Inc subsidiary has signed a contract with Berks
 County, Pa., to build, own and operate a resource recovery
 plant designed to process 365,000 tons per year of municipal

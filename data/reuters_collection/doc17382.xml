@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C G
-f0393reute
-u f BC-U.K.-TO-SUPPLY-WHEAT   04-29 0091</field>
-	<field name = "TITLE">U.K. TO SUPPLY WHEAT TO CHINA UNDER AID PROGRAM</field>
+	<field name = "titulo">U.K. TO SUPPLY WHEAT TO CHINA UNDER AID PROGRAM</field>
 	<field name = "DATELINE">LONDON, April 29 -</field>
-	<field name = "BODY">The U.K. Will ship 39,250 tonnes of feed
+	<field name = "content">The U.K. Will ship 39,250 tonnes of feed
 wheat to China this month as food aid at a cost to the British
 aid program of 3.4 mln stg, the Overseas Development
 Administration (ODA) said.

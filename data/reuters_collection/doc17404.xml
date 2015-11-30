@@ -3,13 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">F Y
-f1853reute
-d f BC-ENERGY/HEAVY-OILS--(p   04-29 0086</field>
-	<field name = "TITLE">ENERGY/HEAVY OILS</field>
+	<field name = "titulo">ENERGY/HEAVY OILS</field>
 	<field name = "AUTHOR">By SUSAN SHERER, Reuters</field>
 	<field name = "DATELINE">HOUSTON, April 29 -</field>
-	<field name = "BODY">The oil price collapse of 1986 put
+	<field name = "content">The oil price collapse of 1986 put
 development of a vast petroleum resource -- heavy and extra
 heavy oils -- on hold. But as oil prices increase the long-term
 economic outlook is favorable, oil industry experts said.

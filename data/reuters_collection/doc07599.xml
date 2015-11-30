@@ -4,12 +4,9 @@
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C G L M T
-f0504reute
-r f BC-TAIWAN-PLANS-MISSION   03-20 0105</field>
-	<field name = "TITLE">TAIWAN PLANS MISSION TO CLOSE TRADE GAP WITH U.S.</field>
+	<field name = "titulo">TAIWAN PLANS MISSION TO CLOSE TRADE GAP WITH U.S.</field>
 	<field name = "DATELINE">TAIPEI, March 20 -</field>
-	<field name = "BODY">Taiwan's leading industrial organisation
+	<field name = "content">Taiwan's leading industrial organisation
 said it will send its first buying mission to the U.S. Later
 this year in an effort to reduce the country's trade surplus
 with Washington.

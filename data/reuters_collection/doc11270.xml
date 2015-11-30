@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">thailand</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">G
-f0842reute
-d f BC-THAILAND-BUYS-YUGOSLA   03-31 0105</field>
-	<field name = "TITLE">THAILAND BUYS YUGOSLAV CRANES IN BARTER DEAL</field>
+	<field name = "titulo">THAILAND BUYS YUGOSLAV CRANES IN BARTER DEAL</field>
 	<field name = "DATELINE">BANGKOK, March 31 -</field>
-	<field name = "BODY">The Cabinet approved a plan for the
+	<field name = "content">The Cabinet approved a plan for the
 Port Authority of Thailand to buy six gantry cranes from
 Metalna Co of Yugoslavia for about 13.4 mln dlrs, a government
 spokesman said.

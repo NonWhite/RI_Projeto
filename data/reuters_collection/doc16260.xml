@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 09:47:05.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0941reute
-r f BC-browning-ferris-unit   04-13 0103</field>
-	<field name = "TITLE">BROWNING-FERRIS BFI> UNIT SEES EPA LAWSUIT</field>
+	<field name = "titulo">BROWNING-FERRIS BFI> UNIT SEES EPA LAWSUIT</field>
 	<field name = "DATELINE">BUFFALO, N.Y., April 13 -</field>
-	<field name = "BODY">CECOS International Inc, a
+	<field name = "content">CECOS International Inc, a
 subsidiary of Browning-Ferris Industries Inc, said it expects
 the U.S. Environmental Protection Agency to sue the company,
 claiming non-compliance with regulatory requirements at CECOS'

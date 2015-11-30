@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:34:23.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1463reute
-u f BC-TEXACO-TX>-RECOMMEND   04-08 0113</field>
-	<field name = "TITLE">TEXACO TX> RECOMMENDED BY FIRST BOSTON</field>
+	<field name = "titulo">TEXACO TX> RECOMMENDED BY FIRST BOSTON</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">First Boston Corp analyst William
+	<field name = "content">First Boston Corp analyst William
 Randol recommended the purchase of Texaco Inc today, saying
 "the discount that investors have made in the share price to
 reflect the ongoing litigation with Pennzoil has been overdone

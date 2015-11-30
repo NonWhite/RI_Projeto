@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 15:41:01.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A F 
-f2896reute
-r f BC-J.P.-MORGAN-JPM>-LOW   10-19 0102</field>
-	<field name = "TITLE">J.P. MORGAN JPM> LOWERS LOAN-LOSS PROVISIONS</field>
+	<field name = "titulo">J.P. MORGAN JPM> LOWERS LOAN-LOSS PROVISIONS</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">J.P. Morgan and Co Inc said
+	<field name = "content">J.P. Morgan and Co Inc said
 third-quarter net income rose 3.6 pct to 219.2 mln dlrs, from
 211.5 mln a year earlier, partly because of reduced loan-loss
 provisions and a lower income tax bill.

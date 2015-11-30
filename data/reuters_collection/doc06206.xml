@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 14:51:52.86</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E Y
-f6258reute
-r f BC-HYDRO-QUEBEC-IN-HEARI   03-17 0117</field>
-	<field name = "TITLE">HYDRO-QUEBEC IN HEARINGS FOR U.S. POWER EXPORTS</field>
+	<field name = "titulo">HYDRO-QUEBEC IN HEARINGS FOR U.S. POWER EXPORTS</field>
 	<field name = "DATELINE">MONTREAL, March 17 -</field>
-	<field name = "BODY">Hydro-Quebec, the provincially-owned
+	<field name = "content">Hydro-Quebec, the provincially-owned
 utility, said it is appearing this week before the National
 Energy Board to defend its application to export about five
 billion Canadian dlrs worth of electricity to the New England

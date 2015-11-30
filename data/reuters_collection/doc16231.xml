@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 09:09:25.36</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0820reute
-r f BC-corona   04-13 0095</field>
-	<field name = "TITLE">CORONA ICR.TO> FAVORS ROYEX RGM.TO> OFFER</field>
+	<field name = "titulo">CORONA ICR.TO> FAVORS ROYEX RGM.TO> OFFER</field>
 	<field name = "DATELINE">TORONTO, April 13 -</field>
-	<field name = "BODY">International Corona Resources Ltd said
+	<field name = "content">International Corona Resources Ltd said
 its board of directors believes that terms of Royex Gold Mining
 Corp's previously announced offer are fair and reasonable, but
 it decided it will make no recommendation on the offer to its

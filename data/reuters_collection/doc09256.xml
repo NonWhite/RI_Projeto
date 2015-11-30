@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 09:05:42.07</field>
 	<field name = "PLACES">yugoslavia</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0807reute
-u f BC-YUGOSLAVIA-SEEKS-600   03-25 0104</field>
-	<field name = "TITLE">YUGOSLAVIA SEEKS 600 MLN ECU LOAN FROM EC</field>
+	<field name = "titulo">YUGOSLAVIA SEEKS 600 MLN ECU LOAN FROM EC</field>
 	<field name = "DATELINE">BELGRADE, March 25 -</field>
-	<field name = "BODY">Yugoslavia is seeking a loan of 600
+	<field name = "content">Yugoslavia is seeking a loan of 600
 mln ECUs from the European Community for transport system
 modernisation, Deputy Finance Minister Boris Skapin was quoted
 by the official Tanjug news agency.

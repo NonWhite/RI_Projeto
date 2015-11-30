@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 00:14:40.28</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0473
-reute
-u f BC-EARTHQUAKES-CONTINUE   03-03 0114</field>
-	<field name = "TITLE">EARTHQUAKES CONTINUE TO SHAKE NORTHERN NEW ZEALAND</field>
+	<field name = "titulo">EARTHQUAKES CONTINUE TO SHAKE NORTHERN NEW ZEALAND</field>
 	<field name = "DATELINE">WELLINGTON, March 3 -</field>
-	<field name = "BODY">Earthquakes and aftershocks are still
+	<field name = "content">Earthquakes and aftershocks are still
 shaking areas of northern New Zealand following yesterday's
 strong tremor which left 3,000 people homeless.
     Four earthquakes measuring up to 4.5 on the Richter scale

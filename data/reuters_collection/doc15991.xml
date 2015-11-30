@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 16:48:38.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2619reute
-d f BC-HOLDERS-PLAN-PRIME-ME   04-09 0111</field>
-	<field name = "TITLE">HOLDERS PLAN PRIME MEDICAL PMSI> PROXY CONTEST</field>
+	<field name = "titulo">HOLDERS PLAN PRIME MEDICAL PMSI> PROXY CONTEST</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">A group led by Shamrock Associates
+	<field name = "content">A group led by Shamrock Associates
 told the Securities and Exchange Commission it will mount a
 proxy contest in an effort to elect three class one directors
 to the Prime Medical Services Inc board of directors.

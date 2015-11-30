@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 13:54:51.35</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1962reute
-d f BC-SASCO-PRODUCTS-INC>   04-01 0038</field>
-	<field name = "TITLE">SASCO PRODUCTS INC> YEAR LOSS</field>
+	<field name = "titulo">SASCO PRODUCTS INC> YEAR LOSS</field>
 	<field name = "DATELINE">DALLAS, April 1 -</field>
-	<field name = "BODY">Shr loss eight cts vs profit four cts
+	<field name = "content">Shr loss eight cts vs profit four cts
     Net loss 365,430 vs profit 165,508
     Revs 5,577,244 vs 4,643,803
     NOTE: 1986 net includes nonrecurring expenses of 408,518

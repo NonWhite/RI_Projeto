@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:18:14.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2421reute
-r f BC-PROCTER-PG>-APPOINTS   04-01 0076</field>
-	<field name = "TITLE">PROCTER PG> APPOINTS NEW AGENCY FOR COOKIES</field>
+	<field name = "titulo">PROCTER PG> APPOINTS NEW AGENCY FOR COOKIES</field>
 	<field name = "DATELINE">CINCINNATI, April 1 -</field>
-	<field name = "BODY">Procter and Gamble Co said it
+	<field name = "content">Procter and Gamble Co said it
 appointed the New York ad agency of Wells, Rich, Greene, Inc to
 handle its Duncan Hines Ready-to-Serve Cookies, effective
 immediately.

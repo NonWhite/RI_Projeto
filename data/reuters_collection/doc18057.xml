@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 11:24:48.49</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">A RM
-f1417reute
-u f BC-SHEARSON-ECONOMIST-SA   06-02 0109</field>
-	<field name = "TITLE">SHEARSON ECONOMIST SAYS VOLCKER EFFECT SHORT-TERM</field>
+	<field name = "titulo">SHEARSON ECONOMIST SAYS VOLCKER EFFECT SHORT-TERM</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Alan Sinai, chief economist of Shearson
+	<field name = "content">Alan Sinai, chief economist of Shearson
 Lehman Brothers Inc, said news that Federal Reserve Chairman
 Paul Volcker declined to accept reappointment would have only a
 short-term effect on financial markets.

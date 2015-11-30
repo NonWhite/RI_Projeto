@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 15:41:10.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2195reute
-u f BC-JEFFERIES-MAKING-MARK   06-19 0038</field>
-	<field name = "TITLE">JEFFERIES MAKING MARKET IN STORAGE TECHNOLOGY</field>
+	<field name = "titulo">JEFFERIES MAKING MARKET IN STORAGE TECHNOLOGY</field>
 	<field name = "DATELINE">LOS ANGELES, June 19 -</field>
-	<field name = "BODY">Jefferies Group Inc said it is
+	<field name = "content">Jefferies Group Inc said it is
 making a market in Storage Technology Corp QSTK.O>.
     The firm said the first bid was 3-1/2 and the first offer
 was 3-5/8.

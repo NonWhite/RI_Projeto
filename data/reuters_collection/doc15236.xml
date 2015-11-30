@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 14:53:17.91</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f2214reute
-u f BC-USDA-TO-PROPOSE-FOREI   04-08 0115</field>
-	<field name = "TITLE">USDA TO PROPOSE FOREIGN MEAT INSPECTION RULE</field>
+	<field name = "titulo">USDA TO PROPOSE FOREIGN MEAT INSPECTION RULE</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">The U.S. Agriculture Department is
+	<field name = "content">The U.S. Agriculture Department is
 preparing a proposal that would require all foreign meat
 products to be inspected at their point of arrival in the
 United States, a USDA official said.

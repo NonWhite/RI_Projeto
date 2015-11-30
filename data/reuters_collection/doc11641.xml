@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 15:52:02.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2527reute
-u f BC-LUCKY-LKS>-SPINOFF-G   03-31 0093</field>
-	<field name = "TITLE">LUCKY LKS> SPINOFF GETS FAVORABLE TAX RULING</field>
+	<field name = "titulo">LUCKY LKS> SPINOFF GETS FAVORABLE TAX RULING</field>
 	<field name = "DATELINE">DUBLIN, Calif., March 31 -</field>
-	<field name = "BODY">Lucky Stores Inc said its
+	<field name = "content">Lucky Stores Inc said its
 planned distribution of Hancock Fabrics shares to Lucky
 stockholders will qualify as a tax-free spinoff under the
 Internal Revenue Code.

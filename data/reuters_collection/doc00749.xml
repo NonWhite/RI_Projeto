@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:04:26.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0979
-reute
-d f BC-VIDEO-SHOPPING-MALL-A   03-02 0056</field>
-	<field name = "TITLE">VIDEO SHOPPING MALL ADDS FLORIDA STATION</field>
+	<field name = "titulo">VIDEO SHOPPING MALL ADDS FLORIDA STATION</field>
 	<field name = "DATELINE">JENKINTOWN, Pa., March 2 -</field>
-	<field name = "BODY">Video Shopping Mall Inc> said
+	<field name = "content">Video Shopping Mall Inc> said
 it signed WJTC-TV, Pensacola, Fla, to carry its
 self-improvement and specialized business opportunity programs.
     Video Shopping said the station, carried over UHF channel

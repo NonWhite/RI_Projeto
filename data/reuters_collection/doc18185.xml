@@ -2,13 +2,10 @@
 	<field name = "DATE">2-JUN-1987 14:08:34.33</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F
-f2140reute
-r f BC-/MAJOR-U.S.-PIPELINE   06-02 0089</field>
-	<field name = "TITLE">MAJOR U.S. PIPELINE MAY BE CLOSED SEVERAL DAYS</field>
+	<field name = "titulo">MAJOR U.S. PIPELINE MAY BE CLOSED SEVERAL DAYS</field>
 	<field name = "AUTHOR">By BERNICE NAPACH, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">The operator of a major U.S. crude oil
+	<field name = "content">The operator of a major U.S. crude oil
 pipeline, shutdown because of flood damage, said it may be
 several days before repairs are made and the system is
 functioning again.

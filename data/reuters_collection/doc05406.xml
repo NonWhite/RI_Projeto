@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 11:10:01.94</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2414reute
-r f BC-LEVITT-CORP-LVT>-4TH   03-16 0059</field>
-	<field name = "TITLE">LEVITT CORP LVT> 4TH QTR NET</field>
+	<field name = "titulo">LEVITT CORP LVT> 4TH QTR NET</field>
 	<field name = "DATELINE">BOCA RATON, March 16 -</field>
-	<field name = "BODY">Oper shr 42 cts vs 11 cts
+	<field name = "content">Oper shr 42 cts vs 11 cts
     Oper net 1,433,000 vs 382,000
     Revs 38.6 mln vs 20.1 mln
     Year

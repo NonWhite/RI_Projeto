@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 09:43:37.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0950reute
-r f BC-COLOROCS-CLRX>-EXTEN   04-08 0045</field>
-	<field name = "TITLE">COLOROCS CLRX> EXTENDS WARRANT EXERCISE PERIOD</field>
+	<field name = "titulo">COLOROCS CLRX> EXTENDS WARRANT EXERCISE PERIOD</field>
 	<field name = "DATELINE">NORCROSS, Ga., April 8 -</field>
-	<field name = "BODY">Colorocs Corp said it has extended
+	<field name = "content">Colorocs Corp said it has extended
 the expiration of the exercise period for its Class A warrants
 to May Eight from April 16.
     Each warrant allows the holder to buy a common share for

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C G
-f0324reute
-b f BC-/CBT-TRADERS-SAY-U.S.   03-13 0138</field>
-	<field name = "TITLE">CBT TRADERS SAY U.S. CONSERVATION SIGNUP NEUTRAL</field>
+	<field name = "titulo">CBT TRADERS SAY U.S. CONSERVATION SIGNUP NEUTRAL</field>
 	<field name = "DATELINE">CHICAGO, March 13 -</field>
-	<field name = "BODY">The 11,254,837 acres of highly erodable
+	<field name = "content">The 11,254,837 acres of highly erodable
 farmland submitted to the U.S. Department of Agriculture for
 the conservation reserve program was within trade guesses of
 10-12 mln and should have an overall neutral impact on grain

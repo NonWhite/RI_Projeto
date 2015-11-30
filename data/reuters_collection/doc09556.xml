@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 15:41:19.13</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2263reute
-r f BC-HELM-H>-SELLS-ADDITI   03-25 0087</field>
-	<field name = "TITLE">HELM H> SELLS ADDITIONAL SHARES IN BAMBERGER</field>
+	<field name = "titulo">HELM H> SELLS ADDITIONAL SHARES IN BAMBERGER</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Helm Resources Inc said that, pursuant
+	<field name = "content">Helm Resources Inc said that, pursuant
 to the exercise of an overallotment option by underwriters in
 Bamberger Polymers INc's initial public offering, it has sold
 another 35,000 Bamberger shares and reduced its ownership in

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 10:34:50.80</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM 
-f1314reute
-u f BC-S.-AFRICAN-CONSUMER-I   10-20 0074</field>
-	<field name = "TITLE">S. AFRICAN CONSUMER INFLATION FALLS IN SEPTEMBER</field>
+	<field name = "titulo">S. AFRICAN CONSUMER INFLATION FALLS IN SEPTEMBER</field>
 	<field name = "DATELINE">PRETORIA, Oct 20 -</field>
-	<field name = "BODY">South African year-on-year consumer
+	<field name = "content">South African year-on-year consumer
 price inflation in September fell to 15.5 pct from 16.3 pct in
 August, Central Statistics Office figures show.
     The monthly rise in the all items index (base 1980) was 1.3

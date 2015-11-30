@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 15:05:17.16</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2183reute
-r f BC-VORNADO-INC-VNO>-4TH   04-09 0058</field>
-	<field name = "TITLE">VORNADO INC VNO> 4TH QTR JAN 31 NET</field>
+	<field name = "titulo">VORNADO INC VNO> 4TH QTR JAN 31 NET</field>
 	<field name = "DATELINE">GARFIELD, N.J., April 9 -</field>
-	<field name = "BODY">Oper shr 1.64 dlrs vs 84 cts
+	<field name = "content">Oper shr 1.64 dlrs vs 84 cts
     Oper net 4,583,000 vs 2,869,000
     Revs 20.1 mln vs 19.0 mln
     Avg shrs 2,791,639 vs 3,432,746

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 16:10:48.22</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2284reute
-u f BC-DAYTON-HUDSON-DH>-NO   06-19 0066</field>
-	<field name = "TITLE">DAYTON HUDSON DH> NOT INTERESTED IN ACQUISITION</field>
+	<field name = "titulo">DAYTON HUDSON DH> NOT INTERESTED IN ACQUISITION</field>
 	<field name = "DATELINE">MINNEAPOLIS, Minn., June 19 -</field>
-	<field name = "BODY">Dayton Hudson Corp, in a
+	<field name = "content">Dayton Hudson Corp, in a
 letter to employees, said it told an "aggressive buyer" of the
 company's stock that it does not want to be acquired.
     A Dayton Hudson spokeswoman would not identify the buyer,

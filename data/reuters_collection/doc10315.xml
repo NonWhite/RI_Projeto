@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 04:42:50.19RM</field>
-	<field name = "UNKNOWN">f0255reute</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">b f BC-MITSUBISHI-BANK-PLANS   03-27 0100</field>
-	<field name = "TITLE">MITSUBISHI BANK PLANS 300 MLN H.K. DLR CD FACILITY</field>
+	<field name = "titulo">MITSUBISHI BANK PLANS 300 MLN H.K. DLR CD FACILITY</field>
 	<field name = "DATELINE">HONG KONG, March 27 -</field>
-	<field name = "BODY">The Hong Kong branch of Mitsubishi
+	<field name = "content">The Hong Kong branch of Mitsubishi
 Bank Ltd> is planning a 300 mln H.K. Dlr revolving certificate
 of deposit (CD) issuance facility, banking sources said.
     The facility is 200 mln dlrs underwritten at a maximum of

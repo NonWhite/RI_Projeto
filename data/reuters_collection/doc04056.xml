@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">G C
-f0169reute
-u f BC-AWB-SAYS-AUSTRALIAN-W   03-12 0096</field>
-	<field name = "TITLE">AWB SAYS AUSTRALIAN WHEAT SALES OVER 10 MLN TONNES</field>
+	<field name = "titulo">AWB SAYS AUSTRALIAN WHEAT SALES OVER 10 MLN TONNES</field>
 	<field name = "DATELINE">MELBOURNE, March 12 -</field>
-	<field name = "BODY">The Australian Wheat Board's (AWB)
+	<field name = "content">The Australian Wheat Board's (AWB)
 1986/87 export program is well advanced with over 10 mln tonnes
 already sold, AWB general manager Ron Paice said.
     "We are certainly within reach of our 15 mln tonne export

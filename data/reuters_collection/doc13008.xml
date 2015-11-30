@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 12:56:19.95</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f1713reute
-d f BC-NYFE-SEAT-SELLS-FOR-1   04-03 0048</field>
-	<field name = "TITLE">NYFE SEAT SELLS FOR 1,500 DLRS</field>
+	<field name = "titulo">NYFE SEAT SELLS FOR 1,500 DLRS</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">The New York Stock Exchange said a seat
+	<field name = "content">The New York Stock Exchange said a seat
 on the New York Futures Exchange sold for 1,500 dlrs, which is
 up 250 dlrs from the previous sale yesterday.
     The Exchange said the current bid is 1,250 and the current

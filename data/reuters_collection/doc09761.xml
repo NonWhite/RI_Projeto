@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 06:12:12.84</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0429reute
-u f BC-JAPANESE-SCIENTISTS-D   03-26 0103</field>
-	<field name = "TITLE">JAPANESE SCIENTISTS DEVELOP AIDS DETECTION MATERIAL</field>
+	<field name = "titulo">JAPANESE SCIENTISTS DEVELOP AIDS DETECTION MATERIAL</field>
 	<field name = "DATELINE">TOKYO, March 26 -</field>
-	<field name = "BODY">Japanese scientists say they have
+	<field name = "content">Japanese scientists say they have
 developed a material which can help detect the killer disease
 Aquired Immune Deficiency Syndrome (AIDS).
     Leading Japanese AIDS scientist professor Naoki Yamamoto

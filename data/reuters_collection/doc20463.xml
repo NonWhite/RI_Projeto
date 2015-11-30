@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">kuwait</field>
-	<field name = "UNKNOWN">V RM Y 
-f2437reute
-b f AM-GULF-AMERICAN-2NDLD URGENT  10-20 0115</field>
-	<field name = "TITLE">US WARNS IRAN, BEGINS ESCORTING TANKER CONVOY</field>
+	<field name = "titulo">US WARNS IRAN, BEGINS ESCORTING TANKER CONVOY</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">The United States warned Iran again 
+	<field name = "content">The United States warned Iran again 
 that it was ready to retaliate for any further hostile military
 action in the Gulf as U.S. warships began escorting another
 tanker convoy southward from Kuwait.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C T
-f0575reute
-b f BC-FRENCH-TRADERS-FORECA   04-08 0113</field>
-	<field name = "TITLE">FRENCH TRADERS FORECAST EC SUGAR TENDER</field>
+	<field name = "titulo">FRENCH TRADERS FORECAST EC SUGAR TENDER</field>
 	<field name = "DATELINE">PARIS, April 8 -</field>
-	<field name = "BODY">The European Community (EC) is expected to
+	<field name = "content">The European Community (EC) is expected to
 award export licences at today's weekly tender for above 60,000
 and possibly up to 100,000 tonnes of white sugar after last
 week's award for 102,350 tonnes, traders here said.

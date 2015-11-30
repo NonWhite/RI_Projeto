@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 07:14:00.10</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0598reute
-r f BC-CSR-BIDS-2.20-DLRS-A   03-31 0074</field>
-	<field name = "TITLE">CSR BIDS 2.20 DLRS A SHARE FOR PIONEER SUGAR MILLS</field>
+	<field name = "titulo">CSR BIDS 2.20 DLRS A SHARE FOR PIONEER SUGAR MILLS</field>
 	<field name = "DATELINE">SYDNEY, March 31 -</field>
-	<field name = "BODY">CSR Ltd CSRA.S> said it will offer 2.20
+	<field name = "content">CSR Ltd CSRA.S> said it will offer 2.20
 dlrs cash each for the shares it does not already hold in
 Pioneer Sugar Mills Ltd>.
     CSR already holds 31.74 pct of Pioneer's 99.80 mln issued

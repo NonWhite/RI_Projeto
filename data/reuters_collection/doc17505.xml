@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 09:18:33.15</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0895reute
-u f BC-BOEING-BA>-TO-ACQUIR   06-01 0073</field>
-	<field name = "TITLE">BOEING BA> TO ACQUIRE DEFENSE ELECTRONICS FIRM</field>
+	<field name = "titulo">BOEING BA> TO ACQUIRE DEFENSE ELECTRONICS FIRM</field>
 	<field name = "DATELINE">SEATTLE, June 1 -</field>
-	<field name = "BODY">Boeing Co and ARGOSystems Inc ARGI.O>
+	<field name = "content">Boeing Co and ARGOSystems Inc ARGI.O>
 said they reached an agreement for Boeing to acquire the
 Sunnyvale, Calif., defense electronics firm for about 275 mln
 dlrs.

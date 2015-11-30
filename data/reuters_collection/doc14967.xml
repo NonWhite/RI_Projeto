@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 09:20:21.35</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0882reute
-h f BC-CAYUGA-SAVINGS-BANK-   04-08 0025</field>
-	<field name = "TITLE">CAYUGA SAVINGS BANK CAYB> 1ST QTR NET</field>
+	<field name = "titulo">CAYUGA SAVINGS BANK CAYB> 1ST QTR NET</field>
 	<field name = "DATELINE">AUBURN, N.Y., April 8 -</field>
-	<field name = "BODY">Shr 55 cts vs 41 cts
+	<field name = "content">Shr 55 cts vs 41 cts
     Net 494,000 vs 204,000
     Avg shrs 896,655 vs 494,155
  Reuter</field>

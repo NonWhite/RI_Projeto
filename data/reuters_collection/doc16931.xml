@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">tamura</field>
-	<field name = "UNKNOWN">RM
-f0472reute
-b f BC-JAPAN-WILL-NOT-RETALI   04-17 0109</field>
-	<field name = "TITLE">JAPAN WILL NOT RETALIATE NOW AGAINST U.S. TARIFFS</field>
+	<field name = "titulo">JAPAN WILL NOT RETALIATE NOW AGAINST U.S. TARIFFS</field>
 	<field name = "DATELINE">TOKYO, April 18 -</field>
-	<field name = "BODY">Japan does not plan to take immediate
+	<field name = "content">Japan does not plan to take immediate
 retaliatory action against implementation of U.S. Tariffs on
 some Japanese electronic goods, the minister of international
 trade and industry, Hajime Tamura, said in a statement.

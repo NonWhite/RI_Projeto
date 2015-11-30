@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 12:42:52.29</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0020reute
-r f BC-TEKELEC-TKLC>-SETS-P   03-05 0084</field>
-	<field name = "TITLE">TEKELEC TKLC> SETS PACT WITH BRITISH TELECOM</field>
+	<field name = "titulo">TEKELEC TKLC> SETS PACT WITH BRITISH TELECOM</field>
 	<field name = "DATELINE">CALABASAS, Calif., March 5 -</field>
-	<field name = "BODY">Tekelec said it signed a
+	<field name = "content">Tekelec said it signed a
 license agreement with British Telecommunications PLC BTY.L>
 to make and market a test instrument for digital microwave
 communications equipment.

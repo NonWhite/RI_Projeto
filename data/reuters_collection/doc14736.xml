@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:51:45.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2609reute
-r f BC-CAPITAL-CITIES/ABC'S   04-07 0100</field>
-	<field name = "TITLE">CAPITAL CITIES/ABC'S CCB> ABC TV IN DEAL</field>
+	<field name = "titulo">CAPITAL CITIES/ABC'S CCB> ABC TV IN DEAL</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Capital Cities/ABC's ABC Television
+	<field name = "content">Capital Cities/ABC's ABC Television
 Network said its Newsone news service reached a cooperative
 agreement with Potomac Telecommunications Group to offer
 ABC affiliates expanded coverage of Washington news.

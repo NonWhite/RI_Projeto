@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 14:28:02.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f6181reute
-r f BC-FHLBB-APPROVES-FUNDS   03-17 0107</field>
-	<field name = "TITLE">FHLBB APPROVES FUNDS TRANSFER TO DALLAS BANK</field>
+	<field name = "titulo">FHLBB APPROVES FUNDS TRANSFER TO DALLAS BANK</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">The Federal Home Loan Bank Board
+	<field name = "content">The Federal Home Loan Bank Board
 said it voted to transfer one billion dlrs cash from the
 Federal Savings and Loan Insurance Corp (FSLIC) to the Dallas
 Federal Home Loan bank tomorrow to correct a collateral

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 15:12:38.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2271reute
-r f BC-EPA-TO-REJECT-CLEAN-A   06-29 0105</field>
-	<field name = "TITLE">EPA TO REJECT CLEAN-AIR PLANS FOR 14 AREAS</field>
+	<field name = "titulo">EPA TO REJECT CLEAN-AIR PLANS FOR 14 AREAS</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">The Environmental Protection Agency
+	<field name = "content">The Environmental Protection Agency
 (EPA) announced plans to disapprove clean-air plans for 14
 metropolitan areas and called for bans in those areas on new
 construction of potentially polluting facilties.

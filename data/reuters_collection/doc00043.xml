@@ -3,13 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0874
-reute
-r f BC-MCLEAN'S-MII>-U.S.-L   02-26 0094</field>
-	<field name = "TITLE">MCLEAN'S MII> U.S. LINES SETS ASSET TRANSFER</field>
+	<field name = "titulo">MCLEAN'S MII> U.S. LINES SETS ASSET TRANSFER</field>
 	<field name = "DATELINE">CRANFORD, N.J., Feb 26 -</field>
-	<field name = "BODY">McLean Industries Inc's United
+	<field name = "content">McLean Industries Inc's United
 States Lines Inc subsidiary said it has agreed in principle to
 transfer its South American service by arranging for the
 transfer of certain charters and assets to Crowley Mariotime

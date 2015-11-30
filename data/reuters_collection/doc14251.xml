@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:09:20.13</field>
-	<field name = "UNKNOWN">G
-f1475reute
-u f BC-cbt-corn-report   04-07 0142</field>
-	<field name = "TITLE">CBT CORN FUTURES HOLD GAINS AT MIDSESSION</field>
+	<field name = "titulo">CBT CORN FUTURES HOLD GAINS AT MIDSESSION</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">CBT corn futures held gains of two to
+	<field name = "content">CBT corn futures held gains of two to
 2-3/4 cents per bushel in moderately light midsession trade.
     Yesterday's sharp jump in the weekly corn export figure to
 about three times last year's weekly inspections, plus the

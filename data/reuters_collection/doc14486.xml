@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:31:31.87</field>
-	<field name = "UNKNOWN">C G
-f2232reute
-u f BC-cbt-wheat-report   04-07 0129</field>
-	<field name = "TITLE">CBT WHEAT FUTURES RALLY TO CLOSE HIGHER</field>
+	<field name = "titulo">CBT WHEAT FUTURES RALLY TO CLOSE HIGHER</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">CBT wheat futures rebounded from
+	<field name = "content">CBT wheat futures rebounded from
 midsession lows to close 2-1/2 cents to 1/4 cent per bushel
 higher in light trade. May settled at 2.88-3/4 dlrs after
 posting a 2-3/4 cent range on the day.

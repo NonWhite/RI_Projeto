@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 10:18:09.60</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f1205reute
-r f BC-domtar-withdraws-stoc   10-20 0076</field>
-	<field name = "TITLE">DOMTAR DTC> WITHDRAWS STOCK OFFERING</field>
+	<field name = "titulo">DOMTAR DTC> WITHDRAWS STOCK OFFERING</field>
 	<field name = "DATELINE">MONTREAL, Oct 20 -</field>
-	<field name = "BODY">Domtar Inc said it is withdrawing a
+	<field name = "content">Domtar Inc said it is withdrawing a
 previously-announced issue of five mln common shares, "due to
 unfavourable conditions in the financial markets."
     Domtar said its capital expenditure program will not be

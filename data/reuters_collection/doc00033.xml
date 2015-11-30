@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 15:45:19.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0847
-reute
-d f BC-CCX-NETWORK-CCXN>-SE   02-26 0074</field>
-	<field name = "TITLE">CCX NETWORK CCXN> SECONDARY OFFERING UNDERWAY</field>
+	<field name = "titulo">CCX NETWORK CCXN> SECONDARY OFFERING UNDERWAY</field>
 	<field name = "DATELINE">CONWAY, Ark., Feb 26 -</field>
-	<field name = "BODY">CCX Network Inc said it was offering
+	<field name = "content">CCX Network Inc said it was offering
 220,838 shares of stock at 15.75 dlrs a share though
 underwriters Stephens Inc and Cazenove Inc.
     The company said it was selling the stock on behalf of some

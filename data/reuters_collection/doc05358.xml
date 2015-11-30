@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 10:05:00.45</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2108reute
-r f BC-SALANT-CORP-QSLT>-4T   03-16 0054</field>
-	<field name = "TITLE">SALANT CORP QSLT> 4TH QTR NOV 29 NET</field>
+	<field name = "titulo">SALANT CORP QSLT> 4TH QTR NOV 29 NET</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">Oper shr profit 45 cts vs profit 56 cts
+	<field name = "content">Oper shr profit 45 cts vs profit 56 cts
     Oper net profit 1,492,000 vs profit
     1,842,000
     Sales 36.5 mln vs 38.5 mln

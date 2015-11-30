@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:49:10.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1537reute
-r f BC-INVESTMENT-TECHNOLOGI   04-08 0075</field>
-	<field name = "TITLE">INVESTMENT TECHNOLOGIES IVES> IN REBATE PACT</field>
+	<field name = "titulo">INVESTMENT TECHNOLOGIES IVES> IN REBATE PACT</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Investment Technologies Inc said it
+	<field name = "content">Investment Technologies Inc said it
 will make available its online investment advisory service to
 Spear Securities Inc> customers.
     Investment Technologies said that through a Spear rebate

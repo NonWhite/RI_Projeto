@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 13:47:32.06</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0995reute
-d f BC-BRITISH-TELECOM-BTY>   03-12 0100</field>
-	<field name = "TITLE">BRITISH TELECOM BTY> UNIT TO OFFER SOFTWARE</field>
+	<field name = "titulo">BRITISH TELECOM BTY> UNIT TO OFFER SOFTWARE</field>
 	<field name = "DATELINE">ROCKVILLE, Md., March 12 -</field>
-	<field name = "BODY">British Telecommunications PLC's
+	<field name = "content">British Telecommunications PLC's
 Dialcom unit said it will begin next month to sell a software
 package that allows computers made by different manufacturers
 to send and receive electronic-mail messages.

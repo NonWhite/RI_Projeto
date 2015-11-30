@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:58:01.19E A RM</field>
-	<field name = "UNKNOWN">f1935reute</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">b f BC-CANADIAN-MONEY-SUPPLY   03-27 0100</field>
-	<field name = "TITLE">CANADIAN MONEY SUPPLY FALLS IN WEEK</field>
+	<field name = "titulo">CANADIAN MONEY SUPPLY FALLS IN WEEK</field>
 	<field name = "DATELINE">OTTAWA, March 27 -</field>
-	<field name = "BODY">Canadian narrowly defined money supply
+	<field name = "content">Canadian narrowly defined money supply
 M-1 fell 555 mln dlrs to 32.42 billion dlrs in week ended March
 18, Bank of Canada said.
     M-1-A, which is M-1 plus daily interest chequable and

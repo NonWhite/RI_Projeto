@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 13:11:55.92</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1728reute
-u f BC-GALAXY-GTV>-TO-SELL   06-19 0106</field>
-	<field name = "TITLE">GALAXY GTV> TO SELL WEST TEXAS ASSETS</field>
+	<field name = "titulo">GALAXY GTV> TO SELL WEST TEXAS ASSETS</field>
 	<field name = "DATELINE">SIKESTON, Mo., June 19 -</field>
-	<field name = "BODY">Galaxy Cablevision L.P. said it
+	<field name = "content">Galaxy Cablevision L.P. said it
 signed a letter of intent to sell the assets of its cable
 television systems in West Texas which serve about 4,600 basic
 subscribers through nine cable television systems.

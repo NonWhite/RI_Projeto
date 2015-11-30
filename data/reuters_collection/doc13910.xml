@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:30:40.85</field>
-	<field name = "UNKNOWN">C L
-f1014reute
-u f BC-OMAHA-CATTLE-OPEN-STE   04-07 0029</field>
-	<field name = "TITLE">OMAHA CATTLE OPEN STEADY/UP 0.25 DLR - PRIVATE</field>
+	<field name = "titulo">OMAHA CATTLE OPEN STEADY/UP 0.25 DLR - PRIVATE</field>
 	<field name = "DATELINE">Omaha, April 7 -</field>
-	<field name = "BODY">Cattle prices opened steady to 0.25 dlr
+	<field name = "content">Cattle prices opened steady to 0.25 dlr
 higher, private sources said. Steer top 68.00 and Heifers 66.00
 dlrs.
  Reuter</field>

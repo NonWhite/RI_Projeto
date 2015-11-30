@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 05:35:59.78</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f2430reute
-u f BC-TOYOTA-AND-NISSAN-EXP   06-18 0099</field>
-	<field name = "TITLE">TOYOTA AND NISSAN EXPORTS FALL IN MAY</field>
+	<field name = "titulo">TOYOTA AND NISSAN EXPORTS FALL IN MAY</field>
 	<field name = "DATELINE">TOKYO, June 18 -</field>
-	<field name = "BODY">Toyota Motor Corp TOYO.T> and Nissan
+	<field name = "content">Toyota Motor Corp TOYO.T> and Nissan
 Motor Co Ltd NSAN.T> both said May vehicle exports fell from a
 year earlier mainly due to the yen rise against the dollar.
     Toyota's exports fell 9.5 pct from a year earlier to

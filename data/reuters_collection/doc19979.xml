@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 19:09:20.95</field>
-	<field name = "UNKNOWN">C 
-f2828reute
-d f BC-export-credit-bank-fo   06-29 0136</field>
-	<field name = "TITLE">EXPORT CREDIT BANK FOUNDED BY CARIBBEAN NATIONS</field>
+	<field name = "titulo">EXPORT CREDIT BANK FOUNDED BY CARIBBEAN NATIONS</field>
 	<field name = "DATELINE">CASTRIES, St. Lucia, June 29 -</field>
-	<field name = "BODY">Finance ministers from the
+	<field name = "content">Finance ministers from the
 13-member Caribbean Community (Caricom) approved a draft
 agreement for a new export credit facility, in an effort to
 stem the steady decline in interregional trade.

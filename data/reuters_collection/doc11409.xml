@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 11:31:47.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1549reute
-d f BC-FIRST-SOUTHERN-FEDERA   03-31 0043</field>
-	<field name = "TITLE">FIRST SOUTHERN FEDERAL FSFA> TO CHANGE NAME</field>
+	<field name = "titulo">FIRST SOUTHERN FEDERAL FSFA> TO CHANGE NAME</field>
 	<field name = "DATELINE">MOBILE, Ala., March 31 -</field>
-	<field name = "BODY">First Southern Federal Savings and
+	<field name = "content">First Southern Federal Savings and
 Loan Association said its board has decided to change the
 company's name to Altus Bank, subject to shareholder approval
 at the April 29 annual meeting.

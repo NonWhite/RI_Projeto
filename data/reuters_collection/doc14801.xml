@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 22:22:04.99</field>
-	<field name = "UNKNOWN">RM
-f2751reute
-u f BC-SIMEX-CURRENCY-FUTURE   04-07 0092</field>
-	<field name = "TITLE">SIMEX CURRENCY FUTURES EASE IN EARLY TRADING</field>
+	<field name = "titulo">SIMEX CURRENCY FUTURES EASE IN EARLY TRADING</field>
 	<field name = "DATELINE">SINGAPORE, April 8 -</field>
-	<field name = "BODY">Simex currency futures eased in early
+	<field name = "content">Simex currency futures eased in early
 dealings, after a higher opening in quiet and cautious trading,
 dealers said.
     They said operators were unwilling to take large positions

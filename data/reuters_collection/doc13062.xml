@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 14:15:22.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1940reute
-d f BC-HYUNDAI-HAS-HIGHER-MA   04-03 0072</field>
-	<field name = "TITLE">HYUNDAI HAS HIGHER MARCH DOMESTIC CAR SALES</field>
+	<field name = "titulo">HYUNDAI HAS HIGHER MARCH DOMESTIC CAR SALES</field>
 	<field name = "DATELINE">GARDEN Grove, Calif., April 3 -</field>
-	<field name = "BODY">Hyundai Motor America, a
+	<field name = "content">Hyundai Motor America, a
 unit of Hyundai Motor Co of South Korea, said domestic car
 sales during the month of March rose to 19,502 compared witrh
 10,432 during March last year.

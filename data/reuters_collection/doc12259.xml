@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 15:39:06.36</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2297reute
-r f BC-HARRIS-BANK-INCREASES   04-01 0029</field>
-	<field name = "TITLE">HARRIS BANK INCREASES ITS PRIME RATE</field>
+	<field name = "titulo">HARRIS BANK INCREASES ITS PRIME RATE</field>
 	<field name = "DATELINE">CHICAGO, April 1 -</field>
-	<field name = "BODY">The Harris Trust and Savings Bank> said
+	<field name = "content">The Harris Trust and Savings Bank> said
 it has increased its prime rate to 7-3/4 from 7-1/2 effective
 immediately.
  Reuter</field>

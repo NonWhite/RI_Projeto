@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 16:34:01.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2579reute
-r f BC-AMR-(AMR)-REITERATES   04-09 0112</field>
-	<field name = "TITLE">AMR (AMR) TO START INFORMATION CAMPAIGN IN DISPUTE</field>
+	<field name = "titulo">AMR (AMR) TO START INFORMATION CAMPAIGN IN DISPUTE</field>
 	<field name = "DATELINE">DALLAS, April 9 -</field>
-	<field name = "BODY">AMR Corp's American Airlines will start
+	<field name = "content">AMR Corp's American Airlines will start
 its own information campaign in its dispute with the
 Association of Professional Flight Attendants.
     The company, which has been negotiating with its 10,000

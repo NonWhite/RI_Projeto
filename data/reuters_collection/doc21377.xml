@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 10:42:46.46</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1335reute
-u f BC-MONSANTO-CO-MTC>-3RD   10-19 0076</field>
-	<field name = "TITLE">MONSANTO CO MTC> 3RD QTR NET</field>
+	<field name = "titulo">MONSANTO CO MTC> 3RD QTR NET</field>
 	<field name = "DATELINE">ST. LOUIS, Oct. 19 -</field>
-	<field name = "BODY">Shr 1.30 dlrs vs 1.85 dlrs
+	<field name = "content">Shr 1.30 dlrs vs 1.85 dlrs
     Net 100,000,000 vs 144,000,000
     Sales 1.90 billion vs 1.69 billion
     Nine mths

@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 12:58:50.26</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1722reute
-r f BC-BENEFICIAL-BNL>-UNIT   04-03 0100</field>
-	<field name = "TITLE">BENEFICIAL BNL> UNIT SALE APPROVED</field>
+	<field name = "titulo">BENEFICIAL BNL> UNIT SALE APPROVED</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">Beneficial Corp said the sale of its
+	<field name = "content">Beneficial Corp said the sale of its
 American Centennial Insurance Co subsidiary to First Delaware
 Holdings Inc> was approved by the Delaware Insurance
 Department.

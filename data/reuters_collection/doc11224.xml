@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0493reute
-u f BC-JAPAN-TO-CUT-MICROCHI   03-31 0099</field>
-	<field name = "TITLE">JAPAN TO CUT MICROCHIP OUTPUT, BOOST IMPORTS</field>
+	<field name = "titulo">JAPAN TO CUT MICROCHIP OUTPUT, BOOST IMPORTS</field>
 	<field name = "AUTHOR">By Steven Brull, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 31 -</field>
-	<field name = "BODY">Leading domestic semiconductor makers
+	<field name = "content">Leading domestic semiconductor makers
 will boost imports and cut production of key memory microchips
 from next month in line with government attempts to ward off
 U.S. Trade sanctions, company spokesmen said.

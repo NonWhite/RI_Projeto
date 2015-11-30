@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:41:54.95</field>
-	<field name = "UNKNOWN">C T
-f1063reute
-u f BC-ny-cocoa-opg-report   04-07 0091</field>
-	<field name = "TITLE">N.Y. COCOA FUTURES QUIETLY LOWER EARLY</field>
+	<field name = "titulo">N.Y. COCOA FUTURES QUIETLY LOWER EARLY</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Cocoa futures were slightly lower early
+	<field name = "content">Cocoa futures were slightly lower early
 in quiet trading that was devoid of fundamental or technical
 features, traders said.
     Locals tracked the London cocoa market while many

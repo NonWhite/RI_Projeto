@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nymex</field>
-	<field name = "UNKNOWN">Y
-f2301reute
-u f BC-MAJOR-U.S.-OIL-PIPELI   06-01 0106</field>
-	<field name = "TITLE">MAJOR U.S. OIL PIPELINE SHUT DOWN BY FLOODS</field>
+	<field name = "titulo">MAJOR U.S. OIL PIPELINE SHUT DOWN BY FLOODS</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Flooding in the Red River on the
+	<field name = "content">Flooding in the Red River on the
 Texas/Oklahoma border has shut down the Basin Pipeline, a
 24-inch pipeline that transports as much as 300,000 barrels per
 day of sweet and sour crudes from Texas to Cushing, Okla, a

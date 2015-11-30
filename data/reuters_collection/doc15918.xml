@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 15:53:20.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2411reute
-r f BC-INTERNATIONAL-AMERICA   04-09 0104</field>
-	<field name = "TITLE">INTERNATIONAL AMERICAN HOME> SEES HIGHER REVS</field>
+	<field name = "titulo">INTERNATIONAL AMERICAN HOME> SEES HIGHER REVS</field>
 	<field name = "DATELINE">UNION, N.J., April 9 -</field>
-	<field name = "BODY">International American Homes Inc
+	<field name = "content">International American Homes Inc
 said it expects revenues for the year ending March 31, 1987 to
 be approximately 145 mln dlrs.
     It said it recorded 30 mln dlrs in revenues for the year

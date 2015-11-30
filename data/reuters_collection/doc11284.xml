@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0905reute
-d f BC-CABLE-SAYS-CONSORTIUM   03-31 0113</field>
-	<field name = "TITLE">CABLE SAYS CONSORTIUM PROPOSALS NOT ACCEPTABLE</field>
+	<field name = "titulo">CABLE SAYS CONSORTIUM PROPOSALS NOT ACCEPTABLE</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">Cable and Wireless Plc CAWL.L> said
+	<field name = "content">Cable and Wireless Plc CAWL.L> said
 proposals to resolve a dispute over entry to Japan's
 telecommunications market were not acceptable.
     A company spokesman said the proposals appear to have been

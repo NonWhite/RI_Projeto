@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-APR-1987 12:42:37.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1778reute
-r f BC-COMMONWEALTH-EDISON-   04-21 0112</field>
-	<field name = "TITLE">COMMONWEALTH EDISON CWE> SELLS MORTGAGE BONDS</field>
+	<field name = "titulo">COMMONWEALTH EDISON CWE> SELLS MORTGAGE BONDS</field>
 	<field name = "DATELINE">NEW YORK, April 21 -</field>
-	<field name = "BODY">Commonwealth Edison Co is raising 360
+	<field name = "content">Commonwealth Edison Co is raising 360
 mln dlrs via a two-tranche offering of first and refunding
 mortgage bonds, said lead manager Morgan Stanley and Co Inc.
     A 200 mln dlr issue of bonds due 1990 has an 8-1/8 pct

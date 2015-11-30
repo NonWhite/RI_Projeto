@@ -5,12 +5,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">rapeseed</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f0029reute
-u f BC-CHINESE-CROPS-HIT-BY   04-07 0101</field>
-	<field name = "TITLE">CHINESE CROPS HIT BY FROST, SNOW AND RAIN IN MARCH</field>
+	<field name = "titulo">CHINESE CROPS HIT BY FROST, SNOW AND RAIN IN MARCH</field>
 	<field name = "DATELINE">PEKING, April 7 -</field>
-	<field name = "BODY">Wheat and rapeseed crops in east China
+	<field name = "content">Wheat and rapeseed crops in east China
 suffered considerable damage because of frost during a spell of
 unusually cold weather in late March, the China Daily said.
     It said average temperatures for the last 10 days of March

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 13:39:38.05</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1908reute
-d f BC-PHILIP-CROSBY-PCRO.O   06-01 0056</field>
-	<field name = "TITLE">PHILIP CROSBY PCRO.O> MAKES ACQUISITION</field>
+	<field name = "titulo">PHILIP CROSBY PCRO.O> MAKES ACQUISITION</field>
 	<field name = "DATELINE">WINTER HAVEN, Fla., June 1 -</field>
-	<field name = "BODY">Philip Crosby Associates Inc
+	<field name = "content">Philip Crosby Associates Inc
 said it has agreed to acquire Process Integrity Inc of Dallas,
 a computer software designer, for undisclosed terms.
     It said Process' software helps companies monitor

@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 15:55:34.50</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2300reute
-s f BC-VARLEN-CORP-VRLN>-DE   03-23 0024</field>
-	<field name = "TITLE">VARLEN CORP VRLN> DECLARES QTLY DIVIDEND</field>
+	<field name = "titulo">VARLEN CORP VRLN> DECLARES QTLY DIVIDEND</field>
 	<field name = "DATELINE">NAPERVILLE, Ill., March 23 -</field>
-	<field name = "BODY">Qtly div 15 cts vs 15 cts prior
+	<field name = "content">Qtly div 15 cts vs 15 cts prior
     Pay April 30
     Record April 15
  Reuter</field>

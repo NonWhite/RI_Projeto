@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 16:38:36.04</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM A
-f6569reute
-b f AM-SAYAD   03-17 0094</field>
-	<field name = "TITLE">BRAZILIAN PLANNING MINISTER RESIGNS</field>
+	<field name = "titulo">BRAZILIAN PLANNING MINISTER RESIGNS</field>
 	<field name = "DATELINE">BRASILIA, March 17 -</field>
-	<field name = "BODY">Brazilian Planning Minister Joao Sayad
+	<field name = "content">Brazilian Planning Minister Joao Sayad
 resigned, a presidential spokesman said.
     His resignation was accepted during a meeting with 
 President Jose Sarney this afternoon, the spokesman said.

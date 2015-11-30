@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 14:23:30.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0396reute
-r f BC-gm-bonus-system-out   04-17 0110</field>
-	<field name = "TITLE">GM GM> BONUS SYSTEM OUT OF DATE FOR COMPANY</field>
+	<field name = "titulo">GM GM> BONUS SYSTEM OUT OF DATE FOR COMPANY</field>
 	<field name = "DATELINE">NEW YORK, April 17 -</field>
-	<field name = "BODY">General Motors Corp's executive salary
+	<field name = "content">General Motors Corp's executive salary
 bonus plan, effective since 1918, was out of date for the
 world's largest automaker's changing corporate strategy,
 executive vice president Robert Stempel said.

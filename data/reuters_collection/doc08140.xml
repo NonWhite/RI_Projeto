@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">RM
-f0165reute
-u f BC-JAPAN-SAYS-IT-TRYING   03-23 0108</field>
-	<field name = "TITLE">JAPAN SAYS IT TRYING TO EXPAND DOMESTIC DEMAND</field>
+	<field name = "titulo">JAPAN SAYS IT TRYING TO EXPAND DOMESTIC DEMAND</field>
 	<field name = "DATELINE">TAUPO, New Zealand, March 23 -</field>
-	<field name = "BODY">Japan has assured a meeting
+	<field name = "content">Japan has assured a meeting
 of trade ministers it is making every effort to expand domestic
 demand and restructure its economy.
     Japanese trade representative Tsomu Hata told an informal

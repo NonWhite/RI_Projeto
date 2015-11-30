@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 16:37:45.75</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f0542reute
-h f BC-PACO-PHARMACEUTICAL-   03-12 0076</field>
-	<field name = "TITLE">PACO PHARMACEUTICAL PPS> OPENS ON NYSE</field>
+	<field name = "titulo">PACO PHARMACEUTICAL PPS> OPENS ON NYSE</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Paco Pharmaceutical Services Inc said
+	<field name = "content">Paco Pharmaceutical Services Inc said
 its common stock began trading today on the New York Stock
 Exchange.
     The company's stock opened at 26-3/4 and closed at 26-1/8

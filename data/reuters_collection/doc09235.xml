@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 08:24:40.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0681reute
-r f BC-DISNEY-DIS>-OPENING   03-25 0058</field>
-	<field name = "TITLE">DISNEY DIS> OPENING EXPERIMENTAL RETAIL OUTLET</field>
+	<field name = "titulo">DISNEY DIS> OPENING EXPERIMENTAL RETAIL OUTLET</field>
 	<field name = "DATELINE">BURBANK, Calif., March 25 -</field>
-	<field name = "BODY">Walt Disney Co said it will
+	<field name = "content">Walt Disney Co said it will
 open its first non-tourist retail operation on March 28 at the
 Galleria shopping mall in Glendale, Calif.
     The company said the 2,400 square foot store will test

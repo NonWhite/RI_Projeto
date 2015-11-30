@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 09:41:09.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0085reute
-r f BC-FEDERAL-HOME-MORTAGE   03-09 0108</field>
-	<field name = "TITLE">FEDERAL HOME MORTAGE BUYS FUNDS FROM LENDER</field>
+	<field name = "titulo">FEDERAL HOME MORTAGE BUYS FUNDS FROM LENDER</field>
 	<field name = "DATELINE">CHARLOTTE, N.C., March 9 -</field>
-	<field name = "BODY">The Federal Home Mortgage Corp
+	<field name = "content">The Federal Home Mortgage Corp
 announced the sale of 400 mln dlrs for residential mortgages to
 First Union Corp's mortgage subsidiary.
     Freddie Mac said that First Union Mortgage Corp already

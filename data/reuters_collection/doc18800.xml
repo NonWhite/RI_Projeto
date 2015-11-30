@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:33:18.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3835reute
-u f BC-ENSOURCE-EEE>-SELLS   06-18 0044</field>
-	<field name = "TITLE">ENSOURCE EEE> SELLS CONVERTIBLE PREFERRED</field>
+	<field name = "titulo">ENSOURCE EEE> SELLS CONVERTIBLE PREFERRED</field>
 	<field name = "DATELINE">HOUSTON, June 18 -</field>
-	<field name = "BODY">Ensource Inc said it has agreed to sell
+	<field name = "content">Ensource Inc said it has agreed to sell
 one mln shares of convertible preferred stock to closely-held
 United Meridian Corp for 25 dlrs a share and to grant United
 warrants to buy 550,000 common shares.

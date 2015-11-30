@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0043reute
-r f BC-HUTCHISON-UNIT-BUYS-C   03-09 0075</field>
-	<field name = "TITLE">HUTCHISON UNIT BUYS CONTAINER CRANES FROM JAPAN</field>
+	<field name = "titulo">HUTCHISON UNIT BUYS CONTAINER CRANES FROM JAPAN</field>
 	<field name = "DATELINE">HONG KONG, March 9 -</field>
-	<field name = "BODY">Container port operator, Hong Kong
+	<field name = "content">Container port operator, Hong Kong
 International Terminals Ltd>, a 89 pct held unit of Hutchison
 Whampoa Ltd HWHH.HK>, said it has placed a 164 mln H.K. Dlr
 order for seven quayside container cranes of 800 tons each with

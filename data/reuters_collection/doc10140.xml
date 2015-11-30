@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:03:55.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2492reute
-d f BC-U.S.-SEC-MULLS-REQUIR   03-26 0110</field>
-	<field name = "TITLE">U.S. SEC MULLS REQUIRING ACCOUNTING FIRM REVIEWS</field>
+	<field name = "titulo">U.S. SEC MULLS REQUIRING ACCOUNTING FIRM REVIEWS</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">The federal Securities and Exchange
+	<field name = "content">The federal Securities and Exchange
 Commission (SEC) proposed new rules that would require
 accounting firms that audit public companies to submit to a
 periodic outside review of their operations.

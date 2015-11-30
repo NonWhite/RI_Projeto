@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 10:49:45.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1165reute
-u f BC-FEDERATED-DEPARTMENT   04-09 0061</field>
-	<field name = "TITLE">FEDERATED DEPARTMENT STORES FDS> MARCH SALES UP</field>
+	<field name = "titulo">FEDERATED DEPARTMENT STORES FDS> MARCH SALES UP</field>
 	<field name = "DATELINE">CINCINNATI, April 9 -</field>
-	<field name = "BODY">Federated Department Stores Inc said
+	<field name = "content">Federated Department Stores Inc said
 sales for the five weeks ended April Four were up 4.9 pct to
 934.9 mln dlrs from 891.6 mln dlrs a year before.,
     The company said sales for the first two months of its

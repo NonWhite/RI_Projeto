@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 08:28:52.32</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0638reute
-r f BC-COAST-SAVINGS-CSA>-I   04-09 0088</field>
-	<field name = "TITLE">COAST SAVINGS CSA> IN TALKS ON BUYING BANK</field>
+	<field name = "titulo">COAST SAVINGS CSA> IN TALKS ON BUYING BANK</field>
 	<field name = "DATELINE">LOS ANGELES, April 8 -</field>
-	<field name = "BODY">Coast Savings and Loan Association
+	<field name = "content">Coast Savings and Loan Association
 said it is in talks with the Federal Savings and Loan Insurance
 Corp on the acquisition of Central Savings and Loan Association
 of San Diego.

@@ -4,13 +4,10 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">icco</field>
-	<field name = "UNKNOWN">C T
-f0545reute
-u f BC-COCOA-DEAL-SEEN-POSIT   03-30 0114</field>
-	<field name = "TITLE">COCOA DEAL SEEN POSITIVE, BUT NO PRICE GUARANTEE</field>
+	<field name = "titulo">COCOA DEAL SEEN POSITIVE, BUT NO PRICE GUARANTEE</field>
 	<field name = "AUTHOR">By Lisa Vaughan, Reuters</field>
 	<field name = "DATELINE">LONDON, March 30 -</field>
-	<field name = "BODY">The buffer stock rules agreement reached
+	<field name = "content">The buffer stock rules agreement reached
 on Friday by the International Cocoa Organization (ICCO) is an
 improvement on previous arrangements but the price-support
 mechanism is unlikely to do more than stem the decline in cocoa

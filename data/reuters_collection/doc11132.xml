@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 18:12:38.77</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2744reute
-d f BC-AMFAC-AMA>-TO-SELL-S   03-30 0040</field>
-	<field name = "TITLE">AMFAC AMA> TO SELL STORE</field>
+	<field name = "titulo">AMFAC AMA> TO SELL STORE</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 30 -</field>
-	<field name = "BODY">Amfac Inc said it entered an
+	<field name = "content">Amfac Inc said it entered an
 agreement to sell the last remaining store of its original
 Liberty House of California operation to H and S - San Mateo
 Inc.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "TOPICS">silver</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0590reute
-r f BC-PRECIOUS-METALS-CLIMA   04-01 0115</field>
-	<field name = "TITLE">PRECIOUS METALS CLIMATE IMPROVING, SAYS MONTAGU</field>
+	<field name = "titulo">PRECIOUS METALS CLIMATE IMPROVING, SAYS MONTAGU</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">The climate for precious metals is
+	<field name = "content">The climate for precious metals is
 improving with prices benefiting from renewed inflation fears
 and the switching of funds from dollar and stock markets,
 brokers Samuel Montagu and Co Ltd said.

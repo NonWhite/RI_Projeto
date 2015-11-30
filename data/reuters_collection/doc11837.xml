@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 06:41:20.83</field>
 	<field name = "PLACES">bahrain</field>
-	<field name = "UNKNOWN">RM
-f0467reute
-r f BC-BAHRAIN-COMMERCIAL-BA   04-01 0112</field>
-	<field name = "TITLE">BAHRAIN COMMERCIAL BANKS INTRODUCE FIVE-DAY WEEK</field>
+	<field name = "titulo">BAHRAIN COMMERCIAL BANKS INTRODUCE FIVE-DAY WEEK</field>
 	<field name = "DATELINE">BAHRAIN, April 1 -</field>
-	<field name = "BODY">Bahrain is the first Gulf Arab country
+	<field name = "content">Bahrain is the first Gulf Arab country
 to introduce an obligatory five-day working week for its
 commercial banks ending a traditional six-day week.
     The Bahrain Monetary Agency (BMA) said the regulation

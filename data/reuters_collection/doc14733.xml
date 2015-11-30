@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:49:59.55</field>
-	<field name = "UNKNOWN">RM C
-f2604reute
-u f BC-REUTER-MONEY-NEWS-HIG   04-07 0111</field>
-	<field name = "TITLE">REUTER MONEY NEWS HIGHLIGHTS 2145 GMT APRIL 7</field>
+	<field name = "titulo">REUTER MONEY NEWS HIGHLIGHTS 2145 GMT APRIL 7</field>
 	<field name = "DATELINE">WASHINGTON -</field>
-	<field name = "BODY">Japanese Finance Minister Kiichi Miyazawa said
+	<field name = "content">Japanese Finance Minister Kiichi Miyazawa said
 that he and U.S. Treasury Secretary James Baker were in
 agreement on the need for currency stability. (NRKI 1821)
     WASHINGTON - Federal Reserve Board Chairman Paul Volcker

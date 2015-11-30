@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 16:24:46.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2402reute
-r f BC-TEXAS-CAPITAL-BANCSHA   03-20 0070</field>
-	<field name = "TITLE">TEXAS CAPITAL BANCSHARES UNIT FIRST TO FILE</field>
+	<field name = "titulo">TEXAS CAPITAL BANCSHARES UNIT FIRST TO FILE</field>
 	<field name = "DATELINE">HOUSTON, March 20 -</field>
-	<field name = "BODY">Texas Capital Bancshares> said its
+	<field name = "content">Texas Capital Bancshares> said its
 subsidiary, Texas Capital Bank-Westwood, was the first Texas
 bank to file for a statewide branch to be located in Austin.
     The company said it filed with the Comptroller of the

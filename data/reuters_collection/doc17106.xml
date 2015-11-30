@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 11:22:35.11</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1328reute
-u f BC-CANADA-STOCK-PURCHASE   04-24 0091</field>
-	<field name = "TITLE">CANADA STOCK PURCHASES BY FOREIGNERS SOAR</field>
+	<field name = "titulo">CANADA STOCK PURCHASES BY FOREIGNERS SOAR</field>
 	<field name = "DATELINE">OTTAWA, April 24 -</field>
-	<field name = "BODY">Foreign investors purchased, on a net
+	<field name = "content">Foreign investors purchased, on a net
 basis, a record one billion dlrs of Canadian stocks in
 February, more than the total for all of 1986, Statistics
 Canada said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 08:56:47.81</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0777reute
-d f BC-MICROTEL-INC>-MAKES   03-23 0069</field>
-	<field name = "TITLE">MICROTEL INC> MAKES ACQUISITION</field>
+	<field name = "titulo">MICROTEL INC> MAKES ACQUISITION</field>
 	<field name = "DATELINE">BOCA RATON, Fla., March 23 -</field>
-	<field name = "BODY">Microtel Inc said it has
+	<field name = "content">Microtel Inc said it has
 completed the acquisition of American Teledata Corp> and its
 US Dial subsidiary, which provide long distance telephone
 service in northeast Florida. Terms were not disclosed.

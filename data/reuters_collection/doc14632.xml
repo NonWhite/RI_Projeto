@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:33:45.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2414reute
-r f BC-GAO-FARM-CREDIT-PLAN   04-07 0112</field>
-	<field name = "TITLE">GAO FARM CREDIT PLAN SUPPORTED BY KEY LAWMAKER</field>
+	<field name = "titulo">GAO FARM CREDIT PLAN SUPPORTED BY KEY LAWMAKER</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">An influential member of Congress
+	<field name = "content">An influential member of Congress
 endorsed a General Accounting Office, GAO, proposal calling for
 establishing a federal board to oversee government assistance
 to the financially-troubled farm credit system.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 11:08:09.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0562reute
-r f BC-MICHAELS-STORES-MKE>   03-04 0035</field>
-	<field name = "TITLE">MICHAELS STORES MKE> FEBRUARY SALES RISE</field>
+	<field name = "titulo">MICHAELS STORES MKE> FEBRUARY SALES RISE</field>
 	<field name = "DATELINE">IRVING, Texas, March 4 -</field>
-	<field name = "BODY">Michaels Stores Inc said February
+	<field name = "content">Michaels Stores Inc said February
 sales rose 26.2 pct to 8,049,000 dlrs from 6,380,000 dlrs a
 year before, with same-store sales up 10.6 pct.
  Reuter</field>

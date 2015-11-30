@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 13:10:10.20</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1938reute
-r f BC-ATLANTIC-RICHFIELD-A   06-02 0097</field>
-	<field name = "TITLE">ATLANTIC RICHFIELD ARC> UNIT BUYS TECHNOLOGY</field>
+	<field name = "titulo">ATLANTIC RICHFIELD ARC> UNIT BUYS TECHNOLOGY</field>
 	<field name = "DATELINE">PHILADELPHIA, June 2 -</field>
-	<field name = "BODY">Atlantic Richfield Co said it has
+	<field name = "content">Atlantic Richfield Co said it has
 acquired exclusive worldwide rights to the methyl methacrylate
 technology of Texas Eastern Corp's Halcon SD Group affiliate
 for undisclosed terms.

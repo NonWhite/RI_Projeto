@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 12:37:04.66</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1705reute
-r f BC-SOUTHMARK-SM>-TO-OFF   04-09 0097</field>
-	<field name = "TITLE">SOUTHMARK SM> TO OFFER SPECIAL DIVIDEND</field>
+	<field name = "titulo">SOUTHMARK SM> TO OFFER SPECIAL DIVIDEND</field>
 	<field name = "DATELINE">DALLAS, April 9 -</field>
-	<field name = "BODY">Southmark Corp said it will issue its
+	<field name = "content">Southmark Corp said it will issue its
 shareholders a special dividend right to acquire 22 shares of
 American Realty Trust ARB> for each 100 shares of Southmark
 they own.

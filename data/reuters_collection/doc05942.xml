@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 10:04:16.53</field>
 	<field name = "PLACES">east-germany</field>
-	<field name = "UNKNOWN">RM
-f5025reute
-r f BC-EAST-GERMANY-ANNOUNCE   03-17 0087</field>
-	<field name = "TITLE">EAST GERMANY ANNOUNCES ECONOMIC REFORM PLANS</field>
+	<field name = "titulo">EAST GERMANY ANNOUNCES ECONOMIC REFORM PLANS</field>
 	<field name = "DATELINE">EAST BERLIN, March 17 -</field>
-	<field name = "BODY">East Germany plans to devolve more
+	<field name = "content">East Germany plans to devolve more
 responsibility to factories and boost profitability under a law
 obliging plants to generate their own funds for investments in
 new machinery, repairs or expansion, the Berliner Zeitung

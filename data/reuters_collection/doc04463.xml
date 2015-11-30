@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 15:28:28.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0295reute
-r f BC-ESSEX-CHEMICAL-ESX>   03-12 0098</field>
-	<field name = "TITLE">ESSEX CHEMICAL ESX> TO SELL CONVERTIBLE DEBT</field>
+	<field name = "titulo">ESSEX CHEMICAL ESX> TO SELL CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Essex Chemical Corp said it filed with
+	<field name = "content">Essex Chemical Corp said it filed with
 the Securities and Exchange Commission a registration statement
 covering a 60 mln dlr issue of convertivble subordinated
 debentures due 2012.

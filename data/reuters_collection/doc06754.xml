@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 15:21:52.55</field>
-	<field name = "UNKNOWN">E F
-f9235reute
-d f BC-LSI-LOGIC-CANADA-FILE   03-18 0062</field>
-	<field name = "TITLE">LSI LOGIC CANADA FILES FOR OFFERING</field>
+	<field name = "titulo">LSI LOGIC CANADA FILES FOR OFFERING</field>
 	<field name = "DATELINE">CALGARY, Alberta, March 18 -</field>
-	<field name = "BODY">LSI Logic Corp of Canada Inc
+	<field name = "content">LSI Logic Corp of Canada Inc
 said it filed for a proposed public offering of common shares
 to be underwritten by McLeod Young Weir Ltd and Nesbitt Thomson
 Deacon Inc.

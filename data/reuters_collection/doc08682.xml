@@ -5,12 +5,9 @@
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">cuba</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">C T
-f0587reute
-r f BC-SOVIET-SUGAR-IMPORTS   03-24 0089</field>
-	<field name = "TITLE">SOVIET SUGAR IMPORTS HIGHER IN OCT/NOV</field>
+	<field name = "titulo">SOVIET SUGAR IMPORTS HIGHER IN OCT/NOV</field>
 	<field name = "DATELINE">LONDON, March 24 -</field>
-	<field name = "BODY">Soviet sugar imports in October and
+	<field name = "content">Soviet sugar imports in October and
 November were significantly higher than in the same period of
 the year before, according to figures received by the
 International Sugar Organization.

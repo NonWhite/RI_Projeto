@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 12:40:36.50</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0022reute
-u f BC-COMDATA-NETWORK-CDN>   03-04 0041</field>
-	<field name = "TITLE">COMDATA NETWORK CDN> IN NEW ACQUISITION TALKS</field>
+	<field name = "titulo">COMDATA NETWORK CDN> IN NEW ACQUISITION TALKS</field>
 	<field name = "DATELINE">NASHVILLE, Tenn., March 4 -</field>
-	<field name = "BODY">Comdata Network Inc said it is
+	<field name = "content">Comdata Network Inc said it is
 in active talks with other parties on a possible acquisition or
 recapitalization of Comdata in an effort to maximize
 shareholder values.

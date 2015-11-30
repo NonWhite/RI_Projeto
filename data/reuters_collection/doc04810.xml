@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 10:03:43.72</field>
 	<field name = "TOPICS">inventories</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0971reute
-b f BC-/U.S.-JANUARY-BUSINES   03-13 0080</field>
-	<field name = "TITLE">U.S. JANUARY BUSINESS INVENTORIES ROSE 0.9 PCT</field>
+	<field name = "titulo">U.S. JANUARY BUSINESS INVENTORIES ROSE 0.9 PCT</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">U.S. business inventories rose 5.6
+	<field name = "content">U.S. business inventories rose 5.6
 billion dlrs, or 0.9 pct, to a seasonally adjusted 592.19
 billion dlrs in January, the Commerce Department said.
     It was the largest inventory rise since July, 1979, when

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 15:47:43.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0667reute
-r f BC-EVANS/SUTHERLAND-ESC   03-05 0070</field>
-	<field name = "TITLE">EVANS/SUTHERLAND ESCC> FILES FOR DEBT OFFERING</field>
+	<field name = "titulo">EVANS/SUTHERLAND ESCC> FILES FOR DEBT OFFERING</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Evans and Sutherland Computer Corp said
+	<field name = "content">Evans and Sutherland Computer Corp said
 it filed with the Securities and Exchange Commission a
 registration statement covering a 50 mln dlr issue of
 convertible subordinated debentures due 2012.

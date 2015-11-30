@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 15:52:57.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0894
-reute
-d f BC-REPUBLICANS-EYE-BIGGE   02-26 0112</field>
-	<field name = "TITLE">REPUBLICANS EYE BIGGER U.S. CONSERVATION RESERVE</field>
+	<field name = "titulo">REPUBLICANS EYE BIGGER U.S. CONSERVATION RESERVE</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">A group of Republican governors and
+	<field name = "content">A group of Republican governors and
 members of Congress said they intended to explore expanding the
 conservation reserve program by up to 20 mln acres.
     Under current law, between 40 and 45 mln acres of erodible

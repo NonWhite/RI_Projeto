@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">F A RM
-f2530reute
-u f BC-MAJOR-U.S.-BANKS-MOVE   04-01 0106</field>
-	<field name = "TITLE">MAJOR U.S. BANKS MOVE TO HIGHER 7-3/4 PCT PRIME</field>
+	<field name = "titulo">MAJOR U.S. BANKS MOVE TO HIGHER 7-3/4 PCT PRIME</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Most major U.S. banks today matched
+	<field name = "content">Most major U.S. banks today matched
 Tuesday's quarter-point prime rate cuts by Citibank and Chase
 Manhattan Bank, the first prime rate boosts since mid-1984.
     Most cited narrower spreads between the prime and funding

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 05:06:54.80</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0279reute
-u f BC-CITIBANK-LAUNCHES-CUR   03-25 0100</field>
-	<field name = "TITLE">CITIBANK LAUNCHES CURRENCY WARRANTS</field>
+	<field name = "titulo">CITIBANK LAUNCHES CURRENCY WARRANTS</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">Citibank NA is issuing up to 50,000
+	<field name = "content">Citibank NA is issuing up to 50,000
 currency warrants which give the holder a call right on U.S.
 Dollars from marks or yen, Citicorp Investment Bank Ltd said as
 sole manager.

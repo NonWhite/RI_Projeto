@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0469reute
-b f BC-BUNDESBANK-BOUGHT-DOL   04-24 0099</field>
-	<field name = "TITLE">BUNDESBANK BOUGHT DOLLARS FOR YEN IN OPEN MARKET</field>
+	<field name = "titulo">BUNDESBANK BOUGHT DOLLARS FOR YEN IN OPEN MARKET</field>
 	<field name = "DATELINE">FRANKFURT, April 24 -</field>
-	<field name = "BODY">The Bundesbank intervened in the open
+	<field name = "content">The Bundesbank intervened in the open
 market to buy dollars for yen ahead of the Frankfurt fixing,
 dealers said.
     They said the Bundesbank bought dollars for around 139.80

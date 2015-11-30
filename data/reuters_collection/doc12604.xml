@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 11:14:28.95</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1428reute
-u f BC-U.K.-TO-SELL-ROYAL-OR   04-02 0060</field>
-	<field name = "TITLE">U.K. TO SELL ROYAL ORDNANCE TO BRITISH AEROSPACE</field>
+	<field name = "titulo">U.K. TO SELL ROYAL ORDNANCE TO BRITISH AEROSPACE</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">U.K. Defence Minister George Younger said
+	<field name = "content">U.K. Defence Minister George Younger said
 he had accepted an offer from British Aerospace Plc BAEL.L> to
 buy state-owned armaments manufacturer Royal Ordnance> for 190
 mln stg.

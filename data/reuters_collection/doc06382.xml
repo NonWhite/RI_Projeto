@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 06:44:22.38</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f7375reute
-r f BC-WEST-GERMAN-NEW-CAR-R   03-18 0095</field>
-	<field name = "TITLE">WEST GERMAN NEW CAR REGISTRATIONS RISE IN FEBRUARY</field>
+	<field name = "titulo">WEST GERMAN NEW CAR REGISTRATIONS RISE IN FEBRUARY</field>
 	<field name = "DATELINE">FLENSBURG, West Germany, March 18 -</field>
-	<field name = "BODY">West German new car
+	<field name = "content">West German new car
 registrations in February increased by 31 pct over January's
 figure but trailed the February 1986 total by 2.9 pct, the
 Federal Motor Office said.

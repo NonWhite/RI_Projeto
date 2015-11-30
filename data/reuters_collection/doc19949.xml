@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 17:46:38.41</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM A 
-f2708reute
-r f BC-CITICORP-CCI>-SAVING   06-29 0111</field>
-	<field name = "TITLE">CITICORP CCI> SAVINGS EXTENDS CALIFORNIA REACH</field>
+	<field name = "titulo">CITICORP CCI> SAVINGS EXTENDS CALIFORNIA REACH</field>
 	<field name = "DATELINE">OAKLAND, Calif, June 29 -</field>
-	<field name = "BODY">Citicorp has extended its reach
+	<field name = "content">Citicorp has extended its reach
 into the California market with Citicorp Savings' acquisition
 of 50 of Sears Roebuck's S> Sears Savings Bank branches,
 bringing its presences to 143 branches in 101 communities,

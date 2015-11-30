@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 09:57:36.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0894reute
-d f BC-BETA-PHASE-BETA.O>-L   06-19 0053</field>
-	<field name = "TITLE">BETA PHASE BETA.O> LANDS FIRST MAJOR SALE</field>
+	<field name = "titulo">BETA PHASE BETA.O> LANDS FIRST MAJOR SALE</field>
 	<field name = "DATELINE">MENLO PARK, Calif., June 19 -</field>
-	<field name = "BODY">Beta Phase Inc said it has
+	<field name = "content">Beta Phase Inc said it has
 negotiated the first major sale of its SMArtClamp electronic
 intravenous infusion device.
     The company said Sharp Memorial Hospital, which

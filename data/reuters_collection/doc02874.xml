@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 16:30:08.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0563reute
-d f BC-AIRGAS-AGA>-CHAIRMAN   03-06 0073</field>
-	<field name = "TITLE">AIRGAS AGA> CHAIRMAN STEPS DOWN</field>
+	<field name = "titulo">AIRGAS AGA> CHAIRMAN STEPS DOWN</field>
 	<field name = "DATELINE">WILMINGTON, Del., March 6 -</field>
-	<field name = "BODY">Airgas Inc said chairman and
+	<field name = "content">Airgas Inc said chairman and
 chief executive officer C Perkins resigned but agreed to serve
 as a consultant on acquisitions and foreign sales.
     The company said Perkins, under a five year consulting

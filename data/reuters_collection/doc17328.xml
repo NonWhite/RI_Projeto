@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 10:35:02.45</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F
-f1245reute
-b f BC-/EXXON-XON>-SEES-DRO   04-27 0084</field>
-	<field name = "TITLE">EXXON XON> SEES DROP IN NEW OIL DISCOVERIES</field>
+	<field name = "titulo">EXXON XON> SEES DROP IN NEW OIL DISCOVERIES</field>
 	<field name = "DATELINE">HOUSTON, April 27 -</field>
-	<field name = "BODY">Exxon Corp chairman Lawrence Rawl said
+	<field name = "content">Exxon Corp chairman Lawrence Rawl said
 total world energy consumption will continue to grow, but added
 new oil discoveries worldwide are slowing down and can not
 offset annual production.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 08:08:32.15</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0600reute
-u f BC-H.K.-BANKING-SECTOR-S   03-19 0100</field>
-	<field name = "TITLE">H.K. BANKING SECTOR STABLE, OFFICIAL SAYS</field>
+	<field name = "titulo">H.K. BANKING SECTOR STABLE, OFFICIAL SAYS</field>
 	<field name = "DATELINE">HONG KONG, March 19 -</field>
-	<field name = "BODY">The banking sector has regained its
+	<field name = "content">The banking sector has regained its
 stability after a protracted period of difficulty, banking
 commissioner Robert Fell said.
     "The banking climate has dramatically changed from a year

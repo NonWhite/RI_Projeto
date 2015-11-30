@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 15:35:48.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2339reute
-u f BC-MOODY'S-UPGRADES-SCOT   06-29 0082</field>
-	<field name = "TITLE">MOODY'S UPGRADES SCOTT PAPER SPP> DEBT TO A-3</field>
+	<field name = "titulo">MOODY'S UPGRADES SCOTT PAPER SPP> DEBT TO A-3</field>
 	<field name = "DATELINE">NEW YORK, JUNE 29 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 upgraded Scott Paper Co's long-term debt rating to A-3 from
 Baa-1. The company's Prime-2 commercial paper rating remains
 unchanged.

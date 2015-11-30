@@ -5,12 +5,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PEOPLE">chirac</field>
 	<field name = "PEOPLE">delors</field>
-	<field name = "UNKNOWN">F
-f1977reute
-u f AM-CHIRAC-TELEPHONE   04-01 0090</field>
-	<field name = "TITLE">CHIRAC SEES QUICK DECISION ON CGCT</field>
+	<field name = "titulo">CHIRAC SEES QUICK DECISION ON CGCT</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">French Prime Minister Jacques Chirac
+	<field name = "content">French Prime Minister Jacques Chirac
 told U.S. congressmen France would announce a decision in two
 to three weeks on which group is to control its second largest
 communications firm, Compagnie Generale de Construction

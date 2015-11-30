@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 14:49:29.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2291reute
-r f BC-U.S.-SENATE-BUDGET-CH   03-30 0131</field>
-	<field name = "TITLE">U.S. SENATE BUDGET CHIEF EYES FARM POLICY CHANGE</field>
+	<field name = "titulo">U.S. SENATE BUDGET CHIEF EYES FARM POLICY CHANGE</field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">U.S. Senate Budget Committee
+	<field name = "content">U.S. Senate Budget Committee
 Chairman Lawton Chiles' (D-Fla.) fiscal 1988 budget plan would
 cut farm spending by about two billion dlrs, primarily by
 making unspecified changes in price and income support

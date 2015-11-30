@@ -6,12 +6,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI 
-f0292reute
-u f BC-JAPAN-PANEL-URGES-WOR   06-19 0098</field>
-	<field name = "TITLE">JAPAN PANEL URGES WORLD ECONOMIC ADJUSTMENTS</field>
+	<field name = "titulo">JAPAN PANEL URGES WORLD ECONOMIC ADJUSTMENTS</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">Japan could avoid a sharp rise in the
+	<field name = "content">Japan could avoid a sharp rise in the
 value of the yen against the dollar if Japan, the U.S. And
 other nations succeeded in restructuring their economies, an
 advisory panel to the government's Economic Planning Agency

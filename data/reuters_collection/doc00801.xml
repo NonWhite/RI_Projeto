@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:58:18.35</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f0130
-reute
-u f BC-CANADA-GOVERNMENT-SPE   03-02 0110</field>
-	<field name = "TITLE">CANADA GOVERNMENT SPENDING TO RISE 3.8 PCT</field>
+	<field name = "titulo">CANADA GOVERNMENT SPENDING TO RISE 3.8 PCT</field>
 	<field name = "DATELINE">OTTAWA, March 2 -</field>
-	<field name = "BODY">The federal government's expenditures
+	<field name = "content">The federal government's expenditures
 will rise 3.8 pct in the fiscal year beginning April 1 to
 110.14 billion dlrs from 107.01 billion dlrs in fiscal 1987,
 the Treasury Board said.

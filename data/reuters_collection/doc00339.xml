@@ -1,14 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 07:20:20.88</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0080
-reute
-r f BC-ECONOMIC-SPOTLIGHT--   03-02 0101</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - ITALIAN BOOM</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - ITALIAN BOOM</field>
 	<field name = "AUTHOR">By Jane Leach, Reuters</field>
 	<field name = "DATELINE">ROME, March 2  -</field>
-	<field name = "BODY">Italy's strong economic revival has led
+	<field name = "content">Italy's strong economic revival has led
 some observers to talk of miracles and created euphoria in some
 quarters about future growth prospects, but many Italian
 experts warn that the current wave of optimism is excessive.

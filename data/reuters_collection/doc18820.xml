@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:52:22.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3917reute
-r f BC-MONSANTO-MTC>-SAYS-N   06-18 0110</field>
-	<field name = "TITLE">MONSANTO MTC> SAYS NUTRASWEET POSES NO ILLS</field>
+	<field name = "titulo">MONSANTO MTC> SAYS NUTRASWEET POSES NO ILLS</field>
 	<field name = "DATELINE">INDIANAPOLIS, June 18 -</field>
-	<field name = "BODY">Monsanto Co's G.D. Searle and Co
+	<field name = "content">Monsanto Co's G.D. Searle and Co
 pharmaceutical division said researchers have concluded that
 articifical sweeteners, including aspartame which is found in
 Searle's NutraSweet, do not pose any significant health

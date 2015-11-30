@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 15:24:00.88</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0270reute
-h f BC-AILEEN-INC-AEE>-1SR   03-13 0028</field>
-	<field name = "TITLE">AILEEN INC AEE> 1SR QTR JAN 31 LOSS</field>
+	<field name = "titulo">AILEEN INC AEE> 1SR QTR JAN 31 LOSS</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">Shr loss 30 cts vs loss 20 cts
+	<field name = "content">Shr loss 30 cts vs loss 20 cts
     Net loss 1,553,000 vs loss 1,031,000
     Revs 10.0 mln vs 8,696,000
  Reuter</field>

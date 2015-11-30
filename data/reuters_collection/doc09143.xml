@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 02:49:33.16</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C T
-f0094reute
-u f BC-PEKING-FACES-WATER-RA   03-25 0081</field>
-	<field name = "TITLE">PEKING FACES WATER RATIONING</field>
+	<field name = "titulo">PEKING FACES WATER RATIONING</field>
 	<field name = "DATELINE">PEKING, March 25 -</field>
-	<field name = "BODY">Worsening drought conditions in Peking
+	<field name = "content">Worsening drought conditions in Peking
 may force the authorities to ration water for industry and
 farming this summer, the New China news Agency said.
     The agency quoted city officials as saying rainfall last

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 08:46:38.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2882reute
-r f BC-WASHINGTON-BANCORP-W   06-18 0115</field>
-	<field name = "TITLE">WASHINGTON BANCORP WWBC.O> ADDS TO RESERVES</field>
+	<field name = "titulo">WASHINGTON BANCORP WWBC.O> ADDS TO RESERVES</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">Washington Bancorp said it has added
+	<field name = "content">Washington Bancorp said it has added
 12 mln dlrs to its reserves for losses on international loans,
 causing a second quarter loss of about nine mln dlrs.
     The company said it expects a profit for the calendar year

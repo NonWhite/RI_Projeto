@@ -4,12 +4,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">kuwait</field>
-	<field name = "UNKNOWN">V
-f0745reute
-u f BC-GULF-ESCORTS-STILL-UN   03-26 0109</field>
-	<field name = "TITLE">GULF ESCORTS STILL UNDER DISCUSSION - WEINBERGER</field>
+	<field name = "titulo">GULF ESCORTS STILL UNDER DISCUSSION - WEINBERGER</field>
 	<field name = "DATELINE">FORT WORTH, Texas, March 26 -</field>
-	<field name = "BODY">No action has been taken yet
+	<field name = "content">No action has been taken yet
 on the Reagan Adminstration's offer to escort Kuwaiti oil
 tankers through the Gulf, but the issue is being discussed,
 U.S. Secretary of Defence Caspar Weinberger said.

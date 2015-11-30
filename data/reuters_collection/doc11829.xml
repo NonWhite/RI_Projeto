@@ -5,12 +5,9 @@
 	<field name = "PLACES">hong-kong</field>
 	<field name = "PLACES">singapore</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM C M
-f0406reute
-u f BC-PROPOSED-JAPAN-TAX-MA   04-01 0115</field>
-	<field name = "TITLE">PROPOSED JAPAN TAX MAY DAMPEN TOKYO GOLD TRADING</field>
+	<field name = "titulo">PROPOSED JAPAN TAX MAY DAMPEN TOKYO GOLD TRADING</field>
 	<field name = "DATELINE">TOKYO, April 1 -</field>
-	<field name = "BODY">A proposed sales tax on gold transactions
+	<field name = "content">A proposed sales tax on gold transactions
 could put a damper on the Tokyo market and encourage a shift of
 trading to Hong Kong and Singapore, senior vice president and
 Tokyo branch manager of Credit Suisse Paul Hofer told a press

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 11:09:19.56</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1327reute
-d f BC-GUARDIAN-ROYAL-SEES-E   04-01 0111</field>
-	<field name = "TITLE">GUARDIAN ROYAL SEES EXPANSION IN LIFE ASSURANCE</field>
+	<field name = "titulo">GUARDIAN ROYAL SEES EXPANSION IN LIFE ASSURANCE</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">Insurance group Guardian Royal Exchange
+	<field name = "content">Insurance group Guardian Royal Exchange
 Plc GREX.L> said it would expand its life assurance business
 and push further into European markets, but that U.K.
 Underwriting losses remained a heavy drag on profits.

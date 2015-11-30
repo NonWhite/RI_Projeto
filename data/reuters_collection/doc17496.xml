@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 08:58:28.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0819reute
-r f BC-TECHNOLOGY   06-01 0102</field>
-	<field name = "TITLE">TECHNOLOGY/SUPERCOMPUTER MARKET GETTING CROWDED</field>
+	<field name = "titulo">TECHNOLOGY/SUPERCOMPUTER MARKET GETTING CROWDED</field>
 	<field name = "AUTHOR">By Catherine Arnst, Reuters</field>
 	<field name = "DATELINE">BOSTON, June 1 -</field>
-	<field name = "BODY">The supercomputer industry is getting
+	<field name = "content">The supercomputer industry is getting
 crowded as a handful of startup companies and some huge
 Japanese manufacturers compete for the right to apply the label
 "world's fastest machine" to their products.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C
-f1153reute
-d f BC-KANSAS-EXCHANGE-HITS   03-31 0113</field>
-	<field name = "TITLE">KANSAS EXCHANGE HITS CFTC POSITION LIMIT PLAN</field>
+	<field name = "titulo">KANSAS EXCHANGE HITS CFTC POSITION LIMIT PLAN</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">The Kansas City Board of Trade,
+	<field name = "content">The Kansas City Board of Trade,
 KCBT, has asked federal futures regulators to modify a proposal
 to raise the Chicago Board of Trade's, CBT, speculative
 position limits on wheat futures contracts, saying the plan

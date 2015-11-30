@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 14:03:47.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2061reute
-u f BC-HOSPITAL-GROUP-IS-AGA   06-29 0098</field>
-	<field name = "TITLE">HOSPITAL GROUP IS AGAINST MANDATORY AIDS TESTING</field>
+	<field name = "titulo">HOSPITAL GROUP IS AGAINST MANDATORY AIDS TESTING</field>
 	<field name = "DATELINE">CHICAGO, June 29 -</field>
-	<field name = "BODY">The American Hospital Association said
+	<field name = "content">The American Hospital Association said
 the best way to prevent the spread of AIDS to hospital workers
 is for workers to wear protective clothing rather than through
 routine tests of all hospital patients for the disease.

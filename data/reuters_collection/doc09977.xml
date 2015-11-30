@@ -2,13 +2,10 @@
 	<field name = "DATE">26-MAR-1987 11:47:02.79</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1569reute
-r f BC-FIRST-INTERSTATE-SEEK   03-26 0102</field>
-	<field name = "TITLE">FIRST INTERSTATE SEEKS ACQUISITION</field>
+	<field name = "titulo">FIRST INTERSTATE SEEKS ACQUISITION</field>
 	<field name = "AUTHOR">by Janie Gabbett</field>
 	<field name = "DATELINE">LOS ANGELES, March 26 -</field>
-	<field name = "BODY">Less than two months after First
+	<field name = "content">Less than two months after First
 Interstate Bancorp withdrew its bold attempt to buy BankAmerica
 Corp, Chairman Joseph Pinola is still looking for a good buy,
 but he is also looking at ways to avoid being bought.

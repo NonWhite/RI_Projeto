@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 16:08:30.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2335reute
-u f BC-SHAD   03-23 0112</field>
-	<field name = "TITLE">JUDGE, EX-SENATOR AMONG CONTENDERS FOR SEC POST</field>
+	<field name = "titulo">JUDGE, EX-SENATOR AMONG CONTENDERS FOR SEC POST</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">A federal judge and a former U.S.
+	<field name = "content">A federal judge and a former U.S.
 senator are among the top contenders to replace John Shad as
 chairman of the federal Securities and Exchange Commission
 (SEC), government sources said.

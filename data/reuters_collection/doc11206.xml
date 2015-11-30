@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 04:48:29.64</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0355reute
-u f BC-FRENCH-EUROFRANC-COMM   03-31 0118</field>
-	<field name = "TITLE">FRENCH EUROFRANC COMMITTEE APPROVES THREE ISSUES</field>
+	<field name = "titulo">FRENCH EUROFRANC COMMITTEE APPROVES THREE ISSUES</field>
 	<field name = "DATELINE">PARIS, March 31 -</field>
-	<field name = "BODY">The eurofranc issuing committee, which
+	<field name = "content">The eurofranc issuing committee, which
 groups major French banks and the Treasury, has approved three
 bonds for issue in April, bond market sources said.
     The first is likely to be for Cie Generale des

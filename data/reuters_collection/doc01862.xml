@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">yeutter</field>
-	<field name = "UNKNOWN">C G L M T
-f0986reute
-d f BC-TRADE   03-04 0106</field>
-	<field name = "TITLE">YEUTTER CONCERNED ABOUT U.S. EXPORT PICTURE</field>
+	<field name = "titulo">YEUTTER CONCERNED ABOUT U.S. EXPORT PICTURE</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">U.S. Trade Representative Clayton
+	<field name = "content">U.S. Trade Representative Clayton
 Yeutter said he expects imports to fall soon but he was
 concerned about the lack of improvement in U.S. exports given
 the dollar's decline in the last 18 months.

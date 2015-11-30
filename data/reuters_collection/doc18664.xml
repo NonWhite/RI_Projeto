@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 10:01:35.87</field>
 	<field name = "TOPICS">income</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f3123reute
-b f BC-/U.S.-PERSONAL-INCOME   06-18 0105</field>
-	<field name = "TITLE">U.S. PERSONAL INCOME ROSE 0.2 PCT IN MAY</field>
+	<field name = "titulo">U.S. PERSONAL INCOME ROSE 0.2 PCT IN MAY</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">U.S. personal income rose 0.2 pct, or
+	<field name = "content">U.S. personal income rose 0.2 pct, or
 7.9 billion dlrs, in May to a seasonally adjusted annual rate
 of 3,630.0 billion dlrs, the Commerce Department said.
     The increase followed a revised 0.4 pct rise in April. The

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 09:46:48.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3084reute
-r f BC-GE-GE>-GETS-250-MLN   06-18 0075</field>
-	<field name = "TITLE">GE GE> GETS 250 MLN DLR ENGINE ORDER</field>
+	<field name = "titulo">GE GE> GETS 250 MLN DLR ENGINE ORDER</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">General Electric Co said it has
+	<field name = "content">General Electric Co said it has
 received contracts worth 250 mln dlrs, including options, to
 supply its CF6-80C2 engines for the 747-400 and MD-11 airliners
 ordered from Boeing Co BA> and McDonnell Douglas Corp MD>

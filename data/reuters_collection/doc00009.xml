@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 15:18:06.67</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0767
-reute
-d f BC-COMPUTER-TERMINAL-SYS   02-26 0107</field>
-	<field name = "TITLE">COMPUTER TERMINAL SYSTEMS CPML> COMPLETES SALE</field>
+	<field name = "titulo">COMPUTER TERMINAL SYSTEMS CPML> COMPLETES SALE</field>
 	<field name = "DATELINE">COMMACK, N.Y., Feb 26 -</field>
-	<field name = "BODY">Computer Terminal Systems Inc said
+	<field name = "content">Computer Terminal Systems Inc said
 it has completed the sale of 200,000 shares of its common
 stock, and warrants to acquire an additional one mln shares, to
 Sedio N.V.> of Lugano, Switzerland for 50,000 dlrs.

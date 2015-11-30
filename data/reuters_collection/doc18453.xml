@@ -2,12 +2,9 @@
 	<field name = "DATE">16-JUN-1987 06:32:48.72</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">RM
-f0460reute
-u f BC-SWEDISH-INDUSTRIAL-PR   06-16 0068</field>
-	<field name = "TITLE">SWEDISH INDUSTRIAL PRODUCTION RISES IN APRIL</field>
+	<field name = "titulo">SWEDISH INDUSTRIAL PRODUCTION RISES IN APRIL</field>
 	<field name = "DATELINE">STOCKHOLM, June 16 -</field>
-	<field name = "BODY">Swedish industrial production rose 1.5
+	<field name = "content">Swedish industrial production rose 1.5
 pct in April after a 2.2 pct fall in March and a rise of 3.8
 pct in April 1986, according to preliminary figures from the
 Central Bureau of Statistics.

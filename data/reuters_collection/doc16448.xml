@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 12:36:32.12</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1762reute
-r f BC-DATAPRODUCTS-DPC>-TO   04-13 0110</field>
-	<field name = "TITLE">DATAPRODUCTS DPC> TO BUY IMAGING SOLUTIONS</field>
+	<field name = "titulo">DATAPRODUCTS DPC> TO BUY IMAGING SOLUTIONS</field>
 	<field name = "DATELINE">WOODLAND HILLS, Calif., April 13 -</field>
-	<field name = "BODY">Dataproducts Corp said
+	<field name = "content">Dataproducts Corp said
 it signed a letter of intent to acquire the Imaging Solutions
 Inc unit of Reliance Electric Co under undisclosed terms.
     This acquisition will give it all rights to proprietary

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 11:05:20.30</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM 
-f1311reute
-u f BC-EXERCISE-PRICE-SET-ON   06-29 0086</field>
-	<field name = "TITLE">EXERCISE PRICE SET ON NOKIA EQUITY WARRANT BOND</field>
+	<field name = "titulo">EXERCISE PRICE SET ON NOKIA EQUITY WARRANT BOND</field>
 	<field name = "DATELINE">LONDON, June 29 -</field>
-	<field name = "BODY">The exercise price for the warrants
+	<field name = "content">The exercise price for the warrants
 attached to the 100 mln dlr eurobond for Finland's Nokia Oy
 NOKS.HE> has been fixed, lead manager Morgan Guaranty Ltd
 said.

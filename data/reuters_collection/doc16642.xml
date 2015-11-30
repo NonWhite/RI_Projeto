@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 15:45:52.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2439reute
-r f BC-RULES-CHANGE-RAISES-C   04-13 0108</field>
-	<field name = "TITLE">RULES CHANGE RAISES CHRYSLER C> PENSION COSTS</field>
+	<field name = "titulo">RULES CHANGE RAISES CHRYSLER C> PENSION COSTS</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Chrysler Corp's pension expense is
+	<field name = "content">Chrysler Corp's pension expense is
 expected to increase by more than 50 pct this year due to new
 pension accounting standards, its annual report said.
     It said implementation of Statement of Financial Accounting

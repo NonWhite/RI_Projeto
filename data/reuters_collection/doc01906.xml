@@ -9,12 +9,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">south-korea</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">G C
-f0244reute
-u f BC-AUSTRALIAN-WHEAT-EXPO   03-05 0105</field>
-	<field name = "TITLE">AUSTRALIAN WHEAT EXPORTS RISE IN FEBRUARY</field>
+	<field name = "titulo">AUSTRALIAN WHEAT EXPORTS RISE IN FEBRUARY</field>
 	<field name = "DATELINE">MELBOURNE, March 5 -</field>
-	<field name = "BODY">Australian wheat shipments rose to
+	<field name = "content">Australian wheat shipments rose to
 1.33 mln tonnes in February from 1.01 mln in January, an
 Australian Wheat Board official said.
     February's shipments were down on the 1.54 mln tonnes

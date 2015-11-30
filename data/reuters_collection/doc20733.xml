@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 16:36:40.11</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3212reute
-d f BC-RESER'S-FINE-FOODS-I   10-20 0059</field>
-	<field name = "TITLE">RESER'S FINE FOODS INC> TO GO PRIVATE</field>
+	<field name = "titulo">RESER'S FINE FOODS INC> TO GO PRIVATE</field>
 	<field name = "DATELINE">PORTLAND, Ore., Oct 20 -</field>
-	<field name = "BODY">Reser's Fine Foods Inc said
+	<field name = "content">Reser's Fine Foods Inc said
 certain directors and officers, who currently represent about
 85 pct of the company's stock, plan to take Reser's private
 through a cash buyout.

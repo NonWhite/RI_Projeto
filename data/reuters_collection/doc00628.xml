@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:31:47.09</field>
-	<field name = "UNKNOWN">F
-f0525
-reute
-r f BC-FORD-F>-AIR-BAG-PROG   03-02 0117</field>
-	<field name = "TITLE">FORD F> AIR-BAG PROGRAM FLAGGING - REPORT</field>
+	<field name = "titulo">FORD F> AIR-BAG PROGRAM FLAGGING - REPORT</field>
 	<field name = "DATELINE">DETROIT, March 2 -</field>
-	<field name = "BODY">Ford Motor Co's program to introduce
+	<field name = "content">Ford Motor Co's program to introduce
 air-bags in its compact cars is facing widespread resistance
 from both consumers and dealers, a trade paper said.
     As of February 20, Automotive News said Ford dealers had

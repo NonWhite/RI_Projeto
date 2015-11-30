@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:33:49.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f0726reute
-b f BC-TREASURY'S-MULFORD-BA   03-03 0098</field>
-	<field name = "TITLE">TREASURY'S MULFORD BACKS DEBT CONVERSIONS</field>
+	<field name = "titulo">TREASURY'S MULFORD BACKS DEBT CONVERSIONS</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">Assistant Treasury Secretary David
+	<field name = "content">Assistant Treasury Secretary David
 Mulford said he prefers debt conversion plans to help heavily
 indebted countries over quick-fix political plans to help ease
 their debt burden.

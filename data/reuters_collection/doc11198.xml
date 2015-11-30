@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 04:20:23.93</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0294reute
-u f BC-SPANISH-AIRLINES-CRIP   03-31 0106</field>
-	<field name = "TITLE">SPANISH AIRLINES CRIPPLED BY GROUND STAFF STRIKE</field>
+	<field name = "titulo">SPANISH AIRLINES CRIPPLED BY GROUND STAFF STRIKE</field>
 	<field name = "DATELINE">MADRID, March 31 -</field>
-	<field name = "BODY">About 40,000 passengers were stranded as
+	<field name = "content">About 40,000 passengers were stranded as
 Spanish airlines ground staff staged their second 24-hour
 strike for wage rises in five days, the airlines spokesmen
 said.

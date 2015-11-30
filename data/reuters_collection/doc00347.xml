@@ -7,13 +7,9 @@
 	<field name = "PEOPLE">volcker</field>
 	<field name = "PEOPLE">camdessus</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">A
-f0146
-reute
-r f BC-ARGENTINE-DEBT-NEGOTI   03-02 0110</field>
-	<field name = "TITLE">ARGENTINE DEBT NEGOTIATOR CONFIDENT OF ACCORD</field>
+	<field name = "titulo">ARGENTINE DEBT NEGOTIATOR CONFIDENT OF ACCORD</field>
 	<field name = "DATELINE">BUENOS AIRES, March 2 -</field>
-	<field name = "BODY">Argentina's chief debt negotiator
+	<field name = "content">Argentina's chief debt negotiator
 said he was confident of a prompt accord with international
 creditor banks for rescheduling the country's foreign debt.
     "I'm quite optimistic about carrying out a serious and

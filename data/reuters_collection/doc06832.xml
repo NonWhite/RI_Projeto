@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 16:38:44.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9474reute
-u f BC-LITTON-LIT>-UNIT-GET   03-18 0074</field>
-	<field name = "TITLE">LITTON LIT> UNIT GETS 164.2 MLN DLR CONTRACT</field>
+	<field name = "titulo">LITTON LIT> UNIT GETS 164.2 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">Litton Industries' Applied
+	<field name = "content">Litton Industries' Applied
 Technology Division is being awarded a 164.2 mln dlr Navy
 contract for aircraft radar warning receivers for the U.S.
 Navy, Australia and Spain, the Defense Department said.

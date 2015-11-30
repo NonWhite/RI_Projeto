@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 16:50:05.23</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2627reute
-r f BC-JACOR-JCOR>-TO-BUY-T   04-09 0059</field>
-	<field name = "TITLE">JACOR JCOR> TO BUY TWO DENVER RADIO STATIONS</field>
+	<field name = "titulo">JACOR JCOR> TO BUY TWO DENVER RADIO STATIONS</field>
 	<field name = "DATELINE">CINCINNATI, April 9 -</field>
-	<field name = "BODY">Jacor Communications Inc said it
+	<field name = "content">Jacor Communications Inc said it
 agreed to buy two Denver radio stations from A.H. Belo Corp
 BLC> for 24 mln dlrs in cash and notes.
     Jacor said the two stations are KOA-AM and KOAQ-FM.

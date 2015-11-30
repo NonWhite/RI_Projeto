@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:44:43.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1875reute
-u f BC-UAW-STRIKES-GENERAL-M   03-26 0097</field>
-	<field name = "TITLE">UAW STRIKES GENERAL MOTORS GM> PLANT</field>
+	<field name = "titulo">UAW STRIKES GENERAL MOTORS GM> PLANT</field>
 	<field name = "DATELINE">PONTIAC, Mich., March 26 -</field>
-	<field name = "BODY">The United Auto Workers struck
+	<field name = "content">The United Auto Workers struck
 General Motors Corp's truck and bus plants at Pontiac, Mich,
 General Motors said.
     General Motors' truck and bus group failed to reach an

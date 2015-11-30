@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 13:32:01.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0351reute
-d f BC-COMMONWEALTH-REALTY-   03-03 0126</field>
-	<field name = "TITLE">COMMONWEALTH REALTY CRTYZ> IN REFINANCING DEAL</field>
+	<field name = "titulo">COMMONWEALTH REALTY CRTYZ> IN REFINANCING DEAL</field>
 	<field name = "DATELINE">PRINCETON, N.J., March 3 -</field>
-	<field name = "BODY">Commonwealth Realty Trust said
+	<field name = "content">Commonwealth Realty Trust said
 it has transferred its ownership of six buildings at the Valley
 Forge Executive Mall in Valley Forge, Pa., to an equally-owned
 joint venture with Pennsylvania Public School Employees'

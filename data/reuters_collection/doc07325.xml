@@ -4,13 +4,10 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f2020reute
-b f BC-/U.S.-GRAIN-TRADE-CAL   03-19 0140</field>
-	<field name = "TITLE">U.S. GRAIN TRADE CALLS SHULTZ REMARK SIGNIFICANT</field>
+	<field name = "titulo">U.S. GRAIN TRADE CALLS SHULTZ REMARK SIGNIFICANT</field>
 	<field name = "AUTHOR">by Maggie McNeil, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">A statement yesterday by Secretary
+	<field name = "content">A statement yesterday by Secretary
 of State George Shultz after he met with wheat growers that
 U.S. agricultural products must be competitively priced was
 significant in that he recognized the importance of the Soviet

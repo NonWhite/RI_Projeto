@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 02:30:02.28</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0078reute
-b f BC-SWISS-FEBRUARY-TRADE   03-13 0058</field>
-	<field name = "TITLE">SWISS FEBRUARY TRADE DEFICIT 629.7 MLN FRANCS</field>
+	<field name = "titulo">SWISS FEBRUARY TRADE DEFICIT 629.7 MLN FRANCS</field>
 	<field name = "DATELINE">BERNE, March 13 -</field>
-	<field name = "BODY">Switzerland had a trade deficit of 629.7
+	<field name = "content">Switzerland had a trade deficit of 629.7
 mln Swiss francs in February compared with a revised 209.4 mln
 deficit in January and 723.2 mln shortfall in February 1986,
 the Federal Customs Office said.

@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F
-f0198reute
-r f BC-BELGIAN-SAYS-EC-WOULD   03-03 0105</field>
-	<field name = "TITLE">BELGIAN SAYS EC WOULD REACT TO TEXTILE BILL</field>
+	<field name = "titulo">BELGIAN SAYS EC WOULD REACT TO TEXTILE BILL</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">Belgian Foreign Trade Minister Herman
+	<field name = "content">Belgian Foreign Trade Minister Herman
 De Croo said if Congress passed legislation curbing world
 textile imports the only way the European Community (EC) could
 react was to retaliate.

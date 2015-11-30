@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f0430reute
-b f BC-HAWKER-SIDDELEY-OFFER   03-06 0062</field>
-	<field name = "TITLE">HAWKER SIDDELEY OFFER FOR CLAROSTAT CLR> ENDS</field>
+	<field name = "titulo">HAWKER SIDDELEY OFFER FOR CLAROSTAT CLR> ENDS</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Hawker Siddeley Group PLC>'s offer of
+	<field name = "content">Hawker Siddeley Group PLC>'s offer of
 74 dlrs a share for all of Clarostat Mfg Co Inc's stock was
 scheduled to expire at 2400 EST yesterday.
     Company officials were unavailable for comment as to why

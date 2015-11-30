@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 14:49:02.51</field>
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">G
-f2151reute
-r f BC-ARGENTINE-VEGETABLE-O   04-01 0088</field>
-	<field name = "TITLE">ARGENTINE VEGETABLE OIL SHIPMENTS IN 1986</field>
+	<field name = "titulo">ARGENTINE VEGETABLE OIL SHIPMENTS IN 1986</field>
 	<field name = "DATELINE">BUENOS AIRES, Apr 1 -</field>
-	<field name = "BODY">Argentine vegetable oils shipments
+	<field name = "content">Argentine vegetable oils shipments
 during January/December 1986 totalled 1,796,121 tonnes, against
 1,577,722 tonnes in the same period of 1985, the Argentine
 Grain Board said.

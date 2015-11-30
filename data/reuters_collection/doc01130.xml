@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">sorghum</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f0889reute
-b f BC-/U.S.-SETS-CORN-DEFIC   03-03 0114</field>
-	<field name = "TITLE">U.S. SETS CORN DEFICIENCY PAYMENT HALF PIK CERTS</field>
+	<field name = "titulo">U.S. SETS CORN DEFICIENCY PAYMENT HALF PIK CERTS</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">The upcoming five-month deficiency
+	<field name = "content">The upcoming five-month deficiency
 payments to corn and sorghum farmers will be made half in cash
 and half in generic commodity certificates, a senior
 Agriculture Department official told Reuters.

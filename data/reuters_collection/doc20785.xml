@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 17:45:11.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3453reute
-h f BC-CITYFED-FINANCIAL-CT   10-20 0108</field>
-	<field name = "TITLE">CITYFED FINANCIAL CTYF.O> ENDS STOCK ISSUE</field>
+	<field name = "titulo">CITYFED FINANCIAL CTYF.O> ENDS STOCK ISSUE</field>
 	<field name = "DATELINE">PALM BEACH, Fla., Oct 20 -</field>
-	<field name = "BODY">CityFed Financial Corp said it
+	<field name = "content">CityFed Financial Corp said it
 would stop issuing common stock to a variety of shareholder and
 employee groups.
     The company, which said on Monday it will repurchase up to

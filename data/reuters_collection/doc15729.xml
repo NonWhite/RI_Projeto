@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 12:30:13.79</field>
 	<field name = "PLACES">israel</field>
 	<field name = "PLACES">lebanon</field>
-	<field name = "UNKNOWN">C G L M T
-f1666reute
-u f AM-LEBANON-ISRAEL *'*'*'  04-09 0132</field>
-	<field name = "TITLE">ISRAEL IN NINTH AIR RAID OVER LEBANON THIS YEAR</field>
+	<field name = "titulo">ISRAEL IN NINTH AIR RAID OVER LEBANON THIS YEAR</field>
 	<field name = "DATELINE">TEL AVIV, April 9 -</field>
-	<field name = "BODY">Israeli helicopter gunships attacked
+	<field name = "content">Israeli helicopter gunships attacked
 Palestinian guerrilla positions near Sidon in southern Lebanon
 today in the ninth air raid over Lebanon this year, the
 military spokesman said.

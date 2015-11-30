@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 15:58:47.73</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f0910
-reute
-u f BC-gulf-grain-barge-frgt   02-26 0117</field>
-	<field name = "TITLE">GULF BARGE FREIGHT RATES UP FURTHER ON CALL</field>
+	<field name = "titulo">GULF BARGE FREIGHT RATES UP FURTHER ON CALL</field>
 	<field name = "DATELINE">ST LOUIS, Feb 26 -</field>
-	<field name = "BODY">Gulf barge freight rates firmed again on
+	<field name = "content">Gulf barge freight rates firmed again on
 the outlook for steady vessel loadings at the Gulf, increasing
 the demand for barges to supply those ships, dealers said.
     No barges traded today on the St Louis Merchants' Exchange

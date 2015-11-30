@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 10:48:54.14</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8153reute
-r f BC-EXOVIR-XOVR>-SELLS-S   03-18 0085</field>
-	<field name = "TITLE">EXOVIR XOVR> SELLS STOCK FOR 2.8 MLN DLRS</field>
+	<field name = "titulo">EXOVIR XOVR> SELLS STOCK FOR 2.8 MLN DLRS</field>
 	<field name = "DATELINE">GREAT NECK, N.Y., March 18 -</field>
-	<field name = "BODY">Exovir Inc said it sold to an
+	<field name = "content">Exovir Inc said it sold to an
 investor group led by Mark Hammer 200,000 shares of company
 common stock and warrants to purchase an additional 200,000
 shares.

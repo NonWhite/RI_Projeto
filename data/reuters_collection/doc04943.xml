@@ -5,13 +5,10 @@
 	<field name = "TOPICS">ipi</field>
 	<field name = "TOPICS">wpi</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0996reute
-u f BC-/FED-SEEN-CONTENT-WIT   03-13 0101</field>
-	<field name = "TITLE">FED SEEN CONTENT WITH U.S. FEBRUARY ECONOMY</field>
+	<field name = "titulo">FED SEEN CONTENT WITH U.S. FEBRUARY ECONOMY</field>
 	<field name = "AUTHOR">By Kathleen Hays, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">U.S. February reports reflecting slim
+	<field name = "content">U.S. February reports reflecting slim
 gains in industrial output and moderating inflation pressures
 reinforced expectations that the Federal Reserve will continue
 to follow a stable course of monetary policy, economists said.

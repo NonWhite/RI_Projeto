@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 04:55:45.45</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
-	<field name = "UNKNOWN">RM
-f7220reute
-b f BC-U.K.-MONEY-MARKET-OFF   03-18 0107</field>
-	<field name = "TITLE">U.K. MONEY MARKET OFFERED EARLY ASSISTANCE</field>
+	<field name = "titulo">U.K. MONEY MARKET OFFERED EARLY ASSISTANCE</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">The Bank of England said it had invited
+	<field name = "content">The Bank of England said it had invited
 an early round of bill offers from the discount houses after
 forecasting a shortage in the system of around 1.1 billion stg.
     Money market dealers speculated that the central bank could

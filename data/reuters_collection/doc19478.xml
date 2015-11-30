@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 18:33:27.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2592reute
-r f BC-CONDOM-RECALLS-RISE-D   06-19 0104</field>
-	<field name = "TITLE">CONDOM RECALLS RISE DUE TO FDA TESTING</field>
+	<field name = "titulo">CONDOM RECALLS RISE DUE TO FDA TESTING</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">The Food and Drug Administration said
+	<field name = "content">The Food and Drug Administration said
 stepped up testing of condoms by the agency has led to a three
 recalls by U.S. manufacturers and the detention of foreign-made
 condoms at U.S. borders.

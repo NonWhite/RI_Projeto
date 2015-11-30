@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 15:38:33.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2167reute
-r f BC-NISSAN-U.S.-CAR-SALES   04-03 0094</field>
-	<field name = "TITLE">NISSAN U.S. CAR SALES RISE IN LATE MARCH</field>
+	<field name = "titulo">NISSAN U.S. CAR SALES RISE IN LATE MARCH</field>
 	<field name = "DATELINE">CARSON, CALIF., April 3 -</field>
-	<field name = "BODY">Nissan Motor Corp in USA, a unit
+	<field name = "content">Nissan Motor Corp in USA, a unit
 of Nissan Motor Co Ltd, said its domestic car sales for the
 March 21-31 period rose 82.8 pct to 4,635 from 2,536 a year
 ago.

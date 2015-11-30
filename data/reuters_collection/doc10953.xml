@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 13:34:49.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2034reute
-r f BC-CENTRAL/SOUTH-WEST-C   03-30 0110</field>
-	<field name = "TITLE">CENTRAL/SOUTH WEST CSR> UNIT OFFERS PREFERRED</field>
+	<field name = "titulo">CENTRAL/SOUTH WEST CSR> UNIT OFFERS PREFERRED</field>
 	<field name = "DATELINE">DALLAS, March 30 -</field>
-	<field name = "BODY">Central and South West Corp said its
+	<field name = "content">Central and South West Corp said its
 Southwestern Electric Power Co subsidiary has sold at
 competitive bidding to underwriters 40 mln dlrs of 6.95 pct
 sinking fund preferred stock.

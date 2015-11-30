@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 17:06:35.88</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">egypt</field>
-	<field name = "UNKNOWN">E
-f2664reute
-u f BC-AIR-CANADA-SETS-SERVI   04-13 0103</field>
-	<field name = "TITLE">AIR CANADA SETS SERVICE TO EGYPT</field>
+	<field name = "titulo">AIR CANADA SETS SERVICE TO EGYPT</field>
 	<field name = "DATELINE">MONTREAL, April 13 -</field>
-	<field name = "BODY">Air Canada, the state-owned airline,
+	<field name = "content">Air Canada, the state-owned airline,
 said it plans to begin flights to Egypt next year following a
 bilateral air trade agreement signed between the Egyptian and
 Canadian governments.

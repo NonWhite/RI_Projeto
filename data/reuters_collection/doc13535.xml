@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:23:12.53</field>
-	<field name = "UNKNOWN">C M F
-f0438reute
-b f BC-LME-METAL-AM-1ST-RING   04-07 0072</field>
-	<field name = "TITLE">LME METAL AM 1ST RING VOLUMES/PAIDS - APR 7</field>
+	<field name = "titulo">LME METAL AM 1ST RING VOLUMES/PAIDS - APR 7</field>
 	<field name = "DATELINE">COPPER GRADE A -</field>
-	<field name = "BODY">2650 tonnes mainly carries cash nil
+	<field name = "content">2650 tonnes mainly carries cash nil
 3months 880.00  STANDARD - Nil
     LEAD - 1550 tonnes mainly carries cash nil 3months 299.50
 300.00

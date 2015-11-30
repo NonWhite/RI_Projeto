@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 12:31:01.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5721reute
-r f BC-TEXAS-EASTERN-TET>-P   03-17 0085</field>
-	<field name = "TITLE">TEXAS EASTERN TET> PLEDGES PCB CLEANUP</field>
+	<field name = "titulo">TEXAS EASTERN TET> PLEDGES PCB CLEANUP</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Texas Eastern Corp's Texas Eastern
+	<field name = "content">Texas Eastern Corp's Texas Eastern
 Gas Pipleline unit President Howard C. Homeyer said the company
 is committed to cleaning up polychlorinated biphyenyls PCBs
 from its pipeline system.

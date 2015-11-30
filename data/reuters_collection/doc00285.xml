@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 03:44:22.83</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">RM
-f0721
-reute
-u f BC-SHULTZ-VISIT-TO-MOSCO   03-02 0106</field>
-	<field name = "TITLE">SHULTZ VISIT TO MOSCOW POSSIBLE, SAY SOVIETS</field>
+	<field name = "titulo">SHULTZ VISIT TO MOSCOW POSSIBLE, SAY SOVIETS</field>
 	<field name = "DATELINE">MOSCOW, March 2 -</field>
-	<field name = "BODY">A senior Soviet official said a visit to
+	<field name = "content">A senior Soviet official said a visit to
 Moscow by U.S. Secretary of State George Shultz for arms
 discussions was under consideration.
     Deputy Foreign Minister Alexander Bessmertnykh told a news

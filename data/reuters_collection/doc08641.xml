@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 05:50:32.26</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0393reute
-b f BC-SKANDINAVISKA-ENSKILD   03-24 0087</field>
-	<field name = "TITLE">SKANDINAVISKA ENSKILDA ISSUES YEN BONDS</field>
+	<field name = "titulo">SKANDINAVISKA ENSKILDA ISSUES YEN BONDS</field>
 	<field name = "DATELINE">LONDON, March 24 -</field>
-	<field name = "BODY">Skandinaviska Enskilda Banken is issuing
+	<field name = "content">Skandinaviska Enskilda Banken is issuing
 a 10 billion yen bond due October 23, 1992 carrying a coupon of
 4-1/2 pct and priced at 101-3/8, lead manager Daiwa Securities
 International (Europe) Ltd said.

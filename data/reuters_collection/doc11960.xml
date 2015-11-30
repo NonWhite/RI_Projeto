@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:35:33.37</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1123reute
-u f BC-lard-consumption   04-01 0107</field>
-	<field name = "TITLE">U.S. LARD CONSUMPTION IN FEBRUARY</field>
+	<field name = "titulo">U.S. LARD CONSUMPTION IN FEBRUARY</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">U.S. factory usage of lard in the
+	<field name = "content">U.S. factory usage of lard in the
 production of both edible and inedible products during February
 totaled 22.0 mln lbs, vs a revised 20.2 mln lbs in January,
 according to Census Bureau figures.

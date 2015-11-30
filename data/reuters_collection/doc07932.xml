@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 15:21:53.15</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f2221reute
-u f BC-BANKS-HAD-EXCESS-POSI   03-20 0090</field>
-	<field name = "TITLE">BANKS HAD EXCESS POSITIONS WITH VW - NEWSLETTER</field>
+	<field name = "titulo">BANKS HAD EXCESS POSITIONS WITH VW - NEWSLETTER</field>
 	<field name = "DATELINE">FRANKFURT, March 20 -</field>
-	<field name = "BODY">A financial newsletter which reported
+	<field name = "content">A financial newsletter which reported
 last November that car maker Volkswagen AG VOWG.F> lost large
 sums in currency transactions alleged that unnamed banks had
 circumvented banking regulations with help from VW's foreign

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:13:13.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0219reute
-d f BC-EQUATORIAL-EQUA>-SIG   03-05 0094</field>
-	<field name = "TITLE">EQUATORIAL EQUA> SIGNS PACT WITH CONTEL UNIT</field>
+	<field name = "titulo">EQUATORIAL EQUA> SIGNS PACT WITH CONTEL UNIT</field>
 	<field name = "DATELINE">MOUNTAIN VIEW, Calif., March 5 -</field>
-	<field name = "BODY">Equatorial Communications
+	<field name = "content">Equatorial Communications
 Co, a satellite data network concern, said it has signed an
 agreement with Contel Corp's CTC>, Contel ASC, unit allowing
 Contel ASC to buy 3.6 mln shares of Equatorial stock at 3.25

@@ -5,12 +5,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T
-f0744reute
-r f BC-EC-SOURCES-DETAIL-NEW   03-04 0092</field>
-	<field name = "TITLE">EC SOURCES DETAIL NEW FARM SOCIAL PACKAGE</field>
+	<field name = "titulo">EC SOURCES DETAIL NEW FARM SOCIAL PACKAGE</field>
 	<field name = "DATELINE">BRUSSELS, March 4 -</field>
-	<field name = "BODY">The 350 mln Ecu three-year package of
+	<field name = "content">The 350 mln Ecu three-year package of
 social and structural measures agreed early today by European
 Community farm ministers features a plan to compensate farmers
 for reducing output of certain surplus products, EC Commission

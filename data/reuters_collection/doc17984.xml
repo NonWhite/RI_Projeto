@@ -1,8 +1,5 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 09:33:33.49</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f0930reute
-b f BC-NYSE-TO-DELIST-WEDTEC   06-02 0008</field>
-	<field name = "TITLE">NYSE TO DELIST WEDTECH CORP sTOCK, DEBENTURES</field>
+	<field name = "titulo">NYSE TO DELIST WEDTECH CORP sTOCK, DEBENTURES</field>
 </doc></add>

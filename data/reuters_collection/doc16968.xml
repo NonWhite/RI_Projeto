@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 08:25:17.75</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0680reute
-b f BC-SWISS-SIGHT-DEPOSITS   04-21 0114</field>
-	<field name = "TITLE">SWISS SIGHT DEPOSITS FALL BY 416.9 MLN FRANCS</field>
+	<field name = "titulo">SWISS SIGHT DEPOSITS FALL BY 416.9 MLN FRANCS</field>
 	<field name = "DATELINE">ZURICH, April 21 -</field>
-	<field name = "BODY">Sight deposits of commercial banks at
+	<field name = "content">Sight deposits of commercial banks at
 the Swiss National Bank fell by 416.9 mln Swiss francs to 7.46
 billion in the six days ending April 16, the National Bank
 said.

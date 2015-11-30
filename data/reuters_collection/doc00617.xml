@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:25:30.76</field>
-	<field name = "UNKNOWN">F A RM
-f0503
-reute
-r f BC-NAVISTAR-NAV>-DEBT-U   03-02 0109</field>
-	<field name = "TITLE">NAVISTAR NAV> DEBT UPGRADED BY S/P</field>
+	<field name = "titulo">NAVISTAR NAV> DEBT UPGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 upgraded 500 mln dlrs of debt of Navistar International Corp
 and its unit Navistar Financial Corp.
     Raised were the companies' senior debt to BB from B and

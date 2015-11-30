@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 14:47:02.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2257reute
-r f BC-BURLINGTON-BUR>-FILE   03-31 0112</field>
-	<field name = "TITLE">BURLINGTON BUR> FILES TWO DEBT OFFERINGS</field>
+	<field name = "titulo">BURLINGTON BUR> FILES TWO DEBT OFFERINGS</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Burlington Industries Inc said it
+	<field name = "content">Burlington Industries Inc said it
 filed with the Securities and Exchange Commission registration
 statements covering two offerings of debt securities.
     One issue will be 100 mln dlrs of sinking fund debentures

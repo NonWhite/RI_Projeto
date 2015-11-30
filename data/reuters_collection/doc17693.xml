@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 14:01:31.21</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1972reute
-u f BC-HICKS/HAAS-GROUP-HAS   06-01 0091</field>
-	<field name = "TITLE">HICKS/HAAS GROUP HAS SPECTRADYNE SPDY.O> FUNDS</field>
+	<field name = "titulo">HICKS/HAAS GROUP HAS SPECTRADYNE SPDY.O> FUNDS</field>
 	<field name = "DATELINE">DALLAS, June 1 -</field>
-	<field name = "BODY">SPI Holding Inc, a group consisting of
+	<field name = "content">SPI Holding Inc, a group consisting of
 Hicks and Haas and Acadia Partners LP, said it has received
 commitments for the senior bank financing needed to complete
 its proposed acquisition of Spectradyne Inc for 46 dlrs a share

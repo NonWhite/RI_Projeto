@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:45:27.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1218reute
-r f BC-BLOCKER-ENERGY-BLK>   04-08 0065</field>
-	<field name = "TITLE">BLOCKER ENERGY BLK> SHARE OFFERING UNDERWAY</field>
+	<field name = "titulo">BLOCKER ENERGY BLK> SHARE OFFERING UNDERWAY</field>
 	<field name = "DATELINE">HOUSTON, April 8 -</field>
-	<field name = "BODY">Blocker Energy corp said an offering of
+	<field name = "content">Blocker Energy corp said an offering of
 20 mln common shares is underway at 2.625 dlrs per share
 through underwriters led by Drexel Burnham Lambert Inc> and
 Alex. Brown and Sons Inc ABSB>.

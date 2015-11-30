@@ -5,12 +5,9 @@
 	<field name = "PLACES">china</field>
 	<field name = "PEOPLE">yeutter</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">F
-f0895reute
-h f BC-TRADE   03-04 0089</field>
-	<field name = "TITLE">YEUTTER PLANS TRADE TRIP TO CHINA THIS SUMMER</field>
+	<field name = "titulo">YEUTTER PLANS TRADE TRIP TO CHINA THIS SUMMER</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">U.S. Trade Representative Clayton
+	<field name = "content">U.S. Trade Representative Clayton
 Yeutter said he plans a July trip to China to discuss trade
 issues including China's admission to the General Agreements on
 Tariffs and Trade.

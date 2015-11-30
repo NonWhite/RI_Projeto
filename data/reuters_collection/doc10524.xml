@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:11:18.16RM</field>
-	<field name = "UNKNOWN">f1539reute</field>
 	<field name = "PLACES">nigeria</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">u f BC-NIGERIA,-FRANCE-TO-RE   03-27 0104</field>
-	<field name = "TITLE">NIGERIA, FRANCE TO RESCHEDULE OFFICIAL DEBT</field>
+	<field name = "titulo">NIGERIA, FRANCE TO RESCHEDULE OFFICIAL DEBT</field>
 	<field name = "DATELINE">PARIS, March 27 -</field>
-	<field name = "BODY">Nigeria and France have signed a
+	<field name = "content">Nigeria and France have signed a
 bilateral agreement to reschedule Nigeria's
 official debt to France, government sources said.
     The accord was signed here yesterday by Nigerian Finance

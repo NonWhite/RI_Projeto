@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 03:55:27.59</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0247reute
-b f BC-SMITH-AND-NEPHEW-ISSU   03-31 0115</field>
-	<field name = "TITLE">SMITH AND NEPHEW ISSUES CONVERTIBLE EUROBOND</field>
+	<field name = "titulo">SMITH AND NEPHEW ISSUES CONVERTIBLE EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">Smith and Nephew Associated Companies
+	<field name = "content">Smith and Nephew Associated Companies
 Plc is issuing an 85 mln stg convertible eurobond due May 7,
 2002 paying a fixed coupon of four pct and priced at par, lead
 manager Credit Suisse First Boston Ltd said.

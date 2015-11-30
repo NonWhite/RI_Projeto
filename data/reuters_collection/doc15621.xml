@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:09:18.65</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f1268reute
-b f BC-CREDIT-NATIONAL-ISSUE   04-09 0103</field>
-	<field name = "TITLE">CREDIT NATIONAL ISSUES BILLION FRANC CONVERTIBLE</field>
+	<field name = "titulo">CREDIT NATIONAL ISSUES BILLION FRANC CONVERTIBLE</field>
 	<field name = "DATELINE">PARIS, April 9 -</field>
-	<field name = "BODY">Credit National is issuing a one billion
+	<field name = "content">Credit National is issuing a one billion
 franc convertible bond issue in two tranches both paying 8.50
 pct and in 5,000 franc units, lead managers Caisse Nationale de
 Credit Agricole, Union de Garantie et de Placement and Morgan

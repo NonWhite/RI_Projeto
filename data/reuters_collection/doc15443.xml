@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0513reute
-u f BC-GERMAN-MONEY-MARKET-S   04-09 0120</field>
-	<field name = "TITLE">GERMAN MONEY MARKET SPLIT ON LOWER RATE PROSPECTS</field>
+	<field name = "titulo">GERMAN MONEY MARKET SPLIT ON LOWER RATE PROSPECTS</field>
 	<field name = "DATELINE">FRANKFURT, April 9 -</field>
-	<field name = "BODY">Remarks by central bankers raised some
+	<field name = "content">Remarks by central bankers raised some
 hopes the Bundesbank will cut rates on securities repurchase
 pacts, but operators remained divided on the likelihood of a
 move in the near term, money market dealers said.

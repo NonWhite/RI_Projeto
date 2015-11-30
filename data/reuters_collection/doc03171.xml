@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 11:56:26.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0690reute
-d f BC-LIFE-TECHNOLOGIES-LT   03-09 0097</field>
-	<field name = "TITLE">LIFE TECHNOLOGIES LTEK> IN LICENSING AGREEMENT</field>
+	<field name = "titulo">LIFE TECHNOLOGIES LTEK> IN LICENSING AGREEMENT</field>
 	<field name = "DATELINE">GAITHERSBURG, Md., March 9 -</field>
-	<field name = "BODY">Life Technologies Inc said it
+	<field name = "content">Life Technologies Inc said it
 signed a two mln dlr technology transfer and licensing
 agreement with Toray Industries Inc, a Tokyo-based maker of 
 synthetic fibers and industrial, consumer and medical products.

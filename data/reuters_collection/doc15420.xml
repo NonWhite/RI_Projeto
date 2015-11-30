@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 07:03:11.64</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0406reute
-u f BC-LEX-SERVICE-BUYS-SEAR   04-09 0113</field>
-	<field name = "TITLE">LEX SERVICE BUYS SEARS MOTOR GROUP</field>
+	<field name = "titulo">LEX SERVICE BUYS SEARS MOTOR GROUP</field>
 	<field name = "DATELINE">c    LONDON, April 9 -</field>
-	<field name = "BODY">Lex Service Plc LEXL.L> said it had
+	<field name = "content">Lex Service Plc LEXL.L> said it had
 acquired Sears Motor Group Ltd>, the retail motor distribution
 arm of Sears Plc  SEHL.L>, and an 11.9 mln stg loan note
 payable by Sears Motor for 33.4 mln stg.

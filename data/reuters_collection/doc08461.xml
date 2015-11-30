@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 14:51:17.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2123reute
-d f BC-SONORA-GOLD-SONNF>-G   03-23 0115</field>
-	<field name = "TITLE">SONORA GOLD SONNF> GETS CALIFORNIA EXEMPTION</field>
+	<field name = "titulo">SONORA GOLD SONNF> GETS CALIFORNIA EXEMPTION</field>
 	<field name = "DATELINE">JAMESTOWN, CALIF., March 23 -</field>
-	<field name = "BODY">Sonora Gold Corp said it was
+	<field name = "content">Sonora Gold Corp said it was
 advised by a California agency that the company's common shares
 can be solicited for trading by brokers in the state.
     The California Department of Corporations said Sonora

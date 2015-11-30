@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">C G L M T
-f0758reute
-u f BC-PETROBRAS-CANCELS-40   03-12 0123</field>
-	<field name = "TITLE">BRAZIL CANCELS OIL PURCHASE FROM SAUDI ARABIA</field>
+	<field name = "titulo">BRAZIL CANCELS OIL PURCHASE FROM SAUDI ARABIA</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 12 -</field>
-	<field name = "BODY">Brazil's state-oil company,
+	<field name = "content">Brazil's state-oil company,
 Petrobras, cancelled a 40 mln dlr crude oil purchase from Saudi
 Arabia after the Saudis refused to accept credit guarantees
 from the Bank of Brazil, a Petrobras official said.

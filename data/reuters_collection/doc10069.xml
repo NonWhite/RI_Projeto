@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 13:59:46.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f2122reute
-d f BC-HOUSE-MEMBERS-URGE-RE   03-26 0127</field>
-	<field name = "TITLE">CFTC URGED TO STRENGTHEN FOREIGN FUTURES RULES</field>
+	<field name = "titulo">CFTC URGED TO STRENGTHEN FOREIGN FUTURES RULES</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">Several U.S. House members urged
+	<field name = "content">Several U.S. House members urged
 the Commodity Futures Trading Commission, CFTC, to strengthen
 its proposed rules governing the sale of foreign futures and
 options in the U.S.

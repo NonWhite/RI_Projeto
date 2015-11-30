@@ -3,12 +3,9 @@
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "ORGS">unctad</field>
-	<field name = "UNKNOWN">M C
-f0083reute
-u f BC-COPPER-MEETING-AGREES   03-06 0091</field>
-	<field name = "TITLE">COPPER MEETING AGREES GOALS OF STUDY GROUP</field>
+	<field name = "titulo">COPPER MEETING AGREES GOALS OF STUDY GROUP</field>
 	<field name = "DATELINE">GENEVA, March 6 -</field>
-	<field name = "BODY">The world's major copper producing and
+	<field name = "content">The world's major copper producing and
 consuming countries have reached "a degree of consensus" on
 objectives and functions of a future study group aimed at
 reviewing the world copper market, officials said.

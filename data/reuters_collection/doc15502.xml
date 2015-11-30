@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 09:18:22.11</field>
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C G L M T
-f0796reute
-u f BC-JAPAN-BUSINESS-LEADER   04-09 0128</field>
-	<field name = "TITLE">JAPAN BUSINESS LEADERS SAY G-7 ACCORD WORRYING</field>
+	<field name = "titulo">JAPAN BUSINESS LEADERS SAY G-7 ACCORD WORRYING</field>
 	<field name = "DATELINE">TOKYO, April 9 -</field>
-	<field name = "BODY">The leaders of two of Japan's top business
+	<field name = "content">The leaders of two of Japan's top business
 groups said in separate statements the Group of Seven (G-7)
 accord reached in Washington yesterday is of deep concern to
 Japan because it shows the major industrial nations regard the

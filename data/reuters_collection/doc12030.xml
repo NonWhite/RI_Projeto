@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 11:34:12.41</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1418reute
-r f BC-AMERICAN-OIL-AND-GAS   04-01 0049</field>
-	<field name = "TITLE">AMERICAN OIL AND GAS CORP AOG> 4TH QTR LOSS</field>
+	<field name = "titulo">AMERICAN OIL AND GAS CORP AOG> 4TH QTR LOSS</field>
 	<field name = "DATELINE">HOUSTON, April 1 -</field>
-	<field name = "BODY">Shr loss 34 cts vs loss 2.14 dlrs
+	<field name = "content">Shr loss 34 cts vs loss 2.14 dlrs
     Net loss 2,275,000 vs loss 9,560,000
     Revs 17.0 mln vs 19.9 mln
     Year

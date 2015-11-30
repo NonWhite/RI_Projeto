@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 10:55:13.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1166reute
-r f BC-FEDERAL-PAPER-BOARD-   03-19 0103</field>
-	<field name = "TITLE">FEDERAL PAPER BOARD FBO> TO SELL PREFERRED</field>
+	<field name = "titulo">FEDERAL PAPER BOARD FBO> TO SELL PREFERRED</field>
 	<field name = "DATELINE">MONTVALE, N.J., March 19 -</field>
-	<field name = "BODY">Federal Paper Board Co Inc said
+	<field name = "content">Federal Paper Board Co Inc said
 it has filed for an offering of 140 mln dlrs of cumulative
 convertible preferred stock, or 2,800,000 shares with a
 liquidation preference of 50 dlrs each, through underwriters

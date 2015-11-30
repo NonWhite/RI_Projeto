@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:26:43.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0566reute
-h f BC-WISCONSIN-PUBLIC-SERV   03-11 0095</field>
-	<field name = "TITLE">WISCONSIN PUBLIC SERVICE WPS> RAISES BUDGET</field>
+	<field name = "titulo">WISCONSIN PUBLIC SERVICE WPS> RAISES BUDGET</field>
 	<field name = "DATELINE">GREEN BAY, WIS., March 11 -</field>
-	<field name = "BODY">Wisconsin Public Service Corp
+	<field name = "content">Wisconsin Public Service Corp
 said in its annual report the company's five-year construction
 program, 1987 through 1991, is projected at 330 mln dlrs.
     It said the amount, which includes about 4.0 mln dlrs for

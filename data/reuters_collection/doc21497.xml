@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 08:03:15.27</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">A 
-f0698reute
-w f BC-MALAYSIAN-POLICE-DENY   10-19 0098</field>
-	<field name = "TITLE">MALAYSIAN POLICE DENY RACE RIOT RUMOURS</field>
+	<field name = "titulo">MALAYSIAN POLICE DENY RACE RIOT RUMOURS</field>
 	<field name = "DATELINE">KUALA LUMPUR, Oct 19 -</field>
-	<field name = "BODY">Malaysian police denied rumours of
+	<field name = "content">Malaysian police denied rumours of
 race riots in Kuala Lumpur after an armed man killed one person
 and injured two others in an attack on two petrol stations in a
 racially-sensitive area of the city.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 09:40:14.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3064reute
-b f BC-COMPUTER-DEPOT-CDPT.   06-18 0089</field>
-	<field name = "TITLE">COMPUTER DEPOT CDPT.O> TO CEASE OPERATIONS</field>
+	<field name = "titulo">COMPUTER DEPOT CDPT.O> TO CEASE OPERATIONS</field>
 	<field name = "DATELINE">EDEN PRAIRIE, MINN., June 18 -</field>
-	<field name = "BODY">Computer Depot Inc said it
+	<field name = "content">Computer Depot Inc said it
 will cease operations and liquidate its assets.
     The decision results from the termination of the company's
 line of credit by its asset-based lender and demand by the

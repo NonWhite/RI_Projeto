@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 16:08:14.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6477reute
-d f BC-SKYWEST-AIRLINES-SKY   03-17 0097</field>
-	<field name = "TITLE">SKYWEST AIRLINES SKYW> FEBRUARY TRAFFIC ROSE</field>
+	<field name = "titulo">SKYWEST AIRLINES SKYW> FEBRUARY TRAFFIC ROSE</field>
 	<field name = "DATELINE">ST. GEORGE, Utah, March 17 -</field>
-	<field name = "BODY">SkyWest Airlines Inc said its
+	<field name = "content">SkyWest Airlines Inc said its
 revenue passenger miles rose to 10.3 mln from 8.5 mln, its
 available seat miles rose to 24.2 mln from 18.9 mln and load
 factor decreased to 42.6 pct from 44.9 pct.

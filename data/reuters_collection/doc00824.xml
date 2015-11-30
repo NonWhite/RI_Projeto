@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 17:31:07.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0222
-reute
-r f BC-AVX-CORP-AVX>-DEBT-A   03-02 0078</field>
-	<field name = "TITLE">AVX CORP AVX> DEBT AFFIRMED BY S/P</field>
+	<field name = "titulo">AVX CORP AVX> DEBT AFFIRMED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 affirmed the B-plus rating on AVX Corp's 28 mln dlrs of
 subordinated debt.
     The company's implied senior debt rating is BB.

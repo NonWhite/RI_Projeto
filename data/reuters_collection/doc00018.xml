@@ -4,13 +4,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">yemen-arab-republic</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0798
-reute
-u f BC-/BONUS-WHEAT-FLOUR-FO   02-26 0096</field>
-	<field name = "TITLE">BONUS WHEAT FLOUR FOR NORTH YEMEN  -- USDA</field>
+	<field name = "titulo">BONUS WHEAT FLOUR FOR NORTH YEMEN  -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">The Commodity Credit Corporation, CCC,
+	<field name = "content">The Commodity Credit Corporation, CCC,
 has accepted an export bonus offer to cover the sale of 37,000
 long tons of wheat flour to North Yemen, the U.S. Agriculture
 Department said.

@@ -1,8 +1,5 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 17:50:13.36</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f2722reute
-f f BC-******NASDAQ-SHORT-IN   03-24 0014</field>
-	<field name = "TITLE">NASDAQ MARCH SHORT INTEREST WAS 184.9 MLN SHRS VS 215.7 MLN SHARES IN FEBRUARY</field>
+	<field name = "titulo">NASDAQ MARCH SHORT INTEREST WAS 184.9 MLN SHRS VS 215.7 MLN SHARES IN FEBRUARY</field>
 </doc></add>

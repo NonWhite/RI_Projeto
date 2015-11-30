@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:48:10.70</field>
-	<field name = "UNKNOWN">F 
-f0973reute
-r f BC-RITE-AID-CORP-RAD>-1   06-29 0046</field>
-	<field name = "TITLE">RITE AID CORP RAD> 1ST QTR NET MAY 30</field>
+	<field name = "titulo">RITE AID CORP RAD> 1ST QTR NET MAY 30</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Shr 50 cts vs 40 cts
+	<field name = "content">Shr 50 cts vs 40 cts
     Net 20.8 mln vs 16.4 mln
     Revs 531.7 mln vs 418.7 mln
     NOTE: 1987 first qtr net gain from discontinued operations

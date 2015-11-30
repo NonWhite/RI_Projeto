@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 10:53:26.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0402reute
-r f BC-NYNEX-NYN>-URGES-JUS   03-11 0099</field>
-	<field name = "TITLE">NYNEX NYN> URGES JUSTICE DEPT. PLAN APPROVAL</field>
+	<field name = "titulo">NYNEX NYN> URGES JUSTICE DEPT. PLAN APPROVAL</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">NYNEX Corp will urge the U.S.
+	<field name = "content">NYNEX Corp will urge the U.S.
 District Court to approve Justice Department recommendations
 easing restrictions on offering new services by regional
 telephone firms, chairman Delbert Staley said.

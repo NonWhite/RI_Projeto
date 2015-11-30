@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 15:15:30.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9214reute
-r f BC-COMMODORE-CBU>,-BALL   03-18 0096</field>
-	<field name = "TITLE">COMMODORE CBU>, BALLY BLY> SET SOFTWARE PACT</field>
+	<field name = "titulo">COMMODORE CBU>, BALLY BLY> SET SOFTWARE PACT</field>
 	<field name = "DATELINE">WEST CHESTER, Penn., March 18 -</field>
-	<field name = "BODY">Commodore International Ltd
+	<field name = "content">Commodore International Ltd
 said its Commodore Business Machines unit reached an agreement
 with Bally Manufacturing Corp to supply software for the design
 of coin-operated video games.

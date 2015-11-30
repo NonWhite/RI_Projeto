@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 11:26:10.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0420reute
-r f BC-HOUSE-SUBCOMMITTEE-PO   03-12 0096</field>
-	<field name = "TITLE">HOUSE SUBCOMMITTEE POSTPONES FSLIC ACTION</field>
+	<field name = "titulo">HOUSE SUBCOMMITTEE POSTPONES FSLIC ACTION</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">The financial institutions
+	<field name = "content">The financial institutions
 subcommittee of the House Banking Committee postponed
 indefinitely a session to draft legislation on the Federal
 Savings and Loan Insurance Corp, FSLIC.

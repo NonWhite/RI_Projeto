@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 04:32:25.21</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">F
-f0202reute
-u f BC-TAIWAN-ENIVIRONMENTAL   03-13 0106</field>
-	<field name = "TITLE">TAIWAN ENIVIRONMENTAL PROTESTS BLOCK DU PONT PLANT</field>
+	<field name = "titulo">TAIWAN ENIVIRONMENTAL PROTESTS BLOCK DU PONT PLANT</field>
 	<field name = "DATELINE">TAIPEI, March 13 -</field>
-	<field name = "BODY">The U.S. Company Du Pont De Nemours DD>
+	<field name = "content">The U.S. Company Du Pont De Nemours DD>
 has abandoned plans to build a chemical factory near the west
 coast port of Lukang after environmental protests.
     A company spokesman told a news conference yesterday that

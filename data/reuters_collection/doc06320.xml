@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 17:24:43.25</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f6690reute
-h f BC-labatt-studying-expan   03-17 0084</field>
-	<field name = "TITLE">LABATT STUDYING EXPANSION IN EUROPE</field>
+	<field name = "titulo">LABATT STUDYING EXPANSION IN EUROPE</field>
 	<field name = "DATELINE">Toronto, March 17 -</field>
-	<field name = "BODY">John Labatt Ltd> is considering
+	<field name = "content">John Labatt Ltd> is considering
 expansion in Europe, but has made no decisions as to strategy,
 according to spokesman I.C. Ferrier.
     The company opened a London office about six months ago,

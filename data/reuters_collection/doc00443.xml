@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 10:31:49.20</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">RM
-f0686
-reute
-r f BC-TURKISH-RETAIL-PRICES   03-02 0083</field>
-	<field name = "TITLE">TURKISH RETAIL PRICES RISE 2.7 PCT IN FEBRUARY</field>
+	<field name = "titulo">TURKISH RETAIL PRICES RISE 2.7 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">ANKARA, March 2 -</field>
-	<field name = "BODY">Turkish retail prices rose 2.7 pct in
+	<field name = "content">Turkish retail prices rose 2.7 pct in
 February after 2.9 pct in January and 1.7 pct in February 1986,
 the State Statistics Institute said.
     Prices in the year to February rose 31.6 pct, compared with

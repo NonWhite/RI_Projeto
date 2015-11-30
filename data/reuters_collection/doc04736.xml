@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 08:22:32.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0651reute
-h f BC-USX-X>-GETS-GEORGE-W   03-13 0105</field>
-	<field name = "TITLE">USX X> GETS GEORGE WASHINGTON BRIDGE WORK</field>
+	<field name = "titulo">USX X> GETS GEORGE WASHINGTON BRIDGE WORK</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">The Port Authority of New York and New
+	<field name = "content">The Port Authority of New York and New
 Jersey said it has awarded USX Corp a 3,400,000 dlr contract to
 replace the expansion joints and gratings on the upper level of
 the George Washington Bridge between New York and Fort Lee,

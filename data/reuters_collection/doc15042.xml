@@ -8,13 +8,10 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">C G
-f1271reute
-r f BC-FURTHER-ARGENTINE-COA   04-08 0112</field>
-	<field name = "TITLE">FURTHER ARGENTINE COARSE GRAIN LOSSES FEARED</field>
+	<field name = "titulo">FURTHER ARGENTINE COARSE GRAIN LOSSES FEARED</field>
 	<field name = "AUTHOR">By Manuel Villanueva</field>
 	<field name = "DATELINE">BUENOS AIRES, April 8 -</field>
-	<field name = "BODY">Argentine grain producers adjusted
+	<field name = "content">Argentine grain producers adjusted
 their yield estimates for the 1986/87 coarse grain crop
 downward in the week to yesterday after the heavy rains at the
 end of March and beginning of April, trade sources said.

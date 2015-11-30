@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 10:18:26.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2156reute
-b f BC-/U.S.-FHL-BANKS-SET-2   03-16 0072</field>
-	<field name = "TITLE">U.S. FHL BANKS SET 2.55 BILLION DLR DEBT OFFER</field>
+	<field name = "titulo">U.S. FHL BANKS SET 2.55 BILLION DLR DEBT OFFER</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">The Office of Finance of the Federal
+	<field name = "content">The Office of Finance of the Federal
 Home Loan Banks announced a debt offering totalling 2.55
 billion dlrs consisting of three issues.
     The issues are 1.11 billion dlrs maturing March 26, 1990;

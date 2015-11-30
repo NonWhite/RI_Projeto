@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 01:06:01.13</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0033reute
-u f BC-PACIFIC-DUNLOP-ANNOUN   03-26 0116</field>
-	<field name = "TITLE">PACIFIC DUNLOP ANNOUNCES AIDS PROTECTION DISCOVERY</field>
+	<field name = "titulo">PACIFIC DUNLOP ANNOUNCES AIDS PROTECTION DISCOVERY</field>
 	<field name = "DATELINE">MELBOURNE, March 26 -</field>
-	<field name = "BODY">Pacific Dunlop Ltd PACA.ME> said
+	<field name = "content">Pacific Dunlop Ltd PACA.ME> said
 studies by its Ansell International> latex-product unit have
 shown a commonly-used spermicidal cream kills the AIDS virus.
     Ansell regional director Chris Humphrey told a news

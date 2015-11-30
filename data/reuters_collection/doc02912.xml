@@ -7,12 +7,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">C G
-f0692reute
-r f BC-U.S.-CORN-GROWERS-BLA   03-06 0123</field>
-	<field name = "TITLE">U.S. CORN GROWERS BLAST CANADA CORN RULING</field>
+	<field name = "titulo">U.S. CORN GROWERS BLAST CANADA CORN RULING</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">Canada's ruling in favor of a duty on
+	<field name = "content">Canada's ruling in favor of a duty on
 U.S. corn was a keen disappointment to the National Corn
 Growers Association and has set a dangerous precedent for other
 nations to follow, said Mike Hall, lobbyist for the

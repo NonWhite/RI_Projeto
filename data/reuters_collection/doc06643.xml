@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f8783reute
-d f BC-NASDAQ-TO-OPEN-OFFICE   03-18 0057</field>
-	<field name = "TITLE">NASDAQ TO OPEN OFFICE IN LONDON</field>
+	<field name = "titulo">NASDAQ TO OPEN OFFICE IN LONDON</field>
 	<field name = "DATELINE">WASHINGTON, D.C., March 18 -</field>
-	<field name = "BODY">National Association of
+	<field name = "content">National Association of
 Securities Dealers Inc said it will be opening a London-based
 European office in mid-1987.
     A spokesman said the office would probably open by July.

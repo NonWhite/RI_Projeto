@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 15:35:12.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f0420reute
-d f BC-LYPHOMEDLMED>-TO-SEL   03-06 0045</field>
-	<field name = "TITLE">LYPHOMEDLMED> TO SELL 100 MLN DLRS DEBENTURES</field>
+	<field name = "titulo">LYPHOMEDLMED> TO SELL 100 MLN DLRS DEBENTURES</field>
 	<field name = "DATELINE">ROSEMONT, ILL., March 6 -</field>
-	<field name = "BODY">LyphoMed Inc said it intends to
+	<field name = "content">LyphoMed Inc said it intends to
 file a registration statement with the Securities and Exchange
 Commission covering the sale of 70 mln dlrs principal amount of
 convertible subordinated debentures.

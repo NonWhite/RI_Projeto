@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">E
-f1621reute
-d f BC-SENATE-SEEKS-U.S.-PRO   03-26 0102</field>
-	<field name = "TITLE">SENATE SEEKS U.S. PROBE OF CANADIAN CORN LEVY</field>
+	<field name = "titulo">SENATE SEEKS U.S. PROBE OF CANADIAN CORN LEVY</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">The Senate voted unanimously to seek
+	<field name = "content">The Senate voted unanimously to seek
 an expedited U.S. probe of Canadian tariffs on corn imports to
 determine if the United States should retaliate.
     By 99 to 0, the Senate went on record against the 84.9

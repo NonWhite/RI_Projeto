@@ -6,12 +6,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">A F 
-f4923reute
-r f BC-JAPAN-TRADE-SURPLUS-W   06-18 0113</field>
-	<field name = "TITLE">JAPAN TRADE SURPLUS WILL GROW AGAIN IN 1987, OECD</field>
+	<field name = "titulo">JAPAN TRADE SURPLUS WILL GROW AGAIN IN 1987, OECD</field>
 	<field name = "DATELINE">PARIS, June 18 -</field>
-	<field name = "BODY">Japan's trade surplus is likely to
+	<field name = "content">Japan's trade surplus is likely to
 continue to grow in 1987, as sales of Japanese goods abroad
 increase while domestic demand remains sluggish, the
 Organization for Economic Cooperation and Development (OECD)

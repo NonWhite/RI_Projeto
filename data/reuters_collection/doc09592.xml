@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 16:35:07.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2397reute
-r f BC-XYLOGICS-IN-INITIAL-P   03-25 0121</field>
-	<field name = "TITLE">XYLOGICS IN INITIAL PUBLIC OFFERING</field>
+	<field name = "titulo">XYLOGICS IN INITIAL PUBLIC OFFERING</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Xylogics Inc is making an initial
+	<field name = "content">Xylogics Inc is making an initial
 public offering of 1,089,300 shares of common stock at 16 dlrs
 a share, co-managing underwriters Salomon Brothers Inc and
 Cowen and Co said.

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:26:00.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0262
-reute
-r f BC-MOBIL-MOB>-UNIT-TO-P   03-02 0105</field>
-	<field name = "TITLE">MOBIL MOB> UNIT TO PRODUCE FOOD PACKAGING</field>
+	<field name = "titulo">MOBIL MOB> UNIT TO PRODUCE FOOD PACKAGING</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Mobil Corp's Mobil Chemical Co's
+	<field name = "content">Mobil Corp's Mobil Chemical Co's
 subsidiary, the world's largest producer of disposable plastic
 products, said it will enter the food packaging market.
     Mobil said it will begin making clear container food

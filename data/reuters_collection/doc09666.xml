@@ -3,13 +3,10 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2705reute
-u f BC-COST-OF-PIK-CERTIFICA   03-25 0134</field>
-	<field name = "TITLE">COST OF PIK CERTIFICATES TO BE EYED BY CONGRESS</field>
+	<field name = "titulo">COST OF PIK CERTIFICATES TO BE EYED BY CONGRESS</field>
 	<field name = "AUTHOR">By Nelson Graves, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">Congress, eager to find budget
+	<field name = "content">Congress, eager to find budget
 savings, launches a review of the U.S. Agriculture Department's
 generic commodity certificate program tomorrow, amid signs USDA
 and the General Accounting Office, GAO, are at odds over how

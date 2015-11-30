@@ -3,13 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0833
-reute
-u f BC-NO-BUNDESBANK-POLICY   03-03 0111</field>
-	<field name = "TITLE">NO BUNDESBANK POLICY CHANGES EXPECTED THURSDAY</field>
+	<field name = "titulo">NO BUNDESBANK POLICY CHANGES EXPECTED THURSDAY</field>
 	<field name = "DATELINE">FRANKFURT, March 3 -</field>
-	<field name = "BODY">The Bundesbank is unlikely to change
+	<field name = "content">The Bundesbank is unlikely to change
 its credit policies at its central bank council meeting on
 Thursday, as exchange rates and short-term interest rates have
 stabilized over the past few weeks, money market dealers said.

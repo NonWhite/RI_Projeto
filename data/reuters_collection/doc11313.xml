@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">V RM
-f0989reute
-b f BC-/U.S.-TREASURY'S-BAKE   03-31 0062</field>
-	<field name = "TITLE">U.S. TREASURY'S BAKER SEES EXPANSION CONTINUING</field>
+	<field name = "titulo">U.S. TREASURY'S BAKER SEES EXPANSION CONTINUING</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 that the current expansion, which he noted was in its fifth
 year, will continue in the period ahead.
     He told the House Appropriations Committee that "there is

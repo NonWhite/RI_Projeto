@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 06:28:14.35</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F
-f0524reute
-r f BC-DUTCH-CAR-IMPORTS-RIS   03-11 0097</field>
-	<field name = "TITLE">DUTCH CAR IMPORTS RISE 27.5 PCT IN 1986</field>
+	<field name = "titulo">DUTCH CAR IMPORTS RISE 27.5 PCT IN 1986</field>
 	<field name = "DATELINE">AMSTERDAM, March 11 -</field>
-	<field name = "BODY">Dutch car imports rose 27.5 pct in
+	<field name = "content">Dutch car imports rose 27.5 pct in
 1986 to 610,500 units in 1986, reflecting a 41.8 pct growth in
 Japanese imports, the association for the Dutch vehicle
 industry reported.

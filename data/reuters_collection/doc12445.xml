@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 05:58:43.56</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0482reute
-b f BC-KEIHANSHIN-REAL-ESTAT   04-02 0107</field>
-	<field name = "TITLE">KEIHANSHIN REAL ESTATE ISSUES EQUITY WARRANT BOND</field>
+	<field name = "titulo">KEIHANSHIN REAL ESTATE ISSUES EQUITY WARRANT BOND</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">Keihanshin Real Estate Co Ltd is issuing
+	<field name = "content">Keihanshin Real Estate Co Ltd is issuing
 a 25 mln dlr equity warrant eurobond due April 27, 1992 paying
 an indicated coupon of 2-1/4 pct and priced at par, lead
 manager Daiwa Europe Ltd said.

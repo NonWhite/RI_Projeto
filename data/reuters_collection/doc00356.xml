@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 08:05:24.65</field>
 	<field name = "PLACES">france</field>
 	<field name = "PEOPLE">balladur</field>
-	<field name = "UNKNOWN">RM
-f0222
-reute
-b f BC-BALLADUR-EXPECTS-IMPR   03-02 0089</field>
-	<field name = "TITLE">BALLADUR EXPECTS IMPROVED FEBRUARY INFLATION DATA</field>
+	<field name = "titulo">BALLADUR EXPECTS IMPROVED FEBRUARY INFLATION DATA</field>
 	<field name = "DATELINE">PARIS, March 2 -</field>
-	<field name = "BODY">The French inflation rate is expected to
+	<field name = "content">The French inflation rate is expected to
 show a substantial improvement in February after January's very
 high 0.9 pct monthly rate, Finance Minister Edouard Balladur
 said.

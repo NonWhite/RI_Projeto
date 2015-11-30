@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0612reute
-b f BC-U.K.-MONEY-MARKET-GIV   03-12 0104</field>
-	<field name = "TITLE">U.K. MONEY MARKET GIVEN FURTHER 442 MLN STG HELP</field>
+	<field name = "titulo">U.K. MONEY MARKET GIVEN FURTHER 442 MLN STG HELP</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">The Bank of England said it provided the
+	<field name = "content">The Bank of England said it provided the
 market with a further 442 mln stg assistance during the morning
 to offset a liquidity shortage it estimated at 1.60 billion
 stg, revised up from 1.55 billion

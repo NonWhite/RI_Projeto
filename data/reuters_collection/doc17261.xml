@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-APR-1987 06:51:49.00</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0492reute
-u f BC-NIPPON-STEEL-NOMINATE   04-27 0112</field>
-	<field name = "TITLE">NIPPON STEEL NOMINATES NEW PRESIDENT</field>
+	<field name = "titulo">NIPPON STEEL NOMINATES NEW PRESIDENT</field>
 	<field name = "DATELINE">TOKYO, April 27 -</field>
-	<field name = "BODY">Nippon Steel Corp NSTC.T> nominated
+	<field name = "content">Nippon Steel Corp NSTC.T> nominated
 Hiroshi Saito as president, to replace Yutaka Takeda, subject
 to shareholders' approval at a meeting on June 26, company
 officials told a press conference.

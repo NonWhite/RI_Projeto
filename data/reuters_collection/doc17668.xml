@@ -4,12 +4,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">Y
-f1889reute
-r f BC-HUGHES'-U.S.-RIG-COUN   06-01 0109</field>
-	<field name = "TITLE">BAKER HUGHES' BHI> U.S. RIG COUNT FALLS TO 758</field>
+	<field name = "titulo">BAKER HUGHES' BHI> U.S. RIG COUNT FALLS TO 758</field>
 	<field name = "DATELINE">HOUSTON, June 1 -</field>
-	<field name = "BODY">The U.S. drilling rig count fell by four
+	<field name = "content">The U.S. drilling rig count fell by four
 last week to a total of 758, against 723 working rigs at this
 time last year, Baker Hughes Inc said.
     In Canada, the weekly rig count rose 19 to 100, compared to

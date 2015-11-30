@@ -5,12 +5,9 @@
 	<field name = "TOPICS">propane</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y 
-f2222reute
-u f BC-INTERNATIONAL-LPG-PRI   06-19 0100</field>
-	<field name = "TITLE">INTERNATIONAL LPG PRICES STEADY IN QUIET MARKET</field>
+	<field name = "titulo">INTERNATIONAL LPG PRICES STEADY IN QUIET MARKET</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">International LPG prices were little
+	<field name = "content">International LPG prices were little
 changed in the past week, barely affected by the excitement on
 the advent of OPEC's mid-year meeting, traders and industry
 sources said.

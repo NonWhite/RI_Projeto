@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 05:04:47.22</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">F
-f7243reute
-u f BC-SINGAPORE-GOVERNMENT   03-18 0089</field>
-	<field name = "TITLE">SINGAPORE GOVERNMENT TAKES OVER GOODWOOD SHARES</field>
+	<field name = "titulo">SINGAPORE GOVERNMENT TAKES OVER GOODWOOD SHARES</field>
 	<field name = "DATELINE">SINGAPORE, March 18 -</field>
-	<field name = "BODY">The Singapore government has taken
+	<field name = "content">The Singapore government has taken
 over 82 mln dlrs worth of Goodwood Park Hotel Ltd shares and
 loan stock certificates belonging to the company's chairman,
 Khoo Teck Puat, banking sources said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:25:49.87</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0532reute
-u f BC-GERMAN-SECURITIES-PUR   03-06 0114</field>
-	<field name = "TITLE">GERMAN SECURITIES PURCHASES SET RECORD IN JANUARY</field>
+	<field name = "titulo">GERMAN SECURITIES PURCHASES SET RECORD IN JANUARY</field>
 	<field name = "DATELINE">FRANKFURT, March 6 -</field>
-	<field name = "BODY">Purchases of West German bonds in
+	<field name = "content">Purchases of West German bonds in
 January reached a record 13 billion marks' worth as a result of
 investment from other European countries amid expectations of a
 European Monetary System realignment, the Bundesbank said.

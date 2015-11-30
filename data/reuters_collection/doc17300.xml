@@ -3,12 +3,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A
-f0764reute
-r f BC-JAPAN-STEELMAKERS,-CA   04-27 0101</field>
-	<field name = "TITLE">JAPAN STEELMAKERS, CANADA MINE DISCUSS COAL PRICE</field>
+	<field name = "titulo">JAPAN STEELMAKERS, CANADA MINE DISCUSS COAL PRICE</field>
 	<field name = "DATELINE">TOKYO, April 27 -</field>
-	<field name = "BODY">Quintette Coals Ltd> of Canada and
+	<field name = "content">Quintette Coals Ltd> of Canada and
 Japanese steelmakers failed to agree on the Canadian coal base
 price over four years from April 1, but agreed to have another
 round of talks in late May, officials involved said.

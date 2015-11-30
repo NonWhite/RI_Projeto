@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 08:31:59.61</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM
-f0724reute
-u f BC-S.-AFRICAN-CONSUMER-P   03-23 0086</field>
-	<field name = "TITLE">S. AFRICAN CONSUMER PRICE INFLATION RISES SLIGHTLY</field>
+	<field name = "titulo">S. AFRICAN CONSUMER PRICE INFLATION RISES SLIGHTLY</field>
 	<field name = "DATELINE">PRETORIA, March 23 -</field>
-	<field name = "BODY">South African year-on-year consumer
+	<field name = "content">South African year-on-year consumer
 price inflation rose slightly to 16.3 pct in February after
 falling sharply to 16.1 pct in January from 18.1 pct in
 December, Central Statistics Office figures show.

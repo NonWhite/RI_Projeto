@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 07:13:37.68</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">RM
-f0450reute
-u f BC-STOLTENBERG-CONSIDERS   03-19 0101</field>
-	<field name = "TITLE">STOLTENBERG CONSIDERS RAISING SOME INDIRECT TAXES</field>
+	<field name = "titulo">STOLTENBERG CONSIDERS RAISING SOME INDIRECT TAXES</field>
 	<field name = "DATELINE">BONN, March 19 -</field>
-	<field name = "BODY">Finance Minister Gerhard Stoltenberg said
+	<field name = "content">Finance Minister Gerhard Stoltenberg said
 he was looking for ways to help finance a planned tax reform
 without increasing value-added tax but could not rule out
 raising some indirect taxes, for example, on tobacco.

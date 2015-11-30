@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 22:57:31.32</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">F
-f0050reute
-u f BC-ROTHMANS-CLOSE-TO-JOI   03-11 0108</field>
-	<field name = "TITLE">ROTHMANS CLOSE TO JOINT VENTURE IN CHINA</field>
+	<field name = "titulo">ROTHMANS CLOSE TO JOINT VENTURE IN CHINA</field>
 	<field name = "DATELINE">PEKING, March 12 -</field>
-	<field name = "BODY">Rothmans International plc ROT.L> aims
+	<field name = "content">Rothmans International plc ROT.L> aims
 to set up a joint venture with Jinan cigarette factory in
 Shandong, China to produce high quality cigarettes, some for
 export, Chinese newspapers said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:11:53.75</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f1331reute
-u f BC-ITALY'S-BANCA-COMMERC   04-13 0096</field>
-	<field name = "TITLE">ITALY'S BANCA COMMERCIALE TO LAUNCH EUROLIRE BONDS</field>
+	<field name = "titulo">ITALY'S BANCA COMMERCIALE TO LAUNCH EUROLIRE BONDS</field>
 	<field name = "DATELINE">Milan, April 13 -</field>
-	<field name = "BODY">State bank Banca Commerciale Italiana
+	<field name = "content">State bank Banca Commerciale Italiana
 (BCI) said it is launching a 50 billion lire eurobond on behalf
 of Merrill Lynch  Co. Due May 26, 1992 paying 10 pct and
 priced at 100 -1/2 pct.

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 07:03:04.15</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM F 
-f2591reute
-u f BC-BANKAMERICA-ASKS-JAPA   06-18 0103</field>
-	<field name = "TITLE">BANKAMERICA ASKS JAPAN BANKS TO BUY SECURITIES</field>
+	<field name = "titulo">BANKAMERICA ASKS JAPAN BANKS TO BUY SECURITIES</field>
 	<field name = "AUTHOR">By Kunio Inoue, Reuters</field>
 	<field name = "DATELINE">TOKYO, June 18 -</field>
-	<field name = "BODY">BankAmerica Corp BAC> asked Japanese
+	<field name = "content">BankAmerica Corp BAC> asked Japanese
 commercial banks today to buy 350 mln dlrs in subordinated
 capital notes and preferred stock that it plans to issue to
 boost its equity base, a company spokesman said.

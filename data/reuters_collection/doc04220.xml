@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 10:02:18.11</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0063reute
-h f BC-GENENTECH-CONVERTIBLE   03-12 0098</field>
-	<field name = "TITLE">GENENTECH CONVERTIBLE BOND UPPED TO 150 MLN DLRS</field>
+	<field name = "titulo">GENENTECH CONVERTIBLE BOND UPPED TO 150 MLN DLRS</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">The convertible eurobond issue announced
+	<field name = "content">The convertible eurobond issue announced
 yesterday for Genentech Inc GENE.O> has been increased to a
 total of 150 mln dlrs from 100 mln, Credit Suisse First Boston
 Ltd (CSFB) said as lead manager.

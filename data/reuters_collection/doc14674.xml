@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:57:38.08</field>
-	<field name = "UNKNOWN">C G
-f2484reute
-u f BC-ASCS-TERMINAL-MARKET   04-07 0116</field>
-	<field name = "TITLE">ASCS TERMINAL MARKET VALUES FOR PIK GRAIN</field>
+	<field name = "titulo">ASCS TERMINAL MARKET VALUES FOR PIK GRAIN</field>
 	<field name = "DATELINE">KANSAS CITY, April 7  -</field>
-	<field name = "BODY">The Agricultural Stabilization and
+	<field name = "content">The Agricultural Stabilization and
 Conservation Service (ASCS) has established these unit values
 for commodities offered from government stocks through
 redemption of Commodity Credit Corporation commodity

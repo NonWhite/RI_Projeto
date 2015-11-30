@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">F
-f0050reute
-u f BC-SAUDI-ARABIA-WANTS-TO   04-17 0096</field>
-	<field name = "TITLE">SAUDI ARABIA WANTS TO INCREASE OIL SALES TO JAPAN</field>
+	<field name = "titulo">SAUDI ARABIA WANTS TO INCREASE OIL SALES TO JAPAN</field>
 	<field name = "DATELINE">TOKYO, April 17 -</field>
-	<field name = "BODY">Saudi Arabia hopes to increase the volume
+	<field name = "content">Saudi Arabia hopes to increase the volume
 of its oil exports to Japan through expanding bilateral trade,
 Saudi Arabian Interior Minister Naif bin Abdul-Aziz said.
     He told a Tokyo reception his country hopes to raise crude

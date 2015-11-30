@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 10:16:18.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0232reute
-d f BC-PACE-MEMBERSHIP-PMWI   03-06 0057</field>
-	<field name = "TITLE">PACE MEMBERSHIP PMWI> BUYS BACK NOTES</field>
+	<field name = "titulo">PACE MEMBERSHIP PMWI> BUYS BACK NOTES</field>
 	<field name = "DATELINE">DENVER, March 6 -</field>
-	<field name = "BODY">Pace Membership Warehouse Inc said it
+	<field name = "content">Pace Membership Warehouse Inc said it
 made a series of recent purchases of its 13 pct subordinated
 notes totaling about 13.6 mln dlrs.
     It said the amount of notes originally issued totaled 60

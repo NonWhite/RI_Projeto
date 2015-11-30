@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 04:42:22.47</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM AI 
-f2324reute
-u f BC-GOVERNMENT-TO-SELL-25   06-18 0102</field>
-	<field name = "TITLE">GOVERNMENT TO SELL 25 PCT OF AIR NEW ZEALAND</field>
+	<field name = "titulo">GOVERNMENT TO SELL 25 PCT OF AIR NEW ZEALAND</field>
 	<field name = "DATELINE">WELLINGTON, June 18 -</field>
-	<field name = "BODY">The New Zealand Government will sell
+	<field name = "content">The New Zealand Government will sell
 25 pct of state-owned Air New Zealand Ltd> to the public,
 Civil Aviation minister Richard Prebble said.
     Prebble said in a statement the government would appoint an

@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 00:22:21.28</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">RM
-f0007reute
-u f BC-DEMOCRAT-LOSES-BID-TO   03-26 0111</field>
-	<field name = "TITLE">DEMOCRAT LOSES BID TO WIN CONTRA AID ACCOUNTING</field>
+	<field name = "titulo">DEMOCRAT LOSES BID TO WIN CONTRA AID ACCOUNTING</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">Senate Democratic leader Robert Byrd
+	<field name = "content">Senate Democratic leader Robert Byrd
 yesterday failed to win the 60 votes needed to force a Senate
 vote on a bill demanding President Reagan account for U.S. Aid
 to the Nicaraguan Contras, including millions of dollars

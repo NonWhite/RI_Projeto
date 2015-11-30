@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 04:45:29.42</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0459reute
-b f BC-COMMONWEALTH-BANK-OF   03-05 0120</field>
-	<field name = "TITLE">COMMONWEALTH BANK OF AUSTRALIA ISSUES NOVEL BOND</field>
+	<field name = "titulo">COMMONWEALTH BANK OF AUSTRALIA ISSUES NOVEL BOND</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">The Commonwealth Bank of Australia is
+	<field name = "content">The Commonwealth Bank of Australia is
 issuing a novel 100 mln Australian dlr eurobond due April 6,
 1992 paying an initial coupon of 16 pct and priced at 101 pct,
 lead manager Swiss Bank Corporation International said.

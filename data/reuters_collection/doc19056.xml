@@ -4,12 +4,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G 
-f0273reute
-u f BC-TAIWAN-BUYS-32,000-TO   06-19 0085</field>
-	<field name = "TITLE">TAIWAN BUYS 32,000 TONNES OF U.S. SOYBEANS</field>
+	<field name = "titulo">TAIWAN BUYS 32,000 TONNES OF U.S. SOYBEANS</field>
 	<field name = "DATELINE">TAIPEI, June 19 -</field>
-	<field name = "BODY">The joint committee of Taiwan's soybean
+	<field name = "content">The joint committee of Taiwan's soybean
 importers awarded a contract to Cargill Inc of Minneapolis,
 Minnesota, for supply of one 32,000 tonne cargo of U.S.
 Soybeans, a committee spokesman told Reuters.

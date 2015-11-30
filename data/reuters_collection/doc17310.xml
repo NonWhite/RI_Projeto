@@ -3,12 +3,9 @@
 	<field name = "TOPICS">tin</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">itc</field>
-	<field name = "UNKNOWN">C M
-f0912reute
-b f BC-TIN-PACT-EXTENDED-FOR   04-27 0094</field>
-	<field name = "TITLE">TIN PACT EXTENDED FOR TWO YEARS</field>
+	<field name = "titulo">TIN PACT EXTENDED FOR TWO YEARS</field>
 	<field name = "DATELINE">LONDON, April 27 -</field>
-	<field name = "BODY">The Sixth International Tin Agreement,
+	<field name = "content">The Sixth International Tin Agreement,
 ITA, has been extended for two years from July 1, 1987, the
 International Tin Council, ITC, said.
     The extension was formally agreed at a resumed special

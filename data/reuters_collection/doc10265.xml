@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 21:43:27.78</field>
 	<field name = "PLACES">mexico</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f2970reute
-u f BC-MEXICO-DENIES-BRITISH   03-26 0108</field>
-	<field name = "TITLE">MEXICO DENIES BRITISH BANKS BALKING AT DEBT DEAL</field>
+	<field name = "titulo">MEXICO DENIES BRITISH BANKS BALKING AT DEBT DEAL</field>
 	<field name = "DATELINE">MEXICO CITY, March 26 -</field>
-	<field name = "BODY">Mexico denied reports that British
+	<field name = "content">Mexico denied reports that British
 banks are resisting signing a 76 billion dlr new loan and
 rescheduling package.
     In a statement, the Finance Ministry said the process for

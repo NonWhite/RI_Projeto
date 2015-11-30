@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 16:26:09.80</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E 
-f2471reute
-u f AM-Postal   06-29 0076</field>
-	<field name = "TITLE">NEGOTIATIONS RESUME IN CANADIAN POSTAL STRIKE</field>
+	<field name = "titulo">NEGOTIATIONS RESUME IN CANADIAN POSTAL STRIKE</field>
 	<field name = "DATELINE">OTTAWA, June 29 -</field>
-	<field name = "BODY">Negotiations resumed in the 14-day-old
+	<field name = "content">Negotiations resumed in the 14-day-old
 strike by Canada's letter carriers and picket line violence
 subsided after the federal government changed its mind and
 appointed a mediator.

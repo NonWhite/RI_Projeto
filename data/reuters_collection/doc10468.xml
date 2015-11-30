@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:10:22.25A RM</field>
-	<field name = "UNKNOWN">f1172reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">b f BC-UNITED-TECHNOLOGIES-   03-27 0111</field>
-	<field name = "TITLE">UNITED TECHNOLOGIES UTX> DEBT DOWNGRADED BY S/P</field>
+	<field name = "titulo">UNITED TECHNOLOGIES UTX> DEBT DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 downgraded 1.7 billion dlrs of debt of United Technologies Corp
 and subsidiaries.
     S and P cut to AA-minus from AA the senior debt, and to

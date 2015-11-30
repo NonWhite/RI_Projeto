@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">yeutter</field>
-	<field name = "UNKNOWN">F A RM 
-f2375reute
-d f BC-U.S.-ASKS-CONGRESS-TO   06-19 0112</field>
-	<field name = "TITLE">U.S. ASKS CONGRESS TO REVISE TARIFF CATEGORIES</field>
+	<field name = "titulo">U.S. ASKS CONGRESS TO REVISE TARIFF CATEGORIES</field>
 	<field name = "DATELINE">WASHINGTON, June 19 -</field>
-	<field name = "BODY">The Administration asked Congress to
+	<field name = "content">The Administration asked Congress to
 replace the U.S. tariff schedule with a new system to bring it
 into line with international tariff categories, U.S. Trade
 Representative Clayton Yeutter said.

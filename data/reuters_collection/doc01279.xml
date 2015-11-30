@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 15:39:06.62</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0749reute
-r f BC-INTERNATIONAL-TECHNOL   03-03 0069</field>
-	<field name = "TITLE">INTERNATIONAL TECHNOLOGY ITX> BUYS FIRM</field>
+	<field name = "titulo">INTERNATIONAL TECHNOLOGY ITX> BUYS FIRM</field>
 	<field name = "DATELINE">TORRANCE, Calif, March 3 -</field>
-	<field name = "BODY">International Technology Corp
+	<field name = "content">International Technology Corp
 said it has purchased privately-held Western Emergency Service
 Inc in a stock transaction.
     Western Emergency, an environmental services firm, has

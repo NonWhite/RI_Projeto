@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 08:39:45.06</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0670reute
-r f BC-FRIEDMAN-INDUSTRIES-   04-24 0107</field>
-	<field name = "TITLE">FRIEDMAN INDUSTRIES FRD> MERGER NOT APPROVED</field>
+	<field name = "titulo">FRIEDMAN INDUSTRIES FRD> MERGER NOT APPROVED</field>
 	<field name = "DATELINE">HOUSTON, April 23 -</field>
-	<field name = "BODY">Friedman Industries Inc said
+	<field name = "content">Friedman Industries Inc said
 shareholders at a special meeting held for a vote on its
 proposed merger into companies controlled by Venezuelan
 businessman John Castellvi failed to provide a high enough

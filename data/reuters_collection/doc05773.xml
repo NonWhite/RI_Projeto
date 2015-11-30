@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 22:43:53.26</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f3987reute
-u f BC-CONSERVATIVES-MAKE-MA   03-16 0110</field>
-	<field name = "TITLE">CONSERVATIVES MAKE MAJOR GAINS IN FINNISH POLLS</field>
+	<field name = "titulo">CONSERVATIVES MAKE MAJOR GAINS IN FINNISH POLLS</field>
 	<field name = "DATELINE">HELSINKI, March 17 -</field>
-	<field name = "BODY">Finland's Conservatives emerged with
+	<field name = "content">Finland's Conservatives emerged with
 major general election gains after a swing away from the left.
     Conservative Party leader Ilkka Suominen told reporters
 "they can't keep us out of government now" after the Party gained

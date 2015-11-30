@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 09:08:24.75</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PEOPLE">eyskens</field>
-	<field name = "UNKNOWN">RM
-f0796reute
-u f BC-BELGIAN-BOURSE-TAX-MO   04-03 0104</field>
-	<field name = "TITLE">BELGIAN BOURSE TAX MOVE BLOCKED IN CABINET</field>
+	<field name = "titulo">BELGIAN BOURSE TAX MOVE BLOCKED IN CABINET</field>
 	<field name = "DATELINE">BRUSSELS, April 3 -</field>
-	<field name = "BODY">Finance Ministry proposals for
+	<field name = "content">Finance Ministry proposals for
 abolishing bourse transaction taxes for non-residents have been
 blocked in cabinet and will not be re-submitted for several
 weeks, a Finance Ministry spokesman said.

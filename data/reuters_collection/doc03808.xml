@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 13:18:00.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0062reute
-h f BC-FORD-F>-SELECTS-FIRM   03-11 0058</field>
-	<field name = "TITLE">FORD F> SELECTS FIRM TO AUTOMATE PLANT</field>
+	<field name = "titulo">FORD F> SELECTS FIRM TO AUTOMATE PLANT</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Ford Motor Co selected Scicon Corp's>
+	<field name = "content">Ford Motor Co selected Scicon Corp's>
 Systems Control unit to install a manufacturing automation
 system at Ford's Hermosillo, Mexico, plant, Scicon said.
     The system, the value of which was not disclosed, will

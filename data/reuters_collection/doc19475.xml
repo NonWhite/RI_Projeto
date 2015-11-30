@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 18:17:58.63</field>
 	<field name = "PLACES">venezuela</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM A 
-f2582reute
-u f BC-venezuela-may-ask-imf   06-19 0088</field>
-	<field name = "TITLE">VENEZUELA MAY ASK IMF FOR CREDITS</field>
+	<field name = "titulo">VENEZUELA MAY ASK IMF FOR CREDITS</field>
 	<field name = "DATELINE">Caracas, june 19 -</field>
-	<field name = "BODY">venezuela may turn to the international
+	<field name = "content">venezuela may turn to the international
 monetary fund for credits as part of the country's overall
 effort to reestablish financial flows from abroad, finance
 minister manuel azpurua said today.

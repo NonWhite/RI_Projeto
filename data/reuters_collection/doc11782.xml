@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">sumita</field>
-	<field name = "UNKNOWN">RM
-f0100reute
-b f BC-CURRENCY-INSTABILITY   04-01 0097</field>
-	<field name = "TITLE">CURRENCY INSTABILITY WILL NOT LAST - SUMITA</field>
+	<field name = "titulo">CURRENCY INSTABILITY WILL NOT LAST - SUMITA</field>
 	<field name = "DATELINE">TOKYO, April 1 -</field>
-	<field name = "BODY">Bank of Japan Governor Satoshi Sumita said
+	<field name = "content">Bank of Japan Governor Satoshi Sumita said
 the present foreign exchange market instability will not last
 long as there is caution in the market regarding the rapid
 decline of the U.S. Unit.

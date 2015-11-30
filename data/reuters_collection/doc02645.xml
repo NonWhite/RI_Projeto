@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 11:09:42.45</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">RM
-f0464reute
-b f BC-QUEBEC-CAISSE-DESJARD   03-06 0089</field>
-	<field name = "TITLE">QUEBEC CAISSE DESJARDINS BRINGS EUROYEN BOND</field>
+	<field name = "titulo">QUEBEC CAISSE DESJARDINS BRINGS EUROYEN BOND</field>
 	<field name = "DATELINE">LONDON, March 6 -</field>
-	<field name = "BODY">La Caisse Centrale Desjardins Du Quebec
+	<field name = "content">La Caisse Centrale Desjardins Du Quebec
 is issuing a 10 billion yen eurobond due April 7, 1994 paying
 five pct and priced at 102-3/8 pct, Yamaichi International
 (Europe) Ltd said as joint book runner for the deal.

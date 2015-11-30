@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 13:00:03.44</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F E
-f1739reute
-u f BC-SEAGRAM-CO-LTD-VO>-Y   03-19 0070</field>
-	<field name = "TITLE">SEAGRAM CO LTD VO> YEAR JAN 31 NET</field>
+	<field name = "titulo">SEAGRAM CO LTD VO> YEAR JAN 31 NET</field>
 	<field name = "DATELINE">MONTREAL, March 19 -</field>
-	<field name = "BODY">Shr 4.45 dlrs vs 3.44 dlrs
+	<field name = "content">Shr 4.45 dlrs vs 3.44 dlrs
     Shr diluted 4.30 dlrs vs 3.34 dlrs
     Net 423.5 mln vs 319.1 mln
     Sales 3.34 billion vs 2.97 billion

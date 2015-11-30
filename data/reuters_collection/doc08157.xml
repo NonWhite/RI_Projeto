@@ -3,12 +3,9 @@
 	<field name = "TOPICS">reserves</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">burma</field>
-	<field name = "UNKNOWN">RM
-f0313reute
-u f BC-BURMA-SAYS-DEBT-SERVI   03-23 0113</field>
-	<field name = "TITLE">BURMA SAYS DEBT SERVICE RATIO FALLS TO 48.8 PCT</field>
+	<field name = "titulo">BURMA SAYS DEBT SERVICE RATIO FALLS TO 48.8 PCT</field>
 	<field name = "DATELINE">RANGOON, March 23 -</field>
-	<field name = "BODY">Burma's debt service ratio will have
+	<field name = "content">Burma's debt service ratio will have
 fallen to 48.8 pct in the fiscal year to end-March 1987 from 50
 pct in 1985-1986, the official Council of People's Inspectors
 (CPI) reported.

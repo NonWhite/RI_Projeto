@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM V
-f1404reute
-b f BC-/U.S.-TREASURY'S-BAKE   04-09 0093</field>
-	<field name = "TITLE">U.S. TREASURY'S BAKER SAYS RATE SHIFTS ORDERLY</field>
+	<field name = "titulo">U.S. TREASURY'S BAKER SAYS RATE SHIFTS ORDERLY</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 that changes in exchange rates have generally been orderly and
 have improved the prospects for a reduction in external
 imbalances to more sustainable levels.

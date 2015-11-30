@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 11:38:55.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0623reute
-r f BC-ENTERRA-EN>-CREDIT-L   03-09 0075</field>
-	<field name = "TITLE">ENTERRA EN> CREDIT LINE CUT</field>
+	<field name = "titulo">ENTERRA EN> CREDIT LINE CUT</field>
 	<field name = "DATELINE">HOUSTON, Tex., March 9 -</field>
-	<field name = "BODY">Enterra Corp said its bank group
+	<field name = "content">Enterra Corp said its bank group
 has reduced its revolving credit agreement to 40 mln dlrs from
 60 mln dlrs.
     Also, the company said it and its units granted the group a

@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 06:15:26.28</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0387reute
-r f BC-SPAIN'S-CONSUMER-PRIC   04-21 0068</field>
-	<field name = "TITLE">SPAIN'S CONSUMER PRICES RISE 0.6 PCT IN MARCH</field>
+	<field name = "titulo">SPAIN'S CONSUMER PRICES RISE 0.6 PCT IN MARCH</field>
 	<field name = "DATELINE">MADRID, April 21 -</field>
-	<field name = "BODY">Spain's consumer price index rose 0.6
+	<field name = "content">Spain's consumer price index rose 0.6
 pct in March after a 0.4 pct increase in February and 0.3 pct
 in March last year, the National Statistics Institute said.
     The March rise brought the year on year rate to 6.3 pct.

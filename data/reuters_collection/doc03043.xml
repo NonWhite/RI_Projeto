@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0039reute
-b f BC-U.K.-MONEY-MARKET-GIV   03-09 0096</field>
-	<field name = "TITLE">U.K. MONEY MARKET GIVEN FURTHER HELP AT NEW RATES</field>
+	<field name = "titulo">U.K. MONEY MARKET GIVEN FURTHER HELP AT NEW RATES</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">The Bank of England said it provided the
+	<field name = "content">The Bank of England said it provided the
 market with further assistance during the afternoon, buying
 bills worth 166 mln stg at the lower rates introduced this
 morning.

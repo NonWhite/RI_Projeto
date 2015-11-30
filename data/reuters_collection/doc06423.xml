@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 08:35:51.05</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f7645reute
-r f BC-AMERICAN-ADVENTURE-G   03-18 0068</field>
-	<field name = "TITLE">AMERICAN ADVENTURE GOAAQ> HAS NASDAQ EXCEPTION</field>
+	<field name = "titulo">AMERICAN ADVENTURE GOAAQ> HAS NASDAQ EXCEPTION</field>
 	<field name = "DATELINE">KIRKLAND, Wash., March 18 -</field>
-	<field name = "BODY">American Adventure Inc said its
+	<field name = "content">American Adventure Inc said its
 common stock will continue to be quoted on the NASDAQ system
 due to an exception from capital and surplus requirements,
 which it failed to meet as of January 20.

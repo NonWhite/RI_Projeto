@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:10:43.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4186reute
-r f BC-CALTON-INC-CN>-TO-BU   06-18 0101</field>
-	<field name = "TITLE">CALTON INC CN> TO BUILD THREE COMMUNITIES</field>
+	<field name = "titulo">CALTON INC CN> TO BUILD THREE COMMUNITIES</field>
 	<field name = "DATELINE">CLIFTON, N.J., June 18 -</field>
-	<field name = "BODY">Calton Inc said it will begin
+	<field name = "content">Calton Inc said it will begin
 building a 242-home community in the Newtown area of Bucks
 County in Northampton Township, Pa, sometime between late July
 and early August.

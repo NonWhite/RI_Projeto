@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 18:15:05.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2681reute
-r f AM-FRAUD   03-19 0104</field>
-	<field name = "TITLE">SENATORS SAY JUSTICE MISHANDLED TENNECO PROBE</field>
+	<field name = "titulo">SENATORS SAY JUSTICE MISHANDLED TENNECO PROBE</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">The Justice Department mishandled an
+	<field name = "content">The Justice Department mishandled an
 investigation into alleged fraud on Navy contracts by a unit of
 Tenneco Inc TGT>, two senior senators charged.
     The charges, made jointly by Sens. William Proxmire,

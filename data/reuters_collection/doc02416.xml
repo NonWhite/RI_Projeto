@@ -7,12 +7,9 @@
 	<field name = "ORGS">oecd</field>
 	<field name = "ORGS">gatt</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T
-f0676reute
-u f AM-AGRICULTURE-FRANCE   03-05 0128</field>
-	<field name = "TITLE">CONSENSUS BUILDS FOR WORLD AGRICULTURAL REFORM</field>
+	<field name = "titulo">CONSENSUS BUILDS FOR WORLD AGRICULTURAL REFORM</field>
 	<field name = "DATELINE">PARIS, March 5 -</field>
-	<field name = "BODY">Top U.S. and European farm trade and
+	<field name = "content">Top U.S. and European farm trade and
 government representatives called for a sweeping reform of
 world agriculture to redress a critical demand and supply
 imbalance.

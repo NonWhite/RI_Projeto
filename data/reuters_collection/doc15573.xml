@@ -3,12 +3,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">groundnut</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">C G
-f1091reute
-u f BC-INDIAN-OILSEED-OUTPUT   04-09 0113</field>
-	<field name = "TITLE">INDIA OILSEED OUTPUT FORECAST TO RISE</field>
+	<field name = "titulo">INDIA OILSEED OUTPUT FORECAST TO RISE</field>
 	<field name = "DATELINE">NEW DELHI, April 9 -</field>
-	<field name = "BODY">India's oilseed output is expected to
+	<field name = "content">India's oilseed output is expected to
 rise to 12.25 mln tonnes in 1986/87 ending October, up on 11.15
 mln in 1985/86 but down from 12.95 mln harvested in 1984/85,
 the Agriculture Ministry's 1986/87 report said.

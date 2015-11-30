@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 18:10:58.33</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0298
-reute
-r f BC-CANTREX-UNIT-TO-MERGE   03-02 0094</field>
-	<field name = "TITLE">CANTREX UNIT TO MERGE WITH ONTARIO GROUP</field>
+	<field name = "titulo">CANTREX UNIT TO MERGE WITH ONTARIO GROUP</field>
 	<field name = "DATELINE">MONTREAL, March 2 -</field>
-	<field name = "BODY">(Groupe Cantrex Inc) said it plans to
+	<field name = "content">(Groupe Cantrex Inc) said it plans to
 merge a new wholly-owned subsidiary a merger agreement with
 (CAP Appliance Purchasers Inc), of Woodstock, Ontario, a group
 of about 400 appliance and electronics retailers.

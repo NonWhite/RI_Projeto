@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 12:31:02.23</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1786reute
-u f BC-UAL-UAL>-COMPLETES-B   03-31 0105</field>
-	<field name = "TITLE">UAL UAL> COMPLETES BUY OF HILTON INT'L</field>
+	<field name = "titulo">UAL UAL> COMPLETES BUY OF HILTON INT'L</field>
 	<field name = "DATELINE">CHICAGO, March 31 -</field>
-	<field name = "BODY">UAL Inc said it completed the
+	<field name = "content">UAL Inc said it completed the
 acquisition of Hilton International from Transworld Corp TWT>,
 paying 982.5 mln dlrs in cash and securities.
     Hilton International will add 90 hotels to UAL's Westin

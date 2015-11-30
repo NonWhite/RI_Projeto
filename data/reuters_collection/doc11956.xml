@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:30:42.55</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1096reute
-u f BC-tallow-production   04-01 0124</field>
-	<field name = "TITLE">U.S. TALLOW PRODUCTION AND STOCKS</field>
+	<field name = "titulo">U.S. TALLOW PRODUCTION AND STOCKS</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">U.S. factory production of inedible
+	<field name = "content">U.S. factory production of inedible
 tallow and grease amounted to 421.5 mln lbs in February, vs a
 revised 471.5 mln lbs the previous month and 419.2 mln lbs in
 the year-ago period, the Census Bureau said.

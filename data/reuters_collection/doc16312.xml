@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 10:42:50.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1194reute
-b f BC-SEARS-S>-TO-REDEEM-A   04-13 0080</field>
-	<field name = "TITLE">SEARS S> TO REDEEM ADJUSTABLE RATE PREFERRED</field>
+	<field name = "titulo">SEARS S> TO REDEEM ADJUSTABLE RATE PREFERRED</field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">Sears, Roebuck and Co said it will
+	<field name = "content">Sears, Roebuck and Co said it will
 redeem all its outstanding adjustable rate preferred shares,
 first series. The redemption price is 103.79 dlrs a share,
 which includes accrued and unpaid dividends from April 1, 1987,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 22:41:47.68</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">F
-f0208reute
-u f BC-HYUNDAI-MOTOR'S-CAR-E   03-04 0113</field>
-	<field name = "TITLE">HYUNDAI MOTOR'S CAR EXPORTS RISE SHARPLY</field>
+	<field name = "titulo">HYUNDAI MOTOR'S CAR EXPORTS RISE SHARPLY</field>
 	<field name = "DATELINE">SEOUL, March 5 -</field>
-	<field name = "BODY">Hyundai Motor Co> exported 49,822 cars in
+	<field name = "content">Hyundai Motor Co> exported 49,822 cars in
 the first two months of 1987, up from 37,272 in the same period
 of last year, mainly due to booming sales in the U.S. And
 Canada, company officials said.

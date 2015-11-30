@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 14:23:55.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9056reute
-r f BC-PACIFIC-EASTERN-ADDS   03-18 0073</field>
-	<field name = "TITLE">PACIFIC EASTERN ADDS THREE TRUCKING OPERATIONS</field>
+	<field name = "titulo">PACIFIC EASTERN ADDS THREE TRUCKING OPERATIONS</field>
 	<field name = "DATELINE">HOUSTON, March 18 -</field>
-	<field name = "BODY">Pacific Eastern Corp> said it added
+	<field name = "content">Pacific Eastern Corp> said it added
 three trucking operations to its affiliate program totaling
 about 6.7 mln dlrs in annual revenue.
     The company said the addition brings to 10 to 12 mln dlrs

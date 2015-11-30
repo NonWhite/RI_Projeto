@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 13:06:50.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1960reute
-d f BC-ROYCE-RLAB>-TO-REDEE   03-26 0056</field>
-	<field name = "TITLE">ROYCE RLAB> TO REDEEM WARRANTS</field>
+	<field name = "titulo">ROYCE RLAB> TO REDEEM WARRANTS</field>
 	<field name = "DATELINE">MIAMI, March 26 -</field>
-	<field name = "BODY">Royce Laboratories Inc said it is calling
+	<field name = "content">Royce Laboratories Inc said it is calling
 for redemption its redeemable common purchase warrants on April
 30 at 2.5 cts per warrant.
     It said warrant holders retain the right to purchase one

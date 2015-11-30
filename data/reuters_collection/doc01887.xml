@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 18:59:00.18</field>
 	<field name = "PLACES">suriname</field>
-	<field name = "UNKNOWN">M
-f0089reute
-d f AM-SURINAME-ECONOMY   03-04 0127</field>
-	<field name = "TITLE">SURINAM GOVERNMENT TO DISCUSS ECONOMIC CRISIS</field>
+	<field name = "titulo">SURINAM GOVERNMENT TO DISCUSS ECONOMIC CRISIS</field>
 	<field name = "DATELINE">PARAMARIBO, March 4 -</field>
-	<field name = "BODY">Surinam's military government opens a
+	<field name = "content">Surinam's military government opens a
 four-day congress tomorrow to discuss the country's deepening
 economic crisis, the official Surinam News Agency reported.
     Acting Prime Minister Jules Wijdenbosch will open the

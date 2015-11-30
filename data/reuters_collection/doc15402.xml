@@ -4,13 +4,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
 	<field name = "EXCHANGES">liffe</field>
-	<field name = "UNKNOWN">RM
-f0345reute
-u f BC-CBOT-SEES-YEN-BOND-FU   04-09 0107</field>
-	<field name = "TITLE">CBOT SEES YEN BOND FUTURES LISTING IN SIX MONTHS</field>
+	<field name = "titulo">CBOT SEES YEN BOND FUTURES LISTING IN SIX MONTHS</field>
 	<field name = "AUTHOR">By Yoshiko Mori, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 9 -</field>
-	<field name = "BODY">The Chicago Board of Trade (CBOT) will
+	<field name = "content">The Chicago Board of Trade (CBOT) will
 list yen bond futures contracts once the U.S. Commodity Futures
 Trading Commission gives its approval, which could come within
 six months, CBOT chairman Karsten Mahlmann said.

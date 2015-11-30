@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 14:12:28.42</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f2042reute
-r f BC-GREYCOAT-GROUP-SEEKS   04-09 0103</field>
-	<field name = "TITLE">GREYCOAT GROUP SEEKS TWO FINANCINGS</field>
+	<field name = "titulo">GREYCOAT GROUP SEEKS TWO FINANCINGS</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">U.K. Property company Greycoat Group Plc
+	<field name = "content">U.K. Property company Greycoat Group Plc
 is seeking two financings, one for 120 mln stg and the other
 for 16 mln stg, in connection with its Embankment Place
 development above and around Charing Cross station in London,

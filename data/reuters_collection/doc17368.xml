@@ -4,12 +4,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">Y
-f3154reute
-u f BC-SOVIET-SAYS-DATA-SHAR   04-28 0086</field>
-	<field name = "TITLE">SOVIET SAYS DATA SHARING WILL HELP FIND OIL</field>
+	<field name = "titulo">SOVIET SAYS DATA SHARING WILL HELP FIND OIL</field>
 	<field name = "DATELINE">HOUSTON, April 28 -</field>
-	<field name = "BODY">A Soviet geologist said scientists need
+	<field name = "content">A Soviet geologist said scientists need
 to coordinate data about onshore and offshore oil deposits to
 help identify global formations that would indicate other
 potential discoveries of oil and gas reserves.

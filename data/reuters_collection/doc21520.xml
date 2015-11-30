@@ -4,12 +4,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">RM 
-f0509reute
-b f BC-BONN-MINISTRY-HAS-NO   10-19 0109</field>
-	<field name = "TITLE">BONN MINISTRY HAS NO COMMENT ON BAKER REMARKS</field>
+	<field name = "titulo">BONN MINISTRY HAS NO COMMENT ON BAKER REMARKS</field>
 	<field name = "DATELINE">BONN, Oct 19 -</field>
-	<field name = "BODY">The West German Finance Ministry declined to
+	<field name = "content">The West German Finance Ministry declined to
 comment on weekend criticism by U.S. Treasury Secretary James
 Baker of recent West German interest rate increases.
     Baker said the U.S. Would re-examine the February Louvre

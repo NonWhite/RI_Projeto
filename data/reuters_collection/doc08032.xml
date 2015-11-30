@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 17:51:40.27</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f2619reute
-d f BC-alberta-budget-sets   03-20 0097</field>
-	<field name = "TITLE">ALBERTA BUDGET SETS TAX INCREASE, LOWER DEFICIT</field>
+	<field name = "titulo">ALBERTA BUDGET SETS TAX INCREASE, LOWER DEFICIT</field>
 	<field name = "DATELINE">EDMONTON, Alberta, March 20 -</field>
-	<field name = "BODY">The Alberta provincial
+	<field name = "content">The Alberta provincial
 government will increase its general corporate tax rate on
 April 1 to 15 pct from 11 pct under its 1987-88 budget
 announced today, provincial treasurer Dick Johnston said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:22:52.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0990reute
-r f BC-NWA'S-NWA>-NORTHWEST   04-07 0093</field>
-	<field name = "TITLE">NWA'S NWA> NORTHWEST AIRLINES LOAD FACTOR UP</field>
+	<field name = "titulo">NWA'S NWA> NORTHWEST AIRLINES LOAD FACTOR UP</field>
 	<field name = "DATELINE">ST. PAUL, April 7 -</field>
-	<field name = "BODY">NWA Inc said the passenger load factor
+	<field name = "content">NWA Inc said the passenger load factor
 for its Northwest Airlines subsidiary rose in March to 66.3 pct
 from 63.2 pct a year ago.
     It said available seat miles increased to 5.43 billion from

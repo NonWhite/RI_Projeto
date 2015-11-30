@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 04:35:45.28</field>
 	<field name = "TOPICS">wpi</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f0215reute
-r f BC-FINNISH-WHOLESALE-PRI   03-19 0080</field>
-	<field name = "TITLE">FINNISH WHOLESALE PRICES RISE 0.2 PCT IN FEBRUARY</field>
+	<field name = "titulo">FINNISH WHOLESALE PRICES RISE 0.2 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">HELSINKI, March 19 -</field>
-	<field name = "BODY">Finnish wholesale prices rose 0.2 pct
+	<field name = "content">Finnish wholesale prices rose 0.2 pct
 in February after a rise of one pct in January and a drop of
 1.2 pct in February 1986, the Central Statistical Office said.
     Year-on-year wholesale prices fell 1.9 pct in February

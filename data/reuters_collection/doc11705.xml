@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 16:49:25.50</field>
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C M
-f2688reute
-r f BC-U.S.-STEELMAKERS,-UNI   03-31 0103</field>
-	<field name = "TITLE">U.S. STEELMAKERS, UNION SEEK RENEWED IMPORT CURB</field>
+	<field name = "titulo">U.S. STEELMAKERS, UNION SEEK RENEWED IMPORT CURB</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">The U.S. specialty steel industry
+	<field name = "content">The U.S. specialty steel industry
 and its union said they will seek a three-year extension of
 President Reagan's import restraint program to give the
 industry more time to restore competitiveness.

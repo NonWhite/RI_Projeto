@@ -7,13 +7,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0818reute
-u f BC-DOLLAR-DROP-SEEN-AS-T   03-24 0112</field>
-	<field name = "TITLE">DOLLAR DROP SEEN AS TEST OF PARIS AGREEMENT</field>
+	<field name = "titulo">DOLLAR DROP SEEN AS TEST OF PARIS AGREEMENT</field>
 	<field name = "AUTHOR">By Franz-Josef Ebel, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 24 -</field>
-	<field name = "BODY">The sharp drop in the value of the
+	<field name = "content">The sharp drop in the value of the
 dollar against the yen and the mark is the first serious test
 of last month's Group of Five (G-5) plus Canada agreement to
 stabilise currencies, dealers and bank economists said.

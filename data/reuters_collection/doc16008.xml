@@ -7,13 +7,10 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "TOPICS">silver</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F C G L M T
-f2692reute
-r f BC-media-summary   04-09 0127</field>
-	<field name = "TITLE">U.S. DOLLAR LOSSES PROPEL BROAD COMMODITY GAINS</field>
+	<field name = "titulo">U.S. DOLLAR LOSSES PROPEL BROAD COMMODITY GAINS</field>
 	<field name = "AUTHOR">by Keith Leighty, Reuters</field>
 	<field name = "DATELINE">CHICAGO, April 9 -</field>
-	<field name = "BODY">Commodities from gold to grains to
+	<field name = "content">Commodities from gold to grains to
 cotton posted solid gains in a flurry of buying today as losses
 in the U.S. dollar and rising interest rates kindled fears of
 inflation and economic instability.

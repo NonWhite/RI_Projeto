@@ -2,13 +2,10 @@
 	<field name = "DATE">26-MAR-1987 12:50:43.81</field>
 	<field name = "PLACES">poland</field>
 	<field name = "PEOPLE">jaruzelski</field>
-	<field name = "UNKNOWN">RM
-f1894reute
-u f BC-POLAND-FIRM-ON-ECONOM   03-26 0092</field>
-	<field name = "TITLE">POLAND FIRM ON ECONOMY DESPITE CONCESSIONS</field>
+	<field name = "titulo">POLAND FIRM ON ECONOMY DESPITE CONCESSIONS</field>
 	<field name = "AUTHOR">By Irena Czekierska, Reuters</field>
 	<field name = "DATELINE">WARSAW, March 26  -</field>
-	<field name = "BODY">The Polish government has backed down
+	<field name = "content">The Polish government has backed down
 from some proposed price rises in the face of strong opposition
 from trade unions, but has restated its commitment to economic
 reforms entailing tougher discipline and austerity measures.

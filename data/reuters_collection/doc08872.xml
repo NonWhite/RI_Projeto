@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 12:36:18.81</field>
 	<field name = "TOPICS">alum</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C M
-f1726reute
-u f BC-/ALCAN-UPS-ALUMINIUM   03-24 0093</field>
-	<field name = "TITLE">ALCAN UPS ALUMINIUM INGOT AND BILLET PRICES</field>
+	<field name = "titulo">ALCAN UPS ALUMINIUM INGOT AND BILLET PRICES</field>
 	<field name = "DATELINE">New York, March 24 -</field>
-	<field name = "BODY">Alcan Aluminium Ltd. in Montreal said
+	<field name = "content">Alcan Aluminium Ltd. in Montreal said
 it increased yesterday its prices for unalloyed ingot and
 extrusion billet by two cents a lb, effective with shipments
 beginning May 1.

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 05:25:04.40</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0782
-reute
-b f BC-SUPPLIES-OF-U.K.-INDE   03-03 0116</field>
-	<field name = "TITLE">SUPPLIES OF U.K. INDEX-LINKED BOND EXHAUSTED</field>
+	<field name = "titulo">SUPPLIES OF U.K. INDEX-LINKED BOND EXHAUSTED</field>
 	<field name = "DATELINE">LONDON, March 3 -</field>
-	<field name = "BODY">The Government broker's supplies of a 400
+	<field name = "content">The Government broker's supplies of a 400
 mln stg issue of two pct Treasury index-linked stock due 1992
 were exhausted in early trading on the U.K. Government bond
 market this morning, the Bank of England said.

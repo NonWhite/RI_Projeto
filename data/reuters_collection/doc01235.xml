@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 14:45:51.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f0580reute
-u f BC-FBI-CHIEF-WEBSTER-REF   03-03 0095</field>
-	<field name = "TITLE">FBI CHIEF WEBSTER REFUSES COMMENT ON CIA POST</field>
+	<field name = "titulo">FBI CHIEF WEBSTER REFUSES COMMENT ON CIA POST</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">FBI Director William Webster refused
+	<field name = "content">FBI Director William Webster refused
 all comment on whether he has been approached to head the
 Central Intelligence Agency.
     After testifying before a Senate Judiciary Committee,

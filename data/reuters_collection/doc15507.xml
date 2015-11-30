@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:25:59.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0810reute
-d f BC-AMERICAN-WOODMARK-AM   04-09 0039</field>
-	<field name = "TITLE">AMERICAN WOODMARK AMWD> TO BUILD PLANT</field>
+	<field name = "titulo">AMERICAN WOODMARK AMWD> TO BUILD PLANT</field>
 	<field name = "DATELINE">WINCHESTER, Va., April 9 -</field>
-	<field name = "BODY">American Woodmark Corp said it
+	<field name = "content">American Woodmark Corp said it
 plans to build a 100,000 square foot kitchen cabinet component
 plant in Toccoa, Ga., with completion expected in the spring of
 1988.

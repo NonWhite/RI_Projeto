@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 16:42:11.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2585reute
-r f BC-UNITED-TECHNOLOGIES-   04-13 0087</field>
-	<field name = "TITLE">UNITED TECHNOLOGIES UTX> IN JOINT PACT</field>
+	<field name = "titulo">UNITED TECHNOLOGIES UTX> IN JOINT PACT</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">United Technologies Corp said it
+	<field name = "content">United Technologies Corp said it
 joined with two other companies to form a partnership in
 proposing a defense system for the U.S. Army.
     United Technologies said it joined forces with FMC Corp

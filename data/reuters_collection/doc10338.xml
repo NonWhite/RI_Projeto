@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 06:22:35.40C G</field>
-	<field name = "UNKNOWN">f0399reute</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">r f BC-SOUTH-AFRICAN-MAIZE-E   03-27 0092</field>
-	<field name = "TITLE">SOUTH AFRICAN MAIZE ESTIMATE CALLED CONSERVATIVE</field>
+	<field name = "titulo">SOUTH AFRICAN MAIZE ESTIMATE CALLED CONSERVATIVE</field>
 	<field name = "DATELINE">JOHANNESBURG, March 27 -</field>
-	<field name = "BODY">The South African government's
+	<field name = "content">The South African government's
 maize production estimate of 7.8 mln tonnes for the current
 year is "rather too conservative," leading grain and produce
 merchants Kahn and Kahn Pty Ltd said.

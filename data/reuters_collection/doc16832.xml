@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 10:11:08.30</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0239reute
-r f BC-AMOCO-AN>-MAY-BUY-DO   04-17 0097</field>
-	<field name = "TITLE">AMOCO AN> MAY BUY DOME DMP>, REPORT SAYS</field>
+	<field name = "titulo">AMOCO AN> MAY BUY DOME DMP>, REPORT SAYS</field>
 	<field name = "DATELINE">Toronto, April 17 -</field>
-	<field name = "BODY">Amoco Corp is apparently the successful
+	<field name = "content">Amoco Corp is apparently the successful
 bidder for debt-laden Dome Petroleum Ltd, according to a
 published report.
     The Toronto Globe and Mail, quoting sources close to the

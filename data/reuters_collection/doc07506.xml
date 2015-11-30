@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 18:42:54.52</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f2739reute
-h f BC-TOFRUZEN-YUMYC>-TO-R   03-19 0039</field>
-	<field name = "TITLE">TOFRUZEN YUMYC> TO REMAIN LISTED ON NASDAQ</field>
+	<field name = "titulo">TOFRUZEN YUMYC> TO REMAIN LISTED ON NASDAQ</field>
 	<field name = "DATELINE">ENGLEWOOD, Colo., March 19 -</field>
-	<field name = "BODY">Tofruzen Inc said it received
+	<field name = "content">Tofruzen Inc said it received
 an exception to the NASD's asset requirement, allowing its
 units, common stock and warrants to remain listed on the NASDAQ
 system.

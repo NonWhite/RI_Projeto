@@ -3,13 +3,10 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2735reute
-u f BC-PHELPS-DODGE-PD>-SET   06-02 0083</field>
-	<field name = "TITLE">PHELPS DODGE PD> SETS SIGHTS ON ACQUISITION</field>
+	<field name = "titulo">PHELPS DODGE PD> SETS SIGHTS ON ACQUISITION</field>
 	<field name = "AUTHOR">By Steven Radwell, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Phelps Dodge Corp chairman G. Robert
+	<field name = "content">Phelps Dodge Corp chairman G. Robert
 Durham said the company is prepared to make another large
 non-copper acquisition and that a deal could be struck in the
 near future.

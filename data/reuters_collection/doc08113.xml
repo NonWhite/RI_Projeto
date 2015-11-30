@@ -2,12 +2,9 @@
 	<field name = "DATE">22-MAR-1987 23:50:59.70</field>
 	<field name = "TOPICS">inventories</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0224reute
-u f BC-AUSTRALIAN-MANUFACTUR   03-22 0097</field>
-	<field name = "TITLE">AUSTRALIAN MANUFACTURERS EXPECT DOWNTURN - SURVEY</field>
+	<field name = "titulo">AUSTRALIAN MANUFACTURERS EXPECT DOWNTURN - SURVEY</field>
 	<field name = "DATELINE">MELBOURNE, March 23 -</field>
-	<field name = "BODY">A majority of Australian
+	<field name = "content">A majority of Australian
 manufacturers expect a deterioration in the business climate,
 according to the March survey of industrial trends by Westpac
 Banking Corp and the Confederation of Australian Industry.

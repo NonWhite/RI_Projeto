@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 10:55:26.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1197reute
-u f BC-MOBIL'S-MOB>-MARCH-S   04-09 0084</field>
-	<field name = "TITLE">MOBIL'S MOB> MARCH SALES UP THREE PCT</field>
+	<field name = "titulo">MOBIL'S MOB> MARCH SALES UP THREE PCT</field>
 	<field name = "DATELINE">CHICAGO, April 9 -</field>
-	<field name = "BODY">Mobil Corp said sales of its Montgomery
+	<field name = "content">Mobil Corp said sales of its Montgomery
 Ward and Co subsidiary for the five weeks ended April Four rose
 3.3 pct on a comparable store basis to 332.9 mln dlrs from
 323.2 mln dlrs a year ago.

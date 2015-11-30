@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:40:16.22F</field>
-	<field name = "UNKNOWN">f1671reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">b f BC-MCDONNELL-DOUGLAS-MD   03-27 0070</field>
-	<field name = "TITLE">MCDONNELL DOUGLAS MD> AWARDS CONTRACTS</field>
+	<field name = "titulo">MCDONNELL DOUGLAS MD> AWARDS CONTRACTS</field>
 	<field name = "DATELINE">LONG BEACH, Calif., March 27 -</field>
-	<field name = "BODY">McDonnell Douglas Corp said
+	<field name = "content">McDonnell Douglas Corp said
 it awarded two contract totaling 284 mln dlrs for landing gear
 for its new MD-11 jetliner.
     The company said IC Industries Inc's ICX> Pneumo Abex Corp

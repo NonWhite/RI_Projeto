@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:49:03.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0799reute
-d f BC-EQUITABLE-LIFE-LEASIN   03-03 0062</field>
-	<field name = "TITLE">EQUITABLE LIFE LEASING NAMES PRESIDENT</field>
+	<field name = "titulo">EQUITABLE LIFE LEASING NAMES PRESIDENT</field>
 	<field name = "DATELINE">SAN DIEGO, March 3 -</field>
-	<field name = "BODY">Equitable Life Leasing Corp said it
+	<field name = "content">Equitable Life Leasing Corp said it
 named Lawrence Johnes president and chief operating officer,
 effective April one.
     Johnes joined the company in November 1984 as executive

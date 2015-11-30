@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V
-f0153reute
-u f BC-JAPAN-DETAILS-PLAN-TO   04-17 0108</field>
-	<field name = "TITLE">JAPAN DETAILS PLAN TO STAVE OFF TRADE PROBLEMS</field>
+	<field name = "titulo">JAPAN DETAILS PLAN TO STAVE OFF TRADE PROBLEMS</field>
 	<field name = "DATELINE">TOKYO, April 17 -</field>
-	<field name = "BODY">Japan's Liberal Democratic Party (LDP)
+	<field name = "content">Japan's Liberal Democratic Party (LDP)
 has drawn up a detailed plan calling for large tax cuts and an
 increase in government purchases of foreign goods, the head of
 the committee working out the plan, Junichiro Koizumi, said.

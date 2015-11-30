@@ -4,13 +4,10 @@
 	<field name = "PLACES">bolivia</field>
 	<field name = "ORGS">imf</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM A
-f2699reute
-r f BC-BOLIVIA-PREPARES-FOR   03-20 0108</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - BOLIVIA</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - BOLIVIA</field>
 	<field name = "AUTHOR">By Paul Iredale, Reuters</field>
 	<field name = "DATELINE">LA PAZ, March 20 -</field>
-	<field name = "BODY">Bolivia, once Latin America's most
+	<field name = "content">Bolivia, once Latin America's most
 delinquent debtor, is preparing for a second International
 Monetary Fund agreement after an economic stabilisation program
 has effectively slowed inflation and reduced public spending.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 18:18:08.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2853reute
-d f BC-WATKINS-JOHNSON-WJ>   06-02 0058</field>
-	<field name = "TITLE">WATKINS-JOHNSON WJ> WINS CONTRACT</field>
+	<field name = "titulo">WATKINS-JOHNSON WJ> WINS CONTRACT</field>
 	<field name = "DATELINE">PALO ALTO, Calif, June 2 -</field>
-	<field name = "BODY">Watkins-Johnson Co said it
+	<field name = "content">Watkins-Johnson Co said it
 received a contract from General Electric COrp's GE> G.E.
 Astro Space division for nearly two mln dlrs to provide
 traveling-wave-tube amplifiers on the Mars Observer spacecraft.

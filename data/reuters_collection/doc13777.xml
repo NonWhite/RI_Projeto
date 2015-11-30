@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:48:08.80</field>
-	<field name = "UNKNOWN">C L
-f0826reute
-u f BC-live-ctl-report   04-07 0103</field>
-	<field name = "TITLE">LIVE CATTLE FUTURES SEEN STEADY TO HIGHER</field>
+	<field name = "titulo">LIVE CATTLE FUTURES SEEN STEADY TO HIGHER</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Live cattle futures were expected to
+	<field name = "content">Live cattle futures were expected to
 continue their upward climb to new season's highs and highest
 levels in years as fundamentals continue to point upward,
 traders said.

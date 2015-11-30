@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">A 
-f1486reute
-r f BC-WEST-GERMANY-STILL-CO   10-19 0102</field>
-	<field name = "TITLE">WEST GERMANY STILL COMMITTED TO LOUVRE ACCORD</field>
+	<field name = "titulo">WEST GERMANY STILL COMMITTED TO LOUVRE ACCORD</field>
 	<field name = "DATELINE">BONN, Oct 19 -</field>
-	<field name = "BODY">West German government sources said Bonn
+	<field name = "content">West German government sources said Bonn
 remained committed to the Louvre Accord to stabilise
 currencies, which was struck by leading western democracies in
 Paris last February.

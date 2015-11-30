@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 09:01:08.77</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2919reute
-b f BC-U.S.-FIRST-TIME-JOBLE   06-18 0080</field>
-	<field name = "TITLE">U.S. FIRST TIME JOBLESS CLAIMS ROSE IN WEEK</field>
+	<field name = "titulo">U.S. FIRST TIME JOBLESS CLAIMS ROSE IN WEEK</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">New applications for unemployment
+	<field name = "content">New applications for unemployment
 insurance benefits rose to a seasonally adjusted 340,000 in the
 week ended June 6 from 310,000 in the prior week, the Labor
 Department said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 07:27:13.36</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F 
-f0571reute
-u f BC-HENKEL-EXPECTS-HIGHER   06-29 0099</field>
-	<field name = "TITLE">HENKEL EXPECTS HIGHER 1987 TURNOVER, PROFIT</field>
+	<field name = "titulo">HENKEL EXPECTS HIGHER 1987 TURNOVER, PROFIT</field>
 	<field name = "DATELINE">DUESSELDORF, June 29 -</field>
-	<field name = "BODY">Henkel KGaA HNKG.F> expects 1987
+	<field name = "content">Henkel KGaA HNKG.F> expects 1987
 world group turnover and profit to exceed 1986 levels as recent
 acquisitions should compensate for the negative impact of the
 strong mark, managing board chairman Helmut Sihler said.

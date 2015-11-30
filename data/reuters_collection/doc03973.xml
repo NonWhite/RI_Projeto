@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 17:09:56.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0710reute
-r f BC-RELIANCE-ELECTRIC-UNI   03-11 0089</field>
-	<field name = "TITLE">RELIANCE ELECTRIC UNIT TO REDEEM DEBENTURES</field>
+	<field name = "titulo">RELIANCE ELECTRIC UNIT TO REDEEM DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Reliance Electric Co said its Reliance
+	<field name = "content">Reliance Electric Co said its Reliance
 Industrial Co unit will redeem on April 10 all outstanding
 7-1/4 pct debentures due 1996 and 9-5/8 pct debentures due
 1994.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:52:00.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2052reute
-d f BC-RAPITECH-RPSY.O>-IN   06-19 0110</field>
-	<field name = "TITLE">RAPITECH RPSY.O> IN HEWLETT PACKARD HWP> DEAL</field>
+	<field name = "titulo">RAPITECH RPSY.O> IN HEWLETT PACKARD HWP> DEAL</field>
 	<field name = "DATELINE">SUFFERN, N.Y., June 19 -</field>
-	<field name = "BODY">Rapitech Systems Inc said it has
+	<field name = "content">Rapitech Systems Inc said it has
 entered into an agreement under which its FORTRIX-C software is
 available to Hewlett-Packard Co's salesforce for assisting
 customers the migration of applications software from one

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">F
-f0332reute
-u f BC-SOUTH-KOREA-TO-PAY-MO   04-03 0112</field>
-	<field name = "TITLE">SOUTH KOREA TO PAY MORE FOR JAPANESE ETHYLENE</field>
+	<field name = "titulo">SOUTH KOREA TO PAY MORE FOR JAPANESE ETHYLENE</field>
 	<field name = "DATELINE">TOKYO, April 3 -</field>
-	<field name = "BODY">South Korea will pay about 20 pct more for
+	<field name = "content">South Korea will pay about 20 pct more for
 ethylene imported from Japan in the second quarter of the year
 because increased plastic production in both countries has
 boosted demand and tightened supplies, chemical industry

@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 13:10:25.84</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f1847reute
-u f BC-NASD-PRESIDENT-LEAVES   03-24 0045</field>
-	<field name = "TITLE">NASD PRESIDENT LEAVES FOR HAMBRECHT AND QUIST</field>
+	<field name = "titulo">NASD PRESIDENT LEAVES FOR HAMBRECHT AND QUIST</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Hambrecht and Quist Group> said
+	<field name = "content">Hambrecht and Quist Group> said
 Gordon Macklin has resigned as president of the National
 Association of Securities Dealers> to become chairman and
 co-chief executive officer of Hambrecht and Quist.

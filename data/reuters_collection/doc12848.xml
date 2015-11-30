@@ -6,12 +6,9 @@
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C G
-f0825reute
-u f BC-LONDON-FREIGHT-MARKET   04-03 0112</field>
-	<field name = "TITLE">LONDON FREIGHT MARKET FEATURES USSR TIMECHARTERS</field>
+	<field name = "titulo">LONDON FREIGHT MARKET FEATURES USSR TIMECHARTERS</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">Active timecharter fixing by Soviet
+	<field name = "content">Active timecharter fixing by Soviet
 operators to cover USSR grain imports featured the freight
 market, ship brokers said.
     At least two fixtures were reported on Soviet account to

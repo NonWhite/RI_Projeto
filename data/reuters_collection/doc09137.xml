@@ -4,12 +4,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">sumita</field>
-	<field name = "UNKNOWN">RM
-f0048reute
-b f BC-JAPAN-DOES-NOT-INTEND   03-25 0106</field>
-	<field name = "TITLE">JAPAN DOES NOT INTEND TO CUT DISCOUNT RATE-SUMITA</field>
+	<field name = "titulo">JAPAN DOES NOT INTEND TO CUT DISCOUNT RATE-SUMITA</field>
 	<field name = "DATELINE">TOKYO, March 25 -</field>
-	<field name = "BODY">Bank of Japan governor Satoshi Sumita
+	<field name = "content">Bank of Japan governor Satoshi Sumita
 said the central bank has no intention of cutting its discount
 rate again as a way of preventing the yen's rise.
     He told a press conference that the growth of Japanese

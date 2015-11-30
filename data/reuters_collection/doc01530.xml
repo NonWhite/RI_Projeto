@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 11:11:17.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0575reute
-r f BC-MICROPOLIS-MLIS>-TO   03-04 0079</field>
-	<field name = "TITLE">MICROPOLIS MLIS> TO OFFER CONVERTIBLE DEBT</field>
+	<field name = "titulo">MICROPOLIS MLIS> TO OFFER CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Micropolis Corp said it filed with the
+	<field name = "content">Micropolis Corp said it filed with the
 Securities and Exchange Commission a registration statement
 covering a 75 mln dlr issue of convertible subordinated
 debentures due 2012.

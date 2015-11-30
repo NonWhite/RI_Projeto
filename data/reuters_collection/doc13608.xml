@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:11:55.55</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0553reute
-u f BC-VW-CURRENCY-DEPARTMEN   04-07 0094</field>
-	<field name = "TITLE">VW CURRENCY DEPARTMENT FORMER HEAD ARRESTED</field>
+	<field name = "titulo">VW CURRENCY DEPARTMENT FORMER HEAD ARRESTED</field>
 	<field name = "DATELINE">BRUNSWICK, West Germany, April 7 -</field>
-	<field name = "BODY">The former chief of
+	<field name = "content">The former chief of
 foreign exchange at Volkswagen AG VOWG.F> has been arrested in
 connection with a scandal which may have cost the car maker a
 quarter of a billion dlrs, the chief state prosecutor Carl

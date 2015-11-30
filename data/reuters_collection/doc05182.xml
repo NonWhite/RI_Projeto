@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f1024reute
-u f BC-TAIWAN-SAYS-U.S.-WANT   03-15 0110</field>
-	<field name = "TITLE">TAIWAN SAYS U.S. WANTS TAIWAN DOLLAR TO APPRECIATE</field>
+	<field name = "titulo">TAIWAN SAYS U.S. WANTS TAIWAN DOLLAR TO APPRECIATE</field>
 	<field name = "DATELINE">TAIPEI, March 16 -</field>
-	<field name = "BODY">The United States wants Taiwan's
+	<field name = "content">The United States wants Taiwan's
 currency to appreciate faster to reduce Taiwan's trade surplus
 with the U.S., A senior trade official said.
     Board of Foreign Trade director Vincent Siew told reporters

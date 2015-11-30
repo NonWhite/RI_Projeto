@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 10:44:42.37</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM 
-f1371reute
-r f BC-TAIWAN-FOREIGN-EXCHAN   10-20 0103</field>
-	<field name = "TITLE">TAIWAN FOREIGN EXCHANGE RESERVES HIT RECORD HIGH</field>
+	<field name = "titulo">TAIWAN FOREIGN EXCHANGE RESERVES HIT RECORD HIGH</field>
 	<field name = "DATELINE">TAIPEI, Oct 20 -</field>
-	<field name = "BODY">Taiwan's foreign exchange reserves, bouyed
+	<field name = "content">Taiwan's foreign exchange reserves, bouyed
 by rising exports, have hit a record high and are likely to
 soar to 72 billion U.S. Dlrs by the year end, central bank
 officials said Tuesday.

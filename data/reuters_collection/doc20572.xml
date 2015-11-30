@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:43:19.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A 
-f2762reute
-r f BC-BORDEN-BN>-SAYS-PLAN   10-20 0081</field>
-	<field name = "TITLE">BORDEN BN> SAYS PLANS TO ISSUE DEBT</field>
+	<field name = "titulo">BORDEN BN> SAYS PLANS TO ISSUE DEBT</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Borden Inc said it plans to issue up to
+	<field name = "content">Borden Inc said it plans to issue up to
 250 mln dlrs of long-term debt securities in order to
 capitalize on sharply lower interest rates.
     Proceeds will be used primarily to refinance existing

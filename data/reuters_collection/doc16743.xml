@@ -3,12 +3,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f2847reute
-b f BC-BANK-OF-JAPAN-INTERVE   04-13 0062</field>
-	<field name = "TITLE">BANK OF JAPAN INTERVENES IN TOKYO AFTER OPENING</field>
+	<field name = "titulo">BANK OF JAPAN INTERVENES IN TOKYO AFTER OPENING</field>
 	<field name = "DATELINE">TOKYO, April 14 -</field>
-	<field name = "BODY">The Bank of Japan intervened in Tokyo to
+	<field name = "content">The Bank of Japan intervened in Tokyo to
 buy dollars just after the market opened, dealers said.
     The dollar opened at 142.05 yen against 142.15/25 in New
 York and 142.50 at the close here yesterday.

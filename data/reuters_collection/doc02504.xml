@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 17:33:22.05</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0995reute
-u f BC-CONAGRA-CAG>-TO-ACQU   03-05 0081</field>
-	<field name = "TITLE">CONAGRA CAG> TO ACQUIRE MONFORT MMFT></field>
+	<field name = "titulo">CONAGRA CAG> TO ACQUIRE MONFORT MMFT></field>
 	<field name = "DATELINE">GREELEY, Colo., March 5 -</field>
-	<field name = "BODY">ConAgra Inc agreed to acquire
+	<field name = "content">ConAgra Inc agreed to acquire
 Monfort of Colorado Inc in a stock transaction, both companies
 said.
     According to the letter of intent signed by the companies,

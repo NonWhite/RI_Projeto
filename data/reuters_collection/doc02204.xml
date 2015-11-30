@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 11:53:38.51</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0762reute
-u f BC-MERCANTILE-STORES-CO   03-05 0049</field>
-	<field name = "TITLE">MERCANTILE STORES CO INC MST> 4TH QTR NET</field>
+	<field name = "titulo">MERCANTILE STORES CO INC MST> 4TH QTR NET</field>
 	<field name = "DATELINE">WILMINGTON, Dela., March 5 -</field>
-	<field name = "BODY">Qtr ends Jan 31
+	<field name = "content">Qtr ends Jan 31
     Shr 3.26 dlrs vs 3.17 dlrs
     Net 47.9 mln vs 46.7 mln
     Revs 673.1 mln vs 630.2 mln

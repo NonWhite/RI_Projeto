@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 04:37:12.73</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f4294reute
-b f BC-BELGIAN-STATE-LOAN-PR   03-17 0080</field>
-	<field name = "TITLE">BELGIAN STATE LOAN PRICED AT PAR</field>
+	<field name = "titulo">BELGIAN STATE LOAN PRICED AT PAR</field>
 	<field name = "DATELINE">BRUSSELS, March 17 -</field>
-	<field name = "BODY">The Belgian government's new 150
+	<field name = "content">The Belgian government's new 150
 billion franc, eight pct loan has been priced at par, a Finance
 Ministry spokesman said.
      The eight-year loan features a call option after four

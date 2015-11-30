@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 05:17:58.92F</field>
-	<field name = "UNKNOWN">f0324reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">u f BC-MITSUBISHI-MOTORS-AUS   03-27 0102</field>
-	<field name = "TITLE">MITSUBISHI MOTORS AUSTRALIA MAKES 19 MLN DLR LOSS</field>
+	<field name = "titulo">MITSUBISHI MOTORS AUSTRALIA MAKES 19 MLN DLR LOSS</field>
 	<field name = "DATELINE">ADELAIDE, March 27 -</field>
-	<field name = "BODY">Mitsubishi Motors Australia Ltd>
+	<field name = "content">Mitsubishi Motors Australia Ltd>
 (MMAL) reported a 19.64 mln dlr net loss in calendar 1986 from
 a 5.80 mln dlr profit in 1985 on turnover of 837.79 mln dlrs
 from 942.89 mln.

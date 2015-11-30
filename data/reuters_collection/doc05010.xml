@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 15:21:53.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0266reute
-d f BC-ADIA-SERVICES-ADIA>   03-13 0080</field>
-	<field name = "TITLE">ADIA SERVICES ADIA> SELLS 500,000 SHARES</field>
+	<field name = "titulo">ADIA SERVICES ADIA> SELLS 500,000 SHARES</field>
 	<field name = "DATELINE">MENLO PARK, Calif., March 13 -</field>
-	<field name = "BODY">Adia Services Inc said it
+	<field name = "content">Adia Services Inc said it
 agreed to sell 500,000 shares of common stock to its principal
 stockholder, Adia S.A., at a price based on the current market
 price.

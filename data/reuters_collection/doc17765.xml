@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 15:32:32.04</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2281reute
-r f BC-FISHER-SHAREHOLDER-IN   06-01 0104</field>
-	<field name = "TITLE">FISHER SHAREHOLDER INDECISIVE OVER STOCK BUY</field>
+	<field name = "titulo">FISHER SHAREHOLDER INDECISIVE OVER STOCK BUY</field>
 	<field name = "DATELINE">BEDFORD HEIGHTS, Ohio, June 1 -</field>
-	<field name = "BODY">Fisher Foods Inc FHR> said
+	<field name = "content">Fisher Foods Inc FHR> said
 5300 Richmond Road Corp>, its largest shareholder, has not yet
 reached a definitive decision about whether it will buy more
 Fisher stock through a possible merger, tender offer or another

@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 17:08:31.61</field>
 	<field name = "PLACES">greece</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">Y
-f2620reute
-r f AM-GREECE-VIOLATIONS   04-08 0086</field>
-	<field name = "TITLE">GREECE ACCUSES TURKEY OF AIR SPACE INFRINGEMENTS</field>
+	<field name = "titulo">GREECE ACCUSES TURKEY OF AIR SPACE INFRINGEMENTS</field>
 	<field name = "DATELINE">ATHENS, April 8 -</field>
-	<field name = "BODY">Greece accused Turkish warplanes of
+	<field name = "content">Greece accused Turkish warplanes of
 infringing the Athens Flight Information Region (FIR) in the
 Aegean Sea three times.
     The Defense Ministry said the Turkish intrusions took place

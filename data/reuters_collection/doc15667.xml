@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 11:48:39.06</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1439reute
-d f BC-MSE-CABLE-SYSTEMS-IN   04-09 0059</field>
-	<field name = "TITLE">MSE CABLE SYSTEMS INC> 4TH QTR NET</field>
+	<field name = "titulo">MSE CABLE SYSTEMS INC> 4TH QTR NET</field>
 	<field name = "DATELINE">ROCHESTER HILLS, Mich., April 9 -</field>
-	<field name = "BODY">Shr nil vs nil
+	<field name = "content">Shr nil vs nil
     Net 18,534 vcs 27,431
     Revs 270,032 vs 188,326
     Avg shrs 6,598,871 vs 6,090,576

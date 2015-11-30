@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 14:26:01.46</field>
 	<field name = "PLACES">argentina</field>
 	<field name = "PEOPLE">machinea</field>
-	<field name = "UNKNOWN">C G L M T
-f0098reute
-r f BC-ARGENTINE-DEBT-TALKS   03-13 0131</field>
-	<field name = "TITLE">ARGENTINE DEBT TALKS DIFFICULT-CENTRAL BANK HEAD</field>
+	<field name = "titulo">ARGENTINE DEBT TALKS DIFFICULT-CENTRAL BANK HEAD</field>
 	<field name = "DATELINE">BUENOS AIRES, March 13 -</field>
-	<field name = "BODY">Central Bank President Jose Luis
+	<field name = "content">Central Bank President Jose Luis
 Machinea said negotiations with creditor banks on Argentina's
 30 billion dlr private sector foreign debt were difficult.
     "There is considerable divergence with the banks. We must

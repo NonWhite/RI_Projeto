@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">RM V
-f2929reute
-u f BC-MIYAZAWA-SAYS-JAPANES   06-15 0082</field>
-	<field name = "TITLE">MIYAZAWA SAYS JAPANESE ECONOMY BOTTOMED OUT</field>
+	<field name = "titulo">MIYAZAWA SAYS JAPANESE ECONOMY BOTTOMED OUT</field>
 	<field name = "DATELINE">TOKYO, June 16 -</field>
-	<field name = "BODY">The Japanese economy has bottomed out
+	<field name = "content">The Japanese economy has bottomed out
 after an extended period of stagnation, Finance Minister Kiichi
 Miyazawa told a press conference.
     But he said he was not too optimistic about the state of

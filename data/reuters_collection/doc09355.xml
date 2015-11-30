@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 11:07:17.85</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">C G L M T
-f1276reute
-u f BC-ARGENTINE-PORT-WORKER   03-25 0070</field>
-	<field name = "TITLE">ARGENTINE PORT WORKERS TAKE INDUSTRIAL ACTION</field>
+	<field name = "titulo">ARGENTINE PORT WORKERS TAKE INDUSTRIAL ACTION</field>
 	<field name = "DATELINE">BUENOS AIRES, March 25 -</field>
-	<field name = "BODY">Argentine port workers began an
+	<field name = "content">Argentine port workers began an
 indefinite protest against safety conditions at the port of
 Buenos Aires, stopping work for one hour per shift, a press
 spokesman said.

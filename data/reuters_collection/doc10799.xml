@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 08:35:18.56</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T
-f0803reute
-u f BC-EC-MINISTERS-STUDY-FA   03-30 0101</field>
-	<field name = "TITLE">EC MINISTERS STUDY FARM PRICES, NO ACCORD SEEN</field>
+	<field name = "titulo">EC MINISTERS STUDY FARM PRICES, NO ACCORD SEEN</field>
 	<field name = "DATELINE">BRUSSELS, March 30 -</field>
-	<field name = "BODY">European Community agriculture
+	<field name = "content">European Community agriculture
 ministers are today taking their first serious look at farm
 price proposals for the coming season, but diplomats expect no
 agreement at the two days of talks.

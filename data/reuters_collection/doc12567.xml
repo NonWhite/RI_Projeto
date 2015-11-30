@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 10:21:37.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1160reute
-r f BC-STATUS-GAME-STGM>-TO   04-02 0067</field>
-	<field name = "TITLE">STATUS GAME STGM> TO SELL CONDOMS</field>
+	<field name = "titulo">STATUS GAME STGM> TO SELL CONDOMS</field>
 	<field name = "DATELINE">NEWINGTON, Conn., April 2 -</field>
-	<field name = "BODY">Status Game Corp said it will
+	<field name = "content">Status Game Corp said it will
 immediately start selling condoms through the 500 cigarette
 machines it owns and operates in Las Vegas.
     The company said it is negotiating a contract with one of

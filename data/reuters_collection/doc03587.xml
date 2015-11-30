@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 09:32:58.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0035reute
-r f BC-LORIMAR-TELEPICTURES   03-11 0105</field>
-	<field name = "TITLE">LORIMAR TELEPICTURES LT> EXECUTIVES RESIGN</field>
+	<field name = "titulo">LORIMAR TELEPICTURES LT> EXECUTIVES RESIGN</field>
 	<field name = "DATELINE">CULVER CITY, Calif., March 11 -</field>
-	<field name = "BODY">Lorimar Telepictures Corp
+	<field name = "content">Lorimar Telepictures Corp
 said it accepted resignations of three executives at
 Karl-Lorimar Home Video, its wholly owned subsidiary.
     The company said Stuart Karl, president and chief executive

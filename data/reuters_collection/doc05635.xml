@@ -6,12 +6,9 @@
 	<field name = "TOPICS">sorghum</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">honduras</field>
-	<field name = "UNKNOWN">C G
-f3453reute
-u f BC-PL-480-COMMODITIES-FO   03-16 0118</field>
-	<field name = "TITLE">PL 480 COMMODITIES FOR HONDURAS -- USDA</field>
+	<field name = "titulo">PL 480 COMMODITIES FOR HONDURAS -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">The United States has signed a
+	<field name = "content">The United States has signed a
 Public Law 480 agreement with Honduras to provide for the sale
 of 12.0 mln dlrs worth of U.S. agricultural commodities, the
 U.S. Agriculture Department said.

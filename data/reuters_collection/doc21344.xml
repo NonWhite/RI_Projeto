@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:06:52.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1459reute
-d f BC-INLAND-IAD>-PLANS-TO   10-19 0063</field>
-	<field name = "TITLE">INLAND IAD> PLANS TO PROCEED WITH PLANT</field>
+	<field name = "titulo">INLAND IAD> PLANS TO PROCEED WITH PLANT</field>
 	<field name = "DATELINE">CHICAGO, Oct 19 -</field>
-	<field name = "BODY">Inland Steel Co said it and the USS
+	<field name = "content">Inland Steel Co said it and the USS
 Division of USX Corp X> are continuing to pursue plans for
 construction of a state-of-the-art line for continuous
 prepainting of steel coils.

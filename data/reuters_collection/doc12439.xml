@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 05:36:40.65</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">RM
-f0443reute
-u f BC-NAKASONE-SAID-WILLING   04-02 0102</field>
-	<field name = "TITLE">NAKASONE SAID WILLING TO REVISE SALES TAX PLAN</field>
+	<field name = "titulo">NAKASONE SAID WILLING TO REVISE SALES TAX PLAN</field>
 	<field name = "DATELINE">TOKYO, April 2 -</field>
-	<field name = "BODY">Japanese press reports said Prime Minister
+	<field name = "content">Japanese press reports said Prime Minister
 Yasuhiro Nakasone has said he may compromise on his
 controversial sales tax plan, bowing to widespread opposition
 even within his own party.

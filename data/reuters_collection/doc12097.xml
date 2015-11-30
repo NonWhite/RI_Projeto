@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 12:45:26.48</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1714reute
-h f BC-CONOLOG-CORP-CNLG>-2   04-01 0043</field>
-	<field name = "TITLE">CONOLOG CORP CNLG> 2ND QTR JAN 31 NET</field>
+	<field name = "titulo">CONOLOG CORP CNLG> 2ND QTR JAN 31 NET</field>
 	<field name = "DATELINE">SOMERVILLE, N.J., April 1 -</field>
-	<field name = "BODY">Shr two cts vs two cts
+	<field name = "content">Shr two cts vs two cts
     Net 69,831 vs 107,773
     Revs 1,068,905 vs 2,401,518
     Six mths

@@ -5,12 +5,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PEOPLE">reagan</field>
 	<field name = "PEOPLE">chirac</field>
-	<field name = "UNKNOWN">V RM
-f1869reute
-u f AM-CHIRAC-1STLD-(WRITET HROUGH)  03-31 0109</field>
-	<field name = "TITLE">CHIRAC, REAGAN DISCUSS ARMS CONTROL, TRADE</field>
+	<field name = "titulo">CHIRAC, REAGAN DISCUSS ARMS CONTROL, TRADE</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">French Prime Minister Jacques Chirac
+	<field name = "content">French Prime Minister Jacques Chirac
 opened talks with President Ronald Reagan expected to focus on
 superpower arms control moves and trade issues.
     French officials said a major aim of Chirac's visit was to

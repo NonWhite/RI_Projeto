@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 13:57:01.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1960reute
-h f BC-GREAT-AMERICAN-FIRST   03-20 0064</field>
-	<field name = "TITLE">GREAT AMERICAN FIRST SAVINGS GTA> OPENS UNITS</field>
+	<field name = "titulo">GREAT AMERICAN FIRST SAVINGS GTA> OPENS UNITS</field>
 	<field name = "DATELINE">TUCSON, Ariz., March 20 -</field>
-	<field name = "BODY">Great American First Savings Bank
+	<field name = "content">Great American First Savings Bank
 Arizona said it has opened four new branches located in Fry's
 Food Stores.
     The branches are all in the Tucson area.

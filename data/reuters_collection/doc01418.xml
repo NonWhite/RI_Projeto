@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 09:30:38.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0145reute
-r f BC-HOME-AND-CITY-HCSB>   03-04 0076</field>
-	<field name = "TITLE">HOME AND CITY HCSB> TO FORM HOLDING COMPANY</field>
+	<field name = "titulo">HOME AND CITY HCSB> TO FORM HOLDING COMPANY</field>
 	<field name = "DATELINE">ALBANY, N.Y., March 4 -</field>
-	<field name = "BODY">Home and City Savings Bank said its
+	<field name = "content">Home and City Savings Bank said its
 board has approved formation of a holding company called Home
 and City Bancorp Inc, subject to approval by shareholders at a
 special meeting expected to be held around June and to

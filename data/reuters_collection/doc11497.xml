@@ -4,13 +4,10 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f1956reute
-u f BC-TRADE-WAR-FEARS-MAY-P   03-31 0088</field>
-	<field name = "TITLE">TRADE WAR FEARS MAY PROMPT STOCK MARKETS' DOWNTURN</field>
+	<field name = "titulo">TRADE WAR FEARS MAY PROMPT STOCK MARKETS' DOWNTURN</field>
 	<field name = "AUTHOR">By David Ress, Reuters</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">The threatened trade war between the
+	<field name = "content">The threatened trade war between the
 United States and Japan is just the kind of shock that
 economists say could send world stock markets into a tailspin.
     But they are not so sure if that would be a brief

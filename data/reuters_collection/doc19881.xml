@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">Y 
-f2399reute
-r f AM-GULF-AMERICAN   06-29 0101</field>
-	<field name = "TITLE">U.S. REASSERTS PLANS FOR DETERRENT ROLE IN GULF</field>
+	<field name = "titulo">U.S. REASSERTS PLANS FOR DETERRENT ROLE IN GULF</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">The United States responded to an
+	<field name = "content">The United States responded to an
 apparent escalation of Iranian rhetoric with continued
 assurances that its expanded military force in the Gulf would
 play purely a deterrent role.

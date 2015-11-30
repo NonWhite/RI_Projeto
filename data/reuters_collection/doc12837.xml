@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 09:01:23.63</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0775reute
-b f BC-LIFFE-T-BONDS-GAIN-ON   04-03 0101</field>
-	<field name = "TITLE">LIFFE T-BONDS GAIN ON JOBS DATA</field>
+	<field name = "titulo">LIFFE T-BONDS GAIN ON JOBS DATA</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">U.S. T-bond futures gained half a point
+	<field name = "content">U.S. T-bond futures gained half a point
 in the few minutes after news that the U.S. Non-farm payroll
 rose more slowly than earlier believed over the last two
 months, dealers said.

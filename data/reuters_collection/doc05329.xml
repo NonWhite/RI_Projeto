@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 09:37:20.49</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f2008reute
-u f BC-BRAZILIAN-BANK-WORKER   03-16 0129</field>
-	<field name = "TITLE">BRAZILIAN BANK WORKERS DECIDE ON NATIONAL STRIKE</field>
+	<field name = "titulo">BRAZILIAN BANK WORKERS DECIDE ON NATIONAL STRIKE</field>
 	<field name = "DATELINE">CAMPINAS, Brazil, March 16 -</field>
-	<field name = "BODY">Brazilian bank workers voted
+	<field name = "content">Brazilian bank workers voted
 to launch a nationwide strike this month, compounding labour
 unrest arising from the failure of the government's
 anti-inflation plan.

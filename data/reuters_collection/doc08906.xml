@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 13:34:37.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1957reute
-r f BC-FAIRCHILD-FEN>-SEEKS   03-24 0109</field>
-	<field name = "TITLE">FAIRCHILD FEN> SEEKS OKAY FOR REINCORPOATION</field>
+	<field name = "titulo">FAIRCHILD FEN> SEEKS OKAY FOR REINCORPOATION</field>
 	<field name = "DATELINE">CHANTILLY, Va., March 24 -</field>
-	<field name = "BODY">Fairchild Industries Inc said it
+	<field name = "content">Fairchild Industries Inc said it
 will ask stockholders at its April 22 annual meeting to approve
 its reincorporation in Delaware to allow more flexibility to
 revise its capital structure, among other things. Fairchild is

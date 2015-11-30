@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 16:11:48.84</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0746reute
-r f BC-SHELL-FRANCAISE-RETUR   03-05 0118</field>
-	<field name = "TITLE">SHELL FRANCAISE RETURNS TO PROFIT IN 1986</field>
+	<field name = "titulo">SHELL FRANCAISE RETURNS TO PROFIT IN 1986</field>
 	<field name = "DATELINE">PARIS, March 5 -</field>
-	<field name = "BODY">Shell Francaise SFMF.PA>, a subsidiary of
+	<field name = "content">Shell Francaise SFMF.PA>, a subsidiary of
 Shell Petroleum NV>, returned to the black last year for the
 first time since 1982, with parent company net profit of 43 mln
 francs against losses of 968 mln in 1985 and 1.07 billion in

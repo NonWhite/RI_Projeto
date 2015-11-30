@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 18:32:23.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2881reute
-r f BC-COMPUTER-AIDED-CADS>   03-31 0114</field>
-	<field name = "TITLE">COMPUTER AIDED CADS>, MCDONNELL MD> IN PACT</field>
+	<field name = "titulo">COMPUTER AIDED CADS>, MCDONNELL MD> IN PACT</field>
 	<field name = "DATELINE">EDEN PRAIRIE, Minn., March 31 -</field>
-	<field name = "BODY">Computer Aided Time Share
+	<field name = "content">Computer Aided Time Share
 Inc said it has signed an agreement with McDonnell Douglas
 Corp's manufacturing and engineering systems unit under which
 it will market McDonnell's crossroads software package to

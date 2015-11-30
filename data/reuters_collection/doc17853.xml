@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 17:54:51.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2672reute
-d f BC-HYCOR-BIO-HYBD.O>-FO   06-01 0078</field>
-	<field name = "TITLE">HYCOR BIO HYBD.O> FORMS UNIT TO SELL PRODUCT</field>
+	<field name = "titulo">HYCOR BIO HYBD.O> FORMS UNIT TO SELL PRODUCT</field>
 	<field name = "DATELINE">FOUNTAIN VALLEY, June 1 -</field>
-	<field name = "BODY">Hycor Biomedical Inc said it was
+	<field name = "content">Hycor Biomedical Inc said it was
 forming a unit, Hycor Instruments Inc, to distribute a line of
 chemistry analyzers made by JEOL Ltd> of Japan.
     The product, called a "clinalyzer," is an automated blood

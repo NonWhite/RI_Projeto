@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 08:14:24.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f0249
-reute
-u f BC-FEBRUARY-U.S.-PURCHAS   03-02 0100</field>
-	<field name = "TITLE">FEBRUARY U.S. PURCHASING MANAGER INDEX FALLS</field>
+	<field name = "titulo">FEBRUARY U.S. PURCHASING MANAGER INDEX FALLS</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">The U.S. economy continued to expand in
+	<field name = "content">The U.S. economy continued to expand in
 February, but at a slower pace than in January which saw a
 spurt of activity, the National Association of Purchasing
 Management (NAPM) said in a report.

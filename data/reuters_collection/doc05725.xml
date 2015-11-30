@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 17:20:53.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3752reute
-u f BC-CONRAIL   03-16 0097</field>
-	<field name = "TITLE">CONRAIL PUBLIC OFFERING TO BE LARGEST IN U.S.</field>
+	<field name = "titulo">CONRAIL PUBLIC OFFERING TO BE LARGEST IN U.S.</field>
 	<field name = "DATELINE">New York, March 16 -</field>
-	<field name = "BODY">In what may easily be the largest
+	<field name = "content">In what may easily be the largest
 initial public offering in U.S. history, Consolidated Rail Corp
 estimated that the sale of its 59 mln government-owned shares
 could earn the freight railroad as much as 1.7 billion dlrs.

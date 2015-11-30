@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 11:02:51.01</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C G T
-f1297reute
-d f BC-JAPANESE-FARMERS-MARC   06-02 0098</field>
-	<field name = "TITLE">JAPANESE FARMERS PROTEST OPENING MARKETS</field>
+	<field name = "titulo">JAPANESE FARMERS PROTEST OPENING MARKETS</field>
 	<field name = "DATELINE">TOKYO, June 2 -</field>
-	<field name = "BODY">Thousands of farmers gathered in central
+	<field name = "content">Thousands of farmers gathered in central
 Tokyo to urge the government to stand firm against foreign
 pressure for further opening up of Japan's markets to foreign
 agricultural products, union officials said.

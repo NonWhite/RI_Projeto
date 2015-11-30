@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">sprinkel</field>
-	<field name = "UNKNOWN">RM
-f0974reute
-u f BC-U.S.-OFFICIALS-DISAGR   03-12 0102</field>
-	<field name = "TITLE">U.S. OFFICIALS DISAGREE ON REDUCING BUDGET DEFICIT</field>
+	<field name = "titulo">U.S. OFFICIALS DISAGREE ON REDUCING BUDGET DEFICIT</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Senior U.S. Economic officials
+	<field name = "content">Senior U.S. Economic officials
 disagree on the likelihood the government can meet its budget
 deficit reduction targets.
     Beryl Sprinkel, chairman of the Council of Economic

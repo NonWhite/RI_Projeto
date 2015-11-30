@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 11:27:58.84</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C L
-f0633reute
-b f AM-ANTIBIOTICS   03-05 0128</field>
-	<field name = "TITLE">ANTIBIOTICS IN FEED AID DEADLY BACTERIA: STUDY</field>
+	<field name = "titulo">ANTIBIOTICS IN FEED AID DEADLY BACTERIA: STUDY</field>
 	<field name = "DATELINE">BOSTON, March 5 -</field>
-	<field name = "BODY">A study of salmonella poisoning has
+	<field name = "content">A study of salmonella poisoning has
 uncovered new evidence that the common practice of feeding
 antibiotics to cattle is helping to create deadly bacteria that
 can infect humans and resist medicines.

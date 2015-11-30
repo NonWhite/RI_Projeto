@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 03:30:37.51</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f0155reute
-u f BC-CHINA-SAYS-POSSIBLE-G   03-24 0110</field>
-	<field name = "TITLE">CHINA SAYS POSSIBLE GOOD HARVEST DESPITE DROUGHT</field>
+	<field name = "titulo">CHINA SAYS POSSIBLE GOOD HARVEST DESPITE DROUGHT</field>
 	<field name = "DATELINE">PEKING, March 24 -</field>
-	<field name = "BODY">China's summer grain harvest may be good
+	<field name = "content">China's summer grain harvest may be good
 despite a serious drought because the State Council (cabinet)
 has spent one billion yuan on irrigation and other anti-drought
 work, a Hong Kong newspaper said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:21:30.62</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0979reute
-r f BC-chrysler-canada,-mmc   04-07 0116</field>
-	<field name = "TITLE">CHRYSLER C> CANADA, MMC SITTIPOL IN SUPPLY PACT</field>
+	<field name = "titulo">CHRYSLER C> CANADA, MMC SITTIPOL IN SUPPLY PACT</field>
 	<field name = "DATELINE">WINDSOR, Ontario, April 7 -</field>
-	<field name = "BODY">Chrysler Canada Ltd, wholly
+	<field name = "content">Chrysler Canada Ltd, wholly
 owned by Chrysler Corp, said it concluded an agreement for MMC
 Sittipol Co Ltd to sell Mitsubishi Colt subcompact cars built
 in Thailand to Chrysler for sale in Canada.

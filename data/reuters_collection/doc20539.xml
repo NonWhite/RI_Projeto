@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:21:54.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2674reute
-r f BC-ELECTROMEDICS-5-FOR-1   10-20 0092</field>
-	<field name = "TITLE">ELECTROMEDICS 5-FOR-1 REVERSE SPLIT APPROVED</field>
+	<field name = "titulo">ELECTROMEDICS 5-FOR-1 REVERSE SPLIT APPROVED</field>
 	<field name = "DATELINE">ENGLEWOOD, Colo., Oct 20 -</field>
-	<field name = "BODY">Electromedics Inc ELMD.O> said
+	<field name = "content">Electromedics Inc ELMD.O> said
 its shareholders voted to approve a 5-for-1 reverse stock
 split.
     Each five authorized and outstanding shares of one ct par

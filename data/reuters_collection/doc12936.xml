@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 11:19:12.24</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1351reute
-d f BC-SOO-LINE-SOO>-TO-SEL   04-03 0085</field>
-	<field name = "TITLE">SOO LINE SOO> TO SELL LAKE STATES DIVISION</field>
+	<field name = "titulo">SOO LINE SOO> TO SELL LAKE STATES DIVISION</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 3 -</field>
-	<field name = "BODY">Soo Line Corp said it agreed to sell
+	<field name = "content">Soo Line Corp said it agreed to sell
 its Lake States Transportation Division to the newly formed
 Wisconsin Central Ltd.
     The division conducts rail operations over about 2,000

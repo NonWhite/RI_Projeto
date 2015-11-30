@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 09:35:55.99</field>
 	<field name = "PLACES">greece</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">C G T M
-f0067reute
-d f PM-GREECE-BLIZZARDS   03-09 0109</field>
-	<field name = "TITLE">HEAVY SNOWS HIT GREECE, ITALY</field>
+	<field name = "titulo">HEAVY SNOWS HIT GREECE, ITALY</field>
 	<field name = "DATELINE">ATHENS, March 9 -</field>
-	<field name = "BODY">Blizzards lashed Greece today, piling up
+	<field name = "content">Blizzards lashed Greece today, piling up
 to 10 feet of snow in places and paralyzing transport in what
 state radio called unprecedented weather conditions for this
 time of year.

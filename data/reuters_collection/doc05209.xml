@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 04:14:13.83</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f1250reute
-u f BC-JAPAN-BUSINESS-DECLIN   03-16 0092</field>
-	<field name = "TITLE">JAPAN BUSINESS DECLINE SEEN BOTTOMING OUT</field>
+	<field name = "titulo">JAPAN BUSINESS DECLINE SEEN BOTTOMING OUT</field>
 	<field name = "DATELINE">TOKYO, March 16 -</field>
-	<field name = "BODY">The extended decline in Japan's overall
+	<field name = "content">The extended decline in Japan's overall
 business performance was likely to bottom out in the current
 January-March quarter, the Finance Ministry said.
     Improved corporate earnings and better prospects for the

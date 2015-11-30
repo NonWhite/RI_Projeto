@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 14:43:07.18</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2124reute
-b f BC-WALL-STREET-STOCKS/LO   04-01 0095</field>
-	<field name = "TITLE">WALL STREET STOCKS/LORAL CORP LOR></field>
+	<field name = "titulo">WALL STREET STOCKS/LORAL CORP LOR></field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Loral Corp climbed 3-3/4 to 48-3/4 amid
+	<field name = "content">Loral Corp climbed 3-3/4 to 48-3/4 amid
 rumors the company might be a takeover target of General
 Electric Co GE>. However, analysts said they were skeptical.
     "Jack Welch doesn't want any more exposure to defense

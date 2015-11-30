@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0566reute
-u f BC-U.S.-TELLS-JAPAN-TO-D   03-05 0096</field>
-	<field name = "TITLE">U.S. TELLS JAPAN TO DO MORE TO CUT TRADE SURPLUS</field>
+	<field name = "titulo">U.S. TELLS JAPAN TO DO MORE TO CUT TRADE SURPLUS</field>
 	<field name = "DATELINE">TOKYO, March 5 -</field>
-	<field name = "BODY">U.S. Undersecretary of State for Economic
+	<field name = "content">U.S. Undersecretary of State for Economic
 Affairs Allen Wallis said he had urged Japan to do much more to
 reduce its large trade surplus with the United States.
     "Our central message to Japan this week was that while we

@@ -27,12 +27,9 @@
 	<field name = "PLACES">venezuela</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">C G
-f0787reute
-u f BC-USDA-COMMENTS-ON-EXPO   03-05 0138</field>
-	<field name = "TITLE">USDA COMMENTS ON EXPORT SALES</field>
+	<field name = "titulo">USDA COMMENTS ON EXPORT SALES</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Corn sales gained 2,494,900 tonnes in
+	<field name = "content">Corn sales gained 2,494,900 tonnes in
 the week ended February 26, the highest weekly total since
 August 1984 and two and three-quarter times the prior week's
 level, the U.S. Agriculture Department said.

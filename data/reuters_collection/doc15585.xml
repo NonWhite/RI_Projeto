@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 10:48:33.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1159reute
-u f BC-JAMESWAY-JMY>-MARCH   04-09 0082</field>
-	<field name = "TITLE">JAMESWAY JMY> MARCH SALES UP 15 PCT</field>
+	<field name = "titulo">JAMESWAY JMY> MARCH SALES UP 15 PCT</field>
 	<field name = "DATELINE">SECAUCUS, N.J., April 9 -</field>
-	<field name = "BODY">Jamesway Corp said sales for the
+	<field name = "content">Jamesway Corp said sales for the
 five weeks ended April Four were up 15 pct to 54.1 mln dlrs
 from 47.1 mln dlrs a year before, with same-store sales up four
 pct.

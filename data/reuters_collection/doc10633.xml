@@ -2,12 +2,9 @@
 	<field name = "DATE">29-MAR-1987 00:15:09.44</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0003reute
-r f BC-CHINA-FOREIGN-RESERVE   03-29 0085</field>
-	<field name = "TITLE">CHINA FOREIGN RESERVES EXCEED 10 BILLION DLRS</field>
+	<field name = "titulo">CHINA FOREIGN RESERVES EXCEED 10 BILLION DLRS</field>
 	<field name = "DATELINE">PEKING, March 29 -</field>
-	<field name = "BODY">China's foreign exchange reserves are
+	<field name = "content">China's foreign exchange reserves are
 more than 10 billion dlrs, enough to cover import payments for
 three to four months, Vice Premier Tian Jiyun said.
     He told a news conference that China also has considerable

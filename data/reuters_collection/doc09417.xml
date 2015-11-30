@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 12:36:22.12</field>
 	<field name = "PLACES">canada</field>
 	<field name = "EXCHANGES">mose</field>
-	<field name = "UNKNOWN">E F
-f1670reute
-r f BC-TORONTO-DOMINION-BUYI   03-25 0111</field>
-	<field name = "TITLE">TORONTO DOMINION BUYING MONTREAL EXCHANGE SEAT</field>
+	<field name = "titulo">TORONTO DOMINION BUYING MONTREAL EXCHANGE SEAT</field>
 	<field name = "DATELINE">MONTREAL, March 25 -</field>
-	<field name = "BODY">Toronto Dominion Bank> said it agreed
+	<field name = "content">Toronto Dominion Bank> said it agreed
 to purchase a seat on the Montreal Stock Exchange for 40,000
 dlrs, subject to regulatory and exchange approval.
     The move came two weeks after Toronto Dominion paid 195,000

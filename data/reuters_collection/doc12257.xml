@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 15:35:56.51</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2289reute
-r f BC-TOWLE-MANUFACTURING-C   04-01 0084</field>
-	<field name = "TITLE">TOWLE MANUFACTURING CO QTOW> 4TH QTR OPER LOSS</field>
+	<field name = "titulo">TOWLE MANUFACTURING CO QTOW> 4TH QTR OPER LOSS</field>
 	<field name = "DATELINE">BOSTON, April 1 -</field>
-	<field name = "BODY">Oper shr loss 1.10 dlrs vs loss 8.63 dlrs
+	<field name = "content">Oper shr loss 1.10 dlrs vs loss 8.63 dlrs
     Oper net loss 5.1 mln vs loss 42.1 mln
     Revs 23.1 mln vs 63.3 mln
     Year

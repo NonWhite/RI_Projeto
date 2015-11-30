@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 10:09:57.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1154reute
-u f BC-corrections   10-20 0066</field>
-	<field name = "TITLE">CORRECTIONS CCAX.O> SEEKS 1,000 PRISON BEDS</field>
+	<field name = "titulo">CORRECTIONS CCAX.O> SEEKS 1,000 PRISON BEDS</field>
 	<field name = "DATELINE">NASHVILLE, Tenn., Oct 20 -</field>
-	<field name = "BODY">Corrections Corp of America said
+	<field name = "content">Corrections Corp of America said
 it has been selected to negotiate a contract with the Texas
 Department of Corrections for the desing, construction,
 financing and management of 1,000 minimum security, pre-release

@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 03:46:02.21</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0138reute
-u f BC-TESCO-EXTENDS-HILLARD   04-07 0086</field>
-	<field name = "TITLE">TESCO EXTENDS HILLARDS OFFER</field>
+	<field name = "titulo">TESCO EXTENDS HILLARDS OFFER</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Tesco Plc TSCO.L> said it was extending
+	<field name = "content">Tesco Plc TSCO.L> said it was extending
 its 151 mln stg contested bid for Hillards Plc> until May 1.
     It said it now controlled 9.8 pct of Hillards shares,
 comprising acceptances of the offer for 1.5 mln, or 3.1 pct,

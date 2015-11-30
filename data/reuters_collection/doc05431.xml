@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 11:37:45.48</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f2536reute
-r f BC-GERMAN-BOURSE-TURNOVE   03-16 0112</field>
-	<field name = "TITLE">GERMAN BOURSE TURNOVER TAX DECISION ANGERS BANKS</field>
+	<field name = "titulo">GERMAN BOURSE TURNOVER TAX DECISION ANGERS BANKS</field>
 	<field name = "DATELINE">BONN, March 16 -</field>
-	<field name = "BODY">The failure of the West German government
+	<field name = "content">The failure of the West German government
 to abolish a tax on bourse turnover when other taxes came under
 discussion during recent coalition negotiations was a "bitter
 disappointment," the president of the West German Federation of

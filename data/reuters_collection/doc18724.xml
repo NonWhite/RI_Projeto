@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 11:16:05.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3477reute
-s f BC-MET-COIL-SYSTEMS-CORP   06-18 0025</field>
-	<field name = "TITLE">MET-COIL SYSTEMS CORP METS.O> SETS REG DIV</field>
+	<field name = "titulo">MET-COIL SYSTEMS CORP METS.O> SETS REG DIV</field>
 	<field name = "DATELINE">CEDAR RAPIDS, Iowa, June 18 -</field>
-	<field name = "BODY">Qtly div three cts vs three cts prior
+	<field name = "content">Qtly div three cts vs three cts prior
     Pay July 31
     Record July 15
  Reuter</field>

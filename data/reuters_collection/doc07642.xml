@@ -4,13 +4,10 @@
 	<field name = "PLACES">switzerland</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0801reute
-r f BC-EC-AND-COMECON-ENDS-T   03-20 0108</field>
-	<field name = "TITLE">EC AND COMECON ENDS TALKS WITH PROGRESS</field>
+	<field name = "titulo">EC AND COMECON ENDS TALKS WITH PROGRESS</field>
 	<field name = "AUTHOR">By Stephanie Nebehay, Reuters</field>
 	<field name = "DATELINE">GENEVA, March 20 -</field>
-	<field name = "BODY">The European Community (EC) and
+	<field name = "content">The European Community (EC) and
 Soviet-led Comecon ended talks here, having made progress on
 setting up formal trade relations, but no breakthrough because
 of Comecon's refusal to recognise West Berlin as part of the

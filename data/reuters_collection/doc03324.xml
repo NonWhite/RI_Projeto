@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 15:27:33.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0521reute
-d f BC-GUINNESS-NAMES-OFFICI   03-09 0104</field>
-	<field name = "TITLE">GUINNESS NAMES OFFICIALS FOR U.S. OPERATIONS</field>
+	<field name = "titulo">GUINNESS NAMES OFFICIALS FOR U.S. OPERATIONS</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Guinness PLC> said William G.
+	<field name = "content">Guinness PLC> said William G.
 Pietersen has been named president of Guinness America Inc in
 addition to his role as president of the company's North
 American Wine and Spirits operations.

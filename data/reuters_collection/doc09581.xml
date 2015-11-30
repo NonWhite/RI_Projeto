@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 16:14:06.69</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2350reute
-b f BC-U.S.-SECURITIES-GROUP   03-25 0088</field>
-	<field name = "TITLE">U.S. SECURITIES GROUP BACKS INSIDER RESTRAINTS</field>
+	<field name = "titulo">U.S. SECURITIES GROUP BACKS INSIDER RESTRAINTS</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The Securities Industry Association
+	<field name = "content">The Securities Industry Association
 backed a variety of restraints on insider trading and hostile
 corporate takeovers and asked Congress to define insider
 trading in law.

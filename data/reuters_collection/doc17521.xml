@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">A RM
-f0985reute
-u f BC-CBT-PROPOSES-JAPANESE   06-01 0115</field>
-	<field name = "TITLE">CBT PROPOSES JAPANESE GOVERNMENT BOND FUTURES</field>
+	<field name = "titulo">CBT PROPOSES JAPANESE GOVERNMENT BOND FUTURES</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">The Chicago Board of Trade (CBT) has
+	<field name = "content">The Chicago Board of Trade (CBT) has
 asked federal regulators for authority to trade a futures
 contract in long-term Japanese government bonds.
     The Commodity Futures Trading Commission (CFTC) said it has

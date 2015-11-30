@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 16:04:22.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y 
-f2422reute
-r f BC-BELDEN-BBE>-TO-SELL   06-29 0090</field>
-	<field name = "TITLE">BELDEN BBE> TO SELL UNITS INTERNATIONALLY</field>
+	<field name = "titulo">BELDEN BBE> TO SELL UNITS INTERNATIONALLY</field>
 	<field name = "DATELINE">NORTH CANTON, Ohio, June 29 -</field>
-	<field name = "BODY">Belden and Blake Energy Co, a
+	<field name = "content">Belden and Blake Energy Co, a
 master limited partnership, said it entered into an agreement
 to sell 400,000 of its units for two mln dlrs in cash.
     The company said Great Pacific Capital S.A.> of Geneva,

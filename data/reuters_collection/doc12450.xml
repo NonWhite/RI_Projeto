@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 06:24:19.42</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0518reute
-b f BC-LUCAS-INDUSTRIES-ISSU   04-02 0110</field>
-	<field name = "TITLE">LUCAS INDUSTRIES ISSUING CONVERTIBLE EUROBOND</field>
+	<field name = "titulo">LUCAS INDUSTRIES ISSUING CONVERTIBLE EUROBOND</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">Lucas Industries Plc LUCS.L> said its
+	<field name = "content">Lucas Industries Plc LUCS.L> said its
 Lucas Industries Inc unit is issuing a 75 mln dlr convertible
 eurobond due April 28, 2002 paying an indicated coupon of 5-1/4
 to 5-1/2 pct and priced at par.

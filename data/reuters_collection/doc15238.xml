@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 14:56:04.60</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2220reute
-u f BC-UAL-UAL>-MAY-RESPOND   04-08 0085</field>
-	<field name = "TITLE">UAL UAL> MAY RESPOND TO PILOTS TODAY</field>
+	<field name = "titulo">UAL UAL> MAY RESPOND TO PILOTS TODAY</field>
 	<field name = "DATELINE">New York, April 8 -</field>
-	<field name = "BODY">UAL Inc may have a response this
+	<field name = "content">UAL Inc may have a response this
 afternoon to the pilots union proposal to buy its United
 Airlines unit, a UAL spokesman said.
     "Obviously, we have a lot of movement in our stock, and we

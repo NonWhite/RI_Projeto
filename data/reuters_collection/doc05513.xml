@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:50:44.64</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f2923reute
-r f BC-AEROSPATIALE-STUDYING   03-16 0120</field>
-	<field name = "TITLE">AEROSPATIALE STUDYING HIGH-SPEED AIRLINER</field>
+	<field name = "titulo">AEROSPATIALE STUDYING HIGH-SPEED AIRLINER</field>
 	<field name = "DATELINE">PARIS, March 16 -</field>
-	<field name = "BODY">France's state-owned Aerospatiale is
+	<field name = "content">France's state-owned Aerospatiale is
 working on designs for a hypersonic plane to fly 150 passengers
 at five times the speed of sound, and plans to unveil computer
 studies at the Paris air show in June, a company spokesman

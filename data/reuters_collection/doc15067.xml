@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:22:35.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1402reute
-d f BC-NANTUCKET-NAN>-NAMES   04-08 0055</field>
-	<field name = "TITLE">NANTUCKET NAN> NAMES NEW HEAD FOR UNIT</field>
+	<field name = "titulo">NANTUCKET NAN> NAMES NEW HEAD FOR UNIT</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Nantucket Industries Inc said James
+	<field name = "content">Nantucket Industries Inc said James
 Adams has been named president of its hosiery division,
 replacing John Wineapple, and Terry Hampton has been named vice
 president of manufacturing for the division, replacing Howard

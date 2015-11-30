@@ -1,14 +1,12 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:41:55.33C G</field>
-	<field name = "UNKNOWN">f1377reute</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-/DROUGHT-CUTS-CHINESE   03-27 0128</field>
-	<field name = "TITLE">DROUGHT CUTS CHINESE WHEAT CROP -- USDA REPORT</field>
+	<field name = "titulo">DROUGHT CUTS CHINESE WHEAT CROP -- USDA REPORT</field>
 	<field name = "DATELINE">WASHINGTON, March 27 -</field>
-	<field name = "BODY">Drought has resulted in a reduction
+	<field name = "content">Drought has resulted in a reduction
 in China's estimated wheat crop this year to 87.0 mln tonnes,
 2.0 mln below last year's harvest, the U.S. Agriculture
 Department's officer in Peking said in a field report.

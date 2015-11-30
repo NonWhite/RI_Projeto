@@ -2,13 +2,10 @@
 	<field name = "DATE">20-OCT-1987 15:12:44.05</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F 
-f2873reute
-d f BC-MARKETS-SAFEGUARDS (SCHEDULED)  10-20 0083</field>
-	<field name = "TITLE">U.S. SAFETY NETS SHOULD BLOCK 1929-TYPE CRASH</field>
+	<field name = "titulo">U.S. SAFETY NETS SHOULD BLOCK 1929-TYPE CRASH</field>
 	<field name = "AUTHOR">By Michael Posner</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">Cascading global stock prices are
+	<field name = "content">Cascading global stock prices are
 evoking grim memories of the great market crash of 1929, but
 analysts are reminding investors of safeguards in place before
 they stash their savings under the mattress.

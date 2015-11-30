@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:10:04.42</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f1630reute
-u f BC-RHONE-POULENC-PLANS-D   04-13 0089</field>
-	<field name = "TITLE">RHONE-POULENC PLANS DRUG RESEARCH SPENDING</field>
+	<field name = "titulo">RHONE-POULENC PLANS DRUG RESEARCH SPENDING</field>
 	<field name = "DATELINE">MONTREAL, April 13 -</field>
-	<field name = "BODY">(Rhone Poulenc Pharma Inc) said it
+	<field name = "content">(Rhone Poulenc Pharma Inc) said it
 plans to spend 29 mln dlrs over the next five years for
 research and development in Canada. It said the investment
 depends upon passage of a federal government bill which

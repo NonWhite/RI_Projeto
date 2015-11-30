@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 18:50:02.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2750reute
-d f BC-DELMED-DMD>-SELLS-RI   03-19 0092</field>
-	<field name = "TITLE">DELMED DMD> SELLS RIGHTS, PAYS CREDITORS</field>
+	<field name = "titulo">DELMED DMD> SELLS RIGHTS, PAYS CREDITORS</field>
 	<field name = "DATELINE">FREEHOLD, N.J., March 19 -</field>
-	<field name = "BODY">Delmed Inc said it sold sales
+	<field name = "content">Delmed Inc said it sold sales
 and distribution rights of its peritoneal dialysis products to
 National Medical Care Inc and entered a five-year agreement to
 supply National Medical with dialysis solutions.

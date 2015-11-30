@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 16:38:37.47</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F 
-f2517reute
-u f BC-tecsyn-terminates   06-29 0106</field>
-	<field name = "TITLE">TECSYN TSNA.TO> TERMINATES TAKEOVER TALKS</field>
+	<field name = "titulo">TECSYN TSNA.TO> TERMINATES TAKEOVER TALKS</field>
 	<field name = "DATELINE">ST. CATHARINES, Ontario, June 29 -</field>
-	<field name = "BODY">TecSyn International Inc
+	<field name = "content">TecSyn International Inc
 said it terminated takeover discussions with a U.S.-based
 investors group after the group was unable to establish access
 to funds to complete the proposed transactions, contrary to

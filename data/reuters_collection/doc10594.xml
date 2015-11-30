@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:59:06.41F</field>
-	<field name = "UNKNOWN">f1937reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">d f BC-STERLING-STRL>-FILES   03-27 0083</field>
-	<field name = "TITLE">STERLING STRL> FILES FOR STOCK OFFERING</field>
+	<field name = "titulo">STERLING STRL> FILES FOR STOCK OFFERING</field>
 	<field name = "DATELINE">AKRON, Ohio, March 27 -</field>
-	<field name = "BODY">Sterling Inc said it filed a
+	<field name = "content">Sterling Inc said it filed a
 registration statement for the proposed offering of 1.5 mln
 shares of common stock.
     Sterling said one mln shares will be sold by the company

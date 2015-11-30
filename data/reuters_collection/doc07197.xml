@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:37:44.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1380reute
-r f BC-TELE-ART-TLARF>-EXTE   03-19 0038</field>
-	<field name = "TITLE">TELE-ART TLARF> EXTENDS WARRANTS</field>
+	<field name = "titulo">TELE-ART TLARF> EXTENDS WARRANTS</field>
 	<field name = "DATELINE">DENVER, March 19 -</field>
-	<field name = "BODY">Tele-Art Inc said its class A warrants
+	<field name = "content">Tele-Art Inc said its class A warrants
 which were due to expire March 19 have been extended to April
 18.
     Tele-Art designs and manufactures digital watches and

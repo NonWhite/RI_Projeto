@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 09:25:48.88</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0308reute
-u f BC-ITALY'S-BNL-TO-ISSUE   03-03 0101</field>
-	<field name = "TITLE">ITALY'S BNL TO ISSUE 120 MLN DLR CONVERTIBLE BOND</field>
+	<field name = "titulo">ITALY'S BNL TO ISSUE 120 MLN DLR CONVERTIBLE BOND</field>
 	<field name = "DATELINE">ROME, March 3 -</field>
-	<field name = "BODY">Italy's state-owned Banca Nazionale del
+	<field name = "content">Italy's state-owned Banca Nazionale del
 Lavoro - BNL> said it would issue 120 mln dlrs of five-year
 convertible eurobonds, an operation to be lead-managed by
 Credit Suisse-First Boston Ltd>.

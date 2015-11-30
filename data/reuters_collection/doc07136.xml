@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 10:45:45.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1130reute
-r f BC-CBS-CBS>-SHAREHOLDER   03-19 0096</field>
-	<field name = "TITLE">CBS CBS> SHAREHOLDER SETS CHALLENGE OF CHAIRMAN</field>
+	<field name = "titulo">CBS CBS> SHAREHOLDER SETS CHALLENGE OF CHAIRMAN</field>
 	<field name = "DATELINE">MIDDLETOWN, Conn., March 19 -</field>
-	<field name = "BODY">Anthony R. Martin-Trigona
+	<field name = "content">Anthony R. Martin-Trigona
 said he plans to announce shareholder action against CBS Inc
 Chairman Larry Tisch tomorrow.
     Martin-Trigona, a self-described public interest lawyer,

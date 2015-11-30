@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 13:37:05.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1913reute
-u f BC-WEBCOR-WER>-SAYS-BAN   04-01 0031</field>
-	<field name = "TITLE">WEBCOR WER> SAYS BANK DEMANDS PAYMENT</field>
+	<field name = "titulo">WEBCOR WER> SAYS BANK DEMANDS PAYMENT</field>
 	<field name = "DATELINE">GARDEN CITY, N.Y., April 1 -</field>
-	<field name = "BODY">Webcor Electronics Inc said
+	<field name = "content">Webcor Electronics Inc said
 its principal creditor, its bank, has demanded payment of all
 Webcor obligations to it.
     Webcor said as previously announced it has failed to make

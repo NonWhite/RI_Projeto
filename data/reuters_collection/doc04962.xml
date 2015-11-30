@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 14:16:25.10</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G
-f0070reute
-d f BC-ARCO-SELLS-TWO-AGRICU   03-13 0087</field>
-	<field name = "TITLE">ARCO SELLS TWO AGRICULTURAL RESEARCH OPERATIONS</field>
+	<field name = "titulo">ARCO SELLS TWO AGRICULTURAL RESEARCH OPERATIONS</field>
 	<field name = "DATELINE">LOS ANGELES, March 13 -</field>
-	<field name = "BODY">Atlantic Richfield Co said it sold
+	<field name = "content">Atlantic Richfield Co said it sold
 its Plan Cell Research Institute unit and its Arco Seed Co
 operations in two transactions for undisclosed prices.
     The company said it sold Dublin, Calif.-based Plant Cell

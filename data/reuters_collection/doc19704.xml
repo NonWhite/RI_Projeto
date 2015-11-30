@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:00:45.10</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM 
-f1540reute
-b f BC-EIB-LAUNCHES-200-MLN   06-29 0099</field>
-	<field name = "TITLE">EIB LAUNCHES 200 MLN MARKS BULLET BOND</field>
+	<field name = "titulo">EIB LAUNCHES 200 MLN MARKS BULLET BOND</field>
 	<field name = "DATELINE">FRANKFURT, June 29 -</field>
-	<field name = "BODY">The European Investment Bank is
+	<field name = "content">The European Investment Bank is
 raising 200 mln marks through an eight-year bullet eurobond
 carrying a 6-1/8 pct coupon and priced at 99-1/2 pct to yield
 6.21 pct at issue, lead manager Westdeutsche Landesbank

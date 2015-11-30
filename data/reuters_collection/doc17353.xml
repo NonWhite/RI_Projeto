@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2826reute
-r f BC-POGO-PPP>-SEES-INCRE   04-28 0094</field>
-	<field name = "TITLE">POGO PPP> SEES INCREASING OIL PRODUCTION</field>
+	<field name = "titulo">POGO PPP> SEES INCREASING OIL PRODUCTION</field>
 	<field name = "DATELINE">HOUSTON, April 28 -</field>
-	<field name = "BODY">Pogo Producing Co said it should gain
+	<field name = "content">Pogo Producing Co said it should gain
 some 700 to 800 barrels per day of additional oil production
 when new onshore wells start production in June.
     The company said work on offshore properties appears to be

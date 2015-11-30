@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 11:48:30.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3622reute
-r f BC-OMI-OMIC.O>-PLANS-TO   06-18 0105</field>
-	<field name = "TITLE">OMI OMIC.O> PLANS TO REDUCE DEBT TO 30 MLN DLRS</field>
+	<field name = "titulo">OMI OMIC.O> PLANS TO REDUCE DEBT TO 30 MLN DLRS</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Omi Corp said it expects to reduce the
+	<field name = "content">Omi Corp said it expects to reduce the
 debt guaranteed by former parent Ogden Corp OG> to 30 mln dlrs
 from about 50 mln dlrs by the end of 1987 from financing
 measures including an employee stock ownership plan.

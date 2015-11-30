@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 04:43:50.83</field>
 	<field name = "PLACES">lebanon</field>
-	<field name = "UNKNOWN">RM V
-f0271reute
-b f BC-LEBANESE-PRIME-MINIST   06-01 0081</field>
-	<field name = "TITLE">LEBANESE PRIME MINISTER KILLED BY HELICOPTER BOMB</field>
+	<field name = "titulo">LEBANESE PRIME MINISTER KILLED BY HELICOPTER BOMB</field>
 	<field name = "DATELINE">BEIRUT, June 1 -</field>
-	<field name = "BODY">Lebanon's Prime Minister Rashid Karami
+	<field name = "content">Lebanon's Prime Minister Rashid Karami
 died from injuries after a bomb exploded in a helicopter flying
 him to Beirut to the northern port of Tripoli, official sources
 said.

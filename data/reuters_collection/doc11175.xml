@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 02:06:42.00</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">RM
-f0071reute
-b f BC-NAKASONE-SAYS-JAPAN-P   03-31 0116</field>
-	<field name = "TITLE">NAKASONE SAYS JAPAN PLANS DRASTIC ECONOMIC PACKAGE</field>
+	<field name = "titulo">NAKASONE SAYS JAPAN PLANS DRASTIC ECONOMIC PACKAGE</field>
 	<field name = "DATELINE">TOKYO, March 31 -</field>
-	<field name = "BODY">Prime Minister Yasuhiro Nakasone said
+	<field name = "content">Prime Minister Yasuhiro Nakasone said
 Japan plans to work out a drastic set of pump-priming measures
 immediately after Parliament passes the 1987/88 budget.
     He told a Lower House budget committee the government is

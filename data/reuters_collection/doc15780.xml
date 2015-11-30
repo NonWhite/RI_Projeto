@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F
-f1904reute
-r f AM-SONY   04-09 0096</field>
-	<field name = "TITLE">SONY CHAIRMAN PLAYS DOWN TRADE CONFLICT</field>
+	<field name = "titulo">SONY CHAIRMAN PLAYS DOWN TRADE CONFLICT</field>
 	<field name = "DATELINE">COLMAR, France, April 9 -</field>
-	<field name = "BODY">Sony Corp SNE.T> chairman Akio
+	<field name = "content">Sony Corp SNE.T> chairman Akio
 Morita played down the U.S.-Japanese trade conflict, saying
 that direct investment abroad was the most effective way to
 reduce Japan's trade surplus.

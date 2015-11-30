@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 14:06:43.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2103reute
-u f BC-GENERAL-MOTORS-GM>-S   04-08 0115</field>
-	<field name = "TITLE">GENERAL MOTORS GM> SETS SHUTDOWN DATES</field>
+	<field name = "titulo">GENERAL MOTORS GM> SETS SHUTDOWN DATES</field>
 	<field name = "DATELINE">DETROIT, April 8 -</field>
-	<field name = "BODY">General Motors Corp said it set dates to
+	<field name = "content">General Motors Corp said it set dates to
 shut down two of its truck and bus facilities that had been
 slated for closure.
     General Motors said its number one line at its Flint,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 09:37:38.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0843reute
-d f BC-C.O.M.B.-CMCO.O>-UNI   06-19 0055</field>
-	<field name = "TITLE">C.O.M.B. CMCO.O> UNIT IN NEW SEVEN-YEAR PACT</field>
+	<field name = "titulo">C.O.M.B. CMCO.O> UNIT IN NEW SEVEN-YEAR PACT</field>
 	<field name = "DATELINE">MINNEAPOLIS, June 19 -</field>
-	<field name = "BODY">C.O.M.B. Co said its Cable Value
+	<field name = "content">C.O.M.B. Co said its Cable Value
 Network (CVN) unit has reached an agreement in principle with
 Tele-Communications Inc TCOM.O> to extend its current
 affiliation agreement to a new seven-year term.

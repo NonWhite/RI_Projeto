@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 11:51:22.76</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0522reute
-r f BC-WAITING-PERIOD-ENDS-O   03-12 0076</field>
-	<field name = "TITLE">WAITING PERIOD ENDS ON WASTE MANAGEMENTWMX> BID</field>
+	<field name = "titulo">WAITING PERIOD ENDS ON WASTE MANAGEMENTWMX> BID</field>
 	<field name = "DATELINE">OAK BROOK, Ill., March 12 -</field>
-	<field name = "BODY">Waste Management Inc said it
+	<field name = "content">Waste Management Inc said it
 received notice of early termination of the Hart-Scott-Rodino
 waiting period for its 270 mln dlr takeover bid for Chemlawn
 Corp CHEM>.

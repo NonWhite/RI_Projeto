@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 04:48:03.41</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0276reute
-u f BC-POORER-CURRENT-PROFIT   06-01 0103</field>
-	<field name = "TITLE">POORER CURRENT PROFITS SEEN FOR JAPAN FIRMS</field>
+	<field name = "titulo">POORER CURRENT PROFITS SEEN FOR JAPAN FIRMS</field>
 	<field name = "DATELINE">TOKYO, June 1 -</field>
-	<field name = "BODY">Poor returns by oil refiners and utilities
+	<field name = "content">Poor returns by oil refiners and utilities
 will drag down average current profits of major Japanese firms
 in the year ending March 31, Wako Research Institute said.
     Current profits will drop an average 13.5 pct after a 7.3

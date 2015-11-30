@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 16:24:08.02</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y 
-f3172reute
-r f BC-TEXACO-TX>-UNIT-RAIS   10-20 0085</field>
-	<field name = "TITLE">TEXACO TX> UNIT RAISES CRUDE OIL PRICES</field>
+	<field name = "titulo">TEXACO TX> UNIT RAISES CRUDE OIL PRICES</field>
 	<field name = "DATELINE">New York, Oct 20 -</field>
-	<field name = "BODY">Texaco Inc said it raised the contract
+	<field name = "content">Texaco Inc said it raised the contract
 price it will pay for most grades of crude oil by 50 cts a
 barrel, effective October 16.
     The company said the increase brings its posting for the

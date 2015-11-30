@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C
-f1863reute
-d f BC-UK-MINISTER-LOOKS-TO   04-03 0106</field>
-	<field name = "TITLE">UK MINISTER LOOKS TO EASE TENSION WITH JAPAN</field>
+	<field name = "titulo">UK MINISTER LOOKS TO EASE TENSION WITH JAPAN</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">The U.K. government hopes for a
+	<field name = "content">The U.K. government hopes for a
 breakthrough on the deadlock with Japan over trade policies
 during next week's visit to Tokyo by Corporate Affairs Minister
 Michael Howard, political sources said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f6955reute
-u f BC-PAPER-SAYS-U.S.-MAY-S   03-18 0113</field>
-	<field name = "TITLE">PAPER SAYS U.S. MAY SEEK TO CURB FOREIGN TAKEOVERS</field>
+	<field name = "titulo">PAPER SAYS U.S. MAY SEEK TO CURB FOREIGN TAKEOVERS</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">The Reagan administration will
+	<field name = "content">The Reagan administration will
 consider curbing foreign takeovers of security-sensitive
 industries such as semiconductors and computers, the New York
 Times said, quoting an unnamed senior administration official.

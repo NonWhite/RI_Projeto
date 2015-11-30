@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 09:44:19.92</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1043reute
-r f BC-NEWELL-CO-NWL>-3RD-Q   10-20 0072</field>
-	<field name = "TITLE">NEWELL CO NWL> 3RD QTR NET</field>
+	<field name = "titulo">NEWELL CO NWL> 3RD QTR NET</field>
 	<field name = "DATELINE">FREEPORT, ILL., Oct 20 -</field>
-	<field name = "BODY">Shr 75 cts vs 64 cts
+	<field name = "content">Shr 75 cts vs 64 cts
     Net 11,174,000 vs 7,408,000
     Sales 218.8 mln vs 106.3 mln
     NIne Mths

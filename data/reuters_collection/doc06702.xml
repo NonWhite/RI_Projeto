@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 14:02:14.53</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">F
-f8999reute
-r f BC-MGM/UA-MGM>-JOINS-CH   03-18 0084</field>
-	<field name = "TITLE">MGM/UA MGM> JOINS CHINA FILM CORP PACT</field>
+	<field name = "titulo">MGM/UA MGM> JOINS CHINA FILM CORP PACT</field>
 	<field name = "DATELINE">HOLLYWOOD, Calif., March 18 -</field>
-	<field name = "BODY">MGM/UA Communications Co said
+	<field name = "content">MGM/UA Communications Co said
 it has joined Paramount Pictures and MCA Inc's MCA> Universal
 Studios in their agreement with China Film Corp of Beijing to
 distribute motion pictures in China.

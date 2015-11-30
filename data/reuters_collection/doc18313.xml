@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 17:00:16.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2706reute
-r f BC-BELL-ATLANTIC-BEL>-F   06-02 0091</field>
-	<field name = "TITLE">BELL ATLANTIC BEL> FILES FOR NEW YORK SERVICE</field>
+	<field name = "titulo">BELL ATLANTIC BEL> FILES FOR NEW YORK SERVICE</field>
 	<field name = "DATELINE">BASKING RIDGE, N.J., June 2 -</field>
-	<field name = "BODY">Bell Atlantic Mobile Systems
+	<field name = "content">Bell Atlantic Mobile Systems
 said it filed with the New York Public Service Commission
 proposed retail rates to market mobile telephone services in
 the metropolitan New York City area.

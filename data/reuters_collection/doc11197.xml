@@ -5,13 +5,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0291reute
-u f BC-EUROPE-ON-SIDELINES-I   03-31 0115</field>
-	<field name = "TITLE">EUROPE ON SIDELINES IN U.S-JAPAN MICROCHIP ROW</field>
+	<field name = "titulo">EUROPE ON SIDELINES IN U.S-JAPAN MICROCHIP ROW</field>
 	<field name = "AUTHOR">By David Ress, Reuters</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">Rising imports of Japanese-made cars and
+	<field name = "content">Rising imports of Japanese-made cars and
 electronic goods may upset West European officials, but they
 generally seem prepared to stay on the sidelines in the latest
 trade row between the United States and Japan.

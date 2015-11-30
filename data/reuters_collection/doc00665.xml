@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 14:06:12.74</field>
-	<field name = "UNKNOWN">F
-f0649
-reute
-d f BC-BAYER-BAYRY>-MAKES-U   03-02 0069</field>
-	<field name = "TITLE">BAYER BAYRY> MAKES U.S. ACQUISITION</field>
+	<field name = "titulo">BAYER BAYRY> MAKES U.S. ACQUISITION</field>
 	<field name = "DATELINE">PITTSBURGH, MArch 2 -</field>
-	<field name = "BODY">Bayer AG of West Germany said it has
+	<field name = "content">Bayer AG of West Germany said it has
 acquired Wyrough and Loser Inc of Trenton, a maker of rubbr
 processing chemicals, for undisclosed terms.
     It said its Mobay Corp subsidiary will transfer its entire

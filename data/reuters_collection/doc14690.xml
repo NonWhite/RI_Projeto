@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:06:45.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2516reute
-u f BC-DREXEL-TELLS-U.S.-STO   04-07 0109</field>
-	<field name = "TITLE">DREXEL TELLS U.S. STOCK BUYERS TO LOOK ABROAD</field>
+	<field name = "titulo">DREXEL TELLS U.S. STOCK BUYERS TO LOOK ABROAD</field>
 	<field name = "AUTHOR">By Cal Mankowski, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Drexel Burnham Lambert Inc is telling
+	<field name = "content">Drexel Burnham Lambert Inc is telling
 clients getting nervous about the volatile U.S. stock market to
 take a look at European and other foreign stock markets.
     "We're still pushing for a fully invested position (in U.S.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 18:26:04.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2700reute
-d f BC-HUGHES-GMH>-ELECTS-C   04-01 0055</field>
-	<field name = "TITLE">HUGHES GMH> ELECTS CHAIRMAN</field>
+	<field name = "titulo">HUGHES GMH> ELECTS CHAIRMAN</field>
 	<field name = "DATELINE">LOS ANGELES, APril 1 -</field>
-	<field name = "BODY">General Motors Corp's Hughes
+	<field name = "content">General Motors Corp's Hughes
 Aircraft Co said it named Albert Wheelon as chairman and chief
 executive officer, succeeding Allen Puckett who retired after
 more than 38 years with the company.

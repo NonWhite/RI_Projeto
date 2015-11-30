@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 15:50:15.73</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G T M
-f2447reute
-u f AM-BRAZIL-STRIKES   03-26 0132</field>
-	<field name = "TITLE">NO SOLUTION SEEN SOON IN BRAZIL BANK STRIKE</field>
+	<field name = "titulo">NO SOLUTION SEEN SOON IN BRAZIL BANK STRIKE</field>
 	<field name = "DATELINE">RIO DE JANEIRO, MARCH 26 -</field>
-	<field name = "BODY">No negotiated solution is in
+	<field name = "content">No negotiated solution is in
 sight to a three-day-old national strike by the majority of
 Brazil's 700,000 bankworkers, a spokesman for the National
 Federation of Banks said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1074reute
-d f BC-AKZO-PLANNING-US-INVE   03-31 0102</field>
-	<field name = "TITLE">AKZO PLANNING US INVESTMENTS</field>
+	<field name = "titulo">AKZO PLANNING US INVESTMENTS</field>
 	<field name = "DATELINE">ARNHEM, Netherlands, March 31 -</field>
-	<field name = "BODY">Dutch chemicals group Akzo
+	<field name = "content">Dutch chemicals group Akzo
 NV AKZO.AS> said it hoped to consolidate its core activities
 this year by making small acquisitions in the US.
    Akzo chairman Aarnoud Loudon told a news conference on its

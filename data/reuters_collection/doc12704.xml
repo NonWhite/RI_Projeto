@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 15:55:11.52</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2405reute
-d f BC-LINEAR-CORP-LINE>-3R   04-02 0050</field>
-	<field name = "TITLE">LINEAR CORP LINE> 3RD QTR FEB 28 NET</field>
+	<field name = "titulo">LINEAR CORP LINE> 3RD QTR FEB 28 NET</field>
 	<field name = "DATELINE">CARLSBAD, Calif., April 2 -</field>
-	<field name = "BODY">Shr profit 15 cts vs profit six cts
+	<field name = "content">Shr profit 15 cts vs profit six cts
     Net profit 471,000 vs profit 193,000
     Sales 14 mln vs 9,795,000
     Nine Mths

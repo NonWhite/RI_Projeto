@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 04:29:53.11</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0194reute
-u f BC-XYVISION-ISSUES-CONVE   04-09 0100</field>
-	<field name = "TITLE">XYVISION ISSUES CONVERTIBLE EUROBOND</field>
+	<field name = "titulo">XYVISION ISSUES CONVERTIBLE EUROBOND</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">XYVision Inc is issuing a 25 mln dlr
+	<field name = "content">XYVision Inc is issuing a 25 mln dlr
 convertible eurobond due May 5, 2002 paying an indicated coupon
 of between 5-3/4 and six pct and priced at par, lead manager
 Credit Suisse First Boston Ltd said.

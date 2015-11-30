@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 14:05:31.27</field>
 	<field name = "TOPICS">alum</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">M F 
-f1918reute
-u f BC-alcan-aluminum-price   06-19 0053</field>
-	<field name = "TITLE">ALCAN RAISES ALUMINUM PRICES TWO CENTS A LB</field>
+	<field name = "titulo">ALCAN RAISES ALUMINUM PRICES TWO CENTS A LB</field>
 	<field name = "DATELINE">NEW YORK, June 19  -</field>
-	<field name = "BODY">Alcan Aluminum Corp, a subsidiary of
+	<field name = "content">Alcan Aluminum Corp, a subsidiary of
 Alcan Aluminium Ltd, said it increased its U.S. primary
 aluminum prices by two cents a lb, effective yesterday.
     The new prices are 72 cents a lb for ingot and 80 cents for

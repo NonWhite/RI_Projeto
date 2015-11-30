@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 17:29:23.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0217
-reute
-d f BC-SOFTWARE-COS-SUPPORT   03-02 0124</field>
-	<field name = "TITLE">SOFTWARE COS SUPPORT NEW APPLE AAPL> PRODUCTS</field>
+	<field name = "titulo">SOFTWARE COS SUPPORT NEW APPLE AAPL> PRODUCTS</field>
 	<field name = "DATELINE">LOS ANGELES, March 2 -</field>
-	<field name = "BODY">Over 30 software companies announced
+	<field name = "content">Over 30 software companies announced
 programs to support Apple Computer Inc's new Macintosh II and
 Macintosh SE computers.
     At a seminar where the products were introduced, software

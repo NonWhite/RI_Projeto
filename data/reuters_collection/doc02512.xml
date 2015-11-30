@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 17:44:30.07</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0023reute
-u f BC-PARADYNE-PDN>-PLEADS   03-05 0095</field>
-	<field name = "TITLE">PARADYNE PDN> PLEADS GUILTY TO CRIMINAL CHARGE</field>
+	<field name = "titulo">PARADYNE PDN> PLEADS GUILTY TO CRIMINAL CHARGE</field>
 	<field name = "DATELINE">LARGO, Fla, March 5 -</field>
-	<field name = "BODY">Paradyne Corp said it pleaded guilty
+	<field name = "content">Paradyne Corp said it pleaded guilty
 to criminal charges of conspiracy to defraud the Social
 Security Administration and agreed to pay 1.2 mln dlrs in fines
 and costs to the U.S. Government.

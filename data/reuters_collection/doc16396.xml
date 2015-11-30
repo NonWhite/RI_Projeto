@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:54:20.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f1545reute
-d f BC-DUFF/PHELPS-DOWNGRADE   04-13 0105</field>
-	<field name = "TITLE">DUFF/PHELPS DOWNGRADES MELLON BANK CORP MEL></field>
+	<field name = "titulo">DUFF/PHELPS DOWNGRADES MELLON BANK CORP MEL></field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">Duff and Phelps today lowered the
+	<field name = "content">Duff and Phelps today lowered the
 senior debt rating of Mellon Bank Corp. to DP-8 (High BBB)
 from DP-6 (middle A) and lowered the preferred stock rating to
 DP-9 (middle BBB) from DP-7 (low A).

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 16:47:49.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2395reute
-r f BC-AUDI-OF-AMERICA-LIFTS   06-19 0061</field>
-	<field name = "TITLE">AUDI OF AMERICA LIFTS CAR PRICES</field>
+	<field name = "titulo">AUDI OF AMERICA LIFTS CAR PRICES</field>
 	<field name = "DATELINE">TROY, Mich., June 19 -</field>
-	<field name = "BODY">Audi of America Inc said it will
+	<field name = "content">Audi of America Inc said it will
 increase prices on all models by an average of 3.9 pct, or 838
 dlrs, effective July 20.
     The increase applies to Audi 4000S, 4000CS Quattro, Coupe

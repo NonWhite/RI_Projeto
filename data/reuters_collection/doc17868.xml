@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 19:03:07.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2758reute
-r f BC-PRESIDENTIAL-PAIR.O>   06-01 0099</field>
-	<field name = "TITLE">PRESIDENTIAL PAIR.O> APRIL LOAD FACTOR DROPS</field>
+	<field name = "titulo">PRESIDENTIAL PAIR.O> APRIL LOAD FACTOR DROPS</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">Presidential Airways Inc said its load
+	<field name = "content">Presidential Airways Inc said its load
 factor for April was 43.8 pct compared with 44.6 pct in the
 year-ago period.
     The airline also said its revenue passenger miles were 53.2

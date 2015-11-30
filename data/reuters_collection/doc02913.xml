@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 17:22:21.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0694reute
-d f BC-AIRCOA-AIRC>-FORMS-L   03-06 0096</field>
-	<field name = "TITLE">AIRCOA AIRC> FORMS LIMITED PARTNERSHIP</field>
+	<field name = "titulo">AIRCOA AIRC> FORMS LIMITED PARTNERSHIP</field>
 	<field name = "DATELINE">DENVER, March 6 -</field>
-	<field name = "BODY">AIRCOA said it formed AIRCOA Hotel
+	<field name = "content">AIRCOA said it formed AIRCOA Hotel
 Partners LP, a limited partnership formed to acquire and
 operate hotel and resort properties.
     AIRCOA said it holds a one pct general partner interest in

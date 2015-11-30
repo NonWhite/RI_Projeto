@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:36:13.68</field>
-	<field name = "UNKNOWN">F RM
-f1614reute
-u f BC-QT8913   04-07 0112</field>
-	<field name = "TITLE">WALL STREET STOCKS HIGHER AT MIDSESSION</field>
+	<field name = "titulo">WALL STREET STOCKS HIGHER AT MIDSESSION</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Wall Street demonstrated its
+	<field name = "content">Wall Street demonstrated its
 perseverance today as it recovered from an early wave of
 selling and posted a strong advance at midday. The gain was
 fueled by a strong auto sector as investors accumulated the

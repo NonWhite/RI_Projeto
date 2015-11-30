@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:12:51.13F</field>
-	<field name = "UNKNOWN">f1549reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-PRAXIS-BIOLOGICS-INC   03-27 0093</field>
-	<field name = "TITLE">PRAXIS BIOLOGICS INC> MAKES INITIAL STOCK SALE</field>
+	<field name = "titulo">PRAXIS BIOLOGICS INC> MAKES INITIAL STOCK SALE</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., March 27 -</field>
-	<field name = "BODY">Praxis Biologics Inc said it
+	<field name = "content">Praxis Biologics Inc said it
 began its initial public common stock offering of 1,750,000
 shares at 15.50 dlrs a share.
     The company said proceeds of the offering will be used to

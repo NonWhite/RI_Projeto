@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 11:47:58.01</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">F A RM
-f5503reute
-b f BC-/BANKAMERICA-BAC>-MA   03-17 0108</field>
-	<field name = "TITLE">BANKAMERICA BAC> MAY RECLASSIFY BRAZIL LOANS</field>
+	<field name = "titulo">BANKAMERICA BAC> MAY RECLASSIFY BRAZIL LOANS</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">BankAmerica Corp may place its
+	<field name = "content">BankAmerica Corp may place its
 long-term loans to Brazil on nonaccrual status if Brazil
 continues to defer interest payments on the loans, the bank
 holding company said in a filing with the Securities and

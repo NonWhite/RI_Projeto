@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 03:50:55.81</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0186reute
-b f BC-BOLIDEN-TO-ANNOUNCE-M   04-01 0090</field>
-	<field name = "TITLE">BOLIDEN TO ANNOUNCE MAJOR CORPORATE TAKEOVER - OFFICIAL</field>
+	<field name = "titulo">BOLIDEN TO ANNOUNCE MAJOR CORPORATE TAKEOVER - OFFICIAL</field>
 	<field name = "DATELINE">STOCKHOLM, April 1 -</field>
-	<field name = "BODY">Boliden AB BLDS ST> mining and metals
+	<field name = "content">Boliden AB BLDS ST> mining and metals
 group said it will announce a major foreign corporate takeover
 today involving a company with an annual turnover of two
 billion crowns.

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 05:56:00.41</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f0314reute
-u f BC-GEBRUEDER-SULZER-1986   04-09 0087</field>
-	<field name = "TITLE">GEBRUEDER SULZER 1986 PROFIT UP ALMOST 60 PCT</field>
+	<field name = "titulo">GEBRUEDER SULZER 1986 PROFIT UP ALMOST 60 PCT</field>
 	<field name = "DATELINE">WINTERTHUR, Switzerland, April 9 -</field>
-	<field name = "BODY">Year 1986
+	<field name = "content">Year 1986
     Consolidated net profit 67 mln Swiss francs vs 42 mln.
     Dividend 100 francs per registered share vs 80 francs and
 10 francs per participation certificate vs eight.

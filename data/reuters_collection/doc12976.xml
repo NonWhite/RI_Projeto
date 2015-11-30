@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 12:12:50.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1559reute
-u f BC-COASTAL-CGP>-TO-FILE   04-03 0068</field>
-	<field name = "TITLE">COASTAL CGP> TO FILE PLAN FOR TRANSAMERICAN</field>
+	<field name = "titulo">COASTAL CGP> TO FILE PLAN FOR TRANSAMERICAN</field>
 	<field name = "DATELINE">HOUSTON, April 3 -</field>
-	<field name = "BODY">Coastal Corp said it will file an
+	<field name = "content">Coastal Corp said it will file an
 alternate proposal to reorganize TransAmerican Natural Gas
 Corp, the privately-owned Texas firm in bankruptcy, on April
 15.

@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 14:36:38.12</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4268reute
-d f BC-CBC-BANCORP-TO-BE-ACQ   06-18 0104</field>
-	<field name = "TITLE">CBC BANCORP TO BE ACQUIRED BY UNION PLANTERS</field>
+	<field name = "titulo">CBC BANCORP TO BE ACQUIRED BY UNION PLANTERS</field>
 	<field name = "DATELINE">COOKEVILLE, Tenn., June 18 -</field>
-	<field name = "BODY">CBC Bancorp Inc> said it will
+	<field name = "content">CBC Bancorp Inc> said it will
 be acquired by the Memphis-based Union Planters Corp UPCM.O>
 in a merger agreement.
     Details were not disclosed.

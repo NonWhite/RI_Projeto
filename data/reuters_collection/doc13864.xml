@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:17:24.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0957reute
-r f BC-MOTOROLA-MOT>-UNVEIL   04-07 0098</field>
-	<field name = "TITLE">MOTOROLA MOT> UNVEILS NEW COMPUTERS</field>
+	<field name = "titulo">MOTOROLA MOT> UNVEILS NEW COMPUTERS</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Motorola Inc said its Microcomputer
+	<field name = "content">Motorola Inc said its Microcomputer
 Division unveiled the Model 2616 departmental computer, one
 of several systems in the company's new VME Delta Series
 product line, as well as the MVME134 single board computer and

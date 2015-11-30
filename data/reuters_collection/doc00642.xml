@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:44:39.75</field>
-	<field name = "UNKNOWN">F
-f0574
-reute
-h f BC-WESTERN-DIGITAL-WDC>   03-02 0072</field>
-	<field name = "TITLE">WESTERN DIGITAL WDC> ADDS ELECTRONIC MAIL</field>
+	<field name = "titulo">WESTERN DIGITAL WDC> ADDS ELECTRONIC MAIL</field>
 	<field name = "DATELINE">IRVINE, Calif., March 2 -</field>
-	<field name = "BODY">Western Digital Corp said it is
+	<field name = "content">Western Digital Corp said it is
 adding the Network Courier, an electronic mail software package
 by Consumers Software, to its Local Area Network (LAN)
 products.

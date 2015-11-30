@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 04:47:50.97</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0247reute
-b f BC-ABBEY-NATIONAL-HAS-ON   03-25 0093</field>
-	<field name = "TITLE">ABBEY NATIONAL HAS ONE BILLION DLR EURO CD PACT</field>
+	<field name = "titulo">ABBEY NATIONAL HAS ONE BILLION DLR EURO CD PACT</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">Abbey National, the second largest
+	<field name = "content">Abbey National, the second largest
 building society in the U.K., Said it has arranged a one
 billion dlr euro-certificate of deposit program.
     It said this is the largest such program to date for a

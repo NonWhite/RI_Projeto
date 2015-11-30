@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 02:35:00.83</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">F
-f0663
-reute
-u f BC-THAI-AIRWAYS-INTERNAT   03-02 0102</field>
-	<field name = "TITLE">THAI AIRWAYS INTERNATIONAL TO ALMOST DOUBLE FLEET</field>
+	<field name = "titulo">THAI AIRWAYS INTERNATIONAL TO ALMOST DOUBLE FLEET</field>
 	<field name = "DATELINE">BANGKOK, March 2 -</field>
-	<field name = "BODY">Thai Airways International plans to
+	<field name = "content">Thai Airways International plans to
 expand its fleet to 58 from 30 aircraft by 1995, company
 officials said.
     Thamnoon Wanglee, vice-president for finance, told a

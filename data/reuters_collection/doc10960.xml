@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 13:42:58.34</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2059reute
-d f BC-GOLDEN-POULTRY-CHIK>   03-30 0056</field>
-	<field name = "TITLE">GOLDEN POULTRY CHIK> TO MAKE ACQUISITION</field>
+	<field name = "titulo">GOLDEN POULTRY CHIK> TO MAKE ACQUISITION</field>
 	<field name = "DATELINE">ATLANTA, March 30 -</field>
-	<field name = "BODY">golden Poultry Co Inc said it has
+	<field name = "content">golden Poultry Co Inc said it has
 signed a letter of intent to purchase privately-held food
 distributor Don Lowe Foods Inc of Pompano Beach, Fla., for
 undisclosed terms, subject to approval by both boards.

@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 15:20:32.84</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2378reute
-r f BC-OXOCO-INC>-YEAR-LOSS   03-30 0072</field>
-	<field name = "TITLE">OXOCO INC> YEAR LOSS</field>
+	<field name = "titulo">OXOCO INC> YEAR LOSS</field>
 	<field name = "DATELINE">HOUSTON, March 30 -</field>
-	<field name = "BODY">Oper shr loss 6.68 dlrs vs loss 9.95 dlrs
+	<field name = "content">Oper shr loss 6.68 dlrs vs loss 9.95 dlrs
     Oper net loss 53.9 mln vs loss 69.8 mln
     Revs 16.5 mln vs 33.2 mln
     Avg shrs 8,329,492 vs 7,271,668

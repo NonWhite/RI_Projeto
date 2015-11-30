@@ -2,13 +2,10 @@
 	<field name = "DATE">1-APR-1987 01:34:11.41</field>
 	<field name = "PLACES">thailand</field>
 	<field name = "EXCHANGES">set</field>
-	<field name = "UNKNOWN">F
-f0036reute
-u f BC-THAI-STOCKS-EXPECTED   04-01 0100</field>
-	<field name = "TITLE">THAI STOCKS EXPECTED TO CONTINUE RISING</field>
+	<field name = "titulo">THAI STOCKS EXPECTED TO CONTINUE RISING</field>
 	<field name = "AUTHOR">By Vithoon Amorn, Reuters</field>
 	<field name = "DATELINE">BANGKOK, April 1 -</field>
-	<field name = "BODY">Thai stocks have broken all expectations
+	<field name = "content">Thai stocks have broken all expectations
 and brokers and securities analysts said the nine-month bull
 market on the Securities Exchange of Thailand (SET) should last
 through 1987.

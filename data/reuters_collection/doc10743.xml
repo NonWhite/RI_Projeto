@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 06:03:36.19</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0465reute
-u f BC-MANNESMANN-BUYS-INDIR   03-30 0108</field>
-	<field name = "TITLE">MANNESMANN BUYS INDIRECT MAJORITY STAKE IN SACHS</field>
+	<field name = "titulo">MANNESMANN BUYS INDIRECT MAJORITY STAKE IN SACHS</field>
 	<field name = "DATELINE">DUESSELDORF, March 30 -</field>
-	<field name = "BODY">Mannesmann AG MMWG.F> said it has
+	<field name = "content">Mannesmann AG MMWG.F> said it has
 reached a series of agreements giving it an indirect majority
 stake in the Fichtel und Sachs AG> car parts group.
     The takeover is contingent on approval from the Federal

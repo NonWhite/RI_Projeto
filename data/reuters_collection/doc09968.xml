@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 11:39:51.67</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C
-f1537reute
-u f BC-BRAZIL-ASKS-60-DAY-EX   03-26 0122</field>
-	<field name = "TITLE">BRAZIL ASKS 60-DAY EXTENSION SHORT-TERM CREDIT</field>
+	<field name = "titulo">BRAZIL ASKS 60-DAY EXTENSION SHORT-TERM CREDIT</field>
 	<field name = "DATELINE">BRASILIA, MARCH 26 -</field>
-	<field name = "BODY">Brazil today suggested to its foreign
+	<field name = "content">Brazil today suggested to its foreign
 bank creditors an extension of short-term credit lines for 60
 days until May 31, a spokesman for the Central Bank said.
     He said that with the move, called a "standstill"

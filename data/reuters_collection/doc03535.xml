@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 08:12:41.58</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0748reute
-u f BC-STOREHOUSE-CONVERTIBL   03-11 0117</field>
-	<field name = "TITLE">STOREHOUSE CONVERTIBLE BOND RAISED TO 69 MLN STG</field>
+	<field name = "titulo">STOREHOUSE CONVERTIBLE BOND RAISED TO 69 MLN STG</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">The stg convertible bond issue launched
+	<field name = "content">The stg convertible bond issue launched
 Monday for Storehouse PLC STHL.L> was raised to 69 mln stg
 from the original 60 mln, co-lead Swiss Bank Corp International
 said. County NatWest Capital Markets is the other co-lead

@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 09:29:12.30</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0896reute
-u f BC-COMPAQ-CPQ>-EXPECTS   04-08 0105</field>
-	<field name = "TITLE">COMPAQ CPQ> EXPECTS HIGHER FIRST QUARTER NET</field>
+	<field name = "titulo">COMPAQ CPQ> EXPECTS HIGHER FIRST QUARTER NET</field>
 	<field name = "DATELINE">HOUSTON, April 8 -</field>
-	<field name = "BODY">Compaq Computer Corp said it expects
+	<field name = "content">Compaq Computer Corp said it expects
 sales and earnings for the first quarter of 1987 to be higher
 than analysts expectations due to strong demand for its
 products.

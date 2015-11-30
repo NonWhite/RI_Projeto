@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0911reute
-u f BC-ALLIS-CHALMERS-AH>-E   04-01 0077</field>
-	<field name = "TITLE">ALLIS-CHALMERS AH> ESTIMATES PROCEEDS OF SALE</field>
+	<field name = "titulo">ALLIS-CHALMERS AH> ESTIMATES PROCEEDS OF SALE</field>
 	<field name = "DATELINE">MILWAUKEE, WIS., April 1 -</field>
-	<field name = "BODY">Allis-Chalmers Corp said it
+	<field name = "content">Allis-Chalmers Corp said it
 expects cash proceeds from the proposed sale of its solids
 processing equipment and minerals systems businesses to exceed
 90 mln dlrs, with no material gain or loss anticipated from the

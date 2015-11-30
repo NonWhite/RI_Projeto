@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">philippines</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">RM A
-f0026reute
-r f BC-PHILIPPINE,-ARGENTINE   03-04 0112</field>
-	<field name = "TITLE">PHILIPPINE, ARGENTINE DEBT TALKS CONTINUE</field>
+	<field name = "titulo">PHILIPPINE, ARGENTINE DEBT TALKS CONTINUE</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">The Philippines and its bank advisory
+	<field name = "content">The Philippines and its bank advisory
 committee completed a second day of talks on the country's
 request to reschedule 9.4 billion dlrs of debts, bankers said.
     They declined to disclose details of the negotiations, but

@@ -3,12 +3,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0181reute
-u f BC-IRAN-CLAIMS-3,000-IRA   03-11 0110</field>
-	<field name = "TITLE">IRAN CLAIMS 3,000 IRAQI CASUALTIES IN FIGHTING</field>
+	<field name = "titulo">IRAN CLAIMS 3,000 IRAQI CASUALTIES IN FIGHTING</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">An Iranian military commander said Iraqi
+	<field name = "content">An Iranian military commander said Iraqi
 troops suffered 3,000 casualties in a week-old offensive by
 Iran's forces in the mountains of northeast Iraq.
     The Iranian news agency IRNA quoted the commander in the

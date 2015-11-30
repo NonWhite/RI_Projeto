@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 11:40:12.66</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1589reute
-d f BC-CSM-SYSTEMS-INC-CSMS   03-30 0089</field>
-	<field name = "TITLE">CSM SYSTEMS INC CSMS> YEAR ENDED DEC 31 LOSS</field>
+	<field name = "titulo">CSM SYSTEMS INC CSMS> YEAR ENDED DEC 31 LOSS</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">Shr loss 20 cts vs profit 24 cts
+	<field name = "content">Shr loss 20 cts vs profit 24 cts
     Net loss 173,578 vs profit 211,324
     Revs 4,558,244 vs 5,595,644
     NOTE: Earnings per share restated retroactively for all

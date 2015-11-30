@@ -6,12 +6,9 @@
 	<field name = "PEOPLE">kaufman</field>
 	<field name = "PEOPLE">greenspan</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">RM V
-f2138reute
-u f BC-/KAUFMAN-SAYS-GREENSP   06-02 0093</field>
-	<field name = "TITLE">KAUFMAN SAYS GREENSPAN NOMINATION BAD FOR BONDS</field>
+	<field name = "titulo">KAUFMAN SAYS GREENSPAN NOMINATION BAD FOR BONDS</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Henry Kaufman, managing director of
+	<field name = "content">Henry Kaufman, managing director of
 Salomon Brothers Inc, said the nomination of economist Alan
 Greenspan to replace Federal Reserve Board Chairman Paul
 Volcker is bearish in the near term for the fixed income and

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM 
-f0948reute
-u f BC-REAGAN-SAYS-TRADE-BIL   06-19 0099</field>
-	<field name = "TITLE">REAGAN SAYS TRADE BILL FACES VETO IN PRESENT FORM</field>
+	<field name = "titulo">REAGAN SAYS TRADE BILL FACES VETO IN PRESENT FORM</field>
 	<field name = "DATELINE">WASHINGTON, June 19 -</field>
-	<field name = "BODY">President Reagan said he would veto a
+	<field name = "content">President Reagan said he would veto a
 House-passed trade bill requiring mandatory retaliation for
 "unfair trade" if it reached its desk in its present form.
     In a statement at a White House meeting with Senate

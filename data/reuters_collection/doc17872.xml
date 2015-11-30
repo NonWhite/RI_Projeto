@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 19:47:28.52</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2796reute
-u f BC-HARCOURT-HBJ>-DEBENT   06-01 0100</field>
-	<field name = "TITLE">HARCOURT HBJ> DEBENTURES MAY TRIGGER SUIT</field>
+	<field name = "titulo">HARCOURT HBJ> DEBENTURES MAY TRIGGER SUIT</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Holders of convertible subordinated
+	<field name = "content">Holders of convertible subordinated
 debentures of Harcourt Brace Jovanovich Inc threatened to sue
 the company if they do not get more information about how their
 investment will be affected by the company's proposed

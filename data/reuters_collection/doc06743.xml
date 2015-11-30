@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f9187reute
-u f BC-/U.S.-WHEAT-GROWERS-S   03-18 0126</field>
-	<field name = "TITLE">U.S. WHEAT GROWERS SET STATE DEPT TRADE MEETING</field>
+	<field name = "titulo">U.S. WHEAT GROWERS SET STATE DEPT TRADE MEETING</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">The National Association of Wheat
+	<field name = "content">The National Association of Wheat
 Growers, NAWG, board of directors is scheduled to meet
 Secretary of State George Schultz and Undersecretary of State
 Allen Wallis to discuss the Department's current role in farm

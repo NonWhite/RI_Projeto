@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 08:18:08.28</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f4695reute
-d f BC-AMEX-CHANGED-STOP/STO   03-17 0091</field>
-	<field name = "TITLE">AMEX CHANGED STOP/STOP LIMIT ORDER POLICY</field>
+	<field name = "titulo">AMEX CHANGED STOP/STOP LIMIT ORDER POLICY</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">The American Stock Exchange said
+	<field name = "content">The American Stock Exchange said
 effective March Three it started allowing specialists to accept
 both stop orders and stop limit orders in which the stop price
 and limit price are not identical.

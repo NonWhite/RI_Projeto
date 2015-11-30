@@ -3,13 +3,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0031
-reute
-u f BC-HOECHST-TO-RESEARCH-D   03-02 0089</field>
-	<field name = "TITLE">HOECHST TO RESEARCH DISCS WITH U.S., JAPAN FIRMS</field>
+	<field name = "titulo">HOECHST TO RESEARCH DISCS WITH U.S., JAPAN FIRMS</field>
 	<field name = "DATELINE">FRANKFURT, March 2 -</field>
-	<field name = "BODY">Hoechst AG HFAG.F>, Kerdix Inc.>,
+	<field name = "content">Hoechst AG HFAG.F>, Kerdix Inc.>,
 Boulder, Colorado, and Nakamichi Corp>, Tokyo, have agreed to
 pool their research and development on magneto-optical memory
 discs, Hoechst said in a statement.

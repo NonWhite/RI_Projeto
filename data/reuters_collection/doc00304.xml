@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 05:00:35.83</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0837
-reute
-u f BC-NOBEL/FINANCIERE-ROBU   03-02 0109</field>
-	<field name = "TITLE">NOBEL/FINANCIERE ROBUR ISSUE FRENCH FRANC BONDS</field>
+	<field name = "titulo">NOBEL/FINANCIERE ROBUR ISSUE FRENCH FRANC BONDS</field>
 	<field name = "DATELINE">PARIS, March 2 -</field>
-	<field name = "BODY">Nobel and Financiere Robur are issuing
+	<field name = "content">Nobel and Financiere Robur are issuing
 French franc domestic bonds with share warrants, according to
 announcements in the Official Bulletin (BALO).
     Nobel is issuing a 200 mln franc 10-year bond with a 5.5

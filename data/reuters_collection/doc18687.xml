@@ -2,13 +2,10 @@
 	<field name = "DATE">18-JUN-1987 10:37:08.70</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y 
-f3285reute
-u f BC-ARCO-ARC>-SPIN-OFF-S   06-18 0084</field>
-	<field name = "TITLE">ARCO ARC> SPIN-OFF SEEN AT 500 MLN DLRS</field>
+	<field name = "titulo">ARCO ARC> SPIN-OFF SEEN AT 500 MLN DLRS</field>
 	<field name = "AUTHOR">By Samuel Fromartz, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Atlantic Richfield Co, considering a
+	<field name = "content">Atlantic Richfield Co, considering a
 spin-off of a 20 pct interest in its chemical operations, could
 gain about 500 mln dlrs from the deal, industry analysts
 estimated.

@@ -2,13 +2,10 @@
 	<field name = "DATE">17-MAR-1987 17:39:09.02</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f6721reute
-r f BC-STOCKS-VOTE   03-17 0078</field>
-	<field name = "TITLE">U.S. OTC MARKET PROPOSES ONE-SHARE, ONE-VOTE</field>
+	<field name = "titulo">U.S. OTC MARKET PROPOSES ONE-SHARE, ONE-VOTE</field>
 	<field name = "AUTHOR">By Judith Crosson, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">The National Association of Securities
+	<field name = "content">The National Association of Securities
 Dealers said all stock exchanges should require that listed
 companies adopt a "one-share, one-vote" rule, but with a few
 exceptions.

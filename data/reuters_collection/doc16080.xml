@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 23:36:26.43</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f2978reute
-u f BC-FRANCE-APPROVES-LARGE   04-09 0104</field>
-	<field name = "TITLE">FRANCE APPROVES LARGE DEFENCE SPENDING INCREASE</field>
+	<field name = "titulo">FRANCE APPROVES LARGE DEFENCE SPENDING INCREASE</field>
 	<field name = "DATELINE">PARIS, April 10 -</field>
-	<field name = "BODY">The French parliament has approved a
+	<field name = "content">The French parliament has approved a
 substantial increase in defence spending to modernise the
 country's nuclear and conventional forces.
     The bill provides 474 billion francs for defence

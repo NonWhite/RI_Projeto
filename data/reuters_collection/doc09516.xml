@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 14:33:59.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2065reute
-u f BC-CASINO-COMMISSION-DEL   03-25 0102</field>
-	<field name = "TITLE">CASINO COMMISSION DELAYS VOTE ON HOLIDAY HIA></field>
+	<field name = "titulo">CASINO COMMISSION DELAYS VOTE ON HOLIDAY HIA></field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">The New Jersey Casino Control
+	<field name = "content">The New Jersey Casino Control
 Commission said it will put off for one week a decision on
 whether to approve a 2.4 billion dollar recapitalization plan
 previously announced by Holiday Corp HIA>.

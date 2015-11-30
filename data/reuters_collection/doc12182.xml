@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2015reute
-b f BC-FED-BUYS-550-MLN-DLRS   04-01 0060</field>
-	<field name = "TITLE">FED BUYS 550 MLN DLRS OF BILLS FOR CUSTOMER</field>
+	<field name = "titulo">FED BUYS 550 MLN DLRS OF BILLS FOR CUSTOMER</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">The Federal Reserve bought about 550
+	<field name = "content">The Federal Reserve bought about 550
 mln dlrs of U.S. Treasury bills for a customer, a spokeswoman
 said.
     She said the Fed bought bills maturing from May through

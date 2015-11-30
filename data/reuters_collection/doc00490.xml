@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 11:20:39.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0940
-reute
-d f BC-FORD-F>-INCREASES-2N   03-02 0090</field>
-	<field name = "TITLE">FORD F> INCREASES 2ND QTR OUTPUT PLANS -REPORT</field>
+	<field name = "titulo">FORD F> INCREASES 2ND QTR OUTPUT PLANS -REPORT</field>
 	<field name = "DATELINE">DETROIT, March 2 -</field>
-	<field name = "BODY">Ford Motor Co has increased its U.S.
+	<field name = "content">Ford Motor Co has increased its U.S.
 production schedule for the second quarter by 52,000 cars and
 32,000 trucks from previous plans, the trade paper Ward's
 Automotive Reports said.

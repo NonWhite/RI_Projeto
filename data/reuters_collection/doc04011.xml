@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 18:36:05.15</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0900reute
-r f BC-BANK-OF-BRITISH-COLUM   03-11 0060</field>
-	<field name = "TITLE">BANK OF BRITISH COLUMBIA 1ST QTR JAN 31 NET</field>
+	<field name = "titulo">BANK OF BRITISH COLUMBIA 1ST QTR JAN 31 NET</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, March 11 -</field>
-	<field name = "BODY">Oper shr loss two cts vs profit three cts
+	<field name = "content">Oper shr loss two cts vs profit three cts
     Oper net profit 273,000 dlrs vs profit 1,710,000
     YEAR - period ended October 31, 1986
     Oper shr loss 23 cts vs profit 14 cts

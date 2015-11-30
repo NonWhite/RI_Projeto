@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 13:38:06.75</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f4113reute
-r f BC-CANADA-POST-PRESENTS   06-18 0102</field>
-	<field name = "TITLE">CANADA POST PRESENTS NEW CONTRACT OFFER</field>
+	<field name = "titulo">CANADA POST PRESENTS NEW CONTRACT OFFER</field>
 	<field name = "DATELINE">OTTAWA, June 18 -</field>
-	<field name = "BODY">Canada Post said it presented its
+	<field name = "content">Canada Post said it presented its
 striking letter carriers with a new contract offer but both
 sides said there was little indication the offer would end the
 strike.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 18:20:57.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9739reute
-u f BC-HOUSE-VOTES-TO-RAISE   03-18 0109</field>
-	<field name = "TITLE">HOUSE VOTES TO RAISE NATIONAL SPEED LIMIT</field>
+	<field name = "titulo">HOUSE VOTES TO RAISE NATIONAL SPEED LIMIT</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">The House of Representatives voted
+	<field name = "content">The House of Representatives voted
 217 to 206 to raise the national speed limit from 55 to 65
 miles per hour on rural sections of interstate highways.
     The legislation would give state governments the authority

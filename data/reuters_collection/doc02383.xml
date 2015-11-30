@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 15:15:16.06</field>
-	<field name = "UNKNOWN">V RM
-f0543reute
-b f BC-FED'S-JOHNSON-SEES-IN   03-05 0092</field>
-	<field name = "TITLE">FED'S JOHNSON SEES INTEREST RATES STABLE</field>
+	<field name = "titulo">FED'S JOHNSON SEES INTEREST RATES STABLE</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Federal Reserve Board Vice Chairman
+	<field name = "content">Federal Reserve Board Vice Chairman
 Manuel Johnson said he does not see increasing pressure on
 interest rates but said the Fed would watch out for
 developments that could push them higher.

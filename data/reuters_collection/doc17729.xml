@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 14:41:56.05</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f2132reute
-u f BC-FRENCH-TREASURY-DETAI   06-01 0087</field>
-	<field name = "TITLE">FRENCH TREASURY DETAILS PLANNED TAP ISSUE</field>
+	<field name = "titulo">FRENCH TREASURY DETAILS PLANNED TAP ISSUE</field>
 	<field name = "DATELINE">PARIS, June 1 -</field>
-	<field name = "BODY">The French Treasury will issue between
+	<field name = "content">The French Treasury will issue between
 eight and 10 billion francs worth of tap stock, depending on
 market conditions, at its next monthly tender on Thursday, the
 French bond issuing committee said.

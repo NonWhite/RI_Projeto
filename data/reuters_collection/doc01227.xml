@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 14:28:45.25</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0541reute
-d f BC-MAGELLAN-CORP>-SETS   03-03 0094</field>
-	<field name = "TITLE">MAGELLAN CORP> SETS MERGER WITH BALZAC</field>
+	<field name = "titulo">MAGELLAN CORP> SETS MERGER WITH BALZAC</field>
 	<field name = "DATELINE">DENVER, March 3 -</field>
-	<field name = "BODY">Magellan Corp said it has entered into a
+	<field name = "content">Magellan Corp said it has entered into a
 letter of intent to acquire Balzac Investments Inc in a
 transaction that will result in former Balzac shareholders
 owning about 83 pct of the combined company.

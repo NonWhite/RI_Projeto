@@ -3,12 +3,9 @@
 	<field name = "TOPICS">orange</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">F
-f0574reute
-d f BC-U.S.-TO-SET-ORANGE-JU   03-05 0104</field>
-	<field name = "TITLE">U.S. TO SET ORANGE JUICE DUTIES MONDAY</field>
+	<field name = "titulo">U.S. TO SET ORANGE JUICE DUTIES MONDAY</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">The Commerce Department on Monday
+	<field name = "content">The Commerce Department on Monday
 will set final dumping duties on frozen orange juice from
 Brazil, department officials said.
     A preliminary duty of 8.54 pct was set last Oct 17 on the

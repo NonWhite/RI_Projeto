@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 17:04:15.94</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">adb-africa</field>
-	<field name = "UNKNOWN">RM A
-f2718reute
-u f BC-SUBCOMMITTEE-APPROVES   06-02 0123</field>
-	<field name = "TITLE">U.S SUBCOMMITTEE APPROVES DEVELOPMENT BANK FUNDS</field>
+	<field name = "titulo">U.S SUBCOMMITTEE APPROVES DEVELOPMENT BANK FUNDS</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">A House Banking subcommittee approved
+	<field name = "content">A House Banking subcommittee approved
 a bill authorizing U.S. contributions to the International
 Development Association, the Asian Development Fund and the
 Afrian Development Bank.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 14:31:41.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2122reute
-r f BC-PHILADELPHIA-ELECTRIC   03-24 0107</field>
-	<field name = "TITLE">PHILADELPHIA ELECTRIC PE> SELLS MORTGAGE BONDS</field>
+	<field name = "titulo">PHILADELPHIA ELECTRIC PE> SELLS MORTGAGE BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Philadelphia Electric Co is raising
+	<field name = "content">Philadelphia Electric Co is raising
 250 mln dlrs via an offering of first and refunding mortgage
 bonds due 2017 yielding 9.40 pct, said lead manager Morgan
 Stanley and Co Inc.

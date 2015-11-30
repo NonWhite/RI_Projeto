@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 14:26:07.90</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2100reute
-r f BC-LASER-PHOTONICS-LAZR   03-24 0109</field>
-	<field name = "TITLE">LASER PHOTONICS LAZR> SELLS COMMON SHARES</field>
+	<field name = "titulo">LASER PHOTONICS LAZR> SELLS COMMON SHARES</field>
 	<field name = "DATELINE">ORLANDO, Fla., March 24 -</field>
-	<field name = "BODY">Laser Photonics Inc said it sold
+	<field name = "content">Laser Photonics Inc said it sold
 615,385 shares of its common stock to investors for one mln
 dlrs under a previously-announced agreement.
     In connection with the investment, the company said it will

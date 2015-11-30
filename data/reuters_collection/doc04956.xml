@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 14:08:36.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0061reute
-u f BC-U.S.-VIDEO-VVCO>-SAY   03-13 0083</field>
-	<field name = "TITLE">U.S. VIDEO VVCO> SAYS NOTE IS CALLED BY LENDER</field>
+	<field name = "titulo">U.S. VIDEO VVCO> SAYS NOTE IS CALLED BY LENDER</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">United States Video Vending Corp said
+	<field name = "content">United States Video Vending Corp said
 Hill International Inc> called a 260,000 dlr promissory note
 that is collateralized by the assets of United States Video.
     The company, which has two days to repay the note, said 

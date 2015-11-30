@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 19:07:28.91</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0385
-reute
-b f BC-JAPAN-CONSUMER-PRICES   02-26 0073</field>
-	<field name = "TITLE">JAPAN CONSUMER PRICES FALL 0.4 PCT IN JANUARY</field>
+	<field name = "titulo">JAPAN CONSUMER PRICES FALL 0.4 PCT IN JANUARY</field>
 	<field name = "DATELINE">TOKYO, Feb 27 -</field>
-	<field name = "BODY">Japan's unadjusted consumer price index
+	<field name = "content">Japan's unadjusted consumer price index
 (base 1985) fell 0.4 pct to 99.7 in January from the previous
 month, the government's Management and Coodination Agency said.
     The fall compares with a decline of 0.2 pct in December.

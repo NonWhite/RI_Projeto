@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-MAR-1987 22:52:32.21</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0184reute
-u f BC-CHINA-SETS-UP-NEW-FIN   03-29 0117</field>
-	<field name = "TITLE">CHINA SETS UP NEW FINANCIAL INSTITUTION</field>
+	<field name = "titulo">CHINA SETS UP NEW FINANCIAL INSTITUTION</field>
 	<field name = "DATELINE">PEKING, March 30 -</field>
-	<field name = "BODY">China has set up a new nationwide
+	<field name = "content">China has set up a new nationwide
 financial institution which will handle foreign exchange and
 renminbi deposits and loans, leasing, investment, guarantees
 and bond issues, the People's Daily overseas edition said.

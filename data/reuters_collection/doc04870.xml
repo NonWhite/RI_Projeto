@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 12:18:35.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0586reute
-d f BC-PROPOSALS-TO-RELAX-U.   03-13 0081</field>
-	<field name = "TITLE">PROPOSALS TO RELAX U.S. DRUG LAWS POSE PROBLEMS</field>
+	<field name = "titulo">PROPOSALS TO RELAX U.S. DRUG LAWS POSE PROBLEMS</field>
 	<field name = "AUTHOR">By Marjorie Shaffer, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">The Reagan Administration's soon-to-be
+	<field name = "content">The Reagan Administration's soon-to-be
 published proposals to make experimental therapies more rapidly
 and widely available to terminally ill patients pose product
 liability problems for drug companies, experts in the

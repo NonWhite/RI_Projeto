@@ -6,12 +6,9 @@
 	<field name = "TOPICS">fuel</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y RM
-f2109reute
-u f BC-/U.S.-ENERGY-COSTS-RO   04-24 0091</field>
-	<field name = "TITLE">U.S. ENERGY COSTS ROSE IN MARCH BY 1.0 PCT</field>
+	<field name = "titulo">U.S. ENERGY COSTS ROSE IN MARCH BY 1.0 PCT</field>
 	<field name = "DATELINE">WASHINGTON, April 24 -</field>
-	<field name = "BODY">Consumer energy costs rose 1.0 pct
+	<field name = "content">Consumer energy costs rose 1.0 pct
 in March following a moderate rise last month, the Labor
 Department said.
     The March increase in the overall energy costs, including

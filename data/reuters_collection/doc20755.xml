@@ -4,12 +4,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">F A RM Y 
-f3297reute
-r f PM-GULF-AMERICAN (SCHEDULED)  10-20 0105</field>
-	<field name = "TITLE">US DIPLOMATIC MISSIONS ON HIGH ALERT OVER GULF</field>
+	<field name = "titulo">US DIPLOMATIC MISSIONS ON HIGH ALERT OVER GULF</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">The State Department says many U.S.
+	<field name = "content">The State Department says many U.S.
 diplomatic missions overseas are on high alert for possible
 retaliation from Iran for Monday's attack on two Iranian oil
 platforms by American forces in the Gulf.

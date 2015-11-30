@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 09:46:37.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0938reute
-r f BC-GREENWICH-PHARMACEUTI   04-13 0075</field>
-	<field name = "TITLE">GREENWICH PHARMACEUTICALS COMPLETES PLACEMENT</field>
+	<field name = "titulo">GREENWICH PHARMACEUTICALS COMPLETES PLACEMENT</field>
 	<field name = "DATELINE">GREENWICH, Conn., April 13 -</field>
-	<field name = "BODY">Greenwhich Pharmaceuticals Inc
+	<field name = "content">Greenwhich Pharmaceuticals Inc
 GRPI.O> said it has completed a private placement of its
 common stock, generating more than eight mln dlrs in net
 proceeds.

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 11:38:21.78</field>
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C T
-f1393reute
-b f BC-BRAZILIAN-COCOA-EXPOR   04-09 0115</field>
-	<field name = "TITLE">BRAZIL COCOA EXPORTERS UNLIKELY TO LIMIT SALES</field>
+	<field name = "titulo">BRAZIL COCOA EXPORTERS UNLIKELY TO LIMIT SALES</field>
 	<field name = "DATELINE">RIO DE JANEIRO, APRIL 9 -</field>
-	<field name = "BODY">Brazilian cocoa exporters are not
+	<field name = "content">Brazilian cocoa exporters are not
 likely to follow the example of Cocoa Producers Alliance, CPA,
 members, who may limit sales of the product in an effort to
 boost world prices, trade sources said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:30:17.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1353reute
-r f BC-COMBUSTION-ENGINEERIN   04-09 0089</field>
-	<field name = "TITLE">COMBUSTION ENGINEERING CSP> IN PUBLIC OFFERING</field>
+	<field name = "titulo">COMBUSTION ENGINEERING CSP> IN PUBLIC OFFERING</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Combustion Engineering Inc said it will
+	<field name = "content">Combustion Engineering Inc said it will
 offer four mln shares of its common stock at 33.75 dlrs per
 share.
     It said the U.S. offering will be underwritten by Salomon

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 09:15:33.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f0275
-reute
-r f BC-KEYCORP-KEY>-REGISTE   03-03 0085</field>
-	<field name = "TITLE">KEYCORP KEY> REGISTERS SUBORDINATED NOTES</field>
+	<field name = "titulo">KEYCORP KEY> REGISTERS SUBORDINATED NOTES</field>
 	<field name = "DATELINE">ALBANY, N.Y., Marc 3 -</field>
-	<field name = "BODY">KeyCorp said it has filed with the
+	<field name = "content">KeyCorp said it has filed with the
 Securities and Exchange Commission for the offering of 75 mln
 dlrs of subordinated capital notes due March 1, 1999.
     The company said it is anticipated the notes will be

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:12:57.51</field>
-	<field name = "UNKNOWN">T
-f1506reute
-r f BC-LONDON-COMMODITY-EXCH   04-07 0109</field>
-	<field name = "TITLE">LONDON COMMODITY EXCHANGE VOLUME STEADY - ICCH</field>
+	<field name = "titulo">LONDON COMMODITY EXCHANGE VOLUME STEADY - ICCH</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Trading volume on the London Commodity
+	<field name = "content">Trading volume on the London Commodity
 Exchange held steady overall in March, according to figures
 issued by the International Commodities Clearing House.
     Total volume was 238,287 lots against 235,665 in March 1986

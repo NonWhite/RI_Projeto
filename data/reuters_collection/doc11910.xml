@@ -4,12 +4,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">G
-f0918reute
-r f BC-ARGENTINE-GRAIN-SHIPP   04-01 0069</field>
-	<field name = "TITLE">ARGENTINE GRAIN SHIPPING SITUATION</field>
+	<field name = "titulo">ARGENTINE GRAIN SHIPPING SITUATION</field>
 	<field name = "DATELINE">BUENOS AIRES, April 1 -</field>
-	<field name = "BODY">One grain vessel was awaiting berth
+	<field name = "content">One grain vessel was awaiting berth
 at Bahia Blanca, four at Buenos Aires and five at Rosario, on
 March 31, National Grain Board figures show.
     The situation at these ports was as follows, giving the

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0067reute
-b f BC-PAPER-SAYS-U.S.-TRADE   04-17 0112</field>
-	<field name = "TITLE">PAPER SAYS U.S. TRADE DEFICIT CUT TO 13.65 BILLION</field>
+	<field name = "titulo">PAPER SAYS U.S. TRADE DEFICIT CUT TO 13.65 BILLION</field>
 	<field name = "DATELINE">WASHINGTON, April 17 -</field>
-	<field name = "BODY">The Washington Post said the U.S.
+	<field name = "content">The Washington Post said the U.S.
 Commerce Department yesterday issued a new report showing that
 the U.S. Merchandise trade deficit was 13.65 billion dollars in
 February, a reduction of 1.4 billion dlrs from the 15.06

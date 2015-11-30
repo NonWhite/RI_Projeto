@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 13:55:11.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2410reute
-r f BC-TRW-TRW>-UNIT-GETS-3   10-19 0108</field>
-	<field name = "TITLE">TRW TRW> UNIT GETS 36.7 MLN DLRS IN CONTRACTS</field>
+	<field name = "titulo">TRW TRW> UNIT GETS 36.7 MLN DLRS IN CONTRACTS</field>
 	<field name = "DATELINE">FAIRFAX, Va, Oct 19 -</field>
-	<field name = "BODY">TRW Inc's Federal Systems Group said
+	<field name = "content">TRW Inc's Federal Systems Group said
 it received 36.7 mln dlrs in U.S. Navy contracts to begin a
 system upgrade of its anti-submarine warfare operations center
 for the Space and Naval Warfare Systems command.

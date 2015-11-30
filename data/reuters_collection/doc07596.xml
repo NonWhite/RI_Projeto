@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 07:23:25.77</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0464reute
-u f BC-U.K.-UNIT-TRUSTS-REPO   03-20 0111</field>
-	<field name = "TITLE">U.K. UNIT TRUSTS REPORT STRONG RISE IN FEBRUARY</field>
+	<field name = "titulo">U.K. UNIT TRUSTS REPORT STRONG RISE IN FEBRUARY</field>
 	<field name = "DATELINE">LONDON, March 20 -</field>
-	<field name = "BODY">Funds managed by U.K. Unit trusts rose
+	<field name = "content">Funds managed by U.K. Unit trusts rose
 by 2.3 billion stg in February to stand at a record 37.2
 billion, the Unit Trust Association said.
     By comparison, funds under management in January totalled

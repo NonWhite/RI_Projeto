@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 23:35:21.36</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f2779reute
-u f BC-AUSTRALIAN-UNIONS-LAU   04-07 0108</field>
-	<field name = "TITLE">AUSTRALIAN UNIONS LAUNCH NEW SOUTH WALES STRIKES</field>
+	<field name = "titulo">AUSTRALIAN UNIONS LAUNCH NEW SOUTH WALES STRIKES</field>
 	<field name = "DATELINE">SYDNEY, April 8 -</field>
-	<field name = "BODY">Australian trade unions said they have
+	<field name = "content">Australian trade unions said they have
 launched week-long strikes and other industrial action in New
 South Wales (NSW) to protest against new laws that would reduce
 injury compensation payments.

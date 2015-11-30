@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 18:18:56.00</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0167reute
-d f BC-U.S.-CONGRESS-TO-LOOK   03-03 0130</field>
-	<field name = "TITLE">U.S. CONGRESS TO LOOK AT SOIL PROGRAM EXEMPTIONS</field>
+	<field name = "titulo">U.S. CONGRESS TO LOOK AT SOIL PROGRAM EXEMPTIONS</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">The Senate Agriculture Committee is
+	<field name = "content">The Senate Agriculture Committee is
 expected to take up a bill tomorrow that would exempt from
 government conservation regulations those farmers who have
 rotated alfalfa and other multiyear grasses and legumes with

@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:11:18.53</field>
-	<field name = "UNKNOWN">F
-f0450
-reute
-r f BC-AIR-WIS-SERVICES-INC   03-02 0062</field>
-	<field name = "TITLE">AIR WIS SERVICES INC ARWS> 4TH QTR NET</field>
+	<field name = "titulo">AIR WIS SERVICES INC ARWS> 4TH QTR NET</field>
 	<field name = "DATELINE">APPLETON, Wis., March 2 -</field>
-	<field name = "BODY">Shr 32 cts vs five cts
+	<field name = "content">Shr 32 cts vs five cts
     Net 2,362,000 vs 384,000
     Revs 29.5 mln vs 31.2 mln
     Year

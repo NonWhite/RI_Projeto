@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 01:16:45.13</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">israel</field>
-	<field name = "UNKNOWN">RM
-f0033reute
-u f BC-SOVIET-UNION,-ISRAEL   04-01 0092</field>
-	<field name = "TITLE">SOVIET UNION, ISRAEL TO EXCHANGE DELEGATION VISITS</field>
+	<field name = "titulo">SOVIET UNION, ISRAEL TO EXCHANGE DELEGATION VISITS</field>
 	<field name = "DATELINE">TEL AVIV, April 1 -</field>
-	<field name = "BODY">Israel's Ambassador to Washington said
+	<field name = "content">Israel's Ambassador to Washington said
 Israel and the Soviet Union have agreed to exchange visits by
 delegations in a move each hoped would lead to a renewal of
 ties after a 20-year break.

@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 17:01:33.35</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0918reute
-r f BC-PESCH-UNIT-SEEKS-BALA   03-05 0093</field>
-	<field name = "TITLE">PESCH UNIT SEEKS BALANCE OF REPUBLIC HEALTH</field>
+	<field name = "titulo">PESCH UNIT SEEKS BALANCE OF REPUBLIC HEALTH</field>
 	<field name = "DATELINE">CHICAGO, March 5 -</field>
-	<field name = "BODY">Alpha Health Systems Corp, a
+	<field name = "content">Alpha Health Systems Corp, a
 wholly-owned subsidiary of Pesch and Co, said it submitted a
 merger proposal to the board of REPH Acquisition Co, the parent
 company of Republic Health Corp, which is 64 pct owned by Pesch

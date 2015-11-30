@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 14:16:58.27</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V RM
-f0389reute
-b f BC-/WHITE-HOUSE-SLAPS-TA   04-17 0082</field>
-	<field name = "TITLE">WHITE HOUSE SLAPS TARIFFS ON JAPANESE GOODS</field>
+	<field name = "titulo">WHITE HOUSE SLAPS TARIFFS ON JAPANESE GOODS</field>
 	<field name = "DATELINE">SANTA BARBARA, Calif., April 17 -</field>
-	<field name = "BODY">The White House announced
+	<field name = "content">The White House announced
 100 pct tariffs on 300 mln dlrs worth of Japanese electronic
 goods, effective Friday.
     The tariffs were imposed because of alleged Japanese

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 12:24:34.50</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1587reute
-d f BC-CORROON-AND-BLACK-CB   03-19 0062</field>
-	<field name = "TITLE">CORROON AND BLACK CBL> COMPLETES ACQUISITION</field>
+	<field name = "titulo">CORROON AND BLACK CBL> COMPLETES ACQUISITION</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Carroon and Black Corp said it
+	<field name = "content">Carroon and Black Corp said it
 completed the acquisition of Poggi-Harrison Agency Inc> and
 Risk Control Inc>.
     Terms of the acquisitions were not disclosed.

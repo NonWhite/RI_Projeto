@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 13:24:46.45</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0927reute
-h f BC-CENTURY-TELEPHONE-CT   03-12 0050</field>
-	<field name = "TITLE">CENTURY TELEPHONE CTL> TO SELL PROPERTIES</field>
+	<field name = "titulo">CENTURY TELEPHONE CTL> TO SELL PROPERTIES</field>
 	<field name = "DATELINE">MONROE, La., March 12 -</field>
-	<field name = "BODY">Century Telephone Enterprises Inc
+	<field name = "content">Century Telephone Enterprises Inc
 said it has accepted an offer to sell its cable television
 properties in Michigan, Tennessee, Florida, Arkansas and
 Louisiana for a "substantial" gain.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 13:44:23.15</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">RM
-f2057reute
-u f BC-peru-government-assum   03-31 0106</field>
-	<field name = "TITLE">PERU GOVERNMENT ASSUMES DEBT OF ELECTROPERU</field>
+	<field name = "titulo">PERU GOVERNMENT ASSUMES DEBT OF ELECTROPERU</field>
 	<field name = "DATELINE">Lima, march 31 -</field>
-	<field name = "BODY">the peruvian government announced it would
+	<field name = "content">the peruvian government announced it would
 assume 1.36 billion dlrs of foreign medium- and long- term debt
 of the state electrical power firm electroperu sa and its nine
 regional subsidiaries.

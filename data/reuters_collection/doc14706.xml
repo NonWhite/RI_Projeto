@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:24:42.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2551reute
-u f BC-TEXACO-TX>-CONFIRMS   04-07 0084</field>
-	<field name = "TITLE">TEXACO TX> CONFIRMS TEXAS COURT FILING</field>
+	<field name = "titulo">TEXACO TX> CONFIRMS TEXAS COURT FILING</field>
 	<field name = "DATELINE">WHITE PLAINS, N.Y., April 7 -</field>
-	<field name = "BODY">Texaco Inc said it filed a
+	<field name = "content">Texaco Inc said it filed a
 petition in the Texas Court of Appeals for relief of the bond
 and lien provisions of the 10.3 billion dlr judgement in its
 legal dispute with Pennzoil Co PZL>.

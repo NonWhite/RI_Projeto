@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 12:32:41.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V
-f1640reute
-u f BC-/U.S.-SETS-9.75-BILLI   04-03 0058</field>
-	<field name = "TITLE">U.S. SETS 9.75 BILLION DLR YEAR-BILL AUCTION</field>
+	<field name = "titulo">U.S. SETS 9.75 BILLION DLR YEAR-BILL AUCTION</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The U.S. Treasury said it will sell
+	<field name = "content">The U.S. Treasury said it will sell
 9.75 billion dlrs of one-year bills at auction.
     The April 9 sale will pay down about 25 mln dlrs as 9.763
 billion dlrs in bills are maturing.

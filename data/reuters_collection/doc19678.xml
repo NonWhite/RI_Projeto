@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 11:30:17.86</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1417reute
-r f BC-DATACARD-DATC.O>-ADO   06-29 0097</field>
-	<field name = "TITLE">DATACARD DATC.O> ADOPTS DIVIDEND RIGHTS PLAN</field>
+	<field name = "titulo">DATACARD DATC.O> ADOPTS DIVIDEND RIGHTS PLAN</field>
 	<field name = "DATELINE">MINNEAPOLIS, June 29 -</field>
-	<field name = "BODY">DataCard Corp said it adopted a
+	<field name = "content">DataCard Corp said it adopted a
 dividend rights plan in response to Deluxe Check Printers Inc
 DLX> having agreed to sell its 38 pct interest in DataCard to
 National Computer Systems Inc NLCS.O>.

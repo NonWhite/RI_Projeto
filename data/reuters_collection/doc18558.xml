@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 07:25:56.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A 
-f2650reute
-r f BC-REPUBLIC-NEW-YORK-RN   06-18 0054</field>
-	<field name = "TITLE">REPUBLIC NEW YORK RNB> ADDS TO LOAN-LOSS</field>
+	<field name = "titulo">REPUBLIC NEW YORK RNB> ADDS TO LOAN-LOSS</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Republic New York Corp said it would
+	<field name = "content">Republic New York Corp said it would
 add 100 mln dlrs to its allowances for loan losses specifically
 related to its loan exposure to Latin American customers.
     Republic New York estimated its second quarter net loss

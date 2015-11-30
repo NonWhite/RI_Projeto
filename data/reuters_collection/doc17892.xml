@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 03:27:05.22</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM V
-f0153reute
-u f BC-UK-CONSERVATIVES-LEAD   06-02 0092</field>
-	<field name = "TITLE">UK CONSERVATIVES LEAD LABOUR BY SEVEN POINTS, POLL</field>
+	<field name = "titulo">UK CONSERVATIVES LEAD LABOUR BY SEVEN POINTS, POLL</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">British Prime Minister Margaret Thatcher's
+	<field name = "content">British Prime Minister Margaret Thatcher's
 Conservatives lead the opposition Labour party by seven
 percentage points in the June 11 election campaign, according
 to a public opinion poll today.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 15:07:20.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2228reute
-r f BC-RECENT-PROPOSED-OFFER   03-24 0095</field>
-	<field name = "TITLE">RECENT PROPOSED OFFERINGS FILED WITH SEC</field>
+	<field name = "titulo">RECENT PROPOSED OFFERINGS FILED WITH SEC</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">The following are proposed
+	<field name = "content">The following are proposed
 securities offerings filed recently with the Securities and
 Exchange Commission:
     Outboard Marine Corp - Up to 200 mln dlrs of debt

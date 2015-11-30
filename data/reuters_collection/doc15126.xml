@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 12:14:52.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1667reute
-r f BC-CNA-INCOME-SHARES-CN   04-08 0067</field>
-	<field name = "TITLE">CNA INCOME SHARES CNN> FILES FOR NOTE OFFERING</field>
+	<field name = "titulo">CNA INCOME SHARES CNN> FILES FOR NOTE OFFERING</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">CNA Income Shares Inc said it filed
+	<field name = "content">CNA Income Shares Inc said it filed
 with the Securities and Exchange Commission a registration
 statement covering a 30 mln dlr issue of convertible extendible
 notes due 1992.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">ecuador</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y RM 
-f2236reute
-u f BC-ECUADOR-TO-PRODUCE-AB   06-29 0112</field>
-	<field name = "TITLE">ECUADOR TO PRODUCE ABOVE OPEC QUOTA - MINISTER</field>
+	<field name = "titulo">ECUADOR TO PRODUCE ABOVE OPEC QUOTA - MINISTER</field>
 	<field name = "DATELINE">QUITO, June 29 -</field>
-	<field name = "BODY">Ecuador will produce crude oil in excess
+	<field name = "content">Ecuador will produce crude oil in excess
 of its 221,000-bpd OPEC quota during the second half of this
 year, Energy Minister Fernando Santos Alvite told a news
 conference.

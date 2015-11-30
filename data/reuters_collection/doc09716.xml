@@ -4,13 +4,10 @@
 	<field name = "PLACES">south-korea</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0079reute
-u f BC-ECONOMIC-SPOTLIGHT--   03-26 0108</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - HONG KONG'S MORE ACTIVE ROLE</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - HONG KONG'S MORE ACTIVE ROLE</field>
 	<field name = "AUTHOR">By William Kazer, Reuters</field>
 	<field name = "DATELINE">HONG KONG, March 26 -</field>
-	<field name = "BODY">Hong Kong's government has long kept
+	<field name = "content">Hong Kong's government has long kept
 intervention in the economy to a minimum in the belief that
 when it comes to business, businessmen generally know best.
     But the government is slowly being forced to take a more

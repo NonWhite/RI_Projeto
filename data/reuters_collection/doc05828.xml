@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 05:28:21.44</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f4380reute
-u f BC-NISSHO-IWAI-PROPOSES   03-17 0114</field>
-	<field name = "TITLE">NISSHO IWAI PROPOSES WESTINGHOUSE FOR AIRPORT</field>
+	<field name = "titulo">NISSHO IWAI PROPOSES WESTINGHOUSE FOR AIRPORT</field>
 	<field name = "DATELINE">TOKYO, March 17 -</field>
-	<field name = "BODY">Nissho Iwai Corp> proposes to install a
+	<field name = "content">Nissho Iwai Corp> proposes to install a
 transport system built by Westinghouse Electric Corp WX> of
 the U.S. In Japan's six billion dlr offshore airport at Osaka,
 western Japan, a Nissho Iwai spokesman said.

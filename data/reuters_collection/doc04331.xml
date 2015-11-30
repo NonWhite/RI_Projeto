@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 12:29:41.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0706reute
-r f BC-AMERICAN-STORES-ASC>   03-12 0111</field>
-	<field name = "TITLE">AMERICAN STORES ASC> MAY BE DOWNGRADED BY S/P</field>
+	<field name = "titulo">AMERICAN STORES ASC> MAY BE DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 placed on creditwatch with negative implications American
 Stores Co because of its intention to repurchase up to 2.56 mln
 shares of common stock, currently valued at 170 mln dlrs.

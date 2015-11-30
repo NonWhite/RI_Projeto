@@ -4,12 +4,9 @@
 	<field name = "PLACES">libya</field>
 	<field name = "PLACES">chad</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0067reute
-u f BC-LIBYA-STILL-BOMBING-C   04-03 0116</field>
-	<field name = "TITLE">LIBYA STILL BOMBING CHAD AIRSTRIP SAY FRENCH</field>
+	<field name = "titulo">LIBYA STILL BOMBING CHAD AIRSTRIP SAY FRENCH</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">Libyan forces are still bombing the key
+	<field name = "content">Libyan forces are still bombing the key
 Ouadi Doum airstrip in northern Chad captured by Chadian troops
 on March 22, French Defence Minister Andre Giraud said.
     The bombing was still going on even though Libyan troops

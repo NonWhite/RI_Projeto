@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 15:47:12.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0348reute
-r f BC-R.P.-SCHERER-SCHS>-O   03-12 0075</field>
-	<field name = "TITLE">R.P. SCHERER SCHS> OFFERS PREFERRED STOCK</field>
+	<field name = "titulo">R.P. SCHERER SCHS> OFFERS PREFERRED STOCK</field>
 	<field name = "DATELINE">TROY, MICH., March 12 -</field>
-	<field name = "BODY">R.P. Scherer Corp said it is
+	<field name = "content">R.P. Scherer Corp said it is
 offering 1.6 mln shares of 5-3/4 pct convertible exchangeable
 preferred stock at 25 dlrs a share.
     Each stock is convertible into the company's common stock

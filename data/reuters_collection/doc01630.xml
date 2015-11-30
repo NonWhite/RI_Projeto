@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 13:06:44.53</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0142reute
-r f BC-U.S.-SENATE-PANEL-MAK   03-04 0141</field>
-	<field name = "TITLE">U.S. SENATE PANEL MAKES CONSERVATION EXEMPTION</field>
+	<field name = "titulo">U.S. SENATE PANEL MAKES CONSERVATION EXEMPTION</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">The U.S. Senate Agriculture Committee
+	<field name = "content">The U.S. Senate Agriculture Committee
 approved a measure that would exempt farmers who planted
 alfalfa or other multiyear grasses and legumes between 1981 and
 1985 from a federal conservation requirement.

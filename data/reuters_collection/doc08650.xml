@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 06:29:23.93</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0445reute
-u f BC-ALCATEL-CIT-AND-CAP-G   03-24 0105</field>
-	<field name = "TITLE">ALCATEL CIT AND CAP GEMINI WIN SWEDISH CONTRACTS</field>
+	<field name = "titulo">ALCATEL CIT AND CAP GEMINI WIN SWEDISH CONTRACTS</field>
 	<field name = "DATELINE">PARIS, March 24 -</field>
-	<field name = "BODY">Alcatel CIT, the French subsidiary of
+	<field name = "content">Alcatel CIT, the French subsidiary of
 Alcatel NV> which groups the worldwide telecommunications
 business of ITT Corp ITT.N> and France's state-owned Cie
 Generale d'Electricite CGE>, has won a 15 mln French franc

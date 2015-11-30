@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 14:09:00.46</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2006reute
-u f AM-AIRLINES   03-20 0125</field>
-	<field name = "TITLE">SENATOR WANTS STRONGER AIR MERGER REGULATION</field>
+	<field name = "titulo">SENATOR WANTS STRONGER AIR MERGER REGULATION</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">The chairman of the Senate antitrust
+	<field name = "content">The chairman of the Senate antitrust
 subcommittee said the Transportation Department was allowing
 too many airline mergers and proposed its authority be
 transfered to the Justice Department.

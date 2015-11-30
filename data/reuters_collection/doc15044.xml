@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 11:05:28.33</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f1304reute
-r f BC-DUTCH-ADJUSTED-UNEMPL   04-08 0082</field>
-	<field name = "TITLE">DUTCH ADJUSTED UNEMPLOYMENT RISES IN MARCH</field>
+	<field name = "titulo">DUTCH ADJUSTED UNEMPLOYMENT RISES IN MARCH</field>
 	<field name = "DATELINE">THE HAGUE, April 8 -</field>
-	<field name = "BODY">Dutch seasonally adjusted unemployment
+	<field name = "content">Dutch seasonally adjusted unemployment
 rose in the month to end-March to a total 693,000 from 690,600
 at end-February, but was well down from 730,100 at end-March
 1986, Social Affairs Ministry figures show.

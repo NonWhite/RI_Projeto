@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">C G
-f0065reute
-u f BC-AUSTRALIAN-GOVERNMENT   03-03 0112</field>
-	<field name = "TITLE">AUSTRALIAN GOVERNMENT TO PAY SUBSIDIES--USDA</field>
+	<field name = "titulo">AUSTRALIAN GOVERNMENT TO PAY SUBSIDIES--USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">The Australian Government will likely
+	<field name = "content">The Australian Government will likely
 reimburse the Australian Wheat Board, AWB, about 132 mln (U.S.)
 dlrs to pay wheat farmers for their 1986/87 crop, the U.S.
 Agriculture Department said.

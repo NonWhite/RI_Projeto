@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 07:02:06.47</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0494reute
-b f BC-HOKURIKU-ELECTRIC-ISS   04-08 0093</field>
-	<field name = "TITLE">HOKURIKU ELECTRIC ISSUES 35 MLN DLR WARRANT BOND</field>
+	<field name = "titulo">HOKURIKU ELECTRIC ISSUES 35 MLN DLR WARRANT BOND</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">Hokuriku Electric Industry is issuing a
+	<field name = "content">Hokuriku Electric Industry is issuing a
 35 mln dlr equity warrant bond due May 7, 1992 paying an
 indicated coupon of 2-1/8 pct and priced at par, lead manager
 Nomura International Ltd said.

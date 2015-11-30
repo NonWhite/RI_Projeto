@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:29:22.47</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0641reute
-b f BC-GREAT-AMERICAN-ISSUES   03-05 0106</field>
-	<field name = "TITLE">GREAT AMERICAN ISSUES 15 BILLION YEN EUROBOND</field>
+	<field name = "titulo">GREAT AMERICAN ISSUES 15 BILLION YEN EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">Great American First Savings Bank is
+	<field name = "content">Great American First Savings Bank is
 issuing a 15 billion yen eurobond due April 2, 1992 paying five
 pct and priced at 101-3/4 pct, lead manager Nikko Securities Co
 (Europe) Ltd said.

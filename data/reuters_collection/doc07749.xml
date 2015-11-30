@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 11:32:45.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1336reute
-r f BC-FEDDERS-FJQ>-OFFERS   03-20 0076</field>
-	<field name = "TITLE">FEDDERS FJQ> OFFERS PREFERRED STOCK</field>
+	<field name = "titulo">FEDDERS FJQ> OFFERS PREFERRED STOCK</field>
 	<field name = "DATELINE">PEAPACK, N.J., March 20 -</field>
-	<field name = "BODY">Fedders Corp said an offering of
+	<field name = "content">Fedders Corp said an offering of
 1,500,000 shares of 1.75 dlr convertible exchangeable preferred
 stock is under way at 25 dlrs per share through underwriters
 led by Bear Stearns Cos Inc BSC>.

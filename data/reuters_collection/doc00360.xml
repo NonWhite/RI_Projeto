@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 08:16:59.80</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0267
-reute
-r f BC-SCIENTIFIC-MICRO-SYST   03-02 0111</field>
-	<field name = "TITLE">SCIENTIFIC MICRO SYSTEMS SMSI> ACUIRES SUPERMAC</field>
+	<field name = "titulo">SCIENTIFIC MICRO SYSTEMS SMSI> ACUIRES SUPERMAC</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Scientific Micro Systems Inc said it
+	<field name = "content">Scientific Micro Systems Inc said it
 has acquired Supermac Technology, a rapidly growing supplier of
 enhancement products and disc drive subsystems for the Apple
 personal computer market.

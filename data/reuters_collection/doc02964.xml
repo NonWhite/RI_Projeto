@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">RM
-f0906reute
-b f BC-GERMAN-1988-TAX-CUTS   03-07 0114</field>
-	<field name = "TITLE">GERMAN 1988 TAX CUTS RAISED BY 5.2 BILLION MARKS</field>
+	<field name = "titulo">GERMAN 1988 TAX CUTS RAISED BY 5.2 BILLION MARKS</field>
 	<field name = "DATELINE">BONN, March 7 -</field>
-	<field name = "BODY">Senior officials in the West German
+	<field name = "content">Senior officials in the West German
 coalition government said tax cuts planned for next year would
 be increased by 5.2 billion marks, in line with a pledge made
 by Finance Minister Gerhard Stoltenberg at last month's

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:20:20.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3766reute
-r f BC-ZENITH-ZEN>,-SQUIBB   06-18 0089</field>
-	<field name = "TITLE">ZENITH ZEN>, SQUIBB SQB> IN SUPPLY TALKS</field>
+	<field name = "titulo">ZENITH ZEN>, SQUIBB SQB> IN SUPPLY TALKS</field>
 	<field name = "DATELINE">RAMSEY, N.J., June 19 -</field>
-	<field name = "BODY">Zenith Laboratories Inc said it is
+	<field name = "content">Zenith Laboratories Inc said it is
 discusssing with Squibb Corp's SquibbMark division a three-year
 agreement to supply some products to Squibb to sell under a
 SquibbMark label.

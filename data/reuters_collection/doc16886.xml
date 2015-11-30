@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 13:41:19.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0367reute
-u f BC-FORD-F>-AWARDS-BONUS   04-17 0090</field>
-	<field name = "TITLE">FORD F> AWARDS BONUSES OF 164.3 MLN DLRS</field>
+	<field name = "titulo">FORD F> AWARDS BONUSES OF 164.3 MLN DLRS</field>
 	<field name = "DATELINE">DETROIT, April 17 -</field>
-	<field name = "BODY">Ford Motor Co said it awarded 164.3 mln
+	<field name = "content">Ford Motor Co said it awarded 164.3 mln
 dlrs in bonuses to 5,528 executives based on the company's
 record 3.3 billion dlrs in 1986 profits.
     The number two U.S. automaker said chairman Donald Petersen

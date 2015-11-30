@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 18:40:52.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0821reute
-d f BC-BIOMED-RESEARCH-LOSES   03-06 0061</field>
-	<field name = "TITLE">BIOMED RESEARCH LOSES TRANSFER AGENT</field>
+	<field name = "titulo">BIOMED RESEARCH LOSES TRANSFER AGENT</field>
 	<field name = "DATELINE">LOS ANGELES, March 6 -</field>
-	<field name = "BODY">Biomed Research Inc said its
+	<field name = "content">Biomed Research Inc said its
 transfer agent, First security Bank of Utah, will not continue
 to act as transfer agent for the company due to nonpayment of
 fees.

@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 12:59:20.16</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C
-f1921reute
-d f BC-CFTC-SPECULATIVE-LIMI   03-26 0141</field>
-	<field name = "TITLE">CFTC LIMIT PLAN MAY NOT REVERSE LIQUIDITY DROP</field>
+	<field name = "titulo">CFTC LIMIT PLAN MAY NOT REVERSE LIQUIDITY DROP</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">A proposal by the Commodity Futures
+	<field name = "content">A proposal by the Commodity Futures
 Trading Commission, CFTC, to raise federal limits on futures
 speculative positions for certain agricultural commodity
 contracts would not reverse a decline in liquidity in those

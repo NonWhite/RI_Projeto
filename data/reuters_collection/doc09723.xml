@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 02:56:13.45</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0111reute
-u f BC-AIDC-ISSUES-FIRST-AUS   03-26 0101</field>
-	<field name = "TITLE">AIDC ISSUES FIRST AUSTRALIAN DLR MEDIUM TERM NOTES</field>
+	<field name = "titulo">AIDC ISSUES FIRST AUSTRALIAN DLR MEDIUM TERM NOTES</field>
 	<field name = "DATELINE">CANBERRA, March 26 -</field>
-	<field name = "BODY">The Australian Industry Development
+	<field name = "content">The Australian Industry Development
 Corp (AIDC) said it issued 20 mln Australian dlrs of five-year
 notes in London.
     The notes, issued in denominations of 50,000 dlrs, were

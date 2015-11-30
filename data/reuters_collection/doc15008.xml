@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:12:18.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1064reute
-d f BC-HOME-INTENSIVE-KDNY>   04-08 0032</field>
-	<field name = "TITLE">HOME INTENSIVE KDNY> EXTENDS DIALYSIS AT HOME</field>
+	<field name = "titulo">HOME INTENSIVE KDNY> EXTENDS DIALYSIS AT HOME</field>
 	<field name = "DATELINE">NORTH MIAMI BEACH, Fla., April 8 -</field>
-	<field name = "BODY">Home Intensive Care Inc
+	<field name = "content">Home Intensive Care Inc
 said it has opened a Dialysis at Home office in Philadelphia,
 its 12th nationwide.
  Reuter</field>

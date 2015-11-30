@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 13:39:18.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1906reute
-r f BC-PACIFIC-GAS-PCG>-TO   06-01 0101</field>
-	<field name = "TITLE">PACIFIC GAS PCG> TO BUY BACK BONDS</field>
+	<field name = "titulo">PACIFIC GAS PCG> TO BUY BACK BONDS</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Pacific Gas and Electric Co said it will
+	<field name = "content">Pacific Gas and Electric Co said it will
 buy back on July one 93.9 mln dlrs of two mortgage bond issues,
 Series 82A and 82B.
     The redemption will save the company about 2.8 mln dlrs in

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 09:15:38.54</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0901reute
-h f BC-BRITISH-TELECOM-TO-SE   04-02 0113</field>
-	<field name = "TITLE">BRITISH TELECOM TO SELL EQUIPMENT IN NORTH AMERICA</field>
+	<field name = "titulo">BRITISH TELECOM TO SELL EQUIPMENT IN NORTH AMERICA</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">British Telecommunications Plc BTY.L>
+	<field name = "content">British Telecommunications Plc BTY.L>
 will market electronic data transmission equipment of its own
 design in North America, a spokesman said.
     The spokesman told Reuters the equipment, known as

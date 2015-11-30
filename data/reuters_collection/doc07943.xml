@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 15:36:35.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2276reute
-u f BC-BOEING-BA>-WINS-NASA   03-20 0107</field>
-	<field name = "TITLE">BOEING BA> WINS NASA CONTRACT</field>
+	<field name = "titulo">BOEING BA> WINS NASA CONTRACT</field>
 	<field name = "DATELINE">HUNTSVILLE, Ala., March 20 -</field>
-	<field name = "BODY">Boeing Co said the National
+	<field name = "content">Boeing Co said the National
 Aeronautics and Space Administration has selected Boeing to
 operate its computational mission services at the Marshall
 Space Flight Center in Huntsville.

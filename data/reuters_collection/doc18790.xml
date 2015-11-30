@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 12:19:30.32</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">G T 
-f3761reute
-d f BC-FRENCH-FARMERS-WORRIE   06-18 0143</field>
-	<field name = "TITLE">FRENCH FARMERS WORRIED BY FAILURE OF EC TALKS</field>
+	<field name = "titulo">FRENCH FARMERS WORRIED BY FAILURE OF EC TALKS</field>
 	<field name = "DATELINE">PARIS, June 18 -</field>
-	<field name = "BODY">France's leading farmer's union, the
+	<field name = "content">France's leading farmer's union, the
 FNSEA, said it is worried that negotiations on the 1987/88 farm
 price package will now be tackled by European Community leaders
 who do not know the agricultural situation.

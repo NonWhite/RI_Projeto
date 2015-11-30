@@ -3,14 +3,10 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">algeria</field>
-	<field name = "UNKNOWN">Y
-f0255
-reute
-r f BC-LNG-IMPORTS-FROM-ALGE   02-26 0108</field>
-	<field name = "TITLE">LNG IMPORTS FROM ALGERIA UNLIKELY IN 1987</field>
+	<field name = "titulo">LNG IMPORTS FROM ALGERIA UNLIKELY IN 1987</field>
 	<field name = "AUTHOR">BY NAILENE CHOU WIEST, Reuters</field>
 	<field name = "DATELINE">NEW YORK, Feb 26 -</field>
-	<field name = "BODY">Liquefied natural gas imports from
+	<field name = "content">Liquefied natural gas imports from
 Algeria are unlikely to happen in 1987 even though its
 economically feasible, U.S. industry analysts sources said.
     Youcef Yousfi, director-general of Sonatrach, the Algerian

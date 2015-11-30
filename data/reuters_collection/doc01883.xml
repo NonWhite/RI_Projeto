@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 18:52:10.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f0081reute
-d f BC-EXCHANGE-BANK-EXCG>   03-04 0113</field>
-	<field name = "TITLE">EXCHANGE BANK EXCG> SEES BANK INDUSTRY SHAKEOUT</field>
+	<field name = "titulo">EXCHANGE BANK EXCG> SEES BANK INDUSTRY SHAKEOUT</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Opportunities for medium-sized banks to
+	<field name = "content">Opportunities for medium-sized banks to
 compete in the face of the increasing centralization of the
 financial services industry may be dwindling, according to John
 Rau, president of the Exchange National Bank of Chicago.

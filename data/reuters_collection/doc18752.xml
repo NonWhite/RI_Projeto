@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM 
-f3604reute
-b f BC-ITALIAN-BALANCE-OF-PA   06-18 0087</field>
-	<field name = "TITLE">ITALIAN BALANCE OF PAYMENTS IN DEFICIT IN MAY</field>
+	<field name = "titulo">ITALIAN BALANCE OF PAYMENTS IN DEFICIT IN MAY</field>
 	<field name = "DATELINE">ROME, June 18 -</field>
-	<field name = "BODY">Italy's overall balance of payments showed
+	<field name = "content">Italy's overall balance of payments showed
 a deficit of 3,211 billion lire in May compared with a surplus
 of 2,040 billion in April, provisional Bank of Italy figures
 show.

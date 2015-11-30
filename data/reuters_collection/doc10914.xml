@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 12:51:43.04</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f1874reute
-u f BC-NYSE-SAYS-SANTA-FE-S   03-30 0090</field>
-	<field name = "TITLE">NYSE SAYS SANTA FE SFX> DECLINES COMMENT</field>
+	<field name = "titulo">NYSE SAYS SANTA FE SFX> DECLINES COMMENT</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">The New York Stock Exchange said Santa
+	<field name = "content">The New York Stock Exchange said Santa
 Fe Southern Pacific Corp declined to comment on inquiries
 regarding the unusual activity in its stock.
     Earlier, analysts and traders said the stock rose sharply

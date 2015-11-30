@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:38:14.10</field>
-	<field name = "UNKNOWN">V F
-f1048reute
-u f BC-QT8912   04-07 0109</field>
-	<field name = "TITLE">WALL STREET STOCKS LOWER IN EARLY TRADING</field>
+	<field name = "titulo">WALL STREET STOCKS LOWER IN EARLY TRADING</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Wall Street stocks rebounded from their
+	<field name = "content">Wall Street stocks rebounded from their
 early lows as the dollar firmed. Shares of automakers scored a
 second straight session of strong gains, and expectations of
 rising oil prices today sent many energy issues higher, traders

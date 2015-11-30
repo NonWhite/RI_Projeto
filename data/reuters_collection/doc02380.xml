@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 15:13:00.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0535reute
-r f AM-TRW   03-05 0097</field>
-	<field name = "TITLE">TRW TRW> PROMISES TO CORRECT CONTRACT PRACTICES</field>
+	<field name = "titulo">TRW TRW> PROMISES TO CORRECT CONTRACT PRACTICES</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">The chairman of TRW, inc said his
+	<field name = "content">The chairman of TRW, inc said his
 company had overcharged the government on defense contracts but
 promised to prevent the improper conduct from recurring.
     "There were a number of instances of mischarging and other

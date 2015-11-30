@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 07:48:09.04</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0606reute
-u f BC-SUN-LIFE-ASSURANCE-pr   04-01 0056</field>
-	<field name = "TITLE">SUN LIFE ASSURANCE profit up</field>
+	<field name = "titulo">SUN LIFE ASSURANCE profit up</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">Year 1986
+	<field name = "content">Year 1986
     DIV 18.1p making 28.5p vs 23.74p
     PROFIT AFTER TAX 17.4 mln stg vs 14.1 mln
     TAX 0.7 mln stg vs 0.2 mln

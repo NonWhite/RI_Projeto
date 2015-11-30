@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 07:00:00.40</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0403reute
-u f BC-U.K.-BUILDING-SOCIETY   03-20 0112</field>
-	<field name = "TITLE">U.K. BUILDING SOCIETY RECEIPTSRISE IN FEBRUARY</field>
+	<field name = "titulo">U.K. BUILDING SOCIETY RECEIPTSRISE IN FEBRUARY</field>
 	<field name = "DATELINE">LONDON, March 20 -</field>
-	<field name = "BODY">U.K building society net receipts in
+	<field name = "content">U.K building society net receipts in
 February were 472 mln stg, slightly up on January's 456 mln but
 well below the 793 mln stg of February 1986, the Building
 Societies' Association (BSA) said.

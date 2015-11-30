@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 17:19:02.74</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0737reute
-u f BC-wkly-distillate   03-11 0077</field>
-	<field name = "TITLE">EIA SAYS DISTILLATE, GAS STOCKS OFF IN WEEK</field>
+	<field name = "titulo">EIA SAYS DISTILLATE, GAS STOCKS OFF IN WEEK</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">Distillate fuel stocks held in
+	<field name = "content">Distillate fuel stocks held in
 primary storage fell by 8.8 mln barrels in the week ended March
 six to 119.6 mln barrels, the Energy Information Administration
 (EIA) said.

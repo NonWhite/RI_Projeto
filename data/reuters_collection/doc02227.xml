@@ -2,13 +2,10 @@
 	<field name = "DATE">5-MAR-1987 12:14:29.54</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0883reute
-r f BC-BANK-OF-ENGLAND-RESIS   03-05 0114</field>
-	<field name = "TITLE">BANK OF ENGLAND RESISTS PRESSURE FOR RATE CUT</field>
+	<field name = "titulo">BANK OF ENGLAND RESISTS PRESSURE FOR RATE CUT</field>
 	<field name = "AUTHOR">By Rowena Whelan, Reuters</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">The Bank of England again fought against
+	<field name = "content">The Bank of England again fought against
 money and bond market pressure for a pre-Budget interest rate
 cut, leaving the pound to take the strain with a further rise
 in its trade-weighted index to a six-month high.

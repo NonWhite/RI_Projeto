@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 11:33:58.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0822reute
-u f BC-NEXXUS-NEXX>-SIGNS-C   03-03 0077</field>
-	<field name = "TITLE">NEXXUS NEXX> SIGNS CONTRACTS WORTH 10 MLN DLRS</field>
+	<field name = "titulo">NEXXUS NEXX> SIGNS CONTRACTS WORTH 10 MLN DLRS</field>
 	<field name = "DATELINE">BEVERLY HILLS, Calif., March 3 -</field>
-	<field name = "BODY">Nexxus Technologies Inc
+	<field name = "content">Nexxus Technologies Inc
 said it has signed production contracts totaling about 10 mln
 dlrs with three major U.S. gem wholesalers.
     The company said it expects to start operations on these

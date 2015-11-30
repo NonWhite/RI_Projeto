@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">sumita</field>
-	<field name = "UNKNOWN">A
-f0534reute
-r f BC-EXCHANGE-RATES-ALMOST   03-25 0109</field>
-	<field name = "TITLE">EXCHANGE RATES ALMOST WITHIN G-6 LEVELS - SUMITA</field>
+	<field name = "titulo">EXCHANGE RATES ALMOST WITHIN G-6 LEVELS - SUMITA</field>
 	<field name = "DATELINE">TOKYO, March 25 -</field>
-	<field name = "BODY">Bank of Japan governor Satoshi Sumita
+	<field name = "content">Bank of Japan governor Satoshi Sumita
 said that current exchange rates are almost within the levels
 agreed to by six major nations last month in Paris.
     Asked whether a dollar/yen rate of 148 or 149 reflected

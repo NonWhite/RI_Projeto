@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 09:55:45.11</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM 
-f0887reute
-b f BC-NIPPON-OIL-AND-FATS-I   06-19 0109</field>
-	<field name = "TITLE">NIPPON OIL AND FATS ISSUES EQUITY WARRANT EUROBOND</field>
+	<field name = "titulo">NIPPON OIL AND FATS ISSUES EQUITY WARRANT EUROBOND</field>
 	<field name = "DATELINE">LONDON, June 19 -</field>
-	<field name = "BODY">Nippon Oil and Fats Co Ltd is issuing a
+	<field name = "content">Nippon Oil and Fats Co Ltd is issuing a
 70 mln dlr equity warrant eurobond due July 15, 1992 with an
 indicated coupon of 1-3/8 pct and par pricing, lead manager
 Yamaichi International (Europe) Ltd said.

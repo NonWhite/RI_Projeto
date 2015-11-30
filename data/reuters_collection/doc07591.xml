@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 07:13:51.41</field>
 	<field name = "TOPICS">tin</field>
 	<field name = "PLACES">bolivia</field>
-	<field name = "UNKNOWN">A
-f0432reute
-r f BC-BOLIVIAN-MINERS-CALL   03-20 0113</field>
-	<field name = "TITLE">BOLIVIAN MINERS CALL GENERAL STRIKE</field>
+	<field name = "titulo">BOLIVIAN MINERS CALL GENERAL STRIKE</field>
 	<field name = "DATELINE">LA PAZ, March 19 -</field>
-	<field name = "BODY">About 9,000 miners employed by the
+	<field name = "content">About 9,000 miners employed by the
 state corporation, Comibol, declared a general strike as from
 midnight (0400 gmt) to press for higher salaries, a statement
 by the federation for Bolivian mine workers said.

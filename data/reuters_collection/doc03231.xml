@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:42:49.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0976reute
-h f BC-CHECKROBOT-CKRB>-GET   03-09 0060</field>
-	<field name = "TITLE">CHECKROBOT CKRB> GETS FINANCING</field>
+	<field name = "titulo">CHECKROBOT CKRB> GETS FINANCING</field>
 	<field name = "DATELINE">DEERFIELD BEACH, Fla., March 9 -</field>
-	<field name = "BODY">CheckRobot Inc said it
+	<field name = "content">CheckRobot Inc said it
 recieved four mln dlrs in financing through the private
 placement of convertible preferred stock.
     It said 2.8 mln dlrs of the financing has already been

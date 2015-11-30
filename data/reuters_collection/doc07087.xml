@@ -2,13 +2,10 @@
 	<field name = "DATE">19-MAR-1987 09:34:42.05</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0861reute
-u f BC-NEW-MARKET-EMERGES-IN   03-19 0111</field>
-	<field name = "TITLE">NEW MARKET EMERGES IN WARRANTS FOR GOLD</field>
+	<field name = "titulo">NEW MARKET EMERGES IN WARRANTS FOR GOLD</field>
 	<field name = "AUTHOR">By Donald Nordberg, Reuters</field>
 	<field name = "DATELINE">ZURICH, March 19 -</field>
-	<field name = "BODY">A new market has emerged in warrants to
+	<field name = "content">A new market has emerged in warrants to
 buy gold, a vehicle which bankers say brings some of the play
 of commodity options into the field of securities.
     Over the past three weeks, Swiss offices of American banks

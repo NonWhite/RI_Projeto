@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">C G 
-f1890reute
-u f BC-BRAZIL-BUYS-FRENCH-WH   06-19 0100</field>
-	<field name = "TITLE">BRAZIL BUYS FRENCH WHEAT AT TENDER</field>
+	<field name = "titulo">BRAZIL BUYS FRENCH WHEAT AT TENDER</field>
 	<field name = "DATELINE">RIO DE JANEIRO, June 19 -</field>
-	<field name = "BODY">Brazil has bought 75,000 tonnes
+	<field name = "content">Brazil has bought 75,000 tonnes
 of French wheat at tender, a Brazilian Wheat Board spokesman
 said.
     He said the Board accepted offers for 25,000 tonnes of

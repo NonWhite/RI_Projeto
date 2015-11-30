@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 17:51:34.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2779reute
-r f BC-CONSUMERS-POWER-CMS>   04-09 0077</field>
-	<field name = "TITLE">CONSUMERS POWER CMS> TO REDEEM BONDS</field>
+	<field name = "titulo">CONSUMERS POWER CMS> TO REDEEM BONDS</field>
 	<field name = "DATELINE">JACKSON, Mich., April 9 -</field>
-	<field name = "BODY">Consumers Power Co said it has 56
+	<field name = "content">Consumers Power Co said it has 56
 mln dlrs available to be used to redeem at par any 15 pct
 series first mortgage bonds that are not exchanged under an
 outstanding bond exchange program.

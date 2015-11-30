@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 16:18:32.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2513reute
-d f BC-KIDDER,-PEABODY-DEFEN   04-09 0104</field>
-	<field name = "TITLE">KIDDER, PEABODY DEFENDS EMPLOYEE DRUG TESTING</field>
+	<field name = "titulo">KIDDER, PEABODY DEFENDS EMPLOYEE DRUG TESTING</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Kidder, Peabody and Co vice president
+	<field name = "content">Kidder, Peabody and Co vice president
 Edward Weihenmayer said his company was giving drug tests to
 all employees to make sure its funds and assets were being
 handled properly.

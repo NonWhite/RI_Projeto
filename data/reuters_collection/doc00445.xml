@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 10:35:55.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0708
-reute
-r f BC-XEROX-CORP-XRX>-ADDS   03-02 0096</field>
-	<field name = "TITLE">XEROX CORP XRX> ADDS CAPACITY TO SYSTEM</field>
+	<field name = "titulo">XEROX CORP XRX> ADDS CAPACITY TO SYSTEM</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., March 2 -</field>
-	<field name = "BODY">Xerox Corp said it has added a
+	<field name = "content">Xerox Corp said it has added a
 system that can handle more than 3,000 calls per hour and store
 up to 526 hours of messages to its Voice Message Exchange
 product line.

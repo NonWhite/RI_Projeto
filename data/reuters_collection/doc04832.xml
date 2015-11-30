@@ -3,12 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">hog</field>
 	<field name = "PLACES">haiti</field>
-	<field name = "UNKNOWN">L
-f0065reute
-d f PM-PIGS   03-13 0109</field>
-	<field name = "TITLE">HAITI ALLOWS IMPORTATION OF BANNED BLACK PIGS</field>
+	<field name = "titulo">HAITI ALLOWS IMPORTATION OF BANNED BLACK PIGS</field>
 	<field name = "DATELINE">PORT-AU-PRINCE, March 13 -</field>
-	<field name = "BODY">Haiti's agriculture minister
+	<field name = "content">Haiti's agriculture minister
 yesterday announced his department will permit the importation
 of 730 black Creole pigs, which had been banned from the island
 nation since 1983.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 09:52:43.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0899reute
-r f BC-GUILFORD-MILLS-GFD>   03-20 0105</field>
-	<field name = "TITLE">GUILFORD MILLS GFD> SELLS CONVERTIBLE DEBT</field>
+	<field name = "titulo">GUILFORD MILLS GFD> SELLS CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Guilford Mills Inc is raising 75 mln
+	<field name = "content">Guilford Mills Inc is raising 75 mln
 dlrs via an offering of convertible subordinated debentures due
 2012 with a six pct coupon and par pricing, said sole manager
 Bear, Stearns and Co.

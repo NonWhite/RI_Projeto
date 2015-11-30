@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 12:54:30.82</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f8723reute
-u f BC-MONEY-BROKER-SOUGHT-I   03-18 0095</field>
-	<field name = "TITLE">MONEY BROKER SOUGHT IN VOLKSWAGEN CURRENCY SCANDAL</field>
+	<field name = "titulo">MONEY BROKER SOUGHT IN VOLKSWAGEN CURRENCY SCANDAL</field>
 	<field name = "DATELINE">BRUNSWICK, West Germany, March 18 -</field>
-	<field name = "BODY">The state prosecutor
+	<field name = "content">The state prosecutor
 investigating a suspected currency swindle which may have lost
 Volkswagen AG VOWG.F> millions of dollars said he wanted to
 question a Frankfurt-based money broker.

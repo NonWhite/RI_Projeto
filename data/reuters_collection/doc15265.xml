@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 15:37:00.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2360reute
-h f AM-AIRLINES   04-08 0121</field>
-	<field name = "TITLE">AIRLINE FARE DISCLOSURE BILL PROPOSED IN SENATE</field>
+	<field name = "titulo">AIRLINE FARE DISCLOSURE BILL PROPOSED IN SENATE</field>
 	<field name = "DATELINE">WASHINGTON, April 8, Reuter -</field>
-	<field name = "BODY">Angered by late flights and
+	<field name = "content">Angered by late flights and
 complicated restrictions on discount air fares, a senator has
 introduced legislation to make airlines provide more details on
 fares and schedules in their advertisements.

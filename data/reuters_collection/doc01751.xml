@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 15:31:38.93</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0610reute
-w f BC-DALTON-COMMUNICATIONS   03-04 0051</field>
-	<field name = "TITLE">DALTON COMMUNICATIONS INC DALT> 3RD QTR JAN 31</field>
+	<field name = "titulo">DALTON COMMUNICATIONS INC DALT> 3RD QTR JAN 31</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Shr profit three cts vs loss two cts
+	<field name = "content">Shr profit three cts vs loss two cts
     net profit 157,500 vs loss 60,200
     Revs 1.1 mln vs 1.0 mln
     Nine months

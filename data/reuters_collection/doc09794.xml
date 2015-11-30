@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">V
-f0703reute
-u f BC-U.S.-TREASURY'S-BAKER   03-26 0114</field>
-	<field name = "TITLE">U.S. TREASURY'S BAKER OPPOSES TAX INCREASE</field>
+	<field name = "titulo">U.S. TREASURY'S BAKER OPPOSES TAX INCREASE</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">U.S. Treasury Secretary James Baker
+	<field name = "content">U.S. Treasury Secretary James Baker
 said that he opposes a Federal tax increase to help reduce the
 budget deficit and favors spending cuts instead.
     "I don't think it's (a tax increase) is a very good idea

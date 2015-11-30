@@ -3,12 +3,9 @@
 	<field name = "TOPICS">pet-chem</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">trinidad-tobago</field>
-	<field name = "UNKNOWN">Y
-f2706reute
-u f BC-trintoc-and-union-car   03-24 0091</field>
-	<field name = "TITLE">TRINTOC, UNION CARBIDE TO BUILD METHANOL PLANT</field>
+	<field name = "titulo">TRINTOC, UNION CARBIDE TO BUILD METHANOL PLANT</field>
 	<field name = "DATELINE">PORT OF SPAIN, TRINIDAD, March 24 -</field>
-	<field name = "BODY">Trinidad and Tobago is
+	<field name = "content">Trinidad and Tobago is
 finalizing arrangements with Union Carbide UK> of the United
 States and Snamprogetti of Italy for the construction of a
 1,500 tonnes per day methanol plant, Energy Minister Kelvin

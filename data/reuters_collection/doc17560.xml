@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:47:24.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1219reute
-d f BC-THOMPSON-MEDICAL-TM>   06-01 0071</field>
-	<field name = "TITLE">THOMPSON MEDICAL TM> OFFER OVERSUBSCRIBED</field>
+	<field name = "titulo">THOMPSON MEDICAL TM> OFFER OVERSUBSCRIBED</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Thompson Medical Co Inc said about
+	<field name = "content">Thompson Medical Co Inc said about
 1,290,000 shares of its common were tendered before the
 expiration of the company's offer of 20 dlrs a share for up to
 one mln common shares.

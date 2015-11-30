@@ -5,12 +5,9 @@
 	<field name = "PLACES">argentina</field>
 	<field name = "PEOPLE">brodersohn</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">A RM
-f3883reute
-r f BC-debt-prognosis-agreed   03-16 0112</field>
-	<field name = "TITLE">DEBT PROGNOSIS AGREED, BUT NO CURE IN SIGHT</field>
+	<field name = "titulo">DEBT PROGNOSIS AGREED, BUT NO CURE IN SIGHT</field>
 	<field name = "DATELINE">BOSTON, MARCH 16 -</field>
-	<field name = "BODY">Latin America urgently needs more money
+	<field name = "content">Latin America urgently needs more money
 if it is to grow its way out of its deepening debt crisis, but
 fresh ideas about how to stimulate new lending quickly seem to
 be in short supply.

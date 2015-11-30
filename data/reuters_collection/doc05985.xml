@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 10:48:50.49</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5215reute
-d f BC-ROYAL-RESOURCES-RRCO   03-17 0102</field>
-	<field name = "TITLE">ROYAL RESOURCES RRCO> MAKES ACQUISITION</field>
+	<field name = "titulo">ROYAL RESOURCES RRCO> MAKES ACQUISITION</field>
 	<field name = "DATELINE">DENVER, March 17 -</field>
-	<field name = "BODY">Royal Resources Corp said it has
+	<field name = "content">Royal Resources Corp said it has
 exercised its optioon to purchase Montagu Mining Investments
 Inc from Samuel Montagu Ltd> of London for 3,600,000 dlrs in
 cash and 200,000 common shares.

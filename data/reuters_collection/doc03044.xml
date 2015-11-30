@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">C
-f0040reute
-u f BC-CBT,-CME-HEADS-TO-ADD   03-09 0125</field>
-	<field name = "TITLE">CBT, CME HEADS TO ADDRESS CFTC COMMITTEE</field>
+	<field name = "titulo">CBT, CME HEADS TO ADDRESS CFTC COMMITTEE</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">The heads of the Chicago Board of
+	<field name = "content">The heads of the Chicago Board of
 Trade, CBT, and the Chicago Mercantile Exchange, CME, are to
 address a meeting of the Commodity Futures Trading Commission's
 financial products advisory committee March 11 in Chicago, CFTC

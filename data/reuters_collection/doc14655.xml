@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:46:31.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">L
-f2449reute
-d f BC-SENATE-EXTENDS-DAIRY   04-07 0079</field>
-	<field name = "TITLE">SENATE EXTENDS DAIRY COMMISSION REPORT</field>
+	<field name = "titulo">SENATE EXTENDS DAIRY COMMISSION REPORT</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">The Senate approved legislation to
+	<field name = "content">The Senate approved legislation to
 extend until March 31, 1988 the date for the National
 Commission on Dairy Policy to report on the federal milk price
 support program and the dairy industry.

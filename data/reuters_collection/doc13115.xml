@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 15:47:37.66</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C M
-f2194reute
-r f BC-gold-production   04-03 0079</field>
-	<field name = "TITLE">U.S. GOLD PRODUCTION ROSE IN DECEMBER</field>
+	<field name = "titulo">U.S. GOLD PRODUCTION ROSE IN DECEMBER</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">U.S. mine production of gold rose to
+	<field name = "content">U.S. mine production of gold rose to
 244,900 troy ounces in December from 244,749 ounces in
 November, the U.S. Interior Department's Bureau of Mines said.
     U.S. imports of gold in December were 692,700 ounces, vs

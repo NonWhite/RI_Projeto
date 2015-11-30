@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 07:48:29.24</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f0627reute
-u f BC-JACOBS-SUCHARD-EXPECT   03-12 0119</field>
-	<field name = "TITLE">JACOBS SUCHARD EXPECTS ANOTHER EXCELLENT YEAR</field>
+	<field name = "titulo">JACOBS SUCHARD EXPECTS ANOTHER EXCELLENT YEAR</field>
 	<field name = "DATELINE">ZURICH, March 12 -</field>
-	<field name = "BODY">Jacobs Suchard AG JACZ.Z> hopes for
+	<field name = "content">Jacobs Suchard AG JACZ.Z> hopes for
 another excellent year in 1987 after a 27 pct increase in 1986
 net profit. Results in the first few months show it heading in
 the right direction, company president Klaus Jacobs said.

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:51:58.93</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f2931reute
-u f BC-FLOATING-RATE-NOTE-MA   03-16 0111</field>
-	<field name = "TITLE">FLOATING RATE NOTE MARKET STILL IN TURMOIL</field>
+	<field name = "titulo">FLOATING RATE NOTE MARKET STILL IN TURMOIL</field>
 	<field name = "AUTHOR">By Dominique Jackson, Reuters</field>
 	<field name = "DATELINE">LONDON, March 16 -</field>
-	<field name = "BODY">The market in floating rate notes showed
+	<field name = "content">The market in floating rate notes showed
 no clear signs of recovery today from the confusion which sent
 prices tumbling and paralysed trading at the end of last week,
 dealers and bank officials said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 15:38:46.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2351reute
-h f BC-RAI-RESEARCH-RAC>-SE   04-09 0085</field>
-	<field name = "TITLE">RAI RESEARCH RAC> SEES LOWER SALE IN NEAR TERM</field>
+	<field name = "titulo">RAI RESEARCH RAC> SEES LOWER SALE IN NEAR TERM</field>
 	<field name = "DATELINE">HAUPPAUGE, N.Y, April 9 -</field>
-	<field name = "BODY">RAI Research Corp said it appears
+	<field name = "content">RAI Research Corp said it appears
 that the reduced level of sales may continue for the near term.
     Earlier, RAI reported that third quarter net declined to
 17,806 dlrs on sales of 1.3 mln dlrs from net income of 328,290

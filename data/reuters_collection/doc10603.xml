@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 14:02:56.54V RM</field>
-	<field name = "UNKNOWN">f1957reute</field>
 	<field name = "TOPICS">income</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">b f BC-/U.S.-REAL-EARNINGS-R   03-27 0081</field>
-	<field name = "TITLE">U.S. REAL EARNINGS ROSE 0.6 PCT IN FEBRUARY</field>
+	<field name = "titulo">U.S. REAL EARNINGS ROSE 0.6 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">WASHINGTON, March 27 -</field>
-	<field name = "BODY">The average weekly earnings of U.S.
+	<field name = "content">The average weekly earnings of U.S.
 workers after adjustment for inflation and seasonal changes
 rose 0.6 pct in February after being unchanged in January, the
 Labor department said.

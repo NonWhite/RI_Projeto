@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 03:18:18.47</field>
 	<field name = "PLACES">singapore</field>
 	<field name = "EXCHANGES">sse</field>
-	<field name = "UNKNOWN">F
-f0125reute
-u f BC-SINGAPORE-SECURITIES   03-25 0101</field>
-	<field name = "TITLE">SINGAPORE SECURITIES MARKET CONSIDERING CHANGES</field>
+	<field name = "titulo">SINGAPORE SECURITIES MARKET CONSIDERING CHANGES</field>
 	<field name = "DATELINE">SINGAPORE, March 25 -</field>
-	<field name = "BODY">The Stock Exchange of Singapore Ltd
+	<field name = "content">The Stock Exchange of Singapore Ltd
 is looking at a new settlement and clearing system and a
 corporate disclosure format that would make financial data more
 readily available, George Teo, deputy chairman of the exchange,

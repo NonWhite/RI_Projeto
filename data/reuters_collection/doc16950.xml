@@ -5,12 +5,9 @@
 	<field name = "TOPICS">bfr</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0419reute
-b f BC-BELGIUM-CUTS-TREASURY   04-21 0063</field>
-	<field name = "TITLE">BELGIUM CUTS TREASURY CERTIFICATE RATES</field>
+	<field name = "titulo">BELGIUM CUTS TREASURY CERTIFICATE RATES</field>
 	<field name = "DATELINE">BRUSSELS, April 21 -</field>
-	<field name = "BODY">The Belgian National Bank said it cut
+	<field name = "content">The Belgian National Bank said it cut
 its one, two and three month treasury certificate rates
 effective immediately.
     It said in a telex message the key three month rate was

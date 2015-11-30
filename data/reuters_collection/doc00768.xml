@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:23:35.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0043
-reute
-r f BC-FORMER-BROKER,-INVEST   03-02 0101</field>
-	<field name = "TITLE">FORMER BROKER, INVESTOR SENTENCED FOR TRADING</field>
+	<field name = "titulo">FORMER BROKER, INVESTOR SENTENCED FOR TRADING</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">A former stock broker and an investor
+	<field name = "content">A former stock broker and an investor
 who pleaded guilty last June to insider trading as a
 participant in the scheme that involved lawyer Michael David
 were sentenced by the Manhattan federal court today.

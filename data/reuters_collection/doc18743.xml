@@ -5,12 +5,9 @@
 	<field name = "PLACES">spain</field>
 	<field name = "PLACES">portugal</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G 
-f3561reute
-b f BC-EC-COMMISSION-DEFENDS   06-18 0114</field>
-	<field name = "TITLE">EC COMMISSION DEFENDS OILS AND FATS TAX</field>
+	<field name = "titulo">EC COMMISSION DEFENDS OILS AND FATS TAX</field>
 	<field name = "DATELINE">****ANTWERP, June 18 -</field>
-	<field name = "BODY">A spokesman for the European
+	<field name = "content">A spokesman for the European
 Community Commission defended the controversial plan for a levy
 on oils and fats, saying that consumers would have to help
 alleviate the surplus problem by paying the proposed tax.

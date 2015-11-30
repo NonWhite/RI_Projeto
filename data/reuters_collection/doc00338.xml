@@ -1,14 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 07:20:13.63</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0079
-reute
-r f BC-DIGITAL-AUDIO-TAPE-PL   03-02 0113</field>
-	<field name = "TITLE">DIGITAL AUDIO TAPE PLAYERS GO ON SALE IN JAPAN</field>
+	<field name = "titulo">DIGITAL AUDIO TAPE PLAYERS GO ON SALE IN JAPAN</field>
 	<field name = "AUTHOR">By Steven Brull, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 2 -</field>
-	<field name = "BODY">Japanese consumers hesitated about buying
+	<field name = "content">Japanese consumers hesitated about buying
 the controversial digital audio tape player (DAT) as it went on
 sale in Tokyo today, but said the DAT player's near-perfect
 sound will make it a success once it becomes cheaper.

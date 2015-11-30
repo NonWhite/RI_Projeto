@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 11:37:54.99</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f1367reute
-u f BC-NESTLE-SA-NESZ.Z>-YE   03-20 0049</field>
-	<field name = "TITLE">NESTLE SA NESZ.Z> YEAR 1986</field>
+	<field name = "titulo">NESTLE SA NESZ.Z> YEAR 1986</field>
 	<field name = "DATELINE">VEVEY, Switzerland, March 20 -</field>
-	<field name = "BODY">Div 145 Swiss francs per share and 29 francs per
+	<field name = "content">Div 145 Swiss francs per share and 29 francs per
 participation certificate (unchanged)
     Net 1.79 billion vs 1.75 billion
     Shr 526 vs 515

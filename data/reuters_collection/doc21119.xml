@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 14:05:35.16</field>
 	<field name = "PLACES">austria</field>
-	<field name = "UNKNOWN">RM 
-f2457reute
-r f BC-AUSTRIAN-GUARANTEE-WA   10-19 0109</field>
-	<field name = "TITLE">AUSTRIAN GUARANTEE WANTED ON STATE FIRM DEBTS</field>
+	<field name = "titulo">AUSTRIAN GUARANTEE WANTED ON STATE FIRM DEBTS</field>
 	<field name = "DATELINE">VIENNA, Oct 19 -</field>
-	<field name = "BODY">Head of the Chamber of Commerce's Money
+	<field name = "content">Head of the Chamber of Commerce's Money
 and Credit section, Hellmuth Klauhs, said the government should
 guarantee any company debts arising from the planned
 restructuring of the public sector.

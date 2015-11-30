@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 12:38:36.08</field>
 	<field name = "PLACES">sudan</field>
-	<field name = "UNKNOWN">RM
-f8658reute
-r f BC-SUDANESE-MINISTER-PRE   03-18 0089</field>
-	<field name = "TITLE">SUDANESE MINISTER PREDICTS DEBT DIFFICULTIES</field>
+	<field name = "titulo">SUDANESE MINISTER PREDICTS DEBT DIFFICULTIES</field>
 	<field name = "AUTHOR">By Mohamed Elfatih Sidahmed, Reuters</field>
 	<field name = "DATELINE">KHARTOUM, March 18 -</field>
-	<field name = "BODY">Sudan will find it difficult to meet
+	<field name = "content">Sudan will find it difficult to meet
 scheduled debt repayments over the next five years, Finance
 Minister Beshir Omer has told parliament..
     He said Sudan's foreign debt rose to 10.6 billion dlrs at

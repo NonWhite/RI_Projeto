@@ -5,12 +5,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">Y 
-f1371reute
-u f BC-TASS-DENOUNCES-U.S.-A   10-19 0117</field>
-	<field name = "TITLE">TASS DENOUNCES U.S. ATTACK ON IRAN AS ADVENTURISM</field>
+	<field name = "titulo">TASS DENOUNCES U.S. ATTACK ON IRAN AS ADVENTURISM</field>
 	<field name = "DATELINE">MOSCOW, Oct 19 -</field>
-	<field name = "BODY">The official Soviet news agency Tass
+	<field name = "content">The official Soviet news agency Tass
 denounced a U.S. Attack on an Iranian oil-drilling platform in
 the Gulf on Monday as military adventurism and said it would
 bring no dividends to the Reagan administration.

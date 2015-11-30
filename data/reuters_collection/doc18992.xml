@@ -6,12 +6,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM 
-f4933reute
-u f BC-ECONOMIC-GROWTH-SEEN   06-18 0123</field>
-	<field name = "TITLE">ECONOMIC GROWTH SEEN SLUGGISH IN BENELUX COUNTRIES</field>
+	<field name = "titulo">ECONOMIC GROWTH SEEN SLUGGISH IN BENELUX COUNTRIES</field>
 	<field name = "DATELINE">PARIS, June 19 -</field>
-	<field name = "BODY">Economic growth will remain sluggish in
+	<field name = "content">Economic growth will remain sluggish in
 the Netherlands and Belgium next year and unemployment may
 rise, the Organisation for Economic Cooperation and Development
 forecast.

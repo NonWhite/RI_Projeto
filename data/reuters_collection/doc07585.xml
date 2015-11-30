@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 06:55:23.98</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0396reute
-u f BC-SWISS-FINANCE-MINISTR   03-20 0114</field>
-	<field name = "TITLE">SWISS FINANCE MINISTRY CALLS TWO SEASONED BONDS</field>
+	<field name = "titulo">SWISS FINANCE MINISTRY CALLS TWO SEASONED BONDS</field>
 	<field name = "DATELINE">BERNE, March 20 -</field>
-	<field name = "BODY">The Swiss Finance Ministry said it was
+	<field name = "content">The Swiss Finance Ministry said it was
 calling two bond issues of a total 550 mln Swiss francs as part
 of its effort to retire outstanding high-interest debt.
     The calls, to be made effective June 30 and September 30,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:19:32.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4215reute
-r f BC-NORTH-AMERICAN-NBIO.   06-18 0095</field>
-	<field name = "TITLE">NORTH AMERICAN NBIO.O> GETS FINANCING</field>
+	<field name = "titulo">NORTH AMERICAN NBIO.O> GETS FINANCING</field>
 	<field name = "DATELINE">MIAMI, June 18 -</field>
-	<field name = "BODY">North American Biologicals Inc said it has
+	<field name = "content">North American Biologicals Inc said it has
 received a 10 mln dlr credit facility from Manufacturers and
 Traders Trust Co of Buffalo, N.Y.
     It said the new credit would replace an existing 4.4 mln

@@ -5,12 +5,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">pakistan</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f1851reute
-u f BC-ONIC-TENDERS-WEDNESDA   06-01 0077</field>
-	<field name = "TITLE">ONIC TENDERS WEDNESDAY FOR WHEAT FOR PAKISTAN</field>
+	<field name = "titulo">ONIC TENDERS WEDNESDAY FOR WHEAT FOR PAKISTAN</field>
 	<field name = "DATELINE">PARIS, June 1 -</field>
-	<field name = "BODY">The French Cereals Intervention Board
+	<field name = "content">The French Cereals Intervention Board
 (ONIC) will tender Wednesday for 20,000 tonnes soft wheat for
 Pakistan under the French food aid programme, an ONIC official
 said.

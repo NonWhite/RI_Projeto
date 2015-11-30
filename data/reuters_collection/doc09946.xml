@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">Y
-f1465reute
-u f BC-WALL-STREET-STOCKS/U.   03-26 0116</field>
-	<field name = "TITLE">WALL STREET STOCKS/U.S. OIL COMPANIES</field>
+	<field name = "titulo">WALL STREET STOCKS/U.S. OIL COMPANIES</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">British Petroleum Co PLC's
+	<field name = "content">British Petroleum Co PLC's
 announcement that its U.S. subsidiary intends to tender for the
 45 pct of Standard Oil Co SRD> it does not already own,
 catapulted U.S. oil stocks sharply higher this morning, traders

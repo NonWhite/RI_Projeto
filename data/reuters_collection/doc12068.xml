@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 12:06:26.37</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f1569reute
-u f BC-LOUVEM-PLANS-OPTION-T   04-01 0081</field>
-	<field name = "TITLE">LOUVEM PLANS OPTION TO BUY BACK OWN SHARES</field>
+	<field name = "titulo">LOUVEM PLANS OPTION TO BUY BACK OWN SHARES</field>
 	<field name = "DATELINE">QUEBEC, April 1 -</field>
-	<field name = "BODY">Societe Miniere Louvem Inc> said its
+	<field name = "content">Societe Miniere Louvem Inc> said its
 board of directors has offered to buy an option to buy back its
 owns shares from provincially-owned SOQUEM, its major
 shareholder.

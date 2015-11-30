@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 05:33:58.58</field>
 	<field name = "TOPICS">crude</field>
-	<field name = "UNKNOWN">F
-f0321reute
-u f BC-BP-GRANGEMOUTH-REFINE   03-23 0119</field>
-	<field name = "TITLE">BP GRANGEMOUTH REFINERY SHUT, HYDROCRACKER DAMAGED</field>
+	<field name = "titulo">BP GRANGEMOUTH REFINERY SHUT, HYDROCRACKER DAMAGED</field>
 	<field name = "DATELINE">LONDON, MARCH 23 -</field>
-	<field name = "BODY">The entire British Petroleum Co PLC
+	<field name = "content">The entire British Petroleum Co PLC
 refinery at Grangemouth in Scotland has been shut down
 following the explosion and fire that severely damaged the
 hydrocracker at the site, a refinery spokesman said.

@@ -2,13 +2,10 @@
 	<field name = "DATE">18-JUN-1987 14:34:45.58</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y 
-f4255reute
-r f BC-BROOKLYN-UNIONBU>-SE   06-18 0096</field>
-	<field name = "TITLE">BROOKLYN UNIONBU> SEEN HURT BY PIPELINE CLOSURE</field>
+	<field name = "titulo">BROOKLYN UNIONBU> SEEN HURT BY PIPELINE CLOSURE</field>
 	<field name = "AUTHOR">By NAILENE CHOU WIEST, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Brooklyn Union Gas Co, a New York gas
+	<field name = "content">Brooklyn Union Gas Co, a New York gas
 utility, will see its gas costs up sharply as a result of
 Transco Energy Co's E> decision to close its pipelines to
 transport spot gas sales, energy industry analysts said.

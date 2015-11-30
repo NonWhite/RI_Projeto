@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-APR-1987 10:57:51.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1230reute
-u f BC-ALFIN-AFN>-DRUG-MISL   04-21 0109</field>
-	<field name = "TITLE">ALFIN AFN> DRUG MISLABELLED, SAYS FDA</field>
+	<field name = "titulo">ALFIN AFN> DRUG MISLABELLED, SAYS FDA</field>
 	<field name = "DATELINE">NEW YORK, April 21 -</field>
-	<field name = "BODY">Alfin Inc AFN> said it has received a
+	<field name = "content">Alfin Inc AFN> said it has received a
 regulatory letter from the Office of Compliance of the U.S.
 Food and Drug Administration asserting that because of
 labelling and certain advertising claims its Glycel products

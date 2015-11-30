@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 05:11:37.31</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0513reute
-u f BC-MITSUI-AND-CO-TO-ISSU   03-05 0066</field>
-	<field name = "TITLE">MITSUI AND CO TO ISSUE EURODOLLAR WARRANT BONDS</field>
+	<field name = "titulo">MITSUI AND CO TO ISSUE EURODOLLAR WARRANT BONDS</field>
 	<field name = "DATELINE">TOKYO, March 5 -</field>
-	<field name = "BODY">Mitsui and Co Ltd said it plans to issue
+	<field name = "content">Mitsui and Co Ltd said it plans to issue
 300 mln Eurodollar warrant bonds in two tranches with payment
 on March 30 through a syndicate led by Nomura International
 Ltd.

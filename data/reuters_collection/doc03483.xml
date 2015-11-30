@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 05:02:52.28</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F
-f0383reute
-u f BC-JAPAN-}O-CURB-VEHICLE   03-11 0107</field>
-	<field name = "TITLE">JAPAN }O CURB VEHICLE EXPORTS TO EC</field>
+	<field name = "titulo">JAPAN }O CURB VEHICLE EXPORTS TO EC</field>
 	<field name = "DATELINE">TOKYO, March 11 -</field>
-	<field name = "BODY">Japanese car makers will curb their
+	<field name = "content">Japanese car makers will curb their
 exports to the European Community (EC) following an unofficial
 directive from the Ministry of International Trade and Industry
 (MITI), automobile industry sources said.

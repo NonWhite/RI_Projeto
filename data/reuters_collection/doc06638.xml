@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 13:01:55.81</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8750reute
-u f BC-U.S.-HOUSE-PLAN-SEEKS   03-18 0093</field>
-	<field name = "TITLE">U.S. HOUSE PLAN SEEKS TO BAR FOREIGN TAKEOVERS</field>
+	<field name = "titulo">U.S. HOUSE PLAN SEEKS TO BAR FOREIGN TAKEOVERS</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">A House subcommittee voted to give
+	<field name = "content">A House subcommittee voted to give
 President Reagan authority to block foreign takeovers of U.S.
 companies similar to the takeover of Schlumberger Ltd's SLB>
 Fairchild Semiconductor Corp by Fujitsu Ltd which was

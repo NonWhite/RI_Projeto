@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 15:42:02.39</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0767reute
-r f BC-MERCHANTS-GROUP-INC-   03-03 0091</field>
-	<field name = "TITLE">MERCHANTS GROUP INC MRCH> 4TH QTR OPER NET</field>
+	<field name = "titulo">MERCHANTS GROUP INC MRCH> 4TH QTR OPER NET</field>
 	<field name = "DATELINE">BUFFALO, N.Y., March 3 -</field>
-	<field name = "BODY">Oper shr profit 21 cts vs loss 2.13 dlrs
+	<field name = "content">Oper shr profit 21 cts vs loss 2.13 dlrs
     Oper net profit 456,000 vs loss 2,454,000
     Revs 16.3 mln vs 13.1 mln
     Year

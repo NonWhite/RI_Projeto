@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 10:44:32.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0347reute
-u f BC-BILFINGER-UND-BERGER   03-11 0123</field>
-	<field name = "TITLE">BILFINGER UND BERGER SEES OUTPUT FALLING IN 1987</field>
+	<field name = "titulo">BILFINGER UND BERGER SEES OUTPUT FALLING IN 1987</field>
 	<field name = "DATELINE">MANNHEIM, West Germany, March 11 -</field>
-	<field name = "BODY">Bilfinger und Berger-Bau
+	<field name = "content">Bilfinger und Berger-Bau
 AG GBFG.F> expects group construction output in 1987 to fall
 to around 2.5 billion marks in 1987 from 2.73 billion last year
 and sees foreign business stabilizing just under its 1986

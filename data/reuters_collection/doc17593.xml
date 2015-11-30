@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 11:35:07.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1442reute
-u f BC-COMMUNICATIONS-SYSTEM   06-01 0025</field>
-	<field name = "TITLE">COMMUNICATIONS SYSTEMS INC CSII.O> UPS DIVIDEND</field>
+	<field name = "titulo">COMMUNICATIONS SYSTEMS INC CSII.O> UPS DIVIDEND</field>
 	<field name = "DATELINE">HECTOR, MINN., June 1 -</field>
-	<field name = "BODY">Qtly div six cts vs five cts prior qtr
+	<field name = "content">Qtly div six cts vs five cts prior qtr
     Pay 1 July
     Record 19 June
  Reuter</field>

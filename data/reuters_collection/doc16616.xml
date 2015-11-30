@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 15:24:26.79</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f2370reute
-d f BC-AMERICAN-EXCHANGE-ELE   04-13 0096</field>
-	<field name = "TITLE">AMERICAN EXCHANGE ELECTS 10 BOARD MEMBERS</field>
+	<field name = "titulo">AMERICAN EXCHANGE ELECTS 10 BOARD MEMBERS</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">The American Stock Exchange said 10
+	<field name = "content">The American Stock Exchange said 10
 governors were elected to its 25-member board of governors at
 the annual membership meeting today.
     The exchange said there were eight new members, including

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:27:12.66</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f0345reute
-b f BC-CHEUNG-KONG,-HUTCHISO   04-07 0092</field>
-	<field name = "TITLE">CHEUNG KONG, HUTCHISON SCRAP "B" SHARE ISSUES</field>
+	<field name = "titulo">CHEUNG KONG, HUTCHISON SCRAP "B" SHARE ISSUES</field>
 	<field name = "DATELINE">HONG KONG, April 7 -</field>
-	<field name = "BODY">Cheung Kong (Holdings) Ltd CKGH.HK>
+	<field name = "content">Cheung Kong (Holdings) Ltd CKGH.HK>
 and Hutchison Whampoa Ltd HWHH.HK> have withdrawn plans for a
 bonus issue of new "B" shares, chairman of both companies Li
 Ka-shing said.

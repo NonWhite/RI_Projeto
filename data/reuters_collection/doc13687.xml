@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 09:08:50.25</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f0708reute
-u f BC-BRAZIL-SEAMEN'S-STRIK   04-07 0087</field>
-	<field name = "TITLE">BRAZIL SEAMEN'S STRIKE ENDS</field>
+	<field name = "titulo">BRAZIL SEAMEN'S STRIKE ENDS</field>
 	<field name = "DATELINE">SAO PAULO, April 7 -</field>
-	<field name = "BODY">A Brazilian seamen's strike, which
+	<field name = "content">A Brazilian seamen's strike, which
 began on February 27 and has been tapering off for weeks, has
 now ended, a seamen's spokesman said.
     The spokesman said the seamen had signed an agreement with

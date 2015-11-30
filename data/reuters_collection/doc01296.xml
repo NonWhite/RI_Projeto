@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:49:27.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0800reute
-d f BC-ROYAL-RRCO>-SEEKS-NA   03-03 0079</field>
-	<field name = "TITLE">ROYAL RRCO> SEEKS NAME CHANGE, SHARE BOOST</field>
+	<field name = "titulo">ROYAL RRCO> SEEKS NAME CHANGE, SHARE BOOST</field>
 	<field name = "DATELINE">DENVER, COLO., March 3 -</field>
-	<field name = "BODY">Royal Resources Inc said it is
+	<field name = "content">Royal Resources Inc said it is
 calling a special shareholder meeting for April 21 seeking
 approval of a name change and an increase in its authorized
 common shares.

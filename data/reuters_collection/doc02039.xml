@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:00:29.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0163reute
-b f BC-K-MART-KM>-FEBRUARY   03-05 0088</field>
-	<field name = "TITLE">K MART KM> FEBRUARY SALES UP 8.2 PCT</field>
+	<field name = "titulo">K MART KM> FEBRUARY SALES UP 8.2 PCT</field>
 	<field name = "DATELINE">TROY, Mich., March 5 -</field>
-	<field name = "BODY">K Mart Corp said February sales 
+	<field name = "content">K Mart Corp said February sales 
 rose 13.1 pct from a year ago and comparable store sales in the
 four-week period ended February 25 rose 8.2 pct.
     K Mart said consolidated sales in the period were 1.46

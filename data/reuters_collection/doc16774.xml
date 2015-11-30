@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0100reute
-u f BC-CHINA-TRADE-DEFICIT-F   04-17 0113</field>
-	<field name = "TITLE">CHINA TRADE DEFICIT FALLS SHARPLY, RESERVES RISE</field>
+	<field name = "titulo">CHINA TRADE DEFICIT FALLS SHARPLY, RESERVES RISE</field>
 	<field name = "DATELINE">PEKING, April 17 -</field>
-	<field name = "BODY">China's trade deficit in the first
+	<field name = "content">China's trade deficit in the first
 quarter fell to 1.05 billion dlrs from 3.04 billion in the same
 1986 period, customs figures show.
     Zhang Zhongji, spokesman of the State Statistical Bureau,

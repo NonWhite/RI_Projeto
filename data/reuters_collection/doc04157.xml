@@ -4,12 +4,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0818reute
-r f PM-SEMICONDUCTORS   03-12 0123</field>
-	<field name = "TITLE">BALDRIGE OPPOSES JAPANESE PURCHASE OF FIRM</field>
+	<field name = "titulo">BALDRIGE OPPOSES JAPANESE PURCHASE OF FIRM</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">Commerce Secretary Malcolm Baldrige
+	<field name = "content">Commerce Secretary Malcolm Baldrige
 has asked the White House to consider blocking the planned
 Japanese acquisition of a major U.S. supercomputer and
 semiconductor manufacturer for national security reasons, U.S.

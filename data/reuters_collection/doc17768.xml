@@ -4,12 +4,9 @@
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">C G
-f2292reute
-b f BC-ussr-export-sale   06-01 0043</field>
-	<field name = "TITLE">BARLEY SOLD TO SAUDI ARABIA  - USDA</field>
+	<field name = "titulo">BARLEY SOLD TO SAUDI ARABIA  - USDA</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">Private exporters reported sales of
+	<field name = "content">Private exporters reported sales of
 150,000 tonnes of barley to Saudi Arabia for delivery in the
 1987/88 season, the U.S. Agriculture Deapartment said.
     The 1987/88 season for barley begins today.

@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 09:48:03.02</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0545
-reute
-u f BC-STOP-AND-SHOP-COS-INC   03-02 0060</field>
-	<field name = "TITLE">STOP AND SHOP COS INC SHP> 4TH QTR JAN 31 NET</field>
+	<field name = "titulo">STOP AND SHOP COS INC SHP> 4TH QTR JAN 31 NET</field>
 	<field name = "DATELINE">BOSTON, March 2 -</field>
-	<field name = "BODY">Oper shr 1.80 dlrs vs 1.46 dlrs
+	<field name = "content">Oper shr 1.80 dlrs vs 1.46 dlrs
     Oper net 25.0 mln vs 20.2 mln
     Sales 1.09 billion vs 996.4 mln
     Avg shrs 13.9 mln vs 13.8 mln

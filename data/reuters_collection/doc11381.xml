@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 11:05:31.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1421reute
-b f BC-/-FED-EXPECTED-TO-SUP   03-31 0097</field>
-	<field name = "TITLE">FED EXPECTED TO SUPPLY TEMPORARY RESERVES</field>
+	<field name = "titulo">FED EXPECTED TO SUPPLY TEMPORARY RESERVES</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">The Federal Reserve is expected to
+	<field name = "content">The Federal Reserve is expected to
 enter the U.S. government securities market to add temporary
 reserves, economists said.
     They said the Fed probably will add the reserves indirectly

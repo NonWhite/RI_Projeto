@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 04:48:35.27</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0283reute
-u f BC-SONY-TO-ISSUE-UNSECUR   06-29 0105</field>
-	<field name = "TITLE">SONY TO ISSUE UNSECURED 75 BILLION YEN CONVERTIBLE</field>
+	<field name = "titulo">SONY TO ISSUE UNSECURED 75 BILLION YEN CONVERTIBLE</field>
 	<field name = "DATELINE">TOKYO, June 29 -</field>
-	<field name = "BODY">Sony Corp SNE.T> will issue a 75 billion
+	<field name = "content">Sony Corp SNE.T> will issue a 75 billion
 yen 15-year unsecured convertible bond through public placement
 mainly in Japan, a company spokesman said.
     Co-lead managers are Nomura Securities Co Ltd NMSC.T>,

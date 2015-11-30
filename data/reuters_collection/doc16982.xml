@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 10:00:18.38</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0974reute
-u f BC-BALLY-BLY>-SELLS-SIX   04-21 0066</field>
-	<field name = "TITLE">BALLY BLY> SELLS SIX FLAGS FOR 350 MLN DLRS</field>
+	<field name = "titulo">BALLY BLY> SELLS SIX FLAGS FOR 350 MLN DLRS</field>
 	<field name = "DATELINE">CHICAGO, April 21 -</field>
-	<field name = "BODY">Bally Manufacturing Corp said it signed
+	<field name = "content">Bally Manufacturing Corp said it signed
 a definitive agreement to sell the stock of its Six Flags theme
 park subsidiary to an affiliate of Wesray Capital Corp.
     Ccompletion of the proposed transaction is expected in

@@ -4,12 +4,9 @@
 	<field name = "PLACES">italy</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">RM Y 
-f3266reute
-u f AM-GULF-ITALY   10-19 0083</field>
-	<field name = "TITLE">ITALY WORRIED AT RISING TENSION AFTER GULF ATTACK</field>
+	<field name = "titulo">ITALY WORRIED AT RISING TENSION AFTER GULF ATTACK</field>
 	<field name = "DATELINE">ROME, Oct 19 -</field>
-	<field name = "BODY">Italian Prime Minister Giovanni Goria told
+	<field name = "content">Italian Prime Minister Giovanni Goria told
 the cabinet on Monday he was worried about the increased
 tension in the Gulf, but said America's retaliation against
 Iran had been limited.

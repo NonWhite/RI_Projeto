@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 10:40:23.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0427reute
-d f BC-DIGITAL-EQUIPMENT-DE   03-04 0092</field>
-	<field name = "TITLE">DIGITAL EQUIPMENT DEC> SEEKS COST EFFECTIVENESS</field>
+	<field name = "titulo">DIGITAL EQUIPMENT DEC> SEEKS COST EFFECTIVENESS</field>
 	<field name = "DATELINE">MARLBOROUGH, Mass., March 4 -</field>
-	<field name = "BODY">Digital Equipment said it is
+	<field name = "content">Digital Equipment said it is
 taking several initiatives designed to make it easier and more
 cost effecive for customers to purchase and use its products
 and services.

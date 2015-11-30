@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 13:29:02.10</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">V
-f1968reute
-u f AM-MARINES-***URGENT   04-08 0128</field>
-	<field name = "TITLE">THIRD U.S. MARINE ARRESTED IN SPY SCANDAL</field>
+	<field name = "titulo">THIRD U.S. MARINE ARRESTED IN SPY SCANDAL</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">A third Marine has been arrested on
+	<field name = "content">A third Marine has been arrested on
 suspicion of espionage in a growing sex-spy scandal involving
 security at both the U.S. Embassy in Moscow and the American
 Consulate in Leningrad, the Pentagon said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 11:51:31.08</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">RM
-f0903reute
-u f BC-VENEZUELA-PLANS-NEW-B   03-03 0095</field>
-	<field name = "TITLE">VENEZUELA PLANS NEW BORROWING WITH LIMITS</field>
+	<field name = "titulo">VENEZUELA PLANS NEW BORROWING WITH LIMITS</field>
 	<field name = "DATELINE">CARACAS, March 3 -</field>
-	<field name = "BODY">Venezuela will limit new loans to 50 pct
+	<field name = "content">Venezuela will limit new loans to 50 pct
 of the interest and principal it repays on its 31 billion dlr
 foreign debt, President Jaime Lusinchi told political leaders.
     Speaking last night at a new session of congress, he said

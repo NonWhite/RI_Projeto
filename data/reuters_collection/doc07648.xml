@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 09:23:41.19</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A
-f0811reute
-r f BC-discovery   03-20 0106</field>
-	<field name = "TITLE">DISCOVERY WEST PLANS CONVERTIBLE NOTE ISSUE</field>
+	<field name = "titulo">DISCOVERY WEST PLANS CONVERTIBLE NOTE ISSUE</field>
 	<field name = "DATELINE">TORONTO, March 20 -</field>
-	<field name = "BODY">Discovery West Corp> said it plans to
+	<field name = "content">Discovery West Corp> said it plans to
 sell convertible subordinated notes in a principal amount of
 between four mln and seven mln dlrs by way of a private
 placement through First Marathon Securities Ltd.

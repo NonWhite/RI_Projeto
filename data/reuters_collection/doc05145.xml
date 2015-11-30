@@ -2,12 +2,9 @@
 	<field name = "DATE">14-MAR-1987 09:42:37.53</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">RM
-f0819reute
-r f BC-SWEDISH-TRADE-SURPLUS   03-14 0079</field>
-	<field name = "TITLE">SWEDISH TRADE SURPLUS RISES IN FEBRUARY</field>
+	<field name = "titulo">SWEDISH TRADE SURPLUS RISES IN FEBRUARY</field>
 	<field name = "DATELINE">STOCKHOLM, March 14 -</field>
-	<field name = "BODY">Sweden's trade surplus rose to 3.6
+	<field name = "content">Sweden's trade surplus rose to 3.6
 billion crowns in February from 1.5 billion in January and 3.48
 billion in February 1986, the Central Bureau of Statistics
 said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 15:13:44.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0350reute
-r f BC-ADVANCED-TELECOMMUNIC   03-06 0082</field>
-	<field name = "TITLE">ADVANCED TELECOMMUNICATIONS REDEEMS DEBENTURES</field>
+	<field name = "titulo">ADVANCED TELECOMMUNICATIONS REDEEMS DEBENTURES</field>
 	<field name = "DATELINE">ATLANTA, March 6 -</field>
-	<field name = "BODY">Advanced Telecommunications Corp ITEL>
+	<field name = "content">Advanced Telecommunications Corp ITEL>
 said it called for the redemption on April 10, 1987, of all its
 eight pct convertible subordinated debentures due 2006.
     The company said the redemption price is 1,080 dlrs per

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:33:25.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1813reute
-u f BC-TALKING-POINT/CONRAIL   03-26 0109</field>
-	<field name = "TITLE">TALKING POINT/CONRAIL CRR></field>
+	<field name = "titulo">TALKING POINT/CONRAIL CRR></field>
 	<field name = "AUTHOR">By Cal Mankowski, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Private investors eagerly snapped up
+	<field name = "content">Private investors eagerly snapped up
 shares of Consolidated Rail Corp, the biggest initial stock
 offering in U.S. history, but some analysts warned they could
 be in a for a bumpy ride at least in the near term.

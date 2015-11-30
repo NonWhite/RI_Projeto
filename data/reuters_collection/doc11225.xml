@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 06:19:55.80</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0505reute
-u f BC-K-O-P-EQUITY-WARRANT   03-31 0100</field>
-	<field name = "TITLE">K-O-P EQUITY WARRANT BOND EXPECTED TO BE SWAPPED</field>
+	<field name = "titulo">K-O-P EQUITY WARRANT BOND EXPECTED TO BE SWAPPED</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">The proceeds from yesterday's 100 mln
+	<field name = "content">The proceeds from yesterday's 100 mln
 dlr equity warrant for Kansallis-Osake-Pankki (K-O-P) will
 probably be swapped into floating rate dollars once the final
 terms have been set for the deal, executive vice-president

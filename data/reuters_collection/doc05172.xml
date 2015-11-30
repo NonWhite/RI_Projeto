@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">15-MAR-1987 18:57:22.52</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0925reute
-u f BC-WELLINGTON,-AUCKLAND   03-15 0107</field>
-	<field name = "TITLE">WELLINGTON, AUCKLAND BANK STAFF ACCEPT PAY DEAL</field>
+	<field name = "titulo">WELLINGTON, AUCKLAND BANK STAFF ACCEPT PAY DEAL</field>
 	<field name = "DATELINE">WELLINGTON, March 16 -</field>
-	<field name = "BODY">Trading bank staff in Wellington and
+	<field name = "content">Trading bank staff in Wellington and
 Auckland voted to accept a 7.9 pct pay rise, ending any threat
 of strike action, the Bank Officers Union said.
     Union president Angela Foulkes told Reuters that Wellington

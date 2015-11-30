@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">C T
-f0449reute
-b f BC-INDIA-BUYS-WHITE-SUGA   03-12 0114</field>
-	<field name = "TITLE">INDIA BUYS WHITE SUGAR FROM LONDON TRADERS</field>
+	<field name = "titulo">INDIA BUYS WHITE SUGAR FROM LONDON TRADERS</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">India yesterday bought two cargoes of
+	<field name = "content">India yesterday bought two cargoes of
 white sugar from London traders for April/May shipment and
 granted the trade houses the option to sell an additional two
 cargoes at the same price for May/June shipment, the firms

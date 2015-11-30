@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 07:33:02.61</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">kuwait</field>
-	<field name = "UNKNOWN">RM
-f0620reute
-u f BC-KUWAITI-DINAR-RATES-F   06-02 0084</field>
-	<field name = "TITLE">KUWAITI DINAR RATES FIRM, AID WINDOW OPEN</field>
+	<field name = "titulo">KUWAITI DINAR RATES FIRM, AID WINDOW OPEN</field>
 	<field name = "DATELINE">KUWAIT, June 2 -</field>
-	<field name = "BODY">Interest rates on Kuwaiti dinar deposits
+	<field name = "content">Interest rates on Kuwaiti dinar deposits
 held firm in scattered trading despite a Central Bank decision
 to revive limited funding lines, dealers said.
     The Central Bank, which last Tuesday shut a daily aid

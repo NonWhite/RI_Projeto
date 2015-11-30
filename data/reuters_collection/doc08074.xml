@@ -2,12 +2,9 @@
 	<field name = "DATE">22-MAR-1987 00:08:58.41</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM
-f0007reute
-u f BC-ECONOMIST-CALLS-BRAZI   03-22 0094</field>
-	<field name = "TITLE">ECONOMIST CALLS BRAZIL DEBT REQUEST MODEST</field>
+	<field name = "titulo">ECONOMIST CALLS BRAZIL DEBT REQUEST MODEST</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 22 -</field>
-	<field name = "BODY">Brazil's attempt to seek better
+	<field name = "content">Brazil's attempt to seek better
 terms for paying off its 109 billion dlr foreign debt is
 responsible and modest, a former chairman of President Reagan's
 Council of Economic Advisers said.

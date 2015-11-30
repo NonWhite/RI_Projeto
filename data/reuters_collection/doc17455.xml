@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 03:01:20.73</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM AI
-f0138reute
-u f BC-GERMAN-PRIMARY-BOND-M   06-01 0112</field>
-	<field name = "TITLE">GERMAN PRIMARY BOND MARKET SEEN REVIVING IN JUNE</field>
+	<field name = "titulo">GERMAN PRIMARY BOND MARKET SEEN REVIVING IN JUNE</field>
 	<field name = "AUTHOR">By Alice Ratcliffe, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, June 1 -</field>
-	<field name = "BODY">West Germany's eurobond market may
+	<field name = "content">West Germany's eurobond market may
 revive in June, after two month's relative dormancy, before
 dozing off for the summer, bond market sources said.
     Syndicate managers said many borrowers, anticipating lower

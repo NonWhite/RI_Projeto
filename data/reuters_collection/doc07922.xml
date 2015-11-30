@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 15:09:48.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2174reute
-b f BC-/U.S.-BUDGET-DEFICIT   03-20 0109</field>
-	<field name = "TITLE">U.S. BUDGET DEFICIT 28.37 BILLION DLRS IN FEB</field>
+	<field name = "titulo">U.S. BUDGET DEFICIT 28.37 BILLION DLRS IN FEB</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">The U.S. budget was in deficit 28.37
+	<field name = "content">The U.S. budget was in deficit 28.37
 billion dlrs in February, up from a deficit of 24.58 billion
 dlrs in February, 1986, the Treasury Department said.
     Last month's deficit compared with a January deficit of

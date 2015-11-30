@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 11:14:35.62</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F
-f1472reute
-w f BC-EUROPEAN-COOPERATION   03-31 0094</field>
-	<field name = "TITLE">EUROPEAN COOPERATION ABSOLUTE MUST - PHILIPS</field>
+	<field name = "titulo">EUROPEAN COOPERATION ABSOLUTE MUST - PHILIPS</field>
 	<field name = "DATELINE">GRONINGEN, the Netherlands, March 31 -</field>
-	<field name = "BODY">European countries
+	<field name = "content">European countries
 must cooperate closely if they want to save their electronics
 industry from dropping to a third-rate global position, NV
 Philips Gloeilampenfabrieken PLGO.AS> chairman Cor van der

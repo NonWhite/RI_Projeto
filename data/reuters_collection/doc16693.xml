@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 16:56:24.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2637reute
-r f BC-SEC-TO-PROBE-TWO-CONV   04-13 0094</field>
-	<field name = "TITLE">SEC TO PROBE TWO CONVICTED OF SECURITIES FRAUD</field>
+	<field name = "titulo">SEC TO PROBE TWO CONVICTED OF SECURITIES FRAUD</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">The Securities and Exchange Commission
+	<field name = "content">The Securities and Exchange Commission
 said it began a disciplinary review of two men who were
 previously convicted of fraud for violations of  U.S.
 securities laws.

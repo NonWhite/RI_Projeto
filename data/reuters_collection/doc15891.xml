@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 15:29:52.85</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2298reute
-r f BC-HAWAIIAN-ELECTRIC-HE   04-09 0085</field>
-	<field name = "TITLE">HAWAIIAN ELECTRIC HE> TO BUY HAWAIIAN INSURANCE</field>
+	<field name = "titulo">HAWAIIAN ELECTRIC HE> TO BUY HAWAIIAN INSURANCE</field>
 	<field name = "DATELINE">LOS ANGELES, April 9 -</field>
-	<field name = "BODY">Hawaiian Electric Industries said it
+	<field name = "content">Hawaiian Electric Industries said it
 has entered a letter of intent to buy the Hawaiian Insurance
 Companies.
     The transaction is subject to a definitive agreement, and

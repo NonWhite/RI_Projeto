@@ -4,12 +4,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">south-korea</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">C G T M
-f0884reute
-d f PM-DOLLAR-KOREA   03-31 0123</field>
-	<field name = "TITLE">SOUTH KOREA TO RESIST CURRENCY REVALUATION</field>
+	<field name = "titulo">SOUTH KOREA TO RESIST CURRENCY REVALUATION</field>
 	<field name = "DATELINE">SEOUL, March 31 -</field>
-	<field name = "BODY">South Korean Finance Minister Chung
+	<field name = "content">South Korean Finance Minister Chung
 In-yong will resist pressure for a currency revaluation to cut
 South Korea's trade surplus with the United States when he
 meets Treasury Secretary James Baker next week, Finance

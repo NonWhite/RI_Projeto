@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 17:13:35.76</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2680reute
-d f BC-adams-russell   04-13 0065</field>
-	<field name = "TITLE">ADAMS-RUSSELL AAR> TO ACQUIRE CABLE SYSTEMS</field>
+	<field name = "titulo">ADAMS-RUSSELL AAR> TO ACQUIRE CABLE SYSTEMS</field>
 	<field name = "DATELINE">WALTHAM, Mass, April 13 -</field>
-	<field name = "BODY">Adams-Russell Co Inc said it
+	<field name = "content">Adams-Russell Co Inc said it
 agreed to acquire cable television systems serving about 7,000
 customers in New York State from Sammons Communications Inc for
 undisclosed terms.

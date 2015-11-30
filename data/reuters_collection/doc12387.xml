@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 18:31:23.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2705reute
-r f BC-MIDDLE-SOUTH-MSU>-UN   04-01 0095</field>
-	<field name = "TITLE">MIDDLE SOUTH MSU> UNIT PLANS TO RETIRE DEBT</field>
+	<field name = "titulo">MIDDLE SOUTH MSU> UNIT PLANS TO RETIRE DEBT</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">System Energy Resources Inc, a unit of
+	<field name = "content">System Energy Resources Inc, a unit of
 Middle South Utilities Inc, said it plans to file with the
 Securities and Exchange Commission a request for authorization
 to retire a number of outstanding first mortgage bonds.

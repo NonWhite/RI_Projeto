@@ -3,13 +3,9 @@
 	<field name = "TOPICS">alum</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F C M
-f0360
-reute
-u f BC-ALCAN-TO-CLOSE-WEST-G   03-02 0115</field>
-	<field name = "TITLE">ALCAN TO CLOSE WEST GERMAN ALUMINIUM SMELTER</field>
+	<field name = "titulo">ALCAN TO CLOSE WEST GERMAN ALUMINIUM SMELTER</field>
 	<field name = "DATELINE">ESCHBORN, West Germany, March 2 -</field>
-	<field name = "BODY">Alcan Aluminiumwerke
+	<field name = "content">Alcan Aluminiumwerke
 GmbH>, a subsidiary of Alcan Aluminium Ltd AL.N> of Canada,
 said it plans to close its aluminium smelter in Ludwigshafen at
 the end of June.

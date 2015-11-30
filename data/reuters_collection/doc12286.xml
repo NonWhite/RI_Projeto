@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:06:36.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2383reute
-r f BC-LOCKHEED-LK>-GETS-16   04-01 0041</field>
-	<field name = "TITLE">LOCKHEED LK> GETS 165.7 MLN DLRS IN CONTRACTS</field>
+	<field name = "titulo">LOCKHEED LK> GETS 165.7 MLN DLRS IN CONTRACTS</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Lockheed Corp has been awarded 165.7
+	<field name = "content">Lockheed Corp has been awarded 165.7
 mln dlrs in military contracts, including a 102.4 mln dlr
 contract for eight C-130 aircraft for the Air Force Reserve,
 the Air Force said.

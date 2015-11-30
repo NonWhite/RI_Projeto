@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 22:17:44.64</field>
-	<field name = "UNKNOWN">RM C
-f2743reute
-u f BC-SYDNEY-FINANCIAL-FUTU   04-07 0095</field>
-	<field name = "TITLE">SYDNEY FINANCIAL FUTURES OPEN MIXED</field>
+	<field name = "titulo">SYDNEY FINANCIAL FUTURES OPEN MIXED</field>
 	<field name = "DATELINE">SYDNEY, April 8 -</field>
-	<field name = "BODY">A sharp overnight fall on Wall Street due
+	<field name = "content">A sharp overnight fall on Wall Street due
 to profit taking and arbitrage related selling and a subsequent
 local share market slump led to a steep drop in most share
 price index contracts, dealers said.

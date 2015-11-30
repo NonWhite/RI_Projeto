@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 05:00:31.24</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0357reute
-u f BC-CHINA-TRADE-DEFICIT-F   03-12 0056</field>
-	<field name = "TITLE">CHINA TRADE DEFICIT FALLS IN JANUARY</field>
+	<field name = "titulo">CHINA TRADE DEFICIT FALLS IN JANUARY</field>
 	<field name = "DATELINE">PEKING, March 12 -</field>
-	<field name = "BODY">China's trade deficit in January fell to
+	<field name = "content">China's trade deficit in January fell to
 310 mln dlrs from 460 mln in January 1986, the China Daily
 Business Weekly said.
     Quoting customs figures, the paper said exports fell to

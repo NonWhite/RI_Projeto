@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 16:37:00.23</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2475reute
-u f BC-GENCORP-TAKES-NO-ACTI   04-01 0099</field>
-	<field name = "TITLE">GENCORP TAKES NO ACTION ON STOCK DIVIDEND</field>
+	<field name = "titulo">GENCORP TAKES NO ACTION ON STOCK DIVIDEND</field>
 	<field name = "DATELINE">AKRON, Ohio, April 1 -</field>
-	<field name = "BODY">Gencorp Inc said its board took no
+	<field name = "content">Gencorp Inc said its board took no
 action with respect to a two pct stock dividend at its annual
 meeting yesterday due to the press of other business,
 specifically the company's pending takeover offer by General

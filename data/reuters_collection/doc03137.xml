@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0458reute
-u f BC-GRAIN-CERTIFICATE-RED   03-09 0088</field>
-	<field name = "TITLE">GRAIN CERTIFICATE REDEMPTIONS PUT AT 240 MLN BU</field>
+	<field name = "titulo">GRAIN CERTIFICATE REDEMPTIONS PUT AT 240 MLN BU</field>
 	<field name = "DATELINE">KANSAS CITY, March 9 -</field>
-	<field name = "BODY">Over 240 mln bushels of government
+	<field name = "content">Over 240 mln bushels of government
 grain have been allocated in redemptions for commodity
 certificates since the program began April 30, according to the
 Commodity Credit Corporation.

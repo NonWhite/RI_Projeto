@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 11:50:02.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f1448reute
-r f BC-BANK-BOARD-CHAIRMAN-S   04-24 0105</field>
-	<field name = "TITLE">BANK BOARD CHAIRMAN SAYS MORE FSLIC FUNDS NEEDED</field>
+	<field name = "titulo">BANK BOARD CHAIRMAN SAYS MORE FSLIC FUNDS NEEDED</field>
 	<field name = "DATELINE">WASHINGTON, April 24 -</field>
-	<field name = "BODY">Federal Home Loan Bank Board
+	<field name = "content">Federal Home Loan Bank Board
 chairman Edwin Gray said pending bills do not provide enough
 money for the Federal Savings and Loan Insurance Corp to deal
 with insolvent thrift associations.

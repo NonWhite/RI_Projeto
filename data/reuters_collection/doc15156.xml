@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 13:09:59.96</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1882reute
-s f BC-MELLON-PARTICIPATING   04-08 0024</field>
-	<field name = "TITLE">MELLON PARTICIPATING MORTGAGE TRUST MPMTS> DIV</field>
+	<field name = "titulo">MELLON PARTICIPATING MORTGAGE TRUST MPMTS> DIV</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Qtly div 25 cts vs 25 cts prior
+	<field name = "content">Qtly div 25 cts vs 25 cts prior
     Payable May 6
     Record April 24
  Reuter</field>

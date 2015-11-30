@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 09:49:52.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0963reute
-u f BC-METROPOLITAN-FINANCIA   03-24 0042</field>
-	<field name = "TITLE">METROPOLITAN FINANCIAL MFC> CLOSING 6 BRANCHES</field>
+	<field name = "titulo">METROPOLITAN FINANCIAL MFC> CLOSING 6 BRANCHES</field>
 	<field name = "DATELINE">FARGO, N.D., March 24 -</field>
-	<field name = "BODY">Metropolitan Financial Corp said
+	<field name = "content">Metropolitan Financial Corp said
 its Metropolitan Federal Bank subsidiary will close six North
 Dakota branches effective April 17, 1987, in an effort to
 streamline its operations.

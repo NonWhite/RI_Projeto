@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 09:06:53.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A 
-f0743reute
-d f AM-THRIFT   06-19 0121</field>
-	<field name = "TITLE">OKLAHOMA THRIFT IN RECEIVERSHIP</field>
+	<field name = "titulo">OKLAHOMA THRIFT IN RECEIVERSHIP</field>
 	<field name = "DATELINE">WASHINGTON, June 19 -</field>
-	<field name = "BODY">The Federal Home Loan Bank Board
+	<field name = "content">The Federal Home Loan Bank Board
 (FHLBB) placed Investors Federal Bank of El Reno, Okla., in
 receivership and transferred its 97.8 mln dlrs n assets to the
 Investors Savings and Loan Association.

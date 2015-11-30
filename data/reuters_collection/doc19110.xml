@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 08:45:14.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0695reute
-r f BC-FORD-F>-UNIT-OFFERS   06-19 0103</field>
-	<field name = "TITLE">FORD F> UNIT OFFERS CURRENCY EXCHANGE WARRANTS</field>
+	<field name = "titulo">FORD F> UNIT OFFERS CURRENCY EXCHANGE WARRANTS</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Bear Stearns Cos Inc BSC> said an
+	<field name = "content">Bear Stearns Cos Inc BSC> said an
 offering of three mln currency exchange warrants of Ford Motor
 Co's Ford Motor Credit unit is underway at 4.375 dlrs each.
     Each warrant allows the holder to receive from Ford Credit

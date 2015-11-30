@@ -5,13 +5,9 @@
 	<field name = "EXCHANGES">sse</field>
 	<field name = "EXCHANGES">nasdaq</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">RM
-f0619
-reute
-u f BC-SINGAPORE-EXCHANGE-SE   03-02 0100</field>
-	<field name = "TITLE">SINGAPORE EXCHANGE SEEKING NASDAQ/LONDON LINK</field>
+	<field name = "titulo">SINGAPORE EXCHANGE SEEKING NASDAQ/LONDON LINK</field>
 	<field name = "DATELINE">SINGAPORE, March 2 -</field>
-	<field name = "BODY">The Stock Exchange of Singapore (SES)
+	<field name = "content">The Stock Exchange of Singapore (SES)
 plans to introduce electronic trading of shares listed on the
 National Association of Securities Dealers Automated Quotation
 System (NASDAQ) in the U.S. And on London's Stock Exchange

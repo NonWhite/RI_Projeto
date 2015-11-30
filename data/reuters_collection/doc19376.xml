@@ -8,12 +8,9 @@
 	<field name = "PLACES">mexico</field>
 	<field name = "PLACES">venezuela</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">A RM 
-f2113reute
-d f AM-TRADE-LATAM   06-19 0114</field>
-	<field name = "TITLE">LATIN, CARIBBEAN NATIONS OPPOSE TRADE BILLS</field>
+	<field name = "titulo">LATIN, CARIBBEAN NATIONS OPPOSE TRADE BILLS</field>
 	<field name = "DATELINE">WASHINGTON, June 19 -</field>
-	<field name = "BODY">A group of Latin American and
+	<field name = "content">A group of Latin American and
 Caribbean nations formally opposed trade legislation pending in
 Congress, saying it would curb their exports, slow development
 and hinder its ability to repay foreign debt.

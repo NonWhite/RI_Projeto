@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 04:38:49.95</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0259reute
-u f BC-IBJ-AMORTIZES-LOANS-T   06-01 0079</field>
-	<field name = "TITLE">IBJ AMORTIZES LOANS TO JAPAN LINE</field>
+	<field name = "titulo">IBJ AMORTIZES LOANS TO JAPAN LINE</field>
 	<field name = "DATELINE">TOKYO, June 1 -</field>
-	<field name = "BODY">The Industrial Bank of Japan IBJT.T> (IBJ)
+	<field name = "content">The Industrial Bank of Japan IBJT.T> (IBJ)
 amortized 68 billion yen worth of loans, including the
 write-off of an unspecified amount of loans, to the Japan Line
 Ltd> group in the year ended March 31, an IBJ spokesman said.

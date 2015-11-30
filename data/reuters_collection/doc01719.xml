@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 14:45:20.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM F A
-f0446reute
-u f BC-SENATE-COMMITTEE-ISSU   03-04 0103</field>
-	<field name = "TITLE">SENATE COMMITTEE ISSUES REVISED BANK BILL</field>
+	<field name = "titulo">SENATE COMMITTEE ISSUES REVISED BANK BILL</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">The Senate Banking Committee has
+	<field name = "content">The Senate Banking Committee has
 issued a revised draft bank regulation bill which would permit
 so-called non-bank banks to continue all their activities in
 progress as of March 5, 1987.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 08:49:25.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2892reute
-d f BC-FROST/SULLIVAN-FRSL.   06-18 0094</field>
-	<field name = "TITLE">FROST/SULLIVAN FRSL.O> OFFICERS TO SELL SHARES</field>
+	<field name = "titulo">FROST/SULLIVAN FRSL.O> OFFICERS TO SELL SHARES</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Frost and Sullivan Inc President Daniel
+	<field name = "content">Frost and Sullivan Inc President Daniel
 Sullivan said he and other executive officers of the company
 have agreed to sell an aggregate of 542,684 shares of common
 stock including shares issuable on exercise of options.

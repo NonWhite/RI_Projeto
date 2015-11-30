@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 16:25:08.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2600reute
-d f BC-SHAWMUT-SHAS.O>-CHAN   06-02 0030</field>
-	<field name = "TITLE">SHAWMUT SHAS.O> CHANGES NAME OF SUBSIDIARY</field>
+	<field name = "titulo">SHAWMUT SHAS.O> CHANGES NAME OF SUBSIDIARY</field>
 	<field name = "DATELINE">BOSTON, June 2 -</field>
-	<field name = "BODY">Shawmut Corp said it changed the name of
+	<field name = "content">Shawmut Corp said it changed the name of
 its subsidiary, First Gibraltar Mortgage Corp, to Shawmut First
 Mortgage Corp.
  Reuter</field>

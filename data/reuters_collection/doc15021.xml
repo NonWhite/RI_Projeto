@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:36:31.07</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">E
-f1160reute
-b f BC-TORONTO-DOMINION-UNIT   04-08 0081</field>
-	<field name = "TITLE">TORONTO DOMINION UNIT ISSUES AUSTRALIAN DLR BOND</field>
+	<field name = "titulo">TORONTO DOMINION UNIT ISSUES AUSTRALIAN DLR BOND</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">Toronto Dominion Bank, Nassau Branch is
+	<field name = "content">Toronto Dominion Bank, Nassau Branch is
 issuing a 40 mln Australian dlr eurobond due May 15, 1990
 paying 14-1/2 pct and priced at 101-3/8 pct, lead manager
 Hambros Bank Ltd said.

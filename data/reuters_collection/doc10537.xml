@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:25:58.66F</field>
-	<field name = "UNKNOWN">f1599reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">d f BC-IMATRON-INC-IMAT>-4T   03-27 0060</field>
-	<field name = "TITLE">IMATRON INC IMAT> 4TH QTR LOSS</field>
+	<field name = "titulo">IMATRON INC IMAT> 4TH QTR LOSS</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 27 -</field>
-	<field name = "BODY">Shr loss 16 cts vs loss seven cts
+	<field name = "content">Shr loss 16 cts vs loss seven cts
     Net loss 3,450,000 vs loss 1,508,000
     Sales 56,000 vs 1,187,000
     Avg shrs 22,568,000 vs 20,591,000

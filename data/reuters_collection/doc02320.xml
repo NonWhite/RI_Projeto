@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 13:52:41.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0286reute
-r f BC-UAL-INC-UAL>'S-UNITE   03-05 0055</field>
-	<field name = "TITLE">UAL INC UAL>'S UNITED AIRLINES ADDS FLIGHTS</field>
+	<field name = "titulo">UAL INC UAL>'S UNITED AIRLINES ADDS FLIGHTS</field>
 	<field name = "DATELINE">LOS ANGELES, March 5 -</field>
-	<field name = "BODY">UAL Inc's United Airlines said it is
+	<field name = "content">UAL Inc's United Airlines said it is
 adding flights into Los Angeles International Airport between
 now and June.
     United said it will be adding flights between Los Angeles

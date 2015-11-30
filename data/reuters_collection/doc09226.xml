@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 07:43:05.88</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">C G T
-f0578reute
-u f BC-SEVERE-DROUGHT-AFFECT   03-25 0104</field>
-	<field name = "TITLE">SEVERE DROUGHT AFFECTS EAST, NORTHEAST THAILAND</field>
+	<field name = "titulo">SEVERE DROUGHT AFFECTS EAST, NORTHEAST THAILAND</field>
 	<field name = "DATELINE">BANGKOK, March 25 -</field>
-	<field name = "BODY">A severe drought has affected 170,560
+	<field name = "content">A severe drought has affected 170,560
 hectares of farmlands in six eastern and northeastern
 provinces, Interior Permanent Secretary Pisarn Mulasartsathorn
 said.

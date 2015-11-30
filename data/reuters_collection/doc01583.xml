@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 12:14:37.13</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0903reute
-r f BC-LOTUS-LOTS>-TO-ACQUI   03-04 0077</field>
-	<field name = "TITLE">LOTUS LOTS> TO ACQUIRE COMPUTER ACCESS CORP></field>
+	<field name = "titulo">LOTUS LOTS> TO ACQUIRE COMPUTER ACCESS CORP></field>
 	<field name = "DATELINE">CAMBRIDGE, Mass., March 4 -</field>
-	<field name = "BODY">Lotus Development Corp said it
+	<field name = "content">Lotus Development Corp said it
 has signed a letter of intent to acquire substantially all of
 the assets of Computer Access Corp for undisclosed terms.
     Computer Asscess makes BlueFish full-text search and

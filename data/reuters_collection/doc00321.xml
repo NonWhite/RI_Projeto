@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 06:25:55.11</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0987
-reute
-u f BC-JAPAN-TO-PROMOTE-INTE   03-02 0091</field>
-	<field name = "TITLE">JAPAN TO PROMOTE INTEREST RATE LIBERALISATION</field>
+	<field name = "titulo">JAPAN TO PROMOTE INTEREST RATE LIBERALISATION</field>
 	<field name = "DATELINE">TOKYO, March 2 -</field>
-	<field name = "BODY">The Bank of Japan decided at a policy
+	<field name = "content">The Bank of Japan decided at a policy
 board meeting to promote further interest rate liberalisation
 by lowering the minimum denomination of regulation-free large
 deposits and by raising the interest rate ceiling on money

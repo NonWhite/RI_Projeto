@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 11:33:52.73</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f8334reute
-u f BC-SPANISH-POWER-COMPANY   03-18 0095</field>
-	<field name = "TITLE">SPANISH POWER COMPANY FECSA MAY SUSPEND PAYMENTS</field>
+	<field name = "titulo">SPANISH POWER COMPANY FECSA MAY SUSPEND PAYMENTS</field>
 	<field name = "AUTHOR">By Jules Stewart, Reuters</field>
 	<field name = "DATELINE">MADRID, March 18 -</field>
-	<field name = "BODY">Spain's financially troubled power
+	<field name = "content">Spain's financially troubled power
 company Fuerzas Electricas de Cataluna S.A.> (FECSA) may
 suspend payments if it fails to reach agreement with creditors
 on renegotiating its 594 billion peseta debt, a company

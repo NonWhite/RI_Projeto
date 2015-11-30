@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 05:43:41.38</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM 
-f0371reute
-r f BC-BANKS-IN-SINGAPORE-SE   06-29 0105</field>
-	<field name = "TITLE">BANKS IN SINGAPORE SET TO INCREASE SECURITISATION</field>
+	<field name = "titulo">BANKS IN SINGAPORE SET TO INCREASE SECURITISATION</field>
 	<field name = "AUTHOR">By Tay Liam Hwee, Reuters</field>
 	<field name = "DATELINE">SINGAPORE, June 29 -</field>
-	<field name = "BODY">Banks in Singapore are planning to
+	<field name = "content">Banks in Singapore are planning to
 further expand their treasury, securities, equities and debt
 instruments activities in line with global financial markets,
 bankers and economists told Reuters.

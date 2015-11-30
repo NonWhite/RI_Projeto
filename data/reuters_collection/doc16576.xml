@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 14:30:23.53</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f2184reute
-u f BC-NOVA-NVA.A.TO>-NOT-P   04-13 0097</field>
-	<field name = "TITLE">NOVA NVA.A.TO> NOT PLANNING DOME DMP> BID</field>
+	<field name = "titulo">NOVA NVA.A.TO> NOT PLANNING DOME DMP> BID</field>
 	<field name = "DATELINE">TORONTO, April 13 -</field>
-	<field name = "BODY">Nova, an Alberta Corp, chief executive
+	<field name = "content">Nova, an Alberta Corp, chief executive
 Robert Blair expressed hope that Dome Petroleum Ltd DMP>
 remains under Canadian ownership, but added that his company
 plans no bid of its own for debt-troubled Dome.

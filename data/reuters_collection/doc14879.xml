@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 06:18:37.01</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">RM
-f0417reute
-u f BC-SOUTH-KOREA-STUDIES-R   04-08 0114</field>
-	<field name = "TITLE">SOUTH KOREA STUDIES RESTRUCTURING FINANCIAL SECTOR</field>
+	<field name = "titulo">SOUTH KOREA STUDIES RESTRUCTURING FINANCIAL SECTOR</field>
 	<field name = "DATELINE">SEOUL, April 8 -</field>
-	<field name = "BODY">Deputy prime minister Kim Mahn-je said
+	<field name = "content">Deputy prime minister Kim Mahn-je said
 South Korea is studying various measures to reform what he
 described as its underdeveloped bank and financial sector.
     Kim, who is also economic planning minister, told a news

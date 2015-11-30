@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:43:17.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2442reute
-r f BC-LITTLE-INDUSTRY-IMPRO   04-07 0101</field>
-	<field name = "TITLE">LITTLE INDUSTRY IMPROVEMENT - DATA GENERAL DGN></field>
+	<field name = "titulo">LITTLE INDUSTRY IMPROVEMENT - DATA GENERAL DGN></field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Data General Corp president Edson de
+	<field name = "content">Data General Corp president Edson de
 Castro said the general outlook for his company and for the
 industry shows "little fundamental improvement."
     Citing the computer industry's dependence on capital

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 07:16:46.84</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0546reute
-u f BC-SVENSKA-HANDELSBANKEN   03-12 0106</field>
-	<field name = "TITLE">SVENSKA HANDELSBANKEN TO START FUTURES TRADING</field>
+	<field name = "titulo">SVENSKA HANDELSBANKEN TO START FUTURES TRADING</field>
 	<field name = "DATELINE">STOCKHOLM, March 12 -</field>
-	<field name = "BODY">Sweden's second largest bank Svenska
+	<field name = "content">Sweden's second largest bank Svenska
 Handelsbanken SHBS.S> said it will launch trading in share
 futures with fixed maturity dates from March 19.
     Trading will start in four stocks -- Svenska Cellulosa AB

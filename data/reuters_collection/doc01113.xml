@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 11:36:21.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0836reute
-u f BC-CHRYSLER-C>-FEBRUARY   03-03 0087</field>
-	<field name = "TITLE">CHRYSLER C> FEBRUARY U.S. CAR OUTPUT OFF</field>
+	<field name = "titulo">CHRYSLER C> FEBRUARY U.S. CAR OUTPUT OFF</field>
 	<field name = "DATELINE">DETROIT, March 3 -</field>
-	<field name = "BODY">Chrysler Corp said its U.S. car
+	<field name = "content">Chrysler Corp said its U.S. car
 production in February totalled 110,552 units compared with
 123,092 a year ago.
     The company said its U.S. truck production in the month

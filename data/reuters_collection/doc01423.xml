@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 09:33:25.06</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0160reute
-b f BC-HOKKAIDO-BANK-ISSUES   03-04 0110</field>
-	<field name = "TITLE">HOKKAIDO BANK ISSUES 30 MLN DLR CONVERTIBLE BOND</field>
+	<field name = "titulo">HOKKAIDO BANK ISSUES 30 MLN DLR CONVERTIBLE BOND</field>
 	<field name = "DATELINE">LONDON, March 4 -</field>
-	<field name = "BODY">The Hokkaido Bank Ltd is issuing a 30 mln
+	<field name = "content">The Hokkaido Bank Ltd is issuing a 30 mln
 dlr convertible eurobond due March 31, 2002 with an indicated
 2-1/4 pct coupon and priced at par, lead manager Nomura
 International Ltd said.

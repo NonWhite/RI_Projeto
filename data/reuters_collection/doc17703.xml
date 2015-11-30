@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 14:22:28.05</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2046reute
-r f BC-BELL-CANADA-BCE>-EXT   06-01 0080</field>
-	<field name = "TITLE">BELL CANADA BCE> EXTENDS STOCK BUYBACK</field>
+	<field name = "titulo">BELL CANADA BCE> EXTENDS STOCK BUYBACK</field>
 	<field name = "DATELINE">MONTREAL, June 1 -</field>
-	<field name = "BODY">Bell Canada Enterprises Inc said it
+	<field name = "content">Bell Canada Enterprises Inc said it
 extended to June 30 from June 4 a short-term voluntary sale
 program for shareholders owning 10 or fewer Bell Canada common
 shares.

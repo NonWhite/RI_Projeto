@@ -8,13 +8,10 @@
 	<field name = "PLACES">norway</field>
 	<field name = "ORGS">efta</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f1214reute
-r f BC-ECONOMIC-SPOTLIGHT--   04-03 0090</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - EFTA FEARS EC MARKET PLANS</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - EFTA FEARS EC MARKET PLANS</field>
 	<field name = "AUTHOR">By Donald Nordberg</field>
 	<field name = "DATELINE">BERNE, April 3 -</field>
-	<field name = "BODY">The European Community wants to eliminate
+	<field name = "content">The European Community wants to eliminate
 all obstacles to free movement of goods, services and people by
 1992, a laudable goal that has sent shivers down the spines of
 its closest trading neighbours.

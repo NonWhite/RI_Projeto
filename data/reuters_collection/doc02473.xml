@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 16:41:01.32</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0849reute
-d f BC-GREAT-WESTERN-FINANCI   03-05 0084</field>
-	<field name = "TITLE">GREAT WESTERN FINANCIAL GWF> UNIT BUYS BANKS</field>
+	<field name = "titulo">GREAT WESTERN FINANCIAL GWF> UNIT BUYS BANKS</field>
 	<field name = "DATELINE">BEVERLY HILLS, CALIF., March 5 -</field>
-	<field name = "BODY">Great Western Financial
+	<field name = "content">Great Western Financial
 Corp's subsidiary Great Western Bank said it will purchase
 three retail banking branches in south Florida with total
 deposits of 90 mln dlrs.

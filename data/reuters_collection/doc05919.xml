@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 09:41:05.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f4938reute
-u f BC-/NO-MAJOR-FARM-POLICY   03-17 0115</field>
-	<field name = "TITLE">NO MAJOR FARM POLICY CHANGES THIS YEAR - DOLE</field>
+	<field name = "titulo">NO MAJOR FARM POLICY CHANGES THIS YEAR - DOLE</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">There will be no significant changes
+	<field name = "content">There will be no significant changes
 in U.S. agricultural policy this year, said Senate Minority
 leader Robert Dole (R-Kan).
     Speaking at the annual convention of National Grain and

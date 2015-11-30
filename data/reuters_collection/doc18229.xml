@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:57:20.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2340reute
-r f BC-FIRST-TENNESSEE-FTEN   06-02 0099</field>
-	<field name = "TITLE">FIRST TENNESSEE FTEN> SELLS 12-YEAR NOTES</field>
+	<field name = "titulo">FIRST TENNESSEE FTEN> SELLS 12-YEAR NOTES</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">First Tennessee National Corp is
+	<field name = "content">First Tennessee National Corp is
 offering 75 mln dlrs of subordinated capital notes due 1999
 yielding 10.43 pct, said lead manager Goldman, Sachs and Co.
     The notes have a 10-3/8 pct coupon and were priced at 99.65

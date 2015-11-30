@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0175reute
-u f BC-BALDRIGE-PREDICTS-END   03-29 0104</field>
-	<field name = "TITLE">BALDRIGE PREDICTS END OF U.S.-JAPAN TRADE DISPUTE</field>
+	<field name = "titulo">BALDRIGE PREDICTS END OF U.S.-JAPAN TRADE DISPUTE</field>
 	<field name = "DATELINE">WASHINGTON, March 29 -</field>
-	<field name = "BODY">The United States and Japan will
+	<field name = "content">The United States and Japan will
 soon settle their trade dispute over semiconductors, U.S.
 Commerce secretary Malcolm Baldrige said on television.
     Baldrige, referring to the U.S.-Japan trade agreement on

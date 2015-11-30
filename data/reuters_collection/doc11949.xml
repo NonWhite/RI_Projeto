@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-miller</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM
-f1057reute
-b f BC-/MILLER-SAYS-REAGAN-O   04-01 0112</field>
-	<field name = "TITLE">MILLER SAYS REAGAN OPPOSES U.S. EXCISE TAX HIKES</field>
+	<field name = "titulo">MILLER SAYS REAGAN OPPOSES U.S. EXCISE TAX HIKES</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Office of Management and Budget
+	<field name = "content">Office of Management and Budget
 director James Miller said President Reagan opposes increases
 in the federal excise taxes on gas, cigarettes or alcohol to
 help reduce the federal budget deficit.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 14:15:19.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2027reute
-b f BC-JOHNSON-SAYS-GROWTH-W   03-19 0099</field>
-	<field name = "TITLE">JOHNSON SAYS GROWTH WILL DIFFUSE DEBT CRISIS</field>
+	<field name = "titulo">JOHNSON SAYS GROWTH WILL DIFFUSE DEBT CRISIS</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">Federal Reserve Board Vice Chairman
+	<field name = "content">Federal Reserve Board Vice Chairman
 Manuel Johnson said a resolution of the debt crisis depends on
 growth in the industrialized world.
     "We can work our way through as long as we have growth in

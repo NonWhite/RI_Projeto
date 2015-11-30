@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 12:38:13.00</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0000reute
-b f BC-HUGHES-TOOL-HT>-SAYS   03-05 0113</field>
-	<field name = "TITLE">HUGHES TOOL HT> SAYS BAKER BKO> MERGER ALIVE</field>
+	<field name = "titulo">HUGHES TOOL HT> SAYS BAKER BKO> MERGER ALIVE</field>
 	<field name = "DATELINE">HOUSTON, March 5 -</field>
-	<field name = "BODY">Hughes Tool Co Chairman W.A. Kistler
+	<field name = "content">Hughes Tool Co Chairman W.A. Kistler
 said its counter proposal to merge with Baker International
 Corp was still under consideration and that a merger was in the
 best interests of both companies.

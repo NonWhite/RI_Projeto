@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 07:14:51.62</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">A
-f0480reute
-r f BC-DEBT-SOLUTION-REQUIRE   03-23 0112</field>
-	<field name = "TITLE">DEBT SOLUTION REQUIRES OPEN MARKETS, GERMAN BANKER</field>
+	<field name = "titulo">DEBT SOLUTION REQUIRES OPEN MARKETS, GERMAN BANKER</field>
 	<field name = "DATELINE">FRANKFURT, March 23 -</field>
-	<field name = "BODY">The solution of the world's debt
+	<field name = "content">The solution of the world's debt
 crisis requires open markets but a possible resurgence of
 protectionism is the biggest danger, the president of the
 Federal Association of German Banks, Wolfgang Roeller, said.

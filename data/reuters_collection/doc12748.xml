@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 04:30:28.57</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0247reute
-u f BC-TOYO-UMPANKI-MAY-MAKE   04-03 0113</field>
-	<field name = "TITLE">TOYO UMPANKI MAY MAKE FORKLIFTS IN EUROPE</field>
+	<field name = "titulo">TOYO UMPANKI MAY MAKE FORKLIFTS IN EUROPE</field>
 	<field name = "DATELINE">TOKYO, April 3 -</field>
-	<field name = "BODY">Toyo Umpanki Co Ltd> said it is
+	<field name = "content">Toyo Umpanki Co Ltd> said it is
 considering setting up a European unit to produce forklifts, in
 view of the yen's rise and Japan's self-imposed restriction on
 forklift exports to the European Community (EC).

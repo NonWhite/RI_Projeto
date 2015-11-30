@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:59:45.20F</field>
-	<field name = "UNKNOWN">f1942reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">h f BC-FIRST-NATIONAL-CORP-   03-27 0044</field>
-	<field name = "TITLE">FIRST NATIONAL CORP FTNC> 4TH QTR</field>
+	<field name = "titulo">FIRST NATIONAL CORP FTNC> 4TH QTR</field>
 	<field name = "DATELINE">DELAWARE, Ohio, March 27 -</field>
-	<field name = "BODY">Shr loss 29 cts vs loss 15 cts
+	<field name = "content">Shr loss 29 cts vs loss 15 cts
     Net loss 513,542 vs loss 263,708
     Revs 38,000 vs nil
     Year

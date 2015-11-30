@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 16:30:42.93</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2513reute
-r f BC-CALTEX-TO-RAISE-BAHRA   03-24 0107</field>
-	<field name = "TITLE">CALTEX TO RAISE BAHRAIN OIL PRODUCT PRICES</field>
+	<field name = "titulo">CALTEX TO RAISE BAHRAIN OIL PRODUCT PRICES</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Caltex Petroleum Corp said it will
+	<field name = "content">Caltex Petroleum Corp said it will
 raise
 posted prices for naphtha and several grades of residual fuel
 in Bahrain, effective March 25.

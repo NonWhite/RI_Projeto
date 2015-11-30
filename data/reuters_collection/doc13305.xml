@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 00:50:57.56</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0021reute
-u f BC-JAPAN-CONSIDERING-BUY   04-07 0108</field>
-	<field name = "TITLE">JAPAN CONSIDERING BUYING U.S. SUPERCOMPUTER</field>
+	<field name = "titulo">JAPAN CONSIDERING BUYING U.S. SUPERCOMPUTER</field>
 	<field name = "DATELINE">TOKYO, April 7 -</field>
-	<field name = "BODY">Japan's Ministry of International Trade
+	<field name = "content">Japan's Ministry of International Trade
 and Industry (MITI) is considering buying a U.S.-built
 supercomputer worth three to four billion yen, but a final
 decision and funding have yet to be determined, MITI said.

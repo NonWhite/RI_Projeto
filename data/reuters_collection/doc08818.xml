@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 11:33:44.99</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM
-f1412reute
-b f BC-SOUTH-AFRICA/BANKS-AG   03-24 0105</field>
-	<field name = "TITLE">SOUTH AFRICA/BANKS AGREE NEW TERMS TO REPAY DEBT</field>
+	<field name = "titulo">SOUTH AFRICA/BANKS AGREE NEW TERMS TO REPAY DEBT</field>
 	<field name = "DATELINE">LONDON, March 24 -</field>
-	<field name = "BODY">Representatives of South Africa's
+	<field name = "content">Representatives of South Africa's
 Standstill Coordinating Committee (SCC) and its commercial bank
 creditors have agreed new terms covering repayments of 14
 billion dlrs of debt, banking sources said.

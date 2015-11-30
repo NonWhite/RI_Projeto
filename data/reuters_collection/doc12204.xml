@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 14:31:06.88</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2078reute
-r f BC-ITEL-ITEL>-COMPLETES   04-01 0076</field>
-	<field name = "TITLE">ITEL ITEL> COMPLETES FLEXI-VAN ACQUISITION</field>
+	<field name = "titulo">ITEL ITEL> COMPLETES FLEXI-VAN ACQUISITION</field>
 	<field name = "DATELINE">CHICAGO, April 1 -</field>
-	<field name = "BODY">Itel Corp said it completed the
+	<field name = "content">Itel Corp said it completed the
 previously announced purchase of the container fleet and
 certain related assets of Flexi-Van Leasing Inc for about 130
 mln dlrs cash and marketable securities, 30 mln dlrs in notes,

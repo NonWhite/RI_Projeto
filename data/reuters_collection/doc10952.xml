@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 13:34:37.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2033reute
-r f BC-FEDERAL-BANK-BOARD-CL   03-30 0106</field>
-	<field name = "TITLE">FEDERAL BANK BOARD CLOSES CALIFORINIA THRIFT</field>
+	<field name = "titulo">FEDERAL BANK BOARD CLOSES CALIFORINIA THRIFT</field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">The Federal Home Loan Bank Board
+	<field name = "content">The Federal Home Loan Bank Board
 said it had closed Equitable Savings and Loan Association of 
 Fountain Valley, Calif., and transferred its insured deposits
 to Empire of America-California, FSB, a federal savings bank in

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 12:08:14.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f8478reute
-b f AM-REAGAN   03-18 0095</field>
-	<field name = "TITLE">U.S. PANELS AGREE ON IMMUNITY IN IRAN AFFAIR</field>
+	<field name = "titulo">U.S. PANELS AGREE ON IMMUNITY IN IRAN AFFAIR</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">Senate and House investigators into
+	<field name = "content">Senate and House investigators into
 the Iran arms scandal agreed to grant limited immunity to
 obtain the testimony of key witnesses and to combine their
 planned hearings.

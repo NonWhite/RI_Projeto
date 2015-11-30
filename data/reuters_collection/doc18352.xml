@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 19:11:52.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2925reute
-u f BC-COORS-ACCO.O>-SEES-L   06-02 0112</field>
-	<field name = "TITLE">COORS ACCO.O> SEES LOWER SECOND QUARTER</field>
+	<field name = "titulo">COORS ACCO.O> SEES LOWER SECOND QUARTER</field>
 	<field name = "DATELINE">GOLDEN, Colo, June 2 -</field>
-	<field name = "BODY">Adolph Coors Co said it expects
+	<field name = "content">Adolph Coors Co said it expects
 second quarter net income to be in the range of 45 cts to 50
 cts a share compared to 82 cts a share in 1986.
     Coors said earnings were hurt by start-up expenses at the

@@ -3,13 +3,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0312reute
-b f BC-BANK-OF-JAPAN-MULLS-O   03-31 0103</field>
-	<field name = "TITLE">BANK OF JAPAN MULLS OTHER OPTIONS TO STOP YEN RISE</field>
+	<field name = "titulo">BANK OF JAPAN MULLS OTHER OPTIONS TO STOP YEN RISE</field>
 	<field name = "AUTHOR">By Kunio Inoue, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 31 -</field>
-	<field name = "BODY">Today's liberalised financial markets are
+	<field name = "content">Today's liberalised financial markets are
 making it extremely difficult for Japan's monetary authorities
 to prevent the yen's rise against the dollar, but they have
 several options other than normal intervention, Bank of Japan

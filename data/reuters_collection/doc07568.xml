@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 05:17:02.47</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">T C
-f0288reute
-r f BC-JAPAN-SLIGHTLY-REDUCE   03-20 0101</field>
-	<field name = "TITLE">JAPAN SLIGHTLY REDUCES SUGAR CONSUMPTION ESTIMATE</field>
+	<field name = "titulo">JAPAN SLIGHTLY REDUCES SUGAR CONSUMPTION ESTIMATE</field>
 	<field name = "DATELINE">TOKYO, March 20 -</field>
-	<field name = "BODY">The Agriculture Ministry said it revised
+	<field name = "content">The Agriculture Ministry said it revised
 its April-June sugar consumption estimate down to 623,300
 tonnes on a refined basis, from 637,800 estimated at the end of
 December.

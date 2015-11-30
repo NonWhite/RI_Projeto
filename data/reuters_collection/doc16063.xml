@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 19:41:03.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2880reute
-u f AM-HOMELESS   04-09 0113</field>
-	<field name = "TITLE">SENATE PASSES HOMELESS AID BILL</field>
+	<field name = "titulo">SENATE PASSES HOMELESS AID BILL</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The Senate approved a 433 mln dlr
+	<field name = "content">The Senate approved a 433 mln dlr
 bill to aid thousands of homeless people sleeping on streets
 around the country.
     The legislation was approved on an 85 to 12 vote but must

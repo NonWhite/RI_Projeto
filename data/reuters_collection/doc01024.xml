@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 09:48:24.78</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f0367reute
-r f BC-AERO-SERVICES-AEROE>   03-03 0075</field>
-	<field name = "TITLE">AERO SERVICES AEROE> GETS NASDAQ EXCEPTION</field>
+	<field name = "titulo">AERO SERVICES AEROE> GETS NASDAQ EXCEPTION</field>
 	<field name = "DATELINE">TETERBORO, N.J., March 3 -</field>
-	<field name = "BODY">Aero Services Inc said its
+	<field name = "content">Aero Services Inc said its
 common stock will continue to be included for quotation in the
 National Association of Securities Dealers' NASDAQ system due
 to an exception from filing requiements, which it failed to

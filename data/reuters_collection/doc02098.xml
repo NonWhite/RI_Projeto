@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 10:43:49.07</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0387reute
-r f BC-COPLEY-PROPERTIES-INC   03-05 0062</field>
-	<field name = "TITLE">COPLEY PROPERTIES INC COP> 4TH QTR NET</field>
+	<field name = "titulo">COPLEY PROPERTIES INC COP> 4TH QTR NET</field>
 	<field name = "DATELINE">BOSTON, March 5 -</field>
-	<field name = "BODY">Shr 30 cts vs 36 cts
+	<field name = "content">Shr 30 cts vs 36 cts
     Net 1,211,000 vs 1,428,000
     Revs 1,536,000 vs 1,743,000
     Year

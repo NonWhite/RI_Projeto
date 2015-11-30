@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 10:38:33.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1194reute
-r f BC-PERPETUAL-SAVINGS-PA   06-02 0067</field>
-	<field name = "TITLE">PERPETUAL SAVINGS PASB.O> SETS HOLDING COMPANY</field>
+	<field name = "titulo">PERPETUAL SAVINGS PASB.O> SETS HOLDING COMPANY</field>
 	<field name = "DATELINE">ALEXANDRIA, Va., June 2 -</field>
-	<field name = "BODY">Perpetual Savings Bank said its
+	<field name = "content">Perpetual Savings Bank said its
 board has approved formation of a holding company to be
 incorporated in Virginia, subject to Federal Home Loan Bank
 Board and shareholder approval.

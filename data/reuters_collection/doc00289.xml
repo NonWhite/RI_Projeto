@@ -3,13 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f0741
-reute
-b f BC-ICO-TALKS-ON-COFFEE-Q   03-02 0106</field>
-	<field name = "TITLE">ICO TALKS ON COFFEE QUOTAS TO RESUME AT NOON</field>
+	<field name = "titulo">ICO TALKS ON COFFEE QUOTAS TO RESUME AT NOON</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">Talks on coffee export quotas at the
+	<field name = "content">Talks on coffee export quotas at the
 International Coffee Organization (ICO) special council session
 will resume at noon gmt today, following a last minute decision
 taken early this morning to extend the meeting 24 hours, ICO

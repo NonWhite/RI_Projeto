@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 02:14:48.70</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">RM
-f0303reute
-u f BC-SOUTH-KOREAN-MONEY-SU   03-05 0096</field>
-	<field name = "TITLE">SOUTH KOREAN MONEY SUPPLY RISES IN FEBRUARY</field>
+	<field name = "titulo">SOUTH KOREAN MONEY SUPPLY RISES IN FEBRUARY</field>
 	<field name = "DATELINE">SEOUL, March 5 -</field>
-	<field name = "BODY">South Korea's M-2 money supply rose 0.39
+	<field name = "content">South Korea's M-2 money supply rose 0.39
 pct to 33,992.0 billion won in February from 33,858.4 billion
 in January, when it fell a revised 0.04 pct from December,
 provisional Bank of Korea figures show.

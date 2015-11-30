@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L M T
-f0872reute
-d f PM-TAIWAN-IMPORTS   03-12 0131</field>
-	<field name = "TITLE">TAIWAN TO RELAX IMPORT CURBS ON MORE GOODS</field>
+	<field name = "titulo">TAIWAN TO RELAX IMPORT CURBS ON MORE GOODS</field>
 	<field name = "DATELINE">TAIPEI, March 12 -</field>
-	<field name = "BODY">Taiwan will relax import controls on
+	<field name = "content">Taiwan will relax import controls on
 more foreign goods, a government spokesman said today.
     The move was to allow greater access to Taiwan markets by
 overseas trading partners, especially the United States, an

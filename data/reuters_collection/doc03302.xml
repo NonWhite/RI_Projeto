@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">Y E
-f0372reute
-r f BC-CANADIAN-OIL-COMPANIE   03-09 0106</field>
-	<field name = "TITLE">CANADIAN OIL COMPANIES RAISE CRUDE PRICES</field>
+	<field name = "titulo">CANADIAN OIL COMPANIES RAISE CRUDE PRICES</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Petro-Canada, the state-owned oil
+	<field name = "content">Petro-Canada, the state-owned oil
 company, said it raised the contract price it will pay for
 crude oil 64 Canadian cts a barrel, effective March six.
     Petro-Canada's posted price for the benchmark light sweet

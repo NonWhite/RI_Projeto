@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 17:11:36.67</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2738reute
-u f BC-PACIFIC-GAS-PCG>-ACC   03-31 0093</field>
-	<field name = "TITLE">PACIFIC GAS PCG> ACCOUNTING CHANGE TO CUT NET</field>
+	<field name = "titulo">PACIFIC GAS PCG> ACCOUNTING CHANGE TO CUT NET</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 31 -</field>
-	<field name = "BODY">Pacific Gas and Electric Co said
+	<field name = "content">Pacific Gas and Electric Co said
 it expects to record a 470 mln dlr, or 1.25 dlr per share,
 reduction in 1987 earnings because of the company's decision to
 change the method used to record Diablo Canyon Nuclear Power

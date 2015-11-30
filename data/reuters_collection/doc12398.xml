@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">thailand</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">T C
-f0099reute
-u f BC-THAI-TRADERS-OPPOSE-R   04-02 0108</field>
-	<field name = "TITLE">THAI TRADERS OPPOSE REIMPOSITION OF COFFEE QUOTAS</field>
+	<field name = "titulo">THAI TRADERS OPPOSE REIMPOSITION OF COFFEE QUOTAS</field>
 	<field name = "DATELINE">BANGKOK, April 2 -</field>
-	<field name = "BODY">Thai coffee exporters said they hoped
+	<field name = "content">Thai coffee exporters said they hoped
 the International Coffee Organisation (ICO) would not reimpose
 export quotas even though this may lead to a further slump in
 world prices.

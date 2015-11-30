@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 14:30:44.71</field>
 	<field name = "PLACES">nigeria</field>
-	<field name = "UNKNOWN">C G T
-f2086reute
-d f AM-WAGES   04-24 0124</field>
-	<field name = "TITLE">NIGERIA REVERSES POLICY, RESTORES MINIMUM WAGE</field>
+	<field name = "titulo">NIGERIA REVERSES POLICY, RESTORES MINIMUM WAGE</field>
 	<field name = "DATELINE">LAGOS, April 24 -</field>
-	<field name = "BODY">Nigeria's military government retreated
+	<field name = "content">Nigeria's military government retreated
 in the face of hostile public opinion and restored the minimum
 wage of 125 naira (about 32 dlrs) a month.
     It revoked an order made only last December which exempted

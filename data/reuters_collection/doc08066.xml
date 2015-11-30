@@ -2,12 +2,9 @@
 	<field name = "DATE">21-MAR-1987 08:18:21.73</field>
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0028reute
-r f BC-CHINA,-HONG-KONG-FIRM   03-21 0104</field>
-	<field name = "TITLE">CHINA, HONG KONG FIRMS SIGNS LOAN AGREEMENT</field>
+	<field name = "titulo">CHINA, HONG KONG FIRMS SIGNS LOAN AGREEMENT</field>
 	<field name = "DATELINE">PEKING, March 21 -</field>
-	<field name = "BODY">China Sports Service Corp> of China and
+	<field name = "content">China Sports Service Corp> of China and
 Seylla Corp> of Hong Kong signed an agreement to borrow five
 billion yen from an international syndicate of banks led by the
 Bank of China, the New China News Agency said.

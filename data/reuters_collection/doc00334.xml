@@ -2,14 +2,10 @@
 	<field name = "DATE">2-MAR-1987 07:11:48.84</field>
 	<field name = "PLACES">hungary</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f0050
-reute
-r f BC-ECONOMIC-SPOTLIGHT--   03-02 0110</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - AUSTERITY MEASURES IN HUNGARY</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - AUSTERITY MEASURES IN HUNGARY</field>
 	<field name = "AUTHOR">By David Lewis, Reuters</field>
 	<field name = "DATELINE">BUDAPEST, March 2 -</field>
-	<field name = "BODY">Hungary is to embark on a new series of
+	<field name = "content">Hungary is to embark on a new series of
 austerity measures to tackle a budget deficit which tripled
 last year after quadrupling in 1985.
     The target deficit in the 1987 budget approved by

@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 10:40:46.43</field>
 	<field name = "PLACES">south-africa</field>
 	<field name = "PEOPLE">du-plessis</field>
-	<field name = "UNKNOWN">RM
-f0322reute
-u f BC-SOUTH-AFRICA-OPTIMIST   03-06 0100</field>
-	<field name = "TITLE">SOUTH AFRICA OPTIMISTIC ABOUT DEBT TALKS</field>
+	<field name = "titulo">SOUTH AFRICA OPTIMISTIC ABOUT DEBT TALKS</field>
 	<field name = "DATELINE">JOHANNESBURG, March 6 -</field>
-	<field name = "BODY">South Africa's director-general of
+	<field name = "content">South Africa's director-general of
 finance Chris Stals said he was optimistic about reaching a
 mutually acceptable agreement with foreign bank creditors in
 debt renegotiation talks scheduled to begin next month.

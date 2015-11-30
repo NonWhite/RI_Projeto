@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 06:07:59.83</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">RM V 
-f0436reute
-b f BC-STOCK-EXCHAGE-SAYS-NO   10-20 0093</field>
-	<field name = "TITLE">STOCK EXCHAGE SAYS NO QUESTION OF HALTING TRADING</field>
+	<field name = "titulo">STOCK EXCHAGE SAYS NO QUESTION OF HALTING TRADING</field>
 	<field name = "DATELINE">LONDON, Oct 20 -</field>
-	<field name = "BODY">A spokeswoman for the London Stock
+	<field name = "content">A spokeswoman for the London Stock
 Exchange said there was no question of trading being suspended
 because of the unprecedented three-day drop in prices, which
 has seen almost 23 pct wiped off share values.

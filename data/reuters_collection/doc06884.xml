@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 17:23:11.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9610reute
-d f BC-STERLING-FILES-SUIT-A   03-18 0077</field>
-	<field name = "TITLE">STERLING FILES SUIT AGAINST SPECTRAN SPTR></field>
+	<field name = "titulo">STERLING FILES SUIT AGAINST SPECTRAN SPTR></field>
 	<field name = "DATELINE">STURBRIDGE, Mass., March 18 -</field>
-	<field name = "BODY">SpecTran Corp said Sterling
+	<field name = "content">SpecTran Corp said Sterling
 Extruder Corp> filed a complaint against it and Sonetran, its
 partly-owned business venture, claiming a breach of contract
 for the purchase of about 545,000 dlrs worth of equipment.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 07:16:54.27</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">RM
-f0495reute
-u f BC-BANK-OF-THAILAND-PLAN   03-25 0107</field>
-	<field name = "TITLE">BANK OF THAILAND PLANS ITS FIRST BOND ISSUE</field>
+	<field name = "titulo">BANK OF THAILAND PLANS ITS FIRST BOND ISSUE</field>
 	<field name = "DATELINE">BANGKOK, March 25 -</field>
-	<field name = "BODY">The Bank of Thailand is seeking Finance
+	<field name = "content">The Bank of Thailand is seeking Finance
 Ministry approval to issue its first bond, central bank sources
 said.
     The planned three billion baht issue would carry a term of

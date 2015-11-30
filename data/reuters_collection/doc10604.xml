@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 14:04:26.14F</field>
-	<field name = "UNKNOWN">f1965reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-TALKING-POINT/FOOD-ST   03-27 0090</field>
-	<field name = "TITLE">TALKING POINT/FOOD STOCKS</field>
+	<field name = "titulo">TALKING POINT/FOOD STOCKS</field>
 	<field name = "AUTHOR">By Jane Light, Reuters</field>
 	<field name = "DATELINE">CHICAGO, March 27 -</field>
-	<field name = "BODY">Fueled by an earnings-driven bull
+	<field name = "content">Fueled by an earnings-driven bull
 market, food stocks are emerging as the big winners, analysts
 say.
     "This is an earnings-driven market, and the investor is

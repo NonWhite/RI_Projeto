@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 04:40:04.50</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0229reute
-b f BC-LSI-LOGIC-ISSUES-100   03-23 0106</field>
-	<field name = "TITLE">LSI LOGIC ISSUES 100 MLN DLR CONVERTIBLE BOND</field>
+	<field name = "titulo">LSI LOGIC ISSUES 100 MLN DLR CONVERTIBLE BOND</field>
 	<field name = "DATELINE">LONDON, March 23 -</field>
-	<field name = "BODY">LSI Logic Corp is issuing a 100 mln dlr
+	<field name = "content">LSI Logic Corp is issuing a 100 mln dlr
 convertible eurobond due April 14, 2002 with an indicated
 coupon of 5-3/4 to 6-1/4 pct and priced at par, Morgan Stanley
 International said as lead manager.

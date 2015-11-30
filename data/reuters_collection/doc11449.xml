@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">A RM
-f1707reute
-u f BC-TREASURY'S-BAKER-PURS   03-31 0090</field>
-	<field name = "TITLE">TREASURY'S BAKER PURSUING S. ASIAN REVALUATIONS</field>
+	<field name = "titulo">TREASURY'S BAKER PURSUING S. ASIAN REVALUATIONS</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Treasury Secretary James Baker told
+	<field name = "content">Treasury Secretary James Baker told
 the House Appropriations Committee the United States is still
 pressing newly industrialized south Asian nations that have
 tied their currencies to the dollar to let those currencies

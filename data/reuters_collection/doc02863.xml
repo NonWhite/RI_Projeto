@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0536reute
-r f BC-U.S.-FEEDGRAIN-0/92-S   03-06 0137</field>
-	<field name = "TITLE">U.S. FEEDGRAIN 0/92 SUPPORTERS EVALUATE POSITION</field>
+	<field name = "titulo">U.S. FEEDGRAIN 0/92 SUPPORTERS EVALUATE POSITION</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">Advocates of a 0/92 plan for
+	<field name = "content">Advocates of a 0/92 plan for
 feedgrains will likely delay offering their proposals if a
 disaster aid bill before the House Agriculture Committee is
 scaled back to include only 1987 winter wheat, congressional

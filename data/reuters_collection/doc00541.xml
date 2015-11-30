@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:12:21.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0195
-reute
-d f BC-POGO-PPP>-CONSOLIDAT   03-02 0051</field>
-	<field name = "TITLE">POGO PPP> CONSOLIDATES TWO DIVISIONS</field>
+	<field name = "titulo">POGO PPP> CONSOLIDATES TWO DIVISIONS</field>
 	<field name = "DATELINE">HOUSTON, March 2 -</field>
-	<field name = "BODY">Pogo Producing Co said it has
+	<field name = "content">Pogo Producing Co said it has
 consolidated its onshore and offshore Gulf Coast divisions into
 a Southern Division responsible for its onshore and offshore
 oil and gas exploration and development activities in the Gulf

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 16:11:44.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2247reute
-d f BC-US-WEST-USW>-UNIT-NA   04-03 0070</field>
-	<field name = "TITLE">US WEST USW> UNIT NAMES NEW PRESIDENT</field>
+	<field name = "titulo">US WEST USW> UNIT NAMES NEW PRESIDENT</field>
 	<field name = "DATELINE">DENVER, April 3 -</field>
-	<field name = "BODY">US West Inc said it named A. Gary Ames to
+	<field name = "content">US West Inc said it named A. Gary Ames to
 succeed Robert Blanz as president and chief executive officer
 of its Mountain Bell subsidiary.
     Blanz, who announced his intention to retire effective June

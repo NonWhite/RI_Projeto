@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0589reute
-b f BC-/U.S.-TREASURY-AIDE-W   03-04 0088</field>
-	<field name = "TITLE">U.S. TREASURY AIDE WARNS ON INFLATION</field>
+	<field name = "titulo">U.S. TREASURY AIDE WARNS ON INFLATION</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">Thomas Berger, Deputy Assistant
+	<field name = "content">Thomas Berger, Deputy Assistant
 Secretary of the Treasury, said that a further drop in the
 exchange value of the dollar could cause prices to go up and
 trigger inflation.

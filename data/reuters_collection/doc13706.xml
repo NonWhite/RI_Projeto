@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:19:13.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0735reute
-r f BC-WANG-WAN-B>-ADDS-ENT   04-07 0078</field>
-	<field name = "TITLE">WANG WAN B> ADDS ENTRY-LEVEL TEMPEST UNITS</field>
+	<field name = "titulo">WANG WAN B> ADDS ENTRY-LEVEL TEMPEST UNITS</field>
 	<field name = "DATELINE">LOWELL, Mass., April 7 -</field>
-	<field name = "BODY">Wang Laboratories Inc said it has
+	<field name = "content">Wang Laboratories Inc said it has
 added two entry-level 32-bit minicomputers to its TEMPEST
 systems product line.
     It said the low-cost VS 5T and VS 6T, priced at 13,500 dlrs

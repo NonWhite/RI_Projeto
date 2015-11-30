@@ -19,12 +19,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">bulgaria</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">G
-f2269reute
-r f BC-ARGENTINE-SUBPRODUCTS   04-01 0091</field>
-	<field name = "TITLE">ARGENTINE SUBPRODUCTS SHIPMENTS IN 1986</field>
+	<field name = "titulo">ARGENTINE SUBPRODUCTS SHIPMENTS IN 1986</field>
 	<field name = "DATELINE">BUENOS AIRES, Apr 1 -</field>
-	<field name = "BODY">Argentine subproducts shipments
+	<field name = "content">Argentine subproducts shipments
 during January/December 1986 totalled 5,618,315 tonnes, against
 4,815,188 tonnes in the same period of 1985, the Argentine
 Grain Board said.

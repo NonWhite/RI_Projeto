@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 12:18:01.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8560reute
-r f BC-GM'S-GM>-PONTIAC-EXP   03-18 0086</field>
-	<field name = "TITLE">GM'S GM> PONTIAC EXPANDS OPTION BONUS PROGRAM</field>
+	<field name = "titulo">GM'S GM> PONTIAC EXPANDS OPTION BONUS PROGRAM</field>
 	<field name = "DATELINE">PONTIAC, MICH., March 18 -</field>
-	<field name = "BODY">General Motors Corp's Pontiac
+	<field name = "content">General Motors Corp's Pontiac
 said it expanded its current "Option Bonus" program, adding a
 1,200 dlr rebate on all new and unused 1986 Fiero models, an
 increased savings of 700 dlrs added to the existing 1986 Fiero

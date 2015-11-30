@@ -2,13 +2,10 @@
 	<field name = "DATE">13-APR-1987 08:09:00.74</field>
 	<field name = "PLACES">japan</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">RM
-f0623reute
-u f BC-FURTHER-WEAKNESS-SEEN   04-13 0100</field>
-	<field name = "TITLE">FURTHER WEAKNESS SEEN IN TOKYO STOCKS IN NEAR TERM</field>
+	<field name = "titulo">FURTHER WEAKNESS SEEN IN TOKYO STOCKS IN NEAR TERM</field>
 	<field name = "AUTHOR">By James Kynge, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 13 -</field>
-	<field name = "BODY">Tokyo share prices are expected to weaken
+	<field name = "content">Tokyo share prices are expected to weaken
 further for about a week, following a sharp drop which at one
 time today saw the Nikkei Dow index down 571.01 points in
 mid-afternoon trading, brokers said.

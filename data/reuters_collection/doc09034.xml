@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 16:38:19.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2534reute
-r f BC-COLLINS-FOODS-CF>-MO   03-24 0077</field>
-	<field name = "TITLE">COLLINS FOODS CF> MOVES UP WARRANT CONVERSION</field>
+	<field name = "titulo">COLLINS FOODS CF> MOVES UP WARRANT CONVERSION</field>
 	<field name = "DATELINE">LOS ANGELES, March 24 -</field>
-	<field name = "BODY">Collins Foods International Inc
+	<field name = "content">Collins Foods International Inc
 said it moved up the conversion date for its warrants to
 purchase common stock to April 24.
     There are currently 2,160,000 warrants outstanding, the

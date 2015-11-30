@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 16:51:36.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2475reute
-r f BC-AMERICAN-ELECTRIC-AE   03-20 0108</field>
-	<field name = "TITLE">AMERICAN ELECTRIC AEP> UNIT TO BUY BACK BONDS</field>
+	<field name = "titulo">AMERICAN ELECTRIC AEP> UNIT TO BUY BACK BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Ohio Power Co, a unit of American
+	<field name = "content">Ohio Power Co, a unit of American
 Electric Power Co, said it will redeem 34.4 mln dlrs of its
 first mortgage bonds on June one.
     It will buy back at par 33 mln dlrs of its outstanding 10

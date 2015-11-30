@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:18:53.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0475reute
-d f BC-FARM-CREDIT-STABILIZE   03-12 0133</field>
-	<field name = "TITLE">FARM CREDIT STABILIZES FURTHER IN PLAINS STATES</field>
+	<field name = "titulo">FARM CREDIT STABILIZES FURTHER IN PLAINS STATES</field>
 	<field name = "DATELINE">KANSAS CITY, March 12 -</field>
-	<field name = "BODY">Farm credit conditions showed
+	<field name = "content">Farm credit conditions showed
 further signs of stabilizing in the plains and mountain states
 during the fourth quarter of 1986, according to bankers
 surveyed by the Kansas City Federal Reserve Bank.

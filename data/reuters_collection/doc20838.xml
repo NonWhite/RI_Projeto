@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 19:16:38.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3607reute
-d f BC-NEW-BSD-BSDM.O>-CHAI   10-20 0072</field>
-	<field name = "TITLE">NEW BSD BSDM.O> CHAIRMAN NAMED</field>
+	<field name = "titulo">NEW BSD BSDM.O> CHAIRMAN NAMED</field>
 	<field name = "DATELINE">SALT LAKE CITY, Utah, Oct 29 -</field>
-	<field name = "BODY">BSD Medical Corp said Alan L
+	<field name = "content">BSD Medical Corp said Alan L
 Himber has been appointed chairman of the board, replacing John
 E. Langdon, who resigned.
     BSD said Langdon's close businees associates, Philip D.

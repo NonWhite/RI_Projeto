@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 15:53:17.19</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2401reute
-d f BC-DAY-INT'L-DAY>-TO-SE   04-08 0102</field>
-	<field name = "TITLE">DAY INT'L DAY> TO SELL UNIT</field>
+	<field name = "titulo">DAY INT'L DAY> TO SELL UNIT</field>
 	<field name = "DATELINE">DAYTON, Ohio, April 8 -</field>
-	<field name = "BODY">Day International Corp said it has
+	<field name = "content">Day International Corp said it has
 entered into a letter of intent to sell its Allen Industries
 Inc unit to a group including the unit's current management.
     Day said the sale could enable Day to accelerate its

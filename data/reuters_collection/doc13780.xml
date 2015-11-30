@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:50:40.48</field>
-	<field name = "UNKNOWN">C L
-f0833reute
-u f BC-live-hog-report   04-07 0101</field>
-	<field name = "TITLE">LIVE HOG FUTURES EXPECTED STEADY TO HIGHER</field>
+	<field name = "titulo">LIVE HOG FUTURES EXPECTED STEADY TO HIGHER</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Live Hog futures were expected to open
+	<field name = "content">Live Hog futures were expected to open
 steady to mostly higher after yesterday's mostly higher close.
     Traders anticipate carryover demand prompted by firmer live
 calls and the continued discount of futures to cash. Hog runs

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G 
-f4490reute
-u f BC-SENATOR-DEFENDS-U.S.   06-18 0137</field>
-	<field name = "TITLE">SENATOR DEFENDS U.S. MANDATORY FARM CONTROL BILL</field>
+	<field name = "titulo">SENATOR DEFENDS U.S. MANDATORY FARM CONTROL BILL</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">Sen. Tom Harkin, D-Iowa, defended his
+	<field name = "content">Sen. Tom Harkin, D-Iowa, defended his
 controversial mandatory supply control farm bill and said U.S.
 farmers should be allowed to vote in a referendum whether they
 approve of the proposal.

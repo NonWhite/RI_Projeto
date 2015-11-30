@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 17:11:10.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2496reute
-r f BC-EL-PASO-ELECTRIC-ELP   03-25 0095</field>
-	<field name = "TITLE">EL PASO ELECTRIC ELPA> TO BUY BACK BONDS</field>
+	<field name = "titulo">EL PASO ELECTRIC ELPA> TO BUY BACK BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">El Paso Electric Co said it plans to
+	<field name = "content">El Paso Electric Co said it plans to
 redeem its 40 mln dlrs of 16.35 pct first mortgage bonds of
 1991 and 60 mln dlrs of 16.20 pct first mortgage bonds of 2012.
     It will buy back at par plus accrued interest the 16.35 pct

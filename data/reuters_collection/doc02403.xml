@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 15:42:58.45</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0646reute
-r f BC-tdbank   03-05 0108</field>
-	<field name = "TITLE">TORONTO DOMINION PLANS GREEN LINE ANNOUNCEMENT</field>
+	<field name = "titulo">TORONTO DOMINION PLANS GREEN LINE ANNOUNCEMENT</field>
 	<field name = "DATELINE">TORONTO, March 5 -</field>
-	<field name = "BODY">Toronto Dominion Bank> will hold a news
+	<field name = "content">Toronto Dominion Bank> will hold a news
 conference tomorrow to make "a major announcement" about its 
 Green Line Investor Service, which provides discount brokerage
 services to customers, a bank spokesman said.

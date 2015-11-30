@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 11:09:30.32</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f1234reute
-u f BC-ITALY-SETS-RULES-FOR   03-20 0086</field>
-	<field name = "TITLE">ITALY SETS RULES FOR COMPANY HOLDINGS IN BANKS</field>
+	<field name = "titulo">ITALY SETS RULES FOR COMPANY HOLDINGS IN BANKS</field>
 	<field name = "DATELINE">ROME, March 20 -</field>
-	<field name = "BODY">Companies will henceforth be able to own
+	<field name = "content">Companies will henceforth be able to own
 stakes in banks, but these should not constitute a "dominant"
 holding, an Italian government committee ruled.
     The Interministerial Committee on Credit and Savings,

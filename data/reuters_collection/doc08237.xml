@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 09:31:03.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0856reute
-r f BC-PACIFIC-RESOURCES-PR   03-23 0104</field>
-	<field name = "TITLE">PACIFIC RESOURCES PRI> NAMED IN LAWSUIT</field>
+	<field name = "titulo">PACIFIC RESOURCES PRI> NAMED IN LAWSUIT</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Pacific Resources Inc said it has been
+	<field name = "content">Pacific Resources Inc said it has been
 named in a lawsuit filed in California by Aetna Casualty and
 Surety Co AET> relating to the 1984 Chapter 11 bankruptcy of
 Paramount Petroleum Corp (PPC), in which a PRI subsidiary had a

@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 18:39:34.16</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0125reute
-r f BC-CHICAGO   03-05 0077</field>
-	<field name = "TITLE">SHEARSON HAS 5.4 PCT OF CHICAGO MILWAUKEE CHG></field>
+	<field name = "titulo">SHEARSON HAS 5.4 PCT OF CHICAGO MILWAUKEE CHG></field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Shearson Lehman Brothers Inc, the
+	<field name = "content">Shearson Lehman Brothers Inc, the
 brokerage subsidiary of American Express Co AXP>, said it has
 acquired 131,300 shares of Chicago Milwaukee Corp, or 5.4 pct
 of its total outstanding common stock.

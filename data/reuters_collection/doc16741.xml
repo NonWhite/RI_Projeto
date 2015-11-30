@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 20:11:03.70</field>
 	<field name = "PLACES">colombia</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F
-f2837reute
-u f BC-colombia's-texaco-ope   04-13 0106</field>
-	<field name = "TITLE">COLOMBIA'S TEXACO TX> OPERATIONS NOT AFFECTED</field>
+	<field name = "titulo">COLOMBIA'S TEXACO TX> OPERATIONS NOT AFFECTED</field>
 	<field name = "DATELINE">BOGOTA, April 13 -</field>
-	<field name = "BODY">The operations in Colombia of Texas
+	<field name = "content">The operations in Colombia of Texas
 Petroleum Co, a subsidiary of Texaco Inc, will not be affected
 by the legal dispute with the Pennzoil Co, its manager John
 Buttle said in a communique.

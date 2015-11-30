@@ -4,12 +4,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">bahrain</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">RM
-f0911reute
-u f BC-YIELD-FALLS-ON-30-DAY   03-07 0085</field>
-	<field name = "TITLE">YIELD FALLS ON 30-DAY SAMA DEPOSITS</field>
+	<field name = "titulo">YIELD FALLS ON 30-DAY SAMA DEPOSITS</field>
 	<field name = "DATELINE">BAHRAIN, March 7 -</field>
-	<field name = "BODY">The yield on 30-day bankers security
+	<field name = "content">The yield on 30-day bankers security
 deposit accounts issued this week by the Saudi Arabian Monetary
 Agency (SAMA) fell to 5.84073 pct from 6.21950 last Saturday,
 bankers said.

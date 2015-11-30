@@ -3,13 +3,10 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">RM
-f0765reute
-u f BC-BRITAIN,-JAPAN-CLASH   04-08 0107</field>
-	<field name = "TITLE">BRITAIN, JAPAN CLASH OVER STOCK MARKET ACCESS</field>
+	<field name = "titulo">BRITAIN, JAPAN CLASH OVER STOCK MARKET ACCESS</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">Britain and Japan clashed today over U.K.
+	<field name = "content">Britain and Japan clashed today over U.K.
 Demands for greater access to the Tokyo Stock Exchange (TSE) as
 trade tensions between the two countries mounted.
     British consumer affairs minister Michael Howard told

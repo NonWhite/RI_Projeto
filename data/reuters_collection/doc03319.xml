@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 15:16:25.23</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0482reute
-u f BC-CAESARS-WORLD-CAW>-B   03-09 0092</field>
-	<field name = "TITLE">CAESARS WORLD CAW> BID VALUED AT 907 MLN DLRS</field>
+	<field name = "titulo">CAESARS WORLD CAW> BID VALUED AT 907 MLN DLRS</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">MTS Acquisition Corp said it will need
+	<field name = "content">MTS Acquisition Corp said it will need
 about 907 mln dlrs to acquire the 31,781,461 Caesars World Inc
 shares not owned by its owner, Martin T. Sosnoff.
     The estimate came in MTS Acquisition's proxy statement to

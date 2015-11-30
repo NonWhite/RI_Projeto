@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 07:25:34.36</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">V
-f0722reute
-u f BC-ARGENTINA-SEEKS-NEW-D   03-05 0109</field>
-	<field name = "TITLE">ARGENTINA SEEKS NEW DEBT DEADLINES, OFFICIAL SAYS</field>
+	<field name = "titulo">ARGENTINA SEEKS NEW DEBT DEADLINES, OFFICIAL SAYS</field>
 	<field name = "DATELINE">BUENOS AIRES, March 4 -</field>
-	<field name = "BODY">Argentina will tell its creditors
+	<field name = "content">Argentina will tell its creditors
 it needs an extension of deadlines for payment of capital and
 interest on its 50 billion dlr foreign debt, Industry and
 Foreign Trade Secretary Roberto Lavagna told reporters.

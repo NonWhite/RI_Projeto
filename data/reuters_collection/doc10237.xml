@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 18:19:17.79</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2844reute
-r f BC-CTC-DEALER-TO-APPEAL   03-26 0117</field>
-	<field name = "TITLE">CTC DEALER TO APPEAL CANADIAN TIRE DECISION</field>
+	<field name = "titulo">CTC DEALER TO APPEAL CANADIAN TIRE DECISION</field>
 	<field name = "DATELINE">TORONTO, March 26 -</field>
-	<field name = "BODY">CTC Dealer Holdings Ltd said it would
+	<field name = "content">CTC Dealer Holdings Ltd said it would
 appeal a previously reported Ontario court ruling upholding an
 Ontario Securities Commission decision to block CTC's bid for
 49 pct of Canadian Tire Corp Ltd> common shares.

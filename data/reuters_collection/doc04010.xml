@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 18:26:24.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0888reute
-d f AM-SICKLE   03-11 0114</field>
-	<field name = "TITLE">FASTER TEST FOR SICKLE CELL ANEMIA DEVELOPED</field>
+	<field name = "titulo">FASTER TEST FOR SICKLE CELL ANEMIA DEVELOPED</field>
 	<field name = "DATELINE">BOSTON, March 11 -</field>
-	<field name = "BODY">A team of California researchers said
+	<field name = "content">A team of California researchers said
 that they have developed a better, faster test for detecting
 sickle cell anemia in unborn children than existing procedures.
      The test, developed by Cetus Corp CTUS> researchers,

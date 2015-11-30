@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 13:26:11.13</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0103reute
-u f BC-VERSAR-VSR>-TO-BUY-M   03-11 0036</field>
-	<field name = "TITLE">VERSAR VSR> TO BUY MARIETTA ML> UNIT</field>
+	<field name = "titulo">VERSAR VSR> TO BUY MARIETTA ML> UNIT</field>
 	<field name = "DATELINE">SPRINGFIELD, Va., March 11 -</field>
-	<field name = "BODY">Versar Inc said it has agreed
+	<field name = "content">Versar Inc said it has agreed
 in principle to acquire Martin Marietta Corp's Martin Marietta
 Environmental Systems unit for about 5,300,000 dlrs.
     Versar said it would use its working capital and an

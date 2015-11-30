@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:21:11.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2671reute
-r f BC-NORTHROP-NOC>-BACKLO   10-20 0098</field>
-	<field name = "TITLE">NORTHROP NOC> BACKLOG UP SLIGHTLY</field>
+	<field name = "titulo">NORTHROP NOC> BACKLOG UP SLIGHTLY</field>
 	<field name = "DATELINE">LOS ANGELES, Oct 20 -</field>
-	<field name = "BODY">Northrop Corp said its backlog at
+	<field name = "content">Northrop Corp said its backlog at
 September 30 stood at 4.37 billion dlrs, up slightly from the
 4.32 billion recorded a yeaer earlier.
     Northrop also reported a third quarter profit of 34.1 mln

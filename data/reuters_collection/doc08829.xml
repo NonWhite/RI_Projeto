@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f1478reute
-r f BC-GNB-JOINS-IN-LEVERAGE   03-24 0056</field>
-	<field name = "TITLE">GNB JOINS IN LEVERAGED BUYOUT OF FRENCH UNIT</field>
+	<field name = "titulo">GNB JOINS IN LEVERAGED BUYOUT OF FRENCH UNIT</field>
 	<field name = "DATELINE">MINNEAPOLIS, Minn., March 24 -</field>
-	<field name = "BODY">GNB Inc> said it joined
+	<field name = "content">GNB Inc> said it joined
 with the management of the French company Compagnie Francaise
 d'Electro-Chimie to purchase the company for an undisclosed
 amount.

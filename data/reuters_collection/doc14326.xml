@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:28:58.61</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f1577reute
-u f BC-ITALIAN-BANK-DEPOSIT   04-07 0111</field>
-	<field name = "TITLE">ITALIAN BANK DEPOSIT GUARANTEE FUND APPROVED</field>
+	<field name = "titulo">ITALIAN BANK DEPOSIT GUARANTEE FUND APPROVED</field>
 	<field name = "DATELINE">ROME, April 7 -</field>
-	<field name = "BODY">The executive committee of the Italian
+	<field name = "content">The executive committee of the Italian
 national banking association (ABI), representing the country's
 major credit institutions, approved the setting up of a common
 reserve fund to guarantee customer deposits in the event of

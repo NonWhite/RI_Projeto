@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 16:21:57.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0543reute
-d f BC-GENERAL-INSTRUMENT-G   03-06 0042</field>
-	<field name = "TITLE">GENERAL INSTRUMENT GRL> GETS CONTRACT</field>
+	<field name = "titulo">GENERAL INSTRUMENT GRL> GETS CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">General Instrument Corp has received
+	<field name = "content">General Instrument Corp has received
 a 36.0 mln dlr contract for electronic support work for P-3C
 Orion anti-submarine warfare planes and SH-2F anti-submarine
 helicopters, the Navy said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 02:30:36.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0085reute
-u f BC-U.S.-HOUSE-COMMITTEE   04-08 0110</field>
-	<field name = "TITLE">U.S. HOUSE COMMITTEE PROPOSES DEFENCE CUTS</field>
+	<field name = "titulo">U.S. HOUSE COMMITTEE PROPOSES DEFENCE CUTS</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">The House Armed Services Committee
+	<field name = "content">The House Armed Services Committee
 last night proposed cutting President Reagan's funding request
 for the Strategic Defence Initiative program by 1.7 billion
 dlrs to 3.5 billion.

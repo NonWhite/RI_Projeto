@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 16:23:14.58</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM
-f6519reute
-b f BC-SENATE-BUDGET-GROUP-S   03-17 0107</field>
-	<field name = "TITLE">SENATE BUDGET GROUP SHELVES REAGAN ECONOMIC DATA</field>
+	<field name = "titulo">SENATE BUDGET GROUP SHELVES REAGAN ECONOMIC DATA</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">The Senate Budget Committee, at its
+	<field name = "content">The Senate Budget Committee, at its
 first budget drafting meeting of the year, discarded President
 Reagan's economic assumptions upon which he claims his budget
 would show a 108 billion dlr deficit.

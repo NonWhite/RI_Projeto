@@ -4,13 +4,10 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">stg</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM C
-f3115reute
-u f BC-fin-futures-outlook   04-28 0102</field>
-	<field name = "TITLE">NERVOUS CONSOLIDATION SEEN IN CURRENCY FUTURES</field>
+	<field name = "titulo">NERVOUS CONSOLIDATION SEEN IN CURRENCY FUTURES</field>
 	<field name = "AUTHOR">By Brad Schade, Reuters</field>
 	<field name = "DATELINE">CHICAGO, April 28 -</field>
-	<field name = "BODY">Currency futures at the International
+	<field name = "content">Currency futures at the International
 Monetary Market (IMM) are likely to consolidate near current
 levels in nervous trading conditions over the next few days,
 although underlying sentiment remains positive, currency

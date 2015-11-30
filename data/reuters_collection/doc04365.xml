@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 13:18:57.93</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0901reute
-r f BC-SPAIN-HAS-68-MLN-DLR   03-12 0058</field>
-	<field name = "TITLE">SPAIN HAS 68 MLN DLR JANUARY PAYMENTS SURPLUS</field>
+	<field name = "titulo">SPAIN HAS 68 MLN DLR JANUARY PAYMENTS SURPLUS</field>
 	<field name = "DATELINE">MADRID, March 12 -</field>
-	<field name = "BODY">Spain had a 68 mln dlr current account
+	<field name = "content">Spain had a 68 mln dlr current account
 balance of payments surplus in January compared with a 556 mln
 deficit in December and 370 mln surplus in January last year,
 Bank of Spain figures show.

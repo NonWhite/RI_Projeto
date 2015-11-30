@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 16:27:17.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2624reute
-r f BC-CHARTER-CHR>-COMPLET   03-31 0097</field>
-	<field name = "TITLE">CHARTER CHR> COMPLETES REORGANIZATION</field>
+	<field name = "titulo">CHARTER CHR> COMPLETES REORGANIZATION</field>
 	<field name = "DATELINE">JACKSONVILLE, Fla, March 31 -</field>
-	<field name = "BODY">Charter Co said its
+	<field name = "content">Charter Co said its
 previously announced joint plan of reorganization has been
 completed, which resulted in American Financial Corp> owning
 50.5 pct of Charter's common.

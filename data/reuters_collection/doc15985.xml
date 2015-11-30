@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 16:38:02.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2596reute
-u f BC-MARCH-U.S.-SAVINGS-BO   04-09 0081</field>
-	<field name = "TITLE">MARCH U.S. SAVINGS BONDS SALES RISE STRONGLY</field>
+	<field name = "titulo">MARCH U.S. SAVINGS BONDS SALES RISE STRONGLY</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The Treasury said sales of EE U.S.
+	<field name = "content">The Treasury said sales of EE U.S.
 savings bonds were 17 pct higher during March at 703 mln dlrs
 than in March, 1986.
     It was the highest savings bond sales total for any March

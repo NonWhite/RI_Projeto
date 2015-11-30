@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:59:26.86</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">RM A 
-f2563reute
-r f BC-PERUVIAN-GOVERNMENT-S   10-20 0111</field>
-	<field name = "TITLE">PERU STARTS PROCEEDINGS TO EXPROPRIATE BANKS</field>
+	<field name = "titulo">PERU STARTS PROCEEDINGS TO EXPROPRIATE BANKS</field>
 	<field name = "DATELINE">LIMA, Oct 20 -</field>
-	<field name = "BODY">The government has begun judicial
+	<field name = "content">The government has begun judicial
 proceedings to expropriate five private banks under the recent
 nationalisation law, the official gazette said.
     Advisories published in the official daily El Peruano said

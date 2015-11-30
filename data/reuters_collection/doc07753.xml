@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 11:36:37.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1361reute
-r f BC-BELDING-HEMINWAY-BHY   03-20 0046</field>
-	<field name = "TITLE">BELDING HEMINWAY BHY> OFFICIAL RESIGNS</field>
+	<field name = "titulo">BELDING HEMINWAY BHY> OFFICIAL RESIGNS</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Belding Heminway Co Inc said Bruce
+	<field name = "content">Belding Heminway Co Inc said Bruce
 Hausman has resigned as senior vice chairman and chairman of
 the executive committee to pursue personal interests in real
 estate and other investments but will remain on the board.

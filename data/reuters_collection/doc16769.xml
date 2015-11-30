@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 05:12:36.97</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0085reute
-u f BC-JAPAN'S-LDP-TO-CALL-F   04-17 0107</field>
-	<field name = "TITLE">JAPAN'S LDP TO CALL FOR FLEXIBLE MONETARY POLICIES</field>
+	<field name = "titulo">JAPAN'S LDP TO CALL FOR FLEXIBLE MONETARY POLICIES</field>
 	<field name = "DATELINE">TOKYO, April 17 -</field>
-	<field name = "BODY">Japan's ruling Liberal Democratic Party
+	<field name = "content">Japan's ruling Liberal Democratic Party
 (LDP) will call for adequate and flexible management of the
 nation's monetary polices in its plan to expand domestic
 demand, a senior LDP official told Reuters.

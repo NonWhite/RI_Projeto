@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 17:10:53.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2554reute
-r f BC-UNITED-STEELWORKES-SA   03-19 0099</field>
-	<field name = "TITLE">UNITED STEELWORKES SAYS DUE PROCESS DENIED</field>
+	<field name = "titulo">UNITED STEELWORKES SAYS DUE PROCESS DENIED</field>
 	<field name = "DATELINE">PITTSBURGH, March 19 -</field>
-	<field name = "BODY">The United Steelworkers of America
+	<field name = "content">The United Steelworkers of America
 said that bankruptcy Judge Burton Liflands's refusal to act on
 a union lawsuit was "a gross denial of due process for 47,000
 retired employees of LTV Steel."

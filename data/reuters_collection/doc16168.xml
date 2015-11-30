@@ -2,13 +2,10 @@
 	<field name = "DATE">13-APR-1987 06:46:09.31</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0443reute
-u f BC-SOME-JAPAN-OIL-FIRMS   04-13 0089</field>
-	<field name = "TITLE">SOME JAPAN OIL FIRMS MAY STOP TRADING WITH TEXACO</field>
+	<field name = "titulo">SOME JAPAN OIL FIRMS MAY STOP TRADING WITH TEXACO</field>
 	<field name = "AUTHOR">By Jennie Kantyka, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 13 -</field>
-	<field name = "BODY">Japanese oil traders and refiners are
+	<field name = "content">Japanese oil traders and refiners are
 considering whether to suspend further business with Texaco Inc
 TX>, which yesterday filed for protection under Chapter 11 of
 the U.S. Bankruptcy code, industry sources told Reuters.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 15:40:57.38</field>
-	<field name = "UNKNOWN">F 
-f3016reute
-a f BC-TEKELEC-TKLC.O>-3RD   10-20 0041</field>
-	<field name = "TITLE">TEKELEC TKLC.O> 3RD QTR NET</field>
+	<field name = "titulo">TEKELEC TKLC.O> 3RD QTR NET</field>
 	<field name = "DATELINE">CALABASAS, Calif., Oct 20 -</field>
-	<field name = "BODY">Shr nine cts vs 12 cts
+	<field name = "content">Shr nine cts vs 12 cts
     Net 336,000 vs 433,000
     Revs 4,369,000 vs 3,671,000
     Nine Mths

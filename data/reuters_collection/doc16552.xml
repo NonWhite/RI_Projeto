@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 14:02:54.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2110reute
-a f BC-GUY-F.-ATKINSON-CO-A   04-13 0057</field>
-	<field name = "TITLE">GUY F. ATKINSON CO ATKN.O> UNIT WINS CONTRACT</field>
+	<field name = "titulo">GUY F. ATKINSON CO ATKN.O> UNIT WINS CONTRACT</field>
 	<field name = "DATELINE">SAN FRANCISCO, April 13 -</field>
-	<field name = "BODY">Guy F. Atkinson Co said its Guy
+	<field name = "content">Guy F. Atkinson Co said its Guy
 F. Atkinson Construction Co won a multi-million-dlr contract to
 construct a station for the Metro Rail Project in Los Angeles.
     Construction on the proposed station wil begin this month,

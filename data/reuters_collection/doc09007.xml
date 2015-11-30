@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 16:05:14.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2431reute
-u f BC-TRIANGLE-TRI>-BEGINS   03-24 0044</field>
-	<field name = "TITLE">TRIANGLE TRI> BEGINS EXCHANGE OFFER</field>
+	<field name = "titulo">TRIANGLE TRI> BEGINS EXCHANGE OFFER</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Triangle Industries Inc said it began
+	<field name = "content">Triangle Industries Inc said it began
 a previously announced offer to exchange one share of Triangle
 common stock for each share of participating preferred stock.
     The offer will expire April 21.

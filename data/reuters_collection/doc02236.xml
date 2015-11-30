@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 12:21:04.91</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0915reute
-d f BC-AMOSKEAG-BANK-AMKG>   03-05 0056</field>
-	<field name = "TITLE">AMOSKEAG BANK AMKG> TO ACQUIRE ENTREPO</field>
+	<field name = "titulo">AMOSKEAG BANK AMKG> TO ACQUIRE ENTREPO</field>
 	<field name = "DATELINE">MANCHESTER, N.H., March 5 -</field>
-	<field name = "BODY">Amoskeag Bank said it signed an
+	<field name = "content">Amoskeag Bank said it signed an
 agreement to acquire Entrepo Financial Resources Inc>, a
 Philadelphia-based company which leases and remarkets high
 technology equipment.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">T C
-f0165reute
-u f BC-JAPAN-DENIES-PLANS-TO   04-02 0108</field>
-	<field name = "TITLE">JAPAN DENIES PLANS TO CUT DUTIES ON CHOCOLATE</field>
+	<field name = "titulo">JAPAN DENIES PLANS TO CUT DUTIES ON CHOCOLATE</field>
 	<field name = "DATELINE">TOKYO, April 2 -</field>
-	<field name = "BODY">Agriculture Ministry officials said they
+	<field name = "content">Agriculture Ministry officials said they
 are not considering cuts in import duties on chocolate to help
 ease friction with the United States over agricultural trade.
     Japan has already lowered the duties sharply and we must

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 08:26:38.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0624reute
-d f BC-ARUS-ARSCC>-GETS-5.2   04-09 0070</field>
-	<field name = "TITLE">ARUS ARSCC> GETS 5.2 MLN DLR ORDER</field>
+	<field name = "titulo">ARUS ARSCC> GETS 5.2 MLN DLR ORDER</field>
 	<field name = "DATELINE">UTICA, N.Y., April 9 -</field>
-	<field name = "BODY">Arus Corp said it has received a
+	<field name = "content">Arus Corp said it has received a
 letter of intent from Winston Financial Corp for the purchase
 of over 5,200,000 dlrs in telephone diagnostic testing
 equipment.

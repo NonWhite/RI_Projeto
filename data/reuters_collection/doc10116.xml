@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 15:14:41.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F
-f2332reute
-b f BC-/MOODY'S-DOWNGRADES-B   03-26 0112</field>
-	<field name = "TITLE">MOODY'S DOWNGRADES BANKAMERICA BAC></field>
+	<field name = "titulo">MOODY'S DOWNGRADES BANKAMERICA BAC></field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 downgraded BankAmerica Corp and the unit BankAmerica Overseas
 Finance Corp but affirmed ratings of the units Bank of America
 N.T. and S.A., Seafirst Corp and Seattle-First National Bank.

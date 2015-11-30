@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:32:40.43V RM</field>
-	<field name = "UNKNOWN">f0717reute</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">b f BC-/U.S.-CONSUMER-PRICES   03-27 0109</field>
-	<field name = "TITLE">U.S. CONSUMER PRICES ROSE 0.4 PCT IN FEBRUARY</field>
+	<field name = "titulo">U.S. CONSUMER PRICES ROSE 0.4 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">WASHINGTON, March 27 -</field>
-	<field name = "BODY">U.S. consumer prices, as measured by
+	<field name = "content">U.S. consumer prices, as measured by
 the Consumer Price Index for all urban consumers (CPI-U), rose
 a seasonally adjusted 0.4 pct in February after a 0.7 pct
 January gain, the Labor Department said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 17:44:23.11</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0642reute
-r f BC-labatt   03-13 0109</field>
-	<field name = "TITLE">LABATT CLAIMS 41 PCT SHARE OF CANADIAN MARKET</field>
+	<field name = "titulo">LABATT CLAIMS 41 PCT SHARE OF CANADIAN MARKET</field>
 	<field name = "DATELINE">TORONTO, March 13 -</field>
-	<field name = "BODY">John Labatt Ltd said its share of the
+	<field name = "content">John Labatt Ltd said its share of the
 Canadian beer market is holding at more than 41 pct but the
 total market has grown only three pct since last year when
 volumes were depressed by labor disruptions in the industry.

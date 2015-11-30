@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 11:25:26.95</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0630reute
-u f BC-BUNDESBANK-CHANGES-RE   03-04 0099</field>
-	<field name = "TITLE">BUNDESBANK CHANGES REPURCHASE PACT SYSTEM</field>
+	<field name = "titulo">BUNDESBANK CHANGES REPURCHASE PACT SYSTEM</field>
 	<field name = "AUTHOR">By Jonathan Lynn, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 4 -</field>
-	<field name = "BODY">The Bundesbank is planning changes in
+	<field name = "content">The Bundesbank is planning changes in
 the system by which banks bid for funds in securities
 repurchase pacts to improve the flexibility of its key open
 market instrument, central bank officials said.

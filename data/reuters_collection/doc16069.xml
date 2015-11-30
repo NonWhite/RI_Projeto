@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 20:49:27.15</field>
 	<field name = "PLACES">japan</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">RM
-f2900reute
-b f BC-STOCKS-PLUNGE-IN-EARL   04-09 0092</field>
-	<field name = "TITLE">STOCKS PLUNGE IN EARLY TOKYO TRADE</field>
+	<field name = "titulo">STOCKS PLUNGE IN EARLY TOKYO TRADE</field>
 	<field name = "DATELINE">TOKYO, April 10 -</field>
-	<field name = "BODY">Share prices plunged in early trade as an
+	<field name = "content">Share prices plunged in early trade as an
 opening foreign exchange record low of 143.75 yen to the dollar
 and a weak stockmarket in New York withered investors'
 confidence, brokers said.

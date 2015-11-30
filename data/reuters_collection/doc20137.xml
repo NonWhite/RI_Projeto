@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 09:00:58.28</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0898reute
-u f BC-/DOW-CHEMICAL-CO-DOW   10-20 0060</field>
-	<field name = "TITLE">DOW CHEMICAL CO DOW> 3RD QTR NET</field>
+	<field name = "titulo">DOW CHEMICAL CO DOW> 3RD QTR NET</field>
 	<field name = "DATELINE">MIDLAND, Mich., Oct 20 -</field>
-	<field name = "BODY">Shr 1.72 dlrs vs 87 cts
+	<field name = "content">Shr 1.72 dlrs vs 87 cts
     Net 330,000,000 vs 167,000,000
     Sales 3.36 billion vs 2.74 billion
     Avg shrs 192,200,000 vs 191,700,000

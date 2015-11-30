@@ -5,13 +5,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "EXCHANGES">liffe</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">RM
-f7213reute
-u f BC-GLOBAL-TRADING-IN-YEN   03-18 0095</field>
-	<field name = "TITLE">GLOBAL TRADING IN YEN BOND FUTURES EXPECTED SOON</field>
+	<field name = "titulo">GLOBAL TRADING IN YEN BOND FUTURES EXPECTED SOON</field>
 	<field name = "AUTHOR">By Yoshiko Mori, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 18 -</field>
-	<field name = "BODY">Global trading of yen bond futures is
+	<field name = "content">Global trading of yen bond futures is
 just around the corner and they are expected to be listed soon
 on the London International Financial Futures Exchange (LIFFE)
 and the Chicago Board of Trade (CBOT), bond managers said.

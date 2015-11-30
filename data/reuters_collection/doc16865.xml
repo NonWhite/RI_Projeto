@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 12:13:14.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0306reute
-r f BC-H.B.-FULLER-FULL.O>   04-17 0079</field>
-	<field name = "TITLE">H.B. FULLER FULL.O> HOLDERS APPROVE SHARE RISE</field>
+	<field name = "titulo">H.B. FULLER FULL.O> HOLDERS APPROVE SHARE RISE</field>
 	<field name = "DATELINE">ST. PAUL, Minn., April 17 -</field>
-	<field name = "BODY">H.B. Fuller Co said
+	<field name = "content">H.B. Fuller Co said
 shareholders at the annual meeting approved an increase in
 authorized common shares to 40 mln from 15 mln and a
 requirement that certain accumulations of its voting securities

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:03:50.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0137
-reute
-r f BC-NUEUTROGENA-NGNA>-TO   03-02 0080</field>
-	<field name = "TITLE">NUEUTROGENA NGNA> TO BUY BACK STOCK</field>
+	<field name = "titulo">NUEUTROGENA NGNA> TO BUY BACK STOCK</field>
 	<field name = "DATELINE">LOS ANGELES, March 2 -</field>
-	<field name = "BODY">Neutrogena Corp said it may purchase
+	<field name = "content">Neutrogena Corp said it may purchase
 up to 100,000 shares of its outstanding common stock from time
 to time in the open market to reduce dilution from the future
 issue of employee stock options.

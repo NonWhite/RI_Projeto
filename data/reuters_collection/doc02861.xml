@@ -7,12 +7,9 @@
 	<field name = "PLACES">paraguay</field>
 	<field name = "PEOPLE">reagan</field>
 	<field name = "PEOPLE">yeutter</field>
-	<field name = "UNKNOWN">C G L M T
-f0525reute
-r f BC-NICARAGUA,-ROMANIA,-P   03-06 0097</field>
-	<field name = "TITLE">NICARAGUA, ROMANIA, PARAGUAY LOSE TRADE RIGHTS</field>
+	<field name = "titulo">NICARAGUA, ROMANIA, PARAGUAY LOSE TRADE RIGHTS</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">President Reagan formally ended
+	<field name = "content">President Reagan formally ended
 preferential duty-free trade treatment for exports from
 Nicaragua, Romania and Paraguay under the Generalized System of
 Preferences (GSP).

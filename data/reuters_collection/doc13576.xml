@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:51:13.51</field>
-	<field name = "UNKNOWN">RM C G L M T
-f0499reute
-u f BC-REUTER-MONEY-NEWS-HIG   04-07 0101</field>
-	<field name = "TITLE">REUTER MONEY NEWS HIGHLIGHTS 1145 GMT - APRIL 7</field>
+	<field name = "titulo">REUTER MONEY NEWS HIGHLIGHTS 1145 GMT - APRIL 7</field>
 	<field name = "DATELINE">BERNE -</field>
-	<field name = "BODY">Swiss consumer prices rose one pct in the year to
+	<field name = "content">Swiss consumer prices rose one pct in the year to
 March, the same rise as in the year to February, and against
 0.9 pct in the year to March 1986, the Federal Statistics
 Office said. In March alone, prices rose 0.1 pct after a 0.3

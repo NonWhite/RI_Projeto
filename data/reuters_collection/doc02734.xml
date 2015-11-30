@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 12:49:04.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0903reute
-u f BC-/OUTBOARD-MARINE-OM>   03-06 0109</field>
-	<field name = "TITLE">OUTBOARD MARINE OM> OFFICIALS HAWKING STOCK</field>
+	<field name = "titulo">OUTBOARD MARINE OM> OFFICIALS HAWKING STOCK</field>
 	<field name = "DATELINE">CHICAGO, March 6 -</field>
-	<field name = "BODY">Outboard Marine Corp's top executives
+	<field name = "content">Outboard Marine Corp's top executives
 are making sales presentations to portfolio managers and
 analysts ahead of a planned two mln share offering expected
 soon, company officials said.

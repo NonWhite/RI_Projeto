@@ -3,12 +3,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G
-f1322reute
-b f BC-BRAZIL-SOYBEAN-HARVES   03-26 0077</field>
-	<field name = "TITLE">BRAZIL SOY HARVEST 13 PCT COMPLETE - NEWSLETTER</field>
+	<field name = "titulo">BRAZIL SOY HARVEST 13 PCT COMPLETE - NEWSLETTER</field>
 	<field name = "DATELINE">****SAO PAULO, March 26 -</field>
-	<field name = "BODY">Brazil's soybean harvest was 13
+	<field name = "content">Brazil's soybean harvest was 13
 pct complete by March 20, the Safras e Mercado newsletter said.
     This compares with an historic average for this time of
 year of 20 pct.

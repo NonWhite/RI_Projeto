@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:21:22.32</field>
-	<field name = "UNKNOWN">F
-f0487
-reute
-r f BC-SCOTTY'S-SHB>-SALES   03-02 0086</field>
-	<field name = "TITLE">SCOTTY'S SHB> SALES UP FIVE PCT IN FEBRUARY</field>
+	<field name = "titulo">SCOTTY'S SHB> SALES UP FIVE PCT IN FEBRUARY</field>
 	<field name = "DATELINE">WINTER HAVEN, Fla., March 2 -</field>
-	<field name = "BODY">Scotty's Inc said sales for
+	<field name = "content">Scotty's Inc said sales for
 the four weeks ended February 21 rose five pct, to 41.7 mln
 dlrs, from 39.8 mln dlrs for the corresponding period last
 year.

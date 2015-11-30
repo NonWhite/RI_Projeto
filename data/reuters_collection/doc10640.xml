@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">greece</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">RM
-f0024reute
-r f BC-TURKEY-LIFTS-SURVEY-S   03-29 0097</field>
-	<field name = "TITLE">TURKEY LIFTS SURVEY SHIP ESCORT AS TENSION ABATES</field>
+	<field name = "titulo">TURKEY LIFTS SURVEY SHIP ESCORT AS TENSION ABATES</field>
 	<field name = "DATELINE">ANKARA, March 29 -</field>
-	<field name = "BODY">Turkey pulled warships back from close
+	<field name = "content">Turkey pulled warships back from close
 escort of its Sismik 1 survey ship as the threat of conflict
 with Greece over oil rights in the Aegean Sea abated.
     The semi-official Anatolian Agency said naval vessels ended

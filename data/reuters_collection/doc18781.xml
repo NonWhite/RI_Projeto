@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y 
-f3719reute
-r f BC-PAN-ALBERTA/UNITED-GA   06-18 0109</field>
-	<field name = "TITLE">PAN-ALBERTA/UNITED GAS SETTLEMENT APPROVED</field>
+	<field name = "titulo">PAN-ALBERTA/UNITED GAS SETTLEMENT APPROVED</field>
 	<field name = "DATELINE">CALGARY, Alberta, June 18 -</field>
-	<field name = "BODY">Pan-Alberta Gas Ltd said its
+	<field name = "content">Pan-Alberta Gas Ltd said its
 1986 proposed settlement with United Gas Pipe Line Co, of
 Houston, received unconditional approval by the U.S. Federal
 Energy Regulator Commission.

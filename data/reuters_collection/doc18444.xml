@@ -2,12 +2,9 @@
 	<field name = "DATE">16-JUN-1987 05:59:55.47</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI
-f0404reute
-u f BC-BANK-OF-JAPAN-MAY-EXP   06-16 0082</field>
-	<field name = "TITLE">BANK OF JAPAN MAY EXPAND BROKER CALL MARKET</field>
+	<field name = "titulo">BANK OF JAPAN MAY EXPAND BROKER CALL MARKET</field>
 	<field name = "DATELINE">TOKYO, June 16 -</field>
-	<field name = "BODY">The Bank of Japan is considering expanding
+	<field name = "content">The Bank of Japan is considering expanding
 the 60 billion yen daily limit on each securities firm's
 outstanding transactions in the yen call market at the request
 of the securities industry, Bank of Japan sources said.

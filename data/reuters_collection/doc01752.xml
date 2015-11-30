@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 15:32:15.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0613reute
-d f BC-GREEN-MOUNTAIN-GMP>   03-04 0071</field>
-	<field name = "TITLE">GREEN MOUNTAIN GMP> TO SELL POWER TO UTILITY</field>
+	<field name = "titulo">GREEN MOUNTAIN GMP> TO SELL POWER TO UTILITY</field>
 	<field name = "DATELINE">SOUTH BURLINGTON, Vt., March 4 -</field>
-	<field name = "BODY">Green Mountain Power Corp
+	<field name = "content">Green Mountain Power Corp
 said it signed an agreement to provide Bozrah Light and Power
 Co>, a private utility based in Gilman, Conn., with all its
 electric power requirements.

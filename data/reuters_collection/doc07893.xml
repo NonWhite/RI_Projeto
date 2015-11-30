@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 14:03:18.94</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1982reute
-s f BC-CENTRAL-BANKING-SYSTE   03-20 0024</field>
-	<field name = "TITLE">CENTRAL BANKING SYSTEM INC CSYS> QTLY DIVIDEND</field>
+	<field name = "titulo">CENTRAL BANKING SYSTEM INC CSYS> QTLY DIVIDEND</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 20 -</field>
-	<field name = "BODY">Qtly div ten cts vs ten cts
+	<field name = "content">Qtly div ten cts vs ten cts
     Pay April 15
     Record April 1
  Reuter</field>

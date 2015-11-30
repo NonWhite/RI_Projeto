@@ -3,12 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">L
-f4261reute
-u f BC-JAPAN-SEEN-REDUCING-B   03-17 0103</field>
-	<field name = "TITLE">JAPAN SEEN REDUCING BEEF, PORK INTERVENTION PRICES</field>
+	<field name = "titulo">JAPAN SEEN REDUCING BEEF, PORK INTERVENTION PRICES</field>
 	<field name = "DATELINE">TOKYO, March 17 -</field>
-	<field name = "BODY">The Agriculture Ministry is expected to
+	<field name = "content">The Agriculture Ministry is expected to
 reduce official intervention prices for beef and pork in
 1987/88 starting in April, but the cutback ratio has not been
 set yet, industry sources said.

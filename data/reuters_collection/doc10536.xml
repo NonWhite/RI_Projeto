@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:25:34.63C G</field>
-	<field name = "UNKNOWN">f1597reute</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-/ANALYSTS-PEG-U.S.-CO   03-27 0094</field>
-	<field name = "TITLE">ANALYSTS PEG U.S. COTTON SEEDINGS 10.6 MLN ACRES</field>
+	<field name = "titulo">ANALYSTS PEG U.S. COTTON SEEDINGS 10.6 MLN ACRES</field>
 	<field name = "AUTHOR">By Michelle Bolar, Reuters</field>
 	<field name = "DATELINE">New York, March 27 -</field>
-	<field name = "BODY">U.S. cotton farmers are likely to
+	<field name = "content">U.S. cotton farmers are likely to
 plant about 10.6 mln acres in the coming season, based on an
 average of estimates offered by cotton market analysts gearing
 up for the U.S. Agriculture Department's 1987 planting

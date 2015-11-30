@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 13:57:10.21</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">RM A
-f0015reute
-u f AM-debt-ecuador   03-13 0090</field>
-	<field name = "TITLE">ECUADOR UNABLE TO SERVICE DEBT - CENTRAL BANK</field>
+	<field name = "titulo">ECUADOR UNABLE TO SERVICE DEBT - CENTRAL BANK</field>
 	<field name = "DATELINE">Quito, march 13 -</field>
-	<field name = "BODY">ecuador cannot service its debt owed to
+	<field name = "content">ecuador cannot service its debt owed to
 private foreign banks due to the earthquake that forced a
 suspension of crude oil exports, central bank officials said.
     "we hope to obtain a tacit, explicit acceptance from foreign

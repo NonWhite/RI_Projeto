@@ -3,13 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM F
-f0026
-reute
-u f BC-EXCO-BUYS-U.S.-GOVERN   03-02 0114</field>
-	<field name = "TITLE">EXCO BUYS U.S. GOVERNMENT SECURITIES BROKER</field>
+	<field name = "titulo">EXCO BUYS U.S. GOVERNMENT SECURITIES BROKER</field>
 	<field name = "DATELINE">LONDON, Mar 2 -</field>
-	<field name = "BODY">Exco International Plc>, a subsidiary of
+	<field name = "content">Exco International Plc>, a subsidiary of
 British and Commonwealth Shipping Co Plc BCOM.L>, said it had
 agreed in principle to buy an 80 pct stake in RMJ Holdings
 Corp> for about 79 mln dlrs.

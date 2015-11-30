@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 03:52:04.77</field>
 	<field name = "TOPICS">interest</field>
-	<field name = "UNKNOWN">RM 
-f2245reute
-b f BC-COMMONWEALTH-BANK-CUT   06-18 0107</field>
-	<field name = "TITLE">COMMONWEALTH BANK CUTS AUSTRALIAN SPLIT PRIME</field>
+	<field name = "titulo">COMMONWEALTH BANK CUTS AUSTRALIAN SPLIT PRIME</field>
 	<field name = "DATELINE">SYDNEY, June 18 -</field>
-	<field name = "BODY">The Commonwealth Bank of Australia said
+	<field name = "content">The Commonwealth Bank of Australia said
 it will lower its reference rate for loans to 15.75 pct from
 16.25 pct and its overdraft reference rate to 16.25 pct from
 16.75, effective June 24.

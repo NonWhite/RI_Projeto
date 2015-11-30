@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 12:54:00.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1753reute
-d f BC-INFINITE-GRAPHICS-IN   06-01 0101</field>
-	<field name = "TITLE">INFINITE GRAPHICS INFG.O> TO POST PROFIT</field>
+	<field name = "titulo">INFINITE GRAPHICS INFG.O> TO POST PROFIT</field>
 	<field name = "DATELINE">CHICAGO, June 1 -</field>
-	<field name = "BODY">Infinite Graphics Inc expects to report
+	<field name = "content">Infinite Graphics Inc expects to report
 earnings for the fiscal year ended April 30 of about 360,000
 dlrs, or 20 cts a share, Chairman Cliff Stritch Jr told Reuters
 in an interview.

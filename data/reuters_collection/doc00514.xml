@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 11:40:25.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM A
-f0044
-reute
-u f BC-/GM-GM>-UNIT-TO-OFFE   03-02 0058</field>
-	<field name = "TITLE">GM GM> UNIT TO OFFER PRE-APPROVED CREDIT</field>
+	<field name = "titulo">GM GM> UNIT TO OFFER PRE-APPROVED CREDIT</field>
 	<field name = "DATELINE">DETROIT, March 2 -</field>
-	<field name = "BODY">General Motors Corp's GMAC Financial
+	<field name = "content">General Motors Corp's GMAC Financial
 Services said it plans to offer 25 billion dlrs in pre-approved
 credit to more than two mln "preferred customers" in a
 nationwide direct mail campaign.

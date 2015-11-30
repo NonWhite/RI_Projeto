@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 05:40:09.71</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0324reute
-u f BC-ELDERS-HALVES-NOTE-FA   03-13 0103</field>
-	<field name = "TITLE">ELDERS HALVES NOTE FACILITY AMOUNT, AMENDS TERMS</field>
+	<field name = "titulo">ELDERS HALVES NOTE FACILITY AMOUNT, AMENDS TERMS</field>
 	<field name = "DATELINE">HONG KONG, March 13 -</field>
-	<field name = "BODY">The proposed note issuance facility
+	<field name = "content">The proposed note issuance facility
 for Elders IXL Ltd has been reduced to 100 mln Australian dlrs
 from the original 200 mln dlrs, lead manager Westpac Finance
 Asia Ltd said.

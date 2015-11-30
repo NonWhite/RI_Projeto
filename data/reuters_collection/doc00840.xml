@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 18:02:38.28</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f0277
-reute
-r f BC-NATIONAL-BANK-ISSUES   03-02 0101</field>
-	<field name = "TITLE">NATIONAL BANK ISSUES MORTGAGE-BACKED SECURITIES</field>
+	<field name = "titulo">NATIONAL BANK ISSUES MORTGAGE-BACKED SECURITIES</field>
 	<field name = "DATELINE">MONTREAL, March 2 -</field>
-	<field name = "BODY">National Bank of Canada> said it is
+	<field name = "content">National Bank of Canada> said it is
 issuing 25 mln dlrs worth of mortgage-backed securities
 recognized by the federal government's Canada Mortgage and
 Housing Corp.

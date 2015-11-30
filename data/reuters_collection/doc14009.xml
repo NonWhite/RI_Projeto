@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:05:05.48</field>
-	<field name = "UNKNOWN">C L
-f1151reute
-u f BC-TEXAS-PANHANDLE/W-OKL   04-07 0098</field>
-	<field name = "TITLE">TEXAS PANHANDLE/W OKLA FEEDLOT ROUNDUP - USDA</field>
+	<field name = "titulo">TEXAS PANHANDLE/W OKLA FEEDLOT ROUNDUP - USDA</field>
 	<field name = "DATELINE">Amarillo, April 7 -</field>
-	<field name = "BODY">Cattle in the panhandle area monday
+	<field name = "content">Cattle in the panhandle area monday
 were 0.50 to 1.50 dlr higher. Trading was very active.
     Feedlots reported very good interest and inquiry from
 buying sources. Confirmed sales of 22,700 steers and heifers

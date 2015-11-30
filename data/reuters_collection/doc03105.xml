@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 10:40:29.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0333reute
-d f BC-CAMBRIDGE-MEDICAL-CM   03-09 0094</field>
-	<field name = "TITLE">CAMBRIDGE MEDICAL CMTC> ADDS INFO ON AIDS TEST</field>
+	<field name = "titulo">CAMBRIDGE MEDICAL CMTC> ADDS INFO ON AIDS TEST</field>
 	<field name = "DATELINE">BILLERICA, Mass., March 9 -</field>
-	<field name = "BODY">Cambridge Medical Technology
+	<field name = "content">Cambridge Medical Technology
 Corp said pursuant to a letter of intent signed between it and
 Panbaxy Laboratories>, an AIDS test will be jointly
 manufactured by the two companies.

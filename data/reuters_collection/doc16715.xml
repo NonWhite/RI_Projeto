@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 17:42:03.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2742reute
-r f BC-PACIFICORP-PPW>-REDE   04-13 0114</field>
-	<field name = "TITLE">PACIFICORP PPW> REDEEMS PREFERRED STOCK</field>
+	<field name = "titulo">PACIFICORP PPW> REDEEMS PREFERRED STOCK</field>
 	<field name = "DATELINE">PORTLAND, Ore., April 13 -</field>
-	<field name = "BODY">PacifiCorp said on May 15 it is
+	<field name = "content">PacifiCorp said on May 15 it is
 redeeming 2.4 mln shares of its preferred stock.
     The company said it is fully redeeming its 2.29-dlr no par
 serial preferred and its 2.48-dlr no par serial preferred and

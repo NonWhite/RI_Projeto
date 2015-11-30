@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:53:17.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2475reute
-r f BC-INTERFACE-FLOORING-SY   04-07 0056</field>
-	<field name = "TITLE">INTERFACE FLOORING SYSTEMS IFSIA> IN OFFERING</field>
+	<field name = "titulo">INTERFACE FLOORING SYSTEMS IFSIA> IN OFFERING</field>
 	<field name = "DATELINE">LAGRANGE, Ga., April 7 -</field>
-	<field name = "BODY">Interface Flooring Systems Inc
+	<field name = "content">Interface Flooring Systems Inc
 said it announced a public offering of 2,800,000 shares of the
 company's Class A common stock at a price of 21.25 dlrs per
 share.

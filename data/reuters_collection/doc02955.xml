@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 23:38:47.11</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">RM
-f0876reute
-u f BC-MALAYSIA-BAILS-OUT-AN   03-06 0104</field>
-	<field name = "TITLE">MALAYSIA BAILS OUT ANOTHER COMMERCIAL BANK</field>
+	<field name = "titulo">MALAYSIA BAILS OUT ANOTHER COMMERCIAL BANK</field>
 	<field name = "DATELINE">KUALA LUMPUR, March 7 -</field>
-	<field name = "BODY">Malaysia's central bank said it
+	<field name = "content">Malaysia's central bank said it
 acquired a 59.2 pct stake in ailing United Asian Bank Bhd>
 (UAB), the sixth largest commercial bank in the country, to
 rebuild public confidence in it.

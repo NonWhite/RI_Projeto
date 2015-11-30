@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">RM
-f7876reute
-r f BC-THAI-TRADE-DEFICIT-WI   03-18 0119</field>
-	<field name = "TITLE">THAI TRADE DEFICIT WIDENS IN FEBRUARY</field>
+	<field name = "titulo">THAI TRADE DEFICIT WIDENS IN FEBRUARY</field>
 	<field name = "DATELINE">BANGKOK, March 18 -</field>
-	<field name = "BODY">Thailand's trade deficit widened to an
+	<field name = "content">Thailand's trade deficit widened to an
 estimated 4.7 billion baht in February from 2.1 billion in
 January and 2.8 billion a year ago, the Bank of Thailand said.
     Exports fell to around 18.9 billion baht from 20.4 billion

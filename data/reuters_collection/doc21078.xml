@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 14:37:06.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2598reute
-d f BC-U.S.-OIL-USOC.O>-HAS   10-19 0093</field>
-	<field name = "TITLE">U.S. OIL USOC.O> HAS NEW MANAGEMENT</field>
+	<field name = "titulo">U.S. OIL USOC.O> HAS NEW MANAGEMENT</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">United States Oil Co said Dr. V. di
+	<field name = "content">United States Oil Co said Dr. V. di
 Guevara Suardo Fabbri was appointed president and chief
 exeuctive, effective October 31, replacing William Rueckert,
 who will resign on that date.

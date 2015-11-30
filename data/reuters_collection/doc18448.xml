@@ -2,13 +2,10 @@
 	<field name = "DATE">16-JUN-1987 06:05:28.68</field>
 	<field name = "PLACES">italy</field>
 	<field name = "EXCHANGES">mise</field>
-	<field name = "UNKNOWN">F
-f0419reute
-u f BC-ITALIAN-ELECTION-RESU   06-16 0093</field>
-	<field name = "TITLE">ITALIAN ELECTION RESULTS BOOST SHARE PRICES</field>
+	<field name = "titulo">ITALIAN ELECTION RESULTS BOOST SHARE PRICES</field>
 	<field name = "AUTHOR">By Daniel Liefgreen, Reuter</field>
 	<field name = "DATELINE">Milan, June 16 -</field>
-	<field name = "BODY">Share prices opened sharply higher,
+	<field name = "content">Share prices opened sharply higher,
 boosted by Italian general election results which dealt a big
 blow to the Communist party and bolstered the Christian
 Democrats and Socialists.

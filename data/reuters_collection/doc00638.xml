@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:42:05.80</field>
-	<field name = "UNKNOWN">F
-f0567
-reute
-d f BC-MORRISON-KNUDSEN-MRN   03-02 0085</field>
-	<field name = "TITLE">MORRISON KNUDSEN MRN> GETS NAVAL STATION JOB</field>
+	<field name = "titulo">MORRISON KNUDSEN MRN> GETS NAVAL STATION JOB</field>
 	<field name = "DATELINE">BOISE, Idaho, March 2 -</field>
-	<field name = "BODY">Morrison Knudsen Corp said its
+	<field name = "content">Morrison Knudsen Corp said its
 National Projects Inc subsidiary was awarded a contract worth
 about 27 mln dlrs for construction of improvements at the U.S.
 Navy's Fallon Naval Air Station in Nevada.

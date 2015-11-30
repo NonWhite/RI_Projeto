@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:53:08.20</field>
-	<field name = "UNKNOWN">F
-f0377
-reute
-d f BC-QED-EXPLORATION-INC-   03-02 0041</field>
-	<field name = "TITLE">QED EXPLORATION INC QEDX> 2ND QTR JAN 31 NET</field>
+	<field name = "titulo">QED EXPLORATION INC QEDX> 2ND QTR JAN 31 NET</field>
 	<field name = "DATELINE">DENVER, March 2 -</field>
-	<field name = "BODY">Shr six cts vs 12 cts
+	<field name = "content">Shr six cts vs 12 cts
     Net 132,151 vs 261,560
     Revs 622,909 vs 968,4287
     1st half

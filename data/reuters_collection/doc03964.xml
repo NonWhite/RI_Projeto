@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 16:59:46.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0680reute
-u f BC-ANALYSTS-SAY-NEW-DOW   03-11 0112</field>
-	<field name = "TITLE">ANALYSTS SAY NEW DOW COMPONENTS AID AVERAGE</field>
+	<field name = "titulo">ANALYSTS SAY NEW DOW COMPONENTS AID AVERAGE</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Wall Street market analysts said two
+	<field name = "content">Wall Street market analysts said two
 changes in the components of the Dow Jones Industrial Average
 were part of a shift away from smokestack industries that have
 long dominated the 30-stock index.

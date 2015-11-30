@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:02:42.72</field>
-	<field name = "UNKNOWN">RM
-f1427reute
-b f BC-LONDON-EURODOLLAR-DEP   04-07 0112</field>
-	<field name = "TITLE">LONDON EURODOLLAR DEPOSITS CLOSE QUIETLY STEADY</field>
+	<field name = "titulo">LONDON EURODOLLAR DEPOSITS CLOSE QUIETLY STEADY</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Eurodollar deposit rates closed little
+	<field name = "content">Eurodollar deposit rates closed little
 changed around the levels established at midmorning. Rates at
 the longer end of the market showed 1/16 point gains on a weak
 opening from the dollar, dealers said.

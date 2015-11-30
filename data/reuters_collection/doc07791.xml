@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1527reute
-b f BC-/USDA-NOT-PLANNING-AN   03-20 0135</field>
-	<field name = "TITLE">USDA NOT PLANNING ANY MAJOR PRICING CHANGES</field>
+	<field name = "titulo">USDA NOT PLANNING ANY MAJOR PRICING CHANGES</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">The Agriculture Department is not
+	<field name = "content">The Agriculture Department is not
 considering any major changes in its pricing system for posted
 county prices, an Agriculture Department offical said.
     "We do not have current plans to make any major adjustments

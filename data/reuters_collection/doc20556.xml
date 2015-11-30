@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 14:30:45.76</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2708reute
-r f BC-GREATER-NEW-YORK-SAVI   10-20 0076</field>
-	<field name = "TITLE">GREATER NEW YORK SAVINGS BANK GRTR.O> 3RD QTR</field>
+	<field name = "titulo">GREATER NEW YORK SAVINGS BANK GRTR.O> 3RD QTR</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Shr 57 cts vs N/A
+	<field name = "content">Shr 57 cts vs N/A
     Net 7,222,000 vs 6,959,000
     Nine mths
     Shr N/A vs N/A

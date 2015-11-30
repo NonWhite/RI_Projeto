@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 05:59:38.56</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0353reute
-b f BC-BOND-CORP-TO-ACQUIRE   04-13 0090</field>
-	<field name = "TITLE">BOND CORP TO ACQUIRE 80 PCT OF MERLIN PETE</field>
+	<field name = "titulo">BOND CORP TO ACQUIRE 80 PCT OF MERLIN PETE</field>
 	<field name = "DATELINE">PERTH, April 13 -</field>
-	<field name = "BODY">Bond Corp Holdings Ltd BONA.S> said it
+	<field name = "content">Bond Corp Holdings Ltd BONA.S> said it
 has agreed to acquire an 80 pct stake in Merlin International
 Petroleum Corp> from Crowley Maritime Corp> for 90.8 mln U.S.
 Dlrs.

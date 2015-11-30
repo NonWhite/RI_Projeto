@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 09:30:32.18</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">C G T M
-f0894reute
-d f PM-YUGOSLAVIA 1STLD-(WRITETHROUGH)  03-24 0140</field>
-	<field name = "TITLE">YUGOSLAVIA CHANGES CONTROVERSIAL WAGE-FREEZE LAW</field>
+	<field name = "titulo">YUGOSLAVIA CHANGES CONTROVERSIAL WAGE-FREEZE LAW</field>
 	<field name = "DATELINE">BELGRADE, March 24 -</field>
-	<field name = "BODY">The Yugoslav government has decided to
+	<field name = "content">The Yugoslav government has decided to
 amend a wage-freeze law that triggered nationwide strikes and
 led the Prime Minister to threaten to use troops if the unrest
 threatened the ruling Communist Party.

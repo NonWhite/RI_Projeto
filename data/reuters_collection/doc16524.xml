@@ -6,12 +6,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f2012reute
-u f BC-U.S.-CORN-EXPORTS-SEE   04-13 0112</field>
-	<field name = "TITLE">U.S. CORN EXPORTS SEEN WELL AHEAD OF LAST YEAR</field>
+	<field name = "titulo">U.S. CORN EXPORTS SEEN WELL AHEAD OF LAST YEAR</field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">Grain traders and analysts expect
+	<field name = "content">Grain traders and analysts expect
 today's weekly U.S. corn export inspection figure to be well
 above last year, with wheat slightly better and soybeans about
 the same.

@@ -3,13 +3,10 @@
 	<field name = "PLACES">switzerland</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM
-f2121reute
-u f BC-SWISS-BANKERS-ANNOUNC   03-23 0108</field>
-	<field name = "TITLE">SWISS BANKERS ANNOUNCE CURBS ON BANKING SECRECY</field>
+	<field name = "titulo">SWISS BANKERS ANNOUNCE CURBS ON BANKING SECRECY</field>
 	<field name = "AUTHOR">By Peter Conradi, Reuters</field>
 	<field name = "DATELINE">ZURICH, March 23 -</field>
-	<field name = "BODY">Swiss bankers announced a series of
+	<field name = "content">Swiss bankers announced a series of
 measures aimed at preventing abuses of the country's tight
 banking secrecy laws as part of a revision of a 10-year-old
 voluntary code of conduct.

@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 04:44:15.59</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0326reute
-u f BC-WALLENBERG-GROUP-RAIS   03-30 0109</field>
-	<field name = "TITLE">WALLENBERG GROUP RAISES STAKE IN ERICSSON</field>
+	<field name = "titulo">WALLENBERG GROUP RAISES STAKE IN ERICSSON</field>
 	<field name = "DATELINE">STOCKHOLM, March 30 -</field>
-	<field name = "BODY">Sweden's Wallenberg group said it
+	<field name = "content">Sweden's Wallenberg group said it
 raised its holding in telecommunications maker Telefon AB L.M.
 Ericsson eric.St.> to 37.5 of the voting rights from 28.9 pct.
     The move by the Knut and Alice Wallenberg Foundation, one

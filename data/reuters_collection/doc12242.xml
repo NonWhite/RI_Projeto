@@ -3,12 +3,9 @@
 	<field name = "TOPICS">silver</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">comex</field>
-	<field name = "UNKNOWN">C M
-f2212reute
-b f BC-/COMEX-RAISES-MARGINS   04-01 0079</field>
-	<field name = "TITLE">COMEX RAISES MARGINS FOR SILVER FUTURES</field>
+	<field name = "titulo">COMEX RAISES MARGINS FOR SILVER FUTURES</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">The Commodity Exchange Inc said it is
+	<field name = "content">The Commodity Exchange Inc said it is
 increasing the minimum margins for silver futures contracts,
 effective at the opening of business Thursday, April 2.
     The margins for speculative trading will be increased to

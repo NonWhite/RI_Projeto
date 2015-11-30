@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 11:36:06.47</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0602reute
-u f BC-TWA-TWA>-DECLINES-CO   03-09 0094</field>
-	<field name = "TITLE">TWA TWA> DECLINES COMMENT ON USAIR U></field>
+	<field name = "titulo">TWA TWA> DECLINES COMMENT ON USAIR U></field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">A Transworld Airlines Inc official said
+	<field name = "content">A Transworld Airlines Inc official said
 the airline has no comment on USAir Group Inc's planned buyout
 of Piedmont Aviation Inc.
     TWA, however, has pursued its application with the

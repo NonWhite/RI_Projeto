@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 01:08:04.55</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0043reute
-u f BC-DEUTSCHE-AGREES-FULL   04-02 0097</field>
-	<field name = "TITLE">DEUTSCHE AGREES FULL TAKEOVER OF FORMER EURASBANK</field>
+	<field name = "titulo">DEUTSCHE AGREES FULL TAKEOVER OF FORMER EURASBANK</field>
 	<field name = "DATELINE">FRANKFURT, April 2 -</field>
-	<field name = "BODY">Deutsche Bank AG DBKG.F> has agreed
+	<field name = "content">Deutsche Bank AG DBKG.F> has agreed
 to take over the outstanding 25 pct in Deutsche Bank (Asia)
 AG>, the former European Asian Bank AG>, from
 Creditanstalt-Bankverein CABV.VI>, Deutsche management board

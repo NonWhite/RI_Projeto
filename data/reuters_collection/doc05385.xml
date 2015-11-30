@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 10:45:39.20</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">C
-f2288reute
-d f BC-ECONOMIC-SPOTLIGHT--   03-16 0146</field>
-	<field name = "TITLE">SWISS OPTIONS, FUTURES EXCHANGE PLANNED FOR 1988</field>
+	<field name = "titulo">SWISS OPTIONS, FUTURES EXCHANGE PLANNED FOR 1988</field>
 	<field name = "AUTHOR">By Richard Murphy, Reuters</field>
 	<field name = "DATELINE">ZURICH, March 16 -</field>
-	<field name = "BODY">Preparations for the launch of a Swiss
+	<field name = "content">Preparations for the launch of a Swiss
 options and futures exchange, billed as the first completely
 electronic market of its kind, are at an advanced stage,
 according to members of the project team.

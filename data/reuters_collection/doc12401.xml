@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 02:44:16.53</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">RM
-f0167reute
-u f BC-INDIAN-OIL-FIRM-GETS   04-02 0103</field>
-	<field name = "TITLE">INDIAN OIL FIRM GETS 3.5 BILLION YEN CREDIT</field>
+	<field name = "titulo">INDIAN OIL FIRM GETS 3.5 BILLION YEN CREDIT</field>
 	<field name = "DATELINE">NEW DELHI, April 2 -</field>
-	<field name = "BODY">India's state-owned Oil India Ltd
+	<field name = "content">India's state-owned Oil India Ltd
 (OIL) said it received a 3.5 billion yen credit under an
 agreement signed with Dai Ichi Kangyo Bank of Tokyo last week.
     A statement from OIL said the 10-year loan carries a rate

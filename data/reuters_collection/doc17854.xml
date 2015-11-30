@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 17:57:44.72</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2677reute
-u f BC-GENERAL-MOTORS-(GM)-C   06-01 0101</field>
-	<field name = "TITLE">GENERAL MOTORS (GM) CANADA TO CLOSE TRUCK CENTRE</field>
+	<field name = "titulo">GENERAL MOTORS (GM) CANADA TO CLOSE TRUCK CENTRE</field>
 	<field name = "DATELINE">MONTREAL, June 1 -</field>
-	<field name = "BODY">General Motors of Canada Ltd said it
+	<field name = "content">General Motors of Canada Ltd said it
 will close its Montreal truck centre August 31, due to low
 sales volume, putting most of the centre's 131 employees out of
 work.

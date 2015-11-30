@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 14:38:44.40</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f0754
-reute
-d f BC-CCR-VIDEO-CCCR>-NOW   03-02 0125</field>
-	<field name = "TITLE">CCR VIDEO CCCR> NOW MEETS NASDAQ REQUIREMENTS</field>
+	<field name = "titulo">CCR VIDEO CCCR> NOW MEETS NASDAQ REQUIREMENTS</field>
 	<field name = "DATELINE">LOS ANGELES, March 2 -</field>
-	<field name = "BODY">CCR Video Corp said it is now
+	<field name = "content">CCR Video Corp said it is now
 current in its filing requirements with both the Securities and
 Exchange Commission and NASDAQ, and meets the trading system's
 net worth requirements.

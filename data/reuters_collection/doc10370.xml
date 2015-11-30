@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:07:09.04F</field>
-	<field name = "UNKNOWN">f0629reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">u f BC-UNION-MINIERE-TAKES-S   03-27 0095</field>
-	<field name = "TITLE">UNION MINIERE TAKES STAKE IN PANCONTINENTAL</field>
+	<field name = "titulo">UNION MINIERE TAKES STAKE IN PANCONTINENTAL</field>
 	<field name = "DATELINE">BRUSSELS, March 27 -</field>
-	<field name = "BODY">Union Miniere SA> said in a statement
+	<field name = "content">Union Miniere SA> said in a statement
 that it has acquired an eight pct interest in Pancontinental
 Mining Ltd PANA.S> for a sum equivalent to 1.2 billion Belgian
 francs.

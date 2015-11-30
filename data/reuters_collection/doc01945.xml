@@ -15,12 +15,9 @@
 	<field name = "PLACES">denmark</field>
 	<field name = "PLACES">portugal</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">T C
-f0525reute
-b f BC-FIRS-SLIGHTLY-RAISES   03-05 0071</field>
-	<field name = "TITLE">FIRS SLIGHTLY RAISES EC BEET SUGAR OUTPUT ESTIMATE</field>
+	<field name = "titulo">FIRS SLIGHTLY RAISES EC BEET SUGAR OUTPUT ESTIMATE</field>
 	<field name = "DATELINE">PARIS, March 5 -</field>
-	<field name = "BODY">The French sugar market intervention
+	<field name = "content">The French sugar market intervention
 board, FIRS, raised its estimate of 1986/87 beet sugar
 production in the 12-member European Community to 13.76 mln
 tonnes white equivalent in its end-February report from 13.74

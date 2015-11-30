@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 19:16:47.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2761reute
-r f BC-PALO-VERDE-UNIT-3-GRA   03-25 0133</field>
-	<field name = "TITLE">PALO VERDE UNIT 3 GRANTED OPERATING LICENSE</field>
+	<field name = "titulo">PALO VERDE UNIT 3 GRANTED OPERATING LICENSE</field>
 	<field name = "DATELINE">WINTERSBURG, Ariz., March 25 -</field>
-	<field name = "BODY">The United States Nuclear
+	<field name = "content">The United States Nuclear
 Regulatory Commission granted a low-power operating license to
 Unit 3 of the Palo Verde nuclear plant, plant's owners said.
     Owners of the Palo Verde plant include AZP Group's Arizona

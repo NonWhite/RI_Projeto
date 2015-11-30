@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 16:47:33.43</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2428reute
-u f BC-CANADA-BANK-DEREGULAT   03-23 0103</field>
-	<field name = "TITLE">CANADA BANK DEREGULATION TALKS MAKE PROGRESS</field>
+	<field name = "titulo">CANADA BANK DEREGULATION TALKS MAKE PROGRESS</field>
 	<field name = "DATELINE">OTTAWA, March 23 -</field>
-	<field name = "BODY">Canada's Minister of State for Finance,
+	<field name = "content">Canada's Minister of State for Finance,
 Tom Hockin, said substantial progress was made today with his
 provincial counterparts on deregulation of the country's
 financial system, but stumbling blocks remain.

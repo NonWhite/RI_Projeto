@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 23:36:26.82</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f2889reute
-u f BC-N.Z.-MONEY-SUPPLY-RIS   03-25 0093</field>
-	<field name = "TITLE">N.Z. MONEY SUPPLY RISES 2.4 PCT IN JANUARY</field>
+	<field name = "titulo">N.Z. MONEY SUPPLY RISES 2.4 PCT IN JANUARY</field>
 	<field name = "DATELINE">WELLINGTON, March 26 -</field>
-	<field name = "BODY">New Zealand's broadly defined,
+	<field name = "content">New Zealand's broadly defined,
 seasonally adjusted M-3 money supply grew an estimated 2.4 pct
 in January against a 3.4 pct (revised from 3.6) rise in
 December and a 0.7 pct rise in January 1986.

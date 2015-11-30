@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:25:33.92</field>
-	<field name = "UNKNOWN">L C
-f1256reute
-u f BC-OMAHA-CATTLE-UP-0.50   04-07 0046</field>
-	<field name = "TITLE">OMAHA CATTLE UP 0.50 DLR - USDA</field>
+	<field name = "titulo">OMAHA CATTLE UP 0.50 DLR - USDA</field>
 	<field name = "DATELINE">omaha, april 7 -</field>
-	<field name = "BODY">barrow and gilt prices rose 0.50 dlr in
+	<field name = "content">barrow and gilt prices rose 0.50 dlr in
 moderately active trade, the usda said.
     steers - choice 2-4 1100-1400 lbs 66.50-67.50, two loads
 68.00-68.50.

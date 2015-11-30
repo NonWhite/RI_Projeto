@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 11:21:05.09</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1390reute
-d f BC-FIDATA-CORP-FID>-4TH   04-08 0094</field>
-	<field name = "TITLE">FIDATA CORP FID> 4TH QTR LOSS</field>
+	<field name = "titulo">FIDATA CORP FID> 4TH QTR LOSS</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Shr loss two cts vs profit 38 cts
+	<field name = "content">Shr loss two cts vs profit 38 cts
     Net loss 90,000 vs profit 1,685,000
     Revs 1,826,000 vs 29.3 mln
     Year

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 14:09:22.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2008reute
-r f BC-SHARPER-IMAGE-CORP-SE   03-20 0097</field>
-	<field name = "TITLE">SHARPER IMAGE CORP SETS STOCK OFFERING</field>
+	<field name = "titulo">SHARPER IMAGE CORP SETS STOCK OFFERING</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 20 -</field>
-	<field name = "BODY">Sharper Image Corp said it
+	<field name = "content">Sharper Image Corp said it
 registered with the Securities and Exchange Commission to offer
 1,445,000 shares of its common stock.
     The offering would be comprised of 1.2 mln shares of newly

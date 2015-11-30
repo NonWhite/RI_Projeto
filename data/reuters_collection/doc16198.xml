@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 08:12:00.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0647reute
-r f BC-TWO-UTAH-FINANCIAL-IN   04-13 0093</field>
-	<field name = "TITLE">TWO UTAH FINANCIAL INSTITUTIONS FAIL</field>
+	<field name = "titulo">TWO UTAH FINANCIAL INSTITUTIONS FAIL</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">Two Utah financial institutions, the
+	<field name = "content">Two Utah financial institutions, the
 Bank of Iron County and Summit Savings and Loan Association,
 have failed, official spokesmen said.
     The board of directors of the Federal Deposit Insurance

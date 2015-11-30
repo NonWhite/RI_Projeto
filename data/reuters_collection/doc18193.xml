@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:12:54.73</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2160reute
-r f BC-LAC-LAC>-REAFFIRMS-F   06-02 0109</field>
-	<field name = "TITLE">LAC LAC> REAFFIRMS FORECAST FOR HIGHER NET</field>
+	<field name = "titulo">LAC LAC> REAFFIRMS FORECAST FOR HIGHER NET</field>
 	<field name = "DATELINE">TORONTO, June 2 -</field>
-	<field name = "BODY">Lac Minerals Ltd reiterated it expected
+	<field name = "content">Lac Minerals Ltd reiterated it expected
 substantially higher 1987 profit and revenues than last year's
 earnings of 19.1 mln dlrs on 250.2 mln dlrs of revenues.
     The 1986 results include the disputed Page-Williams mine at

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 10:49:54.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f1178reute
-r f BC-ROSTENKOWSKI-URGES-HO   03-23 0099</field>
-	<field name = "TITLE">ROSTENKOWSKI URGES HONESTY IN FUTURES INDUSTRY</field>
+	<field name = "titulo">ROSTENKOWSKI URGES HONESTY IN FUTURES INDUSTRY</field>
 	<field name = "DATELINE">BOCA RATON, Fla, March 23 -</field>
-	<field name = "BODY">U.S. House Ways and Means
+	<field name = "content">U.S. House Ways and Means
 Committee Chairman Dan Rostenkowski (D-Ill.) said Congress
 would more readily respond to the needs of the U.S. futures
 industry to be internationally competitive if the industry

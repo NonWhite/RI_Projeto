@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">norway</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM V 
-f0218reute
-b f BC-NORWAY-EXTENDS-7.5-PC   06-29 0113</field>
-	<field name = "TITLE">NORWAY EXTENDS 7.5 PCT OIL OUTPUT CUT - MINISTRY</field>
+	<field name = "titulo">NORWAY EXTENDS 7.5 PCT OIL OUTPUT CUT - MINISTRY</field>
 	<field name = "DATELINE">OSLO, June 29 -</field>
-	<field name = "BODY">Norway will extend its 7.5 pct cutback in
+	<field name = "content">Norway will extend its 7.5 pct cutback in
 planned North Sea oil output in support of OPEC from July 15
 until the end of this year, Oil Ministry spokesman Egil Helle
 told Reuters.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">new-zealand</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">RM
-f0147reute
-u f BC-GATT-SUCCESS-WILL-TAK   03-22 0095</field>
-	<field name = "TITLE">GATT SUCCESS WILL TAKE PRESSURE, N.Z. MINISTER</field>
+	<field name = "titulo">GATT SUCCESS WILL TAKE PRESSURE, N.Z. MINISTER</field>
 	<field name = "DATELINE">TAUPO, New Zealand, March 23 -</field>
-	<field name = "BODY">Long term pressure by trade
+	<field name = "content">Long term pressure by trade
 ministers is necessary if the current Uruguay round of talks on
 the General Agreement on Trade and Tariffs (GATT) is to
 succeed, New Zealand's Overseas Trade minister Mike Moore said.

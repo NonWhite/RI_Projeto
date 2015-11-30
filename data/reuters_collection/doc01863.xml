@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 17:52:15.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0997reute
-u f AM-TRW   03-04 0099</field>
-	<field name = "TITLE">FORMER TRWTRW> EMPLOYEE SAYS FIRM WAS UNETHICAL</field>
+	<field name = "titulo">FORMER TRWTRW> EMPLOYEE SAYS FIRM WAS UNETHICAL</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">A former TRW Inc controller told a
+	<field name = "content">A former TRW Inc controller told a
 Congressional hearing that the company had acted unethically in
 its defense contracts with the government.
     "It is my contention that the company called TRW is not ever

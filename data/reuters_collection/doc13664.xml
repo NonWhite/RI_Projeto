@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:57:59.76</field>
-	<field name = "UNKNOWN">C G L M T
-f0678reute
-b f BC-ny-comms-opg-f'cast   04-07 0082</field>
-	<field name = "TITLE">N.Y. COMMODITY OPENING FORECASTS</field>
+	<field name = "titulo">N.Y. COMMODITY OPENING FORECASTS</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Commodity traders expect the futures
+	<field name = "content">Commodity traders expect the futures
 markets to open as follows based on current London values:
     Gold - 1.50 to 2.00 dlrs higher
     Silver - 15.0 to 20.0 cents higher

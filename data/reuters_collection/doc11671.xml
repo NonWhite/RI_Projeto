@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 16:17:52.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2597reute
-b f BC-RAYTHEON-RTN>-GETS-3   03-31 0105</field>
-	<field name = "TITLE">RAYTHEON RTN> GETS 3.5 BILLION DLR CONTRACT</field>
+	<field name = "titulo">RAYTHEON RTN> GETS 3.5 BILLION DLR CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Raytheon Co has been awarded a 3.53
+	<field name = "content">Raytheon Co has been awarded a 3.53
 billion dlr military procurement contract for Patriot
 air-defense missiles, the Army said.
     The contract is for five years and was awarded to the

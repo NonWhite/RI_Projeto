@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:31:01.03</field>
-	<field name = "UNKNOWN">M
-f1586reute
-u f BC-LME-LEAD-CLOSES-FIRME   04-07 0092</field>
-	<field name = "TITLE">LME LEAD CLOSES FIRMER</field>
+	<field name = "titulo">LME LEAD CLOSES FIRMER</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">LME lead prices tended firmer as the
+	<field name = "content">LME lead prices tended firmer as the
 market edged towards the higher end of its current narrow
 trading range, aided by a burst of cash metal pricing purchases
 in the official morning rings, delers said.

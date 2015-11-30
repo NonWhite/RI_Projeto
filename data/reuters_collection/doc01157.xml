@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 12:14:16.22</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F RM A
-f0022reute
-u f BC-CANADA-INDUSTRIAL-PRO   03-03 0052</field>
-	<field name = "TITLE">CANADA INDUSTRIAL PRODUCTION UP 2.53 PCT</field>
+	<field name = "titulo">CANADA INDUSTRIAL PRODUCTION UP 2.53 PCT</field>
 	<field name = "DATELINE">OTTAWA, March 3 -</field>
-	<field name = "BODY">Canadian industrial production rose 2.53
+	<field name = "content">Canadian industrial production rose 2.53
 pct in December after falling 0.51 pct in November, Statistics
 Canada said.
     The federal agency said year-over-year production was off

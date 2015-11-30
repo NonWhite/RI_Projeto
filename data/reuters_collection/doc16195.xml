@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">bangemann</field>
-	<field name = "UNKNOWN">RM
-f0612reute
-u f BC-BANGEMANN-REJECTS-CAL   04-13 0104</field>
-	<field name = "TITLE">BANGEMANN REJECTS CALL FOR EARLY TAX CUTS</field>
+	<field name = "titulo">BANGEMANN REJECTS CALL FOR EARLY TAX CUTS</field>
 	<field name = "DATELINE">BONN, April 13 -</field>
-	<field name = "BODY">West German Economics Minister Martin
+	<field name = "content">West German Economics Minister Martin
 Bangemann indirectly rejected a call from the country's leading
 economic research institutes for early introduction of a major
 tax reform involving gross tax cuts of 44 billion marks.

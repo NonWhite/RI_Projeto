@@ -2,13 +2,10 @@
 	<field name = "DATE">20-MAR-1987 17:32:18.21</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f2575reute
-u f BC-WALL-STREET-SURVIVES   03-20 0102</field>
-	<field name = "TITLE">WALL STREET SURVIVES TRIPLE EXPIRATIONS</field>
+	<field name = "titulo">WALL STREET SURVIVES TRIPLE EXPIRATIONS</field>
 	<field name = "AUTHOR">By Cal Mankowski, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">The four-times-a-year "triple
+	<field name = "content">The four-times-a-year "triple
 witching hour" did not jolt Wall Street as much as it has in
 the past.
     Market averages finished sharply higher as stock index

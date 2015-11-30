@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 12:16:42.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F
-f0576reute
-d f AM-COURT-LIBEL   03-13 0134</field>
-	<field name = "TITLE">COURT VACATES LIBEL AWARD IN MOBIL CASE</field>
+	<field name = "titulo">COURT VACATES LIBEL AWARD IN MOBIL CASE</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">A U.S. appeals court threw out a two
+	<field name = "content">A U.S. appeals court threw out a two
 mln dlr libel award against The Washington Post for an article
 that said former Mobil Corp president William Tavoulareas set
 up his son in a shipping firm that did business with Mobil.

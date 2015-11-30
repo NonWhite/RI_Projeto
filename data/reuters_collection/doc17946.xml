@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 07:18:35.18</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0584reute
-r f BC-JAPAN-TO-USE-TAX-CARR   06-02 0116</field>
-	<field name = "TITLE">JAPAN TO USE TAX CARRY-OVER TO HELP FUND PACKAGE</field>
+	<field name = "titulo">JAPAN TO USE TAX CARRY-OVER TO HELP FUND PACKAGE</field>
 	<field name = "DATELINE">TOKYO, June 2 -</field>
-	<field name = "BODY">Government tax revenues for the 1986/87
+	<field name = "content">Government tax revenues for the 1986/87
  year ended March 31 were more than 600 billion yen higher than
 forecast and could be used to help fund the economic package
 announced last week, Finance Ministry sources said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 18:08:09.43</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">C G L M T
-f2511reute
-d f BC-YUGOSLAVIAN-BANK-GETS   04-03 0135</field>
-	<field name = "TITLE">YUGOSLAVIAN BANK GETS 90 MLN DLR WORLD BANK LOAN</field>
+	<field name = "titulo">YUGOSLAVIAN BANK GETS 90 MLN DLR WORLD BANK LOAN</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The World Bank said it approved a 90
+	<field name = "content">The World Bank said it approved a 90
 mln dlr loan to Yugoslavia's third largest bank to support a
 project promoting energy conservation and substituting
 lower-cost energy sources for present sources.

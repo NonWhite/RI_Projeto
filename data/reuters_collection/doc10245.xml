@@ -3,13 +3,10 @@
 	<field name = "TOPICS">money-supply</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A F
-f2862reute
-u f BC-FED-DATA-INDICATE-POL   03-26 0105</field>
-	<field name = "TITLE">FED DATA INDICATE POLICY LIKELY TO STAY ON HOLD</field>
+	<field name = "titulo">FED DATA INDICATE POLICY LIKELY TO STAY ON HOLD</field>
 	<field name = "AUTHOR">By Martin Cherrin, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Federal Reserve data released today
+	<field name = "content">Federal Reserve data released today
 indicate that there has been no policy change in recent weeks
 and that none is likely at next week's Federal Open Market
 Committee (FOMC) meeting, economists said.

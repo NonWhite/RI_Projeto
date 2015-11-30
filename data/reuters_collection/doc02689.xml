@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:53:19.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0642reute
-r f BC-PROPOSED-OFFERINGS-RE   03-06 0080</field>
-	<field name = "TITLE">PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</field>
+	<field name = "titulo">PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">The following proposed securities
+	<field name = "content">The following proposed securities
 offerings were filed recently with the Securities and Exchange
 Commission:
     Evans and Sutherland Computer Corp (ESCC) - Offering of 50

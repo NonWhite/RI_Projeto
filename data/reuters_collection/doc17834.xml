@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 17:10:54.09</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2568reute
-d f BC-FINANCIAL-SECURITY-F   06-01 0049</field>
-	<field name = "TITLE">FINANCIAL SECURITY FSSLA.O> TO BE ACQUIRED</field>
+	<field name = "titulo">FINANCIAL SECURITY FSSLA.O> TO BE ACQUIRED</field>
 	<field name = "DATELINE">DELRAY BEACH, Fla, June 1 -</field>
-	<field name = "BODY">Financial Security Savings and
+	<field name = "content">Financial Security Savings and
 Loan Association said it signed a letter of intent for a
 controlling interest to be acquired by an investor group led by
 South Florida developer William Landa.

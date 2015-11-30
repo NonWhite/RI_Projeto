@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 23:59:08.26</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0002reute
-u f BC-MITSUI,-ALLIANCE-IN-F   06-18 0116</field>
-	<field name = "TITLE">MITSUI, ALLIANCE IN FUND MANAGEMENT TIE-UP</field>
+	<field name = "titulo">MITSUI, ALLIANCE IN FUND MANAGEMENT TIE-UP</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">Mitsui Investment Management Co Ltd>
+	<field name = "content">Mitsui Investment Management Co Ltd>
 (MIMCL) and Alliance Capital Management International Inc>
 (ACMII) will sign an agreement late this month to cooperate in
 international fund management, a ACMII spokesman said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 15:32:06.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2267reute
-u f BC-INT'L-LEASE-FINANCE-   03-19 0107</field>
-	<field name = "TITLE">INT'L LEASE FINANCE ILFC> DISCUSSING AIRBUS ORDER</field>
+	<field name = "titulo">INT'L LEASE FINANCE ILFC> DISCUSSING AIRBUS ORDER</field>
 	<field name = "DATELINE">BEVERLY HILLS, Calif., March 19 -</field>
-	<field name = "BODY">International Lease
+	<field name = "content">International Lease
 Finance Corp is negotiating with Airbus Industrie> for
 additional orders of A320 and A330 jets, according to ILFC
 president Steven Udvar-Hazy.

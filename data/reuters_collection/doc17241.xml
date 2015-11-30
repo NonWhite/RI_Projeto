@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-APR-1987 04:00:37.90</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0197reute
-u f BC-BUNDESBANK-CALL-TO-BO   04-27 0117</field>
-	<field name = "TITLE">BUNDESBANK CALL TO BONN ON OVER-SPENDING RISKS</field>
+	<field name = "titulo">BUNDESBANK CALL TO BONN ON OVER-SPENDING RISKS</field>
 	<field name = "DATELINE">FRANKFURT, April 27 -</field>
-	<field name = "BODY">The Bundesbank urged the West German
+	<field name = "content">The Bundesbank urged the West German
 government not to relax efforts to rein in spending when taxes
 are cut in a 1990 fiscal reform package, saying that higher
 expenditure could lead to a dangerous rise in interest rates.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f3015reute
-u f BC-CHINA-OFFICIAL-CONDEM   03-31 0115</field>
-	<field name = "TITLE">CHINA OFFICIAL CONDEMNS GOVERNMENT GRAIN POLICY</field>
+	<field name = "titulo">CHINA OFFICIAL CONDEMNS GOVERNMENT GRAIN POLICY</field>
 	<field name = "DATELINE">PEKING, April 1 -</field>
-	<field name = "BODY">The grain output of a major Chinese
+	<field name = "content">The grain output of a major Chinese
 grain-producing province is not increasing, because farmers
 lack incentives, production costs are rising, storage
 facilities are poor and there is not enough state investment in

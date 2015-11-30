@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0106reute
-u f BC-EC-DRIVING-TO-CAPTURE   03-03 0106</field>
-	<field name = "TITLE">EC DRIVING TO CAPTURE BRAZIL WHEAT MARKET - USDA</field>
+	<field name = "titulo">EC DRIVING TO CAPTURE BRAZIL WHEAT MARKET - USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">The European Community, EC, sold
+	<field name = "content">The European Community, EC, sold
 75,000 tonnes of soft wheat at a subsidized price of between 85
 and 89 dlrs per tonne FOB for March delivery in a continuing
 bid to establish itself in the Brazilian wheat market, the U.S.

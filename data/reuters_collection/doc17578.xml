@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 11:12:21.00</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1348reute
-u f BC-SUPERMARKETS-GENERAL   06-01 0108</field>
-	<field name = "TITLE">SUPERMARKETS GENERAL SGL> TENDER EXPIRES</field>
+	<field name = "titulo">SUPERMARKETS GENERAL SGL> TENDER EXPIRES</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">SMG Acquisition Corp, a subsidiary of
+	<field name = "content">SMG Acquisition Corp, a subsidiary of
 Merrill Lynch Capital Partners Inc, said 38.3 mln shares of
 Supermarkets General Corp were validly tendered by the midnight
 Friday expiration, resulting in a preliminary proration factor

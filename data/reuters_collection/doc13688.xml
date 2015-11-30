@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:09:09.38</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">F
-f0709reute
-d f BC-OLIVETTI-TO-ANNOUNCE   04-07 0067</field>
-	<field name = "TITLE">OLIVETTI TO ANNOUNCE NEW COMPUTER LINE IN JUNE</field>
+	<field name = "titulo">OLIVETTI TO ANNOUNCE NEW COMPUTER LINE IN JUNE</field>
 	<field name = "DATELINE">Milan, April 7 -</field>
-	<field name = "BODY">Ing. C. Olivetti EC Spa OLIV.MI> plans to
+	<field name = "content">Ing. C. Olivetti EC Spa OLIV.MI> plans to
 announce a new line of computer products in June, company
 chairman Carlo De Benedetti said at a news conference.
     De Benedetti said the new products would include personal

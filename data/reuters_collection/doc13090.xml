@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 15:18:38.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2108reute
-u f BC-IBM-SECRETARY-J   04-03 0096</field>
-	<field name = "TITLE">CORRECTED - IBM IBM> NEWLY NAMED SECRETARY DIES</field>
+	<field name = "titulo">CORRECTED - IBM IBM> NEWLY NAMED SECRETARY DIES</field>
 	<field name = "DATELINE">ARMONK, N.Y., April 3 -</field>
-	<field name = "BODY">International Business Machines
+	<field name = "content">International Business Machines
 Corp said recently elected secretary, John Manningham, and his
 wife, Patricia, died early this morning in a fire at their
 Ridgefield, Conn home.

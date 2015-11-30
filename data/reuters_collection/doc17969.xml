@@ -4,13 +4,10 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">south-africa</field>
 	<field name = "PEOPLE">du-plessis</field>
-	<field name = "UNKNOWN">RM
-f0829reute
-u f BC-S.AFRICA-EXPECTED-TO   06-02 0103</field>
-	<field name = "TITLE">S.AFRICA EXPECTED TO UNVEIL EXPANSIONARY BUDGET</field>
+	<field name = "titulo">S.AFRICA EXPECTED TO UNVEIL EXPANSIONARY BUDGET</field>
 	<field name = "AUTHOR">By Christopher Wilson, Reuters</field>
 	<field name = "DATELINE">CAPE TOWN, June 2 -</field>
-	<field name = "BODY">South Africa is expected to unveil
+	<field name = "content">South Africa is expected to unveil
 tomorrow an expansionary budget for the second consecutive year
 in a bid to boost the nation's flagging economic growth rate,
 economic analysts said.

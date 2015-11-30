@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 11:31:40.74</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1330reute
-r f BC-DIXOn   03-20 0112</field>
-	<field name = "TITLE">DIXONS SAYS SEC MOVING ON CYCLOPS CYL> TENDER</field>
+	<field name = "titulo">DIXONS SAYS SEC MOVING ON CYCLOPS CYL> TENDER</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Dixons Group PLC> said the 
+	<field name = "content">Dixons Group PLC> said the 
 Securities and Exchange Commission has authorized, but not
 commenced, the filing of an action against it concerning its
 waiver of a condition in its tender offer for Cyclops Corp.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:49:36.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0925reute
-r f BC-BIOTHERAPEUTICS-BITX   04-09 0078</field>
-	<field name = "TITLE">BIOTHERAPEUTICS BITX> REPORTS DRUG FINDINGS</field>
+	<field name = "titulo">BIOTHERAPEUTICS BITX> REPORTS DRUG FINDINGS</field>
 	<field name = "DATELINE">FRANKLIN, Tenn., April 9 -</field>
-	<field name = "BODY">Biotherapeutics Inc said its
+	<field name = "content">Biotherapeutics Inc said its
 cooperative findings on interleukin-2, the anti-cancer drug,
 were published today in the "New England Journal of Medicine".
     Biotherapeutics, along with the Biological Therapy

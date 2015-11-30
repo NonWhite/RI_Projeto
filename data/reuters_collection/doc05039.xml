@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 15:56:39.68</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0344reute
-u f BC-/U.S.-COTTON-CERTIFIC   03-13 0137</field>
-	<field name = "TITLE">U.S. COTTON CERTIFICATE EXPIRATION DATE EXTENDED</field>
+	<field name = "titulo">U.S. COTTON CERTIFICATE EXPIRATION DATE EXTENDED</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">Expiration dates on upland cotton
+	<field name = "content">Expiration dates on upland cotton
 certificates issued under the 1986 upland cotton program are
 being extended, the Agriculture Department announced.
     The certificates are being extended because of a shortage

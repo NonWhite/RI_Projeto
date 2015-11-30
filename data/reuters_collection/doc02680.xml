@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 11:42:15.64</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f0601reute
-u f BC-MIDMISSISSIPPI-RIVER   03-06 0137</field>
-	<field name = "TITLE">MIDMISSISSIPPI RIVER OPENS TODAY FOR SEASON</field>
+	<field name = "titulo">MIDMISSISSIPPI RIVER OPENS TODAY FOR SEASON</field>
 	<field name = "DATELINE">CHICAGO, March 6 -</field>
-	<field name = "BODY">The Mississippi River is now open for
+	<field name = "content">The Mississippi River is now open for
 barge traffic up to the Twin Cities in Minnesota after repairs
 were completed and the first barges moved upstream through Lock
 and Dam 20 near Quincy, Ill at 0600 CST today, an Army Corps of

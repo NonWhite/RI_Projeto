@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 23:03:04.28</field>
-	<field name = "UNKNOWN">RM C G L M T
-f2762reute
-u f BC-REUTER-WORLD-NEWS-HIG   04-07 0182</field>
-	<field name = "TITLE">REUTER WORLD NEWS HIGHLIGHTS 0300 GMT - APRIL 8</field>
+	<field name = "titulo">REUTER WORLD NEWS HIGHLIGHTS 0300 GMT - APRIL 8</field>
 	<field name = "DATELINE">WASHINGTON -</field>
-	<field name = "BODY">President Reagan ordered a high-level review
+	<field name = "content">President Reagan ordered a high-level review
 of U.S. Embassy security amid rising concern over a sex-and-spy
 scandal in the Moscow embassy which he said had wide
 implications. At the same time he said Soviet diplomats will

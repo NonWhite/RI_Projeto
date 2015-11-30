@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-APR-1987 10:45:47.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1306reute
-r f BC-NCR-NCR>-SLASHES-PRI   04-27 0110</field>
-	<field name = "TITLE">NCR NCR> SLASHES PRICES ON PERSONAL COMPUTERS</field>
+	<field name = "titulo">NCR NCR> SLASHES PRICES ON PERSONAL COMPUTERS</field>
 	<field name = "DATELINE">DAYTON, Ohio, April 27 -</field>
-	<field name = "BODY">NCR Corp said it cut prices on its
+	<field name = "content">NCR Corp said it cut prices on its
 personal computers, the 80286-based PC8 and 8088-based PC6
 models, by 10 pct to 21 pct effective immediately, to maintain
 a competitive position on pricing.

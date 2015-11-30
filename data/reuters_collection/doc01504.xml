@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 10:52:15.38</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0489reute
-r f BC-omnibus-computer   03-04 0059</field>
-	<field name = "TITLE">OMNIBUS COMPUTER IN DEFAULT ON LINE OF CREDIT</field>
+	<field name = "titulo">OMNIBUS COMPUTER IN DEFAULT ON LINE OF CREDIT</field>
 	<field name = "DATELINE">TORONTO, March 4 -</field>
-	<field name = "BODY">Omnibus Computer Graphics Inc> said it
+	<field name = "content">Omnibus Computer Graphics Inc> said it
 is in default of certain credit provisions of its line of
 credit with its Canadian banker, resulting from a working
 capital beficit of eight mln dlrs.

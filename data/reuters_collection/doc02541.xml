@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 18:36:56.08</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f0123reute
-r f AM-BRAZIL-SEAMEN 1STLD-(WRITETHROUGH)  03-05 0125</field>
-	<field name = "TITLE">TALKS FAIL TO END BRAZILIAN SEAMEN'S STRIKE</field>
+	<field name = "titulo">TALKS FAIL TO END BRAZILIAN SEAMEN'S STRIKE</field>
 	<field name = "DATELINE">SAO PAULO, Brazil, March 5 -</field>
-	<field name = "BODY">Pay talks aimed at ending a
+	<field name = "content">Pay talks aimed at ending a
 week-old national seamen's strike collapsed today and the
 strike will continue, a union official said.
     The walkout by Brazil's 40,000 seamen has idled 160 ships

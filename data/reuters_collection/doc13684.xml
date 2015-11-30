@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:07:17.86</field>
-	<field name = "UNKNOWN">L
-f0704reute
-u f BC-SIOUX-FALLS-CATTLE-SE   04-07 0040</field>
-	<field name = "TITLE">SIOUX FALLS CATTLE SEEN UP 0.50 DLR - PRIVATE</field>
+	<field name = "titulo">SIOUX FALLS CATTLE SEEN UP 0.50 DLR - PRIVATE</field>
 	<field name = "DATELINE">Sioux Falls, April 7 - Clear/calm/43 degrees -</field>
-	<field name = "BODY">Cattle
+	<field name = "content">Cattle
 prices are expected 0.50 dlr higher on estimated receipts of
 1,200 head, private sources said. Steer top 67.50 and Heifers
 at 66.00 dlrs.

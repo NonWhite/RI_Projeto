@@ -5,12 +5,9 @@
 	<field name = "PLACES">bahrain</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">Y 
-f3386reute
-r f PM-GULF   10-20 0109</field>
-	<field name = "TITLE">CONVOY RUNS GULF GAUNTLET, OTHER SHIPS STAY CLEAR</field>
+	<field name = "titulo">CONVOY RUNS GULF GAUNTLET, OTHER SHIPS STAY CLEAR</field>
 	<field name = "DATELINE">BAHRAIN, Oct 20 -</field>
-	<field name = "BODY">A new convoy of tankers escorted by
+	<field name = "content">A new convoy of tankers escorted by
 American warships headed down the Gulf on Wednesday, towards
 Iranian oil platforms still oozing smoke after having being
 blasted by U.S. Navy raiders.

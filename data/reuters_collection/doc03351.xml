@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0675reute
-u f AM-COMMUNITY-ECONOMY   03-09 0107</field>
-	<field name = "TITLE">MINISTERS FEEL EC FORECASTS TOO PESSIMISTIC</field>
+	<field name = "titulo">MINISTERS FEEL EC FORECASTS TOO PESSIMISTIC</field>
 	<field name = "DATELINE">BRUSSELS, March 9 -</field>
-	<field name = "BODY">European Community finance ministers
+	<field name = "content">European Community finance ministers
 discussed the economic outlook for the 12-nation bloc and many
 said a recent gloomy forecast by the EC Commission was too
 pessimistic.

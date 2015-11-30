@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 13:29:38.37</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2012reute
-u f BC-CRUDE-OIL-NETBACKS-UP   03-30 0104</field>
-	<field name = "TITLE">CRUDE OIL NETBACKS UP IN U.S., MEDITERRANEAN</field>
+	<field name = "titulo">CRUDE OIL NETBACKS UP IN U.S., MEDITERRANEAN</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">Crude oil netback values in complex
+	<field name = "content">Crude oil netback values in complex
 refineries rose slightly in the U.S. and the Mediterranean 
 last Friday from the previous week but were lower elsewhere,
 according to calculations by Reuters Pipeline.

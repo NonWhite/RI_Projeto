@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:41:10.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1653reute
-d f BC-WANG-WAN>-ANNOUNCES   10-19 0104</field>
-	<field name = "TITLE">WANG WAN> ANNOUNCES FOUR COMPUTERS</field>
+	<field name = "titulo">WANG WAN> ANNOUNCES FOUR COMPUTERS</field>
 	<field name = "DATELINE">BOSTON, Oct 19 -</field>
-	<field name = "BODY">Wang Laboratories Inc announced four
+	<field name = "content">Wang Laboratories Inc announced four
 additions to its VS line of minicomputers which it said will
 offer double the capacity of the older models they replace.
     Company officials told a news conference that Wang will

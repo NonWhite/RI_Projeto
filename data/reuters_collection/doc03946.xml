@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 16:22:42.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0595reute
-r f BC-GIANT-FOOD-GFS-A>-RE   03-11 0042</field>
-	<field name = "TITLE">GIANT FOOD GFS A> RECORDS 10.4 PCT SALES HIKE</field>
+	<field name = "titulo">GIANT FOOD GFS A> RECORDS 10.4 PCT SALES HIKE</field>
 	<field name = "DATELINE">WASHINGTON, D.C., March 11 -</field>
-	<field name = "BODY">Giant Food Inc reported sales
+	<field name = "content">Giant Food Inc reported sales
 on a 52-week basis ended last month increased 10.4 pct to  2.48
 billion dlrs, compared to 2.25 billion dlrs for the prior
 52-week period.

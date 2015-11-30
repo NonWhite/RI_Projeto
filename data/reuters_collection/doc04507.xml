@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:10:34.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0440reute
-u f BC-WHITE-HOUSE-DETAILS-C   03-12 0094</field>
-	<field name = "TITLE">WHITE HOUSE DETAILS CREDIT REFORM LEGISLATION</field>
+	<field name = "titulo">WHITE HOUSE DETAILS CREDIT REFORM LEGISLATION</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">The Reagan Administration sent to
+	<field name = "content">The Reagan Administration sent to
 Congress proposed legislation that would require Congress to
 reflect the cost of federal loan subsidies in the government's
 budget.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:03:28.56</field>
-	<field name = "UNKNOWN">A
-f0524reute
-u f BC--U.S.-CREDIT-MARKET-O   04-07 0105</field>
-	<field name = "TITLE">U.S. CREDIT MARKET OUTLOOK - NARROW RANGES</field>
+	<field name = "titulo">U.S. CREDIT MARKET OUTLOOK - NARROW RANGES</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">After a few days of volatility, the
+	<field name = "content">After a few days of volatility, the
 credit markets show signs of settling back into the
 frustratingly narrow ranges that prevailed for much of the
 first quarter, economists said.

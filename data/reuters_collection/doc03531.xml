@@ -5,12 +5,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0662reute
-r f BC-JAPAN-CANNOT-BEAR-FUR   03-11 0109</field>
-	<field name = "TITLE">JAPAN CANNOT BEAR FURTHER YEN RISE, MINISTER SAYS</field>
+	<field name = "titulo">JAPAN CANNOT BEAR FURTHER YEN RISE, MINISTER SAYS</field>
 	<field name = "DATELINE">TOKYO, March 11 -</field>
-	<field name = "BODY">Japan cannot bear a further rise of the
+	<field name = "content">Japan cannot bear a further rise of the
 yen, Foreign Minister Tadashi Kuranari said.
     "A further stronger yen would be a misfortune for Japan and
 the Japanese people would not be able to bear such a burden," he

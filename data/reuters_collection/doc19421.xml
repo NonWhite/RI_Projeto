@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 16:18:10.67</field>
 	<field name = "TOPICS">earn</field>
-	<field name = "UNKNOWN">F 
-f2304reute
-d f BC-AEL-INDUSTRIES-INC-A   06-19 0036</field>
-	<field name = "TITLE">AEL INDUSTRIES INC AELNA.O> FIRST QTR NET</field>
+	<field name = "titulo">AEL INDUSTRIES INC AELNA.O> FIRST QTR NET</field>
 	<field name = "DATELINE">LANSDALE, Pa., June 19 -</field>
-	<field name = "BODY">Shr 10 cts vs four cts
+	<field name = "content">Shr 10 cts vs four cts
     Net 419,000 dlrs vs 196,000 dlrs
     Revs 27.3 mln dlrs vs 25.9 mln dlrs
     Note:the first quarter ended May 29

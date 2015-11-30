@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 16:45:52.97</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0510reute
-r f BC-ZONDERVAN-CORP-ZOND>   03-13 0051</field>
-	<field name = "TITLE">ZONDERVAN CORP ZOND> 4TH QTR NET</field>
+	<field name = "titulo">ZONDERVAN CORP ZOND> 4TH QTR NET</field>
 	<field name = "DATELINE">GRAND RAPIDS, Mich., March 13 -</field>
-	<field name = "BODY">Shr profit nil vs profit 38 cts
+	<field name = "content">Shr profit nil vs profit 38 cts
     Net profit 19,000 vs profit 1,239,000
     Revs 31.7 mln vs 31.2 mln
     12 mths

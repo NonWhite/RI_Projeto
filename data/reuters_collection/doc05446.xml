@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 11:52:46.42</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f2605reute
-u f BC-BELGIUM-REVISES-DOWN   03-16 0110</field>
-	<field name = "TITLE">BELGIUM REVISES DOWN 1987 GNP GROWTH FORECASTS</field>
+	<field name = "titulo">BELGIUM REVISES DOWN 1987 GNP GROWTH FORECASTS</field>
 	<field name = "DATELINE">BRUSSELS, March 16 -</field>
-	<field name = "BODY">The Belgian government has lowered its
+	<field name = "content">The Belgian government has lowered its
 forecast for the nominal increase in gross national product in
 1987 to 3.5 pct from an originally forecast 3.9 pct, Prime
 Minister Wilfried Martens said in a statement to parliament.

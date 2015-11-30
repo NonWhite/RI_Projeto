@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:04:34.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1843reute
-w f BC-NEW-JERSEY-HOSPITAL-A   04-08 0046</field>
-	<field name = "TITLE">NEW JERSEY HOSPITAL ASSOCIATION SYMPOSIUM</field>
+	<field name = "titulo">NEW JERSEY HOSPITAL ASSOCIATION SYMPOSIUM</field>
 	<field name = "DATELINE">PRINCETON, April 8 -</field>
-	<field name = "BODY">The New Jersey Hospital Association
+	<field name = "content">The New Jersey Hospital Association
 said it will hold a symposium on the quality of hospital care
 on Friday, April 10.
     Thirty-eight health-care executives from 18 nations will be

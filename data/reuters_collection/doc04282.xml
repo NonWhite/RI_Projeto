@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 11:20:03.00</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0405reute
-u f BC-SWISS-REGIONAL-BANKS   03-12 0080</field>
-	<field name = "TITLE">SWISS REGIONAL BANKS SET TWO BONDS</field>
+	<field name = "titulo">SWISS REGIONAL BANKS SET TWO BONDS</field>
 	<field name = "DATELINE">ZURICH, March 12 -</field>
-	<field name = "BODY">The Issuing Centre of the Swiss Regional
+	<field name = "content">The Issuing Centre of the Swiss Regional
 Banks said it is launching two bond issues of 90 mln and 58 mln
 Swiss francs.
     The 90 mln franc 1987/95 issue has a coupon of 4-1/2 pct

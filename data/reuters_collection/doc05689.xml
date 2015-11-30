@@ -2,13 +2,10 @@
 	<field name = "DATE">16-MAR-1987 16:30:41.69</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3608reute
-u f BC-SCHLUMBERGER-SLB>-MA   03-16 0101</field>
-	<field name = "TITLE">SCHLUMBERGER SLB> MAY HAVE ALTERNATE BUYER</field>
+	<field name = "titulo">SCHLUMBERGER SLB> MAY HAVE ALTERNATE BUYER</field>
 	<field name = "AUTHOR">By Lawrence Edelman, Reuters</field>
 	<field name = "DATELINE">New York, March 16 -</field>
-	<field name = "BODY">Schlumberger Ltd most likely has an
+	<field name = "content">Schlumberger Ltd most likely has an
 alternate buyer lined up for its Fairchild Semiconductor unit,
 Wall Street analysts said.
     "I think its clear that in cancelling its agreement with

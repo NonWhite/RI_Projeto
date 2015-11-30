@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 16:24:06.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2594reute
-r f BC-CENTRAL-PENNSYLVANIA   06-02 0096</field>
-	<field name = "TITLE">CENTRAL PENNSYLVANIA CPSA.O> ADJUSTS RESULTS</field>
+	<field name = "titulo">CENTRAL PENNSYLVANIA CPSA.O> ADJUSTS RESULTS</field>
 	<field name = "DATELINE">SHAMOKIN, Pa., June 2 -</field>
-	<field name = "BODY">Central Pennsylvania Financial Corp
+	<field name = "content">Central Pennsylvania Financial Corp
 said its earnings for the year ended March 31 have been
 adjusted downward by 126,000 dlrs to 3,005,000 dlrs.
     The company said the adjustment is due to today's Federal

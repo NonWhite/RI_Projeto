@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 14:33:33.18</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2097reute
-u f BC-COMPUTERLAND-TO-BE-AC   06-01 0079</field>
-	<field name = "TITLE">COMPUTERLAND TO BE ACQUIRED BY INVESTOR GROUP</field>
+	<field name = "titulo">COMPUTERLAND TO BE ACQUIRED BY INVESTOR GROUP</field>
 	<field name = "DATELINE">OAKLAND, Calif., June 1 -</field>
-	<field name = "BODY">Computerland Corp said an
+	<field name = "content">Computerland Corp said an
 investor group led by the financial services firm E.M. Warburg
 Pincus and Co Inc has agreed to acquire Computerland's
 business.

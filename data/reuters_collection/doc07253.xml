@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 12:44:29.82</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f1690reute
-u f BC-FRENCH-MINISTER-RENEW   03-19 0096</field>
-	<field name = "TITLE">FRENCH MINISTER RENEWS ECONOMIC CONTROVERSY</field>
+	<field name = "titulo">FRENCH MINISTER RENEWS ECONOMIC CONTROVERSY</field>
 	<field name = "AUTHOR">By Leyla Ertugrul, Reuters</field>
 	<field name = "DATELINE">PARIS, March 19 -</field>
-	<field name = "BODY">French Social Affairs and Labour Minister
+	<field name = "content">French Social Affairs and Labour Minister
 Philippe Seguin has renewed a controversy over whether France
 is positioning itself for an economic U-turn, saying it was
 possible to boost domestic demand without giving rise to

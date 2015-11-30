@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 17:35:06.68</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F A RM
-f2743reute
-r f BC-EC-WARNS-AGAINST-PASS   04-09 0111</field>
-	<field name = "TITLE">EC WARNS AGAINST PASSAGE OF TEXTILE BILL</field>
+	<field name = "titulo">EC WARNS AGAINST PASSAGE OF TEXTILE BILL</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The European Community has told
+	<field name = "content">The European Community has told
 Congress that if textile legislation injuring EC interests is
 approved, there was no doubt the community would retaliate
 against U.S. exports.

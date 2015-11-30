@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 14:22:01.25</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F 
-f2675reute
-b f BC-BEAR-STEARNS-BUYS-SPE   10-20 0085</field>
-	<field name = "TITLE">BEAR STEARNS BUYS SPECIALIST BOOK ON AMEX</field>
+	<field name = "titulo">BEAR STEARNS BUYS SPECIALIST BOOK ON AMEX</field>
 	<field name = "DATELINE">NEW YORK, Oct. 20 -</field>
-	<field name = "BODY">Bear Stearns and Co said it bought a
+	<field name = "content">Bear Stearns and Co said it bought a
 specialist book yesterday on the American Stock Exchange but
 would not disclose the name or the price.
     "It deals in stocks and options and it just demonstrates

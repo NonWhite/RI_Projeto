@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 09:25:12.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1975reute
-r f BC-UNION-GETS-ORDER-AGAI   03-16 0107</field>
-	<field name = "TITLE">UNION GETS ORDER AGAINST TRANS WORLD TWA></field>
+	<field name = "titulo">UNION GETS ORDER AGAINST TRANS WORLD TWA></field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">The Independent Federation of Flight
+	<field name = "content">The Independent Federation of Flight
 Attendants said U.S. District Judge Howard F. Sachs entered a
 temporary restraining order prohibiting Trans World Airlines
 Inc from refusing to recognize and deal with the union.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">RM
-f0166reute
-u f BC-BANGLADESH-PAYMENTS-D   04-27 0081</field>
-	<field name = "TITLE">BANGLADESH PAYMENTS DEFICIT NARROWS IN NOVEMBER</field>
+	<field name = "titulo">BANGLADESH PAYMENTS DEFICIT NARROWS IN NOVEMBER</field>
 	<field name = "DATELINE">DHAKA, April 27 -</field>
-	<field name = "BODY">Bangladesh's overall balance of payments
+	<field name = "content">Bangladesh's overall balance of payments
 deficit narrowed to 3.03 mln U.S. Dlrs in November from 8.3 mln
 in October and 22.63 mln in November 1985, Central Bank
 officials said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 18:40:42.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2736reute
-b f BC-CONFERENCE-BOARD-FIND   06-01 0109</field>
-	<field name = "TITLE">CONFERENCE BOARD FINDS US BUSINESS CONFIDENCE UP</field>
+	<field name = "titulo">CONFERENCE BOARD FINDS US BUSINESS CONFIDENCE UP</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Business leaders' confidence in the U.S.
+	<field name = "content">Business leaders' confidence in the U.S.
 economy has improved slightly, but many top executives express
 concern about prospects for the second half of this year, the
 Conference Board said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 14:49:31.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0324reute
-r f BC-GENERAL-INSTRUMENT-G   03-11 0082</field>
-	<field name = "TITLE">GENERAL INSTRUMENT GRL> UNIT GETS NAVY AWARD</field>
+	<field name = "titulo">GENERAL INSTRUMENT GRL> UNIT GETS NAVY AWARD</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">General Instrument Corp's government
+	<field name = "content">General Instrument Corp's government
 systems division said it received a 35.9 mln dlr contract from
 the Naval Air Command Systems.
     The company said the contract calls for continued

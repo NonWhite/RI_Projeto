@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 16:58:18.84</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f3690reute
-r f BC-vulcan-packaging   03-16 0053</field>
-	<field name = "TITLE">VULCAN PACKAGING VIPLF> SETS ISSUER BID</field>
+	<field name = "titulo">VULCAN PACKAGING VIPLF> SETS ISSUER BID</field>
 	<field name = "DATELINE">TORONTO, March 16 -</field>
-	<field name = "BODY">Vulcan Packaging Inc said it received
+	<field name = "content">Vulcan Packaging Inc said it received
 regulatory approval for a normal course issuer bid, allowing
 the company to acquire for cancellation up to five pct of
 outstanding common shares on the Toronto Stock Exchange between

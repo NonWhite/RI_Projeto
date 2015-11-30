@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 08:58:22.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0942reute
-d f BC-TECHNOLOGY/NEW-ERA-FO   03-09 0109</field>
-	<field name = "TITLE">TECHNOLOGY/NEW ERA FOR INFORMATION HANDLING</field>
+	<field name = "titulo">TECHNOLOGY/NEW ERA FOR INFORMATION HANDLING</field>
 	<field name = "AUTHOR">By Lawrence Edelman, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Ground-breaking new systems for storing
+	<field name = "content">Ground-breaking new systems for storing
 and retrieving information are ushering in a new era for
 computer companies and computer users.
     Within the past few weeks, International Business Machines

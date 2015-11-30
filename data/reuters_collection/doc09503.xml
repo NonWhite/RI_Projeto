@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 14:19:23.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2029reute
-r f BC-RAYTHEON-RTN>-DIRECT   03-25 0053</field>
-	<field name = "TITLE">RAYTHEON RTN> DIRECTOR RESIGNS</field>
+	<field name = "titulo">RAYTHEON RTN> DIRECTOR RESIGNS</field>
 	<field name = "DATELINE">LEXINGTON, Mass., March 25 -</field>
-	<field name = "BODY">Raytheon Co said D. Brainerd
+	<field name = "content">Raytheon Co said D. Brainerd
 Holmes, who retired as Raytheon president in May 1986, has
 resigned from the board effective April One.
     The company said Ferdinand Colloredo-Mansfield, chairman of

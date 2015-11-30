@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">guam</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">F
-f2639reute
-r f BC-HAWAIIAN-AIRLINES-HA   03-26 0096</field>
-	<field name = "TITLE">HAWAIIAN AIRLINES HA> TO EXPAND SERVICES</field>
+	<field name = "titulo">HAWAIIAN AIRLINES HA> TO EXPAND SERVICES</field>
 	<field name = "DATELINE">HONOLULU, March 26 -</field>
-	<field name = "BODY">Hawaiian Airlines Inc said it will
+	<field name = "content">Hawaiian Airlines Inc said it will
 continue to expand services to Pacific Islands this year.
     The company said it will increase its South Pacific
 services to daily service, from the current four flights per

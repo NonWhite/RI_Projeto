@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:22:57.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0784reute
-u f BC-GREAT-AMERICAN-FIRST   03-05 0080</field>
-	<field name = "TITLE">GREAT AMERICAN FIRST SAVINGS GTA> OFFERS NOTES</field>
+	<field name = "titulo">GREAT AMERICAN FIRST SAVINGS GTA> OFFERS NOTES</field>
 	<field name = "DATELINE">SAN DIEGO, March 5 -</field>
-	<field name = "BODY">Great American First Savings Bank said
+	<field name = "content">Great American First Savings Bank said
 it is offering collateralized Euroyen notes worth about 100 mln
 dlrs, or 15 billion yen, only to investors outside the U.S.
     The bank said the notes will be offered through a syndicate

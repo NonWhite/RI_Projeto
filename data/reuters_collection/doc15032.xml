@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">zambia</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">G C
-f1209reute
-u f BC-ZAMBIA-DOES-NOT-PLAN   04-08 0097</field>
-	<field name = "TITLE">ZAMBIA DOES NOT PLAN RETAIL MAIZE PRICE HIKE</field>
+	<field name = "titulo">ZAMBIA DOES NOT PLAN RETAIL MAIZE PRICE HIKE</field>
 	<field name = "DATELINE">LUSAKA, April 8 -</field>
-	<field name = "BODY">The Zambian government has no immediate
+	<field name = "content">The Zambian government has no immediate
 plans to follow last week's increase in the producer price of
 maize with a hike in the retail price of maize meal, an
 official of the ruling party said.

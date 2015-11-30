@@ -3,12 +3,9 @@
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f0820reute
-r f BC-BROWN-FORMAN-BFDB>-T   03-04 0089</field>
-	<field name = "TITLE">BROWN-FORMAN BFDB> TO CHANGE RECORD DATES</field>
+	<field name = "titulo">BROWN-FORMAN BFDB> TO CHANGE RECORD DATES</field>
 	<field name = "DATELINE">LOUISVILE, Ky., March 4 -</field>
-	<field name = "BODY">Brown-Forman Inc said at the
+	<field name = "content">Brown-Forman Inc said at the
 suggestion of the American Stock Exchange it has changed the
 record date for the 28 ct per share quarterly dividend on its
 Class A and Class B common stock that is payable April One to

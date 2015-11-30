@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 21:47:14.35</field>
-	<field name = "UNKNOWN">RM M
-f2730reute
-r f BC-TOKYO-GOLD-FUTURES-OP   04-07 0093</field>
-	<field name = "TITLE">TOKYO GOLD FUTURES OPEN SLIGHTLY FIRMER</field>
+	<field name = "titulo">TOKYO GOLD FUTURES OPEN SLIGHTLY FIRMER</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">Yen-denominated gold futures opened mostly
+	<field name = "content">Yen-denominated gold futures opened mostly
 firmer, with contracts unchanged to eight yen per gram higher,
 after falls yesterday, dealers said.
     Gold closed stronger and near the day's highs in New York

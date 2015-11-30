@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">29-MAR-1987 22:46:31.69</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0180reute
-u f BC-YAO-SAYS-CHINA-TO-RES   03-29 0106</field>
-	<field name = "TITLE">YAO SAYS CHINA TO RESHUFFLE LEADERSHIP BY OCTOBER</field>
+	<field name = "titulo">YAO SAYS CHINA TO RESHUFFLE LEADERSHIP BY OCTOBER</field>
 	<field name = "AUTHOR">By Stephen Nisbet, Reuters</field>
 	<field name = "DATELINE">PEKING, March 30 -</field>
-	<field name = "BODY">A top level political reshuffle
+	<field name = "content">A top level political reshuffle
 following the January removal of Communist Party chief Hu
 Yaobang will take place at a party conference later this year,
 Vice-Premier Yao Yilin said Saturday.

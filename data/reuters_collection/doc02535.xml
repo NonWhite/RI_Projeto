@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 18:30:17.59</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f0114reute
-r f BC-NYSE-MEMBERS-VOTE-TO   03-05 0089</field>
-	<field name = "TITLE">NYSE MEMBERS VOTE TO LIFT LIMIT ON PENALTIES</field>
+	<field name = "titulo">NYSE MEMBERS VOTE TO LIFT LIMIT ON PENALTIES</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">The New York Stock Exchange said its
+	<field name = "content">The New York Stock Exchange said its
 members overwhelmingly approved a rule change that elminates
 the limits on fines imposed as a result of disciplinary
 proceedings.

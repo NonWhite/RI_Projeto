@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 11:25:42.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0560reute
-u f BC-FLORIDA-NATIONAL-FNB   03-09 0115</field>
-	<field name = "TITLE">FLORIDA NATIONAL FNBF> DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">FLORIDA NATIONAL FNBF> DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 downgraded 50 mln dlrs of debt of Florida National Banks of
 Florida Inc and its lead bank, Florida National Bank.
     Moody's cut the parent's subordinated debt to Baa-1 from

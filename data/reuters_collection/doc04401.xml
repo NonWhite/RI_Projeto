@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 13:53:42.83</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0012reute
-r f BC-DATA-TAPES-ERASED-IN   03-12 0103</field>
-	<field name = "TITLE">DATA TAPES ERASED IN VW FRAUD, CHAIRMAN SAYS</field>
+	<field name = "titulo">DATA TAPES ERASED IN VW FRAUD, CHAIRMAN SAYS</field>
 	<field name = "DATELINE">FRANKFURT, March 12 -</field>
-	<field name = "BODY">Volkswagen AG VOWG.F> supervisory
+	<field name = "content">Volkswagen AG VOWG.F> supervisory
 board chairman Karl Gustaf Ratjen said entire data tapes had
 been erased and complete programs altered in forged
 transactions amounting to around 480 mln marks.

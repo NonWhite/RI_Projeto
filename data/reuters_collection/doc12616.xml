@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 11:38:47.13</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V A
-f1527reute
-u f BC-/U.S.-REGULATORS-DOWN   04-02 0106</field>
-	<field name = "TITLE">U.S. REGULATORS DOWNGRADE BRAZIL TO SUBSTANDARD</field>
+	<field name = "titulo">U.S. REGULATORS DOWNGRADE BRAZIL TO SUBSTANDARD</field>
 	<field name = "DATELINE">NEW YORK, April 2 -</field>
-	<field name = "BODY">In a fresh sign of the strains caused
+	<field name = "content">In a fresh sign of the strains caused
 by Brazil's suspension of interest payments on its medium-and
 long-term debt, U.S. bank regulators have lowered their rating
 of the country's creditworthiness to "substandard," bankers

@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 22:22:02.97</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0476
-reute
-u f BC-JAPAN-EXPECTED-TO-CUT   02-26 0098</field>
-	<field name = "TITLE">JAPAN EXPECTED TO CUT BASE RATE FOR STATE BODIES</field>
+	<field name = "titulo">JAPAN EXPECTED TO CUT BASE RATE FOR STATE BODIES</field>
 	<field name = "DATELINE">TOKYO, Feb 27 -</field>
-	<field name = "BODY">Japan is expected to cut the base lending
+	<field name = "content">Japan is expected to cut the base lending
 rate for state financial institutions to 5.5 pct from 6.2 as
 part of the recent pact by major industrial nations in Paris,
 Finance Ministry sources said.

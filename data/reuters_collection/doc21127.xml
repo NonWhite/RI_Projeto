@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">V RM 
-f2437reute
-b f BC-/FED'S-JOHNSON-SAYS-L   10-19 0090</field>
-	<field name = "TITLE">FED'S JOHNSON SAYS LOUVRE ACCORD STILL VITAL</field>
+	<field name = "titulo">FED'S JOHNSON SAYS LOUVRE ACCORD STILL VITAL</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">Federal Reserve Board Vice Chairman
+	<field name = "content">Federal Reserve Board Vice Chairman
 Manuel Johnson said the Louvre Accord is still healthy, but
 said the United States and West Germany must work out
 differences over their respective roles in fulfilling the

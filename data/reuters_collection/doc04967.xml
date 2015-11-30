@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 14:23:44.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0088reute
-d f BC-PROPOSED-OFFERINGS   03-13 0091</field>
-	<field name = "TITLE">PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</field>
+	<field name = "titulo">PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">The following proposed securities
+	<field name = "content">The following proposed securities
 offerings were filed recently with the Securities and Exchange
 Commission:
     Essex Chemical Corp ESX> - Offering of 60 mln dlrs of

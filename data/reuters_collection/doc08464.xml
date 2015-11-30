@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 15:05:45.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2158reute
-d f BC-DOMINION-D>-AND-CSX   03-23 0104</field>
-	<field name = "TITLE">DOMINION D> AND CSX CSX> IN JOINT VENTURE</field>
+	<field name = "titulo">DOMINION D> AND CSX CSX> IN JOINT VENTURE</field>
 	<field name = "DATELINE">RICHMOND, Va., March 23 -</field>
-	<field name = "BODY">Dominion Resources Inc said it
+	<field name = "content">Dominion Resources Inc said it
 will establish a joint venture with CSX Corp's CSX
 Transportation Inc to develop electric power cogeneration
 projects.

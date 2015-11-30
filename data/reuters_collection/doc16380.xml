@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:43:44.30</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f1502reute
-w f BC-PRIMARY-GILTS-DEALERS   04-13 0089</field>
-	<field name = "TITLE">PRIMARY GILTS DEALERS NEED NOT BUY AT AUCTIONS</field>
+	<field name = "titulo">PRIMARY GILTS DEALERS NEED NOT BUY AT AUCTIONS</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">Primary dealers in U.K. Government gilts
+	<field name = "content">Primary dealers in U.K. Government gilts
 will not be required to underwrite the government's offering of
 its securities when the first auctions begin in Mid-May, the
 Bank of England said.

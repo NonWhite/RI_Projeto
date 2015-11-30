@@ -4,13 +4,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F RM
-f0468reute
-r f BC-NEW-BANK-RULES-TOUGHE   03-04 0101</field>
-	<field name = "TITLE">NEW BANK RULES TOUGHER THAN NEEDED, DEALERS SAY</field>
+	<field name = "titulo">NEW BANK RULES TOUGHER THAN NEEDED, DEALERS SAY</field>
 	<field name = "AUTHOR">By Norma Cohen, Reuters</field>
 	<field name = "DATELINE">LONDON, March 4 -</field>
-	<field name = "BODY">U.S. and U.K. bank regulators are asking
+	<field name = "content">U.S. and U.K. bank regulators are asking
 banks to set aside more reserves than is necessary to cushion
 them against the risks posed by the interest rate and currency
 swap transactions they carry, swap dealers said.

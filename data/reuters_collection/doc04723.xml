@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 08:04:21.28</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0577reute
-u f BC-AIRBUS-FACES-A340-DEC   03-13 0109</field>
-	<field name = "TITLE">AIRBUS FACES A340 DECISION AS DEADLINE LOOMS</field>
+	<field name = "titulo">AIRBUS FACES A340 DECISION AS DEADLINE LOOMS</field>
 	<field name = "AUTHOR">By Guy Collins, Reuters</field>
 	<field name = "DATELINE">TOULOUSE, FRANCE, March 13 -</field>
-	<field name = "BODY">The supervisory board of the
+	<field name = "content">The supervisory board of the
 European consortium, Airbus Industrie>, has begun a critical
 meeting to review government funding and airline orders for its
 proposed A340 long range jet, Airbus officials here said.

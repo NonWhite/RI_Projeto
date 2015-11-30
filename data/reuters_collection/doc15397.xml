@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 05:56:17.51</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0315reute
-u f BC-MITSUBISHI-TO-ISSUE-T   04-09 0114</field>
-	<field name = "TITLE">MITSUBISHI TO ISSUE TWO CONVERTIBLE BONDS</field>
+	<field name = "titulo">MITSUBISHI TO ISSUE TWO CONVERTIBLE BONDS</field>
 	<field name = "DATELINE">TOKYO, April 9 -</field>
-	<field name = "BODY">Mitsubishi Corp MITT.T> said it will
+	<field name = "content">Mitsubishi Corp MITT.T> said it will
 issue a 50 billion yen unsecured seven-year convertible bond
 and a 30 billion yen unsecured nine-year convertible bond on
 the domestic capital market through public placement with Nikko

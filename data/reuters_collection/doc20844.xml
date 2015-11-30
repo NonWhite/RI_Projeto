@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 20:06:39.13</field>
 	<field name = "PLACES">chile</field>
-	<field name = "UNKNOWN">RM 
-f3642reute
-u f PM-CHILE   10-20 0084</field>
-	<field name = "TITLE">CHILE MILITARY MOVES TO SHACKLE MARXIST LEFT</field>
+	<field name = "titulo">CHILE MILITARY MOVES TO SHACKLE MARXIST LEFT</field>
 	<field name = "DATELINE">SANTIAGO, Oct 20 -</field>
-	<field name = "BODY">Chile's military rulers imposed a range
+	<field name = "content">Chile's military rulers imposed a range
 of punishments, ranging from fines to loss of political and
 civil rights, for those convicted of belonging to banned
 Marxist parties.

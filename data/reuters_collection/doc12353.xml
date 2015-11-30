@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 17:24:19.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2597reute
-u f BC-BANGOR-HYDRO-ELECTRIC   04-01 0089</field>
-	<field name = "TITLE">BANGOR HYDRO-ELECTRIC BANG> GETS APPROVAL</field>
+	<field name = "titulo">BANGOR HYDRO-ELECTRIC BANG> GETS APPROVAL</field>
 	<field name = "DATELINE">BANGOR, Maine, April 1 -</field>
-	<field name = "BODY">Bangor Hydro-Electric Co said the
+	<field name = "content">Bangor Hydro-Electric Co said the
 Maine PUblic Utilities Commission approved changes in rates
 effective today that will decrease revenues by about 412,000
 dlrs or 0.5 pct.

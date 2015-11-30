@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 14:44:10.61</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2125reute
-u f BC-FMC-FMC>-TO-SELL-STA   04-24 0106</field>
-	<field name = "TITLE">FMC FMC> TO SELL STAKE IN GOLD PROPERTIES</field>
+	<field name = "titulo">FMC FMC> TO SELL STAKE IN GOLD PROPERTIES</field>
 	<field name = "DATELINE">CHICAGO, April 24 -</field>
-	<field name = "BODY">FMC Corp said it will consider selling
+	<field name = "content">FMC Corp said it will consider selling
 to the public a minority interest in a subsidiary that will
 hold the company's North American gold and precious metals
 properties and operations.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 16:14:39.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2390reute
-d f BC-BUDGET-RENT-A-CAR-TO   03-19 0073</field>
-	<field name = "TITLE">BUDGET RENT A CAR TO FILE INITIAL OFFERING</field>
+	<field name = "titulo">BUDGET RENT A CAR TO FILE INITIAL OFFERING</field>
 	<field name = "DATELINE">CHICAGO, March 19 -</field>
-	<field name = "BODY">Budget Rent a Car Corp said it intends
+	<field name = "content">Budget Rent a Car Corp said it intends
 to file a registration for an initial public offering of common
 shares.
     It said the offering would solely be comprised of new stock

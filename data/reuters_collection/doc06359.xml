@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 05:01:38.07</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM F
-f7233reute
-u f BC-FRN-TRADING-SEEN-RETU   03-18 0113</field>
-	<field name = "TITLE">FRN TRADING SEEN RETURNING TO MORE NORMAL PATTERNS</field>
+	<field name = "titulo">FRN TRADING SEEN RETURNING TO MORE NORMAL PATTERNS</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">Conditions on the floating rate note
+	<field name = "content">Conditions on the floating rate note
 market appeared to be returning gradually to normal today with
 prices static to a little better generally, dealers said.
     The market was showing limited signs of recovery from the

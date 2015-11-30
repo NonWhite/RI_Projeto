@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 07:08:35.67</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f7410reute
-r f BC-JAPAN-TO-ADOPT-ITS-LA   03-18 0104</field>
-	<field name = "TITLE">JAPAN TO ADOPT ITS LARGEST-EVER PROVISIONAL BUDGET</field>
+	<field name = "titulo">JAPAN TO ADOPT ITS LARGEST-EVER PROVISIONAL BUDGET</field>
 	<field name = "AUTHOR">By Tsukasa Maekawa, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 18 -</field>
-	<field name = "BODY">A parliamentary boycott by opposition
+	<field name = "content">A parliamentary boycott by opposition
 members has forced the government to compile its largest-ever
 provisional budget, finance ministry officials said.
     The 7,900 billion yen budget for the first 50 days of

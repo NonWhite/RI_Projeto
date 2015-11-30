@@ -4,12 +4,9 @@
 	<field name = "PLACES">australia</field>
 	<field name = "ORGS">gatt</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM
-f0274reute
-u f BC-AUSTRALIAN-MINISTER-S   03-23 0098</field>
-	<field name = "TITLE">AUSTRALIAN MINISTER SAYS AGRICULTURE GATT PRIORITY</field>
+	<field name = "titulo">AUSTRALIAN MINISTER SAYS AGRICULTURE GATT PRIORITY</field>
 	<field name = "DATELINE">TAUPO, New Zealand, March 23 -</field>
-	<field name = "BODY">Australian Trade Minister
+	<field name = "content">Australian Trade Minister
 John Dawkins said if the General Agreement on Tariffs and Trade
 (GATT) does not give high priority to agricultural trade reform
 it will be neglecting the area of greatest crisis.

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 15:25:45.18</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2313reute
-u f BC-PAY'N-PAK-PNP>-TO-CO   04-02 0095</field>
-	<field name = "TITLE">PAY'N PAK PNP> TO CONSIDER BILZERIAN OFFER</field>
+	<field name = "titulo">PAY'N PAK PNP> TO CONSIDER BILZERIAN OFFER</field>
 	<field name = "DATELINE">KENT, Wash., April 2 -</field>
-	<field name = "BODY">Pay 'N Pak Stores, which previously
+	<field name = "content">Pay 'N Pak Stores, which previously
 announced plans to explore all alternatives for maximizing
 shareholder values, said it intends to consider investor Paul
 Bilzerian's offer for the company in due course as part of that

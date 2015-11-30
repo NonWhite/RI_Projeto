@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:52:53.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1397reute
-r f BC-BROWNING-FERRIS-BFI>   04-07 0098</field>
-	<field name = "TITLE">BROWNING-FERRIS BFI> UNIT SEEKS WASTE PERMIT</field>
+	<field name = "titulo">BROWNING-FERRIS BFI> UNIT SEEKS WASTE PERMIT</field>
 	<field name = "DATELINE">HOUSTON, April 7 -</field>
-	<field name = "BODY">Browning-Ferris Industries Inc said its
+	<field name = "content">Browning-Ferris Industries Inc said its
 subsidiary, CECOS International Inc, said it intends to seek a
 permit to install an incinerator for burning hazardous wastes
 at a site in southwest Jefferson County in Kentucky.

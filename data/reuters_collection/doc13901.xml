@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 10:28:02.92</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f1003reute
-u f BC-OUND-ADVICE-SUND>-JO   04-07 0030</field>
-	<field name = "TITLE">OUND ADVICE SUND> JOINS NASDAQ NATIONAL SYSTEM</field>
+	<field name = "titulo">OUND ADVICE SUND> JOINS NASDAQ NATIONAL SYSTEM</field>
 	<field name = "DATELINE">FORT LAUDERDALE, Fla., April 7 -</field>
-	<field name = "BODY">Sound Advice Inc said its
+	<field name = "content">Sound Advice Inc said its
 common stock has started trading on the NASDAQ National Market
 System.
  Reuter</field>

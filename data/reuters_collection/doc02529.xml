@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">mexico</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">Y
-f0090reute
-u f BC-pemex-announces-febru   03-05 0091</field>
-	<field name = "TITLE">PEMEX LOWERS FEBRUARY FAR EAST CRUDE OIL PRICES</field>
+	<field name = "titulo">PEMEX LOWERS FEBRUARY FAR EAST CRUDE OIL PRICES</field>
 	<field name = "DATELINE">MEXICO CITY, March 5 -</field>
-	<field name = "BODY">The Mexican state oil company
+	<field name = "content">The Mexican state oil company
 Petroleos Mexicanos (PEMEX) said its Far East customers would
 be charged 17.25 dlrs per barrel for Isthmus crude in February
 and 14.45 dlrs for the heavier Maya.

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 18:09:37.31</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0293
-reute
-u f BC-COMPANIES-SET-BID-FOR   02-26 0096</field>
-	<field name = "TITLE">COMPANIES SET BID FOR CANADA HELICOPTER CONTRACT</field>
+	<field name = "titulo">COMPANIES SET BID FOR CANADA HELICOPTER CONTRACT</field>
 	<field name = "DATELINE">MONTREAL, Feb 26 -</field>
-	<field name = "BODY">(E.H. Industries (Canada) Inc) said it
+	<field name = "content">(E.H. Industries (Canada) Inc) said it
 plans to bid its EH101 helicopter to replace Canada's fleet of
 Sea King aircraft. It said it is joining with (Bell Textron of
 Canada), Canadian Marconi Co (CMW), (IMP Group), and (Paramax

@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">lawson</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">F 
-f0305reute
-u f BC-LAWSON-CALLS-DEGREE-O   10-20 0114</field>
-	<field name = "TITLE">LAWSON CALLS DEGREE OF SHARE FALL ABSURD</field>
+	<field name = "titulo">LAWSON CALLS DEGREE OF SHARE FALL ABSURD</field>
 	<field name = "DATELINE">LONDON, Oct 20 -</field>
-	<field name = "BODY">U.K. Chancellor of the Exchequer Nigel
+	<field name = "content">U.K. Chancellor of the Exchequer Nigel
 Lawson said the severity of the current rout on world stock
 markets was an absurd over-reaction sparked on Wall Street by a
 spreading lack of confidence in the U.S. Economy.

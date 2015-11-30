@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 17:17:47.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2593reute
-r f BC-PENTAGON-AWARDS-176.7   06-01 0104</field>
-	<field name = "TITLE">PENTAGON AWARDS 176.7 MLN DLRS IN CONTRACTS</field>
+	<field name = "titulo">PENTAGON AWARDS 176.7 MLN DLRS IN CONTRACTS</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">The U.S. Defense Department said it
+	<field name = "content">The U.S. Defense Department said it
 has awarded contracts totaling 176.7 mln dlrs to Grumman
 Aerospace Corp GQ>, GEC Avionics Ltd, General Dynamics Corp
 GD> and Refinery Associates.

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 14:10:58.72</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1928reute
-r f BC-KING-WORLD-KWP>-HAS   06-19 0108</field>
-	<field name = "TITLE">KING WORLD KWP> HAS FINANCING FOR OFFER</field>
+	<field name = "titulo">KING WORLD KWP> HAS FINANCING FOR OFFER</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">King World Productions Inc said it will
+	<field name = "content">King World Productions Inc said it will
 finance the repurchase of up to 7,600,000 of its shares
 announced earlier today through cash on hand and about 200 mln
 dlrs of bank borrowings, for which it has received commitments

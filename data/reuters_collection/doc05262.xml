@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 07:09:58.60</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">V
-f1555reute
-b f BC-AQUINO-DISBANDS-VIGIL   03-16 0076</field>
-	<field name = "TITLE">AQUINO DISBANDS VIGILANTE GROUPS</field>
+	<field name = "titulo">AQUINO DISBANDS VIGILANTE GROUPS</field>
 	<field name = "DATELINE">MANILA, March 16 -</field>
-	<field name = "BODY">President Aquino has ordered the
+	<field name = "content">President Aquino has ordered the
 dissolution of all armed civilian vigilante groups around the
 Philippines, officials said.
     The order follows protests about the activities of

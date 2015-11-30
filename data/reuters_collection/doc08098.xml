@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">22-MAR-1987 20:01:10.69</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0110reute
-u f BC-SWISS-BANKERS-PLANNIN   03-22 0104</field>
-	<field name = "TITLE">SWISS BANKERS PLANNING COMPROMISE ON SECRECY CURBS</field>
+	<field name = "titulo">SWISS BANKERS PLANNING COMPROMISE ON SECRECY CURBS</field>
 	<field name = "AUTHOR">By Peter Conradi, Reuters</field>
 	<field name = "DATELINE">ZURICH, March 23 -</field>
-	<field name = "BODY">Bankers, concerned about official calls
+	<field name = "content">Bankers, concerned about official calls
 for curbs on Switzerland's banking secrecy, are likely to
 propose a compromise plan when they meet regulators today, the
 Bankers Federation Secretary said.

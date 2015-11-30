@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 18:54:03.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3393reute
-d f BC-GABELLI-EQUITY-GAB>   10-19 0072</field>
-	<field name = "TITLE">GABELLI EQUITY GAB> TO BUY BACK SHARES</field>
+	<field name = "titulo">GABELLI EQUITY GAB> TO BUY BACK SHARES</field>
 	<field name = "DATELINE">GREENWICH, Conn, Oct 19 -</field>
-	<field name = "BODY">Gabelli Equity Trust Inc said it
+	<field name = "content">Gabelli Equity Trust Inc said it
 intends to repurchase up to one mln shares of its common in the
 open market or in privately negotiated transactions as its
 shares are trading at a discount of more than 10 pct from net

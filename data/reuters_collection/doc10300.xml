@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 03:13:03.19F</field>
-	<field name = "UNKNOWN">f0132reute</field>
 	<field name = "PLACES">india</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-INDIA-REPORTEDLY-ALLO   03-27 0111</field>
-	<field name = "TITLE">INDIA REPORTEDLY ALLOWED TO BUY U.S. SUPERCOMPUTER</field>
+	<field name = "titulo">INDIA REPORTEDLY ALLOWED TO BUY U.S. SUPERCOMPUTER</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">The U.S. Has approved the sale of a
+	<field name = "content">The U.S. Has approved the sale of a
 U.S.-made supercomputer to India while rejecting its request
 for a more powerful model, the New York Times reported.
     India wanted to buy a powerful supercomputer, such as the

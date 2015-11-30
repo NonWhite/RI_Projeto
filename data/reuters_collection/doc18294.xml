@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 16:29:06.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2620reute
-r f BC-S/P-DOWNGRADES-ALLEGH   06-02 0101</field>
-	<field name = "TITLE">S/P DOWNGRADES ALLEGHENY INTL AG> SENIOR DEBT</field>
+	<field name = "titulo">S/P DOWNGRADES ALLEGHENY INTL AG> SENIOR DEBT</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Standard and Poor's said it downgraded
+	<field name = "content">Standard and Poor's said it downgraded
 446 mln dlrs of Allegheny International Inc's senior debt to
 CCC from B-minus and subordinated debt to CCC-minus from
 CCC-plus.

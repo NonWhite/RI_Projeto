@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 08:31:25.83</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0683reute
-d f BC-VW'S-CREDIT-BANK-SUBS   04-01 0087</field>
-	<field name = "TITLE">VW'S CREDIT BANK SUBSIDIARY OPTIMISTIC FOR 1987</field>
+	<field name = "titulo">VW'S CREDIT BANK SUBSIDIARY OPTIMISTIC FOR 1987</field>
 	<field name = "DATELINE">BRUNSWICK, West Germany, April 1 -</field>
-	<field name = "BODY">V.A.G. Kredit Bank GmbH,
+	<field name = "content">V.A.G. Kredit Bank GmbH,
 the credit bank subsidiary of Volkswagen AG VOWG.F>, said it
 was optimistic for 1987 after raising turnover and balance
 sheet total in 1986.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 07:55:53.68</field>
-	<field name = "UNKNOWN">RM
-f0784reute
-b f BC-GUNMA-BANK-ISSUES-50   03-05 0098</field>
-	<field name = "TITLE">GUNMA BANK ISSUES 50 MLN DLR CONVERTIBLE EUROBOND</field>
+	<field name = "titulo">GUNMA BANK ISSUES 50 MLN DLR CONVERTIBLE EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">The Gunma Bank Ltd is issuing a 50 mln
+	<field name = "content">The Gunma Bank Ltd is issuing a 50 mln
 dlr convertible eurobond due March 31, 2002 paying an indicated
 2-1/4 pct and priced at par, lead manager Nomura International
 Ltd said.

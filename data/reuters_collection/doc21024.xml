@@ -1,8 +1,5 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 15:07:01.53</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">V RM 
-f2752reute
-f f BC-NYSE-TRADES-MOR   10-19 0010</field>
-	<field name = "TITLE">NYSE TRADES MORE THAN 500 MLN SHARES IN RECORD VOLUME</field>
+	<field name = "titulo">NYSE TRADES MORE THAN 500 MLN SHARES IN RECORD VOLUME</field>
 </doc></add>

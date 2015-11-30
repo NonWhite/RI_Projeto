@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 10:31:10.05</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0524reute
-r f BC-MCLEAN-INDUSTRIES-MI   03-03 0082</field>
-	<field name = "TITLE">MCLEAN INDUSTRIES MII> UNIT TRANSERS SERVICE</field>
+	<field name = "titulo">MCLEAN INDUSTRIES MII> UNIT TRANSERS SERVICE</field>
 	<field name = "DATELINE">CRANFORD, N.J., March 3 -</field>
-	<field name = "BODY">McLean Industries Inc said its
+	<field name = "content">McLean Industries Inc said its
 shipping subsidiary, United States Lines Inc, reached an
 agreement in principle to transfer its South American service
 to American Transport Lines Inc, a subsidiary of Crowley

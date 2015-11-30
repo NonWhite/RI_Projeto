@@ -2,13 +2,10 @@
 	<field name = "DATE">3-MAR-1987 15:36:02.05</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F A RM
-f0733reute
-r f BC-CANADA-ECONOMY-EXPECT   03-03 0093</field>
-	<field name = "TITLE">CANADA ECONOMY EXPECTED TO GROW MODERATELY</field>
+	<field name = "titulo">CANADA ECONOMY EXPECTED TO GROW MODERATELY</field>
 	<field name = "AUTHOR">By Russell Blinch, Reuters</field>
 	<field name = "DATELINE">OTTAWA, March 3 -</field>
-	<field name = "BODY">Canadian economic growth is expected to
+	<field name = "content">Canadian economic growth is expected to
 slow further in 1987, but an improved the trade picture should
 keep the country from recession, economists said.
     "The economy is ready for about a 2.0 pct rate of growth

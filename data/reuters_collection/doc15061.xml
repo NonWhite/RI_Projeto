@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 11:18:20.11</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1372reute
-d f BC-DATA-TRANSLATION-INC   04-08 0033</field>
-	<field name = "TITLE">DATA TRANSLATION INC DATX> 1ST QTR FEB 28 NET</field>
+	<field name = "titulo">DATA TRANSLATION INC DATX> 1ST QTR FEB 28 NET</field>
 	<field name = "DATELINE">MARLBORO, Mass., April 8 -</field>
-	<field name = "BODY">Shr 18 cts vs 13 cts
+	<field name = "content">Shr 18 cts vs 13 cts
     Net 575,000 vs 379,000
     Sales 6,625,000 vs 4,537,000
     Avg shrs 3,173,000 vs 2,977,000

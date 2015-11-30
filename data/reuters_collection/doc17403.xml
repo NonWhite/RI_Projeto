@@ -2,12 +2,9 @@
 	<field name = "DATE">29-APR-1987 12:56:39.43</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f1824reute
-r f BC-AMEX-STARTS-TRADING-A   04-29 0036</field>
-	<field name = "TITLE">AMEX STARTS TRADING AMERICAN LAND CRUISERS RVR></field>
+	<field name = "titulo">AMEX STARTS TRADING AMERICAN LAND CRUISERS RVR></field>
 	<field name = "DATELINE">NEW YORK, April 29 -</field>
-	<field name = "BODY">The American Stock Exchange> said it
+	<field name = "content">The American Stock Exchange> said it
 has started trading the common stock of American Land Cruisers
 Inc, which had traded on the NASDAQ system.
  Reuter</field>

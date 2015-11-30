@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:37:46.04</field>
-	<field name = "UNKNOWN">F
-f0549
-reute
-d f BC-TECHNOLOGY   03-02 0084</field>
-	<field name = "TITLE">TECHNOLOGY/CHIP INDUSTRY SEEKS CUSTOM DESIGNS</field>
+	<field name = "titulo">TECHNOLOGY/CHIP INDUSTRY SEEKS CUSTOM DESIGNS</field>
 	<field name = "AUTHOR">By Catherine Arnst, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">U.S. semiconductor manufacturers,
+	<field name = "content">U.S. semiconductor manufacturers,
 struggling to stem a river of red ink, are increasingly looking
 toward customized designs rather than mass-market chips for
 future profits.

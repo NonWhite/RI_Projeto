@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 13:41:08.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2054reute
-r f BC-CHICAGO-PACIFIC-CPAC   06-02 0073</field>
-	<field name = "TITLE">CHICAGO PACIFIC CPAC.O> SHOWS CONFIDENCE</field>
+	<field name = "titulo">CHICAGO PACIFIC CPAC.O> SHOWS CONFIDENCE</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Chicago Pacific Corp said it could
+	<field name = "content">Chicago Pacific Corp said it could
 achieve the 1987 estimates of some analysts for a sharp
 increase in sales and in fully diluted per share earnings
 before extraordinary items in 1987.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 11:00:26.92</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F 
-f3388reute
-d f BC-HACHETTE-SEES-SHARP-P   06-18 0056</field>
-	<field name = "TITLE">HACHETTE SEES SHARP PROFIT INCREASE IN 1987</field>
+	<field name = "titulo">HACHETTE SEES SHARP PROFIT INCREASE IN 1987</field>
 	<field name = "DATELINE">PARIS, June 18 -</field>
-	<field name = "BODY">French media and publishing group Hachette
+	<field name = "content">French media and publishing group Hachette
 HACP.PA> expects a record 15 pct rise in its profits this
 year, Hachette chairman Jean-Luc Lagardere said.
     Lagardere told a news conference that Hachette's profits

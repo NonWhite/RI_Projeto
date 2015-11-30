@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 04:56:33.46</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM F
-f0275reute
-b f BC-BP-UNITS-SEEK-FIVE-BI   03-26 0115</field>
-	<field name = "TITLE">BP UNITS SEEK FIVE BILLION DLR REVOLVING CREDIT</field>
+	<field name = "titulo">BP UNITS SEEK FIVE BILLION DLR REVOLVING CREDIT</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">BP International and BP North America
+	<field name = "content">BP International and BP North America
 are seeking a five billion dlr, four year syndicated credit
 facility in support of British Petroleum Co Plc's tender offer
 for the 45 pct of Standard Oil Co it does not already own,

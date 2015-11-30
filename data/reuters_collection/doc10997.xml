@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 14:17:53.70</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2184reute
-d f BC-HOME-SHOPPING-HSN>-T   03-30 0100</field>
-	<field name = "TITLE">HOME SHOPPING HSN> TO PURCHASE TV STATION</field>
+	<field name = "titulo">HOME SHOPPING HSN> TO PURCHASE TV STATION</field>
 	<field name = "DATELINE">CLEARWATER, Fla, March 30 -</field>
-	<field name = "BODY">Home Shopping NEtwork Inc said
+	<field name = "content">Home Shopping NEtwork Inc said
 its Silver King Broadcasting Co INc unit entered a definitive
 contract to buy the broadcasting assets of TV station KWVT,
 Channel 22 in the Portland/Salem, Ore. area for undisclosed

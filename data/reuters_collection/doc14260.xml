@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 12:10:32.37</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">E F
-f1488reute
-r f BC-gandalf,-british   04-07 0055</field>
-	<field name = "TITLE">GANDALF GANDF>, BRITISH TELECOM IN AGREEMENT</field>
+	<field name = "titulo">GANDALF GANDF>, BRITISH TELECOM IN AGREEMENT</field>
 	<field name = "DATELINE">OTTAWA, April 7 -</field>
-	<field name = "BODY">Gandalf Technologies Inc said it signed a
+	<field name = "content">Gandalf Technologies Inc said it signed a
 two-year, eight mln dlr agreement with British Telecom to
 distribute British Telecom's Mezza Voicestation System in
 Canada and the United States.

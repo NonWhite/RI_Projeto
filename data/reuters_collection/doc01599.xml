@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 12:34:17.04</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0991reute
-r f BC-TWA-TWA>-GETS-LONDON   03-04 0084</field>
-	<field name = "TITLE">TWA TWA> GETS LONDON/BALTIMORE ROUTE</field>
+	<field name = "titulo">TWA TWA> GETS LONDON/BALTIMORE ROUTE</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">The Department of Transportation said
+	<field name = "content">The Department of Transportation said
 it has tentatively awarded the Baltimore to London route to
 Trans World Airlines Inc.
     The DOT issued a show cause order which give interested

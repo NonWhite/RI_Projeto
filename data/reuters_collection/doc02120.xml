@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">austria</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0456reute
-b f BC-OPEC-SAYS-FEBRUARY-OU   03-05 0113</field>
-	<field name = "TITLE">OPEC SAYS FEBRUARY OUTPUT UNDER CEILING</field>
+	<field name = "titulo">OPEC SAYS FEBRUARY OUTPUT UNDER CEILING</field>
 	<field name = "DATELINE">VIENNA, March 5 -</field>
-	<field name = "BODY">OPEC output in February was "well below"
+	<field name = "content">OPEC output in February was "well below"
 the 15.8 mln bpd ceiling it set in December and all countries
 are strictly adhering to their quotas, the OPEC news agency
 Opecna quoted an OPEC secretariat official as saying.

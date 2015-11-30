@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-APR-1987 08:53:52.96</field>
 	<field name = "PLACES">bahrain</field>
-	<field name = "UNKNOWN">RM
-f0907reute
-u f BC-INVESTCORP-SIGNS-FOR   04-27 0111</field>
-	<field name = "TITLE">INVESTCORP SIGNS FOR 75 MLN DLR CREDIT FACILITY</field>
+	<field name = "titulo">INVESTCORP SIGNS FOR 75 MLN DLR CREDIT FACILITY</field>
 	<field name = "DATELINE">BAHRAIN, April 27 -</field>
-	<field name = "BODY">Arabian Investment Banking Corp EC>
+	<field name = "content">Arabian Investment Banking Corp EC>
 (Investcorp) signed for a 75 mln dlr revolving credit facility,
 one of the lead managers Arab Banking Corp>, ABC, said.
     The facility was first mandated for 50 mln dlrs but was

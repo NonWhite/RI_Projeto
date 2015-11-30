@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 09:15:42.58</field>
 	<field name = "TOPICS">nickel</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">M
-f0790reute
-r f BC-OUTOKUMPU-TO-CLOSE-NI   03-13 0113</field>
-	<field name = "TITLE">OUTOKUMPU TO CLOSE NICKEL REFINERY DURING SUMMER</field>
+	<field name = "titulo">OUTOKUMPU TO CLOSE NICKEL REFINERY DURING SUMMER</field>
 	<field name = "DATELINE">HELSINKI, March 13 -</field>
-	<field name = "BODY">The Finnish metal and mining group
+	<field name = "content">The Finnish metal and mining group
 Outokumpu Oy said it will close its nickel refinery at
 Harjavalta in central Finland for six weeks in July and August
 this year due to current low prices on the nickel market.

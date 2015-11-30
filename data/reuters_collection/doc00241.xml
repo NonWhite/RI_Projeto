@@ -4,13 +4,9 @@
 	<field name = "PLACES">bahrain</field>
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0401
-reute
-u f BC-SAUDI-RIYAL-DEPOSIT-R   03-01 0108</field>
-	<field name = "TITLE">SAUDI RIYAL DEPOSIT RATES REMAIN FIRM</field>
+	<field name = "titulo">SAUDI RIYAL DEPOSIT RATES REMAIN FIRM</field>
 	<field name = "DATELINE">BAHRAIN, March 1 -</field>
-	<field name = "BODY">Saudi riyal interbank deposits were
+	<field name = "content">Saudi riyal interbank deposits were
 steady at yesterday's higher levels in a quiet market.
     Traders said they were reluctant to take out new positions
 amidst uncertainty over whether OPEC will succeed in halting

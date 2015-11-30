@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 12:58:32.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1753reute
-b f BC-/-FED-TO-PURCHASE-TRE   03-25 0099</field>
-	<field name = "TITLE">FED TO PURCHASE TREASURY BILLS FOR A CUSTOMER</field>
+	<field name = "titulo">FED TO PURCHASE TREASURY BILLS FOR A CUSTOMER</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">The Federal Reserve will purchase
+	<field name = "content">The Federal Reserve will purchase
 approximately one billion dlrs of U.S. Treasury bills for a
 customer after the Treasury's auction of four-year notes, a Fed
 spokesman said.

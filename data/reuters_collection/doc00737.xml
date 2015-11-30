@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 15:44:15.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0931
-reute
-d f BC-BANC-ONE-ONE>-HAS-MI   03-02 0034</field>
-	<field name = "TITLE">BANC ONE ONE> HAS MICHIGAN AFFILIATE</field>
+	<field name = "titulo">BANC ONE ONE> HAS MICHIGAN AFFILIATE</field>
 	<field name = "DATELINE">COLUMBUS, Ohio, March 2 -</field>
-	<field name = "BODY">Banc One Corp said the First
+	<field name = "content">Banc One Corp said the First
 National Bank of Fenton has become Bank One, Fenton, bringing
 the number of its affiliates to three in Michigan.
  Reuter</field>

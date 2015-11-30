@@ -1,14 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 08:47:06.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f0375
-reute
-r f BC-U.S.-CORPORATE-FINANC   03-02 0112</field>
-	<field name = "TITLE">U.S. CORPORATE FINANCE - ASSET-BACK MARKET GROWS</field>
+	<field name = "titulo">U.S. CORPORATE FINANCE - ASSET-BACK MARKET GROWS</field>
 	<field name = "AUTHOR">By John Picinich, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">The U.S. asset-backed debt securities
+	<field name = "content">The U.S. asset-backed debt securities
 market, which grew explosively last year, is broadening and
 investment bankers say 1987 could see a variety of issuers.
     "It is interesting to note that the first two asset-backed

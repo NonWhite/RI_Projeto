@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:11:38.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A 
-f1933reute
-d f BC-BEST-BUY-BBUY.O>-FIL   06-19 0074</field>
-	<field name = "TITLE">BEST BUY BBUY.O> FILES 30 MLN DLR DEBT OFFERING</field>
+	<field name = "titulo">BEST BUY BBUY.O> FILES 30 MLN DLR DEBT OFFERING</field>
 	<field name = "DATELINE">MINNEAPOLIS, June 19 -</field>
-	<field name = "BODY">Best Buy Co Inc said it filed a
+	<field name = "content">Best Buy Co Inc said it filed a
 registration statement with the Securities and Exchange
 Commission for a proposed offering of 30 mln dlrs of
 subordinated extendable notes.

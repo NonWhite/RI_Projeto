@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 09:18:12.28</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0798reute
-r f BC-IOMEGA-CORP-IOMG>-EX   03-19 0096</field>
-	<field name = "TITLE">IOMEGA CORP IOMG> EXPECTS QTR AND YEAR LOSSES</field>
+	<field name = "titulo">IOMEGA CORP IOMG> EXPECTS QTR AND YEAR LOSSES</field>
 	<field name = "DATELINE">ROY, Utah, March 19 -</field>
-	<field name = "BODY">Iomega Corp announced it expected
+	<field name = "content">Iomega Corp announced it expected
 revenues for the first quarter of 1987 to be significantly
 lower than planned and that it anticipated a loss for the
 quarter.

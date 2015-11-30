@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 09:24:56.94</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0211reute
-d f BC-BIRDSBORO-CORP>-4TH   04-17 0096</field>
-	<field name = "TITLE">BIRDSBORO CORP> 4TH QTR LOSS</field>
+	<field name = "titulo">BIRDSBORO CORP> 4TH QTR LOSS</field>
 	<field name = "DATELINE">MIAMI, April 17 -</field>
-	<field name = "BODY">Shr loss 24 cts vs loss 20 cts
+	<field name = "content">Shr loss 24 cts vs loss 20 cts
     Net loss 1,718,000 vs loss 1,483,000
     Sales 7,266,000 vs 6,490,000
     Year

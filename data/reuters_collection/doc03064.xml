@@ -10,12 +10,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">C G T M
-f0137reute
-r f BC-OECD-TRADE,-GROWTH-SE   03-09 0139</field>
-	<field name = "TITLE">OECD TRADE, GROWTH SEEN SLOWING IN 1987</field>
+	<field name = "titulo">OECD TRADE, GROWTH SEEN SLOWING IN 1987</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">The 24 nations of the Organisation for
+	<field name = "content">The 24 nations of the Organisation for
 Economic Cooperation and Development (OECD), hampered by
 sluggish industrial output and trade, face slower economic
 growth, and their joint balance of payments will swing into

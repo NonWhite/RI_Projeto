@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 17:23:08.89</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0752reute
-u f BC-HUGHES-HT>-APPROVES   03-11 0106</field>
-	<field name = "TITLE">HUGHES HT> APPROVES MERGER WITH BAKER BKO></field>
+	<field name = "titulo">HUGHES HT> APPROVES MERGER WITH BAKER BKO></field>
 	<field name = "DATELINE">HOUSTON, March 11 -</field>
-	<field name = "BODY">An overwhelming majority of Hughes Tool
+	<field name = "content">An overwhelming majority of Hughes Tool
 Co shareholders approved a merger agreement with Baker
 International Corp based on revised terms that allow the
 companies additional time to sell a drilling bit business as

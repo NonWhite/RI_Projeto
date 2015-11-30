@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 09:43:49.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0999reute
-u f BC-GENERAL-PUBLIC-UTILIT   04-02 0095</field>
-	<field name = "TITLE">GENERAL PUBLIC UTILITIESGPU> TO MAKE STATEMENT</field>
+	<field name = "titulo">GENERAL PUBLIC UTILITIESGPU> TO MAKE STATEMENT</field>
 	<field name = "DATELINE">NEW YORK, April 2 -</field>
-	<field name = "BODY">A spokesman for General Public
+	<field name = "content">A spokesman for General Public
 Utilities Corp said the company would have a statement later
 this morning.
     Trading in the company's stock was delayed at the opening

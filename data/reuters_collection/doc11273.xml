@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 08:54:23.91</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0856reute
-r f BC-ALPHA-INDUSTRIES-AHA   03-31 0073</field>
-	<field name = "TITLE">ALPHA INDUSTRIES AHA> SELLS DIVISION</field>
+	<field name = "titulo">ALPHA INDUSTRIES AHA> SELLS DIVISION</field>
 	<field name = "DATELINE">WOBURN, Mass., March 31 -</field>
-	<field name = "BODY">Alpha Industries Inc said it has
+	<field name = "content">Alpha Industries Inc said it has
 sold its Microelectronics Division to Triax Corp for
 undisclosed terms, retroactive to February One.
     It said the division has yearly revenues of about 12 mln

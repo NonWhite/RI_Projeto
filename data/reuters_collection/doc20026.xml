@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 04:19:37.24</field>
 	<field name = "PLACES">new-zealand</field>
 	<field name = "PEOPLE">douglas</field>
-	<field name = "UNKNOWN">RM 
-f0240reute
-u f BC-DOUGLAS-SAYS-N.Z.-NOT   10-20 0099</field>
-	<field name = "TITLE">DOUGLAS SAYS N.Z. NOT ISOLATED FROM WORLD MARKETS</field>
+	<field name = "titulo">DOUGLAS SAYS N.Z. NOT ISOLATED FROM WORLD MARKETS</field>
 	<field name = "DATELINE">WELLINGTON, Oct 20 -</field>
-	<field name = "BODY">Finance Minister Roger Douglas said
+	<field name = "content">Finance Minister Roger Douglas said
 the fall in share prices on local and world markets
 demonstrated that New Zealand could not be isolated from global
 trends.

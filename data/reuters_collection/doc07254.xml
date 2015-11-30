@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 12:44:45.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1691reute
-r f BC-UNION-CARBIDE-UK>-SE   03-19 0116</field>
-	<field name = "TITLE">UNION CARBIDE UK> SELLS NOTES YIELDING 9.90 PCT</field>
+	<field name = "titulo">UNION CARBIDE UK> SELLS NOTES YIELDING 9.90 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Union Carbide Corp is raising 350 mln
+	<field name = "content">Union Carbide Corp is raising 350 mln
 dlrs through an offering of senior subordinated notes due 1994
 yielding 9.90 pct, said sole manager First Boston Corp.
     The notes have a 9-3/4 pct coupon and were priced at 99.24

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 05:07:11.66</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0270reute
-u f BC-MODERATE-EARTHQUAKE-H   03-23 0084</field>
-	<field name = "TITLE">MODERATE EARTHQUAKE HITS SOUTHWEST JAPAN</field>
+	<field name = "titulo">MODERATE EARTHQUAKE HITS SOUTHWEST JAPAN</field>
 	<field name = "DATELINE">TOKYO, March 23 -</field>
-	<field name = "BODY">A moderate earthquake measuring 5.5 on
+	<field name = "content">A moderate earthquake measuring 5.5 on
 the Richter scale shook southwestern Japan but caused no
 injuries or damage, police said.
     The tremor, recorded at 1358 local time (0458), had its

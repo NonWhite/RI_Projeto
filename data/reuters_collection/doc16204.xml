@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 08:19:02.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0678reute
-r f BC-BANK-BOARD-CLOSES-ORE   04-13 0096</field>
-	<field name = "TITLE">BANK BOARD CLOSES OREGON SAVINGS ASSOCIATION</field>
+	<field name = "titulo">BANK BOARD CLOSES OREGON SAVINGS ASSOCIATION</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">The Federal Home Loan Bank Board
+	<field name = "content">The Federal Home Loan Bank Board
 said it had closed Future Savings and Loan Association of
 Albany, Ore., and transferred its insured deposits to
 Williamsburg Savings Bank of Salt Lake City, Utah.

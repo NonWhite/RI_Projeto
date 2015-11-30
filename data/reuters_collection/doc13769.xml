@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:45:20.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0818reute
-w f BC-AAR-AIR>-UNIT-SIGNS   04-07 0077</field>
-	<field name = "TITLE">AAR AIR> UNIT SIGNS SERVICE AGREEMENT</field>
+	<field name = "titulo">AAR AIR> UNIT SIGNS SERVICE AGREEMENT</field>
 	<field name = "DATELINE">ELK GROVE VILLAGE, ILL., April 7 -</field>
-	<field name = "BODY">AAR Corp said its AAR
+	<field name = "content">AAR Corp said its AAR
 Technical Service Center unit signed a major maintenance
 agreement with Continental Airlines to provide a wide range of
 support for components operated on Continental's expanding

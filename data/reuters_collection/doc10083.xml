@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 14:23:52.98</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f2185reute
-r f BC-AMERICUS-TRUST-FOR-ME   03-26 0113</field>
-	<field name = "TITLE">AMERICUS TRUST FOR MERCK MKUWI> STARTS TRADING</field>
+	<field name = "titulo">AMERICUS TRUST FOR MERCK MKUWI> STARTS TRADING</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">The American Stock Exchange said the
+	<field name = "content">The American Stock Exchange said the
 units of Americus Trust for Merck Shares and an equal number of
 prime and score components of the units, began trading today on
 a "when issued" basis.

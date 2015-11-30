@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 17:54:45.23</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">V RM
-f0832reute
-u f AM-ARMS-TEST   03-11 0112</field>
-	<field name = "TITLE">U.S. SAYS NUCLEAR TEST BLEW DEBRIS OUTSIDE USSR</field>
+	<field name = "titulo">U.S. SAYS NUCLEAR TEST BLEW DEBRIS OUTSIDE USSR</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">The United States charged that a
+	<field name = "content">The United States charged that a
 Soviet nuclear test last month blew radioactive debris outside
 the Soviet Union in violation of a test ban treaty.
     The State Department, which made the charge in a statement,

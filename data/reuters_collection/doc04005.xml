@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 18:15:09.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L M T
-f0863reute
-d f AM-AID   03-11 0106</field>
-	<field name = "TITLE">U.S. "ACTION PROGRAM" FOR SUB-SAHARAN AFRICA</field>
+	<field name = "titulo">U.S. "ACTION PROGRAM" FOR SUB-SAHARAN AFRICA</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">The Reagan administration,
+	<field name = "content">The Reagan administration,
 responding to last year's United Nations special session on
 Africa, today outlined a U.S. "action program" for sub-Saharan
 Africa focusing heavily on economic reform and self-help.

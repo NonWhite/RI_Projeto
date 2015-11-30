@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 15:18:34.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2352reute
-r f BC-U.S.-BANK-PAPER-UNDER   03-26 0109</field>
-	<field name = "TITLE">U.S. BANK PAPER UNDER LIGHT PRESSURE IN MARKET</field>
+	<field name = "titulo">U.S. BANK PAPER UNDER LIGHT PRESSURE IN MARKET</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Debt securities of major U.S. banks
+	<field name = "content">Debt securities of major U.S. banks
 came under light selling pressure in secondary trading on the
 heels of Standard and Poor's Corp's downgrade of six money
 center banks late yesterday, analysts and traders said.

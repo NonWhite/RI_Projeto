@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:45:21.69</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1186reute
-w f BC-1ST-SOURCE-SRCE>-COM   04-01 0077</field>
-	<field name = "TITLE">1ST SOURCE SRCE> COMPLETES MERGER</field>
+	<field name = "titulo">1ST SOURCE SRCE> COMPLETES MERGER</field>
 	<field name = "DATELINE">SOUTH BEND, Ind., April 1 -</field>
-	<field name = "BODY">1st Source Bank said it
+	<field name = "content">1st Source Bank said it
 completed its merger with Community State Bank> of North
 Liberty, Ind.
     The bank said Community State Bank's shareholders approved

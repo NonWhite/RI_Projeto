@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">F
-f2154reute
-d f BC-UPLAND-MINERALS-ACQUI   04-01 0115</field>
-	<field name = "TITLE">UPLAND MINERALS ACQUIRES BRAZIL MINING FIRM</field>
+	<field name = "titulo">UPLAND MINERALS ACQUIRES BRAZIL MINING FIRM</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Upland Minerals and Chemicals Corp said
+	<field name = "content">Upland Minerals and Chemicals Corp said
 it agreed to acquire Consolidated Brazilian Mines International
 Inc, a public company with one mln acres of diamond and gold
 properties in Brazil.

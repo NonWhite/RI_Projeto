@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f0228reute
-b f BC-/USDA-REPORTS-10.572   03-13 0098</field>
-	<field name = "TITLE">USDA REPORTS 10.572 MLN ACRES IN CONSERVATION</field>
+	<field name = "titulo">USDA REPORTS 10.572 MLN ACRES IN CONSERVATION</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">The U.S. Agriculture Department has
+	<field name = "content">The U.S. Agriculture Department has
 accepted 10,572,402 more acres of highly erodable cropland into
 the Conservation Reserve Program, USDA announced.
     In the latest signup, farmers on 101,020 farms submitted

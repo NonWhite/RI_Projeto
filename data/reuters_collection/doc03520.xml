@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 07:21:39.10</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">F A
-f0621reute
-d f BC-BANK-OF-CHINA-TO-JOIN   03-11 0092</field>
-	<field name = "TITLE">BANK OF CHINA TO JOIN VISA INTERNATIONAL</field>
+	<field name = "titulo">BANK OF CHINA TO JOIN VISA INTERNATIONAL</field>
 	<field name = "DATELINE">HONG KONG, March 11 -</field>
-	<field name = "BODY">The Bank of China will become a
+	<field name = "content">The Bank of China will become a
 card-issuing member of Visa International> this year, Visa's
 chief general manager for Asia, Carl Pascarella, said in a
 statement.

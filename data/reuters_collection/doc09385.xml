@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 11:50:00.26</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">A
-f1436reute
-d f BC-FIAT-MAY-ISSUE-BOND-F   03-25 0116</field>
-	<field name = "TITLE">FIAT MAY ISSUE BOND FOR LIBYAN STAKE, PAPER SAYS</field>
+	<field name = "titulo">FIAT MAY ISSUE BOND FOR LIBYAN STAKE, PAPER SAYS</field>
 	<field name = "DATELINE">FRANKFURT, March 25 -</field>
-	<field name = "BODY">Fiat Spa FIAT.MI> is considering
+	<field name = "content">Fiat Spa FIAT.MI> is considering
 issuing a eurobond of up to 384 mln dlrs, convertible or with
 warrants attached for exercise into its shares still with banks
 after the placement of the Libyan stake last autumn, the

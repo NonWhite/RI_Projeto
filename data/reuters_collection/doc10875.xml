@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f1654reute
-u f BC-/U.S.-SEES-NO-NEW-COF   03-30 0131</field>
-	<field name = "TITLE">U.S. SEES NO NEW COFFEE AGREEMENT TALKS SOON</field>
+	<field name = "titulo">U.S. SEES NO NEW COFFEE AGREEMENT TALKS SOON</field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">The United States does not expect
+	<field name = "content">The United States does not expect
 the executive board meeting of the International Coffee
 Organization, ICO, to call for a new round of negotiations on
 reinstating coffee quotas, a U.S. government official said.

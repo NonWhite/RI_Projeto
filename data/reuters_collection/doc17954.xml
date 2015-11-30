@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">C G
-f0688reute
-u f BC-SHIP-PREPARES-TO-LOAD   06-02 0065</field>
-	<field name = "TITLE">SHIP PREPARES TO LOAD WHEAT FOR FIJI AT GEELONG</field>
+	<field name = "titulo">SHIP PREPARES TO LOAD WHEAT FOR FIJI AT GEELONG</field>
 	<field name = "DATELINE">SYDNEY, June 2 -</field>
-	<field name = "BODY">The French ship Capitaine Wallis, 13,847
+	<field name = "content">The French ship Capitaine Wallis, 13,847
 dwt, berthed at the port of Geelong in Victoria today to load
 8,000 tonnes of urgently needed wheat for Fiji after Australian
 port unions partly lifted a trade embargo, shipping sources

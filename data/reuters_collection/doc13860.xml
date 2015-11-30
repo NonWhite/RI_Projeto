@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:16:19.54</field>
-	<field name = "UNKNOWN">G
-f0951reute
-r f BC-ARGENTINE-GRAIN/OILSE   04-07 0103</field>
-	<field name = "TITLE">ARGENTINE GRAIN/OILSEED EXPORT PRICES ADJUSTED</field>
+	<field name = "titulo">ARGENTINE GRAIN/OILSEED EXPORT PRICES ADJUSTED</field>
 	<field name = "DATELINE">BUENOS AIRES, April 7 -</field>
-	<field name = "BODY">The Argentine Grain Board yesterday
+	<field name = "content">The Argentine Grain Board yesterday
 adjusted minimum export prices of grain and oilseed products in
 dlrs per tonne FOB, previous in brackets, as follows:
     Maize 70 (71), linseed oil 264 (265).         

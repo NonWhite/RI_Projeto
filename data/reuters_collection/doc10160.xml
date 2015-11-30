@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:19:38.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2551reute
-d f BC-NORSTAR-NOR>-TO-COMB   03-26 0105</field>
-	<field name = "TITLE">NORSTAR NOR> TO COMBINE NEW YORK AREA BANKS</field>
+	<field name = "titulo">NORSTAR NOR> TO COMBINE NEW YORK AREA BANKS</field>
 	<field name = "DATELINE">ALBANY, N.Y., March 26 -</field>
-	<field name = "BODY">Norstar Bancorp said it is
+	<field name = "content">Norstar Bancorp said it is
 combining its banks on Long Island and New York City into one
 institution to be called Norstar Bank.
     The combined bank, with headquarters on Long Island, will

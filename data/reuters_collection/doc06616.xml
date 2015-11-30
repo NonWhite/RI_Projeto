@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 12:38:21.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8656reute
-r f BC-MEMTEK-METK>-SELLS-S   03-18 0055</field>
-	<field name = "TITLE">MEMTEK METK> SELLS SHARES PRIVATELY</field>
+	<field name = "titulo">MEMTEK METK> SELLS SHARES PRIVATELY</field>
 	<field name = "DATELINE">BILLERICA, Mass., March 18 -</field>
-	<field name = "BODY">Memtek Corp said it has sold
+	<field name = "content">Memtek Corp said it has sold
 1,500,000 shares privately through underwriter Allen and Co Inc
 for 1,275,000 dlrs.
     It said proceeds will be used to expand its development and

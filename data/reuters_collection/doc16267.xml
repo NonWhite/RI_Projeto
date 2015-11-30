@@ -4,12 +4,9 @@
 	<field name = "TOPICS">cpi</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">A
-f0953reute
-h f BC-GERMAN-INSTITUTES-WAR   04-13 0100</field>
-	<field name = "TITLE">GERMAN INSTITUTES WARN ON MONEY SUPPLY</field>
+	<field name = "titulo">GERMAN INSTITUTES WARN ON MONEY SUPPLY</field>
 	<field name = "DATELINE">BONN, April 13 -</field>
-	<field name = "BODY">Four of West Germany's five leading
+	<field name = "content">Four of West Germany's five leading
 economic research institutes warned that excessive monetary
 growth threatened a resurgence of inflation.
     But in a dissenting view the DIW institute in West Berlin,

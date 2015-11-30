@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:27:01.89</field>
-	<field name = "UNKNOWN">RM
-f0756reute
-u f BC-REUTER-WORLD-NEWS-HIG   04-07 0320</field>
-	<field name = "TITLE">REUTER WORLD NEWS HIGHLIGHTS 1300 GMT APRIL 7</field>
+	<field name = "titulo">REUTER WORLD NEWS HIGHLIGHTS 1300 GMT APRIL 7</field>
 	<field name = "DATELINE">BEIRUT -</field>
-	<field name = "BODY">Rescue workers planned to evacuate wounded from
+	<field name = "content">Rescue workers planned to evacuate wounded from
 Palestinian refugee settlements in Beirut in a bid to relieve
 the plight of the besieged community, Palestinian sources said.
     CAIRO - Egypt's opposition charged that yesterday's general

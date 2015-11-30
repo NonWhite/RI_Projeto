@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">sorghum</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0042reute
-u f BC-U.S.-CORN,-SORGHUM-PA   03-03 0119</field>
-	<field name = "TITLE">U.S. CORN, SORGHUM PAYMENTS 50-50 CASH/CERTS</field>
+	<field name = "titulo">U.S. CORN, SORGHUM PAYMENTS 50-50 CASH/CERTS</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">Eligible producers of 1986 crop U.S.
+	<field name = "content">Eligible producers of 1986 crop U.S.
 corn and sorghum will receive an estimated 600 mln dlrs in
 deficiency payments -- 50 pct in generic commodity certificates
 and 50 pct in cash, the U.S. Agriculture Department said.

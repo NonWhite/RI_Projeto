@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 10:23:55.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0164reute
-r f BC-VISHAY-INTERTECHNOLOG   03-12 0062</field>
-	<field name = "TITLE">VISHAY INTERTECHNOLOGY VSH> CLARIFIES OFFER</field>
+	<field name = "titulo">VISHAY INTERTECHNOLOGY VSH> CLARIFIES OFFER</field>
 	<field name = "DATELINE">MALVERN, Pa, March 12 -</field>
-	<field name = "BODY">Vishay Intertechnology Inc said it
+	<field name = "content">Vishay Intertechnology Inc said it
 wished to clarify its pending offer to exchange shares of its
 Class B stock for its outstanding common stock
     The company said shareholders who already have or plan to

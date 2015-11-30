@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 09:17:28.58</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0800reute
-b f BC-/CAESARS-WORLD-CAW>   03-13 0098</field>
-	<field name = "TITLE">CAESARS WORLD CAW> REJECTS SOSNOFF'S OFFER</field>
+	<field name = "titulo">CAESARS WORLD CAW> REJECTS SOSNOFF'S OFFER</field>
 	<field name = "DATELINE">LOS ANGELES, March 13 -</field>
-	<field name = "BODY">Caesars World Inc said its board
+	<field name = "content">Caesars World Inc said its board
 unanimously rejected a 28 dlr a share takeover offer by New
 York investor Martin T. Sosnoff.
     Caesars said Sosnoff's offer to by all its outstanding

@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 12:06:59.80</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1553reute
-b f BC-/FED-GOVERNOR-SUPPORT   03-24 0096</field>
-	<field name = "TITLE">FED GOVERNOR SUPPORTS COMMODITY PRICE GUIDE</field>
+	<field name = "titulo">FED GOVERNOR SUPPORTS COMMODITY PRICE GUIDE</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">Robert Heller, a member of the Board
+	<field name = "content">Robert Heller, a member of the Board
 of Governors of the Federal Reserve System, said commodity
 prices could form a useful guide for setting domestic and
 international monetary policy.

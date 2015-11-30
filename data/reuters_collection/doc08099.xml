@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0128reute
-u f BC-SANTOS-BIDS-FOR-OIL-A   03-22 0112</field>
-	<field name = "TITLE">SANTOS BIDS FOR OIL AND GAS COMPANY TMOC RESOURCES</field>
+	<field name = "titulo">SANTOS BIDS FOR OIL AND GAS COMPANY TMOC RESOURCES</field>
 	<field name = "DATELINE">ADELAIDE, March 23 -</field>
-	<field name = "BODY">Cooper Basin oil producer Santos Ltd
+	<field name = "content">Cooper Basin oil producer Santos Ltd
 STOS.S> said it will bid 4.00 dlrs a share for the 96.03 pct
 it does not already hold in diversified oil and gas company
 TMOC Resources Ltd>.

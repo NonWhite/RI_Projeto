@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">V RM
-f1623reute
-b f BC-/TREASURY'S-BAKER-SAY   03-31 0099</field>
-	<field name = "TITLE">TREASURY'S BAKER SAYS U.S. BACKS STABILITY</field>
+	<field name = "titulo">TREASURY'S BAKER SAYS U.S. BACKS STABILITY</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 the United States and the five other industrialized nations
 signing the recent Paris Accord remain committed to fostering
 the exchange rate at around current levels.

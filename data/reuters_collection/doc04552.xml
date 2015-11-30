@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:46:24.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0566reute
-d f BC-ROCHESTER-GAS-RGS>-O   03-12 0093</field>
-	<field name = "TITLE">ROCHESTER GAS RGS> OFFERED PRD SHARES</field>
+	<field name = "titulo">ROCHESTER GAS RGS> OFFERED PRD SHARES</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., March 12 -</field>
-	<field name = "BODY">Rochester Gas and Electric Corp
+	<field name = "content">Rochester Gas and Electric Corp
 said 300,000 shares of 8.25 pct preferred stock, series R, will
 be offered at 100 dlrs per share plus accrued dividends, if
 any, from the date of the original issue.

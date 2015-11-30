@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 09:52:13.08</field>
 	<field name = "PLACES">singapore</field>
 	<field name = "EXCHANGES">simex</field>
-	<field name = "UNKNOWN">C M
-f0237reute
-d f BC-SINGAPORE-TAX-PACKAGE   03-04 0145</field>
-	<field name = "TITLE">SINGAPORE TAX PACKAGE INTRODUCED TO AID ECONOMY</field>
+	<field name = "titulo">SINGAPORE TAX PACKAGE INTRODUCED TO AID ECONOMY</field>
 	<field name = "DATELINE">SINGAPORE, March 4 -</field>
-	<field name = "BODY">Singapore Finance Minister Richard Hu
+	<field name = "content">Singapore Finance Minister Richard Hu
 in his budge speech introduced a tax package he said aims at
 consolidating economic recovery.
     He imposed higher taxes on tobacco and liquor but

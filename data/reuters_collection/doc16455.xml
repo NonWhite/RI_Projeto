@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:38:05.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1773reute
-r f BC-AEQUITRON-AQTN>-WRON   04-13 0087</field>
-	<field name = "TITLE">AEQUITRON AQTN> WRONGFUL DEATH SUIT DISMISSED</field>
+	<field name = "titulo">AEQUITRON AQTN> WRONGFUL DEATH SUIT DISMISSED</field>
 	<field name = "DATELINE">MINNEAPOLIS, MINN., April 13 -</field>
-	<field name = "BODY">Aequitron Medical Inc said
+	<field name = "content">Aequitron Medical Inc said
 that a wrongful death suit in which the company was named as a
 defendant has been voluntarily dismissed with prejudice by the
 plaintiffs.

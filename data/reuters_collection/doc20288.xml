@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 11:01:11.32</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">RM V F 
-f1467reute
-b f BC-/NYSE-ASKS-FOR-NO-PRO   10-20 0089</field>
-	<field name = "TITLE">NYSE ASKS FOR NO PROGRAMS ON DELIVERY SYSTEM</field>
+	<field name = "titulo">NYSE ASKS FOR NO PROGRAMS ON DELIVERY SYSTEM</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">The New York Stock Exchange said it has
+	<field name = "content">The New York Stock Exchange said it has
 asked members and member firms to refrain from using the NYSE
 order delivery system for purposes of executing index arbitrage
 related transactions or any other aspect of program trading

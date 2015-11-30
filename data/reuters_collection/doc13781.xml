@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:50:59.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0835reute
-d f BC-INTREPID-MUSEUM-CONTI   04-07 0103</field>
-	<field name = "TITLE">INTREPID MUSEUM CONTINUES REORGANIZATION TALKS</field>
+	<field name = "titulo">INTREPID MUSEUM CONTINUES REORGANIZATION TALKS</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">The Intrepid Museum Foundation
+	<field name = "content">The Intrepid Museum Foundation
 reiterated that it is continuing negotiations with its official
 Bondholders' and creditors' committees concerning the terms of
 a Chapter 11 plan of reorganization.

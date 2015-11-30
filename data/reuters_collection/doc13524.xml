@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:16:39.06</field>
-	<field name = "UNKNOWN">C T
-f0421reute
-u f BC-PARIS-SUGAR-AROUND-LO   04-07 0100</field>
-	<field name = "TITLE">PARIS SUGAR AROUND LOWS BY MIDMORNING</field>
+	<field name = "titulo">PARIS SUGAR AROUND LOWS BY MIDMORNING</field>
 	<field name = "DATELINE">PARIS, April 7 -</field>
-	<field name = "BODY">White sugar futures were around morning
+	<field name = "content">White sugar futures were around morning
 lows in very quiet, featureless trading with the market looking
 to New York to provide impetus and perhaps an upside move,
 dealers said.

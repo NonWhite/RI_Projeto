@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">greenspan</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">F A RM
-f2040reute
-u f BC-UAW-CHIEF-DISPLEASED   06-02 0099</field>
-	<field name = "TITLE">UAW CHIEF DISPLEASED WITH GREENSPAN APPOINTMENT</field>
+	<field name = "titulo">UAW CHIEF DISPLEASED WITH GREENSPAN APPOINTMENT</field>
 	<field name = "DATELINE">DETROIT, June 2 -</field>
-	<field name = "BODY">United Automobile Workers union president
+	<field name = "content">United Automobile Workers union president
 Owen Bieber said he was pleased Paul Volcker is leaving as
 chairman of the Federal Reserve Board but not encouraged at
 Alan Greenspan's nomination to succeed him.

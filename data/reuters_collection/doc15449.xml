@@ -9,12 +9,9 @@
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">italy</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">V
-f0574reute
-u f PM-FUND ***URGENT  04-09 0120</field>
-	<field name = "TITLE">FINANCE MINISTERS AGREE ON NEED FOR STABILITY</field>
+	<field name = "titulo">FINANCE MINISTERS AGREE ON NEED FOR STABILITY</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Finance ministers from seven major
+	<field name = "content">Finance ministers from seven major
 industrialized nations agreed on the need to stabilize
 currencies at current levels but said more action was needed to
 reduce trade imbalances and sustain economic growth.

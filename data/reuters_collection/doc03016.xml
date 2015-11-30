@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f0842reute
-u f BC-BRAZILIAN-SEAFARERS'   03-09 0108</field>
-	<field name = "TITLE">BRAZILIAN SEAFARERS' STRIKE DAMAGES OIL EXPORTS</field>
+	<field name = "titulo">BRAZILIAN SEAFARERS' STRIKE DAMAGES OIL EXPORTS</field>
 	<field name = "DATELINE">SAO PAULO, March 9 -</field>
-	<field name = "BODY">A strike by Brazil's 40,000 seafarers
+	<field name = "content">A strike by Brazil's 40,000 seafarers
 who want pay rises of up to 180 pct may have cost the
 state-owned oil company Petrobras 20 mln dlrs in lost export
 orders, the company's commercial director Arthur de Carvalho

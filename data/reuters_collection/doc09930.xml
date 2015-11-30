@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 11:09:29.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1395reute
-r f BC-TIME-TL>-SINKING-FUN   03-26 0118</field>
-	<field name = "TITLE">TIME TL> SINKING FUND DEBENTURES YIELD 8.84 PCT</field>
+	<field name = "titulo">TIME TL> SINKING FUND DEBENTURES YIELD 8.84 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Time Inc is raising 250 mln dlrs via
+	<field name = "content">Time Inc is raising 250 mln dlrs via
 an offering of sinking fund debentures due 2017 yielding 8.84
 pct, said lead manager Salomon Brothers Inc.
     The debentures have an 8-3/4 pct coupon and were priced at

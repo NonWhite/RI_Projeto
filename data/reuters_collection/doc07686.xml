@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 10:18:56.36</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1006reute
-r f BC-PUBCO-PUBO>-DECLARES   03-20 0095</field>
-	<field name = "TITLE">PUBCO PUBO> DECLARES DIVIDEND RIGHT</field>
+	<field name = "titulo">PUBCO PUBO> DECLARES DIVIDEND RIGHT</field>
 	<field name = "DATELINE">CLEVELAND, March 20 -</field>
-	<field name = "BODY">Pubco Corp said its board declared a
+	<field name = "content">Pubco Corp said its board declared a
 dividend distribution of one common stock purchase right on
 each outstanding share of Pubco's common stock.
     It said each right will entitle shareholders to buy one

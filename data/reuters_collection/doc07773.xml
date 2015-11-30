@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 11:49:24.34</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1427reute
-d f BC-FINAL-TEST-INC-FNLT>   03-20 0047</field>
-	<field name = "TITLE">FINAL TEST INC FNLT> 4TH QTR LOSS</field>
+	<field name = "titulo">FINAL TEST INC FNLT> 4TH QTR LOSS</field>
 	<field name = "DATELINE">DALLAS, March 20 -</field>
-	<field name = "BODY">Shr loss six cts vs loss 88 cts
+	<field name = "content">Shr loss six cts vs loss 88 cts
     Net loss 128,141 vs loss 1,298,377
     Sales 1,332,218 vs 385,146
     Year

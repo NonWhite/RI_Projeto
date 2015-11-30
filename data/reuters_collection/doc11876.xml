@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 08:35:41.64</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0707reute
-d f BC-CAREPLUS-INC-CPLS>-4   04-01 0088</field>
-	<field name = "TITLE">CAREPLUS INC CPLS> 4TH QTR NET</field>
+	<field name = "titulo">CAREPLUS INC CPLS> 4TH QTR NET</field>
 	<field name = "DATELINE">MIAMI, April 1 -</field>
-	<field name = "BODY">Shr loss nil vs profit nil
+	<field name = "content">Shr loss nil vs profit nil
     Net loss 17,000 vs profit 31,000
     Revs 5,429,000 up 27 pct
     Year

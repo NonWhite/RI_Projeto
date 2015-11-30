@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 11:05:41.01</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1204reute
-u f BC-ICN-PHARMACEUTICAL-IN   03-20 0066</field>
-	<field name = "TITLE">ICN PHARMACEUTICAL INC ICN> 1ST QTR FEB 28 NET</field>
+	<field name = "titulo">ICN PHARMACEUTICAL INC ICN> 1ST QTR FEB 28 NET</field>
 	<field name = "DATELINE">COSTA MESA, Calif., March 20 -</field>
-	<field name = "BODY">Oper shr 14 cts vs four cts
+	<field name = "content">Oper shr 14 cts vs four cts
     Oper net 2,959,000 vs 1,103,000
     Sales 22.5 mln vs 25.2 mln
     Note: oper data does not include extraordinary gains of

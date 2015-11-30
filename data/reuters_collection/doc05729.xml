@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 17:27:26.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f3766reute
-u f BC-BANKAMERICA-BAC>-SAY   03-16 0102</field>
-	<field name = "TITLE">BANKAMERICA BAC> SAYS IT WILL MAKE DEBT OFFER</field>
+	<field name = "titulo">BANKAMERICA BAC> SAYS IT WILL MAKE DEBT OFFER</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 16 -</field>
-	<field name = "BODY">BankAmerica Corp Chairman A.W.
+	<field name = "content">BankAmerica Corp Chairman A.W.
 Clausen said the bank holding company plans to go foward with
 its one-billion-dlr debt offering, but declined to specify
 when.

@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 12:55:52.98</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1747reute
-r f BC-MEM-COM-INC-MEM>-4TH   03-23 0061</field>
-	<field name = "TITLE">MEM COM INC MEM> 4TH QTR NET</field>
+	<field name = "titulo">MEM COM INC MEM> 4TH QTR NET</field>
 	<field name = "DATELINE">NORTHVALE, N.J., March 23 -</field>
-	<field name = "BODY">Oper shr 93 cts vs 32 cts
+	<field name = "content">Oper shr 93 cts vs 32 cts
     Oper net 2,443,810 vs 847,609
     Revs 30.3 mln vs 21.0 mln
     12 mths

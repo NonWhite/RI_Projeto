@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 11:39:11.58</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f1460reute
-r f BC-SECOM-GENERAL-TO-LIST   06-01 0025</field>
-	<field name = "TITLE">SECOM GENERAL TO LIST ON NASDAQ</field>
+	<field name = "titulo">SECOM GENERAL TO LIST ON NASDAQ</field>
 	<field name = "DATELINE">CHAPEL HILL, N.C., June 1 -</field>
-	<field name = "BODY">Secom General Corp said its
+	<field name = "content">Secom General Corp said its
 common stock will be listed on the NASDAQ system tomorrow.
  Reuter</field>
 </doc></add>

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 16:57:20.19</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f2528reute
-h f BC-gulf-canada-charged-w   03-19 0088</field>
-	<field name = "TITLE">GULF CANADA GOC> CHARGED WITH WASTE DUMPING</field>
+	<field name = "titulo">GULF CANADA GOC> CHARGED WITH WASTE DUMPING</field>
 	<field name = "DATELINE">Edmonton, Alberta, March 19 -</field>
-	<field name = "BODY">The federal environment
+	<field name = "content">The federal environment
 department said it charged Gulf Canada Corp with eight counts
 of waste dumping into the Beaufort Sea.
     The dumping is alleged to have occurred September 23-30,

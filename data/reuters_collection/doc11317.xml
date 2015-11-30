@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 09:43:32.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1026reute
-d f BC-M/A-COM-MAI>-GETS-AR   03-31 0067</field>
-	<field name = "TITLE">M/A-COM MAI> GETS ARMY CONTRACT</field>
+	<field name = "titulo">M/A-COM MAI> GETS ARMY CONTRACT</field>
 	<field name = "DATELINE">BURLINGTON, Mass., March 31 -</field>
-	<field name = "BODY">M/A-Com Inc said it has
+	<field name = "content">M/A-Com Inc said it has
 received a U.S. Army contract for the production and support of
 terminals capable of receiving messages from the Defense
 Satellite Communications System.

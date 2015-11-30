@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 11:03:03.29</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1266reute
-b f BC-TIME-TL>-1987-EARNIN   04-03 0095</field>
-	<field name = "TITLE">TIME TL> 1987 EARNINGS MAY BE 4.25 DLRS SHARE</field>
+	<field name = "titulo">TIME TL> 1987 EARNINGS MAY BE 4.25 DLRS SHARE</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">Time Inc's chief financial officer,
+	<field name = "content">Time Inc's chief financial officer,
 Thayer Bigelow, told security analysts the company is
 "comfortable" with Wall Street estimates that 1987 earnings
 will be in a range of 3.75 dlrs to 4.25 dlrs per share.

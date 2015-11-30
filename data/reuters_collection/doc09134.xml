@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 01:31:53.23</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0029reute
-u f BC-N.Z.-TRADE-SURPLUS-11   03-25 0118</field>
-	<field name = "TITLE">N.Z. TRADE SURPLUS 119.1 MLN DLRS IN FEBRUARY</field>
+	<field name = "titulo">N.Z. TRADE SURPLUS 119.1 MLN DLRS IN FEBRUARY</field>
 	<field name = "DATELINE">WELLINGTON, March 25 -</field>
-	<field name = "BODY">Preliminary trade figures for
+	<field name = "content">Preliminary trade figures for
 February show an excess of exports over imports of 119.1 mln
 N.Z. Dlrs, a Statistics Department statement said.
     This compares with a 3.3 mln dlr deficit (revised from 1.7

@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM
-f0221reute
-u f AM-REAGAN-TAPES   03-06 0089</field>
-	<field name = "TITLE">IRAN INVESTIGATORS SEEK REAGAN TAPES</field>
+	<field name = "titulo">IRAN INVESTIGATORS SEEK REAGAN TAPES</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">The House and Senate committees
+	<field name = "content">The House and Senate committees
 investigating the Iran arms scandal said they would like to
 review tapes of phone conversations between President Reagan
 and White House officials, if such tapes exist.

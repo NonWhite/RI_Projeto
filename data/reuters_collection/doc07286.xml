@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 13:25:30.24</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1836reute
-u f BC-API-SAYS-U.S.-CRUDE-O   03-19 0115</field>
-	<field name = "TITLE">API SAYS U.S. CRUDE OIL OUPUT OFF FROM YEAR AGO</field>
+	<field name = "titulo">API SAYS U.S. CRUDE OIL OUPUT OFF FROM YEAR AGO</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">The American Petroleum Institute
+	<field name = "content">The American Petroleum Institute
 said that U.S. crude oil production in February declined 9.8
 pct from year-ago levels to about 8.3 mln barrels a day.
     In its monthly report on U.S. oil supplies and stocks, API

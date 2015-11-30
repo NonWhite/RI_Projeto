@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:14:25.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2166reute
-u f BC-HOFFMAN-LA-ROCHE,-LIL   06-02 0095</field>
-	<field name = "TITLE">HOFFMAN-LA ROCHE, LILLY LLY> IN LICENSE PACT</field>
+	<field name = "titulo">HOFFMAN-LA ROCHE, LILLY LLY> IN LICENSE PACT</field>
 	<field name = "DATELINE">NUTLEY, N.J., June 2 -</field>
-	<field name = "BODY">Hoffmann-La Roche Inc, the licensee
+	<field name = "content">Hoffmann-La Roche Inc, the licensee
 of a Hormone Research Foundation patent of a synthetic version
 of human growth hormone, said it entered into a license
 agreement with Eli Lilly and Co involving Lilly's Humatrope

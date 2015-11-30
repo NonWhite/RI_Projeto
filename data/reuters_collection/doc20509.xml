@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:04:09.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2582reute
-u f BC-SHEARSON-SHE>-TO-BUY   10-20 0091</field>
-	<field name = "TITLE">SHEARSON SHE> TO BUYBACK UP TO 3 PCT OF STOCK</field>
+	<field name = "titulo">SHEARSON SHE> TO BUYBACK UP TO 3 PCT OF STOCK</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Shearson Lehman Brothers Holdings Inc
+	<field name = "content">Shearson Lehman Brothers Holdings Inc
 said it will repurchase up to three mln common shares or about
 three pct of its total common shares outstanding on a fully
 diluted basis.

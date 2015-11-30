@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 10:48:22.20</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f2306reute
-b f BC-FRENCH-INFLATION-SLOW   03-16 0114</field>
-	<field name = "TITLE">FRENCH INFLATION SLOWS IN FEBRUARY</field>
+	<field name = "titulo">FRENCH INFLATION SLOWS IN FEBRUARY</field>
 	<field name = "DATELINE">PARIS, March 16 -</field>
-	<field name = "BODY">French inflation slowed in February to
+	<field name = "content">French inflation slowed in February to
 between 0.1 and 0.2 pct against 0.9 pct in January, the
 National Statistics Institute (INSEE) said.
     The retail price index showed a year-on-year rise of 3.4

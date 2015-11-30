@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:18:44.72</field>
-	<field name = "UNKNOWN">C G
-f1220reute
-u f BC-cbt-s'bean-opg-report   04-07 0102</field>
-	<field name = "TITLE">CBT SOYBEAN FUTURES OPEN SLIGHTLY FIRMER</field>
+	<field name = "titulo">CBT SOYBEAN FUTURES OPEN SLIGHTLY FIRMER</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">CBT soybean futures opened steady, with
+	<field name = "content">CBT soybean futures opened steady, with
 new crop slightly firmer, then rallied further to hold gains of
 one cent to three cents per bushel higher in light early
 dealings.

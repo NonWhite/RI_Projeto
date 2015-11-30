@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:53:11.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0641reute
-u f BC-RJR-NABISCORJR>TO-RE   03-06 0086</field>
-	<field name = "TITLE">RJR NABISCORJR>TO REDEEM 1.2 BILLION DLRS NOTES</field>
+	<field name = "titulo">RJR NABISCORJR>TO REDEEM 1.2 BILLION DLRS NOTES</field>
 	<field name = "DATELINE">WINSTON-SALEM, N.C., March 6 -</field>
-	<field name = "BODY">RJR Nabisco Inc said it will
+	<field name = "content">RJR Nabisco Inc said it will
 redeem all 1.2 billion dlrs of its 11.20 pct notes due August
 1, 1997 on April Six, using the proceeds from the sale of its
 Heublein Inc subsidiary to Grand Metropolitan PLC.

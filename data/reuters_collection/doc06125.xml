@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 13:25:48.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f5953reute
-r f BC-WORKERS-STRIKE-AT-SOU   03-17 0132</field>
-	<field name = "TITLE">WORKERS STRIKE AT SOUTHWEST FOREST MILL</field>
+	<field name = "titulo">WORKERS STRIKE AT SOUTHWEST FOREST MILL</field>
 	<field name = "DATELINE">PHOENIX, Ariz., March 17 -</field>
-	<field name = "BODY">Southwest Forest Industries Inc
+	<field name = "content">Southwest Forest Industries Inc
 said 344 members of the United Paperworkers International Union
 went on strike at the Snowflake, Ariz., paper mill, halting
 operations at the newsprint and linerboard facility.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 13:42:53.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6033reute
-a f BC-CITIZENS-UTILITY-BOAR   03-17 0136</field>
-	<field name = "TITLE">CITIZENS UTILITY BOARD TO SUE EDISON CWE></field>
+	<field name = "titulo">CITIZENS UTILITY BOARD TO SUE EDISON CWE></field>
 	<field name = "DATELINE">CHICAGO, March 17 -</field>
-	<field name = "BODY">The Citizens Utility Board said it will
+	<field name = "content">The Citizens Utility Board said it will
 file a class action suit Tuesday in Cook County Circuit Court
 against Commonwealth Edison Co, seeking refunds of 150 dlrs a
 customer for consumers who have been paying what it calls "the

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 10:56:47.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1222reute
-r f BC-INLAND-STEEL-IAD>-PR   03-25 0095</field>
-	<field name = "TITLE">INLAND STEEL IAD> PREFERRED OFFERED</field>
+	<field name = "titulo">INLAND STEEL IAD> PREFERRED OFFERED</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Lead underwriters Goldman, Sachs and
+	<field name = "content">Lead underwriters Goldman, Sachs and
 Co> and First Boston Inc FBC> said an offering of two mln
 Series C 3.625 dlr cumulative convertible exchangeable
 preferred shares of Inland Steel Industries Inc is underway at

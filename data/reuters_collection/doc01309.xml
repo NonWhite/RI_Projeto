@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 16:04:59.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0855reute
-w f BC-NYNEX-NYN>-UNIT-WINS   03-03 0076</field>
-	<field name = "TITLE">NYNEX NYN> UNIT WINS ARMY CONTRACT</field>
+	<field name = "titulo">NYNEX NYN> UNIT WINS ARMY CONTRACT</field>
 	<field name = "DATELINE">WHITE PLAINS, N.Y., March 3 -</field>
-	<field name = "BODY">Nynex Business Information
+	<field name = "content">Nynex Business Information
 Systems Co said it won a contract valued at nine mln dlrs from
 the U.S. Army Corp of Engineers to provide an advanced
 communications system for a facility in upstate New York.

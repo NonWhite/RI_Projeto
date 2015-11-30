@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 13:49:23.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0982reute
-r f BC-CAESARS-WORLD-CAW>-R   03-13 0092</field>
-	<field name = "TITLE">CAESARS WORLD CAW> RESTRUCTURING SEEN</field>
+	<field name = "titulo">CAESARS WORLD CAW> RESTRUCTURING SEEN</field>
 	<field name = "AUTHOR">By Greg Calhoun, Reuters</field>
 	<field name = "DATELINE">LOS ANGELES, March 13 -</field>
-	<field name = "BODY">Caesars World Inc is likely to seek
+	<field name = "content">Caesars World Inc is likely to seek
 out a friendly suitor or restructure operations to fight off
 the unsolicited takeover offer by investor Martin Sosnoff,
 securities analysts said.

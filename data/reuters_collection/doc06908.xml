@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G
-f9694reute
-u f BC-BRAZIL-REJECTS-ALL-OF   03-18 0036</field>
-	<field name = "TITLE">BRAZIL REJECTS ALL OFFERS AT WHEAT TENDER</field>
+	<field name = "titulo">BRAZIL REJECTS ALL OFFERS AT WHEAT TENDER</field>
 	<field name = "DATELINE">RIO DE JANEIRO, MARCH 18 -</field>
-	<field name = "BODY">Brazil rejected all offers at
+	<field name = "content">Brazil rejected all offers at
 tonight's wheat tender, a Brazilian Wheat Board spokesman said.
     He said no date had been set for the next tender.
  Reuter</field>

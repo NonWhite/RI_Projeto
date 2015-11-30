@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 03:16:33.02</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0046reute
-u f BC-JAPANESE-VEHICLE-EXPO   04-17 0108</field>
-	<field name = "TITLE">JAPANESE VEHICLE EXPORTS, OUTPUT FALL IN 1986/87</field>
+	<field name = "titulo">JAPANESE VEHICLE EXPORTS, OUTPUT FALL IN 1986/87</field>
 	<field name = "DATELINE">TOKYO, April 17 -</field>
-	<field name = "BODY">Japan's vehicle exports fell 3.8 pct to
+	<field name = "content">Japan's vehicle exports fell 3.8 pct to
 6.59 mln in the year ended March 31, 1987, while vehicle output
 fell 1.2 pct to 12.27 mln, industry sources said.
     Toyota Motor Corp TOYO.T> said its exports fell 5.5 pct to

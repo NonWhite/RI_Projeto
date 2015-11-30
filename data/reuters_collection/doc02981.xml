@@ -3,12 +3,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">M C
-f0238reute
-u f BC-USSR-TO-CUT-COAL-PRIC   03-09 0112</field>
-	<field name = "TITLE">USSR TO CUT COAL PRICE FOR JAPANESE STEELMILLS</field>
+	<field name = "titulo">USSR TO CUT COAL PRICE FOR JAPANESE STEELMILLS</field>
 	<field name = "DATELINE">TOKYO, March 9 -</field>
-	<field name = "BODY">The Soviet Union has agreed to cut its
+	<field name = "content">The Soviet Union has agreed to cut its
 coking coal export prices to Japanese steel mills by about five
 dlrs a tonne in 1987/88 starting April 1 in exchange for an
 increase in export volume, industry sources said.

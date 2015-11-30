@@ -12,13 +12,10 @@
 	<field name = "PEOPLE">garcia</field>
 	<field name = "PEOPLE">petricioli</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f0413reute
-u f BC-BRAZIL-SEEN-AS-VANGUA   03-20 0113</field>
-	<field name = "TITLE">BRAZIL SEEN AS VANGUARD FOR CHANGING DEBT STRATEGY</field>
+	<field name = "titulo">BRAZIL SEEN AS VANGUARD FOR CHANGING DEBT STRATEGY</field>
 	<field name = "AUTHOR">By Keith Grant, Reuters</field>
 	<field name = "DATELINE">CARACAS, March 20 -</field>
-	<field name = "BODY">Brazil's hard-line debt stance, though
+	<field name = "content">Brazil's hard-line debt stance, though
 meeting creditor resistance, is boosting political initiatives
 in Latin America aimed at broadening the global strategy,
 regional debt officials and economic analysts say.

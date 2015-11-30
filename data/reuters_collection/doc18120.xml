@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 12:21:35.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1734reute
-d f BC-HADRON-HDRN.O>-GETS   06-02 0043</field>
-	<field name = "TITLE">HADRON HDRN.O> GETS CUSTOMS SERVICE CONTRACT</field>
+	<field name = "titulo">HADRON HDRN.O> GETS CUSTOMS SERVICE CONTRACT</field>
 	<field name = "DATELINE">FAIRFAX, Va., June 2 -</field>
-	<field name = "BODY">Hadron Inc said it has received a
+	<field name = "content">Hadron Inc said it has received a
 three-year one mln dlr contract from the U.S. Customs Service
 to provide technical and managerial support to Customs'
 research and development division.

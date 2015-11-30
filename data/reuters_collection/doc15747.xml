@@ -4,12 +4,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">thatcher</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">V
-f1775reute
-r f BC-EC-EXPERTS-TO-STUDY-P   04-09 0122</field>
-	<field name = "TITLE">EC EXPERTS STUDY POSSIBLE ACTION AGAINST JAPAN</field>
+	<field name = "titulo">EC EXPERTS STUDY POSSIBLE ACTION AGAINST JAPAN</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">European Community trade experts will
+	<field name = "content">European Community trade experts will
 meet in Brussels tomorrow to discuss possible EC action against
 Japan over trade, British Prime Minister Margaret Thatcher
 said.

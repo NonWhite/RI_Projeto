@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 05:13:02.88</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f0387reute
-b f BC-KANSALLIS-OSAKE-PANKK   03-30 0075</field>
-	<field name = "TITLE">KANSALLIS-OSAKE-PANKKI LAUNCHES 100 MLN DLR BONDS</field>
+	<field name = "titulo">KANSALLIS-OSAKE-PANKKI LAUNCHES 100 MLN DLR BONDS</field>
 	<field name = "DATELINE">HELSINKI, March 30 -</field>
-	<field name = "BODY">Finland's Kansallis-Osake-Pankki>
+	<field name = "content">Finland's Kansallis-Osake-Pankki>
 said in a statement it is issuing 100 mln dlrs subordinated
 bonds due 1994 with equity warrants in international markets
 with maximum interest rate of 4-5/8 pct.

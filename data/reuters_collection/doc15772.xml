@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 13:23:22.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1880reute
-d f BC-FEDERATED-GROUP-FEGP   04-09 0077</field>
-	<field name = "TITLE">FEDERATED GROUP FEGP> POSTS HIGHER MARCH SALES</field>
+	<field name = "titulo">FEDERATED GROUP FEGP> POSTS HIGHER MARCH SALES</field>
 	<field name = "DATELINE">CITY OF COMMERCE, Calif., April 9 -</field>
-	<field name = "BODY">Federated Group Inc
+	<field name = "content">Federated Group Inc
 said its sales for the five weeks ended April five totaled 33.9
 mln dlrs, compared with 33.8 mln during the same period last
 year.

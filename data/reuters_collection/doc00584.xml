@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:55:35.01</field>
-	<field name = "UNKNOWN">A
-f0390
-reute
-r f BC-FOOTHILL-GFI>-ARRANG   03-02 0080</field>
-	<field name = "TITLE">FOOTHILL GFI> ARRANGES DEBT PLACEMENT</field>
+	<field name = "titulo">FOOTHILL GFI> ARRANGES DEBT PLACEMENT</field>
 	<field name = "DATELINE">LOS ANGELES, March 2 -</field>
-	<field name = "BODY">Foothill Group Inc said its Foothill
+	<field name = "content">Foothill Group Inc said its Foothill
 Capital Corp unit arranged the private placement of 23 mln dlrs
 in senior debt and 27 mln in senior subordinated debt.
     The senior and senior subordinated debt was purchased by

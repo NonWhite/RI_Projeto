@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 11:09:13.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0883
-reute
-r f BC-QUAKER-OATS-OAT>-FIL   03-02 0092</field>
-	<field name = "TITLE">QUAKER OATS OAT> FILES SHELF REGISTRATION</field>
+	<field name = "titulo">QUAKER OATS OAT> FILES SHELF REGISTRATION</field>
 	<field name = "DATELINE">CHICAGO, March 2 -</field>
-	<field name = "BODY">Quaker Oats Co said it filed a shelf
+	<field name = "content">Quaker Oats Co said it filed a shelf
 registration with the Securities and Exchange Commission
 covering up to 250 mln dlrs in debt securities.
     The company said it may offer the securites in one or more

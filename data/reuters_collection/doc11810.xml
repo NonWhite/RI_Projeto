@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 05:01:32.77</field>
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">ghana</field>
-	<field name = "UNKNOWN">C T
-f0307reute
-u f BC-GHANA-COCOA-PURCHASES   04-01 0072</field>
-	<field name = "TITLE">GHANA COCOA PURCHASES SLOW</field>
+	<field name = "titulo">GHANA COCOA PURCHASES SLOW</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">The Ghana Cocoa Board said it purchased
+	<field name = "content">The Ghana Cocoa Board said it purchased
 214 tonnes of cocoa in the 24th week, ended March 19, of the
 1986/87 main crop season, compared with 456 tonnes the previous
 week and 372 tonnes in the 24th week ended March 27 of the

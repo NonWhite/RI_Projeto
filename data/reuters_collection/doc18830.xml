@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:57:24.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3937reute
-r f BC-BELL-SOUTH-BLS>-UNIT   06-18 0050</field>
-	<field name = "TITLE">BELL SOUTH BLS> UNIT GETS DIGITAL CUSTOMERS</field>
+	<field name = "titulo">BELL SOUTH BLS> UNIT GETS DIGITAL CUSTOMERS</field>
 	<field name = "DATELINE">ATLANTA, June 18 -</field>
-	<field name = "BODY">Bell South Corp's Southern Bell said
+	<field name = "content">Bell South Corp's Southern Bell said
 American Telephone and Telegraph Co's T> network systems and
 Hayes Microcomputer Products> will use its integrated services
 digital network services when the product is launched in March

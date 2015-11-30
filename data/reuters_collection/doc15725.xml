@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">G
-f1656reute
-r f BC-LONDON-GRAIN-FREIGHTS   04-09 0096</field>
-	<field name = "TITLE">LONDON GRAIN FREIGHTS</field>
+	<field name = "titulo">LONDON GRAIN FREIGHTS</field>
 	<field name = "DATELINE">LONDON, April 9 - FIXTURES - TBN -</field>
-	<field name = "BODY">27,000 long tons
+	<field name = "content">27,000 long tons
 USG/Taiwan 23.25 dlrs fio five days/1,500 1-10/5 Continental.
     Trade Banner - 30,000 long tons grain USG/Morocco 13.50
 dlrs 5,000/5,000 end-April/early-May Comanav.

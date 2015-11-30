@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">colombia</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C T
-f0526reute
-u f BC-GOOD-DEMAND-FOR-COLOM   03-23 0104</field>
-	<field name = "TITLE">GOOD DEMAND FOR COLOMBIANS ON BREMEN MARKET</field>
+	<field name = "titulo">GOOD DEMAND FOR COLOMBIANS ON BREMEN MARKET</field>
 	<field name = "DATELINE">BREMEN, March 23 -</field>
-	<field name = "BODY">The Bremen green coffee market attracted
+	<field name = "content">The Bremen green coffee market attracted
 good buying interest for Colombian coffee last week, while
 Brazils were almost neglected, trade sources said.
     Buyers were awaiting the opening of Brazil's export

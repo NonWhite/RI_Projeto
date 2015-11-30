@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 14:56:51.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0186reute
-d f BC-TEXAS-UTILTIES-TXU>   03-13 0060</field>
-	<field name = "TITLE">TEXAS UTILTIES TXU> UNIT SEEKS RATE REFUND</field>
+	<field name = "titulo">TEXAS UTILTIES TXU> UNIT SEEKS RATE REFUND</field>
 	<field name = "DATELINE">DALLAS, March 13 -</field>
-	<field name = "BODY">Texas Utilities Co's TU Electric unit
+	<field name = "content">Texas Utilities Co's TU Electric unit
 said it filed an application with the Texas Public Utilities
 Commission for authorization to refund about 69.7 mln dlrs to
 customers.

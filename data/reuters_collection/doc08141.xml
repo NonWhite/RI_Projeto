@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 03:43:32.87</field>
 	<field name = "PLACES">uae</field>
-	<field name = "UNKNOWN">RM
-f0200reute
-r f BC-UAE-CENTRAL-BANK-CD-Y   03-23 0058</field>
-	<field name = "TITLE">UAE CENTRAL BANK CD YIELDS MOSTLY LOWER</field>
+	<field name = "titulo">UAE CENTRAL BANK CD YIELDS MOSTLY LOWER</field>
 	<field name = "DATELINE">ABU DHABI, March 23 -</field>
-	<field name = "BODY">Yields on certificates of deposit
+	<field name = "content">Yields on certificates of deposit
 offered by the United Arab Emirates central bank were mostly
 lower than last Monday's offering, the bank said.
     The one-month issue remained at 6-1/8 pct but the two,

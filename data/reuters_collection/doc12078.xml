@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 12:18:02.19</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1632reute
-h f BC-FIRST-WORLD-CHEESE-IN   04-01 0061</field>
-	<field name = "TITLE">FIRST WORLD CHEESE INC FWCH> 4TH QTR LOSS</field>
+	<field name = "titulo">FIRST WORLD CHEESE INC FWCH> 4TH QTR LOSS</field>
 	<field name = "DATELINE">SOUTH ORANGE, N.J., April 1 -</field>
-	<field name = "BODY">Shr loss 15 cts vs profit nil
+	<field name = "content">Shr loss 15 cts vs profit nil
     Net loss 392,428 vs profit 1,255
     Revs 6,371,092 vs 3,031,091
     Avg shrs 2,544,000 vs 1,440,000

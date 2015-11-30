@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:54:28.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0822reute
-r f BC-APPLIED-MAGNETICS-AP   03-03 0061</field>
-	<field name = "TITLE">APPLIED MAGNETICS APM> NAMES OFFICERS</field>
+	<field name = "titulo">APPLIED MAGNETICS APM> NAMES OFFICERS</field>
 	<field name = "DATELINE">GOLETA, Calif., March 3 -</field>
-	<field name = "BODY">Applied Magnetics Corp said its
+	<field name = "content">Applied Magnetics Corp said its
 board named Ben Newitt to the new position of vice chairman and
 as chief executive officer.
     Newitt, who had been president and chief executive officer,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 12:47:30.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5805reute
-r f BC-GALAXY-OIL-GOX>-CRED   03-17 0110</field>
-	<field name = "TITLE">GALAXY OIL GOX> CREDITORS TO FORECLOSE ASSETS</field>
+	<field name = "titulo">GALAXY OIL GOX> CREDITORS TO FORECLOSE ASSETS</field>
 	<field name = "DATELINE">WICHITA FALLS, Texas, March 17 -</field>
-	<field name = "BODY">Galaxy Oil Co said it was
+	<field name = "content">Galaxy Oil Co said it was
 notified by its secured bank lenders that they plan to
 foreclose on the company's material assets on April 7.
     The company, which is in default of its 26.5 mln dlrs of

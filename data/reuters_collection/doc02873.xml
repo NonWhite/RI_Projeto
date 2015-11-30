@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 16:30:02.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0562reute
-r f BC-HYPONEX-HYPX>-FILES   03-06 0060</field>
-	<field name = "TITLE">HYPONEX HYPX> FILES FOR DEBT OFFER</field>
+	<field name = "titulo">HYPONEX HYPX> FILES FOR DEBT OFFER</field>
 	<field name = "DATELINE">FORT WAYNE, Ind., March 6 -</field>
-	<field name = "BODY">Hyponex Corp said it filed with
+	<field name = "content">Hyponex Corp said it filed with
 the Securities and Exchange Commission for a public offering of
 100 mln dlrs of senior subordinated debentures due 1999, with
 an over-allotment option of 15 mln dlrs.

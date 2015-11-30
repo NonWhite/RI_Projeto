@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:10:01.59</field>
-	<field name = "UNKNOWN">C T
-f1182reute
-u f BC-ny-sugar-mids-report   04-07 0102</field>
-	<field name = "TITLE">WORLD SUGAR FUTURES TUMBLE IN EARLY TRADING</field>
+	<field name = "titulo">WORLD SUGAR FUTURES TUMBLE IN EARLY TRADING</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">World sugar futures tumbled early when
+	<field name = "content">World sugar futures tumbled early when
 sell stops were triggered at 6.60 and 6.55 cents basis the spot
 contract, traders said.
     Spot May dropped 0.27 cent to 6.52 cents a lb. It opened at

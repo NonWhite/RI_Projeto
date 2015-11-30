@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 08:26:21.32</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">C T G M
-f7603reute
-u f BC-SPANISH-UNION-VOTES-A   03-18 0114</field>
-	<field name = "TITLE">SPANISH UNION VOTES AGAINST APRIL GENERAL STRIKE</field>
+	<field name = "titulo">SPANISH UNION VOTES AGAINST APRIL GENERAL STRIKE</field>
 	<field name = "DATELINE">MADRID, March 18 -</field>
-	<field name = "BODY">Spain's second largest union, the
+	<field name = "content">Spain's second largest union, the
 Workers Commissions, CC.OO, has voted against a general strike
 next month to back wage demands and oppose the government's
 economic policies, a CC.OO spokesman said.

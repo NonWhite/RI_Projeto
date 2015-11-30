@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:26:59.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0054
-reute
-u f BC-WARNER-COMMUNICATIONS   03-02 0104</field>
-	<field name = "TITLE">WARNER COMMUNICATIONS WCI>IN CONTRACT WITH ROSS</field>
+	<field name = "titulo">WARNER COMMUNICATIONS WCI>IN CONTRACT WITH ROSS</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Warner Communications Inc said its
+	<field name = "content">Warner Communications Inc said its
 board has approved a 10-year employment contract with Chairman
 Steven J. Ross.
     The company said the contract was opposed by the six board

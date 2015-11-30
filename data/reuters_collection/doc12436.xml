@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0434reute
-u f BC-JAPAN-ASKS-BANKS-TO-M   04-02 0105</field>
-	<field name = "TITLE">JAPAN ASKS BANKS TO MODERATE DOLLAR SALES - JIJI</field>
+	<field name = "titulo">JAPAN ASKS BANKS TO MODERATE DOLLAR SALES - JIJI</field>
 	<field name = "DATELINE">TOKYO, April 2 -</field>
-	<field name = "BODY">The Finance Ministry has asked commercial
+	<field name = "content">The Finance Ministry has asked commercial
 banks to moderate their dollar sales, JiJi News Agency
 reported, quoting financial sources.
     Finance Ministry officials were unavailable for comment.

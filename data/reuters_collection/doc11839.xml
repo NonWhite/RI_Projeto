@@ -6,12 +6,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "TOPICS">meal-feed</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G
-f0499reute
-u f BC-ROTTERDAM-GRAIN-HANDL   04-01 0097</field>
-	<field name = "TITLE">ROTTERDAM GRAIN HANDLERS STAGE LIGHTNING STRIKES</field>
+	<field name = "titulo">ROTTERDAM GRAIN HANDLERS STAGE LIGHTNING STRIKES</field>
 	<field name = "DATELINE">ROTTERDAM, April 1 -</field>
-	<field name = "BODY">Lightning strikes hit the grain sector
+	<field name = "content">Lightning strikes hit the grain sector
 of the port of Rotterdam today after employers turned down
 union demands for shorter working hours in a new labour
 agreement, transport union FNV spokesman Bert Duim said.

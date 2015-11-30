@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 17:09:54.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2713reute
-d f BC-GLENWOOD-RECALLS-PRES   03-26 0127</field>
-	<field name = "TITLE">GLENWOOD RECALLS PRESCRIPTION DRUG LOT</field>
+	<field name = "titulo">GLENWOOD RECALLS PRESCRIPTION DRUG LOT</field>
 	<field name = "DATELINE">TENAFLY, N.J., March 26 -</field>
-	<field name = "BODY">Glenwood Inc> said it is
+	<field name = "content">Glenwood Inc> said it is
 recalling lot number 54238 of its potaba tablet (aminobenzoate
 potassium), a prescription drug used mainly to treat
 scleroderma, a painful skin thickening condition.

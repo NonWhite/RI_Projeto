@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 13:35:34.78</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f1896reute
-r f BC-CALABRIAN-BANK-PRESID   03-23 0113</field>
-	<field name = "TITLE">CALABRIAN BANK PRESIDENT ARRESTED FOR EMBEZZLEMENT</field>
+	<field name = "titulo">CALABRIAN BANK PRESIDENT ARRESTED FOR EMBEZZLEMENT</field>
 	<field name = "DATELINE">COSENZA, Italy, March 23 -</field>
-	<field name = "BODY">The president and five senior
+	<field name = "content">The president and five senior
 managers of a publicly-owned Italian savings bank and the vice
 president of another major Italian bank have been arrested on
 embezzlement charges, police said.

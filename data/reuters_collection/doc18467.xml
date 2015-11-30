@@ -3,12 +3,9 @@
 	<field name = "PLACES">australia</field>
 	<field name = "PEOPLE">keating</field>
 	<field name = "PEOPLE">hawke</field>
-	<field name = "UNKNOWN">RM V 
-f2110reute
-u f BC-AUSTRALIAN-ELECTION-C   06-18 0109</field>
-	<field name = "TITLE">AUSTRALIAN ELECTION CAMPAIGN FOCUSSES ON TAX CUTS</field>
+	<field name = "titulo">AUSTRALIAN ELECTION CAMPAIGN FOCUSSES ON TAX CUTS</field>
 	<field name = "DATELINE">SYDNEY, June 18 -</field>
-	<field name = "BODY">Treasurer Paul Keating said the
+	<field name = "content">Treasurer Paul Keating said the
 opposition's tax-cutting policy, a key issue in the run up to
 the July 11 elections, was a miscalculation that would severely
 damage the Australian economy.

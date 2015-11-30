@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 00:13:18.90</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM F A
-f0008reute
-r f BC-COMMERZBANK-TO-FOUND   04-01 0103</field>
-	<field name = "TITLE">COMMERZBANK TO FOUND NEW YORK INVESTMENT BANK</field>
+	<field name = "titulo">COMMERZBANK TO FOUND NEW YORK INVESTMENT BANK</field>
 	<field name = "DATELINE">FRANKFURT, April 1 -</field>
-	<field name = "BODY">Commerzbank AG CBKG.F> management
+	<field name = "content">Commerzbank AG CBKG.F> management
 board chairman Walter Seipp said he hoped the bank would this
 year found a 100 pct investment bank subsidiary in New York.
     He told the annual news conference that the move would be

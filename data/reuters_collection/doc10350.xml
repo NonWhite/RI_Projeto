@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:14:06.23A</field>
-	<field name = "UNKNOWN">f0493reute</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">r f BC-IBM-AUSTRALIA-CREDIT   03-27 0098</field>
-	<field name = "TITLE">IBM AUSTRALIA CREDIT ISSUES AUS DLR EUROBOND</field>
+	<field name = "titulo">IBM AUSTRALIA CREDIT ISSUES AUS DLR EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">IBM Australia Credit Ltd is issuing a 75
+	<field name = "content">IBM Australia Credit Ltd is issuing a 75
 mln Australian dlr eurobond due April 24, 1990 with a 14-1/8
 pct coupon and priced at 101-1/4, Salomon Brothers
 International Ltd said as lead manager.

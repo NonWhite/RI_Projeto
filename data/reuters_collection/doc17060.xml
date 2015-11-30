@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 06:54:11.82</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f0430reute
-u f BC-UBS-CONFIRMS-FIRST-QU   04-24 0099</field>
-	<field name = "TITLE">UBS CONFIRMS FIRST QUARTER PROFITS LOWER</field>
+	<field name = "titulo">UBS CONFIRMS FIRST QUARTER PROFITS LOWER</field>
 	<field name = "DATELINE">ZURICH, April 24 -</field>
-	<field name = "BODY">Union Bank of Switzerland SBGZ.Z> said
+	<field name = "content">Union Bank of Switzerland SBGZ.Z> said
 first quarter profits were higher than in the third and fourth
 quarters of 1986, but were below the record results of the
 first quarter of last year.

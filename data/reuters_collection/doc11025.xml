@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 15:02:17.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2316reute
-r f BC-AUDI-OFFERS-CASH-INCE   03-30 0132</field>
-	<field name = "TITLE">AUDI OFFERS CASH INCENTIVE TO CURRENT OWNERS</field>
+	<field name = "titulo">AUDI OFFERS CASH INCENTIVE TO CURRENT OWNERS</field>
 	<field name = "DATELINE">TROY, MICH., March 30 -</field>
-	<field name = "BODY">Audi of America Inc said it
+	<field name = "content">Audi of America Inc said it
 introduced the "Audi Private Purchase Plan" in which it will
 offer 5,000 dlr purchase certificates exclusively to current
 owners of 1984-86 Audi 5000 vehicles.

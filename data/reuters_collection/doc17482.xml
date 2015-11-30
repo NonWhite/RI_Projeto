@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 08:31:09.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0734reute
-u f BC-KAYPRO-KPRO.O>-CUTS   06-01 0036</field>
-	<field name = "TITLE">KAYPRO KPRO.O> CUTS PRICES ON COMPUTERS</field>
+	<field name = "titulo">KAYPRO KPRO.O> CUTS PRICES ON COMPUTERS</field>
 	<field name = "DATELINE">SOLANA BEACH, Calif., June 1 -</field>
-	<field name = "BODY">Kaypro Corp said it has cut
+	<field name = "content">Kaypro Corp said it has cut
 prices on its Kaypro 386 Models A and E supermicrocomputers and
 Extra! Extra! desktop pulbishing system by 500 dlrs.
     The Kaypro 386 Model A will retail for 4,495 dlrs, and the

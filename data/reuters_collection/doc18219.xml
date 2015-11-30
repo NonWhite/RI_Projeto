@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:40:58.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2289reute
-u f BC-NEWBERY-NBE>-EXPECTS   06-02 0094</field>
-	<field name = "TITLE">NEWBERY NBE> EXPECTS TO FILE FOR BANKRUPTCY</field>
+	<field name = "titulo">NEWBERY NBE> EXPECTS TO FILE FOR BANKRUPTCY</field>
 	<field name = "DATELINE">TEMPE, Ariz., June 2 -</field>
-	<field name = "BODY">Newbery Corp said Fireman's Fund
+	<field name = "content">Newbery Corp said Fireman's Fund
 Corp FFC> and United Bank of Arizona are continuing to meet to
 explore alternatives, but the company believes, that
 irrespective of the outcome, it will be forced to file for

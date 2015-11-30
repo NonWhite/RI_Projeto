@@ -15,12 +15,9 @@
 	<field name = "TOPICS">barley</field>
 	<field name = "TOPICS">oat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2245reute
-r f BC-us/supply/demand   04-09 0107</field>
-	<field name = "TITLE">U.S. SUPPLY/DEMAND DETAILED BY USDA</field>
+	<field name = "titulo">U.S. SUPPLY/DEMAND DETAILED BY USDA</field>
 	<field name = "DATELINE">Washington, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department made
+	<field name = "content">The U.S. Agriculture Department made
 the following supply/demand projections for the 1986/87
 seasons, in mln bushels, with comparisons, unless noted --
     CORN --     1986/87            1985/86

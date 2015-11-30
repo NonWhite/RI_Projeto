@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">T 
-f2634reute
-b f BC-FOUR-SUGAR-CARGOES-SO   06-18 0105</field>
-	<field name = "TITLE">FOUR SUGAR CARGOES SOLD TO CHINA YESTERDAY -TRADE</field>
+	<field name = "titulo">FOUR SUGAR CARGOES SOLD TO CHINA YESTERDAY -TRADE</field>
 	<field name = "DATELINE">LONDON, June 18 -</field>
-	<field name = "BODY">Four cargoes of raw sugar were sold to
+	<field name = "content">Four cargoes of raw sugar were sold to
 China yesterday via the London trade to supplement the
 country's current nearby buying programme, traders said.
     The sugar was reported sold at around 160 dlrs a tonne c

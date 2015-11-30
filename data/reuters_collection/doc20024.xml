@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 04:10:11.01</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI 
-f0223reute
-b f BC-JAPAN-MONEY-GROWTH-TO   10-20 0110</field>
-	<field name = "TITLE">JAPAN MONEY GROWTH TO STAY AT 11-12 PCT - OFFICIAL</field>
+	<field name = "titulo">JAPAN MONEY GROWTH TO STAY AT 11-12 PCT - OFFICIAL</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">Growth in Japan's M-2 plus certificates of
+	<field name = "content">Growth in Japan's M-2 plus certificates of
 deposit (CD) money supply in the October to December period is
 not expected to accelerate, but will remain at high levels
 between 11 and 12 pct, a senior Bank of Japan official said.

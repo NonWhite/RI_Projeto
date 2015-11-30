@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 10:05:13.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0953reute
-d f BC-ERC-INTERNATIONAL-ER   03-20 0053</field>
-	<field name = "TITLE">ERC INTERNATIONAL ERC> GETS 17 MLN DLR CONTRACT</field>
+	<field name = "titulo">ERC INTERNATIONAL ERC> GETS 17 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">FAIRFAX, Va., March 20 -</field>
-	<field name = "BODY">ERC International Inc said it has
+	<field name = "content">ERC International Inc said it has
 received a three-year 17 mln dlr U.S. Navyt contract to provide
 engineering, technical and administrative support sevices on
 weapons systems, subsystems and associated management, manpower

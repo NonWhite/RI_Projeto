@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 09:45:19.75</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G 
-f3079reute
-b f BC-NO-FRENCH-EXPORT-REQU   06-18 0032</field>
-	<field name = "TITLE">NO FRENCH EXPORT REQUESTS FOR EC CEREAL TENDER</field>
+	<field name = "titulo">NO FRENCH EXPORT REQUESTS FOR EC CEREAL TENDER</field>
 	<field name = "DATELINE">PARIS, June 18 -</field>
-	<field name = "BODY">French operators did not request any
+	<field name = "content">French operators did not request any
 export licences at today's European Community weekly cereal
 tender, trade sources said.
  Reuter</field>

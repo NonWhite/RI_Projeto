@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 11:12:37.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1351reute
-h f BC-PULITZERPLTZ.O>-RAIS   06-01 0076</field>
-	<field name = "TITLE">PULITZERPLTZ.O> RAISES PRICE OF POST-DISPATCH</field>
+	<field name = "titulo">PULITZERPLTZ.O> RAISES PRICE OF POST-DISPATCH</field>
 	<field name = "DATELINE">ST. LOUIS, June 1 -</field>
-	<field name = "BODY">Pulitzer Publishing Co said it
+	<field name = "content">Pulitzer Publishing Co said it
 increased the retail price of the Sunday St. Louis
 Post-Dispatch to 1.00 dlrs a copy from 75 cts, effective June
 14.

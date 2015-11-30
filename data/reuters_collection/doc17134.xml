@@ -5,12 +5,9 @@
 	<field name = "TOPICS">gas</field>
 	<field name = "TOPICS">pet-chem</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1767reute
-u f BC-/SHELL-OIL-FIRST-QUAR   04-24 0099</field>
-	<field name = "TITLE">SHELL OIL FIRST QUARTER NET DROPS 61 PCT</field>
+	<field name = "titulo">SHELL OIL FIRST QUARTER NET DROPS 61 PCT</field>
 	<field name = "DATELINE">HOUSTON, April 24 -</field>
-	<field name = "BODY">Shell Oil Co said first quarter net
+	<field name = "content">Shell Oil Co said first quarter net
 income dropped 61 pct over the prior-year quarter on revenues
 that slipped four pct.
     "Lower prices for crude oil and natural gas and reduced

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nymex</field>
-	<field name = "UNKNOWN">Y
-f2763reute
-u f BC-TEXACO-FILING-ADDS-UN   04-13 0100</field>
-	<field name = "TITLE">TEXACO FILING ADDS UNCERTAINTY IN OIL MARKET</field>
+	<field name = "titulo">TEXACO FILING ADDS UNCERTAINTY IN OIL MARKET</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">U.S. oil traders said Texaco Inc's
+	<field name = "content">U.S. oil traders said Texaco Inc's
 filing for protection under the Chapter 11 bankruptcy code is
 adding uncertainty to an already skittish oil market, but
 opinions are divided on the impact to the market.

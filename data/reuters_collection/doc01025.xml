@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">kenya</field>
-	<field name = "UNKNOWN">RM
-f0373reute
-r f BC-KENYAN-ECONOMY-FACES   03-03 0099</field>
-	<field name = "TITLE">KENYAN ECONOMY FACES PROBLEMS, PRESIDENT SAYS</field>
+	<field name = "titulo">KENYAN ECONOMY FACES PROBLEMS, PRESIDENT SAYS</field>
 	<field name = "DATELINE">NAIROBI, March 3 -</field>
-	<field name = "BODY">The Kenyan economy is heading for
+	<field name = "content">The Kenyan economy is heading for
 difficult times after a boom last year, and the country must
 tighten its belt to prevent the balance of payments swinging
 too far into deficit, President Daniel Arap Moi said.

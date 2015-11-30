@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:44:20.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1369reute
-d f BC-DELTA-AIR-DAL>-TO-EX   04-07 0106</field>
-	<field name = "TITLE">DELTA AIR DAL> TO EXPAND PASSENGER TERMINAL</field>
+	<field name = "titulo">DELTA AIR DAL> TO EXPAND PASSENGER TERMINAL</field>
 	<field name = "DATELINE">DALLAS, April 7 -</field>
-	<field name = "BODY">Delta Air Lines Inc said it began
+	<field name = "content">Delta Air Lines Inc said it began
 construction to expand its passenger terminal facilities at
 Dallas/Fort Worth International Airport.
     Adding a new nine-gate terminal that will be connected to

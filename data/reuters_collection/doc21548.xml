@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 04:18:04.32</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0232reute
-u f BC-TDK-SALES-RISE-ON-ELE   10-19 0112</field>
-	<field name = "TITLE">TDK SALES RISE ON ELECTRONIC PARTS SALES</field>
+	<field name = "titulo">TDK SALES RISE ON ELECTRONIC PARTS SALES</field>
 	<field name = "DATELINE">TOKYO, Oct 19 -</field>
-	<field name = "BODY">TDK Corp TDK.T> said its sales rose 3.6
+	<field name = "content">TDK Corp TDK.T> said its sales rose 3.6
 pct in the three months ended August 31 due to better sales of
 electronic materials and components, which grew 9.2 pct
 compared with the same period of 1986.

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 12:02:24.21</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1512reute
-u f BC-BAYBANKS-INC-BBNK>-1   04-09 0057</field>
-	<field name = "TITLE">BAYBANKS INC BBNK> 1ST QTR NET</field>
+	<field name = "titulo">BAYBANKS INC BBNK> 1ST QTR NET</field>
 	<field name = "DATELINE">BOSTON, April 9 -</field>
-	<field name = "BODY">Oper shr 1.08 dlrs vs 96 cts
+	<field name = "content">Oper shr 1.08 dlrs vs 96 cts
     Oper shr diluted 1.02 dlrs vs 89 cts
     Oper net 16.1 mln vs 12.8 mln
     Avg shrs 14.9 mln vs 13.4 mln

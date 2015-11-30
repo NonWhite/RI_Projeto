@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 14:40:35.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2154reute
-u f BC-FNMA-DELAYS-DEBENTURE   03-24 0059</field>
-	<field name = "TITLE">FNMA DELAYS DEBENTURE OFFERING ANNOUNCEMENT</field>
+	<field name = "titulo">FNMA DELAYS DEBENTURE OFFERING ANNOUNCEMENT</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">The Federal National Mortgage
+	<field name = "content">The Federal National Mortgage
 Association said it will announce its coming debenture offering
 next Monday instead of this Friday as originally scheduled.
     It said the debentures, which are for settlement April 10,

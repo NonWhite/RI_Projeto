@@ -4,12 +4,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">T
-f1621reute
-u f BC-EUROPEAN-BEET-SOWINGS   04-24 0120</field>
-	<field name = "TITLE">EUROPEAN BEET SOWINGS CATCH UP, USSR DELAYED</field>
+	<field name = "titulo">EUROPEAN BEET SOWINGS CATCH UP, USSR DELAYED</field>
 	<field name = "DATELINE">RATZEBURG, April 24 -</field>
-	<field name = "BODY">Fine weather throughout Europe
+	<field name = "content">Fine weather throughout Europe
 allowed farmers to make good progress with sugar beet sowings
 during the period April 16-21, but conditions in the Soviet
 Union remained unfavourable, West German analyst F.O. Licht

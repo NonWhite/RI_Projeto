@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 13:08:27.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1799reute
-u f BC-GM-GM>-UAW-COUNCIL-O   06-01 0095</field>
-	<field name = "TITLE">GM GM> UAW COUNCIL OPENS SESSION</field>
+	<field name = "titulo">GM GM> UAW COUNCIL OPENS SESSION</field>
 	<field name = "DATELINE">DETROIT, June 1 -</field>
-	<field name = "BODY">About 300 local representatives on the
+	<field name = "content">About 300 local representatives on the
 United Automobile Workers union's General Motors Corp
 bargaining council convened at a Detroit hotel this morning for
 private strategy sessions in the run-up to this summer's

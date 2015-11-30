@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0373reute
-b f BC-/-FED-NOT-EXPECTED-TO   03-06 0055</field>
-	<field name = "TITLE">FED NOT EXPECTED TO ACT IN MONEY MARKETS</field>
+	<field name = "titulo">FED NOT EXPECTED TO ACT IN MONEY MARKETS</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">The Federal Reserve is unlikely to
+	<field name = "content">The Federal Reserve is unlikely to
 operate in the U.S. government securities market during its
 usual intervention period this morning, economists said.
     Fed funds opened comfortably at 5-15/16 pct and remained at

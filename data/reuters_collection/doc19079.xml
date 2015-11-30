@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 06:53:26.52</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM 
-f0427reute
-b f BC-ITALY'S-CIR-SEEKS-200   06-19 0079</field>
-	<field name = "TITLE">ITALY'S CIR SEEKS 200 MLN DLR LOAN FACILITY</field>
+	<field name = "titulo">ITALY'S CIR SEEKS 200 MLN DLR LOAN FACILITY</field>
 	<field name = "DATELINE">LONDON, June 19 -</field>
-	<field name = "BODY">Compagnie Industriali Riunite (CIR) has
+	<field name = "content">Compagnie Industriali Riunite (CIR) has
 asked Citicorp Investment Bank Ltd to arrange a 200 mln dlr
 syndicated loan facility, which will have a final maturity of
 seven years, Citicorp said.

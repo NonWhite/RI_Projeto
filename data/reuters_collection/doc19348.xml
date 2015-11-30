@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:27:09.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f1975reute
-r f BC-DIGICON-OFFERS-NEW-DE   06-19 0108</field>
-	<field name = "TITLE">DIGICON OFFERS NEW DEBT FOR OUTSTANDING DEBT</field>
+	<field name = "titulo">DIGICON OFFERS NEW DEBT FOR OUTSTANDING DEBT</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Digicon Inc said it is offering to
+	<field name = "content">Digicon Inc said it is offering to
 exchange about 55 mln dlrs of outstanding subordinated
 debentures for a package of new issues.
     The outstanding debenture issues include 12-7/8 pct senior

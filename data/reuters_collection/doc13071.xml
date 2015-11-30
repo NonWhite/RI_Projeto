@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 14:21:09.53</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1956reute
-r f BC-SEC   04-03 0114</field>
-	<field name = "TITLE">SEC CLARIFIES POSITION ON TENDER OFFER CHANGES</field>
+	<field name = "titulo">SEC CLARIFIES POSITION ON TENDER OFFER CHANGES</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The Securities and Exchange
+	<field name = "content">The Securities and Exchange
 Commission reminded corporate raiders and others tendering for
 the shares of companies that they must extend the period their
 offers are open if key conditions are changed.

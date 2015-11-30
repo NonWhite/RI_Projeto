@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM V
-f0586reute
-r f BC-JAPAN-CONCERNED-AT-EC   06-02 0119</field>
-	<field name = "TITLE">JAPAN CONCERNED AT EC TRADE THREATS - MINISTER</field>
+	<field name = "titulo">JAPAN CONCERNED AT EC TRADE THREATS - MINISTER</field>
 	<field name = "DATELINE">TOKYO, June 2 -</field>
-	<field name = "BODY">Japan is disappointed at the recent threats
+	<field name = "content">Japan is disappointed at the recent threats
 of trade retaliation from the European Community (EC) just as
 the trade situation between the two is improving, Japanese
 Trade and Industry Minister Hajime Tamura said.

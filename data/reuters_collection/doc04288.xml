@@ -3,13 +3,10 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">portugal</field>
-	<field name = "UNKNOWN">C G
-f0448reute
-u f BC-PORTUGUESE-GRAIN-AGEN   03-12 0093</field>
-	<field name = "TITLE">PORTUGAL GRAIN AGENCY BARRED FROM IMPORT TENDERS</field>
+	<field name = "titulo">PORTUGAL GRAIN AGENCY BARRED FROM IMPORT TENDERS</field>
 	<field name = "AUTHOR">By Pascal Fletcher, Reuters</field>
 	<field name = "DATELINE">LISBON, March 12 -</field>
-	<field name = "BODY">A Portuguese court has made a
+	<field name = "content">A Portuguese court has made a
 preliminary ruling that the state grain buying agency EPAC
 should not be allowed to take part in public import tenders
 open to private importers, grain traders and officials said.

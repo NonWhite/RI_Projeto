@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:18:00.98A RM</field>
-	<field name = "UNKNOWN">f1224reute</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-DEALERS-SAY-FED-INTER   03-27 0110</field>
-	<field name = "TITLE">DEALERS SAY FED INTERVENED BUYING DOLLARS IN U.S.</field>
+	<field name = "titulo">DEALERS SAY FED INTERVENED BUYING DOLLARS IN U.S.</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">U.S. dealers said the New York Federal
+	<field name = "content">U.S. dealers said the New York Federal
 Reserve Bank has intervened in the foreign exchange market
 today buying dollars against yen.
     Fed officials do not comment on such intervention, but

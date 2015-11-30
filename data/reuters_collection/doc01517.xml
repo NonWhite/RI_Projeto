@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 11:01:17.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0525reute
-u f BC-WAXMAN-INDUSTRIES-WA   03-04 0079</field>
-	<field name = "TITLE">WAXMAN INDUSTRIES WAXM> TO SELL CONVERTIBLES</field>
+	<field name = "titulo">WAXMAN INDUSTRIES WAXM> TO SELL CONVERTIBLES</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Waxman Industries Inc said it filed
+	<field name = "content">Waxman Industries Inc said it filed
 with the Securities and Exchange Commission a registration
 statement covering a 25 mln dlr issue of convertible
 subordinated debentures due 2007.

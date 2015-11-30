@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 00:22:15.09</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0008reute
-u f BC-JAPAN-TO-DEVELOP-FIGH   03-31 0099</field>
-	<field name = "TITLE">JAPAN TO DEVELOP FIGHTER PLANE WITH U.S.</field>
+	<field name = "titulo">JAPAN TO DEVELOP FIGHTER PLANE WITH U.S.</field>
 	<field name = "DATELINE">TOKYO, March 31 -</field>
-	<field name = "BODY">Japan has decided to cooperate with the
+	<field name = "content">Japan has decided to cooperate with the
 U.S. To develop a new generation of fighter planes, Defence
 Minister Yuko Kurihara said.
     Japan is now in a major trade dispute with Washington, but

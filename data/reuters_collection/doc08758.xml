@@ -9,12 +9,9 @@
 	<field name = "TOPICS">barley</field>
 	<field name = "TOPICS">oat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1082reute
-u f BC-/RICE,-CORN-LEAD-1987   03-24 0136</field>
-	<field name = "TITLE">RICE, CORN LEAD 1987 U.S. FARM PAYMENTS - USDA</field>
+	<field name = "titulo">RICE, CORN LEAD 1987 U.S. FARM PAYMENTS - USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">Rice and corn farmers will receive
+	<field name = "content">Rice and corn farmers will receive
 the largest payments from the U.S. government during 1987 if
 the subsidies are calculated per planted acre, the U.S.
 Agriculture Department said.

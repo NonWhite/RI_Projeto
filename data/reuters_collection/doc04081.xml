@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 04:58:20.18</field>
 	<field name = "PLACES">new-zealand</field>
 	<field name = "PEOPLE">douglas</field>
-	<field name = "UNKNOWN">RM
-f0347reute
-u f BC-N.Z.-BUDGET-DEFICIT-W   03-12 0109</field>
-	<field name = "TITLE">N.Z. BUDGET DEFICIT WIDENS IN 10 MONTHS TO JANUARY</field>
+	<field name = "titulo">N.Z. BUDGET DEFICIT WIDENS IN 10 MONTHS TO JANUARY</field>
 	<field name = "DATELINE">WELLINGTON, March 12 -</field>
-	<field name = "BODY">New Zealand's budget deficit in the
+	<field name = "content">New Zealand's budget deficit in the
 10 months to January widened to 4.37 billion N.Z. Dlrs from
 3.41 billion in the 10 months to January 1986, government
 figures show.

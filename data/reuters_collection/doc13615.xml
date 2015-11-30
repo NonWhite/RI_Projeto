@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:14:55.93</field>
-	<field name = "UNKNOWN">C G
-f0565reute
-u f BC-MORE-RAIN-IN-THE-NORT   04-07 0130</field>
-	<field name = "TITLE">MORE RAIN IN THE NORTHEASTERN UNITED STATES</field>
+	<field name = "titulo">MORE RAIN IN THE NORTHEASTERN UNITED STATES</field>
 	<field name = "DATELINE">Kansas City, April 7 -</field>
-	<field name = "BODY">The National Weather Service said a
+	<field name = "content">The National Weather Service said a
 storm, centered off the east of Massachusetts early this
 morning, continued to produce rain across New England, and as
 far west as Michigan, Ohio and west Virginia. Some areas in the

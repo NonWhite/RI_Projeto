@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 15:34:46.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0315reute
-r f BC-ANHEUSER-BUSCH-BUD>   03-12 0081</field>
-	<field name = "TITLE">ANHEUSER-BUSCH BUD> DEBENTURES ISSUED</field>
+	<field name = "titulo">ANHEUSER-BUSCH BUD> DEBENTURES ISSUED</field>
 	<field name = "DATELINE">ST. LOUIS, March 12 -</field>
-	<field name = "BODY">Anheuser-Busch Cos Inc said it will
+	<field name = "content">Anheuser-Busch Cos Inc said it will
 issue 150 mln dlrs in principal amount of 8-1/2 pct sinking
 fund debentures due March 1, 2017.
     It said the offering will be through an underwriting

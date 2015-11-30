@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 06:02:24.73</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0416reute
-r f BC-KRUPP-HAS-SATISFACTOR   03-26 0102</field>
-	<field name = "TITLE">KRUPP HAS SATISFACTORY 1986 RESULTS</field>
+	<field name = "titulo">KRUPP HAS SATISFACTORY 1986 RESULTS</field>
 	<field name = "DATELINE">ESSEN, West Germany, March 26 -</field>
-	<field name = "BODY">The Fried. Krupp GmbH
+	<field name = "content">The Fried. Krupp GmbH
 KRPG.D> steel and engineering group said it had a satisfactory
 1986 despite a provisional 12 pct fall in total group sales to
 18.1 billion marks from 20.7 billion the previous year.

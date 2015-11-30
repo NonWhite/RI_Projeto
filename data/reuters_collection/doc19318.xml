@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:54:05.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM 
-f1882reute
-b f BC-CONT'L-ILLINOIS-CIL>   06-19 0088</field>
-	<field name = "TITLE">CONT'L ILLINOIS CIL> PLANS TO ADD TO RESERVE</field>
+	<field name = "titulo">CONT'L ILLINOIS CIL> PLANS TO ADD TO RESERVE</field>
 	<field name = "DATELINE">CHICAGO, June 19 -</field>
-	<field name = "BODY">Continental Illinois Corp will add to
+	<field name = "content">Continental Illinois Corp will add to
 its reserves against bad loans from less developed countries
 when its board meets next week, E.F. Hutton analyst Fred Meinke
 said.

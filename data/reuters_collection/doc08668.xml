@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 07:21:18.55</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">A
-f0537reute
-h f BC-PHILIPPINES-SAID-TO-R   03-24 0108</field>
-	<field name = "TITLE">PHILIPPINES SAID TO RAISE INTEREST OFFER TO BANKS</field>
+	<field name = "titulo">PHILIPPINES SAID TO RAISE INTEREST OFFER TO BANKS</field>
 	<field name = "DATELINE">MANILA, March 24 -</field>
-	<field name = "BODY">Prospects of an agreement on
+	<field name = "content">Prospects of an agreement on
 rescheduling about 9.4 billion dlrs of Philippine foreign debt
 have increased following the offer of a higher interest rate by
 Manila officials, foreign banking sources said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:33:52.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f1033reute
-d f BC-BARCLAYS-NAMES-NEW-NO   04-07 0102</field>
-	<field name = "TITLE">BARCLAYS NAMES NEW NORTH AMERICAN CHIEF OFFICER</field>
+	<field name = "titulo">BARCLAYS NAMES NEW NORTH AMERICAN CHIEF OFFICER</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Barclays Bank Plc said it has promoted
+	<field name = "content">Barclays Bank Plc said it has promoted
 John Kerslake to chief executive officer of its North American
 operations with overall responsibility for the bank's U.S.
 banking and finance operations.

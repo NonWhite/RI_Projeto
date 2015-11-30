@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 17:54:44.54</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f2732reute
-b f BC-******NASDAQ-SHORT-IN   03-24 0052</field>
-	<field name = "TITLE">NASDAQ SHORT INTEREST IN MARCH FALLS</field>
+	<field name = "titulo">NASDAQ SHORT INTEREST IN MARCH FALLS</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">NASDAQ said short interest as of
+	<field name = "content">NASDAQ said short interest as of
 mid-march totaled 184.9 mln shares compared to 215.7 mln shares
 for the month of February.
     NASDAQ said the mid-March figures are based on 3,983

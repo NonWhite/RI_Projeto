@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 09:53:42.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0959reute
-u f BC-CPC-CPC>-EXPECTS-EUR   03-25 0099</field>
-	<field name = "TITLE">CPC CPC> EXPECTS EUROPEAN SALE TO CUT DEBT</field>
+	<field name = "titulo">CPC CPC> EXPECTS EUROPEAN SALE TO CUT DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">CPC International Inc officials said
+	<field name = "content">CPC International Inc officials said
 the sale of the company's European corn wet milling business
 will remove about 700 mln dlrs of debt and liabilities from
 CPC's balance sheet.

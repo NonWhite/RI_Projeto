@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 17:39:43.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2753reute
-u f BC-THREE-TRADERS-INDICTE   04-09 0111</field>
-	<field name = "TITLE">THREE TRADERS INDICTED FOR INSIDER TRADING</field>
+	<field name = "titulo">THREE TRADERS INDICTED FOR INSIDER TRADING</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">A Grand Jury in Manhattan Federal Court
+	<field name = "content">A Grand Jury in Manhattan Federal Court
 indicted three arbitrageurs, charging they swapped inside
 information between their firms, Goldman Sachs and Co and
 Kidder Peabody and Co, court documents showed.

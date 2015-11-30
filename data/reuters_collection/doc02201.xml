@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">spain</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0750reute
-u f BC-BANCO-SANTANDER-TO-BU   03-05 0113</field>
-	<field name = "TITLE">BANCO SANTANDER TO BUY WEST GERMANY'S CC-BANK</field>
+	<field name = "titulo">BANCO SANTANDER TO BUY WEST GERMANY'S CC-BANK</field>
 	<field name = "DATELINE">MADRID, March 5 -</field>
-	<field name = "BODY">Banco Santander> signed a letter of
+	<field name = "content">Banco Santander> signed a letter of
 intent with Bank of America BAC> to purchase its West German
 affiliate Bankhaus Centrale Credit AG>, CC-Bank, the bank said
 in a statement amplifying an earlier report from Frankfurt.

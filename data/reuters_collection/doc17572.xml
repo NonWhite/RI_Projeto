@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 11:04:49.38</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1298reute
-u f BC-PAY-N'-PAK-PNP>-GETS   06-01 0103</field>
-	<field name = "TITLE">PAY N' PAK PNP> GETS TWO OFFERS FOR COMPANY</field>
+	<field name = "titulo">PAY N' PAK PNP> GETS TWO OFFERS FOR COMPANY</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Pay N' Pak Stores Inc said it received
+	<field name = "content">Pay N' Pak Stores Inc said it received
 two proposals in response to its previously announced
 solicitation of potential buyers for the company.
     The company said it is evaluating the proposals from Paul

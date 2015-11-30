@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 08:17:59.87</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f4694reute
-r f BC-COMMERCIAL-INTERNATIO   03-17 0107</field>
-	<field name = "TITLE">COMMERCIAL INTERNATIONAL CMMC> MAKES PURCHASE</field>
+	<field name = "titulo">COMMERCIAL INTERNATIONAL CMMC> MAKES PURCHASE</field>
 	<field name = "DATELINE">LOS ANGELES, March 17 -</field>
-	<field name = "BODY">Commercial International Corp said
+	<field name = "content">Commercial International Corp said
 it has completed the previously-announced acquisition of most
 of the assets of Growers Distributing International Corp, a
 table grape marketer, for an undisclosed amount.

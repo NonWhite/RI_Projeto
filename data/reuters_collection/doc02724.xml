@@ -2,13 +2,10 @@
 	<field name = "DATE">6-MAR-1987 12:33:04.76</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0849reute
-u f BC-BANK-OF-ENGLAND-PRESS   03-06 0107</field>
-	<field name = "TITLE">BANK OF ENGLAND PRESSURE HOLDS BASE RATES</field>
+	<field name = "titulo">BANK OF ENGLAND PRESSURE HOLDS BASE RATES</field>
 	<field name = "AUTHOR">By Rowena Whelan, Reuters</field>
 	<field name = "DATELINE">LONDON, March 6 -</field>
-	<field name = "BODY">This week's Bank of England resistance to
+	<field name = "content">This week's Bank of England resistance to
 strong market pressure for lower interest rates succeeded in
 holding bank base rates at 11 pct.
     But at a cost of threatening the Chancellor of the

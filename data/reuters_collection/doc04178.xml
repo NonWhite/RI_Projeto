@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 09:21:40.82</field>
 	<field name = "PLACES">jamaica</field>
-	<field name = "UNKNOWN">C G T M
-f0900reute
-d f AM-JAMAICA   03-12 0140</field>
-	<field name = "TITLE">JAMAICA PUTS CAP ON BORROWING</field>
+	<field name = "titulo">JAMAICA PUTS CAP ON BORROWING</field>
 	<field name = "DATELINE">KINGSTON, Jamaica, March 12 -</field>
-	<field name = "BODY">Jamaica has put a cap on its
+	<field name = "content">Jamaica has put a cap on its
 3.5 billion dlr foreign debt and will reduce its obligations by
 300 mln dlrs this year, Prime Minister Edward Seaga said.
     Seaga yesterday said Jamaica has reached its "maximum stock

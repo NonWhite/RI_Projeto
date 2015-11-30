@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">canada</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C G 
-f3570reute
-r f BC-CANADA-SEEKS-5-YEAR-F   10-20 0105</field>
-	<field name = "TITLE">CANADA SEEKS FIVE YEAR FARM REFORM PLAN</field>
+	<field name = "titulo">CANADA SEEKS FIVE YEAR FARM REFORM PLAN</field>
 	<field name = "DATELINE">OTTAWA, Oct 20 -</field>
-	<field name = "BODY">Canada will propose at the new round of
+	<field name = "content">Canada will propose at the new round of
 international trade talks that most trade-distorting farm
 subsidies be phased out over a five year period, Trade Minister
 Pat Carney said.

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 11:20:24.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0539reute
-r f BC-U.S.-CORPORATE-FINANC   03-09 0109</field>
-	<field name = "TITLE">U.S. CORPORATE FINANCE - S/P CUT HAS NO EFFECT</field>
+	<field name = "titulo">U.S. CORPORATE FINANCE - S/P CUT HAS NO EFFECT</field>
 	<field name = "AUTHOR">By John Picinich, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">In an unusual move, Standard and Poor's
+	<field name = "content">In an unusual move, Standard and Poor's
 Corp downgraded a U.S. corporate debt issue soon after it was
 priced for offering late last week.
     But, unlike a similar action in September 1986, which

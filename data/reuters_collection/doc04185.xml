@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 09:29:02.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0937reute
-d f BC-FIRST-AMERI-CABLE-FA   03-12 0113</field>
-	<field name = "TITLE">FIRST AMERI-CABLE FATV> FILES OFFERING</field>
+	<field name = "titulo">FIRST AMERI-CABLE FATV> FILES OFFERING</field>
 	<field name = "DATELINE">COLUMBUS, Ohio, March 12 -</field>
-	<field name = "BODY">First Ameri-Cable Corp said that
+	<field name = "content">First Ameri-Cable Corp said that
 First Ameri-Cable Income Fund Ltd filed a registration
 statement with the Securities and Exchange Commission to raise
 from one mln dlrs to 50 mln dlrs on a best efforts basis.

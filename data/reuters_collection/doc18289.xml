@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 16:25:25.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2601reute
-d f BC-PIEDMONT-AIRLINES-PI   06-02 0080</field>
-	<field name = "TITLE">PIEDMONT AIRLINES PIE> REPORTS CARGO RESULTS</field>
+	<field name = "titulo">PIEDMONT AIRLINES PIE> REPORTS CARGO RESULTS</field>
 	<field name = "DATELINE">WINSTON-SALEM, N.C., June 2 -</field>
-	<field name = "BODY">Piedmont Airlines said its
+	<field name = "content">Piedmont Airlines said its
 total cargo load in April increased 39.5 pct compared to April
 1986.
     Piedmont said in April 1987 it carried a total of 4,949,369

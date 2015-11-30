@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 10:06:06.42</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1036reute
-b f BC-BRIXTON-ESTATE-LAUNCH   06-02 0075</field>
-	<field name = "TITLE">BRIXTON ESTATE LAUNCHES UNLIMITED STG CP PROGRAM</field>
+	<field name = "titulo">BRIXTON ESTATE LAUNCHES UNLIMITED STG CP PROGRAM</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">Brixton Estate Plc is establishing a
+	<field name = "content">Brixton Estate Plc is establishing a
 sterling commercial paper program for an unlimited amount, J.
 Henry Schroder Wagg and Co Ltd said as arranger.
     Dealers will be Schroder Wagg, S.G. Warburg and Co Ltd and

@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">C G L M T
-f0230reute
-d f AM-KOREA-RHA   03-04 0134</field>
-	<field name = "TITLE">S. KOREAN TRADE SURPLUS WITH U.S. SEEN FALLING</field>
+	<field name = "titulo">S. KOREAN TRADE SURPLUS WITH U.S. SEEN FALLING</field>
 	<field name = "DATELINE">CHICAGO, March 4, -</field>
-	<field name = "BODY">South Korea's record 7.1 billion dlrs
+	<field name = "content">South Korea's record 7.1 billion dlrs
 trade surplus with the U.S. is bound to diminish as the
 country switches purchases from Japan in favor of U.S.
 companies, Trade Minister Woong-Bae Rha said.

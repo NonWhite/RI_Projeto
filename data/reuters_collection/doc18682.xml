@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 10:30:38.61</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">corrigan</field>
-	<field name = "UNKNOWN">RM F A 
-f3241reute
-u f BC-/N.Y.-FED-PRESIDENT-U   06-18 0108</field>
-	<field name = "TITLE">N.Y. FED PRESIDENT URGES BANK REFORM</field>
+	<field name = "titulo">N.Y. FED PRESIDENT URGES BANK REFORM</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">New York Federal Reserve President E.
+	<field name = "content">New York Federal Reserve President E.
 Gerald Corrigan said he favors bank reform but wants to
 maintain the separation of banking and commerce.
     "As I see it, the case for fundamental reform in our banking

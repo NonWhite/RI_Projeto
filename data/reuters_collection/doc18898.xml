@@ -7,12 +7,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">poland</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G 
-f4202reute
-u f BC-EC-UPS-SIZE-OF-SPECIA   06-18 0098</field>
-	<field name = "TITLE">EC INCREASES SPECIAL FEED WHEAT TENDERS - TRADE</field>
+	<field name = "titulo">EC INCREASES SPECIAL FEED WHEAT TENDERS - TRADE</field>
 	<field name = "DATELINE">LONDON, June 18 -</field>
-	<field name = "BODY">The European Community (EC) has increased
+	<field name = "content">The European Community (EC) has increased
 the size of two special export tenders for British and West
 German feed wheat held in intervention stores and included
 South Korea as an acceptable destination, traders said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">bahrain</field>
-	<field name = "UNKNOWN">V
-f0716reute
-u f BC-IRAN-SAID-TO-TEST-FIR   03-24 0099</field>
-	<field name = "TITLE">IRAN SAID TO TEST FIRE SILKWORM MISSILE IN HORMUZ</field>
+	<field name = "titulo">IRAN SAID TO TEST FIRE SILKWORM MISSILE IN HORMUZ</field>
 	<field name = "DATELINE">BAHRAIN, March 24 -</field>
-	<field name = "BODY">Iran has test-fired its newly acquired
+	<field name = "content">Iran has test-fired its newly acquired
 Silkworm anti-shipping missile in the Strait of Hormuz and has
 set up at least two land-based launching sites in the area, a
 British naval source in the Gulf said.

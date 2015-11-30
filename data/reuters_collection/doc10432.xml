@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:20:30.33A RM</field>
-	<field name = "UNKNOWN">f0998reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-MOTOR-WHEEL-SELLS-SEN   03-27 0089</field>
-	<field name = "TITLE">MOTOR WHEEL SELLS SENIOR SUBORDINATED NOTES</field>
+	<field name = "titulo">MOTOR WHEEL SELLS SENIOR SUBORDINATED NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">Motor Wheel Corp is raising 100 mln
+	<field name = "content">Motor Wheel Corp is raising 100 mln
 dlrs through an offering of senior subordinated notes due 1997
 with an 11-3/8 pct coupon and par pricing, said lead manager
 PaineWebber Inc.

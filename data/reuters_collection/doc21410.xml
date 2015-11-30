@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 10:17:52.03</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1197reute
-u f BC-BERKEY   10-19 0108</field>
-	<field name = "TITLE">WARNER WCI> HAS 8.2 PCT BERKEY INC BKY> STAKE</field>
+	<field name = "titulo">WARNER WCI> HAS 8.2 PCT BERKEY INC BKY> STAKE</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">Warner Communications Inc said its
+	<field name = "content">Warner Communications Inc said its
 Warner Communications Investors Inc unit acquired stock and
 warrants representing 416,668 shares of Berkey Inc common
 stock, or the equivalent of 8.2 pct of the company's common

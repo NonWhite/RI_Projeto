@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 03:48:03.56</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0315reute
-r f BC-SWISS-INDUSTRIAL-OUTP   03-09 0119</field>
-	<field name = "TITLE">SWISS INDUSTRIAL OUTPUT RISES IN FOURTH QQUARTER</field>
+	<field name = "titulo">SWISS INDUSTRIAL OUTPUT RISES IN FOURTH QQUARTER</field>
 	<field name = "DATELINE">BERNE, March 9 -</field>
-	<field name = "BODY">Swiss industrial output rose nine pct in
+	<field name = "content">Swiss industrial output rose nine pct in
 the fourth quarter last year after a four pct third quarter
 decline, and was up three pct from the final three months of
 1985, the Federal Office of Industry, Trade and Labour said.

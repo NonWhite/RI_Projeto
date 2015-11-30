@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-APR-1987 18:32:18.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3036reute
-r f BC-GCA-GCA>-COMPLETES-F   04-23 0102</field>
-	<field name = "TITLE">GCA GCA> COMPLETES FINANCIAL RESTRUCTURING</field>
+	<field name = "titulo">GCA GCA> COMPLETES FINANCIAL RESTRUCTURING</field>
 	<field name = "DATELINE">ANDOVER, Mass., April 23 -</field>
-	<field name = "BODY">GCA Corp said it completed its
+	<field name = "content">GCA Corp said it completed its
 previously announced plan of financial restructuring under
 which Hallwood Group Inc HWG> took a 14 pct interest in the
 company, a maker of semiconductor manufacturing equipment.

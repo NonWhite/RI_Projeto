@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0530reute
-r f BC-BANK-OF-JAPAN-DEPUTY   04-27 0101</field>
-	<field name = "TITLE">BANK OF JAPAN DEPUTY SAYS NO NEW MEASURES PLANNED</field>
+	<field name = "titulo">BANK OF JAPAN DEPUTY SAYS NO NEW MEASURES PLANNED</field>
 	<field name = "DATELINE">TOKYO, April 27 -</field>
-	<field name = "BODY">The Bank of Japan's deputy governor
+	<field name = "content">The Bank of Japan's deputy governor
 Yasushi Mieno told a parliamentary Upper House budget committee
 that the central bank has no monetary measures other than
 intervention planned to stabilize currency rates.

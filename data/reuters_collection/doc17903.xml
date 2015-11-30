@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 04:23:17.41</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0247reute
-u f BC-FUJITSU-SAYS-SOME-ISS   06-02 0105</field>
-	<field name = "TITLE">FUJITSU SAYS SOME ISSUES RESOLVED IN IBM DISPUTE</field>
+	<field name = "titulo">FUJITSU SAYS SOME ISSUES RESOLVED IN IBM DISPUTE</field>
 	<field name = "DATELINE">TOKYO, June 2 -</field>
-	<field name = "BODY">Fujitsu Ltd ITSU.T> and International
+	<field name = "content">Fujitsu Ltd ITSU.T> and International
 Business Machines Corp IBM.N> (IBM) had resolved some issues
 in a longstanding dispute over software copyright protection,
 Fujitsu said in a prospectus for a warrant bond recently issued

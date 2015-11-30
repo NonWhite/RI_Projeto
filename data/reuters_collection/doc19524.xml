@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 05:04:23.11</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">RM 
-f0309reute
-u f BC-THAI-MINISTER-SAYS-PR   06-29 0109</field>
-	<field name = "TITLE">THAI MINISTER SAYS PREM MAY DISSOLVE PARLIAMENT</field>
+	<field name = "titulo">THAI MINISTER SAYS PREM MAY DISSOLVE PARLIAMENT</field>
 	<field name = "DATELINE">BANGKOK, June 29 -</field>
-	<field name = "BODY">A split in the Thai government's main
+	<field name = "content">A split in the Thai government's main
 coalition party may prompt Prime Minister Prem Tinsulanonda to
 dissolve parliament soon, Interior Minister Prachuab
 Suntharangun said.

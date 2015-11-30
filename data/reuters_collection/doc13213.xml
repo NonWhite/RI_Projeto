@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 18:05:00.37</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F
-f2507reute
-d f BC-COMTERM-INC>-YEAR-JA   04-03 0060</field>
-	<field name = "TITLE">COMTERM INC> YEAR JAN 31 LOSS</field>
+	<field name = "titulo">COMTERM INC> YEAR JAN 31 LOSS</field>
 	<field name = "DATELINE">MONTREAL, April 3 -</field>
-	<field name = "BODY">Oper shr loss 30 cts vs profit eight cts
+	<field name = "content">Oper shr loss 30 cts vs profit eight cts
     Oper net loss 5,887,996 vs profit 1,620,312
     Revs 32.4 mln vs 48.5 mln
     Note: 1987 net excludes extraordinary gain of 2.7 mln dlrs

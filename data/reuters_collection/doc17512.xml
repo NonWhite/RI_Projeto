@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 09:40:01.44</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0954reute
-u f BC-ENTERTAINMENT-MAKES-B   06-01 0098</field>
-	<field name = "TITLE">ENTERTAINMENT MAKES BUYOUT OFFER TO CRAZY EDDIE</field>
+	<field name = "titulo">ENTERTAINMENT MAKES BUYOUT OFFER TO CRAZY EDDIE</field>
 	<field name = "DATELINE">HOUSTON, Texas, June 1 -</field>
-	<field name = "BODY">Entertainment Marketing Inc EM>
+	<field name = "content">Entertainment Marketing Inc EM>
 said it has made an offer to the board of Crazy Eddie Inc to
 acquire all outstanding shares of Crazy Eddie Inc for eight
 dlrs a share in cash.

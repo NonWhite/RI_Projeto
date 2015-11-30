@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 12:49:05.51</field>
 	<field name = "PLACES">pakistan</field>
 	<field name = "PLACES">afghanistan</field>
-	<field name = "UNKNOWN">C G L M T
-f0054reute
-d f AM-AFGHAN-COMPLAINT   03-05 0130</field>
-	<field name = "TITLE">PAKISTAN COMPLAINS ABOUT AFGHAN AIR RAIDS</field>
+	<field name = "titulo">PAKISTAN COMPLAINS ABOUT AFGHAN AIR RAIDS</field>
 	<field name = "DATELINE">UNITED NATIONS, March 5 -</field>
-	<field name = "BODY">Pakistan complained to the United
+	<field name = "content">Pakistan complained to the United
 Nations today that planes from Afghanistan attacked Pakistani
 villages last Thursday and Friday, killing 90 people and
 wounding 230 others.

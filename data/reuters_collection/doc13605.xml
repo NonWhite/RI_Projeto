@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:10:50.20</field>
-	<field name = "UNKNOWN">C G L M T RM
-f0549reute
-u f BC-REUTER-COMMODITIES-NE   04-07 0111</field>
-	<field name = "TITLE">REUTER COMMODITIES NEWS HIGHLIGHTS 1200 GMT - APRIL 7</field>
+	<field name = "titulo">REUTER COMMODITIES NEWS HIGHLIGHTS 1200 GMT - APRIL 7</field>
 	<field name = "DATELINE">LONDON -</field>
-	<field name = "BODY">The International Cocoa Organization buffer stock
+	<field name = "content">The International Cocoa Organization buffer stock
 could face an uphill battle to halt the downtrend in world
 cocoa prices when it begins operations in the next few weeks,
 cocoa traders said. They believed buffer stock purchases could

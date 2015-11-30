@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 13:19:50.58</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2318reute
-d f BC-U.S-COMMERCE-DEPT-OPP   10-20 0097</field>
-	<field name = "TITLE">U.S COMMERCE DEPT OPPOSES FOREIGN TAKEOVER BAN</field>
+	<field name = "titulo">U.S COMMERCE DEPT OPPOSES FOREIGN TAKEOVER BAN</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">Commerce Undersecretary J. Michael
+	<field name = "content">Commerce Undersecretary J. Michael
 Farren opposed language in the trade bill before Congress to
 limit foreign takeovers of U.S. companies.
     "Anything that would serve to have a chilling effect on

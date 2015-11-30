@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 21:02:19.76</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f3936reute
-b f BC-AUSTRALIAN-RESERVES-F   03-16 0102</field>
-	<field name = "TITLE">AUSTRALIAN RESERVES FALL IN FEBRUARY</field>
+	<field name = "titulo">AUSTRALIAN RESERVES FALL IN FEBRUARY</field>
 	<field name = "DATELINE">SYDNEY, March 17 -</field>
-	<field name = "BODY">Australia's official reserve assets fell
+	<field name = "content">Australia's official reserve assets fell
 to the equivalent of 8.50 billion U.S. Dlrs in February, from
 9.15 billion in January, compared with 9.06 billion a year
 earlier, the Reserve Bank said.

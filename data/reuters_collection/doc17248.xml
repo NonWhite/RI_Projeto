@@ -3,12 +3,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">poehl</field>
 	<field name = "PEOPLE">kohl</field>
-	<field name = "UNKNOWN">RM
-f0379reute
-u f BC-POEHL-TO-REMAIN-BUNDE   04-27 0113</field>
-	<field name = "TITLE">POEHL TO REMAIN BUNDESBANK CHIEF, MAGAZINE SAYS</field>
+	<field name = "titulo">POEHL TO REMAIN BUNDESBANK CHIEF, MAGAZINE SAYS</field>
 	<field name = "DATELINE">HAMBURG, April 27 -</field>
-	<field name = "BODY">Chancellor Helmut Kohl has decided to
+	<field name = "content">Chancellor Helmut Kohl has decided to
 keep Bundesbank President Karl Otto Poehl in office for a
 further eight years, the news magazine Der Spiegel said.
     Government officials were not immediately available to

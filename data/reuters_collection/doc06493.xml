@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V
-f8005reute
-u f BC-REAGAN-UPBEAT-ABOUT-L   03-18 0100</field>
-	<field name = "TITLE">REAGAN UPBEAT ABOUT LATEST GNP FIGURES</field>
+	<field name = "titulo">REAGAN UPBEAT ABOUT LATEST GNP FIGURES</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">President Reagan said the 1.1 pct
+	<field name = "content">President Reagan said the 1.1 pct
 U.S. economic growth rate during the final quarter of 1986
 "wasn't all that bad."
     The Commerce Department said the rate of growth of the

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 13:56:14.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2106reute
-r f BC-ROBINSON-NUGENT-RNIC   06-02 0061</field>
-	<field name = "TITLE">ROBINSON NUGENT RNIC.O> PLANT HAS FIRE</field>
+	<field name = "titulo">ROBINSON NUGENT RNIC.O> PLANT HAS FIRE</field>
 	<field name = "DATELINE">NEW ALBANY, Ind., June 2 -</field>
-	<field name = "BODY">Robinson Nugent Inc said a fire
+	<field name = "content">Robinson Nugent Inc said a fire
 that started in the electroplating operation damaged its
 Delemont, Switzerland, plant.
     The company said cleanup operations are in progress and it

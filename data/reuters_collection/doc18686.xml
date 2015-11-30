@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 10:35:49.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3275reute
-u f BC-CONSECO-CNSC.O>-EMER   06-18 0043</field>
-	<field name = "TITLE">CONSECO CNSC.O> EMERGES FROM BANKRUPTCY</field>
+	<field name = "titulo">CONSECO CNSC.O> EMERGES FROM BANKRUPTCY</field>
 	<field name = "DATELINE">LITTLE FERRY, N.J., June 18 -</field>
-	<field name = "BODY">Conseco Industries Ltd said
+	<field name = "content">Conseco Industries Ltd said
 an order of confirmation of its reorganization plan has been
 signed in its Chapter 11 bankruptcy proceedings, terminating
 its status as a debtor in possession.

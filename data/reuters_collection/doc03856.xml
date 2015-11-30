@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 14:09:55.71</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0217reute
-u f BC-SUMITOMO-BANK-SUMI>   03-11 0052</field>
-	<field name = "TITLE">SUMITOMO BANK SUMI> DECLARES STOCK DIVIDEND</field>
+	<field name = "titulo">SUMITOMO BANK SUMI> DECLARES STOCK DIVIDEND</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 11 -</field>
-	<field name = "BODY">Sumitomo Bank of California said
+	<field name = "content">Sumitomo Bank of California said
 it declared a 7-1/2 pct stock dividend in addition to its
 regular quarterly cash dividend of 29 cts per share.
     Both dividends are payable April 27 to shareholders of

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 13:37:55.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1839reute
-d f BC-CITIZENS-FIRST-BANCOR   04-03 0133</field>
-	<field name = "TITLE">CITIZENS FIRST BANCORP CFB> RECEIVES FINE</field>
+	<field name = "titulo">CITIZENS FIRST BANCORP CFB> RECEIVES FINE</field>
 	<field name = "DATELINE">GLEN ROCK, N.J., April 3 -</field>
-	<field name = "BODY">Citizens First Bancorp Inc said
+	<field name = "content">Citizens First Bancorp Inc said
 its banking subsidiary pleaded guilty to two technical
 violations of the Bank Secrecy Act and was fined 2,000 dlrs.
     The subsidiary, Citizens First National Bank of New Jersey,

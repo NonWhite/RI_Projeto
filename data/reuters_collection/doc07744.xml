@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 11:23:49.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1300reute
-d f BC-STANDARD-OIL-SRD>-LE   03-20 0067</field>
-	<field name = "TITLE">STANDARD OIL SRD> LEASES CRAY CYR> COMPUTER</field>
+	<field name = "titulo">STANDARD OIL SRD> LEASES CRAY CYR> COMPUTER</field>
 	<field name = "DATELINE">MINNEAPOLIS, MINN., March 20 -</field>
-	<field name = "BODY">Cray Research Inc said
+	<field name = "content">Cray Research Inc said
 Standard Oil Production Co, a Dallas-based subsidiary of
 Standard Oil Co, will lease its CRAY X-MP/28 supercomputer with
 an SSD solid state storage device.

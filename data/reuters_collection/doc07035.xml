@@ -4,12 +4,9 @@
 	<field name = "TOPICS">income</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0587reute
-u f BC--U.S.-CREDIT-MARKET-O   03-19 0111</field>
-	<field name = "TITLE">U.S. CREDIT MARKET OUTLOOK - SPENDING, M-1</field>
+	<field name = "titulo">U.S. CREDIT MARKET OUTLOOK - SPENDING, M-1</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Brisk increases in personal income and
+	<field name = "content">Brisk increases in personal income and
 consumption are to appear in February data released today, but
 the bond market's recent sluggishness suggests there will be no
 major price reaction unless the rises are much larger than

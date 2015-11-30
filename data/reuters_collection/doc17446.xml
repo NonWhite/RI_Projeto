@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 01:19:37.19</field>
-	<field name = "UNKNOWN">RM
-f0064reute
-u f BC-KOREA-ELECTRIC-POWER   06-01 0067</field>
-	<field name = "TITLE">KOREA ELECTRIC POWER PLANS FIRST EUROYEN BOND</field>
+	<field name = "titulo">KOREA ELECTRIC POWER PLANS FIRST EUROYEN BOND</field>
 	<field name = "DATELINE">SEOUL, June 1 -</field>
-	<field name = "BODY">Korea Electric Power Corp plans to issue
+	<field name = "content">Korea Electric Power Corp plans to issue
 its first euroyen bond, a 7.5 billion yen issue with six-year
 maturity carrying a coupon of less than five pct, company
 officials said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 15:44:31.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2307reute
-d f BC-BANKS-OF-IOWA-BIOW>   03-20 0096</field>
-	<field name = "TITLE">BANKS OF IOWA BIOW> PRIVATELY PLACES STOCK</field>
+	<field name = "titulo">BANKS OF IOWA BIOW> PRIVATELY PLACES STOCK</field>
 	<field name = "DATELINE">DES MOINES, Iowa, March 20 -</field>
-	<field name = "BODY">Banks of Iowa Inc biow> said
+	<field name = "content">Banks of Iowa Inc biow> said
 it has sold 254,608 common shares at 51.50 dlrs each to a group
 of institutional investors through a private placement.
     In connection with the stock sale, the company said, it

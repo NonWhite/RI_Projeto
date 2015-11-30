@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 13:02:03.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2977reute
-d f BC-COLOROCS-CLRX>-SIGNS   03-16 0076</field>
-	<field name = "TITLE">COLOROCS CLRX> SIGNS AGREEMENTS WITH SHARP</field>
+	<field name = "titulo">COLOROCS CLRX> SIGNS AGREEMENTS WITH SHARP</field>
 	<field name = "DATELINE">NORCROSS, Ga., March 16 -</field>
-	<field name = "BODY">Colorocs Corp said it signed a
+	<field name = "content">Colorocs Corp said it signed a
 product supply agreement with Sharp Corp> under which Sharp
 will be the exclusive manufacturer of Colorocs full color
 copiers.

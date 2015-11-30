@@ -3,12 +3,9 @@
 	<field name = "TOPICS">tea</field>
 	<field name = "TOPICS">orange</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G T
-f1112reute
-b f BC-SOVIET-PAPER-DETAILS   03-25 0092</field>
-	<field name = "TITLE">SOVIET PAPER DETAILS GEORGIAN FLOOD DAMAGE</field>
+	<field name = "titulo">SOVIET PAPER DETAILS GEORGIAN FLOOD DAMAGE</field>
 	<field name = "DATELINE">MOSCOW, March 25 -</field>
-	<field name = "BODY">Floods and avalanches killed 110 people
+	<field name = "content">Floods and avalanches killed 110 people
 and caused around 350 mln roubles worth of damage in the
 southern Soviet republic of Georgia earlier this year, the
 government daily Izvestia said.

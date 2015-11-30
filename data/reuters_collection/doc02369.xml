@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 14:49:38.89</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0464reute
-r f BC-YELLOW-FREIGHT-YELL>   03-05 0111</field>
-	<field name = "TITLE">YELLOW FREIGHT YELL> SEES LOWER 1ST QTR NET</field>
+	<field name = "titulo">YELLOW FREIGHT YELL> SEES LOWER 1ST QTR NET</field>
 	<field name = "DATELINE">ST. LOUIS, MO., March 5 -</field>
-	<field name = "BODY">Yellow Freight System Inc said
+	<field name = "content">Yellow Freight System Inc said
 its expects 1987 first quarter profits to be substantially
 below the 14.2 mln dlrs or 50 cts a share earned in the same
 period a year ago.

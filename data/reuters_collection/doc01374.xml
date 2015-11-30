@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 17:27:35.64</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0058reute
-h f BC-VENDO-CO-VEN>-4TH-QT   03-03 0069</field>
-	<field name = "TITLE">VENDO CO VEN> 4TH QTR LOSS</field>
+	<field name = "titulo">VENDO CO VEN> 4TH QTR LOSS</field>
 	<field name = "DATELINE">FRESNO, Calif., March 3 -</field>
-	<field name = "BODY">Shr loss 1.48 dlrs vs loss 36 cts
+	<field name = "content">Shr loss 1.48 dlrs vs loss 36 cts
     Net loss 4,036,000 vs loss 983,000
     Sales 16.6 mln vs 17 mln
     12 mths

@@ -10,12 +10,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">lyng</field>
 	<field name = "PEOPLE">yeutter</field>
-	<field name = "UNKNOWN">RM
-f0290reute
-u f BC-LYNG-WARNS-U.S.-TRADE   04-21 0111</field>
-	<field name = "TITLE">LYNG WARNS U.S. TRADE SITUATION IS EXPLOSIVE (RPT)</field>
+	<field name = "titulo">LYNG WARNS U.S. TRADE SITUATION IS EXPLOSIVE (RPT)</field>
 	<field name = "DATELINE">TOKYO, April 21 -</field>
-	<field name = "BODY">U.S. Agriculture Secretary Richard Lyng
+	<field name = "content">U.S. Agriculture Secretary Richard Lyng
 said Japanese government officials do not seem to understand
 that protectionist sentiment in the U.S. Could lead to an
 explosive situation and protectionist legislation.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 23:38:59.48</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f2781reute
-u f BC-JAPAN'S-LDP-URGES-MOR   04-07 0110</field>
-	<field name = "TITLE">JAPAN'S LDP URGES MORE IMPORTS OF 12 FARM ITEMS</field>
+	<field name = "titulo">JAPAN'S LDP URGES MORE IMPORTS OF 12 FARM ITEMS</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">The ruling Liberal Democratic Party (LDP)
+	<field name = "content">The ruling Liberal Democratic Party (LDP)
 has proposed expanding imports of 12 farm products named in a
 U.S. Complaint against Japan to the General Agreement on
 Tariffs and Trade last year, an LDP official said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 08:25:36.27</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">C M
-f4712reute
-u f AM-SAFRICA 1STLD  03-17 0125</field>
-	<field name = "TITLE">SEVEN KILLED IN BLACK SOUTH AFRICAN TOWNSHIP</field>
+	<field name = "titulo">SEVEN KILLED IN BLACK SOUTH AFRICAN TOWNSHIP</field>
 	<field name = "DATELINE">JOHANNESBURG, March 17 -</field>
-	<field name = "BODY">Seven black youths were knifed and
+	<field name = "content">Seven black youths were knifed and
 shot to death today in a mass killing in the South African
 township of KwaMashu near the Indian Ocean city of Durban, the
 government reported.

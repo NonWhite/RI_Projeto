@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:17:29.15</field>
-	<field name = "UNKNOWN">L
-f1532reute
-u f BC-LOUISVILLE-FEEDERS-ST   04-07 0052</field>
-	<field name = "TITLE">LOUISVILLE FEEDERS STEADY/UP 1.00 DLR - USDA</field>
+	<field name = "titulo">LOUISVILLE FEEDERS STEADY/UP 1.00 DLR - USDA</field>
 	<field name = "DATELINE">louisville, april 7 -</field>
-	<field name = "BODY">feeder cattle steady, instances up
+	<field name = "content">feeder cattle steady, instances up
 1.00 dlr, the usda said.
     steers - medium and large frame 1 - 500-600 lbs
 71.00-78.00, 600-700 lbs 67.75-73.25 and 700-800 lbs

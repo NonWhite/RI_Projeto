@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 18:42:26.46</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2794reute
-u f BC-******GENCORP-REJECTS   03-30 0109</field>
-	<field name = "TITLE">GENCORP GY> REJECTS UNSOLICITED TAKEOVER BID</field>
+	<field name = "titulo">GENCORP GY> REJECTS UNSOLICITED TAKEOVER BID</field>
 	<field name = "DATELINE">AKRON, OHio, March 30 -</field>
-	<field name = "BODY">Gencorp Inc said its board urged
+	<field name = "content">Gencorp Inc said its board urged
 shareholders to reject the hostile unsolicited 100 dlr a share
 tender offer made March 18 by General Acquisition Inc, an
 affiliate of Wagner and Brown and AFG Industries INc.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f8244reute
-b f BC-/-FED-EXPECTED-TO-ADD   03-18 0110</field>
-	<field name = "TITLE">FED EXPECTED TO ADD RESERVES IN MONEY MARKET</field>
+	<field name = "titulo">FED EXPECTED TO ADD RESERVES IN MONEY MARKET</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">The Federal Reserve is expected to
+	<field name = "content">The Federal Reserve is expected to
 enter the U.S. Government securities market to add temporary
 reserves indirectly via 1.5 billion dlrs or more of customer
 repurchase agreements, economists said.

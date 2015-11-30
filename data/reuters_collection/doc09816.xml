@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 08:35:44.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0803reute
-r f BC-NEW-GENERATION-FOODS   03-26 0095</field>
-	<field name = "TITLE">NEW GENERATION FOODS NGEN> SELLS SHARES</field>
+	<field name = "titulo">NEW GENERATION FOODS NGEN> SELLS SHARES</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">New Generation Foods Inc said 17
+	<field name = "content">New Generation Foods Inc said 17
 warrant holders have exercised 1,032,384 warrants, acquiring
 2,064,768 New Generation shares for 1,032,384 dlrs.
     The company said president Jerome S. Flum and Flum

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 06:35:07.89</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f7367reute
-b f BC-DUNHILL-HOLDINGS-ARRA   03-18 0092</field>
-	<field name = "TITLE">DUNHILL HOLDINGS ARRANGES 50 MLN DLR/STG PROGRAM</field>
+	<field name = "titulo">DUNHILL HOLDINGS ARRANGES 50 MLN DLR/STG PROGRAM</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">Dunhill Holdings Plc, a subsidiary of
+	<field name = "content">Dunhill Holdings Plc, a subsidiary of
 Rothmans International PLC ROT.L> has appointed Chemical Bank
 International Ltd as sole dealer for a 50 mln U.S. Dlr and
 sterling commercial paper program, Chemical said.

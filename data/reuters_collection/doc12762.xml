@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 05:05:00.36</field>
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C T
-f0306reute
-u f BC-LONDON-COCOA-TRADES-A   04-03 0110</field>
-	<field name = "TITLE">LONDON COCOA TRADES AT LOWS BY MIDMORNING</field>
+	<field name = "titulo">LONDON COCOA TRADES AT LOWS BY MIDMORNING</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">Cocoa futures fell to session lows by
+	<field name = "content">Cocoa futures fell to session lows by
 midmorning, posting losses from last night of six to two stg a
 tonne in 1987 deliveries, dealers said.
     Weekend profittaking by jobbers and general book-squaring

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 11:45:57.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1620reute
-r f BC-CENTRONICS-CEN>-CHAI   03-30 0051</field>
-	<field name = "TITLE">CENTRONICS CEN> CHAIRMAN RESIGNS</field>
+	<field name = "titulo">CENTRONICS CEN> CHAIRMAN RESIGNS</field>
 	<field name = "DATELINE">NASHUA, N.H., March 30 -</field>
-	<field name = "BODY">Centronics Corp said its chairman,
+	<field name = "content">Centronics Corp said its chairman,
 Stephen Weinroth, resigned his post to devote more time to his
 duties as managing director of Drexel Burnham Lambert Inc.
     The company said Thomas Kamp, formerly vice chairman, was

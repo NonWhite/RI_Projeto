@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:01:00.66</field>
-	<field name = "UNKNOWN">V F
-f2320reute
-u f BC-QT8912   04-07 0058</field>
-	<field name = "TITLE">WALL STREET STOCKS LOWER IN LATE TRADING</field>
+	<field name = "titulo">WALL STREET STOCKS LOWER IN LATE TRADING</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Wall Street stock prices were pounded
+	<field name = "content">Wall Street stock prices were pounded
 lower late this afternoon by futures related sell programs and
 strong profit taking. A weak bond market ignited concern about
 rising interest rates and inflation, triggering the selloff,

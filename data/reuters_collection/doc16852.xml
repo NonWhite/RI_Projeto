@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 11:27:04.80</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0278reute
-r f BC-BANK-OF-FRANCE-SEES-P   04-17 0101</field>
-	<field name = "TITLE">BANK OF FRANCE SEES PICKUP IN INDUSTRIAL ACTIVITY</field>
+	<field name = "titulo">BANK OF FRANCE SEES PICKUP IN INDUSTRIAL ACTIVITY</field>
 	<field name = "DATELINE">PARIS, April 17 -</field>
-	<field name = "BODY">The Bank of France said in its latest
+	<field name = "content">The Bank of France said in its latest
 monthly report on the French economy it expected a pickup in
 industrial production registered in March to gather steam over
 the next few months.

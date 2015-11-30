@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 06:13:16.68</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM 
-f0415reute
-u f BC-PHILIPPINE-INFLATION   10-19 0113</field>
-	<field name = "TITLE">PHILIPPINE INFLATION PREDICTED TO RISE</field>
+	<field name = "titulo">PHILIPPINE INFLATION PREDICTED TO RISE</field>
 	<field name = "DATELINE">MANILA, Oct 19 -</field>
-	<field name = "BODY">The Philippine 1987 inflation rate will
+	<field name = "content">The Philippine 1987 inflation rate will
 rise to 4.8 pct from 0.74 pct in 1986 if the government
 implements an employers' association recommendation for a 10
 pct increase in the 54 peso minimum daily wage this month,

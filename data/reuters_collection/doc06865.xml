@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 17:01:59.42</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">C
-f9556reute
-r f AM-debt-peru   03-18 0139</field>
-	<field name = "TITLE">PERU SHORT-TERM TRADE CREDIT UP TO 430 MLN DLRS</field>
+	<field name = "titulo">PERU SHORT-TERM TRADE CREDIT UP TO 430 MLN DLRS</field>
 	<field name = "DATELINE">LIMA, March 18 -</field>
-	<field name = "BODY">Peru's short-term foreign trade credit
+	<field name = "content">Peru's short-term foreign trade credit
 lines, regarded as vital to ensure smooth foreign commercial
 transactions, have more than doubled to 430 mln dollars under
 the 20-month government of president Alan Garcia.

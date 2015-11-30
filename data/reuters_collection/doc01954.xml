@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 06:02:47.03</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0589reute
-u f BC-JAPANESE-CAPITAL-INVE   03-05 0115</field>
-	<field name = "TITLE">JAPANESE CAPITAL INVESTMENT SEEN SLUGGISH IN 1987</field>
+	<field name = "titulo">JAPANESE CAPITAL INVESTMENT SEEN SLUGGISH IN 1987</field>
 	<field name = "DATELINE">TOKYO, March 5 -</field>
-	<field name = "BODY">Japanese private plant and equipment
+	<field name = "content">Japanese private plant and equipment
 investment will grow 0.1 pct in fiscal 1987, starting April 1,
 from 1986 due mainly to a continued slump in manufacturing
 sector spending, the Japan Development Bank said.

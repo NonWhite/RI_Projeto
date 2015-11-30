@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:48:30.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1707reute
-a f BC-ADVANCED-VIRAL>-RESC   10-19 0051</field>
-	<field name = "TITLE">ADVANCED VIRAL> RESCHEDULES MEETING</field>
+	<field name = "titulo">ADVANCED VIRAL> RESCHEDULES MEETING</field>
 	<field name = "DATELINE">MIAMI, Oct 19 -</field>
-	<field name = "BODY">Advanced Viral Research Corp said that its
+	<field name = "content">Advanced Viral Research Corp said that its
 annual shareholders meeting has been rescheduled for November
 12 from September 14.
     The company said the rescheduling was made to meet

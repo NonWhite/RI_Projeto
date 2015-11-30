@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 18:00:45.33</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2843reute
-u f BC-LIPOSOME   03-31 0082</field>
-	<field name = "TITLE">LILLY LLY> CUTS LIPOSOME CO LIPO> STAKE</field>
+	<field name = "titulo">LILLY LLY> CUTS LIPOSOME CO LIPO> STAKE</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Eli Lilly and Co told the Securities
+	<field name = "content">Eli Lilly and Co told the Securities
 and Exchange Commission it cut its stake in Liposome Co Inc to
 500,000 shares, or 4.0 pct of the total outstanding common
 stock, from 900,000 shares or 7.3 pct.

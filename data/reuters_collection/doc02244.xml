@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 12:29:33.80</field>
 	<field name = "PLACES">luxembourg</field>
-	<field name = "UNKNOWN">A
-f0952reute
-u f BC-EURATOM-ISSUES-50-MLN   03-05 0093</field>
-	<field name = "TITLE">EURATOM ISSUES 50 MLN ECU BOND</field>
+	<field name = "titulo">EURATOM ISSUES 50 MLN ECU BOND</field>
 	<field name = "DATELINE">LUXEMBOURG, March 5 -</field>
-	<field name = "BODY">Euratom, the European Atomic Energy
+	<field name = "content">Euratom, the European Atomic Energy
 Community, is issuing a 50 mln Ecu, six-year bond with a coupon
 of 7-1/2 pct and priced at 101-1/2, lead manager Banque
 Generale du Luxembourg SA said.

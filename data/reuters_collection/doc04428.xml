@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 14:39:48.33</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">Y
-f0128reute
-r f BC-rebel-attacks-affect   03-12 0103</field>
-	<field name = "TITLE">ATTACKS AFFECT COLOMBIA'S OIL OUTLOOK-ECOPETROL</field>
+	<field name = "titulo">ATTACKS AFFECT COLOMBIA'S OIL OUTLOOK-ECOPETROL</field>
 	<field name = "DATELINE">BOGOTA, March 12 -</field>
-	<field name = "BODY">Continuous rebel raids against oil
+	<field name = "content">Continuous rebel raids against oil
 pipelines and foreign exploration camps endanger Colombia's
 present oil bonanza, Franciso Chona, manager of the state-run
 oil company Ecopetrol said.

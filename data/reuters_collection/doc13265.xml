@@ -5,12 +5,9 @@
 	<field name = "ORGS">iea</field>
 	<field name = "ORGS">oecd</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y
-f0152reute
-r f AM-OIL   04-05 0080</field>
-	<field name = "TITLE">IEA FORECASTS SLOWER GROWTH IN OECD OIL DEMAND</field>
+	<field name = "titulo">IEA FORECASTS SLOWER GROWTH IN OECD OIL DEMAND</field>
 	<field name = "DATELINE">PARIS, April 5 -</field>
-	<field name = "BODY">Growth in oil consumption in the Western
+	<field name = "content">Growth in oil consumption in the Western
 industrialized countries is likely to slow to around one pct
 this year compared with 2.3 pct in 1986, the International
 Energy Agency said.

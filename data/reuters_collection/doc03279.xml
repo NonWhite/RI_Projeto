@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 13:56:24.13</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">Y
-f0242reute
-r f AM-GULF-IRAQ   03-09 0110</field>
-	<field name = "TITLE">IRAQ SAYS IRAN EXAGGERATES FIGHTING IN NORTH</field>
+	<field name = "titulo">IRAQ SAYS IRAN EXAGGERATES FIGHTING IN NORTH</field>
 	<field name = "DATELINE">BAGHDAD, March 9 -</field>
-	<field name = "BODY">A senior Iraqi official said today Iran
+	<field name = "content">A senior Iraqi official said today Iran
 had exaggerated reports of fighting on the Gulf war northern
 front to make up for failure in the south and to encourage
 anti-Baghdad Kurdish rebels to support its troops.

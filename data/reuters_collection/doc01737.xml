@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 15:13:58.40</field>
 	<field name = "PLACES">austria</field>
-	<field name = "UNKNOWN">RM
-f0543reute
-u f BC-GZB-INCREASES-BOND-IS   03-04 0108</field>
-	<field name = "TITLE">GZB INCREASES BOND ISSUE TO 1.8 BILLION SCHILLINGS</field>
+	<field name = "titulo">GZB INCREASES BOND ISSUE TO 1.8 BILLION SCHILLINGS</field>
 	<field name = "DATELINE">VIENNA, March 4 -</field>
-	<field name = "BODY">Genossenschaftliche Zentralbank AG GZB>
+	<field name = "content">Genossenschaftliche Zentralbank AG GZB>
 said that it had increased its three-part bond issue to 1.8
 billion schillings from the 1.5 billion orginally planned.
     GZB said in a statement that the amount being issued

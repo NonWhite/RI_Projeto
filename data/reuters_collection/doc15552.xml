@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 10:17:10.28</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1017reute
-u f BC-SHOWBOAT-SBO>-DECLAR   04-09 0028</field>
-	<field name = "TITLE">SHOWBOAT SBO> DECLARES STOCK SPLIT</field>
+	<field name = "titulo">SHOWBOAT SBO> DECLARES STOCK SPLIT</field>
 	<field name = "DATELINE">LAS VEGAS, April 9 -</field>
-	<field name = "BODY">Showboat Inc said its board declared a
+	<field name = "content">Showboat Inc said its board declared a
 two-for-one stock split, payable to shareholders of record on
 May 15.
  Reuter</field>

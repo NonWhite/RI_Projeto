@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 15:19:04.07</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2215reute
-u f BC-REXHAM-RXH>-GETS-TAK   03-23 0079</field>
-	<field name = "TITLE">REXHAM RXH> GETS TAKEOVER OFFER</field>
+	<field name = "titulo">REXHAM RXH> GETS TAKEOVER OFFER</field>
 	<field name = "DATELINE">CHARLOTTE, N.C., March 23 -</field>
-	<field name = "BODY">Rexham Corp, a maker of
+	<field name = "content">Rexham Corp, a maker of
 packaging materials and machinery, said it received an
 unsolicited offer of 43 dlrs a share from Nortek Inc NTK>.
     Nortek, a Providence, R.I., textile manufacturer, has

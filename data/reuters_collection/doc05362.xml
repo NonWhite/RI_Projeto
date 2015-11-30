@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">lyng</field>
-	<field name = "UNKNOWN">C G
-f2116reute
-u f BC-LYNG-SAYS-TOO-LATE-FO   03-16 0135</field>
-	<field name = "TITLE">LYNG SAYS TOO LATE FOR CROP DECOUPLING THIS YEAR</field>
+	<field name = "titulo">LYNG SAYS TOO LATE FOR CROP DECOUPLING THIS YEAR</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">U.S. Agriculture Secretary Richard
+	<field name = "content">U.S. Agriculture Secretary Richard
 Lyng said it is too late to implement a full 0/92 acreage
 provision, or "decoupling," for 1987 grain crops.
     "I think there's a chance we'll see that legislation (0/92)

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 04:22:10.97</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f0201reute
-b f BC-SWISSAIR-SWSZ.Z>-YEA   03-19 0029</field>
-	<field name = "TITLE">SWISSAIR SWSZ.Z> YEAR 1986</field>
+	<field name = "titulo">SWISSAIR SWSZ.Z> YEAR 1986</field>
 	<field name = "DATELINE">ZURICH, March 19 -</field>
-	<field name = "BODY">Net 64.5 mln Swiss francs vs 68.5 mln
+	<field name = "content">Net 64.5 mln Swiss francs vs 68.5 mln
     Div 33 francs per share vs 38
     Turnover 4.03 billion vs 4.35 billion.
  REUTER</field>

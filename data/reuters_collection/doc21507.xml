@@ -5,13 +5,10 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">poehl</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">RM 
-f0574reute
-u f BC-GERMAN-FINANCIAL-POLI   10-19 0109</field>
-	<field name = "TITLE">GERMAN FINANCIAL POLICY MAKERS IN RARE DISSENSION</field>
+	<field name = "titulo">GERMAN FINANCIAL POLICY MAKERS IN RARE DISSENSION</field>
 	<field name = "AUTHOR">By Jonathan Lynn</field>
 	<field name = "DATELINE">FRANKFURT, Oct 19 -</field>
-	<field name = "BODY">Karl Otto Poehl, head of West Germany's
+	<field name = "content">Karl Otto Poehl, head of West Germany's
 central bank, and Finance Minister Gerhard Stoltenberg are
 normally so much in agreement that some foreigners doubt the
 central bank's independence.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 09:42:30.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f4944reute
-r f BC-AMERICAN-CITY-BUSINES   03-17 0094</field>
-	<field name = "TITLE">AMERICAN CITY BUSINESS JOURNALS SHIFTS OFFICERS</field>
+	<field name = "titulo">AMERICAN CITY BUSINESS JOURNALS SHIFTS OFFICERS</field>
 	<field name = "DATELINE">KANSAS CITY, March 17 -</field>
-	<field name = "BODY">American City Business Journals Inc
+	<field name = "content">American City Business Journals Inc
 AMBJ> said its president and chief operating officer, Armon
 Mills, is stepping down to head a field management team.
     The company said it is realigning its management to

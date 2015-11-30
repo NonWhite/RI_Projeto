@@ -8,13 +8,10 @@
 	<field name = "PLACES">indonesia</field>
 	<field name = "PLACES">south-korea</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">G C T
-f0100reute
-u f BC-INDONESIAN-COMMODITY   04-08 0102</field>
-	<field name = "TITLE">INDONESIAN COMMODITY EXCHANGE MAY EXPAND</field>
+	<field name = "titulo">INDONESIAN COMMODITY EXCHANGE MAY EXPAND</field>
 	<field name = "AUTHOR">By Jeremy Clift, Reuters</field>
 	<field name = "DATELINE">JAKARTA, April 8 -</field>
-	<field name = "BODY">The Indonesian Commodity Exchange is
+	<field name = "content">The Indonesian Commodity Exchange is
 likely to start trading in at least one new commodity, and
 possibly two, during calendar 1987, exchange chairman Paian
 Nainggolan said.

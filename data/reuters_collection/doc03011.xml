@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">nyse</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">F
-f0814reute
-r f BC-NYSE-RULE-COULD-AFFEC   03-09 0101</field>
-	<field name = "TITLE">NYSE RULE COULD AFFECT TRADING IN LONDON</field>
+	<field name = "titulo">NYSE RULE COULD AFFECT TRADING IN LONDON</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">An existing New York Stock Exchange,
+	<field name = "content">An existing New York Stock Exchange,
 NYSE, rule might be used to limit the trading activities of its
 members in London in stocks listed on both exchanges, sources
 at the London Exchange said.

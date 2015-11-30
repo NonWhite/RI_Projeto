@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 08:17:55.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0604reute
-r f BC-CAPITOL-BANCORP-CAPB   06-19 0022</field>
-	<field name = "TITLE">CAPITOL BANCORP CAPB.O> RAISES QUARTERLY</field>
+	<field name = "titulo">CAPITOL BANCORP CAPB.O> RAISES QUARTERLY</field>
 	<field name = "DATELINE">BOSTON, June 19 -</field>
-	<field name = "BODY">Qtly div 24 cts vs 23 cts prior
+	<field name = "content">Qtly div 24 cts vs 23 cts prior
     Pay July 28
     Record June 30
  Reuter</field>

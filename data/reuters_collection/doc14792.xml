@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 22:08:11.07</field>
-	<field name = "UNKNOWN">RM C M
-f2738reute
-u f BC-GOLD-OPENS-FIRMER-IN   04-07 0092</field>
-	<field name = "TITLE">GOLD OPENS FIRMER IN HONG KONG</field>
+	<field name = "titulo">GOLD OPENS FIRMER IN HONG KONG</field>
 	<field name = "DATELINE">HONG KONG, April 8 -</field>
-	<field name = "BODY">Gold opened firmer in fairly active
+	<field name = "content">Gold opened firmer in fairly active
 trading on continued buying interest and light short covering
 following the sharp rise in New York, dealers said.
     They said gold drew its strength from the buoyant silver

@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 00:02:59.13RM</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">f0003reute
-b f BC-JAPAN-ADOPTS-STOP-GAP   03-27 0092</field>
-	<field name = "TITLE">JAPAN ADOPTS STOP-GAP BUDGET</field>
+	<field name = "titulo">JAPAN ADOPTS STOP-GAP BUDGET</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">The government adopted an 8,829 billion
+	<field name = "content">The government adopted an 8,829 billion
 yen stop-gap budget for fiscal 1987 starting April 1 to
 compensate for the delay in the passage through the Parliament
 of the full 1987/88 budget.

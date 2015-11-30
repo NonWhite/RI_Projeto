@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:29:32.54</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0823reute
-r f BC-cominco   04-09 0107</field>
-	<field name = "TITLE">COMINCO CLT> TO FORM EXPLORATION UNIT</field>
+	<field name = "titulo">COMINCO CLT> TO FORM EXPLORATION UNIT</field>
 	<field name = "DATELINE">VANCOUVER, April 9 -</field>
-	<field name = "BODY">Cominco Ltd said it is forming a new
+	<field name = "content">Cominco Ltd said it is forming a new
 publicly held company, Cominco Resources International Ltd, to
 continue exploration and development of its mineral holdings
 outside Canada, Alaska and Australia.

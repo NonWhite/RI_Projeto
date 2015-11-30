@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 11:46:59.87</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">norway</field>
-	<field name = "UNKNOWN">RM
-f1473reute
-r f BC-NORWEGIAN-CENTRAL-BAN   03-24 0108</field>
-	<field name = "TITLE">NORWEGIAN CENTRAL BANK RESERVES FALL IN JANUARY</field>
+	<field name = "titulo">NORWEGIAN CENTRAL BANK RESERVES FALL IN JANUARY</field>
 	<field name = "DATELINE">OSLO, March 24 -</field>
-	<field name = "BODY">Norway's Central Bank reserves totalled
+	<field name = "content">Norway's Central Bank reserves totalled
 91.06 billion crowns in January, against 93.07 billion in
 December and 105.29 billion in January 1986, the central bank
 said in its monthly balance sheet.

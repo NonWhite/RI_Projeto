@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 12:27:55.20</field>
 	<field name = "ORGS">un</field>
-	<field name = "UNKNOWN">M
-f1600reute
-r f AM-METALS   03-19 0138</field>
-	<field name = "TITLE">U.N. ADVISES MINES TO FIGHT METAL SUBSTITUTES</field>
+	<field name = "titulo">U.N. ADVISES MINES TO FIGHT METAL SUBSTITUTES</field>
 	<field name = "DATELINE">UNITED NATIONS, March 19 -</field>
-	<field name = "BODY">Mining companies may have to
+	<field name = "content">Mining companies may have to
 develop specialty metals and metal-containing products if
 plastics and other substitutes are not to make further inroads
 in their markets, according to the United Nations.

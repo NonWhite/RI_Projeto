@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 00:30:35.73</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">RM AI 
-f0036reute
-b f BC-JAPANESE-PREMIER-SAYS   10-20 0110</field>
-	<field name = "TITLE">JAPANESE PREMIER SAYS HE WATCHING STOCK SITUATION</field>
+	<field name = "titulo">JAPANESE PREMIER SAYS HE WATCHING STOCK SITUATION</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">Japanese Prime Minister Yasuhiro Nakasone
+	<field name = "content">Japanese Prime Minister Yasuhiro Nakasone
 was quoted by Kyodo News Service as saying he was watching the
 stock market situation.
     "We must watch things a little longer. New York is down 22

@@ -5,12 +5,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">V RM 
-f3140reute
-b f BC-/U.S.-TREASURY'S-BAKE   10-19 0106</field>
-	<field name = "TITLE">U.S. TREASURY'S BAKER MEETS WEST GERMAN MINISTER</field>
+	<field name = "titulo">U.S. TREASURY'S BAKER MEETS WEST GERMAN MINISTER</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">U.S. Treasury Secretary James Baker
+	<field name = "content">U.S. Treasury Secretary James Baker
 met West German Finance Minister Gerhard Stoltenberg and
 Bundesbank President Karl Otto Poehl today in West Germany and
 agreed to support the Louvre pact, the Treasury Department

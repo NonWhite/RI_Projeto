@@ -3,12 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "TOPICS">palm-oil</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">G C
-f1315reute
-u f BC-MALAYSIAN-CRUDE-PALM   03-16 0105</field>
-	<field name = "TITLE">MALAYSIAN CRUDE PALM OIL OUTPUT FALLS IN FEBRUARY</field>
+	<field name = "titulo">MALAYSIAN CRUDE PALM OIL OUTPUT FALLS IN FEBRUARY</field>
 	<field name = "DATELINE">KUALA LUMPUR, March 16 -</field>
-	<field name = "BODY">Malaysian crude palm oil (cpo)
+	<field name = "content">Malaysian crude palm oil (cpo)
 production fell to an estimated 270,400 tonnes in February from
 an estimated 273,300 tonnes in January and 332,995 in February
 1986, the Palm Oil Registration and Licensing Authority (PORLA)

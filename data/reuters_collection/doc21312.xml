@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:36:02.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1619reute
-d f BC-IGENE-BIOTECHNOLOGY-   10-19 0097</field>
-	<field name = "TITLE">IGENE BIOTECHNOLOGY IGNE.O> ENDS LICENSE PACT</field>
+	<field name = "titulo">IGENE BIOTECHNOLOGY IGNE.O> ENDS LICENSE PACT</field>
 	<field name = "DATELINE">COLUMBIA, Md., Oct 19 -</field>
-	<field name = "BODY">Igene Biotechnology Inc said it
+	<field name = "content">Igene Biotechnology Inc said it
 terminated its license agreement with Hercules Inc HPC> for
 the manufacture of Igene's natural food preservative and mold
 inhibitor.

@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 13:35:48.41</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0972reute
-r f BC-POWERINE-REFINERY-TO   03-12 0084</field>
-	<field name = "TITLE">POWERINE REFINERY TO RESUME OPERATIONS</field>
+	<field name = "titulo">POWERINE REFINERY TO RESUME OPERATIONS</field>
 	<field name = "DATELINE">SANTA FE SPRINGS, CALIF, March 12 -</field>
-	<field name = "BODY">Powerine Oil Co> said
+	<field name = "content">Powerine Oil Co> said
 its refinery here will resume operation today, with initial
 crude oil runs of 20,000 barrels per day.
     Powerine, a privately-held company, said it expects the

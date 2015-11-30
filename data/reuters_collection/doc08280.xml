@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 10:40:10.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1134reute
-r f BC-AIRSHIP-INDUSTRIES-A   03-23 0091</field>
-	<field name = "TITLE">AIRSHIP INDUSTRIES AIRSY> ADR TO TRADE IN U.S.</field>
+	<field name = "titulo">AIRSHIP INDUSTRIES AIRSY> ADR TO TRADE IN U.S.</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Airship Industries Ltd of the U.K.
+	<field name = "content">Airship Industries Ltd of the U.K.
 said its American Deporsitary Receipts, or ADRs, will begin to
 trade on NASDAQ March 25.
     The company said it was the largest maker of airships in

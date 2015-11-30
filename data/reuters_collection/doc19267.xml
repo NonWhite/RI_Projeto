@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 12:42:45.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1613reute
-u f BC-JEWELMASTERS-JEM>-IN   06-19 0109</field>
-	<field name = "TITLE">JEWELMASTERS JEM> IN PACT WITH DISNEY DIS></field>
+	<field name = "titulo">JEWELMASTERS JEM> IN PACT WITH DISNEY DIS></field>
 	<field name = "DATELINE">WEST PALM BEACH, Fla., June 19 -</field>
-	<field name = "BODY">Jewelmasters Inc said it
+	<field name = "content">Jewelmasters Inc said it
 signed a licensing agreement with Walt Disney Co to make and
 market gold jewelry featuring such Disney characters as Mickey
 Mouse, Minnie Mouse, Donald Duck, Pluto and Goofy.

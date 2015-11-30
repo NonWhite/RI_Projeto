@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 16:50:09.81</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F 
-f3248reute
-u f BC-NYSE-WILL-CONTINUE-TO   10-20 0109</field>
-	<field name = "TITLE">NYSE WILL CONTINUE TO CURB PROGRAM TRADING</field>
+	<field name = "titulo">NYSE WILL CONTINUE TO CURB PROGRAM TRADING</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">New York Stock Exchange chairman John
+	<field name = "content">New York Stock Exchange chairman John
 Phelan said the NYSE will continue to request that member firms
 refrain from using its order-delivery systems for program
 trading until the record trading volume slows down.

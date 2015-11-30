@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 08:17:18.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0848reute
-r f BC-HUGHES-TOOL-HT>-SEEK   03-05 0103</field>
-	<field name = "TITLE">HUGHES TOOL HT> SEEKS CHIEF OPERATING OFFICER</field>
+	<field name = "titulo">HUGHES TOOL HT> SEEKS CHIEF OPERATING OFFICER</field>
 	<field name = "DATELINE">HOUSTON, March 5 -</field>
-	<field name = "BODY">Hughes Tool Co said its board has
+	<field name = "content">Hughes Tool Co said its board has
 appointed a committee to search for a chief operating officer
 in the event that it does not complete its merger with Baker
 International Corp BKO>.

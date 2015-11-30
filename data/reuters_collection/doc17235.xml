@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">herrington</field>
-	<field name = "UNKNOWN">RM
-f0153reute
-u f BC-U.S.-CONSIDERING-OIL   04-27 0107</field>
-	<field name = "TITLE">U.S. CONSIDERING OIL INDUSTRY TAX INCENTIVES</field>
+	<field name = "titulo">U.S. CONSIDERING OIL INDUSTRY TAX INCENTIVES</field>
 	<field name = "DATELINE">HOUSTON, April 27 -</field>
-	<field name = "BODY">The Reagan Administration is
+	<field name = "content">The Reagan Administration is
 considering tax incentives to boost oil output and restore
 100,000 jobs, U.S. Energy Secretary John Herrington said.
     A tax credit for new exploration would be part of a package

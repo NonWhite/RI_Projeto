@@ -7,12 +7,9 @@
 	<field name = "TOPICS">cottonseed</field>
 	<field name = "TOPICS">groundnut</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f0331reute
-u f BC-CHINA-RAISES-GRAIN-PU   04-13 0099</field>
-	<field name = "TITLE">CHINA RAISES GRAIN PURCHASE PRICES</field>
+	<field name = "titulo">CHINA RAISES GRAIN PURCHASE PRICES</field>
 	<field name = "DATELINE">PEKING, April 13 -</field>
-	<field name = "BODY">China has raised the state purchase
+	<field name = "content">China has raised the state purchase
 prices of corn, rice, cottonseed and shelled peanuts from April
 1 to encourage farmers to grow them, the official China
 Commercial Daily said.

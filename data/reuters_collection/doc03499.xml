@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 05:59:32.94</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0483reute
-u f BC-INVESTORS-IN-INDUSTRY   03-11 0123</field>
-	<field name = "TITLE">INVESTORS IN INDUSTRY ISSUES FRENCH FRANC BOND</field>
+	<field name = "titulo">INVESTORS IN INDUSTRY ISSUES FRENCH FRANC BOND</field>
 	<field name = "DATELINE">PARIS, March 11 -</field>
-	<field name = "BODY">Investors in Industry International BV is
+	<field name = "content">Investors in Industry International BV is
 issuing a 500 mln franc bond with warrants guaranteed by
 Investors in Industry Plc, lead manager Credit Commercial de
 France said. Listing will be in London. The issue has a coupon

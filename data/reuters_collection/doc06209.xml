@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 14:56:12.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6268reute
-d f BC-SIMMONS-SIMM>-FEBRUA   03-17 0055</field>
-	<field name = "TITLE">SIMMONS SIMM> FEBRUARY LOAD FACTOR DECLINES</field>
+	<field name = "titulo">SIMMONS SIMM> FEBRUARY LOAD FACTOR DECLINES</field>
 	<field name = "DATELINE">CHICAGO, March 17 -</field>
-	<field name = "BODY">Simmons Airlines Inc said its load
+	<field name = "content">Simmons Airlines Inc said its load
 factor for February declines to 41.8 pct from 46.1 pct a year
 ago.
     Traffic increased 31.3 pct to 15 mln revenue passenger

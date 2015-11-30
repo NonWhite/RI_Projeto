@@ -3,12 +3,9 @@
 	<field name = "PLACES">sweden</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F 
-f2152reute
-d f BC-ASEA-BROWN-BOVERI-SET   10-19 0118</field>
-	<field name = "TITLE">ASEA BROWN BOVERI SETS GROUP STRUCTURE</field>
+	<field name = "titulo">ASEA BROWN BOVERI SETS GROUP STRUCTURE</field>
 	<field name = "DATELINE">STOCKHOLM, Oct 19 -</field>
-	<field name = "BODY">Asea AB ASEA.ST> said the group to be
+	<field name = "content">Asea AB ASEA.ST> said the group to be
 formed by its merger with Switzerland's BBC AG Brown Boveri und
 Cie BBCZ.Z> would have four main business areas; power plants,
 power transmission, power distribution and industrial

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 17:20:52.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2695reute
-d f BC-HEILEMAN-GHB>-ACQUIR   04-13 0095</field>
-	<field name = "TITLE">HEILEMAN GHB> ACQUIRING C. SCHMIDT TRADEMARKS</field>
+	<field name = "titulo">HEILEMAN GHB> ACQUIRING C. SCHMIDT TRADEMARKS</field>
 	<field name = "DATELINE">LA CROSSE, WIS., April 13 -</field>
-	<field name = "BODY">G. Heileman Brewing Co Inc said
+	<field name = "content">G. Heileman Brewing Co Inc said
 it agreed to acquire the trademarks of Philadelphia-based C.
 Schmidt which produces a line of malt beverage products,
 including Schmidt, Rheingold, Duquesne and Ortlieb.

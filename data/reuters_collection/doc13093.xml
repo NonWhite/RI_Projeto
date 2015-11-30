@@ -4,12 +4,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">sri-lanka</field>
-	<field name = "UNKNOWN">C G
-f2123reute
-u f BC-CCC-ACCEPTS-EXPORT-BO   04-03 0085</field>
-	<field name = "TITLE">CCC ACCEPTS EXPORT BONUS FOR WHEAT TO SRI LANKA</field>
+	<field name = "titulo">CCC ACCEPTS EXPORT BONUS FOR WHEAT TO SRI LANKA</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The U.S. Agriculture Department said
+	<field name = "content">The U.S. Agriculture Department said
 it has accepted a bid for an export bonus to cover the sale of
 50,000 tonnes of hard red winter wheat to Sri Lanka.
     A bonus of 37.44 dlrs per tonne was awarded to Continental

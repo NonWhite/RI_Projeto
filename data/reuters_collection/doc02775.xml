@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 13:46:08.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0116reute
-u f BC-TALKING-POINT/-PAPER   03-06 0096</field>
-	<field name = "TITLE">TALKING POINT/ PAPER STOCKS</field>
+	<field name = "titulo">TALKING POINT/ PAPER STOCKS</field>
 	<field name = "AUTHOR">by Patrick Rizzo, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">The attempt by International Paper Co
+	<field name = "content">The attempt by International Paper Co
 IP> and Stone Container Co STO> to raise linerboard prices
 could stick, industry analysts said, citing strong demand and
 tight capacity. But they said rising inventories hurt the odds.

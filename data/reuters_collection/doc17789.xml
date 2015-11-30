@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 16:21:18.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F C
-f2394reute
-r f BC-RALSTON-PURINA-RAL>   06-01 0070</field>
-	<field name = "TITLE">RALSTON PURINA RAL> FORMS BRANDED FOODS GROUP</field>
+	<field name = "titulo">RALSTON PURINA RAL> FORMS BRANDED FOODS GROUP</field>
 	<field name = "DATELINE">ST. LOUIS, MO., June 1 -</field>
-	<field name = "BODY">Ralston Purina Co said it formed a
+	<field name = "content">Ralston Purina Co said it formed a
 new branded foods group to align all of its warehouse-delivered
 human foods.
     W. Patrick McGinnis, formerly executive vice president of

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 13:54:39.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f6078reute
-u f BC-CONSOLIDATED-ENERGY-   03-17 0055</field>
-	<field name = "TITLE">CONSOLIDATED ENERGY CPS> UNIT FILES CHAPTER 11</field>
+	<field name = "titulo">CONSOLIDATED ENERGY CPS> UNIT FILES CHAPTER 11</field>
 	<field name = "DATELINE">DENVER, March 17 -</field>
-	<field name = "BODY">Consolidated Energy Partners LP said 99
+	<field name = "content">Consolidated Energy Partners LP said 99
 pct owned master limited partnership Consolidated Operating
 Partners LP has defaulted on a 10 mln dlr principal payment to
 its lending banks and has filed for reorganization under

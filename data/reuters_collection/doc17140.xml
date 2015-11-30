@@ -4,12 +4,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">uganda</field>
-	<field name = "UNKNOWN">RM
-f1875reute
-r f BC-UGANDAN-GOVERNMENT-PR   04-24 0100</field>
-	<field name = "TITLE">UGANDAN GOVERNMENT PROPOSES NEW TAXES</field>
+	<field name = "titulo">UGANDAN GOVERNMENT PROPOSES NEW TAXES</field>
 	<field name = "DATELINE">KAMPALA, April 24 -</field>
-	<field name = "BODY">The Ugandan government, in its four
+	<field name = "content">The Ugandan government, in its four
 year investment and development plan, proposed taxing land and
 food crops in an attempt to broaden its revenue base away from
 dependence on coffee sales.

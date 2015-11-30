@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 15:56:28.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2455reute
-r f BC-APPLE-AAPL>-EXPANDS   03-30 0088</field>
-	<field name = "TITLE">APPLE AAPL> EXPANDS NETWORK CAPABILITIES</field>
+	<field name = "titulo">APPLE AAPL> EXPANDS NETWORK CAPABILITIES</field>
 	<field name = "DATELINE">CUPERTINO, Calif., March 30 -</field>
-	<field name = "BODY">Apple Computer Inc said it
+	<field name = "content">Apple Computer Inc said it
 has extended the ability of the Apple MacIntosh personal
 computer family to commmunicate over Northern Telecom Ltd's>
 Meridian SL-1 integrated services network.

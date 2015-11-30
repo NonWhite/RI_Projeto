@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 13:16:04.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1837reute
-u f BC-NIAGARA-MOHAWK-NMK>   04-01 0107</field>
-	<field name = "TITLE">NIAGARA MOHAWK NMK> DEBT DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">NIAGARA MOHAWK NMK> DEBT DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 downgraded Niagara Mohawk Power Corp's 2.2 billion dlrs of debt
 securities and preferred stock.
     Moody's cited cost increases at the utility's Nine Mile

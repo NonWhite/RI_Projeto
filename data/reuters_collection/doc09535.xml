@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 15:16:28.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2186reute
-d f AM-AIRLINES   03-25 0098</field>
-	<field name = "TITLE">JUSTICE, DOT BACK AIRLINE ANTITRUST SWITCH</field>
+	<field name = "titulo">JUSTICE, DOT BACK AIRLINE ANTITRUST SWITCH</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">Strong competition remains in the
+	<field name = "content">Strong competition remains in the
 airline industry despite a recent wave of mergers, a
 Transportation Department official said.
     But Assistant Transportation Secretary Matthew Scocozza

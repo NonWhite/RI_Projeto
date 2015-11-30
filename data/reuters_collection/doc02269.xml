@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 12:50:14.77</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0057reute
-r f BC-QUARTZ-ENGINEERING-AN   03-05 0029</field>
-	<field name = "TITLE">QUARTZ ENGINEERING AND MATERIALS QRTZ> 1ST QTR</field>
+	<field name = "titulo">QUARTZ ENGINEERING AND MATERIALS QRTZ> 1ST QTR</field>
 	<field name = "DATELINE">TEMPE, Ariz., March 5 -</field>
-	<field name = "BODY">Qtr ended Dec 31
+	<field name = "content">Qtr ended Dec 31
     Shr nil vs nil
     Net loss 59,922 vs loss 357,203
     Revs 714,263 vs 926,964

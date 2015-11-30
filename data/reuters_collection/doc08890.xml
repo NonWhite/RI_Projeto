@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 13:12:40.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1862reute
-d f BC-PLENUM-PLEN>-REINCOR   03-24 0050</field>
-	<field name = "TITLE">PLENUM PLEN> REINCORPORATES IN DELAWARE</field>
+	<field name = "titulo">PLENUM PLEN> REINCORPORATES IN DELAWARE</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Plenum Publishing Corp said it has
+	<field name = "content">Plenum Publishing Corp said it has
 reincorporated in Delaware following shareholder approval
 yesterday.
     It said in copnnection with the change -- it had been

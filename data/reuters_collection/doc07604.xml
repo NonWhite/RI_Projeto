@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 08:01:36.89</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0553reute
-u f BC-SWISS-BANKER-WANTS-BO   03-20 0118</field>
-	<field name = "TITLE">SWISS BANKER WANTS BOND RATINGS, SHARE DISCLOSURE</field>
+	<field name = "titulo">SWISS BANKER WANTS BOND RATINGS, SHARE DISCLOSURE</field>
 	<field name = "DATELINE">ZURICH, March 20 -</field>
-	<field name = "BODY">A top Swiss banker called for an
+	<field name = "content">A top Swiss banker called for an
 obligatory, continuous rating for all Swiss franc bonds and
 said he believed anyone buying more than five pct of a company
 should be made to declare their share.

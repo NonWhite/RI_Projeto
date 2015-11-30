@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 02:50:02.12</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0105reute
-u f BC-ECONOMIC-SPOTLIGHT--   03-26 0104</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - TOKYO EARTHQUAKE AFTERSHOCKS</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - TOKYO EARTHQUAKE AFTERSHOCKS</field>
 	<field name = "AUTHOR">By Eric Hall, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 26 -</field>
-	<field name = "BODY">The possibility that a major earthquake
+	<field name = "content">The possibility that a major earthquake
 will strike Tokyo, causing corporate and financial ruin, haunts
 the worst nightmares of many insurers and bankers polled by
 Reuters.

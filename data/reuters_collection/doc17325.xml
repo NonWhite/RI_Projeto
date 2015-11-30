@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-APR-1987 10:20:08.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1185reute
-r f BC-ITT-CORP-ITT>-CONFID   04-27 0088</field>
-	<field name = "TITLE">ITT CORP ITT> CONFIDENT ABOUT FISCAL 1987</field>
+	<field name = "titulo">ITT CORP ITT> CONFIDENT ABOUT FISCAL 1987</field>
 	<field name = "DATELINE">NEW YORK, April 27 -</field>
-	<field name = "BODY">ITT Corp said first quarter results,
+	<field name = "content">ITT Corp said first quarter results,
 reported earlier, were substantially ahead of budget and added
 it is confident of a continued improvement by all divisions in
 the remainder of the year.

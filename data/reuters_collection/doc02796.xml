@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 14:30:18.23</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0227reute
-d f BC-STRUTHERS-WELLS-SUW>   03-06 0120</field>
-	<field name = "TITLE">STRUTHERS WELLS SUW> SEES 1986 NOV 30 LOSS</field>
+	<field name = "titulo">STRUTHERS WELLS SUW> SEES 1986 NOV 30 LOSS</field>
 	<field name = "DATELINE">WARREN, Pa., March 6 -</field>
-	<field name = "BODY">Struthers Wells Corp said it expects
+	<field name = "content">Struthers Wells Corp said it expects
 to report a loss, without tax benefit, of about 16 mln dlrs for
 the fiscal year ended November 30, 1986, versus a profit of
 295,000 dlrs in fiscal 1985.

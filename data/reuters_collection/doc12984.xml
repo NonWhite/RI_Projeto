@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 12:23:12.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1599reute
-b f BC-NORTHWEST-AIRLINES-OR   04-03 0109</field>
-	<field name = "TITLE">NORTHWEST AIRLINES ORDERS LONG-RANGE AIRBUS JET</field>
+	<field name = "titulo">NORTHWEST AIRLINES ORDERS LONG-RANGE AIRBUS JET</field>
 	<field name = "DATELINE">PARIS, April 3 -</field>
-	<field name = "BODY">U.S.-based Northwest Airlines, a unit of
+	<field name = "content">U.S.-based Northwest Airlines, a unit of
 NWA Inc NWA>, has ordered up to 20 of the European Airbus
 Industrie AINP.PA> consortium's planned A340 long-range jets,
 with an option on a further 10 A330 medium-range jets, in a

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gas</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1859reute
-r f BC-GASOLINE   03-20 0109</field>
-	<field name = "TITLE">FTC URGES VETO OF GEORGIA GASOLINE STATION BILL</field>
+	<field name = "titulo">FTC URGES VETO OF GEORGIA GASOLINE STATION BILL</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">The Federal Trade Commission said
+	<field name = "content">The Federal Trade Commission said
 its staff has urged the governor of Georgia to veto a bill that
 would prohibit petroleum refiners from owning and operating
 retail gasoline stations.

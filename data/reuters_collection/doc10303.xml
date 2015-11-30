@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 03:28:28.36RM</field>
-	<field name = "UNKNOWN">f0150reute</field>
 	<field name = "PLACES">philippines</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-U.S.-ENVOY-SAYS-MANIL   03-27 0110</field>
-	<field name = "TITLE">U.S. ENVOY SAYS MANILA WILL PAY ITS DEBTS</field>
+	<field name = "titulo">U.S. ENVOY SAYS MANILA WILL PAY ITS DEBTS</field>
 	<field name = "DATELINE">MANILA, March 27 -</field>
-	<field name = "BODY">Outgoing United States Ambassador
+	<field name = "content">Outgoing United States Ambassador
 Stephen Bosworth told a news conference he did not think the
 Philippines would follow Brazil's example and suspend interest
 payments on foreign loans from commercial banks.

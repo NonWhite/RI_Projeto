@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 08:27:36.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0631reute
-r f BC-SOUTHWEST-REALTY-SWL   04-09 0055</field>
-	<field name = "TITLE">SOUTHWEST REALTY SWL> IN RIGHTS OFFERING</field>
+	<field name = "titulo">SOUTHWEST REALTY SWL> IN RIGHTS OFFERING</field>
 	<field name = "DATELINE">DALLAS, April 9 -</field>
-	<field name = "BODY">Southwest Realty Ltd said it has filed
+	<field name = "content">Southwest Realty Ltd said it has filed
 for a rights offering.
     It said for each three shares owned, a shareholder will
 receive a transferable right to purchase one additional share

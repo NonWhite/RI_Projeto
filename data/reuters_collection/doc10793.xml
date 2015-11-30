@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">sweden</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0767reute
-r f BC-SKANSKA-TO-TAKE-STAKE   03-30 0086</field>
-	<field name = "TITLE">SKANSKA TO TAKE STAKE IN CANADIAN FIRM</field>
+	<field name = "titulo">SKANSKA TO TAKE STAKE IN CANADIAN FIRM</field>
 	<field name = "DATELINE">STOCKHOLM, MARCH 30 -</field>
-	<field name = "BODY">Swedish construction and real estate
+	<field name = "content">Swedish construction and real estate
 company Skanska AB skbs.St.> said it will sell its 49 pct
 holding in Canadian building firm Canadian Foundation Company
 Ltd> to rival Banister Continental Ltd>.

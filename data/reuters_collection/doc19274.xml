@@ -5,12 +5,9 @@
 	<field name = "TOPICS">oat</field>
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">C G 
-f1669reute
-u f BC-SASKATCHEWAN-CROPS-DE   06-19 0121</field>
-	<field name = "TITLE">SASKATCHEWAN CROPS DETERIORATE IN HOT WEATHER</field>
+	<field name = "titulo">SASKATCHEWAN CROPS DETERIORATE IN HOT WEATHER</field>
 	<field name = "DATELINE">REGINA, June 19 -</field>
-	<field name = "BODY">Hot, dry weather has caused some
+	<field name = "content">Hot, dry weather has caused some
 deterioration in Saskatchewan crops, according to the
 Saskatchewan Wheat Pool's weekly crop report.
     Rain was needed in the southwest, west-central and

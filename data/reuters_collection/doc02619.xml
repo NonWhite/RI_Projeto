@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">V RM
-f0363reute
-b f BC-/BAKER-SAYS-G-6-PACT   03-06 0098</field>
-	<field name = "TITLE">BAKER SAYS G-6 PACT JUST A START</field>
+	<field name = "titulo">BAKER SAYS G-6 PACT JUST A START</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 the agreement among industrial nations in Paris last month is
 only a start in Washington's drive to intensify economic
 cooperation among leading countries.

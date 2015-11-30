@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 18:01:26.87</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2737reute
-u f BC-GENCORP-GY>-TAKEOVER   03-24 0102</field>
-	<field name = "TITLE">GENCORP GY> TAKEOVER GROUP CANCELS HEARING</field>
+	<field name = "titulo">GENCORP GY> TAKEOVER GROUP CANCELS HEARING</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">The investor group seeking to acquire
+	<field name = "content">The investor group seeking to acquire
 GenCorp Inc said it agreed to cancel a court hearing after
 GenCorp withdrew three proposals that, if approved, would have
 made it more costly and difficult to acquire the Akron,

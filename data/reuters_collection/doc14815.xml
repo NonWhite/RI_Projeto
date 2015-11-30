@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 23:30:06.08</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "EXCHANGES">hkse</field>
-	<field name = "UNKNOWN">F
-f2775reute
-b f BC-H.K.-OFFICIAL,-STOCK   04-07 0116</field>
-	<field name = "TITLE">H.K. OFFICIAL, STOCK EXCHANGE BAR JARDINE ISSUE</field>
+	<field name = "titulo">H.K. OFFICIAL, STOCK EXCHANGE BAR JARDINE ISSUE</field>
 	<field name = "DATELINE">HONG KONG, April 8 -</field>
-	<field name = "BODY">Securities Commissioner Ray Astin and
+	<field name = "content">Securities Commissioner Ray Astin and
 Chairman of the Stock Exchange of Hong Kong Ronald Li said in a
 joint statement they have rejected a plan by Jardine Matheson
 Holdings Ltd JARD.HK> to list its new "B" shares and that other

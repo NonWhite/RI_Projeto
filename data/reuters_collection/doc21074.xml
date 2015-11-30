@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 14:38:56.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2608reute
-r f BC-QUANTUM-QNTM.O>-SETT   10-19 0087</field>
-	<field name = "TITLE">QUANTUM QNTM.O> SETTLES SUIT WITH NEC</field>
+	<field name = "titulo">QUANTUM QNTM.O> SETTLES SUIT WITH NEC</field>
 	<field name = "DATELINE">MILPITAS, Calif., Oct 19 -</field>
-	<field name = "BODY">Quantum Corp said it agreed to
+	<field name = "content">Quantum Corp said it agreed to
 settle a suit which charged NEC Corp and its NEC Information
 Systems Inc subsidiary with infringing on a Quantum patent for
 a disk drive architecture.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 16:27:27.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G M
-f2546reute
-d f BC-FARM-EQUIPMENT-SALES   04-13 0093</field>
-	<field name = "TITLE">FARM EQUIPMENT SALES DECLINE IN MARCH</field>
+	<field name = "titulo">FARM EQUIPMENT SALES DECLINE IN MARCH</field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">Domestic sales of farm wheel tractors
+	<field name = "content">Domestic sales of farm wheel tractors
 in March declined 9.2 pct to 7,654 units from 8,434 in the same
 year-ago period, the Farm and Industrial Equipment Institute
 said.

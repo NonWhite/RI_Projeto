@@ -3,12 +3,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">india</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">M C
-f0103reute
-u f BC-JAPAN-TO-PAY-FIVE-PCT   03-31 0095</field>
-	<field name = "TITLE">JAPAN TO PAY FIVE PCT LESS FOR INDIAN IRON ORE</field>
+	<field name = "titulo">JAPAN TO PAY FIVE PCT LESS FOR INDIAN IRON ORE</field>
 	<field name = "DATELINE">NEW DELHI, March 31 -</field>
-	<field name = "BODY">Japan will pay five pct less for the
+	<field name = "content">Japan will pay five pct less for the
 Indian iron ore it imports in fiscal 1987/88 starting April 1
 than the average 18 dlrs a tonne it paid in 1986/87, a
 government trade official told Reuters.

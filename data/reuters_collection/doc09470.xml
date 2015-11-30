@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:42:51.52</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f1908reute
-r f BC-FIAT-SAYS-IT-NOT-PLAN   03-25 0119</field>
-	<field name = "TITLE">FIAT SAYS IT NOT PLANNING TO ISSUE EUROBONDS</field>
+	<field name = "titulo">FIAT SAYS IT NOT PLANNING TO ISSUE EUROBONDS</field>
 	<field name = "DATELINE">Turin, Italy, March 25  -</field>
-	<field name = "BODY">Fiat Spa FIAT.MI> said it had no
+	<field name = "content">Fiat Spa FIAT.MI> said it had no
 plans to issue Eurobonds linked to shares still held by banks
 after the placement of the 15 pct Libyan stake in Fiat last
 autumn, a company spokesman said.

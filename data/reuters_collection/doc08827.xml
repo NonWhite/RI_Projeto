@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 11:46:20.90</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C G L M T
-f1472reute
-d f BC-MIDAM-SETS-TRADING-AT   03-24 0134</field>
-	<field name = "TITLE">MIDAM SETS TRADING AT NEW CBT LOCATION MARCH 30</field>
+	<field name = "titulo">MIDAM SETS TRADING AT NEW CBT LOCATION MARCH 30</field>
 	<field name = "DATELINE">CHICAGO, March 24 -</field>
-	<field name = "BODY">The Midamerica Commodity Exchange, an
+	<field name = "content">The Midamerica Commodity Exchange, an
 affiliate of the Chicago Board of Trade, CBT, that offers
 smaller versions of several futures contracts traded on other
 exchanges, will begin trading in its new quarters within the

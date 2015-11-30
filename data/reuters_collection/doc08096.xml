@@ -4,12 +4,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">RM
-f0094reute
-u f BC-BAKER-DENIES-DOLLAR-T   03-22 0101</field>
-	<field name = "TITLE">BAKER DENIES DOLLAR TARGET EXISTS</field>
+	<field name = "titulo">BAKER DENIES DOLLAR TARGET EXISTS</field>
 	<field name = "DATELINE">LONDON, March 23 -</field>
-	<field name = "BODY">U.S. Treasury Secretary James Baker
+	<field name = "content">U.S. Treasury Secretary James Baker
 again said the meeting of six major industrial nations in Paris
 last month did not establish a target exchange rate for the
 dollar.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">austdlr</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f4238reute
-u f BC-AUSTRALIAN-CURRENCY-T   03-17 0117</field>
-	<field name = "TITLE">AUSTRALIAN CURRENCY TRADING SET RECORD IN JANUARY</field>
+	<field name = "titulo">AUSTRALIAN CURRENCY TRADING SET RECORD IN JANUARY</field>
 	<field name = "DATELINE">SYDNEY, March 17 -</field>
-	<field name = "BODY">Spot volume in the Australian foreign
+	<field name = "content">Spot volume in the Australian foreign
 exchange market jumped to a record 22.63 billion dlrs a day in
 January from 16.18 billion in December and 8.27 billion a year
 earlier, the Reserve Bank said in its monthly bulletin.

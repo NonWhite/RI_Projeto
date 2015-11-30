@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 13:36:40.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8912reute
-d f BC-UNISYS-UIS>-HAS-SECU   03-18 0104</field>
-	<field name = "TITLE">UNISYS UIS> HAS SECURITY SYSTEM FOR MAINFRAMES</field>
+	<field name = "titulo">UNISYS UIS> HAS SECURITY SYSTEM FOR MAINFRAMES</field>
 	<field name = "DATELINE">DETROIT, March 18 -</field>
-	<field name = "BODY">Unisys Corp said shipments will begin
+	<field name = "content">Unisys Corp said shipments will begin
 in July 1987 of its new security software package to prevent
 unauthorized access to its A series mainframe computers used by
 commercial customers and for government installations.

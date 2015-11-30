@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 05:07:11.44</field>
 	<field name = "PLACES">argentina</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f1354reute
-u f BC-WORLD-BANK-VICE-PRESI   03-16 0105</field>
-	<field name = "TITLE">WORLD BANK VICE-PRESIDENT PRAISES ARGENTINE PLANS</field>
+	<field name = "titulo">WORLD BANK VICE-PRESIDENT PRAISES ARGENTINE PLANS</field>
 	<field name = "DATELINE">BUENOS AIRES, March 16 -</field>
-	<field name = "BODY">World Bank Vice-President David
+	<field name = "content">World Bank Vice-President David
 Knox said the bank was eager to finance Argentine plans to
 stimulate growth and that he was urging private banks to grant
 new loans to the country.

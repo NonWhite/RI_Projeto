@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 12:20:35.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0911reute
-r f BC-MERRILL-LYNCH-MER>-P   03-05 0100</field>
-	<field name = "TITLE">MERRILL LYNCH MER> PARTNERSHIP FULLY SUBSCRIBED</field>
+	<field name = "titulo">MERRILL LYNCH MER> PARTNERSHIP FULLY SUBSCRIBED</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Merrill Lynch, Pierce, Fenner and Smith
+	<field name = "content">Merrill Lynch, Pierce, Fenner and Smith
 Inc said it has fully subscribed the 120 mln dlrs in
 partnership interests it offered in the ML Venture Partners II,
 LP.

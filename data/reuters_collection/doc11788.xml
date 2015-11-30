@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 03:22:18.57</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0153reute
-u f BC-GERMAN-2.2-PCT-GROWTH   04-01 0100</field>
-	<field name = "TITLE">GERMAN 2.2 PCT GROWTH AVERAGE SEEN TO 1991</field>
+	<field name = "titulo">GERMAN 2.2 PCT GROWTH AVERAGE SEEN TO 1991</field>
 	<field name = "DATELINE">DUESSELDORF, April 1 -</field>
-	<field name = "BODY">The economy will grow by an average
+	<field name = "content">The economy will grow by an average
 rate of 2.2 pct a year in real terms between now and the end of
 1991, Westdeutsche Landesbank Girozentrale (WestLB) said in an
 annual report.

@@ -6,12 +6,9 @@
 	<field name = "PEOPLE">lawson</field>
 	<field name = "PEOPLE">thatcher</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0012reute
-r f BC-LAWSON-SAYS-U.K.-ELEC   04-05 0095</field>
-	<field name = "TITLE">LAWSON SAYS U.K. ELECTION NOT ONLY EMS BAR</field>
+	<field name = "titulo">LAWSON SAYS U.K. ELECTION NOT ONLY EMS BAR</field>
 	<field name = "DATELINE">KNOKKE-HEIST, Belgium, April 5 -</field>
-	<field name = "BODY">British Chancellor of the
+	<field name = "content">British Chancellor of the
 Exchequer Nigel Lawson said the next U.K. Election was not the
 only element standing in the way of full British membership of
 the European Monetary System (EMS).

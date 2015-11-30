@@ -5,12 +5,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">rapeseed</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">C G
-f2903reute
-u f BC-ALBERTA-SEEDING-VIRTU   06-02 0132</field>
-	<field name = "TITLE">ALBERTA SEEDING VIRTUALLY COMPLETE</field>
+	<field name = "titulo">ALBERTA SEEDING VIRTUALLY COMPLETE</field>
 	<field name = "DATELINE">CALGARY, June 2 -</field>
-	<field name = "BODY">Ninety-six pct of Alberta and
+	<field name = "content">Ninety-six pct of Alberta and
 northeastern British Columbia crops have been seeded, about a
 week ahead of the 10 year average, according to the Alberta
 wheat pool report.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 10:03:29.04</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1076reute
-b f BC-BACOB-FINANCE-ISSUES   04-02 0097</field>
-	<field name = "TITLE">BACOB FINANCE ISSUES 50 MLN AUSTRALIAN DLR BOND</field>
+	<field name = "titulo">BACOB FINANCE ISSUES 50 MLN AUSTRALIAN DLR BOND</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">Bacob Finance NV is issuing a 50 mln
+	<field name = "content">Bacob Finance NV is issuing a 50 mln
 Australian dlr eurobond due July 5, 1990 paying 14-3/4 pct and
 priced at 101-3/8 pct, lead manager Goldman Sachs International
 Corp said.

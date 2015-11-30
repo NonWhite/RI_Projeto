@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 05:21:27.84C G</field>
-	<field name = "UNKNOWN">f0331reute</field>
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "TOPICS">rape-oil</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">b f BC-INDIA-BUYS-20,000-TON   03-27 0082</field>
-	<field name = "TITLE">INDIA BUYS 20,000 TONNES OF RAPESEED OIL</field>
+	<field name = "titulo">INDIA BUYS 20,000 TONNES OF RAPESEED OIL</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">The Indian State Trading Corporation
+	<field name = "content">The Indian State Trading Corporation
 (STC) bought a 20,000 tonne cargo of optional origin rapeseed
 oil at its vegetable oil import tender yesterday, traders said.
 The oil was for June 20/July 20 shipment at 321 dlrs per tonne

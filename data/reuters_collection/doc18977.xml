@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 15:52:30.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4509reute
-d f BC-FIRST-FEDERAL-OF-MICH   06-18 0022</field>
-	<field name = "TITLE">FIRST FEDERAL OF MICHIGAN FFOM.O> QTLY DIV</field>
+	<field name = "titulo">FIRST FEDERAL OF MICHIGAN FFOM.O> QTLY DIV</field>
 	<field name = "DATELINE">DETROIT June 18 -</field>
-	<field name = "BODY">Qtly div 12 cts vs 12 cts prior
+	<field name = "content">Qtly div 12 cts vs 12 cts prior
     Pay Aug 10
     Record July 10
  Reuter</field>

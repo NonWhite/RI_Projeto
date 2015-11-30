@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 13:29:20.59</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1947reute
-r f BC-SUFFIELD-SPCP>-COMPL   04-02 0040</field>
-	<field name = "TITLE">SUFFIELD SPCP> COMPLETES COASTAL CSBK> BUY</field>
+	<field name = "titulo">SUFFIELD SPCP> COMPLETES COASTAL CSBK> BUY</field>
 	<field name = "DATELINE">SUFFIELD, Conn., April 2 -</field>
-	<field name = "BODY">Suffield Financial Corp said it
+	<field name = "content">Suffield Financial Corp said it
 has completed the acquisition of Coastal Bancorp of Portland,
 Maine, in an exchange of 2.05655 Suffield shares for each
 Coastal share.

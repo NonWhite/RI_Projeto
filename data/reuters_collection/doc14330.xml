@@ -4,12 +4,9 @@
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">imf</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f1582reute
-r f BC-YUGOSLAVIA-DISCUSSES   04-07 0104</field>
-	<field name = "TITLE">YUGOSLAVIA DISCUSSES COMMERCIAL DEBT REFINANCING</field>
+	<field name = "titulo">YUGOSLAVIA DISCUSSES COMMERCIAL DEBT REFINANCING</field>
 	<field name = "DATELINE">BELGRADE, April 7 -</field>
-	<field name = "BODY">Yugoslavia, which refinanced part of
+	<field name = "content">Yugoslavia, which refinanced part of
 its 19.7 billion dlr debt in talks with creditor governments
 last week, has begun talks with banks on rescheduling its
 commercial debt, the official Tanjug news agency said.

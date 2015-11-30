@@ -4,12 +4,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">lyng</field>
-	<field name = "UNKNOWN">C G
-f0991reute
-u f BC-U.S.-SOYBEAN-MARKETIN   03-12 0142</field>
-	<field name = "TITLE">U.S. SOYBEAN MARKETING LOAN NOT NEEDED - LYNG</field>
+	<field name = "titulo">U.S. SOYBEAN MARKETING LOAN NOT NEEDED - LYNG</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">U.S. Agriculture Secretary Richard
+	<field name = "content">U.S. Agriculture Secretary Richard
 Lyng said a marketing loan for soybeans would serve no present
 purpose because the U.S. price is not above the world price.
     Asked in an interview if it was time to consider a

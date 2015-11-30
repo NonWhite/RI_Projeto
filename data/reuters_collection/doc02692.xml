@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 11:56:56.82</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0654reute
-u f BC-NCH-CORP-NCH>-3RD-QT   03-06 0042</field>
-	<field name = "TITLE">NCH CORP NCH> 3RD QTR JAN 31 NET</field>
+	<field name = "titulo">NCH CORP NCH> 3RD QTR JAN 31 NET</field>
 	<field name = "DATELINE">IRVING, Texas, March 6 -</field>
-	<field name = "BODY">Shr 51 cts vs 44 cts
+	<field name = "content">Shr 51 cts vs 44 cts
     Net 4,710,000 vs 4,086,000
     Sales 109.2 mln vs 98.2 mln
     Nine mths

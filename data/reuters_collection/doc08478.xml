@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 15:30:30.62</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2233reute
-u f BC-SECURITY-CAPITAL-SCC   03-23 0084</field>
-	<field name = "TITLE">SECURITY CAPITAL SCC> SUSPENDS DIVIDENDS</field>
+	<field name = "titulo">SECURITY CAPITAL SCC> SUSPENDS DIVIDENDS</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Security Capital Corp said it has
+	<field name = "content">Security Capital Corp said it has
 suspended quarterly cash dividend payments indefinitely.
     The company also said its board has withdrawn authroization
 for the company to buy its stock on the open market. Its

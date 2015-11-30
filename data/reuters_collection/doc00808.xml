@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 17:07:36.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0165
-reute
-r f BC-TURNER-CORP-TUR>-UNI   03-02 0086</field>
-	<field name = "TITLE">TURNER CORP TUR> UNIT BUILDS HOSPITAL ADDITION</field>
+	<field name = "titulo">TURNER CORP TUR> UNIT BUILDS HOSPITAL ADDITION</field>
 	<field name = "DATELINE">FONTANA, Calif., March 2 -</field>
-	<field name = "BODY">The Turner Corp's construction
+	<field name = "content">The Turner Corp's construction
 company New York said its Orange County office has begun
 building a 23 mln dlr addition to Kaiser Permanente Medical
 Center.

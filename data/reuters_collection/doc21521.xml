@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 06:54:39.85</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM 
-f0508reute
-u f BC-SINGAPORE'S-RAFFLES-C   10-19 0080</field>
-	<field name = "TITLE">SINGAPORE'S RAFFLES CITY SIGNS 500 MLN DLR NIF</field>
+	<field name = "titulo">SINGAPORE'S RAFFLES CITY SIGNS 500 MLN DLR NIF</field>
 	<field name = "DATELINE">SINGAPORE, Oct 19 -</field>
-	<field name = "BODY">Raffles City Pte Ltd> said it signed a
+	<field name = "content">Raffles City Pte Ltd> said it signed a
 10 year note issuance facility (NIF) on Monday to raise 500 mln
 Singapore dlrs.
     Proceeds of the issue would enable Raffles City to tap

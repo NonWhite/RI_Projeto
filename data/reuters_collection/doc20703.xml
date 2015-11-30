@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 16:13:42.26</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3139reute
-r f AM-AIRBUS   10-20 0097</field>
-	<field name = "TITLE">AIRBUS SAID READY TO COOPERATE WITH MCDONNELL MD></field>
+	<field name = "titulo">AIRBUS SAID READY TO COOPERATE WITH MCDONNELL MD></field>
 	<field name = "DATELINE">PARIS, Oct 20 -</field>
-	<field name = "BODY">The European Airbus consortium is ready to
+	<field name = "content">The European Airbus consortium is ready to
 cooperate with U.S. Aerospace group McDonnell Douglas Corp on
 future aircraft programs, pointing the way to a defusion of the
 transatlantic dispute on subsidies to the aircraft industry,

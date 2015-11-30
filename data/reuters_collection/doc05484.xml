@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 12:30:11.94</field>
 	<field name = "TOPICS">cpu</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2810reute
-b f BC-U.S.-CAPACITY-USE-RAT   03-16 0098</field>
-	<field name = "TITLE">U.S. CAPACITY USE RATE 79.8 PCT IN FEBRUARY</field>
+	<field name = "titulo">U.S. CAPACITY USE RATE 79.8 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">U.S. factories, mines and utilities
+	<field name = "content">U.S. factories, mines and utilities
 operated at 79.8 pct of capacity in February, compared with a
 revised 79.6 pct in January and December, the Federal reserve
 Board said.

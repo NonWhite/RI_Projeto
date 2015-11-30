@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 06:54:29.33</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G T
-f0503reute
-r f BC-GEORGIAN-AVALANCHES-A   03-12 0105</field>
-	<field name = "TITLE">GEORGIAN AVALANCHES AND FLOODS BRING DEATHS</field>
+	<field name = "titulo">GEORGIAN AVALANCHES AND FLOODS BRING DEATHS</field>
 	<field name = "DATELINE">MOSCOW, March 12 -</field>
-	<field name = "BODY">Avalanches, landslides and floods have
+	<field name = "content">Avalanches, landslides and floods have
 killed almost 100 people since the start of the year in the
 Soviet Transcaucasian republic of Georgia, the official daily
 Sotsialisticheskaya Industriya said.

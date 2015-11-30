@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 19:03:16.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2863reute
-u f BC-GOLDMAN,-SACHS-COMMEN   04-09 0109</field>
-	<field name = "TITLE">GOLDMAN, SACHS COMMENTS ON FREEMAN INDICTMENT</field>
+	<field name = "titulo">GOLDMAN, SACHS COMMENTS ON FREEMAN INDICTMENT</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Goldman, Sachs and Co, responding to
+	<field name = "content">Goldman, Sachs and Co, responding to
 the indictment earlier today of Robert M. Freeman, who remains
 head of its risk arbitrage unit, said it believes the
 44-year-old executive did not violate insider trading laws.

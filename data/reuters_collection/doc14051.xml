@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:13:39.69</field>
-	<field name = "UNKNOWN">L
-f1202reute
-u f BC-miss-direct-hogs   04-07 0079</field>
-	<field name = "TITLE">MISSOURI DIRECT HOGS UP 1.00-1.50 DLR - USDA</field>
+	<field name = "titulo">MISSOURI DIRECT HOGS UP 1.00-1.50 DLR - USDA</field>
 	<field name = "DATELINE">JEFFERSON CITY, April 7 -</field>
-	<field name = "BODY">Barrow and gilts in the east and
+	<field name = "content">Barrow and gilts in the east and
 west were 1.00 to 1.50 dlr higher than monday's midsession. Top
 50.50 dlrs per cwt.
                     EAST          WEST

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 13:32:58.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0179reute
-r f BC-GULF-OF-MEXICO-RIG-CO   03-09 0099</field>
-	<field name = "TITLE">GULF OF MEXICO RIG COUNT UNCHANGED THIS WEEK</field>
+	<field name = "titulo">GULF OF MEXICO RIG COUNT UNCHANGED THIS WEEK</field>
 	<field name = "DATELINE">HOUSTON, March 9 -</field>
-	<field name = "BODY">Utilization of offshore mobile rigs in
+	<field name = "content">Utilization of offshore mobile rigs in
 the Gulf of Mexico was unchanged at 35.6 pct during the past
 week, a level that has remained relatively steady since January
 due largely to a reduction of nine rigs in the Gulf fleet,

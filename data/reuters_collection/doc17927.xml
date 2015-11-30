@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 05:50:01.61</field>
 	<field name = "PLACES">bahrain</field>
-	<field name = "UNKNOWN">RM
-f0400reute
-r f BC-OMAN-CENTRAL-BANK-TO   06-02 0104</field>
-	<field name = "TITLE">OMAN CENTRAL BANK TO ISSUE TREASURY BILLS</field>
+	<field name = "titulo">OMAN CENTRAL BANK TO ISSUE TREASURY BILLS</field>
 	<field name = "DATELINE">BAHRAIN, June 2 -</field>
-	<field name = "BODY">Oman's central bank is expected to
+	<field name = "content">Oman's central bank is expected to
 announce shortly the go-ahead for a weekly offering of treasury
 bills to the sultanate's 22 local and foreign banks, banking
 sources in Muscat said.

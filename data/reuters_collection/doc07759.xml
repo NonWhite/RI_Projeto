@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 11:39:43.64</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">comex</field>
-	<field name = "UNKNOWN">C M
-f1376reute
-d f BC-COMEX-CONSIDERING-NEW   03-20 0096</field>
-	<field name = "TITLE">COMEX CONSIDERING NEW FUTURES CONTRACTS</field>
+	<field name = "titulo">COMEX CONSIDERING NEW FUTURES CONTRACTS</field>
 	<field name = "DATELINE">BOCA RATON, Fla, March 20 -</field>
-	<field name = "BODY">The Commodity Exchange Inc,
+	<field name = "content">The Commodity Exchange Inc,
 COMEX, is researching the possibility of offering futures
 contracts on foreign currency swaps and Ginnie Mae repurchase
 agreements, a COMEX consultant said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 20:07:37.71</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f2925reute
-u f BC-N.Z.-FOREIGN-RESERVES   03-26 0052</field>
-	<field name = "TITLE">N.Z. FOREIGN RESERVES FALL SLIGHTLY IN FEBRUARY</field>
+	<field name = "titulo">N.Z. FOREIGN RESERVES FALL SLIGHTLY IN FEBRUARY</field>
 	<field name = "DATELINE">WELLINGTON, March 27 -</field>
-	<field name = "BODY">New Zealand's official foreign
+	<field name = "content">New Zealand's official foreign
 reserves fell slightly to 7.13 billion N.Z. Dlrs in February
 from 7.15 billion in January but were sharply above 2.85
 billion in February 1986, the Reserve Bank said in its weekly

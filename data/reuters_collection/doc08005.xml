@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 17:01:28.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2497reute
-r f BC-TEXAS-INSTRUMENTS-TX   03-20 0106</field>
-	<field name = "TITLE">TEXAS INSTRUMENTS TXN> BEGINS BUILDING PLANT</field>
+	<field name = "titulo">TEXAS INSTRUMENTS TXN> BEGINS BUILDING PLANT</field>
 	<field name = "DATELINE">DALLAS, March 20 -</field>
-	<field name = "BODY">Texas Instruments Inc said construction
+	<field name = "content">Texas Instruments Inc said construction
 will begin in April on a new plant near Denton, Texas, on 193
 acres owned by the company.
     It said the plant will initially employ between 1,000 and

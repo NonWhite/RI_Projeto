@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">RM C M
-f0160reute
-u f BC-REAGAN'S-REMARKS-HELP   03-04 0099</field>
-	<field name = "TITLE">REAGAN'S REMARKS HELP GOLD TO RECOVER IN HONG KONG</field>
+	<field name = "titulo">REAGAN'S REMARKS HELP GOLD TO RECOVER IN HONG KONG</field>
 	<field name = "DATELINE">HONG KONG, March 5 -</field>
-	<field name = "BODY">Gold rose by about 50 U.S. Cents an
+	<field name = "content">Gold rose by about 50 U.S. Cents an
 ounce, following a statement by President Ronald Reagan that
 the arms-for-hostages deal with Iran "was a mistake," dealers
 said.

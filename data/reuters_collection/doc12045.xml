@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 11:47:47.24</field>
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1479reute
-u f BC-BETHLEHEM-STEEL-BS>   04-01 0087</field>
-	<field name = "TITLE">BETHLEHEM STEEL BS> SETS PLATE PRICE INCREASES</field>
+	<field name = "titulo">BETHLEHEM STEEL BS> SETS PLATE PRICE INCREASES</field>
 	<field name = "DATELINE">BETHLEHEM, Pa., April 1 -</field>
-	<field name = "BODY">Bethlehem Steel Corp said its
+	<field name = "content">Bethlehem Steel Corp said its
 base price for carbon plates and high-strength and low-alloy
 plates will be increased by 25 dlrs to 405 dlrs a short ton,
 effective July one.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f1614reute
-d f BC-LEADING-ECONOMISTS-CA   03-20 0087</field>
-	<field name = "TITLE">LEADING ECONOMISTS CALL FOR MORE GROWTH ABROAD</field>
+	<field name = "titulo">LEADING ECONOMISTS CALL FOR MORE GROWTH ABROAD</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">A panel of four leading economists
+	<field name = "content">A panel of four leading economists
 told a congressional hearing today that foreign economies will
 need to expand to avoid recession as the U.S. trade deficit
 declines.

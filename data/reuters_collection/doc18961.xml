@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 15:42:36.69</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4458reute
-r f BC-CARTER-HAWLEY-CHH>-S   06-18 0116</field>
-	<field name = "TITLE">CARTER HAWLEY CHH> SETS RECORD DATE FOR VOTE</field>
+	<field name = "titulo">CARTER HAWLEY CHH> SETS RECORD DATE FOR VOTE</field>
 	<field name = "DATELINE">LOS ANGELES, June 18 -</field>
-	<field name = "BODY">Carter Hawley Hale Stores Inc said
+	<field name = "content">Carter Hawley Hale Stores Inc said
 it has set June 29 as the record date for shareholders voting
 on the company's proposed restructuring at its annual meeting.
     The company has yet to set a date for the meeting, but has

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 14:04:30.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2094reute
-r f BC-SOCAL-EDISON-SCE>-SI   04-08 0089</field>
-	<field name = "TITLE">SOCAL EDISON SCE> SIGNS HOOVER DAM POWER PACT</field>
+	<field name = "titulo">SOCAL EDISON SCE> SIGNS HOOVER DAM POWER PACT</field>
 	<field name = "DATELINE">ROSEMEAD, Calif., April 8 -</field>
-	<field name = "BODY">Southern California Edison said
+	<field name = "content">Southern California Edison said
 it signed a 30-year contract with the federal government for
 hydroelectric power from Hoover Dam.
     Southern California Edison said it would receive some 277.5

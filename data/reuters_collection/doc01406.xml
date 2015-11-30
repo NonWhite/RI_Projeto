@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 18:23:10.82</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">L
-f0168reute
-d f BC-NATIONAL-PORK-BOARD-A   03-03 0129</field>
-	<field name = "TITLE">NATIONAL PORK BOARD ALLOCATES 2.4 MLN DLRS</field>
+	<field name = "titulo">NATIONAL PORK BOARD ALLOCATES 2.4 MLN DLRS</field>
 	<field name = "DATELINE">Chicago, March 3 -</field>
-	<field name = "BODY">The National Pork Board on Monday
+	<field name = "content">The National Pork Board on Monday
 allocated 2.4 mln dlrs in discretionary funds, collected from
 the 100 pct national checkoff program, to three industry
 organizations.

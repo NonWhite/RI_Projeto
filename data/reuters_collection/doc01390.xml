@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 17:54:29.53</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0126reute
-d f BC-ZENITH-LABS-ZEN>-WIL   03-03 0099</field>
-	<field name = "TITLE">ZENITH LABS ZEN> WILL REPORT 4TH QTR LOSS</field>
+	<field name = "titulo">ZENITH LABS ZEN> WILL REPORT 4TH QTR LOSS</field>
 	<field name = "DATELINE">RAMSEY, N.J., March 3 -</field>
-	<field name = "BODY">Zenith Laboratories Inc said the
+	<field name = "content">Zenith Laboratories Inc said the
 company will report a fourth quarter loss, and the amount will
 be determined on completion of its year end audit. The company
 did not elaborate further.

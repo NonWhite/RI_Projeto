@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 17:15:35.82</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2630reute
-d f BC-MARYLAND-NATIONAL-MD   03-24 0107</field>
-	<field name = "TITLE">MARYLAND NATIONAL MDNT> SEES NEW NAME</field>
+	<field name = "titulo">MARYLAND NATIONAL MDNT> SEES NEW NAME</field>
 	<field name = "DATELINE">BALTIMORE, March 24 -</field>
-	<field name = "BODY">Maryland National Corp, the parent of
+	<field name = "content">Maryland National Corp, the parent of
 Maryland National Bank which earlier this month merged with
 American Security Bank, said its shareholders will vote on a
 new name for the regional bank holding company at its April 29

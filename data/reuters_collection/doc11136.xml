@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 18:20:33.78</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f2760reute
-u f BC-N.Z.-FEBRUARY-CURRENT   03-30 0105</field>
-	<field name = "TITLE">N.Z. FEBRUARY CURRENT ACCOUNT DEFICIT NARROWS</field>
+	<field name = "titulo">N.Z. FEBRUARY CURRENT ACCOUNT DEFICIT NARROWS</field>
 	<field name = "DATELINE">WELLINGTON, March 31 -</field>
-	<field name = "BODY">New Zealand's current account
+	<field name = "content">New Zealand's current account
 deficit narrowed to 78 mln dlrs in February from 93 mln in
 January and 233 mln in February 1986, in a smoothed seasonally
 adjusted measurement, the statistics department said.

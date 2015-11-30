@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:04:21.33</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0973reute
-r f BC-VALHI-VHI>-REPORTS-P   04-01 0098</field>
-	<field name = "TITLE">VALHI VHI> REPORTS PRO-FORMA EARNINGS</field>
+	<field name = "titulo">VALHI VHI> REPORTS PRO-FORMA EARNINGS</field>
 	<field name = "DATELINE">DALLAS, April 1 -</field>
-	<field name = "BODY">Valhi Inc, formed by the March 10 merger
+	<field name = "content">Valhi Inc, formed by the March 10 merger
 of Amalgamated Sugar Co into LLC Corp, said it had unaudited
 pro-forma earnings of 72 mln dlrs, or 61 cts a share, for the
 six months ended December 31.

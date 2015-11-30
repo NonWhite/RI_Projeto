@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 11:08:44.89</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0514reute
-r f BC-NATIONAL-GYPSUM-CO-4T   03-05 0062</field>
-	<field name = "TITLE">NATIONAL GYPSUM CO 4TH QTR NET</field>
+	<field name = "titulo">NATIONAL GYPSUM CO 4TH QTR NET</field>
 	<field name = "DATELINE">DALLAS, March 5 -</field>
-	<field name = "BODY">Net 5,521,000 vs NA
+	<field name = "content">Net 5,521,000 vs NA
     Revs 358.1 mln vs 359.0 mln
     Year
     Net 55.3 mln vs NA

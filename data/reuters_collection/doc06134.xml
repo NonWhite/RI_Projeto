@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 13:32:00.56</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5978reute
-d f BC-FORTUNE-SAVINGS-TO-BU   03-17 0073</field>
-	<field name = "TITLE">FORTUNE SAVINGS TO BUY FINANCIAL FSSL> BRANCH</field>
+	<field name = "titulo">FORTUNE SAVINGS TO BUY FINANCIAL FSSL> BRANCH</field>
 	<field name = "DATELINE">SUNRISE, Fla., March 17 -</field>
-	<field name = "BODY">Fortune Savings Bank> said it
+	<field name = "content">Fortune Savings Bank> said it
 agreed to buy the deposits and assume the leasehold of a
 Financial Security Savings and Loan Association FSSL> branch
 here.

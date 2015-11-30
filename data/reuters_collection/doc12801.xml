@@ -3,12 +3,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">G
-f0583reute
-u f BC-LONDON-GRAINS-SEES-WH   04-03 0108</field>
-	<field name = "TITLE">LONDON GRAINS SEES WHEAT RECOVER FROM LOWS</field>
+	<field name = "titulo">LONDON GRAINS SEES WHEAT RECOVER FROM LOWS</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">U.K. Physical wheat values recovered from
+	<field name = "content">U.K. Physical wheat values recovered from
 initial losses of one to two stg per tonne caused by overnight
 news of the release of an additional 300,000 tonnes of
 intervention feed wheat for U.K. Weekly home market tenders.

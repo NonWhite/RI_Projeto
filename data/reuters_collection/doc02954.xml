@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0875reute
-u f BC-TWO-HUNDRED-FEARED-DE   03-06 0103</field>
-	<field name = "TITLE">TWO HUNDRED FEARED DEAD IN FERRY DISASTER</field>
+	<field name = "titulo">TWO HUNDRED FEARED DEAD IN FERRY DISASTER</field>
 	<field name = "DATELINE">ZEEBRUGGE, Belgium, March 7 -</field>
-	<field name = "BODY">About 200 people are feared
+	<field name = "content">About 200 people are feared
 dead after a British cross-channel ferry rolled on its side off
 the Belgian coast last night -- but almost 350 passengers were
 plucked to safety from the ice-cold sea.

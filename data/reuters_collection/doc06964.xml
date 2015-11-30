@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 03:39:27.59</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">RM
-f0143reute
-r f BC-SWEDEN-REVISES-DOWN-J   03-19 0102</field>
-	<field name = "TITLE">SWEDEN REVISES DOWN JANUARY'S INFLATION FIGURE</field>
+	<field name = "titulo">SWEDEN REVISES DOWN JANUARY'S INFLATION FIGURE</field>
 	<field name = "DATELINE">STOCKHOLM, March 19 -</field>
-	<field name = "BODY">Sweden's rate of inflation during
+	<field name = "content">Sweden's rate of inflation during
 January has been revised downwards after a fault was made in
 calculating the figures, the Central Bureau of Statistics said.
     The January rise in consumer prices was 1.0 pct instead of

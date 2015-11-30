@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 08:08:13.06</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0687reute
-u f BC-SANDOZ-HAS-50-MLN-DLR   03-26 0077</field>
-	<field name = "TITLE">SANDOZ HAS 50 MLN DLR EURO-CP PROGRAM</field>
+	<field name = "titulo">SANDOZ HAS 50 MLN DLR EURO-CP PROGRAM</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">Sandoz Corp, a U.S. Subsidiary of Sandoz
+	<field name = "content">Sandoz Corp, a U.S. Subsidiary of Sandoz
 AG, is establishing a 50 mln dlr euro-commercial paper (CP)
 program, Morgan Guaranty Ltd said as one of the dealers.
     The other dealer is Swiss Bank Corp International Ltd and

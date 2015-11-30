@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 11:45:37.17</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f1564reute
-w f BC-gERMAN-RETAILERS-EXPE   03-26 0099</field>
-	<field name = "TITLE">GERMAN RETAILERS EXPECT GOOD 1987</field>
+	<field name = "titulo">GERMAN RETAILERS EXPECT GOOD 1987</field>
 	<field name = "DATELINE">BONN, March 26 -</field>
-	<field name = "BODY">West German retailers expect another good
+	<field name = "content">West German retailers expect another good
 year in 1987 even though they will not be able to repeat the
 sharp increase in turnover they enjoyed in 1986, the General
 Association of the German Retail Trade (HDE) said.

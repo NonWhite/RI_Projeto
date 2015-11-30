@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 11:39:28.49</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">A
-f1452reute
-r f BC-BRAZIL-CONFIRMS-RENEW   04-01 0097</field>
-	<field name = "TITLE">BRAZIL CONFIRMS RENEWAL OF SHORT-TERM CREDIT LINES</field>
+	<field name = "titulo">BRAZIL CONFIRMS RENEWAL OF SHORT-TERM CREDIT LINES</field>
 	<field name = "DATELINE">BRASILIA, April 1 -</field>
-	<field name = "BODY">Brazilian economic officials confirmed
+	<field name = "content">Brazilian economic officials confirmed
 a renewal of short-range credit lines by commercial creditors,
 bringing optimism that renegotiation of the 109 billion dlrs
 foreign debt is possible.

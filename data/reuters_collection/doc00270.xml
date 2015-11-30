@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 00:44:03.70</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0591
-reute
-b f BC-JAPAN-FEBRUARY-INTERI   03-02 0105</field>
-	<field name = "TITLE">JAPAN FEBRUARY INTERIM TRADE SURPLUS JUMPS</field>
+	<field name = "titulo">JAPAN FEBRUARY INTERIM TRADE SURPLUS JUMPS</field>
 	<field name = "DATELINE">TOKYO, March 2 -</field>
-	<field name = "BODY">Japan's customs-cleared trade surplus in
+	<field name = "content">Japan's customs-cleared trade surplus in
 the first 20 days of February jumped to 3.58 billion dlrs from
 1.94 billion a year earlier, the Finance Ministry said.
     The February interim surplus was sharply up from a 965.04

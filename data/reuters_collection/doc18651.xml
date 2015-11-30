@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 09:41:12.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3069reute
-u f BC-GREAT-WESTERN-GWF>-O   06-18 0101</field>
-	<field name = "TITLE">GREAT WESTERN GWF> OFFERS 2.5 MLN COMMON SHARES</field>
+	<field name = "titulo">GREAT WESTERN GWF> OFFERS 2.5 MLN COMMON SHARES</field>
 	<field name = "DATELINE">BEVERLY HILLS, June 18 -</field>
-	<field name = "BODY">Great Western Financial Corp said
+	<field name = "content">Great Western Financial Corp said
 it is offering 2,513,200 common shares at a price of 20.625
 dlrs per share.
     The company said the shares are being offered in connection

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f2532reute
-d f BC-U.S.-CHIPMAKERS-URGE   03-25 0096</field>
-	<field name = "TITLE">U.S. CHIPMAKERS URGE SANCTIONS AGAINST JAPAN</field>
+	<field name = "titulo">U.S. CHIPMAKERS URGE SANCTIONS AGAINST JAPAN</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The Semiconductor Industry
+	<field name = "content">The Semiconductor Industry
 Association urged the U.S. government to impose trade sanctions
 against Japan for violating the U.S.-Japan Semiconductor Trade
 Agreement.

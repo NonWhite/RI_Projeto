@@ -4,12 +4,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">yeutter</field>
-	<field name = "UNKNOWN">A RM
-f2259reute
-b f BC-WHITE-HOUSE-DISAVOWS   04-02 0080</field>
-	<field name = "TITLE">WHITE HOUSE DISAVOWS YEUTTER COMMENTS ON DOLLAR</field>
+	<field name = "titulo">WHITE HOUSE DISAVOWS YEUTTER COMMENTS ON DOLLAR</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">White House spokesman Marlin
+	<field name = "content">White House spokesman Marlin
 Fitzwater said that comments made in congressional testimony by
 Trade Representative Clayton Yeutter do not reflect the
 government's position.

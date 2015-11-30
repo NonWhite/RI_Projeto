@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:58:55.64</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f1752reute
-u f BC-ZUERCHER-ZIEGELEIEN-S   03-20 0115</field>
-	<field name = "TITLE">ZUERCHER ZIEGELEIEN SETS 60 MLN SFR WARRANT BOND</field>
+	<field name = "titulo">ZUERCHER ZIEGELEIEN SETS 60 MLN SFR WARRANT BOND</field>
 	<field name = "DATELINE">ZURICH, March 20 -</field>
-	<field name = "BODY">Zuercher Ziegeleien AG plans a 60 mln
+	<field name = "content">Zuercher Ziegeleien AG plans a 60 mln
 Swiss franc, 2-1/4 pct domestic bond with warrants for
 participation certificates, lead manager Swiss Bank Corp said.
     The 10-year par-priced bonds of 5,000 francs' face value

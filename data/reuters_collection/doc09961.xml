@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 11:38:01.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1526reute
-d f BC-THERMO-PROCESS-TPSI>   03-26 0054</field>
-	<field name = "TITLE">THERMO PROCESS TPSI> WINS 1.5 MLN DLR CONTRACT</field>
+	<field name = "titulo">THERMO PROCESS TPSI> WINS 1.5 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">WALTHAM, Mass., March 26 -</field>
-	<field name = "BODY">Thermo Process Systems Inc said
+	<field name = "content">Thermo Process Systems Inc said
 it won a 1.5 mln dlr contract from Avtopromimport, a trading
 company in the Soviet Union.
     The company said it will supply a fully automated,

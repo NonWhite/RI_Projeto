@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 09:45:46.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0935reute
-r f BC-INTEL-INTC>-UNIT-SEL   03-25 0091</field>
-	<field name = "TITLE">INTEL INTC> UNIT SELLS NOTES AT 8.18 PCT</field>
+	<field name = "titulo">INTEL INTC> UNIT SELLS NOTES AT 8.18 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Intel Overseas Corp, a unit of Intel
+	<field name = "content">Intel Overseas Corp, a unit of Intel
 Corp, is raising 110 mln dlrs through an offering of notes due
 1997 yielding 8.18 pct, said lead manager Shearson Lehman
 Brothers Inc.

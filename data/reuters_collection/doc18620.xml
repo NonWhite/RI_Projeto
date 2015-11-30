@@ -8,13 +8,10 @@
 	<field name = "PLACES">libya</field>
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM 
-f2937reute
-u f BC-OPEC-DIFFERENTIALS-NO   06-18 0115</field>
-	<field name = "TITLE">OPEC DIFFERENTIALS NOT SEEN POSING MAJOR PROBLEMS</field>
+	<field name = "titulo">OPEC DIFFERENTIALS NOT SEEN POSING MAJOR PROBLEMS</field>
 	<field name = "AUTHOR">By Judith Matloff, Reuters</field>
 	<field name = "DATELINE">LONDON, June 18 -</field>
-	<field name = "BODY">Some OPEC states are unhappy about the
+	<field name = "content">Some OPEC states are unhappy about the
 prices assigned to their crude oil but this should not pose
 great problems when the group reviews its six-month-old price
 and output pact in Vienna next week, oil analysts say.

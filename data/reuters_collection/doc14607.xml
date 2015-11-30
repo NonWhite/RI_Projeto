@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:20:57.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2378reute
-r f BC-SOUTHERN-UNION-SUG>   04-07 0078</field>
-	<field name = "TITLE">SOUTHERN UNION SUG> TO SELL NOTES, DEBENTURES</field>
+	<field name = "titulo">SOUTHERN UNION SUG> TO SELL NOTES, DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Southern Union Co said it filed with
+	<field name = "content">Southern Union Co said it filed with
 the Securities and Exchange Commission a registration statement
 covering a 50 mln dlr offering of 10-year notes and a
 same-sized issue of 30-year debentures.

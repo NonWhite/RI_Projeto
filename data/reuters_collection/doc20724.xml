@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 16:31:49.79</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A 
-f3191reute
-u f BC-CHASE-ACQUIRES-370-ML   10-20 0097</field>
-	<field name = "TITLE">CHASE ACQUIRES 370 MLN DLR REVOLVING CREDIT</field>
+	<field name = "titulo">CHASE ACQUIRES 370 MLN DLR REVOLVING CREDIT</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">The Chase Manhattan Bank, a unit of The
+	<field name = "content">The Chase Manhattan Bank, a unit of The
 Chase Manhattan Corp CMB>, said it acquired a portfolio of
 about 190,000 consumer revolving credit accounts from Atlantic
 Financial Federal ATLF.O> valued at 370 mln dlrs.

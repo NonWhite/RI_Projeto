@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">icahn</field>
-	<field name = "UNKNOWN">F
-f0253reute
-b f BC-/TWA-TWA>-CONFIRMS-O   03-06 0092</field>
-	<field name = "TITLE">TWA TWA> CONFIRMS OWNERSHIP OF USAIR U> STOCK</field>
+	<field name = "titulo">TWA TWA> CONFIRMS OWNERSHIP OF USAIR U> STOCK</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Trans World Airlines Inc said it owns
+	<field name = "content">Trans World Airlines Inc said it owns
 more than four mln USAir Group shares or about 15 pct of the
 total outstanding.
     TWA said it may acquire additional shares in the open

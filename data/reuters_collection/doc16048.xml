@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 18:36:56.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f2839reute
-r f BC-S/P-DOWNGRADES-ZENITH   04-09 0053</field>
-	<field name = "TITLE">S/P DOWNGRADES ZENITH ELECTRONIC ZE></field>
+	<field name = "titulo">S/P DOWNGRADES ZENITH ELECTRONIC ZE></field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Standard and Poor's said it lowered its
+	<field name = "content">Standard and Poor's said it lowered its
 rating on 190 mln dlrs of Zenith Electronic Corp debt because
 of continued poor earnings results and increased debt leverage.
     Among the rating changes, the company's senior debt was

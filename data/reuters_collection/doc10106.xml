@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C T
-f2272reute
-b f BC-/NY-TRADERS-SAY-SOVIE   03-26 0118</field>
-	<field name = "TITLE">NY TRADERS SAY SOVIETS MADE LARGE SUGAR PURCHASE</field>
+	<field name = "titulo">NY TRADERS SAY SOVIETS MADE LARGE SUGAR PURCHASE</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">The Soviet Union bought almost 90,000
+	<field name = "content">The Soviet Union bought almost 90,000
 tonnes of raw sugar from international trade houses last night,
 with some of the sugar changing hands at discounts to the spot
 May world sugar contract, according to trade sources.

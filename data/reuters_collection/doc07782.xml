@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 11:57:34.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1468reute
-r f BC-TEXACO-TX>-FORMS-A-N   03-20 0039</field>
-	<field name = "TITLE">TEXACO TX> FORMS A NEW EXPLORATION DEPARTMENT</field>
+	<field name = "titulo">TEXACO TX> FORMS A NEW EXPLORATION DEPARTMENT</field>
 	<field name = "DATELINE">WHITE PLAINS, N.Y., March 20 -</field>
-	<field name = "BODY">Texaco Inc said it has
+	<field name = "content">Texaco Inc said it has
 formed a new Frontier Exploration Department to initiate and
 evaluate high-potential frontier opportunities for Texaco
 worldwide.

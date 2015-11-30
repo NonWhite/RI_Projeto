@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 04:16:24.80</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f0212reute
-b f BC-EIB-300-MLN-GUILDER-B   04-08 0060</field>
-	<field name = "TITLE">EIB 300 MLN GUILDER BULLET BOND PRICED AT PAR</field>
+	<field name = "titulo">EIB 300 MLN GUILDER BULLET BOND PRICED AT PAR</field>
 	<field name = "DATELINE">AMSTERDAM, April 8 -</field>
-	<field name = "BODY">The issue price of the European
+	<field name = "content">The issue price of the European
 Investment Bank's 300 mln guilder 6.25 pct bullet bond due
 1995, announced on April 1, has been set at par, lead manager
 Amro bank said.

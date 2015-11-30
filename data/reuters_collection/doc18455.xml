@@ -2,12 +2,9 @@
 	<field name = "DATE">16-JUN-1987 06:41:16.49</field>
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0478reute
-u f BC-GERMAN-STEEL-INDUSTRY   06-16 0106</field>
-	<field name = "TITLE">GERMAN STEEL INDUSTRY SEEKS LAY-OFF FUNDS</field>
+	<field name = "titulo">GERMAN STEEL INDUSTRY SEEKS LAY-OFF FUNDS</field>
 	<field name = "DATELINE">BONN, June 16 -</field>
-	<field name = "BODY">The West German government today considered
+	<field name = "content">The West German government today considered
 demands for nearly 850 mln marks to lay off or retrain 20,000
 steel workers.
     Government spokesman Friedhelm Ost said Chancellor Helmut

@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 10:52:39.54</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0492reute
-r f BC-CONVENIENT-FOOD-MART   03-04 0087</field>
-	<field name = "TITLE">CONVENIENT FOOD MART CFMI> AGREES TO BUY CHAIN</field>
+	<field name = "titulo">CONVENIENT FOOD MART CFMI> AGREES TO BUY CHAIN</field>
 	<field name = "DATELINE">ROSEMONT, Ill, March 4 -</field>
-	<field name = "BODY">Convenient Food Mart Inc said it
+	<field name = "content">Convenient Food Mart Inc said it
 has tentatively agreed to buy all the outstanding stock of
 Plaid Pantries Inc and two associated businesses in Oregon and
 Washington for undisclosed terms.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:33:59.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f1832reute
-r f BC-MANUFACTURERSMHC>-SE   06-19 0102</field>
-	<field name = "TITLE">MANUFACTURERSMHC> SELLS 2-YEAR EXTENDABLE NOTES</field>
+	<field name = "titulo">MANUFACTURERSMHC> SELLS 2-YEAR EXTENDABLE NOTES</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Manufacturers Hanover Corp is offering
+	<field name = "content">Manufacturers Hanover Corp is offering
 200 mln dlrs of two-year senior extendable notes with a final
 maturity of 1993 yielding 8.30 pct, said lead manager Shearson
 Lehman Brothers Inc.

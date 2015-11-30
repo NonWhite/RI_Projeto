@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0202reute
-u f BC-GERMAN-TRADE-SURPLUS   04-27 0105</field>
-	<field name = "TITLE">GERMAN TRADE SURPLUS SHOULD NARROW, BUNDESBANK SAYS</field>
+	<field name = "titulo">GERMAN TRADE SURPLUS SHOULD NARROW, BUNDESBANK SAYS</field>
 	<field name = "DATELINE">FRANKFURT, April 27 -</field>
-	<field name = "BODY">Germany's current account and trade
+	<field name = "content">Germany's current account and trade
 surpluses should narrow sharply in 1987 but they will take a
 long time to get back to normal levels, the Bundesbank said in
 its 1986 yearly report.

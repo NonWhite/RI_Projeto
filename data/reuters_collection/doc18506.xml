@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 05:00:09.15</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI 
-f2358reute
-u f BC-JAPAN-FINISHING-UP-WO   06-18 0110</field>
-	<field name = "TITLE">JAPAN FINISHING UP WORK ON SUPPLEMENTARY BUDGET</field>
+	<field name = "titulo">JAPAN FINISHING UP WORK ON SUPPLEMENTARY BUDGET</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, June 18 -</field>
-	<field name = "BODY">The Finance Ministry is putting the
+	<field name = "content">The Finance Ministry is putting the
 finishing touches on a roughly 2,000 billion yen supplementary
 budget for 1987/88 and has started to turn its attention to
 next year's main budget, ministry officials said.

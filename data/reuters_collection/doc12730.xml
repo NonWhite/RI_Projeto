@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 01:13:50.54</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0031reute
-b f BC-ANZ-BANK-TO-CUT-AUSTR   04-03 0110</field>
-	<field name = "TITLE">ANZ BANK TO CUT AUSTRALIAN PRIME RATE TO 18 PCT</field>
+	<field name = "titulo">ANZ BANK TO CUT AUSTRALIAN PRIME RATE TO 18 PCT</field>
 	<field name = "DATELINE">MELBOURNE, April 3 -</field>
-	<field name = "BODY">Australia and New Zealand Banking
+	<field name = "content">Australia and New Zealand Banking
 Group Ltd ANZA.S> said it will lower its Australian prime
 lending rate to 18 pct from 18.25, effective April 6.
     The cut is the second announced by the bank in the last

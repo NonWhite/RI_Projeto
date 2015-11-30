@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">egypt</field>
-	<field name = "UNKNOWN">C
-f0694reute
-u f BC-BAD-WEATHER-CLOSES-AL   03-05 0082</field>
-	<field name = "TITLE">BAD WEATHER CLOSES ALEXANDRIA PORT, OIL TERMINAL</field>
+	<field name = "titulo">BAD WEATHER CLOSES ALEXANDRIA PORT, OIL TERMINAL</field>
 	<field name = "DATELINE">ALEXANDRIA, Egypt, March 5 -</field>
-	<field name = "BODY">Strong winds and high seas
+	<field name = "content">Strong winds and high seas
 today closed Alexandria, Egypt's biggest port, and an oil
 pipeline terminal nearby, officials said.
     Facilities of the Suez-Mediterranean Arab Petroleum

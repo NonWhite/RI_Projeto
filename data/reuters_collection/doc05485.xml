@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:30:22.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2811reute
-b f BC-FDA-PANEL-BACKS-UPJOH   03-16 0077</field>
-	<field name = "TITLE">FDA PANEL BACKS UPJOHN UPJ> BALDNESS DRUG</field>
+	<field name = "titulo">FDA PANEL BACKS UPJOHN UPJ> BALDNESS DRUG</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">The federal Food and Drug
+	<field name = "content">The federal Food and Drug
 Administration's Dermatologic Drugs Advisory Committee voted
 unanimously that Upjohn Co's Rogaine baldness drug was safe and
 effective.

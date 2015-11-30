@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 18:50:06.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2809reute
-u f BC-TEXACO-TX>-PENNZOIL   04-13 0099</field>
-	<field name = "TITLE">TEXACO TX> PENNZOIL PZL> WIDE APART ON ACCORD</field>
+	<field name = "titulo">TEXACO TX> PENNZOIL PZL> WIDE APART ON ACCORD</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Texaco Inc and Pennzoil Co are still
+	<field name = "content">Texaco Inc and Pennzoil Co are still
 far apart on a settlement of their 10.3 billion dlrs dispute,
 but both sides are still willing to settle, executives from
 both companies said.

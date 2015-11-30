@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 11:41:46.36</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1501reute
-u f BC-GENERAL-INSTRUMENT-CO   04-08 0076</field>
-	<field name = "TITLE">GENERAL INSTRUMENT CORP GRL> 4TH QTR LOSS</field>
+	<field name = "titulo">GENERAL INSTRUMENT CORP GRL> 4TH QTR LOSS</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Ended Feb 28
+	<field name = "content">Ended Feb 28
     Shr loss 2.80 dlrs vs profit 17 cts
     Net loss 90.5 mln vs profit 5,271,000
     Revs 240.9 mln vs 159.4 mln

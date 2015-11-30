@@ -3,12 +3,9 @@
 	<field name = "TOPICS">zinc</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">C M
-f0335reute
-b f BC-OECD-EUROPE-ZINC-STOC   03-19 0092</field>
-	<field name = "TITLE">OECD EUROPE ZINC STOCKS RISE IN JANUARY</field>
+	<field name = "titulo">OECD EUROPE ZINC STOCKS RISE IN JANUARY</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">Producers zinc stocks in Organization
+	<field name = "content">Producers zinc stocks in Organization
 for Economic Co-operation and Development (OECD) European
 countries rose to 159,732 tonnes in January from 151,171 in
 December and 127,725 in January 1986, latest International Lead

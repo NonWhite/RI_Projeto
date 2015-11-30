@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 12:52:34.94</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">cuba</field>
-	<field name = "UNKNOWN">C T
-f0743reute
-u f BC-CUBA-SUGAR-CROP-SEEN   03-13 0110</field>
-	<field name = "TITLE">CUBA SUGAR CROP SEEN AT LEAST SAME AS LAST YEAR</field>
+	<field name = "titulo">CUBA SUGAR CROP SEEN AT LEAST SAME AS LAST YEAR</field>
 	<field name = "DATELINE">LONDON, March 13 -</field>
-	<field name = "BODY">Cuban sugar export figures for January
+	<field name = "content">Cuban sugar export figures for January
 suggest that this year's crop may be at least as large as last
 year's 7.35 mln tonnes, according to sugar analysts.
     Exports in January totalled 733,000 tonnes raw value, up

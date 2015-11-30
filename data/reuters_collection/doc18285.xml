@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 16:24:13.80</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f2595reute
-r f BC-SWEET-VICTORY-SVICC.   06-02 0060</field>
-	<field name = "TITLE">SWEET VICTORY SVICC.O> CONTINUES ON NASDAQ</field>
+	<field name = "titulo">SWEET VICTORY SVICC.O> CONTINUES ON NASDAQ</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Sweet Victory Inc said its common stock
+	<field name = "content">Sweet Victory Inc said its common stock
 will continue to be listed in Nasdaq via an exception from the
 capital and surplus requirement.
     The company said while it failed to meet this requirement

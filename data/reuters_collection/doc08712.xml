@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 09:01:36.91</field>
 	<field name = "TOPICS">potato</field>
 	<field name = "PLACES">ireland</field>
-	<field name = "UNKNOWN">G
-f0816reute
-d f BC-IRELAND-PUT-ON-COLORA   03-24 0089</field>
-	<field name = "TITLE">IRELAND PUT ON COLORADO BEETLE ALERT</field>
+	<field name = "titulo">IRELAND PUT ON COLORADO BEETLE ALERT</field>
 	<field name = "DATELINE">DUBLIN, March 24 -</field>
-	<field name = "BODY">The Irish Agriculture Department issued
+	<field name = "content">The Irish Agriculture Department issued
 a Colorado beetle alert today after three of the beetles were
 found in a box of parsley imported from France.
     Officials said a colony of the black and amber coloured

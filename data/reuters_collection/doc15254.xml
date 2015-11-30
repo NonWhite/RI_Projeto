@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 15:24:13.33</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2305reute
-b f BC-CHRYSLER-C>-RENAULT   04-08 0102</field>
-	<field name = "TITLE">CHRYSLER C> RENAULT DELAY AM MOTORS AMO> PACT</field>
+	<field name = "titulo">CHRYSLER C> RENAULT DELAY AM MOTORS AMO> PACT</field>
 	<field name = "DATELINE">DETROIT, April 8 -</field>
-	<field name = "BODY">Chrysler Corp and Regie Natiionale des
+	<field name = "content">Chrysler Corp and Regie Natiionale des
 Usines Renault said they agreed to extend by up to two weeks
 the period for reaching definitive agreement on Chrysler's
 proposed 1.5 billion dlr takeover of American Motors Corp.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 10:44:49.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1071reute
-u f BC-NETWORK-SECURITY-NTW   06-19 0058</field>
-	<field name = "TITLE">NETWORK SECURITY NTWK.O> HOLDERS TO SELL STOCK</field>
+	<field name = "titulo">NETWORK SECURITY NTWK.O> HOLDERS TO SELL STOCK</field>
 	<field name = "DATELINE">DALLAS, June 19 -</field>
-	<field name = "BODY">Network Security Corp said three of its
+	<field name = "content">Network Security Corp said three of its
 major shareholders have executed definitive agreements to sell
 their shares to Inspectorate International INSZ.Z> SA.
     The company said its previously-announced merger into

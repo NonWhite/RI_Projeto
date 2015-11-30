@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 15:38:19.16</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2885reute
-u f BC-CCR-VIDEOCCCR.O>-GET   10-19 0073</field>
-	<field name = "TITLE">CCR VIDEOCCCR.O> GETS OFFER ON TAKEOVER TALKS</field>
+	<field name = "titulo">CCR VIDEOCCCR.O> GETS OFFER ON TAKEOVER TALKS</field>
 	<field name = "DATELINE">LOS ANGELES, Oct 19 -</field>
-	<field name = "BODY">CCR Video Corp said it received an
+	<field name = "content">CCR Video Corp said it received an
 offer to enter into negotiations for Intercep Investment Corp>
 of Vancouver, B.C., to acquire a controlling interest in the
 company through a tender offer.

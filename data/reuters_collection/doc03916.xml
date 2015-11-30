@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 15:38:08.99</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0472reute
-s f BC-BANGOR-HYDRO-ELECTRIC   03-11 0023</field>
-	<field name = "TITLE">BANGOR HYDRO-ELECTRIC CO BANG> SETS DIVIDEND</field>
+	<field name = "titulo">BANGOR HYDRO-ELECTRIC CO BANG> SETS DIVIDEND</field>
 	<field name = "DATELINE">BANGOR, Maine, March 11 -</field>
-	<field name = "BODY">Qtly div 25 cts vs 25 cts
+	<field name = "content">Qtly div 25 cts vs 25 cts
     Pay April 20
     Record March 31
  Reuter</field>

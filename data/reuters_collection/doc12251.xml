@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 15:27:40.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f2259reute
-u f BC-U.S.-HOUSE-BUDGET-GRO   04-01 0107</field>
-	<field name = "TITLE">U.S. HOUSE BUDGET GROUP NEARS BUDGET AGREEMENT</field>
+	<field name = "titulo">U.S. HOUSE BUDGET GROUP NEARS BUDGET AGREEMENT</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">The Democratic-controlled House
+	<field name = "content">The Democratic-controlled House
 Budget Committee neared approval, over Republican objections,
 of a trillion dlr budget plan for 1988.
     Committee Chairman William Gray said he wanted approval

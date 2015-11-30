@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 13:37:51.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1903reute
-u f BC-TEXACO-TX>-SAYS-IT-H   03-23 0091</field>
-	<field name = "TITLE">TEXACO TX> SAYS IT HAS EVIDENCE OF JUDGE'S BIAS</field>
+	<field name = "titulo">TEXACO TX> SAYS IT HAS EVIDENCE OF JUDGE'S BIAS</field>
 	<field name = "DATELINE">WHITE PLAINS, N.Y., March 23 -</field>
-	<field name = "BODY">Texaco Inc said it has filed
+	<field name = "content">Texaco Inc said it has filed
 a motion with the Texas Court of Appeals to supplement the
 court record with new evidence it has just received of alleged
 bias by Judge Anthony J.P. Farris against Texaco and its chief

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-MAR-1987 00:15:38.34</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0004reute
-r f BC-CHINA-SAYS-FOREIGN-DE   03-29 0107</field>
-	<field name = "TITLE">CHINA SAYS FOREIGN DEBT RISING, LEVEL NOT DANGEROUS</field>
+	<field name = "titulo">CHINA SAYS FOREIGN DEBT RISING, LEVEL NOT DANGEROUS</field>
 	<field name = "DATELINE">PEKING, March 29 -</field>
-	<field name = "BODY">A Chinese leader said the country's
+	<field name = "content">A Chinese leader said the country's
 foreign debt was rising but the level was not dangerous and
 China valued its good credit rating in the world.
     Vice-Premier Tian Jiyun told a news conference for foreign

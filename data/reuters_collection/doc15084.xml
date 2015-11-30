@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:36:41.75</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F
-f1476reute
-r f BC-PHILIPS-SEES-HIGHER-F   04-08 0105</field>
-	<field name = "TITLE">PHILIPS SEES HIGHER FIRST QUARTER TURNOVER</field>
+	<field name = "titulo">PHILIPS SEES HIGHER FIRST QUARTER TURNOVER</field>
 	<field name = "DATELINE">EINDHOVEN, The Netherlands, April 8 -</field>
-	<field name = "BODY">NV Philips
+	<field name = "content">NV Philips
 Gloielampenfabrieken PGLO.AS> expects volume turnover to show
 "a satisfactory increase" in the first 1987 quarter, chairman Cor
 van der Klugt told the annual shareholders meeting.

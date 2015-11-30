@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">C 
-f4926reute
-d f AM-TRADE   06-18 0130</field>
-	<field name = "TITLE">U.S.-CANADA TIES SEEN WORSE WITHOUT TRADE PACT</field>
+	<field name = "titulo">U.S.-CANADA TIES SEEN WORSE WITHOUT TRADE PACT</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">U.S.-Canadian ties could worsen if
+	<field name = "content">U.S.-Canadian ties could worsen if
 the two nations are unable to reach a free trade pact,
 according to a study published by two nonpartisan public policy
 research groups.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:40:08.38</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1186reute
-u f BC-GERMAN-APRIL-WHOLESAL   06-01 0085</field>
-	<field name = "TITLE">GERMAN APRIL WHOLESALE TURNOVER FALLS FOUR PCT</field>
+	<field name = "titulo">GERMAN APRIL WHOLESALE TURNOVER FALLS FOUR PCT</field>
 	<field name = "DATELINE">WIESBADEN, June 1 -</field>
-	<field name = "BODY">West German wholesale turnover
+	<field name = "content">West German wholesale turnover
 provisionally totalled about 66 billion marks in April, a real
 decline of four pct compared with the same month last year, the
 Federal Statistics Office said.

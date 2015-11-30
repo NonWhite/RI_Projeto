@@ -6,13 +6,10 @@
 	<field name = "TOPICS">sunseed</field>
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">C G
-f0739reute
-r f BC-HEAVY-RAINS-IN-ARGENT   03-11 0097</field>
-	<field name = "TITLE">MORE HEAVY RAINS IN ARGENTINE GRAIN AREAS</field>
+	<field name = "titulo">MORE HEAVY RAINS IN ARGENTINE GRAIN AREAS</field>
 	<field name = "AUTHOR">By Manuel Villanueva, Reuters</field>
 	<field name = "DATELINE">BUENOS AIRES, March 11 -</field>
-	<field name = "BODY">Heavy rains fell again in
+	<field name = "content">Heavy rains fell again in
 Argentina's main grain growing areas in the week to yesterday,
 trade sources said.
     Rains fell heaviest early in the week, and in particularly

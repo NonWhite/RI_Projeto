@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 02:05:48.53</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI 
-f0088reute
-u f BC-JAPAN'S-JUNE-INTERIM   06-19 0095</field>
-	<field name = "TITLE">JAPAN'S JUNE INTERIM TRADE SURPLUS NARROWS</field>
+	<field name = "titulo">JAPAN'S JUNE INTERIM TRADE SURPLUS NARROWS</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">Japan's custom-cleared trade surplus
+	<field name = "content">Japan's custom-cleared trade surplus
 narrowed to 1.61 billion dlrs in the first 10 days of June from
 1.97 billion a year earlier, the Finance Ministry said.
     The June interim surplus compares with a 1.76 billion dlr

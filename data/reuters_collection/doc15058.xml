@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:16:54.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1365reute
-r f BC-AVX-CORP-AVX>-FILES   04-08 0061</field>
-	<field name = "TITLE">AVX CORP AVX> FILES FOR DEBENTURE OFFERING</field>
+	<field name = "titulo">AVX CORP AVX> FILES FOR DEBENTURE OFFERING</field>
 	<field name = "DATELINE">GREAT NECK, N.Y., April 8 -</field>
-	<field name = "BODY">AVX Corp said it has filed a
+	<field name = "content">AVX Corp said it has filed a
 registration statement with the Securities and Exchange
 Commission for a proposed public offering of 75 mln dlrs
 prinicipal amount of convertible subordinated debentures.

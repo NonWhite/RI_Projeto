@@ -3,12 +3,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0409reute
-b f BC-NO-INTERVENTION,-DOLL   04-03 0032</field>
-	<field name = "TITLE">NO INTERVENTION, DOLLAR FIXED AT 1.8162 MARKS</field>
+	<field name = "titulo">NO INTERVENTION, DOLLAR FIXED AT 1.8162 MARKS</field>
 	<field name = "DATELINE">FRANKFURT, April 3 -</field>
-	<field name = "BODY">The Bundesbank did not intervene as
+	<field name = "content">The Bundesbank did not intervene as
 the dollar was fixed lower at 1.8162 marks after 1.8270
 yesterday, dealers said.
     The dollar firmed slightly from its opening 1.8135/45 marks

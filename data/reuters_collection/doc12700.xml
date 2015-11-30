@@ -2,13 +2,10 @@
 	<field name = "DATE">2-APR-1987 15:33:26.07</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C T
-f2332reute
-d f BC-GOURMET-COFFEE-MAKES   04-02 0112</field>
-	<field name = "TITLE">GOURMET COFFEE MAKES U.S. SUPERMARKET DEBUT</field>
+	<field name = "titulo">GOURMET COFFEE MAKES U.S. SUPERMARKET DEBUT</field>
 	<field name = "AUTHOR">By Maisie McAdoo, Reuters</field>
 	<field name = "DATELINE">New York, April 2 -</field>
-	<field name = "BODY">Shoppers who buy Haagen-Daas ice cream,
+	<field name = "content">Shoppers who buy Haagen-Daas ice cream,
 Dijon mustard or Tuborg beer on their weekly trip to the
 supermarket are soon to be the target of a promotional blitz
 for national-brand "gourmet" coffees.

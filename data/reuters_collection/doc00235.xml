@@ -4,13 +4,9 @@
 	<field name = "PLACES">kuwait</field>
 	<field name = "PLACES">ecuador</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0374
-reute
-b f BC-KUWAIT-SAYS-NO-PLANS   03-01 0091</field>
-	<field name = "TITLE">KUWAIT SAYS NO PLANS FOR EMERGENCY OPEC TALKS</field>
+	<field name = "titulo">KUWAIT SAYS NO PLANS FOR EMERGENCY OPEC TALKS</field>
 	<field name = "DATELINE">KUWAIT, March 1 -</field>
-	<field name = "BODY">Kuwait"s Oil Minister, in remarks
+	<field name = "content">Kuwait"s Oil Minister, in remarks
 published today, said there were no plans for an emergency OPEC
 meeting to review oil policies after recent weakness in world
 oil prices.

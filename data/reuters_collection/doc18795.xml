@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:25:28.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3792reute
-u f BC-WOOLWORTH-Z>-ANNOUNC   06-18 0068</field>
-	<field name = "TITLE">WOOLWORTH Z> ANNOUNCES SALES STRATEGY</field>
+	<field name = "titulo">WOOLWORTH Z> ANNOUNCES SALES STRATEGY</field>
 	<field name = "DATELINE">PRINCETON, N.J. -</field>
-	<field name = "BODY">FW Woolworth Co's chairman and chief
+	<field name = "content">FW Woolworth Co's chairman and chief
 executive officer, Harold Sells, said the company remains
 commmitted to its general merchandise division, despite the
 growing importance of its specialty stores.

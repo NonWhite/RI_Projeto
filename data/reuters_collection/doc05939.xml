@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 10:02:14.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5011reute
-r f BC-STERLING-INC-STRL>-F   03-17 0063</field>
-	<field name = "TITLE">STERLING INC STRL> FILES FOR OFFERING</field>
+	<field name = "titulo">STERLING INC STRL> FILES FOR OFFERING</field>
 	<field name = "DATELINE">AKRON, Ohio, March 17 -</field>
-	<field name = "BODY">Sterling Inc said it intends to
+	<field name = "content">Sterling Inc said it intends to
 file for an offering of 1,500,000 common shares, including
 500,000 shares to be sold by shareholders.
     It said proceedsd will be used to reduce bank debt.

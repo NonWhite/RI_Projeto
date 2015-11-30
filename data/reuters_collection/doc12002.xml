@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">C T
-f1295reute
-b f BC-KAINES-CONFIRMS-WHITE   04-01 0062</field>
-	<field name = "TITLE">KAINES CONFIRMS WHITE SUGAR SALES TO INDIA</field>
+	<field name = "titulo">KAINES CONFIRMS WHITE SUGAR SALES TO INDIA</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">London-based sugar operator Kaines Ltd
+	<field name = "content">London-based sugar operator Kaines Ltd
 confirmed it sold two cargoes of white sugar to India out of an
 estimated overall sales total of four or five cargoes in which
 other brokers participated.

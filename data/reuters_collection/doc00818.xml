@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 17:25:58.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0210
-reute
-r f BC-SIEMENS-AG>-U.S-UNIT   03-02 0104</field>
-	<field name = "TITLE">SIEMENS AG> U.S UNIT TO BEGIN MAKING SYSTEMS</field>
+	<field name = "titulo">SIEMENS AG> U.S UNIT TO BEGIN MAKING SYSTEMS</field>
 	<field name = "DATELINE">BOCA RATON, Fla., March 2 -</field>
-	<field name = "BODY">Siemens AG's> U.S. subsidiary,
+	<field name = "content">Siemens AG's> U.S. subsidiary,
 Siemens Public Switching Systems Inc said two existing plants
 have been selected to allow immediate start up of manufacturing
 on an interim basis of EWSD digital central office switching

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 00:06:22.69</field>
 	<field name = "PLACES">nicaragua</field>
-	<field name = "UNKNOWN">RM
-f4046reute
-u f BC-CONTRAS-CARRY-OUT-FIR   03-17 0097</field>
-	<field name = "TITLE">CONTRAS CARRY OUT FIRST RAID IN NICARAGUAN CAPITAL</field>
+	<field name = "titulo">CONTRAS CARRY OUT FIRST RAID IN NICARAGUAN CAPITAL</field>
 	<field name = "DATELINE">MANAGUA, March 16 -</field>
-	<field name = "BODY">U.S.-backed Contra rebels tried to blow
+	<field name = "content">U.S.-backed Contra rebels tried to blow
 up an electricity pylon supplying a Managua industrial zone in
 what Western diplomats say was the rebels' first sabotage
 attack in the Nicaraguan capital.

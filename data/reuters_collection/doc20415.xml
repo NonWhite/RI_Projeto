@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:00:59.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2204reute
-s f BC-SUSQUEHANNA-BANCSHARE   10-20 0023</field>
-	<field name = "TITLE">SUSQUEHANNA BANCSHARES INC SUSQ.O> HIKES DIVI</field>
+	<field name = "titulo">SUSQUEHANNA BANCSHARES INC SUSQ.O> HIKES DIVI</field>
 	<field name = "DATELINE">LITIZ, Pa., Oct 20 -</field>
-	<field name = "BODY">Qtlry div 20 cts vs 18 cts prior
+	<field name = "content">Qtlry div 20 cts vs 18 cts prior
     Pay Nov 20
     Record Oct 30
  Reuter</field>

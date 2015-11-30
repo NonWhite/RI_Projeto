@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 08:51:41.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0796reute
-r f BC-U.S.-CORPORATE-FINANC   06-01 0109</field>
-	<field name = "TITLE">U.S. CORPORATE FINANCE - FINANCING SURGE SEEN</field>
+	<field name = "titulo">U.S. CORPORATE FINANCE - FINANCING SURGE SEEN</field>
 	<field name = "AUTHOR">By John Picinich, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">U.S. corporate treasurers are expected
+	<field name = "content">U.S. corporate treasurers are expected
 to race to market this week, propelled by hopes that the recent
 recoveries of the Treasury market and the dollar will whet
 investors' appetities for new issues, underwriters said.

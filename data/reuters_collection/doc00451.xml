@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 10:39:41.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0734
-reute
-d f BC-HOWE-OWNERS-FEDERAL-   03-02 0055</field>
-	<field name = "TITLE">HOWE OWNERS FEDERAL HFSL> HOLDERS OK MORE STOCK</field>
+	<field name = "titulo">HOWE OWNERS FEDERAL HFSL> HOLDERS OK MORE STOCK</field>
 	<field name = "DATELINE">BOSTON, March 2 -</field>
-	<field name = "BODY">Howen Owners Federal Savings and Loan
+	<field name = "content">Howen Owners Federal Savings and Loan
 Association said its stockholders have approved an amendment to
 its charter increasing the number of authorized common to 32
 mln shares from eight mln and the number of authorized

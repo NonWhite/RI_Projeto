@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 13:17:02.19</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2207reute
-r f BC-VOPLEX-CORP-VOT>-3RD   10-19 0047</field>
-	<field name = "TITLE">VOPLEX CORP VOT> 3RD QTR LOSS</field>
+	<field name = "titulo">VOPLEX CORP VOT> 3RD QTR LOSS</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., Oct 19 -</field>
-	<field name = "BODY">Shr loss 24 cts vs loss 13 cts
+	<field name = "content">Shr loss 24 cts vs loss 13 cts
     Net loss 619,956 vs loss 340,735
     Revs 17.2 mln vs 18.2 mln
     Nine mths

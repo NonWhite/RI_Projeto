@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 12:18:27.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V
-f1750reute
-u f BC-U.S.-SPEAKER-SEES-EAS   03-31 0114</field>
-	<field name = "TITLE">U.S. SPEAKER SEES EASY HIGHWAY VETO OVERRIDE</field>
+	<field name = "titulo">U.S. SPEAKER SEES EASY HIGHWAY VETO OVERRIDE</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">The House should override President
+	<field name = "content">The House should override President
 Reagan's veto of the 88 billion dlr highway construction bill
 today by a comfortable margin, House Speaker Jim Wright said.
     "We have counted and feel comfortable," Wright said. And he

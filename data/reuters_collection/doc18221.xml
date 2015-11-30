@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">icco</field>
-	<field name = "UNKNOWN">C T
-f2300reute
-b f BC-/ICCO-BUFFER-TO-BUY-3   06-02 0127</field>
-	<field name = "TITLE">ICCO BUFFER TO BUY 3,000 TONNES COCOA JUNE 3</field>
+	<field name = "titulo">ICCO BUFFER TO BUY 3,000 TONNES COCOA JUNE 3</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">The buffer stock manager of the
+	<field name = "content">The buffer stock manager of the
 International Cocoa Organization (ICCO) will tender for about
 3,000 tonnes of cocoa beans Wednesday, June 3, the ICCO said in
 a statement.

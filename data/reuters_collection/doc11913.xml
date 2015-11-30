@@ -3,13 +3,10 @@
 	<field name = "TOPICS">hog</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C L
-f0922reute
-u f BC-HOG-REPORT-SHOWS-MORE   04-01 0130</field>
-	<field name = "TITLE">HOG REPORT SHOWS MORE HOGS ON FARMS</field>
+	<field name = "titulo">HOG REPORT SHOWS MORE HOGS ON FARMS</field>
 	<field name = "AUTHOR">By Jerry Bieszk, Reuters</field>
 	<field name = "DATELINE">Chicago, April 1 -</field>
-	<field name = "BODY">The USDA quarterly hogs and pig report
+	<field name = "content">The USDA quarterly hogs and pig report
 yesterday showed more hogs on U.S. farms compared to last year
 as profitability resulting from low grain prices encouraged
 producers to step up production, analysts said.

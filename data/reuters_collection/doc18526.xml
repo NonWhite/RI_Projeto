@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 06:24:11.74</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM 
-f2511reute
-b f BC-FRENCH-OFFICIAL-RESER   06-18 0090</field>
-	<field name = "TITLE">FRENCH OFFICIAL RESERVES RISE IN MAY</field>
+	<field name = "titulo">FRENCH OFFICIAL RESERVES RISE IN MAY</field>
 	<field name = "DATELINE">PARIS, June 18 -</field>
-	<field name = "BODY">French official reserves rose 258 mln
+	<field name = "content">French official reserves rose 258 mln
 francs in May to 420.50 billion francs from 420.24 billion at
 the end of April, the Finance Ministry said.
     The slight rise partly reflected the repayment last month

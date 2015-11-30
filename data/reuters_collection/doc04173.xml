@@ -4,13 +4,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">iran</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y
-f0888reute
-u f BC-MOST-JAPAN-FIRMS-NOT   03-12 0093</field>
-	<field name = "TITLE">MOST JAPAN FIRMS NOT RENEWING IRAN TERM CONTRACTS</field>
+	<field name = "titulo">MOST JAPAN FIRMS NOT RENEWING IRAN TERM CONTRACTS</field>
 	<field name = "AUTHOR">By Jennie Kantyka, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 12 -</field>
-	<field name = "BODY">Most Japanese companies have decided not
+	<field name = "content">Most Japanese companies have decided not
 to renew term contracts to lift Iranian crude oil because spot
 prices remain considerably lower than OPEC's official levels,
 industry sources said.

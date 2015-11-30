@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 05:59:22.10</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">RM AI 
-f0370reute
-u f BC-JAPANESE-BANKS-CONFIR   06-19 0101</field>
-	<field name = "TITLE">JAPANESE BANKS CONFIRM ARGENTINA LOAN COMMITMENT</field>
+	<field name = "titulo">JAPANESE BANKS CONFIRM ARGENTINA LOAN COMMITMENT</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">Japanese commercial creditor banks
+	<field name = "content">Japanese commercial creditor banks
 confirmed an earlier commitment to extend some 360 mln dlrs in
 new loans to Argentina, banking sources said.
     The commitment will represent a part of the 1.95 billion

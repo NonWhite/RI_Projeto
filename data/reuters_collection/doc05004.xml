@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 15:13:10.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0234reute
-b f BC-ROCKWELL-ROK>-TO-REP   03-13 0112</field>
-	<field name = "TITLE">ROCKWELL ROK> TO REPURCHASE MORE COMMON SHARES</field>
+	<field name = "titulo">ROCKWELL ROK> TO REPURCHASE MORE COMMON SHARES</field>
 	<field name = "DATELINE">PITTSBURGH, March 13 -</field>
-	<field name = "BODY">Rockwell International Corp said its
+	<field name = "content">Rockwell International Corp said its
 board has authorized extension of the company's 500 mln dlr
 stock repurchase program by an additional 500 mln dlrs.
     Since the beginning of the present repurchase program in

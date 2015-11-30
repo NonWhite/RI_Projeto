@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0842reute
-r f BC-IRAN-HAS-ANTI-SHIP-MI   03-14 0073</field>
-	<field name = "TITLE">IRAN HAS ANTI-SHIP MISSILES NEAR GULF - PAPER</field>
+	<field name = "titulo">IRAN HAS ANTI-SHIP MISSILES NEAR GULF - PAPER</field>
 	<field name = "DATELINE">NEW YORK, March 15 -</field>
-	<field name = "BODY">Iran has deployed about six large
+	<field name = "content">Iran has deployed about six large
 missiles near the Strait of Hormuz which increase the threat to
 shipping in the Gulf, the New York Times said.
     The paper quoted U.S. Intelligence sources as saying the

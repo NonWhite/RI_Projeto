@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 05:12:44.62</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">RM
-f0283reute
-u f BC-INDIA'S-FIRST-EVER-RA   03-13 0112</field>
-	<field name = "TITLE">INDIA'S FIRST EVER RAIL BOND ISSUE OVERSUBSCRIBED</field>
+	<field name = "titulo">INDIA'S FIRST EVER RAIL BOND ISSUE OVERSUBSCRIBED</field>
 	<field name = "DATELINE">NEW DELHI, March 13 -</field>
-	<field name = "BODY">State-owned Indian Railway Finance
+	<field name = "content">State-owned Indian Railway Finance
 Corporation's first ever bond issue has been oversubscribed by
 3.5 to 6.0 billion rupees, brokers said.
   The 2.5 billion rupee issue consisted of 10-year maturity

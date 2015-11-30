@@ -7,13 +7,10 @@
 	<field name = "TOPICS">sunseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">C G
-f0887reute
-u f BC-TORRENTIAL-RAINS-HALT   03-04 0104</field>
-	<field name = "TITLE">TORRENTIAL RAINS HALT ARGENTINE GRAIN HARVEST</field>
+	<field name = "titulo">TORRENTIAL RAINS HALT ARGENTINE GRAIN HARVEST</field>
 	<field name = "AUTHOR">By Manuel Villanueva, Reuters</field>
 	<field name = "DATELINE">BUENOS AIRES, March 4 -</field>
-	<field name = "BODY">Torrential rains throughout
+	<field name = "content">Torrential rains throughout
 Argentina's grain-producing areas virtually paralysed coarse
 grain harvesting in the week to yesterday, trade sources said.
     Sunflower, maize and sorghum harvests were particularly

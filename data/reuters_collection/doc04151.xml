@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 08:37:47.84</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0785reute
-b f BC-/U.S.-RETAIL-SALES-RI   03-12 0109</field>
-	<field name = "TITLE">U.S. RETAIL SALES RISE 4.1 PCT IN FEBRUARY</field>
+	<field name = "titulo">U.S. RETAIL SALES RISE 4.1 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">U.S. retail sales rose 4.77 billion
+	<field name = "content">U.S. retail sales rose 4.77 billion
 dlrs, or 4.1 pct, in February to a seasonally adjusted 122.29
 billion dlrs, the Commerce Department said.
     The increase came after a revised 7.4 pct drop in January

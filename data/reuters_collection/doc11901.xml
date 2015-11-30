@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 09:32:27.57</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f0840reute
-b f BC-DUTCH-BANK-PLANS-50-M   04-01 0075</field>
-	<field name = "TITLE">DUTCH BANK PLANS 50 MLN AUSTRALIAN DLR EUROBOND</field>
+	<field name = "titulo">DUTCH BANK PLANS 50 MLN AUSTRALIAN DLR EUROBOND</field>
 	<field name = "DATELINE">AMSTERDAM, April 1 -</field>
-	<field name = "BODY">Nederlandsche Middenstandsbank NV said
+	<field name = "content">Nederlandsche Middenstandsbank NV said
 it planned a 50 mln Australian dollar 14.5 pct three-year
 bullet eurobond issue at 101.5 pct.
     Lead manager is Swiss Bank Corp International Ltd, heading

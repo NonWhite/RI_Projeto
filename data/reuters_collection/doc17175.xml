@@ -6,13 +6,10 @@
 	<field name = "TOPICS">l-cattle</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C L
-f2546reute
-u f BC-USDA-REPORTS-SEEN-NEG   04-24 0126</field>
-	<field name = "TITLE">USDA REPORTS SEEN NEGATIVE TO LIVESTOCK FUTURES</field>
+	<field name = "titulo">USDA REPORTS SEEN NEGATIVE TO LIVESTOCK FUTURES</field>
 	<field name = "AUTHOR">By Jerry Bieszk, Reuters</field>
 	<field name = "DATELINE">CHICAGO, April 24 -</field>
-	<field name = "BODY">Commission house livestock analysts
+	<field name = "content">Commission house livestock analysts
 agreed with Chicago Mercantile Exchange floor traders in
 calling today's USDA 13-state quarterly cattle on feed report
 and cold storage report for pork bellies negative.

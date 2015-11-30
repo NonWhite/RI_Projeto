@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 00:05:52.69</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">RM
-f6946reute
-u f BC-MALAYSIA-SAYS-IT-DEPO   03-18 0110</field>
-	<field name = "TITLE">MALAYSIA SAYS IT DEPOSITED FUNDS IN AILING BANK</field>
+	<field name = "titulo">MALAYSIA SAYS IT DEPOSITED FUNDS IN AILING BANK</field>
 	<field name = "DATELINE">KUALA LUMPUR, March 18 -</field>
-	<field name = "BODY">The Malaysian government has
+	<field name = "content">The Malaysian government has
 deposited 405 mln ringgit with the financially troubled
 Cooperative Central Bank Bhd> (CCB) since last October, Deputy
 Finance Minister Sabaruddin Chik said.

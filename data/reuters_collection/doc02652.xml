@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:19:17.16</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F E
-f0503reute
-r f BC-VANCOUVER-EXCHANGE-FE   03-06 0091</field>
-	<field name = "TITLE">VANCOUVER EXCHANGE FEBRUARY VOLUME RISES</field>
+	<field name = "titulo">VANCOUVER EXCHANGE FEBRUARY VOLUME RISES</field>
 	<field name = "DATELINE">VANCOUVER, March 6 -</field>
-	<field name = "BODY">The Vancouver Stock Exchange said
+	<field name = "content">The Vancouver Stock Exchange said
 February volume rose to 362.4 mln shares, up from 274.8 mln a
 year ago and up 27 pct from the previous volume record for the
 month set in 1983.

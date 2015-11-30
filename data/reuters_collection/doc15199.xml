@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">turkey</field>
 	<field name = "PLACES">greece</field>
-	<field name = "UNKNOWN">Y
-f2030reute
-r f AM-AEGEAN-GREECE 1STLD  04-08 0110</field>
-	<field name = "TITLE">TURKEY CALLS FOR DIALOGUE TO SOLVE DISPUTE</field>
+	<field name = "titulo">TURKEY CALLS FOR DIALOGUE TO SOLVE DISPUTE</field>
 	<field name = "DATELINE">ANKARA, April 8 -</field>
-	<field name = "BODY">Turkey said today its disputes with
+	<field name = "content">Turkey said today its disputes with
 Greece, including rights on the continental shelf in the Aegean
 Sea, should be solved through negotiations.
     A Foreign Ministry statement said the latest crisis between

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 15:57:45.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2304reute
-r f BC-FEDERAL-PAPER-FBO>-O   03-25 0103</field>
-	<field name = "TITLE">FEDERAL PAPER FBO> OFFERS PREFERENTIAL SHARES</field>
+	<field name = "titulo">FEDERAL PAPER FBO> OFFERS PREFERENTIAL SHARES</field>
 	<field name = "DATELINE">MONTVALE, N.J., March 25 -</field>
-	<field name = "BODY">Federal Paper Board Co Inc said
+	<field name = "content">Federal Paper Board Co Inc said
 its is offering 2,800,000 shares, or 140 mln dlrs, of its 2.875
 cumulative convertible preferred stock at 50 dlrs per share.
     The company said it is applying to list the preferred stock

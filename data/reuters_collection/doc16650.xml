@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 16:04:26.94</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2488reute
-r f BC-DOE-RESOLVES-ISSUES-W   04-13 0103</field>
-	<field name = "TITLE">DOE RESOLVES ISSUES WITH ROYAL DUTCH RD> UNIT</field>
+	<field name = "titulo">DOE RESOLVES ISSUES WITH ROYAL DUTCH RD> UNIT</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">The Energy Department said it had
+	<field name = "content">The Energy Department said it had
 approved in final form an agreement that resolves all remaining
 issues with Shell Oil Co over oil pricing and allocation
 controls that ended in 1981.

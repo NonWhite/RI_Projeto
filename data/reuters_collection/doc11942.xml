@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 10:14:01.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1021reute
-u f BC-COASTAL-CGP>-SEEKS-O   04-01 0100</field>
-	<field name = "TITLE">COASTAL CGP> SEEKS OK OF TRANSAMERICAN PLANS</field>
+	<field name = "titulo">COASTAL CGP> SEEKS OK OF TRANSAMERICAN PLANS</field>
 	<field name = "DATELINE">HOUSTON, April 1 -</field>
-	<field name = "BODY">Coastal Corp said its board will be
+	<field name = "content">Coastal Corp said its board will be
 asked to approve the company's plan to reorganize
 Transamerican Natural Gas Corp> at its April 14 meeting.
     Coastal said the plan is expected to be filed with the

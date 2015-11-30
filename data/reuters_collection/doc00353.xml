@@ -5,14 +5,10 @@
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">south-korea</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0184
-reute
-r f BC-TAIWAN-PLANS-NEW-TARI   03-02 0089</field>
-	<field name = "TITLE">TAIWAN PLANS NEW TARIFF CUTS</field>
+	<field name = "titulo">TAIWAN PLANS NEW TARIFF CUTS</field>
 	<field name = "AUTHOR">By Andrew Browne, Reuters</field>
 	<field name = "DATELINE">TAIPEI, March 2 -</field>
-	<field name = "BODY">Taiwan plans another round of deep tariff
+	<field name = "content">Taiwan plans another round of deep tariff
 cuts this year to help narrow its trade surplus with the U.S.,
 A senior economic planner said.
     Wang Chao-Ming, vice-chairman of the council for economic

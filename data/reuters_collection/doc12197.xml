@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 14:23:23.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2057reute
-r f BC-PLATTE-RIVER-AUTHORIT   04-01 0121</field>
-	<field name = "TITLE">PLATTE RIVER AUTHORITY SELLS TAXABLE MUNI BONDS</field>
+	<field name = "titulo">PLATTE RIVER AUTHORITY SELLS TAXABLE MUNI BONDS</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">First Boston Corp, acting as sole
+	<field name = "content">First Boston Corp, acting as sole
 manager, said it placed 29.4 mln dlrs of taxable power revenue
 bonds due 2005 of Platte River Power Authority of Colorado.
     First Boston won the bonds in competitive bidding. It bid

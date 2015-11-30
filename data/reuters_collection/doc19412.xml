@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 16:11:49.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2286reute
-d f BC-ENVIRONMENTAL-POWR.O   06-19 0095</field>
-	<field name = "TITLE">ENVIRONMENTAL POWR.O> FILES FOR OFFERING</field>
+	<field name = "titulo">ENVIRONMENTAL POWR.O> FILES FOR OFFERING</field>
 	<field name = "DATELINE">BOSTON, June 19 -</field>
-	<field name = "BODY">Environmental Power Corp said it filed a
+	<field name = "content">Environmental Power Corp said it filed a
 statement with the Securities and Exchange Commission for the
 offering of two mln shares of its common.
     All shares are being sold by the company and Drexel Burnham

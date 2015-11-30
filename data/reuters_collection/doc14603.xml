@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 16:20:08.05</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2373reute
-d f BC-CAREPLUS-CPLS>-SEEKS   04-07 0092</field>
-	<field name = "TITLE">CAREPLUS CPLS> SEEKS APPROVAL IN ACQUISITION</field>
+	<field name = "titulo">CAREPLUS CPLS> SEEKS APPROVAL IN ACQUISITION</field>
 	<field name = "DATELINE">MIAMI, April 7 -</field>
-	<field name = "BODY">CarePlus Inc said it will seek shareholder
+	<field name = "content">CarePlus Inc said it will seek shareholder
 approval of its proposed acquisition of certain assets and
 assumption of certain liabilities of Professional Care Inc
 PCI>.

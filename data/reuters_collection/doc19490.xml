@@ -10,12 +10,9 @@
 	<field name = "PLACES">qatar</field>
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "PLACES">uae</field>
-	<field name = "UNKNOWN">Y 
-f0062reute
-u f BC-KUWAIT-SAYS-IT-HAS-FU   06-29 0113</field>
-	<field name = "TITLE">KUWAIT SAYS IT HAS FULL GULF ARAB SUPPORT</field>
+	<field name = "titulo">KUWAIT SAYS IT HAS FULL GULF ARAB SUPPORT</field>
 	<field name = "DATELINE">KUWAIT, June 29 -</field>
-	<field name = "BODY">Kuwait, whose shipping has come under
+	<field name = "content">Kuwait, whose shipping has come under
 repeated attack by Iran, has the full support of Saudi Arabia
 and other Gulf allies, a senior government official said.
     Cabinet spokesman Abdul-Aziz al-Otaibi, quoted by the

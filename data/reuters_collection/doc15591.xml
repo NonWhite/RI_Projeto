@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 10:50:59.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1171reute
-r f BC-MACGREGOR-MGS>-UNIT   04-09 0104</field>
-	<field name = "TITLE">MACGREGOR MGS> UNIT FILES TO OFFER SHARES</field>
+	<field name = "titulo">MACGREGOR MGS> UNIT FILES TO OFFER SHARES</field>
 	<field name = "DATELINE">EAST RUTHERFORD, N.J., April 9 -</field>
-	<field name = "BODY">MacGregor Sporting Goods
+	<field name = "content">MacGregor Sporting Goods
 Inc said its wholly-owned MacGregor Team Sports Inc subsidiary
 has filed for an initial public offering of two mln common
 shares at an expected price of 11 to 14 dlrs a share.

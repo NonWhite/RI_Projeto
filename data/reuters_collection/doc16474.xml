@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 12:43:38.42</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f1808reute
-u f BC-CANADA-STOCKS/DOME-PE   04-13 0104</field>
-	<field name = "TITLE">CANADA STOCKS/DOME PETROLEUM LTD DMP></field>
+	<field name = "titulo">CANADA STOCKS/DOME PETROLEUM LTD DMP></field>
 	<field name = "DATELINE">TORONTO, April 13 -</field>
-	<field name = "BODY">Dome Petroleum Ltd shares moved higher
+	<field name = "content">Dome Petroleum Ltd shares moved higher
 in the U.S. and Canada after TransCanada PipeLines Ltd TRP>
 made a 4.3 billion Canadian dlr bid for Dome and Dome said it
 is in talks with two other unidentified companies.

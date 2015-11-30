@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 14:19:11.50</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E V RM 
-f4213reute
-b f BC-CANADA-BANK-RATE-RISE   06-18 0080</field>
-	<field name = "TITLE">CANADA BANK RATE RISES TO 8.59 PCT</field>
+	<field name = "titulo">CANADA BANK RATE RISES TO 8.59 PCT</field>
 	<field name = "DATELINE">OTTAWA, June 18 -</field>
-	<field name = "BODY">Canada's bank rate rose marginally to
+	<field name = "content">Canada's bank rate rose marginally to
 8.59 pct from 8.58 pct last week, Bank of Canada said.
     The bank rate is set one-quarter percentage point above the
 average yield on the weekly issue of 91-day treasury bills.

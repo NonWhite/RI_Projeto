@@ -6,12 +6,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">dfl</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f0913reute
-r f BC-DUTCH-PLANNING-AGENCY   03-09 0104</field>
-	<field name = "TITLE">DUTCH PLANNING AGENCY FORECASTS LOWER GROWTH</field>
+	<field name = "titulo">DUTCH PLANNING AGENCY FORECASTS LOWER GROWTH</field>
 	<field name = "DATELINE">THE HAGUE, March 9 -</field>
-	<field name = "BODY">Dutch economic growth is slowing as a
+	<field name = "content">Dutch economic growth is slowing as a
 firming guilder cuts competitiveness abroad and industries
 reduce the pace of investment, the Dutch official planning
 agency CPB said.

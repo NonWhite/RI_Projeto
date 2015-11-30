@@ -5,12 +5,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">G C
-f0009reute
-u f BC-MALAYSIA-RAISES-PALM   04-01 0098</field>
-	<field name = "TITLE">MALAYSIA RAISES PALM OIL EXPORT DUTIES</field>
+	<field name = "titulo">MALAYSIA RAISES PALM OIL EXPORT DUTIES</field>
 	<field name = "DATELINE">KUALA LUMPUR, April 1 -</field>
-	<field name = "BODY">The Malaysian government said it
+	<field name = "content">The Malaysian government said it
 raised the export duty on processed palm oil (ppo) to 70.90
 ringgit per tonne from 64.06 in March, effective today.
     Export duty on crude palm oil (cpo) rose to 38.30 ringgit

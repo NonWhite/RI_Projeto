@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:43:06.84</field>
-	<field name = "UNKNOWN">L
-f1359reute
-u f BC-ohio-direct-hogs   04-07 0097</field>
-	<field name = "TITLE">OHIO DIRECT HOGS UP 1.00 DLR - USDA</field>
+	<field name = "titulo">OHIO DIRECT HOGS UP 1.00 DLR - USDA</field>
 	<field name = "DATELINE">COLUMBUS, April 7 -</field>
-	<field name = "BODY">Barrow and gilt prices gained 1.00 dlr
+	<field name = "content">Barrow and gilt prices gained 1.00 dlr
 on moderate to good demand. Top 51.25 dlrs per cwt.
                 COUNTRY         AT PLANT
  U.S. 1-2 210-240  49.25-50.00  50.00-51.25

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 18:25:41.80</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2698reute
-r f BC-gm-canada-sets-one-we   04-01 0056</field>
-	<field name = "TITLE">GM GM> CANADA SETS ONE-WEEK LAYOFF</field>
+	<field name = "titulo">GM GM> CANADA SETS ONE-WEEK LAYOFF</field>
 	<field name = "DATELINE">Oshawa, Ontario, April 1 -</field>
-	<field name = "BODY">General Motors of Canada Ltd, a
+	<field name = "content">General Motors of Canada Ltd, a
 unit of General Motors Corp, said about 1,600 hourly-rated
 employees at the Oshawa plant will be laid off for one week due
 to high inventories.

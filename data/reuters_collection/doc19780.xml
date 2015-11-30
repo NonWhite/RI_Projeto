@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 13:45:09.78</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">C M 
-f1974reute
-u f BC-CIPEC-STUDYING-COPPER   06-29 0104</field>
-	<field name = "TITLE">CIPEC STUDYING COPPER MARKET BACKWARDATION</field>
+	<field name = "titulo">CIPEC STUDYING COPPER MARKET BACKWARDATION</field>
 	<field name = "DATELINE">PARIS, June 29 -</field>
-	<field name = "BODY">The Paris-based Intergovernmental Council
+	<field name = "content">The Paris-based Intergovernmental Council
 of Copper Exporting Countries (CIPEC) is closely studying the
 current backwardation in world copper market prices but does
 not envisage taking corrective action at present, CIPEC sources

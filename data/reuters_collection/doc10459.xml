@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:52:40.58F</field>
-	<field name = "UNKNOWN">f1110reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">w f BC-NORTHWEST-AIRLINES-N   03-27 0127</field>
-	<field name = "TITLE">NORTHWEST AIRLINES NWA> CUTS HAWAII FARES</field>
+	<field name = "titulo">NORTHWEST AIRLINES NWA> CUTS HAWAII FARES</field>
 	<field name = "DATELINE">ST. PAUL, Minn., March 27 -</field>
-	<field name = "BODY">NWA Inc's Northwest Airlines
+	<field name = "content">NWA Inc's Northwest Airlines
 said it is cutting fares to Hawaii from its 40-state U.S. route
 system, to save passengers between 30 dlrs and 100 dlrs off
 Northwest's lowest published roundtrip prices.

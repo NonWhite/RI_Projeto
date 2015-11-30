@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:41:00.19</field>
-	<field name = "UNKNOWN">C G
-f2252reute
-u f BC-cbt-s'products-report   04-07 0131</field>
-	<field name = "TITLE">CBT SOYPRODUCT FUTURES CLOSE MIXED</field>
+	<field name = "titulo">CBT SOYPRODUCT FUTURES CLOSE MIXED</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">CBT soyproduct futures closed higher in
+	<field name = "content">CBT soyproduct futures closed higher in
 sympathy with strength in new crop soybeans, with soymeal up
 1.30 to 3.00 dlrs per ton and soyoil 0.19 to 0.15 cent per lb
 higher. May soymeal settled at 146.60 dlrs, with soyoil at

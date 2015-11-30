@@ -2,13 +2,10 @@
 	<field name = "DATE">17-APR-1987 13:06:41.78</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">RM
-f0350reute
-u f PM-JAPAN-TAX   04-17 0099</field>
-	<field name = "TITLE">NAKASONE'S SALES TAX PLAN SUFFERS ANOTHER DENT</field>
+	<field name = "titulo">NAKASONE'S SALES TAX PLAN SUFFERS ANOTHER DENT</field>
 	<field name = "AUTHOR">By Seigo Sakamoto, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 17 -</field>
-	<field name = "BODY">Prime Minister Yasuhiro Nakasone's
+	<field name = "content">Prime Minister Yasuhiro Nakasone's
 unpopular sales tax plan suffered another dent today when
 members of his ruling Liberal Democratic Party (LDP) called for
 time to be taken in dealing with the proposed sales tax, party

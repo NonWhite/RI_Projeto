@@ -3,12 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "TOPICS">palm-oil</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">G C
-f7049reute
-b f BC-INDONESIA-TO-IMPORT-P   03-18 0100</field>
-	<field name = "TITLE">INDONESIA TO IMPORT PALM OIL, FEARS MAY SHORTAGE</field>
+	<field name = "titulo">INDONESIA TO IMPORT PALM OIL, FEARS MAY SHORTAGE</field>
 	<field name = "DATELINE">JAKARTA, March 18 -</field>
-	<field name = "BODY">Indonesia has issued licences to
+	<field name = "content">Indonesia has issued licences to
 traders to import palm oil to avert a possible shortage of
 cooking oil during the Moslem fasting month of Ramadan in May,
 Trade Minister Rachmat Saleh told Reuters.

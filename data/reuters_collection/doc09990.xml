@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 11:55:50.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1625reute
-w f BC-UNITED-WATER-UWR>,-B   03-26 0092</field>
-	<field name = "TITLE">UNITED WATER UWR>, BASE TEN BASE> SET VENTURE</field>
+	<field name = "titulo">UNITED WATER UWR>, BASE TEN BASE> SET VENTURE</field>
 	<field name = "DATELINE">HARRINGTON PARK, N.J., March 26 -</field>
-	<field name = "BODY">United Water Resources
+	<field name = "content">United Water Resources
 Inc said it formed a venture with Base Ten Systems Inc's Base
 Ten Telecom Inc to sell a telephone-based automatic meter
 reading system to the utility industry.

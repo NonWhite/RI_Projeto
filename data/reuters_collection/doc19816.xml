@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 14:24:54.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2110reute
-d f BC-AFFILIATED-PUBLICATIO   06-29 0023</field>
-	<field name = "TITLE">AFFILIATED PUBLICATIONS AFP> QUARTERLY DIV</field>
+	<field name = "titulo">AFFILIATED PUBLICATIONS AFP> QUARTERLY DIV</field>
 	<field name = "DATELINE">BOSTON, June 29 -</field>
-	<field name = "BODY">Qtly div eight cts vs eight cts prior
+	<field name = "content">Qtly div eight cts vs eight cts prior
     Pay Sept 1
     Record Aug 15
  Reuter</field>

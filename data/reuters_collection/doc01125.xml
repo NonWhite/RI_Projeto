@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 11:47:16.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0880reute
-r f BC-HOME-SHOPPING-HSN>-S   03-03 0105</field>
-	<field name = "TITLE">HOME SHOPPING HSN> SETS STOCK OPTIONS</field>
+	<field name = "titulo">HOME SHOPPING HSN> SETS STOCK OPTIONS</field>
 	<field name = "DATELINE">CLEARWATER, Fla., March 3 -</field>
-	<field name = "BODY">Home Shopping Network Inc said
+	<field name = "content">Home Shopping Network Inc said
 its board approved plans to offer a stock option plan for its
 cable television operators.
     The company said it will offer the options in exchange for

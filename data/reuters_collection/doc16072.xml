@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 22:07:44.87</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">RM
-f2932reute
-b f BC-MIYAZAWA-TO-HOLD-PRES   04-09 0108</field>
-	<field name = "TITLE">MIYAZAWA TO HOLD PRESS CONFERENCE LATER TODAY</field>
+	<field name = "titulo">MIYAZAWA TO HOLD PRESS CONFERENCE LATER TODAY</field>
 	<field name = "DATELINE">TOKYO, April 10 -</field>
-	<field name = "BODY">Finance Minister Kiichi Miyazawa is
+	<field name = "content">Finance Minister Kiichi Miyazawa is
 expected to hold a press conference later today after returning
 from Washington, a ministry spokesman told Reuters.
     Miyazawa is scheduled to arrive at 4.15 P.M. (0715 GMT) in

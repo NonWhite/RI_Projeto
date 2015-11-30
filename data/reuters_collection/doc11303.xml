@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f0968reute
-r f BC-HOME-GROUP-HME>-STAR   03-31 0036</field>
-	<field name = "TITLE">HOME GROUP HME> STARTS TRADING ON NYSE</field>
+	<field name = "titulo">HOME GROUP HME> STARTS TRADING ON NYSE</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Home Group Inc said its common stock
+	<field name = "content">Home Group Inc said its common stock
 starts trading today on the New York Stock Exchange>.
     The stock had been traded on the American Stock Exchange>.
  Reuter</field>

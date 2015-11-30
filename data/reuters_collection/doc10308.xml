@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 04:01:41.50RM</field>
-	<field name = "UNKNOWN">f0207reute</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">u f BC-JAPANESE-FOREIGN-STOC   03-27 0107</field>
-	<field name = "TITLE">JAPANESE FOREIGN STOCK PURCHASES JUMP IN FEBRUARY</field>
+	<field name = "titulo">JAPANESE FOREIGN STOCK PURCHASES JUMP IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Japanese net purchases of foreign stocks
+	<field name = "content">Japanese net purchases of foreign stocks
 jumped to a near-record 1.52 billion dlrs in February from 113
 mln in January, the Finance Ministry said.
     Net buying hit a record 1.55 billion dlrs last December.

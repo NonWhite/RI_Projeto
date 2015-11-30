@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:27:27.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2451reute
-r f BC-JOHNSTOWN-AMERICAN-J   04-01 0094</field>
-	<field name = "TITLE">JOHNSTOWN AMERICAN JAC> MAKES EXCHANGE OFFER</field>
+	<field name = "titulo">JOHNSTOWN AMERICAN JAC> MAKES EXCHANGE OFFER</field>
 	<field name = "DATELINE">ATLANTA, April 1 -</field>
-	<field name = "BODY">Johnstown American Cos said it began a
+	<field name = "content">Johnstown American Cos said it began a
 tender offer for the 500,000 outstanding shares of its 1985
 preferred stock.
     Under the offer, the company said holders of the preferred

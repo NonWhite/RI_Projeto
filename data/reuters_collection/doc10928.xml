@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 13:06:20.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f1936reute
-r f BC-MCDONALD'S-MCD>-TO-B   03-30 0071</field>
-	<field name = "TITLE">MCDONALD'S MCD> TO BUY 10-7/8 PCT DEBENTURES</field>
+	<field name = "titulo">MCDONALD'S MCD> TO BUY 10-7/8 PCT DEBENTURES</field>
 	<field name = "DATELINE">OAK BROOK, ILL., March 30 -</field>
-	<field name = "BODY">McDonald's Corp said it is
+	<field name = "content">McDonald's Corp said it is
 offering to buy the 25 mln dlrs in its outstanding 10-7/8 pct
 debentures due July 15, 2015.
     It said debentures will be purchased at 1,118.30 dlrs per

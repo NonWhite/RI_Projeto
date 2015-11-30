@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 13:25:22.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1994reute
-r f BC-FOOTHILL-GROUP-FGI>   04-13 0076</field>
-	<field name = "TITLE">FOOTHILL GROUP FGI> COMPLETES DEBT PLACEMENT</field>
+	<field name = "titulo">FOOTHILL GROUP FGI> COMPLETES DEBT PLACEMENT</field>
 	<field name = "DATELINE">LOS ANGELES, April 13 -</field>
-	<field name = "BODY">The Foothill Group Inc said its
+	<field name = "content">The Foothill Group Inc said its
 Foothill Captial Corp unit completed the placement of 23 mln
 dlrs in senior debt and 27 mln dlrs in senior subordinated
 debt.

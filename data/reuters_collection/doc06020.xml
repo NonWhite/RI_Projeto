@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 11:18:58.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5360reute
-d f BC-BIOTECHNICA-BIOT>-HA   03-17 0105</field>
-	<field name = "TITLE">BIOTECHNICA BIOT> HAS NEW AGRICULTURE UNIT</field>
+	<field name = "titulo">BIOTECHNICA BIOT> HAS NEW AGRICULTURE UNIT</field>
 	<field name = "DATELINE">CAMBRIDGE, Mass., March 17 -</field>
-	<field name = "BODY">BioTechnica International said
+	<field name = "content">BioTechnica International said
 it established a new subsidiary, BioTechnica Agriculture, to
 develop and commercialize microbial and plant products for
 improving crops. It said the unit will be based in Overland

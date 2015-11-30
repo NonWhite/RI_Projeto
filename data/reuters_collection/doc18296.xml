@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">senegal</field>
-	<field name = "UNKNOWN">C G
-f2632reute
-u f BC-U.S.-WHEAT-IN-SENEGAL   06-02 0128</field>
-	<field name = "TITLE">U.S. WHEAT IN SENEGAL MARKET -- USDA</field>
+	<field name = "titulo">U.S. WHEAT IN SENEGAL MARKET -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">After a highly favorable reception of
+	<field name = "content">After a highly favorable reception of
 a trial batch of bread baked from 300 lbs of U.S. wheat flour
 last February, the Senegalese appear ready to take delivery of
 a first tranche of 10,500 tonnes of mixed U.S. wheat, the U.S.

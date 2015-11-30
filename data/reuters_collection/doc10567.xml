@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:02:41.87RM V</field>
-	<field name = "UNKNOWN">f1759reute</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">b f BC-/PHILIPPINES-CLINCHES   03-27 0104</field>
-	<field name = "TITLE">PHILIPPINES CLINCHES DEBT DEAL, SOURCE SAYS</field>
+	<field name = "titulo">PHILIPPINES CLINCHES DEBT DEAL, SOURCE SAYS</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">The Philippines has reached agreement
+	<field name = "content">The Philippines has reached agreement
 with its bank advisory committee on a debt-rescheduling
 agreement after four weeks of talks, a source close to the
 Philippine delegation said.

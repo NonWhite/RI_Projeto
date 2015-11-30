@@ -3,12 +3,9 @@
 	<field name = "TOPICS">lead</field>
 	<field name = "TOPICS">zinc</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2627reute
-r f BC-NORANDA-NOR.TO>-IN-T   06-15 0107</field>
-	<field name = "TITLE">NORANDA NOR.TO> IN TALKS WITH BRUNSWICK MINERS</field>
+	<field name = "titulo">NORANDA NOR.TO> IN TALKS WITH BRUNSWICK MINERS</field>
 	<field name = "DATELINE">TORONTO, June 15 -</field>
-	<field name = "BODY">Noranda Inc said contract talks that
+	<field name = "content">Noranda Inc said contract talks that
 resumed today were continuing with about 1,600 unionized
 workers at its 63 pct-owned Brunswick Mining and Smelter Corp
 BMS.TO> lead-zinc mine and lead smelter at Bathurst, New

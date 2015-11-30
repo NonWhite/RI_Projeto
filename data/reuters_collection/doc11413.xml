@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 11:34:52.54</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1568reute
-r f BC-canadian-pacific-aims   03-31 0099</field>
-	<field name = "TITLE">CANADIAN PACIFIC CP> AIMS TO UP EQUITY RETURN</field>
+	<field name = "titulo">CANADIAN PACIFIC CP> AIMS TO UP EQUITY RETURN</field>
 	<field name = "DATELINE">TORONTO, March 31 -</field>
-	<field name = "BODY">Canadian Pacific Ltd's principal aim
+	<field name = "content">Canadian Pacific Ltd's principal aim
 over the next few years will be to significantly increase the
 company's return on equity, it said in the annual report.
     Canadian Pacific's return on average capital employed fell

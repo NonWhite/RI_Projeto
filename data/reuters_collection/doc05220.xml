@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 04:56:40.70</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f1323reute
-u f BC-POLLS-PREDICT-SWING-T   03-16 0119</field>
-	<field name = "TITLE">POLLS PREDICT SWING TO RIGHT IN FINNISH ELECTION</field>
+	<field name = "titulo">POLLS PREDICT SWING TO RIGHT IN FINNISH ELECTION</field>
 	<field name = "DATELINE">HELSINKI, March 16 -</field>
-	<field name = "BODY">Finns cast their final votes in
+	<field name = "content">Finns cast their final votes in
 two-day general elections today with opinion polls predicting a
 swing to the right which would bring the conservatives back
 into government after 21 years in the political wilderness.

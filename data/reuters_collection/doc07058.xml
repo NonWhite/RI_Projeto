@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 09:01:39.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0738reute
-u f BC-COCA-COLA-KO>-IN-FIL   03-19 0046</field>
-	<field name = "TITLE">COCA-COLA KO> IN FILM COLORING VENTURE</field>
+	<field name = "titulo">COCA-COLA KO> IN FILM COLORING VENTURE</field>
 	<field name = "DATELINE">MARINA DEL RAY, Calif., March 19 -</field>
-	<field name = "BODY">Color Systems Technology
+	<field name = "content">Color Systems Technology
 Inc CLST> said it has completed formation of a joint venture
 called Screen Gems Classicolor with Coca-Cola Co to color and
 distribute feature films and television programs.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 12:53:29.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2071reute
-r f BC-KENNAMETAL-KMT>-SEES   10-19 0104</field>
-	<field name = "TITLE">KENNAMETAL KMT> SEES IMPROVED 2ND QTR PROFITS</field>
+	<field name = "titulo">KENNAMETAL KMT> SEES IMPROVED 2ND QTR PROFITS</field>
 	<field name = "DATELINE">LATROBE, Pa., Oct 16 -</field>
-	<field name = "BODY">Kennametal Inc said second quarter,
+	<field name = "content">Kennametal Inc said second quarter,
 ending December 31, earnings should show significant
 improvement over the 3.5 mln dlrs, or 35 cts a share, earned in
 the year earlier quarter.

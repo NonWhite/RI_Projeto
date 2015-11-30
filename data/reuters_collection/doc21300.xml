@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">F 
-f1689reute
-d f BC-SHAMROCK-CAPITAL-COMP   10-19 0078</field>
-	<field name = "TITLE">SHAMROCK CAPITAL COMPLETES CENTRAL SOYA SALE</field>
+	<field name = "titulo">SHAMROCK CAPITAL COMPLETES CENTRAL SOYA SALE</field>
 	<field name = "DATELINE">BURBANK, Calif., Oct 19 -</field>
-	<field name = "BODY">Shamrock Capital L.P, a limited
+	<field name = "content">Shamrock Capital L.P, a limited
 partnership led by Shamrock Holdings Inc, said it completed its
 sale of Central Soya Co Inc to Ferruzzi Agricola Finanziaria of
 Italy.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">strategic-metal</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">F
-f0797reute
-d f BC-U.S.-TREASURY-PROPOSE   03-06 0087</field>
-	<field name = "TITLE">U.S. TREASURY PROPOSES SOME S. AFRICAN IMPORTS</field>
+	<field name = "titulo">U.S. TREASURY PROPOSES SOME S. AFRICAN IMPORTS</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">The Treasury proposed allowing 
+	<field name = "content">The Treasury proposed allowing 
 temporary imports of South African uranium ore and uranium
 oxide until July 1 under certain conditions pending
 clarification of anti-apartheid laws passed by Congress last

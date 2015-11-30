@@ -5,12 +5,9 @@
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nycsce</field>
-	<field name = "UNKNOWN">C T
-f1150reute
-b f BC-nycsce-margin   03-31 0098</field>
-	<field name = "TITLE">CSCE RESTRUCTURES COFFEE FUTURES DAILY LIMITS</field>
+	<field name = "titulo">CSCE RESTRUCTURES COFFEE FUTURES DAILY LIMITS</field>
 	<field name = "DATELINE">New York, March 31 -</field>
-	<field name = "BODY">The Coffee, Sugar and Cocoa Exchange
+	<field name = "content">The Coffee, Sugar and Cocoa Exchange
 has expanded the normal daily trading limit in Coffee "C"
 contracts to 6.0 cents a lb, from the previous 4.0 cents,
 effective today, the CSCE said.

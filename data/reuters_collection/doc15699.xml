@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 12:15:42.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1594reute
-r f BC-GENCORP-GY>-EXTENDS   04-09 0101</field>
-	<field name = "TITLE">GENCORP GY> EXTENDS SHAREHOLDER RIGHT PLAN</field>
+	<field name = "titulo">GENCORP GY> EXTENDS SHAREHOLDER RIGHT PLAN</field>
 	<field name = "DATELINE">AKRON, Ohio, April 9 -</field>
-	<field name = "BODY">GenCorp Inc said its board extended
+	<field name = "content">GenCorp Inc said its board extended
 to April 13 the date the rights issued under the company's
 shareholder rights plan will trade separately from the common
 stock.

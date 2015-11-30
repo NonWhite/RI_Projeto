@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 14:57:33.83</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2271reute
-r f BC-empire   04-13 0096</field>
-	<field name = "TITLE">EMPIRE EMPA.TO> TO BUY SOBEYS SYSA.TO> STOCK</field>
+	<field name = "titulo">EMPIRE EMPA.TO> TO BUY SOBEYS SYSA.TO> STOCK</field>
 	<field name = "DATELINE">TORONTO, April 13 -</field>
-	<field name = "BODY">Empire Co Ltd said it will acquire all
+	<field name = "content">Empire Co Ltd said it will acquire all
 shares of Sobeys Stores Ltd it does not already own under an
 arrangement approved by directors of both companies.
     Holders of Sobeys class A non-voting shares and class B

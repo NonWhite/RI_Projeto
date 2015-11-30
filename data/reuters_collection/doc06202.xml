@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 14:47:51.50</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f6240reute
-u f BC-ALCAN-(AL)-SETS-POSSI   03-17 0101</field>
-	<field name = "TITLE">ALCAN AL> MAY MAKE SHARE ISSUES</field>
+	<field name = "titulo">ALCAN AL> MAY MAKE SHARE ISSUES</field>
 	<field name = "DATELINE">MONTREAL, March 17 -</field>
-	<field name = "BODY">Alcan Aluminium Ltd said it may issue
+	<field name = "content">Alcan Aluminium Ltd said it may issue
 up to two mln first preferred shares in addition to an
 unlimited number of additional common shares and an unlimited
 number of additional preference shares at any time after its

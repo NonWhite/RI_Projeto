@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 16:29:17.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2564reute
-r f BC-ROCKY-MOUNT-RMUC>-HO   04-09 0110</field>
-	<field name = "TITLE">ROCKY MOUNT RMUC> HOLDERS SEEK BOARD CONTROL</field>
+	<field name = "titulo">ROCKY MOUNT RMUC> HOLDERS SEEK BOARD CONTROL</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">A shareholder group controlling 48.3
+	<field name = "content">A shareholder group controlling 48.3
 pct of the stock of Rocky Mount Undergarment Co Inc told the
 Securities and Exchange Commission it will try to take control
 of the company by taking over its board of directors.

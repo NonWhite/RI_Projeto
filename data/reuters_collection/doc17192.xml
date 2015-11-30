@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-supply</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0001reute
-u f BC-BUNDESBANK-AIMS-FOR-T   04-26 0099</field>
-	<field name = "TITLE">BUNDESBANK AIMS FOR TIGHT MONEY POLICY - SCHLESINGER</field>
+	<field name = "titulo">BUNDESBANK AIMS FOR TIGHT MONEY POLICY - SCHLESINGER</field>
 	<field name = "DATELINE">FRANKFURT, April 26 -</field>
-	<field name = "BODY">The Bundesbank is trying to keep
+	<field name = "content">The Bundesbank is trying to keep
 monetary policy tight in order to counter inflationary
 tendencies, Bundesbank Vice-President Helmut Schlesinger was
 quoted as saying.

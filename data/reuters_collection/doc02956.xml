@@ -5,12 +5,9 @@
 	<field name = "TOPICS">jet</field>
 	<field name = "PLACES">ecuador</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0881reute
-u f BC-ECUADOR-ADOPTS-AUSTER   03-07 0108</field>
-	<field name = "TITLE">ECUADOR ADOPTS AUSTERITY MEASURES AFTER QUAKE</field>
+	<field name = "titulo">ECUADOR ADOPTS AUSTERITY MEASURES AFTER QUAKE</field>
 	<field name = "DATELINE">QUITO, March 7 -</field>
-	<field name = "BODY">OPEC member Ecuador adopted austerity
+	<field name = "content">OPEC member Ecuador adopted austerity
 measures to conserve fuel after oil production was paralyzed by
 a strong earthquake.
     Energy and Mines Minister Javier Espinosa announced on

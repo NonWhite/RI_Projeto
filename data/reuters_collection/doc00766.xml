@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 16:21:29.63</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0038
-reute
-h f BC-UNION-NATIONAL-UNBC>   03-02 0068</field>
-	<field name = "TITLE">UNION NATIONAL UNBC> SIGNS DEFINITIVE PACT</field>
+	<field name = "titulo">UNION NATIONAL UNBC> SIGNS DEFINITIVE PACT</field>
 	<field name = "DATELINE">MASONTOWN, PA., March 2 -</field>
-	<field name = "BODY">Union National Corp said it
+	<field name = "content">Union National Corp said it
 signed a definitive agreement under which its First National
 Bank and Trust Co of Washington unit will merge with Second
 National Bank of Masontown>.

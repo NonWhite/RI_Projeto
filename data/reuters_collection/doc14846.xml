@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 03:56:29.05</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">RM
-f0193reute
-u f BC-BANGLADESH-LIKELY-TO   04-08 0086</field>
-	<field name = "TITLE">BANGLADESH LIKELY TO SET HIGHER DEVELOPMENT PLAN</field>
+	<field name = "titulo">BANGLADESH LIKELY TO SET HIGHER DEVELOPMENT PLAN</field>
 	<field name = "DATELINE">DHAKA, April 8 -</field>
-	<field name = "BODY">Bangladesh is expected to draw up a 47
+	<field name = "content">Bangladesh is expected to draw up a 47
 billion taka development plan for the 1987/88 fiscal year
 beginning July 1, Finance Ministry officials said.
     This is a rise of six pct over the current year. They said

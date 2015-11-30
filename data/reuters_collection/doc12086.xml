@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 12:36:20.70</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1684reute
-r f BC-PERIPHERAL-SYSTEMS-P   04-01 0076</field>
-	<field name = "TITLE">PERIPHERAL SYSTEMS PSIX> AGRESS TO BUY COMPANY</field>
+	<field name = "titulo">PERIPHERAL SYSTEMS PSIX> AGRESS TO BUY COMPANY</field>
 	<field name = "DATELINE">PORTLAND, Ore., April 1 -</field>
-	<field name = "BODY">Peripheral Systems Inc said it
+	<field name = "content">Peripheral Systems Inc said it
 agreed in principle to acquire the outstanding shares of
 Nucell Inc>.
     The agreement calls for an exchange of one share of

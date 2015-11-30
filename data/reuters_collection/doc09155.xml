@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F C G T
-f0161reute
-b f BC-FERRUZZI-DEAL-WITH-CP   03-25 0079</field>
-	<field name = "TITLE">FERRUZZI DEAL WITH CPC WORTH 630 MLN DLRS</field>
+	<field name = "titulo">FERRUZZI DEAL WITH CPC WORTH 630 MLN DLRS</field>
 	<field name = "DATELINE">BRUSSELS, March 25 -</field>
-	<field name = "BODY">The Ferruzzi Group's holding company
+	<field name = "content">The Ferruzzi Group's holding company
 Agricola Finanziara SpA will pay 630 mln dlrs for the European
 corn wet milling business of CPC International Inc under the
 agreement reached in principle between the two companies, a

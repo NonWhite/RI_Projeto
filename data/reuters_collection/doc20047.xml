@@ -2,13 +2,10 @@
 	<field name = "DATE">20-OCT-1987 05:31:21.81</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM V 
-f0357reute
-u f BC-TOKYO-STOCK-PLUNGE-CO   10-20 0106</field>
-	<field name = "TITLE">TOKYO STOCK PLUNGE COULD FORCE EASIER MONEY POLICY</field>
+	<field name = "titulo">TOKYO STOCK PLUNGE COULD FORCE EASIER MONEY POLICY</field>
 	<field name = "AUTHOR">By Rich Miller</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">Plunging Tokyo stock prices will prevent
+	<field name = "content">Plunging Tokyo stock prices will prevent
 the Bank of Japan from raising its discount rate and could even
 force it to ease monetary policy if the collapse continues,
 government and private economists said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 08:50:49.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0858reute
-h f BC-NISSAN-NSANY.O>-RAIS   10-20 0090</field>
-	<field name = "TITLE">NISSAN NSANY.O> RAISING SOME U.S. MODEL PRICES</field>
+	<field name = "titulo">NISSAN NSANY.O> RAISING SOME U.S. MODEL PRICES</field>
 	<field name = "DATELINE">CARSON, Calif., Oct 20 -</field>
-	<field name = "BODY">Nissan Motor Co Ltd said it is
+	<field name = "content">Nissan Motor Co Ltd said it is
 raising prices on its model 1988 300Zx 200 dlrs to 20,649 dlrs,
 standard pickup truck 200 dlrs to 7,199 dlrs and Pathfinder XE
 100 dlrs to 14,999 dlrs.

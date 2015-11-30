@@ -8,12 +8,9 @@
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">thailand</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f2401reute
-r f BC-coarse-grain-s/d   04-09 0105</field>
-	<field name = "TITLE">COARSE GRAIN SUPPLY/DEMAND BY COUNTRY -- USDA</field>
+	<field name = "titulo">COARSE GRAIN SUPPLY/DEMAND BY COUNTRY -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 detailed world supply/demand data for major importers and
 exporters of coarse grains, by country, as follows in mln
 tonnes --

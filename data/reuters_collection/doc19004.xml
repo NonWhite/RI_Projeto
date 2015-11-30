@@ -6,12 +6,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">australia</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM 
-f4990reute
-u f BC-AUSTRALIA-SET-TO-GROW   06-18 0117</field>
-	<field name = "TITLE">AUSTRALIA SET TO GROW, BUT UNEMPLOYMENT MAY RISE</field>
+	<field name = "titulo">AUSTRALIA SET TO GROW, BUT UNEMPLOYMENT MAY RISE</field>
 	<field name = "DATELINE">PARIS, June 19 -</field>
-	<field name = "BODY">Australia's economy should manage modest
+	<field name = "content">Australia's economy should manage modest
 growth over the next two years after a sharp slowdown but
 unemployment could still edge upwards, the Organisation for
 Economic Cooperation and Development (OECD) said.

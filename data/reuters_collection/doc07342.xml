@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 14:43:49.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2102reute
-u f BC-U.S.-CONGRESS-THIRD-W   03-19 0110</field>
-	<field name = "TITLE">U.S. CONGRESS THIRD WORLD DEBT PLAN ADVANCES</field>
+	<field name = "titulo">U.S. CONGRESS THIRD WORLD DEBT PLAN ADVANCES</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">A House Banking subcommittee
+	<field name = "content">A House Banking subcommittee
 approved a plan to seek U.S. negotiations with other
 industrialized countries for the purchase of developing country
 debt from commercial banks.

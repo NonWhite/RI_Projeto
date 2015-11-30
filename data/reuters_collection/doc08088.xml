@@ -2,12 +2,9 @@
 	<field name = "DATE">22-MAR-1987 04:52:25.73</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0047reute
-r f BC-EXPLOSION-AT-BP-OIL-R   03-22 0087</field>
-	<field name = "TITLE">EXPLOSION AT BP OIL REFINERY IN SCOTLAND</field>
+	<field name = "titulo">EXPLOSION AT BP OIL REFINERY IN SCOTLAND</field>
 	<field name = "DATELINE">GRANGEMOUTH, Scotland, March 22 -</field>
-	<field name = "BODY">An explosion followed by
+	<field name = "content">An explosion followed by
 a fire ripped through a British Petroleum (BP) oil refinery,
 killing one man.
     A BP spokesman said the fire was confined to one plant at

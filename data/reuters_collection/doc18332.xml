@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 18:03:46.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f2834reute
-d f BC-CFTC-CLARIFIES-COMMOD   06-02 0103</field>
-	<field name = "TITLE">CFTC CLARIFIES COMMODITY TRADING ADVISOR RULES</field>
+	<field name = "titulo">CFTC CLARIFIES COMMODITY TRADING ADVISOR RULES</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">The U.S. Commodity Futures Trading
+	<field name = "content">The U.S. Commodity Futures Trading
 Commission (CFTC) released guidelines on how commodity trading
 advisors (CTA) should calculate "beginning net asset value"
 (BNAV) for purposes of computing rates of return required by

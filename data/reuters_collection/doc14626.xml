@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:31:09.69</field>
-	<field name = "UNKNOWN">L C
-f2405reute
-u f BC-NEBRASKA-FEEDLOT-CATT   04-07 0056</field>
-	<field name = "TITLE">NEBRASKA FEEDLOT CATTLE UP 0.50/1.00 DLR - USDA</field>
+	<field name = "titulo">NEBRASKA FEEDLOT CATTLE UP 0.50/1.00 DLR - USDA</field>
 	<field name = "DATELINE">omaha, april 7 -</field>
-	<field name = "BODY">slaughter cattle prices rose 0.50 to 1.00
+	<field name = "content">slaughter cattle prices rose 0.50 to 1.00
 dlr amid good buyer demand and fairly good seller interest, the
 usda said.
     steers - mostly choice 2-4 1100-1350 lbs 68.00-69.00 fob

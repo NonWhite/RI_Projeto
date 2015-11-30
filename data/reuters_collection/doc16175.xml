@@ -2,13 +2,10 @@
 	<field name = "DATE">13-APR-1987 07:10:46.69</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0496reute
-u f BC-TAKEOVER-BATTLE-FOR-D   04-13 0101</field>
-	<field name = "TITLE">TAKEOVER BATTLE FOR DOME PETROLEUM BEGINS</field>
+	<field name = "titulo">TAKEOVER BATTLE FOR DOME PETROLEUM BEGINS</field>
 	<field name = "AUTHOR">By Solange De Santis, Reuters</field>
 	<field name = "DATELINE">TORONTO, April 13 -</field>
-	<field name = "BODY">A takeover battle began today for
+	<field name = "content">A takeover battle began today for
 debt-burdened Dome Petroleum Ltd DMP.MO> as TransCanada
 PipeLines Ltd TRP.TO> announced a 4.3 billion dlr offer and
 Dome said it is continuing talks with other possible buyers.

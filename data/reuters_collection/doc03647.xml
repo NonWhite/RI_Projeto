@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 10:38:35.18</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0315reute
-h f BC-DNC-INTERNATIONAL-ISS   03-11 0093</field>
-	<field name = "TITLE">DNC INTERNATIONAL ISSUES 10 BILLION YEN BOND</field>
+	<field name = "titulo">DNC INTERNATIONAL ISSUES 10 BILLION YEN BOND</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">DNC International Finance A.S. Is
+	<field name = "content">DNC International Finance A.S. Is
 issuing a 10 billion yen eurobond due April 7, 1994 with a five
 pct coupon and priced at 102-3/8 pct, Yamaichi International
 (Europe) Ltd said as joint book-runner with Tokai International

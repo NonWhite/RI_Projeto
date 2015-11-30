@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:56:12.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1860reute
-r f BC-CHAMBERS-DEVELOPMENT   04-13 0094</field>
-	<field name = "TITLE">CHAMBERS DEVELOPMENT CDV> SIGNS PACT</field>
+	<field name = "titulo">CHAMBERS DEVELOPMENT CDV> SIGNS PACT</field>
 	<field name = "DATELINE">PITTSBURGH, April 13 -</field>
-	<field name = "BODY">Chambers Development Co Inc said it
+	<field name = "content">Chambers Development Co Inc said it
 signed an easment and license agreement with the Passaic County
 Utilities Authority for the disposal of nonhazardous solid
 waste from Passaic County, N.J.

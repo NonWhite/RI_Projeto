@@ -3,12 +3,9 @@
 	<field name = "TOPICS">heat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nymex</field>
-	<field name = "UNKNOWN">Y F 
-f1280reute
-d f BC-U.S.-COURT-UPHOLDS-AP   06-19 0109</field>
-	<field name = "TITLE">U.S. COURT UPHOLDS APEX DECISION FAVORING NYMEX</field>
+	<field name = "titulo">U.S. COURT UPHOLDS APEX DECISION FAVORING NYMEX</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">The U.S. Court of Appeals for the
+	<field name = "content">The U.S. Court of Appeals for the
 Second Circuit upheld a lower court decision dismissing a suit
 by Apex Oil Co against the New York Mercantile Exchange and
 several oil companies.

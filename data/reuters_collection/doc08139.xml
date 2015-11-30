@@ -7,12 +7,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">G C
-f0161reute
-u f BC-JAPANESE-COMPOUND-FEE   03-23 0111</field>
-	<field name = "TITLE">JAPANESE COMPOUND FEED OUTPUT FALLS IN JANUARY</field>
+	<field name = "titulo">JAPANESE COMPOUND FEED OUTPUT FALLS IN JANUARY</field>
 	<field name = "DATELINE">TOKYO, March 23 -</field>
-	<field name = "BODY">Japanese compound feed output fell to
+	<field name = "content">Japanese compound feed output fell to
 2.06 mln tonnes in January from 2.57 mln in December, against
 2.04 mln a year earlier, Agriculture Ministry statistics show.
     January sales totalled 2.07 mln tonnes against 2.59 mln in

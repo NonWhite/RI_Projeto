@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:37:24.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1769reute
-r f BC-NORTHERN-TRUST-NRTS>   04-13 0068</field>
-	<field name = "TITLE">NORTHERN TRUST NRTS> FILES FOR SHELF DEBT</field>
+	<field name = "titulo">NORTHERN TRUST NRTS> FILES FOR SHELF DEBT</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Northern Trust Corp said it filed with
+	<field name = "content">Northern Trust Corp said it filed with
 the Securities and Exchange Commission a shelf registration
 statement covering up to 150 mln dlrs of debt.
     Proceeds will be used for possible future acquisitions, the

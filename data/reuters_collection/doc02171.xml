@@ -15,12 +15,9 @@
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">sri-lanka</field>
 	<field name = "PLACES">poland</field>
-	<field name = "UNKNOWN">C G
-f0650reute
-u f BC-FRENCH-CEREAL-EXPORTS   03-05 0095</field>
-	<field name = "TITLE">FRENCH CEREAL EXPORTS THROUGH ROUEN FALL</field>
+	<field name = "titulo">FRENCH CEREAL EXPORTS THROUGH ROUEN FALL</field>
 	<field name = "DATELINE">PARIS, March 5 -</field>
-	<field name = "BODY">French cereal exports through the port of
+	<field name = "content">French cereal exports through the port of
 Rouen fell 6.4 pct to 725,023 tonnes during the period February
 1 to 25, from 774,704 for the period February 1 to 26 last
 year, trade sources said.

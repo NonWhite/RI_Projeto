@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 09:43:38.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1038reute
-r f BC-MASCO-MASK.O>-TO-BUY   10-20 0052</field>
-	<field name = "TITLE">MASCO MASK.O> TO BUY UP TO 10 MLN SHARES</field>
+	<field name = "titulo">MASCO MASK.O> TO BUY UP TO 10 MLN SHARES</field>
 	<field name = "DATELINE">TAYLOR, MICH., Oct 20 -</field>
-	<field name = "BODY">Masco Industries Inc said its board
+	<field name = "content">Masco Industries Inc said its board
 authorized the repurchase of up to 10 mln of the company's
 common stock in open market purchases, privately negotiated
 transactions or otherwise.

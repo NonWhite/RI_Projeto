@@ -3,12 +3,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">C G L M T
-f0565reute
-u f BC-EUROPEAN-MARKETS-REAC   04-09 0104</field>
-	<field name = "TITLE">EUROPEAN MARKETS REACT QUIETLY TO G-7 COMMUNIQUE</field>
+	<field name = "titulo">EUROPEAN MARKETS REACT QUIETLY TO G-7 COMMUNIQUE</field>
 	<field name = "DATELINE">ZURICH, April 9 -</field>
-	<field name = "BODY">European currency markets reacted quietly
+	<field name = "content">European currency markets reacted quietly
 to the G-7 communique, with comments from bankers and dealers
 ranging from disappointment that it was not more concrete to
 surprise that the markets should have expected so much.

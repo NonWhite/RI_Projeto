@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:30:32.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1441reute
-d f BC-REYNOLDS-REYNA>-FILE   04-08 0107</field>
-	<field name = "TITLE">REYNOLDS REYNA> FILES COUNTER SUIT</field>
+	<field name = "titulo">REYNOLDS REYNA> FILES COUNTER SUIT</field>
 	<field name = "DATELINE">DAYTON, Ohio, April 8 -</field>
-	<field name = "BODY">Reynolds and Reynolds said that it
+	<field name = "content">Reynolds and Reynolds said that it
 filed a coutersuit in the U.S. District Court in Detroit
 against Advanced Voice Technologies and that it denied all
 allegations in Advanced's March lawsuit against Reynolds.

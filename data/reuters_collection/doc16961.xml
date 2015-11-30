@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 08:02:45.61</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">C G L M T
-f0590reute
-r f BC-DOCKERS'-STRIKE-HITS   04-21 0119</field>
-	<field name = "TITLE">DOCKERS' STRIKE HITS CANARY ISLAND PORT</field>
+	<field name = "titulo">DOCKERS' STRIKE HITS CANARY ISLAND PORT</field>
 	<field name = "DATELINE">MADRID, April 21 -</field>
-	<field name = "BODY">Striking dockers brought the Canary
+	<field name = "content">Striking dockers brought the Canary
 Island port of Las Palmas to a halt today but called off a
 stoppage in Spain's main port of Barcelona after winning the
 reinstatement of a sacked worker, port officials said.

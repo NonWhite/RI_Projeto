@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 10:04:05.89</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0946reute
-r f BC-SONEX-RESEARCH-SONX>   03-20 0098</field>
-	<field name = "TITLE">SONEX RESEARCH SONX> CUSTOM AUTO USES MORE GAS</field>
+	<field name = "titulo">SONEX RESEARCH SONX> CUSTOM AUTO USES MORE GAS</field>
 	<field name = "DATELINE">ANNAPOLIS, Md., March 20 -</field>
-	<field name = "BODY">Sonex Research Inc said its
+	<field name = "content">Sonex Research Inc said its
 modified 1986 British Ford Escort passed the European emissions
 test, but reported the engine consumed 35 pct more fuel than
 the stock engine.

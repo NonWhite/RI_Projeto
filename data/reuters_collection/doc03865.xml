@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 14:19:56.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0239reute
-a f BC-CHRYSLER-C>-TO-STEP   03-11 0052</field>
-	<field name = "TITLE">CHRYSLER C> TO STEP UP COUNTERFEIT BATTLE</field>
+	<field name = "titulo">CHRYSLER C> TO STEP UP COUNTERFEIT BATTLE</field>
 	<field name = "DATELINE">DETROIT, March 11 -</field>
-	<field name = "BODY">Chrysler Corp said it is escalating its
+	<field name = "content">Chrysler Corp said it is escalating its
 war with automotive parts counterfeiters and will use the
 service of Light Signatures Inc of Los Angeles.
     It said computer technology by Light Signatures initially

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 14:58:04.38</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f0478reute
-r f BC-BANK-OF-CANADA-MADE-A   03-04 0135</field>
-	<field name = "TITLE">BANK OF CANADA MADE AGGRESSIVE USE OF T-BILLS</field>
+	<field name = "titulo">BANK OF CANADA MADE AGGRESSIVE USE OF T-BILLS</field>
 	<field name = "DATELINE">OTTAWA, March 4 -</field>
-	<field name = "BODY">The Canadian government's reduced
+	<field name = "content">The Canadian government's reduced
 borrowing needs enabled the Bank of Canada to make "aggressive
 use" of short term debt instruments and pare the cost of
 financing in 1986, the central bank said in its annual report.

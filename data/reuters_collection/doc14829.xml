@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 01:26:33.18</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">F
-f0058reute
-u f BC-NISSAN-MAY-SUPPLY-PAR   04-08 0093</field>
-	<field name = "TITLE">NISSAN MAY SUPPLY PARTS TO MEXICAN FORD, CHRYSLER</field>
+	<field name = "titulo">NISSAN MAY SUPPLY PARTS TO MEXICAN FORD, CHRYSLER</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">Nissan Motor Co Ltd NSAN.T> is
+	<field name = "content">Nissan Motor Co Ltd NSAN.T> is
 negotiating the supply of car components to Mexican units of
 Ford Motor Co F> and Chrysler Corp C>, a Nissan spokeswoman
 said.

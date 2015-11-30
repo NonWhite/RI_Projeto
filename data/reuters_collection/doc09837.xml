@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 09:13:00.01</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0905reute
-u f BC-GENERALE-HEAD-CALLS-F   03-26 0105</field>
-	<field name = "TITLE">GENERALE HEAD CALLS FOR BELGIAN BANK FLEXIBILITY</field>
+	<field name = "titulo">GENERALE HEAD CALLS FOR BELGIAN BANK FLEXIBILITY</field>
 	<field name = "DATELINE">BRUSSELS, March 26 -</field>
-	<field name = "BODY">Belgian banks will need greater
+	<field name = "content">Belgian banks will need greater
 flexibility to choose their sphere of operations by 1992, when
 the European Community is due to introduce free competition in
 banking throughout the bloc, Generale de Banque SA GENB.BR>

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 12:12:54.57</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1550reute
-b f BC-/AMC-AMO>-TAKES-NO-A   03-20 0091</field>
-	<field name = "TITLE">AMC AMO> TAKES NO ACTION ON CHRYSLER C> BID</field>
+	<field name = "titulo">AMC AMO> TAKES NO ACTION ON CHRYSLER C> BID</field>
 	<field name = "DATELINE">CHICAGO, March 20 -</field>
-	<field name = "BODY">American Motors Corp said its directors
+	<field name = "content">American Motors Corp said its directors
 reviewed a Chrysler Corp merger proposal but took no action on
 it.
     The company said its directors met in New York today at a

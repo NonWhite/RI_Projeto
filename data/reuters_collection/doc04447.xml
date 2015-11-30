@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 15:01:22.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0187reute
-r f BC-SHAREDATA-SDIC>-TO-G   03-12 0070</field>
-	<field name = "TITLE">SHAREDATA SDIC> TO GET FINANCING</field>
+	<field name = "titulo">SHAREDATA SDIC> TO GET FINANCING</field>
 	<field name = "DATELINE">CHANDLER, Ariz., March 12 -</field>
-	<field name = "BODY">Sharedata Inc said it signed a
+	<field name = "content">Sharedata Inc said it signed a
 letter of intent with an investment banking firm for financing
 up to 2,500,000 dlrs.
     In return, the investment banking firm will be entitled to

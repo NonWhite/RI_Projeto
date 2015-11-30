@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 09:45:49.05</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0118reute
-u f BC-FRENCH-FARMERS-STRONG   03-05 0108</field>
-	<field name = "TITLE">FRENCH FARMERS STRONGLY CRITICISE EC MILK PACT</field>
+	<field name = "titulo">FRENCH FARMERS STRONGLY CRITICISE EC MILK PACT</field>
 	<field name = "DATELINE">PARIS, March 5 -</field>
-	<field name = "BODY">The EC agriculture ministers' agreement on
+	<field name = "content">The EC agriculture ministers' agreement on
 reducing dairy output puts milk producers in an impossible
 situation, French farm unions said.
     The accord to limit butter sales into intervention, part of

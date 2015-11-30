@@ -6,12 +6,9 @@
 	<field name = "PLACES">thailand</field>
 	<field name = "PLACES">indonesia</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">G T 
-f0662reute
-r f BC-AUSTRALIAN-MINISTER-S   10-20 0099</field>
-	<field name = "TITLE">AUSTRALIAN MINISTER SEES HOPE FOR FARM REFORM</field>
+	<field name = "titulo">AUSTRALIAN MINISTER SEES HOPE FOR FARM REFORM</field>
 	<field name = "DATELINE">KUALA LUMPUR, Oct 20 -</field>
-	<field name = "BODY">Australia's Minister for Trade
+	<field name = "content">Australia's Minister for Trade
 Negotiations is optimistic that progress is possible on
 reducing the large subsidies which the European Community and
 United States grant their farmers.

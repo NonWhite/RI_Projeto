@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 03:52:45.79</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0162reute
-b f BC-SCHLESWIG-HOLSTEIN-IS   03-20 0098</field>
-	<field name = "TITLE">SCHLESWIG-HOLSTEIN ISSUES 400 MLN MARK BOND</field>
+	<field name = "titulo">SCHLESWIG-HOLSTEIN ISSUES 400 MLN MARK BOND</field>
 	<field name = "DATELINE">FRANKFURT, March 20 -</field>
-	<field name = "BODY">The West German federal state of
+	<field name = "content">The West German federal state of
 Schleswig-Holstein is issuing a 400 mln mark domestic bond,
 carrying a coupon of six pct and priced at 100.40, lead manager
 Landesbank Schleswig-Holstein - Girozentrale said.

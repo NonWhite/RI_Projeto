@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f1862reute
-r f BC-ECONOMIST-SEES-SLOWDO   04-29 0108</field>
-	<field name = "TITLE">ECONOMIST SEES SLOWDOWN IN U.S. ECONOMIC GROWTH</field>
+	<field name = "titulo">ECONOMIST SEES SLOWDOWN IN U.S. ECONOMIC GROWTH</field>
 	<field name = "DATELINE">PARIS, April 29 -</field>
-	<field name = "BODY">The U.S. Economy has peaked and will slow
+	<field name = "content">The U.S. Economy has peaked and will slow
 to a growth rate of between 2.5 pct and three pct for the
 remainder of 1987, First Boston Corp Managing Director Albert
 Wojnilower said.

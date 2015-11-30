@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:38:33.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0691reute
-r f BC-SALOMON-SB>-NAMES-RO   03-05 0104</field>
-	<field name = "TITLE">SALOMON SB> NAMES ROSENFELD TO NEW POST</field>
+	<field name = "titulo">SALOMON SB> NAMES ROSENFELD TO NEW POST</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Salomon Inc said it elected Gerald
+	<field name = "content">Salomon Inc said it elected Gerald
 Rosenfeld exeuctive vice president and chief financial officer,
 succeeding Ray Golden who left January 31 and has since joined
 Trammell Crow Co>.

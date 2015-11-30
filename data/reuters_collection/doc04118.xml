@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 07:15:50.83</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0544reute
-r f BC-JAPAN-TO-SELL-200-BIL   03-12 0113</field>
-	<field name = "TITLE">JAPAN TO SELL 200 BILLION YEN IN BILLS, TRADERS</field>
+	<field name = "titulo">JAPAN TO SELL 200 BILLION YEN IN BILLS, TRADERS</field>
 	<field name = "DATELINE">TOKYO, March 12 -</field>
-	<field name = "BODY">The Bank of Japan will sell tomorrow 200
+	<field name = "content">The Bank of Japan will sell tomorrow 200
 billion yen of financing bills under a 50-day repurchase
 agreement maturing on May 2, to help absorb a projected money
 market surplus due largely to distribution of local allocation

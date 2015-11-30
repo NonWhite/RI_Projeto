@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 11:09:12.10</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f5308reute
-b f BC-C.-ITOH-FINANCE-(EURO   03-17 0112</field>
-	<field name = "TITLE">C. ITOH FINANCE (EUROPE) ISSUES EUROBOND</field>
+	<field name = "titulo">C. ITOH FINANCE (EUROPE) ISSUES EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">C. Itoh Finance (Europe) Ltd is issuing
+	<field name = "content">C. Itoh Finance (Europe) Ltd is issuing
 a 30 mln dlr deferred coupon eurobond, due March 30, 1992 and
 priced at 100.1 pct, Wako International (Europe) Ltd said as
 lead manager.

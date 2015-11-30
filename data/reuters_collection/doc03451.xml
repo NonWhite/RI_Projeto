@@ -5,12 +5,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PEOPLE">aqazadeh</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0199reute
-u f BC-IRANIAN-OIL-MINISTER   03-11 0097</field>
-	<field name = "TITLE">IRANIAN OIL MINISTER IN UAE TALKS</field>
+	<field name = "titulo">IRANIAN OIL MINISTER IN UAE TALKS</field>
 	<field name = "DATELINE">ABU DHABI, March 11 -</field>
-	<field name = "BODY">Iranian Oil Minister Gholamreza
+	<field name = "content">Iranian Oil Minister Gholamreza
 Aqazadeh is in the United Arab Emirates (UAE) to discuss oil
 prices and the general market situation, Iranian officials
 accompanying him said.

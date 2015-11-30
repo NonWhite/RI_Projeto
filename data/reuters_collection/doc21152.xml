@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 13:51:21.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2378reute
-u f BC-NABET-SAYS-MOST-UNITS   10-19 0112</field>
-	<field name = "TITLE">NABET SAYS MOST UNITS ACCEPT NBC CONTRACT</field>
+	<field name = "titulo">NABET SAYS MOST UNITS ACCEPT NBC CONTRACT</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">A spokesman for the National Association
+	<field name = "content">A spokesman for the National Association
 of Broadcast Employees and Technicians said it is studying its
 next moves in its strike against the National Broadcasting Co
 after 12 of its units voted to accept a contract proposal and

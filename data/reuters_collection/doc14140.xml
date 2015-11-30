@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:39:05.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1331reute
-r f BC-ENVIRONMENTAL-POWER-   04-07 0081</field>
-	<field name = "TITLE">ENVIRONMENTAL POWER POWR> GETS CONTRACTS</field>
+	<field name = "titulo">ENVIRONMENTAL POWER POWR> GETS CONTRACTS</field>
 	<field name = "DATELINE">BOSTON, April 7 -</field>
-	<field name = "BODY">Environmental Power Corp said it has
+	<field name = "content">Environmental Power Corp said it has
 signed a 50 year contract to sell power from its 12-megawatt
 Allegheny River Lock and Dam Number Seven Project near
 Kittanning, Pa., to Allegheny Power System Inc AYP>.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 16:59:54.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0861reute
-r f BC-MOODY'S-MAY-DOWNGRADE   03-09 0105</field>
-	<field name = "TITLE">MOODY'S MAY DOWNGRADE RESORTS INTERNATIONAL RT></field>
+	<field name = "titulo">MOODY'S MAY DOWNGRADE RESORTS INTERNATIONAL RT></field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 is reviewing the B-2 debt ratings of Resorts International Inc
 and of Resorts International Financing Inc for possible
 downgrade. Approximately 505 mln dlrs of debt is affected.

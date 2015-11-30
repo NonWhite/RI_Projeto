@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 10:13:03.47</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1171reute
-u f BC-TELEX-TC>-MAY-SEEK-O   10-19 0089</field>
-	<field name = "TITLE">TELEX TC> MAY SEEK OTHER PURCHASERS</field>
+	<field name = "titulo">TELEX TC> MAY SEEK OTHER PURCHASERS</field>
 	<field name = "DATELINE">TULSA, Oct 19 -</field>
-	<field name = "BODY">Telex Corp said its board has directed
+	<field name = "content">Telex Corp said its board has directed
 management and financial advisor Drexel Burnham Lambert Inc to
 investigate possible alternatives to the tender offer of Asher
 Edelman's TLX Partners for all Telex shares that may include

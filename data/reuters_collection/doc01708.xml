@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0395reute
-d f BC-RESOURCE-EXPLORATION   03-04 0109</field>
-	<field name = "TITLE">RESOURCE EXPLORATION REXI> IN DRILLING PACT</field>
+	<field name = "titulo">RESOURCE EXPLORATION REXI> IN DRILLING PACT</field>
 	<field name = "DATELINE">AKRON, Ohio, March 4 -</field>
-	<field name = "BODY">Resource Exploration Inc said it has
+	<field name = "content">Resource Exploration Inc said it has
 agreed to let Langasco Energy Corp> drill 50 oil and
 natural gas wells on its Clinton Sandstone formation within its
 Tuscarawas and Harrison County, Ohio area of operation.

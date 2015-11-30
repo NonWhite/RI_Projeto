@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 13:47:00.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2078reute
-d f BC-GENRAD-GEN>-OFFERS-S   03-30 0085</field>
-	<field name = "TITLE">GENRAD GEN> OFFERS SOFTWARE FOR TESTING</field>
+	<field name = "titulo">GENRAD GEN> OFFERS SOFTWARE FOR TESTING</field>
 	<field name = "DATELINE">CONCORD, Mass., March 30 -</field>
-	<field name = "BODY">GenRad Inc said it introduced a
+	<field name = "content">GenRad Inc said it introduced a
 software product that allows for development of test programs
 for its 227X line of in-circuit/functional test systems on
 Digital Equipment Corp's DEC> VAX-based computers.

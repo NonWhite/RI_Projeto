@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:40:18.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0631reute
-r f BC-PENTAIR-PNTA>-FILES   03-11 0070</field>
-	<field name = "TITLE">PENTAIR PNTA> FILES TO OFFER PREFERRED</field>
+	<field name = "titulo">PENTAIR PNTA> FILES TO OFFER PREFERRED</field>
 	<field name = "DATELINE">ST. PAUL, Minn., March 11 -</field>
-	<field name = "BODY">Pentair Inc said it has filed
+	<field name = "content">Pentair Inc said it has filed
 for an offering of two mln shares of cumulative convertible
 preferred stock at an expected price of 25 dlrs per share
 through underwriters led by Kidder, Peabody and Co Inc > and

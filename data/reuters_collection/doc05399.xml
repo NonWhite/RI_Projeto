@@ -3,12 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">kuwait</field>
-	<field name = "UNKNOWN">C G L
-f2366reute
-r f BC-CCC-ACCEPTS-BID-FOR-D   03-16 0117</field>
-	<field name = "TITLE">CCC ACCEPTS BID FOR DAIRY CATTLE TO KUWAIT</field>
+	<field name = "titulo">CCC ACCEPTS BID FOR DAIRY CATTLE TO KUWAIT</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">The Commodity Credit Corporation
+	<field name = "content">The Commodity Credit Corporation
 (CCC) has accepted a bid for an export bonus to cover the sale
 of 380 head of dairy cattle to Kuwait, the U.S. Agriculture
 Department said.

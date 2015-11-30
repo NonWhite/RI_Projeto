@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 18:52:41.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0196reute
-r f BC-INTERMARK-IMI>-PLANS   03-03 0103</field>
-	<field name = "TITLE">INTERMARK IMI> PLANS REFINANCING</field>
+	<field name = "titulo">INTERMARK IMI> PLANS REFINANCING</field>
 	<field name = "DATELINE">LA JOLLA, Calif., March 3 -</field>
-	<field name = "BODY">Intermark Inc said it plans to
+	<field name = "content">Intermark Inc said it plans to
 offer 40 mln dlrs in new debt to finance the repurchase of
 high-interest notes and that it agreed to sell two units.
     The company said it filed a registration statement with the

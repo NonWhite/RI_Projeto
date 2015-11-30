@@ -3,12 +3,9 @@
 	<field name = "TOPICS">silver</field>
 	<field name = "PLACES">mexico</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">C G M T
-f2541reute
-u f AM-silver   04-29 0086</field>
-	<field name = "TITLE">MEXICO SILVER POLICIES UNCHANGED, OFFICIALS SAY</field>
+	<field name = "titulo">MEXICO SILVER POLICIES UNCHANGED, OFFICIALS SAY</field>
 	<field name = "DATELINE">Mexico City, April 29 -</field>
-	<field name = "BODY">Mexico's policies for silver
+	<field name = "content">Mexico's policies for silver
 production and sales have not changed despite Peru's decision
 last week to freeze its silver sales, government mining and
 central bank officials said.

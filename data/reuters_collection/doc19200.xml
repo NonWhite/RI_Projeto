@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f1158reute
-b f BC-/-FED-EXPECTED-TO-ARR   06-19 0110</field>
-	<field name = "TITLE">FED EXPECTED TO ARRANGE SYSTEM REPURCHASES</field>
+	<field name = "titulo">FED EXPECTED TO ARRANGE SYSTEM REPURCHASES</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">The Federal Reserve is likely to add
+	<field name = "content">The Federal Reserve is likely to add
 temporary reserves to the banking system this morning by
 executing system repurchase agreements, economists said.
     The Fed faces a need to add a large volume of reserves this

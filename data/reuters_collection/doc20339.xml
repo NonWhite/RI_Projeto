@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 11:30:12.49</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1631reute
-d f BC-APPLE-BANK-FOR-SAVING   10-20 0048</field>
-	<field name = "TITLE">APPLE BANK FOR SAVINGS APPL.O> 3RD QTR NET</field>
+	<field name = "titulo">APPLE BANK FOR SAVINGS APPL.O> 3RD QTR NET</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Shr 1.54 dlrs vs 1.27 dlrs
+	<field name = "content">Shr 1.54 dlrs vs 1.27 dlrs
     Net 7,065,000 vs 5,812,000
     Nine mths
     Shr 4.25 dlrs vs 3.40 dlrs

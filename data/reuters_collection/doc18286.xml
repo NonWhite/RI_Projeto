@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 16:24:23.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2596reute
-r f BC-TRUSTCOMPANY-BANCORP   06-02 0084</field>
-	<field name = "TITLE">TRUSTCOMPANY BANCORP TCBC.O> UPS QTLY DIVIDEND</field>
+	<field name = "titulo">TRUSTCOMPANY BANCORP TCBC.O> UPS QTLY DIVIDEND</field>
 	<field name = "DATELINE">JERSEY CITY, N.J., June 2 -</field>
-	<field name = "BODY">Trustcompany Bancorporation
+	<field name = "content">Trustcompany Bancorporation
 said the company is raising its cash dividend to 1.56 dlrs from
 1.20 dlrs a share.
     The company said the dividend increase was based on a 43

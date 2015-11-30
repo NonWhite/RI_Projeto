@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">italy</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3304reute
-u f BC-SAN-PAOLO-DI-TORINO-T   03-16 0088</field>
-	<field name = "TITLE">SAN PAOLO DI TORINO TO ACQUIRE CALIFORNIAN BANK</field>
+	<field name = "titulo">SAN PAOLO DI TORINO TO ACQUIRE CALIFORNIAN BANK</field>
 	<field name = "DATELINE">TURIN, March 16 -</field>
-	<field name = "BODY">Italian state bank Istituto Bancario San
+	<field name = "content">Italian state bank Istituto Bancario San
 Paolo di Torino> said its fully-owned San Paolo U.S. Holding
 Co> of Wilmington in the U.S. had signed a letter of intent to
 acquire Valley National Bank> of California.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 18:20:48.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2762reute
-u f BC-GULF-OF-MEXICO-RIG-CO   03-30 0078</field>
-	<field name = "TITLE">GULF OF MEXICO RIG COUNT UNCHANGED THIS WEEK</field>
+	<field name = "titulo">GULF OF MEXICO RIG COUNT UNCHANGED THIS WEEK</field>
 	<field name = "DATELINE">HOUSTON, March 30 -</field>
-	<field name = "BODY">Utilization of offshore mobile rigs in
+	<field name = "content">Utilization of offshore mobile rigs in
 the Gulf of Mexico was steady at 35.6 pct last week, the same
 rate as one month ago, Offshore Data Services said.
     The total number of working rigs in the Gulf was 83 for the

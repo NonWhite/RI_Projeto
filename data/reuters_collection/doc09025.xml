@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 16:23:12.76</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">boesky</field>
-	<field name = "UNKNOWN">F
-f2485reute
-u f BC-GUINNESS   03-24 0094</field>
-	<field name = "TITLE">GUINNESS SUES BOESKY IN FEDERAL COURT</field>
+	<field name = "titulo">GUINNESS SUES BOESKY IN FEDERAL COURT</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Guinness PLC> has joined investors
+	<field name = "content">Guinness PLC> has joined investors
 suing former Wall Street speculator Ivan Boesky, alleging it
 was deceived into putting money into his one billion dlr
 investment partnership in 1986.

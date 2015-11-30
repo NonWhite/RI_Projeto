@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 08:21:19.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2799reute
-r f BC-EXIDE-SENIOR-SUBORDIN   06-18 0093</field>
-	<field name = "TITLE">EXIDE SENIOR SUBORDINATED NOTES YIELD 13.01 PCT</field>
+	<field name = "titulo">EXIDE SENIOR SUBORDINATED NOTES YIELD 13.01 PCT</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Exide Corp is raising 135 mln dlrs via
+	<field name = "content">Exide Corp is raising 135 mln dlrs via
 an offering of senior subordinated notes due 1997 yielding
 13.01 pct, said sole manager Drexel Burnham Lambert Inc.
     The notes have a 12-7/8 pct coupon and were priced at

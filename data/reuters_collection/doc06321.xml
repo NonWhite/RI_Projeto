@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 17:25:58.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6693reute
-u f BC-COURT-BLOCKS-INJUNCTI   03-17 0095</field>
-	<field name = "TITLE">COURT BLOCKS INJUNCTION SOUGHT AGAINST COASTAL</field>
+	<field name = "titulo">COURT BLOCKS INJUNCTION SOUGHT AGAINST COASTAL</field>
 	<field name = "DATELINE">HOUSTON, March 17 -</field>
-	<field name = "BODY">A U.S. Bankruptcy Judge ruled that
+	<field name = "content">A U.S. Bankruptcy Judge ruled that
 TransAmerican Natural Gas Corp> can not seek an injunction in
 Texas State court to block Coastal Corp CGP> from presenting a
 plan of reorganization in TransAmerican's bankruptcy

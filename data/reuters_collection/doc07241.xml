@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 12:36:16.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1650reute
-r f BC-MCORP-M>-TO-CONVERT   03-19 0096</field>
-	<field name = "TITLE">MCORP M> TO CONVERT 35 MEMBER BANKS TO BRANCHES</field>
+	<field name = "titulo">MCORP M> TO CONVERT 35 MEMBER BANKS TO BRANCHES</field>
 	<field name = "DATELINE">DALLAS, March 19 -</field>
-	<field name = "BODY">MCorp said it plans to convert 35 of its
+	<field name = "content">MCorp said it plans to convert 35 of its
 62 member banks to branches during the next nine months.
     It said it expects the conversions, pending regulatory
 approval of branching applications, will provide substantial

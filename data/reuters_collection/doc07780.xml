@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 11:54:59.83</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f1456reute
-h f BC-COMMERCE-GROUP-CGCO>   03-20 0084</field>
-	<field name = "TITLE">COMMERCE GROUP CGCO> TO START TRADE ON NASDAQ</field>
+	<field name = "titulo">COMMERCE GROUP CGCO> TO START TRADE ON NASDAQ</field>
 	<field name = "DATELINE">MILWAUKEE, WIS., March 20 -</field>
-	<field name = "BODY">Commerce Group Corp said its
+	<field name = "content">Commerce Group Corp said its
 common stock will begin trading March 23 on NASDAQ under the
 symbol "CGCO."
     The company is doing preliminary work necessary to the

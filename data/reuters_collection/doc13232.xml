@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 23:30:40.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f2592reute
-r f BC-INSOLVENT-CALIFORNIA   04-03 0093</field>
-	<field name = "TITLE">INSOLVENT CALIFORNIA THRIFT IN RECEIVERSHIP</field>
+	<field name = "titulo">INSOLVENT CALIFORNIA THRIFT IN RECEIVERSHIP</field>
 	<field name = "DATELINE">WASHINGTON, April 4 -</field>
-	<field name = "BODY">The Tahoe Savings and Loan
+	<field name = "content">The Tahoe Savings and Loan
 Association of South Lake, Tahoe, Cal., Was placed in
 receivership yesterday because it was "insolvent, unsafe and
 unsound," the Federal Home Loan Bank Board (FHLBB) said.

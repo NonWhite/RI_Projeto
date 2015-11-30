@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 08:22:11.23</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2807reute
-r f BC-ALLEGIS-AEG>-MEETS-W   06-18 0096</field>
-	<field name = "TITLE">ALLEGIS AEG> MEETS WITH UNITED EMPLOYEES GROUP</field>
+	<field name = "titulo">ALLEGIS AEG> MEETS WITH UNITED EMPLOYEES GROUP</field>
 	<field name = "DATELINE">CHICAGO, June 18 -</field>
-	<field name = "BODY">A spokesman for a group of United
+	<field name = "content">A spokesman for a group of United
 Airlines employees, who oppose the attempted takeover of United
 by the Airline Pilots Association, said he met with the new
 chairman of Allegis, Frank Olson.

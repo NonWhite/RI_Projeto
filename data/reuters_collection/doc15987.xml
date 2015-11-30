@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 16:40:51.27</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">C M
-f2600reute
-r f BC-noranda-   04-09 0121</field>
-	<field name = "TITLE">NORANDA BEGINS MURDOCHVILLE MINE SALVAGE</field>
+	<field name = "titulo">NORANDA BEGINS MURDOCHVILLE MINE SALVAGE</field>
 	<field name = "DATELINE">TORONTO, April 9 -</field>
-	<field name = "BODY">Noranda Inc said it began salvage
+	<field name = "content">Noranda Inc said it began salvage
 operations at its Murdochville, Quebec mine where a fire last
 week killed one miner and caused 10 mln dlrs in damage.
      Noranda said the cause and full extent of the damage is

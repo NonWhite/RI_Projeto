@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 12:56:05.10</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A F RM
-f0183reute
-r f BC-ROYAL-BANK-SEES-IMPRO   03-03 0106</field>
-	<field name = "TITLE">ROYAL BANK SEES IMPROVED RESULTS</field>
+	<field name = "titulo">ROYAL BANK SEES IMPROVED RESULTS</field>
 	<field name = "DATELINE">MONTREAL, March 3 -</field>
-	<field name = "BODY">Royal Bank of Canada>, in reporting a
+	<field name = "content">Royal Bank of Canada>, in reporting a
 19 pct drop in first quarter earnings, said it expects to
 report improved results in future earnings periods.
     "Healthy consumer credit growth, record fee-based income,

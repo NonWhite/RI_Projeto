@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 10:02:22.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0416reute
-r f BC-DIMIS-DMS>-EXTENDS-L   03-03 0070</field>
-	<field name = "TITLE">DIMIS DMS> EXTENDS LIFE OF WARRANTS BRIEFLY</field>
+	<field name = "titulo">DIMIS DMS> EXTENDS LIFE OF WARRANTS BRIEFLY</field>
 	<field name = "DATELINE">EATONTOWN, N.J., March 3 -</field>
-	<field name = "BODY">Dimis Inc said it has extended
+	<field name = "content">Dimis Inc said it has extended
 by five business days the expiration of its common stock
 purchase warrants until March Nine.
     It said over one mln have already been exercised.  The

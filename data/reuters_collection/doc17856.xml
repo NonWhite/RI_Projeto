@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f2694reute
-r f BC-CIS-CISIF.O>-AGREES   06-01 0062</field>
-	<field name = "TITLE">CIS CISIF.O> AGREES TO SECOND EXTENSION</field>
+	<field name = "titulo">CIS CISIF.O> AGREES TO SECOND EXTENSION</field>
 	<field name = "DATELINE">TULSA, Okla., June 1 -</field>
-	<field name = "BODY">CIS Technologies Inc said that it
+	<field name = "content">CIS Technologies Inc said that it
 and the Swiss Reinsurance Co of Zurich, Switzerland agreed to a
 second extension of two dates for the final part of their share
 purchase agreement.

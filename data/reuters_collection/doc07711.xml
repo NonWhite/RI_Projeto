@@ -6,12 +6,9 @@
 	<field name = "EXCHANGES">cme</field>
 	<field name = "EXCHANGES">tse</field>
 	<field name = "EXCHANGES">simex</field>
-	<field name = "UNKNOWN">C
-f1120reute
-r f BC-U.S.-FUTURES-LEADER-S   03-20 0099</field>
-	<field name = "TITLE">U.S. FUTURES LEADER SEES TOKYO LIBERALIZING</field>
+	<field name = "titulo">U.S. FUTURES LEADER SEES TOKYO LIBERALIZING</field>
 	<field name = "DATELINE">BOCA RATON, Fla, March 20 -</field>
-	<field name = "BODY">Japan will liberalize rules
+	<field name = "content">Japan will liberalize rules
 restricting their financial institutions' ability to trade
 foreign financial futures contracts within the next two years,
 Leo Melamed, director of the Chicago Mercantile Exchange's,

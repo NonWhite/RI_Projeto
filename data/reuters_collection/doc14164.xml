@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:43:16.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1361reute
-w f BC-UNIVERSITY-UPT>-REPO   04-07 0054</field>
-	<field name = "TITLE">UNIVERSITY UPT> REPORTS MARCH LENS SALE</field>
+	<field name = "titulo">UNIVERSITY UPT> REPORTS MARCH LENS SALE</field>
 	<field name = "DATELINE">WESTPORT, Conn., April 7 -</field>
-	<field name = "BODY">University Patents Inc said its
+	<field name = "content">University Patents Inc said its
 optical products subsidiary sold 5,652 Alges soft bifocal
 contact lenses in March, after allowances for exchanges and
 returns.

@@ -3,12 +3,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">uganda</field>
 	<field name = "PLACES">mozambique</field>
-	<field name = "UNKNOWN">RM 
-f1608reute
-r f BC-UGANDA,-MOZAMBIQUE-WI   06-19 0114</field>
-	<field name = "TITLE">UGANDA, MOZAMBIQUE WIN DEBT RESCHEDULING ACCORD</field>
+	<field name = "titulo">UGANDA, MOZAMBIQUE WIN DEBT RESCHEDULING ACCORD</field>
 	<field name = "DATELINE">PARIS, June 19 -</field>
-	<field name = "BODY">The Paris Club of creditor nations agreed
+	<field name = "content">The Paris Club of creditor nations agreed
 to a major rescheduling of Uganda's and Mozambique's
 government-to-government debts, the Club said in a statement.
     At meetings here this week, both countries were accorded

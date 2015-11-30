@@ -4,12 +4,9 @@
 	<field name = "TOPICS">meal-feed</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">C G
-f2331reute
-u f BC-CCC-GUARANTEES-TO-TUR   03-20 0102</field>
-	<field name = "TITLE">CCC GUARANTEES TO TURKEY SWITCHED TO MEALS-USDA</field>
+	<field name = "titulo">CCC GUARANTEES TO TURKEY SWITCHED TO MEALS-USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">The Commodity Credit Corporation,
+	<field name = "content">The Commodity Credit Corporation,
 CCC, has reallocated 15.0 mln dlrs in credit guarantees to
 Turkey previously earmarked for sales of U.S. oilseeds to
 provide coverage for sales of U.S. protein meals in fiscal year

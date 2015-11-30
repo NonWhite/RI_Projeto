@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 11:51:01.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0900reute
-u f BC-AMC-AMO>-FEBRUARY-CA   03-03 0066</field>
-	<field name = "TITLE">AMC AMO> FEBRUARY CAR OUTPUT DECLINES</field>
+	<field name = "titulo">AMC AMO> FEBRUARY CAR OUTPUT DECLINES</field>
 	<field name = "DATELINE">DETROIT, March 3 -</field>
-	<field name = "BODY">American Motors Corp said its February
+	<field name = "content">American Motors Corp said its February
 U.S. car production declined to 2,978 units from 3,808 a year
 ago.
     AMC said its U.S. jeep production rose to 18,651 from

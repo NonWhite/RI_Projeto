@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 00:44:28.08</field>
 	<field name = "PLACES">france</field>
 	<field name = "PEOPLE">chirac</field>
-	<field name = "UNKNOWN">RM
-f0023reute
-u f BC-FRENCH-GOVERNMENT-WIN   04-08 0103</field>
-	<field name = "TITLE">FRENCH GOVERNMENT WINS CONFIDENCE VOTE</field>
+	<field name = "titulo">FRENCH GOVERNMENT WINS CONFIDENCE VOTE</field>
 	<field name = "DATELINE">PARIS, April 8 -</field>
-	<field name = "BODY">The French government won, as expected, a
+	<field name = "content">The French government won, as expected, a
 vote of parliamentary confidence sought by Prime Minister
 Jacques Chirac on his general policies.
     Votes from Chirac's Gaullist RPR party and its junior

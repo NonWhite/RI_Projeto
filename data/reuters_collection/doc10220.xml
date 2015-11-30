@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 17:42:29.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2775reute
-r f BC-PHLCORP-PHX>-SHAREHO   03-26 0074</field>
-	<field name = "TITLE">PHLCORP PHX> SHAREHOLDERS APPROVED DIRECTORS</field>
+	<field name = "titulo">PHLCORP PHX> SHAREHOLDERS APPROVED DIRECTORS</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Shareholders of PHLCORP Inc, formerly
+	<field name = "content">Shareholders of PHLCORP Inc, formerly
 Baldwin-United Corp, nominated Leucadia National Corp's slate
 of directors and adopted a proposal to reincorporate the
 company in Pennsylvania, according to PHLCORP's secretary and

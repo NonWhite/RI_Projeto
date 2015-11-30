@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 13:45:10.75</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1924reute
-r f BC-COURT-ACTION-SOUGHT-O   06-01 0099</field>
-	<field name = "TITLE">COURT ACTION SOUGHT ON SOUTHAM STM.TO> DEAL</field>
+	<field name = "titulo">COURT ACTION SOUGHT ON SOUTHAM STM.TO> DEAL</field>
 	<field name = "DATELINE">TORONTO, June 1 -</field>
-	<field name = "BODY">Southam Inc said a Canadian government
+	<field name = "content">Southam Inc said a Canadian government
 official asked the Ontario Supreme Court to order Southam to
 seek shareholder approval of a 1985 share swap between Southam
 and fellow newspaper publisher Torstar Corp TSB.TO>.

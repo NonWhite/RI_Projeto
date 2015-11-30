@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 15:19:58.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G T
-f2218reute
-u f BC-CCC-INVESTMENT-IN-LOA   03-23 0141</field>
-	<field name = "TITLE">CCC INVESTMENT IN LOANS, INVENTORIES UP - USDA</field>
+	<field name = "titulo">CCC INVESTMENT IN LOANS, INVENTORIES UP - USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">The Commodity Credit Corporation,
+	<field name = "content">The Commodity Credit Corporation,
 CCC, had 33.2 billion dlrs invested in commodity loans and
 inventories on November 30, 1986, compared to 25.0 billion a
 year earlier, the U.S. Agriculture Department said.

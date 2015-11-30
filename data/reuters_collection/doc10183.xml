@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:37:59.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2629reute
-h f BC-CPI-CPIC>-TO-SELL-AT   03-26 0061</field>
-	<field name = "TITLE">CPI CPIC> TO SELL ATT T> COMPUTER PRODUCTS</field>
+	<field name = "titulo">CPI CPIC> TO SELL ATT T> COMPUTER PRODUCTS</field>
 	<field name = "DATELINE">ST. LOUIS, March 26 -</field>
-	<field name = "BODY">CPI Corp said American Telephone and
+	<field name = "content">CPI Corp said American Telephone and
 Telegraph has authorized its Business Telephone Systems
 division to represent its computer product line to the St.
 Louis and Chicago business markets.

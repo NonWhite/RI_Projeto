@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:01:01.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0972
-reute
-h f BC-THREE-CONVICTED-IN-HO   03-02 0130</field>
-	<field name = "TITLE">THREE CONVICTED IN HOME STATE FAILURE</field>
+	<field name = "titulo">THREE CONVICTED IN HOME STATE FAILURE</field>
 	<field name = "DATELINE">CINCINNATI, March 2 -</field>
-	<field name = "BODY">Marvin Warner and two fellow officers
+	<field name = "content">Marvin Warner and two fellow officers
 of the former Home State Savings Bank were convicted on charges
 connected with the collapse of Home State.
     Warner, the owner of Home State, was found guilty of six

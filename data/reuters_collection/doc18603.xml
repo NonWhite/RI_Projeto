@@ -6,13 +6,10 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">italy</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T 
-f2887reute
-u f BC-EUROPEAN-COFFEE-TRADE   06-18 0112</field>
-	<field name = "TITLE">RPT - EUROPEAN TRADE MAY PROPOSE NEW ICO FORMULA</field>
+	<field name = "titulo">RPT - EUROPEAN TRADE MAY PROPOSE NEW ICO FORMULA</field>
 	<field name = "AUTHOR">By Jeremy Lovell, Reuters</field>
 	<field name = "DATELINE">AMSTERDAM, June 17 -</field>
-	<field name = "BODY">European coffee traders and roasters
+	<field name = "content">European coffee traders and roasters
 may propose a new formula for calculating International Coffee
 Organization (ICO) coffee quotas at the end of their meeting
 here this week, traders and officials told Reuters.

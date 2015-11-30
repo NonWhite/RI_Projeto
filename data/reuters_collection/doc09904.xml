@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 10:28:22.93</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f1217reute
-u f BC-SWISS-NET-CAPITAL-EXP   03-26 0110</field>
-	<field name = "TITLE">SWISS NET CAPITAL EXPORTS RISE IN 1986</field>
+	<field name = "titulo">SWISS NET CAPITAL EXPORTS RISE IN 1986</field>
 	<field name = "DATELINE">ZURICH, March 26 -</field>
-	<field name = "BODY">Increased activity by Switzerland's
+	<field name = "content">Increased activity by Switzerland's
 banks pushed net capital exports to a provisional 11.7 billion
 francs last year from 10.0 billion in 1985, the National Bank
 said in a pre-publication copy of its annual report.

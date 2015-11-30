@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 13:30:40.86</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1909reute
-r f BC-NEW-JERSEY-STEEL-FILE   04-09 0104</field>
-	<field name = "TITLE">NEW JERSEY STEEL FILES FOR INITIAL STOCK SALE</field>
+	<field name = "titulo">NEW JERSEY STEEL FILES FOR INITIAL STOCK SALE</field>
 	<field name = "DATELINE">SAYREVILLE, N.J., April 9 -</field>
-	<field name = "BODY">New Jersey Steel Corp> said it
+	<field name = "content">New Jersey Steel Corp> said it
 filed a registration statement with the Securities and Exchange
 Commission for the initial public offering of 1.8 mln shares of
 common stock at an estimated price of 20 dlrs to 22 dlrs a

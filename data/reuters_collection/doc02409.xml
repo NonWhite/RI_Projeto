@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 15:46:20.16</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0659reute
-d f BC-PITT-DES-MOINES-INC-   03-05 0029</field>
-	<field name = "TITLE">PITT-DES MOINES INC PDM> TO ACQUIRE STEEL UNIT</field>
+	<field name = "titulo">PITT-DES MOINES INC PDM> TO ACQUIRE STEEL UNIT</field>
 	<field name = "DATELINE">PITTSBURGH, March 5 -</field>
-	<field name = "BODY">Pitt-Des Moines Inc said it will
+	<field name = "content">Pitt-Des Moines Inc said it will
 acquire Chicago Steel Corp> in exchange for a portion of its
 stock.
  Reuter</field>

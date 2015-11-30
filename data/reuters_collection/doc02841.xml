@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 15:46:59.81</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V
-f0465reute
-r f AM-ARMS-STARWARS   03-06 0125</field>
-	<field name = "TITLE">OFFICIAL SAYS REAGAN AGAINST EARLY SDI DEPLOYMENT</field>
+	<field name = "titulo">OFFICIAL SAYS REAGAN AGAINST EARLY SDI DEPLOYMENT</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">A senior Defense Department official
+	<field name = "content">A senior Defense Department official
 said he believed President Reagan has decided against an early
 deployment of the controversial anti-missile defense system
 known as "Star Wars."

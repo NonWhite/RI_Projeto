@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 04:54:47.43</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1319reute
-b f BC-PEARSON-PLC-PSON.L>   03-16 0028</field>
-	<field name = "TITLE">PEARSON PLC PSON.L> YR ENDED DEC 31</field>
+	<field name = "titulo">PEARSON PLC PSON.L> YR ENDED DEC 31</field>
 	<field name = "DATELINE">LONDON, March 16 -</field>
-	<field name = "BODY">Shr 37.4p vs 30p.
+	<field name = "content">Shr 37.4p vs 30p.
     Final div 7p, making 12p vs 10p.
     Pre-tax profit 121.1 mln stg vs 109.3 mln.
     Net profit before minorities 76.6 mln stg vs 62.8 mln.

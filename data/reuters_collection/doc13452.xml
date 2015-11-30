@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:10:43.80</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0316reute
-b f BC-ZENCHIKU-ISSUES-40-ML   04-07 0107</field>
-	<field name = "TITLE">ZENCHIKU ISSUES 40 MLN DLR EQUITY WARRANT BOND</field>
+	<field name = "titulo">ZENCHIKU ISSUES 40 MLN DLR EQUITY WARRANT BOND</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Zenchiku Co Ltd is issuing a 40 mln dlr
+	<field name = "content">Zenchiku Co Ltd is issuing a 40 mln dlr
 equity warrant eurobond due April 30, 1992 paying an indicated
 coupon of 2-1/4 pct and priced at par, lead manager Daiwa
 Europe Ltd said.

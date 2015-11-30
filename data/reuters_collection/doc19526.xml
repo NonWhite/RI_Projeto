@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 05:17:55.05</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F 
-f0326reute
-u f BC-BHP-STEEL-SEES-BENEFI   06-29 0113</field>
-	<field name = "TITLE">BHP STEEL SEES BENEFITS FROM INVESTMENT IN 1988</field>
+	<field name = "titulo">BHP STEEL SEES BENEFITS FROM INVESTMENT IN 1988</field>
 	<field name = "DATELINE">MELBOURNE, June 29 -</field>
-	<field name = "BODY">The major benefits of BHP Steel
+	<field name = "content">The major benefits of BHP Steel
 International Group's big capital expenditure program should
 begin to be seen in its 1988 financial year ending next May 31,
 Broken Hill Pty Co Ltd BRKN.S> officials said.

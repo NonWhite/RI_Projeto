@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 13:38:06.89</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1845reute
-d f BC-ALTUS-BANK-ALTS.O>-F   06-19 0088</field>
-	<field name = "TITLE">ALTUS BANK ALTS.O> FAILS TO REACH AGREEMENT</field>
+	<field name = "titulo">ALTUS BANK ALTS.O> FAILS TO REACH AGREEMENT</field>
 	<field name = "DATELINE">MOBILE, ALA., June 19 -</field>
-	<field name = "BODY">Altus Bank said it has not been
+	<field name = "content">Altus Bank said it has not been
 able to reach a definitive agreement to buy Horizon Financial
 Corp, Horizon Funding and 2.8 billion dlrs in loan servicing
 from Victor Savings and Loan Association.

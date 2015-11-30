@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 09:20:37.45</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0961reute
-u f BC-/SEARS,-ROEBUCK-AND-C   10-20 0059</field>
-	<field name = "TITLE">SEARS, ROEBUCK AND CO S> 3RD QTR NET</field>
+	<field name = "titulo">SEARS, ROEBUCK AND CO S> 3RD QTR NET</field>
 	<field name = "DATELINE">CHICAGO, Oct 20 -</field>
-	<field name = "BODY">Shr 1.08 dlrs vs 88 cts
+	<field name = "content">Shr 1.08 dlrs vs 88 cts
     Net 409,000,000 vs 328,000,000
     Revs 12.19 billion vs 11.17 billion
     Avg shrs 378.2 mln vs 368.4 mln

@@ -2,13 +2,10 @@
 	<field name = "DATE">9-APR-1987 14:57:17.20</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F RM
-f2144reute
-r f BC-CANADA-TRADE-RISE-SEE   04-09 0096</field>
-	<field name = "TITLE">CANADA TRADE RISE SEEN AS START OF RECOVERY</field>
+	<field name = "titulo">CANADA TRADE RISE SEEN AS START OF RECOVERY</field>
 	<field name = "AUTHOR">By Russell Blinch, Reuters</field>
 	<field name = "DATELINE">OTTAWA, April 9 -</field>
-	<field name = "BODY">Canada's trade picture has brightened
+	<field name = "content">Canada's trade picture has brightened
 considerably, underscoring economists' predictions the sector
 would post a long awaited recovery this year.
     The federal government reported today that the monthly

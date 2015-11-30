@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 11:39:07.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1584reute
-d f BC-SPECTRUM-CONCEPTS-UNV   03-30 0093</field>
-	<field name = "TITLE">SPECTRUM CONCEPTS UNVEILS NETWORKING PRODUCT</field>
+	<field name = "titulo">SPECTRUM CONCEPTS UNVEILS NETWORKING PRODUCT</field>
 	<field name = "DATELINE">LAS VEGAS, March 30 -</field>
-	<field name = "BODY">Spectrum Concepts Inc> said it
+	<field name = "content">Spectrum Concepts Inc> said it
 unveiled a new software product called XCOM 6.2 that links
 various computer systems together.
     The company said the software can transfer data between

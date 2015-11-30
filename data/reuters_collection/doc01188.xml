@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 12:55:04.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0175reute
-r f BC-GENERAL-AUTOMATION-G   03-03 0061</field>
-	<field name = "TITLE">GENERAL AUTOMATION GENA> SETS LEASING PACT</field>
+	<field name = "titulo">GENERAL AUTOMATION GENA> SETS LEASING PACT</field>
 	<field name = "DATELINE">ANAHEIM, Calif., March 3 -</field>
-	<field name = "BODY">General Automation Inc said it
+	<field name = "content">General Automation Inc said it
 has arranged a ten-mln-dlr leasing facility with Wells Fargo
 and Co's WFC> Wells Fargo Leasing Corp.
     The program is a one-year facility that will allow

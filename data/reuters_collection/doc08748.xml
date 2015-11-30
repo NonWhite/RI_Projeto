@@ -7,12 +7,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">kuwait</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">RM
-f1028reute
-u f BC-IRAN-WARNS-U.S.-NOT-T   03-24 0119</field>
-	<field name = "TITLE">IRAN WARNS U.S. NOT TO INTERVENE IN THE GULF</field>
+	<field name = "titulo">IRAN WARNS U.S. NOT TO INTERVENE IN THE GULF</field>
 	<field name = "DATELINE">LONDON, March 24 -</field>
-	<field name = "BODY">The speaker of the Iranian Parliament,
+	<field name = "content">The speaker of the Iranian Parliament,
 Hojatoleslam Akbar Hashemi Rafsanjani, warned the U.S. Not to
 intervene in the Gulf, a day after Washington said its warships
 were available to escort Kuwaiti tankers through the waterway.

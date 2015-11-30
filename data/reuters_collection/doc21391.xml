@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">RM 
-f1272reute
-u f BC-TURKEY-CURRENT-ACCOUN   10-19 0102</field>
-	<field name = "TITLE">TURKEY CURRENT ACCOUNT DEFICIT WIDENS IN JULY</field>
+	<field name = "titulo">TURKEY CURRENT ACCOUNT DEFICIT WIDENS IN JULY</field>
 	<field name = "DATELINE">ANKARA, Oct 19 -</field>
-	<field name = "BODY">Turkey's current account deficit widened
+	<field name = "content">Turkey's current account deficit widened
 in July to 674 mln dlrs from 454 mln in June but fell from 1.22
 billion in July last year, the State Statistics Institute said.
     The cumulative trade position in July showed a 1.85 billion

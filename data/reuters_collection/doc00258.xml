@@ -2,13 +2,9 @@
 	<field name = "DATE">1-MAR-1987 22:12:53.59</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">T C
-f0510
-reute
-u f BC-INDONESIAN-SUGAR-OUTP   03-01 0102</field>
-	<field name = "TITLE">INDONESIAN SUGAR OUTPUT SEEN SHORT OF TARGET</field>
+	<field name = "titulo">INDONESIAN SUGAR OUTPUT SEEN SHORT OF TARGET</field>
 	<field name = "DATELINE">JAKARTA, March 2 -</field>
-	<field name = "BODY">Indonesia's raw sugar output is likely
+	<field name = "content">Indonesia's raw sugar output is likely
 to be 1.8 mln tonnes in calendar 1987, unchanged from 1986 and
 below the government's 1987 forecast of 2.5 mln, the U.S.
 Embassy said in its agricultural outlook for 1987.

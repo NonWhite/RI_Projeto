@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:21:33.40</field>
-	<field name = "UNKNOWN">RM F A Y
-f0488
-reute
-b f BC-STANDARD-OIL-SRD>-TO   03-02 0100</field>
-	<field name = "TITLE">STANDARD OIL SRD> TO ISSUE SWISS FRANC NOTE</field>
+	<field name = "titulo">STANDARD OIL SRD> TO ISSUE SWISS FRANC NOTE</field>
 	<field name = "DATELINE">CLEVELAND, Ohio, March 2 -</field>
-	<field name = "BODY">Standard Oil Co said it will
+	<field name = "content">Standard Oil Co said it will
 issue at par 154 mln Swiss francs of non-callable 10-year notes
 with an annual coupon of 3-1/4 pct and detachable currency
 warrants.

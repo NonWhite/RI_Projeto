@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 17:43:16.08</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f9671reute
-u f BC-TELEGLOBE-CANADA-IN-M   03-18 0087</field>
-	<field name = "TITLE">TELEGLOBE CANADA IN FIBRE OPTICS PROJECT</field>
+	<field name = "titulo">TELEGLOBE CANADA IN FIBRE OPTICS PROJECT</field>
 	<field name = "DATELINE">MONTREAL, March 18 -</field>
-	<field name = "BODY">Teleglobe Canada, owned by Memotec
+	<field name = "content">Teleglobe Canada, owned by Memotec
 Data Inc> said it agreed to participate in a fibre optics
 project in the Atlantic and Mediterranean.
     Teleglobe said its estimated cost in the project is 78.2

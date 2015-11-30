@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 11:53:18.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2607reute
-d f BC-MOLECULON-MBIO>-SEES   03-16 0096</field>
-	<field name = "TITLE">MOLECULON MBIO> SEES NEW WAY TO KICK THE HABIT</field>
+	<field name = "titulo">MOLECULON MBIO> SEES NEW WAY TO KICK THE HABIT</field>
 	<field name = "DATELINE">CAMBRIDGE, Mass., March 16 -</field>
-	<field name = "BODY">Moleculon Inc said it
+	<field name = "content">Moleculon Inc said it
 successfully completed initial tests in animals of its
 Poroplastic transdermal nicotine delivery system to help
 smokers break the habit.

@@ -3,13 +3,10 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0149reute
-u f BC-SUMITOMO-BANK-AIMS-AT   04-08 0098</field>
-	<field name = "TITLE">SUMITOMO BANK AIMS AT QUICK RECOVERY FROM MERGER</field>
+	<field name = "titulo">SUMITOMO BANK AIMS AT QUICK RECOVERY FROM MERGER</field>
 	<field name = "AUTHOR">By Linda Sieg, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">Sumitomo Bank Ltd SUMI.T> is certain to
+	<field name = "content">Sumitomo Bank Ltd SUMI.T> is certain to
 lose its status as Japan's most profitable bank as a result of
 its merger with the Heiwa Sogo Bank, financial analysts said.
     Osaka-based Sumitomo, with desposits of around 23.9

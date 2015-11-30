@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 12:24:35.97</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1558reute
-u f BC-/MORE-U.S.-GRAIN-CERT   04-07 0115</field>
-	<field name = "TITLE">MORE U.S. GRAIN CERTIFICATES NEEDED, STUDY SAYS</field>
+	<field name = "titulo">MORE U.S. GRAIN CERTIFICATES NEEDED, STUDY SAYS</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">More generic grain certificates
+	<field name = "content">More generic grain certificates
 should be released onto the market in order for the U.S.
 certificate program to have its full effect on commodities,
 according to a study by Sparks Commodities Inc.

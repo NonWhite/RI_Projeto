@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">C G
-f0558reute
-u f BC-australia-wheat-est   03-09 0075</field>
-	<field name = "TITLE">USDA ESTIMATES AUSTRALIA WHEAT CROP</field>
+	<field name = "titulo">USDA ESTIMATES AUSTRALIA WHEAT CROP</field>
 	<field name = "DATELINE">WASHINGTON, March 9  -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 forecast Australia's 1986/87 wheat crop at 17.30 mln tonnes, vs
 17.50 mln tonnes last month. It estimated 1985/86 output at
 16.13 mln tonnes, vs 16.13 mln last month.

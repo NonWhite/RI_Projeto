@@ -4,13 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">egypt</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">G C
-f0492
-reute
-u f BC-CANADA-EGYPT-WHEAT-NE   03-01 0088</field>
-	<field name = "TITLE">CANADA-EGYPT WHEAT NEGOTIATIONS TO CONTINUE</field>
+	<field name = "titulo">CANADA-EGYPT WHEAT NEGOTIATIONS TO CONTINUE</field>
 	<field name = "DATELINE">CAIRO, March 2 -</field>
-	<field name = "BODY">Canadian and Egyptian wheat negotiators
+	<field name = "content">Canadian and Egyptian wheat negotiators
 failed to conclude an agreement on Canadian wheat exports to
 Egypt during talks last week, but the Canadian team will return
 to Cairo for further negotiations, Canadian embassy officials

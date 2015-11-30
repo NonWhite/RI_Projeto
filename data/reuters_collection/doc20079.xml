@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">RM V 
-f0573reute
-b f BC-LOUVRE-ACCORD-VITAL-T   10-20 0072</field>
-	<field name = "TITLE">LOUVRE ACCORD VITAL TO W.GERMANY - STOLTENBERG</field>
+	<field name = "titulo">LOUVRE ACCORD VITAL TO W.GERMANY - STOLTENBERG</field>
 	<field name = "DATELINE">BONN, Oct 20 -</field>
-	<field name = "BODY">West German Finance Minister Gerhard
+	<field name = "content">West German Finance Minister Gerhard
 Stoltenberg said the Louvre accord was vital to West Germany.
     Stoltenberg told a news conference "Given West Germany's
 unusually high dependence on world trade and exports, it is

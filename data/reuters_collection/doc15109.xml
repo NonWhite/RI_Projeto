@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">tse</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">F
-f1557reute
-d f BC-REUTERS-CHAIRMAN-URGE   04-08 0094</field>
-	<field name = "TITLE">REUTERS CHAIRMAN URGES FREER INFORMATION FLOWS</field>
+	<field name = "titulo">REUTERS CHAIRMAN URGES FREER INFORMATION FLOWS</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">Exchanges and telecommunications
+	<field name = "content">Exchanges and telecommunications
 authorities should abolish their restrictions on full and free
 dissemination of information to the investment and banking
 communities, Reuters Holdings Plc RTRS.L> chairman Sir

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 09:48:36.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0943reute
-d f BC-EAC-INDUSTRIES-EAC>   04-03 0075</field>
-	<field name = "TITLE">EAC INDUSTRIES EAC> ENTERS NEW LOAN AGREEMENT</field>
+	<field name = "titulo">EAC INDUSTRIES EAC> ENTERS NEW LOAN AGREEMENT</field>
 	<field name = "DATELINE">CHICAGO, April 3 -</field>
-	<field name = "BODY">EAC Industries Inc said it entered a new
+	<field name = "content">EAC Industries Inc said it entered a new
 loan and security agreement with its banks, raising sufficient
 funds to completely retire its existing bank debt.
     It said the loan agreement provides for up to 30 mln dlrs

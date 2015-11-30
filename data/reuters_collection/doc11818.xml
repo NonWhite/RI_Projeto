@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 05:26:44.13</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0351reute
-u f BC-NATIONWIDE-ISSUING-IN   04-01 0100</field>
-	<field name = "TITLE">NATIONWIDE ISSUING INDEX-LINKED LOAN STOCK</field>
+	<field name = "titulo">NATIONWIDE ISSUING INDEX-LINKED LOAN STOCK</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">Nationwide Building Society said it is
+	<field name = "content">Nationwide Building Society said it is
 issuing 30 mln stg of index-linked loan stock due 2021 by way
 of a placing on a yield basis in the domestic sterling market.
     The issue's real rate of return, price and the amount of

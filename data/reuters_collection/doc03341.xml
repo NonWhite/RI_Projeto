@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 15:55:11.32</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0603reute
-r f BC-USX-X>-UNIT-RAISES-S   03-09 0074</field>
-	<field name = "TITLE">USX X> UNIT RAISES SOME CRUDE POSTINGS</field>
+	<field name = "titulo">USX X> UNIT RAISES SOME CRUDE POSTINGS</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Marathon Petroleum Company, a
+	<field name = "content">Marathon Petroleum Company, a
 subsidiary of USX Corp X>, said it raised the contract price
 it pays for three grades of crude oil, effective March 6.
     Illinois Sweet and Indiana Sweet are both being raised 50

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G
-f2577reute
-r f BC-LOUISIANA-WEEKLY-CROP   03-30 0084</field>
-	<field name = "TITLE">LOUISIANA WEEKLY CROP REPORT</field>
+	<field name = "titulo">LOUISIANA WEEKLY CROP REPORT</field>
 	<field name = "DATELINE">Alexandria, March 30 -</field>
-	<field name = "BODY">The Louisiana weekly USDA state crop
+	<field name = "content">The Louisiana weekly USDA state crop
 report said there were 2.4 days suitable for fieldwork.
     Soil moisture supplies rated 41 pct adequate and 59 pct
 surplus.

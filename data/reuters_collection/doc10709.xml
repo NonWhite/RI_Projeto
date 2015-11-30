@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 04:05:58.92</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0252reute
-b f BC-BANK-OF-ENGLAND-FOREC   03-30 0104</field>
-	<field name = "TITLE">BANK OF ENGLAND FORECASTS SURPLUS IN MONEY MARKET</field>
+	<field name = "titulo">BANK OF ENGLAND FORECASTS SURPLUS IN MONEY MARKET</field>
 	<field name = "DATELINE">LONDON, March 30 -</field>
-	<field name = "BODY">The Bank of England said it forecast a
+	<field name = "content">The Bank of England said it forecast a
 liquidity surplus of around 100 mln stg in the money market
 today.
     Among the main factors affecting liquidity, exchequer

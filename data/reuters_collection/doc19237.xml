@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">C G T M 
-f1365reute
-r f BC-RHINE-BLOCKED-FOR-THR   06-19 0096</field>
-	<field name = "TITLE">RHINE BLOCKED FOR THREE MORE WEEKS - SALVAGER</field>
+	<field name = "titulo">RHINE BLOCKED FOR THREE MORE WEEKS - SALVAGER</field>
 	<field name = "DATELINE">ROTTERDAM, June 19 -</field>
-	<field name = "BODY">Dutch salvage firm Smit-Tak said it
+	<field name = "content">Dutch salvage firm Smit-Tak said it
 may take some three weeks to lift the Swiss tug Orinoko and its
 lighter Pavo which sank 10 days ago at Karlsruhe in West
 Germany, blocking the Rhine river.

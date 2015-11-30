@@ -3,12 +3,9 @@
 	<field name = "TOPICS">orange</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C T
-f2408reute
-b f BC-/U.S.-AGENCY-RULES-AG   04-13 0057</field>
-	<field name = "TITLE">U.S. AGENCY RULES AGAINST BRAZIL ORANGE JUICE</field>
+	<field name = "titulo">U.S. AGENCY RULES AGAINST BRAZIL ORANGE JUICE</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">The U.S. International Trade
+	<field name = "content">The U.S. International Trade
 Commission, ITC, voted to authorize the Commerce Department to
 impose anti-dumping duties on imports of Brazilian frozen
 concentrated orange juice.

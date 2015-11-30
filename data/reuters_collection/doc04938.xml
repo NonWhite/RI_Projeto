@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">C G
-f0952reute
-u f BC-/USSR-HEAVY-BUYERS-OF   03-13 0143</field>
-	<field name = "TITLE">USSR HEAVY BUYERS OF YUGOSLAV CORN-U.S. REPORT</field>
+	<field name = "titulo">USSR HEAVY BUYERS OF YUGOSLAV CORN-U.S. REPORT</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">The Soviet Union has been a heavy
+	<field name = "content">The Soviet Union has been a heavy
 buyer of Yugoslav corn since October, purchasing close to 1.5
 mln tonnes in the 1986/87 marketing year, according to a report
 from the U.S. agriculture counselor in Belgrade.

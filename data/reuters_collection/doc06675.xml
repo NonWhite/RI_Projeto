@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 13:41:28.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f8928reute
-r f BC-RYDER-SYSTEM-RDR>-SE   03-18 0106</field>
-	<field name = "TITLE">RYDER SYSTEM RDR> SELLS NOTES AND BONDS</field>
+	<field name = "titulo">RYDER SYSTEM RDR> SELLS NOTES AND BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">Ryder System Inc is raising 175 mln
+	<field name = "content">Ryder System Inc is raising 175 mln
 dlrs through offerings of notes and bonds, said lead manager
 Salomon Brothers Inc.
     A 75 mln dlr issue of notes due 1994 was given a 7-3/4 pct

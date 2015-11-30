@@ -14,13 +14,10 @@
 	<field name = "PEOPLE">stoltenberg</field>
 	<field name = "PEOPLE">volcker</field>
 	<field name = "PEOPLE">wilson</field>
-	<field name = "UNKNOWN">RM
-f0975reute
-r f BC-U.S.-SAID-TO-VIEW-G-7   04-09 0118</field>
-	<field name = "TITLE">U.S. SAID TO VIEW G-7 MEETING AS MAJOR SUCCESS</field>
+	<field name = "titulo">U.S. SAID TO VIEW G-7 MEETING AS MAJOR SUCCESS</field>
 	<field name = "AUTHOR">By Peter Torday, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, April 9  -</field>
-	<field name = "BODY">The United States, which has long
+	<field name = "content">The United States, which has long
 sought Japanese action to stimulate its economy, appears to be
 satisfied Tokyo's latest package is a major development and
 allows leading industrial nations to reaffirm their agreement

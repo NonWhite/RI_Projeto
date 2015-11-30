@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 09:07:01.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V 
-f0920reute
-u f BC-/WHITE-HOUSE-TAKES-WA   10-20 0103</field>
-	<field name = "TITLE">WHITE HOUSE TAKES WAIT-AND-SEE STANCE ON STOCKS</field>
+	<field name = "titulo">WHITE HOUSE TAKES WAIT-AND-SEE STANCE ON STOCKS</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">The White House took a wait-and-see
+	<field name = "content">The White House took a wait-and-see
 attitude toward the stock market crisis, barring "precipitous
 action" to deal with it.
     Referring to news reports, White House spokesman Marlin

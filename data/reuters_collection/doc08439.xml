@@ -4,13 +4,10 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">Y
-f2023reute
-u f AM-GULF-IRAQ 1STLD  03-23 0086</field>
-	<field name = "TITLE">IRAQ REPORTS ATTACKS ON SUPERTANKER, OIL TARGETS</field>
+	<field name = "titulo">IRAQ REPORTS ATTACKS ON SUPERTANKER, OIL TARGETS</field>
 	<field name = "AUTHOR">By MAAMOUN YOUSSEF, Reuters</field>
 	<field name = "DATELINE">BAGHDAD, March 23 -</field>
-	<field name = "BODY">Iraq said today its warplnes had
+	<field name = "content">Iraq said today its warplnes had
 attacked a supertanker and four Iranian oil sites and vowed to
 keep up such raids until the Gulf war ends.
     The surprise escalation of attacks on oil installations

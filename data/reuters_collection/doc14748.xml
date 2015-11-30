@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 18:34:36.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2648reute
-r f AM-budget   04-07 0102</field>
-	<field name = "TITLE">TEXAS MAY CONSIDER INCOME TAX TO SOLVE BUDGET WOES</field>
+	<field name = "titulo">TEXAS MAY CONSIDER INCOME TAX TO SOLVE BUDGET WOES</field>
 	<field name = "AUTHOR">By Peter Elsworth, Reuters</field>
 	<field name = "DATELINE">DALLAS, April 7 -</field>
-	<field name = "BODY">The State of Texas, faced with a record
+	<field name = "content">The State of Texas, faced with a record
 5.8 billion dlr budget deficit over the next two years, may
 have to consider introducing income tax,economic analysts said.
      Such a possibility was unthinkable a few years back when

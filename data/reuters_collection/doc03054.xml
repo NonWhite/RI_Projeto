@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 09:43:17.71</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0089reute
-r f BC-BRITISH-CALEDONIAN-SE   03-09 0066</field>
-	<field name = "TITLE">BRITISH CALEDONIAN SEEKS SAN DIEGO SERVICE</field>
+	<field name = "titulo">BRITISH CALEDONIAN SEEKS SAN DIEGO SERVICE</field>
 	<field name = "DATELINE">SAN DIEGO, March 9 -</field>
-	<field name = "BODY">British Caledonian Airways said it has
+	<field name = "content">British Caledonian Airways said it has
 filed an application with the British Civil Aviation Authority
 for a license to operate between San Diego's Lindbergh Field
 and London's Gatwick Airport.

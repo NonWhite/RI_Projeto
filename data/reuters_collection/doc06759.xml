@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">Y
-f9251reute
-u f BC-mexican-hydrocarbon-r   03-18 0103</field>
-	<field name = "TITLE">MEXICAN HYDROCARBON RESERVES FALL SLIGHTLY IN 1986</field>
+	<field name = "titulo">MEXICAN HYDROCARBON RESERVES FALL SLIGHTLY IN 1986</field>
 	<field name = "DATELINE">Mexico city, march 18 -</field>
-	<field name = "BODY">mexico's proven reserves of liquid
+	<field name = "content">mexico's proven reserves of liquid
 hydrocarbons at end-1986 were 70 billion barrels, slightly down
 from 70.9 billion a year ago and 71.75 billion in 1984, the
 state oil company petroleos mexicanos (pemex) announced.

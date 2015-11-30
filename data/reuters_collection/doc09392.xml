@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">C T
-f1457reute
-u f BC-THAI-SUGAR-PRODUCTION   03-25 0111</field>
-	<field name = "TITLE">THAI SUGAR PRODUCTION CONTINUES HIGH IN FEB</field>
+	<field name = "titulo">THAI SUGAR PRODUCTION CONTINUES HIGH IN FEB</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">Thai sugar production continued at a
+	<field name = "content">Thai sugar production continued at a
 high level in February, latest figures received by the
 International Sugar Organization (ISO) show.
     The figures show stocks at end-February of 2.49 mln tonnes

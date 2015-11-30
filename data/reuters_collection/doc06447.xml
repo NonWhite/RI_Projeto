@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 09:17:31.23</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f7795reute
-u f BC-FRENCH-FINANCE-GROUP   03-18 0107</field>
-	<field name = "TITLE">FRENCH FINANCE GROUP SDR ISSUES DOMESTIC BOND</field>
+	<field name = "titulo">FRENCH FINANCE GROUP SDR ISSUES DOMESTIC BOND</field>
 	<field name = "DATELINE">PARIS, March 18 -</field>
-	<field name = "BODY">French regional financing group Societes
+	<field name = "content">French regional financing group Societes
 de Developpement Regional> is issuing a 1.41 billion franc
 domestic bond, Banque Nationale de Paris and Banque Indosuez>
 said.

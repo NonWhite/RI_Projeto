@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 09:41:46.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0948reute
-u f BC-WESTPORT-BANCORP-WBA   06-02 0077</field>
-	<field name = "TITLE">WESTPORT BANCORP WBAT.O> 100 PCT STOCK DIVIDEND</field>
+	<field name = "titulo">WESTPORT BANCORP WBAT.O> 100 PCT STOCK DIVIDEND</field>
 	<field name = "DATELINE">WESTPORT, Conn., June 2 -</field>
-	<field name = "BODY">Westport Bancorp Inc said it
+	<field name = "content">Westport Bancorp Inc said it
 declared a 100 pct stock dividend and increased the quarterly
 cash dividend.
     The company said the the stock dividend, to effect a

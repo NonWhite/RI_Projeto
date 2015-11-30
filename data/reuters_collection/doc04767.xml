@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 09:14:42.48</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0789reute
-b f BC-UK-MONEY-MARKET-DEFIC   03-13 0038</field>
-	<field name = "TITLE">UK MONEY MARKET DEFICIT REVISED TO ONE BILLION STG</field>
+	<field name = "titulo">UK MONEY MARKET DEFICIT REVISED TO ONE BILLION STG</field>
 	<field name = "DATELINE">LONDON, March 13 -</field>
-	<field name = "BODY">The Bank of England said it has revised
+	<field name = "content">The Bank of England said it has revised
 its estimate of today's shortfall to one billion stg, before
 taking account of 646 mln stg morning assistance.
  REUTER</field>

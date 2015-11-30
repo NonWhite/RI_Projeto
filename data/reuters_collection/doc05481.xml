@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:27:30.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2798reute
-b f BC-CONSUL-RESTAURANT-CN   03-16 0111</field>
-	<field name = "TITLE">CONSUL RESTAURANT CNSL> IN EXCHANGE OFFER</field>
+	<field name = "titulo">CONSUL RESTAURANT CNSL> IN EXCHANGE OFFER</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">Consul Restaurant Corp said it began
+	<field name = "content">Consul Restaurant Corp said it began
 an exchange offer for its 13 pct convertible debentures due
 1992 with an aggregate principal amount of 17.5 mln dlrs.
     Consul officials told an analysts meeting that in return

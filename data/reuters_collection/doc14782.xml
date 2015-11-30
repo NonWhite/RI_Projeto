@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 21:29:59.63</field>
 	<field name = "TOPICS">rubber</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">T C
-f2724reute
-u f BC-JAPAN-RUBBER-STOCKS-F   04-07 0080</field>
-	<field name = "TITLE">JAPAN RUBBER STOCKS FALL IN MARCH</field>
+	<field name = "titulo">JAPAN RUBBER STOCKS FALL IN MARCH</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">Japan's rubber stocks fell to 44,980
+	<field name = "content">Japan's rubber stocks fell to 44,980
 tonnes in March from 46,198 in February and from 53,784 in
 March 1986, the Japan Rubber Trade Association said.
     The stocks (in tonnes), with February and year-earlier

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 10:52:07.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0398reute
-r f BC-TIMEPLEX-INC-TIX>-CO   03-09 0086</field>
-	<field name = "TITLE">TIMEPLEX INC TIX> COMPLETES REDEMPTION</field>
+	<field name = "titulo">TIMEPLEX INC TIX> COMPLETES REDEMPTION</field>
 	<field name = "DATELINE">WOODCLIFF LAKE, N.J., March 9 -</field>
-	<field name = "BODY">Timeplex Inc said it
+	<field name = "content">Timeplex Inc said it
 completed its previously-announced redemption of its 7-3/4 pct
 convertible subordinated debentures due 2008.
     The company said there had been 35 mln dlrs total principal

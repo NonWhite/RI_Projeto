@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 10:40:34.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM 
-f1323reute
-r f BC-CALFED-CAL>-POSTS-RE   10-19 0100</field>
-	<field name = "TITLE">CALFED CAL> POSTS RECORD THIRD QUARTER RESULTS</field>
+	<field name = "titulo">CALFED CAL> POSTS RECORD THIRD QUARTER RESULTS</field>
 	<field name = "DATELINE">LOS ANGELES, Oct 19 -</field>
-	<field name = "BODY">CalFed Inc said strong loan volume
+	<field name = "content">CalFed Inc said strong loan volume
 and higher net increase income at its principal subsidiary,
 the California Federal Savings and Loan Association,
 contributed to the best third-quarter and nine-month results in

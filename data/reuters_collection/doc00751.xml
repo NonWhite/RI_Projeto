@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:05:07.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0982
-reute
-u f BC-UNITED-MERCHANTS-UMM   03-02 0091</field>
-	<field name = "TITLE">UNITED MERCHANTS UMM> TO BUY ITS OWN STOCK</field>
+	<field name = "titulo">UNITED MERCHANTS UMM> TO BUY ITS OWN STOCK</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">United Merchants and Manufactuerers Inc
+	<field name = "content">United Merchants and Manufactuerers Inc
 said its board has authorized the repurchase of up to one mln
 shares of the company's common stock.
     The company now has about 9.1 mln shares outstanding.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 13:43:02.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6035reute
-s f BC-FIRST-OF-MICHIGAN-CAP   03-17 0024</field>
-	<field name = "TITLE">FIRST OF MICHIGAN CAPITAL CORP FMG> DIVIDEND</field>
+	<field name = "titulo">FIRST OF MICHIGAN CAPITAL CORP FMG> DIVIDEND</field>
 	<field name = "DATELINE">DETROIT, March 17 -</field>
-	<field name = "BODY">Qtly div 10 cts vs 10 cts previously
+	<field name = "content">Qtly div 10 cts vs 10 cts previously
     Pay April 14
     Record March 31
  Reuter</field>

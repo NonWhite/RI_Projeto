@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 12:39:45.64</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f0691reute
-d f BC-GALAXY-CABLEVISION-G   03-13 0062</field>
-	<field name = "TITLE">GALAXY CABLEVISION GTV> BEGINS AMEX TRADING</field>
+	<field name = "titulo">GALAXY CABLEVISION GTV> BEGINS AMEX TRADING</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">The American Stock Exchange said
+	<field name = "content">The American Stock Exchange said
 2,150,000 limited partnership units of newly formed Galaxy
 Cablevision LP began trading today.
     It said the partnership, based in Sikeston, Mo., will buy

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 12:54:00.85</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2073reute
-r f BC-ACME-ELECTRIC-CORP-A   10-19 0058</field>
-	<field name = "TITLE">ACME ELECTRIC CORP ACE> 1ST QTR OCT TWO</field>
+	<field name = "titulo">ACME ELECTRIC CORP ACE> 1ST QTR OCT TWO</field>
 	<field name = "DATELINE">OELAN, N.Y., Oct 19 -</field>
-	<field name = "BODY">Shr 17 cts vs four cts
+	<field name = "content">Shr 17 cts vs four cts
     Qtly div eight cts vs eight cts
     Net 739,000 vs 157,000
     Revs 21.1 mln vs 14.5 mln

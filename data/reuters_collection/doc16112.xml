@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 01:48:48.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0063reute
-u f BC-U.S.-AUTO-UNION-WILL   04-13 0101</field>
-	<field name = "TITLE">U.S. AUTO UNION WILL FIGHT TO STOP JOB/WAGE CUTS</field>
+	<field name = "titulo">U.S. AUTO UNION WILL FIGHT TO STOP JOB/WAGE CUTS</field>
 	<field name = "DATELINE">CHICAGO, April 12 -</field>
-	<field name = "BODY">The United Auto Workers union (UAW)
+	<field name = "content">The United Auto Workers union (UAW)
 vowed to fight wage and job cuts in a round of labour talks
 starting in July that cover nearly 500,000 workers at General
 Motors Corp GM> and Ford Motor Co F>.

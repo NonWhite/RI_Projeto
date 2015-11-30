@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 16:05:10.92</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2378reute
-u f BC-/MOBIL-MOB>-RAISES-W   04-01 0088</field>
-	<field name = "TITLE">MOBIL MOB> RAISES WEST COAST CRUDE POSTINGS</field>
+	<field name = "titulo">MOBIL MOB> RAISES WEST COAST CRUDE POSTINGS</field>
 	<field name = "DATELINE">New York, April 1 -</field>
-	<field name = "BODY">Mobil Corp said it raised its west
+	<field name = "content">Mobil Corp said it raised its west
 coast crude postings, effective today.
     The Buena Vista light grade, at 26 degrees api gravity, was
 raised 1.35 dlrs a barrel to 15.55 dlrs/bbl, while the

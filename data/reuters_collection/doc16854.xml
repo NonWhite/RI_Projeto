@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 11:34:27.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0284reute
-u f BC-SHARON-STEEL-SSH>-FI   04-17 0101</field>
-	<field name = "TITLE">SHARON STEEL SSH> FILES CHAPTER 11 BANKRUPTCY</field>
+	<field name = "titulo">SHARON STEEL SSH> FILES CHAPTER 11 BANKRUPTCY</field>
 	<field name = "DATELINE">MIAMI, April 17 -</field>
-	<field name = "BODY">Sharon Steel Corp said it has filed a
+	<field name = "content">Sharon Steel Corp said it has filed a
 voluntary petition for relief under Chapter 11 of federal
 bankruptcy laws.
     The company, which has been losing money and experiencing

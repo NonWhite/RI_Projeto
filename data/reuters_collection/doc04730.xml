@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 08:15:16.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0631reute
-r f BC-ROM-AMER-RMA>-IN-RES   03-13 0068</field>
-	<field name = "TITLE">ROM-AMER RMA> IN RESORT JOINT VENTURE</field>
+	<field name = "titulo">ROM-AMER RMA> IN RESORT JOINT VENTURE</field>
 	<field name = "DATELINE">LAS VEGAS, March 13 -</field>
-	<field name = "BODY">Rom-Amer Pharmaceuticals Ltd said it
+	<field name = "content">Rom-Amer Pharmaceuticals Ltd said it
 has entered into a preliminary agreement with Huck's Landings
 Nevada Inc to jointly develop a Las Vegas resort.
     The company said the agreement is contingent on

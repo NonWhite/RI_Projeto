@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 18:26:30.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2771reute
-r f BC-APACHE-APA>-FILES-FO   03-24 0089</field>
-	<field name = "TITLE">APACHE APA> FILES FOR 100 MLN DLR OFFERING</field>
+	<field name = "titulo">APACHE APA> FILES FOR 100 MLN DLR OFFERING</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 24 -</field>
-	<field name = "BODY">Apache Corp said it filed with the
+	<field name = "content">Apache Corp said it filed with the
 Securities Exchange Commission a 100 mln dlr convertible
 subordinated debenture offering.
     It said the offering will be underwritten by Smith Barney,

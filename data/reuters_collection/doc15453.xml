@@ -4,13 +4,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">A
-f0600reute
-u f BC-YEN-SEEN-RISING-AFTER   04-09 0088</field>
-	<field name = "TITLE">YEN SEEN RISING AFTER G-7 COMMUNIQUE</field>
+	<field name = "titulo">YEN SEEN RISING AFTER G-7 COMMUNIQUE</field>
 	<field name = "AUTHOR">By Jeremy Solomons, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">The yen is likely to start another
+	<field name = "content">The yen is likely to start another
 uneven rise against the dollar and other major currencies
 because the Group of Seven communique contained nothing new,
 currency and bond analysts here said.

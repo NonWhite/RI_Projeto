@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 11:11:47.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1315reute
-d f BC-IONE-COMPLETES-INITIA   03-24 0070</field>
-	<field name = "TITLE">IONE COMPLETES INITIAL PUBLIC OFFERING</field>
+	<field name = "titulo">IONE COMPLETES INITIAL PUBLIC OFFERING</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 24 -</field>
-	<field name = "BODY">Ione Inc>, which buys, sells and
+	<field name = "content">Ione Inc>, which buys, sells and
 manages retail gift, sundries and smokeshops located in hotels,
 said it successfully completed a 1.8 mln share common stock
 initial public offering at 25 cts a share.

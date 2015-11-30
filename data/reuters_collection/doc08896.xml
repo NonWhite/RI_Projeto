@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 13:14:06.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1873reute
-h f BC-HOME-INTENSIVE-KDNY>   03-24 0037</field>
-	<field name = "TITLE">HOME INTENSIVE KDNY> OPENS TWO DIALYSIS UNITS</field>
+	<field name = "titulo">HOME INTENSIVE KDNY> OPENS TWO DIALYSIS UNITS</field>
 	<field name = "DATELINE">NORTH MIAMI BEACH, Fla., March 24 -</field>
-	<field name = "BODY">Home Intensive Care Inc
+	<field name = "content">Home Intensive Care Inc
 said it operned two more Dialysis at Home offices, bringing to
 11 the total number of such offices nationwide.
  Reuter</field>

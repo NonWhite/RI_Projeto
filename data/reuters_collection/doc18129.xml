@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">greenspan</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">V RM
-f1807reute
-b f BC-/U.S.-SPEAKER-FEARS-H   06-02 0105</field>
-	<field name = "TITLE">U.S. SPEAKER FEARS HIGHER RATES UNDER GREENSPAN</field>
+	<field name = "titulo">U.S. SPEAKER FEARS HIGHER RATES UNDER GREENSPAN</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">U.S. House Speaker Jim Wright said he
+	<field name = "content">U.S. House Speaker Jim Wright said he
 was concerned that the appointment of Alan Greenspan to succeed
 Paul Volcker at the Federal Reserve Board would mean interest
 rates would rise.

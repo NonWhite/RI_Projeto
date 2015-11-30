@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 03:57:50.44</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0252reute
-b f BC-BANK-OF-JAPAN-TO-SELL   03-31 0091</field>
-	<field name = "TITLE">BANK OF JAPAN TO SELL 800 BILLION YEN IN BILLS</field>
+	<field name = "titulo">BANK OF JAPAN TO SELL 800 BILLION YEN IN BILLS</field>
 	<field name = "DATELINE">TOKYO, March 31 -</field>
-	<field name = "BODY">The Bank of Japan will sell tomorrow a
+	<field name = "content">The Bank of Japan will sell tomorrow a
 total of 800 billion yen worth of financing bills from its
 holdings to help absorb a projected money market surplus of
 1,700 billion yen, money traders said.

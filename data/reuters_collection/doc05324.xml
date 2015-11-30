@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 09:31:58.43</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G T M
-f1989reute
-u f BC-THATCHER-PARTY-HAS-NI   03-16 0130</field>
-	<field name = "TITLE">THATCHER PARTY HAS NINE POINT POLL LEAD</field>
+	<field name = "titulo">THATCHER PARTY HAS NINE POINT POLL LEAD</field>
 	<field name = "DATELINE">LONDON, March 16 -</field>
-	<field name = "BODY">Britain's ruling Conservatives have a
+	<field name = "content">Britain's ruling Conservatives have a
 nine point lead over the main opposition Labour Party, their
 biggest in two years, according to an opinion poll published
 yesterday in the Sunday Times.

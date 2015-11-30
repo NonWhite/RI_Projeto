@@ -4,12 +4,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f0599reute
-u f BC-SEASONAL-STABILISATIO   04-02 0103</field>
-	<field name = "TITLE">SEASONAL STABILISATION SEEN FOR COFFEE PRICES</field>
+	<field name = "titulo">SEASONAL STABILISATION SEEN FOR COFFEE PRICES</field>
 	<field name = "DATELINE">HAMBURG, April 2 -</field>
-	<field name = "BODY">The onset of cooler weather in Brazil
+	<field name = "content">The onset of cooler weather in Brazil
 during the southern hemisphere winter is expected to have a
 stabilising effect on a weak coffee market, West German trade
 sources said.

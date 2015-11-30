@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 12:22:08.04</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1916reute
-d f BC-SYSTEM-SOFTWARE-SSAX   10-19 0050</field>
-	<field name = "TITLE">SYSTEM SOFTWARE SSAX.O> COMPLETES ACQUISITION</field>
+	<field name = "titulo">SYSTEM SOFTWARE SSAX.O> COMPLETES ACQUISITION</field>
 	<field name = "DATELINE">CHICAGO, Oct 19 -</field>
-	<field name = "BODY">System Software Associates Inc said it
+	<field name = "content">System Software Associates Inc said it
 completed its previously-announced acquisition of Admin EDP Pty
 Ltd for cash and a small amount of stock.
     Admin EDP, of Sydney, Australia, is a full-service software

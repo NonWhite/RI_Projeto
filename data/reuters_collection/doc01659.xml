@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gas</field>
 	<field name = "TOPICS">fuel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0270reute
-r f BC-TEXAS-EASTERN-TET>-B   03-04 0068</field>
-	<field name = "TITLE">TEXAS EASTERN TET> BUYS PETROLEUM TERMINAL</field>
+	<field name = "titulo">TEXAS EASTERN TET> BUYS PETROLEUM TERMINAL</field>
 	<field name = "DATELINE">HOUSTON, March 4 -</field>
-	<field name = "BODY">Texas Eastern Corp said it has completed
+	<field name = "content">Texas Eastern Corp said it has completed
 the purchase of an idle petroleum products terminal near Norris
 City, Ill., from Growmark Inc> for undisclosed terms and will
 reopen it in September after remodeling.

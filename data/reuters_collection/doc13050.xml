@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 14:02:56.83</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM F
-f1899reute
-u f BC-BP-CREDIT-FACILITY-SU   04-03 0115</field>
-	<field name = "TITLE">BP CREDIT FACILITY SUBSTANTIALLY OVERSUBSCRIBED</field>
+	<field name = "titulo">BP CREDIT FACILITY SUBSTANTIALLY OVERSUBSCRIBED</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">A five billion dlr credit facility being
+	<field name = "content">A five billion dlr credit facility being
 arranged for two units of British Petroleum Co Plc BP.L>
 attracted over 15 billion dlrs in syndication but will not be
 increased, Morgan Guaranty Ltd said on behalf of Morgan

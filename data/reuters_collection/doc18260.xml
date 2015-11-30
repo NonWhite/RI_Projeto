@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 15:39:52.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2488reute
-r f BC-S/P-MAY-UPGRADE-COMPU   06-02 0111</field>
-	<field name = "TITLE">S/P MAY UPGRADE COMPUTER ASSOC CA>, UCCEL UCE></field>
+	<field name = "titulo">S/P MAY UPGRADE COMPUTER ASSOC CA>, UCCEL UCE></field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it may
+	<field name = "content">Standard and Poor's Corp said it may
 upgrade 100 mln dlrs of B-plus subordinated debt of Computer
 Associates International Inc and 13 mln dlrs of B-minus
 subordinated debt of UCCEL Corp.

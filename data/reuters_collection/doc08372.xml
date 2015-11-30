@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 12:22:53.92</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f1622reute
-u f BC-******CHARTER-FEDERAL   03-23 0086</field>
-	<field name = "TITLE">CHARTER FEDERAL CHFD>, JEFFERSON TO MERGE</field>
+	<field name = "titulo">CHARTER FEDERAL CHFD>, JEFFERSON TO MERGE</field>
 	<field name = "DATELINE">BRISTOL, Va, March 23 -</field>
-	<field name = "BODY">Charter Federal Savings and Loan
+	<field name = "content">Charter Federal Savings and Loan
 Association of Bristol, Va., said it has agreed to acquire
 Jefferson Savings and Loan Association of Warrenton, Va.
     Under terms of the transaction, which would result in a 1.3

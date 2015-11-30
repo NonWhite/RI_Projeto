@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 16:04:07.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2232reute
-r f BC-AMERICAN-EXPLORATION   04-03 0104</field>
-	<field name = "TITLE">AMERICAN EXPLORATION AXCO> RAISES 63 MLN DLRS</field>
+	<field name = "titulo">AMERICAN EXPLORATION AXCO> RAISES 63 MLN DLRS</field>
 	<field name = "DATELINE">HOUSTON, April 3 -</field>
-	<field name = "BODY">American Exploration Co said it raised 
+	<field name = "content">American Exploration Co said it raised 
 63 mln dlrs for its property acquisition program, and has spent
 all but 10 mln dlrs of that total on acquiring property.
     American Exploration said the 63 mln dlrs raised for its

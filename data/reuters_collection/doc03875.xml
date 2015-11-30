@@ -3,12 +3,9 @@
 	<field name = "PLACES">bulgaria</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0305reute
-u f BC-BULGARIA-SIGNS-40-BIL   03-11 0112</field>
-	<field name = "TITLE">BULGARIA SIGNS 40 BILLION EUROYEN LOAN</field>
+	<field name = "titulo">BULGARIA SIGNS 40 BILLION EUROYEN LOAN</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">The Bulgarian Foreign Trade Bank has
+	<field name = "content">The Bulgarian Foreign Trade Bank has
 signed with a group of Japanese banks a 40 billion Euroyen
 equivalent loan, which is the largest syndicated loan
 denominated in euroyen for a European borrower, Bank of Tokyo

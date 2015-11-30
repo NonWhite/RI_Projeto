@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:46:05.99V RM</field>
-	<field name = "UNKNOWN">f1406reute</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">b f BC-/-FED-ADDS-RESERVES-V   03-27 0060</field>
-	<field name = "TITLE">FED ADDS RESERVES VIA CUSTOMER REPURCHASES</field>
+	<field name = "titulo">FED ADDS RESERVES VIA CUSTOMER REPURCHASES</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">The Federal Reserve entered the U.S.
+	<field name = "content">The Federal Reserve entered the U.S.
 Government securities market to arrange one billion dlrs of
 customer repurchase agreements, a Fed spokesman said.
     Dealers said Federal funds were trading at 6-1/8 pct when

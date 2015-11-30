@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f9016reute
-u f BC-AMERICAN-EXPRESS-AXP   03-18 0113</field>
-	<field name = "TITLE">AMERICAN EXPRESS AXP> UP ON SHEARSON RUMORS</field>
+	<field name = "titulo">AMERICAN EXPRESS AXP> UP ON SHEARSON RUMORS</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">American Express Co climbed 2-1/2 to
+	<field name = "content">American Express Co climbed 2-1/2 to
 80-1/8 on rumors the company was about to announce an agreement
 to sell 10 pct of its Shearson Lehman Brothers unit to Nippon
 bLife Insurance of Japan, traders said.

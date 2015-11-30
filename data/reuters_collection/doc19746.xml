@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:49:44.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1793reute
-r f BC-BAXTER-BAX>-AND-GE-   06-29 0080</field>
-	<field name = "TITLE">BAXTER BAX> AND GE GE> DEVELOP VENDOR SYSTEM</field>
+	<field name = "titulo">BAXTER BAX> AND GE GE> DEVELOP VENDOR SYSTEM</field>
 	<field name = "DATELINE">DEERFIELD, Ill., June 29 -</field>
-	<field name = "BODY">Baxter Travenol Laboratories
+	<field name = "content">Baxter Travenol Laboratories
 Inc, General Electric Co unit GE Information Services and
 Premier Hospital Alliance> said they developed a computer
 purchasing system for the health care industry.

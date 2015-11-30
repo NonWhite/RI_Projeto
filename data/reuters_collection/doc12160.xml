@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">G
-f1946reute
-r f BC-LONDON-GRAIN-FREIGHT   04-01 0088</field>
-	<field name = "TITLE">LONDON GRAIN FREIGHT ENQUIRIES</field>
+	<field name = "titulo">LONDON GRAIN FREIGHT ENQUIRIES</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">Rio Grande/Azores and Leixoes 26,000 mt
+	<field name = "content">Rio Grande/Azores and Leixoes 26,000 mt
 hss 14 dlrs basis one to two 4,000/1,500 Azores and 3,500
 Leixoes 25/4-5/5.
     Paranagua/one-two ports Spanish Med 35,000 mt hss 11.50

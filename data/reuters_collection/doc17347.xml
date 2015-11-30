@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-APR-1987 11:10:56.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1439reute
-b f BC-/IBM-IBM>-SEES-INCRE   04-27 0098</field>
-	<field name = "TITLE">IBM IBM> SEES INCREASINGLY POSITIVE 1987</field>
+	<field name = "titulo">IBM IBM> SEES INCREASINGLY POSITIVE 1987</field>
 	<field name = "DATELINE">NEW ORLEANS, April 27 -</field>
-	<field name = "BODY">International Business Machines
+	<field name = "content">International Business Machines
 Corp expects its new products and cost-cutting measures to have
 an increasingly positive impact as 1987 proceeds, chairman John
 Akers told the annual meeting.

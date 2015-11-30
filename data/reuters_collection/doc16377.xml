@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:39:51.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1483reute
-r f BC-COMMAND-AIRWAYSCOMD.   04-13 0089</field>
-	<field name = "TITLE">COMMAND AIRWAYSCOMD.O> MARCH LOAD FACTOR RISES</field>
+	<field name = "titulo">COMMAND AIRWAYSCOMD.O> MARCH LOAD FACTOR RISES</field>
 	<field name = "DATELINE">WAPPINGERS FALLS, N.Y., April 13 -</field>
-	<field name = "BODY">Command Airways Inc said
+	<field name = "content">Command Airways Inc said
 its March load factor rose to 44.6 pct from 40.8 pct in March
 1986.
     Revenue passenger miles rose 43.2 pct in March to 4,573,200

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 16:38:47.77</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2476reute
-r f BC-PSE-INC-POW>-4TH-QTR   03-19 0045</field>
-	<field name = "TITLE">PSE INC POW> 4TH QTR</field>
+	<field name = "titulo">PSE INC POW> 4TH QTR</field>
 	<field name = "DATELINE">HOUSTON, March 19 -</field>
-	<field name = "BODY">Shr loss 18 cts vs profit 11 cts
+	<field name = "content">Shr loss 18 cts vs profit 11 cts
     Net loss 1.5 mln vs profit 868,000
     Revs 29.3 mln vs 41.1 mln
     Year

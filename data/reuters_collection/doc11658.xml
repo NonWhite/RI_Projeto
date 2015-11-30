@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 16:06:25.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2574reute
-u f AM-WARNER   03-31 0093</field>
-	<field name = "TITLE">THIRD OFFICIAL SENTENCED IN THRIFT COLLAPSE</field>
+	<field name = "titulo">THIRD OFFICIAL SENTENCED IN THRIFT COLLAPSE</field>
 	<field name = "DATELINE">CINCINNATI, March 31 -</field>
-	<field name = "BODY">A third former official of the Home
+	<field name = "content">A third former official of the Home
 State Savings Bank was ordered sent to prison for his part in
 the bank's 1985 collapse.
     Burton Bongard, 46, was sentenced to 15 years in prison,

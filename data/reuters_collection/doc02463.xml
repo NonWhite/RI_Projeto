@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:29:32.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0809reute
-d f BC-WESTINGHOUSE-ELECTRIC   03-05 0099</field>
-	<field name = "TITLE">WESTINGHOUSE ELECTRIC CORP WX> MOVING UNIT</field>
+	<field name = "titulo">WESTINGHOUSE ELECTRIC CORP WX> MOVING UNIT</field>
 	<field name = "DATELINE">PITTSBURGH, March 5 -</field>
-	<field name = "BODY">Westinghouse Electric Corp said it is
+	<field name = "content">Westinghouse Electric Corp said it is
 moving its Unimation operations from Danbury, Conn, to other
 existing Westinghouse facilities, affecting approximately 210
 employees.

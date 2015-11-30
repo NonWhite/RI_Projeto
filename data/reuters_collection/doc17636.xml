@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 12:29:47.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1674reute
-u f BC-INT'L-MINERALS-IGL>   06-01 0073</field>
-	<field name = "TITLE">INT'L MINERALS IGL> BIOTECH PRODUCT GETS NOD</field>
+	<field name = "titulo">INT'L MINERALS IGL> BIOTECH PRODUCT GETS NOD</field>
 	<field name = "DATELINE">NORTHBROOK, ILL., June 1 -</field>
-	<field name = "BODY">International Minerals and
+	<field name = "content">International Minerals and
 Chemical Corp said the U.S. Environmental Protection Agency
 granted permission to its subsidiary, IMCERA Bioproducts Inc,
 to make a genetically engineered microorganism for use as a

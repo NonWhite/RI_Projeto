@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 08:49:32.76</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0754reute
-u f BC-SOSNOFF-ENDS-PRATT-P   04-01 0108</field>
-	<field name = "TITLE">SOSNOFF ENDS PRATT PRAT>/SOUTHMARK SM> DEAL</field>
+	<field name = "titulo">SOSNOFF ENDS PRATT PRAT>/SOUTHMARK SM> DEAL</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Investor Martin T. Sosnoff said
+	<field name = "content">Investor Martin T. Sosnoff said
 Southmark Corp and affiliate Pratt Hotels Corp have ended talks
 with his MTS Acquisition Corp on a possible joint venture for
 the acquisition of Caesars World Inc.

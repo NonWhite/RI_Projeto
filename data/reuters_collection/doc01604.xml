@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 12:39:39.32</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0021reute
-r f BC-FEDERAL-EXPRESS-TENTA   03-04 0093</field>
-	<field name = "TITLE">FEDERAL EXPRESS TENTATIVELY GETS US/TOKYO ROUTE</field>
+	<field name = "titulo">FEDERAL EXPRESS TENTATIVELY GETS US/TOKYO ROUTE</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">The Department of Transportation said
+	<field name = "content">The Department of Transportation said
 that an administrative law judge had recommended that small
 package service between the United States and Tokyo be granted
 to Federal Express Corp FDX>.

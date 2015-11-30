@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 10:38:04.62</field>
 	<field name = "TOPICS">silver</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">C M
-f8101reute
-r f BC-STUDY-SHOWS-ONLY-LIMI   03-18 0112</field>
-	<field name = "TITLE">STUDY SHOWS ONLY LIMITED OPTIMISM FOR SILVER</field>
+	<field name = "titulo">STUDY SHOWS ONLY LIMITED OPTIMISM FOR SILVER</field>
 	<field name = "DATELINE">ZURICH, March 18 -</field>
-	<field name = "BODY">Silver looks "unlikely to break out of
+	<field name = "content">Silver looks "unlikely to break out of
 gold and platinum's shadow" in the near future, although this
 year is likely to see demand increasing at a faster rate than
 supply, a study by Credit Suisse said.

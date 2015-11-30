@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 07:29:42.07</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">A
-f0505reute
-h f BC-PHILIPPINES'-LIQUIDIT   03-19 0104</field>
-	<field name = "TITLE">PHILIPPINES' LIQUIDITY RISES, LOAN DEMAND FALLS</field>
+	<field name = "titulo">PHILIPPINES' LIQUIDITY RISES, LOAN DEMAND FALLS</field>
 	<field name = "DATELINE">MANILA, March 19 -</field>
-	<field name = "BODY">Liquidity in the Philippines rose in
+	<field name = "content">Liquidity in the Philippines rose in
 December while loan demand and short-term lending rates fell,
 the Central Bank said.
     A bank official said M-3 rose 9.72 pct to a provisional

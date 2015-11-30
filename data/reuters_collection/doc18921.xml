@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 14:37:00.41</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4271reute
-d f BC-TIE/COMMUNICATIONS-T   06-18 0063</field>
-	<field name = "TITLE">TIE/COMMUNICATIONS TIE> RENEWS AGREEMENTS</field>
+	<field name = "titulo">TIE/COMMUNICATIONS TIE> RENEWS AGREEMENTS</field>
 	<field name = "DATELINE">SHELTON, Conn., June 18 -</field>
-	<field name = "BODY">TIE/Communications Inc said it
+	<field name = "content">TIE/Communications Inc said it
 has renewed agreements to sell its GTE Corp GTE>, Bell
 Atlantic Corp BEL>, NYNEX Corp NYN> and US West Inc USW> for
 two years.

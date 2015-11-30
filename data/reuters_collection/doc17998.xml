@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 10:02:46.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1021reute
-b f BC-/U.S.-NON-FARM-PRODUC   06-02 0094</field>
-	<field name = "TITLE">U.S. NON-FARM PRODUCTIVITY ROSE 0.5 PCT IN QTR</field>
+	<field name = "titulo">U.S. NON-FARM PRODUCTIVITY ROSE 0.5 PCT IN QTR</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">Productivity in the non-farm business
+	<field name = "content">Productivity in the non-farm business
 sector increased at a revised seasonally adjusted annual rate
 of 0.5 pct in the January-March first quarter, the Labor
 Department said.

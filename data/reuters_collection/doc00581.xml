@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:54:03.77</field>
-	<field name = "UNKNOWN">A
-f0383
-reute
-h f BC-AIBD,-CEDEL,-EUROCLEA   03-02 0111</field>
-	<field name = "TITLE">AIBD, CEDEL, EUROCLEAR JOIN IN TRADE MATCH SYSTEM</field>
+	<field name = "titulo">AIBD, CEDEL, EUROCLEAR JOIN IN TRADE MATCH SYSTEM</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">The Association of International Bond
+	<field name = "content">The Association of International Bond
 Dealers, AIBD, said it will cooperate with major clearing
 agencies Cedel and Euroclear on a eurobond trade confirmation
 and matching system to come into force by September this year.

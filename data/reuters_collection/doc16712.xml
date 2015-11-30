@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 17:24:54.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2702reute
-u f BC-/TEXACO-TX>-LESS-WIL   04-13 0107</field>
-	<field name = "TITLE">TEXACO TX> LESS WILLING TO SETTLE - ANALYSTS</field>
+	<field name = "titulo">TEXACO TX> LESS WILLING TO SETTLE - ANALYSTS</field>
 	<field name = "AUTHOR">By SAMUEL FROMARTZ, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Texaco Inc told securities analysts at
+	<field name = "content">Texaco Inc told securities analysts at
 a meeting today that any settlement offers to Pennzoil Co PZL>
 would now be far less than what it offered before, according to
 analysts who attended the meeting.

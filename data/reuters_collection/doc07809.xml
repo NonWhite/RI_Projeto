@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 12:34:41.01</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1644reute
-b f BC-AFFILIATED-PUBLICATIO   03-20 0074</field>
-	<field name = "TITLE">AFFILIATED PUBLICATIONS AFP> TO BUY BILLBOARD</field>
+	<field name = "titulo">AFFILIATED PUBLICATIONS AFP> TO BUY BILLBOARD</field>
 	<field name = "DATELINE">BOSTON, March 20 -</field>
-	<field name = "BODY">Affiliated Publications Inc said it
+	<field name = "content">Affiliated Publications Inc said it
 agreed to acquire all the outstanding stock of Billboard
 Publications Inc> for 100 mln dlrs in cash from a shareholder
 group led by Boston Ventures Limited Partnership.>

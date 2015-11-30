@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 07:22:10.47</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">V
-f0558reute
-r f BC-ECUADOR-SEEKS-HALT-TO   03-12 0105</field>
-	<field name = "TITLE">ECUADOR SEEKS HALT TO PAYMENTS TO BANKS IN 1987</field>
+	<field name = "titulo">ECUADOR SEEKS HALT TO PAYMENTS TO BANKS IN 1987</field>
 	<field name = "DATELINE">QUITO, March 11 -</field>
-	<field name = "BODY">Ecuador, stricken by a severe earthquake,
+	<field name = "content">Ecuador, stricken by a severe earthquake,
 is seeking through negotiations with private foreign banks to
 postpone all payments due to them for the rest of the year,
 Finance Minister Domingo Cordovez said.

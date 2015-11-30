@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">luxembourg</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM 
-f0761reute
-u f BC-LUX-FRANC-BOND-MARKET   10-19 0107</field>
-	<field name = "TITLE">LUX FRANC BOND MARKET STALLED BY BELGIAN CRISIS</field>
+	<field name = "titulo">LUX FRANC BOND MARKET STALLED BY BELGIAN CRISIS</field>
 	<field name = "DATELINE">LUXEMBOURG, Oct 19 -</field>
-	<field name = "BODY">The thriving market in Luxembourg
+	<field name = "content">The thriving market in Luxembourg
 franc bond issues has been temporarily stalled by the Belgian
 government crisis which has put the franc under pressure and
 forced up interest rates, banking sources said.

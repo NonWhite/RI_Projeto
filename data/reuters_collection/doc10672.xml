@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-MAR-1987 23:31:23.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0212reute
-u f BC-U.S.-MACHINE-TOOL-ORD   03-29 0083</field>
-	<field name = "TITLE">U.S. MACHINE TOOL ORDERS FELL 1.1 PCT IN FEB</field>
+	<field name = "titulo">U.S. MACHINE TOOL ORDERS FELL 1.1 PCT IN FEB</field>
 	<field name = "DATELINE">WASHINGTON, March 29 -</field>
-	<field name = "BODY">U.S. machine tool orders fell 1.1
+	<field name = "content">U.S. machine tool orders fell 1.1
 pct in February to 145.1 mln dlrs from a revised 146.7 mln dlrs
 in January, the National Machine Tool Builders Association
 said.

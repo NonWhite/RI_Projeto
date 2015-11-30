@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:58:23.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1260reute
-u f BC-report-recommends-dis   04-08 0096</field>
-	<field name = "TITLE">REPORT SEEKS TO DISALLOW SOUTHERN SO> COSTS</field>
+	<field name = "titulo">REPORT SEEKS TO DISALLOW SOUTHERN SO> COSTS</field>
 	<field name = "DATELINE">ATALANTA, April 8 -</field>
-	<field name = "BODY">An audit submitted to the Georgia
+	<field name = "content">An audit submitted to the Georgia
 Public Service Commission claims that between 944 mln dlrs and
 1.8 billion dlrs of the costs of the Plant Vogtle nuclear power
 station should be disallowed, a Southern Co spokeswoman said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 10:54:53.06</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "PEOPLE">stich</field>
-	<field name = "UNKNOWN">RM 
-f1442reute
-u f BC-SWISS-PLAN-TO-USE-BUD   10-20 0095</field>
-	<field name = "TITLE">SWISS PLAN TO USE BUDGET SURPLUS TO REDEEM DEBT</field>
+	<field name = "titulo">SWISS PLAN TO USE BUDGET SURPLUS TO REDEEM DEBT</field>
 	<field name = "DATELINE">ZURICH, Oct 20 -</field>
-	<field name = "BODY">Switzerland will use most of its budget
+	<field name = "content">Switzerland will use most of its budget
 surplus projected for 1988 to redeem its debt, the Finance
 Ministry said.
     The government's plan calls for income to exceed

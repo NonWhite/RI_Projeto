@@ -2,12 +2,9 @@
 	<field name = "DATE">5-APR-1987 03:05:55.88</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">zambia</field>
-	<field name = "UNKNOWN">RM
-f0022reute
-r f BC-ZAMBIAN-CURRENCY-FALL   04-05 0085</field>
-	<field name = "TITLE">ZAMBIAN CURRENCY FALLS AT FOREIGN EXCHANGE AUCTION</field>
+	<field name = "titulo">ZAMBIAN CURRENCY FALLS AT FOREIGN EXCHANGE AUCTION</field>
 	<field name = "DATELINE">LUSAKA, April 5 -</field>
-	<field name = "BODY">The Zambian currency further depreciated
+	<field name = "content">The Zambian currency further depreciated
 yesterday at the second auction since the introduction of a
 two-tier foreign exchange system last month.
     The (central) Bank of Zambia said the kwacha was pegged at

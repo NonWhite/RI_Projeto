@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 05:51:54.69</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM AI 
-f0389reute
-u f BC-PHILIPPINES-TO-SIGN-F   06-29 0108</field>
-	<field name = "TITLE">PHILIPPINES TO SIGN FORMAL DEBT ACCORD IN JULY</field>
+	<field name = "titulo">PHILIPPINES TO SIGN FORMAL DEBT ACCORD IN JULY</field>
 	<field name = "DATELINE">MANILA, June 29 -</field>
-	<field name = "BODY">The Philippines and its foreign creditor
+	<field name = "content">The Philippines and its foreign creditor
 banks will sign formal documents in mid-July to restructure
 part of its debt, the Central Bank said.
     A spokesman told reporters the documents would formalise

@@ -2,13 +2,10 @@
 	<field name = "DATE">31-MAR-1987 07:06:42.67</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0576reute
-u f BC-CALL-MONEY-PRESSURE-F   03-31 0110</field>
-	<field name = "TITLE">CALL MONEY PRESSURE FROM LARGE GERMAN BANKS</field>
+	<field name = "titulo">CALL MONEY PRESSURE FROM LARGE GERMAN BANKS</field>
 	<field name = "AUTHOR">By Allan Saunderson, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 31 -</field>
-	<field name = "BODY">One or two large West German banks
+	<field name = "content">One or two large West German banks
 effectively drained the domestic money market of liquidity at
 the end of the month in order to achieve higher rates from
 their overnight deposits, money dealers said.

@@ -3,13 +3,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "TOPICS">silver</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0934
-reute
-r f BC-AMAX-AMX>-IN-GOLD,-S   03-02 0100</field>
-	<field name = "TITLE">AMAX AMX> IN GOLD, SILVER FIND</field>
+	<field name = "titulo">AMAX AMX> IN GOLD, SILVER FIND</field>
 	<field name = "DATELINE">GREENWICH, March 2 -</field>
-	<field name = "BODY">AMAX Incx said it has identified
+	<field name = "content">AMAX Incx said it has identified
 additional gold and silver ore reserves at its AMAX Sleeper
 Mine near Winnemucca, Nev..
     It said as a result of recent drilling, reserves at thhe

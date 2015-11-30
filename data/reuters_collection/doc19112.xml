@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 08:49:08.19</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0706reute
-r f BC-FIDELCOR-FICR.O>-BUY   06-19 0065</field>
-	<field name = "TITLE">FIDELCOR FICR.O> BUYS NEW ENGLAND BKNE.O>STAKE</field>
+	<field name = "titulo">FIDELCOR FICR.O> BUYS NEW ENGLAND BKNE.O>STAKE</field>
 	<field name = "DATELINE">PHILADELPHIA, June 19 -</field>
-	<field name = "BODY">Fidelcor Inc said it has acquired a
+	<field name = "content">Fidelcor Inc said it has acquired a
 substantial portion of the assets of Bank of New England Corp's
 Lazere Financial Corp subsidiary for undisclosed terms.
     The company said the transaction includes most of Lazere's

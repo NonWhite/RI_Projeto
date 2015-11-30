@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V RM
-f1430reute
-b f BC-U.S.-URGES-SURPLUS-NA   04-07 0109</field>
-	<field name = "TITLE">U.S. URGES SURPLUS NATIONS TO BOOST GROWTH</field>
+	<field name = "titulo">U.S. URGES SURPLUS NATIONS TO BOOST GROWTH</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Leading industrial nations will be
+	<field name = "content">Leading industrial nations will be
 reviewing the Paris agreement to stabilize exchange rates,
 foster increased worldwide growth and reduce trade imbalances
 but the U.S. thinks the accord has been successful so far, a

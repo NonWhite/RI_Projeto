@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 13:44:01.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1921reute
-u f BC-GENENTECH-GENE>-SETB   06-01 0103</field>
-	<field name = "TITLE">GENENTECH GENE> SETBACK VIEWED AS TEMPORARY</field>
+	<field name = "titulo">GENENTECH GENE> SETBACK VIEWED AS TEMPORARY</field>
 	<field name = "AUTHOR">By Samuel Fromartz, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Genentech Inc is suffering only a
+	<field name = "content">Genentech Inc is suffering only a
 temporary setback following a U.S. agency decision to withhold
 a recommendation on its genetically-produced drug which is used
 to treat heart attacks in progress, industry sources and

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 08:26:22.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0304
-reute
-r f BC-LL/E-ROYALTY-LRT>-RE   03-02 0108</field>
-	<field name = "TITLE">LL/E ROYALTY LRT> REVENUES MAY BE ESCROWED</field>
+	<field name = "titulo">LL/E ROYALTY LRT> REVENUES MAY BE ESCROWED</field>
 	<field name = "DATELINE">HOUSTON, March 2 -</field>
-	<field name = "BODY">LL and E Royalty Trust said Louisiana
+	<field name = "content">LL and E Royalty Trust said Louisiana
 Land and Exploration Co LLX>, the working interest owner for
 its oil and natural gas properties, is entitled to start
 placing all or part of the revenues that would otherwise accrue

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:14:18.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0484reute
-r f BC-TRIANGLE-INDUSTRIES-   03-06 0108</field>
-	<field name = "TITLE">TRIANGLE INDUSTRIES TRI>, UNIT AFFIRMED BY S/P</field>
+	<field name = "titulo">TRIANGLE INDUSTRIES TRI>, UNIT AFFIRMED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 affirmed the ratings on 255 mln dlrs of debt of Triangle
 Industries Inc and the unit National Can Corp.
     S and P cited an increase in Triangle's equity base to

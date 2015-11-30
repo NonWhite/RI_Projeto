@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">sweden</field>
 	<field name = "PLACES">portugal</field>
-	<field name = "UNKNOWN">F
-f0600reute
-u f BC-SWEDISH-MATCH-SELLS-P   04-01 0068</field>
-	<field name = "TITLE">SWEDISH MATCH SELLS PORTUGUESE UNIT</field>
+	<field name = "titulo">SWEDISH MATCH SELLS PORTUGUESE UNIT</field>
 	<field name = "DATELINE">STOCKHOLM, April 1 -</field>
-	<field name = "BODY">Swedish Match AB SMBS.ST> said it was
+	<field name = "content">Swedish Match AB SMBS.ST> said it was
 selling one of its Portuguese subsidiaries, Sociedade de
 Iniciativa e Aproveitamentos Florestais Sarl> (SIAF), to the
 Porto-based Sonae Group> for an undisclosed price.

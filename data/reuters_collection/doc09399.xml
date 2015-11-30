@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 12:06:25.70</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f1512reute
-u f BC-ITALIAN-TREASURY-BILL   03-25 0104</field>
-	<field name = "TITLE">ITALIAN TREASURY BILL OFFER HAS MIXED RESPONSE</field>
+	<field name = "titulo">ITALIAN TREASURY BILL OFFER HAS MIXED RESPONSE</field>
 	<field name = "DATELINE">ROME, March 25 -</field>
-	<field name = "BODY">Market response to the Treasury's 24,500
+	<field name = "content">Market response to the Treasury's 24,500
 billion lire offer of short-term treasury bills was mixed, with
 three-month paper in strong demand but six and 12-month bills
 undersubscribed, Bank of Italy figures show.

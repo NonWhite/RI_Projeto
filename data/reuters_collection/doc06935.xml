@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 19:02:54.85</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f9790reute
-u f BC-MAI-SEEKS-100-MLN-DLR   03-18 0103</field>
-	<field name = "TITLE">MAI SEEKS 100 MLN DLR MULTIPLE FACILITY</field>
+	<field name = "titulo">MAI SEEKS 100 MLN DLR MULTIPLE FACILITY</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">MAI Plc>, the financial services and
+	<field name = "content">MAI Plc>, the financial services and
 advertising group, has asked S.G. Warburg and Co Ltd to arrange
 a 100 mln dlr multiple option facility which will restructure a
 part of the company's exisiting banking arrangements, banking

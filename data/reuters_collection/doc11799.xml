@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 04:30:08.57</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0249reute
-b f BC-GMAC-UNIT-ISSUES-50-M   04-01 0089</field>
-	<field name = "TITLE">GMAC UNIT ISSUES 50 MLN AUSTRALIAN DLR BOND</field>
+	<field name = "titulo">GMAC UNIT ISSUES 50 MLN AUSTRALIAN DLR BOND</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">GMAC (Australia) Finance Ltd is issuing a
+	<field name = "content">GMAC (Australia) Finance Ltd is issuing a
 50 mln Australian dlr eurobond due May 6, 1991 paying 14-1/4
 pct and priced at 101 pct, sole lead manager Hambros Bank Ltd
 said.

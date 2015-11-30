@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 03:12:26.91</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0106reute
-u f BC-FOREIGN-SHARE-IN-JAPA   03-19 0105</field>
-	<field name = "TITLE">FOREIGN SHARE IN JAPAN BOND SYNDICATE BOOSTED</field>
+	<field name = "titulo">FOREIGN SHARE IN JAPAN BOND SYNDICATE BOOSTED</field>
 	<field name = "DATELINE">TOKYO, March 19 -</field>
-	<field name = "BODY">The Finance Ministry approved the
+	<field name = "content">The Finance Ministry approved the
 banking industry's plan to cut its share in the government bond
 underwriting syndicate to 73.8 pct from 74 pct from April 1 to
 allow six foreign securities firms to participate, a ministry

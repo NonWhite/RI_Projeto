@@ -3,12 +3,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0503reute
-u f BC-IRAN-REPORTS-HEAVY-FI   03-05 0093</field>
-	<field name = "TITLE">IRAN REPORTS HEAVY FIGHTING IN IRAQI KURDISTAN</field>
+	<field name = "titulo">IRAN REPORTS HEAVY FIGHTING IN IRAQI KURDISTAN</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">Iran said its troops repulsed heavy Iraqi
+	<field name = "content">Iran said its troops repulsed heavy Iraqi
 counter-attacks and continued their advance through the rugged
 mountains of Iraqi Kurdistan in overnight fighting on the
 northern war front.

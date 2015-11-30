@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:36:38.86</field>
-	<field name = "UNKNOWN">RM M
-f1617reute
-u f BC-ny-silver-clsg-report   04-07 0107</field>
-	<field name = "TITLE">COMEX SILVER FUTURES HOLD GAINS AT MIDDAY</field>
+	<field name = "titulo">COMEX SILVER FUTURES HOLD GAINS AT MIDDAY</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Comex silver futures held sharply
+	<field name = "content">Comex silver futures held sharply
 higher morning levels at midday, but further advances were
 checked by overseas and commercial selling.
     May was up 12.5 cents at 6.705 dlrs as of 1223 hrs EDT.

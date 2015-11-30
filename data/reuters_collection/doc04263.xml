@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 10:58:25.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0290reute
-r f BC-SHOWBOAT-SBO>-UNIT-S   03-12 0069</field>
-	<field name = "TITLE">SHOWBOAT SBO> UNIT SELLS MORTGAGE-BACKED BONDS</field>
+	<field name = "titulo">SHOWBOAT SBO> UNIT SELLS MORTGAGE-BACKED BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Ocean Showboat Finance Corp, a unit of
+	<field name = "content">Ocean Showboat Finance Corp, a unit of
 Showboat Inc, is raising 180 mln dlrs through an offering of
 mortgage-backed bonds due 2002 with an 11-3/8 pct coupon and
 par pricing, said sole manager Donaldson, Lufkin and Jenrette

@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 12:56:00.83</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1807reute
-u f BC-CARDIS   06-29 0103</field>
-	<field name = "TITLE">GROUP MAY SUPPORT CARDIS CORP CDS> BUYOUT</field>
+	<field name = "titulo">GROUP MAY SUPPORT CARDIS CORP CDS> BUYOUT</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">A group of companies controlled by
+	<field name = "content">A group of companies controlled by
 Brookehill Partners Inc told government authorities it may
 support a buyout of Cardis Corp as a way to maximize the value
 of the company's stock.

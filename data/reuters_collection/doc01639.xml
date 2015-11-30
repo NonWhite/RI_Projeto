@@ -10,12 +10,9 @@
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">spain</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0186reute
-r f BC-FRENCH-WHEAT-EXPORTS   03-04 0092</field>
-	<field name = "TITLE">FRENCH WHEAT EXPORTS TO EC FALL</field>
+	<field name = "titulo">FRENCH WHEAT EXPORTS TO EC FALL</field>
 	<field name = "DATELINE">PARIS, March 4 -</field>
-	<field name = "BODY">French soft wheat exports to other
+	<field name = "content">French soft wheat exports to other
 European Community countries fell 18 pct to 4.13 mln tonnes in
 the first seven months of the 1986/87 season to January
 compared with 5.04 mln in the same 1985/86 period, the French

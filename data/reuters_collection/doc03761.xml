@@ -2,13 +2,10 @@
 	<field name = "DATE">11-MAR-1987 12:21:35.59</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0818reute
-r f BC-NATIONAL-SAVINGS-MOVE   03-11 0114</field>
-	<field name = "TITLE">NATIONAL SAVINGS MOVE POINTS TO LOWER U.K. RATES</field>
+	<field name = "titulo">NATIONAL SAVINGS MOVE POINTS TO LOWER U.K. RATES</field>
 	<field name = "AUTHOR">By Geert Linnebank, Reuters</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">U.K. Interest rates look set to move
+	<field name = "content">U.K. Interest rates look set to move
 lower even after Monday's half-point cut in bank base rates to
 10-1/2 pct, analysts said, citing as evidence the suspension of
 a British National Savings issue yesterday.

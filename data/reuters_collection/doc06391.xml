@@ -3,12 +3,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">RM
-f7398reute
-r f BC-STOLTENBERG-URGES-U.K   03-18 0113</field>
-	<field name = "TITLE">STOLTENBERG URGES U.K. ENTRY INTO EMS</field>
+	<field name = "titulo">STOLTENBERG URGES U.K. ENTRY INTO EMS</field>
 	<field name = "DATELINE">BONN, March 18 -</field>
-	<field name = "BODY">West German finance minister Gerhard
+	<field name = "content">West German finance minister Gerhard
 Stoltenberg suggested that the U.K. Should join the European
 Monetary System (EMS) and also urged some member countries to
 abandon their dual currency structures.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 15:12:50.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2326reute
-u f BC-SMITH-BARNEY-CUTS-RAT   03-26 0106</field>
-	<field name = "TITLE">SMITH BARNEY CUTS RATING ON MCGRAW-HILL MHP></field>
+	<field name = "titulo">SMITH BARNEY CUTS RATING ON MCGRAW-HILL MHP></field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Smith Barney, Harris Upham and Co
+	<field name = "content">Smith Barney, Harris Upham and Co
 analyst Edward Atorino lowered his rating on McGraw-Hill Inc
 from a strong buy to a buy, saying earnings this year will be a
 little less than he previously expected.

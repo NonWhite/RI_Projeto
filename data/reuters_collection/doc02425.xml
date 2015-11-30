@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:02:22.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0719reute
-h f BC-PACIFIC-SOUTHWEST-AIR   03-05 0107</field>
-	<field name = "TITLE">PACIFIC SOUTHWEST AIRLINES PSWA> LOAD FACTOR</field>
+	<field name = "titulo">PACIFIC SOUTHWEST AIRLINES PSWA> LOAD FACTOR</field>
 	<field name = "DATELINE">SAN DIEGO, March 5 -</field>
-	<field name = "BODY">Pacific Southwest Airlines said its
+	<field name = "content">Pacific Southwest Airlines said its
 average load factor during February was 54.9 pct, down from
 56.1 pct a year earlier.
     In the first two months of the year the load factor totaled

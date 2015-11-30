@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 03:54:01.72</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">RM
-f0641
-reute
-u f BC-SWEDEN-HAS-CURRENT-PA   03-03 0094</field>
-	<field name = "TITLE">SWEDEN HAS CURRENT PAYMENTS SURPLUS IN 1986</field>
+	<field name = "titulo">SWEDEN HAS CURRENT PAYMENTS SURPLUS IN 1986</field>
 	<field name = "DATELINE">STOCKHOLM, March 3 -</field>
-	<field name = "BODY">Sweden had a 1986 current balance of
+	<field name = "content">Sweden had a 1986 current balance of
 payments surplus of 7.6 billion crowns compared with a deficit
 of 10.1 billion the preceding year, according to preliminary
 figures from the central bank.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:42:54.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1862reute
-h f BC-MERCK-MRK>-OPENS-NEW   06-19 0087</field>
-	<field name = "TITLE">MERCK MRK> OPENS NEW RESEARCH CENTER</field>
+	<field name = "titulo">MERCK MRK> OPENS NEW RESEARCH CENTER</field>
 	<field name = "DATELINE">RAHWAY, N.J., June 19 -</field>
-	<field name = "BODY">Merck and Co Inc said it has opened
+	<field name = "content">Merck and Co Inc said it has opened
 a new 80 mln dlr research facility at its Rahway, N.J.,
 headquarters.
     The company said researchers in the new building will be

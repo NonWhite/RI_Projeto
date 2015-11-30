@@ -2,12 +2,9 @@
 	<field name = "DATE">21-MAR-1987 06:31:28.65</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">zimbabwe</field>
-	<field name = "UNKNOWN">RM C G L M T
-f0023reute
-u f BC-NO-ZIMBABWE-DOLLAR-DE   03-21 0114</field>
-	<field name = "TITLE">NO ZIMBABWE DOLLAR DEVALUATION - CENTRAL BANK</field>
+	<field name = "titulo">NO ZIMBABWE DOLLAR DEVALUATION - CENTRAL BANK</field>
 	<field name = "DATELINE">HARARE, March 21 -</field>
-	<field name = "BODY">Zimbabwe's Reserve Bank, the nation's
+	<field name = "content">Zimbabwe's Reserve Bank, the nation's
 central bank, has denied the Zimbabwe dollar would be devalued.
     Bank Governor Kombo Moyana told The Herald daily newspaper
 "unfortunate and completely unfounded speculation that a

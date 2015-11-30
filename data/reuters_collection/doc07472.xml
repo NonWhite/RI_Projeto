@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 17:45:44.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2624reute
-u f BC-MORGAN-GUARANTY-JPM>   03-19 0106</field>
-	<field name = "TITLE">MORGAN GUARANTY JPM> SUES METROMEDIA FOR NOTES</field>
+	<field name = "titulo">MORGAN GUARANTY JPM> SUES METROMEDIA FOR NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Morgan Guaranty Trust Co said it filed
+	<field name = "content">Morgan Guaranty Trust Co said it filed
 suit against Metromedia Inc>, seeking a redemption at par of
 Metromedia subordinated discount debentures.
     The debentures due 1998, were issued in 1984 and were zero

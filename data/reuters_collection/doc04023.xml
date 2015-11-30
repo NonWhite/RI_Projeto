@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 19:04:31.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0941reute
-r f BC-VANZETTI-VANZ>-INCRE   03-11 0053</field>
-	<field name = "TITLE">VANZETTI VANZ> INCREASE OF SHARES APPROVED</field>
+	<field name = "titulo">VANZETTI VANZ> INCREASE OF SHARES APPROVED</field>
 	<field name = "DATELINE">STOUGHTON, Mass, March 11 -</field>
-	<field name = "BODY">vanzetti Systems INc said its
+	<field name = "content">vanzetti Systems INc said its
 shareholders approved increasing the number of authorized
 shares to five mln from three mln.
     Shareholders also approved increasing the number of shares

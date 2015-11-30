@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 05:13:31.75</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f0273reute
-r f BC-BRAZILIAN-MONTHLY-INF   03-19 0067</field>
-	<field name = "TITLE">BRAZILIAN MONTHLY INFLATION DIPS SLIGHTLY</field>
+	<field name = "titulo">BRAZILIAN MONTHLY INFLATION DIPS SLIGHTLY</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 19 -</field>
-	<field name = "BODY">Brazilian consumer prices rose
+	<field name = "content">Brazilian consumer prices rose
 13.9 pct in February, compared with January's record rate of
 16.8 pct, the Brazilian Geography and Statistics Institute
 (IBGE) said in a statement.

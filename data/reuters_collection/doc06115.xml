@@ -4,12 +4,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G
-f5920reute
-u f BC-Argentina-crop   03-17 0098</field>
-	<field name = "TITLE">BRAZIL CROP WEATHER SUMMARY -- USDA/NOAA</field>
+	<field name = "titulo">BRAZIL CROP WEATHER SUMMARY -- USDA/NOAA</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Wet weather covered Rio Grande do
+	<field name = "content">Wet weather covered Rio Grande do
 Sul, Brazil in the week ended March 14, benefitting soybeans
 which are mostly setting to filling pods, the Joint
 Agricultural weather Facility of the U.S. Agriculture and

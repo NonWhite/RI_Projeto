@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">kuwait</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f7119reute
-u f BC-KUWAIT-SAYS-NO-OPEC-M   03-18 0110</field>
-	<field name = "TITLE">KUWAIT SAYS NO OPEC MEMBER VIOLATING OUTPUT QUOTA</field>
+	<field name = "titulo">KUWAIT SAYS NO OPEC MEMBER VIOLATING OUTPUT QUOTA</field>
 	<field name = "DATELINE">KUWAIT, March 18 -</field>
-	<field name = "BODY">Kuwaiti Oil Minister Sheikh Ali
+	<field name = "content">Kuwaiti Oil Minister Sheikh Ali
 al-Khalifa al-Sabah said in a newspaper interview that no OPEC
 member was exceeding oil production quotas allocated by the
 13-nation group.

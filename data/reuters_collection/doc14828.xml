@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0056reute
-u f BC-JAPAN-TO-REVISE-LONG-   04-08 0099</field>
-	<field name = "TITLE">JAPAN TO REVISE LONG-TERM ENERGY DEMAND DOWNWARDS</field>
+	<field name = "titulo">JAPAN TO REVISE LONG-TERM ENERGY DEMAND DOWNWARDS</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">The Ministry of International Trade and
+	<field name = "content">The Ministry of International Trade and
 Industry (MITI) will revise its long-term energy supply/demand
 outlook by August to meet a forecast downtrend in Japanese
 energy demand, ministry officials said.

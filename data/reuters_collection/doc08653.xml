@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 06:47:25.04</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">C T
-f0464reute
-u f BC-GERMAN-FEB-SUGAR-STOC   03-24 0099</field>
-	<field name = "TITLE">GERMAN FEB SUGAR STOCKS UP IN YEAR, DOWN IN MONTH</field>
+	<field name = "titulo">GERMAN FEB SUGAR STOCKS UP IN YEAR, DOWN IN MONTH</field>
 	<field name = "DATELINE">BONN, March 24 -</field>
-	<field name = "BODY">West German sugar stocks rose to 2.60 mln
+	<field name = "content">West German sugar stocks rose to 2.60 mln
 tonnes, white value, at the end of February from 2.50 mln at
 the same time a year earlier, the sugar industry association
 WVZ said.

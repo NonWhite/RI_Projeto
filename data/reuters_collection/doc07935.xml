@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 15:27:43.90</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f2239reute
-b f BC-MORGAN-STANLEY-MS>-H   03-20 0102</field>
-	<field name = "TITLE">MORGAN STANLEY MS> HAS MARKET-ON-CLOSE ORDERS</field>
+	<field name = "titulo">MORGAN STANLEY MS> HAS MARKET-ON-CLOSE ORDERS</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Morgan Stanley and Co MS> said it
+	<field name = "content">Morgan Stanley and Co MS> said it
 entered market-on-close orders totaling 1.1 billion dlrs for
 stocks in the Major Market Index and Standard and Poor's 500
 stock index.

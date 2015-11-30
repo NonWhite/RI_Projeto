@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 17:17:34.41</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0917reute
-r f BC-PRIME   03-09 0112</field>
-	<field name = "TITLE">GROUP SEEKS PRIME MEDICAL PMSI> HOLDER LIST</field>
+	<field name = "titulo">GROUP SEEKS PRIME MEDICAL PMSI> HOLDER LIST</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">A group of investment firms led by
+	<field name = "content">A group of investment firms led by
 Far Hills, N.J., investor Natalie Koether said it is seeking
 information about the shareholders of Prime Medical Services
 Inc, over which it has said it is seeking control.

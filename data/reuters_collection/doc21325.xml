@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:20:48.61</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E 
-f1542reute
-u f BC-CAE-(CAE.TO)-UNIT-WIN   10-19 0057</field>
-	<field name = "TITLE">CAE CAE.TO> UNIT WINS LUFTHANSA CONTRACT</field>
+	<field name = "titulo">CAE CAE.TO> UNIT WINS LUFTHANSA CONTRACT</field>
 	<field name = "DATELINE">MONTREAL, Oct 19 -</field>
-	<field name = "BODY">CAE Electronics Inc, wholly-owned by
+	<field name = "content">CAE Electronics Inc, wholly-owned by
 Cae Industries Ltd, said it received a contract worth nine mln
 Canadian dlrs to design and manufacture an A-320 aircraft
 flight simulator for Lufthansa German Airlines.

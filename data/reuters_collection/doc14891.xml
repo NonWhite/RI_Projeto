@@ -6,12 +6,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">G C
-f0467reute
-u f BC-MALAYSIA-MAY-NOT-MEET   04-08 0085</field>
-	<field name = "TITLE">MALAYSIA MAY NOT MEET 1987 OIL PALM TARGET</field>
+	<field name = "titulo">MALAYSIA MAY NOT MEET 1987 OIL PALM TARGET</field>
 	<field name = "DATELINE">KUALA LUMPUR, April 8 -</field>
-	<field name = "BODY">Malaysia is unlikely to meet its
+	<field name = "content">Malaysia is unlikely to meet its
 targeted output of five mln tonnes of oil palm in calendar
 1987, oil palm growers told Reuters.
     Output in 1987 is expected to reach around 4.5 mln tonnes,

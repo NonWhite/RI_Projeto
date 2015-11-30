@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 14:25:03.65</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9057reute
-b f BC-FAIRCHILD-PRESIDENT-S   03-18 0110</field>
-	<field name = "TITLE">FAIRCHILD PRESIDENT SEEKING MANAGEMENT BUYOUT</field>
+	<field name = "titulo">FAIRCHILD PRESIDENT SEEKING MANAGEMENT BUYOUT</field>
 	<field name = "DATELINE">PALO ALTO, Calif., March 18 -</field>
-	<field name = "BODY">Fairchild Semiconductor Corp
+	<field name = "content">Fairchild Semiconductor Corp
 president Donald Brooks said he intends to take a management
 buyout proposal to the company's parent at some point in the
 future and substantial funding is available for such a

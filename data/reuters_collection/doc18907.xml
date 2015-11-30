@@ -6,12 +6,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">spain</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G 
-f4220reute
-u f BC-EC-REJECTS-LICENCES-F   06-18 0091</field>
-	<field name = "TITLE">EC REJECTS LICENCES FOR SPANISH BARLEY</field>
+	<field name = "titulo">EC REJECTS LICENCES FOR SPANISH BARLEY</field>
 	<field name = "DATELINE">PARIS, June 18 -</field>
-	<field name = "BODY">The EC Commission cereals management
+	<field name = "content">The EC Commission cereals management
 committee rejected all bids for licences to export free market
 Spanish barley to non-EC countries, trade sources said.
     The licence requests were for 35,000 tonnes at between 143

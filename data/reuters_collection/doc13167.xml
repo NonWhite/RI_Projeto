@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 16:49:06.87</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2362reute
-u f BC-DOE-ISSUES-OFFER-TO-B   04-03 0105</field>
-	<field name = "TITLE">DOE ISSUES OFFER TO BUY ALASKA POWER UNIT</field>
+	<field name = "titulo">DOE ISSUES OFFER TO BUY ALASKA POWER UNIT</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The U.S. Energy Department issued a
+	<field name = "content">The U.S. Energy Department issued a
 request for proposals to buy the Snettisham Hydroelectric
 project, a major part of the Alaska Power Administration.
     It said invitations were sent to two Alaskan electric

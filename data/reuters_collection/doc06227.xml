@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 15:26:13.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6368reute
-r f BC-SEARS-S>-REAL-ESTATE   03-17 0093</field>
-	<field name = "TITLE">SEARS S> REAL ESTATE UNIT BUSINESS IMPROVES</field>
+	<field name = "titulo">SEARS S> REAL ESTATE UNIT BUSINESS IMPROVES</field>
 	<field name = "DATELINE">LOS ANGELES, March 17 -</field>
-	<field name = "BODY">The Coldwell Banker Commercial Real
+	<field name = "content">The Coldwell Banker Commercial Real
 Estate Services unit of Sears Roebuck and Co said it recorded
 1986 real estate sales and leases totaling 17.7 billion dlrs,
 compared with 15.4 billion in 1985.

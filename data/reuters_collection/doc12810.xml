@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 08:17:10.27</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM
-f0651reute
-r f BC-ESCOM-SAYS-TARGETS-ME   04-03 0105</field>
-	<field name = "TITLE">ESCOM SAYS TARGETS MET WITHOUT FOREIGN FINANCE</field>
+	<field name = "titulo">ESCOM SAYS TARGETS MET WITHOUT FOREIGN FINANCE</field>
 	<field name = "AUTHOR">By Christopher Wilson</field>
 	<field name = "DATELINE">JOHANNESBURG, April 3 -</field>
-	<field name = "BODY">South Africa's Electricity Supply
+	<field name = "content">South Africa's Electricity Supply
 Commission (Escom), which last year launched a massive
 restructuring programme after the ending of foreign loans to
 the country in 1985, said it met its budget targets in 1986

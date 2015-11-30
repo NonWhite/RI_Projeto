@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 15:51:36.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2395reute
-r f BC-AMERICA-WEST-AWAL>-R   04-08 0107</field>
-	<field name = "TITLE">AMERICA WEST AWAL> REPORTS LOWER LOAD FACTOR</field>
+	<field name = "titulo">AMERICA WEST AWAL> REPORTS LOWER LOAD FACTOR</field>
 	<field name = "DATELINE">PHOENIX, Ariz., April 8 -</field>
-	<field name = "BODY">America West Airlines Inc said
+	<field name = "content">America West Airlines Inc said
 its March load factor fell to 58.7 pct from 69.8 pct a year
 earlier and its year-to-date load factor dropped to 56.6 pct
 from 60.4 pct during the same period of 1986.

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 04:01:37.65</field>
 	<field name = "PLACES">austria</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0203reute
-b f BC-KONTROLLBANK-ISSUES-1   04-01 0117</field>
-	<field name = "TITLE">KONTROLLBANK ISSUES 150 MLN MARK PRIVATE EUROBOND</field>
+	<field name = "titulo">KONTROLLBANK ISSUES 150 MLN MARK PRIVATE EUROBOND</field>
 	<field name = "DATELINE">FRANKFURT, April 1 -</field>
-	<field name = "BODY">Oesterreichische Kontrollbank AG is
+	<field name = "content">Oesterreichische Kontrollbank AG is
 raising 150 mln marks through a private placement for five
 years with a 5-1/2 pct coupon and priced at 100-1/4 pct, lead
 manager Deutsche Girozentrale - Deutsche Kommunalbank said.

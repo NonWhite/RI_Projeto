@@ -6,13 +6,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0051reute
-u f BC-JAPAN-ISOLATED,-YEN-R   03-30 0113</field>
-	<field name = "TITLE">JAPAN ISOLATED, YEN RISES, WORLD FEELS CHEATED</field>
+	<field name = "titulo">JAPAN ISOLATED, YEN RISES, WORLD FEELS CHEATED</field>
 	<field name = "AUTHOR">By Eric Hall, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">Japan is becoming dangerously isolated
+	<field name = "content">Japan is becoming dangerously isolated
 again as the U.S. And Europe feel they have been cheated by
 Japanese promises to switch from export to domestic-led growth,
 officials and businessmen from around the world said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 13:43:26.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2064reute
-h f BC-YELLOW-FREIGHT-YELL>   03-30 0109</field>
-	<field name = "TITLE">YELLOW FREIGHT YELL> FILES FOR RATE INCREASE</field>
+	<field name = "titulo">YELLOW FREIGHT YELL> FILES FOR RATE INCREASE</field>
 	<field name = "DATELINE">OVERLAND PARK, KAN., March 30 -</field>
-	<field name = "BODY">Yellow Freight System Inc
+	<field name = "content">Yellow Freight System Inc
 said it filed with the Interstate Commerce Commission a rate
 increase of 2.9 pct in Rocky Mountain territory,
     It said the increase would offset labor and other cost

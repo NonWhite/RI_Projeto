@@ -2,13 +2,10 @@
 	<field name = "DATE">23-MAR-1987 08:11:52.52</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">A
-f0666reute
-r f BC-U.S.,-LATIN-NATIONS-D   03-23 0101</field>
-	<field name = "TITLE">U.S., LATIN NATIONS DELAY DECISION ON IADB</field>
+	<field name = "titulo">U.S., LATIN NATIONS DELAY DECISION ON IADB</field>
 	<field name = "AUTHOR">By Peter Torday, Reuters</field>
 	<field name = "DATELINE">MIAMI, March 23 -</field>
-	<field name = "BODY">The United States and major Latin
+	<field name = "content">The United States and major Latin
 American nations agreed to set aside sharp differences over
 control of the Inter-American Development Bank (IADB) and
 reconsider the issue this summer.

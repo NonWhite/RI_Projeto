@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 08:21:38.02</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0719reute
-r f BC-SOUTHWEST-REALTY-SWL   03-12 0105</field>
-	<field name = "TITLE">SOUTHWEST REALTY SWL> HAS LIQUIDITY PROBLEMS</field>
+	<field name = "titulo">SOUTHWEST REALTY SWL> HAS LIQUIDITY PROBLEMS</field>
 	<field name = "DATELINE">DALLAS, March 11 -</field>
-	<field name = "BODY">Southwest Realty Ltd said it believes it
+	<field name = "content">Southwest Realty Ltd said it believes it
 could make all of its scheduled montly debt service payments
 for 1987 despite the falloff in its rental operations, but
 making the payments would probably severely impair its

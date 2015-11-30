@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 13:16:51.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F
-f8816reute
-b f BC-COCA-COLA-ENTERPRISES   03-18 0093</field>
-	<field name = "TITLE">COCA-COLA ENTERPRISES CCE> TO SELL DEBT</field>
+	<field name = "titulo">COCA-COLA ENTERPRISES CCE> TO SELL DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">Coca-Cola Enterprises Inc said it
+	<field name = "content">Coca-Cola Enterprises Inc said it
 filed with the Securities and Exchange Commission a
 registration statement covering 500 mln dlrs of debt.
     The company said it plans to sell 250 mln dlrs of notes due

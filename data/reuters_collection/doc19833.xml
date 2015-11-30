@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 14:47:58.20</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G T 
-f2191reute
-d f BC-WORLD-BANK-APPROVES-L   06-29 0112</field>
-	<field name = "TITLE">WORLD BANK APPROVES LOAN FOR BRAZIL RAILWAY</field>
+	<field name = "titulo">WORLD BANK APPROVES LOAN FOR BRAZIL RAILWAY</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">The World Bank said it approved a 100
+	<field name = "content">The World Bank said it approved a 100
 mln dlr loan to help Brazil finance the rehabilitation of the
 railway in Sao Paulo state and establish an institutional
 reform program as a base for future commercial operation.

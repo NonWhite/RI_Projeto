@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 14:53:05.34</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2280reute
-d f BC-GOULD-GLD>-DIVISION   03-31 0098</field>
-	<field name = "TITLE">GOULD GLD> DIVISION GETS FINANCING</field>
+	<field name = "titulo">GOULD GLD> DIVISION GETS FINANCING</field>
 	<field name = "DATELINE">PHILADELPHIA, March 31 -</field>
-	<field name = "BODY">Gould Inc's systems protection
+	<field name = "content">Gould Inc's systems protection
 division said it selected Merrill Lynch Interfunding INc to
 provide financing for the purchase of the division from the
 parent company.

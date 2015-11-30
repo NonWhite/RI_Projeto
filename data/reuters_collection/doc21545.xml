@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 04:24:26.16</field>
 	<field name = "PLACES">norway</field>
-	<field name = "UNKNOWN">F 
-f0239reute
-b f BC-NORSK-DATA-A/S-SEES-L   10-19 0114</field>
-	<field name = "TITLE">NORSK DATA A/S SEES LOWER 1987 PROFITS</field>
+	<field name = "titulo">NORSK DATA A/S SEES LOWER 1987 PROFITS</field>
 	<field name = "DATELINE">OSLO, Oct 19 -</field>
-	<field name = "BODY">Norwegian computer company Norsk Data A/S
+	<field name = "content">Norwegian computer company Norsk Data A/S
 NORK.OL> said weak sales outside of Europe have forced it to
 lower its 1987 pre-tax profit forecast by 100 mln crowns and
 its expected 1987 sales figure by about 150 mln crowns.

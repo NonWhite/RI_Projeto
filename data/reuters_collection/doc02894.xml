@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 16:54:16.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0619reute
-u f BC-GINNIE-MAE-DROPS-FEE   03-06 0103</field>
-	<field name = "TITLE">GINNIE MAE DROPS FEE INCREASE ON SECURITIES</field>
+	<field name = "titulo">GINNIE MAE DROPS FEE INCREASE ON SECURITIES</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">The Government National Mortgage
+	<field name = "content">The Government National Mortgage
 Association has decided not to raise its guarantee fee on
 mortgage securities, Louis Gasper, Ginnie Mae executive vice
 president said.

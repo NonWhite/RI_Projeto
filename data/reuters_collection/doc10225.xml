@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 17:46:49.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2790reute
-d f BC-PRESIDENTIAL-AIR-PAI   03-26 0083</field>
-	<field name = "TITLE">PRESIDENTIAL AIR PAIR> FEBRUARY LOAD FACTOR UP</field>
+	<field name = "titulo">PRESIDENTIAL AIR PAIR> FEBRUARY LOAD FACTOR UP</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">Presidential Airways Inc said its
+	<field name = "content">Presidential Airways Inc said its
 load factor, or percentage of seats filled, totaled 66.8 pct in
 February, up from 53.4 pct for the same month last year.
     The airline said its traffic for the month rose to 49.1 mln

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:50:23.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1720reute
-d f BC-IBM-IBM>,-NYNEX-NYN   10-19 0104</field>
-	<field name = "TITLE">IBM IBM>, NYNEX NYN> TO PARTICIPATE IN TEST</field>
+	<field name = "titulo">IBM IBM>, NYNEX NYN> TO PARTICIPATE IN TEST</field>
 	<field name = "DATELINE">WHITE PLAINS, N.Y., Oct 19 -</field>
-	<field name = "BODY">International Business
+	<field name = "content">International Business
 Machines Corp said it and NYNEX Corp agreed to participate in
 an Integrated Services Digital Network field trial scheduled to
 begin in April 1988.

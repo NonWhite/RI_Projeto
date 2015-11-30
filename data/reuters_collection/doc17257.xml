@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 06:41:45.29</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0474reute
-u f BC-BANK-OF-JAPAN-TO-SELL   04-27 0091</field>
-	<field name = "TITLE">BANK OF JAPAN TO SELL 600 BILLION YEN IN BILLS</field>
+	<field name = "titulo">BANK OF JAPAN TO SELL 600 BILLION YEN IN BILLS</field>
 	<field name = "DATELINE">TOKYO, April 27 -</field>
-	<field name = "BODY">The Bank of Japan will sell 600 billion
+	<field name = "content">The Bank of Japan will sell 600 billion
 yen in 60-day financing bills tomorrow through 36-day
 repurchase agreements maturing June 3 to roll over a previously
 issued 400 billion yen of such bills maturing tomorrow, money

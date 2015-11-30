@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 10:52:30.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM Y A
-f1238reute
-u f BC-/S/P-DOWNGRADES-TEXAC   04-13 0096</field>
-	<field name = "TITLE">S/P DOWNGRADES TEXACO'S TX> DEBT TO 'D'</field>
+	<field name = "titulo">S/P DOWNGRADES TEXACO'S TX> DEBT TO 'D'</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 downgraded to D about 8.4 billion dlrs of debt of Texaco Inc
 and the oil company's subsidiaries.
     The rating agency cited Texaco's filing over the weekend

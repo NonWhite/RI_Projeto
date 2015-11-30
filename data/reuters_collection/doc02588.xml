@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 10:13:05.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0220reute
-r f BC-MONTCLAIR-SAVINGS-BA   03-06 0079</field>
-	<field name = "TITLE">MONTCLAIR SAVINGS BANK> INITIAL OFFERING STARTS</field>
+	<field name = "titulo">MONTCLAIR SAVINGS BANK> INITIAL OFFERING STARTS</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Lead underwriters PaineWebber Group Inc
+	<field name = "content">Lead underwriters PaineWebber Group Inc
 PWJ> and Ryan, Beck and Co Inc RBCO> said an initial public
 offering of 537,500 shares of Montclair Savings Bank common
 stock is under way at 15 dlrs per share.

@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">dauster</field>
-	<field name = "UNKNOWN">C T
-f1400reute
-b f BC-IBC-COFFEE-AUCTIONS-T   04-21 0115</field>
-	<field name = "TITLE">IBC COFFEE AUCTIONS TO START SOON - DAUSTER</field>
+	<field name = "titulo">IBC COFFEE AUCTIONS TO START SOON - DAUSTER</field>
 	<field name = "DATELINE">LONDON, April 21 -</field>
-	<field name = "BODY">The Brazilian Coffee Institute, IBC,
+	<field name = "content">The Brazilian Coffee Institute, IBC,
 plans to sell in a series of auctions over the next few weeks
 robusta coffee purchased in London last year, but details of
 where and when auctions will take place are still to be

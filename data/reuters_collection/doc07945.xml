@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 15:40:10.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2294reute
-d f BC-MERRY-LAND-AND-INVEST   03-20 0083</field>
-	<field name = "TITLE">MERRY LAND AND INVESTMENT MERY> TO OFFER STOCK</field>
+	<field name = "titulo">MERRY LAND AND INVESTMENT MERY> TO OFFER STOCK</field>
 	<field name = "DATELINE">AUGUSTA, Ga., March 20 -</field>
-	<field name = "BODY">Merry Land and Investment Co Inc
+	<field name = "content">Merry Land and Investment Co Inc
 said it will offer two million shares of common stock for sale.
     Merry Land said it filed a registration statement with the
 Security and Exchange Commission. It also said the sale will be

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:39:12.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0623reute
-r f BC-BUSINESSLAND-BUSL>-C   03-11 0079</field>
-	<field name = "TITLE">BUSINESSLAND BUSL> COMPLETES OFFERING</field>
+	<field name = "titulo">BUSINESSLAND BUSL> COMPLETES OFFERING</field>
 	<field name = "DATELINE">SAN JOSE, Calif., March 11 -</field>
-	<field name = "BODY">Businessland Inc said it sold
+	<field name = "content">Businessland Inc said it sold
 50 mln dlrs of 5-1/2 pct convertible subordinated debentures
 due 2007 in a registered public offering.
     The company said each debenture is convertible into shares

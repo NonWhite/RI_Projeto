@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 17:13:58.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2751reute
-r f BC-BLACK-AND-DECKER-BDK   03-31 0084</field>
-	<field name = "TITLE">BLACK AND DECKER BDK> SELLS 10-YEAR NOTES</field>
+	<field name = "titulo">BLACK AND DECKER BDK> SELLS 10-YEAR NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Black and Decker Corp is raising 100
+	<field name = "content">Black and Decker Corp is raising 100
 mln dlrs via an offering of notes due 1997 yielding 8.40 pct,
 said lead manager First Boston Corp.
     The notes have an 8-3/8 pct coupon and were priced at 99.83

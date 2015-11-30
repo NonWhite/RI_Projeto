@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:53:33.27</field>
-	<field name = "UNKNOWN">C L
-f0842reute
-u f BC-PORK-BELLY-FUTURES-EX   04-07 0104</field>
-	<field name = "TITLE">PORK BELLY FUTURES EXPECTED STEADY TO HIGHER</field>
+	<field name = "titulo">PORK BELLY FUTURES EXPECTED STEADY TO HIGHER</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Pork belly futures were expected to open
+	<field name = "content">Pork belly futures were expected to open
 steady to higher after yesterday's late strength and sharply
 higher close in the nearby.
     Traders anticipate carryover demand prompted by steady to

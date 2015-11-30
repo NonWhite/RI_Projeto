@@ -4,12 +4,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">A Y RM 
-f3376reute
-r f PM-GULF-COUNCIL-1stld   10-19 0108</field>
-	<field name = "TITLE">U.S., AT U.N., CLAIMS SELF-DEFENSE FOR GULF ATTACK</field>
+	<field name = "titulo">U.S., AT U.N., CLAIMS SELF-DEFENSE FOR GULF ATTACK</field>
 	<field name = "DATELINE">UNITED NATIONS, Oct 19 -</field>
-	<field name = "BODY">The United States invoked the right
+	<field name = "content">The United States invoked the right
 of self-defense in destroying an Iranian oil platform in the
 Gulf, the American delegation told the United Nations.
     Lieutenant General Vernon Walters sent letters about the

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 16:57:38.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2471reute
-r f BC-ECOLAB-ECL>-DEBT-MAY   03-23 0102</field>
-	<field name = "TITLE">ECOLAB ECL> DEBT MAY BE DOWNGRADED BY S/P</field>
+	<field name = "titulo">ECOLAB ECL> DEBT MAY BE DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it may
+	<field name = "content">Standard and Poor's Corp said it may
 downgrade Ecolab Inc's 10 mln dlrs of BBB-plus subordinated
 debt.
     The agency cited Ecolab's proposed acquisition of ChemLawn

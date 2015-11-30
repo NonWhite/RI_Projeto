@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 17:43:20.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2580reute
-r f BC-BURNHAM-SLEEPY-HOLLOW   03-23 0054</field>
-	<field name = "TITLE">BURNHAM SLEEPY HOLLOW DOZEZ> CONVERTS TO CORP</field>
+	<field name = "titulo">BURNHAM SLEEPY HOLLOW DOZEZ> CONVERTS TO CORP</field>
 	<field name = "DATELINE">SAN DIEGO, Calif., March 23 -</field>
-	<field name = "BODY">Partners of Burnham Sleepy
+	<field name = "content">Partners of Burnham Sleepy
 Hollow Ltd said they voted to convert the limited partnership
 to a California corporation, called Burnham Pacific Properties
 Inc.

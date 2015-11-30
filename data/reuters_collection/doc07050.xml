@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 08:33:10.94</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0671reute
-r f BC-GERMAN-INVESTORS-SLOW   03-19 0109</field>
-	<field name = "TITLE">GERMAN INVESTORS SLOW TO ACCEPT BOND INNOVATIONS</field>
+	<field name = "titulo">GERMAN INVESTORS SLOW TO ACCEPT BOND INNOVATIONS</field>
 	<field name = "AUTHOR">By Franz-Josef Ebel, Reuters</field>
 	<field name = "DATELINE">WEST BERLIN, March 19 -</field>
-	<field name = "BODY">The liberalization of West German
+	<field name = "content">The liberalization of West German
 capital markets in May 1985 led to a flood of financial
 innovations but the lack of a secondary market for these has
 diminished their acceptance, Deutsche Girozentrale - Deutsche

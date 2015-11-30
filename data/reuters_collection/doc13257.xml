@@ -2,12 +2,9 @@
 	<field name = "DATE">5-APR-1987 20:02:21.35</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0086reute
-u f BC-MARCH-U.S.-PURCHASING   04-05 0104</field>
-	<field name = "TITLE">MARCH U.S. PURCHASING MANAGERS INDEX UP AT 53.9</field>
+	<field name = "titulo">MARCH U.S. PURCHASING MANAGERS INDEX UP AT 53.9</field>
 	<field name = "DATELINE">NEW YORK, April 6 -</field>
-	<field name = "BODY">The U.S. economy in March improved at a
+	<field name = "content">The U.S. economy in March improved at a
 faster rate than in February, with the National Association of
 Purchasing Management's composite index rising to 53.9 pct from
 51.9 pct, the NAPM said.

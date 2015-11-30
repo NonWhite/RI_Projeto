@@ -5,12 +5,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f0063reute
-u f BC-/USSR-SEEN-LIKELY-TO   03-09 0133</field>
-	<field name = "TITLE">USSR SEEN LIKELY TO HONOR CORN COMMITMENT</field>
+	<field name = "titulo">USSR SEEN LIKELY TO HONOR CORN COMMITMENT</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">The Soviet Union will likely honor
+	<field name = "content">The Soviet Union will likely honor
 its commitment with the United States to buy a minimum of four
 mln tonnes of corn this year, an Agriculture Department
 official said.

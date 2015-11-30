@@ -8,12 +8,9 @@
 	<field name = "PLACES">china</field>
 	<field name = "ORGS">itc</field>
 	<field name = "EXCHANGES">lme</field>
-	<field name = "UNKNOWN">C M
-f2138reute
-d f BC-/TIN-TRADERS'-RESPONS   06-01 0116</field>
-	<field name = "TITLE">TIN TRADERS' RESPONSE MUTED TO KL FUTURES MARKET</field>
+	<field name = "titulo">TIN TRADERS' RESPONSE MUTED TO KL FUTURES MARKET</field>
 	<field name = "DATELINE">LONDON, June 1 -</field>
-	<field name = "BODY">European free market tin traders made a
+	<field name = "content">European free market tin traders made a
 somewhat muted response to plans for a Kuala Lumpur
 dollar-based tin futures market due to be launched in October.
     Traders said the new market would probably be a useful

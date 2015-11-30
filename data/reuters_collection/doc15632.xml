@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:15:07.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1294reute
-d f BC-FOOD-N-FUEL-REGISTERS   04-09 0130</field>
-	<field name = "TITLE">FOOD-N-FUEL REGISTERS PARTNERSHIP UNIT OFFERING</field>
+	<field name = "titulo">FOOD-N-FUEL REGISTERS PARTNERSHIP UNIT OFFERING</field>
 	<field name = "DATELINE">FORT WORTH, April 9 -</field>
-	<field name = "BODY">Food-N-Fuel Partners L.P. said it
+	<field name = "content">Food-N-Fuel Partners L.P. said it
 filed a registration statement with the Securities and Exchange
 Commission covering a planned initial offering of 2,575,000
 Class A Units of limited partnership interest.

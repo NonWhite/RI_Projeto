@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 09:23:51.08</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0830reute
-r f BC-CITYQUEST-MAKES-120-M   03-23 0096</field>
-	<field name = "TITLE">CITYQUEST MAKES 120 MLN STG BID FOR WICKES</field>
+	<field name = "titulo">CITYQUEST MAKES 120 MLN STG BID FOR WICKES</field>
 	<field name = "DATELINE">LONDON, March 23 -</field>
-	<field name = "BODY">Cityquest Plc>, a newly formed company,
+	<field name = "content">Cityquest Plc>, a newly formed company,
 is making a recommended 120 mln stg offer for builders
 merchants and DIY (do-it-yourself) company Wickes Plc>, Wickes
 said in a statement.

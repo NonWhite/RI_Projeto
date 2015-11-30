@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 15:59:04.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0969
-reute
-d f BC-WESTERN-TELE-COMMUNIC   03-02 0073</field>
-	<field name = "TITLE">WESTERN TELE-COMMUNICATIONS WTLCA> JOINS GROUP</field>
+	<field name = "titulo">WESTERN TELE-COMMUNICATIONS WTLCA> JOINS GROUP</field>
 	<field name = "DATELINE">ENGLEWOOD, Colo., March 2 -</field>
-	<field name = "BODY">Western Tele-Communications Inc
+	<field name = "content">Western Tele-Communications Inc
 said that through its subsidiary, Westlink Inc, it has joined
 "Netlink USA", a general partnership consisting of Telluride
 Cablevision Inc and McCaw Satellite Programming Investments

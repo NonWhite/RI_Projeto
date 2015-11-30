@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 12:27:48.50</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">austria</field>
-	<field name = "UNKNOWN">RM
-f1653reute
-r f BC-AUSTRIAN-BANKS-DIVIDE   04-01 0108</field>
-	<field name = "TITLE">AUSTRIAN BANKS DIVIDED OVER INTEREST RATE CUT</field>
+	<field name = "titulo">AUSTRIAN BANKS DIVIDED OVER INTEREST RATE CUT</field>
 	<field name = "DATELINE">VIENNA, April 1 -</field>
-	<field name = "BODY">Calls for a cut in Austrian interest
+	<field name = "content">Calls for a cut in Austrian interest
 rates have grown in recent days but bank chiefs are divided
 over the issue.
     Karl Vak, General Director of the Zentralsparkasse und

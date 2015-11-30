@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 14:08:05.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2157reute
-d f BC-SAN/BAR-SBAR>-APPOIN   03-30 0061</field>
-	<field name = "TITLE">SAN/BAR SBAR> APPOINTS NEW PRESIDENT</field>
+	<field name = "titulo">SAN/BAR SBAR> APPOINTS NEW PRESIDENT</field>
 	<field name = "DATELINE">IRVINE, Calif., March 30 -</field>
-	<field name = "BODY">San/Bar Corp said it appointed
+	<field name = "content">San/Bar Corp said it appointed
 Charles von Urff as president, chief operating officer and a
 director of the company to succeed Robert Johnson, who retired
 last year.

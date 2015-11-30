@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 13:26:41.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0196reute
-r f BC-MIDWAY-AIR-MDWY>-FEB   03-05 0069</field>
-	<field name = "TITLE">MIDWAY AIR MDWY> FEBRUARY LOAD FACTOR OFF</field>
+	<field name = "titulo">MIDWAY AIR MDWY> FEBRUARY LOAD FACTOR OFF</field>
 	<field name = "DATELINE">CHICAGO, March 5 -</field>
-	<field name = "BODY">Midway Airlines Inc said its February
+	<field name = "content">Midway Airlines Inc said its February
 load factor declined 1.6 pct to 55.9 pct from 57.5 pct in the
 same month last year.
     February traffic increased 23.7 pct to 167.4 mln revenue

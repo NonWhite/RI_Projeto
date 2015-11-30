@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 01:07:26.62</field>
 	<field name = "PLACES">israel</field>
 	<field name = "PLACES">lebanon</field>
-	<field name = "UNKNOWN">RM
-f0045reute
-u f BC-ISRAELI-JETS-RAID-SOU   03-23 0073</field>
-	<field name = "TITLE">ISRAELI JETS RAID SOUTH LEBANON</field>
+	<field name = "titulo">ISRAELI JETS RAID SOUTH LEBANON</field>
 	<field name = "DATELINE">SIDON, Lebanon, March 23 -</field>
-	<field name = "BODY">Israeli jets bombed Palestinian
+	<field name = "content">Israeli jets bombed Palestinian
 targets in south Lebanon for the second time in four days,
 Lebanese security sources said.
     They said the planes attacked targets in the Darb al-Sim

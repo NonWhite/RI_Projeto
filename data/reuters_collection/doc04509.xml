@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 16:11:38.60</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0443reute
-d f BC-SUMMIT-PETROLEUM-COR   03-12 0101</field>
-	<field name = "TITLE">SUMMIT PETROLEUM CORP> SELLS SHARES</field>
+	<field name = "titulo">SUMMIT PETROLEUM CORP> SELLS SHARES</field>
 	<field name = "DATELINE">ABILENE, TEXAS, March 12 -</field>
-	<field name = "BODY">Summit Petroleum Corp said it
+	<field name = "content">Summit Petroleum Corp said it
 sold 11.3 mln shares, or 29.4 pct, of its common stock to
 Halbert and Associates Inc>.
     The company said the shares were previously held by

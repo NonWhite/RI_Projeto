@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:51:53.71</field>
-	<field name = "UNKNOWN">L
-f1103reute
-u f BC-ST-JOSEPH-HOGS-OPEN-U   04-07 0024</field>
-	<field name = "TITLE">ST JOSEPH HOGS OPEN UP 1.00 DLR - PRIVATE</field>
+	<field name = "titulo">ST JOSEPH HOGS OPEN UP 1.00 DLR - PRIVATE</field>
 	<field name = "DATELINE">St Joseph, April 7 -</field>
-	<field name = "BODY">Hog prices opened 1.00 dlr higher,
+	<field name = "content">Hog prices opened 1.00 dlr higher,
 private sources said. Top 51.50 dlrs per cwt.
  Reuter</field>
 </doc></add>

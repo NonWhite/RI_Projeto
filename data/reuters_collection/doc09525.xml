@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 14:53:35.73</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2122reute
-u f BC-CYCLOPS-CYL>-SAYS-DI   03-25 0072</field>
-	<field name = "TITLE">CYCLOPS CYL> SAYS DIXONS APPOINTEES RESIGN</field>
+	<field name = "titulo">CYCLOPS CYL> SAYS DIXONS APPOINTEES RESIGN</field>
 	<field name = "DATELINE">PITTSBURGH, Pa., March 25 -</field>
-	<field name = "BODY">Cyclops Corp said the three
+	<field name = "content">Cyclops Corp said the three
 members of its board appointed last week by Dixons Group PLC>
 had resigned and that it named three Cyclops executives to
 replace them.

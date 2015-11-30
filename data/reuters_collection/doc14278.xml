@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:13:56.32</field>
-	<field name = "UNKNOWN">E F
-f1512reute
-u f BC-canastocks   04-07 0110</field>
-	<field name = "TITLE">CANADA STOCKS HIGHER AT MIDSESSION</field>
+	<field name = "titulo">CANADA STOCKS HIGHER AT MIDSESSION</field>
 	<field name = "DATELINE">TORONTO, April 7 -</field>
-	<field name = "BODY">Toronto stocks prices rose higher into
+	<field name = "content">Toronto stocks prices rose higher into
 record territory, bolstered by the resource sector, but slowed
 the momentum of the four-session climb.
     The composite index rose 13.30 points to 3894.60 on volume

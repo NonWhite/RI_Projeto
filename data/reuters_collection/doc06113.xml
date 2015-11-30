@@ -5,12 +5,9 @@
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C G
-f5915reute
-u f BC-china-crop-weather   03-17 0101</field>
-	<field name = "TITLE">CHINA CROP WEATHER SUMMARY -- USDA/NOAA</field>
+	<field name = "titulo">CHINA CROP WEATHER SUMMARY -- USDA/NOAA</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Light, scattered showers covered
+	<field name = "content">Light, scattered showers covered
 winter wheat areas in the North China Plain in the week ended
 March 14, moistening topsoils for wheat, just breaking dormancy
 in most central and northern areas, the Joint Agricultural

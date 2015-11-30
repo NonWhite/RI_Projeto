@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 13:40:37.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2070reute
-d f AM-LIABILITY   03-26 0113</field>
-	<field name = "TITLE">ADMINISTRATION SAYS INSURANCE CRISIS EASED</field>
+	<field name = "titulo">ADMINISTRATION SAYS INSURANCE CRISIS EASED</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">The Reagan administration said the
+	<field name = "content">The Reagan administration said the
 national crisis in liability insurance eased during the past
 year as the insurance industry's profits more than doubled to
 11.5 billion dlrs, but some problems still persist.

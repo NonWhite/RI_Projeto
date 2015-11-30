@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 10:42:21.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0338reute
-r f BC-CONCORD-COMPUTING-CE   03-11 0060</field>
-	<field name = "TITLE">CONCORD COMPUTING CEFT> EXECUTIVES RESIGN</field>
+	<field name = "titulo">CONCORD COMPUTING CEFT> EXECUTIVES RESIGN</field>
 	<field name = "DATELINE">WOBURN, Mass., March 11 -</field>
-	<field name = "BODY">Concord Computing Corp said
+	<field name = "content">Concord Computing Corp said
 Thomas E. Swithenbank has resiged as president and a director
 and John L. burns has resigned as vice president of
 manufacturing.

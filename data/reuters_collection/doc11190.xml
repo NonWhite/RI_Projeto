@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 03:40:07.54</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f0227reute
-u f BC-FINNISH-ECONOMIC-GROW   03-31 0084</field>
-	<field name = "TITLE">FINNISH ECONOMIC GROWTH PUT AT THREE PCT IN 1987</field>
+	<field name = "titulo">FINNISH ECONOMIC GROWTH PUT AT THREE PCT IN 1987</field>
 	<field name = "DATELINE">HELSINKI, March 31 -</field>
-	<field name = "BODY">Finland's gross national product is
+	<field name = "content">Finland's gross national product is
 expected to rise by three pct in 1987 against two pct in 1986
 and inflation will be unchanged at about 3.5 pct, the private
 business survey office ETLA predicted.

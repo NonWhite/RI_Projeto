@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 11:28:46.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1444reute
-s f BC-MUTUAL-OF-OMAHA-INTER   06-02 0024</field>
-	<field name = "TITLE">MUTUAL OF OMAHA INTEREST SHARES INC MUO> PAYOUT</field>
+	<field name = "titulo">MUTUAL OF OMAHA INTEREST SHARES INC MUO> PAYOUT</field>
 	<field name = "DATELINE">OMAHA, Neb., June 2 -</field>
-	<field name = "BODY">Qtly div 36 cts vs 36 cts prior
+	<field name = "content">Qtly div 36 cts vs 36 cts prior
     Payable July 1
     Record June 12
  Reuter</field>

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 10:44:11.77</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1208reute
-d f BC-MARCADE-GROUP-MAR>-P   06-01 0081</field>
-	<field name = "TITLE">MARCADE GROUP MAR> PLANS ACQUISITION</field>
+	<field name = "titulo">MARCADE GROUP MAR> PLANS ACQUISITION</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Marcade Group Inc said it has agreed in
+	<field name = "content">Marcade Group Inc said it has agreed in
 principle to acquire a prominent, privately-held maker of
 ladies' sports wear for an cash, shares and options to purchase
 Marcade common valued at about 20 mln dlrs.

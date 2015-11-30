@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 14:41:28.16</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y 
-f2623reute
-u f BC-SOUTHLAND-SLC>-UNIT   10-19 0078</field>
-	<field name = "TITLE">SOUTHLAND SLC> UNIT RAISES CRUDE OIL PRICES</field>
+	<field name = "titulo">SOUTHLAND SLC> UNIT RAISES CRUDE OIL PRICES</field>
 	<field name = "DATELINE">New York, Oct 19 -</field>
-	<field name = "BODY">Citgo Petroleum Corp, a subsidiary of
+	<field name = "content">Citgo Petroleum Corp, a subsidiary of
 Southland Corp, said it raised the contract price it will pay
 for all grades of crude oil by 50 cts a barrel, effective Oct
 16

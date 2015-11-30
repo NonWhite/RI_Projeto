@@ -5,13 +5,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">reagan</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">V
-f0181reute
-u f PM-TRADE-AMERICAN   04-17 0136</field>
-	<field name = "TITLE">REAGAN TO ANNOUNCE DECISION ON JAPAN SANCTIONS</field>
+	<field name = "titulo">REAGAN TO ANNOUNCE DECISION ON JAPAN SANCTIONS</field>
 	<field name = "AUTHOR">By Robert Trautman, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, April 17 -</field>
-	<field name = "BODY">President Reagan today is to
+	<field name = "content">President Reagan today is to
 announce a decision on tough new tariffs on Japanese exports to
 retaliate for what he calls Japan's failure to end its unfair
 practices in semiconductor trade.

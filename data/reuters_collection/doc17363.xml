@@ -2,12 +2,9 @@
 	<field name = "DATE">28-APR-1987 18:10:47.47</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3061reute
-r f BC-GENERAL-DYNAMICS-GD>   04-28 0112</field>
-	<field name = "TITLE">GENERAL DYNAMICS GD> NAMED AS DEFENDANT</field>
+	<field name = "titulo">GENERAL DYNAMICS GD> NAMED AS DEFENDANT</field>
 	<field name = "DATELINE">NEW YORK, April 28 -</field>
-	<field name = "BODY">General Dynamics Corp was named as a
+	<field name = "content">General Dynamics Corp was named as a
 defendant in a multimillion dlr fraud suit brought by the U.S.
 government in 1985 stemming from government subsidized
 shipbuilding contracts, according to court documents.

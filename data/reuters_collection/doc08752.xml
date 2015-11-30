@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 10:15:24.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1050reute
-r f BC-TIFFANY-AND-CO>-TO-G   03-24 0104</field>
-	<field name = "TITLE">TIFFANY AND CO> TO GO PUBLIC</field>
+	<field name = "titulo">TIFFANY AND CO> TO GO PUBLIC</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Tiffany and Co said it has filed for
+	<field name = "content">Tiffany and Co said it has filed for
 an initial public offering of four mln shares, including two
 mln to be sold by shareholders, at an expected price of 21 to
 23 dlrs per share.

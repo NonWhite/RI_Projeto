@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 11:01:36.89</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0445reute
-b f BC-FRANCE'S-BFCE-ISSUES   03-09 0092</field>
-	<field name = "TITLE">FRANCE'S BFCE ISSUES 150 MLN DLR EUROBOND</field>
+	<field name = "titulo">FRANCE'S BFCE ISSUES 150 MLN DLR EUROBOND</field>
 	<field name = "DATELINE">PARIS, March 9 -</field>
-	<field name = "BODY">Banque Francaise du Commerce Exterieur
+	<field name = "content">Banque Francaise du Commerce Exterieur
 (BFCE) is issuing a 150 mln dlr, seven pct bond due April 1,
 1992 at par, lead manager Societe Generale said.
     The issue of unsecured, unsubordinated debt, is guaranteed

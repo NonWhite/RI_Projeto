@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:09:31.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F E
-f1708reute
-r f BC-EMHART-EMH>-WINS-FOU   03-26 0083</field>
-	<field name = "TITLE">EMHART EMH> WINS FOUR COMMUNICATIONS CONTRACTS</field>
+	<field name = "titulo">EMHART EMH> WINS FOUR COMMUNICATIONS CONTRACTS</field>
 	<field name = "DATELINE">FARMINGTON, Conn., March 26 -</field>
-	<field name = "BODY">Emhart Corp said it received
+	<field name = "content">Emhart Corp said it received
 four contracts valued at a total of seven mln dlrs to design,
 develop and install data communications and automated
 dispatching systems.

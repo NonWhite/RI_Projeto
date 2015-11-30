@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f3117reute
-b f BC-STANDARD-OIL-SAYS-BP   04-23 0082</field>
-	<field name = "TITLE">STANDARD OIL SAYS BP EXTENDS TENDER</field>
+	<field name = "titulo">STANDARD OIL SAYS BP EXTENDS TENDER</field>
 	<field name = "DATELINE">NEW YORK, April 23 -</field>
-	<field name = "BODY">Standard Oil Co SRD> said in a brief
+	<field name = "content">Standard Oil Co SRD> said in a brief
 announcement issued after a meeting of its board of directors
 that British Petroleum Co PLC BP.L> (BP) has extended its 70
 dlr per share tender offer until midnight May 4.

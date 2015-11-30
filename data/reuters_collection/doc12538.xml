@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 09:40:44.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0979reute
-d f BC-MERCHANTSBANK-MCBK>   04-02 0032</field>
-	<field name = "TITLE">MERCHANTSBANK MCBK> FORMS NEW UNIT</field>
+	<field name = "titulo">MERCHANTSBANK MCBK> FORMS NEW UNIT</field>
 	<field name = "DATELINE">BOSTON, April 2 -</field>
-	<field name = "BODY">MerchantsBank said it has formed a new
+	<field name = "content">MerchantsBank said it has formed a new
 subsidiary, Merchants Title Corp, to provide settlement
 services for MerchantsBank subsidiaires.
  Reuter</field>

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:18:57.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f1653reute
-r f BC-IBM-CREDIT-IBM>-FILE   06-29 0059</field>
-	<field name = "TITLE">IBM CREDIT IBM> FILES FOR NOTE OFFERING</field>
+	<field name = "titulo">IBM CREDIT IBM> FILES FOR NOTE OFFERING</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">IBM Credit Corp said it filed with the
+	<field name = "content">IBM Credit Corp said it filed with the
 Securities and Exchange Commission a registration statement
 covering a 500 mln dlr issue of medium-term notes.
     Proceeds will be used for general corporate purposes.

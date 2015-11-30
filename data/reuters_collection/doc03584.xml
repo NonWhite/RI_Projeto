@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 09:29:47.13</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0019reute
-u f BC-PIC'N'SAVE-CORP-PICN   03-11 0052</field>
-	<field name = "TITLE">PIC'N'SAVE CORP PICN> 4TH QTR NET</field>
+	<field name = "titulo">PIC'N'SAVE CORP PICN> 4TH QTR NET</field>
 	<field name = "DATELINE">CARSON, Calif., March 11 -</field>
-	<field name = "BODY">Shr 45 cts vs 50 cts
+	<field name = "content">Shr 45 cts vs 50 cts
     Net 18.0 mln vs 19.9 mln
     Sales 116.1 mln vs 108.8 mln
     Year

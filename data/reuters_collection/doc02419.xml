@@ -3,12 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "TOPICS">groundnut</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0681reute
-r f BC-ASCS-BUYS-PEANUT-PROD   03-05 0057</field>
-	<field name = "TITLE">ASCS BUYS PEANUT PRODUCTS, VEG OIL/SHORTENING</field>
+	<field name = "titulo">ASCS BUYS PEANUT PRODUCTS, VEG OIL/SHORTENING</field>
 	<field name = "DATELINE">KANSAS CITY, March 5 -</field>
-	<field name = "BODY">The Agricultural Stabilization and
+	<field name = "content">The Agricultural Stabilization and
 Conservation Service (ASCS) bought 2.3 mln pounds of peanut
 products at a cost of 2.1 mln dlrs and 7.4 mln pounds of
 vegetable oil/shortening for 2.0 mln dlrs, for domestic

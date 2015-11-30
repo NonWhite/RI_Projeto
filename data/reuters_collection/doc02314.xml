@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 13:42:31.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0263reute
-r f BC-PHELPS-DODGE-PD>-FIL   03-05 0105</field>
-	<field name = "TITLE">PHELPS DODGE PD> FILES FOR OFFERING</field>
+	<field name = "titulo">PHELPS DODGE PD> FILES FOR OFFERING</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Phelps Dodge Corp said it filed a
+	<field name = "content">Phelps Dodge Corp said it filed a
 registration statement with the Securities and Exchange
 Commission for an offering of four mln depositary shares.
     Each depositary share represents one quarter share of a

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 11:56:24.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0299reute
-r f BC-SOUTHWEST-BANCORP-SW   04-17 0067</field>
-	<field name = "TITLE">SOUTHWEST BANCORP SWB> HAS HALF OF PREFERRED</field>
+	<field name = "titulo">SOUTHWEST BANCORP SWB> HAS HALF OF PREFERRED</field>
 	<field name = "DATELINE">VISTA, Calif., April 17 -</field>
-	<field name = "BODY">Southwest Bancorp said through
+	<field name = "content">Southwest Bancorp said through
 yesterday, it had receioved 53,571 shares of its 2.50 dlr
 cumulative convertible preferred stock in response to its offer
 to exchange 11 common shares for each of the 108,710 shares of

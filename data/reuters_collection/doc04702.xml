@@ -4,12 +4,9 @@
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">V
-f0474reute
-u f BC-MIYAZAWA-SAYS-PRESENT   03-13 0109</field>
-	<field name = "TITLE">MIYAZAWA SAYS PRESENT YEN NOT NECESSARILY IDEAL</field>
+	<field name = "titulo">MIYAZAWA SAYS PRESENT YEN NOT NECESSARILY IDEAL</field>
 	<field name = "DATELINE">TOKYO, March 13 -</field>
-	<field name = "BODY">Finance Minister Kiichi Miyazawa told a
+	<field name = "content">Finance Minister Kiichi Miyazawa told a
 parliamentary session the current dollar/yen exchange rate is
 not necessarily satisfactory for the Japanese economy.
     Miyazawa said the Paris currency accord among six major

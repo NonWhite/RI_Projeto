@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 10:48:50.71</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1229reute
-u f BC-PENNSYLVANIA-ENTERPRI   06-01 0106</field>
-	<field name = "TITLE">PENNSYLVANIA ENTERPRISES PENT.O> BID STANDS</field>
+	<field name = "titulo">PENNSYLVANIA ENTERPRISES PENT.O> BID STANDS</field>
 	<field name = "DATELINE">WILKES-BARRE, Pa., June 1 -</field>
-	<field name = "BODY">Utilities Investment Inc said
+	<field name = "content">Utilities Investment Inc said
 it still is offering to acquire Pennsylvania Enterprises Inc
 for 55 dlrs per share.
     It said it is prepared to negotiate its offer.

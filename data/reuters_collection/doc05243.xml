@@ -8,12 +8,9 @@
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "PLACES">libya</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f1413reute
-u f BC-MEES-SAYS-SECOND-WEEK   03-16 0116</field>
-	<field name = "TITLE">MEES SAYS SECOND WEEK MARCH OPEC OUTPUT 14 MLN BPD</field>
+	<field name = "titulo">MEES SAYS SECOND WEEK MARCH OPEC OUTPUT 14 MLN BPD</field>
 	<field name = "DATELINE">NICOSIA, March 16 -</field>
-	<field name = "BODY">OPEC produced only about 14 mln bpd of
+	<field name = "content">OPEC produced only about 14 mln bpd of
 oil in the second week of March -- 1.8 mln bpd below its
 ceiling -- largely because of pipeline problems in Turkey and
 Ecuador, the Middle East Economic Survey (MEES) estimated.

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 10:47:27.01</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">V
-f0778
-reute
-u f BC-BLACK-SOUTH-AFRICAN-M   03-02 0061</field>
-	<field name = "TITLE">BLACK SOUTH AFRICAN MINERS SEEK WAGE RISE</field>
+	<field name = "titulo">BLACK SOUTH AFRICAN MINERS SEEK WAGE RISE</field>
 	<field name = "DATELINE">JOHANNESBURG, March 2 -</field>
-	<field name = "BODY">The National Union of Mineworkers,
+	<field name = "content">The National Union of Mineworkers,
 NUM, said it will demand a 55 pct annual wage increase in
 upcoming negotiations with South Africa's mining companies.
     The union, representing some 360,000 black workers at about

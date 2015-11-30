@@ -2,13 +2,10 @@
 	<field name = "DATE">18-MAR-1987 18:21:11.66</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM C
-f9740reute
-u f BC-fin-futures-outlook   03-18 0095</field>
-	<field name = "TITLE">VOLATILITY LIKELY TO REMAIN LOW IN DEBT FUTURES</field>
+	<field name = "titulo">VOLATILITY LIKELY TO REMAIN LOW IN DEBT FUTURES</field>
 	<field name = "AUTHOR">By Brad Schade Reuters</field>
 	<field name = "DATELINE">CHICAGO, March 18 -</field>
-	<field name = "BODY">Financial analysts see little chance
+	<field name = "content">Financial analysts see little chance
 that U.S. interest rate futures will break out of their narrow
 ranges and low volatility during the remainder of the week.
     "We got a little volatility Wednesday," said Staley

@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:39:21.26C T</field>
-	<field name = "UNKNOWN">f1057reute</field>
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">icco</field>
-	<field name = "UNKNOWN">b f BC-COCOA-CONSUMERS-ACCEP   03-27 0085</field>
-	<field name = "TITLE">COCOA CONSUMERS ACCEPT COMPROMISE BUFFER PLAN</field>
+	<field name = "titulo">COCOA CONSUMERS ACCEPT COMPROMISE BUFFER PLAN</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">Consumer members of the International
+	<field name = "content">Consumer members of the International
 Cocoa Organization, ICCO, accepted a final buffer stock rules
 compromise, "on the condition that producers also agree,"
 consumer spokesman Peter Baron said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM
-f0126reute
-u f BC-OECD-CONSUMER-PRICES   04-17 0106</field>
-	<field name = "TITLE">OECD CONSUMER PRICES RISE IN FEBRUARY</field>
+	<field name = "titulo">OECD CONSUMER PRICES RISE IN FEBRUARY</field>
 	<field name = "DATELINE">PARIS, April 17 -</field>
-	<field name = "BODY">Consumer prices in the countries of the
+	<field name = "content">Consumer prices in the countries of the
 Organisation for Economic Cooperation and Development (OECD)
 rose 0.3 pct in February and inflation rose to 2.4 pct
 year-on-year, the OECD said in a communique.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">egypt</field>
 	<field name = "PLACES">sudan</field>
-	<field name = "UNKNOWN">RM
-f1301reute
-r f BC-SUDAN-REJECTS-IMF-DEM   03-24 0097</field>
-	<field name = "TITLE">SUDAN REJECTS IMF DEMAND FOR DEVALUATION</field>
+	<field name = "titulo">SUDAN REJECTS IMF DEMAND FOR DEVALUATION</field>
 	<field name = "DATELINE">CAIRO, March 24 -</field>
-	<field name = "BODY">Sudan has rejected a demand by the
+	<field name = "content">Sudan has rejected a demand by the
 International Monetary Fund for a currency devaluation because
 such a move would have a negative impact on its economy, the
 official Sudan News Agency (SUNA) reported.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 17:09:16.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0006reute
-h f BC-S/P-MAY-DOWNGRADE-MEP   03-03 0103</field>
-	<field name = "TITLE">S/P MAY DOWNGRADE MEPC PLC'S EUROBONDS</field>
+	<field name = "titulo">S/P MAY DOWNGRADE MEPC PLC'S EUROBONDS</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">Standard and Poor's said it is
+	<field name = "content">Standard and Poor's said it is
 reviewing MEPC Plc's> two A-rated eurobond issues totalling
 125 mln stg for a possible downgrade.
     The review follows the agreement by the British-based

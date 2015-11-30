@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 08:25:59.02</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">V
-f0694reute
-r f BC-SIX-KILLED-IN-SOUTH-A   04-13 0060</field>
-	<field name = "TITLE">SIX KILLED IN SOUTH AFRICAN MINE</field>
+	<field name = "titulo">SIX KILLED IN SOUTH AFRICAN MINE</field>
 	<field name = "DATELINE">JOHANNESBURG, April 13 -</field>
-	<field name = "BODY">Six workers were killed and four
+	<field name = "content">Six workers were killed and four
 injured in an undeground rock fall at South Africa's second
 largest gold mine today, the mine owners said.
     It was the third major mine accident in the country in less

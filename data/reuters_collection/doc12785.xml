@@ -3,12 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "TOPICS">soy-oil</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G
-f0430reute
-u f BC-INDIA-BUYS-VEGETABLE   04-03 0092</field>
-	<field name = "TITLE">INDIA BUYS VEGETABLE OILS, PAKISTAN TO RETENDER</field>
+	<field name = "titulo">INDIA BUYS VEGETABLE OILS, PAKISTAN TO RETENDER</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">The Indian State Trading Corporation
+	<field name = "content">The Indian State Trading Corporation
 (STC) bought 20,000 tonnes of optional origin soybean oil and
 6,000 tonnes of rbd palm olein at its import tender yesterday,
 traders said.

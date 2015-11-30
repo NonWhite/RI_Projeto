@@ -3,12 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">zimbabwe</field>
-	<field name = "UNKNOWN">G
-f2741reute
-r f BC-ZIMBABWE-CONFIRMS-HOO   03-28 0120</field>
-	<field name = "TITLE">ZIMBABWE CONFIRMS HOOF-AND-MOUTH DISEASE</field>
+	<field name = "titulo">ZIMBABWE CONFIRMS HOOF-AND-MOUTH DISEASE</field>
 	<field name = "DATELINE">HARARE, March 28 -</field>
-	<field name = "BODY">Zimbabwe has confirmed an outbreak of
+	<field name = "content">Zimbabwe has confirmed an outbreak of
 the animal-borne hoof-and-mouth disease, which prompted
 Botswana on Thursday to stop imports of almost all Zimbabwean
 meat products.

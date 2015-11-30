@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">RM A
-f1766reute
-r f BC-WASHINGTON-BUDGET   04-21 0106</field>
-	<field name = "TITLE">SENATE PREPARING FOR NEW U.S. BUDGET BATTLE</field>
+	<field name = "titulo">SENATE PREPARING FOR NEW U.S. BUDGET BATTLE</field>
 	<field name = "AUTHOR">By Michael Posner, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, April 21 -</field>
-	<field name = "BODY">Congress returned from its Easter
+	<field name = "content">Congress returned from its Easter
 recess ready for the annual Spring budget battle that promises
 to be a partisan dispute.
     The budget fight pitting Democrats against President Reagan

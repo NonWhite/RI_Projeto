@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 17:08:09.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2556reute
-u f BC-FORD-F>-MAY-CAR-OUTP   06-01 0043</field>
-	<field name = "TITLE">FORD F> MAY CAR OUTPUT UP 2.2 PCT</field>
+	<field name = "titulo">FORD F> MAY CAR OUTPUT UP 2.2 PCT</field>
 	<field name = "DATELINE">DETROIT, June 1 -</field>
-	<field name = "BODY">Ford Motor Co said its May North American
+	<field name = "content">Ford Motor Co said its May North American
 car production rose 2.2 pct to 213,790 from 209,109 last year.
     The company said its May truck production eased 4.7 pct to
 140,696 from 147,638 a year ago.

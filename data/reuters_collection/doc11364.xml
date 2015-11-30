@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f1332reute
-u f BC-DUTCH-MONEY-MARKET-DE   03-31 0099</field>
-	<field name = "TITLE">DUTCH MONEY MARKET DEBT EASES IN WEEK</field>
+	<field name = "titulo">DUTCH MONEY MARKET DEBT EASES IN WEEK</field>
 	<field name = "DATELINE">AMSTERDAM, March 31 -</field>
-	<field name = "BODY">Loans and advances from the Dutch
+	<field name = "content">Loans and advances from the Dutch
 Central Bank to the commercial banks fell 1.01 billion guilders
 to 9.5 billion guilders in the week ending March 30, the Bank's
 weekly return showed.

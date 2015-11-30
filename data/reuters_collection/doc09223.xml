@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0552reute
-r f BC-CENTRAL-BANKS-BUY-DOL   03-25 0084</field>
-	<field name = "TITLE">CENTRAL BANKS BUY DOLLARS FOR YEN IN LONDON</field>
+	<field name = "titulo">CENTRAL BANKS BUY DOLLARS FOR YEN IN LONDON</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">The Bank of Japan intervened to stem
+	<field name = "content">The Bank of Japan intervened to stem
 strong yen rises against the dollar during London trading this
 morning, dealers said.
     The Bank of Japan here declined comment.

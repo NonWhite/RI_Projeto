@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 09:46:04.73</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y 
-f3082reute
-u f BC-BP-CANADA-BPC.TO>-PR   06-18 0095</field>
-	<field name = "TITLE">BP CANADA BPC.TO> PROCEEDING WITH PROJECT</field>
+	<field name = "titulo">BP CANADA BPC.TO> PROCEEDING WITH PROJECT</field>
 	<field name = "DATELINE">CALGARY, Alberta, June 18 -</field>
-	<field name = "BODY">BP Canada Inc, 64 pct-owned by
+	<field name = "content">BP Canada Inc, 64 pct-owned by
 British Petroleum Co PLC, said it and state-owned Petro-Canada
 were proceeding with Wolf Lake 2, the second phase of a
 bitumen-recovery project in Wolf Lake, Alberta.

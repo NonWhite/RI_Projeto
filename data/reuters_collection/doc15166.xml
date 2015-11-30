@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:17:33.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1917reute
-r f BC-WESTERN-DIGITAL-WDC>   04-08 0040</field>
-	<field name = "TITLE">WESTERN DIGITAL WDC> DEBENTURES CONVERTED</field>
+	<field name = "titulo">WESTERN DIGITAL WDC> DEBENTURES CONVERTED</field>
 	<field name = "DATELINE">IRVINE, Calif., April 8 -</field>
-	<field name = "BODY">Western Digital Corp said its 47
+	<field name = "content">Western Digital Corp said its 47
 mln dlrs of 6-3/4 pct convertible debentures due 2011, which
 had been called for redemption, were converted into 2,685,142
 common shares.

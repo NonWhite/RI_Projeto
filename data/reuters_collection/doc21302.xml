@@ -4,12 +4,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">stoltenberg</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">A 
-f1682reute
-u f BC-STOLTENBERG-ASSUMES-C   10-19 0076</field>
-	<field name = "TITLE">STOLTENBERG ASSUMES COOPERATION WILL CONTINUE</field>
+	<field name = "titulo">STOLTENBERG ASSUMES COOPERATION WILL CONTINUE</field>
 	<field name = "DATELINE">BONN, Oct 19 -</field>
-	<field name = "BODY">The West German government assumes that the
+	<field name = "content">The West German government assumes that the
 commitment to international monetary cooperation which was
 renewed in Washington last month will continue, a Finance
 Ministry spokesman quoted Finance Minister Gerhard Stoltenberg

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">V RM 
-f0678reute
-u f BC-PENTAGON-HAS-NO-INFOR   10-19 0089</field>
-	<field name = "TITLE">PENTAGON HAS NO INFORMATION ON IRAN ATTACK RUMORS</field>
+	<field name = "titulo">PENTAGON HAS NO INFORMATION ON IRAN ATTACK RUMORS</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">A U.S. Defense Department spokesman
+	<field name = "content">A U.S. Defense Department spokesman
 said he had no information on London oil and stock market
 rumors that the United States had launched a retaliatory strike
 against Iran for an attack on Friday that damaged a U.S. shi

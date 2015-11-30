@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 19:02:18.21</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0859reute
-u f BC-INVESTORS-MORE-ACTIVE   03-12 0119</field>
-	<field name = "TITLE">INVESTORS MORE ACTIVE IN GILT MARKET, SURVEY SAYS</field>
+	<field name = "titulo">INVESTORS MORE ACTIVE IN GILT MARKET, SURVEY SAYS</field>
 	<field name = "DATELINE">LONDON, March 13 -</field>
-	<field name = "BODY">Institutional investors are finding it
+	<field name = "content">Institutional investors are finding it
 difficult to find "the best price" for transactions in U.K.
 Government bonds (gilts) and have become more active in the
 market since the deregulation of the London Stock Exchange in

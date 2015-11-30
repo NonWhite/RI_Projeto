@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:38:31.31</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0795reute
-r f BC-SPAIN'S-SOCIALISTS-HO   04-07 0098</field>
-	<field name = "TITLE">SPAIN'S SOCIALISTS HOLD OUT AGAINST STRIKERS</field>
+	<field name = "titulo">SPAIN'S SOCIALISTS HOLD OUT AGAINST STRIKERS</field>
 	<field name = "AUTHOR">By Jules Stewart, Reuters</field>
 	<field name = "DATELINE">MADRID, April 7 -</field>
-	<field name = "BODY">Widespread strikes have not seriously
+	<field name = "content">Widespread strikes have not seriously
 disrupted Spain's economy and wage restrictions are likely to
 continue as policy makers call for more austerity to help the
 country compete in the European Community (EC), foreign bankers

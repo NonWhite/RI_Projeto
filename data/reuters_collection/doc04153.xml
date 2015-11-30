@@ -2,13 +2,10 @@
 	<field name = "DATE">12-MAR-1987 08:40:31.14</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C G L M T
-f0788reute
-d f BC-CBT-HEAD-SAYS-POSITIO   03-12 0096</field>
-	<field name = "TITLE">CBT HEAD SAYS POSITION LIMITS HAVE NO PURPOSE</field>
+	<field name = "titulo">CBT HEAD SAYS POSITION LIMITS HAVE NO PURPOSE</field>
 	<field name = "AUTHOR">By Bruce Clark, Reuters</field>
 	<field name = "DATELINE">CHICAGO, March 12 -</field>
-	<field name = "BODY">The Commodity Futures Trading
+	<field name = "content">The Commodity Futures Trading
 Commission, CFTC, should increase speculative position limits
 on agricultural futures and do away with them for financial
 futures, Chicago Board of Trade, CBT, chairman Karsten Mahlmann

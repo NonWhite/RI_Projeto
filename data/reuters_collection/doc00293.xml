@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 04:11:39.02</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0761
-reute
-u f BC-INTERNATIONAL-LEISURE   03-02 0081</field>
-	<field name = "TITLE">INTERNATIONAL LEISURE NEGOIATING ON BOEING LEASE</field>
+	<field name = "titulo">INTERNATIONAL LEISURE NEGOIATING ON BOEING LEASE</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">International Leisure Group Plc> said
+	<field name = "content">International Leisure Group Plc> said
 its Air Europe> subsidiary was in advanced negotiations with
 manufacturers and banks for the lease of 10 Boeing Co> and 13
 Rolls-Royce Ltd> engines.

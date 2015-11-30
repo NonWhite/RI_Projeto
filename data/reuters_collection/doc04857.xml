@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 12:03:41.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0500reute
-d f BC-ELDON'S-ELD>-HEALTHW   03-13 0096</field>
-	<field name = "TITLE">ELDON'S ELD> HEALTHWAYS IN FINAL SETTLEMENT</field>
+	<field name = "titulo">ELDON'S ELD> HEALTHWAYS IN FINAL SETTLEMENT</field>
 	<field name = "DATELINE">ISELIN, N.J., March 12 -</field>
-	<field name = "BODY">HealthWays Inc, a unit of Eldon
+	<field name = "content">HealthWays Inc, a unit of Eldon
 Industries Inc, said it reached a final settlement of the
 year-old litigation with Central Jersey Individual Pratice
 Association, the Union County Medical Society and individual

@@ -3,12 +3,9 @@
 	<field name = "PLACES">uganda</field>
 	<field name = "ORGS">imf</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0114reute
-r f BC-WORLD-BANK-TEAM-ARRIV   03-03 0098</field>
-	<field name = "TITLE">WORLD BANK TEAM ARRIVES IN UGANDA</field>
+	<field name = "titulo">WORLD BANK TEAM ARRIVES IN UGANDA</field>
 	<field name = "DATELINE">KAMPALA, March 3 -</field>
-	<field name = "BODY">A World Bank team led by senior
+	<field name = "content">A World Bank team led by senior
 economist Katrine Saito arrived in Uganda for talks on an
 economic recovery program projected to cost one billion dlrs
 over three years.

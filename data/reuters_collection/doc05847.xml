@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 06:40:56.84</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f4474reute
-b f BC-U.K.-INDUSTRIAL-OUTPU   03-17 0102</field>
-	<field name = "TITLE">U.K. INDUSTRIAL OUTPUT RISES IN JANUARY</field>
+	<field name = "titulo">U.K. INDUSTRIAL OUTPUT RISES IN JANUARY</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">U.K. Industrial production rose a
+	<field name = "content">U.K. Industrial production rose a
 provisional 0.4 pct in January after a 0.6 pct decline in
 December 1986, figures from the Central Statistical Office
 show.

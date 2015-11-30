@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 14:54:15.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2212reute
-d f BC-BISCAYNE-HOLDINGS-BI   06-29 0100</field>
-	<field name = "TITLE">BISCAYNE HOLDINGS BISHA.O> REVERSE SPLIT OK'D</field>
+	<field name = "titulo">BISCAYNE HOLDINGS BISHA.O> REVERSE SPLIT OK'D</field>
 	<field name = "DATELINE">MIAMI, June 29 -</field>
-	<field name = "BODY">Biscayne Holdings Inc said its
+	<field name = "content">Biscayne Holdings Inc said its
 stockholders approved a one-for-three reverse stock split as a
 portion of the amendments approved to its certificate of
 incorporation.

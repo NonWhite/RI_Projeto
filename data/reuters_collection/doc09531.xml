@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">C G L M T
-f2137reute
-d f AM-TRADE-CANADA   03-25 0121</field>
-	<field name = "TITLE">U.S. SENATE TRADE LEADER CONCERNED ABOUT CANADA</field>
+	<field name = "titulo">U.S. SENATE TRADE LEADER CONCERNED ABOUT CANADA</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The chairman of the U.S. Senate
+	<field name = "content">The chairman of the U.S. Senate
 committee with jurisdiction over trade said he was concerned
 about a resolution on bilateral trade negotiations adopted by
 the Canadian House of Commons last week.

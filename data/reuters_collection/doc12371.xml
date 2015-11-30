@@ -12,12 +12,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f2665reute
-u f BC-/U.S.-HOUSE-PANEL-EXT   04-01 0127</field>
-	<field name = "TITLE">U.S. HOUSE PANEL EXTENDS EEP, URGES USSR OFFER</field>
+	<field name = "titulo">U.S. HOUSE PANEL EXTENDS EEP, URGES USSR OFFER</field>
 	<field name = "DATELINE">WASHINGTON, APRIL 1 -</field>
-	<field name = "BODY">The U.S. House Agriculture Committee
+	<field name = "content">The U.S. House Agriculture Committee
 approved proposals to extend the life of the Export Enhancement
 Program, EEP, through fiscal 1990 and urged the Reagan
 administration offer EEP wheat to the Soviet Union.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 12:17:14.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0657reute
-d f BC-SAAB-SCANIA-WINS-15-M   03-12 0054</field>
-	<field name = "TITLE">SAAB-SCANIA WINS 15 MLN DLR BUS CONTRACT</field>
+	<field name = "titulo">SAAB-SCANIA WINS 15 MLN DLR BUS CONTRACT</field>
 	<field name = "DATELINE">ORANGE, Conn., March 12 -</field>
-	<field name = "BODY">Saab-Scania AB> of Sweden said
+	<field name = "content">Saab-Scania AB> of Sweden said
 its Saab-Scania of America Inc unit was awarded a 15 mln dlr
 contract to supply transit busses to the transport services
 department of Honolulu, Hawaii.

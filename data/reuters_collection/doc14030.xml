@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 11:08:21.35</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">portugal</field>
-	<field name = "UNKNOWN">F
-f1175reute
-d f BC-PORTUGUESE-AIRLINE-CO   04-07 0122</field>
-	<field name = "TITLE">PORTUGUESE AIRLINE CONFIRMS AIRBUS A310 ORDER</field>
+	<field name = "titulo">PORTUGUESE AIRLINE CONFIRMS AIRBUS A310 ORDER</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Portugal's "flag carrier" airline TAP has
+	<field name = "content">Portugal's "flag carrier" airline TAP has
 confirmed an order for three Airbus Industrie AINP.PA>
 A310-300 passenger aircraft, British Aerospace Plc BAEL.L>
 (BAe), one of four shareholders in the international Airbus

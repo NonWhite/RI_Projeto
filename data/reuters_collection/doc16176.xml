@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 07:12:28.87</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0503reute
-r f BC-BANK-OF-JAPAN-TO-SELL   04-13 0101</field>
-	<field name = "TITLE">BANK OF JAPAN TO SELL 800 BILLION YEN IN BILLS</field>
+	<field name = "titulo">BANK OF JAPAN TO SELL 800 BILLION YEN IN BILLS</field>
 	<field name = "DATELINE">TOKYO, April 13 -</field>
-	<field name = "BODY">The Bank of Japan will sell 800 billion
+	<field name = "content">The Bank of Japan will sell 800 billion
 yen in deficit financing bills today through 51-day repurchase
 agreements maturing June 3 to help absorb a projected money
 market surplus, money traders said.

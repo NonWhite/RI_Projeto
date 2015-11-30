@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 16:50:48.69</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0662reute
-u f BC-CANADA-TRANSFER-PAYME   03-11 0096</field>
-	<field name = "TITLE">CANADA TRANSFER PAYMENTS TO PROVINCES UP FIVE PCT</field>
+	<field name = "titulo">CANADA TRANSFER PAYMENTS TO PROVINCES UP FIVE PCT</field>
 	<field name = "DATELINE">OTTAWA, March 11 -</field>
-	<field name = "BODY">The federal government's transfer
+	<field name = "content">The federal government's transfer
 payments to seven provinces will rise by five pct over the next
 two years, the finance department announced.
     The payments, used by poorer provinces to fund various

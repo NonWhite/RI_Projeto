@@ -4,13 +4,9 @@
 	<field name = "TOPICS">platinum</field>
 	<field name = "TOPICS">strategic-metal</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">C M
-f0883
-reute
-u f BC-BLACK-MINERS-SUPPORT   03-02 0115</field>
-	<field name = "TITLE">BLACK MINERS SUPPORT S. AFRICAN MINES TAKEOVER</field>
+	<field name = "titulo">BLACK MINERS SUPPORT S. AFRICAN MINES TAKEOVER</field>
 	<field name = "DATELINE">SOWETO, South Africa, March 2 -</field>
-	<field name = "BODY">Thousands of black
+	<field name = "content">Thousands of black
 mineworkers roared support for a union proposal to seize
 control of South Africa's gold, uranium, platinum and coal
 mines if the owners refuse to improve conditions for migrant

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:22:26.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2565reute
-r f BC-THL-HOLDINGS-PLANS-TO   03-26 0084</field>
-	<field name = "TITLE">THL HOLDINGS PLANS TO REDEEM UNIT'S PREFERRED</field>
+	<field name = "titulo">THL HOLDINGS PLANS TO REDEEM UNIT'S PREFERRED</field>
 	<field name = "DATELINE">CANTON, Mass., March 26 -</field>
-	<field name = "BODY">THL Holdings Inc> said a purpose
+	<field name = "content">THL Holdings Inc> said a purpose
 of its planned common stock offering would be to redeem its
 Series B preferred stock of its subsidiary, SCOA Industries Inc
 SCOA>.

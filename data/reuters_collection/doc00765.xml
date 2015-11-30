@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:20:33.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0035
-reute
-u f BC-SAATCHI-AND-SAATCHI-   03-02 0087</field>
-	<field name = "TITLE">SAATCHI AND SAATCHI SACHY> COMBINES UNITS</field>
+	<field name = "titulo">SAATCHI AND SAATCHI SACHY> COMBINES UNITS</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">AC and R Advertising, a subsidiary of
+	<field name = "content">AC and R Advertising, a subsidiary of
 Ted Bates Worldwide, a unit of one of the largest advertising
 agencies in the U.S., Saatchi and Saatchi, said it will merge
 with two other Bates units to form a new entity under Bates

@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 10:08:28.26</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0447reute
-r f BC-BELGIAN-UNEMPLOYMENT   03-03 0086</field>
-	<field name = "TITLE">BELGIAN UNEMPLOYMENT FALLS IN FEBRUARY</field>
+	<field name = "titulo">BELGIAN UNEMPLOYMENT FALLS IN FEBRUARY</field>
 	<field name = "DATELINE">BRUSSELS, March 3 -</field>
-	<field name = "BODY">Belgian unemployment, based on the
+	<field name = "content">Belgian unemployment, based on the
 number of jobless drawing unemployment benefit, fell to 12.1
 pct of the working population at the end of February from 12.6
 pct at the end of January, the National Statistics Office said.

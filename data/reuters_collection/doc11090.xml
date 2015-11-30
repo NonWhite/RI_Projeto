@@ -6,12 +6,9 @@
 	<field name = "TOPICS">sorghum</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f2594reute
-u f BC-TEXAS-WEEKLY-CROP-REP   03-30 0127</field>
-	<field name = "TITLE">TEXAS WEEKLY CROP REPORT</field>
+	<field name = "titulo">TEXAS WEEKLY CROP REPORT</field>
 	<field name = "DATELINE">AUSTIN, March 30 -</field>
-	<field name = "BODY">The Texas weekly USDA state crop report
+	<field name = "content">The Texas weekly USDA state crop report
 said stormy winter weather limited fieldwork before conditions
 improved later in the week.
     A snowstorm caused some cattle deaths in the Panhandle, and

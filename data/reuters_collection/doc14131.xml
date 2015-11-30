@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:37:10.88</field>
-	<field name = "UNKNOWN">G
-f1318reute
-r f BC-U.K.-GRAIN-FUTURES-CL   04-07 0086</field>
-	<field name = "TITLE">U.K. GRAIN FUTURES CLOSE STEADY TO FIRMER</field>
+	<field name = "titulo">U.K. GRAIN FUTURES CLOSE STEADY TO FIRMER</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Barley futures closed 0.15 to 0.05 stg
+	<field name = "content">Barley futures closed 0.15 to 0.05 stg
 per tonne higher and wheat 0.60 to 0.20 firmer. Barley turnover
 was light at 47 lots, including 24 cross transactions, while
 the wheat volume totalled 197 lots, of which 81 were self

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 16:15:29.00</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">egypt</field>
-	<field name = "UNKNOWN">C G L 
-f3019reute
-u f BC-EEP-DAIRY-CATTLE-INIT   10-19 0113</field>
-	<field name = "TITLE">EEP DAIRY CATTLE INITIATIVE TO EGYPT WITHDRAWN</field>
+	<field name = "titulo">EEP DAIRY CATTLE INITIATIVE TO EGYPT WITHDRAWN</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">The U.S. Agriculture Department has
+	<field name = "content">The U.S. Agriculture Department has
 withdrawn the offers of dairy cattle to Egypt under the Export
 Enhancement Program.
     The department said the initiative for 10,000 head of dairy

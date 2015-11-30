@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 13:38:45.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1965reute
-h f BC-GROUP-SAYS-AIDS-TRANS   03-24 0102</field>
-	<field name = "TITLE">GROUP SAYS AIDS TRANSFUSION FEARS EXAGGERATED</field>
+	<field name = "titulo">GROUP SAYS AIDS TRANSFUSION FEARS EXAGGERATED</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">A top official of a major
+	<field name = "content">A top official of a major
 association of blood banks said Americans' fears of getting 
 AIDS from tainted blood transfusions were greatly exaggerated.
     "The (blood banking) system is strong," Edwin Steane,

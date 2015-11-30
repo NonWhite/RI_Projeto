@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 02:28:01.58</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1134reute
-u f BC-VW-CURRENCY-LOSSES-SE   03-16 0105</field>
-	<field name = "TITLE">VW CURRENCY LOSSES SEEN INVOLVING SEVERAL TRADERS</field>
+	<field name = "titulo">VW CURRENCY LOSSES SEEN INVOLVING SEVERAL TRADERS</field>
 	<field name = "AUTHOR">By Allan Saunderson, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 16 -</field>
-	<field name = "BODY">The extraordinary foreign exchange
+	<field name = "content">The extraordinary foreign exchange
 loss of 480 mln marks reported last week by Volkswagen AG
 VOWG.F> (VW) is so large that outside currency traders were
 probably involved in the case, currency sources said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 12:01:30.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0939reute
-d f BC-SAVIN-SVB>-IN-PACT-W   03-03 0050</field>
-	<field name = "TITLE">SAVIN SVB> IN PACT WITH SUN CHEMICAL SNLA></field>
+	<field name = "titulo">SAVIN SVB> IN PACT WITH SUN CHEMICAL SNLA></field>
 	<field name = "DATELINE">STAMFORD, Conn., March 3 -</field>
-	<field name = "BODY">Savin Corp said it has reached
+	<field name = "content">Savin Corp said it has reached
 an agreement for Sun Chemical Corp to study the potential of
 Savin infrared technology for possible use in classified U.S.
 military applications.

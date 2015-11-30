@@ -3,13 +3,10 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0805reute
-u f BC-SOVIET-GRAINS-SEEN-EN   03-03 0136</field>
-	<field name = "TITLE">SOVIET GRAINS SEEN ENTERING SPRING ON SHAKY NOTE</field>
+	<field name = "titulo">SOVIET GRAINS SEEN ENTERING SPRING ON SHAKY NOTE</field>
 	<field name = "AUTHOR">by Maggie McNeil, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">Soviet winter grains could be off to
+	<field name = "content">Soviet winter grains could be off to
 a faulty start this spring after enduring an usually dry fall
 and cold winter, weather and crop analysts said.
     Prospects for another near-record grain harvest in the

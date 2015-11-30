@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f2358reute
-b f BC-/FED'S-JOHNSON-WARNS   10-19 0092</field>
-	<field name = "TITLE">FED'S JOHNSON WARNS AGAINST LOWER DOLLAR</field>
+	<field name = "titulo">FED'S JOHNSON WARNS AGAINST LOWER DOLLAR</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">Federal Reserve Board Vice-Chairman
+	<field name = "content">Federal Reserve Board Vice-Chairman
 Manuel Johnson cautioned against seeking "quick-fix solutions" to
 persistent U.S. trade and federal budget deficits.
     In particular, he told an American Stock Exchange

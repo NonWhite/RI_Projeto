@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 15:37:45.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0427reute
-r f BC-ALASKA-AIR-ALK>-UNIT   03-06 0105</field>
-	<field name = "TITLE">ALASKA AIR ALK> UNIT HAS LOWER LOAD FACTOR</field>
+	<field name = "titulo">ALASKA AIR ALK> UNIT HAS LOWER LOAD FACTOR</field>
 	<field name = "DATELINE">SEATTLE, March 6 -</field>
-	<field name = "BODY">Alaska Air Group Inc said its Alaska
+	<field name = "content">Alaska Air Group Inc said its Alaska
 Airlines unit's February load factor fell to 49 pct from 51 pct
 during the same month last year and its year-to-date load
 factor was 49 pct, down from 50 a year ago.

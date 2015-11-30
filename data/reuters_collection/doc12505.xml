@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 09:05:51.64</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0872reute
-d f BC-NORTH-EAST-INSURANCE   04-02 0054</field>
-	<field name = "TITLE">NORTH EAST INSURANCE CO NEIC> 4TH QTR LOSS</field>
+	<field name = "titulo">NORTH EAST INSURANCE CO NEIC> 4TH QTR LOSS</field>
 	<field name = "DATELINE">PORTLAND, Maine, April 2 -</field>
-	<field name = "BODY">Shr loss 85 cts vs loss 1.36 dlrs
+	<field name = "content">Shr loss 85 cts vs loss 1.36 dlrs
     Net loss 1,653,386 vs loss 2,646,876
     Year
     Shr loss 12 cts vs loss 1.30 dlrs

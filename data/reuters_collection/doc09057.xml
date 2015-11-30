@@ -5,13 +5,10 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2618reute
-u f BC-/U.S.-CORN-ACREAGE-SE   03-24 0134</field>
-	<field name = "TITLE">U.S. CORN ACREAGE SEEN NEAR RECORD LOW</field>
+	<field name = "titulo">U.S. CORN ACREAGE SEEN NEAR RECORD LOW</field>
 	<field name = "AUTHOR">by Maggie McNeil, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">U.S. corn acreage this year is 
+	<field name = "content">U.S. corn acreage this year is 
 likely to drop to the lowest level since the unsurpassed
 acreage reductions of the 1983 PIK year and could rank as one
 of the lowest corn plantings in the United States in sixty

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 07:15:42.79</field>
 	<field name = "PLACES">uganda</field>
-	<field name = "UNKNOWN">RM 
-f0547reute
-u f BC-MAIN-UGANDA-KENYA-ROA   10-19 0116</field>
-	<field name = "TITLE">MAIN UGANDA-KENYA ROAD REOPENS AS REBELS DISPERSE</field>
+	<field name = "titulo">MAIN UGANDA-KENYA ROAD REOPENS AS REBELS DISPERSE</field>
 	<field name = "DATELINE">KAMPALA, Oct 19 -</field>
-	<field name = "BODY">The main road between Kampala and the
+	<field name = "content">The main road between Kampala and the
 Kenya border, Uganda's most important trade artery, reopened to
 civilian traffic on Saturday after rebels who closed it on
 Friday disappeared back into the bush, travellers said.

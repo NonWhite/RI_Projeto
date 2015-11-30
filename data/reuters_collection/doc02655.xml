@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:22:43.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0517reute
-u f BC-P.S.-INDIANA-PIN>-BO   03-06 0107</field>
-	<field name = "TITLE">P.S. INDIANA PIN> BONDS UPGRADED BY S/P</field>
+	<field name = "titulo">P.S. INDIANA PIN> BONDS UPGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it raised
+	<field name = "content">Standard and Poor's Corp said it raised
 to BBB-plus from BBB Public Service Co of Indiana's first
 mortgage bonds.
     The utility's BBB-minus preferred stock was affirmed. The

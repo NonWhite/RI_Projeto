@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">F A RM 
-f2321reute
-b f BC-/PENTAGON-STOPS-NEW-B   06-19 0083</field>
-	<field name = "TITLE">PENTAGON STOPS NEW BUSINESS WITH TOSHIBA</field>
+	<field name = "titulo">PENTAGON STOPS NEW BUSINESS WITH TOSHIBA</field>
 	<field name = "DATELINE">WASHINGTON, June 19 -</field>
-	<field name = "BODY">The Pentagon has stopped approving
+	<field name = "content">The Pentagon has stopped approving
 any new military contracts to Japan's Toshiba Corp TSBA.T>
 over a Toshiba subsidiary's transfer of submarine technology to
 the Soviet Union, a senior defense official said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G
-f0328reute
-b f BC-ROTTERDAM'S-MAIN-GRAI   04-03 0104</field>
-	<field name = "TITLE">ROTTERDAM'S MAIN GRAIN TERMINAL CLOSED BY STRIKE</field>
+	<field name = "titulo">ROTTERDAM'S MAIN GRAIN TERMINAL CLOSED BY STRIKE</field>
 	<field name = "DATELINE">ROTTERDAM, April 3 -</field>
-	<field name = "BODY">Grain handling at Rotterdam port's
+	<field name = "content">Grain handling at Rotterdam port's
 main grain terminal was at a standstill today as members of the
 largest Dutch transport union FNV staged a lightning strike for
 the third day running.

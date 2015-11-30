@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 11:12:43.58</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1338reute
-b f BC-/-FED-EXPECTED-TO-SET   04-08 0110</field>
-	<field name = "TITLE">FED EXPECTED TO SET CUSTOMER REPURCHASES</field>
+	<field name = "titulo">FED EXPECTED TO SET CUSTOMER REPURCHASES</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">The Federal Reserve is expected to
+	<field name = "content">The Federal Reserve is expected to
 intervene in the government securities market to supply
 temporary reserves indirectly via customer repurchase
 agreements, economists said.

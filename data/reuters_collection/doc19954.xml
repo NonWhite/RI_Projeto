@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 17:57:11.43</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2732reute
-u f BC-CONTEL-CTC>-UNIT-SAL   06-29 0101</field>
-	<field name = "TITLE">CONTEL CTC> UNIT SALES SEEN BY ANALYSTS</field>
+	<field name = "titulo">CONTEL CTC> UNIT SALES SEEN BY ANALYSTS</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Contel Corp's telecommunications
+	<field name = "content">Contel Corp's telecommunications
 equipment unit is the most likely candidate for sale by the
 Atlanta-based telecommunications company, Wall Street analysts
 said.

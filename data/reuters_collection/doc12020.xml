@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 11:24:00.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1377reute
-r f BC-TOWLE-QTOW>-STOCK-MA   04-01 0103</field>
-	<field name = "TITLE">TOWLE QTOW> STOCK MAY BE DILUTED, CANCELED</field>
+	<field name = "titulo">TOWLE QTOW> STOCK MAY BE DILUTED, CANCELED</field>
 	<field name = "DATELINE">BOSTON, Mass., April 1 -</field>
-	<field name = "BODY">Towle Manufacturing Co, in Chapter
+	<field name = "content">Towle Manufacturing Co, in Chapter
 11 of the U.S. bankruptcy code, said any plan of reorganization
 would likely lead to a dilution or cancellation of its common
 and preferred stock.

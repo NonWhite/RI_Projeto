@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 11:28:05.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8315reute
-u f BC-/RENAULT-TO-FORGIVE-A   03-18 0114</field>
-	<field name = "TITLE">RENAULT TO FORGIVE AMERICAN MOTORS AMO> DEBT</field>
+	<field name = "titulo">RENAULT TO FORGIVE AMERICAN MOTORS AMO> DEBT</field>
 	<field name = "DATELINE">DETROIT, March 18 -</field>
-	<field name = "BODY">France's Regie Nationale des Usines
+	<field name = "content">France's Regie Nationale des Usines
 Renault> agreed to forgive 150 mln to 200 mln dlrs of American
 Motors Corp debt as part of Chrysler Corp's C> 1.5 billion dlr
 acquisition of American Motors, a Chrysler official said.

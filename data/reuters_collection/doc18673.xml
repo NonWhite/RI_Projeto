@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 10:15:17.31</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f3170reute
-b f BC-/FED-GOVERNOR-SEGER-S   06-18 0098</field>
-	<field name = "TITLE">FED GOVERNOR SEGER SEES CURRENCY STABILITY</field>
+	<field name = "titulo">FED GOVERNOR SEGER SEES CURRENCY STABILITY</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">Federal Reserve Board Governor Martha
+	<field name = "content">Federal Reserve Board Governor Martha
 Seger said there were signs of helpful stability in foreign
 exchange markets in recent weeks.
     "I think we are beginning to see more calm in those markets,"

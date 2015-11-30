@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 09:52:16.12</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0920reute
-b f BC-/CITICORP-CCI>-DENIE   03-13 0093</field>
-	<field name = "TITLE">CITICORP CCI> DENIES RUMORS OF DEBT WRITEDOWN</field>
+	<field name = "titulo">CITICORP CCI> DENIES RUMORS OF DEBT WRITEDOWN</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">Citicorp denied financial market
+	<field name = "content">Citicorp denied financial market
 rumors that it has written off some of its loans to Latin
 American debtors,
     "Rumors that we have written off any of our Latin American

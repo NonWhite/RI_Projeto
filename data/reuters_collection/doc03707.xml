@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 11:25:22.19</field>
 	<field name = "TOPICS">housing</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C M
-f0556reute
-u f BC-U.S.-HOSUING-COMPLETI   03-11 0107</field>
-	<field name = "TITLE">U.S. HOSUING COMPLETIONS FELL 0.2 PCT IN JANUARY</field>
+	<field name = "titulo">U.S. HOSUING COMPLETIONS FELL 0.2 PCT IN JANUARY</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">U.S. Completions of new homes fell
+	<field name = "content">U.S. Completions of new homes fell
 0.2 pct in January to a seasonally adjusted rate of 1.884 mln
 units from 1.888 mln in December, the Commerce Department said.
     The January fall came after a strong 6.4 pct rise from

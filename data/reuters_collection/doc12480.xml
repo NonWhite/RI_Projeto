@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 08:10:53.07</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0741reute
-b f BC-HOKKAIDO-TAKUSHOKU-BA   04-02 0095</field>
-	<field name = "TITLE">HOKKAIDO TAKUSHOKU BANK ISSUES 100 MLN SFR NOTES</field>
+	<field name = "titulo">HOKKAIDO TAKUSHOKU BANK ISSUES 100 MLN SFR NOTES</field>
 	<field name = "DATELINE">ZURICH, April 2 -</field>
-	<field name = "BODY">Hokkaido Takushoku Bank Ltd is launching
+	<field name = "content">Hokkaido Takushoku Bank Ltd is launching
 100 mln Swiss francs of convertible notes due September 30,
 1992, indicated at 1-1/4 pct and par, lead manager Swiss Bank
 Corp said.

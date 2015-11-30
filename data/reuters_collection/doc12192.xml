@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 14:16:12.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2045reute
-r f BC-CHEVRON-CHV>-UNIT-AC   04-01 0111</field>
-	<field name = "TITLE">CHEVRON CHV> UNIT ACCEPTS AMERICAN EXPRESS</field>
+	<field name = "titulo">CHEVRON CHV> UNIT ACCEPTS AMERICAN EXPRESS</field>
 	<field name = "DATELINE">SAN FRANCISCO, April 1 -</field>
-	<field name = "BODY">Chevron Corp's domestic oil and
+	<field name = "content">Chevron Corp's domestic oil and
 gas unit, Chevron USA, said it will honor American Express
 cards at all of the company's Chevron outlets but only some of
 its Gulf branded outlets.

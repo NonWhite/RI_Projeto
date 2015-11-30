@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 16:04:38.50</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E 
-f2267reute
-r f BC-LLOYDS-BANK-CANADA-NA   06-19 0098</field>
-	<field name = "TITLE">LLOYDS BANK CANADA NAMES NEW CHIEF EXECUTIVE</field>
+	<field name = "titulo">LLOYDS BANK CANADA NAMES NEW CHIEF EXECUTIVE</field>
 	<field name = "DATELINE">TORONTO, June 19 -</field>
-	<field name = "BODY">Lloyds Bank Canada, a unit of Lloyds
+	<field name = "content">Lloyds Bank Canada, a unit of Lloyds
 Bank LLOY.L> PLC  said it appointed David Drake chief
 executive replacing David Lewis, who will remain as
 vice-chairman, effective June 30.

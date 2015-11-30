@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 14:02:24.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F
-f0378reute
-u f BC-SECURITY-PACIFIC-SPC   04-17 0100</field>
-	<field name = "TITLE">SECURITY PACIFIC SPC> DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">SECURITY PACIFIC SPC> DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, April 17 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 downgraded 3.7 billion dlrs of debt of Security Pacific Corp,
 lead bank Security Pacific National Bank and other units.
     Moody's said it is concerned over the outlook for

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 01:25:56.05</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI
-f0069reute
-b f BC-BUNDESBANK-REPORTED-T   06-01 0088</field>
-	<field name = "TITLE">BUNDESBANK REPORTED TO HAVE NO PLAN FOR RATE CUT</field>
+	<field name = "titulo">BUNDESBANK REPORTED TO HAVE NO PLAN FOR RATE CUT</field>
 	<field name = "DATELINE">TOKYO, June 1 -</field>
-	<field name = "BODY">Bundesbank Deputy President Helmut
+	<field name = "content">Bundesbank Deputy President Helmut
 Schlesinger said the West German central bank had no plan to
 cut its three pct discount rate, Nihon Keizai newspaper
 reported.

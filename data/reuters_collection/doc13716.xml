@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 09:21:08.92</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0746reute
-b f BC-INTERCO-INC-ISS>-4TH   04-07 0056</field>
-	<field name = "TITLE">INTERCO INC ISS> 4TH QTR FEB 28 NET</field>
+	<field name = "titulo">INTERCO INC ISS> 4TH QTR FEB 28 NET</field>
 	<field name = "DATELINE">ST. LOUIS, April 7 -</field>
-	<field name = "BODY">Shr 99 cts vs 97 cts
+	<field name = "content">Shr 99 cts vs 97 cts
     Net 31,011,000 vs 30,899,000
     Sales 651.5 mln vs 583.1 mln
     Year

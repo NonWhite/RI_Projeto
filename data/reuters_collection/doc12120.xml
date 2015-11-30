@@ -4,12 +4,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">lawson</field>
-	<field name = "UNKNOWN">A
-f1766reute
-b f BC-LAWSON-WANTS-STERLING   04-01 0109</field>
-	<field name = "TITLE">LAWSON WANTS STERLING AROUND 1.60 DLRS, 2.90 MKS</field>
+	<field name = "titulo">LAWSON WANTS STERLING AROUND 1.60 DLRS, 2.90 MKS</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">U.K. Chancellor of the Exchequer Nigel
+	<field name = "content">U.K. Chancellor of the Exchequer Nigel
 Lawson said he wanted sterling to stay roughly where it was,
 specifying a rate of around 2.90 marks and 1.60 dlrs.
     He told the National Economic Development Council that the

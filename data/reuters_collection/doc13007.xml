@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 12:52:47.08</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1708reute
-r f BC-FHLBB-SAYS-MORTGAGE-R   04-03 0103</field>
-	<field name = "TITLE">FHLBB SAYS MORTGAGE RATES CONTINUE DECLINE</field>
+	<field name = "titulo">FHLBB SAYS MORTGAGE RATES CONTINUE DECLINE</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The Federal Home Loan Bank Board said
+	<field name = "content">The Federal Home Loan Bank Board said
 home mortgage rates fell from early February to early March to
 their lowest point in nine years, but the rate of decline was
 slower than it had been in recent months.

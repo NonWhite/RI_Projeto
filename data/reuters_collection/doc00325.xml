@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 06:41:06.17</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0005
-reute
-u f BC-SNCF-ISSUING-THREE-BI   03-02 0086</field>
-	<field name = "TITLE">SNCF ISSUING THREE BILLION FRANC DOMESTIC BOND</field>
+	<field name = "titulo">SNCF ISSUING THREE BILLION FRANC DOMESTIC BOND</field>
 	<field name = "DATELINE">PARIS, March 2 -</field>
-	<field name = "BODY">The French state railway company, the Ste
+	<field name = "content">The French state railway company, the Ste
 Nationale des Chemins de Fer Francaise (SNCF), is issuing a
 three billion French franc domestic bond in two tranches, the
 bond issuing committee said.

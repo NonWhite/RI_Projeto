@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:07:02.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1031reute
-r f BC-EQUITABLE-RESOURCES-   04-08 0114</field>
-	<field name = "TITLE">EQUITABLE RESOURCES EQT> FILES UNIT OFFERING</field>
+	<field name = "titulo">EQUITABLE RESOURCES EQT> FILES UNIT OFFERING</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Equitable Resources Inc said it filed
+	<field name = "content">Equitable Resources Inc said it filed
 with the Securities and Exchange Commission a registration
 statement covering a 75 mln dlr issue of units.
     Each unit will consist of a 1,000 dlr face amount 25-year

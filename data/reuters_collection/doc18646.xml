@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 09:38:57.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3055reute
-s f BC-FIRSTCORP-INC-FCR>-S   06-18 0023</field>
-	<field name = "TITLE">FIRSTCORP INC FCR> SETS QUARTERLY</field>
+	<field name = "titulo">FIRSTCORP INC FCR> SETS QUARTERLY</field>
 	<field name = "DATELINE">RALEIGH, N.C., June 18 -</field>
-	<field name = "BODY">Qtly div nine cts vs nine cts prior
+	<field name = "content">Qtly div nine cts vs nine cts prior
     Pay July 31
     Record June 30
  Reuter</field>

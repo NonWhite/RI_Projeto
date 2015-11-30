@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0020reute
-u f BC-AUSTRALIAN-TERMS-OF-T   03-13 0108</field>
-	<field name = "TITLE">AUSTRALIAN TERMS OF TRADE WORSEN IN LAST QUARTER</field>
+	<field name = "titulo">AUSTRALIAN TERMS OF TRADE WORSEN IN LAST QUARTER</field>
 	<field name = "DATELINE">CANBERRA, March 13 -</field>
-	<field name = "BODY">Australia's terms of trade fell by a
+	<field name = "content">Australia's terms of trade fell by a
 further 3.5 pct in the fourth quarter of 1986 after declining
 0.8 pct in the third quarter and 2.7 pct a year earlier, the
 Statistics Bureau said.

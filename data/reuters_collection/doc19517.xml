@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 05:00:46.29</field>
-	<field name = "UNKNOWN">T 
-f0300reute
-r f BC-PARIS-SUGAR-OPEN-POSI   06-29 0022</field>
-	<field name = "TITLE">PARIS SUGAR OPEN POSITION - JUNE 29</field>
+	<field name = "titulo">PARIS SUGAR OPEN POSITION - JUNE 29</field>
 	<field name = "DATELINE">- Position of june 26 -</field>
-	<field name = "BODY">Aug 12414
+	<field name = "content">Aug 12414
  Oct 13929
  Dec 1403
  Mar 2901

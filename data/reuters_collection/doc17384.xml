@@ -4,12 +4,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">RM M G C
-f0564reute
-r f BC-THAI-ECONOMY-TO-ACHIE   04-29 0105</field>
-	<field name = "TITLE">THAI ECONOMY TO ACHIEVE FIVE PCT GROWTH THIS YEAR</field>
+	<field name = "titulo">THAI ECONOMY TO ACHIEVE FIVE PCT GROWTH THIS YEAR</field>
 	<field name = "DATELINE">BANGKOK, April 29 -</field>
-	<field name = "BODY">Thailand's gross domestic product will
+	<field name = "content">Thailand's gross domestic product will
 expand five pct this calendar year, up from 3.8 pct in 1986,
 despite a projected slight decline in agricultural output due
 to drought, the Bank of Thailand said.

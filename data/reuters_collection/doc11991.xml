@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:54:44.35</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">howard-baker</field>
-	<field name = "UNKNOWN">A
-f1240reute
-d f AM-REAGAN-APPOINTMENT   04-01 0132</field>
-	<field name = "TITLE">HOWARD BAKER AIDE EXPECTED TO GET TOP JOB</field>
+	<field name = "titulo">HOWARD BAKER AIDE EXPECTED TO GET TOP JOB</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">The White House is expected today to
+	<field name = "content">The White House is expected today to
 name Thomas Griscom, a longtime aide to chief of staff Howard
 Baker, as President Reagan's communications director.
     Officials said an announcement was expected to be made

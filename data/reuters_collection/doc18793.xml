@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:22:37.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3779reute
-r f BC-HOLDER-HOLD.O>-REORG   06-18 0096</field>
-	<field name = "TITLE">HOLDER HOLD.O> REORGANIZATION PLAN APPROVED</field>
+	<field name = "titulo">HOLDER HOLD.O> REORGANIZATION PLAN APPROVED</field>
 	<field name = "DATELINE">TAMPA, Fla., June 18 -</field>
-	<field name = "BODY">Holder Communications Corp said
+	<field name = "content">Holder Communications Corp said
 stockholders approved its reorganization plan with the General
 Masonry Group> in Nashville, Tenn.
     The company said also approved was its name change to GMX

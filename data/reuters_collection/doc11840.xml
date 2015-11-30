@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">sweden</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C M
-f0501reute
-u f BC-BOLIDEN-TAKES-OVER-AL   04-01 0093</field>
-	<field name = "TITLE">BOLIDEN TAKES OVER ALLIS-CHALMERS DIVISION</field>
+	<field name = "titulo">BOLIDEN TAKES OVER ALLIS-CHALMERS DIVISION</field>
 	<field name = "DATELINE">STOCKHOLM, April 1 -</field>
-	<field name = "BODY">Swedish mining and metals group
+	<field name = "content">Swedish mining and metals group
 Boliden AB said it would buy the mining equipment operations of
 the U.S. Allis-Chalmers Corp, amounting to more than 50 pct of
 group sales, for 600 mln crowns.

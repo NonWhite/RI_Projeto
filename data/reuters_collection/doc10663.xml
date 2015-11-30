@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-MAR-1987 22:27:39.54</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">RM
-f0172reute
-u f BC-USSR-TO-HOLD-MULTI-CA   03-29 0109</field>
-	<field name = "TITLE">USSR TO HOLD MULTI-CANDIDATE LOCAL ELECTIONS</field>
+	<field name = "titulo">USSR TO HOLD MULTI-CANDIDATE LOCAL ELECTIONS</field>
 	<field name = "DATELINE">MOSCOW, March 30 -</field>
-	<field name = "BODY">The USSR will hold local council
+	<field name = "content">The USSR will hold local council
 elections on June 21 at which voters in some districts will
 have a choice of candidates as part of an experiment in
 electoral reform, the Tass News Agency said.

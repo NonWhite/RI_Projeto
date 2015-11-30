@@ -3,13 +3,9 @@
 	<field name = "TOPICS">tin</field>
 	<field name = "PLACES">malaysia</field>
 	<field name = "PLACES">zaire</field>
-	<field name = "UNKNOWN">M C
-f0708
-reute
-u f BC-ZAIRE-ACCEPTS-TIN-EXP   03-03 0102</field>
-	<field name = "TITLE">ZAIRE ACCEPTS TIN-EXPORT QUOTA, ATPC SAYS</field>
+	<field name = "titulo">ZAIRE ACCEPTS TIN-EXPORT QUOTA, ATPC SAYS</field>
 	<field name = "DATELINE">KUALA LUMPUR, March 3 -</field>
-	<field name = "BODY">Zaire agreed to limit its tin
+	<field name = "content">Zaire agreed to limit its tin
 exports to 1,736 tonnes for 12 months from March 1 in line with
 an Association of Tin Producing Countries (ATPC) plan to curb
 exports, the ATPC said.

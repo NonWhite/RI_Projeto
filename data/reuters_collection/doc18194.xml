@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:13:38.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2164reute
-d f BC-DISC-DSTC.O>-GETS-OR   06-02 0047</field>
-	<field name = "TITLE">DISC DSTC.O> GETS ORDER FROM MINISCRIBEMINY.O></field>
+	<field name = "titulo">DISC DSTC.O> GETS ORDER FROM MINISCRIBEMINY.O></field>
 	<field name = "DATELINE">BILLERICA, Mass., June 2 -</field>
-	<field name = "BODY">Disc Technology Corp said it has
+	<field name = "content">Disc Technology Corp said it has
 received 1,500,000 dlrs in orders for hard discs from
 MiniScribe Corp's MiniScribe Ltd Singapore affiliate.
     It said the shipments are to be completed by September 30.

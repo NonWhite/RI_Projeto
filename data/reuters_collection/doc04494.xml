@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 15:59:58.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0388reute
-u f BC-FCC-PANEL-RECOMMENDS   03-12 0100</field>
-	<field name = "TITLE">FCC PANEL RECOMMENDS PHONE FEE HIKE</field>
+	<field name = "titulo">FCC PANEL RECOMMENDS PHONE FEE HIKE</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">A Federal Communications Commission
+	<field name = "content">A Federal Communications Commission
 (FCC) board recommended raising the two-dollar monthly
 subscriber line charge for residential telephone customers by
 1.50 dlrs over the next two years.

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 10:52:37.95</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0805
-reute
-b f BC-JUTLAND-TELEPHONE-SET   03-02 0083</field>
-	<field name = "TITLE">JUTLAND TELEPHONE SETS 75 MLN SWISS FRANC BOND</field>
+	<field name = "titulo">JUTLAND TELEPHONE SETS 75 MLN SWISS FRANC BOND</field>
 	<field name = "DATELINE">ZURICH, March 2 -</field>
-	<field name = "BODY">Jutland Telephone Co plans to issue a 75
+	<field name = "content">Jutland Telephone Co plans to issue a 75
 mln Swiss franc, 4-3/4 pct bond with a par price and a maximum
 10-year maturity, lead manager Union Bank of Switzerland said.
     The bond may be retired between 1991 and 1996 if the

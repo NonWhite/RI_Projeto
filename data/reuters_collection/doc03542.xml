@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 08:18:09.13</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0783reute
-r f BC-SERVICE-RESOURCES-COR   03-11 0060</field>
-	<field name = "TITLE">SERVICE RESOURCES CORP SRC> 4TH QTR NET</field>
+	<field name = "titulo">SERVICE RESOURCES CORP SRC> 4TH QTR NET</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Oper shr profit five cts vs loss 1.71 dlrs
+	<field name = "content">Oper shr profit five cts vs loss 1.71 dlrs
     Oper net profit 196,000 vs loss 2,388,000
     Sales 40.5 mln vs 43.2 mln
     Avg shrs 2,212,000 vs 1,482,000

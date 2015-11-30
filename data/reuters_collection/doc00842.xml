@@ -4,13 +4,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM
-f0279
-reute
-r f BC-FRANCE-HAS-LITTLE-ROO   03-02 0119</field>
-	<field name = "TITLE">FRANCE HAS LITTLE ROOM FOR MANOEUVRE, OECD SAYS</field>
+	<field name = "titulo">FRANCE HAS LITTLE ROOM FOR MANOEUVRE, OECD SAYS</field>
 	<field name = "DATELINE">PARIS, March 3 -</field>
-	<field name = "BODY">French industry is failing to produce the
+	<field name = "content">French industry is failing to produce the
 goods its markets need and its loss of competitiveness has left
 the government little room for manoeuvre to reflate the
 economy, the Organisation for Economic Cooperation and

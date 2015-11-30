@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 17:14:38.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0674reute
-b f BC-SEMICONDUCTOR-FEBRUAR   03-06 0088</field>
-	<field name = "TITLE">SEMICONDUCTOR FEBRUARY BOOK-TO-BILL RATIO 1.13</field>
+	<field name = "titulo">SEMICONDUCTOR FEBRUARY BOOK-TO-BILL RATIO 1.13</field>
 	<field name = "DATELINE">CUPERTINO, Calif., March 6 -</field>
-	<field name = "BODY">The Semiconductor Industry
+	<field name = "content">The Semiconductor Industry
 Association said the February three-month average book-to-bill
 ratio was 1.13 pct, compared to a revised 1.12 pct in January.
     The January figure was revised from the 1.11 pct reported

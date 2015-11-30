@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 11:40:05.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5453reute
-r f BC-ROYAL-PALM-RPAL>-SAY   03-17 0105</field>
-	<field name = "TITLE">ROYAL PALM RPAL> SAYS RESTRICTIONS LIFTED</field>
+	<field name = "titulo">ROYAL PALM RPAL> SAYS RESTRICTIONS LIFTED</field>
 	<field name = "DATELINE">WEST PALM BEACH, Fla., March 16 -</field>
-	<field name = "BODY">Royal Palm Savings
+	<field name = "content">Royal Palm Savings
 Association said it has entered into an agreement with the
 Federal Home Loan Bank Board and the Florida Department of
 Banking and Finance resulting in the removal of limitations

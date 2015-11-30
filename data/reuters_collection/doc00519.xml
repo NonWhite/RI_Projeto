@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 11:42:14.82</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f0052
-reute
-u f BC-AIRGAS-AGA>-DECLINES   03-02 0044</field>
-	<field name = "TITLE">AIRGAS AGA> DECLINES TO COMMENT ON STOCK MOVES</field>
+	<field name = "titulo">AIRGAS AGA> DECLINES TO COMMENT ON STOCK MOVES</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">The New York Stock Exchange said Airgas
+	<field name = "content">The New York Stock Exchange said Airgas
 Inc declined to comment on its stock activity after a request
 for an explanation by the exchange.
     The company's stock was up 1-1/8 points to 11 dlrs.

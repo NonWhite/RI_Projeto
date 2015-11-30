@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 10:11:13.53</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1029reute
-b f BC-/KEY-U.S.-HOUSE-PANEL   03-25 0079</field>
-	<field name = "TITLE">KEY U.S. HOUSE PANEL FINISHES MAJOR TRADE BILL</field>
+	<field name = "titulo">KEY U.S. HOUSE PANEL FINISHES MAJOR TRADE BILL</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The House Ways and Means Committee
+	<field name = "content">The House Ways and Means Committee
 completed action on legislation to toughen U.S. trade laws,
 chairman Dan Rostenkowski said.
     The committee's consideration of one of the most

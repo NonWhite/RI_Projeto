@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 23:30:37.76</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f3654reute
-u f BC-CANON-STOPS-PRODUCTIO   10-19 0106</field>
-	<field name = "TITLE">CANON STOPS PRODUCTION OF LOW-END WORD PROCESSORS</field>
+	<field name = "titulo">CANON STOPS PRODUCTION OF LOW-END WORD PROCESSORS</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">Canon Inc CANN.T> said it will stop making
+	<field name = "content">Canon Inc CANN.T> said it will stop making
 Japanese language word processors with retail prices below
 50,000 yen and consign production instead to Kyushu Matsushita
 Electronic Co Ltd>, a 51.75-pct owned unit of Matsushita

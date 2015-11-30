@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">lyng</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">G C
-f4073reute
-u f BC-U.S.-AGRICULTURE-SECR   03-17 0093</field>
-	<field name = "TITLE">U.S. AGRICULTURE SECRETARY WARNS EC ON SOY OIL TAX</field>
+	<field name = "titulo">U.S. AGRICULTURE SECRETARY WARNS EC ON SOY OIL TAX</field>
 	<field name = "DATELINE">CHAMPAIGN, Ill., March 17 -</field>
-	<field name = "BODY">U.S. Agriculture Secretary
+	<field name = "content">U.S. Agriculture Secretary
 Richard Lyng warned the European Community yesterday it will
 face serious retaliation if it enacts a new tax on products
 such as U.S. Soybean oil.

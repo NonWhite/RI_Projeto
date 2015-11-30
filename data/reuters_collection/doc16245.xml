@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 09:29:35.89</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0869reute
-b f BC-/INTERNATIONAL-BUSINE   04-13 0082</field>
-	<field name = "TITLE">INTERNATIONAL BUSINESS MACHINES CORP IBM> NET</field>
+	<field name = "titulo">INTERNATIONAL BUSINESS MACHINES CORP IBM> NET</field>
 	<field name = "DATELINE">ARMONK, N.Y., April 13 -</field>
-	<field name = "BODY">1st qtr
+	<field name = "content">1st qtr
     Shr 1.30 dlrs vs 1.65 dlrs
     Net 785 mln vs 1.02 billion
     Gross income 10.68 billion vs 10.13 billion

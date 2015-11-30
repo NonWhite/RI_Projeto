@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 09:58:41.79</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F Y
-f0973reute
-r f BC-TEXACO-CANADA-TXC>-U   04-13 0105</field>
-	<field name = "TITLE">TEXACO CANADA TXC> UNAFFECTED BY LEGAL MOVE</field>
+	<field name = "titulo">TEXACO CANADA TXC> UNAFFECTED BY LEGAL MOVE</field>
 	<field name = "DATELINE">TORONTO, April 13 -</field>
-	<field name = "BODY">Texaco Canada Inc said its business
+	<field name = "content">Texaco Canada Inc said its business
 operations, its plans and financial integrity are unaffected by
 yesterday's move by 78 pct-owner Texaco Inc TX> to file for
 protection under U.S. bankruptcy law.

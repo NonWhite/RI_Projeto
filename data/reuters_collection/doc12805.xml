@@ -3,13 +3,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">A
-f0623reute
-u f BC-U.S.-TREASURY-POLICIE   04-03 0102</field>
-	<field name = "TITLE">U.S. TREASURY POLICIES SAID UNCHANGED BY DEPARTURE</field>
+	<field name = "titulo">U.S. TREASURY POLICIES SAID UNCHANGED BY DEPARTURE</field>
 	<field name = "AUTHOR">By Peter Torday</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">The departure of James Baker's
+	<field name = "content">The departure of James Baker's
 closest aide, Deputy Treasury Secretary Richard Darman, will
 not change the course of Washington's domestic and
 international economic policies, U.S. officials said.

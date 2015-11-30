@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 17:09:06.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2613reute
-d f AM-OZONE   06-29 0088</field>
-	<field name = "TITLE">HOUSE RESOLUTION URGES TREATY TO PROTECT OZONE</field>
+	<field name = "titulo">HOUSE RESOLUTION URGES TREATY TO PROTECT OZONE</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">The House of Representatives passed a
+	<field name = "content">The House of Representatives passed a
 resolution urging President Reagan to negotiate a world-wide
 treaty to reduce the use of chlorofluorocarbons which are
 depleting the earth's ozone layer.

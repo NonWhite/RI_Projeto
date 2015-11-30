@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 12:22:19.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1626reute
-d f BC-WASTE-RECOVERY-WRII>   04-09 0101</field>
-	<field name = "TITLE">WASTE RECOVERY WRII> IN DEAL WITH BLUE CIRCLE</field>
+	<field name = "titulo">WASTE RECOVERY WRII> IN DEAL WITH BLUE CIRCLE</field>
 	<field name = "DATELINE">DALLAS, April 9 -</field>
-	<field name = "BODY">Waste Recovery Inc said it has received
+	<field name = "content">Waste Recovery Inc said it has received
 an exclusive license to use Blue Circle Industries PLC's>
 refuse-derived fuel technology in the U.S.
     The company said it plans to modify a 750 short ton per day

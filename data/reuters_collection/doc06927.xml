@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 18:46:35.12</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9767reute
-u f BC-GENCORP   03-18 0114</field>
-	<field name = "TITLE">GENCORP GY> BIDDER PLANS SALE OF AEROSPACE UNIT</field>
+	<field name = "titulo">GENCORP GY> BIDDER PLANS SALE OF AEROSPACE UNIT</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">General Partners>, controlled by
+	<field name = "content">General Partners>, controlled by
 privately-held Wagner and Brown and by AFG Industries Inc, said
 plans to sell GenCorp Inc's aerospace and soft drink bottling
 divisions if it succeeds in acquiring the company.

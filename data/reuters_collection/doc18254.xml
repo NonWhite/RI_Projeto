@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 15:38:07.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2480reute
-r f BC-CENTRAL-MAINE-CTP>-S   06-02 0108</field>
-	<field name = "TITLE">CENTRAL MAINE CTP> SEEKS COGENERATOR SPONSORS</field>
+	<field name = "titulo">CENTRAL MAINE CTP> SEEKS COGENERATOR SPONSORS</field>
 	<field name = "DATELINE">AUGUSTA, Maine, June 2 -</field>
-	<field name = "BODY">Central Maine Power Co said it
+	<field name = "content">Central Maine Power Co said it
 issued a request for proposals for about 150 potential project
 sponsors of cogeneration and small power production projects.
     The utility said it has about filled six avoided cost

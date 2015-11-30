@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 10:26:26.51</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F RM A
-f5109reute
-b f BC-NASD-PROPOSES-EQUAL-S   03-17 0108</field>
-	<field name = "TITLE">NASD PROPOSES EQUAL SHARE VOTES WITH VARIATIONS</field>
+	<field name = "titulo">NASD PROPOSES EQUAL SHARE VOTES WITH VARIATIONS</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">The National Association of
+	<field name = "content">The National Association of
 Securities Dealers Inc said its board of governors has proposed
 adoption of uniform rules by major U.S. stock markets which
 would emphasize equal shareholder voting rights but allow for

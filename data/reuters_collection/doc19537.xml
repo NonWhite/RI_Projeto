@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 06:08:13.16</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI 
-f0410reute
-u f BC-BANK-OF-JAPAN-WORRIES   06-29 0093</field>
-	<field name = "TITLE">BANK OF JAPAN WORRIES ABOUT MARKET COLLAPSE</field>
+	<field name = "titulo">BANK OF JAPAN WORRIES ABOUT MARKET COLLAPSE</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, June 29 -</field>
-	<field name = "BODY">The Bank of Japan has become increasingly
+	<field name = "content">The Bank of Japan has become increasingly
 worried about a possible crash of high-flying financial
 markets, Bank of Japan sources said.
     "We're afraid that someday the bubble will burst and that

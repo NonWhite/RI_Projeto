@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 16:21:51.32</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2525reute
-r f BC-NATIONAL-HERITAGE-NH   04-09 0103</field>
-	<field name = "TITLE">NATIONAL HERITAGE NHER> BUYS MANAGEMENT FIRM</field>
+	<field name = "titulo">NATIONAL HERITAGE NHER> BUYS MANAGEMENT FIRM</field>
 	<field name = "DATELINE">DALLAS, April 9 -</field>
-	<field name = "BODY">National Heritage Inc said it acquired
+	<field name = "content">National Heritage Inc said it acquired
 the assets of Chartham Management Corp of Salem, Ore.
     Terms were not disclosed.
     The assets acquired will be used to form a new divisional

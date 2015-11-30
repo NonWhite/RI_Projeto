@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 18:07:38.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0025reute
-d f BC-NBI-NBI>-INTRODUCES   03-04 0081</field>
-	<field name = "TITLE">NBI NBI> INTRODUCES NEW PRODUCTS</field>
+	<field name = "titulo">NBI NBI> INTRODUCES NEW PRODUCTS</field>
 	<field name = "DATELINE">CHICAGO, Ill, March 4 -</field>
-	<field name = "BODY">NBI inc said it has reduced prices
+	<field name = "content">NBI inc said it has reduced prices
 of on its 5000 series publishing workstations by 30 pct and has
 introduced a new electronic publishing workstation, a
 mini-computer and an image scanner at the Corporate Electronic

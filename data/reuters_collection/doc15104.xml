@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:50:30.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1543reute
-r f BC-AVNET-AVT>-FILES-CON   04-08 0075</field>
-	<field name = "TITLE">AVNET AVT> FILES CONVERTIBLE DEBT OFFERING</field>
+	<field name = "titulo">AVNET AVT> FILES CONVERTIBLE DEBT OFFERING</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Avnet Inc said it filed with the
+	<field name = "content">Avnet Inc said it filed with the
 Securities and Exchange Commission a registration statement
 covering a 150 mln dlr issue of convertible subordinated
 debentures due 2012.

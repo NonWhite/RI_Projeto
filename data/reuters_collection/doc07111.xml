@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 10:20:26.68</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1006reute
-r f BC-dome-mines-sells   03-19 0093</field>
-	<field name = "TITLE">DOME MINES DM> SELLS 7 MLN COMMON SHARES</field>
+	<field name = "titulo">DOME MINES DM> SELLS 7 MLN COMMON SHARES</field>
 	<field name = "DATELINE">TORONTO, March 19 -</field>
-	<field name = "BODY">Dome Mines Ltd said it sold seven mln
+	<field name = "content">Dome Mines Ltd said it sold seven mln
 common shares priced at 12 dlrs each to an underwriting group,
 for net proceeds to the company of about 79,830,000 dlrs after
 underwriting fees and issue expenses.

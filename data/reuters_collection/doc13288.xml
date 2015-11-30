@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0407reute
-u f BC-JAPAN-BUSINESS-TO-URG   04-06 0102</field>
-	<field name = "TITLE">JAPAN BUSINESS TO URGE GOVERNMENT TO SPUR ECONOMY</field>
+	<field name = "titulo">JAPAN BUSINESS TO URGE GOVERNMENT TO SPUR ECONOMY</field>
 	<field name = "DATELINE">TOKYO, April 6 -</field>
-	<field name = "BODY">A top Japanese businessman said the
+	<field name = "content">A top Japanese businessman said the
 country's four largest economic organizations will soon present
 to the government a set of proposals to expand domestic demand.
     Eishiro Saito, Chairman of the Federation of Economic

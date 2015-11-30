@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 07:54:09.56</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0650reute
-u f BC-ITALIAN-TREASURY-ANNO   03-26 0091</field>
-	<field name = "TITLE">ITALIAN TREASURY ANNOUNCES CERTIFICATE OFFER</field>
+	<field name = "titulo">ITALIAN TREASURY ANNOUNCES CERTIFICATE OFFER</field>
 	<field name = "DATELINE">ROME, March 26 -</field>
-	<field name = "BODY">The Italian Treasury said it would offer
+	<field name = "content">The Italian Treasury said it would offer
 an undetermined amount of 10-year variable-coupon certificates
 (CCTs) at a rate unchanged on that of the preceding offer in
 late February.

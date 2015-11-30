@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:42:32.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A 
-f2476reute
-r f BC-AHMANSON-AHM>-NET-LO   10-20 0100</field>
-	<field name = "TITLE">AHMANSON AHM> NET LOWER ON LOAN SALE DECLINE</field>
+	<field name = "titulo">AHMANSON AHM> NET LOWER ON LOAN SALE DECLINE</field>
 	<field name = "DATELINE">LOS ANGELES, Oct 20 -</field>
-	<field name = "BODY">H.F. Ahmanson and Co, parent of Home
+	<field name = "content">H.F. Ahmanson and Co, parent of Home
 Savings of America, said its third quarter earnings declined as
 a result of its decision in the second quarter to curtail sales
 of loans and mortgage-backed securities.

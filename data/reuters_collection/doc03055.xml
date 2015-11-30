@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0092reute
-b f BC-RENAULT,-CHRYSLER-IN   03-09 0117</field>
-	<field name = "TITLE">RENAULT, CHRYSLER IN ACCORD FOR CHRYSLER TO BUY AMC</field>
+	<field name = "titulo">RENAULT, CHRYSLER IN ACCORD FOR CHRYSLER TO BUY AMC</field>
 	<field name = "DATELINE">PARIS, March 9 -</field>
-	<field name = "BODY">Regie Nationale des Usines Renault
+	<field name = "content">Regie Nationale des Usines Renault
 RENA.PA> said it and Chrysler Corp C> have signed a letter of
 intent in which Chrysler plans to buy American Motors Corp
 AMO.N>, 46 pct owned by Renault.

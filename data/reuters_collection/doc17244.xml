@@ -4,12 +4,9 @@
 	<field name = "PLACES">hong-kong</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0240reute
-u f BC-BALDRIGE-SAYS-U.S.-WA   04-27 0105</field>
-	<field name = "TITLE">BALDRIGE SAYS U.S. WANTS JAPAN TRADE PROPOSALS</field>
+	<field name = "titulo">BALDRIGE SAYS U.S. WANTS JAPAN TRADE PROPOSALS</field>
 	<field name = "DATELINE">HONG KONG, April 27 -</field>
-	<field name = "BODY">U.S. Secretary of Commerce Malcolm
+	<field name = "content">U.S. Secretary of Commerce Malcolm
 Baldrige said he hopes Japanese Prime Minister Yasuhiro
 Nakasone will make specific proposals to ease U.S.-Japan trade
 friction at a meeting with President Reagan this week.

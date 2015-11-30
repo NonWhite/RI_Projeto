@@ -3,13 +3,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0837reute
-r f BC-JAPAN-SET-TO-RIDE-OUT   03-30 0102</field>
-	<field name = "TITLE">JAPAN SET TO RIDE OUT YEN RISE, OFFICIALS SAY</field>
+	<field name = "titulo">JAPAN SET TO RIDE OUT YEN RISE, OFFICIALS SAY</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">The government is determined to ride out
+	<field name = "content">The government is determined to ride out
 the latest sharp rise of the yen without taking panic measures
 because it expects the currency's appreciation to prove
 temporary, senior officials said.

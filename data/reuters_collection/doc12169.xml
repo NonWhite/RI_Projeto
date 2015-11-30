@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 13:54:57.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1963reute
-d f BC-NUCLEAR-METALS-NUCM>   04-01 0038</field>
-	<field name = "TITLE">NUCLEAR METALS NUCM> GETS ARMY CONTRACT</field>
+	<field name = "titulo">NUCLEAR METALS NUCM> GETS ARMY CONTRACT</field>
 	<field name = "DATELINE">CONCORD, Mass., April 1 -</field>
-	<field name = "BODY">Nuclear Metals Inc said it has
+	<field name = "content">Nuclear Metals Inc said it has
 received a 6,300,000 dlr U.S. Army contract for 105 millimeter
 depleted uranium penetrators used as ammunition for the M-1
 tank.

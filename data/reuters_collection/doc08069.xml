@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-MAR-1987 23:28:35.08</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0055reute
-u f BC-GERMAN-ECONOMY-SEEN-G   03-21 0122</field>
-	<field name = "TITLE">GERMAN ECONOMY SEEN GROWING TWO PCT IN 1987</field>
+	<field name = "titulo">GERMAN ECONOMY SEEN GROWING TWO PCT IN 1987</field>
 	<field name = "DATELINE">FRANKFURT, March 22 -</field>
-	<field name = "BODY">Bundesbank vice-president Helmut
+	<field name = "content">Bundesbank vice-president Helmut
 Schlesinger said that although West German economic growth was
 not expected to be satisfactory in the first 1987 quarter, two
 pct growth was still attainable for the whole of the year.

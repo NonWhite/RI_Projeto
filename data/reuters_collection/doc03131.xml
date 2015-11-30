@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">G
-f0428reute
-d f BC-LESS-GRAIN-FLOWS-INTO   03-09 0104</field>
-	<field name = "TITLE">LESS GRAIN FLOWS INTO WEST GERMAN INTERVENTION</field>
+	<field name = "titulo">LESS GRAIN FLOWS INTO WEST GERMAN INTERVENTION</field>
 	<field name = "DATELINE">HAMBURG, March 9 -</field>
-	<field name = "BODY">The West German Intervention Board said
+	<field name = "content">The West German Intervention Board said
 it accepted 962,192 tonnes of grain from the start of the
 current agricultural year to the end of last month, compared
 with 1.8 mln tonnes during the July/February period in 1985/86.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM Y
-f0348reute
-u f BC-PEMEX-OFFICIAL-SAYS-O   06-01 0115</field>
-	<field name = "TITLE">PEMEX OFFICIAL SAYS OPEC OUTPUT CRITICAL TO PRICE</field>
+	<field name = "titulo">PEMEX OFFICIAL SAYS OPEC OUTPUT CRITICAL TO PRICE</field>
 	<field name = "DATELINE">TOKYO, June 1 -</field>
-	<field name = "BODY">Crude oil prices could remain around 18
+	<field name = "content">Crude oil prices could remain around 18
 dlrs a barrel until the end of the year, but OPEC's decision on
 output at its next meeting would be the critical factor, an
 official of Mexico's state oil company, Petroleos Mexicanos

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 17:51:26.40</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3306reute
-d f BC-SUN-STATE-SAVINGS-SS   10-19 0072</field>
-	<field name = "TITLE">SUN STATE SAVINGS SSSL.O> 3RD QTR NET</field>
+	<field name = "titulo">SUN STATE SAVINGS SSSL.O> 3RD QTR NET</field>
 	<field name = "DATELINE">PHOENIX, Ariz., Oct 19 -</field>
-	<field name = "BODY">Shr 28 cts vs 46 cts
+	<field name = "content">Shr 28 cts vs 46 cts
     Net 1,634,000 vs 2,007,000
     Avg shrs 5,850,000 vs 4,400,000
     Nine Mths

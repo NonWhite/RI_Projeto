@@ -2,13 +2,10 @@
 	<field name = "DATE">11-MAR-1987 08:35:28.90</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V
-f0832reute
-u f BC-OFFICIAL-SAYS-REAGAN   03-11 0110</field>
-	<field name = "TITLE">OFFICIAL SAYS REAGAN OPPOSES SECURITIES TAX</field>
+	<field name = "titulo">OFFICIAL SAYS REAGAN OPPOSES SECURITIES TAX</field>
 	<field name = "AUTHOR">By Peter Torday, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">The Reagan administration is totally
+	<field name = "content">The Reagan administration is totally
 opposed to recent Democratic suggestions that securities
 transactions should be taxed to help curb the budget deficit,
 an administration official said in an interview.

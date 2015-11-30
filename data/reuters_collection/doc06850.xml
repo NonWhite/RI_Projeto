@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 16:51:41.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9517reute
-b f AM-DEAVER-1STLD   03-18 0074</field>
-	<field name = "TITLE">FORMER WHITE HOUSE AIDE DEAVER INDICTED</field>
+	<field name = "titulo">FORMER WHITE HOUSE AIDE DEAVER INDICTED</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">Former White House aide Michael
+	<field name = "content">Former White House aide Michael
 Deaver, a close friend of President Reagan, was indicted by a
 grand jury on criminal charges that he lied about his
 Washington lobbying business.

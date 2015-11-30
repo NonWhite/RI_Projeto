@@ -4,13 +4,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1950reute
-u f BC-U.K.-MONEY-DATA-MAY-E   03-19 0113</field>
-	<field name = "TITLE">U.K. MONEY DATA MAY EASE RATE CUT, ANALYSTS SAY</field>
+	<field name = "titulo">U.K. MONEY DATA MAY EASE RATE CUT, ANALYSTS SAY</field>
 	<field name = "AUTHOR">By Geert Linnebank, Reuters</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">Slower than expected growth in Britain's
+	<field name = "content">Slower than expected growth in Britain's
 narrow M0 money supply measure in February will help spur a
 further cut in U.K. Interest rates if a surge in sterling's
 value requires such a move, economic analysts said.

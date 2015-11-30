@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 12:14:58.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0793reute
-d f BC-METROMEDIA-UNVEILS-NE   03-11 0072</field>
-	<field name = "TITLE">METROMEDIA UNVEILS NEW WATS SERVICE</field>
+	<field name = "titulo">METROMEDIA UNVEILS NEW WATS SERVICE</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Metromedia Long Distance> said it has
+	<field name = "content">Metromedia Long Distance> said it has
 introduced OnePlus Wats, a telecommunications service for high
 volume callers.
     Metromedia said OnePlus uses a local switched network

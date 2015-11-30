@@ -2,13 +2,10 @@
 	<field name = "DATE">30-MAR-1987 14:29:14.28</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2209reute
-u f BC-REFINE-   03-30 0103</field>
-	<field name = "TITLE">LOWER REFINERY OPERATIONS SEEN PRODUCING PROFITS</field>
+	<field name = "titulo">LOWER REFINERY OPERATIONS SEEN PRODUCING PROFITS</field>
 	<field name = "AUTHOR">By BERNICE NAPACH, Reuters</field>
 	<field name = "DATELINE">SAN ANTONIO, TEXAS, March 30 -</field>
-	<field name = "BODY">U.S. refiners will have to
+	<field name = "content">U.S. refiners will have to
 reduce operations if they want to be profitable this year, said
 industry officials attending the National Petroleum Refiners
 Association meeting here.

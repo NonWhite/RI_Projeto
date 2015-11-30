@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 08:46:20.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0788reute
-d f BC-ASIX-SYSTEMS>-GETS-M   04-08 0085</field>
-	<field name = "TITLE">ASIX SYSTEMS> GETS MORE FINANCING</field>
+	<field name = "titulo">ASIX SYSTEMS> GETS MORE FINANCING</field>
 	<field name = "DATELINE">FREMONT, Calif., April 8 -</field>
-	<field name = "BODY">ASIX Systems, a developer of
+	<field name = "content">ASIX Systems, a developer of
 test systems for ASIC devices, said it has received 4,800,000
 dlrs in a second round of equity financing.
     The company said investors include first round participants

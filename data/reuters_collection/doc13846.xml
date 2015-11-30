@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:11:47.64</field>
-	<field name = "UNKNOWN">Y C
-f0932reute
-u f BC-u.s.-energy-futures   04-07 0104</field>
-	<field name = "TITLE">U.S. ENERGY FUTURES POST GAINS AFTER FIRM OPEN</field>
+	<field name = "titulo">U.S. ENERGY FUTURES POST GAINS AFTER FIRM OPEN</field>
 	<field name = "DATELINE">NEW YORK, APRIL 7 -</field>
-	<field name = "BODY">Light mixed buying around the rings
+	<field name = "content">Light mixed buying around the rings
 boosted U.S. energy futures to new daily highs after a slightly
 firmer open, traders said.
     May crude jumped 15 cts to 18.82 dlrs a barrel, nearing the

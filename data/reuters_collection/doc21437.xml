@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 09:46:29.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1057reute
-b f BC-ATT-T>-PLANS-COMPUTE   10-19 0108</field>
-	<field name = "TITLE">ATT T> PLANS COMPUTER USING SUN SUNW.O> CHIP</field>
+	<field name = "titulo">ATT T> PLANS COMPUTER USING SUN SUNW.O> CHIP</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">American Telephone and Telegraph Co said
+	<field name = "content">American Telephone and Telegraph Co said
 it plans to build a new computer that incorrates a unified
 version of its UNIX System IV operating system and Sun
 Microsystems Inc's recently annouced SPARC micropocessor.

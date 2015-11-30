@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 09:58:11.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0972reute
-u f BC-ALCIDE-ALCD.O>-SAYS   04-13 0075</field>
-	<field name = "TITLE">ALCIDE ALCD.O> SAYS TESTS ENCOURAGING</field>
+	<field name = "titulo">ALCIDE ALCD.O> SAYS TESTS ENCOURAGING</field>
 	<field name = "DATELINE">NORWALK, Conn., April 13 -</field>
-	<field name = "BODY">Alcide Corp said preliminary
+	<field name = "content">Alcide Corp said preliminary
 experimental results obtained using a formulation it has
 developed for the disinfection of blood platelets indicate
 feasibility for the approach.

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 18:23:56.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0170reute
-u f BC-GM-GM>-BUYBACK-SEEN   03-03 0105</field>
-	<field name = "TITLE">GM GM> BUYBACK SEEN CALMING SHAREHOLDERS</field>
+	<field name = "titulo">GM GM> BUYBACK SEEN CALMING SHAREHOLDERS</field>
 	<field name = "AUTHOR">By Cal Mankowski, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">Wall Street analysts said a share
+	<field name = "content">Wall Street analysts said a share
 repurchase program announced by General Motors Corp is in part
 an attempt to placate shareholders angry over the recent
 repurchase of shares from Texan H. Ross Perot last year.

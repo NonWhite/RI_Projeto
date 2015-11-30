@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:37:24.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0684reute
-r f BC-INTERNATIONAL-LEASE-F   03-05 0102</field>
-	<field name = "TITLE">INTERNATIONAL LEASE FINANCE ILFC> LEASES JETS</field>
+	<field name = "titulo">INTERNATIONAL LEASE FINANCE ILFC> LEASES JETS</field>
 	<field name = "DATELINE">LOS ANGELES, Calif., March 5 -</field>
-	<field name = "BODY">International Lease Finance
+	<field name = "content">International Lease Finance
 Corp said it has agreed to lease a new Boeing Co BA> 757-200
 jet and two new McDonnell Douglas MD> MD-83 jets.
     The company said the value of the combined transactions

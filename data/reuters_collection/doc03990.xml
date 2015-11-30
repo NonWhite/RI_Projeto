@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 17:37:08.09</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0789reute
-b f BC-******HARPER-AND-ROW   03-11 0088</field>
-	<field name = "TITLE">HARPER HPR> GETS BID FROM HARCOURT HBJ></field>
+	<field name = "titulo">HARPER HPR> GETS BID FROM HARCOURT HBJ></field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Harper and Row Publishers Inc said it
+	<field name = "content">Harper and Row Publishers Inc said it
 received an acquisition offer from Harcourt Brace Jovanovich
 INc to acquire all of Harper and Row's shares at 50 dlrs a
 share in cash.

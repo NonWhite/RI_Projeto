@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 16:27:52.88</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0061
-reute
-d f BC-CPL-REIT-CNTRS>-4TH   03-02 0043</field>
-	<field name = "TITLE">CPL REIT CNTRS> 4TH QTR NET</field>
+	<field name = "titulo">CPL REIT CNTRS> 4TH QTR NET</field>
 	<field name = "DATELINE">DAVENPORT, Iowa, March 2 -</field>
-	<field name = "BODY">Shr 24 cts
+	<field name = "content">Shr 24 cts
     Net 412,737
     Revs 605,321
     Year

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 15:37:16.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0466reute
-u f BC-HOME-SHOPPING   03-11 0090</field>
-	<field name = "TITLE">HOME SHOPPING HSN> FILES 400 MLN DEBT OFFERING</field>
+	<field name = "titulo">HOME SHOPPING HSN> FILES 400 MLN DEBT OFFERING</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">Home Shopping Network Inc filed with
+	<field name = "content">Home Shopping Network Inc filed with
 the Securities and Exchange Commission for an offering of 400
 mln dlrs of convertible subordinated debentures due April 1,
 2002.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">sorghum</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f0006reute
-u f BC-CHINA-FACES-EXTENDED   04-17 0105</field>
-	<field name = "TITLE">CHINA FACES EXTENDED SORGHUM SHORTAGE</field>
+	<field name = "titulo">CHINA FACES EXTENDED SORGHUM SHORTAGE</field>
 	<field name = "DATELINE">PEKING, April 17 -</field>
-	<field name = "BODY">China will be short of sorghum in 1987
+	<field name = "content">China will be short of sorghum in 1987
 for the sixth successive year because high production costs and
 low profits discourage farmers from growing it, the China Daily
 Business Weekly said.

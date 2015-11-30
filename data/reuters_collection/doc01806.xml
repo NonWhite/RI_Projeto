@@ -4,12 +4,9 @@
 	<field name = "PLACES">italy</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">RM
-f0765reute
-r f AM-REAGAN-TRIP   03-04 0109</field>
-	<field name = "TITLE">REAGAN TO VISIT ROME, BERLIN DURING SUMMIT TRIP</field>
+	<field name = "titulo">REAGAN TO VISIT ROME, BERLIN DURING SUMMIT TRIP</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">President Reagan will visit Rome and
+	<field name = "content">President Reagan will visit Rome and
 West Berlin during a trip to Europe in June to attend the
 Venice summit meeting of the major industrialized countries,
 the White House said.

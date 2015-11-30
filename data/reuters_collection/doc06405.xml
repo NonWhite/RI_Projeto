@@ -6,12 +6,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f7528reute
-u f BC-NEW-ZEALAND-ECONOMY-F   03-18 0103</field>
-	<field name = "TITLE">NEW ZEALAND ECONOMY FORECAST TO IMPROVE IN 1987/88</field>
+	<field name = "titulo">NEW ZEALAND ECONOMY FORECAST TO IMPROVE IN 1987/88</field>
 	<field name = "DATELINE">WELLINGTON, March 18 -</field>
-	<field name = "BODY">New Zealand's inflation and interest
+	<field name = "content">New Zealand's inflation and interest
 rates should decline and the balance of payments improve
 significantly in the fiscal year to the end of March 1988, the
 Institute of Economic Research (NZIER) said.

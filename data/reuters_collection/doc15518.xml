@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:31:03.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0831reute
-u f BC-PAYLESS-CASHWAYS-PCI   04-09 0059</field>
-	<field name = "TITLE">PAYLESS CASHWAYS PCI> MARCH SALES UP</field>
+	<field name = "titulo">PAYLESS CASHWAYS PCI> MARCH SALES UP</field>
 	<field name = "DATELINE">KANSAS CITY, MO., April 9 -</field>
-	<field name = "BODY">Payless Cashways Inc said its
+	<field name = "content">Payless Cashways Inc said its
 sales for the five weeks ended April Four rose to 167.4 mln
 dlrs from 147.5 mln dlrs a year ago, or one pct on a comparable
 store basis.

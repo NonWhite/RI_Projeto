@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 18:48:39.88</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9770reute
-r f BC-MONSANTO-MTC>-SAYS-D   03-18 0099</field>
-	<field name = "TITLE">MONSANTO MTC> SAYS DEBT WAS CUT IN 1986</field>
+	<field name = "titulo">MONSANTO MTC> SAYS DEBT WAS CUT IN 1986</field>
 	<field name = "DATELINE">ST. LOUIS, March 18 -</field>
-	<field name = "BODY">Mondanto Co said it has paid off
+	<field name = "content">Mondanto Co said it has paid off
 two-thirds of the debt from its 2.8 billion-dlr acquisition of
 G.D. Searle and Co by the end of 1986.
     This lowered the company's debt-to-capitalization ratio

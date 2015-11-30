@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">italy</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f1944reute
-u f BC-OLIVETTI-DOES-NOT-EXC   03-24 0113</field>
-	<field name = "TITLE">OLIVETTI DOES NOT EXCLUDE STAKE IN SGS-THOMSON</field>
+	<field name = "titulo">OLIVETTI DOES NOT EXCLUDE STAKE IN SGS-THOMSON</field>
 	<field name = "DATELINE">ROME, March 24 -</field>
-	<field name = "BODY">Ing C Olivetti EC SpA OLIV.M> does not
+	<field name = "content">Ing C Olivetti EC SpA OLIV.M> does not
 exclude the possibility of investing in a semiconductor venture
 currently under discussion between Italy's STET - Societa
 Finanziaria Telefonica P.A.> and France's Thomson-CSF

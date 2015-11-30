@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 12:00:41.41</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1420reute
-r f BC-U.S.-GRAIN-CERTS-SAVE   04-07 0143</field>
-	<field name = "TITLE">U.S. GRAIN CERTS SAVE 50-100 MLN DLRS - AMSTUTZ</field>
+	<field name = "titulo">U.S. GRAIN CERTS SAVE 50-100 MLN DLRS - AMSTUTZ</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">The use of generic commodity
+	<field name = "content">The use of generic commodity
 certificates, or "certs," for fiscal years 1986-88 will save
 the government 50 to 100 mln dlrs, Department of Agriculture
 Undersecretary Daniel Amstutz said.

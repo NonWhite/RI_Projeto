@@ -1,15 +1,13 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 06:47:55.53RM</field>
-	<field name = "UNKNOWN">f0445reute</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dfl</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">b f BC-ECONOMIC-SPOTLIGHT--   03-27 0114</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - DUTCH EXCHANGE RATE POLICY</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - DUTCH EXCHANGE RATE POLICY</field>
 	<field name = "AUTHOR">By Marcel Michelson, Reuters</field>
 	<field name = "DATELINE">AMSTERDAM, March 27 -</field>
-	<field name = "BODY">Recent slackness on Dutch capital
+	<field name = "content">Recent slackness on Dutch capital
 markets has led some bankers to question the Central Bank's
 policy of pegging the guilder firmly to the West German mark
 and to ask for more flexiblility in exchange rate policy.

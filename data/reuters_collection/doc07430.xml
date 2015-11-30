@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 16:33:42.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2455reute
-d f BC-GREYHOUND-LINES-SLASH   03-19 0094</field>
-	<field name = "TITLE">GREYHOUND LINES SLASHES FARES</field>
+	<field name = "titulo">GREYHOUND LINES SLASHES FARES</field>
 	<field name = "DATELINE">DALLAS, March 19 -</field>
-	<field name = "BODY">Greyhound Lines said, on its first day
+	<field name = "content">Greyhound Lines said, on its first day
 under new management, it slashed fares on 166 of its shorter
 routes, many by 50 pct or more.
     On Wednesday, Greyhound Corp G> completed the sale of its

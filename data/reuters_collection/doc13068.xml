@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 14:18:06.70</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f1949reute
-u f BC-FRENCH-INDUSTRY-REVIS   04-03 0105</field>
-	<field name = "TITLE">FRENCH INDUSTRY REVISES DOWN INVESTMENT FORECAST</field>
+	<field name = "titulo">FRENCH INDUSTRY REVISES DOWN INVESTMENT FORECAST</field>
 	<field name = "DATELINE">PARIS, April 3 -</field>
-	<field name = "BODY">French industrialists have sharply revised
+	<field name = "content">French industrialists have sharply revised
 down their investment expectations, forecasting that investment
 in the competitive sector will rise by just three pct in real
 terms this year compared with a forecast of six pct growth made

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 19:52:21.16</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">thatcher</field>
-	<field name = "UNKNOWN">RM V
-f2834reute
-u f PM-BRITAIN-POLL   04-13 0116</field>
-	<field name = "TITLE">LATEST POLL PUTS THATCHER'S CONSERVATIVES AHEAD</field>
+	<field name = "titulo">LATEST POLL PUTS THATCHER'S CONSERVATIVES AHEAD</field>
 	<field name = "DATELINE">LONDON, April 14 -</field>
-	<field name = "BODY">The latest British opinion poll, gave
+	<field name = "content">The latest British opinion poll, gave
 Margaret Thatcher's Conservatives a 17-point lead over the
 opposition -- the highest rating yet for the Prime Minister who
 is seeking a record third consecutive term.

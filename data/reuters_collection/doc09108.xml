@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 19:00:00.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2815reute
-r f BC-TANDON-TCOR>-SAYS-SE   03-24 0108</field>
-	<field name = "TITLE">TANDON TCOR> SAYS SEARS S> STILL CUSTOMER</field>
+	<field name = "titulo">TANDON TCOR> SAYS SEARS S> STILL CUSTOMER</field>
 	<field name = "DATELINE">CHATSWORTH, Calif., March 24 -</field>
-	<field name = "BODY">Tandon Corp said Sears
+	<field name = "content">Tandon Corp said Sears
 Roebuck, through its Sears Business Centers, continues to be a
 customer of Tandon for its products.
     The company said it was issuing the statement in response

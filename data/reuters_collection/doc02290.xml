@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 13:15:35.80</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0162reute
-r f BC-IDEA-INC-IDEA>-TO-BU   03-05 0074</field>
-	<field name = "TITLE">IDEA INC IDEA> TO BUY PRIVATE FIRM</field>
+	<field name = "titulo">IDEA INC IDEA> TO BUY PRIVATE FIRM</field>
 	<field name = "DATELINE">TORRANCE, Calif., March 5 -</field>
-	<field name = "BODY">IDEA Inc said it signed a
+	<field name = "content">IDEA Inc said it signed a
 letter of intent to buy privately-held Structural
 Instrumentation Inc.
     The purchase, for an undisclosed sum, will be made mostly

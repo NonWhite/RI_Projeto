@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:31:02.18F</field>
-	<field name = "UNKNOWN">f1625reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-LLC-LLC>,-AMALGAMATE   03-27 0089</field>
-	<field name = "TITLE">LLC LLC>, AMALGAMATED REPORT SIX MONTHS NET</field>
+	<field name = "titulo">LLC LLC>, AMALGAMATED REPORT SIX MONTHS NET</field>
 	<field name = "DATELINE">DALLAS, March 27 -</field>
-	<field name = "BODY">Valhi Inc reported earnings of LLC Corp
+	<field name = "content">Valhi Inc reported earnings of LLC Corp
 and the Amalgamated Sugar Co for the six month period ended
 December 31.
     Effective March 10, Amalgamated merged into LLC, which

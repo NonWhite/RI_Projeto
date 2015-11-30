@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 16:10:12.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3130reute
-s f BC-SOUTHERN-INDIANA-GAS   10-20 0026</field>
-	<field name = "TITLE">SOUTHERN INDIANA GAS AND ELECTRIC SIG> PAYOUT</field>
+	<field name = "titulo">SOUTHERN INDIANA GAS AND ELECTRIC SIG> PAYOUT</field>
 	<field name = "DATELINE">EVANSVILLE, IND., Oct 20 -</field>
-	<field name = "BODY">Qtly div 53 cts vs 53 cts prior
+	<field name = "content">Qtly div 53 cts vs 53 cts prior
     Pay December 31
     Record November 20
  Reuter</field>

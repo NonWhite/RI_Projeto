@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:16:25.54</field>
-	<field name = "UNKNOWN">C G
-f0569reute
-u f BC-U.S.-WEATHER-FORECAST   04-07 0083</field>
-	<field name = "TITLE">U.S. WEATHER FORECAST FOR TUESDAY</field>
+	<field name = "titulo">U.S. WEATHER FORECAST FOR TUESDAY</field>
 	<field name = "DATELINE">Kansas City, April 7 -</field>
-	<field name = "BODY">The National Weather Service
+	<field name = "content">The National Weather Service
 forecast for today said periods of rain will occur across New
 England, New York and Pennsylvania, and from western Washington
 into northwest Oregon.

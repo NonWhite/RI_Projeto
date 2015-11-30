@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 10:16:43.23</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f1043reute
-b f BC-ENEL-ISSUES-15-BILLIO   04-13 0102</field>
-	<field name = "TITLE">ENEL ISSUES 15 BILLION YEN EUROBOND</field>
+	<field name = "titulo">ENEL ISSUES 15 BILLION YEN EUROBOND</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">Italy's state-owned Ente Nazionale per
+	<field name = "content">Italy's state-owned Ente Nazionale per
 l'Energia Elettrica (ENEL) is issuing a 15 billion yen eurobond
 due May 27, 1994 paying 4-3/4 pct and priced at 101-7/8 pct,
 joint-lead bookrunner IBJ International Ltd said. Morgan

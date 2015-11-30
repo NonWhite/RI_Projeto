@@ -7,12 +7,9 @@
 	<field name = "PLACES">east-germany</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0022reute
-u f BC-FRANCE-TO-SELL-STAKE   03-05 0112</field>
-	<field name = "TITLE">FRANCE TO SELL STAKE IN SOCIETE GENERALE UNIT</field>
+	<field name = "titulo">FRANCE TO SELL STAKE IN SOCIETE GENERALE UNIT</field>
 	<field name = "DATELINE">STRASBOURG, France, March 5 -</field>
-	<field name = "BODY">The French government is to
+	<field name = "content">The French government is to
 sell to the public its 47.42 pct direct holding in Societe
 Generale STGN.PA>'s regional bank subsidiary Societe Generale
 Alsacienne de Banque>, SOGENAL, from next Monday, SOGENAL

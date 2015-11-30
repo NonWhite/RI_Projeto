@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">C G T M
-f0935reute
-d f PM-KOREA-OIL   03-26 0137</field>
-	<field name = "TITLE">S. KOREA MAY BUY U.S. OIL TO AID TRADE BALANCE</field>
+	<field name = "titulo">S. KOREA MAY BUY U.S. OIL TO AID TRADE BALANCE</field>
 	<field name = "DATELINE">SEOUL, March 26 -</field>
-	<field name = "BODY">South Korea is studying a plan to buy
+	<field name = "content">South Korea is studying a plan to buy
 more coal from the United States and to start importing Alaskan
 crude oil to help reduce its huge trade surplus with the United
 States, Energy Ministry officials said today.

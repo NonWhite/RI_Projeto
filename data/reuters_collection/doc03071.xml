@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 10:04:38.85</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0172reute
-b f BC-/ALLEGHENY-INT'L-AG>   03-09 0089</field>
-	<field name = "TITLE">ALLEGHENY INT'L AG>, FIRST BOSTON SET MERGER</field>
+	<field name = "titulo">ALLEGHENY INT'L AG>, FIRST BOSTON SET MERGER</field>
 	<field name = "DATELINE">PITTSBURGH, March 9 -</field>
-	<field name = "BODY">Allegheny International Inc said it
+	<field name = "content">Allegheny International Inc said it
 has entered into an agreement to merge with an affiliate of
 First Boston Inc's FPC> First Boston Corp in a transaction
 valued at about 500 mln dlrs.

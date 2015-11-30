@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1219reute
-u f BC-/EXXON-XON>-OIL-AND   03-31 0114</field>
-	<field name = "TITLE">EXXON XON> OIL AND GAS PRODUCTION ROSE IN 1986</field>
+	<field name = "titulo">EXXON XON> OIL AND GAS PRODUCTION ROSE IN 1986</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Exxon Corp said in its annual report
+	<field name = "content">Exxon Corp said in its annual report
 that it raised production in 1986 although it did not replace
 all oil and gas produced.
     The company said that it added about four pct to production

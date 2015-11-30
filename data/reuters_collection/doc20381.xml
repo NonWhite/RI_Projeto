@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">dauster</field>
-	<field name = "UNKNOWN">C T 
-f1744reute
-b f BC-IBC-SEEKS-EXPORT-PERF   10-20 0115</field>
-	<field name = "TITLE">IBC SEEKS EXPORT DETAILS TO SET COFFEE QUOTAS</field>
+	<field name = "titulo">IBC SEEKS EXPORT DETAILS TO SET COFFEE QUOTAS</field>
 	<field name = "DATELINE">RIO DE JANEIRO, Oct 20 -</field>
-	<field name = "BODY">The Brazilian Coffee Institute
+	<field name = "content">The Brazilian Coffee Institute
 (IBC) has given shippers until close of business on Thursday to
 submit details of past export performance in order that
 individual quotas can be allocated, an IBC spokesman said.

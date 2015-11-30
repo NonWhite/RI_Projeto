@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 05:59:31.95</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0318reute
-u f BC-NEW-LONDON-AIRPORT-WI   04-09 0113</field>
-	<field name = "TITLE">NEW LONDON AIRPORT WILL OFFER FLIGHTS TO EUROPE</field>
+	<field name = "titulo">NEW LONDON AIRPORT WILL OFFER FLIGHTS TO EUROPE</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">The British Civil Aviation Authority
+	<field name = "content">The British Civil Aviation Authority
 (CAA) has granted licenses for two airlines, Brymon Airways>
 and Eurocity Express>, to fly three lucrative European routes
 from the 20 mln stg London docklands airport.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 15:07:05.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2226reute
-d f BC-TECHNIMED-CORP-SAID-C   03-24 0076</field>
-	<field name = "TITLE">TECHNIMED CORP SAID COMPANY CANCELLED CONTRACT</field>
+	<field name = "titulo">TECHNIMED CORP SAID COMPANY CANCELLED CONTRACT</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Technimed Corp> said Garid Inc of
+	<field name = "content">Technimed Corp> said Garid Inc of
 Eden Praries, Minn., has cancelled its requirements contract
 wih Technimed for the supply of a dry chemistry device for the
 Med-Pen system.

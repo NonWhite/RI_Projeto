@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 13:33:16.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1883reute
-d f BC-UNC-UNC>-GETS-16-MLN   03-23 0033</field>
-	<field name = "TITLE">UNC UNC> GETS 16 MLN DLR CONTRACT</field>
+	<field name = "titulo">UNC UNC> GETS 16 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">ANNAPOLIS, March 23 -</field>
-	<field name = "BODY">UNC Inc said it has received a 16 mln
+	<field name = "content">UNC Inc said it has received a 16 mln
 dlr contract from the U.S. Department of Energy for production
 of naval propulsion system components.
  Reuter</field>

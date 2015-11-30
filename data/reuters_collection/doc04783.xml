@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 09:33:24.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0857reute
-r f BC-WALKER-TELECOMMUNICAT   03-13 0101</field>
-	<field name = "TITLE">WALKER TELECOMMUNICATIONS WTEL> CLOSING UNIT</field>
+	<field name = "titulo">WALKER TELECOMMUNICATIONS WTEL> CLOSING UNIT</field>
 	<field name = "DATELINE">Hauppauge, N.Y,. March 13 -</field>
-	<field name = "BODY">Walker Telecommunications Corp
+	<field name = "content">Walker Telecommunications Corp
 said it discontinued operations of its mobile communication
 division, resulting in an undisclosed one time substantial loss
 for the fourth quarter and year for fiscal 1986.

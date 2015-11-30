@@ -4,12 +4,9 @@
 	<field name = "PLACES">cyprus</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">Y 
-f0546reute
-b f BC-IRAN-WARNS-U.S.-AGAIN   10-19 0068</field>
-	<field name = "TITLE">IRAN WARNS U.S. AGAINST RAISING TENSION IN GULF</field>
+	<field name = "titulo">IRAN WARNS U.S. AGAINST RAISING TENSION IN GULF</field>
 	<field name = "DATELINE">NICOSIA, Oct 19 -</field>
-	<field name = "BODY">Iran warned the United States on Monday
+	<field name = "content">Iran warned the United States on Monday
 against exacerbating the Gulf crisis, saying it would endanger
 American interests.
     Tehran Radio, monitored by the British Broadcasting

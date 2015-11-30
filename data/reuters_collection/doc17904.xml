@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 04:24:22.69</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0251reute
-b f BC-DAIWA-HOUSE-EQUITY-WA   06-02 0105</field>
-	<field name = "TITLE">DAIWA HOUSE EQUITY WARRANT INCREASED, FIXED</field>
+	<field name = "titulo">DAIWA HOUSE EQUITY WARRANT INCREASED, FIXED</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">The five year equity warrant eurobond for
+	<field name = "content">The five year equity warrant eurobond for
 Daiwa House Industry Co Ltd DHOU.T> has been increased to 400
 mln dlrs from the initial 300 mln dlrs, lead manager Nomura
 International Ltd said.

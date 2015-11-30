@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 08:13:36.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0623reute
-r f AM-SAVINGS   03-19 0103</field>
-	<field name = "TITLE">SAVINGS BANK CLOSED, 15TH TROUBLED U.S. SL OF YEAR</field>
+	<field name = "titulo">SAVINGS BANK CLOSED, 15TH TROUBLED U.S. SL OF YEAR</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">The Federal Home Loan Bank Board
+	<field name = "content">The Federal Home Loan Bank Board
 (FHLBB) announced today the replacement of a closed Santa Ana,
 Calif., savings bank in the 15th federal action assisting
 troubled U.S. savings institutions this year.

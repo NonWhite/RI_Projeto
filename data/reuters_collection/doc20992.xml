@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 15:44:15.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2911reute
-d f BC-CITYFED-FINANCIAL-COR   10-19 0028</field>
-	<field name = "TITLE">CITYFED FINANCIAL CORP CTYF.O> CUTS DIVIDEND</field>
+	<field name = "titulo">CITYFED FINANCIAL CORP CTYF.O> CUTS DIVIDEND</field>
 	<field name = "DATELINE">PALM BEACH, Fla., Oct 19 -</field>
-	<field name = "BODY">Qtly div one cent vs 10 cts in prior quarter
+	<field name = "content">Qtly div one cent vs 10 cts in prior quarter
     Payable November 16
     Record November two
  Reuter</field>

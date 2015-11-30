@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 05:33:30.68</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">F
-f0428reute
-u f BC-NEW-SINGAPORE-FINANCI   04-02 0108</field>
-	<field name = "TITLE">NEW SINGAPORE FINANCIAL MARKET SET TO OPEN</field>
+	<field name = "titulo">NEW SINGAPORE FINANCIAL MARKET SET TO OPEN</field>
 	<field name = "AUTHOR">By Jose Katigbak, Reuters</field>
 	<field name = "DATELINE">SINGAPORE, April 2 -</field>
-	<field name = "BODY">The new Singapore government
+	<field name = "content">The new Singapore government
 securities market will start trading in late April or early May
 after President Wee Kim Wee signs the Development Loan Bill
 approved by parliament last week, bankers said.

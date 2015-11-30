@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F 
-f0654reute
-u f BC-TRAFALGAR-HOUSE-BUYS   10-19 0110</field>
-	<field name = "TITLE">TRAFALGAR HOUSE BUYS U.S. BUILDER FOR 20 MLN DLRS</field>
+	<field name = "titulo">TRAFALGAR HOUSE BUYS U.S. BUILDER FOR 20 MLN DLRS</field>
 	<field name = "DATELINE">LONDON, Oct 19 -</field>
-	<field name = "BODY">Trafalgar House Plc TRAF.L> said it has
+	<field name = "content">Trafalgar House Plc TRAF.L> said it has
 acquired the entire share capital of Capital Homes Inc> of the
 U.S. For 20 mln dlrs in cash.
     Capital Homes builds single family homes in the Washington

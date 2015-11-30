@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 08:21:46.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2804reute
-r f BC-THRIFTY-RENT-A-CAR-IN   06-18 0084</field>
-	<field name = "TITLE">THRIFTY RENT-A-CAR IN INITIAL OFFERING</field>
+	<field name = "titulo">THRIFTY RENT-A-CAR IN INITIAL OFFERING</field>
 	<field name = "DATELINE">TULSA, Okla., June 17 -</field>
-	<field name = "BODY">Thrifty Rent-A-Car System Inc, the
+	<field name = "content">Thrifty Rent-A-Car System Inc, the
 fifth largest car rental company in North America, said it
 filed with the Securities and Exchange Commission for an
 initial public offering of two mln shares of comon stock.

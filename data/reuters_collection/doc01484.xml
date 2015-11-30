@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 10:39:22.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0418reute
-r f BC-OHIO-MATTRESS-OMT>-T   03-04 0102</field>
-	<field name = "TITLE">OHIO MATTRESS OMT> TO SELL CONVERTIBLE DEBT</field>
+	<field name = "titulo">OHIO MATTRESS OMT> TO SELL CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Ohio Mattress Co said it filed with the
+	<field name = "content">Ohio Mattress Co said it filed with the
 Securities and Exchange Commission registration statements
 covering a 75 mln dlr issue of convertible subordinated
 debentures due 2012 and an offering of four mln shares of

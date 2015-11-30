@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">lawson</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f1713reute
-u f BC-G-7-TO-REVIEW-PARIS-A   04-02 0114</field>
-	<field name = "TITLE">G-7 TO REVIEW PARIS ACCORD IN WASHINGTON - LAWSON</field>
+	<field name = "titulo">G-7 TO REVIEW PARIS ACCORD IN WASHINGTON - LAWSON</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">The Group of Seven industrialised
+	<field name = "content">The Group of Seven industrialised
 countries will make use of next week's International Monetary
 Fund meetings in Washington to evaluate the Paris accord on
 currency stabilisation, U.K. Chancellor of the Exchequer Nigel

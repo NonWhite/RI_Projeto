@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 11:25:47.87</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">RM
-f1425reute
-r f BC-TURKISH-TRADE-DEFICIT   06-02 0083</field>
-	<field name = "TITLE">TURKISH TRADE DEFICIT WIDENS IN APRIL</field>
+	<field name = "titulo">TURKISH TRADE DEFICIT WIDENS IN APRIL</field>
 	<field name = "DATELINE">ANKARA, June 2 -</field>
-	<field name = "BODY">Turkey's trade deficit widened to 382 mln
+	<field name = "content">Turkey's trade deficit widened to 382 mln
 dlrs in April from 275 mln in March and 273 mln in April 1986,
 the State Statistics Institute said.
     The deficit for the first quarter of 1987 widened to 1.23

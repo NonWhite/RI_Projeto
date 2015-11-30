@@ -3,12 +3,9 @@
 	<field name = "PLACES">canada</field>
 	<field name = "PEOPLE">greenspan</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">E RM A
-f2731reute
-r f BC-BANK-OF-CANADA-WELCOM   06-02 0108</field>
-	<field name = "TITLE">BANK OF CANADA WELCOMES GREENSPAN APPOINTMENT</field>
+	<field name = "titulo">BANK OF CANADA WELCOMES GREENSPAN APPOINTMENT</field>
 	<field name = "DATELINE">OTTAWA, June 2 -</field>
-	<field name = "BODY">The Bank of Canada, the country's central
+	<field name = "content">The Bank of Canada, the country's central
 bank, believes economist Alan Greenspan was a sound choice to
 replace retiring U.S. Federal Reserve Chairman Paul Volcker, a
 spokesman for the bank said.

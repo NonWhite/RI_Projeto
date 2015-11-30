@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 12:05:46.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1799reute
-d f BC-USX-X>,-INLAND-IAD>   10-19 0104</field>
-	<field name = "TITLE">USX X>, INLAND IAD> IN STEEL COIL VENTURE</field>
+	<field name = "titulo">USX X>, INLAND IAD> IN STEEL COIL VENTURE</field>
 	<field name = "DATELINE">PITTSBURGH, Oct 19 -</field>
-	<field name = "BODY">USX Corp said its USS division and
+	<field name = "content">USX Corp said its USS division and
 Inland Steel Corp are continuing to pursue plans to construct a
 plant devoted to the continuous pre-painting of steel coils.
     The company said the proposed facility will primarily serve

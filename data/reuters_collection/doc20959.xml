@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 16:17:03.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3027reute
-r f BC-JEFFERIES-MAKING-MARK   10-19 0062</field>
-	<field name = "TITLE">JEFFERIES MAKING MARKET IN ALLEGIS AEG></field>
+	<field name = "titulo">JEFFERIES MAKING MARKET IN ALLEGIS AEG></field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Jefferies and Co said it is making a
+	<field name = "content">Jefferies and Co said it is making a
 market in Allegis Corp at 67 to 68.
     The New York Stock Exchange halted the stock before the
 close at 75 for an order imbalance.

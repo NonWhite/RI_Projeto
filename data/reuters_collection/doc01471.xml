@@ -3,12 +3,9 @@
 	<field name = "PLACES">venezuela</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM
-f0342reute
-u f BC-VENEZUELA-SETS-FOREIG   03-04 0115</field>
-	<field name = "TITLE">VENEZUELA SETS FOREIGN DEBT TARGETS</field>
+	<field name = "titulo">VENEZUELA SETS FOREIGN DEBT TARGETS</field>
 	<field name = "DATELINE">CARACAS, March 4 -</field>
-	<field name = "BODY">Venezuela plans to have a public sector
+	<field name = "content">Venezuela plans to have a public sector
 foreign debt of 26.5 billion dlrs by early 1989 when the
 present government of President Jaime Lusinchi ends its term,
 public finances director Jorge Marcano said.

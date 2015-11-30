@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 10:25:41.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L T
-f1077reute
-d f BC-THREE-SENATORS-SEEN-A   04-01 0125</field>
-	<field name = "TITLE">THREE SENATORS SEEN ADDED TO SENATE FARM PANEL</field>
+	<field name = "titulo">THREE SENATORS SEEN ADDED TO SENATE FARM PANEL</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">U.S. Senate Agriculture Committee
+	<field name = "content">U.S. Senate Agriculture Committee
 chairman Patrick Leahy (D-Vt.) said three senators probably
 would be added to the panel in the next week.
     Sen. David Karnes, the Nebraska Republican recently

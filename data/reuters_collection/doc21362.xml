@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 10:54:23.33</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F 
-f1390reute
-r f BC-COASTAL-CGP>-RAISES   10-19 0080</field>
-	<field name = "TITLE">COASTAL CGP> RAISES OIL POSTED PRICES</field>
+	<field name = "titulo">COASTAL CGP> RAISES OIL POSTED PRICES</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Coastal Corp said that effective October
+	<field name = "content">Coastal Corp said that effective October
 16 it had raised posted prices for crude oil by 50 cts a
 barrel.
     The increase brings West Texas Intermediate to 9.00 dlrs a

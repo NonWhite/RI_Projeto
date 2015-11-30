@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 10:55:50.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1273reute
-h f BC-ORBIT-ORBT.O>-UNIT-I   06-02 0083</field>
-	<field name = "TITLE">ORBIT ORBT.O> UNIT INCREASES BACKLOG</field>
+	<field name = "titulo">ORBIT ORBT.O> UNIT INCREASES BACKLOG</field>
 	<field name = "DATELINE">HAUPPAUGE, N.Y., June 2 -</field>
-	<field name = "BODY">Orbit Instrument Corp said its
+	<field name = "content">Orbit Instrument Corp said its
 unit, Orbit Semiconductor Inc, has received orders totalling
 about 2.5 mln dlrs which puts its backlog at a record level of
 about 4.7 mln dlrs.

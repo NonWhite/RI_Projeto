@@ -4,12 +4,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "ORGS">bis</field>
-	<field name = "UNKNOWN">RM A
-f0303reute
-r f BC-CENTRAL-BANKERS-SATIS   03-09 0101</field>
-	<field name = "TITLE">CENTRAL BANKERS SATISFIED WITH PARIS ACCORD</field>
+	<field name = "titulo">CENTRAL BANKERS SATISFIED WITH PARIS ACCORD</field>
 	<field name = "DATELINE">BASLE, Switzerland, March 9 -</field>
-	<field name = "BODY">Central bankers said they
+	<field name = "content">Central bankers said they
 were generally satisfied with the response to the Paris accord
 two weeks ago to stabilize currencies at around current levels.
     Speaking after a meeting at the Bank for International

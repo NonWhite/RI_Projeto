@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 10:19:41.72</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1032reute
-u f BC-REXHAM-CORP-RXH>-1ST   04-09 0065</field>
-	<field name = "TITLE">REXHAM CORP RXH> 1ST QTR NET</field>
+	<field name = "titulo">REXHAM CORP RXH> 1ST QTR NET</field>
 	<field name = "DATELINE">CHARLOTTE, N.C., April 9 -</field>
-	<field name = "BODY">Shr 70 cts vs 42 cts
+	<field name = "content">Shr 70 cts vs 42 cts
     Net 2,918,000 vs 1,746,000
     Sales 68.3 mln vs 53.5 mln
     NOTE: 1987 net includes pretax gain 400,000 dlrs from

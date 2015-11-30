@@ -3,13 +3,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">A RM
-f0568reute
-r f BC-BRAZIL-CRISIS-SPURS-R   03-06 0105</field>
-	<field name = "TITLE">BRAZIL CRISIS SPURS RETHINK OF DEBT STRATEGY</field>
+	<field name = "titulo">BRAZIL CRISIS SPURS RETHINK OF DEBT STRATEGY</field>
 	<field name = "AUTHOR">By Alan Wheatley, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Brazil's economic crisis is forcing a
+	<field name = "content">Brazil's economic crisis is forcing a
 wholesale re-examination of the established strategy for
 dealing with developing-country debt, leading bankers say.
     While finance minister Dilson Funaro is unlikely to succeed

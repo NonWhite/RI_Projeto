@@ -7,13 +7,10 @@
 	<field name = "PEOPLE">de-clercq</field>
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C G L M T
-f3860reute
-r f AM-COMMUNITY-TRADE   03-16 0133</field>
-	<field name = "TITLE">EC WARNS U.S. AND JAPAN ON TRADE TENSIONS</field>
+	<field name = "titulo">EC WARNS U.S. AND JAPAN ON TRADE TENSIONS</field>
 	<field name = "AUTHOR">By Paul Mylrea, Reuters</field>
 	<field name = "DATELINE">BRUSSELS, March 16 -</field>
-	<field name = "BODY">The European Community (EC) delivered
+	<field name = "content">The European Community (EC) delivered
 warnings to both Japan and the United States over trade
 frictions which have hit relations between the Community and
 its main trading partners.

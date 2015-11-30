@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y 
-f3068reute
-u f BC-WESTCOAST-WTC>-TO-AC   06-18 0099</field>
-	<field name = "TITLE">WESTCOAST WTC> TO ACQUIRE AGIP PROPERTIES</field>
+	<field name = "titulo">WESTCOAST WTC> TO ACQUIRE AGIP PROPERTIES</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, June 18 -</field>
-	<field name = "BODY">Westcoast
+	<field name = "content">Westcoast
 Transmission Co Ltd said it agreed to acquire the Western
 Canada oil and gas reserves and properties of AGIP Canada Ltd,
 a subsidiary of AGIP SpA, part of Italy's ENI group, for 54 mln

@@ -5,13 +5,10 @@
 	<field name = "EXCHANGES">cme</field>
 	<field name = "EXCHANGES">comex</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">F A RM
-f2736reute
-r f AM-GOLD   06-15 0094</field>
-	<field name = "TITLE">THREE U.S. EXCHANGES VIE FOR GOLD</field>
+	<field name = "titulo">THREE U.S. EXCHANGES VIE FOR GOLD</field>
 	<field name = "AUTHOR">By Patricia Campbell, Reuters</field>
 	<field name = "DATELINE">CHICAGO, June 15 -</field>
-	<field name = "BODY">The glitter of gold has generated a
+	<field name = "content">The glitter of gold has generated a
 three-way competition among the world's largest futures
 exchanges for a 100-ounce contract for the precious metal.
     When the Chicago Mercantile Exchange (CME) re-introduces

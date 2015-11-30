@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:05:00.89C G</field>
-	<field name = "UNKNOWN">f1775reute</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-COLD-AIR-MASS-A-THREA   03-27 0139</field>
-	<field name = "TITLE">COLD AIR A THREAT TO SOME U.S. HARD WHEAT AREAS</field>
+	<field name = "titulo">COLD AIR A THREAT TO SOME U.S. HARD WHEAT AREAS</field>
 	<field name = "DATELINE">KANSAS CITY, March 27 -</field>
-	<field name = "BODY">A cold air mass working its way
+	<field name = "content">A cold air mass working its way
 south from Canada may pose a threat to developing hard red
 winter wheat in Oklahoma, according to Eugene Krenzler, wheat
 specialist for the Oklahoma Cooperative Extension.

@@ -2,12 +2,9 @@
 	<field name = "DATE">29-MAR-1987 05:34:15.85</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0040reute
-r f BC-BANK-FUER-GEMEINWIRTS   03-29 0111</field>
-	<field name = "TITLE">BANK FUER GEMEINWIRTSCHAFT AG BKFG.F> YEAR 1986</field>
+	<field name = "titulo">BANK FUER GEMEINWIRTSCHAFT AG BKFG.F> YEAR 1986</field>
 	<field name = "DATELINE">FRANKFURT, March 29 -</field>
-	<field name = "BODY">Year ended December 31, 1986.
+	<field name = "content">Year ended December 31, 1986.
     Group net profit 30 mln marks vs 35 mln.
     Balance sheet total 61.50 billion marks vs 63.67 billion.
     Credit volume 42.00 billion marks vs 43.15 billion.

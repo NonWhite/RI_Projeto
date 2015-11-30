@@ -7,12 +7,9 @@
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">spain</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f1506reute
-b f BC-EC-PROMISED-U.S.-BULK   04-01 0096</field>
-	<field name = "TITLE">U.S. SAID PROMISED BULK OF MAIZE EXPORT TO SPAIN</field>
+	<field name = "titulo">U.S. SAID PROMISED BULK OF MAIZE EXPORT TO SPAIN</field>
 	<field name = "DATELINE">BRUSSELS, April 1 -</field>
-	<field name = "BODY">The U.S. Has been promised a near
+	<field name = "content">The U.S. Has been promised a near
 monopoly of maize exports to Spain from third countries
 guaranteed under an agreement with the European Community, an
 EC official said.

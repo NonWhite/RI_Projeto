@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 13:58:24.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1965reute
-u f BC-NMS-NMSI>-TO-DEVELOP   06-01 0079</field>
-	<field name = "TITLE">NMS NMSI> TO DEVELOP HOME AIDS TEST KIT</field>
+	<field name = "titulo">NMS NMSI> TO DEVELOP HOME AIDS TEST KIT</field>
 	<field name = "DATELINE">NEWPORT BEACH, Calif., June 1 -</field>
-	<field name = "BODY">NMS Pharmaceuticals Inc
+	<field name = "content">NMS Pharmaceuticals Inc
 said it has begun developing a home test kit for detecting an
 antibody to the AIDS virus.
     The company said its Animial Biotech Corp subdiary, which

@@ -4,13 +4,9 @@
 	<field name = "PLACES">el-salvador</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uruguay</field>
-	<field name = "UNKNOWN">C T
-f0704
-reute
-u f BC-BAHIA-COCOA-REVIEW   02-26 0105</field>
-	<field name = "TITLE">BAHIA COCOA REVIEW</field>
+	<field name = "titulo">BAHIA COCOA REVIEW</field>
 	<field name = "DATELINE">SALVADOR, Feb 26 -</field>
-	<field name = "BODY">Showers continued throughout the week in
+	<field name = "content">Showers continued throughout the week in
 the Bahia cocoa zone, alleviating the drought since early
 January and improving prospects for the coming temporao,
 although normal humidity levels have not been restored,

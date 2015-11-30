@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 11:39:52.32</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f2542reute
-h f BC-PLESSEY-WINS-TEN-MLN   03-16 0097</field>
-	<field name = "TITLE">PLESSEY WINS TEN MLN STG PAYPHONE ORDERS</field>
+	<field name = "titulo">PLESSEY WINS TEN MLN STG PAYPHONE ORDERS</field>
 	<field name = "DATELINE">LONDON, March 16 -</field>
-	<field name = "BODY">The Plessey Co Plc PLYL.L> said it won
+	<field name = "content">The Plessey Co Plc PLYL.L> said it won
 initial orders for more than 10 mln stg for "intelligent' coin
 and cashless payphones from seven European telephone
 administrations. The major orders were from Sweden's

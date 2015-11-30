@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 11:56:11.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f1526reute
-r f BC-CENTEL-CORP-CNT>-SEL   06-29 0113</field>
-	<field name = "TITLE">CENTEL CORP CNT> SELLS DEBENTURES</field>
+	<field name = "titulo">CENTEL CORP CNT> SELLS DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Centel Corp is raising 60 mln dlrs via
+	<field name = "content">Centel Corp is raising 60 mln dlrs via
 an issue of debentures due 1997, said lead underwriter Smith
 Barney, Harris Upham and Co Inc.
     Smith Barney headed a syndicate that won the debentures in

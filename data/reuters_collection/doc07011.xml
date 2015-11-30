@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 06:39:15.19</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0402reute
-b f BC-U.K.-CLEARING-BANK-LE   03-19 0067</field>
-	<field name = "TITLE">U.K. CLEARING BANK LENDING RISES 1.6 BILLION STG</field>
+	<field name = "titulo">U.K. CLEARING BANK LENDING RISES 1.6 BILLION STG</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">Clearing bank sterling lending to the
+	<field name = "content">Clearing bank sterling lending to the
 U.K. Private sector in February is estimated to have risen by
 an underlying, seasonally-adjusted 1.6 billion stg after a 1.2
 billion stg rise in January, the Banking Information Service

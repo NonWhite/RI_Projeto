@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 16:16:33.97</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y 
-f3149reute
-u f BC-AMOCO-AN>-RAISES-CRU   10-20 0103</field>
-	<field name = "TITLE">AMOCO AN> RAISES CRUDE PRICES</field>
+	<field name = "titulo">AMOCO AN> RAISES CRUDE PRICES</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Amoco Corp said it raised the contract
+	<field name = "content">Amoco Corp said it raised the contract
 price it will pay for most grades of crude oil by 50 cts a
 barrel, effective today.
     The company said the increase brings its posting for West

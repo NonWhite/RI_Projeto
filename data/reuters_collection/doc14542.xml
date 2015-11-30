@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:53:48.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2302reute
-r f BC-GENCORP-GY>-STAYS-ON   04-07 0106</field>
-	<field name = "TITLE">GENCORP GY> STAYS ON S/P CREDITWATCH, NEGATIVE</field>
+	<field name = "titulo">GENCORP GY> STAYS ON S/P CREDITWATCH, NEGATIVE</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it is
+	<field name = "content">Standard and Poor's Corp said it is
 keeping GenCorp Inc's 100 mln dlrs of BB-plus subordinated debt
 on creditwatch with negative implications.
     S and P cited the company's announcement that it will

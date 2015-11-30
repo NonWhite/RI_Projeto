@@ -6,12 +6,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f3013reute
-u f BC-TRADE-SEES-STEADY-COR   03-16 0106</field>
-	<field name = "TITLE">TRADE SEES STEADY CORN/WHEAT EXPORT INSPECTIONS</field>
+	<field name = "titulo">TRADE SEES STEADY CORN/WHEAT EXPORT INSPECTIONS</field>
 	<field name = "DATELINE">CHICAGO, March 16 -</field>
-	<field name = "BODY">The USDA's weekly export inspection
+	<field name = "content">The USDA's weekly export inspection
 report is expected to show steady corn and wheat exports and
 lower soybean exports, according to CBT floor traders'
 forecasts.

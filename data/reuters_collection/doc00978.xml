@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 08:47:17.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0199
-reute
-b f BC-/AMR-AMR>-TO-ACQUIRE   03-03 0098</field>
-	<field name = "TITLE">AMR AMR> TO ACQUIRE 40 LONG-RANGE JET AIRCRAFT</field>
+	<field name = "titulo">AMR AMR> TO ACQUIRE 40 LONG-RANGE JET AIRCRAFT</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">AMR Corp's American Airlines said it
+	<field name = "content">AMR Corp's American Airlines said it
 will buy 40 long-range jet aircraft to support international
 expansion, including routes in the Caribbean.
     Under one agreement, the airline said, it will acquire 15

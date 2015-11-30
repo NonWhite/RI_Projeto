@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 18:08:46.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0072reute
-r f BC-ICN-ICN>-SUBJECT-OF   03-05 0110</field>
-	<field name = "TITLE">ICN ICN> SUBJECT OF CLASS ACTIONS</field>
+	<field name = "titulo">ICN ICN> SUBJECT OF CLASS ACTIONS</field>
 	<field name = "DATELINE">LOS ANGELES, March 5 -</field>
-	<field name = "BODY">Two separate class action lawsuits
+	<field name = "content">Two separate class action lawsuits
 were filed against ICN Pharmaceuticals Inc and its Viratek Inc
 VIRA> subsidiary, charging the companies with disseminating
 allegedly false and misleading information regarding the

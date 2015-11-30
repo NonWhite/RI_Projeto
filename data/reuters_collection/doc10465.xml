@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:07:15.07RM</field>
-	<field name = "UNKNOWN">f1152reute</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">u f BC-SOCIETE-GENERALE-ISSU   03-27 0097</field>
-	<field name = "TITLE">SOCIETE GENERALE ISSUES 15 BILLION YEN BOND</field>
+	<field name = "titulo">SOCIETE GENERALE ISSUES 15 BILLION YEN BOND</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">Societe Generale is issuing a 15 billion
+	<field name = "content">Societe Generale is issuing a 15 billion
 yen bond due April 21, 1992 carrying a coupon of 4-1/2 pct for
 the first four years and priced at 102, Mitsui Trust
 International Ltd said as joint book runner.

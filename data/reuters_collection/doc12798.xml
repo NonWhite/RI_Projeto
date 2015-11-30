@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 07:22:23.82</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0535reute
-r f BC-GERMAN-CHEMICAL-INDUS   04-03 0115</field>
-	<field name = "TITLE">GERMAN CHEMICAL INDUSTRY SEES LOWER PROFITS</field>
+	<field name = "titulo">GERMAN CHEMICAL INDUSTRY SEES LOWER PROFITS</field>
 	<field name = "DATELINE">HANOVER, West Germany, April 3 -</field>
-	<field name = "BODY">West Germany's chemical
+	<field name = "content">West Germany's chemical
 industry fears mounting risks will hurt earnings but hopes 1987
 turnover will stabilize around 1986's 140 billion marks, Josef
 Strenger, a board member of the industry association VCI, said.

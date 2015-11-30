@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:05:25.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0196reute
-u f BC-JAMESWAY-JMY>-FEBRUA   03-05 0068</field>
-	<field name = "TITLE">JAMESWAY JMY> FEBRUARY SALES UP 13 PCT</field>
+	<field name = "titulo">JAMESWAY JMY> FEBRUARY SALES UP 13 PCT</field>
 	<field name = "DATELINE">SECAUCUS, N.J., March 5 -</field>
-	<field name = "BODY">Jamesway Corp said it had sales
+	<field name = "content">Jamesway Corp said it had sales
 for the four weeks ended February 28, excluding leased
 departments, were 31.7 mln dlrs, up 13 pct from 28.0 mln dlrs
 in the comperable four week period a year earlier.

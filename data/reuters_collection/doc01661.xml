@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 13:44:03.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0277reute
-r f BC-RANGE-ROVER>-TO-SELL   03-04 0106</field>
-	<field name = "TITLE">RANGE ROVER> TO SELL VEHICLES IN U.S.</field>
+	<field name = "titulo">RANGE ROVER> TO SELL VEHICLES IN U.S.</field>
 	<field name = "DATELINE">Detroit, March 4 -</field>
-	<field name = "BODY">Range Rover of North America Inc, a
+	<field name = "content">Range Rover of North America Inc, a
 subsidiary of the British Land Rover Group, said it would begin
 selling the luxury utility vehicles in the United States March
 16 at a suggested retail price of 30,825 dlrs.

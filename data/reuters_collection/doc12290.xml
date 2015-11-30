@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:10:33.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2395reute
-d f BC-HERCULES-HPC>-GETS-1   04-01 0035</field>
-	<field name = "TITLE">HERCULES HPC> GETS 131.5 MLN DLR CONTRACT</field>
+	<field name = "titulo">HERCULES HPC> GETS 131.5 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Hercules Inc has been awarded a 131.5
+	<field name = "content">Hercules Inc has been awarded a 131.5
 mln dlr contract for stage three follow-on production work on
 the MX missile program, the Air Force said.
  reuter</field>

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 08:25:49.04</field>
 	<field name = "PLACES">chile</field>
-	<field name = "UNKNOWN">C M
-f0865reute
-u f BC-NO-MINES-DAMAGE-REPOR   03-05 0095</field>
-	<field name = "TITLE">NO MINES DAMAGE REPORTED AFTER CHILE TREMOR</field>
+	<field name = "titulo">NO MINES DAMAGE REPORTED AFTER CHILE TREMOR</field>
 	<field name = "DATELINE">SANTIAGO, March 5 -</field>
-	<field name = "BODY">A tremor hit northern Chile early today
+	<field name = "content">A tremor hit northern Chile early today
 but there were no immediate reports of victims or of damage to
 the country's vital mining industry, the National Bureau for
 Emergencies, ONEMI, said.

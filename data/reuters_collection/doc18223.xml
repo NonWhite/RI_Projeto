@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:46:15.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2307reute
-u f BC-LOWE'S-LOW>-MAY-SALE   06-02 0039</field>
-	<field name = "TITLE">LOWE'S LOW> MAY SALES UP 11 PCT</field>
+	<field name = "titulo">LOWE'S LOW> MAY SALES UP 11 PCT</field>
 	<field name = "DATELINE">NORTH WILKESBORO, N.C., June 2 -</field>
-	<field name = "BODY">Lowe's Cos Inc said its
+	<field name = "content">Lowe's Cos Inc said its
 sales for the four weeks ended May 29 were up 11 pct to 221.0
 mln dlrs from 199.5 mln dlrs a year before, with same-store
 sales up five pct.

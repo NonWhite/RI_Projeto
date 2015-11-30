@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:38:11.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2480reute
-u f BC-GM-GM>-TO-IDLE-SIX-P   04-01 0090</field>
-	<field name = "TITLE">GM GM> TO IDLE SIX PLANTS, 21,600 WORKERS</field>
+	<field name = "titulo">GM GM> TO IDLE SIX PLANTS, 21,600 WORKERS</field>
 	<field name = "DATELINE">DETROIT, April 1 -</field>
-	<field name = "BODY">General Motors Corp will idle six of its
+	<field name = "content">General Motors Corp will idle six of its
 car assembly plants next week, temporarily laying off 21,600
 workers, according to spokespersons for the company's groups.
     The automaker will shut three plants each in its two

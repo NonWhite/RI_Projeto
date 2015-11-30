@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 21:47:14.67</field>
 	<field name = "PLACES">china</field>
 	<field name = "PEOPLE">deng-xiaoping</field>
-	<field name = "UNKNOWN">RM
-f0415
-reute
-u f BC-DENG-SAYS-CHINA'S-TRO   03-02 0095</field>
-	<field name = "TITLE">DENG SAYS CHINA'S TROUBLES OVER</field>
+	<field name = "titulo">DENG SAYS CHINA'S TROUBLES OVER</field>
 	<field name = "DATELINE">PEKING, March 3 -</field>
-	<field name = "BODY">Chinese leader Deng Xiaoping told
+	<field name = "content">Chinese leader Deng Xiaoping told
 visiting U.S. Secretary of State George Shultz China's recent
 troubles were over.
     The two discussed Washington's scandal over U.S. Arms sales

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 15:59:56.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2473reute
-d f BC-FARM-CREDIT-AID-SEEN   03-26 0113</field>
-	<field name = "TITLE">FARM CREDIT AID SEEN BROADENED TO OTHER LENDERS</field>
+	<field name = "titulo">FARM CREDIT AID SEEN BROADENED TO OTHER LENDERS</field>
 	<field name = "DATELINE">WASHINGTON, MARCH 26 -</field>
-	<field name = "BODY">Farm-state Senators indicated they
+	<field name = "content">Farm-state Senators indicated they
 may broaden a Farm Credit System rescue package to include aid
 for borrowers from private lenders such as commercial banks, as
 well as the farm credit system.

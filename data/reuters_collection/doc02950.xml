@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 19:28:08.12</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0845reute
-u f BC-JUSTICE-ASKS-U.S.-DIS   03-06 0090</field>
-	<field name = "TITLE">JUSTICE ASKS U.S. DISMISSAL OF TWA (TWA) FILING</field>
+	<field name = "titulo">JUSTICE ASKS U.S. DISMISSAL OF TWA (TWA) FILING</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">The Justice Department told the
+	<field name = "content">The Justice Department told the
 Transportation Department it supported a request by USAir 
 Group that the DOT dismiss an application by Trans World
 Airlines Inc for approval to take control of USAir.

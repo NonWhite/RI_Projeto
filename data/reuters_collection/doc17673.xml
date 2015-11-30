@@ -3,12 +3,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">luxembourg</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">M
-f1903reute
-r f BC-EC-MINISTERS-CONSIDER   06-01 0102</field>
-	<field name = "TITLE">EC MINISTERS CONSIDER CUTBACKS IN STEEL SUPPORT</field>
+	<field name = "titulo">EC MINISTERS CONSIDER CUTBACKS IN STEEL SUPPORT</field>
 	<field name = "DATELINE">LUXEMBOURG, June 1 -</field>
-	<field name = "BODY">A new steel quota system that would
+	<field name = "content">A new steel quota system that would
 strictly limit European Community (EC) support to the industry
 could be forced on producers if they fail to find their own
 solution quickly, officials said.

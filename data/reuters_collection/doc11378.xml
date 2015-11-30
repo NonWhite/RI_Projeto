@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 11:02:10.97</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E RM
-f1400reute
-u f BC-CANADA-INDUSTRY-PRICE   03-31 0090</field>
-	<field name = "TITLE">CANADA INDUSTRY PRICES FALL 0.2 PCT IN MONTH</field>
+	<field name = "titulo">CANADA INDUSTRY PRICES FALL 0.2 PCT IN MONTH</field>
 	<field name = "DATELINE">OTTAWA, March 31 -</field>
-	<field name = "BODY">The Canadian industrial product price
+	<field name = "content">The Canadian industrial product price
 index, base 1981, fell 0.2 pct in February after rising 0.2 pct
 in January, Statistics Canada said.
     "A significant part of this monthly decrease was

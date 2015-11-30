@@ -10,13 +10,10 @@
 	<field name = "PLACES">costa-rica</field>
 	<field name = "PLACES">el-salvador</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T 
-f1867reute
-u f BC-EUROPEAN-COFFEE-TRADE   06-19 0108</field>
-	<field name = "TITLE">EUROPEAN COFFEE TRADE PROPOSES NEW QUOTA FORMULA</field>
+	<field name = "titulo">EUROPEAN COFFEE TRADE PROPOSES NEW QUOTA FORMULA</field>
 	<field name = "AUTHOR">By Jeremy Lovell, Reuters</field>
 	<field name = "DATELINE">AMSTERDAM, June 19 -</field>
-	<field name = "BODY">European coffee roasters and traders
+	<field name = "content">European coffee roasters and traders
 have agreed to propose a new formula for calculating
 International Coffee Organization, ICO, quotas, Dutch Coffee
 Trade Association chairman chairman Frits van Horick said.

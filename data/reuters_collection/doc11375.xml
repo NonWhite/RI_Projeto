@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 11:00:18.17</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">poland</field>
-	<field name = "UNKNOWN">RM
-f1392reute
-u f BC-POLAND-RENEWS-PARIS-C   03-31 0107</field>
-	<field name = "TITLE">POLAND RENEWS PARIS CLUB DEBT TALKS</field>
+	<field name = "titulo">POLAND RENEWS PARIS CLUB DEBT TALKS</field>
 	<field name = "DATELINE">PARIS, March 31 -</field>
-	<field name = "BODY">Poland met the Paris Club of western
+	<field name = "content">Poland met the Paris Club of western
 creditor nations for renewed talks on rescheduling its debt
 repayments but no conclusive result was expected, diplomatic
 sources said.

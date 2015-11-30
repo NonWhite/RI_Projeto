@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 12:17:29.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0809reute
-d f BC-CREDITHRIFT-FINANCIAL   03-11 0056</field>
-	<field name = "TITLE">CREDITHRIFT FINANCIAL TO REDEEM NOTES</field>
+	<field name = "titulo">CREDITHRIFT FINANCIAL TO REDEEM NOTES</field>
 	<field name = "DATELINE">EVANSVILLE, IND., March 11 -</field>
-	<field name = "BODY">(Credithrift Financial Corp)
+	<field name = "content">(Credithrift Financial Corp)
 said its board authorized the redemption of the company's 8.20
 pct Senior Notes due Dec 15, 1987.
     It said the notes are to be redeemed April 20 at a price

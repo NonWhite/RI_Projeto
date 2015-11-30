@@ -6,12 +6,9 @@
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">uae</field>
-	<field name = "UNKNOWN">C M
-f0871reute
-u f BC-SAUDI-STEAM-TANKER-RE   03-12 0073</field>
-	<field name = "TITLE">SAUDI SUPERTANKER REPORTED HIT BY IRAN OFF UAE</field>
+	<field name = "titulo">SAUDI SUPERTANKER REPORTED HIT BY IRAN OFF UAE</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">Iran attacked the Saudi Arabian
+	<field name = "content">Iran attacked the Saudi Arabian
 supertanker Arabian Sea off the United Arab Emirates last night
 but the vessel was able to proceed after the incident, Lloyds
 Shipping Intelligence reported.

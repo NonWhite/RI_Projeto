@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 14:16:32.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2177reute
-u f BC-TALKING-POINT/WALL-ST   03-30 0108</field>
-	<field name = "TITLE">TALKING POINT/WALL STREET STOCKS</field>
+	<field name = "titulo">TALKING POINT/WALL STREET STOCKS</field>
 	<field name = "AUTHOR">By Cal Mankowski, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">Investors who have been riding the
+	<field name = "content">Investors who have been riding the
 bull market in U.S. stocks got a stinging reminder today of how
 unexpected news can trigger sharp reversals.
     "The market was ripe for some type of pullback," said Frank

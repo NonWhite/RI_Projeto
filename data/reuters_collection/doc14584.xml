@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:14:04.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2349reute
-d f BC-TERRACE-BANK-OF-FLORI   04-07 0076</field>
-	<field name = "TITLE">TERRACE BANK OF FLORIDA TO SELL 500,000 SHARES</field>
+	<field name = "titulo">TERRACE BANK OF FLORIDA TO SELL 500,000 SHARES</field>
 	<field name = "DATELINE">TAMPA, April 7 -</field>
-	<field name = "BODY">Terrace Bank of Florida said it is selling
+	<field name = "content">Terrace Bank of Florida said it is selling
 500,000 shares of stock at 10.50 dlrs per share in its initial
 offering.
     The organizers of the bank plan to purchase 81,000 of those

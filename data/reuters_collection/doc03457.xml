@@ -4,12 +4,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f0249reute
-u f BC-JAPAN-CRUSHERS-START   03-11 0096</field>
-	<field name = "TITLE">JAPAN CRUSHERS START APRIL U.S. SOYBEAN BUYING</field>
+	<field name = "titulo">JAPAN CRUSHERS START APRIL U.S. SOYBEAN BUYING</field>
 	<field name = "DATELINE">TOKYO, March 11 -</field>
-	<field name = "BODY">Japanese crushers, starting to buy U.S.
+	<field name = "content">Japanese crushers, starting to buy U.S.
 Soybeans for April shipment, have recently made purchases of
 some 48,000 tonnes, trade sources said.
     The sources said they could not estimate the total volume

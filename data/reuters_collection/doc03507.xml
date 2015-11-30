@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 06:32:47.12</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0530reute
-b f BC-ICI-ISSUES-100-MLN-ST   03-11 0099</field>
-	<field name = "TITLE">ICI ISSUES 100 MLN STG 9-3/4 PCT EUROBOND</field>
+	<field name = "titulo">ICI ISSUES 100 MLN STG 9-3/4 PCT EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Imperial Chemical Industries Plc ICI.L>
+	<field name = "content">Imperial Chemical Industries Plc ICI.L>
 is issuing a 100 mln stg eurobond due April 15, 2005 paying
 9-3/4 pct and priced at 101-1/4 pct, lead manager Warburg
 Securities said.

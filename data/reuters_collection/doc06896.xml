@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">C G
-f9654reute
-u f BC-TAIWAN-BUYS-450,000-T   03-18 0078</field>
-	<field name = "TITLE">TAIWAN BUYS 450,000 TONNES OF U.S. CORN</field>
+	<field name = "titulo">TAIWAN BUYS 450,000 TONNES OF U.S. CORN</field>
 	<field name = "DATELINE">KANSAS CITY, March 18 -</field>
-	<field name = "BODY">Taiwan overnight bought 450,000
+	<field name = "content">Taiwan overnight bought 450,000
 tonnes of U.S. number two corn, 14.5 pct moisture, for Gulf and
 West Coast shipment in 11 cargoes between May and October,
 private export sources said.

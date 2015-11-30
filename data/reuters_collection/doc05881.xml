@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 08:29:42.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f4720reute
-r f BC-FINANCIAL-TIMES-ADDS   03-17 0104</field>
-	<field name = "TITLE">FINANCIAL TIMES ADDS NEW INDICES</field>
+	<field name = "titulo">FINANCIAL TIMES ADDS NEW INDICES</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Goldman, Sachs and Co> said Pearson
+	<field name = "content">Goldman, Sachs and Co> said Pearson
 PLC's> Financial Times newspaper has started publishing the
 daily FT-Actuaries World Indices, which are jointly compiled
 with Goldman Sachs, broker Wood Mackenzie and Co Ltd> and the

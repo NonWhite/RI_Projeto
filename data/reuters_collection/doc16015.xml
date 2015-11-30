@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 17:29:59.20</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2728reute
-h f BC-INTERNATIONAL-POWER-M   04-09 0078</field>
-	<field name = "TITLE">INTERNATIONAL POWER MACHINES PWR> 4TH QTR LOSS</field>
+	<field name = "titulo">INTERNATIONAL POWER MACHINES PWR> 4TH QTR LOSS</field>
 	<field name = "DATELINE">MESQUITE, Texas, April 9 -</field>
-	<field name = "BODY">Shr loss 21 cts vs loss 28 cts
+	<field name = "content">Shr loss 21 cts vs loss 28 cts
     Net loss 817,000 vs loss 1,058,000
     Revs 5,627,000 vs 7,397,000
     Year

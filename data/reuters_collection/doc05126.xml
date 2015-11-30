@@ -2,13 +2,10 @@
 	<field name = "DATE">13-MAR-1987 18:32:42.73</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM C
-f0712reute
-u f BC-fin-futures-outlook   03-13 0083</field>
-	<field name = "TITLE">TRADING RANGE LIKELY TO CONTINUE IN DEBT FUTURES</field>
+	<field name = "titulo">TRADING RANGE LIKELY TO CONTINUE IN DEBT FUTURES</field>
 	<field name = "AUTHOR">By Brad Schade, Reuters</field>
 	<field name = "DATELINE">CHICAGO, March 13 -</field>
-	<field name = "BODY">U.S. economic data due out next week is
+	<field name = "content">U.S. economic data due out next week is
 unlikely to hold any surprises that will shake U.S. interest
 rate futures out of their relatively narrow trading range of
 the last 3-1/2 months, financial analysts said.

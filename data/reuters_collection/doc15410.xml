@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0370reute
-u f BC-BELGIUM-TO-ISSUE-GOLD   04-09 0042</field>
-	<field name = "TITLE">BELGIUM TO ISSUE GOLD WARRANTS, SOURCES SAY</field>
+	<field name = "titulo">BELGIUM TO ISSUE GOLD WARRANTS, SOURCES SAY</field>
 	<field name = "DATELINE">ZURICH, April 9 -</field>
-	<field name = "BODY">Belgium plans to issue Swiss franc
+	<field name = "content">Belgium plans to issue Swiss franc
 warrants to buy gold, with Credit Suisse as lead manager,
 market sources said.
     No confirmation or further details were immediately

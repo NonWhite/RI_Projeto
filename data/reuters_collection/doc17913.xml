@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 04:56:32.51</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PEOPLE">eyskens</field>
-	<field name = "UNKNOWN">RM
-f0295reute
-u f BC-BELGIAN-PUBLIC-DEBT-R   06-02 0113</field>
-	<field name = "TITLE">BELGIAN PUBLIC DEBT RISES IN APRIL</field>
+	<field name = "titulo">BELGIAN PUBLIC DEBT RISES IN APRIL</field>
 	<field name = "DATELINE">BRUSSELS, June 2 -</field>
-	<field name = "BODY">Belgium's public debt rose in April by a
+	<field name = "content">Belgium's public debt rose in April by a
 nominal 38.5 billion francs to 5,719.4 billion francs. This
 follows a rise of 89.8 billion in March and a rise of 11.2
 billion in April 1986, Finance Minister Mark Eyskens said.

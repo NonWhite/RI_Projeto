@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 16:20:50.93</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V
-f0982
-reute
-b f BC-N.Y.-BANK-DISCOUNT-BO   02-26 0102</field>
-	<field name = "TITLE">N.Y. BANK DISCOUNT BORROWINGS 64 MLN DLRS</field>
+	<field name = "titulo">N.Y. BANK DISCOUNT BORROWINGS 64 MLN DLRS</field>
 	<field name = "DATELINE">NEW YORK, Feb 26 -</field>
-	<field name = "BODY">The eight major New York City banks had
+	<field name = "content">The eight major New York City banks had
 64 mln dlrs in average borrowings from the Federal Reserve in
 the week to Wednesday February 25, a Fed spokesman said.
     The week marked the second half of the two-week bank

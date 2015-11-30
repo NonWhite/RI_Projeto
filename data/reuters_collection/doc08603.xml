@@ -5,12 +5,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">G C
-f0103reute
-u f BC-U.K.,-AUSTRALIA-OFFER   03-24 0097</field>
-	<field name = "TITLE">U.K., AUSTRALIA OFFER WHEAT TO BANGLADESH</field>
+	<field name = "titulo">U.K., AUSTRALIA OFFER WHEAT TO BANGLADESH</field>
 	<field name = "DATELINE">DHAKA, March 24 -</field>
-	<field name = "BODY">Britain and Australia have offered a
+	<field name = "content">Britain and Australia have offered a
 total of 129,250 tonnes of wheat to Bangladesh as grants to
 contain rising cereal prices and help support rural employment
 projects, officials said.

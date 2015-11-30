@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 06:40:05.82</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0431reute
-b f BC-TREASURY-CORP-OF-NSW   04-13 0098</field>
-	<field name = "TITLE">TREASURY CORP OF NSW ISSUES AUSTRALIAN DLR BOND</field>
+	<field name = "titulo">TREASURY CORP OF NSW ISSUES AUSTRALIAN DLR BOND</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">The New South Wales Treasury Corporation
+	<field name = "content">The New South Wales Treasury Corporation
 is issuing a 100 mln Australian dlr eurobond due May 27, 1992
 paying 14-1/4 pct and priced at 101-7/8 pct, lead manager
 County Natwest Capital Markets said.

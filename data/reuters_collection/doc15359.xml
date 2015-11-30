@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 17:46:02.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2723reute
-h f BC-SELAS-CORP-OF-AMERICA   04-08 0053</field>
-	<field name = "TITLE">SELAS CORP OF AMERICA SLS> SETS SALE/LEASEBACK</field>
+	<field name = "titulo">SELAS CORP OF AMERICA SLS> SETS SALE/LEASEBACK</field>
 	<field name = "DATELINE">DRESHER, Pa., April 8 -</field>
-	<field name = "BODY">Selas Corp of America said it
+	<field name = "content">Selas Corp of America said it
 signed a letter of intent for a three mln dlr sale and
 leaseback of its corporate offices and plants.
     The sale is subject to a number of conditions, including

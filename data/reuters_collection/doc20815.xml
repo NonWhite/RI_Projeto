@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 18:38:39.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3547reute
-r f BC-PAYLESS-CASHWAYS-PCI   10-20 0065</field>
-	<field name = "TITLE">PAYLESS CASHWAYS PCI> SETS SHARE BUYBACK PLAN</field>
+	<field name = "titulo">PAYLESS CASHWAYS PCI> SETS SHARE BUYBACK PLAN</field>
 	<field name = "DATELINE">KANSAS CITY, Mo, Oct 20 -</field>
-	<field name = "BODY">Payless Cashways Inc said it will
+	<field name = "content">Payless Cashways Inc said it will
 repurchase up to one mln of its common shares from time to time
 in the open market.
     The company, which has 34.7 mln shares outstanding, called

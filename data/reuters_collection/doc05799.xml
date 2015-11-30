@@ -2,13 +2,10 @@
 	<field name = "DATE">17-MAR-1987 02:46:11.98</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f4141reute
-u f BC-CHINA-TO-IMPORT-MORE   03-17 0100</field>
-	<field name = "TITLE">CHINA TO IMPORT MORE GRAIN IN 1987</field>
+	<field name = "titulo">CHINA TO IMPORT MORE GRAIN IN 1987</field>
 	<field name = "AUTHOR">By Mark O'Neill, Reuters</field>
 	<field name = "DATELINE">HANGZHOU, China, March 17 -</field>
-	<field name = "BODY">China's grain imports will rise
+	<field name = "content">China's grain imports will rise
 in 1987 because of a serious drought and increasing demand, but
 will be not be as large as in the past, Chinese officials and
 Japanese traders told Reuters.

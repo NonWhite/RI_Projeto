@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 08:51:50.59</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">F
-f7701reute
-d f BC-FERRUZZI-NEGOTIATING   03-18 0105</field>
-	<field name = "TITLE">FERRUZZI NEGOTIATING EUROPEAN ACQUISITION</field>
+	<field name = "titulo">FERRUZZI NEGOTIATING EUROPEAN ACQUISITION</field>
 	<field name = "DATELINE">ROME, March 18 -</field>
-	<field name = "BODY">Italy's Gruppo Ferruzzi> is in the
+	<field name = "content">Italy's Gruppo Ferruzzi> is in the
 advanced stages of negotiations that could result in an
 acquisition worth "some hundreds of billions of lire" in the
 European agro-industrial sector, a company spokesman told

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:57:32.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0779reute
-r f BC-TELEMATICS-IN-INITIAL   03-05 0092</field>
-	<field name = "TITLE">TELEMATICS IN INITIAL PUBLIC OFFERING</field>
+	<field name = "titulo">TELEMATICS IN INITIAL PUBLIC OFFERING</field>
 	<field name = "DATELINE">FORT LAUDERDALE, Fla., March 5 -</field>
-	<field name = "BODY">Telematics International
+	<field name = "content">Telematics International
 Inc> said 2,550,000 shares of common at 12 dlrs per share are
 being offered in an initial public offering.
     It said it is offering 2,050,000 and certain shareholders

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:04:58.48</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0451reute
-u f BC-SOME-GERMAN-ENGINEERS   03-11 0120</field>
-	<field name = "TITLE">SOME GERMAN ENGINEERS AGAIN HOLD WARNING STRIKES</field>
+	<field name = "titulo">SOME GERMAN ENGINEERS AGAIN HOLD WARNING STRIKES</field>
 	<field name = "DATELINE">FRANKFURT, March 11 -</field>
-	<field name = "BODY">The engineers union IG Metall said
+	<field name = "content">The engineers union IG Metall said
 35,700 workers at 152 West German engineering companies held
 brief warning strikes today in support of the union's demands
 for higher wages and shorter working hours without loss of pay.

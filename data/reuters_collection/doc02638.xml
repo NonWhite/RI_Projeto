@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:08:06.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0451reute
-u f BC-STONE-CONTAINER-STO>   03-06 0105</field>
-	<field name = "TITLE">STONE CONTAINER STO> RAISING PRICES</field>
+	<field name = "titulo">STONE CONTAINER STO> RAISING PRICES</field>
 	<field name = "DATELINE">CHICAGO, March 6 -</field>
-	<field name = "BODY">Stone Container Corp said that effective
+	<field name = "content">Stone Container Corp said that effective
 April six, prices for all grades of containerboard products
 will increase 30 dlrs per ton.
     Stone Container chairman and chief executive officer Roger

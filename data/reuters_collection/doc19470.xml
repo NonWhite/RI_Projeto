@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 18:00:01.84</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y 
-f2552reute
-u f BC-/TENNECO-TGT>-TO-TRA   06-19 0108</field>
-	<field name = "TITLE">TENNECO TGT> TO TRANSPORT GAS ON OPEN ACCESS</field>
+	<field name = "titulo">TENNECO TGT> TO TRANSPORT GAS ON OPEN ACCESS</field>
 	<field name = "DATELINE">HOUSTON, June 19 -</field>
-	<field name = "BODY">Tenneco Inc said Tennessee Gas Pipeline
+	<field name = "content">Tenneco Inc said Tennessee Gas Pipeline
 Co, its largest interstate natural gas pipeline, will transport
 natural gas under the open access rules of the Federal Energy
 Regulatory Commission, FERC.

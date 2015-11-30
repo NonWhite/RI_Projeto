@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 15:27:18.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6372reute
-r f BC-TERUMO-CORP-IN-75-MLN   03-17 0110</field>
-	<field name = "TITLE">TERUMO CORP IN 75 MLN DLR EXPANSION IN MARYLAND</field>
+	<field name = "titulo">TERUMO CORP IN 75 MLN DLR EXPANSION IN MARYLAND</field>
 	<field name = "DATELINE">ANNAPOLIS, Md., March 17 -</field>
-	<field name = "BODY">Terumo Corp of Tokyo> has
+	<field name = "content">Terumo Corp of Tokyo> has
 committed 75 mln dlrs to the expansion of its medical products
 manufacturing and research development facility in Elkton, Md.,
 said Gov. William Donald Schaefer in a press release.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:55:01.70</field>
-	<field name = "UNKNOWN">C T
-f0378reute
-u f BC-LONDON-SUGAR-FALLS-TO   04-07 0114</field>
-	<field name = "TITLE">LONDON SUGAR FALLS TO SESSION LOWS BY MIDMORNING</field>
+	<field name = "titulo">LONDON SUGAR FALLS TO SESSION LOWS BY MIDMORNING</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Raw sugar futures fell to session lows by
+	<field name = "content">Raw sugar futures fell to session lows by
 midmorning, suffering losses from last night of between 2.20
 and 1.80 dlrs a tonne in a 341 lot volume, dealers said.
     Lack of follow-through, both here and in New York, featured

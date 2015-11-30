@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">egypt</field>
-	<field name = "UNKNOWN">C G
-f2580reute
-u f BC-EGYPT-CANCELS-PL480-S   04-07 0043</field>
-	<field name = "TITLE">EGYPT SAID TO CANCEL PL480 SOFT WHEAT TENDER</field>
+	<field name = "titulo">EGYPT SAID TO CANCEL PL480 SOFT WHEAT TENDER</field>
 	<field name = "DATELINE">KANSAS CITY, April 7 -</field>
-	<field name = "BODY">Egypt has cancelled its Export Bonus
+	<field name = "content">Egypt has cancelled its Export Bonus
 tender for 200,000 tonnes of soft red winter wheat for May-June
 shipment after failing to bid a price acceptable to USDA,
 private export sources said.

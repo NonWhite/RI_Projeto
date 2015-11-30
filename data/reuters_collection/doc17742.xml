@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">pet-chem</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2186reute
-r f BC-MONSANTO-MTC>-TO-ACQ   06-01 0074</field>
-	<field name = "TITLE">MONSANTO MTC> TO ACQUIRE RHONE-POULENC ASSETS</field>
+	<field name = "titulo">MONSANTO MTC> TO ACQUIRE RHONE-POULENC ASSETS</field>
 	<field name = "DATELINE">ST. LOUIS, June 1 -</field>
-	<field name = "BODY">Monsanto Co said it is acquiring
+	<field name = "content">Monsanto Co said it is acquiring
 certain commerical assets of Rhone-Poulenc Chimie's>
 polyphenyl business.
     Terms of the transaction were not disclosed.

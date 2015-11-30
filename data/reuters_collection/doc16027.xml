@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 17:52:21.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2782reute
-u f BC-SEMICONDUCTOR-BOOK-TO   04-09 0110</field>
-	<field name = "TITLE">SEMICONDUCTOR BOOK TO BILL RATIO AT 1.21 PCT</field>
+	<field name = "titulo">SEMICONDUCTOR BOOK TO BILL RATIO AT 1.21 PCT</field>
 	<field name = "DATELINE">CUPERTINO, Calif., April 9 -</field>
-	<field name = "BODY">The Semiconductor Industry
+	<field name = "content">The Semiconductor Industry
 Association put the three-month average book-to-bill ratio at
 1.21, which was above analysts' expectations and reflects the
 sixth straight increase in this indicator of computer industry

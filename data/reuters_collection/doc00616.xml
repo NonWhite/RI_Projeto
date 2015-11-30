@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:24:35.44</field>
-	<field name = "UNKNOWN">F
-f0501
-reute
-r f BC-PALL-CORP-PLL>-SECON   03-02 0069</field>
-	<field name = "TITLE">PALL CORP PLL> SECOND QUARTER SALES, ORDERS UP</field>
+	<field name = "titulo">PALL CORP PLL> SECOND QUARTER SALES, ORDERS UP</field>
 	<field name = "DATELINE">CHICAGO, March 2 -</field>
-	<field name = "BODY">Pall Corp said sales for the second
+	<field name = "content">Pall Corp said sales for the second
 quarter ended January 31 were up 17.5 pct to 94.0 mln dlrs from
 80.0 mln dlrs a year before and orders were up 15.5 pct to
 101.1 mln from 87.4 mln.

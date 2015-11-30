@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 17:51:09.86</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2607reute
-u f BC-ALLEGHENY-AG>-PREFER   04-07 0086</field>
-	<field name = "TITLE">ALLEGHENY AG> PREFERED SHAREHOLDERS FILE SUIT</field>
+	<field name = "titulo">ALLEGHENY AG> PREFERED SHAREHOLDERS FILE SUIT</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Allegheny International Inc, which has
+	<field name = "content">Allegheny International Inc, which has
 agreed to a merge with a jointly-formed First Boston Inc
 affiliate in a deal worth 500 mn dlrs, said shareholders of its
 preferred stock have filed a class action complaint against the

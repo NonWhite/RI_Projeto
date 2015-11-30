@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 15:30:15.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2327reute
-r f BC-GULF-AND-WESTERN-GW>   04-08 0101</field>
-	<field name = "TITLE">GULF AND WESTERN GW> REORGANIZES UNIT</field>
+	<field name = "titulo">GULF AND WESTERN GW> REORGANIZES UNIT</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Gulf and Western Inc's Madison Square
+	<field name = "content">Gulf and Western Inc's Madison Square
 Garden Corp subsidiary said it has reorganized into three
 operating groups including two new groups.
     The company said its MSG Sports group will continue to

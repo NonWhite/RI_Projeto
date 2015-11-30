@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 09:17:54.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2981reute
-d f BC-INTER-REGIONAL-IFG>   06-18 0090</field>
-	<field name = "TITLE">INTER-REGIONAL IFG> UNIT TO REDEEM NOTES</field>
+	<field name = "titulo">INTER-REGIONAL IFG> UNIT TO REDEEM NOTES</field>
 	<field name = "DATELINE">MINNEAPOLIS, June 18 -</field>
-	<field name = "BODY">Inter-Regional Financial Group Inc
+	<field name = "content">Inter-Regional Financial Group Inc
 said IFG Leasing Co, a discontinued subsidiary, will redeem,
 effective August One, the 4.0 mln dlr outstanding balance of
 its 11-1/2 pct subordinated notes due Aug 1, 1988.

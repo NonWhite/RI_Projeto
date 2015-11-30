@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 18:12:23.42</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">F
-f9728reute
-r f BC-REAGAN-URGES-REVISION   03-18 0100</field>
-	<field name = "TITLE">REAGAN URGES REVISION OF HIGH TECH EXPORT LIMITS</field>
+	<field name = "titulo">REAGAN URGES REVISION OF HIGH TECH EXPORT LIMITS</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">President Reagan has sent Congress
+	<field name = "content">President Reagan has sent Congress
 proposals to streamline high-tech export control procedures,
 the White House said.
     "These proposals are part of the president's energetic

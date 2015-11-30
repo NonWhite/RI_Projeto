@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 17:17:47.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0600reute
-r f BC-HYTEK-MICROSYSTEMS-H   03-13 0075</field>
-	<field name = "TITLE">HYTEK MICROSYSTEMS HTEK> PRESIDENT RESIGNS</field>
+	<field name = "titulo">HYTEK MICROSYSTEMS HTEK> PRESIDENT RESIGNS</field>
 	<field name = "DATELINE">LOS GATOS, Calif., March 13 -</field>
-	<field name = "BODY">Hytek Microsystems Inc said
+	<field name = "content">Hytek Microsystems Inc said
 its board accepted the resignation of President James Phalan at
 a special meeting held today.
     Phalan, who had been president since the company was

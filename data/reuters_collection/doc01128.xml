@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 11:48:33.00</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">V
-f0886reute
-u f BC-ITALIAN-PRIME-MINISTE   03-03 0084</field>
-	<field name = "TITLE">ITALIAN PRIME MINISTER CRAXI SAYS HE WILL RESIGN</field>
+	<field name = "titulo">ITALIAN PRIME MINISTER CRAXI SAYS HE WILL RESIGN</field>
 	<field name = "DATELINE">ROME, March 3 -</field>
-	<field name = "BODY">Socialist Prime Minister Bettino Craxi said
+	<field name = "content">Socialist Prime Minister Bettino Craxi said
 his five party coalition government would resign.
     Craxi, Italy's prime minister for a postwar record of 3-1/2
 years, told the Senate (upper house) he would hand his and the

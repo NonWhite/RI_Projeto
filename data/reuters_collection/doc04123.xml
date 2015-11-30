@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 07:19:07.41</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">V
-f0552reute
-u f BC-MOSCOW-CARRIES-OUT-NU   03-12 0093</field>
-	<field name = "TITLE">MOSCOW CARRIES OUT NUCLEAR TEST</field>
+	<field name = "titulo">MOSCOW CARRIES OUT NUCLEAR TEST</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">The Soviet Union carried out a nuclear
+	<field name = "content">The Soviet Union carried out a nuclear
 test early today, the official Tass news agency reported.
     According to the report, monitored by the British
 Broadcasting Corporation, the explosion was at 0200 gmt.

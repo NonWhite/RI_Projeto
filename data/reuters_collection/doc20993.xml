@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 15:44:01.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2910reute
-d f BC-ATT-T>-SUPPORTS-FCC   10-19 0075</field>
-	<field name = "TITLE">ATT T> SUPPORTS FCC PLAN ON PRICE CEILINGS</field>
+	<field name = "titulo">ATT T> SUPPORTS FCC PLAN ON PRICE CEILINGS</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">American Telephone and Telegraph Co
+	<field name = "content">American Telephone and Telegraph Co
 said it supported the Federal Communications Commission's (FCC)
 plan to establish price ceilings for ATT long-distance services
 as a replacement for current regulation.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:38:34.64</field>
-	<field name = "UNKNOWN">L
-f1328reute
-r f BC-lard-tallow-report   04-07 0068</field>
-	<field name = "TITLE">SPOT LARD, TALLOW, GREASE STEADY</field>
+	<field name = "titulo">SPOT LARD, TALLOW, GREASE STEADY</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Spot lard, tallow and grease were
+	<field name = "content">Spot lard, tallow and grease were
 unchanged in early trading, cash dealers said.
     Spot Chicago centrifugal process lard in rail cars traded
 at 14.50 cents a lb, unchanged. Edible tallow traded at 14.00

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 08:08:41.90</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM 
-f2746reute
-u f BC-FRANCE'S-CRH-CANCELS   06-18 0107</field>
-	<field name = "TITLE">FRANCE'S CRH CANCELS TWO BILLION FRANC TAP ISSUE</field>
+	<field name = "titulo">FRANCE'S CRH CANCELS TWO BILLION FRANC TAP ISSUE</field>
 	<field name = "DATELINE">PARIS, June 18 -</field>
-	<field name = "BODY">French mortgage refinancing agency Caisse
+	<field name = "content">French mortgage refinancing agency Caisse
 de Refinancement Hypothecaire (CRH) has cancelled today's
 auction of between one and two billion francs worth of tap
 stock, the Bank of France said.

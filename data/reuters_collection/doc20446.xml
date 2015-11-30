@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:23:22.02</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM 
-f2342reute
-u f BC-GERMAN-BANKING-PANEL   10-20 0104</field>
-	<field name = "TITLE">GERMAN BANKING PANEL SAYS SHARE FALL EXAGGERATED</field>
+	<field name = "titulo">GERMAN BANKING PANEL SAYS SHARE FALL EXAGGERATED</field>
 	<field name = "DATELINE">COLOGNE, West Germany, Oct 20 -</field>
-	<field name = "BODY">Monday's international
+	<field name = "content">Monday's international
 share crash was exaggerated and did not reflect economic
 fundamentals, Wolfgang Roeller, president of the West German
 banking association BDB said in a statement.

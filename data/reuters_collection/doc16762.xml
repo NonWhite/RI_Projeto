@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">lyng</field>
-	<field name = "UNKNOWN">RM
-f0051reute
-u f BC-U.S.-URGES-JAPAN-TO-O   04-17 0100</field>
-	<field name = "TITLE">U.S. URGES JAPAN TO OPEN FARM MARKET FURTHER</field>
+	<field name = "titulo">U.S. URGES JAPAN TO OPEN FARM MARKET FURTHER</field>
 	<field name = "DATELINE">TOKYO, April 17 -</field>
-	<field name = "BODY">U.S. Agriculture Secretary Richard Lyng
+	<field name = "content">U.S. Agriculture Secretary Richard Lyng
 has asked Japan to open its farm market further to help
 Washington cut its trade deficit and ease protectionist
 pressures, an Agriculture Ministry official told reporters.

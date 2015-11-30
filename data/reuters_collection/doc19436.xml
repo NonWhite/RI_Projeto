@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 16:48:03.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2397reute
-r f BC-EATON-ETN>-GETS-25-M   06-19 0078</field>
-	<field name = "TITLE">EATON ETN> GETS 25 MLN DLR CONTRACT</field>
+	<field name = "titulo">EATON ETN> GETS 25 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">FARMINGDALE, N.Y., June 19 -</field>
-	<field name = "BODY">Eaton Corp said it was awarded
+	<field name = "content">Eaton Corp said it was awarded
 a 25 mln dlr contract by the U.S. Customs Service for
 development of an intelligence system intended to intercept
 drug smuggling along the southern border of the U.S.

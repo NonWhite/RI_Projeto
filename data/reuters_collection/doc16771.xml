@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 05:14:51.56</field>
 	<field name = "TOPICS">wpi</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">RM
-f0089reute
-u f BC-INDIA'S-ANNUAL-INFLAT   04-17 0108</field>
-	<field name = "TITLE">INDIA'S ANNUAL INFLATION RATE DROPS MARGINALLY</field>
+	<field name = "titulo">INDIA'S ANNUAL INFLATION RATE DROPS MARGINALLY</field>
 	<field name = "DATELINE">NEW DELHI, April 17 -</field>
-	<field name = "BODY">The Finance Ministry said India's
+	<field name = "content">The Finance Ministry said India's
 wholesale-price linked inflation rate dropped marginally to 5.3
 pct in all fiscal 1986/87 ended March from 5.8 pct in 1985/86
 and 7.1 pct in 1984/85.

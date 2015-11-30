@@ -6,12 +6,9 @@
 	<field name = "PLACES">kuwait</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">RM
-f1418reute
-u f AM-GULF-FLAGS (SCHEDULED)  04-07 0091</field>
-	<field name = "TITLE">KUWAIT ASKS TO USE FOREIGN FLAG TANKERS, U.S SAYS</field>
+	<field name = "titulo">KUWAIT ASKS TO USE FOREIGN FLAG TANKERS, U.S SAYS</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Kuwait has asked at least four
+	<field name = "content">Kuwait has asked at least four
 countries, including the United States, Soviet Union, Britain
 and China, for temporary use of their flags or tankers to
 protect Kuwaiti oil shipments in the troubled Persian Gulf,

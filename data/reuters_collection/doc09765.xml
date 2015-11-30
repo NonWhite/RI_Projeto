@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 06:33:20.12</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0465reute
-u f BC-FRANCE'S-CAECL-ISSUES   03-26 0090</field>
-	<field name = "TITLE">FRANCE'S CAECL ISSUES THREE BILLION FRANC BOND</field>
+	<field name = "titulo">FRANCE'S CAECL ISSUES THREE BILLION FRANC BOND</field>
 	<field name = "DATELINE">PARIS, March 26 -</field>
-	<field name = "BODY">Caisse d'Aide a l'Equipement des
+	<field name = "content">Caisse d'Aide a l'Equipement des
 Collectivites Locales (CAECL) is issuing a three billion franc
 two-tranche domestic bond, the lead managers said.
     The first two billion franc tranche at a fixed rate of 8.90

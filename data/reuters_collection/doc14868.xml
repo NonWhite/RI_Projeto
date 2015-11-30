@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 05:50:11.63</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">F
-f0365reute
-u f BC-SEOUL-STOCK-MARKET-CO   04-08 0104</field>
-	<field name = "TITLE">SEOUL STOCK MARKET CONSOLIDATES ON STATE MEASURES</field>
+	<field name = "titulo">SEOUL STOCK MARKET CONSOLIDATES ON STATE MEASURES</field>
 	<field name = "AUTHOR">By Jo Yun-jeung, Reuters</field>
 	<field name = "DATELINE">SEOUL, April 8 -</field>
-	<field name = "BODY">The South Korean stock market seems to be
+	<field name = "content">The South Korean stock market seems to be
 consolidating following government measures to cool its rapid
 rise this year, domestic and foreign analysts said.
     The composite index hit a record 405.13 early last week,

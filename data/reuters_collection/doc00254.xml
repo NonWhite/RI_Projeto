@@ -3,13 +3,9 @@
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">RM
-f0494
-reute
-b f BC-SHULTZ-LIKELY-TO-VISI   03-01 0086</field>
-	<field name = "TITLE">SHULTZ LIKELY TO VISIT MOSCOW SOON</field>
+	<field name = "titulo">SHULTZ LIKELY TO VISIT MOSCOW SOON</field>
 	<field name = "DATELINE">PEKING, March 2 -</field>
-	<field name = "BODY">U.S. Secretary of State George Shultz is
+	<field name = "content">U.S. Secretary of State George Shultz is
 likely to visit Moscow soon for talks following new Soviet arms
 control proposals, U.S. Officials said.
     The officials told Reuters no decision had been reached on

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 06:55:57.59</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0530reute
-u f BC-NEW-PRIMARY-MARKET-RU   06-02 0114</field>
-	<field name = "TITLE">NEW PRIMARY MARKET RULES TO TAKE EFFECT JUNE 15</field>
+	<field name = "titulo">NEW PRIMARY MARKET RULES TO TAKE EFFECT JUNE 15</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">The International Primary Market
+	<field name = "content">The International Primary Market
 Association's new rules for lead managers of fixed rate dollar
 bonds will take effect on June 15, an IPMA official said.
     The new IPMA rules require a lead manager to quote firm

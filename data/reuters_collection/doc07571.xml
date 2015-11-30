@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 05:30:33.46</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0309reute
-r f BC-FRENCH-FARMERS-WORRIE   03-20 0088</field>
-	<field name = "TITLE">FRENCH FARMERS WORRIED OVER FUTURE OF CAP</field>
+	<field name = "titulo">FRENCH FARMERS WORRIED OVER FUTURE OF CAP</field>
 	<field name = "DATELINE">PARIS, March 20 -</field>
-	<field name = "BODY">The French farmers' union, FNSEA, hopes
+	<field name = "content">The French farmers' union, FNSEA, hopes
 France will resist European Community (EC) pressures over farm
 prices and notably those of the European Commission at coming
 ministerial negotiations in Brussels, FNSEA Secretary-General

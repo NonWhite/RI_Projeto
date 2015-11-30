@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0075reute
-r f BC-GERMAN-BANK-SEES-GOOD   03-13 0113</field>
-	<field name = "TITLE">GERMAN BANK SEES GOOD SOVIET TRADE PROSPECTS</field>
+	<field name = "titulo">GERMAN BANK SEES GOOD SOVIET TRADE PROSPECTS</field>
 	<field name = "DATELINE">FRANKFURT, March 13 -</field>
-	<field name = "BODY">Soviet-West German trade is expected
+	<field name = "content">Soviet-West German trade is expected
 to develop favourably due to Moscow's increasing openness to
 East-West economic relations, Dresdner Bank AG's Moscow
 representative Michael Stein said.

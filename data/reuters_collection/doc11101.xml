@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 17:01:59.09</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2627reute
-u f BC-U.S.-DOT-APPROVES-AME   03-30 0087</field>
-	<field name = "TITLE">U.S. DOT APPROVES AMERICAN AMR>-ACI ACF> PACT</field>
+	<field name = "titulo">U.S. DOT APPROVES AMERICAN AMR>-ACI ACF> PACT</field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">The U.S. Department of
+	<field name = "content">The U.S. Department of
 Transportation (DOT) said it gave final clearance to the
 proposed 225 mln dlr acquisition of AirCal Inc by American
 Airlines Inc.

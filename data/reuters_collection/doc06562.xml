@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 11:39:14.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8362reute
-d f BC-PENTAIR-PNTA>-OFFERS   03-18 0092</field>
-	<field name = "TITLE">PENTAIR PNTA> OFFERS TWO MLN PREFERRED SHARES</field>
+	<field name = "titulo">PENTAIR PNTA> OFFERS TWO MLN PREFERRED SHARES</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">Pentair Inc is offering two mln shares
+	<field name = "content">Pentair Inc is offering two mln shares
 of 1.50 dlrs cumulative convertible preferred stock for 25 dlrs
 a share, said underwriters Kidder Peabody and Co Inc and Piper
 Jaffray and Hopwood Inc.

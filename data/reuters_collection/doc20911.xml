@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 17:04:21.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3198reute
-d f BC-MORRISON-KNUDSEN-MRN   10-19 0103</field>
-	<field name = "TITLE">MORRISON KNUDSEN MRN> BACKLOG REACHES HIGH</field>
+	<field name = "titulo">MORRISON KNUDSEN MRN> BACKLOG REACHES HIGH</field>
 	<field name = "DATELINE">BOISE, Idaho, Oct 19 -</field>
-	<field name = "BODY">Morrison Knudsen Corp, in its third
+	<field name = "content">Morrison Knudsen Corp, in its third
 quarter earnings report released today, said that its backlog
 of uncompleted contracts at Sept 30 stood at 3.8 billion dlrs,
 the third highest level in the company's history.

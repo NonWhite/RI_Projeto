@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 10:05:08.96</field>
 	<field name = "PLACES">sweden</field>
 	<field name = "EXCHANGES">stse</field>
-	<field name = "UNKNOWN">A 
-f1129reute
-u f BC-STOCKHOLM-BOURSE-EXTE   10-20 0092</field>
-	<field name = "TITLE">STOCKHOLM BOURSE EXTENDS TRADING BY 30 MINUTES</field>
+	<field name = "titulo">STOCKHOLM BOURSE EXTENDS TRADING BY 30 MINUTES</field>
 	<field name = "DATELINE">STOCKHOLM, Oct 20 -</field>
-	<field name = "BODY">The Stockholm bourse authorities said
+	<field name = "content">The Stockholm bourse authorities said
 they were to extend trading on the exchange by 30 minutes until
 1500 (1400 GMT) because the afternoon call took longer than
 normal due to hectic selling pressure.

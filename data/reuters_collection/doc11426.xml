@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">C G
-f1615reute
-r f BC-WINTER-WEATHER-HURTS   03-31 0107</field>
-	<field name = "TITLE">WINTER WEATHER HURTS EAST GERMAN GRAIN - USDA</field>
+	<field name = "titulo">WINTER WEATHER HURTS EAST GERMAN GRAIN - USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Shifts from mild to very cold
+	<field name = "content">Shifts from mild to very cold
 weather in East Germany damaged winter barley and late sown
 winter wheat in central regions and barley north of Berlin, the
 U.S. agricultural officer in East Berlin said.

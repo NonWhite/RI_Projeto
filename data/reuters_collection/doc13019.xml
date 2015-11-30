@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 13:17:16.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1769reute
-r f BC-COPLEY-PROPERTIES-CO   04-03 0072</field>
-	<field name = "TITLE">COPLEY PROPERTIES COP> TO INVEST IN JOINT PACT</field>
+	<field name = "titulo">COPLEY PROPERTIES COP> TO INVEST IN JOINT PACT</field>
 	<field name = "DATELINE">BOSTON, April 3 -</field>
-	<field name = "BODY">Copley Properties Inc said the company
+	<field name = "content">Copley Properties Inc said the company
 will invest 9,500,000 dlrs in a joint venture to acquire and
 develop 33.4 acres of industrial land in Hayward, Calif.
     Copley said it will own 60 pct of the project and be

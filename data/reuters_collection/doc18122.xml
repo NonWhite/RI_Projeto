@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 12:21:43.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1736reute
-s f BC-JIM-WALTER-CORP-JWC>   06-02 0044</field>
-	<field name = "TITLE">JIM WALTER CORP JWC> SETS REGULAR PAYOUT</field>
+	<field name = "titulo">JIM WALTER CORP JWC> SETS REGULAR PAYOUT</field>
 	<field name = "DATELINE">TAMPA, Fla., June 2 -</field>
-	<field name = "BODY">Qtrly 35 cts vs 35 cts
+	<field name = "content">Qtrly 35 cts vs 35 cts
     Pay July One
     Record June 15
     Note: payment is based on pre- five-for-four stock split

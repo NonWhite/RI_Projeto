@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:05:32.87RM</field>
-	<field name = "UNKNOWN">f0474reute</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">u f BC-STRIKES-HALT-PLANES-A   03-27 0110</field>
-	<field name = "TITLE">STRIKES HALT PLANES AND TRAINS IN SPAIN</field>
+	<field name = "titulo">STRIKES HALT PLANES AND TRAINS IN SPAIN</field>
 	<field name = "DATELINE">MADRID, March 27 -</field>
-	<field name = "BODY">Spain's air and rail transport was at a
+	<field name = "content">Spain's air and rail transport was at a
 virtual standstill as airline ground staff and railway workers
 joined university students and health workers in strikes
 against the Socialist government.

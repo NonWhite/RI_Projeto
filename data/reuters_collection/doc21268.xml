@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 12:07:35.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F E 
-f1815reute
-r f BC-ANCHOR-GLASS-ANC>-SE   10-19 0097</field>
-	<field name = "TITLE">ANCHOR GLASS ANC> SEES FLAT ANNUAL RESULT</field>
+	<field name = "titulo">ANCHOR GLASS ANC> SEES FLAT ANNUAL RESULT</field>
 	<field name = "DATELINE">TAMPA, Fla., Oct 19 -</field>
-	<field name = "BODY">Anchor Glass Container Corp said it
+	<field name = "content">Anchor Glass Container Corp said it
 expects fourth quarter profits to exceed the 4.7 mln dlrs
 reported for the third quarter and net income for the full year
 will be about equal to or slightly exceed 1986's profit before

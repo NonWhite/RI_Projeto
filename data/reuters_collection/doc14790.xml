@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 22:05:31.65</field>
-	<field name = "UNKNOWN">RM
-f2736reute
-u f BC-HONG-KONG-TERM-MONEY   04-07 0034</field>
-	<field name = "TITLE">HONG KONG TERM MONEY 1000 - APR 8</field>
+	<field name = "titulo">HONG KONG TERM MONEY 1000 - APR 8</field>
 	<field name = "DATELINE">overnight     4 1/4 -</field>
-	<field name = "BODY">3 3/4
+	<field name = "content">3 3/4
  one month     4 13/16 - 4 11/16
  two months    5 1/16 - 4 15/16
  three months  5 1/8 - 5

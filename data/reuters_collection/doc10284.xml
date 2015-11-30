@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 00:15:08.61RM</field>
-	<field name = "UNKNOWN">f0020reute</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">b f BC-JAPAN-INDUSTRIAL-PROD   03-27 0073</field>
-	<field name = "TITLE">JAPAN INDUSTRIAL PRODUCTION RISES IN FEBRUARY</field>
+	<field name = "titulo">JAPAN INDUSTRIAL PRODUCTION RISES IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Japan's industrial production index (base
+	<field name = "content">Japan's industrial production index (base
 1980) rose 0.3 pct to a seasonally adjusted 122.7 in February
 from the previous month, the Ministry of International Trade
 and Industry said.

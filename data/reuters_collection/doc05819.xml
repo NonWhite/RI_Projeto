@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 05:14:50.84</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f4356reute
-b f BC-MERITOR-SAVINGS-BANK   03-17 0107</field>
-	<field name = "TITLE">MERITOR SAVINGS BANK LAUNCHES 200 MLN DLR BOND</field>
+	<field name = "titulo">MERITOR SAVINGS BANK LAUNCHES 200 MLN DLR BOND</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">Meritor Savings Bank, a U.S. Savings and
+	<field name = "content">Meritor Savings Bank, a U.S. Savings and
 loan, is issuing 200 mln dlrs of collateralised eurobonds due
 April 14, 1992 priced at 101-3/8, with a 7-1/2 pct coupon, lead
 manager Goldman Sachs International Corp said.

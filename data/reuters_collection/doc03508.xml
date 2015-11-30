@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 06:38:37.04</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">F
-f0536reute
-u f BC-INDONESIA-OIL-CONTRAC   03-11 0106</field>
-	<field name = "TITLE">INDONESIA OIL CONTRACT NEGOTIATIONS END THIS MONTH</field>
+	<field name = "titulo">INDONESIA OIL CONTRACT NEGOTIATIONS END THIS MONTH</field>
 	<field name = "DATELINE">JAKARTA, March 11 -</field>
-	<field name = "BODY">Negotiations between Indonesia's state
+	<field name = "content">Negotiations between Indonesia's state
 oil company Pertamina and foreign oil contractors on extension
 of the standard 30-year production sharing contract will be
 concluded by the end of this month, a Pertamina official said.

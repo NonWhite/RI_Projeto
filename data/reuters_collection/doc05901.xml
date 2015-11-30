@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 09:16:51.27</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f4867reute
-r f BC-FRANCE-APPROVES-WATER   03-17 0081</field>
-	<field name = "TITLE">FRANCE APPROVES WATERMAN ACQUISITION BY GILLETTE</field>
+	<field name = "titulo">FRANCE APPROVES WATERMAN ACQUISITION BY GILLETTE</field>
 	<field name = "DATELINE">PARIS, March 17 -</field>
-	<field name = "BODY">Gillette Co GS> exercised an option to
+	<field name = "content">Gillette Co GS> exercised an option to
 take a 51.2 pct stake in the French pen firm Waterman which it
 had previously been authorised to do by the French government,
 the French stockbrokers' association (CSAC) said.

@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">morocco</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">A RM
-f1432reute
-r f BC-WORLD-BANK-LOANS-MORO   04-24 0098</field>
-	<field name = "TITLE">WORLD BANK LOANS MOROCCO 125 MLN DLRS</field>
+	<field name = "titulo">WORLD BANK LOANS MOROCCO 125 MLN DLRS</field>
 	<field name = "DATELINE">WASHINGTON, April 24 -</field>
-	<field name = "BODY">The World Bank said it will provide
+	<field name = "content">The World Bank said it will provide
 Morocco a 125 mln dlr loan for a project intended to improve,
 expand and modernize its telecommunications network.
     The Bank said the project expects to satisfy about 80 pct

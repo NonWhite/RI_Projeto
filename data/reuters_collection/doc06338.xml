@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">G C
-f7008reute
-u f BC-BANGLADESH-PURCHASE-O   03-18 0092</field>
-	<field name = "TITLE">BANGLADESH PURCHASE OF WHEAT CONFIRMED</field>
+	<field name = "titulo">BANGLADESH PURCHASE OF WHEAT CONFIRMED</field>
 	<field name = "DATELINE">DHAKA, March 18 -</field>
-	<field name = "BODY">Trade sources here confirmed earlier
+	<field name = "content">Trade sources here confirmed earlier
 tentative reports that Bangladesh had bought 200,000 tonnes of
 optional origin feed wheat late last week and over the weekend.
     They said the Continental Grain Co, of the United States,

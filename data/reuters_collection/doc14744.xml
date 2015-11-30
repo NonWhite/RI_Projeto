@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 18:29:46.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2642reute
-r f BC-NASA-PICKS-BOEING-BA   04-07 0079</field>
-	<field name = "TITLE">NASA PICKS BOEING BA> FOR SYSTEM CONTRACT</field>
+	<field name = "titulo">NASA PICKS BOEING BA> FOR SYSTEM CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Boeing Co said the National
+	<field name = "content">Boeing Co said the National
 Aeronautics and Space Administration selected it for
 negotiations leading to a contract for the Technical and
 Management System project in support of the Space Station

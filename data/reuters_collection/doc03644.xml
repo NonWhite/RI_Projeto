@@ -3,13 +3,10 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F
-f0279reute
-r f PM-CHRYSLER   03-11 0122</field>
-	<field name = "TITLE">CHRYSLER C> DEAL LEAVES UNCERTAINTY FOR AMC WORKERS</field>
+	<field name = "titulo">CHRYSLER C> DEAL LEAVES UNCERTAINTY FOR AMC WORKERS</field>
 	<field name = "AUTHOR">By Richard Walker, Reuters</field>
 	<field name = "DATELINE">DETROIT, March 11 -</field>
-	<field name = "BODY">Chrysler Corp's 1.5 billion dlr bid to
+	<field name = "content">Chrysler Corp's 1.5 billion dlr bid to
 takeover American Motors Corp AMO> should help bolster the
 small automaker's sales, but it leaves the future of its 19,000
 employees in doubt, industry analysts say.

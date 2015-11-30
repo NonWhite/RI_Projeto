@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:12:10.97</field>
-	<field name = "UNKNOWN">C L
-f1193reute
-u f BC-live-hog-report   04-07 0127</field>
-	<field name = "TITLE">LIVE HOG FUTURES HIGHER EARLY</field>
+	<field name = "titulo">LIVE HOG FUTURES HIGHER EARLY</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Live Hog futures ran up for gains of
+	<field name = "content">Live Hog futures ran up for gains of
 0.57 to 0.07 cent in eary trade paced by April and June.
     Fairly active demand reflected strength in cash hogs and
 the continued discount of futures to cash. The start of

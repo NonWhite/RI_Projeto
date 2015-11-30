@@ -6,13 +6,9 @@
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">syria</field>
-	<field name = "UNKNOWN">C T
-f0692
-reute
-b f BC-CUBA-TELL-TRADERS-EXP   03-02 0114</field>
-	<field name = "TITLE">CUBA TELLS TRADERS SUGAR EXPORTS MAY BE DELAYED</field>
+	<field name = "titulo">CUBA TELLS TRADERS SUGAR EXPORTS MAY BE DELAYED</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">Cuba has told international sugar
+	<field name = "content">Cuba has told international sugar
 operators who have bought its sugar for shipment in March that
 these contracts will take second place to Cuba's direct
 shipments to its export markets, dealers here said.

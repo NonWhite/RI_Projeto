@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 06:22:02.18</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f1472reute
-u f BC-H.K.'S-KOWLOON-CANTON   03-16 0104</field>
-	<field name = "TITLE">H.K.'S KOWLOON-CANTON RAILWAY PLANS NEW LINE</field>
+	<field name = "titulo">H.K.'S KOWLOON-CANTON RAILWAY PLANS NEW LINE</field>
 	<field name = "DATELINE">HONG KONG, March 16 -</field>
-	<field name = "BODY">The government-owned Kowloon-Canton
+	<field name = "content">The government-owned Kowloon-Canton
 Railway Corp> is planning a new line to link up the existing
 railroad with the new light rail system now under construction,
 a company spokeswoman said.

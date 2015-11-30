@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:46:13.38</field>
-	<field name = "UNKNOWN">F A RM
-f0577
-reute
-u f BC-FLUOR-CORP-FLR>-DEBT   03-02 0112</field>
-	<field name = "TITLE">FLUOR CORP FLR> DEBT DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">FLUOR CORP FLR> DEBT DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 lowered the ratings on about 390 mln dlrs of Fluor Corp's
 long-term debt and commercial paper.
     Moody's said the action, which completes a review begun

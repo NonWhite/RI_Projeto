@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0694reute
-r f BC-BP-BP>-STARTS-BID-FO   04-01 0104</field>
-	<field name = "TITLE">BP BP> STARTS BID FOR STANDARD OIL SRD> SHARES</field>
+	<field name = "titulo">BP BP> STARTS BID FOR STANDARD OIL SRD> SHARES</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">British Petroleum Co PLC said it has
+	<field name = "content">British Petroleum Co PLC said it has
 started its previously announced 7.4 billion dlr offer to
 purchase the 45 pct interest in Standard Oil Co that it does
 not already own for 70 dlrs per share.

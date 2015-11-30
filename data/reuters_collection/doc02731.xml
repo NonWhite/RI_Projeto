@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 12:46:17.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0893reute
-u f BC-TIPPERARY-NEGOTIATING   03-06 0057</field>
-	<field name = "TITLE">TIPPERARY NEGOTIATING WALKER WEP> INVESTMENT</field>
+	<field name = "titulo">TIPPERARY NEGOTIATING WALKER WEP> INVESTMENT</field>
 	<field name = "DATELINE">HOUSTON, March 6 -</field>
-	<field name = "BODY">Walker Energy Partners said
+	<field name = "content">Walker Energy Partners said
 restructuring of the partnership is being negotiated with
 Tipperary Corp> which is considering a capital infusion into
 the partnership.

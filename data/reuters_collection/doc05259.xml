@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 06:57:53.52</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">RM
-f1529reute
-r f BC-YUGOSLAV-FEBRUARY-INF   03-16 0104</field>
-	<field name = "TITLE">YUGOSLAV FEBRUARY INFLATION RISES 7.2 PCT</field>
+	<field name = "titulo">YUGOSLAV FEBRUARY INFLATION RISES 7.2 PCT</field>
 	<field name = "DATELINE">BELGRADE, March 16 -</field>
-	<field name = "BODY">Yugoslav retail prices in February
+	<field name = "content">Yugoslav retail prices in February
 rose 7.2 pct from January to stand 91.6 pct higher than in
 February 1986, the Federal Statistics Office said.
     In January retail prices rose 6.6 pct from December to

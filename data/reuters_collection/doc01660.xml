@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0275reute
-d f BC-STERLING-IN-TEXAS-GAS   03-04 0087</field>
-	<field name = "TITLE">STERLING IN TEXAS GAS AND OIL DISCOVERY</field>
+	<field name = "titulo">STERLING IN TEXAS GAS AND OIL DISCOVERY</field>
 	<field name = "DATELINE">FT. LAUDERDALE, Fla, March 4 -</field>
-	<field name = "BODY">Sterling Investment Group>
+	<field name = "content">Sterling Investment Group>
 said it successfully drilled and completed a significant
 development well 65 miles southwest of Houston, Texas.
     The well has a choke of 11/64 of an inch and is 10,097 feet

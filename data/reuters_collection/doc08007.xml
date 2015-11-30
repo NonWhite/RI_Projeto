@@ -4,12 +4,9 @@
 	<field name = "TOPICS">pork-belly</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">C L
-f2512reute
-u f BC-LITTLE-EFFECT-SEEN-FR   03-20 0117</field>
-	<field name = "TITLE">LITTLE EFFECT SEEN FROM COLD STORAGE REPORT</field>
+	<field name = "titulo">LITTLE EFFECT SEEN FROM COLD STORAGE REPORT</field>
 	<field name = "DATELINE">CHICAGO, March 20 -</field>
-	<field name = "BODY">The USDA monthly cold storage report
+	<field name = "content">The USDA monthly cold storage report
 for meats is expected to have little, if any, effect on
 livestock and meat futures at the Chicago Mercantile Exchange
 Monday and daily fundamentals will likely provide the bulk of

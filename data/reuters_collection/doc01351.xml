@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 16:58:51.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0977reute
-u f BC-ARVIN-INDUSTRIES-ARV   03-03 0105</field>
-	<field name = "TITLE">ARVIN INDUSTRIES ARV> OFFERS SECURITIES</field>
+	<field name = "titulo">ARVIN INDUSTRIES ARV> OFFERS SECURITIES</field>
 	<field name = "DATELINE">COLUMBUS, Ind., March 3 -</field>
-	<field name = "BODY">Arvin Industries Inc said it will
+	<field name = "content">Arvin Industries Inc said it will
 offer 150 mln dlrs of debt securities.
     The company will offer 75 mln dlrs of 8-3/8 pct notes due
 March 1, 1997 and 75 mln dlrs of 9-1/8 pct sinking fund

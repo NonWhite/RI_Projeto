@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 10:24:04.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0250reute
-r f BC-MICROPOLIS-MLIS>-SEL   03-11 0096</field>
-	<field name = "TITLE">MICROPOLIS MLIS> SELLS CONVERTIBLE DEBENTURES</field>
+	<field name = "titulo">MICROPOLIS MLIS> SELLS CONVERTIBLE DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Micropolis Corp is raising 75 mln dlrs
+	<field name = "content">Micropolis Corp is raising 75 mln dlrs
 via an offering of convertible subordinated debentures due 2012
 with a six pct coupon and par pricing, said lead manager
 Kidder, Peabody and Co Inc.

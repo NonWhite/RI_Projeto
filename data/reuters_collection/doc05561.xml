@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 13:44:27.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3137reute
-r f BC-GOLDEN-VALLEY-GVMF>T   03-16 0105</field>
-	<field name = "TITLE">GOLDEN VALLEY GVMF>TO REGISTER SECONDARY OFFER</field>
+	<field name = "titulo">GOLDEN VALLEY GVMF>TO REGISTER SECONDARY OFFER</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 16 -</field>
-	<field name = "BODY">Golden Valley Microwave Foods Inc
+	<field name = "content">Golden Valley Microwave Foods Inc
 said it will file a registration statement with the Securities
 and Exchange Commission for a secondary public offering of
 700,000 shares held by company shareholders.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 16:19:39.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3572reute
-h f BC-AMERICAN-LOCKER-ALGI   03-16 0086</field>
-	<field name = "TITLE">AMERICAN LOCKER ALGI> CONDUCTS TESTS</field>
+	<field name = "titulo">AMERICAN LOCKER ALGI> CONDUCTS TESTS</field>
 	<field name = "DATELINE">JAMESTOWN, N.Y., March 16 -</field>
-	<field name = "BODY">American Locker Group Inc said
+	<field name = "content">American Locker Group Inc said
 environmental tests revealed low but unacceptable levels of two
 chemical compounds in ground water at its Signore plant near
 here.

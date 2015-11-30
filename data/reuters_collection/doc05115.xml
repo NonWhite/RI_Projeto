@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">Y
-f0666reute
-u f BC-pdvsa-to-sign-champli   03-13 0109</field>
-	<field name = "TITLE">PDVSA TO SIGN CHAMPLIN REFINERY DEAL MARCH 17</field>
+	<field name = "titulo">PDVSA TO SIGN CHAMPLIN REFINERY DEAL MARCH 17</field>
 	<field name = "DATELINE">CARACAS, March 13 -</field>
-	<field name = "BODY">Petroleos de Venezuela, S.A. said it
+	<field name = "content">Petroleos de Venezuela, S.A. said it
 will sign a contract March 17 to buy a half interest in a
 Corpus Christi, Texas refinery and related operations.
     The contract, to be signed by PDVSA and Champlin

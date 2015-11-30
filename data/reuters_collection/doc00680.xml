@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 14:18:24.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0686
-reute
-h f BC-FIRST-FINANCIAL-MANAG   03-02 0100</field>
-	<field name = "TITLE">FIRST FINANCIAL MANAGEMENT FFMC> REVISES PACT</field>
+	<field name = "titulo">FIRST FINANCIAL MANAGEMENT FFMC> REVISES PACT</field>
 	<field name = "DATELINE">ATLANTA, March 2 -</field>
-	<field name = "BODY">First Financial Management Corp said it
+	<field name = "content">First Financial Management Corp said it
 revised the agreement under which it provides data processing
 services to First Union Corp of Georgia FUNC>.
     The company said the revised agreement establishes specific

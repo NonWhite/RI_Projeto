@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 07:50:34.07</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM C M
-f0572reute
-u f BC-GERMAN-METALWORKERS'   04-13 0111</field>
-	<field name = "TITLE">GERMAN METALWORKERS' WAGE TALKS BEGIN WEDNESDAY</field>
+	<field name = "titulo">GERMAN METALWORKERS' WAGE TALKS BEGIN WEDNESDAY</field>
 	<field name = "DATELINE">FRANKFURT, April 13 -</field>
-	<field name = "BODY">Negotiations scheduled between the
+	<field name = "content">Negotiations scheduled between the
 metalworkers' IG Metall union and employers to resolve an
 impasse over a new contract will start on Wednesday, the union
 said in a statement.

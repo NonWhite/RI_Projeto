@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 05:07:54.44</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">RM
-f0284reute
-u f BC-MALAYSIA'S-FOREIGN-BO   03-25 0103</field>
-	<field name = "TITLE">MALAYSIA'S FOREIGN BORROWING HELD AT 1986 LEVEL</field>
+	<field name = "titulo">MALAYSIA'S FOREIGN BORROWING HELD AT 1986 LEVEL</field>
 	<field name = "DATELINE">SINGAPORE, March 25 -</field>
-	<field name = "BODY">Malaysia's net external borrowings
+	<field name = "content">Malaysia's net external borrowings
 for 1987 are expected to be maintained at around last year's
 levels of about 1.45 billion ringgit, Zain Azraai, secretary
 general to the Finance Ministry, told an investment seminar

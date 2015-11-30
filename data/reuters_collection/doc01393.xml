@@ -3,12 +3,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0141reute
-u f BC-TAIWAN-BUYS-25,000-TO   03-03 0033</field>
-	<field name = "TITLE">TAIWAN BUYS 25,000 TONNES U.S. SOYBEANS</field>
+	<field name = "titulo">TAIWAN BUYS 25,000 TONNES U.S. SOYBEANS</field>
 	<field name = "DATELINE">CHICAGO, March 3 -</field>
-	<field name = "BODY">Taiwan bought 25,000 tonnes U.S.
+	<field name = "content">Taiwan bought 25,000 tonnes U.S.
 soybeans today at 203.40 dlrs a tonne, C and F, Gulf, for May
 15-30 shipment, private export sources said.
  Reuter</field>

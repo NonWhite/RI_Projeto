@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 11:18:50.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1273reute
-r f BC-GE-GE>-TO-RESEARCH-C   03-20 0099</field>
-	<field name = "TITLE">GE GE> TO RESEARCH COAL-FIRED GAS TURBINE POWER</field>
+	<field name = "titulo">GE GE> TO RESEARCH COAL-FIRED GAS TURBINE POWER</field>
 	<field name = "DATELINE">EVENDALE, Ohio, March 20 -</field>
-	<field name = "BODY">General Electric Co said its
+	<field name = "content">General Electric Co said its
 researchers will investigate the potential of a gas turbine
 powered by the combustion gases of burning coal.
     The company said the research is part of a five-year, 19.1

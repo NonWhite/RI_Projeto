@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 12:18:59.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1639reute
-u f BC-U.S.-BUDGET-ACCORD-MA   06-01 0099</field>
-	<field name = "TITLE">U.S. BUDGET ACCORD MAY BE REACHED THIS WEEK</field>
+	<field name = "titulo">U.S. BUDGET ACCORD MAY BE REACHED THIS WEEK</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">Congressional budget negotiators may 
+	<field name = "content">Congressional budget negotiators may 
 reach an agreement this week on a 1988 budget plan, House and
 Senate Budget Committee sources said.
     They held out hope that an agreement can be hammered out,

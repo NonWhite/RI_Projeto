@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 11:45:07.87</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f1614reute
-u f BC-U.K.-GOVERNMENT-BONDS   03-30 0115</field>
-	<field name = "TITLE">U.K. GOVERNMENT BONDS PLUMMET WITH U.S. ISSUES</field>
+	<field name = "titulo">U.K. GOVERNMENT BONDS PLUMMET WITH U.S. ISSUES</field>
 	<field name = "DATELINE">LONDON, March 30 -</field>
-	<field name = "BODY">The U.K. Government bond market closed
+	<field name = "content">The U.K. Government bond market closed
 showing severe losses ranging to almost 1-1/2 points as sharp
 falls for U.S Treasury bonds resulting from pronounced dollar
 weakness exacerbated existing uncertainty, dealers said.

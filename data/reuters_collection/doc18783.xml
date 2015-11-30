@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:08:38.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y 
-f3724reute
-r f BC-VALERO-NATURAL-GAS-V   06-18 0075</field>
-	<field name = "TITLE">VALERO NATURAL GAS VLP> SETS INITIAL PAYOUT</field>
+	<field name = "titulo">VALERO NATURAL GAS VLP> SETS INITIAL PAYOUT</field>
 	<field name = "DATELINE">SAN ANTONIO, Texas, June 18 -</field>
-	<field name = "BODY">Valero Natural Gas Partners
+	<field name = "content">Valero Natural Gas Partners
 LP said its board has declared an initial quarterly dividend of
 67.3611 cents per unit, payable August 14, record July 1.
     The partnership said the distribution covers its first full

@@ -5,12 +5,9 @@
 	<field name = "TOPICS">zinc</field>
 	<field name = "TOPICS">strategic-metal</field>
 	<field name = "PLACES">zambia</field>
-	<field name = "UNKNOWN">C M
-f0693reute
-u f BC-ZAMBIAN-COPPER-OUTPUT   03-05 0110</field>
-	<field name = "TITLE">ZAMBIAN LATE 1986 COPPER OUTPUT UP, SALES DOWN</field>
+	<field name = "titulo">ZAMBIAN LATE 1986 COPPER OUTPUT UP, SALES DOWN</field>
 	<field name = "DATELINE">LUSAKA, March 5 -</field>
-	<field name = "BODY">Zambian copper production rose 3.2 pct to
+	<field name = "content">Zambian copper production rose 3.2 pct to
 113,275 tonnes in fourth quarter 1986 from 109,767 in the same
 1985 period but sales fell 18.7 pct to 119,967 tonnes from
 147,537, Zambia Consolidated Copper Mines, ZCCM, said.

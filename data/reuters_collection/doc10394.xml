@@ -1,15 +1,13 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:57:02.39V</field>
-	<field name = "UNKNOWN">f0768reute</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">greece</field>
 	<field name = "PLACES">turkey</field>
 	<field name = "PEOPLE">papandreou</field>
-	<field name = "UNKNOWN">u f BC-PAPANDREOU-SAYS-GREEK   03-27 0097</field>
-	<field name = "TITLE">PAPANDREOU SAYS GREEKS READY FOR AGGRESSORS</field>
+	<field name = "titulo">PAPANDREOU SAYS GREEKS READY FOR AGGRESSORS</field>
 	<field name = "DATELINE">ATHENS, March 27 -</field>
-	<field name = "BODY">Greek Prime Minister Andreas Papandreou
+	<field name = "content">Greek Prime Minister Andreas Papandreou
 said today that the Greek armed froces were ready to tackle any
 aggressors following the sailing of a Turkish research vessel
 and warships towards disputed waters in the Aegean Sea.

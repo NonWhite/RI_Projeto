@@ -7,13 +7,10 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">RM
-f0450reute
-u f BC-MONETARY-AUTHORITIES   03-26 0100</field>
-	<field name = "TITLE">MONETARY AUTHORITIES SAID TO LOSE CREDIBILITY</field>
+	<field name = "titulo">MONETARY AUTHORITIES SAID TO LOSE CREDIBILITY</field>
 	<field name = "AUTHOR">By Etsuko Yamamoto, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 26 -</field>
-	<field name = "BODY">The monetary authorities of the major
+	<field name = "content">The monetary authorities of the major
 industrialised countries lost their credibility this week as
 the dollar was sold off despite pleas from ministers and
 widespread central bank intervention, dealers said.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:31:13.36</field>
-	<field name = "UNKNOWN">G
-f0611reute
-u f BC-LONDON-GRAINS-SEE-FUR   04-07 0099</field>
-	<field name = "TITLE">LONDON GRAINS SEE FURTHER NEARBY WHEAT GAINS</field>
+	<field name = "titulo">LONDON GRAINS SEE FURTHER NEARBY WHEAT GAINS</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Old crop supply uncertainties continued
+	<field name = "content">Old crop supply uncertainties continued
 to influence nearby wheat prices, particularly in the Liverpool
 area where the market traded one stg per tonne higher this
 morning.

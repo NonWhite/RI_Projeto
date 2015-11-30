@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 11:18:39.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1491reute
-h f BC-GTE-GTE>-UNIT,-INDIA   03-30 0103</field>
-	<field name = "TITLE">GTE GTE> UNIT, INDIANA NAT'L INAT> SIGN PACT</field>
+	<field name = "titulo">GTE GTE> UNIT, INDIANA NAT'L INAT> SIGN PACT</field>
 	<field name = "DATELINE">INDIANAPOLIS, March 30 -</field>
-	<field name = "BODY">GTE Corp's GTE EFT Services Inc
+	<field name = "content">GTE Corp's GTE EFT Services Inc
 unit and Indiana National Corp said they have signed an
 agreement where GTE will provide electronic funds transfer
 switching services for Indiana National's MoneyMover 24-Hour

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 17:00:07.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2586reute
-s f BC-FIRST-AMERICAN-FINANC   06-29 0025</field>
-	<field name = "TITLE">FIRST AMERICAN FINANCIAL CORP FAMR.O> PAYOUT</field>
+	<field name = "titulo">FIRST AMERICAN FINANCIAL CORP FAMR.O> PAYOUT</field>
 	<field name = "DATELINE">SANTA ANA, Calif., June 29 -</field>
-	<field name = "BODY">Shr 12-1/2 cts vs 12-1/2 prior qtr
+	<field name = "content">Shr 12-1/2 cts vs 12-1/2 prior qtr
     Pay July 15
     Record July 8
 

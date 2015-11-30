@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 08:53:03.33</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0802reute
-b f BC-COMDATA-CDN>-ACCEPTS   03-24 0057</field>
-	<field name = "TITLE">COMDATA CDN> ACCEPTS NEW WELSH CARSON BID</field>
+	<field name = "titulo">COMDATA CDN> ACCEPTS NEW WELSH CARSON BID</field>
 	<field name = "DATELINE">NASHVILLE, Tenn., March 24 -</field>
-	<field name = "BODY">Comdata Network Inc said it
+	<field name = "content">Comdata Network Inc said it
 has entered into a definitive agreement to merge into a company
 formed by Welsh, Carson, Anderson and Stowe IV> for either
 16.50 dlrs in cash or 10.00 dlrs in cash and a unit of

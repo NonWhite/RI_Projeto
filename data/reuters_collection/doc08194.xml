@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">A
-f0546reute
-r f BC-BAKER-WARNS-AGAINST-F   03-23 0110</field>
-	<field name = "TITLE">BAKER WARNS AGAINST FORGIVENESS OF LATIN DEBT</field>
+	<field name = "titulo">BAKER WARNS AGAINST FORGIVENESS OF LATIN DEBT</field>
 	<field name = "DATELINE">MIAMI, March 23 -</field>
-	<field name = "BODY">U.S. Treasury Secretary James Baker said
+	<field name = "content">U.S. Treasury Secretary James Baker said
 any attempt to declare blanket debt forgiveness for major Latin
 American debtor nations might damage the world economy.
     In an article in Monday's edition of the Miami Herald,

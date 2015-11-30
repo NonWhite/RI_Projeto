@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:07:27.88</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">A RM
-f0732reute
-r f AM-TUNNEL   03-05 0113</field>
-	<field name = "TITLE">EUROTUNNEL TO OFFER CHOICE OF INVESTMENTS</field>
+	<field name = "titulo">EUROTUNNEL TO OFFER CHOICE OF INVESTMENTS</field>
 	<field name = "DATELINE">PARIS, March 5 -</field>
-	<field name = "BODY">Eurotunnel, the Anglo-French channel
+	<field name = "content">Eurotunnel, the Anglo-French channel
 tunnel consortium, will offer potential backers a wide choice
 of ways to invest in a planned 750 mln stg capital issue later
 this year, co-Chairman Alastair Morton said.

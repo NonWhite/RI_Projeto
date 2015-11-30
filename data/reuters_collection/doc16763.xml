@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 03:30:09.18</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">F
-f0055reute
-u f BC-S.KOREA-TO-INVESTIGAT   04-17 0093</field>
-	<field name = "TITLE">S.KOREA TO INVESTIGATE LARGE-SCALE STOCK INVESTORS</field>
+	<field name = "titulo">S.KOREA TO INVESTIGATE LARGE-SCALE STOCK INVESTORS</field>
 	<field name = "DATELINE">SEOUL, April 17 -</field>
-	<field name = "BODY">South Korea's Securities Supervisory
+	<field name = "content">South Korea's Securities Supervisory
 Board has ordered securities houses to report by tomorrow the
 list of their clients holding shares worth 100 mln won or more,
 Board officials said.

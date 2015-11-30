@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 10:00:43.36</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0947reute
-u f BC-FRENCH-GROUP-ISSUES-T   04-01 0095</field>
-	<field name = "TITLE">FRENCH GROUP ISSUES TWO BONDS FOR 700 MLN FRANCS</field>
+	<field name = "titulo">FRENCH GROUP ISSUES TWO BONDS FOR 700 MLN FRANCS</field>
 	<field name = "DATELINE">PARIS, April 1 -</field>
-	<field name = "BODY">Groupement pour le financement des
+	<field name = "content">Groupement pour le financement des
 Ouvrages de Batiment, Travaux Publics et activites annexes
 (GOBTP) plans to launch two variable-rate domestic bonds
 totalling 700 mln francs, lead managers Credit Commercial de

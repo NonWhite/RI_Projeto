@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 11:08:15.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1225reute
-r f BC-HARLEY-DAVIDSON-HDI>   03-20 0097</field>
-	<field name = "TITLE">HARLEY-DAVIDSON HDI> UNIT TO SELL 10-YEAR NOTES</field>
+	<field name = "titulo">HARLEY-DAVIDSON HDI> UNIT TO SELL 10-YEAR NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Holiday Rambler Corp, a unit of
+	<field name = "content">Holiday Rambler Corp, a unit of
 Harley-Davidson Inc, said it filed with the Securities and
 Exchange Commission a registration statement covering a 70 mln
 dlr issue of subordinated notes due 1997.

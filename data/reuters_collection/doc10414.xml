@@ -1,10 +1,8 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:41:54.06C L</field>
-	<field name = "UNKNOWN">f0893reute</field>
-	<field name = "UNKNOWN">u f BC-slaughter-guesstimate   03-27 0089</field>
-	<field name = "TITLE">HOG AND CATTLE SLAUGHTER GUESSTIMATES</field>
+	<field name = "titulo">HOG AND CATTLE SLAUGHTER GUESSTIMATES</field>
 	<field name = "DATELINE">CHICAGO, March 27 -</field>
-	<field name = "BODY">Chicago Mercantile Exchange floor
+	<field name = "content">Chicago Mercantile Exchange floor
 traders and commission house representatives are guesstimating
 today's hog slaughter at about 295,000 to 305,000 head versus
 303,000 week ago and 275,000 a year ago.

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 09:45:15.09</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">M
-f0900reute
-r f BC-ALUSUISSE-PLANS-50-PC   03-13 0104</field>
-	<field name = "TITLE">ALUSUISSE PLANS 50 PCT CAPITAL CUT</field>
+	<field name = "titulo">ALUSUISSE PLANS 50 PCT CAPITAL CUT</field>
 	<field name = "DATELINE">ZURICH, March 13 -</field>
-	<field name = "BODY">Schweizerische Aluminium AG, Alusuisse,
+	<field name = "content">Schweizerische Aluminium AG, Alusuisse,
 plans to reduce share and participation certificate capital by
 50 pct to cover losses in 1986 and those carried forward from
 the previous year, chief executive Hans Jucker said.

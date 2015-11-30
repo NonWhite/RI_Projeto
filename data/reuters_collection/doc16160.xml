@@ -4,12 +4,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">bahrain</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">RM
-f0389reute
-u f BC-SAUDI-RIYAL-DEPOSITS   04-13 0109</field>
-	<field name = "TITLE">SAUDI RIYAL DEPOSITS SURGE ON U.S. RATE RISE</field>
+	<field name = "titulo">SAUDI RIYAL DEPOSITS SURGE ON U.S. RATE RISE</field>
 	<field name = "DATELINE">BAHRAIN, April 13 -</field>
-	<field name = "BODY">Saudi riyal interbank deposit rates
+	<field name = "content">Saudi riyal interbank deposit rates
 surged across the board as banks tried to build long positions
 in anticipation of a further rise in U.S. Interest rates,
 dealers said.

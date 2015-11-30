@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 11:08:06.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0709reute
-u f BC-PIZZA-INN-PZA>-TO-MA   03-03 0079</field>
-	<field name = "TITLE">PIZZA INN PZA> TO MAKE ANNOUNCEMENT</field>
+	<field name = "titulo">PIZZA INN PZA> TO MAKE ANNOUNCEMENT</field>
 	<field name = "DATELINE">DALLAS, March 3 -</field>
-	<field name = "BODY">Pizza Inn Inc said it will be making an
+	<field name = "content">Pizza Inn Inc said it will be making an
 announcement sometime this morning.
     The company declined to discuss details of the
 announcement.

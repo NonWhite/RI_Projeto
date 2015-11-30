@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 04:49:20.72</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0289reute
-u f BC-JAPAN-TO-SET-MICROCHI   06-02 0112</field>
-	<field name = "TITLE">JAPAN TO SET MICROCHIP PRODUCTION GUIDELINES</field>
+	<field name = "titulo">JAPAN TO SET MICROCHIP PRODUCTION GUIDELINES</field>
 	<field name = "DATELINE">TOKYO, June 2 -</field>
-	<field name = "BODY">The Ministry of International Trade and
+	<field name = "content">The Ministry of International Trade and
 Industry (MITI) said it would issue guidelines later this month
 for microchip production during the third quarter.
     A MITI official said it was too early to say if the

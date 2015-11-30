@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 09:52:26.10</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0983reute
-r f BC-FINAL-TERMS-SET-ON-TO   06-02 0082</field>
-	<field name = "TITLE">FINAL TERMS SET ON TOKYO ROPE EQUITY WARRANT BOND</field>
+	<field name = "titulo">FINAL TERMS SET ON TOKYO ROPE EQUITY WARRANT BOND</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">The coupon on the 50 mln dlr, five year,
+	<field name = "content">The coupon on the 50 mln dlr, five year,
 equity warrant eurobond for Tokyo Rope Manufacturing Co Ltd has
 been set at two pct compared with an indicated level of 2-1/8
 pct, lead manager Nikko Securities Co (Europe) Ltd said.

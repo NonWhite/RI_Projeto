@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 06:25:05.36</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0438reute
-b f BC-ASEA-CAPITAL-ISSUES-1   03-24 0101</field>
-	<field name = "TITLE">ASEA CAPITAL ISSUES 10 BILLION YEN BOND</field>
+	<field name = "titulo">ASEA CAPITAL ISSUES 10 BILLION YEN BOND</field>
 	<field name = "DATELINE">LONDON, March 24 -</field>
-	<field name = "BODY">ASEA Capital Corp BV is issuing a 10
+	<field name = "content">ASEA Capital Corp BV is issuing a 10
 billion yen bond due April 23, 1992 carrying a coupon of 4-1/2
 pct and priced at 102-3/8, Mitsui Finance International Ltd
 said as lead manager.

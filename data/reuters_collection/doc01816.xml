@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 16:44:23.41</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0812reute
-u f BC-UAW,-AMC-AMO>-SET-NE   03-04 0096</field>
-	<field name = "TITLE">UAW, AMC AMO> SET NEW LABOR TALKS</field>
+	<field name = "titulo">UAW, AMC AMO> SET NEW LABOR TALKS</field>
 	<field name = "DATELINE">DETROIT, March 4 -</field>
-	<field name = "BODY">The United Auto Workers and American
+	<field name = "content">The United Auto Workers and American
 Motors Corp agreed to resume talks on a new labor contract for
 the company's threatened Kenosha, Wisc. assembly plant despite
 a breakdown in talks last weekend, UAW vice-president Marc

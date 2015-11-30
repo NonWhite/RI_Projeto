@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 10:02:29.91</field>
 	<field name = "TOPICS">income</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0974reute
-r f BC-/U.S.-PERSONAL-INCOME   04-24 0096</field>
-	<field name = "TITLE">U.S. PERSONAL INCOME ROSE 0.2 PCT IN MARCH</field>
+	<field name = "titulo">U.S. PERSONAL INCOME ROSE 0.2 PCT IN MARCH</field>
 	<field name = "DATELINE">WASHINGTON, April 24 -</field>
-	<field name = "BODY">U.S. personal income rose 0.2 pct,
+	<field name = "content">U.S. personal income rose 0.2 pct,
 or 5.4 billion dlrs, in March to a seasonally adjusted annual
 rate of 3,603.9 billion dlrs, the Commerce Department said.
     The increase followed an upwardly revised 1.3 pct rise in

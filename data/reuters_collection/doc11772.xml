@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 00:02:13.34</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f3060reute
-u f BC-COMMERZBANK-SEES-LOWE   04-01 0108</field>
-	<field name = "TITLE">COMMERZBANK SEES LOWER OPERATING PROFIT THIS YEAR</field>
+	<field name = "titulo">COMMERZBANK SEES LOWER OPERATING PROFIT THIS YEAR</field>
 	<field name = "DATELINE">FRANKFURT, April 1 -</field>
-	<field name = "BODY">Commerzbank AG CBKG.F> management
+	<field name = "content">Commerzbank AG CBKG.F> management
 board chairman Walter Seipp said that from the present
 viewpoint the bank must expect 1987 full operating profit to be
 lower than in 1986.

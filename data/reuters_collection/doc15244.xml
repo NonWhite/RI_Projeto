@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 15:05:31.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2246reute
-r f BC-NEW-HAMPSHIRE-YANKEE   04-08 0100</field>
-	<field name = "TITLE">NEW HAMPSHIRE YANKEE TO SUBMIT EMERGENCY PLANS</field>
+	<field name = "titulo">NEW HAMPSHIRE YANKEE TO SUBMIT EMERGENCY PLANS</field>
 	<field name = "DATELINE">MANCHESTER, N.H., April 8 -</field>
-	<field name = "BODY">New Hampshire Yankee> said it
+	<field name = "content">New Hampshire Yankee> said it
 will submit to the Nuclear Regulatory Commission emergency
 response plans for the six Massachusetts communities within a
 10-mile radius of the Seabrook Station.

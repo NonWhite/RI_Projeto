@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 14:00:41.91</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C M
-f0033reute
-u f BC-"BRITANNIA"-COIN-TO-S   03-12 0090</field>
-	<field name = "TITLE">"BRITANNIA" COIN TO SELL AT PREMIUM</field>
+	<field name = "titulo">"BRITANNIA" COIN TO SELL AT PREMIUM</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">The new British one ounce gold coin, the
+	<field name = "content">The new British one ounce gold coin, the
 "Britannia," will be priced on the basis of the gold price on the
 day of purchase plus a "competitive premium," Treasury officials
 said.

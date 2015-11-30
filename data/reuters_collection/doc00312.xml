@@ -9,13 +9,9 @@
 	<field name = "TOPICS">palm-oil</field>
 	<field name = "TOPICS">groundnut-oil</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G
-f0913
-reute
-u f BC-DUTCH-OILSEEDS/FATS-I   03-02 0087</field>
-	<field name = "TITLE">DUTCH OILSEEDS/FATS IMPORTS ROSE IN 1986</field>
+	<field name = "titulo">DUTCH OILSEEDS/FATS IMPORTS ROSE IN 1986</field>
 	<field name = "DATELINE">THE HAGUE, March 2 - Dutch imports of fat-</field>
-	<field name = "BODY">and oil-bearing
+	<field name = "content">and oil-bearing
 raw materials, fats and oils rose to 2.16 mln tonnes on a
 fat/oil basis in 1986 from 2.12 mln tonnes in 1985, the
 Commodity Board for Margarine, Fats and Oils said.

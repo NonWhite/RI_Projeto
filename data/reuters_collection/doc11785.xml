@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 02:54:26.31</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0129reute
-b f BC-SMITH-AND-NEPHEW-COMV   04-01 0117</field>
-	<field name = "TITLE">SMITH AND NEPHEW COMVERTIBLE INCREASED, FIXED</field>
+	<field name = "titulo">SMITH AND NEPHEW COMVERTIBLE INCREASED, FIXED</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">Smith and Nephew Associated Companies
+	<field name = "content">Smith and Nephew Associated Companies
 Plc's 15-year convertible eurobond has been increased to 90 mln
 stg from the initial 85 mln and the final terms have been set,
 lead manager Credit Suisse First Boston Ltd said.

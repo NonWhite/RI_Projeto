@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 11:27:02.56</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f1373reute
-b f BC-FRENCH-GOVERNMENT-SET   04-03 0079</field>
-	<field name = "TITLE">FRENCH GOVERNMENT SETS BTP SHARES AT 130 FRANCS</field>
+	<field name = "titulo">FRENCH GOVERNMENT SETS BTP SHARES AT 130 FRANCS</field>
 	<field name = "DATELINE">PARIS, April 3 -</field>
-	<field name = "BODY">The French government has set the public
+	<field name = "content">The French government has set the public
 offer price of shares for the state-owned Banque du Batiment
 et des Travaux Publics> at 130 francs, valuing the bank at 416
 mln francs, the Finance Ministry said in a statement.

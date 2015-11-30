@@ -10,12 +10,9 @@
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">italy</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">A
-f0590reute
-u f BC-G-7-ISSUES-STATEMENT   04-09 0094</field>
-	<field name = "TITLE">G-7 ISSUES STATEMENT AFTER MEETING</field>
+	<field name = "titulo">G-7 ISSUES STATEMENT AFTER MEETING</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Following is the text of a statement
+	<field name = "content">Following is the text of a statement
 by the Group of Seven -- the U.S., Japan, West Germany, France,
 Britain, Italy and Canada -- issued after a Washington meeting
 yesterday.

@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 13:37:54.89</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">M
-f3115reute
-d f BC-BP-UNIT-SEES-U.S.-GOL   03-16 0140</field>
-	<field name = "TITLE">BP UNIT SEES U.S. GOLD MINE PROCEEDING</field>
+	<field name = "titulo">BP UNIT SEES U.S. GOLD MINE PROCEEDING</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">British Petroleum Co PLC said based on
+	<field name = "content">British Petroleum Co PLC said based on
 a feasibility report from Ridgeway Mining Co, its joint venture
 Ridgeway Project in South Carolina could start commercial gold
 production by mid-1988.

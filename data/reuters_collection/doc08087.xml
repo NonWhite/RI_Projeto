@@ -5,12 +5,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">gcc</field>
-	<field name = "UNKNOWN">F
-f0044reute
-r f BC-RAIMOND-EXPECTS-EC-GU   03-22 0097</field>
-	<field name = "TITLE">RAIMOND EXPECTS EC-GULF PROBLEMS WILL BE SOLVED</field>
+	<field name = "titulo">RAIMOND EXPECTS EC-GULF PROBLEMS WILL BE SOLVED</field>
 	<field name = "DATELINE">ABU DHABI, March 22 -</field>
-	<field name = "BODY">French Foreign Minister Jean-Bernard
+	<field name = "content">French Foreign Minister Jean-Bernard
 Raimond predicted in a published interview a successful end to
 negotiations to admit Gulf petrochemical exports into the
 European Community (EC).

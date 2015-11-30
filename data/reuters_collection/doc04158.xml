@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 08:54:32.55</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0822reute
-d f BC-FIRST-UNION-FUNC>-AC   03-12 0063</field>
-	<field name = "TITLE">FIRST UNION FUNC> ACQUISITION ADVANCES</field>
+	<field name = "titulo">FIRST UNION FUNC> ACQUISITION ADVANCES</field>
 	<field name = "DATELINE">JACKSONVILLE, Fla., March 12 -</field>
-	<field name = "BODY">First Union Corp said
+	<field name = "content">First Union Corp said
 shareholders of First North Port Bancorp of Northport, Fla.,
 have approved a merger into First Union for 40 dlrs per share,
 or about 5,100,000 dlrs.

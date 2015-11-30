@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 23:59:54.22</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f4040reute
-u f BC-HONGKONG-BANK-SAYS-CL   03-16 0069</field>
-	<field name = "TITLE">HONGKONG BANK SAYS CLOSE TO DEAL ON PROPERTY SALE</field>
+	<field name = "titulo">HONGKONG BANK SAYS CLOSE TO DEAL ON PROPERTY SALE</field>
 	<field name = "DATELINE">HONG KONG, March 17 -</field>
-	<field name = "BODY">Hongkong and Shanghai Banking Corp
+	<field name = "content">Hongkong and Shanghai Banking Corp
 HKBH.HK> is close to a deal on the sale of a commercial
 building in Hong Kong's Mongkok business district, a bank
 spokesman said.

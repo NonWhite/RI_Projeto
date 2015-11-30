@@ -2,12 +2,9 @@
 	<field name = "DATE">21-MAR-1987 04:11:13.22</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f0015reute
-r f BC-TAIWAN-INDUSTRIAL-OUT   03-21 0114</field>
-	<field name = "TITLE">TAIWAN INDUSTRIAL OUTPUT FALLS, CURRENCY BLAMED</field>
+	<field name = "titulo">TAIWAN INDUSTRIAL OUTPUT FALLS, CURRENCY BLAMED</field>
 	<field name = "DATELINE">TAIPEI, March 21 -</field>
-	<field name = "BODY">Taiwan's industrial production index,
+	<field name = "content">Taiwan's industrial production index,
 fell, largely as the result of the rising Taiwan dollar, by
 8.18 pct to 140.06 (base 1981) in February from a revised
 152.53 in January, the Economy Ministry said.

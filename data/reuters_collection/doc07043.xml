@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 08:22:06.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0648reute
-r f BC-EX-REAGAN-AIDE-DEAVER   03-19 0113</field>
-	<field name = "TITLE">EX-REAGAN AIDE DEAVER INDICTED ON PERJURY CHARGES</field>
+	<field name = "titulo">EX-REAGAN AIDE DEAVER INDICTED ON PERJURY CHARGES</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">Former White House aide Michael
+	<field name = "content">Former White House aide Michael
 Deaver, a long-time confidant of President Reagan, has been
 indicted on charges of lying about his contacts as a Washington
 lobbyist with top U.S. Government officials.

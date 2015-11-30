@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 11:05:12.64</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0488reute
-b f BC-U.S.-OKAYS-USAIR-U>   03-05 0072</field>
-	<field name = "TITLE">U.S. OKAYS USAIR U> PACIFIC SOUTHWEST PURCHASE</field>
+	<field name = "titulo">U.S. OKAYS USAIR U> PACIFIC SOUTHWEST PURCHASE</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">The U.S. Department of Transportation
+	<field name = "content">The U.S. Department of Transportation
 said it gave final approval to USAir Group's proposed 400 mln
 dlr acquisition of Pacific Southwest Airlines.
     The department said the acquisition is not likely to

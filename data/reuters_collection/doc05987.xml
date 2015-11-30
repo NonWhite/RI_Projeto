@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 10:51:37.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f5227reute
-r f BC-WAXMAN-WAXM>-SELLS-C   03-17 0096</field>
-	<field name = "TITLE">WAXMAN WAXM> SELLS CONVERTIBLE DEBENTURES</field>
+	<field name = "titulo">WAXMAN WAXM> SELLS CONVERTIBLE DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Waxman Industries Inc is raising 25
+	<field name = "content">Waxman Industries Inc is raising 25
 mln dlrs through an offering of convertible subordinated
 debentures due 2007 with a 6-1/4 pct coupon and par pricing,
 said sole underwriter Drexel Burnham Lambert Inc.

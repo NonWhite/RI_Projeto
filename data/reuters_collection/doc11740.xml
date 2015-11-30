@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 18:14:13.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2861reute
-r f BC-SHARON-STEEL-EXTEND-E   03-31 0095</field>
-	<field name = "TITLE">SHARON STEEL EXTEND EXCHANGE OFFERS</field>
+	<field name = "titulo">SHARON STEEL EXTEND EXCHANGE OFFERS</field>
 	<field name = "DATELINE">MIAMI, March 31 -</field>
-	<field name = "BODY">Sharon Steel Corp> said it extended to
+	<field name = "content">Sharon Steel Corp> said it extended to
 April 30 the expiration date of the offers to exchange its
 outstanding 13.5 pct subordinated sinking fund debentures due
 2000 and outstanding 14.25 pct subordinated sinking fund

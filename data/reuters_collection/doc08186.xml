@@ -3,13 +3,10 @@
 	<field name = "PLACES">yugoslavia</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">mikulic</field>
-	<field name = "UNKNOWN">A
-f0494reute
-d f BC-PREMIER-SAYS-YUGOSLAV   03-23 0102</field>
-	<field name = "TITLE">PREMIER SAYS YUGOSLAVIA WILL PAY ITS DEBTS</field>
+	<field name = "titulo">PREMIER SAYS YUGOSLAVIA WILL PAY ITS DEBTS</field>
 	<field name = "AUTHOR">By Peter Humphrey, Reuters</field>
 	<field name = "DATELINE">BELGRADE, March 23 -</field>
-	<field name = "BODY">Yugoslavia, whose economic crisis is
+	<field name = "content">Yugoslavia, whose economic crisis is
 under close scrutiny by foreign creditors, will not follow
 Brazil by suspending repayments on its large foreign debt,
 Prime Minister Branko Mikulic was quoted as saying.

@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 14:43:54.92</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f6232reute
-u f BC-U.K.-OIL-REVENUE-FORE   03-17 0108</field>
-	<field name = "TITLE">U.K. OIL REVENUE FORECAST TO FALL IN 1987/88</field>
+	<field name = "titulo">U.K. OIL REVENUE FORECAST TO FALL IN 1987/88</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">The U.K. Government forecasts that oil
+	<field name = "content">The U.K. Government forecasts that oil
 revenues will fall to four billion stg in the fiscal year
 1987/88, from 4.75 billion in 1986/87 and 11.5 billion in
 1985/86.

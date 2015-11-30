@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">dmk</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">RM
-f0916reute
-r f BC-TURKISH-CENTRAL-BANK   04-02 0045</field>
-	<field name = "TITLE">TURKISH CENTRAL BANK SETS LIRA/DOLLAR, DM RATES</field>
+	<field name = "titulo">TURKISH CENTRAL BANK SETS LIRA/DOLLAR, DM RATES</field>
 	<field name = "DATELINE">ANKARA, April 2 -</field>
-	<field name = "BODY">Turkey's Central Bank set a lira/dollar
+	<field name = "content">Turkey's Central Bank set a lira/dollar
 rate for April 3 of 782.50/786.41 to the dollar, down from
 780.00/783.90. It set a lira/D-mark rate of 428.30/430.44 to
 the mark, up from 429.15/431.30.

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 13:22:59.41</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F 
-f1777reute
-u f BC-REED-SAYS-IT-HAS-NO-C   06-19 0089</field>
-	<field name = "TITLE">REED SAYS IT HAS NO COMMENT ON HARCOURT RUMOURS</field>
+	<field name = "titulo">REED SAYS IT HAS NO COMMENT ON HARCOURT RUMOURS</field>
 	<field name = "DATELINE">LONDON, June 19 -</field>
-	<field name = "BODY">Reed International Plc REED.L> said it
+	<field name = "content">Reed International Plc REED.L> said it
 had no comment to make on U.K. stock market rumors that
 Harcourt Brace Jovanovich Inc HBJ> may make a bid for the
 company in order to escape unwelcome offers from Robert

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 12:35:39.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5745reute
-d f BC-PERRY-DRUG-PDS>-SLOW   03-17 0073</field>
-	<field name = "TITLE">PERRY DRUG PDS> SLOWS EXPANSION</field>
+	<field name = "titulo">PERRY DRUG PDS> SLOWS EXPANSION</field>
 	<field name = "DATELINE">TROY, MICH., March 17 -</field>
-	<field name = "BODY">Perry Drug Stores Inc, which two
+	<field name = "content">Perry Drug Stores Inc, which two
 weeks ago reported sharply lower first quarter earnings, plans
 to slow its expansion to five to six pct annually from 15 pct
 last year, Chairman Jack A. Robinson told Reuters.

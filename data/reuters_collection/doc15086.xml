@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:37:17.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1481reute
-d f BC-PHOTOGRAPHIC-SCIENCES   04-08 0055</field>
-	<field name = "TITLE">PHOTOGRAPHIC SCIENCES PSXX> FORMS NEW UNIT</field>
+	<field name = "titulo">PHOTOGRAPHIC SCIENCES PSXX> FORMS NEW UNIT</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., April 8 -</field>
-	<field name = "BODY">Photographic Sciences Corp said
+	<field name = "content">Photographic Sciences Corp said
 it has formed a new Metrology Division for the production and
 marketing of surface profiler measurement equipment.
     It said the equipment, a new market area, should add

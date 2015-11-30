@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 00:21:38.88</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0009reute
-u f BC-N.Z.-77-DAY-T-BILLS-Y   04-07 0077</field>
-	<field name = "TITLE">N.Z. 77-DAY T-BILLS YIELD 24.97 PCT AT TENDER</field>
+	<field name = "titulo">N.Z. 77-DAY T-BILLS YIELD 24.97 PCT AT TENDER</field>
 	<field name = "DATELINE">WELLINGTON, April 7 -</field>
-	<field name = "BODY">The weighted average yield for 50 mln
+	<field name = "content">The weighted average yield for 50 mln
 N.Z. Dlrs of 77-day Treasury bills sold in this week's regular
 weekly tender was 24.97 pct, the Reserve Bank said.
     The weighted average yield on 30 mln dlrs of 56-day bill

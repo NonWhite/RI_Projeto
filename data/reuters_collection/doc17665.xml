@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 13:29:21.73</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1868reute
-d f BC-(CLARK-COPY)-BUYS-NOR   06-01 0077</field>
-	<field name = "TITLE">(CLARK COPY) BUYS NORWEGIAN FIRM</field>
+	<field name = "titulo">(CLARK COPY) BUYS NORWEGIAN FIRM</field>
 	<field name = "DATELINE">ELK GROVE VILLAGE, Ill., June 1 -</field>
-	<field name = "BODY">Clark Copy International
+	<field name = "content">Clark Copy International
 Corp said it bought a Norwegian drafting machines company for
 three mln U.S. dlrs.
     Clark Copy said its majority-owned Norwegian subsidiary,

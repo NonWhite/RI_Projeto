@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 17:37:26.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0791reute
-r f BC-PLAN-TO-CUT-DELAYS-AD   03-11 0112</field>
-	<field name = "TITLE">PLAN TO CUT DELAYS ADVANCES AT SEVEN AIRPORTS</field>
+	<field name = "titulo">PLAN TO CUT DELAYS ADVANCES AT SEVEN AIRPORTS</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">The Department of Transportation
+	<field name = "content">The Department of Transportation
 (DOT) said it would go ahead at seven airports with a
 controversial plan to reduce airline delays by enabling
 competing companies to coordinate their schedules.

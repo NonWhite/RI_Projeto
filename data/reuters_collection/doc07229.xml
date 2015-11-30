@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 12:17:51.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1568reute
-u f BC-UAW-TO-AUTHORIZE-STRI   03-19 0108</field>
-	<field name = "TITLE">UAW TO AUTHORIZE STRIKE AT GM GM> PLANT</field>
+	<field name = "titulo">UAW TO AUTHORIZE STRIKE AT GM GM> PLANT</field>
 	<field name = "DATELINE">DETROIT, March 19 -</field>
-	<field name = "BODY">The United Auto Workers said it plans
+	<field name = "content">The United Auto Workers said it plans
 to tell General Motors Corp later today that it will authorize
 a strike by its local at GM's truck and bus works in Pontiac,
 Mich.

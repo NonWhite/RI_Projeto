@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:05:37.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0491reute
-r f BC-BOLT-BERANEK-AND-NEWM   03-05 0082</field>
-	<field name = "TITLE">BOLT BERANEK AND NEWMAN BBN> UNIT SELLS SYSTEM</field>
+	<field name = "titulo">BOLT BERANEK AND NEWMAN BBN> UNIT SELLS SYSTEM</field>
 	<field name = "DATELINE">CAMBRIDGE, Mass, March 5 -</field>
-	<field name = "BODY">Bolt Beranek and Newman Inc said
+	<field name = "content">Bolt Beranek and Newman Inc said
 its subsidiary BBN Advanced Computers Inc sold approximately
 700,000 dlrs worth of its Butterfly parallel processors to
 Indiana University, MITRE Corp, FMC Corp and the Naval Research

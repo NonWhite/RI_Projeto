@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:19:49.08</field>
-	<field name = "UNKNOWN">RM A
-f0968reute
-r f BC-SALLIE-MAE-ADJUSTS-SH   04-07 0078</field>
-	<field name = "TITLE">SALLIE MAE ADJUSTS SHORT-TERM DISCOUNT NOTE RATES</field>
+	<field name = "titulo">SALLIE MAE ADJUSTS SHORT-TERM DISCOUNT NOTE RATES</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">The Student Loan Marketing
+	<field name = "content">The Student Loan Marketing
 Association said its rates on short-term discount notes were as
 follows:
     MATURITY   NEW RATE    OLD RATE  MATURITY

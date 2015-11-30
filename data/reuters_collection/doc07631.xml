@@ -4,12 +4,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">C G T
-f0711reute
-u f BC-JAPAN-SAYS-OECD-STUDY   03-20 0116</field>
-	<field name = "TITLE">JAPAN SAYS OECD STUDY ON SUBSIDIES STILL ONGOING</field>
+	<field name = "titulo">JAPAN SAYS OECD STUDY ON SUBSIDIES STILL ONGOING</field>
 	<field name = "DATELINE">TOKYO, March 20 -</field>
-	<field name = "BODY">Japanese Agriculture Ministry officials
+	<field name = "content">Japanese Agriculture Ministry officials
 said a study of agriculture subsidies by the Organisation for
 Economic Cooperation and Development, OECD, is still under way
 and will be completed sometime next month.

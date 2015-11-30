@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 11:24:43.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2473reute
-r f BC-RYAN-HOMES-RYN>-CALL   03-16 0069</field>
-	<field name = "TITLE">RYAN HOMES RYN> CALLS DEBENTURES</field>
+	<field name = "titulo">RYAN HOMES RYN> CALLS DEBENTURES</field>
 	<field name = "DATELINE">PITTSBURGH, March 16 -</field>
-	<field name = "BODY">Ryan Homes Inc, controled by NV
+	<field name = "content">Ryan Homes Inc, controled by NV
 Homes LP NVH>, said it has called for redemption on April 30
 all 873,000 dlrs of its six pct convertible subordinated
 debentures due 1991 at 1,000 dlrs pluys 19.83 dlrs in accrued

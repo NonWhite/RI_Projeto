@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 00:44:31.44RM</field>
-	<field name = "UNKNOWN">f0042reute</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">u f BC-SOUTH-KOREA-PLANS-11-   03-27 0108</field>
-	<field name = "TITLE">SOUTH KOREA PLANS 11-12 PCT BUDGET RISE IN 1988</field>
+	<field name = "titulo">SOUTH KOREA PLANS 11-12 PCT BUDGET RISE IN 1988</field>
 	<field name = "DATELINE">SEOUL, March 27 -</field>
-	<field name = "BODY">South Korea plans to increase the size of
+	<field name = "content">South Korea plans to increase the size of
 its budget in 1988 by 11 to 12 pct from this year's 15,596
 billion won, Economic Planning Board officials said.
     The proposed boost is based on a government forecast that

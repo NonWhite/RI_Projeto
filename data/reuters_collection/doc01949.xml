@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 05:41:23.11</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">cayman-islands</field>
-	<field name = "UNKNOWN">RM
-f0563reute
-b f BC-CANADA-ZERO-ISSUES-CA   03-05 0113</field>
-	<field name = "TITLE">CANADA ZERO ISSUES CANADIAN DLR ZERO COUPON BOND</field>
+	<field name = "titulo">CANADA ZERO ISSUES CANADIAN DLR ZERO COUPON BOND</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">Canada Zero, a sole purpose company
+	<field name = "content">Canada Zero, a sole purpose company
 incorporated in the Cayman Islands, is issuing a zero coupon
 eurobond with a total redemption amount of 150 mln Canadian
 dlrs, lead manager CIBC Ltd said.

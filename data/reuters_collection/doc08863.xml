@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 12:23:53.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1671reute
-u f BC-RESORTS-INT'L-RT.A>   03-24 0066</field>
-	<field name = "TITLE">RESORTS INT'L RT.A> TO MAKE STATEMENT</field>
+	<field name = "titulo">RESORTS INT'L RT.A> TO MAKE STATEMENT</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">A Resorts International Inc spokesman
+	<field name = "content">A Resorts International Inc spokesman
 said the company will make a statement later today regarding
 its class A and class B RT.B> common stock.
     The American Stock Exchange halted trading in the shares

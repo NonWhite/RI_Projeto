@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 13:20:20.84</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0011reute
-h f BC-CETEC-CORP-CEC>-4TH   03-06 0043</field>
-	<field name = "TITLE">CETEC CORP CEC> 4TH QTR NET</field>
+	<field name = "titulo">CETEC CORP CEC> 4TH QTR NET</field>
 	<field name = "DATELINE">EL MONTE, Calif., March 6 -</field>
-	<field name = "BODY">Oper shr two cts vs eight cts
+	<field name = "content">Oper shr two cts vs eight cts
     Oper net 41,000 vs 153,000
     Sales 7,456,000 vs 7,965,000
     Year

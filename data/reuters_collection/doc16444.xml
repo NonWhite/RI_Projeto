@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:35:39.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1757reute
-r f BC-DATA-TECHNOLOGY-SETS   04-13 0102</field>
-	<field name = "TITLE">DATA TECHNOLOGY SETS INITIAL STOCK OFFERING</field>
+	<field name = "titulo">DATA TECHNOLOGY SETS INITIAL STOCK OFFERING</field>
 	<field name = "DATELINE">SANTA CLARA, Calif., April 13 -</field>
-	<field name = "BODY">Data Technology Corp said
+	<field name = "content">Data Technology Corp said
 it registered with the Securities and Exchange Commission to
 make an initial public offering of 1,700,000 shares of common
 stock.

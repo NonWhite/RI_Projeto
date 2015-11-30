@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 11:07:51.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1285reute
-b f BC-ATT-T>-INTRODUCES-NE   03-24 0035</field>
-	<field name = "TITLE">ATT T> INTRODUCES NEW COMPUTER PRODUCTS</field>
+	<field name = "titulo">ATT T> INTRODUCES NEW COMPUTER PRODUCTS</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">American Telephone and Telegraph Co
+	<field name = "content">American Telephone and Telegraph Co
 said it has introduced a variety of new computer hardware,
 software and networking products for corporate use.
     The company introduced the 3B2/600 minicomputer, which can

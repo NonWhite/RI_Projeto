@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 14:14:55.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0387reute
-r f BC-THREE-SUED-OVER-BALL   04-17 0096</field>
-	<field name = "TITLE">THREE SUED OVER BALL VALVES FOR NINE MILE POINT</field>
+	<field name = "titulo">THREE SUED OVER BALL VALVES FOR NINE MILE POINT</field>
 	<field name = "DATELINE">SYRACUSE, N.Y., April 17 -</field>
-	<field name = "BODY">Niagara Mohawk Power Corp said
+	<field name = "content">Niagara Mohawk Power Corp said
 it and the other owners of Nine Mile Point Two nuclear power
 unit have filed suit seeking over 500 mln dlrs in damages
 against three companies involved with the design and

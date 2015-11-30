@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 03:17:35.43</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0139reute
-b f BC-HOECHST-AG-HFAG.F>-Y   03-26 0092</field>
-	<field name = "TITLE">HOECHST AG HFAG.F> YEAR 1986</field>
+	<field name = "titulo">HOECHST AG HFAG.F> YEAR 1986</field>
 	<field name = "DATELINE">FRANKFURT, March 26 -</field>
-	<field name = "BODY">Year ended December 31.
+	<field name = "content">Year ended December 31.
     World group pretax profit 3.21 billion marks vs 3.16
 billion.
     Turnover 38.01 billion marks vs 42.72 billion.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 09:57:42.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1091reute
-u f BC-IBM-IBM>-ADDS-TO-SYS   10-20 0103</field>
-	<field name = "TITLE">IBM IBM> ADDS TO SYSTEM/36 PRODUCT LINE</field>
+	<field name = "titulo">IBM IBM> ADDS TO SYSTEM/36 PRODUCT LINE</field>
 	<field name = "DATELINE">RYE BROOK, N.Y., Oct 20 -</field>
-	<field name = "BODY">International Business Machines
+	<field name = "content">International Business Machines
 Corp said it introduced the System/36 5363 System Unit, an
 entry-level addition to its System 36 family of computers.
     The company said the 5636 System Unit will be available as

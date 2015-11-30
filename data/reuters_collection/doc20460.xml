@@ -8,12 +8,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">gatt</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G 
-f2425reute
-b f BC-ASA-SLAMS-EC-OILSEED   10-20 0102</field>
-	<field name = "TITLE">ASA SAYS EC OILSEED POLICY ILLEGAL UNDER GATT</field>
+	<field name = "titulo">ASA SAYS EC OILSEED POLICY ILLEGAL UNDER GATT</field>
 	<field name = "DATELINE">LONDON, Oct 20 -</field>
-	<field name = "BODY">The American Soybean Association (ASA)
+	<field name = "content">The American Soybean Association (ASA)
 denounced European Community (EC) oilseed policies as illegal
 under the General Agreement on Tariffs and Trade, and
 threatened to make an unfair trade complaint if the EC does not

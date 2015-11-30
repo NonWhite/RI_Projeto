@@ -4,12 +4,9 @@
 	<field name = "TOPICS">plywood</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">C
-f0573reute
-d f BC-OREGON-LUMBER-COMPANY   03-11 0123</field>
-	<field name = "TITLE">OREGON LUMBER COMPANY TO SELL WOOD TO IRAQ</field>
+	<field name = "titulo">OREGON LUMBER COMPANY TO SELL WOOD TO IRAQ</field>
 	<field name = "DATELINE">PORTLAND, Oregon, March 11 -</field>
-	<field name = "BODY">A Portland-based wood
+	<field name = "content">A Portland-based wood
 products company has signed a 13 mln dlr contract with the
 Iraqi government to supply finished softwood lumber to Iraq,
 Edward Niedermeyer, president of Niedermeyer-Martin Co said

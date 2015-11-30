@@ -5,12 +5,9 @@
 	<field name = "PLACES">luxembourg</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">RM Y F A 
-f2924reute
-r f AM-GULF-BRITAIN 1STLD  10-19 0099</field>
-	<field name = "TITLE">BRITAIN BACKS U.S. STRIKE ON IRAN OIL PLATFORM</field>
+	<field name = "titulo">BRITAIN BACKS U.S. STRIKE ON IRAN OIL PLATFORM</field>
 	<field name = "DATELINE">LUXEMBOURG, Oct 19 -</field>
-	<field name = "BODY">British Foreign Secretary Sir Geoffrey
+	<field name = "content">British Foreign Secretary Sir Geoffrey
 Howe backed the United States' attack on an Iranian oil
 platform on Monday and said it should not worsen the Gulf
 crisis.

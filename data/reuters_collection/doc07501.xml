@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 18:38:12.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2722reute
-r f BC-DANGER-OF-ARBITRAGE-T   03-19 0114</field>
-	<field name = "TITLE">DANGER OF ARBITRAGE TRADING DOWNPLAYED</field>
+	<field name = "titulo">DANGER OF ARBITRAGE TRADING DOWNPLAYED</field>
 	<field name = "DATELINE">BOCA RATON, Fla, March 19 -</field>
-	<field name = "BODY">Stock index-related arbitrage
+	<field name = "content">Stock index-related arbitrage
 trading did not spark the dramatic drop in the U.S. stock
 market last September, nor is a free-fall in stocks and futures
 prices due to arbitrage trading a likelihood, a top official

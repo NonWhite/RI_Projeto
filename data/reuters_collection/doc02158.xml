@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 11:25:09.32</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0612reute
-u f BC-REGAL-INTERNATIONAL-   03-05 0096</field>
-	<field name = "TITLE">REGAL INTERNATIONAL RGL> UPS BELL BPSIQ> BID</field>
+	<field name = "titulo">REGAL INTERNATIONAL RGL> UPS BELL BPSIQ> BID</field>
 	<field name = "DATELINE">MIDLAND, Texas, March 5 -</field>
-	<field name = "BODY">Bell Petroleum Services Inc said
+	<field name = "content">Bell Petroleum Services Inc said
 Regal International Inc has doubled its offer for Bell stock to
 one Regal share for each Bell share from half a share
 previously.

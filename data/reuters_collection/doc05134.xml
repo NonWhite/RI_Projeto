@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 18:56:27.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0739reute
-d f BC-BAIRD-CORP-BATM>-SET   03-13 0108</field>
-	<field name = "TITLE">BAIRD CORP BATM> SETS RIGHTS PLAN</field>
+	<field name = "titulo">BAIRD CORP BATM> SETS RIGHTS PLAN</field>
 	<field name = "DATELINE">BEDFORD, Mass, March 13 -</field>
-	<field name = "BODY">Baird Corp said its independent
+	<field name = "content">Baird Corp said its independent
 directors adopted a plan under which one stock purchase right
 will be distributed as a dividend on each common share to
 stockholders of record March 23.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 10:18:20.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1206reute
-r f BC-SEARS-S>-OPTIMISTIC   10-20 0094</field>
-	<field name = "TITLE">SEARS S> OPTIMISTIC OVER 4TH QUARTER</field>
+	<field name = "titulo">SEARS S> OPTIMISTIC OVER 4TH QUARTER</field>
 	<field name = "DATELINE">CHICAGO, Oct 20 -</field>
-	<field name = "BODY">Sears, Roebuck and Co said it remains
+	<field name = "content">Sears, Roebuck and Co said it remains
 optimistic about the fourth quarter and year ahead.
     The company said it expects gains in disposable personal
 income to accelerate in the quarter with general merchandise

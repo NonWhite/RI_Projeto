@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 16:26:16.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9440reute
-r f BC-UNOCAL-UCL>-UNIT-BEG   03-18 0086</field>
-	<field name = "TITLE">UNOCAL UCL> UNIT BEGINS PLANT CONSTRUCTION</field>
+	<field name = "titulo">UNOCAL UCL> UNIT BEGINS PLANT CONSTRUCTION</field>
 	<field name = "DATELINE">LOS ANGELES, March 18 -</field>
-	<field name = "BODY">Unocal Corp said its Desert Power
+	<field name = "content">Unocal Corp said its Desert Power
 subsidiary began construction of a 47,500 kilowatt geothermal
 plant in Southern California's Imperial Valley.
     The company said Desert Power expects the plant to be

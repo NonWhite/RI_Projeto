@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 08:14:55.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f4685reute
-r f BC-POINDEXTER-MAY-GET-IM   03-17 0103</field>
-	<field name = "TITLE">POINDEXTER MAY GET IMMUNITY TO HELP TRACK FUNDS</field>
+	<field name = "titulo">POINDEXTER MAY GET IMMUNITY TO HELP TRACK FUNDS</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Congressional investigators
+	<field name = "content">Congressional investigators
 tentatively plan to grant immunity to former presidential
 National Security Advisor John Poindexter who they say may help
 track missing money from Iran arms sales.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-MAR-1987 23:15:40.57</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0201reute
-u f BC-JAPAN-VTR-PRODUCTION   03-29 0103</field>
-	<field name = "TITLE">JAPAN VTR PRODUCTION FALLS IN FEBRUARY</field>
+	<field name = "titulo">JAPAN VTR PRODUCTION FALLS IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">Japan's video tape recorder (VTR)
+	<field name = "content">Japan's video tape recorder (VTR)
 production fell 10.4 pct from a year earlier to 2.18 mln sets
 in February for the third successive year-on-year drop,
 reflecting slow exports, the Electronic Industries Association

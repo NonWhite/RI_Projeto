@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 11:10:13.59</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">V RM
-f1330reute
-u f AM-VOLCKER-TEXT   06-02 0062</field>
-	<field name = "TITLE">VOLCKER IN LETTER DECLINES NEW FED TERM</field>
+	<field name = "titulo">VOLCKER IN LETTER DECLINES NEW FED TERM</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">Following is the full text of Federal
+	<field name = "content">Following is the full text of Federal
 Reserve Board Chairman Paul Volcker's letter to President
 Reagan declining reappointment to the Fed:
     Dear Mr. President,

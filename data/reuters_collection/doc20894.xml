@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 17:50:52.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3305reute
-r f BC-CALIFORNIA-WATER-CWT   10-19 0098</field>
-	<field name = "TITLE">CALIFORNIA WATER CWTR.O> IN STOCK SPLIT</field>
+	<field name = "titulo">CALIFORNIA WATER CWTR.O> IN STOCK SPLIT</field>
 	<field name = "DATELINE">SAN JOSE, Calif., Oct 19 -</field>
-	<field name = "BODY">California Water Service Co said
+	<field name = "content">California Water Service Co said
 its shareholders approved a two-for-one stock split at a
 special meeting on Monday.
     The company said the new shares will be mailed on or about

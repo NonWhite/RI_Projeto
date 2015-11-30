@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 03:17:41.87</field>
 	<field name = "PLACES">japan</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">RM AI 
-f0153reute
-b f BC-TOKYO-STOCK-EXCHANGE   10-20 0082</field>
-	<field name = "TITLE">TOKYO STOCK EXCHANGE WILL NOT SUSPEND TRADING</field>
+	<field name = "titulo">TOKYO STOCK EXCHANGE WILL NOT SUSPEND TRADING</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">Tokyo Stock Exchange president Michio
+	<field name = "content">Tokyo Stock Exchange president Michio
 Takeuchi said the exchange has no immediate plans to suspend
 trading to cool off panic stock selling.
     However, he said Tokyo may consider such a measure if the

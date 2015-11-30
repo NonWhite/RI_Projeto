@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 10:05:27.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0978reute
-r f BC-ORBIS-ORBS>-INITIAL   03-13 0036</field>
-	<field name = "TITLE">ORBIS ORBS> INITIAL OFFERING UNDERWAY</field>
+	<field name = "titulo">ORBIS ORBS> INITIAL OFFERING UNDERWAY</field>
 	<field name = "DATELINE">PROVIDENCE, R.I., March 13 -</field>
-	<field name = "BODY">Orbis Inc said an initial
+	<field name = "content">Orbis Inc said an initial
 public offering of one mln common shares is underway at 2.50
 dlrs each through underwriter Providence Securities Inc.
  Reuter</field>

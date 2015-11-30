@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 11:45:58.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1523reute
-u f BC-******GULF-AND-WESTER   06-02 0102</field>
-	<field name = "TITLE">GULF AND WESTERN GW> SEES RECORD FISCAL YEAR</field>
+	<field name = "titulo">GULF AND WESTERN GW> SEES RECORD FISCAL YEAR</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Gulf and Western Inc chairman Martin
+	<field name = "content">Gulf and Western Inc chairman Martin
 Davis said the company will report record results for the
 current fiscal year.
     In its last fiscal year ending October 31, the company

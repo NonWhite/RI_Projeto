@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:59:33.80F</field>
-	<field name = "UNKNOWN">f1940reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">d f BC-CORNING-GLASS-WORKSG   03-27 0071</field>
-	<field name = "TITLE">CORNING GLASS WORKSGLW> BUYS FIBER-OPTIC STAKE</field>
+	<field name = "titulo">CORNING GLASS WORKSGLW> BUYS FIBER-OPTIC STAKE</field>
 	<field name = "DATELINE">CORNING, N.Y., March 27 -</field>
-	<field name = "BODY">Corning Glass Works said it
+	<field name = "content">Corning Glass Works said it
 bought a 50 pct interest in Technology Dynamics Inc, a
 Woodinville, Wash., company involved in research and
 development of fiber-optic sensors.

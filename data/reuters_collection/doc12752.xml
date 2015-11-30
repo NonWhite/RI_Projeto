@@ -3,12 +3,9 @@
 	<field name = "TOPICS">meal-feed</field>
 	<field name = "TOPICS">soy-meal</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G
-f0261reute
-u f BC-EUROPEAN-SOY/FEED-MAR   04-03 0103</field>
-	<field name = "TITLE">EUROPEAN SOY/FEED MARKET OPENS QUIETLY</field>
+	<field name = "titulo">EUROPEAN SOY/FEED MARKET OPENS QUIETLY</field>
 	<field name = "DATELINE">ROTTERDAM, April 3 -</field>
-	<field name = "BODY">Meals and feed on a cif Rotterdam
+	<field name = "content">Meals and feed on a cif Rotterdam
 basis opened quietly this morning with mixed to slighlty firmer
 seller indications compared with yesterday's midday levels,
 market sources said.

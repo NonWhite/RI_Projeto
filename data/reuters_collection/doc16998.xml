@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-APR-1987 11:17:03.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1321reute
-r f BC-SYMBOL-TECHNOLOGIES-   04-21 0076</field>
-	<field name = "TITLE">SYMBOL TECHNOLOGIES SMBL.O> FILES SHARE OFFER</field>
+	<field name = "titulo">SYMBOL TECHNOLOGIES SMBL.O> FILES SHARE OFFER</field>
 	<field name = "DATELINE">BOHEMIA, N.Y., April 21 -</field>
-	<field name = "BODY">Symbol Technologies Inc said it
+	<field name = "content">Symbol Technologies Inc said it
 filed with the Securities and Exchange Commission to offer two
 mln shares of common stock through Shearson Lehman Brothers Inc
 and L.F. Rothschild Unterberg Towbin Inc.

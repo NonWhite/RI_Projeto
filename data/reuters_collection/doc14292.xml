@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 12:17:12.51</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G M T
-f1530reute
-r f BC-U.S.-SAYS-NO-PACT-ON   04-07 0112</field>
-	<field name = "TITLE">U.S. SAYS NO PACT ON RELIEF FOR POOREST STATES</field>
+	<field name = "titulo">U.S. SAYS NO PACT ON RELIEF FOR POOREST STATES</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">There is no consensus so far among
+	<field name = "content">There is no consensus so far among
 industrial countries on an agreement providing debt relief for
 the world's poorest nations, a senior U.S. Treasury official
 said.

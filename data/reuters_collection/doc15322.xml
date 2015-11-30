@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 16:44:01.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2554reute
-d f BC-U.S.-FARM-LAND-VALUE   04-08 0104</field>
-	<field name = "TITLE">U.S. FARM LAND VALUE DECLINE MODERATES--USDA</field>
+	<field name = "titulo">U.S. FARM LAND VALUE DECLINE MODERATES--USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">The value of U.S. farmland declined
+	<field name = "content">The value of U.S. farmland declined
 again last year, but less than in the previous year, the U.S.
 Agriculture Department said.
     In a summary of its Agricultural Resources Report, the

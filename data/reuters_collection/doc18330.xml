@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 18:00:17.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2829reute
-u f BC-ALLEGIS   06-02 0092</field>
-	<field name = "TITLE">CONISTON ASKS DOT TO REVIEW ALLEGIS-BOEING DEAL</field>
+	<field name = "titulo">CONISTON ASKS DOT TO REVIEW ALLEGIS-BOEING DEAL</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">A New York investment partnership
+	<field name = "content">A New York investment partnership
 seeking control of Allegis Corp AEG> disclosed that it has
 asked the Department of Transportation to review a 700 mln dlr
 note agreement Allegis has with Boeing Co BA>.

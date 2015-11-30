@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 16:18:58.63</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">austria</field>
-	<field name = "UNKNOWN">RM
-f9418reute
-u f BC-LAENDERBANK-EXPECTS-M   03-18 0109</field>
-	<field name = "TITLE">LAENDERBANK EXPECTS MODEST PROFIT RISE IN '87</field>
+	<field name = "titulo">LAENDERBANK EXPECTS MODEST PROFIT RISE IN '87</field>
 	<field name = "DATELINE">VIENNA, March 18 -</field>
-	<field name = "BODY">Oesterreichische Laenderbank AG
+	<field name = "content">Oesterreichische Laenderbank AG
 [OLBV.VI] expects to maintain its dividend and to record a
 moderate rise in profits this year after the 181.5 mln
 schilling net profit made in 1986, General Director Gerhard

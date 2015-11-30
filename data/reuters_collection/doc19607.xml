@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:46:36.35</field>
-	<field name = "UNKNOWN">F 
-f0968reute
-d f BC-AMEV-HOLDINGS-TO-SELL   06-29 0088</field>
-	<field name = "TITLE">AMEV HOLDINGS TO SELL UNIT TO USA FINANCIAL</field>
+	<field name = "titulo">AMEV HOLDINGS TO SELL UNIT TO USA FINANCIAL</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">AMEV Holdings Inc, the New York-based
+	<field name = "content">AMEV Holdings Inc, the New York-based
 operating arm of NV AMEV AMEV.AS> in The Netherlands and
 parent company of Security Mutual Finance Corp, said it reached
 a definitive agreement to sell Security Mutual to USA Financial

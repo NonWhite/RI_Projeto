@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-MAR-1987 05:59:16.64</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">RM
-f0404
-reute
-u f BC-BANGLADESH-MOVES-AGAI   03-01 0113</field>
-	<field name = "TITLE">BANGLADESH MOVES AGAINST LOAN DEFAULTERS</field>
+	<field name = "titulo">BANGLADESH MOVES AGAINST LOAN DEFAULTERS</field>
 	<field name = "DATELINE">DHAKA, March 1 -</field>
-	<field name = "BODY">Bangladesh police mounted a cross-country
+	<field name = "content">Bangladesh police mounted a cross-country
 hunt for defaulters on bank loans, arresting four
 industrialists and issuing arrest warrants against 50 others
 for failure to repay overdue obligations. No names were given.

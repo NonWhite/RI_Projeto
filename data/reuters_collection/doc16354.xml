@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:17:03.46</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f1359reute
-r f BC-THE-HAGUE-LAUNCHES-SE   04-13 0099</field>
-	<field name = "TITLE">THE HAGUE LAUNCHES SECOND TRANCHE OF CP PROGRAM</field>
+	<field name = "titulo">THE HAGUE LAUNCHES SECOND TRANCHE OF CP PROGRAM</field>
 	<field name = "DATELINE">AMSTERDAM, April 13 -</field>
-	<field name = "BODY">Bank Mees en Hope NV, a fully-owned
+	<field name = "content">Bank Mees en Hope NV, a fully-owned
 subsidiary of Algemene Bank Nederland NV, said it launched the
 second tranche of a 100 mln guilders commercial paper program
 for the city of The Hague.

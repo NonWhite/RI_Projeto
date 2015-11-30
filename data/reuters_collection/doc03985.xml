@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 17:27:40.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0767reute
-u f BC-S/P-DOWNGRADES-BAKER   03-11 0108</field>
-	<field name = "TITLE">S/P DOWNGRADES BAKER BKO>, UPGRADES HUGHES HT></field>
+	<field name = "titulo">S/P DOWNGRADES BAKER BKO>, UPGRADES HUGHES HT></field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 downgraded Baker International Corp and upgraded Hughes Tool Co
 to reflect the companies' merger into Baker Hughes Inc.
     The action affected About 840 mln dlrs of debt securities.

@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 13:45:39.97</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f0281reute
-r f BC-BLINDER-INTERNATIONAL   03-04 0109</field>
-	<field name = "TITLE">BLINDER INTERNATIONAL BINLC> HAS NASD EXCEPTION</field>
+	<field name = "titulo">BLINDER INTERNATIONAL BINLC> HAS NASD EXCEPTION</field>
 	<field name = "DATELINE">ENGLEWOOD, Colo., March 4 -</field>
-	<field name = "BODY">Blinder International
+	<field name = "content">Blinder International
 Enterprises Inc said its common stock will continue to be
 quoted on the National Association of Securities Dealers'
 NASDAQ system due to an exception pending the resolution of a

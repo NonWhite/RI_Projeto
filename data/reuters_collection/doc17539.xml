@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1103reute
-r f BC-COLT-INDUSTRIES-COT>   06-01 0082</field>
-	<field name = "TITLE">COLT INDUSTRIES COT> TO SELL BRITISH UNIT</field>
+	<field name = "titulo">COLT INDUSTRIES COT> TO SELL BRITISH UNIT</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Colt Industries Inc said it signed a
+	<field name = "content">Colt Industries Inc said it signed a
 conditional agreement to sell its Woodville Polymer Engineering
 Ltd subsidiary in Great Britain to the Dowty Group PLC of
 Gloucestershire, England, for 35.9 mln stg.

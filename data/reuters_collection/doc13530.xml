@@ -5,12 +5,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">sprinkel</field>
-	<field name = "UNKNOWN">A
-f0429reute
-r f BC-NO-INTERVENTION,-DOLL   04-07 0031</field>
-	<field name = "TITLE">NO INTERVENTION, DOLLAR FIXED AT 1.8218 MARKS</field>
+	<field name = "titulo">NO INTERVENTION, DOLLAR FIXED AT 1.8218 MARKS</field>
 	<field name = "DATELINE">FRANKFURT, April 7 -</field>
-	<field name = "BODY">The Bundesbank did not intervene as
+	<field name = "content">The Bundesbank did not intervene as
 the dollar was fixed lower at 1.8218 marks after 1.8243
 yesterday, dealers said.
     Dealers said dollar trading was very quiet over the

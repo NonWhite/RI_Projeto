@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 11:03:13.11</field>
 	<field name = "TOPICS">zinc</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">C M
-f0679reute
-u f BC-THREE-KILLED-IN-SOUTH   03-03 0114</field>
-	<field name = "TITLE">THREE KILLED IN SOUTH AFRICA ZINC REFINERY CLASH</field>
+	<field name = "titulo">THREE KILLED IN SOUTH AFRICA ZINC REFINERY CLASH</field>
 	<field name = "DATELINE">JOHANNESBURG, March 3 -</field>
-	<field name = "BODY">Three black workers were killed and
+	<field name = "content">Three black workers were killed and
 seven injured in fighting at a South African zinc refinery last
 night, Gold Fields of South Africa Ltd said.
     The company said two groups of workers began attacking each

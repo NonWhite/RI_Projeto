@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 07:24:10.38</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0605reute
-u f BC-INTEL,-MATRA-HARRIS-D   06-02 0112</field>
-	<field name = "TITLE">INTEL, MATRA-HARRIS DISSOLVE CIMATEL PARTNERSHIP</field>
+	<field name = "titulo">INTEL, MATRA-HARRIS DISSOLVE CIMATEL PARTNERSHIP</field>
 	<field name = "DATELINE">PARIS, June 2 -</field>
-	<field name = "BODY">Intel Corp INTC> of Santa Clara, Calif.
+	<field name = "content">Intel Corp INTC> of Santa Clara, Calif.
 And Matra-Harris-Semiconducteurs (MHS) said their Cimatel joint
 venture design facility was dissolved as from June 1.
     Intel makes logic and memory components. MHS is a joint

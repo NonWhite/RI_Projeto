@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 14:45:42.45</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2119reute
-d f BC-SEA-GALLEY-STORES-INC   04-09 0054</field>
-	<field name = "TITLE">SEA GALLEY STORES INC SEAG> 1ST QTR NET</field>
+	<field name = "titulo">SEA GALLEY STORES INC SEAG> 1ST QTR NET</field>
 	<field name = "DATELINE">MOUNTLAKE TERRACE, Wash., April 9 -</field>
-	<field name = "BODY">Oper shr four cts vs one ct
+	<field name = "content">Oper shr four cts vs one ct
     Oper net 108,000 vs 30,000
     Revs 12.8 mln vs 14.8 mln
     Note: Current qtr figures exclude operating loss

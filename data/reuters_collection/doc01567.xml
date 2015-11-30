@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 12:00:11.18</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0811reute
-s f BC-STANLEY-WORKS-SWK>-S   03-04 0023</field>
-	<field name = "TITLE">STANLEY WORKS SWK> SETS QUARTERLY</field>
+	<field name = "titulo">STANLEY WORKS SWK> SETS QUARTERLY</field>
 	<field name = "DATELINE">NEW BRITAIN, Conn., March 4 -</field>
-	<field name = "BODY">Qtly div 19 cts vs 19 cts prior
+	<field name = "content">Qtly div 19 cts vs 19 cts prior
     Pay March 31
     Record March 12
  Reuter</field>

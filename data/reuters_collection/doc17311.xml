@@ -13,12 +13,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">south-korea</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G M
-f0937reute
-u f BC-SEOUL-UNVEILS-SHOPPIN   04-27 0132</field>
-	<field name = "TITLE">SEOUL UNVEILS SHOPPING LIST OF U.S. GOODS</field>
+	<field name = "titulo">SEOUL UNVEILS SHOPPING LIST OF U.S. GOODS</field>
 	<field name = "DATELINE">SEOUL, April 27 -</field>
-	<field name = "BODY">South Korea unveiled a shopping list of
+	<field name = "content">South Korea unveiled a shopping list of
 2.6 billion dlrs of U.S. Goods in line with its new policy of
 seeking to limiting its trade surplus to ease trade friction
 with Washington.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 16:16:09.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2503reute
-r f BC-MORRISON-MORR>-SETS   03-30 0055</field>
-	<field name = "TITLE">MORRISON MORR> SETS SHAREHOLDER RIGHTS PLAN</field>
+	<field name = "titulo">MORRISON MORR> SETS SHAREHOLDER RIGHTS PLAN</field>
 	<field name = "DATELINE">MOBILE, Ala., March 30 -</field>
-	<field name = "BODY">Morrison Inc said its board
+	<field name = "content">Morrison Inc said its board
 adopted a shareholder rights plan to deter any possible hostile
 takeover of the company.
     It said details of the plan will be released shortly. A

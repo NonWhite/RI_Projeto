@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:05:50.31RM</field>
-	<field name = "UNKNOWN">f1498reute</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">hungary</field>
-	<field name = "UNKNOWN">r f BC-HUNGARIAN-ECONOMY-CON   03-27 0111</field>
-	<field name = "TITLE">HUNGARIAN ECONOMY CONTINUES UNFAVOURABLE TREND</field>
+	<field name = "titulo">HUNGARIAN ECONOMY CONTINUES UNFAVOURABLE TREND</field>
 	<field name = "DATELINE">BUDAPEST, March 27 -</field>
-	<field name = "BODY">Hungary's economy and hard currency
+	<field name = "content">Hungary's economy and hard currency
 trade have failed so far this year to reverse a two-year
 unfavourable trend, the official Hungarian news agency MTI
 said.

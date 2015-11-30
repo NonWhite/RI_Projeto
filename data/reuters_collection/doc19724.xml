@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:24:27.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1682reute
-r f BC-CORRECTED>---GENERAL   06-29 0035</field>
-	<field name = "TITLE">CORRECTED> - GENERAL INSTRUMENT CORP GRL> DIVI</field>
+	<field name = "titulo">CORRECTED> - GENERAL INSTRUMENT CORP GRL> DIVI</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Qtly div 6.25 cts vs 6.25 cts prior
+	<field name = "content">Qtly div 6.25 cts vs 6.25 cts prior
     Pay Oct 2
     Record Sept 1
     (Corrects amount of qtly div in item that ran on Friday Jan

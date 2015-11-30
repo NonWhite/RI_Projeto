@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 02:29:47.24</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0068reute
-u f BC-AUSTRALIAN-COAL-EXPOR   04-21 0113</field>
-	<field name = "TITLE">AUSTRALIAN COAL EXPORTERS FACE TOUGH JAPAN TALKS</field>
+	<field name = "titulo">AUSTRALIAN COAL EXPORTERS FACE TOUGH JAPAN TALKS</field>
 	<field name = "DATELINE">SYDNEY, April 21 -</field>
-	<field name = "BODY">Australian coal industry sources said
+	<field name = "content">Australian coal industry sources said
 Japanese electricity utilities are demanding price cuts in
 annual coal contract negotiations underway in Tokyo.
     But the sources said they were unable to substantiate

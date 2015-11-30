@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 04:41:19.55</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f1286reute
-r f BC-SWISS-UNEMPLOYMENT-FA   03-16 0086</field>
-	<field name = "TITLE">SWISS UNEMPLOYMENT FALLS TO 0.9 PCT IN FEBRUARY</field>
+	<field name = "titulo">SWISS UNEMPLOYMENT FALLS TO 0.9 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">BERNE, March 16 -</field>
-	<field name = "BODY">Swiss unemployment edged down to 0.9 pct
+	<field name = "content">Swiss unemployment edged down to 0.9 pct
 of the working population from one pct in January and in
 February 1986, the Federal Office of Industry, Trade and Labour
 said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 13:27:45.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0112reute
-d f BC-I.I.S.-INTELLIGENT-I   03-11 0062</field>
-	<field name = "TITLE">I.I.S. INTELLIGENT IISLF> IN TEXTRON TXT> DEAL</field>
+	<field name = "titulo">I.I.S. INTELLIGENT IISLF> IN TEXTRON TXT> DEAL</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">I.I.S. Intelligent Information Systems
+	<field name = "content">I.I.S. Intelligent Information Systems
 Ltd said it has received received and completed delivery on an
 order worth over 700,000 dlrs to supply Textron Inc's Bell
 Helicopter Textron Inc unit with leased International Business

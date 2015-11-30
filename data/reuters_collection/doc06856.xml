@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 16:55:40.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9533reute
-u f BC-GRUMMANGQ>-UNIT-GETS   03-18 0112</field>
-	<field name = "TITLE">GRUMMANGQ> UNIT GETS 303.9 MLN DLR SDI CONTRACT</field>
+	<field name = "titulo">GRUMMANGQ> UNIT GETS 303.9 MLN DLR SDI CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">The Grumman Space Systems division
+	<field name = "content">The Grumman Space Systems division
 of Grumman Corp is being awarded a 303.9 mln dlr Air Force
 contract for work related to the Strategic Defense Initiative
 (SDI), the Defense Department said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 18:42:59.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0720reute
-u f BC-exspetalnick   03-13 0083</field>
-	<field name = "TITLE">FPL GROUP FPL> NUCLEAR REACTOR SHUT DOWN</field>
+	<field name = "titulo">FPL GROUP FPL> NUCLEAR REACTOR SHUT DOWN</field>
 	<field name = "DATELINE">Miami, March 13 -</field>
-	<field name = "BODY">FPL Group Inc shut down a nuclear reactor
+	<field name = "content">FPL Group Inc shut down a nuclear reactor
 at its Turkey Point power plant after engineers discovered a
 tiny leak of radioactive water from the pressure vessel
 surrounding the reactor core, a company spokeswoman said.

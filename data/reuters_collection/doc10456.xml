@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:51:56.49E F</field>
-	<field name = "UNKNOWN">f1105reute</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">r f BC-bell-canada-buys   03-27 0067</field>
-	<field name = "TITLE">BELL CANADA BCE> BUYS SHARES ISSUED BY UNIT</field>
+	<field name = "titulo">BELL CANADA BCE> BUYS SHARES ISSUED BY UNIT</field>
 	<field name = "DATELINE">MONTREAL, March 27 -</field>
-	<field name = "BODY">Bell Canada Enterprises Inc said it
+	<field name = "content">Bell Canada Enterprises Inc said it
 acquired 150 mln dlrs of common shares issued by its wholly
 owned telephone unit, Bell Canada.
     Bell said the transaction is expected to be completed on

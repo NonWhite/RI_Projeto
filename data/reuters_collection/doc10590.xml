@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:47:43.08G</field>
-	<field name = "UNKNOWN">f1908reute</field>
 	<field name = "PLACES">cuba</field>
-	<field name = "UNKNOWN">d f BC-E.-GERMAN-EQUIPPED-TE   03-27 0093</field>
-	<field name = "TITLE">E. GERMAN EQUIPPED TEXTILE MILL OPENED IN CUBA</field>
+	<field name = "titulo">E. GERMAN EQUIPPED TEXTILE MILL OPENED IN CUBA</field>
 	<field name = "DATELINE">HAVANA, March 27 -</field>
-	<field name = "BODY">A textile mill with an annual production
+	<field name = "content">A textile mill with an annual production
 capacity of 52 mln square metres of knitted fabric has been
 opened officially near Havana, Granma, the official Cuban
 newspaper, said.

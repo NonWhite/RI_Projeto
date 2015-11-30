@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">icco</field>
-	<field name = "UNKNOWN">C T
-f2269reute
-u f BC-COCOA-CONSUMERS-NARRO   03-16 0104</field>
-	<field name = "TITLE">COCOA CONSUMERS NARROW GAP ON BUFFER STOCK ISSUE</field>
+	<field name = "titulo">COCOA CONSUMERS NARROW GAP ON BUFFER STOCK ISSUE</field>
 	<field name = "DATELINE">LONDON, March 16 -</field>
-	<field name = "BODY">Representatives of cocoa consuming
+	<field name = "content">Representatives of cocoa consuming
 countries at an International Cocoa Organization, ICCO, council
 meeting here have edged closer to a unified stance on buffer
 stock rules, delegates said.

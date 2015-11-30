@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:05:59.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1582reute
-u f BC-APOLLO-APCI.O>-OFFER   06-29 0056</field>
-	<field name = "TITLE">APOLLO APCI.O> OFFERS NEW WORKSTATIONS</field>
+	<field name = "titulo">APOLLO APCI.O> OFFERS NEW WORKSTATIONS</field>
 	<field name = "DATELINE">BOSTON, June 29 -</field>
-	<field name = "BODY">Apollo Computer Inc said it introduced a
+	<field name = "content">Apollo Computer Inc said it introduced a
 new family of computer workstations and improved the
 performance and cut prices on some of its existing
 workstations.

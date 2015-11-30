@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 10:21:11.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1219reute
-d f BC-SUN-MICRO'S-SUNW.O>   10-19 0100</field>
-	<field name = "TITLE">SUN MICRO'S SUNW.O> TOPS UPGRADES SOFTWARE</field>
+	<field name = "titulo">SUN MICRO'S SUNW.O> TOPS UPGRADES SOFTWARE</field>
 	<field name = "DATELINE">BERKELEY, Calif., Oct 19 -</field>
-	<field name = "BODY">Sun Microsystems Co's TOPS
+	<field name = "content">Sun Microsystems Co's TOPS
 subsidiary said it will have upgraded versions of its NetPrint
 and LAN -- local area network -- software packages available
 early next month.

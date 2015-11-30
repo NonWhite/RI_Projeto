@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">luxembourg</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">Y 
-f2249reute
-u f BC-EC-DOES-NOT-PLAN-STAT   10-19 0112</field>
-	<field name = "TITLE">EC DOES NOT PLAN STATEMENT ON U.S. STRIKE ON IRAN</field>
+	<field name = "titulo">EC DOES NOT PLAN STATEMENT ON U.S. STRIKE ON IRAN</field>
 	<field name = "DATELINE">LUXEMBOURG, Oct 19 -</field>
-	<field name = "BODY">The European Community (EC) will not
+	<field name = "content">The European Community (EC) will not
 issue a joint statement on the U.S. Attack on Iran for now,
 diplomats said.
     They said the latest events in the Gulf were discussed only

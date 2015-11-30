@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 04:11:39.73</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F 
-f0225reute
-u f BC-W.GERMAN-CAR-OUTPUT,   10-20 0093</field>
-	<field name = "TITLE">W.GERMAN CAR OUTPUT, EXPORTS RISES IN SEPTEMBER</field>
+	<field name = "titulo">W.GERMAN CAR OUTPUT, EXPORTS RISES IN SEPTEMBER</field>
 	<field name = "DATELINE">FRANKFURT, Oct 20 -</field>
-	<field name = "BODY">West German car and van production rose
+	<field name = "content">West German car and van production rose
 in September to 407,600 from 386,000 in September 1986, while
 exports climbed to 226,300 from 218,200, the German Automobile
 Industry Association VDA said.

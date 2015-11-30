@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0505reute
-d f BC-MONIER-SAYS-BRITAIN'S   04-08 0092</field>
-	<field name = "TITLE">MONIER SAYS BRITAIN'S REDLAND MAY BID FOR IT</field>
+	<field name = "titulo">MONIER SAYS BRITAIN'S REDLAND MAY BID FOR IT</field>
 	<field name = "DATELINE">SYDNEY, April 8 -</field>
-	<field name = "BODY">Diversified building materials group
+	<field name = "content">Diversified building materials group
 Monier Ltd MNRA.S> said talks are taking place which may lead
 to Britain's Redland Plc RDLD.L> making an offer for the
 Monier shares it does not already hold, chairman Bill Locke

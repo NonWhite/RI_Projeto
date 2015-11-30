@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">portugal</field>
-	<field name = "UNKNOWN">F
-f0511reute
-r f BC-SANWA-BANK-ACQUIRES-S   03-19 0103</field>
-	<field name = "TITLE">SANWA BANK ACQUIRES SMALL STAKE IN PORTUGUESE BANK</field>
+	<field name = "titulo">SANWA BANK ACQUIRES SMALL STAKE IN PORTUGUESE BANK</field>
 	<field name = "DATELINE">TOKYO, March 19 -</field>
-	<field name = "BODY">Sanwa Bank Ltd ANWA.T> has agreed to buy
+	<field name = "content">Sanwa Bank Ltd ANWA.T> has agreed to buy
 a two pct stake in Oporto-based Banco Portugues de Investmento
 Sarl> (BPI), Portugal's largest merchant bank, a Sanwa official
 said.

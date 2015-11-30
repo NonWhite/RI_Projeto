@@ -3,13 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">A
-f0254
-reute
-r f BC-FUNARO-SAYS-BRAZIL-NE   03-02 0100</field>
-	<field name = "TITLE">FUNARO SAYS BRAZIL NEEDS MORE, FASTER FINANCE</field>
+	<field name = "titulo">FUNARO SAYS BRAZIL NEEDS MORE, FASTER FINANCE</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">Brazil would not have suspended
+	<field name = "content">Brazil would not have suspended
 payments on debt owed to foreign banks if it had received more
 and faster financing from official lending agencies, Finance
 Minister Dilson Funaro said.

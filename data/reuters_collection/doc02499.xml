@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 17:23:59.02</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0969reute
-b f BC-CHEMLAWN-CHEM>-REJEC   03-05 0111</field>
-	<field name = "TITLE">CHEMLAWN CHEM> REJECTS WASTE'S WMX> OFFER</field>
+	<field name = "titulo">CHEMLAWN CHEM> REJECTS WASTE'S WMX> OFFER</field>
 	<field name = "DATELINE">COLUMBUS, Ohio, March 5 -</field>
-	<field name = "BODY">ChemLawn Corp said its board
+	<field name = "content">ChemLawn Corp said its board
 rejected Waste Management Inc's 27 dlr-per-share tender offer
 and urged its shareholders not to tender their shares.
     ChemLawn said its board asked management and its financial

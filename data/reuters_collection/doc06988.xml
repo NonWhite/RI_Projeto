@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 05:26:36.40</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">F
-f0298reute
-u f BC-SAUDIS-CONCLUDE-STUDY   03-19 0088</field>
-	<field name = "TITLE">SAUDIS CONCLUDE STUDY ON SUBMARINE PURCHASES</field>
+	<field name = "titulo">SAUDIS CONCLUDE STUDY ON SUBMARINE PURCHASES</field>
 	<field name = "DATELINE">RIYADH, March 19 -</field>
-	<field name = "BODY">Saudi Arabia's Defence and Aviation
+	<field name = "content">Saudi Arabia's Defence and Aviation
 Minister was quoted as saying the kingdom had completed studies
 on the purchase of submarines, and tenders would be invited to
 supply the vessels.

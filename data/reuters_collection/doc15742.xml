@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 12:50:06.54</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1754reute
-u f BC-LONDON-EURODOLLAR-BON   04-09 0100</field>
-	<field name = "TITLE">LONDON EURODOLLAR BONDS CLOSE LOWER</field>
+	<field name = "titulo">LONDON EURODOLLAR BONDS CLOSE LOWER</field>
 	<field name = "AUTHOR">By Norma Cohen, Reuters</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Eurodollar bonds closed as much as a full
+	<field name = "content">Eurodollar bonds closed as much as a full
 point lower as the dollar fell to a post-war low against the
 yen and interest rates on U.S. Treasuries rose almost to eight
 pct.

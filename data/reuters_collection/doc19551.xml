@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 06:44:39.60</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM 
-f0489reute
-b f BC-LAND-SECURITIES-ISSUE   06-29 0114</field>
-	<field name = "TITLE">LAND SECURITIES ISSUES 75 MLN STG CONVERTIBLE BOND</field>
+	<field name = "titulo">LAND SECURITIES ISSUES 75 MLN STG CONVERTIBLE BOND</field>
 	<field name = "DATELINE">LONDON, June 29 -</field>
-	<field name = "BODY">Land Securities Plc LAND.L> is issuing a
+	<field name = "content">Land Securities Plc LAND.L> is issuing a
 75 mln stg convertible eurobond due December 31, 2002 with an
 indicated coupon of 6-3/4 to seven pct and par pricing, lead
 manager J. Henry Schroder Wagg Ltd said.

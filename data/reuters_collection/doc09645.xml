@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 17:55:39.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f2614reute
-u f BC-CATTLEMEN-ASSESSING-D   03-25 0111</field>
-	<field name = "TITLE">CATTLEMEN ASSESSING DEATH LOSS FROM STORM</field>
+	<field name = "titulo">CATTLEMEN ASSESSING DEATH LOSS FROM STORM</field>
 	<field name = "AUTHOR">By Jerry Bieszk, Reuters</field>
 	<field name = "DATELINE">CHICAGO, March 25 -</field>
-	<field name = "BODY">Blizzard conditions in parts of the
+	<field name = "content">Blizzard conditions in parts of the
 west and southwest U.S. severely stressed beef cattle and
 Kansas cattlemen are reporting death losses from the storm,
 according to livestock associations in the area.

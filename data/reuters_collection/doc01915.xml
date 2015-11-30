@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 02:47:50.01</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0328reute
-u f BC-N.-ZEALAND-MARKETS-PR   03-05 0103</field>
-	<field name = "TITLE">N. ZEALAND MARKETS PREPARE FOR TRADING BANK STRIKE</field>
+	<field name = "titulo">N. ZEALAND MARKETS PREPARE FOR TRADING BANK STRIKE</field>
 	<field name = "DATELINE">WELLINGTON, March 5 -</field>
-	<field name = "BODY">New Zealand clearing house DataBank
+	<field name = "content">New Zealand clearing house DataBank
 Systems Ltd> said it will know tomorrow what services it will
 be able to provide during a strike by bank officers against
 trading banks and DataBank set for March 9 and 10.

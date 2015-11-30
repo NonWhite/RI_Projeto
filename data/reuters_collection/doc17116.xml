@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">iraq</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">RM
-f1502reute
-u f BC-IRAQ-SAYS-IT-HIT-TWO   04-24 0097</field>
-	<field name = "TITLE">IRAQ SAYS IT HIT TWO SHIPS IN GULF, DOWNS IRAN F-4</field>
+	<field name = "titulo">IRAQ SAYS IT HIT TWO SHIPS IN GULF, DOWNS IRAN F-4</field>
 	<field name = "DATELINE">BAGHDAD, April 24 -</field>
-	<field name = "BODY">Iraq said its warplanes attacked two
+	<field name = "content">Iraq said its warplanes attacked two
 large naval targets -- Baghdad's usual term for oil tankers or
 merchant ships -- in the Gulf today.
     A military spokesman said the planes scored accurate and

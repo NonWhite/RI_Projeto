@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 03:35:32.39</field>
-	<field name = "UNKNOWN">RM
-f0118reute
-b f BC-CONSGOLD-STERLING-EUR   04-07 0073</field>
-	<field name = "TITLE">CONSGOLD STERLING EUROBOND INCREASED, FIXED</field>
+	<field name = "titulo">CONSGOLD STERLING EUROBOND INCREASED, FIXED</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">The 15-year convertible eurobond for
+	<field name = "content">The 15-year convertible eurobond for
 Consolidated Goldfields has been increased to 110 mln stg from
 the initial 100 mln stg and the final terms fixed, lead manager
 Credit Suisse First Boston Ltd said.

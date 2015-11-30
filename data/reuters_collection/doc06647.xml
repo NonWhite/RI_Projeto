@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 13:14:17.13</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f8804reute
-h f BC-FRANCE-AGREES-AIRBUS   03-18 0093</field>
-	<field name = "TITLE">FRANCE AGREES AIRBUS A340 COMMERCIALLY SOUND</field>
+	<field name = "titulo">FRANCE AGREES AIRBUS A340 COMMERCIALLY SOUND</field>
 	<field name = "DATELINE">PARIS, March 18 -</field>
-	<field name = "BODY">The French government has no reason to
+	<field name = "content">The French government has no reason to
 doubt the European Airbus consortium's assessment that its A340
 long-range jet project has a sound commercial basis, French
 Trade Minister Michel Noir said .

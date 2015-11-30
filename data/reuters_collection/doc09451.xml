@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:20:00.93</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1827reute
-u f BC-EURATOM-ECU-BOND-MARK   03-25 0090</field>
-	<field name = "TITLE">EURATOM ECU BOND MARKS ROME TREATY ANNIVERSARY</field>
+	<field name = "titulo">EURATOM ECU BOND MARKS ROME TREATY ANNIVERSARY</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">Euratom is issuing a 145 mln ECU
+	<field name = "content">Euratom is issuing a 145 mln ECU
 eurobond due April 24, 1997, paying 7-3/8 pct and priced at
 101-1/8 pct, lead manager Banque Paribas Capital Markets said.
     The bond will be available in denominations of 1,000 and

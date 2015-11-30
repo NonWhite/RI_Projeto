@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 13:44:00.83</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2054reute
-d f BC-LINCOLN-FOODSERVICE-   03-31 0053</field>
-	<field name = "TITLE">LINCOLN FOODSERVICE LINN> COMPLETES PURCHASE</field>
+	<field name = "titulo">LINCOLN FOODSERVICE LINN> COMPLETES PURCHASE</field>
 	<field name = "DATELINE">FORT WAYNE, Ind, March 31 -</field>
-	<field name = "BODY">Lincoln Foodservice Products
+	<field name = "content">Lincoln Foodservice Products
 Inc said it completed purchasing certain assets of Redco
 product line of food slicers, cutters and wedgers from the
 Dean/Alco Food Prep division of Alco Foodservice Equipment

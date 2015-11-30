@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 10:32:27.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0287reute
-r f BC-HIGH-COURT-DECLINES-T   03-09 0129</field>
-	<field name = "TITLE">HIGH COURT DECLINES TO HEAR APPEAL ON ATT CASE</field>
+	<field name = "titulo">HIGH COURT DECLINES TO HEAR APPEAL ON ATT CASE</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">The Supreme Court declined to hear an
+	<field name = "content">The Supreme Court declined to hear an
 appeal by U.S. West Inc USW> challenging whether a consent
 decree was legally binding on the seven regional telephone
 firms created by the breakup of American Telephone and

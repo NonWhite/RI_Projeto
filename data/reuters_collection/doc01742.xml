@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 15:20:03.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0569reute
-r f BC-AMERICAN-HONDA-MOTOR   03-04 0109</field>
-	<field name = "TITLE">AMERICAN HONDA MOTOR CO FEBRUARY SALES RISE</field>
+	<field name = "titulo">AMERICAN HONDA MOTOR CO FEBRUARY SALES RISE</field>
 	<field name = "DATELINE">GARDENA, Calif., March 4 -</field>
-	<field name = "BODY">Honda Motor Co Ltd of Japan's
+	<field name = "content">Honda Motor Co Ltd of Japan's
 American Honda Motor Co Inc unit said its February sales rose
 to 56,704 from 48,443 a year ago.
     The sales figures include sales of 7,056 cars from its new

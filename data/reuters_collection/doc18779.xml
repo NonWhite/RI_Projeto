@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:05:29.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3696reute
-b f BC-GM-GM>-UNITS-EXTEND   06-18 0083</field>
-	<field name = "TITLE">GM GM> UNITS EXTEND INCENTIVES</field>
+	<field name = "titulo">GM GM> UNITS EXTEND INCENTIVES</field>
 	<field name = "DATELINE">DETROIT, June 18 -</field>
-	<field name = "BODY">General Motors Corp's Chevrolet and
+	<field name = "content">General Motors Corp's Chevrolet and
 Oldsmobile divisions said they are extending cash rebates and
 discount financing on several car and truck lines through the
 summer.

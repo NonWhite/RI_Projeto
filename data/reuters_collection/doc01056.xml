@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">G
-f0559reute
-u f BC-SMALL-QUANTITY-OF-U.K   03-03 0057</field>
-	<field name = "TITLE">SMALL QUANTITY OF UK WHEAT SOLD TO HOME MARKET</field>
+	<field name = "titulo">SMALL QUANTITY OF UK WHEAT SOLD TO HOME MARKET</field>
 	<field name = "DATELINE">LONDON, March 3 -</field>
-	<field name = "BODY">A total of 2,435 tonnes of British
+	<field name = "content">A total of 2,435 tonnes of British
 intervention feed wheat were sold at today's tender for the
 home market out of requests for 3,435 tonnes, the Home Grown
 Cereals Authority, HGCA, said.

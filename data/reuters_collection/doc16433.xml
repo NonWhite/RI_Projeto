@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 12:24:27.23</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM A
-f1700reute
-r f BC-IRVING-BANK-V>-1ST-Q   04-13 0098</field>
-	<field name = "TITLE">IRVING BANK V> 1ST-QTR NET HURT BY BRAZIL</field>
+	<field name = "titulo">IRVING BANK V> 1ST-QTR NET HURT BY BRAZIL</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Irving Bank Corp said a six pct drop
+	<field name = "content">Irving Bank Corp said a six pct drop
 in first-quarter net income from a year earlier was largely the
 result of placing medium- and long-term loans to borrowers in
 Brazil and Ecuador on non-accrual status.

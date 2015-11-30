@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:29:31.78V</field>
-	<field name = "UNKNOWN">f0526reute</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">b f BC-BANK-OF-JAPAN-INTERVE   03-27 0105</field>
-	<field name = "TITLE">BANK OF JAPAN INTERVENES TO STEM DOLLAR FALL</field>
+	<field name = "titulo">BANK OF JAPAN INTERVENES TO STEM DOLLAR FALL</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">The Bank of Japan intervened in the
+	<field name = "content">The Bank of Japan intervened in the
 market to keep the dollar above 149 yen but the unit was under
 strong selling pressure by an investment trust, dealers said.
     The central bank stepped into the market when the dollar

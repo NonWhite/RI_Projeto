@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:12:05.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1889reute
-r f BC-ADVANCED-MICRO-AMD>   04-08 0091</field>
-	<field name = "TITLE">ADVANCED MICRO AMD> UNVEILS COMPUTER CHIPS</field>
+	<field name = "titulo">ADVANCED MICRO AMD> UNVEILS COMPUTER CHIPS</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Advanced Micro Devices Inc said it is
+	<field name = "content">Advanced Micro Devices Inc said it is
 developing a set of five computer chips for use in digital
 communications systems.
     The company said the new chips support the integrated

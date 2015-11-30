@@ -8,12 +8,9 @@
 	<field name = "PLACES">iceland</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">C G
-f4753reute
-u f BC-SOUTH-AMERICAN-FISH-M   03-17 0107</field>
-	<field name = "TITLE">SOUTH AMERICAN FISH MEAL PRODUCTION AT RECORD HIGH</field>
+	<field name = "titulo">SOUTH AMERICAN FISH MEAL PRODUCTION AT RECORD HIGH</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">Production of fish meal by the three
+	<field name = "content">Production of fish meal by the three
 South American producers -- Chile, Peru and Equador -- last
 year reached 2.5 mln tonnes, equalling the record output of
 1970, the International Association of Fish Meal Manufacturers

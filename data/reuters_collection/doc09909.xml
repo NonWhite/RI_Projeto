@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">balladur</field>
 	<field name = "EXCHANGES">pse</field>
-	<field name = "UNKNOWN">F
-f1279reute
-h f BC-FRENCH-STOCK-BILL-TO   03-26 0109</field>
-	<field name = "TITLE">FRENCH STOCK BILL TO BE PRESENTED BEFORE JUNE</field>
+	<field name = "titulo">FRENCH STOCK BILL TO BE PRESENTED BEFORE JUNE</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">The French government will present to
+	<field name = "content">The French government will present to
 parliament a major bill within two months to overhaul the Paris
 stock market, economics and finance minister Edouard Balladur
 said.

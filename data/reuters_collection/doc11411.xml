@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 11:32:27.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1552reute
-r f BC-I.R.E.-IF>-FILES-SUI   03-31 0073</field>
-	<field name = "TITLE">I.R.E. IF> FILES SUIT OVER SHARES</field>
+	<field name = "titulo">I.R.E. IF> FILES SUIT OVER SHARES</field>
 	<field name = "DATELINE">CORAL GABLES, Fla., March 31 -</field>
-	<field name = "BODY">I.R.E. Financial Corp said
+	<field name = "content">I.R.E. Financial Corp said
 it has filed suit against CenTrust Savings Bank CTSTP> seeking
 to compel CenTrust to sell I.R.E. the 289,700 shares of
 Atlantic Federal Savings and Loan Association ASAL> that are

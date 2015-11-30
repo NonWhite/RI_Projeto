@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 16:51:52.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2411reute
-d f BC-PHILADELPHIA-ELECTRIC   06-19 0056</field>
-	<field name = "TITLE">PHILADELPHIA ELECTRIC CO PE> SELLS SHARES</field>
+	<field name = "titulo">PHILADELPHIA ELECTRIC CO PE> SELLS SHARES</field>
 	<field name = "DATELINE">PHILADELPHIA, June 19 -</field>
-	<field name = "BODY">Philadelphia Electric Co said it
+	<field name = "content">Philadelphia Electric Co said it
 completed the sale of 1,500,000 shares of common stock by a
 continuous offering plan through Drexel Burnham Lambert Inc.
     The company said proceeds from the sale, which amount to

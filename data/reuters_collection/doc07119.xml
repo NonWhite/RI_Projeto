@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 10:24:38.87</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1028reute
-b f BC-/PILLSBURY-CO-PSY>-3   03-19 0058</field>
-	<field name = "TITLE">PILLSBURY CO PSY> 3RD QTR FEB 28 NET</field>
+	<field name = "titulo">PILLSBURY CO PSY> 3RD QTR FEB 28 NET</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 19 -</field>
-	<field name = "BODY">Shr 56 cts vs 63 cts
+	<field name = "content">Shr 56 cts vs 63 cts
     Net 48,500,000 vs 55,400,000
     Sales 1.53 billion vs 1.46 billion
     Avg shrs 86.6 mln vs 87.3 mln

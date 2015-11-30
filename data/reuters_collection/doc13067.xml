@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 14:17:19.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1946reute
-r f BC-DRUG-COMPANIES-GET-OU   04-03 0094</field>
-	<field name = "TITLE">DRUG COMPANIES GET OUT OF COSMETICS BUSINESSES</field>
+	<field name = "titulo">DRUG COMPANIES GET OUT OF COSMETICS BUSINESSES</field>
 	<field name = "AUTHOR">By Patti Domm, Reuters</field>
 	<field name = "DATELINE">New York, April 3 -</field>
-	<field name = "BODY">Several pharmaceutical companies, drawn
+	<field name = "content">Several pharmaceutical companies, drawn
 in the 1970s to the fast growing cosmetics industry, are no
 longer finding it fashionable to sell makeup.
     "The fad right now is to purify and concentrate on the most

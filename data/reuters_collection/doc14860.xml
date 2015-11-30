@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 05:06:23.11</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
-	<field name = "UNKNOWN">RM
-f0297reute
-b f BC-U.K.-MONEY-MARKET-DEF   04-08 0101</field>
-	<field name = "TITLE">U.K. MONEY MARKET DEFICIT FORECAST AT 250 MLN STG</field>
+	<field name = "titulo">U.K. MONEY MARKET DEFICIT FORECAST AT 250 MLN STG</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">The Bank of England said it forecast a
+	<field name = "content">The Bank of England said it forecast a
 shortage of around 250 mln stg in the money market today.
     Among the main factors affecting liquidity, bills maturing
 in official hands and the take-up of treasury bills will drain

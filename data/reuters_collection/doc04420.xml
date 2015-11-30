@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 14:22:16.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0077reute
-r f BC-E-SYSTEMS-ESY>-CHAIR   03-12 0069</field>
-	<field name = "TITLE">E-SYSTEMS ESY> CHAIRMAN TO RETIRE</field>
+	<field name = "titulo">E-SYSTEMS ESY> CHAIRMAN TO RETIRE</field>
 	<field name = "DATELINE">DALLAS, March 12 -</field>
-	<field name = "BODY">E-Systems Inc said John W. Dixon will
+	<field name = "content">E-Systems Inc said John W. Dixon will
 retire April 21 as chairman and chief executive officer but
 remain on the board as chairman emeritus.
     The company said president and chief operating officer

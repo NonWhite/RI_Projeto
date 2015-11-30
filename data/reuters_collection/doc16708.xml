@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 17:16:00.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2684reute
-d f BC-MEDI-RX-MDRX.O>-NAME   04-13 0102</field>
-	<field name = "TITLE">MEDI-RX MDRX.O> NAMED IN ARBRITRATION REQUEST</field>
+	<field name = "titulo">MEDI-RX MDRX.O> NAMED IN ARBRITRATION REQUEST</field>
 	<field name = "DATELINE">JENKINTOWN, Pa., April 13 -</field>
-	<field name = "BODY">Forber and Platel Inc> said it
+	<field name = "content">Forber and Platel Inc> said it
 filed a demand for arbitration against Medi-Rx America Inc that
 seeks damages of more than five mln dlrs.
     The company said that its demand alleges breach of

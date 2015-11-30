@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 06:15:33.28</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0412reute
-u f BC-IAE-CALLS-OFF-SUPERFA   04-08 0104</field>
-	<field name = "TITLE">IAE CALLS OFF SUPERFAN ENGINE PROJECT</field>
+	<field name = "titulo">IAE CALLS OFF SUPERFAN ENGINE PROJECT</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">The five-nation International Aero
+	<field name = "content">The five-nation International Aero
 Engine> (IAE) consortium has decided not to go ahead with the
 proposed launch of its Superfan engine, a spokesman for
 consortium member Rolls-Royce Plc> said.

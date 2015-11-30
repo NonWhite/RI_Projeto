@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 10:50:49.86</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0387reute
-d f BC-BALTEK-CORP-BTEK>-4T   03-11 0067</field>
-	<field name = "TITLE">BALTEK CORP BTEK> 4TH QTR NET</field>
+	<field name = "titulo">BALTEK CORP BTEK> 4TH QTR NET</field>
 	<field name = "DATELINE">NORTHVALE, N.J., March 11 -</field>
-	<field name = "BODY">Oper shr 21 cts vs 34 cts
+	<field name = "content">Oper shr 21 cts vs 34 cts
     Oper net 480,000 vs 765,000
     Revs 6,386,000 vs 5,862,000
     Year

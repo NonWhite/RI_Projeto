@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 08:27:09.46</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0714reute
-d f BC-U.K.-GOVT-TO-INJECT-2   04-08 0109</field>
-	<field name = "TITLE">U.K. GOVT TO INJECT 283 MLN STG INTO ROLLS ROYCE</field>
+	<field name = "titulo">U.K. GOVT TO INJECT 283 MLN STG INTO ROLLS ROYCE</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">The U.K. Government will inject 283 mln
+	<field name = "content">The U.K. Government will inject 283 mln
 stg gross into Rolls Royce Plc> when the company is floated at
 the end of this month, the pathfinder prospectus for the sale
 said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F E Y
-f2968reute
-r f BC-MORGAN-STANLEY-GROUP   04-28 0094</field>
-	<field name = "TITLE">MORGAN STANLEY GROUP MS> UNIT IN GAS DEAL</field>
+	<field name = "titulo">MORGAN STANLEY GROUP MS> UNIT IN GAS DEAL</field>
 	<field name = "DATELINE">HOUSTON, April 28 -</field>
-	<field name = "BODY">Morgan Stanley Group Inc unit Natural
+	<field name = "content">Morgan Stanley Group Inc unit Natural
 Gas Clearinghouse Inc said it has reached agreement with
 (Pan-Alberta Gas Ltd) of Canada to import substantial
 quantities of natural gas for its U.S. customers.

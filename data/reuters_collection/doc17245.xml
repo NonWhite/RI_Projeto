@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 04:52:43.21</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0279reute
-u f BC-SIGN-OF-SLOWING-IN-GE   04-27 0113</field>
-	<field name = "TITLE">SIGN OF SLOWING IN GERMAN MONEY GROWTH -BUNDESBANK</field>
+	<field name = "titulo">SIGN OF SLOWING IN GERMAN MONEY GROWTH -BUNDESBANK</field>
 	<field name = "DATELINE">FRANKFURT, April 27 -</field>
-	<field name = "BODY">Central bank money stock was growing
+	<field name = "content">Central bank money stock was growing
 at about seven pct in the first quarter of 1987, down from
 9-1/2 pct in the second half of 1986, so there are signs that
 the pace of growth is slowing even though it is still above

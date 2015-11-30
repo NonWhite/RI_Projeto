@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 13:00:06.84</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f1842reute
-u f BC-API-SAID-STATISTICS-T   04-21 0036</field>
-	<field name = "TITLE">API SAID STATISTICS TO BE RELEASED TONIGHT</field>
+	<field name = "titulo">API SAID STATISTICS TO BE RELEASED TONIGHT</field>
 	<field name = "DATELINE">NEW YORK, April 21 -</field>
-	<field name = "BODY">The American Petroleum Institute said
+	<field name = "content">The American Petroleum Institute said
 it plans to release its weekly report on U.S. oil inventories
 tonight, even though last Friday was a holiday.
  Reuter</field>

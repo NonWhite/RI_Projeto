@@ -3,12 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">l-cattle</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">L 
-f2909reute
-d f BC-WEST-VIRGINIA-FREE-OF   10-20 0139</field>
-	<field name = "TITLE">WEST VIRGINIA FREE OF TWO MAJOR CATTLE DISEASES</field>
+	<field name = "titulo">WEST VIRGINIA FREE OF TWO MAJOR CATTLE DISEASES</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">West Virginia has been declared free
+	<field name = "content">West Virginia has been declared free
 of tuberculosis and brucellosis from its cattle population, the
 U.S. Agriculture Department said.
     It said a state is recognized as tuberculosis-free if no

@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 13:28:41.89</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0114reute
-u f BC-U.K.-BANKS-OFFER-FIXE   03-11 0108</field>
-	<field name = "TITLE">U.K. BANKS OFFER FIXED-RATE MORTGAGES AT 10.2 PCT</field>
+	<field name = "titulo">U.K. BANKS OFFER FIXED-RATE MORTGAGES AT 10.2 PCT</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Two major U.K. Clearing banks announced
+	<field name = "content">Two major U.K. Clearing banks announced
 they will offer a total of 800 mln stg in new mortgages at a
 fixed interest rate of 10.2 pct for the first three years,
 below current bank base lending rates of 10.5 pct.

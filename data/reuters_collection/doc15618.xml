@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:07:33.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1259reute
-u f BC-DAYTON-HUDSON-DH>-MA   04-09 0070</field>
-	<field name = "TITLE">DAYTON HUDSON DH> MARCH SALES OFF 4.9 PCT</field>
+	<field name = "titulo">DAYTON HUDSON DH> MARCH SALES OFF 4.9 PCT</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 9 -</field>
-	<field name = "BODY">Dayton Hudson Corp said retail sales
+	<field name = "content">Dayton Hudson Corp said retail sales
 for the five weeks ended April Four were 791.8 mln dlrs
 compared to 755.6 mln dlrs a year ago. On a comparable store
 basis, it said sales declined 4.9 pct.

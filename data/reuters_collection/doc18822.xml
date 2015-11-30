@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:53:30.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3920reute
-u f BC-SALOMON-INC-SB>-SAW   06-18 0084</field>
-	<field name = "TITLE">SALOMON INC SB> SAW REDUCTION IN REVENUES</field>
+	<field name = "titulo">SALOMON INC SB> SAW REDUCTION IN REVENUES</field>
 	<field name = "DATELINE">New York, June 18 -</field>
-	<field name = "BODY">Salomon Inc had a reduction in trading
+	<field name = "content">Salomon Inc had a reduction in trading
 revenue in April and May, managing director Robert Salomon said
 in response to questions.
     Analysts have said they believe the lower second quarter

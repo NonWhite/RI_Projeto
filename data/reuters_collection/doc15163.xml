@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:14:07.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1901reute
-r f BC-SYNERGEN-SYGN>-FILES   04-08 0058</field>
-	<field name = "TITLE">SYNERGEN SYGN> FILES TO OFFER SHARES</field>
+	<field name = "titulo">SYNERGEN SYGN> FILES TO OFFER SHARES</field>
 	<field name = "DATELINE">BOULDER, Colo., April 8 -</field>
-	<field name = "BODY">Synergen Inc said it has filed
+	<field name = "content">Synergen Inc said it has filed
 for an offering of 1,500,000 common shares through underwriters
 led by Alex. Brown Inc ABSB>, Hambrecht and Quist Inc and
 Boettcher and Co Inc.

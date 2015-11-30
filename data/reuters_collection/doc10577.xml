@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:18:58.31F</field>
-	<field name = "UNKNOWN">f1824reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-MILLIPORE-MILI>-TO-P   03-27 0106</field>
-	<field name = "TITLE">MILLIPORE MILI> TO PAY CIVIL PENALTY</field>
+	<field name = "titulo">MILLIPORE MILI> TO PAY CIVIL PENALTY</field>
 	<field name = "DATELINE">BOSTON, March 27 -</field>
-	<field name = "BODY">Millipore Corp said it agreed to pay a
+	<field name = "content">Millipore Corp said it agreed to pay a
 192,500 dlrs penalty to the U.S. Environmental Protection
 Agency and the State of New Hampshire for discharging
 pollutants from 1972 and 1985 from its Jaffrey, N.H. plant to

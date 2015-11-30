@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 12:16:40.10</field>
 	<field name = "PLACES">hungary</field>
-	<field name = "UNKNOWN">RM
-f0654reute
-u f BC-BUDAPEST-BANK-ISSUES   03-12 0112</field>
-	<field name = "TITLE">BUDAPEST BANK ISSUES BONDS TO EXPAND RESOURCES</field>
+	<field name = "titulo">BUDAPEST BANK ISSUES BONDS TO EXPAND RESOURCES</field>
 	<field name = "DATELINE">BUDAPEST, March 12 -</field>
-	<field name = "BODY">Budapest Bank Rt has become the first
+	<field name = "content">Budapest Bank Rt has become the first
 of the commercial banks operating since January to issue bonds
 to expand its resources, the official Hungarian news agency MTI
 said.

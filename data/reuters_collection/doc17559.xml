@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:47:12.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1217reute
-r f BC-AMERICAN-HEALTHCARE-A   06-01 0107</field>
-	<field name = "TITLE">AMERICAN HEALTHCARE AND 3M MMM> SIGN ACCORD</field>
+	<field name = "titulo">AMERICAN HEALTHCARE AND 3M MMM> SIGN ACCORD</field>
 	<field name = "DATELINE">ST. PAUL, MINN., June 1 -</field>
-	<field name = "BODY">Minnesota Mining and
+	<field name = "content">Minnesota Mining and
 Manufacturing Co said it signed a five year agreement to become
 a preferred supplier to San Diego, California-based (American
 Healthcare System).

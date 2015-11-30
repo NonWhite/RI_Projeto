@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f2725reute
-r f BC-JAPAN'S-CHIP-MAKERS-A   03-28 0092</field>
-	<field name = "TITLE">JAPAN'S CHIP MAKERS ANGERED BY U.S. SANCTION PLANS</field>
+	<field name = "titulo">JAPAN'S CHIP MAKERS ANGERED BY U.S. SANCTION PLANS</field>
 	<field name = "DATELINE">TOKYO, March 28 -</field>
-	<field name = "BODY">Japanese computer chip makers reacted
+	<field name = "content">Japanese computer chip makers reacted
 angrily to news the United States plans to take retaliatory
 action against them for allegedly failing to live up to an
 agreement on trade in computer microchips.

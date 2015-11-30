@@ -3,13 +3,9 @@
 	<field name = "PLACES">uae</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">bahrain</field>
-	<field name = "UNKNOWN">RM F
-f0898
-reute
-u f BC-CHEMICAL-NEW-YORK-CH   03-02 0103</field>
-	<field name = "TITLE">CHEMICAL NEW YORK CHL> TO CLOSE DUBAI OFFICE</field>
+	<field name = "titulo">CHEMICAL NEW YORK CHL> TO CLOSE DUBAI OFFICE</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Chemical Bank, the main subsidiary of
+	<field name = "content">Chemical Bank, the main subsidiary of
 Chemical New York Corp, is closing its representative office in
 Dubai, United Arab Emirates, a spokeswoman said in response to
 an enquiry.

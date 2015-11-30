@@ -3,12 +3,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">RM 
-f0705reute
-u f BC-INDIAN-RESERVE-BANK-T   10-19 0088</field>
-	<field name = "TITLE">INDIAN RESERVE BANK TIGHTENS CREDIT POLICY</field>
+	<field name = "titulo">INDIAN RESERVE BANK TIGHTENS CREDIT POLICY</field>
 	<field name = "DATELINE">BOMBAY, Oct 19 -</field>
-	<field name = "BODY">The Reserve Bank of India said it was
+	<field name = "content">The Reserve Bank of India said it was
 tightening its credit policy for commercial banks by raising
 their cash reserve ratio by 0.5 pct to 10 pct, effective from
 October 24.

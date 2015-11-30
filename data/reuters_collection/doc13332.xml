@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 02:24:05.15</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0062reute
-b f BC-SWISS-CONSUMER-PRICES   04-07 0066</field>
-	<field name = "TITLE">SWISS CONSUMER PRICES RISE ONE PCT IN MARCH</field>
+	<field name = "titulo">SWISS CONSUMER PRICES RISE ONE PCT IN MARCH</field>
 	<field name = "DATELINE">BERNE, April 7 -</field>
-	<field name = "BODY">Swiss consumer prices rose one pct in the
+	<field name = "content">Swiss consumer prices rose one pct in the
 year to March, the same rise as in the year to February, and
 against 0.9 pct in the year to March 1986, the Federal
 Statistics Office said.

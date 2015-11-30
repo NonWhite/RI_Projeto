@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 10:24:48.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1208reute
-h f BC-MICRO-MEMBRANES-MEMB   03-30 0059</field>
-	<field name = "TITLE">MICRO-MEMBRANES MEMB> LAUNCHES SECOND PRODUCT</field>
+	<field name = "titulo">MICRO-MEMBRANES MEMB> LAUNCHES SECOND PRODUCT</field>
 	<field name = "DATELINE">NEWARK, N.J., March 30 -</field>
-	<field name = "BODY">Micro-Membranes Inc said it
+	<field name = "content">Micro-Membranes Inc said it
 started marketing its second product, Co-Bind Plates, which are
 used as part of diagnostic kits for sexually transmitted
 diseases, drugs, and in immunological testing.

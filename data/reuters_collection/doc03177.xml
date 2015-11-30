@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 11:59:01.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0709reute
-r f BC-MTECH-MTCH>-FILES-CO   03-09 0090</field>
-	<field name = "TITLE">MTECH MTCH> FILES CONVERTIBLE DEBT OFFERING</field>
+	<field name = "titulo">MTECH MTCH> FILES CONVERTIBLE DEBT OFFERING</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">MTech Corp said it filed with the
+	<field name = "content">MTech Corp said it filed with the
 Securities and Exchange Commission a registration statement
 covering a 75 mln dlr issue of convertible subordinated
 debentures due 2012.

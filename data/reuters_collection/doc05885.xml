@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 08:37:36.30</field>
 	<field name = "TOPICS">housing</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f4750reute
-b f BC-/U.S.-HOUSING-STARTS   03-17 0086</field>
-	<field name = "TITLE">U.S. HOUSING STARTS ROSE 2.6 PCT IN FEBRUARY</field>
+	<field name = "titulo">U.S. HOUSING STARTS ROSE 2.6 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">U.S. housing starts rose 2.6 pct in
+	<field name = "content">U.S. housing starts rose 2.6 pct in
 February to a seasonally adjusted annual rate of 1,851,000
 units, the Commerce Department said.
     In January, housing starts fell a revised 0.5 pct to

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 13:01:34.32</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1761reute
-s f BC-DILLARD-DEPT-STORES-I   03-20 0026</field>
-	<field name = "TITLE">DILLARD DEPT STORES INC DDS> DECLARES QTLY DIV</field>
+	<field name = "titulo">DILLARD DEPT STORES INC DDS> DECLARES QTLY DIV</field>
 	<field name = "DATELINE">LITTLE ROCK, Ark., March 20 -</field>
-	<field name = "BODY">Qtly div three cts vs three cts prior
+	<field name = "content">Qtly div three cts vs three cts prior
     Pay May 1
     Record March 31
  Reuter</field>

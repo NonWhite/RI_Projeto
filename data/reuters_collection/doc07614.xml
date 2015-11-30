@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 08:24:44.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0637reute
-r f BC-PACIFICORP-PPW>-SELL   03-20 0086</field>
-	<field name = "TITLE">PACIFICORP PPW> SELLS SERIAL PREFERRED STOCK</field>
+	<field name = "titulo">PACIFICORP PPW> SELLS SERIAL PREFERRED STOCK</field>
 	<field name = "DATELINE">PORTLAND, Ore., March 20 -</field>
-	<field name = "BODY">PacifiCorp said an offering of
+	<field name = "content">PacifiCorp said an offering of
 50 mln dlrs of 7.12 pct serial preferred stock is underway at
 100 dlrs per share through underwriters led by Salomon Inc
 SB>, Merrill Lynch and Co Inc MER>, L.F. Rothschild,

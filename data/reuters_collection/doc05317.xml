@@ -2,13 +2,10 @@
 	<field name = "DATE">16-MAR-1987 09:15:43.81</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">A
-f1944reute
-h f BC-ECONOMIC-SPOTLIGHT--   03-16 0103</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT -FRANCE AWAITS ECONOMIC LIFT</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT -FRANCE AWAITS ECONOMIC LIFT</field>
 	<field name = "AUTHOR">By Brian Childs, Reuters</field>
 	<field name = "DATELINE">PARIS, March 16 -</field>
-	<field name = "BODY">A year after squeezing to power with a
+	<field name = "content">A year after squeezing to power with a
 narrow bare coalition majority, Gaullist Prime minister Jacques
 Chirac has swept away a cobweb of controls and regulations
 choking the French economy.

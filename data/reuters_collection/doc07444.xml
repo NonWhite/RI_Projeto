@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 16:50:33.83</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">F
-f2511reute
-d f BC-SEC-OFFICIAL-PROPOSES   03-19 0091</field>
-	<field name = "TITLE">SEC OFFICIAL PROPOSES EQUITY, FUTURES TRADE HALT</field>
+	<field name = "titulo">SEC OFFICIAL PROPOSES EQUITY, FUTURES TRADE HALT</field>
 	<field name = "DATELINE">BOCA RATON, Fla, March 19 -</field>
-	<field name = "BODY">Securities and commodity
+	<field name = "content">Securities and commodity
 exchanges should consider establishing a mechanism for halting
 trading of equities, futures and options when there is unusual
 price volatility, a top Securities and exchange, SEC, official

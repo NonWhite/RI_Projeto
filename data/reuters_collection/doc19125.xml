@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 09:10:47.59</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f0750reute
-r f AM-POSTAL   06-19 0124</field>
-	<field name = "TITLE">CANADA POSTAL UNION PREPARED TO REJECT NEW OFFER</field>
+	<field name = "titulo">CANADA POSTAL UNION PREPARED TO REJECT NEW OFFER</field>
 	<field name = "DATELINE">MONTREAL, June 19 -</field>
-	<field name = "BODY">Canada Post presented its striking
+	<field name = "content">Canada Post presented its striking
 letter carriers with a new contract offer today but both sides
 said there was little indication the offer would end an
 increasingly violent three-day-old walkout.

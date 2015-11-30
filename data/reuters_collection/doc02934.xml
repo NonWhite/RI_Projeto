@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 18:22:45.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0795reute
-r f BC-ATLANTIC-CITY-ELECTRI   03-06 0110</field>
-	<field name = "TITLE">ATLANTIC CITY ELECTRIC ATE> DEBT LOWERED BY S/P</field>
+	<field name = "titulo">ATLANTIC CITY ELECTRIC ATE> DEBT LOWERED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it cut
+	<field name = "content">Standard and Poor's Corp said it cut
 the ratings of Atlantic City Electric Co.  About 500 mln dlrs
 of long-term debt and 66 mln dlrs of preferred is outstanding.
     S/P said prior ratings reflected anticipation of a

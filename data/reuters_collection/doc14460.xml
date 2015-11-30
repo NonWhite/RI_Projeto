@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:18:30.41</field>
-	<field name = "UNKNOWN">C
-f2201reute
-u f BC-lumber-clsg-report   04-07 0119</field>
-	<field name = "TITLE">LUMBER FUTURES TRIM LOSSES AT CLOSE</field>
+	<field name = "titulo">LUMBER FUTURES TRIM LOSSES AT CLOSE</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Lumber futures recovered from lows to
+	<field name = "content">Lumber futures recovered from lows to
 close 3.10 to 0.10 dlrs per tbf lower. May paced the setback
 and ended at 187.70 dlrs.
     Futures moved lower all morning on long liquidation. Stop

@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 12:13:58.91</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0880reute
-d f BC-SOUTHERN-MINERAL-CORP   03-05 0083</field>
-	<field name = "TITLE">SOUTHERN MINERAL CORP SMIN> 4TH QTR LOSS</field>
+	<field name = "titulo">SOUTHERN MINERAL CORP SMIN> 4TH QTR LOSS</field>
 	<field name = "DATELINE">CHICAGO, March 5 -</field>
-	<field name = "BODY">Shr loss two cts vs profit three cts
+	<field name = "content">Shr loss two cts vs profit three cts
     Net loss 77,400 vs profit 134,000
     Revs 418,500 vs 435,900
     Year

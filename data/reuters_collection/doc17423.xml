@@ -3,12 +3,9 @@
 	<field name = "TOPICS">carcass</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C L
-f2546reute
-u f BC-NY-MEAT-CUTTERS-UNION   04-29 0125</field>
-	<field name = "TITLE">NY MEAT CUTTERS UNION REJECTS LATEST OFFER</field>
+	<field name = "titulo">NY MEAT CUTTERS UNION REJECTS LATEST OFFER</field>
 	<field name = "DATELINE">CHICAGO, April 29 -</field>
-	<field name = "BODY">Members of local 174 of the United Food
+	<field name = "content">Members of local 174 of the United Food
 and Commercial Workers (UFCW) union, representing 1,900 meat
 cutters in New York city, yesterday rejected the latest
 management offer on a new contract.

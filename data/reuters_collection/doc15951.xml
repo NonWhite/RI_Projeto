@@ -7,12 +7,9 @@
 	<field name = "TOPICS">oat</field>
 	<field name = "TOPICS">sorghum</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2503reute
-u f BC-average-prices   04-09 0094</field>
-	<field name = "TITLE">NATIONAL AVERAGE PRICES FOR FARMER-OWNED RESERVE</field>
+	<field name = "titulo">NATIONAL AVERAGE PRICES FOR FARMER-OWNED RESERVE</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 reported the farmer-owned reserve national five-day average
 price through April 8 as follows (Dlrs/Bu-Sorghum Cwt) -
          Natl   Loan           Release   Call

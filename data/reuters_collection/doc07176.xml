@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 11:21:27.50</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1291reute
-u f BC-U.K.-REVISES-RETAIL-P   03-19 0118</field>
-	<field name = "TITLE">U.K. REVISES RETAIL PRICE INDEX FROM FEBRUARY</field>
+	<field name = "titulo">U.K. REVISES RETAIL PRICE INDEX FROM FEBRUARY</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">The U.K. Government tomorrow will
+	<field name = "content">The U.K. Government tomorrow will
 release the first of its Retail Price Index (RPI) figures
 calculated on a revised group of components and rebased on
 January 1987, as previously announced, the Employment

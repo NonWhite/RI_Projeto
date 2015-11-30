@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-APR-1987 18:34:33.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3040reute
-u f BC-SEC   04-23 0098</field>
-	<field name = "TITLE">SEC WARNS SECURITIES DEALERS ON HIGH MARK-UPS</field>
+	<field name = "titulo">SEC WARNS SECURITIES DEALERS ON HIGH MARK-UPS</field>
 	<field name = "DATELINE">WASHINGTON, April 23 -</field>
-	<field name = "BODY">The Securities and Exchange
+	<field name = "content">The Securities and Exchange
 Commission reminded securities dealers that its mark-up
 disclosure requirements also applies to transactions on
 zero-coupon securities.

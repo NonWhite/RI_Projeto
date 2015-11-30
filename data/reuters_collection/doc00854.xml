@@ -7,13 +7,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C G
-f0313
-reute
-d f BC-CBT-FEBRUARY-VOLUME-D   03-02 0137</field>
-	<field name = "TITLE">CBT FEBRUARY VOLUME DOWN 14 PCT FROM YEAR AGO</field>
+	<field name = "titulo">CBT FEBRUARY VOLUME DOWN 14 PCT FROM YEAR AGO</field>
 	<field name = "DATELINE">CHICAGO, March 2 -</field>
-	<field name = "BODY">February volume at the Chicago Board of
+	<field name = "content">February volume at the Chicago Board of
 Trade, CBT, declined 14 pct from the year-ago month to
 8,191,266 contracts, the exchange said.
     A relatively steady interest rate climate reduced volume in

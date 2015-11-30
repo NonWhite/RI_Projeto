@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 09:45:03.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0226reute
-r f AM-THIOKOL   04-17 0122</field>
-	<field name = "TITLE">MORTON-THIOKOL EMPLOYEES ALLEGE FRAUD, TV SAYS</field>
+	<field name = "titulo">MORTON-THIOKOL EMPLOYEES ALLEGE FRAUD, TV SAYS</field>
 	<field name = "DATELINE">WASHINGTON, April 17 -</field>
-	<field name = "BODY">Employees of Morton Thiokol Inc
+	<field name = "content">Employees of Morton Thiokol Inc
 MTI.N> have gone to the FBI with allegations of fraud by the
 firm in the manufacture of booster rockets blamed for the 1986
 Challenger explosion, ABC News reported.

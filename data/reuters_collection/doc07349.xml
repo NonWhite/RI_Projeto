@@ -3,12 +3,9 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
 	<field name = "PLACES">bahrain</field>
-	<field name = "UNKNOWN">Y
-f2114reute
-r f AM-GULF-SAUDI   03-19 0102</field>
-	<field name = "TITLE">PROGRESS TOWARD IRAQ-IRAN PEACE SEEN</field>
+	<field name = "titulo">PROGRESS TOWARD IRAQ-IRAN PEACE SEEN</field>
 	<field name = "DATELINE">BAHRAIN, March 19 -</field>
-	<field name = "BODY">Saudi Arabia's Crown Prince Abdullah
+	<field name = "content">Saudi Arabia's Crown Prince Abdullah
 Ibn Abdulaziz said in remarks published today there would be
 important progress in the next few months on Arab and Islamic
 efforts to end the Iraq-Iran war.

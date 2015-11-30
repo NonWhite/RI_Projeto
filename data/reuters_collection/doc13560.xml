@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:38:01.93</field>
-	<field name = "UNKNOWN">RM
-f0472reute
-u f BC-LONG-DEBT-FUTURES-TUR   04-07 0107</field>
-	<field name = "TITLE">LONG DEBT FUTURES TURN EASIER IN LIFFE MORNING</field>
+	<field name = "titulo">LONG DEBT FUTURES TURN EASIER IN LIFFE MORNING</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Long debt futures turned easier in late
+	<field name = "content">Long debt futures turned easier in late
 morning on the London International Financial Futures Exchange
 (LIFFE) as the dollar and sterling softened, dealers said.
     Long gilt futures had a good start with an opening range of

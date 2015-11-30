@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:42:29.11</field>
-	<field name = "UNKNOWN">F A RM
-f0344
-reute
-u f BC-ZAPATA-ZOS>-WON'T-PA   03-02 0044</field>
-	<field name = "TITLE">ZAPATA ZOS> WON'T PAY INTEREST ON DEBENTURES</field>
+	<field name = "titulo">ZAPATA ZOS> WON'T PAY INTEREST ON DEBENTURES</field>
 	<field name = "DATELINE">HOUSTON, March 2 -</field>
-	<field name = "BODY">Zapata Corp said it does not intend to
+	<field name = "content">Zapata Corp said it does not intend to
 pay the interest due March 15 on its 10-1/4 pct subordinated
 debentures due 1997 or the interest due May One on its 10-7/8
 pct subordinated debentures due 2001.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:03:32.33</field>
-	<field name = "UNKNOWN">RM
-f2151reute
-u f BC-REUTER-WORLD-NEWS-HIG   04-07 0515</field>
-	<field name = "TITLE">REUTER WORLD NEWS HIGHLIGHTS 1800 GMT APRIL 7</field>
+	<field name = "titulo">REUTER WORLD NEWS HIGHLIGHTS 1800 GMT APRIL 7</field>
 	<field name = "DATELINE">BEIRUT -</field>
-	<field name = "BODY">Scores of Syrian troops marched into the battered
+	<field name = "content">Scores of Syrian troops marched into the battered
 Shatila Palestinian refugee camp in Beirut in a bid to quell
 five months of fighting in Lebanon's "camps war," witnesses said.
 Beirut radio stations said Syrian troops would deploy at points

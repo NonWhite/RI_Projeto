@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:11:04.01</field>
-	<field name = "UNKNOWN">F
-f0448
-reute
-r f BC-COMMERCIAL-CREDIT-CC   03-02 0043</field>
-	<field name = "TITLE">COMMERCIAL CREDIT CCC> TO HAVE GAIN ON SALE</field>
+	<field name = "titulo">COMMERCIAL CREDIT CCC> TO HAVE GAIN ON SALE</field>
 	<field name = "DATELINE">BALTIMORE, March 2 -</field>
-	<field name = "BODY">Commercial Credit Co said it has
+	<field name = "content">Commercial Credit Co said it has
 completed the sale of its domestic vehicle leasing unit,
 McCullagh Leasing Inc, the New England Merchants Leasing Corp
 for an after-tax gain of 17 mln dlrs.

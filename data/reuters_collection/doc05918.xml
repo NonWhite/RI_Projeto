@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 09:40:54.24</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f4937reute
-u f BC-BAKER-BKO>-TO-SELL-O   03-17 0103</field>
-	<field name = "TITLE">BAKER BKO> TO SELL OILWELL PUMP UNIT</field>
+	<field name = "titulo">BAKER BKO> TO SELL OILWELL PUMP UNIT</field>
 	<field name = "DATELINE">HOUSTON, March 17 -</field>
-	<field name = "BODY">Baker International Corp said it has
+	<field name = "content">Baker International Corp said it has
 signed a definitive agreement to sell the assets and business
 of the electric submersible oilwell pump product line in the
 continental U.S. of its Baker Oil Tools Inc subsidiary to Trico

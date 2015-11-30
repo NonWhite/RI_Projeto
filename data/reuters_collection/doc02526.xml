@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 18:11:12.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0082reute
-u f BC-HOLIDAY-HIA>-UNIT-SE   03-05 0108</field>
-	<field name = "TITLE">HOLIDAY HIA> UNIT SELLS NOTES AND DEBENTURES</field>
+	<field name = "titulo">HOLIDAY HIA> UNIT SELLS NOTES AND DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Holiday Inns Inc, a unit of Holiday
+	<field name = "content">Holiday Inns Inc, a unit of Holiday
 Corp, is raising 1.4 billion dlrs through offerings of notes
 and debentures, said bookrunner Drexel Burnham Lambert Inc.
     Junk bond traders said they thought this to be the

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 12:08:38.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0758reute
-r f BC-CATO-CORP>-FILES-FOR   03-11 0071</field>
-	<field name = "TITLE">CATO CORP> FILES FOR INITIAL OFFERING</field>
+	<field name = "titulo">CATO CORP> FILES FOR INITIAL OFFERING</field>
 	<field name = "DATELINE">CHARLOTTE, N.C., March 11 -</field>
-	<field name = "BODY">Cato Corp said it has filed for
+	<field name = "content">Cato Corp said it has filed for
 an initial public offering of about three mln common shares.
     Cato said the offering, to be made in late April or early
 May, is expected to raise 35 to 45 mln dlrs.

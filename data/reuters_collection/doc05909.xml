@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 09:32:54.57</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f4914reute
-r f BC-ATICO-FINANCIAL-ATFC   03-17 0101</field>
-	<field name = "TITLE">ATICO FINANCIAL ATFC> TO MAKE ACQUISITION</field>
+	<field name = "titulo">ATICO FINANCIAL ATFC> TO MAKE ACQUISITION</field>
 	<field name = "DATELINE">MIAMI, March 17 -</field>
-	<field name = "BODY">Atico Financial Corp said it has executed
+	<field name = "content">Atico Financial Corp said it has executed
 a definitive agreement to acquire 93.5 pct of Intercontinental
 Bank of Dade County, Fla., from Intercontinental Bank Holding
 Co for an undisclosed amount of cash and common stock.

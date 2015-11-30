@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 13:54:38.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1960reute
-r f BC-AYDIN-AYD>-GETS-AIR   04-01 0057</field>
-	<field name = "TITLE">AYDIN AYD> GETS AIR FORCE CONTRACT</field>
+	<field name = "titulo">AYDIN AYD> GETS AIR FORCE CONTRACT</field>
 	<field name = "DATELINE">HORSHAM, Pa., April 1 -</field>
-	<field name = "BODY">Aydin Corp said it has received a
+	<field name = "content">Aydin Corp said it has received a
 five-year 54 mln dlr contract from the U.S. Air Force for
 production of nine An/MST-T1A Multiple Threat Emitter System
 ground-based emitter simulators.

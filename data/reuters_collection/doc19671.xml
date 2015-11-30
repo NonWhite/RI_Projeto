@@ -6,12 +6,9 @@
 	<field name = "TOPICS">cotton</field>
 	<field name = "TOPICS">castor-oil</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">C 
-f1356reute
-d f BC-INDIA-RELAXES-RULES-F   06-29 0135</field>
-	<field name = "TITLE">INDIA RELAXES RULES FOR EXPORT PROMOTION</field>
+	<field name = "titulo">INDIA RELAXES RULES FOR EXPORT PROMOTION</field>
 	<field name = "DATELINE">NEW DELHI, June 29 -</field>
-	<field name = "BODY">The Reserve Bank of India, RBI,
+	<field name = "content">The Reserve Bank of India, RBI,
 announced new rules to allow exporters of 25 products to use
 foreign exchange up to 10 pct of their firm's total annual
 export earnings for export promotion abroad.

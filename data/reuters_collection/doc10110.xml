@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 15:04:13.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2298reute
-r f BC-FCC-EASES-RULE-FOR-CA   03-26 0098</field>
-	<field name = "TITLE">FCC EASES RULE FOR CABLE TV FIRMS ON SWITCH</field>
+	<field name = "titulo">FCC EASES RULE FOR CABLE TV FIRMS ON SWITCH</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">The Federal Communications
+	<field name = "content">The Federal Communications
 Commission voted at a meeting to ease a requirement that cable
 television firms must provide a signal-selector switch free of
 charge to all customers.

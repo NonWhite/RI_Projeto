@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 00:26:05.57</field>
 	<field name = "PLACES">sri-lanka</field>
-	<field name = "UNKNOWN">RM
-f0022reute
-u f BC-SRI-LANKA-OFFERS-250   06-01 0032</field>
-	<field name = "TITLE">SRI LANKA OFFERS 250 MLN RUPEES IN T-BILLS</field>
+	<field name = "titulo">SRI LANKA OFFERS 250 MLN RUPEES IN T-BILLS</field>
 	<field name = "DATELINE">COLOMBO, June 1 -</field>
-	<field name = "BODY">The Central Bank said it will offer offer
+	<field name = "content">The Central Bank said it will offer offer
 250 mln rupees worth of three-month treasury bills in a tender
 closing on June 4.
  REUTER</field>

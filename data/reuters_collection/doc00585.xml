@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:56:32.74</field>
-	<field name = "UNKNOWN">F
-f0392
-reute
-d f BC-KEVEX-CORP-KEVX>-2ND   03-02 0042</field>
-	<field name = "TITLE">KEVEX CORP KEVX> 2ND QTR JAN 31 NET</field>
+	<field name = "titulo">KEVEX CORP KEVX> 2ND QTR JAN 31 NET</field>
 	<field name = "DATELINE">FOSTER CITY, Calif., March 2 -</field>
-	<field name = "BODY">Shr eight cts vs one ct
+	<field name = "content">Shr eight cts vs one ct
     Net 399,000 vs 44,000
     Sales 9,603,000 vs 7,107,000
     Six Mths

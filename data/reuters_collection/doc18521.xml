@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 05:57:43.95</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">RM V 
-f2478reute
-u f BC-TEHRAN-WITHDRAWS-MORE   06-18 0097</field>
-	<field name = "TITLE">TEHRAN WITHDRAWS MORE DIPLOMATS FROM BRITAIN</field>
+	<field name = "titulo">TEHRAN WITHDRAWS MORE DIPLOMATS FROM BRITAIN</field>
 	<field name = "DATELINE">LONDON, June 18 -</field>
-	<field name = "BODY">Tehran Radio said all but one Iranian
+	<field name = "content">Tehran Radio said all but one Iranian
 diplomat in London would return home within two weeks.
     The report, monitored by the British Broadcasting Corp,
 followed an announcement by the Foreign Office in London that

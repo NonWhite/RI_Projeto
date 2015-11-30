@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 09:20:24.06</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0813reute
-r f BC-MCO-HOLDINGS-INC-MCO   04-01 0082</field>
-	<field name = "TITLE">MCO HOLDINGS INC MCO> 4TH QTR LOSS</field>
+	<field name = "titulo">MCO HOLDINGS INC MCO> 4TH QTR LOSS</field>
 	<field name = "DATELINE">LOS ANGELES, April 1 -</field>
-	<field name = "BODY">Oper shr loss 2.27 dlrs vs loss 1.62 dlrs
+	<field name = "content">Oper shr loss 2.27 dlrs vs loss 1.62 dlrs
     Oper net loss 12.7 mln vs loss 12.1 mln
     Revs 60.0 mln vs 26.2 mln
     Year

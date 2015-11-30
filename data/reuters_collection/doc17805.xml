@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 16:32:08.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2421reute
-r f BC-TOYOTA-SAYS-IT-ONLY-S   06-01 0118</field>
-	<field name = "TITLE">TOYOTA SAYS IT ONLY STUDYING LUXURY UNIT PLANS</field>
+	<field name = "titulo">TOYOTA SAYS IT ONLY STUDYING LUXURY UNIT PLANS</field>
 	<field name = "DATELINE">DETROIT, June 1 -</field>
-	<field name = "BODY">Toyota Motor Co's TOYO.T> U.S. sales
+	<field name = "content">Toyota Motor Co's TOYO.T> U.S. sales
 subsidiary said it has been studying the possibility of forming
 a new division to market upscale cars, but denied a published
 report that it would announce a startup decision this year.

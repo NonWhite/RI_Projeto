@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 14:44:43.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2108reute
-d f BC-NOSTALGIA-NETWORK-NN   03-19 0094</field>
-	<field name = "TITLE">NOSTALGIA NETWORK NNET> ADDS SUBSCRIBERS</field>
+	<field name = "titulo">NOSTALGIA NETWORK NNET> ADDS SUBSCRIBERS</field>
 	<field name = "DATELINE">DALLAS, March 19 -</field>
-	<field name = "BODY">Nostalgia Network Inc said it signed an
+	<field name = "content">Nostalgia Network Inc said it signed an
 agreement with the ACTS Satellite Network to produce a series
 of two- and five-minute commercials of its home shopping
 service, "Collectible Showcase."

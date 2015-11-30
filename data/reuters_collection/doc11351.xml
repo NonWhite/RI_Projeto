@@ -6,12 +6,9 @@
 	<field name = "PEOPLE">de-clercq</field>
 	<field name = "ORGS">gatt</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f1233reute
-u f BC-SOVIET-UNION-SEEN-WAT   03-31 0111</field>
-	<field name = "TITLE">SOVIET UNION SEEN WATCHING CHINA GATT APPLICATION</field>
+	<field name = "titulo">SOVIET UNION SEEN WATCHING CHINA GATT APPLICATION</field>
 	<field name = "DATELINE">PEKING, March 31 -</field>
-	<field name = "BODY">China's application to join the General
+	<field name = "content">China's application to join the General
 Agreement on Tariffs and Trade (GATT) is seen as a test case by
 the Soviet Union, which will probably demand to follow China, a
 top European Community official said.

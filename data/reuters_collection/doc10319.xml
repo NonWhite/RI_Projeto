@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 04:57:14.12RM</field>
-	<field name = "UNKNOWN">f0278reute</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">u f BC-PROPERTY-FIRM-RAISES   03-27 0112</field>
-	<field name = "TITLE">PROPERTY FIRM RAISES ONE BILLION H.K. DLR LOAN</field>
+	<field name = "titulo">PROPERTY FIRM RAISES ONE BILLION H.K. DLR LOAN</field>
 	<field name = "DATELINE">HONG KONG, March 27 -</field>
-	<field name = "BODY">Sunyou Intercontinental (H.K.) Ltd>
+	<field name = "content">Sunyou Intercontinental (H.K.) Ltd>
 has finalised the one billion H.K. Dlr loan for its hotel and
 office complex in the Kowloon tourist district, lead manager
 Standard Chartered Asia Ltd said.

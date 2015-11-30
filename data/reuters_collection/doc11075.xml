@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f2529reute
-u f BC-U.S.-TRADE-OFFICIAL-S   03-30 0106</field>
-	<field name = "TITLE">U.S. TRADE OFFICIAL SAYS JAPAN ACTION FOOLISH</field>
+	<field name = "titulo">U.S. TRADE OFFICIAL SAYS JAPAN ACTION FOOLISH</field>
 	<field name = "AUTHOR">By Jacqueline Frank, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">A high level U.S. trade official
+	<field name = "content">A high level U.S. trade official
 said it would be foolish for Japan to strike back against the
 United States for its sanctions on Japanese semiconductor
 electronics products.

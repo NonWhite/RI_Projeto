@@ -2,12 +2,9 @@
 	<field name = "DATE">16-JUN-1987 08:57:50.28</field>
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G L M T
-f0815reute
-b f BC-EC-COMMISSION-MODIFIE   06-16 0090</field>
-	<field name = "TITLE">EC COMMISSION MODIFIES OILS TAX PLAN</field>
+	<field name = "titulo">EC COMMISSION MODIFIES OILS TAX PLAN</field>
 	<field name = "DATELINE">LUXEMBOURG, June 16 -</field>
-	<field name = "BODY">The EC Commission has proposed a
+	<field name = "content">The EC Commission has proposed a
 modified plan for a tax on marine and vegetable oils and fats
 in its revised 1987/88 farm price proposals, an official
 document detailing the proposals shows.

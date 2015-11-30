@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 15:59:51.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f6449reute
-u f BC-U.S-HOUSE-BUDGET-CHAI   03-17 0083</field>
-	<field name = "TITLE">U.S HOUSE BUDGET CHAIRMAN PROPOSES SPENDING HOLD</field>
+	<field name = "titulo">U.S HOUSE BUDGET CHAIRMAN PROPOSES SPENDING HOLD</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">House Budget Committee Chairman
+	<field name = "content">House Budget Committee Chairman
 William Gray, D-Pa, said he would propose a freeze on all
 spending for federal government programs for the fiscal 1988
 budget to meet budget deficit targets.

@@ -5,12 +5,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0216reute
-r f BC-ESTIMATED-FRENCH-BARL   03-04 0108</field>
-	<field name = "TITLE">ESTIMATED FRENCH BARLEY STOCKS WORRYING - ONIC</field>
+	<field name = "titulo">ESTIMATED FRENCH BARLEY STOCKS WORRYING - ONIC</field>
 	<field name = "DATELINE">PARIS, March 4 -</field>
-	<field name = "BODY">The size of French 1986/87 carryover
+	<field name = "content">The size of French 1986/87 carryover
 barley stocks, estimated at 1.72 mln tonnes compared with
 700,000 tonnes in 1985/86 is worrying, French Cereals
 Intervention Office (ONIC) Director Bernard Vieux said.

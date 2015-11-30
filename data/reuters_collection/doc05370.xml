@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f2158reute
-u f BC-WEST-GERMAN-EXPORTS-T   03-16 0110</field>
-	<field name = "TITLE">WEST GERMAN EXPORTS TO U.S. DROP SHARPLY</field>
+	<field name = "titulo">WEST GERMAN EXPORTS TO U.S. DROP SHARPLY</field>
 	<field name = "DATELINE">FRANKFURT, March 16 -</field>
-	<field name = "BODY">West German exports to the United
+	<field name = "content">West German exports to the United
 States fell below four billion marks worth in January for the
 first time since mid-1984, provisional Bundesbank data showed.
     The figures showed exports were 3.85 billion marks in

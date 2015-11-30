@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">C T 
-f2271reute
-b f BC-COLOMBIA-OPENS-COFFEE   10-19 0032</field>
-	<field name = "TITLE">COLOMBIA OPENS COFFEE REGISTRATIONS - LDN TRADE</field>
+	<field name = "titulo">COLOMBIA OPENS COFFEE REGISTRATIONS - LDN TRADE</field>
 	<field name = "DATELINE">LONDON, Oct 19 -</field>
-	<field name = "BODY">Colombia has opened export registrations
+	<field name = "content">Colombia has opened export registrations
 for November coffee shipments, trade sources said. No further
 details were available.
  Reuter</field>

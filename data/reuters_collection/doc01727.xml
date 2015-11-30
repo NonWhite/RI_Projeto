@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 15:00:28.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0485reute
-d f BC-ROBERT-BRUCE-BRUC>-D   03-04 0060</field>
-	<field name = "TITLE">ROBERT BRUCE BRUC> DOWNGRADED BY S/P</field>
+	<field name = "titulo">ROBERT BRUCE BRUC> DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Standard and Poor's said it lowered
+	<field name = "content">Standard and Poor's said it lowered
 Robert Bruce Industries Inc's 15 mln dlrs of subordinated
 debentures to CCC from B-minus because of a deterioration in
 earnings and cash flow.

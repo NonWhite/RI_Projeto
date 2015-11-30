@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 17:40:33.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2522reute
-r f BC-BOWER-CHANGES-NAME,-R   06-19 0099</field>
-	<field name = "TITLE">BOWER CHANGES NAME, RESTRUCTURES LOAN</field>
+	<field name = "titulo">BOWER CHANGES NAME, RESTRUCTURES LOAN</field>
 	<field name = "DATELINE">COSTA MESA, Calif., June 19 -</field>
-	<field name = "BODY">Bower industries Inc> said
+	<field name = "content">Bower industries Inc> said
 it changed its name to Metalclad Corp and has restructured a
 loan agreement with its bank.
     Under the pact, a 3.5-mln-dlr revolving credit line will be

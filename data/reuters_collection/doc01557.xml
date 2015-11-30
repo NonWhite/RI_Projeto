@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 11:51:31.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0761reute
-u f BC-NATIONAL-FUEL-NFG>-P   03-04 0079</field>
-	<field name = "TITLE">NATIONAL FUEL NFG> PROPOSES ARGO REORGANIZATION</field>
+	<field name = "titulo">NATIONAL FUEL NFG> PROPOSES ARGO REORGANIZATION</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">National Fuel Gas Co said it has
+	<field name = "content">National Fuel Gas Co said it has
 proposed a plan of reorganization for Argo Petroleum Corp>.
     The proposal calls for National Fuel's Seneca Resources
 Corp subsidiary to receive 75 pct of Argo's principal producing

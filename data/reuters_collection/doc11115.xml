@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">C G
-f2687reute
-d f BC-MIDAM-EXCHANGE-MOVES   03-30 0134</field>
-	<field name = "TITLE">MIDAM EXCHANGE MOVES TO CBT FLOOR, EXPANDS HOURS</field>
+	<field name = "titulo">MIDAM EXCHANGE MOVES TO CBT FLOOR, EXPANDS HOURS</field>
 	<field name = "DATELINE">CHICAGO, March 30 -</field>
-	<field name = "BODY">The MidAmerica Commodity Exchange
+	<field name = "content">The MidAmerica Commodity Exchange
 (MIDAM) moved from the former Chicago Mercantile Exchange floor
 to a room off the main trading floors of the Chicago Board of
 Trade (CBT) today and expanded trading hours for Treasury-bond

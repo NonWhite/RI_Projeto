@@ -7,12 +7,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C G
-f0652reute
-r f BC-BONN-EXPRESSES-SUPPOR   03-20 0104</field>
-	<field name = "TITLE">BONN EXPRESSES SUPPORT FOR U.S. ON EC VEG OIL TAX</field>
+	<field name = "titulo">BONN EXPRESSES SUPPORT FOR U.S. ON EC VEG OIL TAX</field>
 	<field name = "DATELINE">HAMBURG, March 20 -</field>
-	<field name = "BODY">The West German government expressed
+	<field name = "content">The West German government expressed
 support for the U.S. Position in opposing the proposed European
 Community tax on vegetable oils and fats, a U.S. Embassy
 spokesman said.

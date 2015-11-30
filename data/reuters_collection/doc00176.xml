@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 17:59:30.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0259
-reute
-r f BC-U.S.-FARM-CREDIT-RESC   02-26 0113</field>
-	<field name = "TITLE">U.S. FARM CREDIT RESCUE BILL SEEN BEFORE EASTER</field>
+	<field name = "titulo">U.S. FARM CREDIT RESCUE BILL SEEN BEFORE EASTER</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">The chairman of the Senate Agriculture
+	<field name = "content">The chairman of the Senate Agriculture
 subcommittee on credit said the panel will consider a farm
 credit rescue package by Easter even if the system and its
 regulator do not ask for help by then.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 07:08:35.33</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">F
-f0455reute
-u f BC-MAJOR-DIVESTMENT-PLAN   03-13 0116</field>
-	<field name = "TITLE">MAJOR DIVESTMENT PLANS OUTLINED FOR SINGAPORE</field>
+	<field name = "titulo">MAJOR DIVESTMENT PLANS OUTLINED FOR SINGAPORE</field>
 	<field name = "DATELINE">SINGAPORE, March 13 -</field>
-	<field name = "BODY">The Singapore government should
+	<field name = "content">The Singapore government should
 reduce its stake in major state-owned or run companies like
 Singapore Airlines Ltd AIRH.SI> to around 30 pct over the next
 decade and privatise statutory boards, a government report

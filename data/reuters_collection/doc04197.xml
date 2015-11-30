@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 09:34:49.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0973reute
-r f BC-TECHNIMED-CORP>-HAS   03-12 0103</field>
-	<field name = "TITLE">TECHNIMED CORP> HAS CHOLESTEROL TEST PRODUCT</field>
+	<field name = "titulo">TECHNIMED CORP> HAS CHOLESTEROL TEST PRODUCT</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Technimed Corp said it has completed
+	<field name = "content">Technimed Corp said it has completed
 development of a home cholesterol testing product and will
 start clinical testing of its whole blood cholesterol test
 strip shortly.

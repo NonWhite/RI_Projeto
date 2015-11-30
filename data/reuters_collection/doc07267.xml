@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 13:02:24.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1751reute
-u f BC-FORMER-BROKER-PLEADS   03-19 0100</field>
-	<field name = "TITLE">FORMER BROKER PLEADS GUILTY IN U.S. TAX SCHEME</field>
+	<field name = "titulo">FORMER BROKER PLEADS GUILTY IN U.S. TAX SCHEME</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">A former vice president of Painewebber
+	<field name = "content">A former vice president of Painewebber
 Inc pleaded guilty in Manhattan Federal Court to charges he
 conspired to launder over 700,000 dlrs in cash from investors.
     Gary Eder, 41, PaineWebber's highest paid broker between

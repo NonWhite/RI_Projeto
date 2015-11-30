@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:55:48.38</field>
-	<field name = "UNKNOWN">RM
-f0383reute
-u f BC-GERMAN-CALL-MONEY-FIR   04-07 0108</field>
-	<field name = "TITLE">GERMAN CALL MONEY FIRMS ON TENDER</field>
+	<field name = "titulo">GERMAN CALL MONEY FIRMS ON TENDER</field>
 	<field name = "DATELINE">FRANKFURT, April 7 -</field>
-	<field name = "BODY">Call money firmed to about 3.65 pct,
+	<field name = "content">Call money firmed to about 3.65 pct,
 back to yesterday's 3.60/70 pct, from around 3.55 pct earlier
 today after the Bundesbank announced a tender for a new
 securities repurchase pact, dealers said.

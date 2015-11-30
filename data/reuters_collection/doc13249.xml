@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-APR-1987 05:35:48.47</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0047reute
-r f BC-BOUYGUES-BOUY.PA>-TV   04-05 0107</field>
-	<field name = "TITLE">BOUYGUES BOUY.PA> TV AWARD SEEN BOOSTING GROUP</field>
+	<field name = "titulo">BOUYGUES BOUY.PA> TV AWARD SEEN BOOSTING GROUP</field>
 	<field name = "DATELINE">PARIS, April 5 -</field>
-	<field name = "BODY">A consortium headed by the construction
+	<field name = "content">A consortium headed by the construction
 group Bouygues SA has been awarded a 50-pct controlling stake
 in French state television network TF1, which stock market
 analysts said represented a major boost for Bouygues.

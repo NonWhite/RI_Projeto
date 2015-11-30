@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 07:00:37.69</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f1535reute
-u f BC-FINNISH-MARKETS-SHOW   03-16 0105</field>
-	<field name = "TITLE">FINNISH MARKETS SHOW NO PRE-ELECTION IMPACT</field>
+	<field name = "titulo">FINNISH MARKETS SHOW NO PRE-ELECTION IMPACT</field>
 	<field name = "DATELINE">HELSINKI, March 16 -</field>
-	<field name = "BODY">Finnish two-day general elections
+	<field name = "content">Finnish two-day general elections
 ending tonight have not affected financial markets, with trade
 continuing as normal, bankers said.
     "There is no sign of nervousness, the market is steady as a

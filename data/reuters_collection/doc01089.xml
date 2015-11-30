@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 11:12:59.90</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0730reute
-s f BC-KNUTSON-MORTGAGE-CORP   03-03 0025</field>
-	<field name = "TITLE">KNUTSON MORTGAGE CORP KNMC> SETS QUARTERLY</field>
+	<field name = "titulo">KNUTSON MORTGAGE CORP KNMC> SETS QUARTERLY</field>
 	<field name = "DATELINE">BLOOMINGTON, Minn., March 3 -</field>
-	<field name = "BODY">Qtly div 10 cts vs 10 cts prior
+	<field name = "content">Qtly div 10 cts vs 10 cts prior
     Pay April 13
     Record March 13
  Reuter</field>

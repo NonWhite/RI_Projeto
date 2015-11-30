@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:12:38.53F</field>
-	<field name = "UNKNOWN">f1548reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-LSB-LSB>-IN-PACT-TO   03-27 0121</field>
-	<field name = "TITLE">LSB LSB> IN PACT TO ACQUIRE NORTHWEST FEDERAL</field>
+	<field name = "titulo">LSB LSB> IN PACT TO ACQUIRE NORTHWEST FEDERAL</field>
 	<field name = "DATELINE">OKLAHOMA CITY, OK., March 27 -</field>
-	<field name = "BODY">LSB Industries Inc said it
+	<field name = "content">LSB Industries Inc said it
 entered into an agreement to acquire Northwest Federal Savings
 and Loan Association of Woodward, Oklahoma.
     Upon completion of the acquisition, LSB would pay about 1.5

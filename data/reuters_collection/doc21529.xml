@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G 
-f0435reute
-u f BC-CHINA-FORECASTS-397-M   10-19 0091</field>
-	<field name = "TITLE">CHINA FORECASTS 397 MLN TONNES GRAIN HARVEST</field>
+	<field name = "titulo">CHINA FORECASTS 397 MLN TONNES GRAIN HARVEST</field>
 	<field name = "DATELINE">PEKING, Oct 19 -</field>
-	<field name = "BODY">China expects its 1987 grain harvest to be
+	<field name = "content">China expects its 1987 grain harvest to be
 397 mln tonnes, eight mln tonnes short of its target, the New
 China News Agency quoted a State Statistical Bureau spokesman
 as saying.

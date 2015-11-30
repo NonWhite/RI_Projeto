@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 12:59:13.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1757reute
-u f BC-GOULD-GLD>-INTRODUCE   03-25 0080</field>
-	<field name = "TITLE">GOULD GLD> INTRODUCES NEW MINI SUPERCOMPUTERS</field>
+	<field name = "titulo">GOULD GLD> INTRODUCES NEW MINI SUPERCOMPUTERS</field>
 	<field name = "DATELINE">CHICAGO, March 25 -</field>
-	<field name = "BODY">Gould Inc said it is introducing a new
+	<field name = "content">Gould Inc said it is introducing a new
 generation of very high performance mini supercomputers for
 intensive engineering applications.
     Called the NPL, the mini supercomputers use Gould's UTX/32

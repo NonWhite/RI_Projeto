@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 16:24:24.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0547reute
-d f BC-BOEING-BA>-GETS-34.6   03-06 0030</field>
-	<field name = "TITLE">BOEING BA> GETS 34.6 MLN DLR CONTRACT</field>
+	<field name = "titulo">BOEING BA> GETS 34.6 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">The Boeing Co has received a 34.6 mln
+	<field name = "content">The Boeing Co has received a 34.6 mln
 dlr contract for work on the E-3A AWACS radar plane program,
 the Air Force said.
  REUTER</field>

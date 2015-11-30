@@ -3,12 +3,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">bangemann</field>
-	<field name = "UNKNOWN">M
-f1428reute
-d f BC-BANGEMANN-DENIES-NEWS   03-23 0179</field>
-	<field name = "TITLE">BANGEMANN DENIES NEWSPAPER INTERVIEW ON SUBSIDIES</field>
+	<field name = "titulo">BANGEMANN DENIES NEWSPAPER INTERVIEW ON SUBSIDIES</field>
 	<field name = "DATELINE">BONN, March 23 -</field>
-	<field name = "BODY">The West German Economics Minister today
+	<field name = "content">The West German Economics Minister today
 denied giving a newspaper interview which quoted him as saying
 the state could not continue to pour money into the country's
 ailing steel and coal industries.

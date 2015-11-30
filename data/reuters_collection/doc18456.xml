@@ -4,12 +4,9 @@
 	<field name = "TOPICS">lead</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">M
-f0488reute
-u f BC-ZINC-CONCENTRATE-SUPP   06-16 0101</field>
-	<field name = "TITLE">ZINC CONCENTRATE SUPPLY SHORTFALL SEEN IN 1988</field>
+	<field name = "titulo">ZINC CONCENTRATE SUPPLY SHORTFALL SEEN IN 1988</field>
 	<field name = "DATELINE">AMSTERDAM, June 16 -</field>
-	<field name = "BODY">Next year is likely to see a shortfall
+	<field name = "content">Next year is likely to see a shortfall
 in zinc concentrates of up to 100,000 tonnes, although there
 should be ample supply in 1987, Shearson Lehman Brothers Ltd
 metals analyst Stephen Briggs said.

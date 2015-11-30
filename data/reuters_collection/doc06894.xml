@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 17:31:48.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E
-f9641reute
-r f BC-CAMBRIDGE-SELLS-100-M   03-18 0083</field>
-	<field name = "TITLE">CAMBRIDGE SELLS 100 MLN DLRS OF DEBENTURES</field>
+	<field name = "titulo">CAMBRIDGE SELLS 100 MLN DLRS OF DEBENTURES</field>
 	<field name = "DATELINE">TORONTO, March 18 -</field>
-	<field name = "BODY">Cambridge Shopping Centres Ltd> said
+	<field name = "content">Cambridge Shopping Centres Ltd> said
 wholly owned Cambridge Leaseholds Ltd privately sold 100 mln
 dlrs of secured debentures.
     It said the debentures were issued in three parts

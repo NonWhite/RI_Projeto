@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 07:55:10.77</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0197
-reute
-b f BC-RHONE-POULENC-TO-LAUN   03-02 0102</field>
-	<field name = "TITLE">RHONE-POULENC TO LAUNCH INVESTMENT CERTIFICATES</field>
+	<field name = "titulo">RHONE-POULENC TO LAUNCH INVESTMENT CERTIFICATES</field>
 	<field name = "DATELINE">PARIS, March 2 -</field>
-	<field name = "BODY">French state-owned chemicals group
+	<field name = "content">French state-owned chemicals group
 Rhone-Poulenc RHON.PA> said it will increase its capital with
 a 2.5 billion franc issue of preferential investment
 certificates on March 9.

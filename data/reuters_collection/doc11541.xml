@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 13:56:43.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2090reute
-u f BC-******PENNZOIL-CHAIRM   03-31 0059</field>
-	<field name = "TITLE">PENNZOIL SAYS SETTLEMENT MUST EXCEED 2 BLN DLRS</field>
+	<field name = "titulo">PENNZOIL SAYS SETTLEMENT MUST EXCEED 2 BLN DLRS</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Pennzoil Co PZL> Chairman J. Hugh
+	<field name = "content">Pennzoil Co PZL> Chairman J. Hugh
 Liedtke told a meeting of securities analysts that any
 settlement of the ongoing litigation would have to be above two
 billion dlrs.

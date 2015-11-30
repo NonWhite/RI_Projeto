@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 11:38:35.93</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0585reute
-r f BC-ARUNDEL-CORP-ARL>-4T   03-06 0041</field>
-	<field name = "TITLE">ARUNDEL CORP ARL> 4TH QTR NET</field>
+	<field name = "titulo">ARUNDEL CORP ARL> 4TH QTR NET</field>
 	<field name = "DATELINE">BALTIMORE, March 6 -</field>
-	<field name = "BODY">Shr 1.73 dlrs vs 1.66 dlrs
+	<field name = "content">Shr 1.73 dlrs vs 1.66 dlrs
     Net 3,637,000 vs 3,789,000
     Revs 27.6 mln vs 26.6 mln
     Year

@@ -3,14 +3,10 @@
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">A RM F
-f0343
-reute
-u f BC-FED-DATA-SUGGEST-STAB   02-26 0104</field>
-	<field name = "TITLE">FED DATA SUGGEST STABLE U.S. MONETARY POLICY</field>
+	<field name = "titulo">FED DATA SUGGEST STABLE U.S. MONETARY POLICY</field>
 	<field name = "AUTHOR">by Jeremy Solomons, Reuters</field>
 	<field name = "DATELINE">NEW YORK, Feb 26 -</field>
-	<field name = "BODY">Latest Federal Reserve data suggest that
+	<field name = "content">Latest Federal Reserve data suggest that
 the central bank voted to maintain the existing degree of
 pressure on banking reserves at its regular policy-making
 meeting two weeks ago, money market economists said.

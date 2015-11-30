@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:08:00.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2688reute
-u f BC-PENN-CENTRAL-PC>-CAN   03-16 0104</field>
-	<field name = "TITLE">PENN CENTRAL PC> CAN'T EXPLAIN STOCK ACTIVITY</field>
+	<field name = "titulo">PENN CENTRAL PC> CAN'T EXPLAIN STOCK ACTIVITY</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">A spokesman for Penn Central Corp said
+	<field name = "content">A spokesman for Penn Central Corp said
 he was unable to explain a rise in the company's shares.
     Penn Central rose 2-1/4 to 55-7/8 on 538,000 shares by
 midmorning.

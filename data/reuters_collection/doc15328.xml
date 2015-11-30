@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 16:56:39.84</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">C T
-f2585reute
-b f BC-coffee-prices-could-d   04-08 0093</field>
-	<field name = "TITLE">COFFEE COULD DROP TO 70/80 CTS, CARDENAS SAYS</field>
+	<field name = "titulo">COFFEE COULD DROP TO 70/80 CTS, CARDENAS SAYS</field>
 	<field name = "DATELINE">BOGOTA, April 8 -</field>
-	<field name = "BODY">International coffee prices could drop to
+	<field name = "content">International coffee prices could drop to
 between 70 and 80 cents a lb by next October if no agreement is
 reached to support the market, Jorge Cardenas, manager of
 Colombia's National Coffee Growers' Federation said.

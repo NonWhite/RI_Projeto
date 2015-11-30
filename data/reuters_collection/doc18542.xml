@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 06:42:19.94</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM 
-f2553reute
-r f BC-ZURICH-FAVOURS-TIGHT   06-18 0107</field>
-	<field name = "TITLE">ZURICH FAVOURS TIGHT "MONEY LAUNDERING" LAW</field>
+	<field name = "titulo">ZURICH FAVOURS TIGHT "MONEY LAUNDERING" LAW</field>
 	<field name = "DATELINE">ZURICH, June 18 -</field>
-	<field name = "BODY">The cantonal government of Zurich wants a
+	<field name = "content">The cantonal government of Zurich wants a
 proposed federal law making "money laundering" an offence to
 punish negligence and not just gross negligence, the cantonal
 information service said.

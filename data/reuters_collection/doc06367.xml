@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 05:23:14.40</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">F
-f7266reute
-u f BC-TOYOTA-MOTORS-SIGNS-P   03-18 0099</field>
-	<field name = "TITLE">TOYOTA MOTORS SIGNS PURCHASE AGREEMENT WITH PNB</field>
+	<field name = "titulo">TOYOTA MOTORS SIGNS PURCHASE AGREEMENT WITH PNB</field>
 	<field name = "DATELINE">MANILA, March 18 -</field>
-	<field name = "BODY">The state-owned Philippine National Bank
+	<field name = "content">The state-owned Philippine National Bank
 (PNB) will fund Toyota Motor Corp's TOYO.T> planned purchase
 of its bankrupt former local partner's manufacturing facilities
 for at least 193 mln pesos, a bank official told reporters.

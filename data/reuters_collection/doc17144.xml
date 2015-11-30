@@ -5,12 +5,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f1936reute
-u f BC-SOVIET-CORN-CARGO-REJ   04-24 0121</field>
-	<field name = "TITLE">SOVIET CORN CARGO REJECTED, RELOADING AT CHICAGO</field>
+	<field name = "titulo">SOVIET CORN CARGO REJECTED, RELOADING AT CHICAGO</field>
 	<field name = "DATELINE">CHICAGO, April 24 -</field>
-	<field name = "BODY">A cargo of U.S. corn for the Soviet
+	<field name = "content">A cargo of U.S. corn for the Soviet
 Union was rejected and forced to be unloaded at a Chicago
 export elevator earlier this week after it failed to make
 grade, with the British vessel Broompark now being reloaded, an

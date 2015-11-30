@@ -8,12 +8,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">italy</field>
 	<field name = "PEOPLE">wilson</field>
-	<field name = "UNKNOWN">RM V E 
-f1425reute
-b f BC-CANADA'S-WILSON-SAYS   10-20 0113</field>
-	<field name = "TITLE">CANADA'S WILSON SAYS G-7 DISCUSSED LIQUIDITY</field>
+	<field name = "titulo">CANADA'S WILSON SAYS G-7 DISCUSSED LIQUIDITY</field>
 	<field name = "DATELINE">OTTAWA, Oct 20 -</field>
-	<field name = "BODY">Canadian Finance Minister Michael Wilson
+	<field name = "content">Canadian Finance Minister Michael Wilson
 says the leading industrial nations have held a number of
 discussions on providing liquidity to the financial system
 after Monday's record stock market decline.

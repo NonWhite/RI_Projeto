@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 09:28:30.61</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">kohl</field>
-	<field name = "UNKNOWN">RM 
-f0806reute
-u f BC-BONN-WILL-HOLD-TAX-RE   06-19 0111</field>
-	<field name = "TITLE">BONN WILL HOLD TAX REFORM TIMETABLE, KOHL SAYS</field>
+	<field name = "titulo">BONN WILL HOLD TAX REFORM TIMETABLE, KOHL SAYS</field>
 	<field name = "DATELINE">BONN, June 19 -</field>
-	<field name = "BODY">The West German government will stick to
+	<field name = "content">The West German government will stick to
 its agreed timetable and introduce tax cuts worth 44 billion
 marks from 1990, Chancellor Helmut Kohl said.
     Kohl told a news conference, "The tax reform will be

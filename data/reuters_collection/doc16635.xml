@@ -5,13 +5,10 @@
 	<field name = "PLACES">algeria</field>
 	<field name = "PLACES">venezuela</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F RM Y
-f2429reute
-u f BC-TEXACO-TX>-SAYS-SOME   04-13 0110</field>
-	<field name = "TITLE">TEXACO TX> SAYS SOME OIL FLOWS RE-ESTABLISHED</field>
+	<field name = "titulo">TEXACO TX> SAYS SOME OIL FLOWS RE-ESTABLISHED</field>
 	<field name = "AUTHOR">By SAMUEL FROMARTZ, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Texaco Inc has re-established some key
+	<field name = "content">Texaco Inc has re-established some key
 oil supply lines following yesterday's court filing for
 protection under Chapter 11 of the U.S. bankrupcty code, said
 Elton Yates, Texaco's coordinator of worldwide operations.

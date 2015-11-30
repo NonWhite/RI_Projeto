@@ -5,12 +5,9 @@
 	<field name = "PLACES">peru</field>
 	<field name = "PEOPLE">garcia</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0011reute
-b f BC-PERU-SAYS-IT-INTENDS   04-04 0071</field>
-	<field name = "TITLE">PERU SAYS IT INTENDS TO DEEPEN DEBT STANCE</field>
+	<field name = "titulo">PERU SAYS IT INTENDS TO DEEPEN DEBT STANCE</field>
 	<field name = "DATELINE">LIMA, April 3 -</field>
-	<field name = "BODY">President Alan Garcia said he sought to
+	<field name = "content">President Alan Garcia said he sought to
 deepen Peru's hard-line foreign debt stance, possibly by
 limiting repayments to the World Bank.
     In a televised address tonight, he criticised the World

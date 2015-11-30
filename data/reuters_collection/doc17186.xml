@@ -6,13 +6,10 @@
 	<field name = "PEOPLE">garcia</field>
 	<field name = "PEOPLE">de-la-madrid</field>
 	<field name = "PEOPLE">mancera-aguayo</field>
-	<field name = "UNKNOWN">C M
-f2760reute
-u f AM-peru-silver   04-24 0131</field>
-	<field name = "TITLE">PERU PRESIDENT WARNS OF RETALIATION ON SILVER</field>
+	<field name = "titulo">PERU PRESIDENT WARNS OF RETALIATION ON SILVER</field>
 	<field name = "AUTHOR">By Walker Simon, Reuters</field>
 	<field name = "DATELINE">LIMA, April 24 -</field>
-	<field name = "BODY">The Peruvian government's freeze on silver
+	<field name = "content">The Peruvian government's freeze on silver
 sales, which has contributed to a sharp boost in the metal's
 price, could draw retaliation by rich nations and big traders
 seeking lower prices, President Alan Garcia said.

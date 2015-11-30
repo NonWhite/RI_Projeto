@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 12:30:54.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1615reute
-r f BC-TWO-FORD-F>-PLANTS-T   03-19 0088</field>
-	<field name = "TITLE">TWO FORD F> PLANTS TO WORK SATURDAY</field>
+	<field name = "titulo">TWO FORD F> PLANTS TO WORK SATURDAY</field>
 	<field name = "DATELINE">DETROIT, March 19 -</field>
-	<field name = "BODY">Ford Motor Co said one of its U.S. car
+	<field name = "content">Ford Motor Co said one of its U.S. car
 and one of its U.S. truck assembly plants will work overtime on
 Saturday, March 21.
     The number two automaker said all of its U.S. car and truck

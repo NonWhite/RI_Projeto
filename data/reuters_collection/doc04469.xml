@@ -2,13 +2,10 @@
 	<field name = "DATE">12-MAR-1987 15:34:34.08</field>
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C T
-f0314reute
-u f BC-PESSIMISM-MOUNTS-OVER   03-12 0102</field>
-	<field name = "TITLE">PESSIMISM MOUNTS OVER BAHIAN TEMPORAO COCOA CROP</field>
+	<field name = "titulo">PESSIMISM MOUNTS OVER BAHIAN TEMPORAO COCOA CROP</field>
 	<field name = "AUTHOR">By Richard Jarvie, Reuters</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 12 -</field>
-	<field name = "BODY">Pessimism over the effects of a
+	<field name = "content">Pessimism over the effects of a
 prolonged dry spell on the coming Bahian temporao cocoa crop is
 rising with trade forecasts generally in the 2.0 mln to 2.5 mln
 bag range against 2.5 mln to 3.0 mln a fortnight ago.

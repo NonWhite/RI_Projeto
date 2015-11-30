@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">V RM
-f1049reute
-b f BC-/TREASURY'S-BAKER-SAY   03-31 0090</field>
-	<field name = "TITLE">TREASURY'S BAKER SAYS COOPERATION WORKING</field>
+	<field name = "titulo">TREASURY'S BAKER SAYS COOPERATION WORKING</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 that the agreement in Paris to cooperate in exchange rate
 changes showed that the process of coordination agreed to at
 the Tokyo summit was working.

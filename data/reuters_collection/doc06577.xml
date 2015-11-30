@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">herrington</field>
-	<field name = "UNKNOWN">C
-f8426reute
-d f BC-DOE-SECRETARY-FAVORS   03-18 0121</field>
-	<field name = "TITLE">DOE SECRETARY FAVORS HIGHER SPR FILL RATE</field>
+	<field name = "titulo">DOE SECRETARY FAVORS HIGHER SPR FILL RATE</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">Energy Secretary John Herrington
+	<field name = "content">Energy Secretary John Herrington
 said he believes the Reagan Administration will review its
 decision to cut the fill rate of the Strategic Petroleum
 Reserve because of a department report issued yesterday warning

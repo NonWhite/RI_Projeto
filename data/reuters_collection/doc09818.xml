@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 08:39:36.15</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0811reute
-d f BC-SIEMENS-U.S.-TURNOVER   03-26 0110</field>
-	<field name = "TITLE">SIEMENS U.S. TURNOVER TO RISE IN CURRENT YEAR</field>
+	<field name = "titulo">SIEMENS U.S. TURNOVER TO RISE IN CURRENT YEAR</field>
 	<field name = "DATELINE">MUNICH, March 26 -</field>
-	<field name = "BODY">Siemens AG SIEG.F> turnover in the
+	<field name = "content">Siemens AG SIEG.F> turnover in the
 United States will rise to about 2.6 billion dlrs in the
 current year to end September from 2.2 billion in 1985/86,
 management board chairman Karlheinz Kaske said.

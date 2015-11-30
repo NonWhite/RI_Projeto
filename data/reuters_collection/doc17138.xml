@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 13:08:14.57</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1818reute
-u f BC-GERMAN-BANKS-FACE-DIS   04-24 0109</field>
-	<field name = "TITLE">GERMAN BANKS FACE DISRUPTION AFTER TALKS COLLAPSE</field>
+	<field name = "titulo">GERMAN BANKS FACE DISRUPTION AFTER TALKS COLLAPSE</field>
 	<field name = "DATELINE">DUESSELDORF, April 24 -</field>
-	<field name = "BODY">West German banks face disruption
+	<field name = "content">West German banks face disruption
 from strike ballots and selective strikes after the breakdown
 of talks on wages and working hours, the German Employees
 Union, DAG, and the Commerce, Banking and Insurance Union, HBV,

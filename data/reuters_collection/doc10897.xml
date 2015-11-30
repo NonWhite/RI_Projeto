@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 12:22:19.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1776reute
-r f BC-VITRAMON-VITR>-TO-FI   03-30 0035</field>
-	<field name = "TITLE">VITRAMON VITR> TO FILE FOR SHARE OFFERING</field>
+	<field name = "titulo">VITRAMON VITR> TO FILE FOR SHARE OFFERING</field>
 	<field name = "DATELINE">MONROE, Conn., March 30 -</field>
-	<field name = "BODY">Vitramon Inc said it intends to
+	<field name = "content">Vitramon Inc said it intends to
 file for an offering of 600,000 common shares, which would give
 it about 2,560,000 common shares outstanding.
  Reuter</field>

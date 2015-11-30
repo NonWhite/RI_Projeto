@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 14:49:30.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y 
-f2198reute
-r f BC-ARIZONA-NUCLEAR-PLANT   06-29 0111</field>
-	<field name = "TITLE">ARIZONA NUCLEAR PLANT SHUTDOWN DUE TO WATER LEAK</field>
+	<field name = "titulo">ARIZONA NUCLEAR PLANT SHUTDOWN DUE TO WATER LEAK</field>
 	<field name = "DATELINE">WINTERSBURG, Ariz., June 29 -</field>
-	<field name = "BODY">The Palo Verde Unit 1 nuclear
+	<field name = "content">The Palo Verde Unit 1 nuclear
 power plant was removed from service Sunday due to a leaking
 pipe in its circulating water system, according to the plant's
 operator, the Arizona Nuclear Power Project.

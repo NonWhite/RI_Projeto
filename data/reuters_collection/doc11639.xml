@@ -4,12 +4,9 @@
 	<field name = "TOPICS">rice</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G T L
-f2492reute
-d f BC-USDA-AGAIN-EXTENDS-FA   03-31 0131</field>
-	<field name = "TITLE">USDA AGAIN EXTENDS FARM OPERATING PLAN DEADLINE</field>
+	<field name = "titulo">USDA AGAIN EXTENDS FARM OPERATING PLAN DEADLINE</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">The U.S. Agriculture Department said
+	<field name = "content">The U.S. Agriculture Department said
 it has extended until April 17 the date by which Agricultural
 Stabilization and Conservation county offices must determine
 eligibility of individuals or other entities for payments under

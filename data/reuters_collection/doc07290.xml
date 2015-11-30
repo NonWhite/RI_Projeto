@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 13:27:27.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1846reute
-r f BC-TRANSAMERICAN-CHALLEN   03-19 0100</field>
-	<field name = "TITLE">TRANSAMERICAN CHALLENGES COASTAL CGP> STANDING</field>
+	<field name = "titulo">TRANSAMERICAN CHALLENGES COASTAL CGP> STANDING</field>
 	<field name = "DATELINE">HOUSTON, March 19 -</field>
-	<field name = "BODY">TransAmerican Natural Gas Corp> said
+	<field name = "content">TransAmerican Natural Gas Corp> said
 it denies that Coastal Corp has standing to file a plan or
 reorganization for TransAmerican in U.S. Bankruptcy Court.
     In an earlier statement, TransAmerican said, Coastal

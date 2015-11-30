@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">15-MAR-1987 23:21:52.88</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">RM
-f1026reute
-u f BC-SAUDI-ECONOMIC-OUTLOO   03-15 0101</field>
-	<field name = "TITLE">SAUDI ECONOMIC OUTLOOK IMPROVED, MINISTER SAYS</field>
+	<field name = "titulo">SAUDI ECONOMIC OUTLOOK IMPROVED, MINISTER SAYS</field>
 	<field name = "DATELINE">ABHA, Saudi Arabia, March 16 -</field>
-	<field name = "BODY">Saudi Arabia's economy is
+	<field name = "content">Saudi Arabia's economy is
 showing signs of picking up after problems last year caused by
 the steep fall in oil prices, Commerce Minister Suleiman
 Abdulaziz al-Salim said.

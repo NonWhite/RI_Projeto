@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 12:53:55.86</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1734reute
-u f BC-COOPER-INDUSTRIES   03-20 0109</field>
-	<field name = "TITLE">COOPER CBE> ASKS FTC TO END ACQUISITION LIMITS</field>
+	<field name = "titulo">COOPER CBE> ASKS FTC TO END ACQUISITION LIMITS</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">Cooper Industries Inc asked the
+	<field name = "content">Cooper Industries Inc asked the
 Federal Trade Commission to vacate a 1979 order that requires
 the company to get FTC approval before making certain
 acquisitions, the FTC said.

@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 03:42:10.69</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">RM
-f0627
-reute
-u f BC-BANKERS-SEE-SHARP-RIS   03-03 0113</field>
-	<field name = "TITLE">BANKERS SEE SHARP RISE IN THAI FOREIGN RESERVES</field>
+	<field name = "titulo">BANKERS SEE SHARP RISE IN THAI FOREIGN RESERVES</field>
 	<field name = "DATELINE">BANGKOK, March 3 -</field>
-	<field name = "BODY">Thailand's improving economy will likely
+	<field name = "content">Thailand's improving economy will likely
 cause foreign reserves to increase to at least five billion
 dlrs by end-1987 from a record of nearly 4.2 billion at
 end-February, private bankers said.

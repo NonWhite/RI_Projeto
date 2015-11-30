@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 15:51:00.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2384reute
-r f BC-FIRST-AMERICAN-FAMR.   06-29 0089</field>
-	<field name = "TITLE">FIRST AMERICAN FAMR.O> BUYS BACK STOCK</field>
+	<field name = "titulo">FIRST AMERICAN FAMR.O> BUYS BACK STOCK</field>
 	<field name = "DATELINE">SANTA ANA, Calif., June 29 -</field>
-	<field name = "BODY">First American Financial Corp
+	<field name = "content">First American Financial Corp
 said it repurchased 997,756 shares, or 18 pct of its own common
 stock, from American Century Corp ACT> for 29.50 dlrs per
 share in cash and two real estate properties in California.

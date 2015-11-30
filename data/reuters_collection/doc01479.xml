@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0395reute
-d f BC-ROSSIGNOL-UNIT-BUYS-C   03-04 0075</field>
-	<field name = "TITLE">ROSSIGNOL UNIT BUYS CANADIAN SKI BOOT MAKER</field>
+	<field name = "titulo">ROSSIGNOL UNIT BUYS CANADIAN SKI BOOT MAKER</field>
 	<field name = "DATELINE">PARIS, March 4 -</field>
-	<field name = "BODY">French ski and tennis equipment maker
+	<field name = "content">French ski and tennis equipment maker
 Skis Rossignol> said its 97.7-pct owned subsidiary Skis
 Dynastar SA> agreed to buy Canadian ski stick and boot
 manufacturer CFAS> from Warrington Inc>.

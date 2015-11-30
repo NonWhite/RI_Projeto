@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">leigh-pemberton</field>
-	<field name = "UNKNOWN">RM
-f0111reute
-u f BC-LEIGH-PEMBERTON-OPPOS   03-12 0116</field>
-	<field name = "TITLE">LEIGH-PEMBERTON OPPOSES TAKEOVER PROTECTION RULES</field>
+	<field name = "titulo">LEIGH-PEMBERTON OPPOSES TAKEOVER PROTECTION RULES</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">The Bank of England does not favour the
+	<field name = "content">The Bank of England does not favour the
 introduction of rules to shield companies from hostile takeover
 attempts, its governor, Robin Leigh-Pemberton, said.
     Instead, merchant banks advising bidding companies must

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 16:57:17.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2589reute
-r f BC-PAN-AM-PN>-UNIT-SETS   04-08 0076</field>
-	<field name = "TITLE">PAN AM PN> UNIT SETS INTRO FARE TO ATLANTA</field>
+	<field name = "titulo">PAN AM PN> UNIT SETS INTRO FARE TO ATLANTA</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Pan American Corp's Pan Am World
+	<field name = "content">Pan American Corp's Pan Am World
 Airways said it will begin daily service tomorrow from Atlanta
 to New York, Washington and Miami.
     The company said it will offer the flights for 49 dlrs

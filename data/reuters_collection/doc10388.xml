@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:45:50.31A</field>
-	<field name = "UNKNOWN">f0744reute</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">h f BC-JAPAN-TO-INTRODUCE-YE   03-27 0110</field>
-	<field name = "TITLE">JAPAN TO INTRODUCE YEN COMMERCIAL PAPER IN OCTOBER</field>
+	<field name = "titulo">JAPAN TO INTRODUCE YEN COMMERCIAL PAPER IN OCTOBER</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">The Finance Ministry is expected to
+	<field name = "content">The Finance Ministry is expected to
 introduce yen commercial paper, CP, from October 1 in response
 to growing calls from corporations, ministry sources said.
     Around 200 corporations satisfy financial standards set by

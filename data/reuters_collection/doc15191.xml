@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:32:19.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1985reute
-u f BC-UAL'S-(UAL)-UNITED-AI   04-08 0100</field>
-	<field name = "TITLE">UAL'S (UAL) UNITED AIR MARCH LOAD FACTOR RISES</field>
+	<field name = "titulo">UAL'S (UAL) UNITED AIR MARCH LOAD FACTOR RISES</field>
 	<field name = "DATELINE">CHICAGO, April 8 -</field>
-	<field name = "BODY">United Airlines, a subsidiary of UAL
+	<field name = "content">United Airlines, a subsidiary of UAL
 Inc, said its load factor in March rose to 70.6 pct from 66.2
 pct in the same period a year ago.
     United said its March traffic jumped 23.2 pct to 6.05

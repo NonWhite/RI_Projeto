@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "TOPICS">lead</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">M 
-f2736reute
-u f BC-VESSEL-LOST-IN-PACIFI   06-18 0119</field>
-	<field name = "TITLE">VESSEL LOST IN PACIFIC WAS CARRYING LEAD</field>
+	<field name = "titulo">VESSEL LOST IN PACIFIC WAS CARRYING LEAD</field>
 	<field name = "DATELINE">LONDON, June 18 -</field>
-	<field name = "BODY">The 37,635 deadweight tonnes bulk carrier
+	<field name = "content">The 37,635 deadweight tonnes bulk carrier
 Cumberlande, which sank in the South Pacific last Friday, was
 carrying a cargo which included lead as well as magnesium ore,
 a Lloyds Shipping Intelligence spokesman said.

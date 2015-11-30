@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 15:36:46.39</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3468reute
-b f BC-SCHLUMBERGER-SAYS-IT   03-16 0088</field>
-	<field name = "TITLE">SCHLUMBERGER SLB> ENDS PACT TO SELL FAIRCHILD</field>
+	<field name = "titulo">SCHLUMBERGER SLB> ENDS PACT TO SELL FAIRCHILD</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">Schlumberger Ltd said it terminated an
+	<field name = "content">Schlumberger Ltd said it terminated an
 agreement in principle for Fujitsu Ltd to buy 80 pct of its
 Fairchild Semiconductor operations.
     The company said the rising political controversy in the

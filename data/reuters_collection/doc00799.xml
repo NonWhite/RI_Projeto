@@ -4,13 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lme</field>
-	<field name = "UNKNOWN">C M
-f0119
-reute
-u f BC-copper-stks-o'side-us   03-02 0142</field>
-	<field name = "TITLE">COPPER STOCKS OUTSIDE U.S. INCREASE IN DECEMBER</field>
+	<field name = "titulo">COPPER STOCKS OUTSIDE U.S. INCREASE IN DECEMBER</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Refined copper stocks held by
+	<field name = "content">Refined copper stocks held by
 refineries outside the U.S. increased to a preliminary 277,500
 short tons at the end of December from a preliminary 270,000
 short tons (revised higher) at the end of November, the

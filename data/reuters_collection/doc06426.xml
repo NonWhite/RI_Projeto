@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 08:41:34.59</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f7660reute
-b f BC-/U.S.-REAL-GNP-ROSE-1   03-18 0088</field>
-	<field name = "TITLE">U.S. REAL GNP ROSE 1.1 PCT IN FOURTH QUARTER</field>
+	<field name = "titulo">U.S. REAL GNP ROSE 1.1 PCT IN FOURTH QUARTER</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">The U.S. Gross National Product,
+	<field name = "content">The U.S. Gross National Product,
 after removing the impact of inflation, increased at a revised
 annual rate of 1.1 pct in the fourth quarter, the Commerce
 Department said.

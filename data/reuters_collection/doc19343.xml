@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 14:21:02.68</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1955reute
-d f BC-FORTUNE-FIN'L-FORF.O   06-19 0079</field>
-	<field name = "TITLE">FORTUNE FIN'L FORF.O> UNIT MAKES ACQUISITION</field>
+	<field name = "titulo">FORTUNE FIN'L FORF.O> UNIT MAKES ACQUISITION</field>
 	<field name = "DATELINE">SUNRISE, FLA, June 19 -</field>
-	<field name = "BODY">Fortune Financial Group Inc said
+	<field name = "content">Fortune Financial Group Inc said
 its Fortune Savings Bank acquired a Financial Security Savings
 and Loan Association branch in Sunrise, Fla.
     Terms were not disclosed.

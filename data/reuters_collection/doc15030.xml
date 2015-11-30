@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 10:39:29.93</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1186reute
-d f BC-NATIONAL-GUARDIAN-NA   04-08 0099</field>
-	<field name = "TITLE">NATIONAL GUARDIAN NATG> MAKES ACQUISITIONS</field>
+	<field name = "titulo">NATIONAL GUARDIAN NATG> MAKES ACQUISITIONS</field>
 	<field name = "DATELINE">GREENWICH, Conn., April 8 -</field>
-	<field name = "BODY">National Guardian Corp said it
+	<field name = "content">National Guardian Corp said it
 has acquired a number of security services companies recently,
 with aggregate revenues of about 3,500,000 dlrs, for an
 aggregate cost of about 2,700,000 dlrs.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 13:29:57.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f0119reute
-r f AM-CENTAM-AMERICAN   03-11 0100</field>
-	<field name = "TITLE">WRIGHT SAYS HOUSE WILL VOTE TO BLOCK CONTRA AID</field>
+	<field name = "titulo">WRIGHT SAYS HOUSE WILL VOTE TO BLOCK CONTRA AID</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">House Speaker Jim Wright predicted
+	<field name = "content">House Speaker Jim Wright predicted
 the House would vote by a substantial margin to block 40 mln
 dlrs in aid to the Nicaraguan "contra" rebels until President
 Reagan has accounted for previous assistance.

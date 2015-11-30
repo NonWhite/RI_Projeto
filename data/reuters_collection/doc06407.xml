@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 08:16:58.23</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f7577reute
-b f BC-LAND-SECURITIES-ISSUE   03-18 0082</field>
-	<field name = "TITLE">LAND SECURITIES ISSUES 100 MLN STG EUROBOND</field>
+	<field name = "titulo">LAND SECURITIES ISSUES 100 MLN STG EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">Land Securities Plc is issuing a 100 mln
+	<field name = "content">Land Securities Plc is issuing a 100 mln
 stg eurobond due April 29, 2007 with a 9-1/2 pct coupon and
 priced at 95-3/4, lead manager J. Henry Schroder Wagg and Co
 Ltd said.

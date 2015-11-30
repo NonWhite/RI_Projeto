@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 01:53:38.48</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0065reute
-u f BC-N.Z.-PLANS-EIGHT-250   04-13 0087</field>
-	<field name = "TITLE">N.Z. PLANS EIGHT 250 MLN DLR 1987/88 BOND TENDERS</field>
+	<field name = "titulo">N.Z. PLANS EIGHT 250 MLN DLR 1987/88 BOND TENDERS</field>
 	<field name = "DATELINE">WELLINGTON, April 13 -</field>
-	<field name = "BODY">Finance Minister Roger Douglas said
+	<field name = "content">Finance Minister Roger Douglas said
 eight bond tenders of 250 mln dlrs each are planned for the
 year ending March 1988.
     Douglas said in a statement the June quarter borrowing

@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:45:02.58F</field>
-	<field name = "UNKNOWN">f1687reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-HANSON-HAN>-TO-SELL   03-27 0096</field>
-	<field name = "TITLE">HANSON HAN> TO SELL BOND'S DELIVERY SERVICE</field>
+	<field name = "titulo">HANSON HAN> TO SELL BOND'S DELIVERY SERVICE</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">Hanson Industries, the U.S. arm of
+	<field name = "content">Hanson Industries, the U.S. arm of
 Hanson Trust PLC, said contracts have been exchanged in London
 for the sale of Bond's Delivery Service to Rockwood Holdings
 PLC for about 6.0 mln dlrs in cash.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 07:36:07.24</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0480reute
-u f BC-CONTI-SHARES-OPEN-HIG   04-09 0081</field>
-	<field name = "TITLE">CONTI SHARES OPEN HIGHER ON GOOD NEW TYRE REVIEWS</field>
+	<field name = "titulo">CONTI SHARES OPEN HIGHER ON GOOD NEW TYRE REVIEWS</field>
 	<field name = "DATELINE">BONN, April 9 -</field>
-	<field name = "BODY">Shares of Continental Gummi-Werke AG
+	<field name = "content">Shares of Continental Gummi-Werke AG
 CONG.F> opened eight marks stronger in an otherwise mixed
 Frankfurt market and dealers attributed the trend to favourable
 press reports about a new tyre system the company is

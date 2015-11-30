@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 11:04:41.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1486reute
-r f BC-AVON-AVP>-SEES-HIGHE   10-20 0100</field>
-	<field name = "TITLE">AVON AVP> SEES HIGHER 4TH QTR, 1987 EARNINGS</field>
+	<field name = "titulo">AVON AVP> SEES HIGHER 4TH QTR, 1987 EARNINGS</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Avon Products Inc, which earlier
+	<field name = "content">Avon Products Inc, which earlier
 reported lower third quarter profits, said its fourth quarter
 and full year earnings will exceed the year ago results due to
 strong sales in its domestic cosmetics business and an improved

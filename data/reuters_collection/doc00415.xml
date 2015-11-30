@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 09:38:13.72</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0520
-reute
-b f BC-SWISS-SIGHT-DEPOSITS   03-02 0065</field>
-	<field name = "TITLE">SWISS SIGHT DEPOSITS RISE 3.10 BILLION FRANCS</field>
+	<field name = "titulo">SWISS SIGHT DEPOSITS RISE 3.10 BILLION FRANCS</field>
 	<field name = "DATELINE">ZURICH, March 2 -</field>
-	<field name = "BODY">Sight deposits by commercial banks at the
+	<field name = "content">Sight deposits by commercial banks at the
 Swiss National Bank rose by 3.10 billion Swiss francs to 10.53
 billion in the last 10 days of February, the National Bank
 said.

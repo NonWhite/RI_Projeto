@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:13:14.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f3737reute
-r f BC-MARINE-MIDLAND-MM>-A   06-18 0112</field>
-	<field name = "TITLE">MARINE MIDLAND MM> AFFIRMED BY S/P</field>
+	<field name = "titulo">MARINE MIDLAND MM> AFFIRMED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 affirmed Marine Midland Banks Inc's 500 mln dlrs of debt.
     S and P cited a 400 mln dlr provision to reserves for
 developing country credits. The provision brings Marine's

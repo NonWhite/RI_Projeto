@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 08:29:50.66</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0606reute
-d f BC-BP-SCOTTISH-REFINERY   04-07 0112</field>
-	<field name = "TITLE">BP SCOTTISH REFINERY SET TO RESTART THIS WEEK</field>
+	<field name = "titulo">BP SCOTTISH REFINERY SET TO RESTART THIS WEEK</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">The British Petroleum BP.L> Co Plc's
+	<field name = "content">The British Petroleum BP.L> Co Plc's
 refinery at Grangemouth, Scotland, shut down after an explosion
 and fire in the hydrocracker on March 22, will probably be back
 in operation towards the week-end, a refinery spokesman said.

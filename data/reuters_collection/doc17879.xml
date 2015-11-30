@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 00:14:33.10</field>
 	<field name = "TOPICS">naphtha</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">Y
-f0010reute
-u f BC-SOUTH-KOREA-RAISES-NA   06-02 0034</field>
-	<field name = "TITLE">SOUTH KOREA RAISES NAPHTHA PRICE</field>
+	<field name = "titulo">SOUTH KOREA RAISES NAPHTHA PRICE</field>
 	<field name = "DATELINE">SEOUL, June 2 -</field>
-	<field name = "BODY">South Korea raised its pre-tax ex-factory
+	<field name = "content">South Korea raised its pre-tax ex-factory
 naphtha price to 104.21 won per litre from 103.97 won,
 effective today, energy ministry officials said.
  REUTER</field>

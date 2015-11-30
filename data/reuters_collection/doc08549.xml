@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 17:35:31.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2559reute
-b f BC-INLAND-IAD>,-NIPPON   03-23 0097</field>
-	<field name = "TITLE">INLAND IAD>, NIPPON FORM JOINT STEEL VENTURE</field>
+	<field name = "titulo">INLAND IAD>, NIPPON FORM JOINT STEEL VENTURE</field>
 	<field name = "DATELINE">CHICAGO, March 23 -</field>
-	<field name = "BODY">Inland Steel Industries said it has
+	<field name = "content">Inland Steel Industries said it has
 formed a joint venture with Japan's Nippon Steel Corp to build
 and operate a cold-rolled steel products plant costing more
 than 400 mln dlrs.

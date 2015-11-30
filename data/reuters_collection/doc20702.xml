@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 16:12:20.77</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F 
-f3138reute
-b f BC-NYSE-VOLUME-APPEARS-C   10-20 0082</field>
-	<field name = "TITLE">NYSE VOLUME APPEARS CLOSE TO MONDAY'S RECORD</field>
+	<field name = "titulo">NYSE VOLUME APPEARS CLOSE TO MONDAY'S RECORD</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Unofficial volume figures from the New
+	<field name = "content">Unofficial volume figures from the New
 York Stock Exchange show Tuesday's turnover was nearly
 identical to the 603 mln shares traded on Monday.
     Unofficial figures from the Exchange floor showed the Dow

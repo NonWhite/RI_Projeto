@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:12:12.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0498reute
-r f BC-CITIZENS-FIDELITY-CF   03-11 0107</field>
-	<field name = "TITLE">CITIZENS FIDELITY CFDY> PAPER UPGRADED BY S/P</field>
+	<field name = "titulo">CITIZENS FIDELITY CFDY> PAPER UPGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 raised to A-1-plus from A-1 the commercial paper of Citizens
 Fidelity Corp and its unit Citizens Fidelity Bank and Trust.
     S and P cited the completion of the firm's merger with PNC

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 12:11:18.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1570reute
-d f BC-COLOROCS-CLRX>-TO-BE   03-23 0094</field>
-	<field name = "TITLE">COLOROCS CLRX> TO BE ISSUED U.S. PATENT</field>
+	<field name = "titulo">COLOROCS CLRX> TO BE ISSUED U.S. PATENT</field>
 	<field name = "DATELINE">NORCROSS, Ga., March 23 -</field>
-	<field name = "BODY">Colorocs Corp said it has been
+	<field name = "content">Colorocs Corp said it has been
 notified the company's first patent for "Improved Print Engine
 for Color Electrophotography" has been granted and will be
 issued tomorrow.

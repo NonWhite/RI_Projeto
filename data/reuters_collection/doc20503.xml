@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 14:01:09.06</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">V RM 
-f2569reute
-b f BC-/NYSE-SAYS-NO-MAJOR-F   10-20 0117</field>
-	<field name = "TITLE">NYSE SAYS NO MAJOR FIRMS REPORTING PROBLEMS</field>
+	<field name = "titulo">NYSE SAYS NO MAJOR FIRMS REPORTING PROBLEMS</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">No major member firms of the New York
+	<field name = "content">No major member firms of the New York
 Stock Exchange have reported any financial difficulties, NYSE
 vice president Richard Torrenzano said.
     He said the only difficulty reported since the market fell

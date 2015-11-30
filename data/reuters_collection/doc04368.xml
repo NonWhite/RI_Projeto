@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 13:21:47.76</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0910reute
-u f BC-PUROLATOR   03-12 0117</field>
-	<field name = "TITLE">PUROLATOR PCC> DIRECTOR QUITS OVER BUYOUT</field>
+	<field name = "titulo">PUROLATOR PCC> DIRECTOR QUITS OVER BUYOUT</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">A Purolator Courier Corp director
+	<field name = "content">A Purolator Courier Corp director
 resigned from the company's board, saying he plans to take
 steps to make or find an offer that tops the 265 mln dlr buyout
 deal already accepted by Purolator's board, the company said.

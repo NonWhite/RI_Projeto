@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 15:02:41.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0359reute
-h f AM-BANKING   03-11 0086</field>
-	<field name = "TITLE">OKLAHOMA BANKING CHIEF WILL APPEAL CHARGE</field>
+	<field name = "titulo">OKLAHOMA BANKING CHIEF WILL APPEAL CHARGE</field>
 	<field name = "DATELINE">OKLAHOMA CITY, Okla. March 11, Reuter -</field>
-	<field name = "BODY">State Banking
+	<field name = "content">State Banking
 Commissioner Robert Empie, ordered removed from office in an
 alleged insider trading scheme, plans to fight the charges, an
 aide said today.

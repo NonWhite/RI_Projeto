@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 14:24:34.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2108reute
-r f BC-NBC-1STLD   06-29 0104</field>
-	<field name = "TITLE">NBC SAYS PROGRAMMING NOT AFFECTED BY STRIKE</field>
+	<field name = "titulo">NBC SAYS PROGRAMMING NOT AFFECTED BY STRIKE</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">National Broadcasting Co, a unit of
+	<field name = "content">National Broadcasting Co, a unit of
 General Electric Co GE>, said programming has not been
 affected by a strike which began just after midnight June 28.
     "Right now things are running very smoothly," said NBC

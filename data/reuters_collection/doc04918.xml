@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 13:17:27.81</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "EXCHANGES">ase</field>
-	<field name = "UNKNOWN">F
-f0846reute
-r f BC-ATTN-EDITOR---DUTCH-P   03-13 0093</field>
-	<field name = "TITLE">AMSTERDAM BOURSE SAID DELAYING DREXEL MEMBERSHIP</field>
+	<field name = "titulo">AMSTERDAM BOURSE SAID DELAYING DREXEL MEMBERSHIP</field>
 	<field name = "DATELINE">AMSTERDAM, March 13 -</field>
-	<field name = "BODY">The Amsterdam Stock Exchange today
+	<field name = "content">The Amsterdam Stock Exchange today
 declined to comment on a press report saying Drexel Burnham
 Lambert Inc's request for membership had been delayed pending
 investigation by the U.S. Securities and Exchange Commission.

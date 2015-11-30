@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f1058reute
-d f BC-BOND-CORP-HAS-NO-COMM   03-24 0102</field>
-	<field name = "TITLE">BOND CORP HAS NO COMMENT ON ALLIED SPECULATION</field>
+	<field name = "titulo">BOND CORP HAS NO COMMENT ON ALLIED SPECULATION</field>
 	<field name = "DATELINE">LONDON, March 24 -</field>
-	<field name = "BODY">Bond Corp Holdings Ltd  BONA.S> of
+	<field name = "content">Bond Corp Holdings Ltd  BONA.S> of
 Australia said it had no comment on an article in a London
 evening newspaper speculating on its plans for a bid approach
 to U.K. dDrinks and food giant Allied Lyons Plc ALLD.L>.

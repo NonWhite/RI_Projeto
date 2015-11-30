@@ -3,13 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0509
-reute
-b f BC-U.K.-MONEY-MARKET-OFF   03-02 0102</field>
-	<field name = "TITLE">U.K. MONEY MARKET OFFERED BORROWING FACILTIES</field>
+	<field name = "titulo">U.K. MONEY MARKET OFFERED BORROWING FACILTIES</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">The Bank of England said it had offered
+	<field name = "content">The Bank of England said it had offered
 borrowing facilities to those discount houses wishing to use
 them at 1430 GMT.
     The Bank also said it provided the money market 456 mln stg

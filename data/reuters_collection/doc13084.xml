@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 15:11:58.19</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2078reute
-u f BC-CENERGY   04-03 0112</field>
-	<field name = "TITLE">SNYDER SOI> MAKES CENERGY CRG> EXCHANGE OFFER</field>
+	<field name = "titulo">SNYDER SOI> MAKES CENERGY CRG> EXCHANGE OFFER</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">Snyder Oil Partners L.P. told the
+	<field name = "content">Snyder Oil Partners L.P. told the
 Securities and Exchange Commission it made an exchange offer to
 Cenergy Corp that would allow Snyder to acquire up to 49.9 pct
 of the company's common stock.

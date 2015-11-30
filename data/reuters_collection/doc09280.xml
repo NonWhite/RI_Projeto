@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 09:34:52.92</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0895reute
-b f BC-INSPECTORATE-ISSUES-2   03-25 0115</field>
-	<field name = "TITLE">INSPECTORATE ISSUES 200 MLN MARK EQUITY EUROBOND</field>
+	<field name = "titulo">INSPECTORATE ISSUES 200 MLN MARK EQUITY EUROBOND</field>
 	<field name = "DATELINE">FRANKFURT, March 25 -</field>
-	<field name = "BODY">A unit of Inspectorate International
+	<field name = "content">A unit of Inspectorate International
 AG INSZ.Z> is raising 200 mln marks through an equity warrant
 eurobond package with a two pct coupon priced at par, lead
 manager Schweizerische Bankverein (Deutschland) AG said.

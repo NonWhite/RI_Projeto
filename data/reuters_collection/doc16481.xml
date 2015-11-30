@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:51:55.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1838reute
-r f BC-PENN-PACIFIC-PPAC.O>   04-13 0070</field>
-	<field name = "TITLE">PENN PACIFIC PPAC.O> TO SELL DEBT OUTSIDE U.S.</field>
+	<field name = "titulo">PENN PACIFIC PPAC.O> TO SELL DEBT OUTSIDE U.S.</field>
 	<field name = "DATELINE">SANTA ANA, Calif., April 13 -</field>
-	<field name = "BODY">Penn Pacific Corp said it
+	<field name = "content">Penn Pacific Corp said it
 plans to place about two mln dlrs of convertible debentures
 with persons outside the U.S. through Euro Continental
 Securities.

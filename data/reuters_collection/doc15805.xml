@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 14:06:56.79</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">Y
-f2023reute
-u f BC-HUGHES'-U.S.-RIG-COUN   04-09 0089</field>
-	<field name = "TITLE">HUGHES' HT> U.S. RIG COUNT RISES TO 752</field>
+	<field name = "titulo">HUGHES' HT> U.S. RIG COUNT RISES TO 752</field>
 	<field name = "DATELINE">HOUSTON, April 9 -</field>
-	<field name = "BODY">The U.S. drilling rig count rose by four
+	<field name = "content">The U.S. drilling rig count rose by four
 last week to a total of 752, against 987 working rigs one year
 ago, Hughes Tool Co said.
     In Canada, the rig count continued falling last week

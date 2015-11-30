@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 16:02:25.91</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2976reute
-r f BC-CHEMED-CORP-CHE>-3RD   10-19 0047</field>
-	<field name = "TITLE">CHEMED CORP CHE> 3RD QTR NET</field>
+	<field name = "titulo">CHEMED CORP CHE> 3RD QTR NET</field>
 	<field name = "DATELINE">CINCINNATI, Ohio, Oct 19 -</field>
-	<field name = "BODY">Primary shr 68 cts vs 65 cts
+	<field name = "content">Primary shr 68 cts vs 65 cts
     Diluted shr 62 cts vs 60 cts
     Net 6,053,000 vs 5,803,000
     Revs 101.4 mln vs 94.8 mln

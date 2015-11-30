@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:39:49.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1786reute
-d f BC-CONSUL-CNSL.O>-EXTEN   04-13 0121</field>
-	<field name = "TITLE">CONSUL CNSL.O> EXTENDS EXCHANGE DEADLINE</field>
+	<field name = "titulo">CONSUL CNSL.O> EXTENDS EXCHANGE DEADLINE</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 13 -</field>
-	<field name = "BODY">Consul Restaurant Corp said it
+	<field name = "content">Consul Restaurant Corp said it
 extended the deadline of its exchange offer for its 13 pct
 convertible debentures due 1992 to 1700 CDT April 24.
     The offer originally was scheduled to expire April 13.

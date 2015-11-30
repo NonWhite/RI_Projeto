@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 12:38:20.58</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">zambia</field>
-	<field name = "UNKNOWN">RM
-f0945reute
-u f BC-BANK-OF-ZAMBIA-PAYS-O   03-09 0104</field>
-	<field name = "TITLE">BANK OF ZAMBIA PAYS OUT FOREIGN CURRENCY ARREARS</field>
+	<field name = "titulo">BANK OF ZAMBIA PAYS OUT FOREIGN CURRENCY ARREARS</field>
 	<field name = "DATELINE">LUSAKA, March 9 -</field>
-	<field name = "BODY">The Bank of Zambia has paid out foreign
+	<field name = "content">The Bank of Zambia has paid out foreign
 exchange arrears from three auctions conducted last year, a
 bank spokesman said.
     "We have now cleared three auctions and are left with only

@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0048reute
-r f BC-BRITISH-MINISTER-SAYS   04-11 0105</field>
-	<field name = "TITLE">BRITISH MINISTER SAYS HE WARNED TOKYO OF SANCTIONS</field>
+	<field name = "titulo">BRITISH MINISTER SAYS HE WARNED TOKYO OF SANCTIONS</field>
 	<field name = "DATELINE">LONDON, April 11 -</field>
-	<field name = "BODY">A British minister said he had given the
+	<field name = "content">A British minister said he had given the
 Japanese government a clear warning of sanctions against
 Japanese companies if Tokyo did not allow more access to its
 internal markets "and it was clearly understood."

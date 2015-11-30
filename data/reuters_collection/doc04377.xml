@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 13:29:29.97</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0941reute
-d f BC-NORTH-AMERICAN-HOLDIN   03-12 0065</field>
-	<field name = "TITLE">NORTH AMERICAN HOLDING CORP NAHL> 3RD QTR NET</field>
+	<field name = "titulo">NORTH AMERICAN HOLDING CORP NAHL> 3RD QTR NET</field>
 	<field name = "DATELINE">EAST HARTFORD, Conn., March 12 -</field>
-	<field name = "BODY">Dec 31 end
+	<field name = "content">Dec 31 end
     Shr profit nil vs loss four cts
     Net profit 6,891 vs loss 590,460
     Revs 6,518,133 vs 2,521,884

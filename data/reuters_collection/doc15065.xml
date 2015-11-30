@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:21:19.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1392reute
-d f BC-CMS-ACMS>-UNVEILS-FI   04-08 0111</field>
-	<field name = "TITLE">CMS ACMS> UNVEILS FIRST IBM SYSTEM/2 ADD ONS</field>
+	<field name = "titulo">CMS ACMS> UNVEILS FIRST IBM SYSTEM/2 ADD ONS</field>
 	<field name = "DATELINE">TUSTIN, Calif., April 8 -</field>
-	<field name = "BODY">CMS Enhancements Inc said it has
+	<field name = "content">CMS Enhancements Inc said it has
 introduced the first add-on mass storage products for the new
 International Business Machines Corp IBM> IBM Personal
 System/2 Model 30 personal computers.

@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 11:02:30.60</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f0436reute
-u f BC-TENNECO-TGT>-DECLINE   03-11 0060</field>
-	<field name = "TITLE">TENNECO TGT> DECLINES COMMENT ON STOCK</field>
+	<field name = "titulo">TENNECO TGT> DECLINES COMMENT ON STOCK</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">The New York Stock Exchange said
+	<field name = "content">The New York Stock Exchange said
 Tenneco Inc declined to comment on whether there were any
 corporate developments that might explain the unusual activity
 in its stock.

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 07:21:50.13</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E V RM
-f0445reute
-b f BC-embargoed-0700edt-CAN   04-09 0096</field>
-	<field name = "TITLE">CANADA FEBRUARY TRADE SURPLUS 1.2 BILLION DLRS</field>
+	<field name = "titulo">CANADA FEBRUARY TRADE SURPLUS 1.2 BILLION DLRS</field>
 	<field name = "DATELINE">OTTAWA, April 9 -</field>
-	<field name = "BODY">Canada had a trade surplus of 1.25
+	<field name = "content">Canada had a trade surplus of 1.25
 billion dlrs in February compared with an upward revised 623
 mln dlrs surplus in January, Statistics Canada said.
     The January surplus originally was reported at 533 mln

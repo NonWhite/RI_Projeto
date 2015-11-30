@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:11:29.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1496reute
-r f BC-NATIONAL-GYPSUM-DEBT   04-07 0109</field>
-	<field name = "TITLE">NATIONAL GYPSUM DEBT UPGRADED BY MOODY'S</field>
+	<field name = "titulo">NATIONAL GYPSUM DEBT UPGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Moody's Investors Services Inc said it
+	<field name = "content">Moody's Investors Services Inc said it
 upgraded upgraded to B-1 from B-3 National Gypsum Co's 887 mln
 dlrs of industrial revenue and pollution control bonds.
     Moody's said a highly leveraged capital structure and thin

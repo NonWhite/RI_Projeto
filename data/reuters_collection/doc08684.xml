@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 07:40:04.35</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0593reute
-b f BC-NORCROS-REJECTS-542.2   03-24 0109</field>
-	<field name = "TITLE">NORCROS REJECTS 542.2 MLN STG BID FROM WILLIAMS</field>
+	<field name = "titulo">NORCROS REJECTS 542.2 MLN STG BID FROM WILLIAMS</field>
 	<field name = "DATELINE">LONDON, March 24 -</field>
-	<field name = "BODY">Norcros Plc NCRO.L> the building
+	<field name = "content">Norcros Plc NCRO.L> the building
 products and packaging group said its board had no hesitation
 in unanimously rejecting this morning's 542.2 mln stg bid from
 Williams Holdings Plc>, the industrial holding firm.

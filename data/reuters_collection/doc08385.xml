@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 12:43:00.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F
-f1701reute
-d f BC-TANDY-BRANDS-TAB>-PL   03-23 0110</field>
-	<field name = "TITLE">TANDY BRANDS TAB> PLACES CONVERTIBLE NOTES</field>
+	<field name = "titulo">TANDY BRANDS TAB> PLACES CONVERTIBLE NOTES</field>
 	<field name = "DATELINE">FORT WORTH, Texas, March 23 -</field>
-	<field name = "BODY">Trandy Brands Inc said 8.0
+	<field name = "content">Trandy Brands Inc said 8.0
 mln dlrs of 8.5 pct, 10-year subordinated convetible notes were
 placed with a private institutional investor by Goldman Sachs
 and Co.

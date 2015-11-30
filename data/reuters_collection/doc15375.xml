@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 03:12:19.20</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0092reute
-u f BC-HONDA-TO-SELL-FOUR-WH   04-09 0101</field>
-	<field name = "TITLE">HONDA TO SELL FOUR-WHEEL STEERING CARS</field>
+	<field name = "titulo">HONDA TO SELL FOUR-WHEEL STEERING CARS</field>
 	<field name = "DATELINE">TOKYO, April 9 -</field>
-	<field name = "BODY">Honda Motor Corp HMC.T> will sell cars
+	<field name = "content">Honda Motor Corp HMC.T> will sell cars
 equipped with four-wheel steering in Japan from tomorrow and
 will export the cars to the U.S. And Europe later this year,
 company officials said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:12:24.00</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f1016reute
-r f BC-FHLBB-CHANGES-SHORT-T   04-01 0083</field>
-	<field name = "TITLE">FHLBB CHANGES SHORT-TERM DISCOUNT NOTE RATES</field>
+	<field name = "titulo">FHLBB CHANGES SHORT-TERM DISCOUNT NOTE RATES</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">The Federal Home Loan Bank Board
+	<field name = "content">The Federal Home Loan Bank Board
 adjusted the rates on its short-term discount notes as follows:
     MATURITY   NEW RATE  OLD RATE  MATURITY
    30-69 days  5.00 pct  5.00 pct   30-124 days

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 16:56:00.71</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2502reute
-r f BC-FIRST-OF-AMERICA-(FAB   06-01 0073</field>
-	<field name = "TITLE">FIRST OF AMERICA (FABK.O) ACQUIRES KEYSTONE</field>
+	<field name = "titulo">FIRST OF AMERICA (FABK.O) ACQUIRES KEYSTONE</field>
 	<field name = "DATELINE">KALAMAZOO, Mich, June 1 -</field>
-	<field name = "BODY">First of America Bank Corp said
+	<field name = "content">First of America Bank Corp said
 it acquired (Keystone Bancshares Inc) for 25 mln dlrs.
     Keystone shareholders will receive 45 dlrs per Keystone
 share, payable in First of America convertible preferred stock

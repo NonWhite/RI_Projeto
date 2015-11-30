@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:51:34.99V RM</field>
-	<field name = "UNKNOWN">f1711reute</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-/U.S.-PRICE-DATA-SUGG   03-27 0107</field>
-	<field name = "TITLE">U.S. PRICE DATA SUGGEST MODERATE INFLATION</field>
+	<field name = "titulo">U.S. PRICE DATA SUGGEST MODERATE INFLATION</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">Latest consumer price data indicate
+	<field name = "content">Latest consumer price data indicate
 U.S. inflation will be moderate in 1987 even though it will be
 above last year's pace, economists said.
     "Inflation is not such a constructive factor as this time

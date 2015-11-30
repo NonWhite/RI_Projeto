@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 00:35:44.06</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">RM
-f0038reute
-u f BC-PERU-CONSUMER-PRICES   06-01 0078</field>
-	<field name = "TITLE">PERU CONSUMER PRICES RISE 5.9 PCT IN MAY</field>
+	<field name = "titulo">PERU CONSUMER PRICES RISE 5.9 PCT IN MAY</field>
 	<field name = "DATELINE">LIMA, May 31 -</field>
-	<field name = "BODY">Peru's consumer price index rose 5.9 pct in
+	<field name = "content">Peru's consumer price index rose 5.9 pct in
 May to 15,706.5 (base 1979) compared to 6.6 pct in April and
 3.3 pct in May 1986, the National Statistics Institute said.
     It said accumulated inflation for the first five months of

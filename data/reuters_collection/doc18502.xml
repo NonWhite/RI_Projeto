@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 04:38:54.46</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM AI 
-f2319reute
-u f BC-DAIRY-FARM-GETS-1.2-B   06-18 0098</field>
-	<field name = "TITLE">DAIRY FARM GETS 1.2 BILLION H.K. DLR LOAN</field>
+	<field name = "titulo">DAIRY FARM GETS 1.2 BILLION H.K. DLR LOAN</field>
 	<field name = "DATELINE">HONG KONG, June 18 -</field>
-	<field name = "BODY">Dairy Farm International Holdings
+	<field name = "content">Dairy Farm International Holdings
 Ltd> obtained a 1.2 billion H.K. Dlr loan from the Hongkong and
 Shanghai Banking Corp to finance its tender offer for a 22 pct
 stake in Kwik Save Discount Group Plc KWIK>, Dairy Farm

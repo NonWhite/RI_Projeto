@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0108reute
-b f BC-BANK-OF-JAPAN-INTERVE   04-26 0090</field>
-	<field name = "TITLE">BANK OF JAPAN INTERVENES IN TOKYO BUYING DOLLARS</field>
+	<field name = "titulo">BANK OF JAPAN INTERVENES IN TOKYO BUYING DOLLARS</field>
 	<field name = "DATELINE">TOKYO, April 27 -</field>
-	<field name = "BODY">The Bank of Japan intervened buying
+	<field name = "content">The Bank of Japan intervened buying
 dollars shortly after the opening of 137.70 yen, dealers said.
     Strong selling from life insurance companies and investment
 trusts pressured the dollar downward, but the U.S. Unit

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">bangemann</field>
-	<field name = "UNKNOWN">M C
-f0222reute
-u f BC-GERMAN-STEEL-SUBSIDIE   03-22 0107</field>
-	<field name = "TITLE">GERMAN STEEL SUBSIDIES CANNOT CONTINUE - MINISTER</field>
+	<field name = "titulo">GERMAN STEEL SUBSIDIES CANNOT CONTINUE - MINISTER</field>
 	<field name = "DATELINE">BONN, March 22 -</field>
-	<field name = "BODY">Economics Minister Martin Bangemann said
+	<field name = "content">Economics Minister Martin Bangemann said
 the state could not continue to pour money into West Germany's
 ailing steel and coal industries because the subsidies
 endangered other parts of the economy.

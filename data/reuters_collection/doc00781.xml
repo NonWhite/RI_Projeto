@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:30:23.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0073
-reute
-d f BC-CYBERTEK-CKCP>-FORMI   03-02 0046</field>
-	<field name = "TITLE">CYBERTEK CKCP> FORMING NEW DIVISION</field>
+	<field name = "titulo">CYBERTEK CKCP> FORMING NEW DIVISION</field>
 	<field name = "DATELINE">LOS ANGELES, March 2 -</field>
-	<field name = "BODY">Cybertek said it is forming a
+	<field name = "content">Cybertek said it is forming a
 General Products division which will be located in Dallas.
     The new division will market personal computer software
 products targeted at the Fortune 500 companies, Cybertek said.

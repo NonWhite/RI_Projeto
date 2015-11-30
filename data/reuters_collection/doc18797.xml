@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">RM A 
-f3809reute
-u f BC-ecuador-has-trade-sur   06-18 0099</field>
-	<field name = "TITLE">ECUADOR HAS TRADE SURPLUS IN FIRST FOUR MONTHS</field>
+	<field name = "titulo">ECUADOR HAS TRADE SURPLUS IN FIRST FOUR MONTHS</field>
 	<field name = "DATELINE">QUITO, June 18 -</field>
-	<field name = "BODY">Ecuador posted a trade surplus of 10.6 mln
+	<field name = "content">Ecuador posted a trade surplus of 10.6 mln
 dlrs in the first four months of 1987 compared with a surplus
 of 271.7 mln in the same period in 1986, the central bank of
 Ecuador said in its latest monthly report.

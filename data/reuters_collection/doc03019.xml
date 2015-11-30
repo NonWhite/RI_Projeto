@@ -6,13 +6,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">poehl</field>
-	<field name = "UNKNOWN">RM
-f0895reute
-u f BC-POEHL-SAYS-FURTHER-RA   03-09 0110</field>
-	<field name = "TITLE">POEHL SAYS FURTHER RATE CUT POSSIBLE - SOURCES</field>
+	<field name = "titulo">POEHL SAYS FURTHER RATE CUT POSSIBLE - SOURCES</field>
 	<field name = "AUTHOR">By Allan Saunderson and Antonia Sharpe, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 9 -</field>
-	<field name = "BODY">Bundesbank president Karl Otto Poehl
+	<field name = "content">Bundesbank president Karl Otto Poehl
 told a closed investment symposium that West Germany could cut
 leading interest rates again if the United States makes a
 similar move, banking sources said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 08:35:01.60</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">lawson</field>
-	<field name = "UNKNOWN">RM 
-f0669reute
-u f BC-LAWSON-SAYS-LOW-U.K.   06-19 0106</field>
-	<field name = "TITLE">LAWSON SAYS LOW U.K. UNIT WAGE COSTS HELP EXPORTS</field>
+	<field name = "titulo">LAWSON SAYS LOW U.K. UNIT WAGE COSTS HELP EXPORTS</field>
 	<field name = "DATELINE">LONDON, June 19 -</field>
-	<field name = "BODY">Chancellor of the Exchequer Nigel Lawson
+	<field name = "content">Chancellor of the Exchequer Nigel Lawson
 said current low unit wage costs are helping British exports
 but wage rises are "faster than is comfortable."
     He hoped yesterday's Organisation for Economic Cooperation

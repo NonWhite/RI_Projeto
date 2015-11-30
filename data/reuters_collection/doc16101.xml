@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 00:04:04.91</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0004reute
-u f BC-CANON,-INTEL-AGREE-ON   04-13 0110</field>
-	<field name = "TITLE">CANON, INTEL AGREE ON MICROCHIP TIE-UP</field>
+	<field name = "titulo">CANON, INTEL AGREE ON MICROCHIP TIE-UP</field>
 	<field name = "DATELINE">TOKYO, April 13 -</field>
-	<field name = "BODY">Canon Inc CANN.T> and Intel Corp INTC>
+	<field name = "content">Canon Inc CANN.T> and Intel Corp INTC>
 of the U.S. Agreed to the joint development, production and
 import of very large scale integrated circuits, a Canon
 spokesman said.

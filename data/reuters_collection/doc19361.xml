@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:49:09.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F 
-f2044reute
-r f BC-stelco   06-19 0114</field>
-	<field name = "TITLE">STELCO STEA.TO> IN VENTURE WITH ARMCO AS></field>
+	<field name = "titulo">STELCO STEA.TO> IN VENTURE WITH ARMCO AS></field>
 	<field name = "DATELINE">TORONTO, June 19 -</field>
-	<field name = "BODY">Stelco Inc said it formed a 15 mln U.S.
+	<field name = "content">Stelco Inc said it formed a 15 mln U.S.
 dlr joint venture with Northern Automatic Electric Foundry, a
 wholly owned unit of Armco Inc, to produce cast grinding media
 and mill lines for the mining industry worldwide.

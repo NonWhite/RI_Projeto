@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 15:53:30.16</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0521reute
-d f BC-U.S.,-JAPANESE-JOIN-T   03-11 0111</field>
-	<field name = "TITLE">U.S., JAPANESE JOIN TO BID ON KANSAI AIRPORT</field>
+	<field name = "titulo">U.S., JAPANESE JOIN TO BID ON KANSAI AIRPORT</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">The U.S. Austin Co and Japan's
+	<field name = "content">The U.S. Austin Co and Japan's
 Kawasaki Heavy Industries Inc said they have joined to compete
 for contacts for a new Japanese airport at Kansai, near Osaka.
     Austin, a design, engineering and construction firm, said

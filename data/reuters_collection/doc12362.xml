@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 17:31:57.50</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">E F
-f2617reute
-u f BC-CANADA,-JAPAN-TRADING   04-01 0110</field>
-	<field name = "TITLE">CANADA, JAPAN TRADING FIRM AGREE TO BOOST TIES</field>
+	<field name = "titulo">CANADA, JAPAN TRADING FIRM AGREE TO BOOST TIES</field>
 	<field name = "DATELINE">OTTAWA, April 1 -</field>
-	<field name = "BODY">The federal government and the Japanese
+	<field name = "content">The federal government and the Japanese
 trading company, C. Itoh and Co Ltd, have signed a letter of
 understanding to try and boost trade ties between the two
 countries, the Industry department said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 18:40:15.30</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">F
-f2657reute
-r f AM-ARMS-STARWARS (EMBARGOED)  04-07 0083</field>
-	<field name = "TITLE">SENATE REPORT - REAGAN PLANS EARLY SDI DEPLOYMENT</field>
+	<field name = "titulo">SENATE REPORT - REAGAN PLANS EARLY SDI DEPLOYMENT</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">The Reagan administration is secretly
+	<field name = "content">The Reagan administration is secretly
 developing plans for an early deployment of President Reagan's
 controversial "Star Wars" anti-missile system, according to a
 Senate study.

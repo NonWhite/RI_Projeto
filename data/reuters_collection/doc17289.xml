@@ -3,12 +3,9 @@
 	<field name = "PLACES">switzerland</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">A
-f0636reute
-r f PM-ARMS-TALKS ***  04-27 0102</field>
-	<field name = "TITLE">SOVIETS TO PRESENT TREATY ON MISSILES - SOURCES</field>
+	<field name = "titulo">SOVIETS TO PRESENT TREATY ON MISSILES - SOURCES</field>
 	<field name = "DATELINE">GENEVA, April 27 -</field>
-	<field name = "BODY">The Soviet Union will present a draft
+	<field name = "content">The Soviet Union will present a draft
 treaty today calling for elimination of all U.S.-Soviet
 medium-range missiles in Europe, an official source in the
 Soviet arms negotiating team told Reuters.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 12:37:11.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f1827reute
-r f BC-SUBCOMMITTE-APPROVES   03-31 0131</field>
-	<field name = "TITLE">SUBCOMMITTE APPROVES SAVINGS INSURANCE FUND</field>
+	<field name = "titulo">SUBCOMMITTE APPROVES SAVINGS INSURANCE FUND</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">A House Banking subcommittee voted
+	<field name = "content">A House Banking subcommittee voted
 to authorize a 25 billion dlr recapitalization of the Federal
 Savings and Loan Insurance Corp and allow forebearance of some
 bad loans by savings associations.

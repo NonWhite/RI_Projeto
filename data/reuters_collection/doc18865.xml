@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 13:36:35.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4106reute
-r f BC-KRAFT   06-18 0108</field>
-	<field name = "TITLE">FTC CHARGES KRAFT KRA> WITH FALSE ADVERTISING</field>
+	<field name = "titulo">FTC CHARGES KRAFT KRA> WITH FALSE ADVERTISING</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">The Federal Trade Commission charged
+	<field name = "content">The Federal Trade Commission charged
 Kraft Inc with false and misleading advertising by overstating
 the calcuim content of its Kraft Singles cheese product.
     In an administrative complaint, the FTC charged the

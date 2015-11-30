@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 17:51:25.56</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f0649reute
-b f BC-CANADA-BUDGET-DEFICIT   03-13 0069</field>
-	<field name = "TITLE">CANADA BUDGET DEFICIT FELL IN DECEMBER</field>
+	<field name = "titulo">CANADA BUDGET DEFICIT FELL IN DECEMBER</field>
 	<field name = "DATELINE">Ottawa, March 13 -</field>
-	<field name = "BODY">Canada's federal budget deficit fell to
+	<field name = "content">Canada's federal budget deficit fell to
 2.01 billion dlrs in December from 2.27 billion dlrs a year
 earlier, the finance department said.
     The government said revenues in December totaled 8.17

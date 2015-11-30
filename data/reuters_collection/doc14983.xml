@@ -3,12 +3,9 @@
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM F A
-f0956reute
-b f BC-/BANKERS-TRUST-BT>-P   04-08 0049</field>
-	<field name = "TITLE">BANKERS TRUST BT> PUTS BRAZIL ON NON-ACCRUAL</field>
+	<field name = "titulo">BANKERS TRUST BT> PUTS BRAZIL ON NON-ACCRUAL</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Bankers Trust New York Corp said it has
+	<field name = "content">Bankers Trust New York Corp said it has
 placed its approximately 540 mln dlrs of medium- and long-term
 loans to Brazil on non-accrual status and that first-quarter
 net income will be reduced by about seven mln dlrs as a result.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 12:23:38.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0683reute
-r f BC-TRITON-ENERGY-OIL>-P   03-12 0050</field>
-	<field name = "TITLE">TRITON ENERGY OIL> PRESIDENT RESIGNS</field>
+	<field name = "titulo">TRITON ENERGY OIL> PRESIDENT RESIGNS</field>
 	<field name = "DATELINE">DALLAS, March 12 -</field>
-	<field name = "BODY">Triton Energy Corp said president Thomas
+	<field name = "content">Triton Energy Corp said president Thomas
 Goff resigned.
     The company gave no reason for the resignation.
     It said chairman and chief executive officer William Lee

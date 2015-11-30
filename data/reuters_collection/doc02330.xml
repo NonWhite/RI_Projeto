@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 14:02:42.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0310reute
-r f BC-MEDIQ-MED>-TO-SPIN-O   03-05 0090</field>
-	<field name = "TITLE">MEDIQ MED> TO SPIN OFF FINANCIAL SERVICES UNIT</field>
+	<field name = "titulo">MEDIQ MED> TO SPIN OFF FINANCIAL SERVICES UNIT</field>
 	<field name = "DATELINE">PENNSAUKEN, N.J., March 5 -</field>
-	<field name = "BODY">MEDIQ Inc said it has filed a
+	<field name = "content">MEDIQ Inc said it has filed a
 statement with the Securities and Exchange Commission to set up
 its Copelco Financial Services Group Inc unit as a publicly
 traded leasing company.

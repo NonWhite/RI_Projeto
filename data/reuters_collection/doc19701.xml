@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 11:58:45.54</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1532reute
-r f BC-GIBRALTAR-GFC>-TO-BU   06-29 0094</field>
-	<field name = "TITLE">GIBRALTAR GFC> TO BUY THRIFT FOR 12 MLN DLRS</field>
+	<field name = "titulo">GIBRALTAR GFC> TO BUY THRIFT FOR 12 MLN DLRS</field>
 	<field name = "DATELINE">BEVERLY HILLS, Calif., June 29 -</field>
-	<field name = "BODY">Gibraltar Financial Corp
+	<field name = "content">Gibraltar Financial Corp
 said its Gibraltar Savings unit has agreed in principle to buy
 First Federal Savings and Loan of Ridgecrest> for about 12.1
 mln dlrs cash.

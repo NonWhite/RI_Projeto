@@ -4,12 +4,9 @@
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">C G
-f2237reute
-u f BC-TURKEY-ELIGIBLE-FOR-U   04-03 0074</field>
-	<field name = "TITLE">TURKEY ELIGIBLE FOR U.S. BONUS RICE</field>
+	<field name = "titulo">TURKEY ELIGIBLE FOR U.S. BONUS RICE</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The U.S. Agriculture Department said
+	<field name = "content">The U.S. Agriculture Department said
 Turkey has been made eligible for the sale of up to 70,000
 tonnes of medium grain milled rice under the department's
 export enhancement program, EEP.

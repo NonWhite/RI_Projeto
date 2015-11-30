@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">philippines</field>
 	<field name = "PEOPLE">ongpin</field>
-	<field name = "UNKNOWN">RM
-f1397reute
-u f BC-PHILIPPINES-SEES-1987   03-16 0111</field>
-	<field name = "TITLE">PHILIPPINES SEES 1987 GOVERNMENT REVENUE UP 26 PCT</field>
+	<field name = "titulo">PHILIPPINES SEES 1987 GOVERNMENT REVENUE UP 26 PCT</field>
 	<field name = "DATELINE">MANILA, March 16 -</field>
-	<field name = "BODY">Philippine government revenue is
+	<field name = "content">Philippine government revenue is
 expected to rise 26 pct to 99.9 billion pesos this year from
 79.1 billion in 1986, Finance Secretary Jaime Ongpin said.
     In a report to President Corazon Aquino on his department's

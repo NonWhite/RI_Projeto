@@ -3,13 +3,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F
-f2358reute
-r f BC-BRITISH-AIRWAYS-BAB> SCHEDULED  06-01 0094</field>
-	<field name = "TITLE">BRITISH AIRWAYS BAB> SEES SMOOTH TRANSITION</field>
+	<field name = "titulo">BRITISH AIRWAYS BAB> SEES SMOOTH TRANSITION</field>
 	<field name = "AUTHOR">By Philip Barbara, Reuters</field>
 	<field name = "DATELINE">CHICAGO, June 1 -</field>
-	<field name = "BODY">British Airways is looking forward to
+	<field name = "content">British Airways is looking forward to
 industry deregulation in Europe and believes it will be a
 smoother transition than the turmoil that followed the opening
 of the U.S. skies, its chief executive said.

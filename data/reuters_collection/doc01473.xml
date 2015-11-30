@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 10:22:35.49</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0354reute
-b f BC-DNC-UNIT-ISSUES-19-BI   03-04 0084</field>
-	<field name = "TITLE">DNC UNIT ISSUES 19 BILLION ZERO COUPON YEN BOND</field>
+	<field name = "titulo">DNC UNIT ISSUES 19 BILLION ZERO COUPON YEN BOND</field>
 	<field name = "DATELINE">LONDON, March 4 -</field>
-	<field name = "BODY">DNC International Finance A/S is issuing
+	<field name = "content">DNC International Finance A/S is issuing
 a 19 billion yen, zero coupon eurobond due March 17, 1992 and
 priced at 80.9 pct, lead manager Daiwa Europe Ltd said.
     The bond is guaranteed by Den norske Creditbank and is

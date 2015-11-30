@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 18:52:32.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2856reute
-h f BC-DATA-ARCHITECTS-DRCH   04-09 0052</field>
-	<field name = "TITLE">DATA ARCHITECTS DRCH> TO MAKE OFFERING</field>
+	<field name = "titulo">DATA ARCHITECTS DRCH> TO MAKE OFFERING</field>
 	<field name = "DATELINE">WALTHAM, Mass, April 9 -</field>
-	<field name = "BODY">Data Architects inc said it
+	<field name = "content">Data Architects inc said it
 intends to make a public offering of 850,000 shares of its
 common stock, of which 672,000 shares will be sold by the
 company and 178,000 by certain shareholders.

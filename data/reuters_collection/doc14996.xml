@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:06:05.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1024reute
-r f BC-QVC-NETWORK-QVCN>-CL   04-08 0095</field>
-	<field name = "TITLE">QVC NETWORK QVCN> CLARIFIES AGREEMENT</field>
+	<field name = "titulo">QVC NETWORK QVCN> CLARIFIES AGREEMENT</field>
 	<field name = "DATELINE">WESTCHESTER, Pa., April 8 -</field>
-	<field name = "BODY">QVC Network Inc said its
+	<field name = "content">QVC Network Inc said its
 agreement in principle with Safeguard Scientifics Inc SFE>
 allows Safeguard to name the majority of QVC's directors only
 if a seven mln dlr indebtedness to Safeguard is in default.

@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 08:24:45.26</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f0761reute
-b f BC-CONRAIL-INITIAL-OFFER   03-26 0103</field>
-	<field name = "TITLE">CONRAIL INITIAL OFFER PRICED AT 28 DLRS SHARE</field>
+	<field name = "titulo">CONRAIL INITIAL OFFER PRICED AT 28 DLRS SHARE</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Lead underwriter Goldman, Sachs and
+	<field name = "content">Lead underwriter Goldman, Sachs and
 Co> said an initial public offering of 58,750,000 shares of
 Consolidated Rail Corp> common stock has been priced at 28.00
 dlrs per share.

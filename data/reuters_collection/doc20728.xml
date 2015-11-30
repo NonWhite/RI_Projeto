@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 16:33:51.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3200reute
-d f BC-MERRILL-MER>-CHAIRMA   10-20 0099</field>
-	<field name = "TITLE">MERRILL MER> CHAIRMAN AND CFO ARE OPTIMISTIC</field>
+	<field name = "titulo">MERRILL MER> CHAIRMAN AND CFO ARE OPTIMISTIC</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">In a joint statement, Merrill Lynch and
+	<field name = "content">In a joint statement, Merrill Lynch and
 Co Inc chairman and chief executive William Schreyer and chief
 operating officer Daniel tully said that despite the
 unprecedented stock market decline, they are confident that an

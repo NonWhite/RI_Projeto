@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:53:38.37</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1464reute
-u f BC-LLOYD'S-OFFERS-CASH-I   04-09 0095</field>
-	<field name = "TITLE">LLOYD'S OFFERS CASH IN BID TO END PCW AFFAIR</field>
+	<field name = "titulo">LLOYD'S OFFERS CASH IN BID TO END PCW AFFAIR</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Lloyd's of London has offered to meet
+	<field name = "content">Lloyd's of London has offered to meet
 part of the 235 mln stg in claims that investors in PCW
 Underwriting Agencies face due to fraud and mismanagement,
 chairman Peter Miller said at a press conference.

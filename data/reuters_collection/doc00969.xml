@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 08:28:35.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0154
-reute
-u f BC-AMR-AMR>-TO-HOLD-PRE   03-03 0062</field>
-	<field name = "TITLE">AMR AMR> TO HOLD PRESS CONFERENCE THIS MORNING</field>
+	<field name = "titulo">AMR AMR> TO HOLD PRESS CONFERENCE THIS MORNING</field>
 	<field name = "DATELINE">DALLAS/FORT WORTH, Texas, March 3 -</field>
-	<field name = "BODY">AMR Corp will hold a
+	<field name = "content">AMR Corp will hold a
 press conference this morning in New York at 0900 EST, a
 company spokesman said.
     He would not comment on the subject of the press

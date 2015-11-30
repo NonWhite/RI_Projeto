@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:05:44.68</field>
-	<field name = "UNKNOWN">C G L M T RM
-f1446reute
-u f BC-REUTER-COMMODITIES-NE   04-07 0111</field>
-	<field name = "TITLE">REUTER COMMODITIES NEWS HIGHLIGHTS 1600 GMT - APRIL 7</field>
+	<field name = "titulo">REUTER COMMODITIES NEWS HIGHLIGHTS 1600 GMT - APRIL 7</field>
 	<field name = "DATELINE">HAMBURG -</field>
-	<field name = "BODY">Malaysian and Indonesian palm oil production is
+	<field name = "content">Malaysian and Indonesian palm oil production is
 likely to drop sharply this year because of lower yields, the
 Hamburg-based newsletter Oil World said.(XYGP 1330)
     NEW YORK - Comex silver futures soared 15 to 18 cents on

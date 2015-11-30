@@ -4,13 +4,10 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">herrington</field>
-	<field name = "UNKNOWN">Y F
-f1739reute
-r f BC-ENERGY/U.S.-OIL-OUTPU   03-25 0104</field>
-	<field name = "TITLE">ENERGY/U.S. OIL OUTPUT</field>
+	<field name = "titulo">ENERGY/U.S. OIL OUTPUT</field>
 	<field name = "AUTHOR">By ROBERT TRAUTMAN, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">Energy Secretary John Herrington has
+	<field name = "content">Energy Secretary John Herrington has
 proposed several ways to boost U.S. oil production, but he said
 all would cost the Treasury money and will come under close
 White House scrutiny before action is taken.

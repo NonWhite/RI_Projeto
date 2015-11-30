@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 10:26:00.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f2193reute
-r f BC-WTD-INDUSTRIES-WTDI>   03-16 0077</field>
-	<field name = "TITLE">WTD INDUSTRIES WTDI> TO SELL DEBENTURES</field>
+	<field name = "titulo">WTD INDUSTRIES WTDI> TO SELL DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">WTD Industries Inc said it filed with
+	<field name = "content">WTD Industries Inc said it filed with
 the Securities and Exchange Commission a registration statement
 covering a 30 mln dlr issue of senior subordinated debentures
 due 1997.

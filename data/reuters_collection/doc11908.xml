@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 09:50:41.96</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0900reute
-d f BC-MEDAR-MDXR>-ACQUIRES   04-01 0067</field>
-	<field name = "TITLE">MEDAR MDXR> ACQUIRES OWENS-ILLINOIS OI> UNIT</field>
+	<field name = "titulo">MEDAR MDXR> ACQUIRES OWENS-ILLINOIS OI> UNIT</field>
 	<field name = "DATELINE">FARMINGTON HILLS, MICH., April 1 -</field>
-	<field name = "BODY">Medar Inc said it
+	<field name = "content">Medar Inc said it
 acquired Automatic Inspection Devices Inc, a subsidiary of
 Owens-Illinois Inc, Toledo, Ohio, through an exchange of stock
 for 80 pct of the company.

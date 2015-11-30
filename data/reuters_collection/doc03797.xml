@@ -3,13 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0031reute
-d f BC-nyk-energy-desk---fol   03-11 0102</field>
-	<field name = "TITLE">ENERGY/FOREIGN INVESTORS</field>
+	<field name = "titulo">ENERGY/FOREIGN INVESTORS</field>
 	<field name = "AUTHOR">By JULIE VORMAN, Reuters</field>
 	<field name = "DATELINE">HOUSTON, March 11 -</field>
-	<field name = "BODY">Lured by the weakening dollar and the
+	<field name = "content">Lured by the weakening dollar and the
 conviction that oil prices are poised for a rebound, European
 energy companies are buying up cheap U.S. oil and gas reserves
 to replenish their supplies, oil industry analysts said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 11:50:03.44</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1627reute
-r f BC-MAY-MA>-TO-SELL-SYCA   03-31 0092</field>
-	<field name = "TITLE">MAY MA> TO SELL SYCAMORE DIVISION</field>
+	<field name = "titulo">MAY MA> TO SELL SYCAMORE DIVISION</field>
 	<field name = "DATELINE">ST. LOUIS, March 31 -</field>
-	<field name = "BODY">The May Department Stores Co said it
+	<field name = "content">The May Department Stores Co said it
 has signed an agreement to sell its Sycamore Specialty Store
 Division to an investment group that includes Syacmore senior
 management.

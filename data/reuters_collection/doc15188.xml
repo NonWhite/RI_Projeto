@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 13:30:20.12</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1975reute
-r f BC-ORANGE-CO-INC-OJ>-2N   04-08 0067</field>
-	<field name = "TITLE">ORANGE-CO INC OJ> 2ND QTR FEB 28 NET</field>
+	<field name = "titulo">ORANGE-CO INC OJ> 2ND QTR FEB 28 NET</field>
 	<field name = "DATELINE">BLOOMFIELD HILLS, Mich., April 8 -</field>
-	<field name = "BODY">Shr profit 2.26 dlrs vs loss 81 cts
+	<field name = "content">Shr profit 2.26 dlrs vs loss 81 cts
     Net profit 9,785,000 vs loss 3,422,000
     Revs 26.0 mln vs 18.9 mln
     Avg shrs 4,316,000 vs 4,207,000

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 10:59:00.59</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0516reute
-b f BC-U.K.-ONE-BILLION-STG   03-04 0113</field>
-	<field name = "TITLE">U.K. ONE BILLION STG BOND ISSUE EXHAUSTED</field>
+	<field name = "titulo">U.K. ONE BILLION STG BOND ISSUE EXHAUSTED</field>
 	<field name = "DATELINE">LONDON, March 4 -</field>
-	<field name = "BODY">A one billion stg issue of nine pct
+	<field name = "content">A one billion stg issue of nine pct
 Exchequer stock due 2002 which became available for trading
 only this morning was exhausted in mid-afternoon trading on the
 U.K. Government bond market, dealers said.

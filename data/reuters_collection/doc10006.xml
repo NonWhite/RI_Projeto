@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:21:18.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1761reute
-r f BC-JONES-INTERNATIONAL-R   03-26 0090</field>
-	<field name = "TITLE">JONES INTERNATIONAL REALIGNS SUBSIDIARIES</field>
+	<field name = "titulo">JONES INTERNATIONAL REALIGNS SUBSIDIARIES</field>
 	<field name = "DATELINE">ENGLEWOOD, Colo., March 26 -</field>
-	<field name = "BODY">Jones International Ltd> said
+	<field name = "content">Jones International Ltd> said
 it realigned several subsidiaries to accommodate corporate
 strategy.
     Jones said ultimate control of the subsidiaries will remain

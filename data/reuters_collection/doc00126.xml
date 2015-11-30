@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 17:00:56.04</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0119
-reute
-u f BC-DIAMOND-SHAMROCK-(DIA   02-26 0097</field>
-	<field name = "TITLE">DIAMOND SHAMROCK (DIA) CUTS CRUDE PRICES</field>
+	<field name = "titulo">DIAMOND SHAMROCK (DIA) CUTS CRUDE PRICES</field>
 	<field name = "DATELINE">NEW YORK, FEB 26 -</field>
-	<field name = "BODY">Diamond Shamrock Corp said that
+	<field name = "content">Diamond Shamrock Corp said that
 effective today it had cut its contract prices for crude oil by
 1.50 dlrs a barrel.
     The reduction brings its posted price for West Texas

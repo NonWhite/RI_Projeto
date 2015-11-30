@@ -6,13 +6,10 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">Y 
-f0807reute
-r f BC-SAUDI-TO-REMAIN-AS-KE   10-19 0106</field>
-	<field name = "TITLE">SAUDI TO REMAIN AS KEY LPG SUPPLIER TO JAPAN</field>
+	<field name = "titulo">SAUDI TO REMAIN AS KEY LPG SUPPLIER TO JAPAN</field>
 	<field name = "AUTHOR">By Masaru Sato</field>
 	<field name = "DATELINE">TOKYO, Oct 19 -</field>
-	<field name = "BODY">Saudi Arabia is likely to remain the key
+	<field name = "content">Saudi Arabia is likely to remain the key
 supplier of liquefied petroleum gas (LPG) to Japan for at least
 the next five years, oil industry sources said.
     Japan, while diversifying its supply sources of propane and

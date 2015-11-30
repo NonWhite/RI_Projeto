@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 12:23:34.60</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F 
-f1505reute
-r f BC-PHILIPS-SEES-BOOM-IN   06-19 0093</field>
-	<field name = "TITLE">PHILIPS SEES BOOM IN MINI VISUAL DISPLAY BUSINESS</field>
+	<field name = "titulo">PHILIPS SEES BOOM IN MINI VISUAL DISPLAY BUSINESS</field>
 	<field name = "DATELINE">EINDHOVEN, June 19 -</field>
-	<field name = "BODY">The market for advanced visual
+	<field name = "content">The market for advanced visual
 displays will grow seven-fold into a five billion dlr business
 in five years, NV Philips Gloeilampenfabrieken PGLO.AS> said.
     Philips is Europe's largest supplier of liquid crystal

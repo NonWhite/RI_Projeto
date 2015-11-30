@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 05:27:08.75</field>
 	<field name = "PLACES">new-zealand</field>
 	<field name = "PEOPLE">douglas</field>
-	<field name = "UNKNOWN">RM 
-f2411reute
-u f BC-NEW-ZEALAND-TO-CLOSE   06-18 0095</field>
-	<field name = "TITLE">NEW ZEALAND TO CLOSE TAX LOOPHOLES</field>
+	<field name = "titulo">NEW ZEALAND TO CLOSE TAX LOOPHOLES</field>
 	<field name = "DATELINE">WELLINGTON, June 18 -</field>
-	<field name = "BODY">Finance Minister Roger Douglas said
+	<field name = "content">Finance Minister Roger Douglas said
 New Zealand would enact legislation to prevent local companies
 and individuals from using overseas tax havens.
     The government would also outlaw the practice of double

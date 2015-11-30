@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 18:42:36.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0335
-reute
-r f BC-CONSTRUCTION-CONTRACT   03-02 0099</field>
-	<field name = "TITLE">CONSTRUCTION CONTRACTING DOWN THREE PCT IN JAN</field>
+	<field name = "titulo">CONSTRUCTION CONTRACTING DOWN THREE PCT IN JAN</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Contracting for future construction
+	<field name = "content">Contracting for future construction
 work declined by three pct in January to an annualized rate of
 236.1 billion dlrs, a report on the industry said.
     The report by the F.W. Dodge Division of McGraw-Hill

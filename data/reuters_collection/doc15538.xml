@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">V
-f0929reute
-b f BC-BUNDESBANK-SEES-NO-RE   04-09 0082</field>
-	<field name = "TITLE">BUNDESBANK SEES NO CHANGE IN MONETARY COURSE</field>
+	<field name = "titulo">BUNDESBANK SEES NO CHANGE IN MONETARY COURSE</field>
 	<field name = "DATELINE">FRANKFURT, April 9 -</field>
-	<field name = "BODY">The Bundesbank sees no current reason
+	<field name = "content">The Bundesbank sees no current reason
 to change monetary course, vice-president Helmut Schlesinger
 told Reuters in a telephone interview.
     Schlesinger was responding to questions following remarks

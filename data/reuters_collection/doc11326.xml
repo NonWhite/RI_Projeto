@@ -4,12 +4,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">australia</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM
-f1093reute
-u f BC-OECD-SEES-MAJOR-ADJUS   03-31 0090</field>
-	<field name = "TITLE">OECD SEES MAJOR ADJUSTMENT FOR AUSTRALIA</field>
+	<field name = "titulo">OECD SEES MAJOR ADJUSTMENT FOR AUSTRALIA</field>
 	<field name = "DATELINE">PARIS, March 31 -</field>
-	<field name = "BODY">Australia faces a major medium term
+	<field name = "content">Australia faces a major medium term
 adjustment to reduce debt and improve its economic performance,
 the Organisation for Economic Cooperation and Development said
 in its latest annual review of the Australian economy.

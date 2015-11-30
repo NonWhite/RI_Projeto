@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 15:41:44.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2902reute
-d f BC-AFG-INDUSTRIES-AFG>   10-19 0077</field>
-	<field name = "TITLE">AFG INDUSTRIES AFG> TO BUY BACK STOCK</field>
+	<field name = "titulo">AFG INDUSTRIES AFG> TO BUY BACK STOCK</field>
 	<field name = "DATELINE">IRVINE, Calif., Oct 19 -</field>
-	<field name = "BODY">AFG Industries Inc said its board
+	<field name = "content">AFG Industries Inc said its board
 authorized management to buy back up to four mln common shares,
 or 15.7 pct of the AFG stock outstanding, from time to time in
 the open market.

@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 11:41:11.77</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f0639reute
-r f BC-AMEX-TRADING-CHEMICAL   03-11 0075</field>
-	<field name = "TITLE">AMEX TRADING CHEMICAL WASTE CHW> OPTIONS</field>
+	<field name = "titulo">AMEX TRADING CHEMICAL WASTE CHW> OPTIONS</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">The American Stock Exchange> said it
+	<field name = "content">The American Stock Exchange> said it
 has started put and call option trading in Chemical Waste
 Management Inc stock as a replacement for options on
 Chesebrough-Ponds's Inc, which was recently acquired.

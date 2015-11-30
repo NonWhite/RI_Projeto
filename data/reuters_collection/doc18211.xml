@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:31:16.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2247reute
-r f BC-SOCAL-EDISON-PLANS-NO   06-02 0104</field>
-	<field name = "TITLE">SOCAL EDISON PLANS NO MAJOR NEW PLANTS</field>
+	<field name = "titulo">SOCAL EDISON PLANS NO MAJOR NEW PLANTS</field>
 	<field name = "DATELINE">ANAHEIM, Calif, June 2 -</field>
-	<field name = "BODY">Southern California Edison Co
+	<field name = "content">Southern California Edison Co
 SCE> Chairman Howard Allen said the company plans no new major
 construction projects in the next eight years.
     "We plan no new major plant additions until at least the

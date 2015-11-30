@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 15:50:59.40</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM A
-f0479reute
-u f AM-BRAZIL-DEBT   03-06 0082</field>
-	<field name = "TITLE">FUNARO SAYS CREDITORS WILLING TO HELP BRAZIL</field>
+	<field name = "titulo">FUNARO SAYS CREDITORS WILLING TO HELP BRAZIL</field>
 	<field name = "DATELINE">BRASILIA, MARCH 6 -</field>
-	<field name = "BODY">Finance Minister Dilson Funaro,
+	<field name = "content">Finance Minister Dilson Funaro,
 currently on an international tour to seek governmental support
 for his efforts to solve Brazil's 108-billion-dlr foreign debt
 crisis, said creditors have expressed willingness to help.

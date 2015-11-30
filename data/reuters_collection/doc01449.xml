@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 09:56:16.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0255reute
-r f BC-CYPRESS-SEMICONDUCTOR   03-04 0071</field>
-	<field name = "TITLE">CYPRESS SEMICONDUCTOR CYPR> SHARES OFFERED</field>
+	<field name = "titulo">CYPRESS SEMICONDUCTOR CYPR> SHARES OFFERED</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Lead underwriters Morgan Stanley Group
+	<field name = "content">Lead underwriters Morgan Stanley Group
 Inc MS> and Robertson, Colman and Stephens said an offering of
 4,400,000 shares of Cypress Semiconductor Corp is underway at
 11.75 dlrs per share.

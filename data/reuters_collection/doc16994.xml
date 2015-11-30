@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 11:04:53.07</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1268reute
-u f BC-SUPREME-COURT-UPHOLDS   04-21 0104</field>
-	<field name = "TITLE">SUPREME COURT UPHOLDS INDIANA TAKEOVER LAW</field>
+	<field name = "titulo">SUPREME COURT UPHOLDS INDIANA TAKEOVER LAW</field>
 	<field name = "DATELINE">WASHINGTON, April 21 -</field>
-	<field name = "BODY">The Supreme Court, in a 6-3
+	<field name = "content">The Supreme Court, in a 6-3
 decision, ruled that an Indiana law aimed at protecting
 companies from hostile takeovers by out-of-state businesses is
 constitutional.

@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:47:25.91</field>
-	<field name = "UNKNOWN">F
-f0358
-reute
-r f BC-CYNERGY   03-02 0108</field>
-	<field name = "TITLE">IRISH OIL CONCERN HAS 8.5 PCT OF CYNERGY CRG></field>
+	<field name = "titulo">IRISH OIL CONCERN HAS 8.5 PCT OF CYNERGY CRG></field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">Bryson Oil and Gas Plc, a Belfast,
+	<field name = "content">Bryson Oil and Gas Plc, a Belfast,
 Northern Ireland, oil company, said it has acquired an 8.5 pct
 stake in Cynergy Corp and took steps to help it consider the
 possibility of seeking control or influencing the company.

@@ -1,15 +1,13 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:14:59.90C T</field>
-	<field name = "UNKNOWN">f0813reute</field>
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">icco</field>
-	<field name = "UNKNOWN">b f BC-COCOA-BUFFER-STOCK-CO   03-27 0109</field>
-	<field name = "TITLE">COCOA BUFFER STOCK COMPROMISE GAINING ACCEPTANCE</field>
+	<field name = "titulo">COCOA BUFFER STOCK COMPROMISE GAINING ACCEPTANCE</field>
 	<field name = "AUTHOR">By Lisa Vaughan, Reuters</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">A final compromise proposal on cocoa
+	<field name = "content">A final compromise proposal on cocoa
 buffer stock rules presented by International Cocoa
 Organization, ICCO, council chairman Denis Bra Kanon is swiftly
 gaining acceptance by consumer and producer members, delegates

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 17:14:17.65</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2566reute
-d f BC-media-summary   04-01 0123</field>
-	<field name = "TITLE">COFFEE FUTURES AT SIX-YEAR LOW, UNDER 1 DLR/LB</field>
+	<field name = "titulo">COFFEE FUTURES AT SIX-YEAR LOW, UNDER 1 DLR/LB</field>
 	<field name = "DATELINE">CHICAGO, April 1 -</field>
-	<field name = "BODY">Coffee futures dipped further today and
+	<field name = "content">Coffee futures dipped further today and
 closed below 1 dlr a pound for the first time in six years.
     Coffee for delivery in May ended at 99.28 cents a pound on
 the Coffee, Sugar and Cocoa Exchange, down 0.76 cent and the

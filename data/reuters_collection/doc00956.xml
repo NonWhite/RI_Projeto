@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 07:32:30.50</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0005
-reute
-h f BC-JAPANESE-DEMAND-FOR-U   03-03 0113</field>
-	<field name = "TITLE">JAPANESE DEMAND FOR U.K. GILTS SEEN RISING</field>
+	<field name = "titulo">JAPANESE DEMAND FOR U.K. GILTS SEEN RISING</field>
 	<field name = "DATELINE">TOKYO, March 3 -</field>
-	<field name = "BODY">Japanese investor interest in British
+	<field name = "content">Japanese investor interest in British
 gilt-edged securities is growing rapidly due to expectations
 sterling will remain stable despite the drop in oil prices, and
 on calculations gilt prices will firm, bond managers said.

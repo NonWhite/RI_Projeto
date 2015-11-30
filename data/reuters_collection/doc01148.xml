@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 12:07:47.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0986reute
-d f BC-CRAY-CYR>-INSTALLS-C   03-03 0090</field>
-	<field name = "TITLE">CRAY CYR> INSTALLS COMPUTER FOR GRUMMAN GQ></field>
+	<field name = "titulo">CRAY CYR> INSTALLS COMPUTER FOR GRUMMAN GQ></field>
 	<field name = "DATELINE">MINNEAPOLIS, March 3 -</field>
-	<field name = "BODY">Cray Research Inc said it installed
+	<field name = "content">Cray Research Inc said it installed
 a Cray X-MP/14 supercomputer valued at eight mln dlrs at
 Grumman Corp's Grumman Aerospace Corp.
     Cray said the system, which includes a 550 solid state

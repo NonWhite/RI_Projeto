@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 16:13:42.73</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V RM
-f0427reute
-b f BC-/WHITE-HOUSE-LISTS-TA   04-17 0103</field>
-	<field name = "TITLE">WHITE HOUSE LISTS TARIFFS ON JAPANESE GOODS</field>
+	<field name = "titulo">WHITE HOUSE LISTS TARIFFS ON JAPANESE GOODS</field>
 	<field name = "DATELINE">SANTA BARBARA, Calif, April 17 -</field>
-	<field name = "BODY">The White House issued a
+	<field name = "content">The White House issued a
 list of Japanese exports to covered by the 100 pct tariffs
 imposed by President Reagan.
     - Automatic data processing machines (1986 imports worth

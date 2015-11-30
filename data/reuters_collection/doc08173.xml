@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">denmark</field>
-	<field name = "UNKNOWN">RM
-f0431reute
-u f BC-DANISH-TRADE-IN-BALAN   03-23 0111</field>
-	<field name = "TITLE">DANISH TRADE IN BALANCE IN FEBRUARY</field>
+	<field name = "titulo">DANISH TRADE IN BALANCE IN FEBRUARY</field>
 	<field name = "DATELINE">COPENHAGEN, March 23 -</field>
-	<field name = "BODY">Denmark's balance of payments on
+	<field name = "content">Denmark's balance of payments on
 current account was provisionally put at zero in February,
 against a 181 mln crown surplus in January and a 1.5 billion
 deficit in February 1986, the National Statistics Office said.

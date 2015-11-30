@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:43:45.14</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E 
-f1865reute
-a f BC-canchem   06-19 0106</field>
-	<field name = "TITLE">CANADIAN CHEMICAL PRODUCERS SET TRANSPORT CODE</field>
+	<field name = "titulo">CANADIAN CHEMICAL PRODUCERS SET TRANSPORT CODE</field>
 	<field name = "DATELINE">JASPER, Alberta, June 19 -</field>
-	<field name = "BODY">The 72-member Canadian Chemical
+	<field name = "content">The 72-member Canadian Chemical
 Producers Association said it adopted a code of practice for
 the safe transport of chemicals and their by-products.
     "Through cooperation with the transportation industry, we

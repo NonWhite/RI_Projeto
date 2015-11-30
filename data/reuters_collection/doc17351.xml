@@ -2,12 +2,9 @@
 	<field name = "DATE">28-APR-1987 16:33:11.11</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f2774reute
-u f BC-ROYAL-BANK-SEES-CANAD   04-28 0116</field>
-	<field name = "TITLE">ROYAL BANK SEES CANADIAN ECONOMY EASING</field>
+	<field name = "titulo">ROYAL BANK SEES CANADIAN ECONOMY EASING</field>
 	<field name = "DATELINE">MONTREAL, April 28 -</field>
-	<field name = "BODY">Canadian gross domestic product should
+	<field name = "content">Canadian gross domestic product should
 grow at a real rate of 3.3 pct this year before easing to a 3.0
 pct growth rate next year when U.S. economic growth is expected
 to decline, Royal Bank of Canada, Canada's largest bank, said

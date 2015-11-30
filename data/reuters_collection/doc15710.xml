@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 12:19:19.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1613reute
-r f BC-CENTEL-CNT>-SELLS-DE   04-09 0091</field>
-	<field name = "TITLE">CENTEL CNT> SELLS DEBENTURES AT 9.233 PCT</field>
+	<field name = "titulo">CENTEL CNT> SELLS DEBENTURES AT 9.233 PCT</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Centel Corp is raising 50 mln dlrs
+	<field name = "content">Centel Corp is raising 50 mln dlrs
 through an offering of debentures due 2017 yielding 9.233 pct,
 said lead manager Smith Barney, Harris Upham and Co Inc.
     The debentures have a 9-1/8 pct coupon and were priced at

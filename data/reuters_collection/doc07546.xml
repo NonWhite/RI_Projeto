@@ -4,13 +4,10 @@
 	<field name = "PLACES">ecuador</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">RM
-f0070reute
-u f BC-VOLCKER-SAYS-BRAZIL-D   03-20 0102</field>
-	<field name = "TITLE">VOLCKER SAYS BRAZIL DEBT MOVE WILL NOT HURT BANKS</field>
+	<field name = "titulo">VOLCKER SAYS BRAZIL DEBT MOVE WILL NOT HURT BANKS</field>
 	<field name = "AUTHOR">By Matt Spetalnick, Reuters</field>
 	<field name = "DATELINE">JACKSONVILLE, Fla., March 20 -</field>
-	<field name = "BODY">Federal Reserve Board
+	<field name = "content">Federal Reserve Board
 Chairman Paul Volcker said the suspension by Brazil of its
 foreign debt payments would not undermine U.S. Banks.
     But he told Reuters after a speech to educators that it was

@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 09:31:04.20</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0022reute
-b f BC-******HUGHES-TOOL-SAY   03-11 0105</field>
-	<field name = "TITLE">HUGHES TOOL HT> BOARD APPROVES MERGER</field>
+	<field name = "titulo">HUGHES TOOL HT> BOARD APPROVES MERGER</field>
 	<field name = "DATELINE">HOUSTON, March 11 -</field>
-	<field name = "BODY">Hughes Tool Co said its board voted at
+	<field name = "content">Hughes Tool Co said its board voted at
 a special meeting last night to approve a new agreement with
 regulators that would allow the company to complete its
 proposed merger with Baker International Corp BKO>.

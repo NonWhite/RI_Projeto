@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 11:09:00.97</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1266reute
-u f BC-GROUP-OF-10-WELCOMES   04-09 0101</field>
-	<field name = "TITLE">GROUP OF 10 WELCOMES LATEST G-7 AGREEMENT</field>
+	<field name = "titulo">GROUP OF 10 WELCOMES LATEST G-7 AGREEMENT</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The Group of 10 developed nations
+	<field name = "content">The Group of 10 developed nations
 issued a communique welcoming the reaffirmation of the Paris
 accord on currency stability by the Group of Seven leading
 industrial democracies yesterday.

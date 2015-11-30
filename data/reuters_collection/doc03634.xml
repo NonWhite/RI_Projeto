@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 10:20:23.76</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">C G T M
-f0239reute
-d f BC-TURKISH-WEATHER-IMPRO   03-11 0110</field>
-	<field name = "TITLE">TURKISH WEATHER IMPROVES, BUT BRINGS FLOODS</field>
+	<field name = "titulo">TURKISH WEATHER IMPROVES, BUT BRINGS FLOODS</field>
 	<field name = "DATELINE">ISTANBUL, March 11 -</field>
-	<field name = "BODY">Turkish banks and government offices
+	<field name = "content">Turkish banks and government offices
 reopened here after snow blanketing the city began to melt,
 causing floods and traffic jams.
     Turkish radio said 16 villages in the southern province of

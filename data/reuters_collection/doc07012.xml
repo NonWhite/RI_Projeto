@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 06:43:04.94</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0410reute
-b f BC-U.K.-UNEMPLOYMENT-FAL   03-19 0084</field>
-	<field name = "TITLE">U.K. UNEMPLOYMENT FALLS IN FEBRUARY</field>
+	<field name = "titulo">U.K. UNEMPLOYMENT FALLS IN FEBRUARY</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">Unemployment in the U.K. Fell a
+	<field name = "content">Unemployment in the U.K. Fell a
 provisional seasonally-adjusted 44,100 in February, to total
 3.07 mln or 11.1 pct of the workforce, the Employment
 Department said.

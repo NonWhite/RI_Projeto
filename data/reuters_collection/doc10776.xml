@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 07:56:57.34</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0679reute
-u f BC-CITROEN-PLANS-TO-CLOS   03-30 0116</field>
-	<field name = "TITLE">CITROEN PLANS TO CLOSE LEVALLOIS PLANT</field>
+	<field name = "titulo">CITROEN PLANS TO CLOSE LEVALLOIS PLANT</field>
 	<field name = "DATELINE">PARIS, March 30 -</field>
-	<field name = "BODY">Automobiles Citroen, a division of
+	<field name = "content">Automobiles Citroen, a division of
 private car group Peugeot SA PEUP.PA>, plans to close its
 Levallois plant outside Paris in the first half of 1988,
 halting production of the 2-CV small car in France, a

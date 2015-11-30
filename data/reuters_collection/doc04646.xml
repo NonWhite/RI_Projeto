@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 03:53:02.42</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0157reute
-u f BC-EMPEROR-MINES-TO-FLOA   03-13 0114</field>
-	<field name = "TITLE">EMPEROR MINES TO FLOAT GOLD INVESTMENT COMPANY</field>
+	<field name = "titulo">EMPEROR MINES TO FLOAT GOLD INVESTMENT COMPANY</field>
 	<field name = "DATELINE">MELBOURNE, March 13 -</field>
-	<field name = "BODY">Fiji gold miner Emperor Mines Ltd>
+	<field name = "content">Fiji gold miner Emperor Mines Ltd>
 said it will float a gold investment company in the Isle of Man
 to be known as Odin Mining and Investment Co Ltd>.
     Sixty pct of Odin's 51 mln issued shares will be offered to

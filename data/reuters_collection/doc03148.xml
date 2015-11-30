@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 11:24:16.21</field>
 	<field name = "TOPICS">orange</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C T
-f0555reute
-u f BC-/TRADERS-SAY-USDA-MAY   03-09 0133</field>
-	<field name = "TITLE">TRADERS SAY USDA MAY LOWER ORANGE CROP ESTIMATE</field>
+	<field name = "titulo">TRADERS SAY USDA MAY LOWER ORANGE CROP ESTIMATE</field>
 	<field name = "DATELINE">New York, March 9 -</field>
-	<field name = "BODY">The U.S. Department of Agriculture will
+	<field name = "content">The U.S. Department of Agriculture will
 probably decrease its estimate of the 1986/87 Florida orange
 crop today to as low as 123 mln boxes from 129 mln boxes,
 analysts and industry sources said.

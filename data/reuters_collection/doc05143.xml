@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">14-MAR-1987 09:42:09.60</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0815reute
-r f BC-SPAIN-SETS-BANK-PROVI   03-14 0100</field>
-	<field name = "TITLE">SPAIN SETS BANK PROVISIONS FOR HIGH-RISK BORROWERS</field>
+	<field name = "titulo">SPAIN SETS BANK PROVISIONS FOR HIGH-RISK BORROWERS</field>
 	<field name = "DATELINE">MADRID, March 14 -</field>
-	<field name = "BODY">The Bank of Spain said banks must make
+	<field name = "content">The Bank of Spain said banks must make
 provisions amounting to at least 25 pct of outstanding loans to
 countries deemed to be high-risk borrowers.
     The measure was included in a package of circulars approved

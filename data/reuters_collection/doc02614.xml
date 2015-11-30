@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 10:42:02.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0328reute
-r f BC-MORGAN-STANELY-MS>-U   03-06 0115</field>
-	<field name = "TITLE">MORGAN STANELY MS> UNIT SELLS FLOATER CMOS</field>
+	<field name = "titulo">MORGAN STANELY MS> UNIT SELLS FLOATER CMOS</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Morgan Stanley Mortgage Trust I, a unit
+	<field name = "content">Morgan Stanley Mortgage Trust I, a unit
 of Morgan Stanley Group, is offering 317.8 mln dlrs of
 AAA-rated collateralized mortgage obligations that include two
 floating-rate tranches, said sole manager Morgan Stanley.

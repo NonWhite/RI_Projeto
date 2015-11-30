@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 12:41:45.54</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f8676reute
-r f BC-GERMAN-RESEARCH-INSTI   03-18 0111</field>
-	<field name = "TITLE">GERMAN RESEARCH INSTITUTE LOWERS GROWTH FORECAST</field>
+	<field name = "titulo">GERMAN RESEARCH INSTITUTE LOWERS GROWTH FORECAST</field>
 	<field name = "DATELINE">WEST BERLIN, March 18 -</field>
-	<field name = "BODY">The DIW economic research institute
+	<field name = "content">The DIW economic research institute
 said West German economic growth in 1987 is unlikely to reach
 the 1.5 pct rate it had forecast earlier this year.
     The institute, whose forecasts are more pessimistic than

@@ -3,13 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0342reute
-u f BC-ECONOMIC-SPOTLIGHT--   03-19 0112</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - SAUDI ARABIA RESHAPES ECONOMY</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - SAUDI ARABIA RESHAPES ECONOMY</field>
 	<field name = "AUTHOR">By Stephen Jukes, Reuters</field>
 	<field name = "DATELINE">RIYADH, March 19 -</field>
-	<field name = "BODY">Higher world oil prices, coupled with a
+	<field name = "content">Higher world oil prices, coupled with a
 new realism ushered in by austerity, could lift Saudi Arabia's
 economy after five years of falling revenue and growing budget
 deficits, bankers and diplomats said.

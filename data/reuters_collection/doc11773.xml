@@ -3,12 +3,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f3061reute
-b f BC-BANK-OF-JAPAN-INTERVE   04-01 0076</field>
-	<field name = "TITLE">BANK OF JAPAN INTERVENES IN EARLY TOKYO AFTERNOON</field>
+	<field name = "titulo">BANK OF JAPAN INTERVENES IN EARLY TOKYO AFTERNOON</field>
 	<field name = "DATELINE">TOKYO, April 1 -</field>
-	<field name = "BODY">The Bank of Japan intervened in the market
+	<field name = "content">The Bank of Japan intervened in the market
 in the early afternoon, buying dollars around 147.30 yen and
 continuing to buy them as high as 147.50 yen, dealers said.
     The Bank intervened just after the dollar started rising on

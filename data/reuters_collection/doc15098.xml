@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:47:10.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1532reute
-d f BC-THERMWOOD-THM>-EXTEN   04-08 0084</field>
-	<field name = "TITLE">THERMWOOD THM> EXTENDS DATE ON WARRANTS</field>
+	<field name = "titulo">THERMWOOD THM> EXTENDS DATE ON WARRANTS</field>
 	<field name = "DATELINE">DALE, IND., April 8 -</field>
-	<field name = "BODY">Thermwood Corp said it is extending
+	<field name = "content">Thermwood Corp said it is extending
 the expiration date of its 620,000 common stock warrants
 through Dec 31, 1987.
     It said the warrants to purchase one share of common stock,

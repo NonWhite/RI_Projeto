@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 04:26:07.98</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f4281reute
-b f BC-SMH-ISSUES-100-MLN-SW   03-17 0119</field>
-	<field name = "TITLE">SMH ISSUES 100 MLN SWISS FRANC BOND WITH WARRANTS</field>
+	<field name = "titulo">SMH ISSUES 100 MLN SWISS FRANC BOND WITH WARRANTS</field>
 	<field name = "DATELINE">ZURICH, March 17 -</field>
-	<field name = "BODY">Swiss watchmaker SMH Societe Suisse de
+	<field name = "content">Swiss watchmaker SMH Societe Suisse de
 Microelectronique et d'Horlogerie is issuing a 100 mln Swiss
 franc 10-year bond with warrants to buy participation
 certificates, lead manager Union Bank of Switzerland said.

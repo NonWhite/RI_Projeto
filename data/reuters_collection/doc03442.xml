@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 00:20:55.02</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM
-f0116reute
-u f BC-SINGAPORE-COURT-ADJOU   03-11 0113</field>
-	<field name = "TITLE">SINGAPORE COURT ADJOURNS BRUNEI BANK JUDGEMENT</field>
+	<field name = "titulo">SINGAPORE COURT ADJOURNS BRUNEI BANK JUDGEMENT</field>
 	<field name = "DATELINE">SINGAPORE, March 11 -</field>
-	<field name = "BODY">The Singapore High Court has
+	<field name = "content">The Singapore High Court has
 adjourned summary judgement for the second time on a National
 Bank of Brunei Bhd> case for loan repayments from Khoo Teck
 Puat and 15 associated companies, court sources said.

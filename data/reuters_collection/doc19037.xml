@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 00:12:36.11</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">F 
-f0010reute
-u f BC-PHILIPPINE-STOCKS-SOA   06-19 0094</field>
-	<field name = "TITLE">PHILIPPINE STOCKS SOAR TO NEW HIGHS, RECORD VOLUME</field>
+	<field name = "titulo">PHILIPPINE STOCKS SOAR TO NEW HIGHS, RECORD VOLUME</field>
 	<field name = "AUTHOR">By Greg Hutchinson, Reuters</field>
 	<field name = "DATELINE">MANILA, June 19 -</field>
-	<field name = "BODY">Investors on Philippine stock markets
+	<field name = "content">Investors on Philippine stock markets
 have shrugged off growing communist activity in the cities to
 push share prices to all-time highs on record turnover, brokers
 said.

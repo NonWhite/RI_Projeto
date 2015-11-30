@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f1830reute
-r f BC-CLARK-COPY-INTERNATI   04-13 0083</field>
-	<field name = "TITLE">CLARK COPY INTERNATIONAL> BUYS W. GERMAN STAKE</field>
+	<field name = "titulo">CLARK COPY INTERNATIONAL> BUYS W. GERMAN STAKE</field>
 	<field name = "DATELINE">ELK GROVE VILLAGE, Ill., April 13 -</field>
-	<field name = "BODY">Clark Copy
+	<field name = "content">Clark Copy
 International Corp said it acquired a majority interest in
 Datagraph GMBH of Lich, West Germany.
     The acquisition was made through Clark Copy's majority

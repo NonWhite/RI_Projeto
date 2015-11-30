@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 09:05:42.63</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">C G T M
-f0851reute
-d f BC-AUSTRALIAN-FOREIGN-SH   04-08 0129</field>
-	<field name = "TITLE">AUSTRALIAN FOREIGN SHIP BAN ENDS</field>
+	<field name = "titulo">AUSTRALIAN FOREIGN SHIP BAN ENDS</field>
 	<field name = "DATELINE">SYDNEY, April 8 -</field>
-	<field name = "BODY">Tug crews in New South Wales (NSW),
+	<field name = "content">Tug crews in New South Wales (NSW),
 Victoria and Western Australia yesterday lifted their ban on
 foreign-flag ships carrying containers but NSW ports are still
 being disrupted by a separate dispute, shipping sources said.

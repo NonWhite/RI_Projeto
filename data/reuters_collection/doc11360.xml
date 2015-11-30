@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 10:36:14.46</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F
-f1293reute
-d f BC-DUTCH-DU-PONT-UNIT-TO   03-31 0106</field>
-	<field name = "TITLE">DUTCH DU PONT UNIT TO CUT WORKFORCE BY 140</field>
+	<field name = "titulo">DUTCH DU PONT UNIT TO CUT WORKFORCE BY 140</field>
 	<field name = "DATELINE">DEN BOSCH, March 31 -</field>
-	<field name = "BODY">Du Pont De Nemours Nederland BV, a
+	<field name = "content">Du Pont De Nemours Nederland BV, a
 unit of U.S. Chemical firm E.I. Du Pont De Nemours and Co
 DD.N>, plans to dismiss 140 of its workforce, Dutch labour
 federation FNV spokesman Frank Koolen said.

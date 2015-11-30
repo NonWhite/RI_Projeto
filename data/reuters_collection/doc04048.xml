@@ -4,13 +4,10 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0081reute
-u f BC-ECONOMIC-SPOTLIGHT--   03-12 0111</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - MITSUBISHI HEAVY FIGHTS BACK</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - MITSUBISHI HEAVY FIGHTS BACK</field>
 	<field name = "AUTHOR">By Fumiko Fujisaki, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 12 -</field>
-	<field name = "BODY">International efforts to redirect Japan's
+	<field name = "content">International efforts to redirect Japan's
 export-driven economy toward domestic consumption face heavy
 going if the country's largest defence contractor and world's
 biggest shipbuilder is anything to go by.

@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">F A RM
-f2243reute
-b f BC-/VOLCKER-OPPOSES-LIMI   03-26 0114</field>
-	<field name = "TITLE">VOLCKER OPPOSES LIMITS ON JAPAN PRIMARY DEALERS</field>
+	<field name = "titulo">VOLCKER OPPOSES LIMITS ON JAPAN PRIMARY DEALERS</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">Federal Reserve Board chairman Paul
+	<field name = "content">Federal Reserve Board chairman Paul
 Volcker said he opposes legislation to deny primary dealer
 status to firms from countries that do not grant U.S. firms
 equal access to their government debt markets.

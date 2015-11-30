@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 09:54:51.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2072reute
-d f BC-FINANCIAL/SANTA-BARBA   03-16 0081</field>
-	<field name = "TITLE">FINANCIAL/SANTA BARBARA FSB> UNIT OFFERS NOTES</field>
+	<field name = "titulo">FINANCIAL/SANTA BARBARA FSB> UNIT OFFERS NOTES</field>
 	<field name = "DATELINE">SANTA BARBARA, Calif., March 16 -</field>
-	<field name = "BODY">Financial Corp of Santa
+	<field name = "content">Financial Corp of Santa
 Barbara said its Santa Barbara Savings and Loan Association
 subsidiary is offering 25 mln dlrs of convertible subordinated
 debentures due 2012.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">lumber</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F E
-f0665reute
-u f BC-U.S.-SAYS-CANADA-COMP   03-13 0089</field>
-	<field name = "TITLE">U.S. SAYS CANADA COMPLYING WITH LUMBER PACT</field>
+	<field name = "titulo">U.S. SAYS CANADA COMPLYING WITH LUMBER PACT</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">The Commerce Department said that
+	<field name = "content">The Commerce Department said that
 all Canadian firms had begun to pay an agreed to 15 pct
 surcharge on softwood shipped to U.S. markets.
     It made the statement after talks with Canadian officials

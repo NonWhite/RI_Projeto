@@ -5,13 +5,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">A RM
-f2702reute
-u f BC-DEFICIT-CUTS-SEEN-UNA   04-08 0101</field>
-	<field name = "TITLE">DEFICIT CUTS SEEN UNABLE TO CURE TRADE DEFICIT</field>
+	<field name = "titulo">DEFICIT CUTS SEEN UNABLE TO CURE TRADE DEFICIT</field>
 	<field name = "AUTHOR">By Irwin Arieff</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">Financial analysts say they are
+	<field name = "content">Financial analysts say they are
 pleased with congressional moves to trim next year's federal
 budget deficit but believe the actions will do little to help
 improve the U.S. trade deficit or buoy the economy.

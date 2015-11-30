@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0647reute
-r f BC-TAIWAN-PROPOSES-TO-IN   04-21 0108</field>
-	<field name = "TITLE">TAIWAN PROPOSES TO INVEST ONE BILLION DLRS IN U.S.</field>
+	<field name = "titulo">TAIWAN PROPOSES TO INVEST ONE BILLION DLRS IN U.S.</field>
 	<field name = "AUTHOR">By Chen Chien-kuo, Reuters</field>
 	<field name = "DATELINE">TAIPEI, April 21 -</field>
-	<field name = "BODY">Taiwan's Economic Ministry has approved
+	<field name = "content">Taiwan's Economic Ministry has approved
 an ambitious proposal calling for a one billion U.S. Dollar
 investment by private and public companies in the United States
 over the next five years, ministry officials said.

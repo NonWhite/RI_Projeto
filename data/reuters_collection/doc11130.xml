@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 18:12:15.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2742reute
-d f BC-NAPLES-FEDERAL-NAF>   03-30 0093</field>
-	<field name = "TITLE">NAPLES FEDERAL NAF> REVISES LOAN AGREEMENT</field>
+	<field name = "titulo">NAPLES FEDERAL NAF> REVISES LOAN AGREEMENT</field>
 	<field name = "DATELINE">NAPLES, Fla, March 30 -</field>
-	<field name = "BODY">NAFCO Financial Group Inc's Naples
+	<field name = "content">NAFCO Financial Group Inc's Naples
 Federal Savings and Loan Association said it revised a loan
 agreement with Punta Gorda Isles.
     Naples agreed to extend the maturity and increase 20.7 mln

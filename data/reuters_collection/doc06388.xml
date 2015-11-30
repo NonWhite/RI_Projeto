@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 06:54:45.57</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f7388reute
-r f BC-CHINA-EVERBRIGHT-AND   03-18 0103</field>
-	<field name = "TITLE">CHINA EVERBRIGHT AND LOTUS IN H.K. JOINT VENTURE</field>
+	<field name = "titulo">CHINA EVERBRIGHT AND LOTUS IN H.K. JOINT VENTURE</field>
 	<field name = "DATELINE">HONG KONG, March 18 -</field>
-	<field name = "BODY">Peking backed China Everbright
+	<field name = "content">Peking backed China Everbright
 Holdings Co Ltd> said it signed an accord with a unit of U.S.
 Based Lotus Development Inc LOTS.O> to form a joint venture
 cathode ray tube manufacturing plant in Hong Kong.

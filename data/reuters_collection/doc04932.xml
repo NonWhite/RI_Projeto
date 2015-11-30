@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 13:37:48.68</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0926reute
-d f BC-CYCLOPS-CYL>-WILL-NO   03-13 0106</field>
-	<field name = "TITLE">CYCLOPS CYL> WILL NOT GIVE DATA TO GROUP</field>
+	<field name = "titulo">CYCLOPS CYL> WILL NOT GIVE DATA TO GROUP</field>
 	<field name = "DATELINE">PITTSBURGH, March 13 -</field>
-	<field name = "BODY">Cyclops Corp said its board rejected
+	<field name = "content">Cyclops Corp said its board rejected
 a request by Cyacq Corp, an investor group, for more non-public
 information about Cyclops, a maker of specialty steels and an
 electronics retailer.

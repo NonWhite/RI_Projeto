@@ -3,12 +3,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PEOPLE">chirac</field>
 	<field name = "PEOPLE">balladur</field>
-	<field name = "UNKNOWN">RM
-f1873reute
-u f BC-CHIRAC-SAYS-1988-BUDG   03-30 0110</field>
-	<field name = "TITLE">CHIRAC SAYS 1988 BUDGET DEFICIT WILL BE LOWER</field>
+	<field name = "titulo">CHIRAC SAYS 1988 BUDGET DEFICIT WILL BE LOWER</field>
 	<field name = "DATELINE">PARIS, March 30 -</field>
-	<field name = "BODY">Prime Minister Jacques Chirac said the
+	<field name = "content">Prime Minister Jacques Chirac said the
 budget deficit next year will be reduced by about 15 billion
 francs, and the government's planned programme of 50 billion
 francs' tax cuts for 1987/88 will be implemented, a statement

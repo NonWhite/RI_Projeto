@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 12:45:45.10</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0778reute
-u f BC-MERRILL-LYNCH-MER>-F   03-12 0106</field>
-	<field name = "TITLE">MERRILL LYNCH MER> FIRES VASKEVITCH</field>
+	<field name = "titulo">MERRILL LYNCH MER> FIRES VASKEVITCH</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Merrill Lynch and Co Inc fired the
+	<field name = "content">Merrill Lynch and Co Inc fired the
 head of the mergers department in its London office today,
 saying he had been unable to provide a "satisfactory
 explanation" in response to insider trading charges filed

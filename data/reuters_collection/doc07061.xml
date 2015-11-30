@@ -7,13 +7,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">oecd</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T
-f0744reute
-u f BC-/OECD-FARM-SUBSIDIES   03-19 0123</field>
-	<field name = "TITLE">OECD FARM SUBSIDIES STUDY RESULTS DETAILED</field>
+	<field name = "titulo">OECD FARM SUBSIDIES STUDY RESULTS DETAILED</field>
 	<field name = "AUTHOR">By Greg McCune, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">The results of a controversial study
+	<field name = "content">The results of a controversial study
 of farm subsidies conducted by the Paris-based Organisation for
 Economic Cooperation and Development, OECD, show Japan has the
 highest agriculture subsidies in the world, and that dairy

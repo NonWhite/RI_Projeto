@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 16:01:39.34</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">RM F
-f2425reute
-u f AM-peru-bonds   04-08 0118</field>
-	<field name = "TITLE">PERU DECREES FIRMS SHOULD BUY TREASURY BONDS</field>
+	<field name = "titulo">PERU DECREES FIRMS SHOULD BUY TREASURY BONDS</field>
 	<field name = "DATELINE">LIMA, April 8 -</field>
-	<field name = "BODY">the Peruvian government decreed that a wide
+	<field name = "content">the Peruvian government decreed that a wide
 range of firms would have to earmark between 20 and 30 pct of
 their 1986 net profits to buy treasury bonds this year.
     A presidential decree said that banking, financial and

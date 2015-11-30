@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:19:07.01</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0329reute
-u f BC-GERMAN-BANK-SUPERVISO   04-07 0102</field>
-	<field name = "TITLE">GERMAN BANK SUPERVISOR CALLS FOR WIDER REGULATION</field>
+	<field name = "titulo">GERMAN BANK SUPERVISOR CALLS FOR WIDER REGULATION</field>
 	<field name = "DATELINE">HANOVER, April 7 -</field>
-	<field name = "BODY">West German banking regulations must be
+	<field name = "content">West German banking regulations must be
 expanded to cover off-balance sheet risks arising from new
 financing forms, Federal Banking Supervisory Office President
 Wolfgang Kuntze said.

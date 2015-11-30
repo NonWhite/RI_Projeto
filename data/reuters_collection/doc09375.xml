@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 11:33:04.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1372reute
-u f BC-ANHEUSER-BUSCH-BUD>   03-25 0087</field>
-	<field name = "TITLE">ANHEUSER-BUSCH BUD> OFFICER RESIGNS</field>
+	<field name = "titulo">ANHEUSER-BUSCH BUD> OFFICER RESIGNS</field>
 	<field name = "DATELINE">ST. LOUIS, Mo., March 25 -</field>
-	<field name = "BODY">Anheuser-Busch Cos Inc said
+	<field name = "content">Anheuser-Busch Cos Inc said
 Dennis Long, vice president and group executive of the company,
 and president of its beer subsidiary, Anheuser-Busch Inc, is
 resigning from the company.

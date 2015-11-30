@@ -5,12 +5,9 @@
 	<field name = "TOPICS">soy-oil</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C G
-f1021reute
-u f BC-CHINA-SOYBEAN-OUTPUT   04-07 0099</field>
-	<field name = "TITLE">CHINA SOYBEAN OUTPUT DOWN SLIGHTLY - USDA REPORT</field>
+	<field name = "titulo">CHINA SOYBEAN OUTPUT DOWN SLIGHTLY - USDA REPORT</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">China's soybean crop this year is
+	<field name = "content">China's soybean crop this year is
 forecast at 11.5 mln tonnes, down slightly from 11.55 mln
 estiamted for last year, the U.S. Agriculture Department's
 officer in Peking said in a field report.

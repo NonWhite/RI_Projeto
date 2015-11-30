@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 17:41:40.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0098reute
-h f BC-PHOTON-TECHNOLOGY,-ML   03-03 0085</field>
-	<field name = "TITLE">PHOTON TECHNOLOGY, ML TECHNOLOGY IN VENTURE</field>
+	<field name = "titulo">PHOTON TECHNOLOGY, ML TECHNOLOGY IN VENTURE</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">Photon Technology International Inc>
+	<field name = "content">Photon Technology International Inc>
 said it entered an agreement in principle with ML Technology
 Ventures L.P.> to undertake a research and development project.
     ML Technology will pay Photon about 3.1 mln dlrs over a

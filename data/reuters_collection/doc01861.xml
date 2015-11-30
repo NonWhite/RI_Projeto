@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 17:46:28.17</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0985reute
-u f BC-******PIEDMONT-AVIATI   03-04 0092</field>
-	<field name = "TITLE">PIEDMONT PIE> TAKES NO ACTION</field>
+	<field name = "titulo">PIEDMONT PIE> TAKES NO ACTION</field>
 	<field name = "DATELINE">WINSTON-SALEM, N.C., March 4 -</field>
-	<field name = "BODY">Piedmont Aviation Inc said
+	<field name = "content">Piedmont Aviation Inc said
 its board meeting recessed today without taking action on
 proposals to combine Piedmont with other corporations.
     Piedmont has received opposing bids from Norfolk Southern

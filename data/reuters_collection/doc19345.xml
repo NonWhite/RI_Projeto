@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:23:30.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1961reute
-r f BC-BALLY-BLY>-FILES-SHE   06-19 0087</field>
-	<field name = "TITLE">BALLY BLY> FILES SHELF FOR PREFERRED STOCK</field>
+	<field name = "titulo">BALLY BLY> FILES SHELF FOR PREFERRED STOCK</field>
 	<field name = "DATELINE">CHICAGO, June 19 -</field>
-	<field name = "BODY">Bally Manufacturing Corp said it filed a
+	<field name = "content">Bally Manufacturing Corp said it filed a
 shelf registration with the Securities and Exchange Commission
 for a secondary public offering of two mln shares of Series D
 convertible exchangeable preferred stock.

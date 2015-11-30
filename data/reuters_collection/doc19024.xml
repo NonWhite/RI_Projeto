@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 21:34:55.99</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">RM V 
-f5096reute
-u f BC-SOUTH-KOREA-THREATENS   06-18 0107</field>
-	<field name = "TITLE">SOUTH KOREA THREATENS EMERGENCY MEASURES</field>
+	<field name = "titulo">SOUTH KOREA THREATENS EMERGENCY MEASURES</field>
 	<field name = "DATELINE">SEOUL, June 19 -</field>
-	<field name = "BODY">The government will take emergency
+	<field name = "content">The government will take emergency
 measures if the present wave of violent protest demonstrations
 continues, state radio said.
     The radio, which did not specify the measures, said the

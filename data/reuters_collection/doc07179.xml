@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:23:37.66</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1299reute
-d f BC-GUINNESS-BOARD-SEEKS   03-19 0102</field>
-	<field name = "TITLE">GUINNESS BOARD SEEKS REMOVAL OF SAUNDERS, WARD</field>
+	<field name = "titulo">GUINNESS BOARD SEEKS REMOVAL OF SAUNDERS, WARD</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">Guinness Plc GUIN.L> said its board had
+	<field name = "content">Guinness Plc GUIN.L> said its board had
 agreed to put an extraordinary motion at the group's annual
 meeting to remove former chairman Ernest Saunders and
 non-executive Thomas Ward as directors.

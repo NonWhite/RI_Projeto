@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 13:02:10.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0980reute
-h f BC-LONE-STAR-LCE>-TO-AD   03-11 0064</field>
-	<field name = "TITLE">LONE STAR LCE> TO ADD FIVE CEMENT TERMINALS</field>
+	<field name = "titulo">LONE STAR LCE> TO ADD FIVE CEMENT TERMINALS</field>
 	<field name = "DATELINE">GREENWHICH, Conn., March 11 -</field>
-	<field name = "BODY">Lone Star Industries Inc said
+	<field name = "content">Lone Star Industries Inc said
 it signed an agreement to buy or lease five import cement
 terminals from Hanson Industries' HAN> Kaiser Cement Corp.
     Terms of the agreement were not disclosed.

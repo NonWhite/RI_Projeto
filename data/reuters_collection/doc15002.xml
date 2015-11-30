@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:08:21.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1043reute
-d f BC-KEY-TRONIC-KTCC>-GET   04-08 0068</field>
-	<field name = "TITLE">KEY TRONIC KTCC> GETS NEW BUSINESS</field>
+	<field name = "titulo">KEY TRONIC KTCC> GETS NEW BUSINESS</field>
 	<field name = "DATELINE">SPOKANE, Wash., April 8 -</field>
-	<field name = "BODY">Key Tronic corp said it has
+	<field name = "content">Key Tronic corp said it has
 received contracts to provide seven  original equipment
 manufacturers with which it has not done business recently with
 over 300,000 computer keyboards for delivery within the next 12

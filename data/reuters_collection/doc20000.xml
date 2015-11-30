@@ -3,13 +3,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM AI 
-f0001reute
-u f BC-IF-DOLLAR-FOLLOWS-WAL   10-19 0105</field>
-	<field name = "TITLE">IF DOLLAR FOLLOWS WALL STREET JAPANESE WILL DIVEST</field>
+	<field name = "titulo">IF DOLLAR FOLLOWS WALL STREET JAPANESE WILL DIVEST</field>
 	<field name = "AUTHOR">By Yoshiko Mori</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">If the dollar goes the way of Wall Street,
+	<field name = "content">If the dollar goes the way of Wall Street,
 Japanese will finally move out of dollar investments in a
 serious way, Japan investment managers say.
     The Japanese, the dominant foreign investors in U.S. Dollar

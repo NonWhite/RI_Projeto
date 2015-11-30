@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 11:56:14.20</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f1489reute
-u f BC-BANK-OF-FINLAND-ISSUE   03-23 0084</field>
-	<field name = "TITLE">BANK OF FINLAND ISSUES CDS FOR FIRST TIME</field>
+	<field name = "titulo">BANK OF FINLAND ISSUES CDS FOR FIRST TIME</field>
 	<field name = "DATELINE">HELSINKI, March 23 -</field>
-	<field name = "BODY">The Bank of Finland issued for the
+	<field name = "content">The Bank of Finland issued for the
 first time a small amount of its own certificates of deposit
 following its decision last Friday to enter the interbank
 market by buying and selling CDs, a Central Bank official said.

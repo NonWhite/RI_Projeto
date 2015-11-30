@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 07:55:59.02</field>
 	<field name = "TOPICS">nickel</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">M C
-f0620reute
-u f BC-NICKEL-PRICES-UNLIKEL   04-08 0114</field>
-	<field name = "TITLE">NICKEL PRICES UNLIKELY TO RISE MUCH - SHEARSON</field>
+	<field name = "titulo">NICKEL PRICES UNLIKELY TO RISE MUCH - SHEARSON</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">Nickel prices are unlikely to rise
+	<field name = "content">Nickel prices are unlikely to rise
 significantly from current levels unless further steps are
 taken to reduce production, Shearson Lehman Brothers said in
 its quarterly nickel market report.

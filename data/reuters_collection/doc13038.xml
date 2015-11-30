@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f1844reute
-u f AM-TRADE-AMERICAN   04-03 0100</field>
-	<field name = "TITLE">U.S., JAPANESE OPEN TALKS ON SEMICONDUCTORS</field>
+	<field name = "titulo">U.S., JAPANESE OPEN TALKS ON SEMICONDUCTORS</field>
 	<field name = "DATELINE">WASHINGTON, April 5 -</field>
-	<field name = "BODY">U.S. and Japanese officials meet
+	<field name = "content">U.S. and Japanese officials meet
 tomorrow to try to settle a dispute over semiconductor trade
 and to cut short the 300 mln dlr penalty tariffs President
 Reagan has ordered imposed on Japanese exports.

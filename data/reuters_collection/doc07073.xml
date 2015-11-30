@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 09:18:17.47</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0799reute
-r f BC-3COM-CORP-COMS>-3RD   03-19 0054</field>
-	<field name = "TITLE">3COM CORP COMS> 3RD QTR FEB 28 NET</field>
+	<field name = "titulo">3COM CORP COMS> 3RD QTR FEB 28 NET</field>
 	<field name = "DATELINE">SANTA CLARA, Calif., March 19 -</field>
-	<field name = "BODY">Shr 22 cts vs 13 cts
+	<field name = "content">Shr 22 cts vs 13 cts
     Net 3,166,000 vs 1,780,000
     Sales 30.4 mln vs 16.9 mln
     Avg shrs 14.6 mln vs 14.0 mln

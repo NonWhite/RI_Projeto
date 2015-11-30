@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 11:53:24.26</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">RM
-f0084
-reute
-u f BC-LONDON-STOCK-EXCHANGE   03-02 0107</field>
-	<field name = "TITLE">LONDON STOCK EXCHANGE TO CLOSE TRADING FLOOR</field>
+	<field name = "titulo">LONDON STOCK EXCHANGE TO CLOSE TRADING FLOOR</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">The London Stock Exchange said its ruling
+	<field name = "content">The London Stock Exchange said its ruling
 council has decided to close the trading floor for government
 bonds (gilts) and equities in due course because most of the
 business is now done between brokers' offices.

@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 03:44:57.62T C</field>
-	<field name = "UNKNOWN">f0175reute</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">u f BC-PHILIPPINE-SUGAR-CROP   03-27 0094</field>
-	<field name = "TITLE">PHILIPPINE SUGAR CROP SET AT 1.6 MLN TONNES</field>
+	<field name = "titulo">PHILIPPINE SUGAR CROP SET AT 1.6 MLN TONNES</field>
 	<field name = "AUTHOR">By Chaitanya Kalbag, Reuters</field>
 	<field name = "DATELINE">MANILA, March 27 -</field>
-	<field name = "BODY">Philippine sugar production in the
+	<field name = "content">Philippine sugar production in the
 1987/88 crop year ending August has been set at 1.6 mln tonnes,
 up from a provisional 1.3 mln tonnes this year, Sugar
 Regulatory Administration (SRA) chairman Arsenio Yulo said.

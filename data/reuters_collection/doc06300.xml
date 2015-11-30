@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 16:58:22.03</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f6615reute
-u f BC-/API-SAYS-DISTILLATE,   03-17 0103</field>
-	<field name = "TITLE">API SAYS DISTILLATE, GAS STOCKS OFF IN WEEK</field>
+	<field name = "titulo">API SAYS DISTILLATE, GAS STOCKS OFF IN WEEK</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Distillate fuel stocks held in
+	<field name = "content">Distillate fuel stocks held in
 primary storage fell by 7.35 mln barrels in the week ended
 March 13 to 112.74 mln barrels from a revised 120.09 mln the
 previous week, the American Petroleum Institute (API) said.

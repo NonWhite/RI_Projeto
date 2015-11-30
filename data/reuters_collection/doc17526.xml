@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:02:28.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1021reute
-r f BC-/U.S.-CONSTRUCTION-SP   06-01 0085</field>
-	<field name = "TITLE">U.S. CONSTRUCTION SPENDING ROSE 0.4 PCT IN APRIL</field>
+	<field name = "titulo">U.S. CONSTRUCTION SPENDING ROSE 0.4 PCT IN APRIL</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">U.S. construction spending rose 1.7
+	<field name = "content">U.S. construction spending rose 1.7
 billion dlrs, or 0.4 pct, in April to a seasonally adjusted
 rate of 384.1 billion dlrs, the Commerce Department said.
     Spending in March fell a revised 4.4 billion dlrs, or 1.1

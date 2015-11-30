@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 10:06:04.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0998reute
-r f BC-WILLIAMS-COS-WMB>-UN   03-23 0088</field>
-	<field name = "TITLE">WILLIAMS COS WMB> UNIT EXPANDING FIBER OPTICS</field>
+	<field name = "titulo">WILLIAMS COS WMB> UNIT EXPANDING FIBER OPTICS</field>
 	<field name = "DATELINE">TULSA, Okla., March 23 -</field>
-	<field name = "BODY">Williams Cos said its
+	<field name = "content">Williams Cos said its
 telecommunications company is spending 22 mln dlrs to expand
 its fiber optic telecommunications system.
     Its subsidiary, known as WilTel, said the expansion stems

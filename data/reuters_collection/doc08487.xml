@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 15:51:54.30</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2288reute
-h f BC-SEISMIC-ENTERPRISES-I   03-23 0056</field>
-	<field name = "TITLE">SEISMIC ENTERPRISES INC SEIS> 4TH QTR LOSS</field>
+	<field name = "titulo">SEISMIC ENTERPRISES INC SEIS> 4TH QTR LOSS</field>
 	<field name = "DATELINE">HOUSTON, March 23 -</field>
-	<field name = "BODY">Shr loss eight cts vs profit 10 cts
+	<field name = "content">Shr loss eight cts vs profit 10 cts
     Net loss 714,905 vs profit 889,679
     Revs 1,091,461 vs 3,156,569
     Year

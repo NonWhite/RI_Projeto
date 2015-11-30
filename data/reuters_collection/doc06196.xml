@@ -4,13 +4,10 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f6218reute
-r f BC-U.S.-HOUSING-DATA-FAI   03-17 0107</field>
-	<field name = "TITLE">U.S. HOUSING DATA FAIL TO CLARIFY ECONOMIC PATH</field>
+	<field name = "titulo">U.S. HOUSING DATA FAIL TO CLARIFY ECONOMIC PATH</field>
 	<field name = "AUTHOR">By Claire Miller, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Surprisingly strong U.S. housing
+	<field name = "content">Surprisingly strong U.S. housing
 statistics for February cannot be taken as an indication that
 the economy is generating any momentum and are not sufficient
 cause to start lifting forecasts for first quarter growth,

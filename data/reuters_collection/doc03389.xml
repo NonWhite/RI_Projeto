@@ -3,13 +3,10 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C G
-f0892reute
-u f BC-CBT-DISCUSSES-MAJOR-C   03-09 0118</field>
-	<field name = "TITLE">CBT DISCUSSES MAJOR CHANGES FOR RENOVATION</field>
+	<field name = "titulo">CBT DISCUSSES MAJOR CHANGES FOR RENOVATION</field>
 	<field name = "AUTHOR">By Brian Killen, Reuters</field>
 	<field name = "DATELINE">CHICAGO, March 9 -</field>
-	<field name = "BODY">Chicago Board of Trade (CBT)
+	<field name = "content">Chicago Board of Trade (CBT)
 agricultural and financial futures markets could be in for a
 period of major upheaval later this year if the exchange goes
 ahead with planned renovation.

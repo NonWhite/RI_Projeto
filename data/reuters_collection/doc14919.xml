@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 07:28:48.05</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0564reute
-u f BC-COUPON-CUT-ON-KEIHANS   04-08 0089</field>
-	<field name = "TITLE">COUPON CUT ON KEIHANSHIN REAL ESTATE WARRANT BOND</field>
+	<field name = "titulo">COUPON CUT ON KEIHANSHIN REAL ESTATE WARRANT BOND</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">The coupon on the 25 mln dlr equity
+	<field name = "content">The coupon on the 25 mln dlr equity
 warrant eurobond for Keihanshin Real Estate Co Ltd has been set
 at 2-1/8 pct compared with the 2-1/4 pct indication, lead
 manager Daiwa Europe Ltd said.

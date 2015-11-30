@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 07:22:00.53</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0487reute
-b f BC-FRENCH-1986-BUDGET-DE   03-13 0078</field>
-	<field name = "TITLE">FRENCH 1986 BUDGET DEFICIT REVISED DOWN</field>
+	<field name = "titulo">FRENCH 1986 BUDGET DEFICIT REVISED DOWN</field>
 	<field name = "DATELINE">PARIS, March 13 -</field>
-	<field name = "BODY">France's 1986 budget deficit has been
+	<field name = "content">France's 1986 budget deficit has been
 revised down to 141.1 billion francs from the estimate at the
 end of last year of 143.6 billion, the Finance Ministry said.
     This compares with the 1985 budget deficit of 153.3 billion

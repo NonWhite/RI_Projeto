@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 17:22:48.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2580reute
-r f BC-U.S.-AGENCY-PROPOSES   03-19 0109</field>
-	<field name = "TITLE">U.S. AGENCY PROPOSES DAYTIME LIGHTS FOR CARS</field>
+	<field name = "titulo">U.S. AGENCY PROPOSES DAYTIME LIGHTS FOR CARS</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">Transportation Secretary Elizabeth
+	<field name = "content">Transportation Secretary Elizabeth
 Dole proposed to allow the use of daytime running lights as a
 measure to improve safety on the highways.
     Dole said in an announcement that in Sweden and Finland, 

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 11:34:35.50</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">A
-f1454reute
-w f BC-CAPITAL-MARKET-BORROW   04-13 0108</field>
-	<field name = "TITLE">CAPITAL MARKET BORROWING FALLS IN MARCH, OECD SAYS</field>
+	<field name = "titulo">CAPITAL MARKET BORROWING FALLS IN MARCH, OECD SAYS</field>
 	<field name = "DATELINE">PARIS, April 13 -</field>
-	<field name = "BODY">Borrowing on the international capital
+	<field name = "content">Borrowing on the international capital
 markets contracted significantly in March with 23.1 billion
 dlrs of medium and long-term funds raised, down 3.4 billion
 from February and about nine billion dlrs less than in March

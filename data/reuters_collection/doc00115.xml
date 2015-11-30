@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 16:48:02.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0077
-reute
-r f BC-STERLING-SOFTWARE-SS   02-26 0056</field>
-	<field name = "TITLE">STERLING SOFTWARE SSW> NOTE HOLDERS OK BUY</field>
+	<field name = "titulo">STERLING SOFTWARE SSW> NOTE HOLDERS OK BUY</field>
 	<field name = "DATELINE">DALLAS, Feb 26 -</field>
-	<field name = "BODY">Sterling Software Inc said it received
+	<field name = "content">Sterling Software Inc said it received
 consent of a majority of the holders of its eight pct
 convertible sernior subordinated debentures required to
 purchase shares of its common.

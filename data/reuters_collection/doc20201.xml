@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 09:59:56.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V 
-f1102reute
-u f BC-/WHITE-HOUSE-SEES-163   10-20 0096</field>
-	<field name = "TITLE">WHITE HOUSE SEES 163 BILLION DLR BUDGET DEFICIT</field>
+	<field name = "titulo">WHITE HOUSE SEES 163 BILLION DLR BUDGET DEFICIT</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">The White House said the federal
+	<field name = "content">The White House said the federal
 budget deficit for fiscal 1988 will total 163 billion dlrs if
 Congress and the administration fail to agree on a legislative
 package of deficit reduction measures prior to a Nov. 20

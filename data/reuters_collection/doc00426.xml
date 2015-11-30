@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 09:54:01.45</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">A
-f0576
-reute
-r f BC-DOW-CHEMICAL-LAUNCHES   03-02 0066</field>
-	<field name = "TITLE">DOW CHEMICAL LAUNCHES 200 MLN SWISS FRANC BOND</field>
+	<field name = "titulo">DOW CHEMICAL LAUNCHES 200 MLN SWISS FRANC BOND</field>
 	<field name = "DATELINE">ZURICH, March 2 -</field>
-	<field name = "BODY">Dow Chemical Co has launched a 200 mln
+	<field name = "content">Dow Chemical Co has launched a 200 mln
 Swiss franc, 12-year bond with a 4-3/4 pct coupon priced at
 100-1/4 pct, lead manager Union Bank of Switzerland said.
     The issue carries a call option from 1993 at 102 pct,

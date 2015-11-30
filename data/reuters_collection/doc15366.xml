@@ -6,12 +6,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">lyng</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">G C
-f2924reute
-u f BC-JAPAN-MINISTRY-HAS-NO   04-08 0095</field>
-	<field name = "TITLE">JAPAN MINISTRY HAS NO COMMENT ON RICE TALKS REPORT</field>
+	<field name = "titulo">JAPAN MINISTRY HAS NO COMMENT ON RICE TALKS REPORT</field>
 	<field name = "DATELINE">TOKYO, April 9 -</field>
-	<field name = "BODY">The Agriculture Ministry declined comment
+	<field name = "content">The Agriculture Ministry declined comment
 on a local newspaper report that Japan had agreed to hold talks
 on its closed rice market in the new GATT round.
     "We have no idea about the report and cannot comment," a

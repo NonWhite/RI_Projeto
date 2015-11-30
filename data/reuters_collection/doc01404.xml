@@ -8,12 +8,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C G
-f0164reute
-u f BC-CBT-TRADERS-LOOK-AHEA   03-03 0114</field>
-	<field name = "TITLE">CBT TRADERS LOOK AHEAD TO SPRING PLANTINGS</field>
+	<field name = "titulo">CBT TRADERS LOOK AHEAD TO SPRING PLANTINGS</field>
 	<field name = "DATELINE">CHICAGO, March 3 -</field>
-	<field name = "BODY">Chicago Board of trade grain traders and
+	<field name = "content">Chicago Board of trade grain traders and
 analysts voiced a lot of interest in how farmers planned to
 handle their upcoming spring plantings, prompting sales of new
 crop months of corn and oats and purchases in new crop soybeans

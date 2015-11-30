@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">RM
-f0033reute
-u f BC-BALDRIGE-PRAISES-NEW   04-21 0109</field>
-	<field name = "TITLE">BALDRIGE PRAISES NEW SOUTH KOREAN TRADE POLICIES</field>
+	<field name = "titulo">BALDRIGE PRAISES NEW SOUTH KOREAN TRADE POLICIES</field>
 	<field name = "AUTHOR">By Roger Crabb, Reuters</field>
 	<field name = "DATELINE">SEOUL, April 21 -</field>
-	<field name = "BODY">U.S. Commerce Secretary Malcolm Baldrige
+	<field name = "content">U.S. Commerce Secretary Malcolm Baldrige
 praised South Korea's new surplus-cutting trade policies but
 warned of possible protectionist retaliation if Seoul's market
 liberalisation efforts falter or fail.

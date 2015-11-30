@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0482reute
-b f BC-/-FED-EXPECTED-TO-ADD   03-04 0068</field>
-	<field name = "TITLE">FED EXPECTED TO ADD TEMPORARY RESERVES</field>
+	<field name = "titulo">FED EXPECTED TO ADD TEMPORARY RESERVES</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">The Federal Reserve is expected to
+	<field name = "content">The Federal Reserve is expected to
 enter the U.S. Government securities market to add temporary
 reserves, economists said.
     They expect it to supply the reserves indirectly by

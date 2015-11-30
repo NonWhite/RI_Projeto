@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:48:01.99</field>
-	<field name = "UNKNOWN">RM
-f0491reute
-u f BC-GERMAN-BONDS-END-QUIE   04-07 0114</field>
-	<field name = "TITLE">GERMAN BONDS END QUIET BOURSE LOWER</field>
+	<field name = "titulo">GERMAN BONDS END QUIET BOURSE LOWER</field>
 	<field name = "DATELINE">FRANKFURT, April 7 -</field>
-	<field name = "BODY">Prices of public authority bonds ended
+	<field name = "content">Prices of public authority bonds ended
 a quiet bourse session lower, with domestic investors taking
 profits in a technical reaction to recent strong gains.
     Dealers said long maturities dropped as much as 50 pfennigs

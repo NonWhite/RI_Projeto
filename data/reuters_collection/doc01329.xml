@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 16:30:51.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0922reute
-r f BC-CANNON-GROUP-CAN>-DE   03-03 0038</field>
-	<field name = "TITLE">CANNON GROUP CAN> DECLINES COMMENT ON STOCK</field>
+	<field name = "titulo">CANNON GROUP CAN> DECLINES COMMENT ON STOCK</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">The New York Stock Exchange said Cannon
+	<field name = "content">The New York Stock Exchange said Cannon
 Group Inc declined to comment on the unusual activity in its
 common stock.
     Cannon's stock is up 1-3/8 points at 10-1/8.

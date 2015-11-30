@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 09:13:56.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0909reute
-d f BC-K-MART-KM>-TO-SUPPLY   03-26 0090</field>
-	<field name = "TITLE">K MART KM> TO SUPPLY HOME SHOPPING NETWORK</field>
+	<field name = "titulo">K MART KM> TO SUPPLY HOME SHOPPING NETWORK</field>
 	<field name = "DATELINE">TROY, MICH, March 26 -</field>
-	<field name = "BODY">K mart Corp said it signed an
+	<field name = "content">K mart Corp said it signed an
 agreement to supply merchandise for Entertainment Marketing
 Inc's EM> home shopping subsidiary, Consumer Discount Network.
     K mart, through its Ultra Buying Network, will begin

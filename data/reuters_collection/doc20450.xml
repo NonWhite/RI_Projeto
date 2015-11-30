@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:25:50.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2362reute
-d f BC-EXOVIR-TO-BUYBACK-UP   10-20 0054</field>
-	<field name = "TITLE">EXOVIR TO BUYBACK UP TO ONE MLN DLRS OF STOCK</field>
+	<field name = "titulo">EXOVIR TO BUYBACK UP TO ONE MLN DLRS OF STOCK</field>
 	<field name = "DATELINE">GREAT NECK, N.Y., Oct 20 -</field>
-	<field name = "BODY">Exovir Inc XOVR.O> said its
+	<field name = "content">Exovir Inc XOVR.O> said its
 board authorized the purchase of up to one mln dlrs of the
 comapny's common stock in open market transactions.
     The company said based on currrent market conditions, it

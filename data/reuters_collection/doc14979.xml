@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 09:43:49.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0951reute
-d f BC-MASON-BEST-FORMS-ENER   04-08 0102</field>
-	<field name = "TITLE">MASON BEST FORMS ENERGY HOLDING COMPANY</field>
+	<field name = "titulo">MASON BEST FORMS ENERGY HOLDING COMPANY</field>
 	<field name = "DATELINE">DALLAS, April 8 -</field>
-	<field name = "BODY">Mason Best Co> said it has formed
+	<field name = "content">Mason Best Co> said it has formed
 Meridian Energy Corp>, a privately-owned holding company
 structured to acquire operating companies ans assets in the oil
 and gas industry.

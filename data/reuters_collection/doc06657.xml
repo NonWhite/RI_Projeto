@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 13:26:43.78</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f8850reute
-u f BC-MORGAN-BANK-PLANS-WAR   03-18 0097</field>
-	<field name = "TITLE">MORGAN BANK PLANS WARRANTS FOR GOLD AT 425 DLRS</field>
+	<field name = "titulo">MORGAN BANK PLANS WARRANTS FOR GOLD AT 425 DLRS</field>
 	<field name = "DATELINE">ZURICH, March 18 -</field>
-	<field name = "BODY">Morgan Guaranty Trust Co of New York
+	<field name = "content">Morgan Guaranty Trust Co of New York
 plans an issue of 12,000 warrants for gold bullion at 425 dlrs
 an ounce, lead manager Morgan Guaranty (Switzerland) AG said.
     Each warrant, priced at 955 Swiss francs, entitled holders

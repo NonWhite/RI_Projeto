@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 09:13:26.18</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0760reute
-b f BC-/CHRYSLER-C>-TO-TEND   06-19 0063</field>
-	<field name = "TITLE">CHRYSLER C> TO TENDER FOR ELECTROSPACE ELE></field>
+	<field name = "titulo">CHRYSLER C> TO TENDER FOR ELECTROSPACE ELE></field>
 	<field name = "DATELINE">DETROIT, June 19 -</field>
-	<field name = "BODY">Chrysler Corp said Electrospace Systems
+	<field name = "content">Chrysler Corp said Electrospace Systems
 Inc agreed to be acquired under a merger agreement in which
 Chrysler will tender 27 dlrs a share for 100 pct of the
 Richardson, Texas-based defense electronics contractor.

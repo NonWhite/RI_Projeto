@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 03:36:28.52</field>
-	<field name = "UNKNOWN">RM
-f0119reute
-u f BC-DOLLAR-OPENS-EASIER-I   04-07 0112</field>
-	<field name = "TITLE">DOLLAR OPENS EASIER IN QUIET FRANKFURT</field>
+	<field name = "titulo">DOLLAR OPENS EASIER IN QUIET FRANKFURT</field>
 	<field name = "DATELINE">FRANKFURT, April 7 -</field>
-	<field name = "BODY">The dollar opened easier in quiet
+	<field name = "content">The dollar opened easier in quiet
 trading and should stay firmly entrenched in its established
 range ahead of this week's round of international finance
 meetings, dealers said.

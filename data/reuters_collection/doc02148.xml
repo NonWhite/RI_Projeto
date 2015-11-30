@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 11:17:25.69</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0567reute
-r f BC-canadian-imperial   03-05 0058</field>
-	<field name = "TITLE">CANADIAN IMPERIAL BANK OF COMMERCE> 1ST QTR</field>
+	<field name = "titulo">CANADIAN IMPERIAL BANK OF COMMERCE> 1ST QTR</field>
 	<field name = "DATELINE">TORONTO, March 5 -</field>
-	<field name = "BODY">Period ended January 31
+	<field name = "content">Period ended January 31
     Shr 61 cts vs 64 cts
     Shr diluted 60 cts vs 60 cts
     Net 96.5 mln vs 87.0 mln

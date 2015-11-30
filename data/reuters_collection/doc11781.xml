@@ -2,13 +2,10 @@
 	<field name = "DATE">1-APR-1987 02:07:22.77</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "EXCHANGES">hkse</field>
-	<field name = "UNKNOWN">F
-f0072reute
-u f BC-H.K.-INVESTORS-UNLOAD   04-01 0100</field>
-	<field name = "TITLE">H.K. INVESTORS UNLOAD HOLDINGS AFTER STOCK ISSUES</field>
+	<field name = "titulo">H.K. INVESTORS UNLOAD HOLDINGS AFTER STOCK ISSUES</field>
 	<field name = "AUTHOR">By Joshua So, Reuters</field>
 	<field name = "DATELINE">HONG KONG, April 1 -</field>
-	<field name = "BODY">Investors are unloading holdings of
+	<field name = "content">Investors are unloading holdings of
 Hong Kong stocks following a spate of new share issues by
 leading local firms, analysts said.
     The Hang Seng index fell 61.07 to 2,713.81 yesterday on

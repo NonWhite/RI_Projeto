@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 13:32:37.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0358reute
-d f BC-DYNAMICS-RESEARCH-DR   03-03 0044</field>
-	<field name = "TITLE">DYNAMICS RESEARCH DRCO> GETS NAVY CONTRACT</field>
+	<field name = "titulo">DYNAMICS RESEARCH DRCO> GETS NAVY CONTRACT</field>
 	<field name = "DATELINE">WILMINGTON, Mass., March 3 -</field>
-	<field name = "BODY">Dynamics Research Corp said it
+	<field name = "content">Dynamics Research Corp said it
 has received a two-year 9,995,000 dlr U.S. Navy contract to
 supply a number of accelerometer test stations and spares for
 Trident submarine guidance systems.

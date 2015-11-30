@@ -4,12 +4,9 @@
 	<field name = "PLACES">venezuela</field>
 	<field name = "PLACES">ecuador</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0019reute
-u f BC-ECUADOR-TO-ASK-OPEC-T   03-11 0104</field>
-	<field name = "TITLE">ECUADOR TO ASK OPEC TO RAISE EXPORT QUOTA</field>
+	<field name = "titulo">ECUADOR TO ASK OPEC TO RAISE EXPORT QUOTA</field>
 	<field name = "DATELINE">CARACAS, March 11 -</field>
-	<field name = "BODY">Ecuador will ask OPEC to raise its oil
+	<field name = "content">Ecuador will ask OPEC to raise its oil
 export quota by 100,000 barrels per day to 310,000 to
 compensate for lost output due to last week's earthquake,
 deputy Energy Minister Fernando Santos Alvite said.

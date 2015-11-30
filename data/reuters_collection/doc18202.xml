@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:23:14.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2204reute
-r f BC-RCM-TECHNOLOGIES-RCM   06-02 0041</field>
-	<field name = "TITLE">RCM TECHNOLOGIES RCMT.O> WARRANTS EXERCISABLE</field>
+	<field name = "titulo">RCM TECHNOLOGIES RCMT.O> WARRANTS EXERCISABLE</field>
 	<field name = "DATELINE">LOS ANGELES, June 2 -</field>
-	<field name = "BODY">RCM Technologies Inc said the
+	<field name = "content">RCM Technologies Inc said the
 Securities and Exchange Commission has declared a
 post-effective amendment to its registration statement
 effective, making its warrants exercisable.

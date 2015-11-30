@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0706reute
-b f BC-U.K.-MONEY-MARKET-GET   04-03 0085</field>
-	<field name = "TITLE">U.K. MONEY MARKET GETS 347 MLN STG AFTERNOON HELP</field>
+	<field name = "titulo">U.K. MONEY MARKET GETS 347 MLN STG AFTERNOON HELP</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">The Bank of England said it has operated
+	<field name = "content">The Bank of England said it has operated
 in the money market this afternoon, buying back bills totalling
 347 mln stg. This brings the total help so far today to 517 mln
 stg and compares with the Bank's revised estimate of an 800 mln

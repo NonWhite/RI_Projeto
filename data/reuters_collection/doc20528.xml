@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 14:14:47.03</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2648reute
-d f BC-ECOLAB-INC-ECL>-3RD   10-20 0046</field>
-	<field name = "TITLE">ECOLAB INC ECL> 3RD QTR OPER SHR</field>
+	<field name = "titulo">ECOLAB INC ECL> 3RD QTR OPER SHR</field>
 	<field name = "DATELINE">ST PAUL, Minn, Oct 20 -</field>
-	<field name = "BODY">Oper shr 16 cts vs 34 cts
+	<field name = "content">Oper shr 16 cts vs 34 cts
     Oper net 4,255,000 vs 9,299,000
     Revs 294.4 mln vs 155.7 mln
     Nine mths

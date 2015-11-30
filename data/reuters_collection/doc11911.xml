@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 09:57:00.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0920reute
-b f BC-/U.S.-CONSTRUCTION-SP   04-01 0087</field>
-	<field name = "TITLE">U.S. CONSTRUCTION SPENDING ROSE 1.0 PCT IN FEB</field>
+	<field name = "titulo">U.S. CONSTRUCTION SPENDING ROSE 1.0 PCT IN FEB</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">U.S. construction spending rose 3.6
+	<field name = "content">U.S. construction spending rose 3.6
 billion dlrs, or 1.0 pct, in February to a seasonally adjusted
 rate of 378.4 billion dlrs, the Commerce Department said.
     Spending in January fell a revised 3.7 billion dlrs, or 1.0

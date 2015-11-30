@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 12:53:43.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0949reute
-r f BC-AVERY-AVY>-IN-OFFERI   03-11 0077</field>
-	<field name = "TITLE">AVERY AVY> IN OFFERING</field>
+	<field name = "titulo">AVERY AVY> IN OFFERING</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Avery Inc said it began a public
+	<field name = "content">Avery Inc said it began a public
 offering of two mln shars at 50.25 dlrs per shares.
     PUrchasers of the shares are entitled to get one additional
 share for each share purchased to give effect to the

@@ -4,12 +4,9 @@
 	<field name = "PLACES">hong-kong</field>
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f0221reute
-u f BC-CHINA,-TAIWAN-TRADE-V   03-19 0103</field>
-	<field name = "TITLE">CHINA, TAIWAN TRADE VIA HONG KONG FELL IN 1986</field>
+	<field name = "titulo">CHINA, TAIWAN TRADE VIA HONG KONG FELL IN 1986</field>
 	<field name = "DATELINE">HONG KONG, March 19 -</field>
-	<field name = "BODY">The value of trade between China and
+	<field name = "content">The value of trade between China and
 Taiwan via Hong Kong fell 13 pct to 7.45 billion H.K. Dlrs in
 1986 from 8.59 billion dlrs in 1985, Hong Kong's Census and
 Statistics Department said.

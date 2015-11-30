@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 10:06:21.34</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0999reute
-d f BC-CORE-MARK-CHAIRMAN-RE   03-23 0036</field>
-	<field name = "TITLE">CORE-MARK CHAIRMAN RESIGNS</field>
+	<field name = "titulo">CORE-MARK CHAIRMAN RESIGNS</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, March 23 -</field>
-	<field name = "BODY">Core-Mark
+	<field name = "content">Core-Mark
 International Inc> said chairman David E. Gillespie resigned,
 effective March 20, due to health problems.
     No successor was named.

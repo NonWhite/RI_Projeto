@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-APR-1987 12:14:27.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f1611reute
-u f BC-BANKERS-TRUST-BT>-TI   04-21 0115</field>
-	<field name = "TITLE">BANKERS TRUST BT> TIES NET TO CURRENCY EARNINGS</field>
+	<field name = "titulo">BANKERS TRUST BT> TIES NET TO CURRENCY EARNINGS</field>
 	<field name = "DATELINE">NEW YORK, April 21 -</field>
-	<field name = "BODY">Bankers Trust New York Corp said its
+	<field name = "content">Bankers Trust New York Corp said its
 first quarter foreign exchange trading income rose to 82.8 mln
 dlrs from 20.9 mln dlrs in the first qtr of 1986, offsetting
 the bank's 7.4 mln dlr loss incurred from placing 540 mln dlrs

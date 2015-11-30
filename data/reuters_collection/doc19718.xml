@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 12:19:18.67</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1655reute
-d f BC-UNICOA>-TO-MERGE-INT   06-29 0083</field>
-	<field name = "TITLE">UNICOA> TO MERGE INTO ITS UNITED INSURANCE UNIT</field>
+	<field name = "titulo">UNICOA> TO MERGE INTO ITS UNITED INSURANCE UNIT</field>
 	<field name = "DATELINE">CHICAGO, June 29 -</field>
-	<field name = "BODY">Unicoa Corp said it agreed to a merger
+	<field name = "content">Unicoa Corp said it agreed to a merger
 with its wholly-owned subsidiary, United Insurance Co of
 America.
     Under the agreement, each outstanding share of Unicoa

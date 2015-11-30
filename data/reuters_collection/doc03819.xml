@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 13:24:53.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0100reute
-d f BC-SECURITIES-TRADE-GROU   03-11 0100</field>
-	<field name = "TITLE">SECURITIES TRADE GROUP REPLIES TO SENATE VOTE</field>
+	<field name = "titulo">SECURITIES TRADE GROUP REPLIES TO SENATE VOTE</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">The Securities Industry Association
+	<field name = "content">The Securities Industry Association
 said it strongly supports the decision yesterday by the Senate
 Banking Committee to freeze the entry by commerical banks into
 non-banking businesses such as the underwriting of commerical

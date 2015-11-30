@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 07:32:57.90</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f0546reute
-u f BC-SWIRE-UNCOMMITTED-ON   03-25 0115</field>
-	<field name = "TITLE">SWIRE UNCOMMITTED ON PROPOSED NEW H.K. AIRPORT</field>
+	<field name = "titulo">SWIRE UNCOMMITTED ON PROPOSED NEW H.K. AIRPORT</field>
 	<field name = "DATELINE">HONG KONG, March 25 -</field>
-	<field name = "BODY">Swire Pacific Ltd SWPC.HKG> and its
+	<field name = "content">Swire Pacific Ltd SWPC.HKG> and its
 50.25 pct unit Cathay Pacific Airways Ltd CAPH.HKG> are still
 undecided whether they would participate in the proposed new
 airport for Hong Kong, chairman of both Michael Miles said.

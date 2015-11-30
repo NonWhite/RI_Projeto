@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 01:35:24.14</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">T C
-f0041reute
-u f BC-THAILAND-EXPECTS-SMAL   03-31 0080</field>
-	<field name = "TITLE">THAILAND EXPECTS SMALLER SUGARCANE OUTPUT</field>
+	<field name = "titulo">THAILAND EXPECTS SMALLER SUGARCANE OUTPUT</field>
 	<field name = "DATELINE">BANGKOK, March 31 -</field>
-	<field name = "BODY">Thailand's sugarcane output will fall
+	<field name = "content">Thailand's sugarcane output will fall
 to about 23.55 mln tonnes in the 1986/87 (November-October)
 season from 24.09 mln in 1985/86, the Agriculture Ministry
 said.

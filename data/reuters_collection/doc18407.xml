@@ -5,12 +5,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2457reute
-u f BC-/NO-YIELD-DAMAGE-YET   06-15 0145</field>
-	<field name = "TITLE">NO YIELD DAMAGE YET IN U.S. CORN, BEANS - USDA</field>
+	<field name = "titulo">NO YIELD DAMAGE YET IN U.S. CORN, BEANS - USDA</field>
 	<field name = "DATELINE">WASHINGTON, June 15 -</field>
-	<field name = "BODY">The U.S. corn and soybean crops are
+	<field name = "content">The U.S. corn and soybean crops are
 in mostly good condition and have not suffered any yield
 deterioration from recent hot, dry weather, Agriculture
 Department and private weather and crop analysts said.

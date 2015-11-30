@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C T
-f0396reute
-f f BC-SUGAR-TRADERS-FORECAS   04-01 0060</field>
-	<field name = "TITLE">SUGAR TRADERS FORECAST LIKELY EC SUGAR REBATE</field>
+	<field name = "titulo">SUGAR TRADERS FORECAST LIKELY EC SUGAR REBATE</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">London traders say the European Community
+	<field name = "content">London traders say the European Community
 is likely to award a maximum rebate of 46.80 European currency
 units per 100 kilos at today's tender, while traders in Paris
 predict a maximum award of 46.40 Ecus.

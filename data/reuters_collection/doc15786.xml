@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 13:43:03.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1953reute
-r f BC-SEC-TO-HOLD-HEARING-A   04-09 0105</field>
-	<field name = "TITLE">SEC TO HOLD HEARING AGAINST BROKER</field>
+	<field name = "titulo">SEC TO HOLD HEARING AGAINST BROKER</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">The Securities and Exchange Commission
+	<field name = "content">The Securities and Exchange Commission
 said it will hold a public hearing against Martin Saposnick,
 who was a co-underwriter of a 1983 public offering of North
 Atlantic Airlines Inc.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:54:33.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4322reute
-s f BC-NYNEX-CORP-NYN>-SETS   06-18 0022</field>
-	<field name = "TITLE">NYNEX CORP NYN> SETS QTLY DIVIDEND</field>
+	<field name = "titulo">NYNEX CORP NYN> SETS QTLY DIVIDEND</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Qtly div 95 cts vs 95 cts prior
+	<field name = "content">Qtly div 95 cts vs 95 cts prior
     Pay August three
     Record June 30
  Reuter</field>

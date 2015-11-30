@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 13:40:08.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2052reute
-d f BC-STAN-WEST-SWMC>-MAKE   03-30 0097</field>
-	<field name = "TITLE">STAN WEST SWMC> MAKES PRIVATE PLACEMENT</field>
+	<field name = "titulo">STAN WEST SWMC> MAKES PRIVATE PLACEMENT</field>
 	<field name = "DATELINE">SCOTTSDALE, Ariz., March 30 -</field>
-	<field name = "BODY">Stan West Mining Corp said it
+	<field name = "content">Stan West Mining Corp said it
 completed a private placement of three mln units, consisting of
 three mln common shares and warrants to purchase another 1.5
 mln shares.

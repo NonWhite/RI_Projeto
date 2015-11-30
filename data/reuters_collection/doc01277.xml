@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:38:10.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0745reute
-d f BC-PREMIER-INDUSTRIAL-P   03-03 0130</field>
-	<field name = "TITLE">PREMIER INDUSTRIAL PRE> NAMES EXECUTIVES</field>
+	<field name = "titulo">PREMIER INDUSTRIAL PRE> NAMES EXECUTIVES</field>
 	<field name = "DATELINE">CLEVELAND, March 3 -</field>
-	<field name = "BODY">Premier Industrial Corp said it named
+	<field name = "content">Premier Industrial Corp said it named
 Robert Warren to the new post of vice chairman and William
 Hamilton president, succeeding Warren.
     Morton Mandel continues as chairman and chief executive

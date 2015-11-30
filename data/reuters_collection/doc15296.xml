@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 16:13:30.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f2461reute
-r f BC-N.Y.-THRIFTS-HAD-RECO   04-08 0114</field>
-	<field name = "TITLE">N.Y. THRIFTS HAD RECORD MORTGAGE LOANS IN 1986</field>
+	<field name = "titulo">N.Y. THRIFTS HAD RECORD MORTGAGE LOANS IN 1986</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">The Federal Home Loan Bank Board of New
+	<field name = "content">The Federal Home Loan Bank Board of New
 York said mortgage loans acquired by member institutions in
 1986 rose 54 pct from the prior record made in 1985.
     Fouth-quarter mortgage lending by the 98 New York thrifts

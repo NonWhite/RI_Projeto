@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 15:31:16.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0443reute
-r f BC-AMOSKEAG-AMOS>-PROPO   03-11 0098</field>
-	<field name = "TITLE">AMOSKEAG AMOS> PROPOSES CLASS B SHARES</field>
+	<field name = "titulo">AMOSKEAG AMOS> PROPOSES CLASS B SHARES</field>
 	<field name = "DATELINE">BOSTON, March 11 -</field>
-	<field name = "BODY">Amoskeag Co said its board voted to seek
+	<field name = "content">Amoskeag Co said its board voted to seek
 shareholder approval at its April 27 annual meeting of a
 recapitalization plan calling for the distribution of one Class
 B common share for each common share now held.

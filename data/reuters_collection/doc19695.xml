@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 11:49:27.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1505reute
-r f BC-ASEA-GROUP-AWARDED-11   06-29 0060</field>
-	<field name = "TITLE">ASEA GROUP AWARDED 110 MLN DLR POWER CONTRACT</field>
+	<field name = "titulo">ASEA GROUP AWARDED 110 MLN DLR POWER CONTRACT</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Asea Group AB ASEAY> said it has been
+	<field name = "content">Asea Group AB ASEAY> said it has been
 awarded a 110 mln dlr contract from the Swedish State Power
 Board and the Finnish utility Imitran Oma Oy>.
     The company said the contract is for a 500 megawatt 400 kv

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 14:39:58.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2167reute
-u f BC-S/P-DOWNGRADES-AMERIC   06-29 0095</field>
-	<field name = "TITLE">S/P DOWNGRADES AMERICAN HEALTHCARE AHI> NOTES</field>
+	<field name = "titulo">S/P DOWNGRADES AMERICAN HEALTHCARE AHI> NOTES</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 downgraded American Healthcare Management Inc's subordinated
 notes to D from B, affecting 80 mln dlrs of securities.
     S and P said that this for-profit operator of 34 actue-care

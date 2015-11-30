@@ -3,14 +3,10 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f0978
-reute
-u f BC-GERMAN-BANKS-SEEK-GRE   03-03 0110</field>
-	<field name = "TITLE">GERMAN BANKS SEEK GREATER BRAZIL LINK WITH IMF</field>
+	<field name = "titulo">GERMAN BANKS SEEK GREATER BRAZIL LINK WITH IMF</field>
 	<field name = "AUTHOR">By Anthony Williams, Reuters</field>
 	<field name = "DATELINE">BONN, March 3 -</field>
-	<field name = "BODY">West German banks would like Brazil to work
+	<field name = "content">West German banks would like Brazil to work
 more closely with the International Monetary Fund (IMF) with a
 view to seeking a solution to the country's debt problems,
 senior West German banking sources said.

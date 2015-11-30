@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 16:22:57.99</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">C G L M T
-f2365reute
-r f AM-ecuador   03-25 0132</field>
-	<field name = "TITLE">SIX REPORTED WOUNDED IN ECUADOR GENERAL STRIKE</field>
+	<field name = "titulo">SIX REPORTED WOUNDED IN ECUADOR GENERAL STRIKE</field>
 	<field name = "DATELINE">QUITO, March 25 -</field>
-	<field name = "BODY">At least six persons, including three
+	<field name = "content">At least six persons, including three
 soldiers, were reported wounded at the start of a general
 strike in Ecuador called to press the government to suspend an
 earthquake-related austerity programme.

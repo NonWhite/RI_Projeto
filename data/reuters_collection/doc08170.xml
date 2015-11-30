@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 06:16:07.95</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0403reute
-b f BC-FINNISH-EXPORT-CREDIT   03-23 0081</field>
-	<field name = "TITLE">FINNISH EXPORT CREDIT ISSUES YEN BONDS</field>
+	<field name = "titulo">FINNISH EXPORT CREDIT ISSUES YEN BONDS</field>
 	<field name = "DATELINE">London, March 23 -</field>
-	<field name = "BODY">Finnish Export Corp is issuing a 20
+	<field name = "content">Finnish Export Corp is issuing a 20
 billion yen bond maturing April 23, 1992 carrying a 4-3/8 pct
 coupon and priced at 102-3/4, said Yamaichi Securities
 International (Europe) Ltd.

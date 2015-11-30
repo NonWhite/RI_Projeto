@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 19:36:27.21</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">RM 
-f3625reute
-r f BC-MEXICO-PUTS-FOREIGN-I   10-20 0068</field>
-	<field name = "TITLE">MEXICO PUTS FOREIGN INVESTMENT AT 17.8 BILLION DLRS</field>
+	<field name = "titulo">MEXICO PUTS FOREIGN INVESTMENT AT 17.8 BILLION DLRS</field>
 	<field name = "DATELINE">MEXICO CITY, Oct 20 -</field>
-	<field name = "BODY">Foreign investment in Mexico stood at
+	<field name = "content">Foreign investment in Mexico stood at
 end August at 17.8 billion dlrs, following an increase of 900
 mln dlrs in the first eight months, the Trade and Industrial
 Development Ministry said.

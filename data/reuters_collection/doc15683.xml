@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:56:36.64</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f1481reute
-w f BC-DASSAULT-OFFERS-NEW-P   04-09 0097</field>
-	<field name = "TITLE">DASSAULT OFFERS NEW PLANE TO DEFENCE MINISTRY</field>
+	<field name = "titulo">DASSAULT OFFERS NEW PLANE TO DEFENCE MINISTRY</field>
 	<field name = "DATELINE">PARIS, April 9 -</field>
-	<field name = "BODY">Avions Marcel Dassault-Breguet Aviation
+	<field name = "content">Avions Marcel Dassault-Breguet Aviation
 AVMD.PA> has offered the French Defence Ministry a new design
 of its Rafale fighter which is lighter and less detectible by
 radar, a company spokesman said today.

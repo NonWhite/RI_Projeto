@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:59:20.00</field>
-	<field name = "UNKNOWN">C M
-f0683reute
-u f BC-LME-COPPER-MIDSESSION   04-07 0107</field>
-	<field name = "TITLE">LME COPPER MIDSESSION FEATURES CASH PRICING</field>
+	<field name = "titulo">LME COPPER MIDSESSION FEATURES CASH PRICING</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">LME morning ring dealings in copper ended
+	<field name = "content">LME morning ring dealings in copper ended
 with three months Grade A business at 883 stg per tonne, up
 seven stg from yesterday's afternoon kerb close, equivalent to
 1,417 dlrs per tonne, a rise of 11 dlrs.

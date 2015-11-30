@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V
-f0538reute
-u f BC-REAGAN-WARNS-CONGRESS   04-27 0107</field>
-	<field name = "TITLE">REAGAN WARNS CONGRESS ON PROTECTIONISM</field>
+	<field name = "titulo">REAGAN WARNS CONGRESS ON PROTECTIONISM</field>
 	<field name = "DATELINE">WASHINGTON, April 27 -</field>
-	<field name = "BODY">President Reagan warned the U.S.
+	<field name = "content">President Reagan warned the U.S.
 Congress in his weekly radio address against passing what he
 called dangerous, protectionist trade legislation that would
 tie his hands in trade negotiations with Japan and other

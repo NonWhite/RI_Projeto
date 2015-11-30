@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">ethiopia</field>
-	<field name = "UNKNOWN">G
-f0955reute
-r f BC-RAINS-PROMISE-BOUNTIF   03-23 0103</field>
-	<field name = "TITLE">RAINS PROMISE BOUNTIFUL CROPS IN ETHIOPIA</field>
+	<field name = "titulo">RAINS PROMISE BOUNTIFUL CROPS IN ETHIOPIA</field>
 	<field name = "DATELINE">ADDIS ABABA, March 23 -</field>
-	<field name = "BODY">Rain over wide areas has raised the
+	<field name = "content">Rain over wide areas has raised the
 prospect of good food crops throughout Ethiopia, which suffered
 a disastrous drought and famine two years ago.
     Aweke Aynalem, head of the government's Agriculture

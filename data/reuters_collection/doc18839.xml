@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 13:14:40.32</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y 
-f3994reute
-u f BC-DUPONT-UNIT-RAISES-CR   06-18 0085</field>
-	<field name = "TITLE">DUPONT UNIT RAISES CRUDE OIL POSTINGS</field>
+	<field name = "titulo">DUPONT UNIT RAISES CRUDE OIL POSTINGS</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Conoco Inc, a subsidiary of duPont
+	<field name = "content">Conoco Inc, a subsidiary of duPont
 deNemours DD>, said it raised the contract price it will pay
 for all grades of crude oil 50 cts a barrel, effective
 yesterday.

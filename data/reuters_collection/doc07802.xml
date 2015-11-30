@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:24:42.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1603reute
-r f BC-UK-OFFICIAL-SEES-TRAN   03-20 0100</field>
-	<field name = "TITLE">UK OFFICIAL SEES TRANSATLANTIC AIR TRAFFIC RISE</field>
+	<field name = "titulo">UK OFFICIAL SEES TRANSATLANTIC AIR TRAFFIC RISE</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">U.K. Minister for Aviation Michael
+	<field name = "content">U.K. Minister for Aviation Michael
 Spicer said transatlantic traffic should increase at least five
 pct this year, after dropping nearly six pct last year.
     "We expect at least a five pct increase and it may exceed

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 23:02:15.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3012reute
-u f BC-NISSAN-NSAN.T>,-LANC   03-26 0108</field>
-	<field name = "TITLE">NISSAN NSAN.T>, LANCER IN FORKLIFT AGREEMENT</field>
+	<field name = "titulo">NISSAN NSAN.T>, LANCER IN FORKLIFT AGREEMENT</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Japan's Nissan Motor Co Ltd said it and
+	<field name = "content">Japan's Nissan Motor Co Ltd said it and
 Lancer Boss Group Ltd> of the U.K. Have agreed to cooperate on
 the design and manufacture of forklift trucks.
     Under the accord, Lancer will start making jointly designed

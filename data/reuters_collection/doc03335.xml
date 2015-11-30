@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 15:45:37.87</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0578reute
-b f BC-HARPER   03-09 0068</field>
-	<field name = "TITLE">BUSINESS EDITOR OFFERS 34 DLRS FOR HARPER HPR></field>
+	<field name = "titulo">BUSINESS EDITOR OFFERS 34 DLRS FOR HARPER HPR></field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">Theodore Cross, editor of Business
+	<field name = "content">Theodore Cross, editor of Business
 and Society Review, a business publication, said an investor
 group he heads has offered to buy Harper and Row Publishers Inc
 for 34 dlrs a share cash.

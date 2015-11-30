@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 08:26:52.33</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0721reute
-u f BC-BRITISH-TELECOM-AWARD   03-24 0111</field>
-	<field name = "TITLE">BRITISH TELECOM AWARDS ORDERS WORTH 73 MLN STG</field>
+	<field name = "titulo">BRITISH TELECOM AWARDS ORDERS WORTH 73 MLN STG</field>
 	<field name = "DATELINE">LONDON, March 24 -</field>
-	<field name = "BODY">British Telecommunications Plc BTY.L>
+	<field name = "content">British Telecommunications Plc BTY.L>
 said orders worth around 73 mln stg have been awarded to three
 British firms following competitive tendering for more than
 500,000 lines of advanced digital local exchange equipment.

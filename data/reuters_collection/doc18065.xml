@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 11:28:11.97</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f1439reute
-d f BC-U.S.-ENERGY-SECRETARY   06-02 0141</field>
-	<field name = "TITLE">U.S. ENERGY SECRETARY SEES HIGHER OIL PRICES</field>
+	<field name = "titulo">U.S. ENERGY SECRETARY SEES HIGHER OIL PRICES</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">Energy Secretary Donald Hodel said he
+	<field name = "content">Energy Secretary Donald Hodel said he
 expects oil prices to rise significantly by the year 2000,
 probably to around 33 dlrs a barrel in current dollars.
     "I do anticipate a significant increase (by 2000).

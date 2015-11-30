@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 16:15:42.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f0572reute
-u f BC-INTERNATIONAL-LEASE   03-11 0098</field>
-	<field name = "TITLE">INT'L LEASE ILFC> FILES 500 MLN DLRS OFFERING</field>
+	<field name = "titulo">INT'L LEASE ILFC> FILES 500 MLN DLRS OFFERING</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">International Lease Finance Corp
+	<field name = "content">International Lease Finance Corp
 filed with the Securities and Exchange Commission for a shelf
 offering of up to 500 mln dlrs of debt securities in addition
 to 15.75 mln dlrs of debt securities already registered with

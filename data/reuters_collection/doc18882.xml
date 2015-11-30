@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 13:59:49.84</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">F 
-f4154reute
-d f BC-BELGIUM-PLANS-MAJOR-T   06-18 0087</field>
-	<field name = "TITLE">BELGIUM PLANS MAJOR TELECOMMUNICATIONS ORDER</field>
+	<field name = "titulo">BELGIUM PLANS MAJOR TELECOMMUNICATIONS ORDER</field>
 	<field name = "DATELINE">BRUSSELS, June 18 -</field>
-	<field name = "BODY">Belgium is to start negotiations with
+	<field name = "content">Belgium is to start negotiations with
 three consortia on sharing out a major order for modernising
 the country's telecommunications network, a government
 spokesman said.

@@ -4,12 +4,9 @@
 	<field name = "PEOPLE">sourrouille</field>
 	<field name = "ORGS">imf</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0067reute
-r f BC-ARGENTINE-MINISTER-SE   04-05 0100</field>
-	<field name = "TITLE">ARGENTINE MINISTER SEEKS DEBT RESCHEDULING</field>
+	<field name = "titulo">ARGENTINE MINISTER SEEKS DEBT RESCHEDULING</field>
 	<field name = "DATELINE">BUENOS AIRES, April 5 -</field>
-	<field name = "BODY">Economy Minister Juan Sourrouille
+	<field name = "content">Economy Minister Juan Sourrouille
 was heading for Washington for talks with creditor banks on
 rescheduling part of Argentina's foreign debt.
     Economy Ministry sources said he hoped to seal an agreement

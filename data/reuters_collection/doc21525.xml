@@ -5,12 +5,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">cuba</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">M 
-f0494reute
-r f BC-BRITISH-BAUXITE-VESSE   10-19 0086</field>
-	<field name = "TITLE">BRITISH BAUXITE VESSEL GROUNDED IN ORINOCO RIVER</field>
+	<field name = "titulo">BRITISH BAUXITE VESSEL GROUNDED IN ORINOCO RIVER</field>
 	<field name = "DATELINE">LONDON, Oct 19 -</field>
-	<field name = "BODY">Lloyds Shipping Intelligence service said
+	<field name = "content">Lloyds Shipping Intelligence service said
 the British bulk carrier Envoy, 75,453 tonnes dw, was grounded
 at Mile 190 in the Orinoco river on October 16.
     The vessel was on a voyage from Trombetas, Brazil, to

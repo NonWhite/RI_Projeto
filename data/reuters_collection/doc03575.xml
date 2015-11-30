@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 09:15:13.54</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">G T
-f0977reute
-d f BC-FLOOD-THREAT-EASES-IN   03-11 0118</field>
-	<field name = "TITLE">FLOOD THREAT EASES IN SOUTHERN NEW ZEALAND</field>
+	<field name = "titulo">FLOOD THREAT EASES IN SOUTHERN NEW ZEALAND</field>
 	<field name = "DATELINE">WELLINGTON, March 11 -</field>
-	<field name = "BODY">Thousands of people evacuated from
+	<field name = "content">Thousands of people evacuated from
 two towns in flood-hit southern New Zealand began returning to
 their homes late today as the waters began to recede.
     A state of emergency had been declared in Southland

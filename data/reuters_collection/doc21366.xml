@@ -4,12 +4,9 @@
 	<field name = "TOPICS">carcass</field>
 	<field name = "TOPICS">hog</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">L 
-f1379reute
-r f BC-STUDY-SAYS-PORK-LEANE   10-19 0119</field>
-	<field name = "TITLE">STUDY SAYS PORK LEANER THAN USDA FIGURES SHOW</field>
+	<field name = "titulo">STUDY SAYS PORK LEANER THAN USDA FIGURES SHOW</field>
 	<field name = "DATELINE">Chicago, Oct 19 -</field>
-	<field name = "BODY">An Iowa State University study showed
+	<field name = "content">An Iowa State University study showed
 pork contains considerably less fat than indicated by
 long-established U.S. Department of Agriculture statistics, the
 National Pork Producers Council (NPPC) said.

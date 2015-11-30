@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cpi</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">RM
-f0817reute
-r f BC-ECUADOR-ADOPTS-AUSTER   03-14 0114</field>
-	<field name = "TITLE">ECUADOR ADOPTS AUSTERITY PROGRAM</field>
+	<field name = "titulo">ECUADOR ADOPTS AUSTERITY PROGRAM</field>
 	<field name = "DATELINE">QUITO, March 14 -</field>
-	<field name = "BODY">Ecuador announced an austerity program
+	<field name = "content">Ecuador announced an austerity program
 and a price freeze on key consumer goods as a result of last
 week's earthquake which killed at least 300 people.
     Presidency Minister Patricio Quevedo said in a televised

@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 15:57:19.42</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-miller</field>
-	<field name = "UNKNOWN">V RM
-f0377reute
-u f BC-MILLER-REITERATES-NO   03-12 0106</field>
-	<field name = "TITLE">MILLER SAYS NO U.S. TAX HIKES TO CUT DEFICIT</field>
+	<field name = "titulo">MILLER SAYS NO U.S. TAX HIKES TO CUT DEFICIT</field>
 	<field name = "DATELINE">DALLAS, March 12 -</field>
-	<field name = "BODY">Director of the Office of Management
+	<field name = "content">Director of the Office of Management
 and Budget James Miller said the Reagan administration had no
 intention of raising taxes in order to reduce the federal
 budget deficit.

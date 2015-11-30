@@ -4,12 +4,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C T
-f1255reute
-b f BC-FRENCH-PRODUCERS-WITH   04-27 0081</field>
-	<field name = "TITLE">FRENCH PRODUCERS WITHDRAW SUGAR FROM INTERVENTION</field>
+	<field name = "titulo">FRENCH PRODUCERS WITHDRAW SUGAR FROM INTERVENTION</field>
 	<field name = "DATELINE">BRUSSELS, April 27 -</field>
-	<field name = "BODY">French producers have withdrawn all
+	<field name = "content">French producers have withdrawn all
 offers to sell more than 700,000 tonnes of sugar into European
 Community intervention stocks, EC Commission sources said.
     They also said West German producers had now withdrawn the

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 15:24:34.95</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f2395reute
-w f BC-TRADE-BODY-SETS-NEW-R   03-30 0105</field>
-	<field name = "TITLE">TRADE BODY SETS NEW RULES FOR EURODLR MANAGERS</field>
+	<field name = "titulo">TRADE BODY SETS NEW RULES FOR EURODLR MANAGERS</field>
 	<field name = "DATELINE">London, March 30 -</field>
-	<field name = "BODY">The International Primary Market Makers
+	<field name = "content">The International Primary Market Makers
 Association, a trade organisation, said its board last week
 adopted new rules recommending lead managers of eurodollar bond
 issues make a market in that security for 12 months.

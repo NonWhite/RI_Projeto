@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 05:39:31.59F M C</field>
-	<field name = "UNKNOWN">f0355reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">u f BC-ALCAN-AUSTRALIA-BIDS   03-27 0113</field>
-	<field name = "TITLE">ALCAN AUSTRALIA BIDS FOR ALCAN NEW ZEALAND</field>
+	<field name = "titulo">ALCAN AUSTRALIA BIDS FOR ALCAN NEW ZEALAND</field>
 	<field name = "DATELINE">SYDNEY, March 27 -</field>
-	<field name = "BODY">Alcan Australia Ltd AL.S> said it will
+	<field name = "content">Alcan Australia Ltd AL.S> said it will
 make a 39.3 mln N.Z. Dlr cash bid for all the issued shares of
 Alcan New Zealand Ltd> at 1.80 N.Z. Dlrs each with a
 four-for-three share alternative.

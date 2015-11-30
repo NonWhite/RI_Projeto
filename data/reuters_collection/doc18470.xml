@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 01:26:24.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM AI 
-f2120reute
-u f BC-FIRST-CITY-BANCORP-HO   06-18 0112</field>
-	<field name = "TITLE">FIRST CITY BANCORP HOLDS TALKS ON RAISING CAPITAL</field>
+	<field name = "titulo">FIRST CITY BANCORP HOLDS TALKS ON RAISING CAPITAL</field>
 	<field name = "DATELINE">HOUSTON, June 18 -</field>
-	<field name = "BODY">First City Bancorp of Texas Inc FBT>
+	<field name = "content">First City Bancorp of Texas Inc FBT>
 said it was talking with several parties about its previously
 announced efforts to bolster its capital position.
     The statement, issued yesterday, did not say how close the

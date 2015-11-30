@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 19:31:41.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2721reute
-b f BC-SEC'S-SHAD-SEES-WIDEN   03-20 0110</field>
-	<field name = "TITLE">SEC'S SHAD SEES WIDENING TRADING PROBES</field>
+	<field name = "titulo">SEC'S SHAD SEES WIDENING TRADING PROBES</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Securities and Exchange Commission
+	<field name = "content">Securities and Exchange Commission
 chairman John Shad said the SEC's investigations of
 insider-trading on Wall Street will broaden to include other
 types of securities law violations.

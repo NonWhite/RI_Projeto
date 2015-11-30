@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">tunisia</field>
-	<field name = "UNKNOWN">C G
-f1700reute
-u f BC-TUNISIA-EXPECTED-TO-T   04-08 0098</field>
-	<field name = "TITLE">TUNISIA EXPECTED TO TENDER FOR FRENCH WHEAT</field>
+	<field name = "titulo">TUNISIA EXPECTED TO TENDER FOR FRENCH WHEAT</field>
 	<field name = "DATELINE">PARIS, April 8 -</field>
-	<field name = "BODY">Tunisia is expected to tender April 14 for
+	<field name = "content">Tunisia is expected to tender April 14 for
 100,000 tonnes of French soft wheat for delivery between May
 and August and which would be covered by the French export
 credit agency, COFACE, export credits, traders said here.

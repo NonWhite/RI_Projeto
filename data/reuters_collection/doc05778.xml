@@ -6,13 +6,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f4022reute
-b f BC-MARKET-WELCOMES-LOWER   03-16 0105</field>
-	<field name = "TITLE">MARKET WELCOMES LOWER AUSTRALIAN PAYMENTS DEFICIT</field>
+	<field name = "titulo">MARKET WELCOMES LOWER AUSTRALIAN PAYMENTS DEFICIT</field>
 	<field name = "AUTHOR">By Peter Bale, Reuters</field>
 	<field name = "DATELINE">SYDNEY, March 17 -</field>
-	<field name = "BODY">The Australian dollar rose more than 40
+	<field name = "content">The Australian dollar rose more than 40
 points and money market interest rates retreated on the better
 than expected improvement in the February current account
 deficit, but economists and dealers were cautious about

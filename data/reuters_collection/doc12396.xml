@@ -2,13 +2,10 @@
 	<field name = "DATE">2-APR-1987 01:19:02.77</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM
-f0054reute
-u f BC-SINGAPORE-BANKS-SAY-D   04-02 0110</field>
-	<field name = "TITLE">SINGAPORE BANKS SAY DIVERSIFICATION KEY TO GROWTH</field>
+	<field name = "titulo">SINGAPORE BANKS SAY DIVERSIFICATION KEY TO GROWTH</field>
 	<field name = "AUTHOR">By Tay Liam Hwee, Reuters</field>
 	<field name = "DATELINE">SINGAPORE, April 2 -</field>
-	<field name = "BODY">Singapore's major banks are
+	<field name = "content">Singapore's major banks are
 diversifying and gradually shifting their asset holdings from
 loans to debt instruments, banking sources said.
     The banks following the trend are the Overseas Union Bank

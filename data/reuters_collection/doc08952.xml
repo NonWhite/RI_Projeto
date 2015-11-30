@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 14:30:14.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2119reute
-u f BC-IBM-IBM>-TO-REDEEM-2   03-24 0058</field>
-	<field name = "TITLE">IBM IBM> TO REDEEM 250 MLN DLRS OF NOTES</field>
+	<field name = "titulo">IBM IBM> TO REDEEM 250 MLN DLRS OF NOTES</field>
 	<field name = "DATELINE">STAMFORD, Conn., March 24 -</field>
-	<field name = "BODY">International Business Machines
+	<field name = "content">International Business Machines
 Corp's IBM Credit Corp subsidiary said it is calling for
 redemption on May 15 all 250 mln dlrs of its 9-7/8 pct notes
 due May 15, 1988 at 101 pct of principal amount.

@@ -5,12 +5,9 @@
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F A RM
-f0043reute
-u f BC-U.S.-INTERVENED-TO-AI   03-09 0094</field>
-	<field name = "TITLE">U.S. INTERVENED TO AID DLR IN JANUARY, FED SAYS</field>
+	<field name = "titulo">U.S. INTERVENED TO AID DLR IN JANUARY, FED SAYS</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">U.S. authorities intervened in the
+	<field name = "content">U.S. authorities intervened in the
 foreign exchange market to support the dollar on one occasion
 during the period between the start of November 1986 and the
 end of January, the Federal Reserve Bank of New York said in a

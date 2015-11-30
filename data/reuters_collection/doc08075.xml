@@ -2,13 +2,10 @@
 	<field name = "DATE">22-MAR-1987 00:18:26.64</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">sarney</field>
-	<field name = "UNKNOWN">RM
-f0012reute
-u f BC-SARNEY-MEETS-BRAZIL-B   03-22 0107</field>
-	<field name = "TITLE">SARNEY MEETS BRAZIL BUSINESS LEADERS</field>
+	<field name = "titulo">SARNEY MEETS BRAZIL BUSINESS LEADERS</field>
 	<field name = "AUTHOR">By Stephen Powell, Reuters</field>
 	<field name = "DATELINE">SAO PAULO, March 22 -</field>
-	<field name = "BODY">President Jose Sarney, whose handling
+	<field name = "content">President Jose Sarney, whose handling
 of the economy is under attack at home and abroad, has held
 private talks with Brazilian business leaders worried that
 government policies are leading to recession.

@@ -3,12 +3,9 @@
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F RM
-f1951reute
-r f BC-BANK-MONTREAL-REASONA   04-02 0109</field>
-	<field name = "TITLE">BANK MONTREAL REASONABLY OPTIMISTIC ON BRAZIL</field>
+	<field name = "titulo">BANK MONTREAL REASONABLY OPTIMISTIC ON BRAZIL</field>
 	<field name = "DATELINE">NEW YORK, April 2 -</field>
-	<field name = "BODY">Bank of Montreal BMO.M> Chairman
+	<field name = "content">Bank of Montreal BMO.M> Chairman
 William Mulholland said he was reasonably optimistic that debt
 negotiations between Brazil and its commercial bank creditors
 can be accomplished satisfactorily in the long run.

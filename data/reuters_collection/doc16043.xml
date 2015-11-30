@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 18:29:26.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2826reute
-u f BC-MOBIL-(MOB)-WILL-NOT   04-09 0095</field>
-	<field name = "TITLE">MOBIL MOB> WILL NOT INCREASE BUDGET</field>
+	<field name = "titulo">MOBIL MOB> WILL NOT INCREASE BUDGET</field>
 	<field name = "DATELINE">DALLAS, April 9 -</field>
-	<field name = "BODY">Mobil Corp Chairman Allen E. Murray said
+	<field name = "content">Mobil Corp Chairman Allen E. Murray said
 the company's exploration and production budget would not be
 increased in the foreseeable future as it is "operating on the
 assumption that (oil) prices will remain on the lower end of

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 04:03:11.96</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0217reute
-b f BC-BUNDESBANK-SETS-NEW-R   06-02 0067</field>
-	<field name = "TITLE">BUNDESBANK SETS NEW REPURCHASE TENDER</field>
+	<field name = "titulo">BUNDESBANK SETS NEW REPURCHASE TENDER</field>
 	<field name = "DATELINE">FRANKFURT, June 2 -</field>
-	<field name = "BODY">The Bundesbank set a new tender for a
+	<field name = "content">The Bundesbank set a new tender for a
 28-day securities repurchase agreement, offering banks
 liquidity aid at a minimum bid rate of 3.50 pct, a central bank
 spokesman said.

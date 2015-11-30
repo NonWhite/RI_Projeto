@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 12:33:30.71</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0917reute
-u f BC-FERRY-DISASTER-CLAIMS   03-09 0105</field>
-	<field name = "TITLE">FERRY DISASTER CLAIMS COULD TOP 30 MLN STG</field>
+	<field name = "titulo">FERRY DISASTER CLAIMS COULD TOP 30 MLN STG</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">U.K. Insurers could face more than 30 mln
+	<field name = "content">U.K. Insurers could face more than 30 mln
 stg of insurance claims following the Zeebrugge ferry disaster,
 a spokesman for Lloyds of London said.
     It could take weeks before the extent of the compensation

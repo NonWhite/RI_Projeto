@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 17:02:16.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0617reute
-r f BC-WISCONSIN-ELECTRIC-W   03-12 0096</field>
-	<field name = "TITLE">WISCONSIN ELECTRIC WTC> TO CALL PREFERRED</field>
+	<field name = "titulo">WISCONSIN ELECTRIC WTC> TO CALL PREFERRED</field>
 	<field name = "DATELINE">MILWAUKEE, March 12 -</field>
-	<field name = "BODY">Wisconsin Energy Corp's Wisconsin
+	<field name = "content">Wisconsin Energy Corp's Wisconsin
 Electric Power Co said it will redeem its 100 dlr par value
 serial preferred stock on April 14.
     Wisconsin Electric said it will redeem 333,325 shares of

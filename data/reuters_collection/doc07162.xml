@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:07:17.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1223reute
-b f BC-REPLIGEN-RGEN>-TO-SE   03-19 0089</field>
-	<field name = "TITLE">REPLIGEN RGEN> TO SEEK AIDS VACCINE TESTING</field>
+	<field name = "titulo">REPLIGEN RGEN> TO SEEK AIDS VACCINE TESTING</field>
 	<field name = "DATELINE">CAMBRIDGE, Mass., March 19 -</field>
-	<field name = "BODY">Repligen Corp said it intends
+	<field name = "content">Repligen Corp said it intends
 to file an investigational new drug application to the Food and
 Drug Administration seeking permission to test its AIDS vaccine
 in humans by the early summer.

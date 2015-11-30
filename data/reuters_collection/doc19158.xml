@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 10:11:08.00</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0938reute
-d f BC-MICROSEMI-MSCC.O>-AC   06-19 0082</field>
-	<field name = "TITLE">MICROSEMI MSCC.O> ACQUIRES HYBRID COMPONENTS</field>
+	<field name = "titulo">MICROSEMI MSCC.O> ACQUIRES HYBRID COMPONENTS</field>
 	<field name = "DATELINE">SANTA ANA, Calif., June 19 -</field>
-	<field name = "BODY">Microsemi Corp, a supplier of
+	<field name = "content">Microsemi Corp, a supplier of
 semiconductor products and assemblies, said it has acquired the
 operating assets of Hybrid Components Inc> for 2.2 mln dlrs in
 cash.

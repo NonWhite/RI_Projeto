@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 13:10:31.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y 
-f3986reute
-r f BC-CALIFORNIA-ENERGY-CE   06-18 0079</field>
-	<field name = "TITLE">CALIFORNIA ENERGY CECI.O> IN GEOTHERMAL FIND</field>
+	<field name = "titulo">CALIFORNIA ENERGY CECI.O> IN GEOTHERMAL FIND</field>
 	<field name = "DATELINE">SANTA ROSA, Calif., June 18 -</field>
-	<field name = "BODY">California Energy Co Inc said
+	<field name = "content">California Energy Co Inc said
 its 10th geothermal production well at the COSO Project in
 China Lake, Calif., tested one mln pounds of geothermal steam
 per hour at 420 degrees Fahrenheit from a depth of 3,000 feet.

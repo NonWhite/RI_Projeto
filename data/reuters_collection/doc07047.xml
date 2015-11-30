@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 08:26:43.13</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0658reute
-d f BC-BELVEDERE-CORP-BLV>   03-19 0073</field>
-	<field name = "TITLE">BELVEDERE CORP BLV> 4TH QTR LOSS</field>
+	<field name = "titulo">BELVEDERE CORP BLV> 4TH QTR LOSS</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Oper shr loss 21 cts vs loss 95 cts
+	<field name = "content">Oper shr loss 21 cts vs loss 95 cts
     Oper net loss 666,000 vs loss 2,184,000
     Avg shrs 3,181,805 vs 2,310,200
     Year

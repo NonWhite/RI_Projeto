@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:54:14.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0892reute
-r f BC-FIRST-FEDERAL-FARK>   03-05 0057</field>
-	<field name = "TITLE">FIRST FEDERAL FARK> BUYS BACK CAPITAL NOTES</field>
+	<field name = "titulo">FIRST FEDERAL FARK> BUYS BACK CAPITAL NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">First Federal Savings of Arkansas FA
+	<field name = "content">First Federal Savings of Arkansas FA
 said it bought back 4.75 mln dlrs of its 15-3/8 pct
 subordinated capital notes.
     There are now 14.25 mln dlrs of these notes outstanding,

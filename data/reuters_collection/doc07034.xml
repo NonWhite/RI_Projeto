@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 08:02:36.22</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0577reute
-u f BC-U.K.-BUILDING-SOCIETY   03-19 0078</field>
-	<field name = "TITLE">U.K. BUILDING SOCIETY TAPS EUROSTERLING MARKET</field>
+	<field name = "titulo">U.K. BUILDING SOCIETY TAPS EUROSTERLING MARKET</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">Cheltenham and Gloucester Building
+	<field name = "content">Cheltenham and Gloucester Building
 Society is issuing a 50 mln stg eurobond due April 22, 1992,
 paying 9-1/4 pct and priced at 101-1/4 pct, lead manager Union
 Bank of Switzerland (Securities) Ltd said.

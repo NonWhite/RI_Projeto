@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:27:11.84</field>
-	<field name = "UNKNOWN">M
-f0757reute
-u f BC-LME-ALUMINIUM-MIDSESS   04-07 0133</field>
-	<field name = "TITLE">LME ALUMINIUM MIDSESSION SEES WIDER BACKWARDATION</field>
+	<field name = "titulo">LME ALUMINIUM MIDSESSION SEES WIDER BACKWARDATION</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">LME aluminium prices eased this morning
+	<field name = "content">LME aluminium prices eased this morning
 under light dollar based selling of three months delivery but
 persistent covering of nearby short positions widened the
 backwardation to around 69 stg from 66 yesterday, dealers said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 10:56:46.77</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1267reute
-u f BC-BSN-BSN>-HAS-PURCHAS   06-29 0066</field>
-	<field name = "TITLE">BSN BSN> HAS PURCHASED MACGREGOR MGS> STOCK</field>
+	<field name = "titulo">BSN BSN> HAS PURCHASED MACGREGOR MGS> STOCK</field>
 	<field name = "DATELINE">DALLAS, June 29 -</field>
-	<field name = "BODY">BSN Corp said it purchased MacGregor
+	<field name = "content">BSN Corp said it purchased MacGregor
 Sporting Goods' common stock in recent open market
 transactions.
     BSN said its position is less than the five pct ownership

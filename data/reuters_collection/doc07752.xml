@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 11:35:34.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1354reute
-u f BC-FDA-OKAYS-BURROUGHS-W   03-20 0107</field>
-	<field name = "TITLE">FDA OKAYS BURROUGHS WELLCOME AZT AS AIDS TREATMENT</field>
+	<field name = "titulo">FDA OKAYS BURROUGHS WELLCOME AZT AS AIDS TREATMENT</field>
 	<field name = "DATELINE">NEW YORK, MARCH 20 -</field>
-	<field name = "BODY">The Food and Drug Administration has
+	<field name = "content">The Food and Drug Administration has
 approved Burroughs Wellcome Co's AZT as a treatment to help
 certain AIDS patients, including those with advanced-AIDS
 related complex.

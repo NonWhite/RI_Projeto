@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 23:01:02.20</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f2959reute
-u f BC-AUSTRALIAN-UNIONS-AND   04-09 0097</field>
-	<field name = "TITLE">AUSTRALIAN UNIONS AND NSW GOVERNMENT REACH DEAL</field>
+	<field name = "titulo">AUSTRALIAN UNIONS AND NSW GOVERNMENT REACH DEAL</field>
 	<field name = "DATELINE">SYDNEY, April 10 -</field>
-	<field name = "BODY">Union and New South Wales government
+	<field name = "content">Union and New South Wales government
 officials have reached a compromise in a dispute over workers
 compensation, averting increased industrial action in the
 state, union sources said.

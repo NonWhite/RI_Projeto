@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:12:46.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C M
-f1651reute
-d f BC-U.S.-AUTOWORKERS-SET   04-13 0130</field>
-	<field name = "TITLE">U.S. AUTOWORKERS SET FOR TOUGH BARGAINING ROUND</field>
+	<field name = "titulo">U.S. AUTOWORKERS SET FOR TOUGH BARGAINING ROUND</field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">The United Automobile Workers Union,
+	<field name = "content">The United Automobile Workers Union,
 UAW, is asking local leaders to back a renewed drive for higher
 wages in upcoming bargaining with the car and other major
 industries while acknowledging that futher job losses are

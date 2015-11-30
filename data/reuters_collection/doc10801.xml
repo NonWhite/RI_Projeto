@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 08:38:00.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0826reute
-r f BC-WEDGESTONE-REALTY-WD   03-30 0069</field>
-	<field name = "TITLE">WEDGESTONE REALTY WDG> ISSUES WARRANTS</field>
+	<field name = "titulo">WEDGESTONE REALTY WDG> ISSUES WARRANTS</field>
 	<field name = "DATELINE">BOSTON, March 30 -</field>
-	<field name = "BODY">Wedgestone Realty Investors Trust said
+	<field name = "content">Wedgestone Realty Investors Trust said
 it has issued institutional investors 10-year warrants to buy
 575,000 shares at 16.50 dlrs each in connection with the
 previously-announced sale of 10-year promissory notes to the

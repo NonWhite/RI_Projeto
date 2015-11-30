@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:30:59.51</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1797reute
-u f BC-ROWNTREE-SEEKS-200-ML   03-26 0110</field>
-	<field name = "TITLE">ROWNTREE SEEKS 200 MLN STG FACILITY, CP PROGRAM</field>
+	<field name = "titulo">ROWNTREE SEEKS 200 MLN STG FACILITY, CP PROGRAM</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">Rowntree Mackintosh Plc is seeking a 200
+	<field name = "content">Rowntree Mackintosh Plc is seeking a 200
 mln stg, five year multiple option facility, of which 150 mln
 stg will be committed, and a 200 mln stg commercial paper
 program, County Natwest Capital Markets Ltd said as arranger.

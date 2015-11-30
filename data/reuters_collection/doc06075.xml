@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 12:10:14.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5625reute
-d f BC-PHOTRONICS-PHOT>-HAS   03-17 0099</field>
-	<field name = "TITLE">PHOTRONICS PHOT> HAS GENERAL DYNAMICS GD> PACT</field>
+	<field name = "titulo">PHOTRONICS PHOT> HAS GENERAL DYNAMICS GD> PACT</field>
 	<field name = "DATELINE">HAUPPAUGE, N.Y., March 17 -</field>
-	<field name = "BODY">Photronics Corp said it has
+	<field name = "content">Photronics Corp said it has
 received two mln dlrs in contracts from General Dynamics corp
 for continued production of primary and secondary mirror
 assemblies for the Stinger-Post missile.

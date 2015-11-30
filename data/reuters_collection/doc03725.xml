@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:40:57.63</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E RM A
-f0637reute
-r f BC-BOND-SERVICE-DOWNGRAD   03-11 0101</field>
-	<field name = "TITLE">BOND SERVICE DOWNGRADES ROYAL, BANK OF MONTREAL</field>
+	<field name = "titulo">BOND SERVICE DOWNGRADES ROYAL, BANK OF MONTREAL</field>
 	<field name = "DATELINE">MONTREAL, March 11 -</field>
-	<field name = "BODY">The Canadian Bond Rating Service said
+	<field name = "content">The Canadian Bond Rating Service said
 it downgraded ratings for long-term senior debt and
 subordinated debentures at Royal Bank of Canada> and Bank of
 Montreal> due partly to loan loss problems.

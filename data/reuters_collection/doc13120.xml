@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 15:54:36.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2209reute
-d f BC-WRIGLEY-WWY>-RAISES   04-03 0097</field>
-	<field name = "TITLE">WRIGLEY WWY> RAISES GUM PRICE, SELLS NEW SIZE</field>
+	<field name = "titulo">WRIGLEY WWY> RAISES GUM PRICE, SELLS NEW SIZE</field>
 	<field name = "DATELINE">CHICAGO, April 3 -</field>
-	<field name = "BODY">Wm. Wrigley Jr. Co said it raised the
+	<field name = "content">Wm. Wrigley Jr. Co said it raised the
 wholesale price for seven-stick packages of its Spearmint,
 Juicy Fruit, Doublemint and Big Red brands, marching
 competitive moves to a 35 cts retail price. The gum previously

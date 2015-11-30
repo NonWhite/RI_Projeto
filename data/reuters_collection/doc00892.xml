@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 03:08:08.73</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0578
-reute
-u f BC-U.S.-ASKS-JAPAN-TO-EN   03-03 0101</field>
-	<field name = "TITLE">U.S. ASKS JAPAN TO END AGRICULTURE IMPORT CONTROLS</field>
+	<field name = "titulo">U.S. ASKS JAPAN TO END AGRICULTURE IMPORT CONTROLS</field>
 	<field name = "DATELINE">TOKYO, March 3 -</field>
-	<field name = "BODY">The U.S. Wants Japan to eliminate import
+	<field name = "content">The U.S. Wants Japan to eliminate import
 controls on agricultural products within three years, visiting
 U.S. Under-Secretary of State for Economic Affairs Allen Wallis
 told Eishiro Saito, Chairman of the Federation of Economic

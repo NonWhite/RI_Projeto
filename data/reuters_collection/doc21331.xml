@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:18:18.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1525reute
-u f BC-WANG-LABS-WAN>-BETTE   10-19 0091</field>
-	<field name = "TITLE">WANG LABS WAN> BETTER NET ON INCREASED REVENUES</field>
+	<field name = "titulo">WANG LABS WAN> BETTER NET ON INCREASED REVENUES</field>
 	<field name = "DATELINE">BOSTON, Oct 19 -</field>
-	<field name = "BODY">Wang Laboratories Inc expects revenues for
+	<field name = "content">Wang Laboratories Inc expects revenues for
 the year ending June 30, 1988, to increase 12 to 15 pct over
 fiscal 1987 to 3.2 billion dlrs, President Frederick Wang said.
     He told a news conference after-tax profit for the year

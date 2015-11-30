@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 09:35:52.18</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">RM
-f0988reute
-u f BC-SWEDEN-REVISES-BUDGET   03-26 0099</field>
-	<field name = "TITLE">SWEDEN REVISES BUDGET FORECASTS</field>
+	<field name = "titulo">SWEDEN REVISES BUDGET FORECASTS</field>
 	<field name = "DATELINE">STOCKHOLM, March 26 -</field>
-	<field name = "BODY">Sweden's state-run Institute of
+	<field name = "content">Sweden's state-run Institute of
 Economic Research released its forecast of economic indicators
 during 1987 upon which revisions to the state budget, due to be
 put forward at the end of next month, will be based.

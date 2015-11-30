@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 16:18:31.52</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f2518reute
-r f BC-CORE-MARK-CMK.TO>-SE   04-13 0114</field>
-	<field name = "TITLE">CORE-MARK CMK.TO> SEES PROBLEM CORRECTION</field>
+	<field name = "titulo">CORE-MARK CMK.TO> SEES PROBLEM CORRECTION</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, April 13 -</field>
-	<field name = "BODY">Core-Mark
+	<field name = "content">Core-Mark
 International Inc said it was vigorously addressing its
 problems and would correct them in the near term.
     The packaged goods distributor said that its statement

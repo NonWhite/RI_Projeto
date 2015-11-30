@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:14:53.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0808reute
-d f BC-OEA-OEA>-GETS-SPACE   03-09 0091</field>
-	<field name = "TITLE">OEA OEA> GETS SPACE SHUTTLE SYSTEM CONTRACT</field>
+	<field name = "titulo">OEA OEA> GETS SPACE SHUTTLE SYSTEM CONTRACT</field>
 	<field name = "DATELINE">DENVER, COLO., March 9 -</field>
-	<field name = "BODY">OEA Inc said it received from a
+	<field name = "content">OEA Inc said it received from a
 division of Rockwell International Inc ROK>, a contract to
 design and develop a space shuttle egress slide system which
 could be used under post-mission landing conditions.

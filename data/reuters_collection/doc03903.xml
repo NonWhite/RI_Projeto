@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C G
-f0433reute
-b f BC-/USDA-ACCEPTS-BONUS-W   03-11 0129</field>
-	<field name = "TITLE">USDA ACCEPTS BONUS WHEAT OFFERS FOR CHINA</field>
+	<field name = "titulo">USDA ACCEPTS BONUS WHEAT OFFERS FOR CHINA</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">The Commodity Credit Corp (CCC) has
+	<field name = "content">The Commodity Credit Corp (CCC) has
 accepted bids for export bonuses to cover sales of 340,000
 tonnes of hard red winter wheat and 210,000 tonnes of soft red
 winter wheat to China, the U.S. Agriculture Department said.

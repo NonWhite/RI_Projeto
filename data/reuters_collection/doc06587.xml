@@ -5,13 +5,10 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f8477reute
-u f BC-/U.S.-CORN-MARKET-SKE   03-18 0101</field>
-	<field name = "TITLE">U.S. CORN MARKET SKEWED BY SOVIET BUYING</field>
+	<field name = "titulo">U.S. CORN MARKET SKEWED BY SOVIET BUYING</field>
 	<field name = "AUTHOR">By Andrew Stern, Reuters</field>
 	<field name = "DATELINE">CHICAGO, March 18 -</field>
-	<field name = "BODY">Recent purchases of U.S. corn by the
+	<field name = "content">Recent purchases of U.S. corn by the
 Soviet Union have skewed the domestic cash market by increasing
 the price difference between the premium price paid at the Gulf
 export point and interior levels, cash grain dealers said.

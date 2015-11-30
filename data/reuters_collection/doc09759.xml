@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 05:42:55.79</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0385reute
-u f BC-SIEMENS-SEES-SALES-NE   03-26 0111</field>
-	<field name = "TITLE">SIEMENS SEES SALES NEAR 52 BILLION MARKS THIS YEAR</field>
+	<field name = "titulo">SIEMENS SEES SALES NEAR 52 BILLION MARKS THIS YEAR</field>
 	<field name = "DATELINE">MUNICH, March 26 -</field>
-	<field name = "BODY">World group turnover of Siemens AG
+	<field name = "content">World group turnover of Siemens AG
 SIEG.F> should rise to 51 or 52 billion marks in the current
 year to September 31 after a 19 pct upturn in the first five
 months, management board chairman Karlheinz Kaske said.

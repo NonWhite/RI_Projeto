@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 11:32:19.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1403reute
-b f BC-/FORD-MOTOR-F>-MID-M   03-24 0085</field>
-	<field name = "TITLE">FORD MOTOR F> MID-MARCH CAR SALES UP</field>
+	<field name = "titulo">FORD MOTOR F> MID-MARCH CAR SALES UP</field>
 	<field name = "DATELINE">DEARBORN, Mich., March 24 -</field>
-	<field name = "BODY">Ford Motor Co said its domestic
+	<field name = "content">Ford Motor Co said its domestic
 passenger car sales for the nine days from March 11 through
 March 20 rose to 67,672, up 15.2 pct from the 58,729 cars sold
 in the same period last year.

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 16:13:18.90</field>
 	<field name = "TOPICS">instal-debt</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0687reute
-b f BC-U.S.-CONSUMER-CREDIT   03-09 0087</field>
-	<field name = "TITLE">U.S. CONSUMER CREDIT ROSE 536 MLN DLRS IN JAN</field>
+	<field name = "titulo">U.S. CONSUMER CREDIT ROSE 536 MLN DLRS IN JAN</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">U.S. consumer instalment credit rose
+	<field name = "content">U.S. consumer instalment credit rose
 a seasonally adjusted 536 mln dlrs in January after a revised
 rise of 144 mln dlrs in December, the Federal Reserve Board
 said.

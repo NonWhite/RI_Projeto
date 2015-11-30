@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 10:29:25.27</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8045reute
-d f BC-GENZYME-CORP-GENZ>-4   03-18 0059</field>
-	<field name = "TITLE">GENZYME CORP GENZ> 4TH QTR NET</field>
+	<field name = "titulo">GENZYME CORP GENZ> 4TH QTR NET</field>
 	<field name = "DATELINE">BOSTON, March 18 -</field>
-	<field name = "BODY">Shr profit three cts vs loss 44 cts
+	<field name = "content">Shr profit three cts vs loss 44 cts
     Net profit 247,000 vs loss 2,410,000
     Revs 3,845,000 vs 3,264,000
     Avg shrs 8,743,000 vs 5,507,000

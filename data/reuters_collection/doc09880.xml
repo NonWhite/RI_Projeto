@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 10:12:28.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1103reute
-u f BC-IOMEGA-IOMG>-IN-SUPP   03-26 0052</field>
-	<field name = "TITLE">IOMEGA IOMG> IN SUPPLY AGREEMENT</field>
+	<field name = "titulo">IOMEGA IOMG> IN SUPPLY AGREEMENT</field>
 	<field name = "DATELINE">ROY, Utah, March 26 -</field>
-	<field name = "BODY">Iomega Corp said it has signed a
+	<field name = "content">Iomega Corp said it has signed a
 four-year agreement to supply Beta-20 disk drives with
 removable cartridges to Leading Edge Hardware Products Inc>.
     Value was not disclosed.

@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 20:46:44.27</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM
-f2866reute
-b f BC-BRAZIL/BANK-COMMITTEE   03-24 0085</field>
-	<field name = "TITLE">BRAZIL/BANK COMMITTEE AGREE ON CREDIT REQUEST</field>
+	<field name = "titulo">BRAZIL/BANK COMMITTEE AGREE ON CREDIT REQUEST</field>
 	<field name = "DATELINE">MIAMI, March 24 -</field>
-	<field name = "BODY">Brazil and its bank advisory committee
+	<field name = "content">Brazil and its bank advisory committee
 agreed to transmit a request for an extension of short-term
 credit lines totalling 16 billion dlrs for 60 days until May
 31, Brazilian Central Bank President Francisco Gros said.

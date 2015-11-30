@@ -2,13 +2,10 @@
 	<field name = "DATE">29-APR-1987 00:05:46.87</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">adb-asia</field>
-	<field name = "UNKNOWN">RM
-f0002reute
-u f BC-ADB-MEETING-ENDS,-MAR   04-29 0103</field>
-	<field name = "TITLE">ADB MEETING ENDS, MARKED BY CRITICISM</field>
+	<field name = "titulo">ADB MEETING ENDS, MARKED BY CRITICISM</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">OSAKA, Japan, April 29 -</field>
-	<field name = "BODY">The Asian Development Bank (ADB)
+	<field name = "content">The Asian Development Bank (ADB)
 today wound up a three-day meeting which was marked by
 criticism of the ADB from both rich and poor member nations.
     In speech after speech, the 20-year-old ADB was charged

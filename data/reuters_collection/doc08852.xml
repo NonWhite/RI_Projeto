@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 12:16:38.85</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1620reute
-u f BC-OWENS-ILLINOIS-OI>-A   03-24 0109</field>
-	<field name = "TITLE">OWENS-ILLINOIS OI> ACQUISITION COMPLETED</field>
+	<field name = "titulo">OWENS-ILLINOIS OI> ACQUISITION COMPLETED</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">OII HoLdings Corp, a concern formed by
+	<field name = "content">OII HoLdings Corp, a concern formed by
 Kohlberg Kravis Roberts and Co, said it completed its
 previously announced acquisition of Owens-Illinois Inc.
     Under terms of the February 10 agreement, OII paid 60.50

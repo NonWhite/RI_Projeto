@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:54:46.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3925reute
-r f BC-GENERAL-AUTOMATION-G   06-18 0112</field>
-	<field name = "TITLE">GENERAL AUTOMATION GENA.O> SETS PACT WITH IRS</field>
+	<field name = "titulo">GENERAL AUTOMATION GENA.O> SETS PACT WITH IRS</field>
 	<field name = "DATELINE">ANAHEIM, Calif., June 18 -</field>
-	<field name = "BODY">General Automation Inc said it
+	<field name = "content">General Automation Inc said it
 has signed a definitive agreement to pay 4.5 mln dlrs to the
 Internal Revenue Service in taxes, interest and penalties for
 the years 1972 through 1981.

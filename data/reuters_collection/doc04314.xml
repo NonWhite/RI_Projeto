@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">F Y
-f0620reute
-u f BC-/UNION-PACIFIC-UNP>   03-12 0100</field>
-	<field name = "TITLE">UNION PACIFIC UNP> TO SELL PART OF REFINERY</field>
+	<field name = "titulo">UNION PACIFIC UNP> TO SELL PART OF REFINERY</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Union Pacific Corp said it will sign a
+	<field name = "content">Union Pacific Corp said it will sign a
 pact in Caracas on March 17 with Petroleos De Venezuela, PDVSA,
 to sell the state owned company half of its Corpus Christi,
 Texas refinery owned by its Union Pacific's Champlin Petroleum

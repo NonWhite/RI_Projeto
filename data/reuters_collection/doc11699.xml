@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 16:38:41.44</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2667reute
-d f BC-SALEM-CORP-SBS>-4TH   03-31 0063</field>
-	<field name = "TITLE">SALEM CORP SBS> 4TH QTR LOSS</field>
+	<field name = "titulo">SALEM CORP SBS> 4TH QTR LOSS</field>
 	<field name = "DATELINE">MIAMI, March 31 -</field>
-	<field name = "BODY">Shr loss 1.82 dlrs vs loss 16 cts
+	<field name = "content">Shr loss 1.82 dlrs vs loss 16 cts
     Net loss 2,285,000 vs loss 264,000
     Revs 23.0 mln vs 14.6 mln
     Year

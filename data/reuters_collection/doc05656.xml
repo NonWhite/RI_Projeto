@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 15:48:34.96</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3503reute
-d f BC-AMCAST-INDUSTRIAL-COR   03-16 0066</field>
-	<field name = "TITLE">AMCAST INDUSTRIAL CORP ACST> 2ND QTR NET</field>
+	<field name = "titulo">AMCAST INDUSTRIAL CORP ACST> 2ND QTR NET</field>
 	<field name = "DATELINE">DAYTON, Ohio, March 16 -</field>
-	<field name = "BODY">Qtr ends March One
+	<field name = "content">Qtr ends March One
     Shr profit 10 cts vs loss 2.20 cts
     Net profit 687,000 vs loss 14.5 mln
     Revs 68.3 mln vs 54.8 mln

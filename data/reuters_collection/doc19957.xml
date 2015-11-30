@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 18:01:55.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2738reute
-u f BC-SCOTT-PAPER-SPP>-SEE   06-29 0097</field>
-	<field name = "TITLE">SCOTT PAPER SPP> SEES IMPROVED EARNINGS</field>
+	<field name = "titulo">SCOTT PAPER SPP> SEES IMPROVED EARNINGS</field>
 	<field name = "AUTHOR">By Gary Seidman, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Scott Paper Co, one of the leaders in
+	<field name = "content">Scott Paper Co, one of the leaders in
 the tissue and coated paper business, said it expects 1987
 earnings to be between 5.75 dlrs and 6.25 dlrs a share, within
 the range proscribed by most Wall Street analysts.

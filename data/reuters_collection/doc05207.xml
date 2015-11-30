@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 03:58:34.75</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f1233reute
-u f BC-OPPOSITION-TO-PROPOSE   03-16 0111</field>
-	<field name = "TITLE">OPPOSITION TO PROPOSED SALES TAX SPREADS IN JAPAN</field>
+	<field name = "titulo">OPPOSITION TO PROPOSED SALES TAX SPREADS IN JAPAN</field>
 	<field name = "DATELINE">TOKYO, March 16 -</field>
-	<field name = "BODY">Opposition to government plans to impose
+	<field name = "content">Opposition to government plans to impose
 a five pct sales tax is spreading nationwide ahead of the start
 of campaigning for local elections next week, political
 analysts said.

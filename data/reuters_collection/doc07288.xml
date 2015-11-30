@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 13:26:36.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1840reute
-u f BC-STET-CONFIRMS-TALKS-U   03-19 0114</field>
-	<field name = "TITLE">STET CONFIRMS TALKS UNDER WAY WITH THOMSON</field>
+	<field name = "titulo">STET CONFIRMS TALKS UNDER WAY WITH THOMSON</field>
 	<field name = "DATELINE">ROME, March 19 -</field>
-	<field name = "BODY">Italy's state-controlled
+	<field name = "content">Italy's state-controlled
 telecommunications company Stet - Societa Finanziaria
 Telfonica P.A.> and France's Thomson-CSF TCSF.PA> said they
 were negotiating a deal involving their respective subsidiaries

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:17:28.75</field>
-	<field name = "UNKNOWN">C T
-f2197reute
-u f BC-ny-sugar-mids-report   04-07 0123</field>
-	<field name = "TITLE">WORLD SUGAR FUTURES RALLY LATE, SETTLE HIGHER</field>
+	<field name = "titulo">WORLD SUGAR FUTURES RALLY LATE, SETTLE HIGHER</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">World sugar futures settled higher,
+	<field name = "content">World sugar futures settled higher,
 strengthening late on shortcovering and technically-based
 buying, analysts said.
     The rally gained momentum "when traders realized they could

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 15:10:23.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F 
-f2864reute
-u f BC-ALEX-BROWN-REFOCUSING   10-20 0099</field>
-	<field name = "TITLE">ALEX BROWN REFOCUSING CORPORATE SYNDICATE DESK</field>
+	<field name = "titulo">ALEX BROWN REFOCUSING CORPORATE SYNDICATE DESK</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Alex Brown and Sons Inc said it is
+	<field name = "content">Alex Brown and Sons Inc said it is
 refocusing its corporate syndicate desk away from underwriting
 straight corporate debt issues to emerging company debt and
 collateralized mortgage obligations.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">dmk</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0495reute
-b f BC-NO-INTERVENTION,-DOLL   03-30 0032</field>
-	<field name = "TITLE">NO INTERVENTION, DOLLAR FIXED AT 1.8063 MARKS</field>
+	<field name = "titulo">NO INTERVENTION, DOLLAR FIXED AT 1.8063 MARKS</field>
 	<field name = "DATELINE">FRANKFURT, March 30 -</field>
-	<field name = "BODY">The Bundesbank did not intervene as
+	<field name = "content">The Bundesbank did not intervene as
 the dollar was fixed lower at 1.8063 marks after 1.8231 on
 Friday, dealers said.
     Business calmed down after a hectic start, with European

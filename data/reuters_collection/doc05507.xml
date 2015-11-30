@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 12:45:48.84</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">A
-f2902reute
-d f BC-FRANCE-REDUCES-TRADE   03-16 0079</field>
-	<field name = "TITLE">FRANCE REDUCES TRADE DEFICIT IN FEBRUARY</field>
+	<field name = "titulo">FRANCE REDUCES TRADE DEFICIT IN FEBRUARY</field>
 	<field name = "DATELINE">PARIS, March 16 -</field>
-	<field name = "BODY">France posted a seasonally adjusted trade
+	<field name = "content">France posted a seasonally adjusted trade
 deficit of 400 mln francs in February after a 2.5 billion franc
 deficit in January, the Finance Ministry said.
     For the first two months of this year the trade deficit, on

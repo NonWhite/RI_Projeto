@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0096reute
-b f BC-JAPAN-CENTRAL-BANK-BU   03-29 0098</field>
-	<field name = "TITLE">JAPAN CENTRAL BANK BUYS ONE BILLION DLRS IN TOKYO</field>
+	<field name = "titulo">JAPAN CENTRAL BANK BUYS ONE BILLION DLRS IN TOKYO</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">The Bank of Japan has already purchased
+	<field name = "content">The Bank of Japan has already purchased
 more than one billion dlrs in intervention since the opening
 and continues to buy the U.S. Currency, dealers said.
     The central bank was supporting the dollar against the yen

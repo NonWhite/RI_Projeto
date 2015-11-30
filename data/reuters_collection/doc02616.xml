@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F
-f0346reute
-u f BC-CANADA-UPHOLDS-COUNTE   03-06 0103</field>
-	<field name = "TITLE">CANADA UPHOLDS COUNTERVAIL DUTY ON U.S. CORN</field>
+	<field name = "titulo">CANADA UPHOLDS COUNTERVAIL DUTY ON U.S. CORN</field>
 	<field name = "DATELINE">OTTAWA, March 6 -</field>
-	<field name = "BODY">The Canadian Import Tribunal ruled today
+	<field name = "content">The Canadian Import Tribunal ruled today
 subsidized U.S. corn imports were injurious to Canadian growers
 and upheld a countervailing duty of 84.9 U.S. cts a bushel set
 earlier this year.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 09:31:10.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0148reute
-r f BC-COMPUGRAPHIC-CORP-CP   03-04 0098</field>
-	<field name = "TITLE">COMPUGRAPHIC CORP CPU> IN JOINT VENTURE</field>
+	<field name = "titulo">COMPUGRAPHIC CORP CPU> IN JOINT VENTURE</field>
 	<field name = "DATELINE">WALTHAM, Mass., March 4 -</field>
-	<field name = "BODY">Compugraphic Corp said it entered
+	<field name = "content">Compugraphic Corp said it entered
 into an exclusive distribution and technology exchange pact
 with Autographix Inc>.
     Compugraphic said the pact calls for it to distribute

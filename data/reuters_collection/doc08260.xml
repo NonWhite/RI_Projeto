@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 09:59:45.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0969reute
-r f BC-KING-INSTRUMENT-RECEI   03-23 0097</field>
-	<field name = "TITLE">KING INSTRUMENT RECEIVES SETTLEMENT FROM SUIT</field>
+	<field name = "titulo">KING INSTRUMENT RECEIVES SETTLEMENT FROM SUIT</field>
 	<field name = "DATELINE">WESTBORO, Mass., March 23 -</field>
-	<field name = "BODY">King Instrument Corp> said it
+	<field name = "content">King Instrument Corp> said it
 received 8.5 mln dlrs from Otari Electric Co> of Tokyo and its
 California subsidiaries as a settlement for a patent
 infringement suit.

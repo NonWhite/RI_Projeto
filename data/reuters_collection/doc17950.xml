@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 07:30:52.32</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">F
-f0613reute
-u f BC-ITALIAN-MINISTER-APPR   06-02 0103</field>
-	<field name = "TITLE">ITALIAN MINISTER APPROVES TELECOMMUNICATIONS FIRM</field>
+	<field name = "titulo">ITALIAN MINISTER APPROVES TELECOMMUNICATIONS FIRM</field>
 	<field name = "DATELINE">ROME, June 2 -</field>
-	<field name = "BODY">Italy's Ministry of State Participation said
+	<field name = "content">Italy's Ministry of State Participation said
 it formally approved the telecommunications joint venture
 between STET, a subsidiary of the state holding company
 Istituto per la Ricostruzione Industriale> (IRI) and Fiat Spa

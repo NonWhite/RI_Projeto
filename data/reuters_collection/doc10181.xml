@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:36:28.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2618reute
-r f BC-BOSTON-EDISON-BSE>-E   03-26 0105</field>
-	<field name = "TITLE">BOSTON EDISON BSE> EXECUTIVES RETIRING</field>
+	<field name = "titulo">BOSTON EDISON BSE> EXECUTIVES RETIRING</field>
 	<field name = "DATELINE">BOSTON, March 26 -</field>
-	<field name = "BODY">Boston Edison Co chairman Stephen
+	<field name = "content">Boston Edison Co chairman Stephen
 Sweeney said two of the company's senior officers will take
 early retirements, and the company is looking for a new
 president and chief financial officer.

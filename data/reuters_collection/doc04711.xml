@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">A
-f0491reute
-r f BC-MIYAZAWA-SAYS-EXCHANG   03-13 0104</field>
-	<field name = "TITLE">MIYAZAWA SAYS EXCHANGE RATES WILL STAY STABLE</field>
+	<field name = "titulo">MIYAZAWA SAYS EXCHANGE RATES WILL STAY STABLE</field>
 	<field name = "DATELINE">TOKYO, March 13 -</field>
-	<field name = "BODY">Finance Minister Kiichi Miyazawa told a
+	<field name = "content">Finance Minister Kiichi Miyazawa told a
 press conference he thinks exchange rates will remain stable
 due to the currency accord reached in Paris last month by six
 major industrialised nations but he did not say for how long.

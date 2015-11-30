@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 18:34:50.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2793reute
-u f BC-PENNZOIL-(PZ)-PLOTS-S   04-13 0103</field>
-	<field name = "TITLE">PENNZOIL PZL> PLOTS STRATEGY TO FIGHT TEXACO</field>
+	<field name = "titulo">PENNZOIL PZL> PLOTS STRATEGY TO FIGHT TEXACO</field>
 	<field name = "AUTHOR">By JULIE VORMAN, Reuters</field>
 	<field name = "DATELINE">HOUSTON, April 13 -</field>
-	<field name = "BODY">Pennzoil Co, frustrated by Texaco Inc's
+	<field name = "content">Pennzoil Co, frustrated by Texaco Inc's
 TX> decision to seek bankruptcy protection from its 10.3
 billion dlr court judgment, is preparing to launch a new
 assault that may include investigating assets Texaco

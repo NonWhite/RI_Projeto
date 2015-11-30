@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:19:51.60</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0841reute
-h f BC-ROLLS-ROYCE-SEEKS-250   03-09 0110</field>
-	<field name = "TITLE">ROLLS ROYCE SEEKS 250 MLN STG CREDIT FACILITY</field>
+	<field name = "titulo">ROLLS ROYCE SEEKS 250 MLN STG CREDIT FACILITY</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">Rolls Royce, the U.K.'s state-owned car
+	<field name = "content">Rolls Royce, the U.K.'s state-owned car
 and aircraft engine maker, is seeking a 250 mln stg multiple
 option facility to provide it with additional sources of
 financing, banking sources said.

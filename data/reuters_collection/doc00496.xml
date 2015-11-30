@@ -3,13 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">italy</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">F
-f0956
-reute
-d f BC-MONTEDISON-CONCLUDES   03-02 0093</field>
-	<field name = "TITLE">MONTEDISON CONCLUDES TALKS WITH ANTIBIOTICOS</field>
+	<field name = "titulo">MONTEDISON CONCLUDES TALKS WITH ANTIBIOTICOS</field>
 	<field name = "DATELINE">MILAN, March 2 -</field>
-	<field name = "BODY">Montedison Spa MONI.MI> said it has
+	<field name = "content">Montedison Spa MONI.MI> said it has
 concluded its negotiations with Spanish pharmaceuticals company
 Antibioticos SA>.
     A company spokesman told Reuters "We have concluded the

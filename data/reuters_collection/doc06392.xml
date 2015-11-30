@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 07:06:02.78</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f7399reute
-r f BC-ASSOCIATES-CORP-ISSUE   03-18 0096</field>
-	<field name = "TITLE">ASSOCIATES CORP ISSUES 15 BILLION YEN BOND</field>
+	<field name = "titulo">ASSOCIATES CORP ISSUES 15 BILLION YEN BOND</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">Associates Corp of North America> is
+	<field name = "content">Associates Corp of North America> is
 issuing a 15 billion yen eurobond due November 2, 1992 with a
 five pct coupon and priced at 102-3/8, IBJ International Ltd>
 said as lead manager.

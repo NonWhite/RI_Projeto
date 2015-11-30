@@ -2,13 +2,10 @@
 	<field name = "DATE">19-JUN-1987 18:33:18.89</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM F A 
-f2591reute
-u f BC-ECONOMY-OUTLOOK   06-19 0108</field>
-	<field name = "TITLE">U.S. ECONOMY SLOWDOWN RAISES RECESSION FEARS</field>
+	<field name = "titulo">U.S. ECONOMY SLOWDOWN RAISES RECESSION FEARS</field>
 	<field name = "AUTHOR">By Kenneth Barry, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, June 19 -</field>
-	<field name = "BODY">The economy faces lackluster growth
+	<field name = "content">The economy faces lackluster growth
 and the risk of recession this year if the recent improvement
 in U.S. exports should falter, economists say.
     Growth will slow sharply in the next months due to weakness

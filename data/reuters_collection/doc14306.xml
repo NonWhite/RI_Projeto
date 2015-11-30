@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:22:29.37</field>
-	<field name = "UNKNOWN">C L
-f1550reute
-u f BC-feeder-cattle-report   04-07 0114</field>
-	<field name = "TITLE">MIDSESSION FEEDER CATTLE FUTURES MIXED</field>
+	<field name = "titulo">MIDSESSION FEEDER CATTLE FUTURES MIXED</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Feeder Cattle futures traded 0.02 cent
+	<field name = "content">Feeder Cattle futures traded 0.02 cent
 lower to 0.25 higher in light midsession dealings.
     All but distant March posted a new season's high on general
 demand before profit-taking developed. Spreading of long

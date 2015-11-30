@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 06:31:28.67</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0884
-reute
-u f BC-DEGUSSA-COMBINES-PHAR   03-03 0113</field>
-	<field name = "TITLE">DEGUSSA COMBINES PHARMACEUTICAL INTERESTS</field>
+	<field name = "titulo">DEGUSSA COMBINES PHARMACEUTICAL INTERESTS</field>
 	<field name = "DATELINE">FRANKFURT, March 3 -</field>
-	<field name = "BODY">Degussa AG DGSG.F> is combining its
+	<field name = "content">Degussa AG DGSG.F> is combining its
 foreign and domestic pharmaceutical activities into the
 Frankfurt-based Asta Pharma AG>, so as to promote its business
 in that sector, the company said.

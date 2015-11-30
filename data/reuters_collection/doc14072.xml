@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:21:23.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1235reute
-r f BC-DIGITAL-TRANSMISSION   04-07 0110</field>
-	<field name = "TITLE">DIGITAL TRANSMISSION DTINU> OFFERS UNITS</field>
+	<field name = "titulo">DIGITAL TRANSMISSION DTINU> OFFERS UNITS</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Digital Transmission Inc is offering
+	<field name = "content">Digital Transmission Inc is offering
 400,000 units at 9.625 dlrs a unit, underwriter Muller and Co
 Inc said.
     Net proceeds will be used for sales and marketing, research

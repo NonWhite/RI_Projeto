@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 08:58:26.75</field>
 	<field name = "PLACES">tanzania</field>
-	<field name = "UNKNOWN">RM
-f0824reute
-r f BC-TANZANIA-RAISES-PRICE   04-08 0091</field>
-	<field name = "TITLE">TANZANIA RAISES PRICES TO KEEP BUDGET DEFICIT DOWN</field>
+	<field name = "titulo">TANZANIA RAISES PRICES TO KEEP BUDGET DEFICIT DOWN</field>
 	<field name = "DATELINE">DAR ES SALAAM, April 8 -</field>
-	<field name = "BODY">The Tanzanian government raised
+	<field name = "content">The Tanzanian government raised
 the price of beer, soft drinks and cigarettes by 20 pct and
 telephone and telex calls by 10 pct in an attempt to keep its
 budget deficit for this financial year roughly on target.

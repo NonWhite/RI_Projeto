@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 17:00:21.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0913reute
-r f BC-ENDOTRONICS-ENDO>-TO   03-05 0077</field>
-	<field name = "TITLE">ENDOTRONICS ENDO> TO CUT WORKFORCE BY 33 PCT</field>
+	<field name = "titulo">ENDOTRONICS ENDO> TO CUT WORKFORCE BY 33 PCT</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 5 -</field>
-	<field name = "BODY">Endotronics Inc said it is
+	<field name = "content">Endotronics Inc said it is
 restructuring its workforce to reduce payroll costs by
 terminating 75 full-time and four part-time employees, or 33
 pct of its total ranks.

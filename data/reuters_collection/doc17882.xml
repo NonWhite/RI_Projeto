@@ -3,13 +3,10 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI
-f0023reute
-b f BC-NO-REASON-TO-CUT-RATE   06-02 0108</field>
-	<field name = "TITLE">NO REASON TO CUT RATES - BUNDESBANK'S SCHLESINGER</field>
+	<field name = "titulo">NO REASON TO CUT RATES - BUNDESBANK'S SCHLESINGER</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, June 2 -</field>
-	<field name = "BODY">Bundesbank vice president Helmut
+	<field name = "content">Bundesbank vice president Helmut
 Schlesinger said he saw no reason to lower interest rates now.
     With money supply growth showing no sign of slowing down in
 May and the dollar stable or even rising against the mark,

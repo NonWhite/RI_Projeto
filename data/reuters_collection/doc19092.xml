@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 08:17:50.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0602reute
-r f BC-DE-LAURENTIIS-FILM-D   06-19 0075</field>
-	<field name = "TITLE">DE LAURENTIIS FILM DFP> IN FIRST PAYOUT</field>
+	<field name = "titulo">DE LAURENTIIS FILM DFP> IN FIRST PAYOUT</field>
 	<field name = "DATELINE">LOS ANGELES, June 19 -</field>
-	<field name = "BODY">De Laurentiis Film Partners LP said
+	<field name = "content">De Laurentiis Film Partners LP said
 it will pay an initial quarterly dividend of 37.3 cts per unit
 to holders of record on June 30, payable within 90 days of that
 date.

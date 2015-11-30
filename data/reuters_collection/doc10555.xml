@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:56:01.84F</field>
-	<field name = "UNKNOWN">f1729reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">d f BC-COMPUTER-NETWORK-TECH   03-27 0070</field>
-	<field name = "TITLE">COMPUTER NETWORK TECHNOLOGY CMNT> 4TH QTR LOSS</field>
+	<field name = "titulo">COMPUTER NETWORK TECHNOLOGY CMNT> 4TH QTR LOSS</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 27 -</field>
-	<field name = "BODY">Shr loss eight cts vs loss eight cts
+	<field name = "content">Shr loss eight cts vs loss eight cts
     Net loss 655,457 vs loss 566,429
     Rev 258,712 vs nil
     Year

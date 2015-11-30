@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 17:12:30.07</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">C M
-f9571reute
-r f BC-EAST-RAND-PROPIETARY   03-18 0093</field>
-	<field name = "TITLE">EAST RAND MINES EXPECT HIGHER GOLD PRODUCTION</field>
+	<field name = "titulo">EAST RAND MINES EXPECT HIGHER GOLD PRODUCTION</field>
 	<field name = "DATELINE">JOHANNESBURG, March 18 -</field>
-	<field name = "BODY">East Rand Proprietary Mines Ltd
+	<field name = "content">East Rand Proprietary Mines Ltd
 said that barring any major disruption in production, it
 expects 1987 gold output to top 10 tonnes after dropping to
 9.223 tonnes last year from 10.251 in 1985.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 16:58:55.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2648reute
-r f BC-MOODY'S-DOWNGRADES-MI   04-13 0110</field>
-	<field name = "TITLE">MOODY'S DOWNGRADES MICHIGAN GENERAL MGL> DEBT</field>
+	<field name = "titulo">MOODY'S DOWNGRADES MICHIGAN GENERAL MGL> DEBT</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 downgraded 110 mln dlrs of debt of Michigan General Corp.
     Reduced were the company's 10-3/4 pct senior subordinated
 debentures of 1998 to Caa from B-3.

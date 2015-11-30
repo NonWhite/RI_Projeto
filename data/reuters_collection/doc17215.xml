@@ -5,12 +5,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">RM
-f0017reute
-u f BC-U.S.-MAY-TELL-JAPAN-S   04-27 0112</field>
-	<field name = "TITLE">U.S. MAY TELL JAPAN SANCTIONS CAN END - NY TIMES</field>
+	<field name = "titulo">U.S. MAY TELL JAPAN SANCTIONS CAN END - NY TIMES</field>
 	<field name = "DATELINE">NEW YORK, April 27 -</field>
-	<field name = "BODY">President Reagan is expected to tell
+	<field name = "content">President Reagan is expected to tell
 Prime Minister Yasuhiro Nakasone this week that the U.S. May be
 able to lift trade sanctions against Japan by the end of June,
 the New York Times said.

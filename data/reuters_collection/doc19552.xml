@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 07:02:31.62</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F 
-f0507reute
-b f BC-DEGUSSA-PLANS-ONE-FOR   06-29 0091</field>
-	<field name = "TITLE">DEGUSSA PLANS ONE-FOR-FIVE RIGHTS ISSUE</field>
+	<field name = "titulo">DEGUSSA PLANS ONE-FOR-FIVE RIGHTS ISSUE</field>
 	<field name = "DATELINE">FRANKFURT, June 29 -</field>
-	<field name = "BODY">Degussa AG DGSG.F> said it planned a
+	<field name = "content">Degussa AG DGSG.F> said it planned a
 one-for-five rights issue at 225 marks per share, raising
 nominal share capital by 61 mln marks, by the end of its
 current business year ending September 30.

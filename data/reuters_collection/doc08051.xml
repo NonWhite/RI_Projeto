@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 18:44:31.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2691reute
-r f BC-FDIC-SAYS-INDIANA-BAN   03-20 0091</field>
-	<field name = "TITLE">FDIC SAYS INDIANA BANK BECOMES 48TH TO FAIL</field>
+	<field name = "titulo">FDIC SAYS INDIANA BANK BECOMES 48TH TO FAIL</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">The Federal Deposit Insurance Corp
+	<field name = "content">The Federal Deposit Insurance Corp
 said state banking regulators closed the Morocco State Bank in
 Morrocco, Indiana, bringing the total number of banks to fail
 so far this year to 48.

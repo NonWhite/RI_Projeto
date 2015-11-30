@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 05:33:42.55</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0430reute
-b f BC-U.K.-RESERVES-SHOW-LA   04-02 0104</field>
-	<field name = "TITLE">U.K. RESERVES SHOW LARGE UNDERLYING RISE IN MARCH</field>
+	<field name = "titulo">U.K. RESERVES SHOW LARGE UNDERLYING RISE IN MARCH</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">Britain's gold and currency reserves
+	<field name = "content">Britain's gold and currency reserves
 showed an underlying rise of 1.785 billion dlrs in March after
 a 287 mln dlr rise in January, the Treasury said.
     This was considerably above market expectations for a 650

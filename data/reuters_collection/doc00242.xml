@@ -3,13 +3,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">RM
-f0403
-reute
-u f BC-IRAN-CLAIMS-NEW-VICTO   03-01 0102</field>
-	<field name = "TITLE">IRAN CLAIMS NEW VICTORIES NEAR BASRA</field>
+	<field name = "titulo">IRAN CLAIMS NEW VICTORIES NEAR BASRA</field>
 	<field name = "DATELINE">LONDON, March 1 -</field>
-	<field name = "BODY">Iran said its forces had captured one of
+	<field name = "content">Iran said its forces had captured one of
 Iraq's strongest fortifications east of Basra on the Gulf War
 southern front in a major battle overnight.
     The Iranian National News Agency, received here, said

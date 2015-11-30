@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 11:17:40.46</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1373reute
-d f BC-(SUBURBAN-BANCORP),-(   06-01 0087</field>
-	<field name = "TITLE">(SUBURBAN BANCORP), (WOODSTOCK BANCORP) TO MERGE</field>
+	<field name = "titulo">(SUBURBAN BANCORP), (WOODSTOCK BANCORP) TO MERGE</field>
 	<field name = "DATELINE">PALATINE, Ill., June 1 -</field>
-	<field name = "BODY">(Suburban Bancorp Inc) and
+	<field name = "content">(Suburban Bancorp Inc) and
 (Woodstock State Bancorp Inc) said they agreed to a merger
 under which Suburban will purchase Woodstock's shares for a
 total of more than 18 mln dlrs in cash and Suburban Bancorp

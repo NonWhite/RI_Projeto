@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 10:43:19.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f1065reute
-d f BC-COMPUTER-PRODUCTS-CP   06-19 0109</field>
-	<field name = "TITLE">COMPUTER PRODUCTS CPRD> SELLS CONVERTIBLE DEBT</field>
+	<field name = "titulo">COMPUTER PRODUCTS CPRD> SELLS CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Computer Products Inc is raising 35 mln
+	<field name = "content">Computer Products Inc is raising 35 mln
 dlrs through an offering of convertible subordinated debentures
 due 1997 with a 9-1/2 pct coupon and par pricing, said sole
 manager Robinson-Humphrey Co Inc.

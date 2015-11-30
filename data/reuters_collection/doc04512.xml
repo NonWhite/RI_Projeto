@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">V RM
-f0455reute
-u f BC-NO-CLEAR-EVIDENCE-TRA   03-12 0103</field>
-	<field name = "TITLE">NO CLEAR EVIDENCE TRADE GAP REVERSED - VOLCKER</field>
+	<field name = "titulo">NO CLEAR EVIDENCE TRADE GAP REVERSED - VOLCKER</field>
 	<field name = "DATELINE">LOS ANGELES, March 12 -</field>
-	<field name = "BODY">Federal Reserve Board Chairman Paul
+	<field name = "content">Federal Reserve Board Chairman Paul
 Volcker said current data does not give a clear sign that the
 deterioration in the U.S. trade balance has yet been reversed.
     "The data we have in hand do not provide clearcut evidence

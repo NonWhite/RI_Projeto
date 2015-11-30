@@ -3,12 +3,9 @@
 	<field name = "PLACES">switzerland</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">A
-f1026reute
-u f BC-EUROMISSILE-TREATY-DR   06-02 0096</field>
-	<field name = "TITLE">U.S. AND SOVIETS DRAFT EUROMISSILE TREATY</field>
+	<field name = "titulo">U.S. AND SOVIETS DRAFT EUROMISSILE TREATY</field>
 	<field name = "DATELINE">GENEVA, June 2 -</field>
-	<field name = "BODY">U.S. And Soviet negotiators have completed
+	<field name = "content">U.S. And Soviet negotiators have completed
 the text of a draft treaty calling for the elimination of
 medium-range missiles in Europe, a Soviet negotiator said.
     "We must say that as a result of the work done at the

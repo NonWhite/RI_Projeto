@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM
-f0779reute
-b f BC-REAGAN-ARMS   03-03 0086</field>
-	<field name = "TITLE">REAGAN SAYS U.S. TO OFFER MISSILE TREATY</field>
+	<field name = "titulo">REAGAN SAYS U.S. TO OFFER MISSILE TREATY</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">President Reagan said the United
+	<field name = "content">President Reagan said the United
 States would offer a draft treaty on medium-range missile
 reductions at talks with the Soviet Union in Geneva tomorrow.
     Reagan also said in a brief televised appearance in the

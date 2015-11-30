@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 05:11:36.01</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0379reute
-b f BC-BRITISH-TELECOM-3RD-Q   03-12 0060</field>
-	<field name = "TITLE">BRITISH TELECOM 3RD QTR ENDED DEC 31</field>
+	<field name = "titulo">BRITISH TELECOM 3RD QTR ENDED DEC 31</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">Shr 5.1p vs 4.2p, making 15.3p vs 12.7p for nine months.
+	<field name = "content">Shr 5.1p vs 4.2p, making 15.3p vs 12.7p for nine months.
     Pre-tax profit 506 mln stg vs 452 mln, making 1.51 billion
 stg vs 1.35 billion.
     Net profit before minorities 320 mln vs 268 mln, making 960

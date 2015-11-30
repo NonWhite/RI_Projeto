@@ -3,13 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">nigeria</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0955reute
-u f BC-OPEC-REAFFIRMS-COMMIT   03-11 0110</field>
-	<field name = "TITLE">OPEC REAFFIRMS COMMITMENT TO FIXED PRICES, CEILING</field>
+	<field name = "titulo">OPEC REAFFIRMS COMMITMENT TO FIXED PRICES, CEILING</field>
 	<field name = "AUTHOR">By James Jukwey, Reuters</field>
 	<field name = "DATELINE">LAGOS, March 11 -</field>
-	<field name = "BODY">OPEC has reaffirmed its commitment to
+	<field name = "content">OPEC has reaffirmed its commitment to
 fixed crude oil prices of around 18 dlrs a barrel and an
 overall output ceiling of 15.8 mln barrels per day (bpd) to
 defend prices, its president Rilwanu Lukman said.

@@ -4,13 +4,9 @@
 	<field name = "PEOPLE">sumita</field>
 	<field name = "PEOPLE">nakasone</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">F
-f0152
-reute
-r f BC-OECD-SAYS-JAPAN-RESOL   03-02 0098</field>
-	<field name = "TITLE">OECD SAYS JAPAN RESOLVED TO STIMULATE DEMAND</field>
+	<field name = "titulo">OECD SAYS JAPAN RESOLVED TO STIMULATE DEMAND</field>
 	<field name = "DATELINE">TOKYO, March 2 -</field>
-	<field name = "BODY">Japan appears resolved to encourage
+	<field name = "content">Japan appears resolved to encourage
 domestic demand for its goods instead of relying on exports to
 support its economy, Jean-Claude Paye, Director General of the
 Organization for Economic Cooperation and Development (OECD),

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 11:24:17.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1455reute
-u f BC-WRIGHT-SAYS-HOUSE-BUD   03-26 0113</field>
-	<field name = "TITLE">WRIGHT SAYS HOUSE BUDGET COMMITTEE ON TARGET</field>
+	<field name = "titulo">WRIGHT SAYS HOUSE BUDGET COMMITTEE ON TARGET</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">House Speaker Jim Wright, D-Texas,
+	<field name = "content">House Speaker Jim Wright, D-Texas,
 said House Budget Committee Democrats were on target to reach
 budget deficit reduction goals with a plan for 18 billion dlrs
 in new revenues and 18 billion dlrs in additional budget cuts.

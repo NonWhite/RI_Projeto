@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 10:48:31.68</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0258reute
-b f BC-FRENCH-INDUSTRIAL-PRO   04-17 0071</field>
-	<field name = "TITLE">FRENCH INDUSTRIAL PRODUCTION RISES IN FEBRUARY</field>
+	<field name = "titulo">FRENCH INDUSTRIAL PRODUCTION RISES IN FEBRUARY</field>
 	<field name = "DATELINE">PARIS, April 17 -</field>
-	<field name = "BODY">French industrial production rose a
+	<field name = "content">French industrial production rose a
 seasonally adjusted three pct in February after an unrevised
 1.98 pct fall in January, the National Statistics Institute
 (INSEE) said.

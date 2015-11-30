@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 04:31:05.60</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F 
-f2302reute
-u f BC-BERISFORD-SIX-PCT-PRO   06-18 0119</field>
-	<field name = "TITLE">BERISFORD SIX PCT PROFIT RISE MAINTAINS MOMENTUM</field>
+	<field name = "titulo">BERISFORD SIX PCT PROFIT RISE MAINTAINS MOMENTUM</field>
 	<field name = "DATELINE">LONDON, June 18 -</field>
-	<field name = "BODY">S and W Berisford Plc BRFD.L> said a six
+	<field name = "content">S and W Berisford Plc BRFD.L> said a six
 pct rise in pretax profits to 42.7 mln stg in the first half
 had maintained last year's momentum despite poor commodities
 trading conditions and continued rationalisation costs.

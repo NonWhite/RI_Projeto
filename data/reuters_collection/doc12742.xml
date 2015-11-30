@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 03:36:13.79</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0170reute
-b f BC-GERMAN-MARCH-UNADJUST   04-03 0069</field>
-	<field name = "TITLE">GERMAN MARCH UNADJUSTED JOBLESS FALLS</field>
+	<field name = "titulo">GERMAN MARCH UNADJUSTED JOBLESS FALLS</field>
 	<field name = "DATELINE">NUREMBERG, April 3 -</field>
-	<field name = "BODY">West German unemployment, unadjusted
+	<field name = "content">West German unemployment, unadjusted
 for seasonal factors, fell to 2.41 mln in March from 2.49 mln
 in February, the Federal Labour Office said.
     The total represents 9.6 pct of the workforce compared with

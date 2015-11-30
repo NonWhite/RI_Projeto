@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 11:27:45.63</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">RM A
-f1351reute
-u f AM-DEBT-ARGENTINA   03-23 0101</field>
-	<field name = "TITLE">ARGENTINA EXPECTS QUICK AGREEMENT WITH BANKS</field>
+	<field name = "titulo">ARGENTINA EXPECTS QUICK AGREEMENT WITH BANKS</field>
 	<field name = "DATELINE">MIAMI, March 23 -</field>
-	<field name = "BODY">Argentina expects to reach agreement with
+	<field name = "content">Argentina expects to reach agreement with
 its commercial bank creditors in the near future on a new
 financing package including 2.15 billion dlrs in new loans,
 Treasury Secretary Mario Brodersohn said.

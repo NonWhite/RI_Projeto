@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:57:35.34F</field>
-	<field name = "UNKNOWN">f1736reute</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">d f BC-PHARMACIA-UNIT-SIGNS   03-27 0099</field>
-	<field name = "TITLE">PHARMACIA UNIT SIGNS NICOTINE TECHNOLOGY LICENCE</field>
+	<field name = "titulo">PHARMACIA UNIT SIGNS NICOTINE TECHNOLOGY LICENCE</field>
 	<field name = "DATELINE">STOCKHOLM, March 27 -</field>
-	<field name = "BODY">Sweden's AB Leo>, manufacturer of
+	<field name = "content">Sweden's AB Leo>, manufacturer of
 the anti-smoking chewing gum Nicorette, said it had signed a
 letter of intent to study the nicotine technology of Advanced
 Tobacco Products Inc> (ATPI) of San Antonio, Texas.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 10:25:13.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1242reute
-d f BC-DAHLBERG-DAHL.O>-COM   10-19 0079</field>
-	<field name = "TITLE">DAHLBERG DAHL.O> COMPLETES SEARSS> AGREEMENT</field>
+	<field name = "titulo">DAHLBERG DAHL.O> COMPLETES SEARSS> AGREEMENT</field>
 	<field name = "DATELINE">MINNEAPOLIS, Oct 19 -</field>
-	<field name = "BODY">Dahlberg Inc said it completed a
+	<field name = "content">Dahlberg Inc said it completed a
 previously announced agreement with Sears, Roebuck and Co to
 operate hearing aid centers in sears stores on a national
 basis.

@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A RM
-f0726reute
-b f BC-/FED-DRAFTS-CURRENCY,   03-04 0084</field>
-	<field name = "TITLE">FED DRAFTS CURRENCY, RATE SWAP RISK GAUGE</field>
+	<field name = "titulo">FED DRAFTS CURRENCY, RATE SWAP RISK GAUGE</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">The Federal Reserve Board voted
+	<field name = "content">The Federal Reserve Board voted
 unanimously to propose a formula for calculating the risk of
 interest rate and currency swaps as part of its ongoing effort
 to come up with a new capital standard for U.S. banks that

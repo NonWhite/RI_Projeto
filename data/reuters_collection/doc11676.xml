@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 16:24:23.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2615reute
-r f BC-OVERLAND-EXPRESS-OVE   03-31 0098</field>
-	<field name = "TITLE">OVERLAND EXPRESS OVER> NEGOTIATES NEW DEBT</field>
+	<field name = "titulo">OVERLAND EXPRESS OVER> NEGOTIATES NEW DEBT</field>
 	<field name = "DATELINE">INDIANAPOLIS, March 31 -</field>
-	<field name = "BODY">Overland Express Inc said it
+	<field name = "content">Overland Express Inc said it
 negotiated a restated debt moratorium agreement with its
 principal secured lender banks.
     The company said the new agreement extends a prior debt

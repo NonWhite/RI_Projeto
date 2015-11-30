@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 14:11:30.49</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">A RM
-f2011reute
-b f BC-TREASURY'S-BAKER-SAYS   03-25 0104</field>
-	<field name = "TITLE">TREASURY'S BAKER SAYS ECONOMIC COOPERATION WORKS</field>
+	<field name = "titulo">TREASURY'S BAKER SAYS ECONOMIC COOPERATION WORKS</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 the meeting last month in Paris in which finance ministers
 agreed to keep the dollar at current levels showed that the
 economic cooperation process was working.

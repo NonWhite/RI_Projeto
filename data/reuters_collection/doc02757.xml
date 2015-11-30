@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 13:27:49.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0046reute
-r f BC-S/P-SAYS-CORPORATE-DO   03-06 0105</field>
-	<field name = "TITLE">S/P SAYS CORPORATE DOWNGRADES MAY EASE THIS YEAR</field>
+	<field name = "titulo">S/P SAYS CORPORATE DOWNGRADES MAY EASE THIS YEAR</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 expects downgrades of corporate debt ratings to ease this year
 from the lofty levels of 1986 and 1985.
     However, the rating agency said upgrades will probably stay

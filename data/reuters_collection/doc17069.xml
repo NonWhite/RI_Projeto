@@ -2,13 +2,10 @@
 	<field name = "DATE">24-APR-1987 08:05:55.09</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">RM
-f0558reute
-u f BC-NAKASONE-EXPECTED-TO   04-24 0103</field>
-	<field name = "TITLE">NAKASONE EXPECTED TO SURVIVE SALES TAX DEFEAT</field>
+	<field name = "titulo">NAKASONE EXPECTED TO SURVIVE SALES TAX DEFEAT</field>
 	<field name = "AUTHOR">By Janet Snyder, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 24 -</field>
-	<field name = "BODY">Prime Minister Yasuhiro Nakasone's
+	<field name = "content">Prime Minister Yasuhiro Nakasone's
 unpopular sales tax plan has been defeated and although fellow
 politicians and political analysts agree he has suffered a
 grave loss of face only a few are willing to write him off.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 12:48:21.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5807reute
-d f BC-DSC-DIGI>,-AMERITECH   03-17 0070</field>
-	<field name = "TITLE">DSC DIGI>, AMERITECH'S AIT> OHIO BELL IN DEAL</field>
+	<field name = "titulo">DSC DIGI>, AMERITECH'S AIT> OHIO BELL IN DEAL</field>
 	<field name = "DATELINE">DALLAS, March 17 -</field>
-	<field name = "BODY">DSC Communications Corp said it was
+	<field name = "content">DSC Communications Corp said it was
 selected by American Information Technology Corp's AIT> Ohio
 Bell Telephone Co as a vendor of digital electronic
 cross-connect systems.

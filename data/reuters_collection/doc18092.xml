@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 11:54:05.84</field>
 	<field name = "TOPICS">alum</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">M
-f1564reute
-d f BC-ALCAN-REDUCES-COST-OF   06-02 0104</field>
-	<field name = "TITLE">ALCAN REDUCES COST OF PLANNED SMELTER</field>
+	<field name = "titulo">ALCAN REDUCES COST OF PLANNED SMELTER</field>
 	<field name = "DATELINE">MONTREAL, June 2 -</field>
-	<field name = "BODY">Alcan Aluminium Ltd said it has cut the
+	<field name = "content">Alcan Aluminium Ltd said it has cut the
 expected cost of its planned Laterriere, Quebec, smelter by
 using enhanced Grande Baie reduction technology.
     The company said the decision to use prebaked anode

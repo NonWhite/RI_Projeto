@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 12:39:04.78</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0327reute
-u f BC-ORIENT-EXPRESS   04-17 0086</field>
-	<field name = "TITLE">INVESTMENT FIRMS RAISE ORIENT EXPRESSOEH> STAKE</field>
+	<field name = "titulo">INVESTMENT FIRMS RAISE ORIENT EXPRESSOEH> STAKE</field>
 	<field name = "DATELINE">WASHINGTON, April 17 -</field>
-	<field name = "BODY">Two affiliated investment firms and
+	<field name = "content">Two affiliated investment firms and
 funds they control told the Securities and Exchange Commission
 they raised their Orient Express Hotels Inc stake to 1,663,800
 shares, or 17.0 pct of the total, from 1,560,800, or 15.9 pct.

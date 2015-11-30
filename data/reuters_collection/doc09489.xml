@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:56:21.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1964reute
-u f BC-TALKING-POINT/TOBACCO   03-25 0090</field>
-	<field name = "TITLE">TALKING POINT/TOBACCO STOCKS</field>
+	<field name = "titulo">TALKING POINT/TOBACCO STOCKS</field>
 	<field name = "AUTHOR">By Gary Seidman, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Stocks of tobacco companies rose
+	<field name = "content">Stocks of tobacco companies rose
 sharply as investors grew more confident that an excise tax
 would not be imposed on tobacco, traders and analysts said.
     They also said the stocks are relatively inexpensive since

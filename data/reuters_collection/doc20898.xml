@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 17:41:07.98</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3292reute
-r f BC-JAPANESE-STOCKS-WILL   10-19 0093</field>
-	<field name = "TITLE">JAPANESE STOCKS WILL FALL, BUT NOT LIKE WALL ST</field>
+	<field name = "titulo">JAPANESE STOCKS WILL FALL, BUT NOT LIKE WALL ST</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">The massive stock market correction on
+	<field name = "content">The massive stock market correction on
 Wall Street will force a decline in Japanese share prices but a
 decline of similar proportions will not occur due to economic
 factors, said Setsuya Tabuchi, chairman of the board of Nomura

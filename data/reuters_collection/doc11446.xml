@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">bangemann</field>
-	<field name = "UNKNOWN">RM
-f1662reute
-u f BC-BANGEMANN-CALLS-FOR-C   03-31 0096</field>
-	<field name = "TITLE">BANGEMANN CALLS FOR CURRENCY CALM</field>
+	<field name = "titulo">BANGEMANN CALLS FOR CURRENCY CALM</field>
 	<field name = "DATELINE">HANOVER, March 31 -</field>
-	<field name = "BODY">West German Economics Minister Martin
+	<field name = "content">West German Economics Minister Martin
 Bangemann urged a halt to the talking down of the dollar by
 both official and private institutions in the U.S., Saying calm
 was needed on the foreign exchanges.

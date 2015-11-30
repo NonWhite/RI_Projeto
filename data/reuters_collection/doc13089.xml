@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 15:18:25.95</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2107reute
-d f BC-KROGER-KR>-TO-BUY-EI   04-03 0087</field>
-	<field name = "TITLE">KROGER KR> TO BUY EIGHT FOOD STORES</field>
+	<field name = "titulo">KROGER KR> TO BUY EIGHT FOOD STORES</field>
 	<field name = "DATELINE">DALLAS, April 3 -</field>
-	<field name = "BODY">Kroger Co said it agreed to buy nine 
+	<field name = "content">Kroger Co said it agreed to buy nine 
 retail food stores from the Dallas division of Safeway Stores
 Inc>, which announced it was closing the 141-store division as
 part of a restructuring.

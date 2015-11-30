@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 06:16:57.34</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0514reute
-u f BC-PREUSSAG-SAYS-PAYMENT   03-11 0112</field>
-	<field name = "TITLE">PREUSSAG SAYS PAYMENT OF A 1986 DIVIDEND NOT CERTAIN</field>
+	<field name = "titulo">PREUSSAG SAYS PAYMENT OF A 1986 DIVIDEND NOT CERTAIN</field>
 	<field name = "DATELINE">HANOVER, West Germany, March 11 -</field>
-	<field name = "BODY">A spokesman for Preussag
+	<field name = "content">A spokesman for Preussag
 AG PRSG.F> said it was not yet certain whether the company
 would pay a dividend on 1986 results
     He was commenting on a Preussag statement which said

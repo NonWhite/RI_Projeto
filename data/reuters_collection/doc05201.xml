@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 03:03:34.26</field>
 	<field name = "PLACES">new-zealand</field>
 	<field name = "PEOPLE">douglas</field>
-	<field name = "UNKNOWN">RM
-f1171reute
-u f BC-NEW-ZEALAND-GOVERNMEN   03-16 0072</field>
-	<field name = "TITLE">NEW ZEALAND GOVERNMENT BORROWS 100 MLN STERLING</field>
+	<field name = "titulo">NEW ZEALAND GOVERNMENT BORROWS 100 MLN STERLING</field>
 	<field name = "DATELINE">WELLINGTON, March 16 -</field>
-	<field name = "BODY">The New Zealand government borrowed
+	<field name = "content">The New Zealand government borrowed
 100 mln stg on the Eurosterling market to refinance a loan of
 the same amount maturing in June, Finance Minister Roger
 Douglas said in a statement.

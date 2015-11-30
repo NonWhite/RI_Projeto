@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f1401reute
-u f BC-JAPAN-CUTS-CHIP-SUPPL   04-07 0099</field>
-	<field name = "TITLE">JAPAN CUTS CHIP SUPPLY, MAY PRODUCE SHORTAGE</field>
+	<field name = "titulo">JAPAN CUTS CHIP SUPPLY, MAY PRODUCE SHORTAGE</field>
 	<field name = "AUTHOR">By Sam Fromartz, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Japan is attempting to cut back
+	<field name = "content">Japan is attempting to cut back
 semiconductor production to forstall the 300 mln dlrs in U.S.
 tariffs on Japanese electronic goods set to take effect April
 17, industry analysts said.

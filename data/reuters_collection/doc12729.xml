@@ -3,13 +3,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0021reute
-u f BC-JAPANESE-BANKS-EXPAND   04-03 0103</field>
-	<field name = "TITLE">JAPANESE BANKS EXPAND HONG KONG PRESENCE</field>
+	<field name = "titulo">JAPANESE BANKS EXPAND HONG KONG PRESENCE</field>
 	<field name = "AUTHOR">By Allan Ng, Reuters</field>
 	<field name = "DATELINE">HONG KONG, April 3 -</field>
-	<field name = "BODY">At a time when Britain is threatening
+	<field name = "content">At a time when Britain is threatening
 to revoke the license of Japanese banks in retaliation for
 restrictive trade practices, Hong Kong is rolling out the
 welcome mat to Japan.

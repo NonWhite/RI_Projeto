@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">venezuela</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM AI
-f0417reute
-u f BC-OPEC-OFFICIAL-SAYS-CA   06-16 0101</field>
-	<field name = "TITLE">OPEC OFFICIAL SAYS CARTEL HAS REGAINED LEADERSHIP</field>
+	<field name = "titulo">OPEC OFFICIAL SAYS CARTEL HAS REGAINED LEADERSHIP</field>
 	<field name = "DATELINE">CARACAS, June 16 -</field>
-	<field name = "BODY">OPEC has regained its former role as
+	<field name = "content">OPEC has regained its former role as
 price-setter in the oil market following last year's price war,
 acting OPEC Secretary General Fadhil al-Chalabi said.
     But he said he expects no short-term rise in demand for

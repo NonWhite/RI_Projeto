@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 16:19:17.32</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f2514reute
-u f BC-FUNDAMENTAL-BROKERS-B   04-09 0114</field>
-	<field name = "TITLE">FUNDAMENTAL BROKERS BUYS PART OF MKI BROKERS</field>
+	<field name = "titulo">FUNDAMENTAL BROKERS BUYS PART OF MKI BROKERS</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Fundamental Brokers Institutional
+	<field name = "content">Fundamental Brokers Institutional
 Associates, a leading inter-dealer broker in U.S. government
 securities, said it has agreed to acquire certain assets of MKI
 Government Brokers Inc for undisclosed terms.

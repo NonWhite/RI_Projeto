@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">thailand</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">T C
-f0252reute
-r f BC-THAI-SUGAR-PRODUCTION   03-11 0100</field>
-	<field name = "TITLE">THAI SUGAR PRODUCTION INCREASES</field>
+	<field name = "titulo">THAI SUGAR PRODUCTION INCREASES</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Thai sugar production totalled 960,788
+	<field name = "content">Thai sugar production totalled 960,788
 tonnes in January, an increase of 12.7 pct on January 1986,
 according to figures received by the International Sugar
 Organization.

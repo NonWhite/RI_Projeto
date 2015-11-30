@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 14:22:36.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2192reute
-u f BC-FIDATA-FID>-ANNOUNCE   03-30 0086</field>
-	<field name = "TITLE">FIDATA FID> ANNOUNCES PRELIMINARY ESM SETTLEMENT</field>
+	<field name = "titulo">FIDATA FID> ANNOUNCES PRELIMINARY ESM SETTLEMENT</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">Fidata Corp FID> and its subsidiary,
+	<field name = "content">Fidata Corp FID> and its subsidiary,
 Fidata Trust Company New York FTCNY>, announced that they have
 reached a preliminary settlement agreement in principle in the
 lawsuits filed by major parties arising out of the E.S.M.

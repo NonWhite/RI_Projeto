@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2354reute
-d f BC-REGENCY-CRUISES-SHIP   03-20 0126</field>
-	<field name = "TITLE">REGENCY CRUISES SHIP> SELLS SHIP INTEREST</field>
+	<field name = "titulo">REGENCY CRUISES SHIP> SELLS SHIP INTEREST</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Regency Cruises Inc said it agreed to
+	<field name = "content">Regency Cruises Inc said it agreed to
 sell a 40 pct interest in the corporation that owns the M/V
 Regent Sea cruise ship for 2.1 mln dlrs to Monmouth
 International SA, which owns the other 60 pct.

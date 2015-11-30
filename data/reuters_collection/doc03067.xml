@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0151reute
-b f BC-BANK-OF-FRANCE-CUTS-I   03-09 0079</field>
-	<field name = "TITLE">BANK OF FRANCE CUTS INTERVENTION RATE</field>
+	<field name = "titulo">BANK OF FRANCE CUTS INTERVENTION RATE</field>
 	<field name = "DATELINE">PARIS, March 9 -</field>
-	<field name = "BODY">The Bank of France said it cut its money
+	<field name = "content">The Bank of France said it cut its money
 market intervention rate to 7-3/4 pct from eight pct when it
 injected money against first category paper.
     The bank also cut its seven-day repossession rate to 8-1/2

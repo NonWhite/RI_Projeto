@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 08:13:40.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0622reute
-r f BC-PUGET-SOUND-PSNB>-SE   03-13 0113</field>
-	<field name = "TITLE">PUGET SOUND PSNB> SETS EXTENDED VISA WARRANTIES</field>
+	<field name = "titulo">PUGET SOUND PSNB> SETS EXTENDED VISA WARRANTIES</field>
 	<field name = "DATELINE">TACOMA, Wash., March 13 -</field>
-	<field name = "BODY">Puget Sound Bancorp said it is
+	<field name = "content">Puget Sound Bancorp said it is
 offering extended warranty service on items purchased in the
 U.S. with its Visa Classic or BanClub credit cards.
     It said it believes it is the first bank in the nation to

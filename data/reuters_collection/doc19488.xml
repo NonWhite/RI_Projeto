@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 00:18:54.04</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">RM 
-f0024reute
-u f BC-VENEZUELA-PROBES-ALLE   06-29 0106</field>
-	<field name = "TITLE">VENEZUELA PROBES ALLEGED FOREIGN EXCHANGE FRAUD</field>
+	<field name = "titulo">VENEZUELA PROBES ALLEGED FOREIGN EXCHANGE FRAUD</field>
 	<field name = "DATELINE">CARACAS, June 28 -</field>
-	<field name = "BODY">Banking authorities and police are
+	<field name = "content">Banking authorities and police are
 investigating an alleged fraud by the second largest trading
 house in the Caracas free foreign exchange market, Finance
 Minister Manuel Azpurua told reporters.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 10:47:36.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1087reute
-s f BC-FEDERATED-FINANCIAL-   06-19 0038</field>
-	<field name = "TITLE">FEDERATED FINANCIAL FEDF.O> SETS REGULAR DIV</field>
+	<field name = "titulo">FEDERATED FINANCIAL FEDF.O> SETS REGULAR DIV</field>
 	<field name = "DATELINE">MILWAUKEE, Wis., June 19 -</field>
-	<field name = "BODY">Qtly div 8.5 cts vs 8.5 cts
+	<field name = "content">Qtly div 8.5 cts vs 8.5 cts
     Pay August five
     Record July 20
     NOTE: Full company name is Federated Financial Savings and

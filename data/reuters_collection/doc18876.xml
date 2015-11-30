@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 13:50:18.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F 
-f4138reute
-u f BC-BANKAMERICA-BAC>-UNI   06-18 0116</field>
-	<field name = "TITLE">BANKAMERICA BAC> UNIT SELLS CREDIT CARD DEBT</field>
+	<field name = "titulo">BANKAMERICA BAC> UNIT SELLS CREDIT CARD DEBT</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">California Credit Card Trust 1987-B, a
+	<field name = "content">California Credit Card Trust 1987-B, a
 unit of BankAmerica Corp's Bank of America subsidiary, is
 offering 300 mln dlrs of certificates backed by credit card
 receivables, said lead manager Salomon Brothers Inc.

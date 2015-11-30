@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 09:32:02.95</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM A
-f0769reute
-u f BC-DATA-GENERAL-DGN>-TO   04-07 0092</field>
-	<field name = "TITLE">DATA GENERAL DGN> TO TAKE 2ND QTR CHARGE</field>
+	<field name = "titulo">DATA GENERAL DGN> TO TAKE 2ND QTR CHARGE</field>
 	<field name = "DATELINE">WESTBORO, Mass., April 7 -</field>
-	<field name = "BODY">Data General Corp said it
+	<field name = "content">Data General Corp said it
 expects to record an extraordinary pretax charge of about 18.2
 mln dlrs in the second quarter ended March 28.
     The company said the charge will result from a redemption

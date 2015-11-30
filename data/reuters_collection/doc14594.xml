@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:17:27.09</field>
-	<field name = "UNKNOWN">C G
-f2360reute
-u f BC-wnpg-oilseeds-report   04-07 0134</field>
-	<field name = "TITLE">WINNIPEG OILSEED FUTURES END UP, GRAINS MIXED</field>
+	<field name = "titulo">WINNIPEG OILSEED FUTURES END UP, GRAINS MIXED</field>
 	<field name = "DATELINE">WINNIPEG, April 7 -</field>
-	<field name = "BODY">Winnipeg oilseed futures closed higher
+	<field name = "content">Winnipeg oilseed futures closed higher
 in sympathy with strength in the Chicago soybean complex, with
 grains mixed in quiet trade.
     Rapeseed futures ended with gains of 2.60 to 3.30 dlrs per

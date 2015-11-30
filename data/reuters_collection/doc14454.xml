@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:16:51.74</field>
-	<field name = "UNKNOWN">RM C M
-f2193reute
-u f BC-ny-silver-clsg-report   04-07 0138</field>
-	<field name = "TITLE">COMEX SILVER FUTURES CLOSE ON HIGHS</field>
+	<field name = "titulo">COMEX SILVER FUTURES CLOSE ON HIGHS</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Comex silver futures made session highs
+	<field name = "content">Comex silver futures made session highs
 on the close, settling with gains of 18.5 to 20.4 cents.
 Settling prices also set new highs for the recent move, as
 speculative buying overcame midsession profit taking.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 16:03:23.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3103reute
-d f BC-QUAKER-OATS-OAT>-TO   10-20 0073</field>
-	<field name = "TITLE">QUAKER OATS OAT> TO RESUME BUYBACK PROGRAM</field>
+	<field name = "titulo">QUAKER OATS OAT> TO RESUME BUYBACK PROGRAM</field>
 	<field name = "DATELINE">CHICAGO, Oct 20 -</field>
-	<field name = "BODY">Quaker Oats Co said it will resume a
+	<field name = "content">Quaker Oats Co said it will resume a
 share repurchase program initially authorized in September
 1985.
     At the time, a one mln share buyback was approved. Quaker

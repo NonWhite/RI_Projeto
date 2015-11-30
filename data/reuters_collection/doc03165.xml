@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 11:51:42.79</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">F
-f0668reute
-d f BC-COURT-REJECTS-BUITONI   03-09 0116</field>
-	<field name = "TITLE">COURT REJECTS BUITONI APPEAL OVER IRI FOOD UNIT</field>
+	<field name = "titulo">COURT REJECTS BUITONI APPEAL OVER IRI FOOD UNIT</field>
 	<field name = "DATELINE">ROME, March 9 -</field>
-	<field name = "BODY">An appeal by Buitoni SpA against a court
+	<field name = "content">An appeal by Buitoni SpA against a court
 ruling that an accord under which it was to acquire Italian
 state food firm SME - Societa Meridionale Finanziaria was not
 contractually binding has been rejected, court officials said.

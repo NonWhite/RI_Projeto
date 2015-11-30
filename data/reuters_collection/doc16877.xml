@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 13:09:15.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0356reute
-r f BC-AFFILIATED-BANKSHARES   04-17 0045</field>
-	<field name = "TITLE">AFFILIATED BANKSHARES AFBK.O> NAMES CEO</field>
+	<field name = "titulo">AFFILIATED BANKSHARES AFBK.O> NAMES CEO</field>
 	<field name = "DATELINE">DENVER, April 17 -</field>
-	<field name = "BODY">Affiliated Bankshares of Colorado Inc
+	<field name = "content">Affiliated Bankshares of Colorado Inc
 said president and chief operating officer Kent O. Olin has
 been named to the added post of chief executive, succeeding Leo
 Hill, who plans to retire at the end of the year.

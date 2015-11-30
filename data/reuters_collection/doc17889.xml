@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 03:16:30.76</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G
-f0132reute
-u f BC-FOOD-SURPLUSES-OBSCUR   06-02 0107</field>
-	<field name = "TITLE">FOOD SURPLUSES OBSCURE CONTINUING STARVATION</field>
+	<field name = "titulo">FOOD SURPLUSES OBSCURE CONTINUING STARVATION</field>
 	<field name = "DATELINE">PEKING, June 2 -</field>
-	<field name = "BODY">Western bickering over food surpluses is
+	<field name = "content">Western bickering over food surpluses is
 obscuring the fact that starvation is now a bigger problem than
 ever before, a senior World Food Council official said.
     Alain Vidal Naquet, head of external relations for the

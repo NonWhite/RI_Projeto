@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 10:54:00.81</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">madagascar</field>
-	<field name = "UNKNOWN">C T
-f1159reute
-u f BC-MADAGASCAR-COFFEE-PRO   03-19 0100</field>
-	<field name = "TITLE">MADAGASCAR COFFEE PRODUCTION SEEN LOWER IN 1987</field>
+	<field name = "titulo">MADAGASCAR COFFEE PRODUCTION SEEN LOWER IN 1987</field>
 	<field name = "DATELINE">ANTANANARIVO, March 19 -</field>
-	<field name = "BODY">Madagascar's available coffee
+	<field name = "content">Madagascar's available coffee
 output is estimated at 80,725 tonnes this year, down from
 82,210 in 1986, due to a rundown of government agricultural
 services and the poor state of feeder roads in rural areas,

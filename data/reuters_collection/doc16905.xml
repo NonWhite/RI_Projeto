@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 15:37:10.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0419reute
-r f BC-SEC   04-17 0099</field>
-	<field name = "TITLE">FORMER BALDWIN-UNITED CHIEF SETTLES SEC CHARGE</field>
+	<field name = "titulo">FORMER BALDWIN-UNITED CHIEF SETTLES SEC CHARGE</field>
 	<field name = "DATELINE">WASHINGTON, April 17 -</field>
-	<field name = "BODY">The former chief executive officer
+	<field name = "content">The former chief executive officer
 of Baldwin-United Corp, now known as PHLCorp PHX>, agreed to
 settle charges stemming from misleading financial statements
 the company is accused of making before it collapsed in 1983.

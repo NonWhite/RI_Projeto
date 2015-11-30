@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 15:09:28.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2195reute
-u f BC-/SALOMON-INC-SB>-DEN   04-09 0086</field>
-	<field name = "TITLE">SALOMON INC SB> DENIES RUMORS OF BOND LOSSES</field>
+	<field name = "titulo">SALOMON INC SB> DENIES RUMORS OF BOND LOSSES</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Robert Salomon, managing director of
+	<field name = "content">Robert Salomon, managing director of
 Salomon Inc, said rumors the Wall Street firm suffered bond
 trading losses in the first quarter are not true.
     Salomon said the rumors affected the company's stock and 

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">F
-f0869reute
-r f BC-CPC-INTERNATIONAL-CP   04-02 0113</field>
-	<field name = "TITLE">CPC INTERNATIONAL CPC> SELLS SOUTH AFRICAN UNIT</field>
+	<field name = "titulo">CPC INTERNATIONAL CPC> SELLS SOUTH AFRICAN UNIT</field>
 	<field name = "DATELINE">ENGLEWOOD CLIFFS, N.J., April 2 -</field>
-	<field name = "BODY">CPC International Inc
+	<field name = "content">CPC International Inc
 said it has completed the sale of its South African subsidiary
 Robertsons Pty Ltd to a consortium of European and South
 African investors for an undisclosed amount in excess of book

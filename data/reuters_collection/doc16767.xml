@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 05:08:50.21</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0081reute
-u f BC-DAI-NIPPON-TO-ISSUE-T   04-17 0117</field>
-	<field name = "TITLE">DAI NIPPON TO ISSUE THREE DOMESTIC CONVERTIBLES</field>
+	<field name = "titulo">DAI NIPPON TO ISSUE THREE DOMESTIC CONVERTIBLES</field>
 	<field name = "DATELINE">TOKYO, April 17 -</field>
-	<field name = "BODY">Dai Nippon Printing Co Ltd DPRI.T> said
+	<field name = "content">Dai Nippon Printing Co Ltd DPRI.T> said
 it will issue three convertible yen bonds on domestic markets.
      It will issue a 25 billion yen 15-year bond through public
 placement with Yamaichi Securities Co Ltd as lead manager. It

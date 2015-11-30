@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 10:26:25.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0073reute
-d f BC-LEAR-PETROLEUM-LPT>   03-13 0094</field>
-	<field name = "TITLE">LEAR PETROLEUM LPT> CONSOLIDATES GAS UNITS</field>
+	<field name = "titulo">LEAR PETROLEUM LPT> CONSOLIDATES GAS UNITS</field>
 	<field name = "DATELINE">DALLAS, March 13 -</field>
-	<field name = "BODY">Lear Petroleum Corp said it consolidated
+	<field name = "content">Lear Petroleum Corp said it consolidated
 and reorganized its gas transmission, gathering and marketing
 operations into three new companies.
     It said the new Lear Gas Gathering Co will handle all the

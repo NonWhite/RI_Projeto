@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 12:23:39.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8582reute
-b f BC-/ATT-T>-TO-REDEEM-15   03-18 0086</field>
-	<field name = "TITLE">ATT T> TO REDEEM 15.5 MLN PREFERRED SHARES</field>
+	<field name = "titulo">ATT T> TO REDEEM 15.5 MLN PREFERRED SHARES</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">American Telephone and Telegraph said
+	<field name = "content">American Telephone and Telegraph said
 that, effective May 1, it will spend 775 mln dlrs to redeem 
 15.5 mln shares of the outstanding 16.7 mln shares in two
 publicly held preferred stock issues.

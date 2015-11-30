@@ -7,13 +7,9 @@
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "PLACES">qatar</field>
 	<field name = "PLACES">uae</field>
-	<field name = "UNKNOWN">RM
-f0418
-reute
-u f BC-GULF-BOND,-STOCK-MARK   03-01 0110</field>
-	<field name = "TITLE">GULF BOND, STOCK MARKETS LAG BEHIND, GIB SAYS</field>
+	<field name = "titulo">GULF BOND, STOCK MARKETS LAG BEHIND, GIB SAYS</field>
 	<field name = "DATELINE">BAHRAIN, March 1 -</field>
-	<field name = "BODY">Gulf money markets have grown reasonably
+	<field name = "content">Gulf money markets have grown reasonably
 well during the past decade, but bond and stock markets remain
 to a large extent fragmented and lag behind, Gulf
 International Bank BSC> (GIB) said.

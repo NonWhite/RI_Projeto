@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 10:38:52.75</field>
 	<field name = "TOPICS">housing</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A
-f0326reute
-u f BC-CANADA-BUILDING-PERMI   03-09 0084</field>
-	<field name = "TITLE">CANADA BUILDING PERMITS RISE IN NOVEMBER</field>
+	<field name = "titulo">CANADA BUILDING PERMITS RISE IN NOVEMBER</field>
 	<field name = "DATELINE">OTTAWA, March 9 -</field>
-	<field name = "BODY">Led by the non-residential sector,
+	<field name = "content">Led by the non-residential sector,
 Canadian building permits issued in November rose 0.7 pct to
 2.18 billion dlrs, seasonally adjusted, from 2.16 billion dlrs
 in October, Statistics Canada said.

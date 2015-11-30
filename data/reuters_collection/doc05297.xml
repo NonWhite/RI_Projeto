@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 08:44:08.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1852reute
-u f BC-TALKING-POINT/EASTERN   03-16 0085</field>
-	<field name = "TITLE">TALKING POINT/EASTERN AIRLINES TEX></field>
+	<field name = "titulo">TALKING POINT/EASTERN AIRLINES TEX></field>
 	<field name = "AUTHOR">By Matt Spetalnick, Reuters</field>
 	<field name = "DATELINE">Miami, March 16 -</field>
-	<field name = "BODY">A rash of firings, fears of mass layoffs
+	<field name = "content">A rash of firings, fears of mass layoffs
 and management overtures for wage concessions have set the
 stage for all-out war between Eastern Airlines and its unions,
 analysts and labor leaders say.

@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 07:20:29.90</field>
 	<field name = "PLACES">france</field>
 	<field name = "PEOPLE">chirac</field>
-	<field name = "UNKNOWN">A 
-f0560reute
-r f BC-CHIRAC-SEES-STABLE-FR   06-29 0103</field>
-	<field name = "TITLE">CHIRAC SEES STABLE FRENCH BUYING POWER IN 1987</field>
+	<field name = "titulo">CHIRAC SEES STABLE FRENCH BUYING POWER IN 1987</field>
 	<field name = "DATELINE">PARIS, June 29 -</field>
-	<field name = "BODY">French buying power should remain stable
+	<field name = "content">French buying power should remain stable
 this year despite lower economic growth, while investment will
 rise sharply, Prime Minister Jacques Chirac said.
     "I think we will maintain our buying power... I do not think

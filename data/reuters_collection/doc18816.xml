@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:51:46.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3912reute
-r f BC-DOSKOCIL-DOSKD.O>-BU   06-18 0059</field>
-	<field name = "TITLE">DOSKOCIL DOSKD.O> BUYS BACK FIVE PCT OF STOCK</field>
+	<field name = "titulo">DOSKOCIL DOSKD.O> BUYS BACK FIVE PCT OF STOCK</field>
 	<field name = "DATELINE">HUTCHINSON, KAN., June 18 -</field>
-	<field name = "BODY">Doskocil Companies Inc said it
+	<field name = "content">Doskocil Companies Inc said it
 bought back 310,000 shares or about five pct of its common
 stock and its board authorized the repurchase of an additional
 200,000 common shares.

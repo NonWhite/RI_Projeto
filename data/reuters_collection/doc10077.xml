@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2155reute
-u f BC-BP-BP>-DOES-NOT-PLAN   03-26 0067</field>
-	<field name = "TITLE">BP BP> DOES NOT PLAN TO HIKE STANDARD SRD> BID</field>
+	<field name = "titulo">BP BP> DOES NOT PLAN TO HIKE STANDARD SRD> BID</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">British Petroleum Co Plc does not
+	<field name = "content">British Petroleum Co Plc does not
 intend to raise the price of its planned 70 dlr per share offer
 for the publicly held 45 pct of Standard Oil Co, BP Managing
 Director David Simon said.

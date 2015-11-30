@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G 
-f0507reute
-r f BC-ANIMAL-FEED-SHIP-ON-F   10-19 0108</field>
-	<field name = "TITLE">ANIMAL FEED SHIP ON FIRE AGAIN AT CHINESE PORT</field>
+	<field name = "titulo">ANIMAL FEED SHIP ON FIRE AGAIN AT CHINESE PORT</field>
 	<field name = "DATELINE">LONDON, Oct 19 -</field>
-	<field name = "BODY">The Cyprus vessel Fearless, 31,841 tonnes
+	<field name = "content">The Cyprus vessel Fearless, 31,841 tonnes
 dw, which was on fire, grounded then towed to Yantai, China, in
 August, had all its cargo reloaded but the cargo in the no. 3
 hold caught fire on October 15.

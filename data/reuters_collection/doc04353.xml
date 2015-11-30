@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 13:07:04.88</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0850reute
-u f BC-FRN-MARKET-SLUMPS,-FI   03-12 0111</field>
-	<field name = "TITLE">FRN MARKET SLUMPS, FIXED RATE EUROBOND TRADE QUIET</field>
+	<field name = "titulo">FRN MARKET SLUMPS, FIXED RATE EUROBOND TRADE QUIET</field>
 	<field name = "AUTHOR">By Dominique Jackson, Reuters</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">Eurobond prices in the floating rate
+	<field name = "content">Eurobond prices in the floating rate
 note sector slumped across the board by as much as a full point
 on some issues.
     "Today has been irrational, irresponsible -- possibly the

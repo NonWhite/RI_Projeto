@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 13:08:21.86</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f1966reute
-d f BC-GOLDFIELD-CORP-GV>-4   03-26 0080</field>
-	<field name = "TITLE">GOLDFIELD CORP GV> 4TH QTR NET LOSS</field>
+	<field name = "titulo">GOLDFIELD CORP GV> 4TH QTR NET LOSS</field>
 	<field name = "DATELINE">MELBOURNE, Fla., March 26 -</field>
-	<field name = "BODY">Shr loss four cts vs loss five cts
+	<field name = "content">Shr loss four cts vs loss five cts
     Net loss 527,065 vs loss 1,204,080
     Revs 622,470 vs 613,205
     Year

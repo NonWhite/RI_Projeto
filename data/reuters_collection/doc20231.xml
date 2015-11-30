@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">india</field>
 	<field name = "PEOPLE">lyng</field>
-	<field name = "UNKNOWN">C G 
-f1241reute
-b f BC-LYNG-SAYS-INDIA-FOOD   10-20 0106</field>
-	<field name = "TITLE">LYNG SAYS INDIA FOOD AID PACKAGE NOT READY</field>
+	<field name = "titulo">LYNG SAYS INDIA FOOD AID PACKAGE NOT READY</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">The United States and India have
+	<field name = "content">The United States and India have
 not yet agreed on a food aid package to help the
 drought-stricken Asian country, Agriculture Secretary Richard
 Lyng said.

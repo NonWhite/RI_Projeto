@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 13:58:16.10</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f0298reute
-b f AM-BRAZIL-SEAMEN   03-05 0128</field>
-	<field name = "TITLE">STRIKING BRAZILIAN SEAMEN HOLD PAY TALKS</field>
+	<field name = "titulo">STRIKING BRAZILIAN SEAMEN HOLD PAY TALKS</field>
 	<field name = "DATELINE">SAO PAULO, March 5 -</field>
-	<field name = "BODY">Striking Brazilian seamen, who say
+	<field name = "content">Striking Brazilian seamen, who say
 they have made idle 158 ships and halted Brazilian exports,
 today held pay talks in Rio de Janeiro with Labour Minister
 Almir Pazzianotto, union officials said.

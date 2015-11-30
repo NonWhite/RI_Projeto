@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 04:55:13.06</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0240reute
-u f BC-NORD-EST-ISSUES-392.9   03-23 0104</field>
-	<field name = "TITLE">NORD-EST ISSUES 392.9 MLN FRENCH FRANC BOND</field>
+	<field name = "titulo">NORD-EST ISSUES 392.9 MLN FRENCH FRANC BOND</field>
 	<field name = "DATELINE">PARIS, March 23 -</field>
-	<field name = "BODY">Financial holding company Nord-Est is
+	<field name = "content">Financial holding company Nord-Est is
 issuing a 392.9 mln franc, 6.25 pct, five year domestic bond
 convertible into shares, an announcement in the Official
 Bulletin (BALO) said.

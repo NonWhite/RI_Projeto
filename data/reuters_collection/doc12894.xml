@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 10:34:50.30</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f1139reute
-r f BC-GERMAN,-JAPANESE-FIRM   04-03 0094</field>
-	<field name = "TITLE">GERMAN, JAPANESE FIRMS WORK ON WASTE PLANT</field>
+	<field name = "titulo">GERMAN, JAPANESE FIRMS WORK ON WASTE PLANT</field>
 	<field name = "DATELINE">OBERHAUSEN, West Germany, April 3 -</field>
-	<field name = "BODY">Deutsche Babcock AG
+	<field name = "content">Deutsche Babcock AG
 DBCG.F> said it agreed to cooperate with BASF AG BASF.F> and
 the Japanese firm Kawasaki Heavy Industries Ltd KAWH.T>, KHI,
 in the field of technology designed to protect the environment.

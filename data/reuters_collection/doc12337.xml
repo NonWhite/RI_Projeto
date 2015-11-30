@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 17:09:28.14</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G
-f2553reute
-d f BC-USDA-GRAIN-INSPECTION   04-01 0100</field>
-	<field name = "TITLE">USDA GRAIN INSPECTION ADVISORY COMMITTEE MEETING</field>
+	<field name = "titulo">USDA GRAIN INSPECTION ADVISORY COMMITTEE MEETING</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">The Federal Grain Inspection Service
+	<field name = "content">The Federal Grain Inspection Service
 Advisory Committee will meet here Monday, April 13, the U.S.
 Agriculture Department said.
     Items on the agenda for the meeting, which is scheduled to

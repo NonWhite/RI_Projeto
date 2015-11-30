@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 05:57:40.57</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F 
-f0399reute
-u f BC-SAMSUNG-SEMICONDUCTOR   06-29 0115</field>
-	<field name = "TITLE">SAMSUNG SEMICONDUCTORS SIGNS FOR 22 MLN DLR LOAN</field>
+	<field name = "titulo">SAMSUNG SEMICONDUCTORS SIGNS FOR 22 MLN DLR LOAN</field>
 	<field name = "DATELINE">HONG KONG, June 29 -</field>
-	<field name = "BODY">Samsung Semiconductors Inc>, the U.S.
+	<field name = "content">Samsung Semiconductors Inc>, the U.S.
 Subsidiary of South Korea's Samsung Semiconductors and
 Telecommunications Co Ltd>, has signed for a 22 mln U.S. Dlr
 loan, arranger LTCB Asia Ltd said.

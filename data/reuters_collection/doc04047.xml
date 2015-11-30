@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 23:46:55.84</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f0077reute
-u f BC-TAIWAN-FURTHER-RELAXE   03-11 0110</field>
-	<field name = "TITLE">TAIWAN FURTHER RELAXES FOREIGN GOODS IMPORT CURBS</field>
+	<field name = "titulo">TAIWAN FURTHER RELAXES FOREIGN GOODS IMPORT CURBS</field>
 	<field name = "DATELINE">TAIPEI, March 12 -</field>
-	<field name = "BODY">Taiwan said it would soon relax import
+	<field name = "content">Taiwan said it would soon relax import
 controls on some 400 foreign items, including stationery and
 books, in a further effort to allow trading partners,
 especially the U.S., Greater access to its markets.

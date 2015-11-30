@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:46:40.64</field>
-	<field name = "UNKNOWN">CQ LQ
-f2450reute
-u f BC-cent-carlot-meat   04-07 0096</field>
-	<field name = "TITLE">CENTRAL U.S. CARLOT PORK TRADE - USDA - APRIL 7</field>
+	<field name = "titulo">CENTRAL U.S. CARLOT PORK TRADE - USDA - APRIL 7</field>
 	<field name = "DATELINE">Fob Omaha basis and midwest production areas -</field>
-	<field name = "BODY">1500 cst.
+	<field name = "content">1500 cst.
     Fresh pork loins 14-18 lbs generally steady and 18-22 lbs
 steady/up 2.00 dlrs, boston butts generally steady, skd hams
 off 9.00/14.00 dlrs and sdls bellies steady/up 2.00 dlrs.

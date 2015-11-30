@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 05:17:41.72</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F M C
-f0317reute
-u f BC-CRA-SOLD-FORREST-GOLD   04-08 0105</field>
-	<field name = "TITLE">CRA SOLD FORREST GOLD FOR 76 MLN DLRS - WHIM CREEK</field>
+	<field name = "titulo">CRA SOLD FORREST GOLD FOR 76 MLN DLRS - WHIM CREEK</field>
 	<field name = "DATELINE">SYDNEY, April 8 -</field>
-	<field name = "BODY">Whim Creek Consolidated NL> said the
+	<field name = "content">Whim Creek Consolidated NL> said the
 consortium it is leading will pay 76.55 mln dlrs for the
 acquisition of CRA Ltd's CRAA.S> Forrest Gold Pty Ltd> unit,
 reported yesterday.

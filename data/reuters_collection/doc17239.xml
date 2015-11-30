@@ -6,12 +6,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">RM
-f0189reute
-b f BC-MIYAZAWA-DOES-NOT-THI   04-27 0100</field>
-	<field name = "TITLE">MIYAZAWA DOES NOT THINK DOLLAR IN FREEFALL</field>
+	<field name = "titulo">MIYAZAWA DOES NOT THINK DOLLAR IN FREEFALL</field>
 	<field name = "DATELINE">TOKYO, April 27 -</field>
-	<field name = "BODY">Japanese Finance Minister Kiichi Miyazawa
+	<field name = "content">Japanese Finance Minister Kiichi Miyazawa
 told a parliamentary Upper House budget committee that he does
 not think the dollar is in a freefall.
     He said concerted intervention is only a supplementary

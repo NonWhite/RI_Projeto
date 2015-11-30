@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 14:39:12.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0125reute
-u f BC-W.R.-GRACE-GRA>-DEBT   03-12 0109</field>
-	<field name = "TITLE">W.R. GRACE GRA> DEBT AFFIRMED BY S/P</field>
+	<field name = "titulo">W.R. GRACE GRA> DEBT AFFIRMED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 affirmed the ratings on W.R. Grace and Co's 575 mln dlrs of
 debt following its fourth-quarter 1986 loss of 560 mln dlrs.
     Affirmed were the company's BBB-minus senior debt, BB-plus

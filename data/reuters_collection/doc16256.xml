@@ -4,12 +4,9 @@
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G L M T
-f0926reute
-d f BC-EC-COULD-DECIDE-ON-JA   04-13 0127</field>
-	<field name = "TITLE">EC COULD DECIDE ON JAPAN TRADE MOVES IN LATE MAY</field>
+	<field name = "titulo">EC COULD DECIDE ON JAPAN TRADE MOVES IN LATE MAY</field>
 	<field name = "DATELINE">BRUSSELS, April 13 -</field>
-	<field name = "BODY">The European Community (EC) has
+	<field name = "content">The European Community (EC) has
 effectively given Japan six weeks to take moves to open its
 market to imports before it decides on possible tough
 retaliatory trade measures, EC diplomats said.

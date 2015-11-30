@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 10:49:31.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1315reute
-r f BC-NOVA-NOVX>-TO-GET-BR   03-26 0104</field>
-	<field name = "TITLE">NOVA NOVX> TO GET BRADYKININ ANTAGONIST PATENT</field>
+	<field name = "titulo">NOVA NOVX> TO GET BRADYKININ ANTAGONIST PATENT</field>
 	<field name = "DATELINE">BALTIMORE, March 26 -</field>
-	<field name = "BODY">Nova Pharmaceutical Corp said the
+	<field name = "content">Nova Pharmaceutical Corp said the
 U.S. Patent Office has allowed its patent for bradykinin
 antagonist drugs. Nova said patents have also been filed in
 other countries worldwide.

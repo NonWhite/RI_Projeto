@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 15:51:24.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f0671reute
-u f BC-U.S.-DAIRY-PRICE-SUPP   03-04 0139</field>
-	<field name = "TITLE">U.S. DAIRY PRICE SUPPORT CUT SEEN LIKELY IN 1988</field>
+	<field name = "titulo">U.S. DAIRY PRICE SUPPORT CUT SEEN LIKELY IN 1988</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">The chairman of the U.S. House
+	<field name = "content">The chairman of the U.S. House
 subcommittee on dairy, livestock and poultry issues, Rep.
 Charles Stenholm (D-Tex.), said it is likely the U.S. dairy
 support price will be cut next year.

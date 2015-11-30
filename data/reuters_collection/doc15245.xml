@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 15:06:29.65</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2249reute
-b f BC-/FED'S-HELLER-SAYS-MO   04-08 0092</field>
-	<field name = "TITLE">FED'S HELLER SAYS MONETARY GROWTH TO BE SLOWER</field>
+	<field name = "titulo">FED'S HELLER SAYS MONETARY GROWTH TO BE SLOWER</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">Robert Heller, a member of the
+	<field name = "content">Robert Heller, a member of the
 Federal Reserve Board, said he expects "more modest levels" of
 growth in the money supply this year.
     "In my view, this would not only be a logical, but also a

@@ -5,12 +5,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">escap</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C G L M T
-f0635reute
-r f BC-BRITAIN-CALLS-FOR-FIG   04-21 0115</field>
-	<field name = "TITLE">BRITAIN CALLS FOR FIGHT AGAINST PROTECTIONISM</field>
+	<field name = "titulo">BRITAIN CALLS FOR FIGHT AGAINST PROTECTIONISM</field>
 	<field name = "DATELINE">BANGKOK, April 21 -</field>
-	<field name = "BODY">British Foreign Secretary Sir Geoffrey
+	<field name = "content">British Foreign Secretary Sir Geoffrey
 Howe called on industrial and developing countries to combat
 trade protectionism and remove barriers which impede free
 trading in agricultural products.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:43:55.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0811reute
-r f BC-CAMBRIDGE-BIOSCIENCE   04-07 0092</field>
-	<field name = "TITLE">CAMBRIDGE BIOSCIENCE CBCX> TO START AIDS TESTS</field>
+	<field name = "titulo">CAMBRIDGE BIOSCIENCE CBCX> TO START AIDS TESTS</field>
 	<field name = "DATELINE">WORCESTER, Mass., April 7 -</field>
-	<field name = "BODY">Cambridge BioScience Corp said
+	<field name = "content">Cambridge BioScience Corp said
 it received Federal Drug Administration approval on its
 "Investigational New Drug" filing to begin human clinical
 trials of its second generation diagnostic test for AIDS.

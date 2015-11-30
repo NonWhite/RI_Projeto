@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 15:54:36.57</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2452reute
-r f BC-AMOSKEAG-AMKG>-TAKEO   03-30 0084</field>
-	<field name = "TITLE">AMOSKEAG AMKG> TAKEOVER BLOCKED BY COURT</field>
+	<field name = "titulo">AMOSKEAG AMKG> TAKEOVER BLOCKED BY COURT</field>
 	<field name = "DATELINE">MANCHESTER, N.H., March 30 -</field>
-	<field name = "BODY">Amoskeag Bank Shares Inc said
+	<field name = "content">Amoskeag Bank Shares Inc said
 the New Hampshire Supreme Court overturned its proposed
 acquisition of Portsmouth Savings Bank in a three-two vote.
     The acquisition had been opposed by some depositors, who

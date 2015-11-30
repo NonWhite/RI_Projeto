@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 11:37:40.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1669reute
-r f BC-TOYOTA-TOYO.T>-SEES   10-20 0106</field>
-	<field name = "TITLE">TOYOTA TOYO.T> SEES LOWER U.S. SALES IN 1988</field>
+	<field name = "titulo">TOYOTA TOYO.T> SEES LOWER U.S. SALES IN 1988</field>
 	<field name = "DATELINE">DETROIT, Oct 20 -</field>
-	<field name = "BODY">Toyota Motor Co expects its U.S. vehicle
+	<field name = "content">Toyota Motor Co expects its U.S. vehicle
 sales in 1988 will decline to about 875,000 cars and trucks
 from roughly 930,000 expected in 1987, a senior exeuctive said.
     Jim Perkins, group vice president for sales and marketing

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 17:22:35.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2659reute
-u f BC-S/P-UPGRADES-HERITAGE   06-29 0100</field>
-	<field name = "TITLE">S/P UPGRADES HERITAGE COMMUNICATIONS HCI> DEBT</field>
+	<field name = "titulo">S/P UPGRADES HERITAGE COMMUNICATIONS HCI> DEBT</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 upgraded Heritage Communications Inc's senior debt to BB-minus
 from B-plus and subordinated debt to B from B-minus. About 400
 mln dlrs of debt is affected.

@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 08:42:08.50</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C T
-f0188
-reute
-u f BC-COFFEE-PRICE-FALL-ONL   03-03 0110</field>
-	<field name = "TITLE">COFFEE PRICE FALL SHORT TERM - DUTCH ROASTERS</field>
+	<field name = "titulo">COFFEE PRICE FALL SHORT TERM - DUTCH ROASTERS</field>
 	<field name = "DATELINE">ROTTERDAM, March 3 -</field>
-	<field name = "BODY">This morning's sharp decline in coffee
+	<field name = "content">This morning's sharp decline in coffee
 prices, following the breakdown late last night of negotiations
 in London to reintroduce International Coffee Organization,
 ICO, quotas, will be short-lived, Dutch roasters said.

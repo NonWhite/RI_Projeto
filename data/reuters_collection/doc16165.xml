@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">norway</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">F
-f0427reute
-u f BC-STATOIL-SEEKS-SHARE-I   04-13 0112</field>
-	<field name = "TITLE">STATOIL SEEKS SHARE IN THAI GAS FIELD</field>
+	<field name = "titulo">STATOIL SEEKS SHARE IN THAI GAS FIELD</field>
 	<field name = "DATELINE">STAVANGER, Norway, April 13 -</field>
-	<field name = "BODY">Norway's state oil company
+	<field name = "content">Norway's state oil company
 Den Norske Stats Oljeselskap A/S (Statoil) STAT.OL>, has told
 Thai authorities it is interested in taking a 30 pct share in a
 big offshore Thailand gas field, Statoil said.

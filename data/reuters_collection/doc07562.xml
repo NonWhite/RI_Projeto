@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 05:02:53.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0254reute
-u f BC-MCCARTHY-AND-STONE-GE   03-20 0081</field>
-	<field name = "TITLE">MCCARTHY AND STONE GETS 100 MLN STG FACILITY</field>
+	<field name = "titulo">MCCARTHY AND STONE GETS 100 MLN STG FACILITY</field>
 	<field name = "DATELINE">LONDON, March 20 -</field>
-	<field name = "BODY">McCarthy and Stone Plc, a public U.K.
+	<field name = "content">McCarthy and Stone Plc, a public U.K.
 Company which owns and operates retirement homes, has signed a
 100 mln stg multi-option facility, National Westminster Bank
 Plc said as arranger.

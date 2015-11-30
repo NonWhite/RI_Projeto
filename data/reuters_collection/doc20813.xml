@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 18:37:18.57</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3545reute
-h f BC-ALFA-CORP-ALFA.O>-3R   10-20 0111</field>
-	<field name = "TITLE">ALFA CORP ALFA.O> 3RD QTR NET</field>
+	<field name = "titulo">ALFA CORP ALFA.O> 3RD QTR NET</field>
 	<field name = "DATELINE">MONTGOMERY, Ala., Oct 20 -</field>
-	<field name = "BODY">Shr 28 cts vs 21 cts
+	<field name = "content">Shr 28 cts vs 21 cts
     Net 4,653,815 vs 3,564,451
     Revs 34.0 mln vs 12.8 mln
     Nine mths

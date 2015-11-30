@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 12:32:35.05</field>
 	<field name = "PLACES">lebanon</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f1652reute
-u f BC-GROUP-SAYS-U.S.-HOSTA   03-23 0109</field>
-	<field name = "TITLE">GROUP SAYS U.S. HOSTAGE ILL, OFFERS SWAP</field>
+	<field name = "titulo">GROUP SAYS U.S. HOSTAGE ILL, OFFERS SWAP</field>
 	<field name = "DATELINE">BEIRUT, March 23 -</field>
-	<field name = "BODY">Kidnappers of four professors, three
+	<field name = "content">Kidnappers of four professors, three
 American and one Indian, said U.S. Hostage Alann Steen was ill
 and offered to free him in exchange for a hundred detainees in
 Israel.

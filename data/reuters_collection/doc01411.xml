@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 18:34:50.92</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0185reute
-r f BC-C.T.C.-DEALER-EXTENDS   03-03 0089</field>
-	<field name = "TITLE">C.T.C. DEALER EXTENDS BID FOR CANADIAN TIRE</field>
+	<field name = "titulo">C.T.C. DEALER EXTENDS BID FOR CANADIAN TIRE</field>
 	<field name = "DATELINE">TORONTO, March 3 -</field>
-	<field name = "BODY">C.T.C. Dealer Holdings Ltd said it
+	<field name = "content">C.T.C. Dealer Holdings Ltd said it
 extended its previously announced offer for 49 pct of Canadian
 Tire Corp Ltd> to midnight on March 26.
     CTC, a group of Canadian Tire dealers, which already owns

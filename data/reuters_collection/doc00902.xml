@@ -2,14 +2,10 @@
 	<field name = "DATE">3-MAR-1987 04:15:16.50</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM
-f0673
-reute
-u f BC-PHILIPPINE-PLANNING-C   03-03 0107</field>
-	<field name = "TITLE">PHILIPPINE PLANNING CHIEF URGES PESO DEVALUATION</field>
+	<field name = "titulo">PHILIPPINE PLANNING CHIEF URGES PESO DEVALUATION</field>
 	<field name = "AUTHOR">By Chaitanya Kalbag, Reuters</field>
 	<field name = "DATELINE">MANILA, March 3 -</field>
-	<field name = "BODY">The Philippines must devalue the peso if
+	<field name = "content">The Philippines must devalue the peso if
 it wants its exports to remain competitive, Economic Planning
 Secretary Solita Monsod told Reuters.
     "The peso/dollar rate has to be undercut to make our exports

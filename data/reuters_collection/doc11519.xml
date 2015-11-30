@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 13:40:49.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2041reute
-u f BC-******PENNZOIL-SAYS-I   03-31 0108</field>
-	<field name = "TITLE">PENNZOIL PZL> WILL CONSIDER SETTLEMENT OFFER</field>
+	<field name = "titulo">PENNZOIL PZL> WILL CONSIDER SETTLEMENT OFFER</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Pennzoil Co Chairman J. Hugh Liedtke
+	<field name = "content">Pennzoil Co Chairman J. Hugh Liedtke
 told a meeting of securities analysts that the company will
 consider any realistic settlement offer in its 11.0 billion dlr
 ongoing litigation with Texaco Inc TX>.

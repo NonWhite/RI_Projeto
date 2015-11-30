@@ -1,8 +1,5 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 06:55:59.97</field>
 	<field name = "EXCHANGES">pse</field>
-	<field name = "UNKNOWN">RM 
-f0511reute
-f f BC-Paribas-shares-slump   10-19 0012</field>
-	<field name = "TITLE">Paribas shares slump 12 pct to 363.30 francs on Paris bourse - dealers</field>
+	<field name = "titulo">Paribas shares slump 12 pct to 363.30 francs on Paris bourse - dealers</field>
 </doc></add>

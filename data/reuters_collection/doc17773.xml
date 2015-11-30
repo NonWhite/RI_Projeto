@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 15:46:15.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2315reute
-d f BC-FIRST-PHILADELPHIA-UN   06-01 0106</field>
-	<field name = "TITLE">FIRST PHILADELPHIA UNIT FILES FOR CHAPTER 11</field>
+	<field name = "titulo">FIRST PHILADELPHIA UNIT FILES FOR CHAPTER 11</field>
 	<field name = "DATELINE">PHILADELPHIA, June 1 -</field>
-	<field name = "BODY">First Philadelphia Corp> said its
+	<field name = "content">First Philadelphia Corp> said its
 Computone Systems Inc unit filed a chapter 11 plan for with the
 U.S. Bankruptcy Court in Atlanta.
     Subject to confirmation by the court of the plan, the

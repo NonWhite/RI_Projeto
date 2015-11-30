@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0700reute
-r f BC-EC-INDUSTRY-OUTPUT-GR   03-03 0099</field>
-	<field name = "TITLE">EC INDUSTRY OUTPUT GROWTH SLOWS IN 1986</field>
+	<field name = "titulo">EC INDUSTRY OUTPUT GROWTH SLOWS IN 1986</field>
 	<field name = "DATELINE">LUXEMBOURG, March 3 -</field>
-	<field name = "BODY">European Community industrial output
+	<field name = "content">European Community industrial output
 increased by an average of around two pct last year, compared
 with 3.3 pct growth recorded in 1985 against a year earlier,
 the EC statistics office Eurostat said.

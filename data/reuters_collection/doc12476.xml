@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 07:57:01.74</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0715reute
-b f BC-FRENCH-DEBT-FELL-TO-3   04-02 0067</field>
-	<field name = "TITLE">FRENCH DEBT FELL TO 398.2 BILLION FRANCS END-1986</field>
+	<field name = "titulo">FRENCH DEBT FELL TO 398.2 BILLION FRANCS END-1986</field>
 	<field name = "DATELINE">PARIS, April 2 -</field>
-	<field name = "BODY">French medium and long-term debt fell to
+	<field name = "content">French medium and long-term debt fell to
 398.2 billion francs at end-1986 from 419.6 billion at
 end-September and 464.7 billion at end-1985, the Finance
 Ministry said.

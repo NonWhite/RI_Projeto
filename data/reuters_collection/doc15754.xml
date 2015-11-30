@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 13:05:44.04</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1819reute
-d f BC-CANADIAN-AIRLINES,-FL   04-09 0121</field>
-	<field name = "TITLE">CANADIAN AIRLINES, FLYING TIGER IN PACT</field>
+	<field name = "titulo">CANADIAN AIRLINES, FLYING TIGER IN PACT</field>
 	<field name = "DATELINE">MONTREAL, April 9 -</field>
-	<field name = "BODY">(Canadian Airlines International Ltd)
+	<field name = "content">(Canadian Airlines International Ltd)
 said it signed an agreement with (The Flying Tiger Line Inc),
 that will offer Canada's first around-the-world cargo service.
     The service, from Mirabel airport, will link Canada to a

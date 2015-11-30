@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1527reute
-u f BC-CHEVRON-CHV>,-NIPPON   03-31 0090</field>
-	<field name = "TITLE">CHEVRON CHV>, NIPPON OIL FORM JOINT VENTURE</field>
+	<field name = "titulo">CHEVRON CHV>, NIPPON OIL FORM JOINT VENTURE</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 31 -</field>
-	<field name = "BODY">Chevron Corp said its Chevron
+	<field name = "content">Chevron Corp said its Chevron
 U.S.A. Inc unit and Tokyo-based Nippon Oil Co Ltd agreed to
 conduct a joint-venture oil exploration and development program
 on selected Chevron leaseholds in the United States.

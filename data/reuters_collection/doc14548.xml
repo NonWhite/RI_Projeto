@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 15:55:08.94</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2308reute
-s f BC-PACIFIC-LIGHTING-CORP   04-07 0023</field>
-	<field name = "TITLE">PACIFIC LIGHTING CORP PLT> QTLY DIVIDEND</field>
+	<field name = "titulo">PACIFIC LIGHTING CORP PLT> QTLY DIVIDEND</field>
 	<field name = "DATELINE">LOS ANGELES, April 7 -</field>
-	<field name = "BODY">Shr 87 cts vs 87 cts prior qtr
+	<field name = "content">Shr 87 cts vs 87 cts prior qtr
     Pay May 15
     Record April 20
  Reuter</field>

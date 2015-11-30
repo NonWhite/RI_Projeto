@@ -2,12 +2,9 @@
 	<field name = "DATE">29-APR-1987 22:38:50.43</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">RM
-f3033reute
-u f BC-VENEZUELA-APPROVES-WA   04-29 0110</field>
-	<field name = "TITLE">VENEZUELA APPROVES WAGE INCREASES, PRICE CONTROLS</field>
+	<field name = "titulo">VENEZUELA APPROVES WAGE INCREASES, PRICE CONTROLS</field>
 	<field name = "DATELINE">CARACAS, April 29 -</field>
-	<field name = "BODY">Venezuelan president Jaime Lusinchi
+	<field name = "content">Venezuelan president Jaime Lusinchi
 approved a general wage increase in the form of bonuses ranging
 from 20 to 30 pct and a 120-day price freeze on a basket of
 basic consumer goods.

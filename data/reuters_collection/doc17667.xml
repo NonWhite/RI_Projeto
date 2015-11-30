@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 13:33:48.14</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">kohl</field>
-	<field name = "UNKNOWN">V
-f1888reute
-u f AM-ARMS-KOHL 1STLD  06-01 0110</field>
-	<field name = "TITLE">KOHL COALITION ACCEPTS DOUBLE-ZERO</field>
+	<field name = "titulo">KOHL COALITION ACCEPTS DOUBLE-ZERO</field>
 	<field name = "DATELINE">BONN, June 1 -</field>
-	<field name = "BODY">West Germany said it would accept a
+	<field name = "content">West Germany said it would accept a
 superpower plan to ban medium and shorter-range nuclear
 missiles in Europe provided Bonn was allowed to retain its own
 shorter-range missiles.

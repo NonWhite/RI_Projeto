@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 18:03:03.64</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2738reute
-u f BC-GENCORP-GY>-FIXES-RI   03-24 0086</field>
-	<field name = "TITLE">GENCORP GY> FIXES RIGHTS SEPARATION DATE</field>
+	<field name = "titulo">GENCORP GY> FIXES RIGHTS SEPARATION DATE</field>
 	<field name = "DATELINE">AKRON, Ohio, March 24 -</field>
-	<field name = "BODY">Gencorp Inc said that because it is
+	<field name = "content">Gencorp Inc said that because it is
 continuing to evaluate General Acquisition Inc's tender offer
 it has fixed April 3, subject to further extension, as the date
 the rights to purchase preferred shares will trade separately

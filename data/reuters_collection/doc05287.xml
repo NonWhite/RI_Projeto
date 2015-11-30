@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 08:10:46.87</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f1748reute
-r f BC-BALDRIGE-WARNS-OF-WOR   03-16 0102</field>
-	<field name = "TITLE">BALDRIGE WARNS OF WORLD TRADE WAR DANGER</field>
+	<field name = "titulo">BALDRIGE WARNS OF WORLD TRADE WAR DANGER</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">U.S. Commerce Secretary Malcolm
+	<field name = "content">U.S. Commerce Secretary Malcolm
 Baldrige predicted Congress will pass a reasonable trade bill
 this year and said tough protectionist legislation could prompt
 a trade war.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 11:08:58.65</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f1285reute
-u f BC-FRANCE-SETS-FOUR-BILL   03-25 0085</field>
-	<field name = "TITLE">FRANCE SETS FOUR BILLION FRANC T-BILL TENDER</field>
+	<field name = "titulo">FRANCE SETS FOUR BILLION FRANC T-BILL TENDER</field>
 	<field name = "DATELINE">PARIS, March 25 -</field>
-	<field name = "BODY">The Bank of France said it will offer
+	<field name = "content">The Bank of France said it will offer
 four billion francs worth of negotiable Treasury bills at its
 next weekly tender on March 30.
     The total includes 1.5 billion francs worth of 13-week

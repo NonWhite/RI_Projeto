@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 07:05:34.81</field>
 	<field name = "PLACES">lebanon</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">V
-f7397reute
-u f BC-SAUDI-HOSTAGE-FREED-I   03-18 0081</field>
-	<field name = "TITLE">SAUDI HOSTAGE FREED IN BEIRUT</field>
+	<field name = "titulo">SAUDI HOSTAGE FREED IN BEIRUT</field>
 	<field name = "DATELINE">BEIRUT, March 18 -</field>
-	<field name = "BODY">A kidnapped Saudi Arabian diplomat has
+	<field name = "content">A kidnapped Saudi Arabian diplomat has
 been freed in Beirut after 64 days in captivity, witnesses
 said.
     They identified him as Bakr Damanhuri, responsible for

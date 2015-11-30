@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F 
-f2600reute
-b f BC-/GENCORP-GY>-TO-SELL   06-29 0105</field>
-	<field name = "TITLE">GENCORP GY> TO SELL GENERAL TIRE</field>
+	<field name = "titulo">GENCORP GY> TO SELL GENERAL TIRE</field>
 	<field name = "DATELINE">AKRON, Ohio, June 29 -</field>
-	<field name = "BODY">Gencorp Inc and Continental AG of
+	<field name = "content">Gencorp Inc and Continental AG of
 Hanover, West Germany, jointy announced they signed an
 agreement for Continental to buy Gencorp's General Tire Inc
 subsidiary for 650 mln dlrs in cash.

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 12:25:10.55</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1516reute
-r f BC-BOEING-BA>-MERGER-WA   06-19 0055</field>
-	<field name = "TITLE">BOEING BA> MERGER WAITING PERIOD EXPIRES</field>
+	<field name = "titulo">BOEING BA> MERGER WAITING PERIOD EXPIRES</field>
 	<field name = "DATELINE">SEATTLE, June 19 -</field>
-	<field name = "BODY">Boeing Co said the Hart-Scott-Rodino
+	<field name = "content">Boeing Co said the Hart-Scott-Rodino
 waiting period required in connection with its pending tender
 offer for ArgoSystems Inc ARGI.O> expired at midnight June 18.
     Boeing began its 37 dlr per share cash tender offer for the

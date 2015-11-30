@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 11:10:37.74</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">E F
-f1273reute
-r f BC-hyundai   04-24 0081</field>
-	<field name = "TITLE">HYUNDAI AUTO CANADA TO RECALL 126,524 CARS</field>
+	<field name = "titulo">HYUNDAI AUTO CANADA TO RECALL 126,524 CARS</field>
 	<field name = "DATELINE">TORONTO, April 24 -</field>
-	<field name = "BODY">Hyundai Auto Canada Inc, wholly owned
+	<field name = "content">Hyundai Auto Canada Inc, wholly owned
 by the South Korean concern, said it recalled 126,524 cars for
 inspection of a mechanism that may cause the hood to open
 without warning while the vehicle is in motion.

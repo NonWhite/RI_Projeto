@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 08:05:54.41</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f0705reute
-r f BC-DUTCH-BONDS-SEEN-RALL   03-30 0104</field>
-	<field name = "TITLE">DUTCH BONDS SEEN RALLYING FURTHER THIS WEEK</field>
+	<field name = "titulo">DUTCH BONDS SEEN RALLYING FURTHER THIS WEEK</field>
 	<field name = "AUTHOR">By Emma Robson, Reuters</field>
 	<field name = "DATELINE">AMSTERDAM, March 30 -</field>
-	<field name = "BODY">A further rally in Dutch bonds is
+	<field name = "content">A further rally in Dutch bonds is
 likely this week, due to a lower dollar and a slightly firmer
 guilder against the mark attracting investors back to guilders
 from marks, bond analysts said.

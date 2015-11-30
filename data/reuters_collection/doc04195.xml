@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 09:33:56.03</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">RM
-f0969reute
-u f BC-U.K.-EQUITY-TURNOVER   03-12 0106</field>
-	<field name = "TITLE">U.K. EQUITY TURNOVER SETS NEW RECORD IN FEBRUARY</field>
+	<field name = "titulo">U.K. EQUITY TURNOVER SETS NEW RECORD IN FEBRUARY</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">Turnover in U.K. Equities soared to a
+	<field name = "content">Turnover in U.K. Equities soared to a
 record 31.05 billion stg in February, a 12 pct increase on the
 previous month's 27.83 billion, the London Stock Exchange said.
     February turnover was also 96 pct higher than the 15.84

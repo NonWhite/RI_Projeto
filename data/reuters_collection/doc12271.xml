@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 15:51:43.62</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F Y
-f2339reute
-r f BC-HYDRO-QUEBEC-HEARINGS   04-01 0107</field>
-	<field name = "TITLE">HYDRO-QUEBEC HEARINGS TO REOPEN IN OTTAWA</field>
+	<field name = "titulo">HYDRO-QUEBEC HEARINGS TO REOPEN IN OTTAWA</field>
 	<field name = "DATELINE">Montreal, April 1 -</field>
-	<field name = "BODY">The National Energy Board said hearings
+	<field name = "content">The National Energy Board said hearings
 into Hydro-Quebec's request to sell power to the United States
 will reopen in Ottawa April nine.
     The board heard nine days of testimony in Montreal after it

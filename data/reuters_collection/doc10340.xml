@@ -1,14 +1,12 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 06:36:50.36RM</field>
-	<field name = "UNKNOWN">f0428reute</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">u f BC-TRADE-SURPLUS-WILL-PO   03-27 0095</field>
-	<field name = "TITLE">TRADE SURPLUS WILL POSE ADDED PRESSURES FOR JAPAN</field>
+	<field name = "titulo">TRADE SURPLUS WILL POSE ADDED PRESSURES FOR JAPAN</field>
 	<field name = "AUTHOR">By Kunio Inoue, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Japan today announced another mammoth
+	<field name = "content">Japan today announced another mammoth
 monthly trade surplus that economists said would be sure to
 intensify already mounting pressure on the country for action.
     "The world has every reason to be furious with Japan for not

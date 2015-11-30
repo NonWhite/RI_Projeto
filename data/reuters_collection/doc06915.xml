@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 18:12:48.64</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f9729reute
-r f BC-ROCKWELL-ROK>-UNIT,   03-18 0100</field>
-	<field name = "TITLE">ROCKWELL ROK> UNIT, JAPAN FIRM FORM VENTURE</field>
+	<field name = "titulo">ROCKWELL ROK> UNIT, JAPAN FIRM FORM VENTURE</field>
 	<field name = "DATELINE">MILWAUKEE, March 18 -</field>
-	<field name = "BODY">Allen-Bradley Co, a unit of Rockwell
+	<field name = "content">Allen-Bradley Co, a unit of Rockwell
 International Corp, said it has formed a joint venture with TDK
 Corp of Tokyo to produce, market and sell ferrite magnets.
     Allen-Bradley will be responsible for production and TDK

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 17:55:54.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f2493reute
-u f BC-U.S.-TREASURY-MARKET   04-03 0108</field>
-	<field name = "TITLE">U.S. TREASURY MARKET ENDS SHARPLY HIGHER</field>
+	<field name = "titulo">U.S. TREASURY MARKET ENDS SHARPLY HIGHER</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">The U.S. Treasury market ended sharply
+	<field name = "content">The U.S. Treasury market ended sharply
 higher, reassured by news that the Federal Open Market
 Committee voted in February to maintain the then-existing
 degree of restraint on bank reserves, dealers said.

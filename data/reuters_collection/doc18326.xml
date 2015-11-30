@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 17:46:44.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2805reute
-u f BC-TCBY-TCBY.O>-WITHDRA   06-02 0083</field>
-	<field name = "TITLE">TCBY TCBY.O> WITHDRAWS REGISTRATION</field>
+	<field name = "titulo">TCBY TCBY.O> WITHDRAWS REGISTRATION</field>
 	<field name = "DATELINE">LITTLE ROCK, Ark., June 2 -</field>
-	<field name = "BODY">TCBY Enterprises Inc said it
+	<field name = "content">TCBY Enterprises Inc said it
 will apply to the Securities and Exchange Commission to
 withdraw its registration statement filed May 14 for 30 mln
 dlrs of subordinated convertible debentures due to unfavorable

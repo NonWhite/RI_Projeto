@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 14:48:01.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0455reute
-r f BC-PENNEY-JCP>-TO-SELL   03-05 0097</field>
-	<field name = "TITLE">PENNEY JCP> TO SELL TELEMARKETING SERVICES</field>
+	<field name = "titulo">PENNEY JCP> TO SELL TELEMARKETING SERVICES</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">J.C. Penney Co said it will sell
+	<field name = "content">J.C. Penney Co said it will sell
 telemarketing services to other companies through a newly
 established wholly-owned subsidiary, Telemarketing Network Inc.
     The New York-based subsidiary will use a network of 14

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 13:22:03.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0140reute
-r f BC-MERCK-MRK>-UPS-1987   03-09 0041</field>
-	<field name = "TITLE">MERCK MRK> UPS 1987 RESEARCH BUDGET 11 PCT</field>
+	<field name = "titulo">MERCK MRK> UPS 1987 RESEARCH BUDGET 11 PCT</field>
 	<field name = "DATELINE">RAHWAY, N.J., March 9 -</field>
-	<field name = "BODY">Merck and Co Inc said it will spend
+	<field name = "content">Merck and Co Inc said it will spend
 more than 530 mln dlrs this year on research and development,
 up 11 pct from the 480 mln dlrs it spent in 1986 on research
 and development.

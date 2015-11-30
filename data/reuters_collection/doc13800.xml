@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:57:01.25</field>
-	<field name = "UNKNOWN">T
-f0861reute
-r f BC-PRICES-SLIGHTLY-LOWER   04-07 0100</field>
-	<field name = "TITLE">PRICES SLIGHTLY LOWER AT NAIROBI COFFEE AUCTION</field>
+	<field name = "titulo">PRICES SLIGHTLY LOWER AT NAIROBI COFFEE AUCTION</field>
 	<field name = "DATELINE">NAIROBI, April 7 -</field>
-	<field name = "BODY">Prices for the better quality "AB" grades
+	<field name = "content">Prices for the better quality "AB" grades
 were steady but those for all others were lower at the weekly
 Nairobi coffee auction, the Mild Coffee Trade Association
 (MCTA) said.

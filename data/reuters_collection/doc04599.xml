@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">india</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">A
-f0810reute
-d f BC-INDIA-GETS-140-MLN-DL   03-12 0102</field>
-	<field name = "TITLE">INDIA GETS 140 MLN DLR WORLD BANK LOAN</field>
+	<field name = "titulo">INDIA GETS 140 MLN DLR WORLD BANK LOAN</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">The World Bank said it has approved
+	<field name = "content">The World Bank said it has approved
 a 140 mln dlr loan for India to help lessen that country's
 dependence on imported oil and spur development of its own
 petroleum resources.

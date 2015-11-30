@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 14:08:21.36</field>
-	<field name = "UNKNOWN">F
-f0658
-reute
-d f BC-NOLAND-NOLD>-FEBRUAR   03-02 0054</field>
-	<field name = "TITLE">NOLAND NOLD> FEBRUARY SALES OFF TWO PCT</field>
+	<field name = "titulo">NOLAND NOLD> FEBRUARY SALES OFF TWO PCT</field>
 	<field name = "DATELINE">NEWPORT NEWS, Va., March 2 -</field>
-	<field name = "BODY">Noland Co said February sales
+	<field name = "content">Noland Co said February sales
 were off 2.3 pct to 29.4 mln dlrs from 300.1 mln dlrs a year
 earlier, with year-to-date sales off 9.6 pct to 55.3 mln dlrs
 from 61.2 mln dlrs.

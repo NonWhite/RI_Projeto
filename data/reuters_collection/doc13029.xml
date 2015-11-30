@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 13:27:38.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f1806reute
-r f BC-BURLINGTON-BNI>-UNIT   04-03 0082</field>
-	<field name = "TITLE">BURLINGTON BNI> UNIT SETTLES BONDHOLDER SUIT</field>
+	<field name = "titulo">BURLINGTON BNI> UNIT SETTLES BONDHOLDER SUIT</field>
 	<field name = "DATELINE">SEATTLE, April 3 -</field>
-	<field name = "BODY">Burlington Northern Inc said its
+	<field name = "content">Burlington Northern Inc said its
 Burlington Northern Railroad Co unit reached an agreement in
 principle to settle a class action lawsuit filed against the
 company in May 1985 by holders of two series of the company's

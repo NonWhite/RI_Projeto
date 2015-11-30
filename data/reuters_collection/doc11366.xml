@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 10:47:59.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1346reute
-b f BC-CHRYSLER-C>-EXTENDS   03-31 0092</field>
-	<field name = "TITLE">CHRYSLER C> EXTENDS SALES INCENTIVE PROGRAM</field>
+	<field name = "titulo">CHRYSLER C> EXTENDS SALES INCENTIVE PROGRAM</field>
 	<field name = "DATELINE">DETROIT, March 31 -</field>
-	<field name = "BODY">Chrysler Corp said it is extending its
+	<field name = "content">Chrysler Corp said it is extending its
 low annual percentage rate (APR) financing, sales-incentive
 program on some 1986 and 1987 model cars and trucks until April
 10 from March 31.

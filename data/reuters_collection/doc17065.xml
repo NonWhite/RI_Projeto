@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V
-f0474reute
-u f BC-BANK-OF-JAPAN-INTERVE   04-24 0085</field>
-	<field name = "TITLE">BANK OF JAPAN INTERVENES IN TOKYO MARKET</field>
+	<field name = "titulo">BANK OF JAPAN INTERVENES IN TOKYO MARKET</field>
 	<field name = "DATELINE">TOKYO, April 24 -</field>
-	<field name = "BODY">The Bank of Japan intervened just after
+	<field name = "content">The Bank of Japan intervened just after
 the Tokyo market opened to support the dollar from falling
 below 140.00 yen, dealers said.
     The central bank bought a moderate amount of dollars to

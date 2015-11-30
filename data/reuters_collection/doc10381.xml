@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:30:45.94RM</field>
-	<field name = "UNKNOWN">f0712reute</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">b f BC-SWISS-NATIONAL-BANK-S   03-27 0041</field>
-	<field name = "TITLE">SWISS NATIONAL BANK SAYS IT BOUGHT DOLLARS</field>
+	<field name = "titulo">SWISS NATIONAL BANK SAYS IT BOUGHT DOLLARS</field>
 	<field name = "DATELINE">ZURICH, March 27 -</field>
-	<field name = "BODY">The Swiss National Bank bought dollars
+	<field name = "content">The Swiss National Bank bought dollars
 against yen today, a spokesman for the bank said.
     He declined to say how many dollars the bank bought or when
 precisely it intervened.

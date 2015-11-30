@@ -4,12 +4,9 @@
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">north-korea</field>
-	<field name = "UNKNOWN">RM
-f0545reute
-r f BC-NORTH-KOREA-PLANS-TO   04-21 0089</field>
-	<field name = "TITLE">NORTH KOREA PLANS TO EXPAND TRADE, OUTPUT</field>
+	<field name = "titulo">NORTH KOREA PLANS TO EXPAND TRADE, OUTPUT</field>
 	<field name = "DATELINE">TOKYO, April 21 -</field>
-	<field name = "BODY">North Korea unveiled plans to boost
+	<field name = "content">North Korea unveiled plans to boost
 industrial and agricultural production sharply over the next
 seven years and to greatly expand its foreign trade.
     Prime Minister Li Gun-mo told the eighth Supreme People's

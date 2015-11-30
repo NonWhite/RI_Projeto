@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 10:56:09.07</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2351reute
-r f BC-indal-unit-has   03-16 0104</field>
-	<field name = "TITLE">INDAL UNIT HAS CARIBBEAN WIND TURBINE CONTRACT</field>
+	<field name = "titulo">INDAL UNIT HAS CARIBBEAN WIND TURBINE CONTRACT</field>
 	<field name = "DATELINE">TORONTO, March 16 -</field>
-	<field name = "BODY">Indal Ltd>'s wholly owned Indal
+	<field name = "content">Indal Ltd>'s wholly owned Indal
 Technologies Inc said it received a contract to design,
 manufacture and install a 50 kilowatt Vertical Axis Wind
 Turbine on Grand Trunk Island in the Caribbean.

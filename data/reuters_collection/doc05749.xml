@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 18:21:11.86</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3857reute
-u f BC-USAIR   03-16 0105</field>
-	<field name = "TITLE">TWA TWA> SEES BENEFITS IN USAIR U> MERGER</field>
+	<field name = "titulo">TWA TWA> SEES BENEFITS IN USAIR U> MERGER</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">Trans World Airlines Inc, which
+	<field name = "content">Trans World Airlines Inc, which
 disclosed that it does not intend to seek control of USAir
 Group at this time, said it still believes a combination of the
 two airlines would have benefits to both.

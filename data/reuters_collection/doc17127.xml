@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 12:30:46.85</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L M T
-f1661reute
-u f BC-WHITE-HOUSE-SAYS-MARC   04-24 0111</field>
-	<field name = "TITLE">WHITE HOUSE SAYS MARCH CPI "NO CAUSE FOR ALARM"</field>
+	<field name = "titulo">WHITE HOUSE SAYS MARCH CPI "NO CAUSE FOR ALARM"</field>
 	<field name = "DATELINE">WASHINGTON, April 24 -</field>
-	<field name = "BODY">The White House said last month's
+	<field name = "content">The White House said last month's
 0.4 per cent in increase in the CPI, the third sharp rise in
 three months and one that brought the annual inflation rate to
 6.2 pct so far this year, was no cause for alarm.

@@ -2,13 +2,10 @@
 	<field name = "DATE">2-JUN-1987 09:41:32.00</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0947reute
-d f BC-CSR-SAYS-IT-IS-PROCEE   06-02 0114</field>
-	<field name = "TITLE">CSR SAYS IT IS PROCEEDING WITH OFFER FOR MONIER</field>
+	<field name = "titulo">CSR SAYS IT IS PROCEEDING WITH OFFER FOR MONIER</field>
 	<field name = "AUTHOR">By David Skinner, Reuters</field>
 	<field name = "DATELINE">SYDNEY, June 2 -</field>
-	<field name = "BODY">CSR Ltd CSRA.S> intends to proceed with
+	<field name = "content">CSR Ltd CSRA.S> intends to proceed with
 its planned bid for building materials group Monier Ltd
 MNRA.S> despite the counter-bid from Equiticorp Tasman Ltd>
 (ETL), CSR executive director Gene Herbert told Reuters.

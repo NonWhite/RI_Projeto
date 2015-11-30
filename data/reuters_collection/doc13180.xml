@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 17:09:53.14</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2418reute
-d f BC-NELSON-TO-EXPAND-VIDE   04-03 0079</field>
-	<field name = "TITLE">NELSON TO EXPAND VIDEO VENDING</field>
+	<field name = "titulo">NELSON TO EXPAND VIDEO VENDING</field>
 	<field name = "DATELINE">TORONTO, April 3 -</field>
-	<field name = "BODY">Nelson Holdings International Ltd> said
+	<field name = "content">Nelson Holdings International Ltd> said
 it plans to expand the marketing of its video vending machines,
 which have been tested successfully in Toronto.
     The machines, which can contain up to 400 videocassettes,

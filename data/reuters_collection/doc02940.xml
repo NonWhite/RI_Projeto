@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 18:38:47.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0813reute
-d f BC-SOUTWESTERN-BELL-SBC   03-06 0101</field>
-	<field name = "TITLE">SOUTWESTERN BELL SBC> TO FILE REVISIONS</field>
+	<field name = "titulo">SOUTWESTERN BELL SBC> TO FILE REVISIONS</field>
 	<field name = "DATELINE">DALLAS, March 6 -</field>
-	<field name = "BODY">Southwestern Bell Corp said it will file
+	<field name = "content">Southwestern Bell Corp said it will file
 revisions with the public Utility Commission for its Dial 976
 Information Delivery Service.
     The service, available in four Texas cities since November

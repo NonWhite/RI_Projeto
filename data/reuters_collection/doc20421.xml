@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:08:08.41</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F 
-f2253reute
-w f BC-PIRELLI-SEES-RISE-IN   10-20 0111</field>
-	<field name = "TITLE">PIRELLI SEES RISE IN 1987 GROUP PROFITS, SALES</field>
+	<field name = "titulo">PIRELLI SEES RISE IN 1987 GROUP PROFITS, SALES</field>
 	<field name = "DATELINE">BASLE, Switzerland, Oct 20 -</field>
-	<field name = "BODY">Net profit and sales for the
+	<field name = "content">Net profit and sales for the
 Pirelli group's worldwide activities should both grow well in
 1987, said Jacopo Vittorelli, chief executive of Societe
 Internationale Pirelli SA PIRI.Z>.

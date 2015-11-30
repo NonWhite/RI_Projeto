@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 05:47:21.38</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">F
-f0390reute
-u f BC-INDIA-LAUNCHES-FIRST   03-24 0085</field>
-	<field name = "TITLE">INDIA LAUNCHES FIRST INTERCONTINENTAL-RANGE ROCKET</field>
+	<field name = "titulo">INDIA LAUNCHES FIRST INTERCONTINENTAL-RANGE ROCKET</field>
 	<field name = "DATELINE">NEW DELHI, March 24 -</field>
-	<field name = "BODY">India launched its first
+	<field name = "content">India launched its first
 intercontinental-range rocket, the Press Trust of India
 reported.
     The rocket blasted off from Sriharikota near Madras and 406

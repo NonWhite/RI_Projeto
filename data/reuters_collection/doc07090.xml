@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 09:38:18.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0877reute
-r f BC-HITACHI-HIT>-UNIT-LA   03-19 0089</field>
-	<field name = "TITLE">HITACHI HIT> UNIT LAUNCHES NEW FLOPPY DISK</field>
+	<field name = "titulo">HITACHI HIT> UNIT LAUNCHES NEW FLOPPY DISK</field>
 	<field name = "DATELINE">MOONACHIE, N.J., March 19 -</field>
-	<field name = "BODY">Hitachi Ltd's Maxell Corp of
+	<field name = "content">Hitachi Ltd's Maxell Corp of
 America introduced a floppy disk with expanded storage
 capacity.
     The company said the 5-1/4-inch disk has a storage capacity

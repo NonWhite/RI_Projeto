@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">cameroon</field>
 	<field name = "ORGS">icco</field>
-	<field name = "UNKNOWN">T C
-f0174reute
-u f BC-LEADING-COCOA-PRODUCE   04-05 0102</field>
-	<field name = "TITLE">LEADING COCOA PRODUCERS DISCUSS INTERNATIONAL PACT</field>
+	<field name = "titulo">LEADING COCOA PRODUCERS DISCUSS INTERNATIONAL PACT</field>
 	<field name = "DATELINE">YAOUNDE, April 6 -</field>
-	<field name = "BODY">Leading cocoa producers will discuss
+	<field name = "content">Leading cocoa producers will discuss
 whether newly-agreed rules on an international cocoa buffer
 stock will succeed in reversing a sharp fall in world prices
 when they start four day's of talks here later today,

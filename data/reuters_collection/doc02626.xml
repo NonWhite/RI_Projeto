@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 10:52:43.60</field>
 	<field name = "PLACES">canada</field>
 	<field name = "EXCHANGES">tose</field>
-	<field name = "UNKNOWN">E F RM
-f0376reute
-b f BC-/TORONTO-DOMINION-TO   03-06 0115</field>
-	<field name = "TITLE">TORONTO DOMINION TO BUY SEAT ON STOCK EXCHANGE</field>
+	<field name = "titulo">TORONTO DOMINION TO BUY SEAT ON STOCK EXCHANGE</field>
 	<field name = "DATELINE">TORONTO, March 6 -</field>
-	<field name = "BODY">Toronto Dominion Bank> said it agreed
+	<field name = "content">Toronto Dominion Bank> said it agreed
 to acquire a seat on the Toronto Stock Exchange, becoming the
 first Canadian bank to do so after government proposals to
 allow banks full involvement in the securities industry.

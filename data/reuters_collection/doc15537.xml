@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:49:51.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0926reute
-u f BC-WAL-MART-STORES-WMT>   04-09 0065</field>
-	<field name = "TITLE">WAL-MART STORES WMT> MARCH SALES RISE</field>
+	<field name = "titulo">WAL-MART STORES WMT> MARCH SALES RISE</field>
 	<field name = "DATELINE">BENTONVILLE, Ark., April 9 -</field>
-	<field name = "BODY">Wal-Mart Stores Inc said March
+	<field name = "content">Wal-Mart Stores Inc said March
 sales were up 32 pct to 1.13 billion dlrs from 855 mln dlrs a
 year earlier, with same-store sales up eight pct.
     The company said sales for the first two months of its

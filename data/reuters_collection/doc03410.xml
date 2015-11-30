@@ -5,13 +5,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">peru</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">C G L M T
-f0011reute
-d f AM-peru-economy   03-09 0137</field>
-	<field name = "TITLE">WORLD BANK REPORT CRITICISES PERU ECONOMIC PLAN</field>
+	<field name = "titulo">WORLD BANK REPORT CRITICISES PERU ECONOMIC PLAN</field>
 	<field name = "AUTHOR">By Paul Iredale, Reuters</field>
 	<field name = "DATELINE">LIMA, March 9 -</field>
-	<field name = "BODY">A confidential World Bank report on the
+	<field name = "content">A confidential World Bank report on the
 Peruvian economy has said the government's strategy does not
 offer good prospects for medium and long-term growth and is
 likely to lead to an early renewal of inflationary pressure.

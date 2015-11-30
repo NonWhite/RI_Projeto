@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 08:16:35.37</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0816reute
-u f BC-/PIEDMONT-PIE>-AGREE   03-09 0113</field>
-	<field name = "TITLE">PIEDMONT PIE> AGREES TO USAIR U> BUYOUT</field>
+	<field name = "titulo">PIEDMONT PIE> AGREES TO USAIR U> BUYOUT</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">USAir Group Inc said Piedmont Aviation
+	<field name = "content">USAir Group Inc said Piedmont Aviation
 Inc has agreed to be acquired for 69 dlrs per share.
     The company, in a newspaper advertisement, said it has
 started a tender offer for all Piedmont shares at that price,

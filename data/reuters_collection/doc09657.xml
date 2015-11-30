@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 18:25:51.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2665reute
-b f BC-LOMAC-TO-PAY-COSTS-IN   03-25 0103</field>
-	<field name = "TITLE">LOMAC TO PAY COSTS IN FIRST SUPERFUND AGREEMENT</field>
+	<field name = "titulo">LOMAC TO PAY COSTS IN FIRST SUPERFUND AGREEMENT</field>
 	<field name = "AUTHOR">By SCOTT WILLIAMS, Reuters</field>
 	<field name = "DATELINE">LANSING, Mich., March 25 -</field>
-	<field name = "BODY">Lomac Inc, a publicly traded
+	<field name = "content">Lomac Inc, a publicly traded
 company, will pay the U.S. and Michigan governments to help
 clean up a toxic waste site in the first major settlement under
 the 1986 Superfund-Two act, Michigan officials said.

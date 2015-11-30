@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:54:54.12</field>
-	<field name = "UNKNOWN">F 
-f0992reute
-r f BC-CIBA-GEIGY-ANNOUNCES   06-29 0067</field>
-	<field name = "TITLE">CIBA-GEIGY ANNOUNCES NUMBER OF SHARES TENDERED</field>
+	<field name = "titulo">CIBA-GEIGY ANNOUNCES NUMBER OF SHARES TENDERED</field>
 	<field name = "DATELINE">ARDSLEY, N.Y., June 29 -</field>
-	<field name = "BODY">Ciba-Geigy Corp> said at the
+	<field name = "content">Ciba-Geigy Corp> said at the
 close of business on June 25, the approximate number of
 Spectra-Physics Inc SPY> shares that it tendered was 116,271.
     The company said on June 26, its offer to purchase all

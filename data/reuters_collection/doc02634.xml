@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 11:02:00.67</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">C G T M
-f0417reute
-u f BC-SOME-SHIPPING-RESTRIC   03-06 0147</field>
-	<field name = "TITLE">SOME SHIPPING RESTRICTIONS REMAIN ON RHINE</field>
+	<field name = "titulo">SOME SHIPPING RESTRICTIONS REMAIN ON RHINE</field>
 	<field name = "DATELINE">BONN, March 6 -</field>
-	<field name = "BODY">Limited shipping restrictions due to high
+	<field name = "content">Limited shipping restrictions due to high
 water remain in force on parts of the West German stretch of
 the Rhine river between the Dutch border and the city of Mainz
 but most are expected to be lifted this weekend.

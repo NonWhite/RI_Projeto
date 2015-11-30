@@ -5,13 +5,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">imf</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0644reute
-r f BC-ECONOMIC-SPOTLIGHT--   03-05 0102</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - POLISH SANCTIONS</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - POLISH SANCTIONS</field>
 	<field name = "AUTHOR">By Irena Czekierska, Reuters</field>
 	<field name = "DATELINE">WARSAW, March 5 -</field>
-	<field name = "BODY">Poland says U.S. Sanctions have cost its
+	<field name = "content">Poland says U.S. Sanctions have cost its
 economy 15 billion dlrs and has made clear it wants Washington
 to take a lead in repairing the damage after lifting remaining
 restrictions two weeks ago.

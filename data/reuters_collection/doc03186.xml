@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 12:04:12.69</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C T
-f0737reute
-b f BC-BRAZILIAN-TREASURY-TO   03-09 0097</field>
-	<field name = "TITLE">BRAZIL TREASURY TO RELEASE COFFEE BUYING FUNDS</field>
+	<field name = "titulo">BRAZIL TREASURY TO RELEASE COFFEE BUYING FUNDS</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 9 -</field>
-	<field name = "BODY">The Treasury Department is due to
+	<field name = "content">The Treasury Department is due to
 release funds for the Brazilian Coffee Institute, IBC, to pay
 for the coffee purchased from local producers, the IBC said in
 a statement.

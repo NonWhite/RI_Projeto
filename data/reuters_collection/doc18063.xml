@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">greenspan</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">A RM
-f1437reute
-u f BC-SEN-DOLE-SAYS-GREENSP   06-02 0113</field>
-	<field name = "TITLE">SEN DOLE SAYS GREENSPAN WILL BE GOOD FED CHAIRMAN</field>
+	<field name = "titulo">SEN DOLE SAYS GREENSPAN WILL BE GOOD FED CHAIRMAN</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">Senate Republican Leader Robert Dole
+	<field name = "content">Senate Republican Leader Robert Dole
 of Kansas said Alan Greenspan would be a good replacement for
 Paul Volcker as Federal Reserve Chairman.
     "While Paul Volcker's retirement is a real loss, this

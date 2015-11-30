@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 10:53:41.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0189reute
-r f BC-LANESBOROUGH-SELLS-SE   03-13 0082</field>
-	<field name = "TITLE">LANESBOROUGH SELLS SENIOR SUBORDINATED NOTES</field>
+	<field name = "titulo">LANESBOROUGH SELLS SENIOR SUBORDINATED NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">Lanesborough Corp is raising 50 mln
+	<field name = "content">Lanesborough Corp is raising 50 mln
 dlrs via an offering of senior subordinated notes due 1997 with
 a 12-3/8 pct coupon and par pricing, said sole manager First
 Boston Corp.

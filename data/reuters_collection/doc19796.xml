@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 13:55:31.59</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">F 
-f2028reute
-d f BC-ANGLO-AMERICAN-ATTACK   06-29 0094</field>
-	<field name = "TITLE">ANGLO AMERICAN ATTACKS KEY APARTHEID LAW</field>
+	<field name = "titulo">ANGLO AMERICAN ATTACKS KEY APARTHEID LAW</field>
 	<field name = "DATELINE">JOHANNESBURG, June 29 -</field>
-	<field name = "BODY">Anglo American Corp of South Africa
+	<field name = "content">Anglo American Corp of South Africa
 Ltd. ANGL.J> has attacked a key apartheid law barring blacks
 from living in white residential areas as "racially
 discriminatory" and "economically wasteful."

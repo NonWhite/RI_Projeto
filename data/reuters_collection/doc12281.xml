@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:01:18.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2358reute
-r f BC-AMERICAN-QUASAR-COMPL   04-01 0083</field>
-	<field name = "TITLE">AMERICAN QUASAR COMPLETES REORGANIZATION PLAN</field>
+	<field name = "titulo">AMERICAN QUASAR COMPLETES REORGANIZATION PLAN</field>
 	<field name = "DATELINE">FORT WORTH, Texas, April 1 -</field>
-	<field name = "BODY">American Quasar Petroleum Co>
+	<field name = "content">American Quasar Petroleum Co>
 said it completed its previously-announced plan of
 reorganization.
     The company said it accepted subordinated notes and

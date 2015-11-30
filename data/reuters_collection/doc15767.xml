@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 13:17:58.58</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f1863reute
-r f BC-SPAIN'S-FOREIGN-RESER   04-09 0096</field>
-	<field name = "TITLE">SPAIN'S FOREIGN RESERVES RISE IN FEBRUARY</field>
+	<field name = "titulo">SPAIN'S FOREIGN RESERVES RISE IN FEBRUARY</field>
 	<field name = "DATELINE">MADRID, April 9 -</field>
-	<field name = "BODY">Spain's foreign reserves rose by 905 mln
+	<field name = "content">Spain's foreign reserves rose by 905 mln
 dlrs in February to total 17.05 billion dlrs, compared with
 14.11 billion dlrs in February 1986, Bank of Spain figures
 show.

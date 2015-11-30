@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 09:21:45.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0906reute
-h f AM-USEDCARS   06-01 0123</field>
-	<field name = "TITLE">U.S. BOUGHT 16.5 MLN USED CARS, STUDY SAYS</field>
+	<field name = "titulo">U.S. BOUGHT 16.5 MLN USED CARS, STUDY SAYS</field>
 	<field name = "DATELINE">DETROIT, June 1 -</field>
-	<field name = "BODY">American motorists bought 16,524,000 used
+	<field name = "content">American motorists bought 16,524,000 used
 cars last year at an average cost of 5,833 dlrs each for a
 total market of 96.4 billion dlrs, according to a yearly study
 by the Hertz Corp.

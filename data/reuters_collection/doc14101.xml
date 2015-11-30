@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:27:32.98</field>
-	<field name = "UNKNOWN">V F
-f1272reute
-u f BC-QT8912   04-07 0109</field>
-	<field name = "TITLE">WALL STREET STOCKS HIGHER IN LATE MORNING</field>
+	<field name = "titulo">WALL STREET STOCKS HIGHER IN LATE MORNING</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Wall Street stocks staged a strong
+	<field name = "content">Wall Street stocks staged a strong
 rebound after being hurt by an early round of futures related
 sell programs and profit taking. The advance was led by
 automakers and a firm oil sector. Special situation stocks

@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 09:48:58.72</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0228reute
-d f BC-(CRIME-CONTROL-INC)-4   03-04 0062</field>
-	<field name = "TITLE">(CRIME CONTROL INC) 4TH QTR NET LOSS</field>
+	<field name = "titulo">(CRIME CONTROL INC) 4TH QTR NET LOSS</field>
 	<field name = "DATELINE">INDIANAPOLIS, IND., March 4-</field>
-	<field name = "BODY">Shr loss 2.03 dlrs vs loss 85 cts
+	<field name = "content">Shr loss 2.03 dlrs vs loss 85 cts
     Net loss 10,742,113 vs loss 3,700,712
     Revs 8,027,065 vs 8,689,008
     Avg shrs 5.3 mln vs 4.4 mln

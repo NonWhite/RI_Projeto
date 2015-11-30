@@ -2,13 +2,10 @@
 	<field name = "DATE">30-MAR-1987 16:47:03.31</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T
-f2572reute
-r f PM-COMMUNITY-FARM   03-30 0128</field>
-	<field name = "TITLE">EC MINISTERS DIFFER WIDELY ON FARM PRICE PLAN</field>
+	<field name = "titulo">EC MINISTERS DIFFER WIDELY ON FARM PRICE PLAN</field>
 	<field name = "AUTHOR">By Gerrard Raven, Reuters</field>
 	<field name = "DATELINE">BRUSSELS, March 30 -</field>
-	<field name = "BODY">European Community (EC) agriculture
+	<field name = "content">European Community (EC) agriculture
 ministers gave widely diverging reactions to EC executive
 Commission proposals for a radical reduction of guaranteed
 prices for the EC's 12 mln farmers.

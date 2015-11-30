@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 10:39:52.69</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1318reute
-u f BC-IC-INDUSTRIES-ICX>-M   10-19 0092</field>
-	<field name = "TITLE">IC INDUSTRIES ICX> MAY SELL AEROSPACE UNIT</field>
+	<field name = "titulo">IC INDUSTRIES ICX> MAY SELL AEROSPACE UNIT</field>
 	<field name = "DATELINE">CHICAGO, Oct 19 -</field>
-	<field name = "BODY">IC Industries Inc said its board approved
+	<field name = "content">IC Industries Inc said its board approved
 a second major step in the reorganization and restructuring of
 the company.
     To implement the plan of sharpening its strategic focus on

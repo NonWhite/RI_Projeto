@@ -8,12 +8,9 @@
 	<field name = "PEOPLE">chirac</field>
 	<field name = "PEOPLE">mitterrand</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T 
-f2347reute
-u f BC-FRANCO-GERMAN-MEETING   06-29 0107</field>
-	<field name = "TITLE">FRANCO-GERMAN PARLEY FAILS TO UNBLOCK FARM TALKS</field>
+	<field name = "titulo">FRANCO-GERMAN PARLEY FAILS TO UNBLOCK FARM TALKS</field>
 	<field name = "DATELINE">BRUSSELS, June 29 -</field>
-	<field name = "BODY">A specially convened Franco-German
+	<field name = "content">A specially convened Franco-German
 meeting in the sidelines of a summit of EC leaders failed to
 make any progress over a 1987-88 farm price package that has
 deeply split the two former EC allies, diplomats said

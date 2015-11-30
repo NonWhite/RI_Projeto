@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">RM
-f0100reute
-b f BC-MIYAZAWA-SAYS-MAJOR-N   03-26 0110</field>
-	<field name = "TITLE">MIYAZAWA SAYS MAJOR NATIONS ACTING ON PARIS ACCORD</field>
+	<field name = "titulo">MIYAZAWA SAYS MAJOR NATIONS ACTING ON PARIS ACCORD</field>
 	<field name = "DATELINE">TOKYO, March 26 -</field>
-	<field name = "BODY">Finance Minister Kiichi Miyazawa said
+	<field name = "content">Finance Minister Kiichi Miyazawa said
 major nations are taking action to stabilise exchange rates in
 line with their agreement in Paris last month, government
 sources said.

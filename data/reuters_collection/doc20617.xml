@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 15:15:22.25</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2885reute
-r f BC-OWENS-ILLINOIS-OI>-E   10-20 0052</field>
-	<field name = "TITLE">OWENS-ILLINOIS OI> EXTENDS BROCKWAY BRK> OFFER</field>
+	<field name = "titulo">OWENS-ILLINOIS OI> EXTENDS BROCKWAY BRK> OFFER</field>
 	<field name = "DATELINE">TOLEDO, Ohio, Oct 20 -</field>
-	<field name = "BODY">Owens-Illinois Inc said its
+	<field name = "content">Owens-Illinois Inc said its
 subsidiary's 60 dlr a share cash tender offer for all the
 outstanding common shares of Brockway Inc has been extended to
 midnight October 30.

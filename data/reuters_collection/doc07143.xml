@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 10:54:48.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1163reute
-r f BC-PHILIPS-MEDICAL-SETS   03-19 0139</field>
-	<field name = "TITLE">PHILIPS MEDICAL SETS RESEARCH PROGRAM</field>
+	<field name = "titulo">PHILIPS MEDICAL SETS RESEARCH PROGRAM</field>
 	<field name = "DATELINE">SHELTON, Conn., March 19 -</field>
-	<field name = "BODY">Philips Medical Systems Inc, a
+	<field name = "content">Philips Medical Systems Inc, a
 unit of (North American Philips Corp), said a research program
 is underway at seven medical centers aimed at producing a new
 standard of three-dimensional medical imaging systems.

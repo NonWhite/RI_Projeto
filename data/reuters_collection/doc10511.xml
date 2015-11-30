@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:58:10.66F A RM</field>
-	<field name = "UNKNOWN">f1465reute</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">r f BC-MARINE-MIDLAND-MM>-M   03-27 0110</field>
-	<field name = "TITLE">MARINE MIDLAND MM> MAY RECLASSIFY BRAZIL LOANS</field>
+	<field name = "titulo">MARINE MIDLAND MM> MAY RECLASSIFY BRAZIL LOANS</field>
 	<field name = "DATELINE">WASHINGTON, March 27 -</field>
-	<field name = "BODY">Marine Midland Banks Inc said in a
+	<field name = "content">Marine Midland Banks Inc said in a
 filing with the Securities and Exchange Commission that it may
 reclassify as "nonperforming" 359 mln dlrs of medium- and
 long-term loans to Brazil.

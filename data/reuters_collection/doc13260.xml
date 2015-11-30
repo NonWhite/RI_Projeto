@@ -3,13 +3,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">kaufman</field>
-	<field name = "UNKNOWN">RM C G L M T
-f0102reute
-u f BC-U.S.-CREDIT-MARKET-OU   04-05 0113</field>
-	<field name = "TITLE">U.S. CREDIT MARKET OUTLOOK - CAUTIOUS TRADING</field>
+	<field name = "titulo">U.S. CREDIT MARKET OUTLOOK - CAUTIOUS TRADING</field>
 	<field name = "AUTHOR">By Martin Cherrin, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 6 -</field>
-	<field name = "BODY">U.S. Bond trading is likely to remain
+	<field name = "content">U.S. Bond trading is likely to remain
 cautious in the near term with a possible downward price bias
 as market participants focus on trends in the dollar, the
 economy and Federal Reserve policy, economists said.

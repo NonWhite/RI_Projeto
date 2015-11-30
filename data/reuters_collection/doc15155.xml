@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 13:09:33.53</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1878reute
-u f BC-HOECHST-CELANESE-SEND   04-08 0090</field>
-	<field name = "TITLE">HOECHST CELANESE SENDS REPORT ON NEW FACILITIES</field>
+	<field name = "titulo">HOECHST CELANESE SENDS REPORT ON NEW FACILITIES</field>
 	<field name = "DATELINE">SOMERVILLE, N.J., April 8 -</field>
-	<field name = "BODY">Hoechst Celanese Corp> said it
+	<field name = "content">Hoechst Celanese Corp> said it
 sent propsective customers a confidential report describing its
 polyester textile fiber facilities in North Carolina and South
 Carolina.

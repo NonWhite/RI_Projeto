@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 17:16:21.60</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2536reute
-r f BC-BIDS-AWARDED-FOR-ELK   03-20 0104</field>
-	<field name = "TITLE">BIDS AWARDED FOR ELK HILLS CRUDE OIL</field>
+	<field name = "titulo">BIDS AWARDED FOR ELK HILLS CRUDE OIL</field>
 	<field name = "DATELINE">LOS ANGELES, March 20 -</field>
-	<field name = "BODY">The U.S. Department of Energy said
+	<field name = "content">The U.S. Department of Energy said
 it has awarded bids for about 90,000 barrels per day, bpd, of
 crude oil from the Elk Hills Naval Petroleum Reserve in
 California. The contract period runs from April one through

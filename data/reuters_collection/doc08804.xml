@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 11:15:34.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1339reute
-r f BC-SALOMON-OFFERS-UNITS   03-24 0109</field>
-	<field name = "TITLE">SALOMON OFFERS UNITS OF VAN DUSEN AIRPORT L.P.</field>
+	<field name = "titulo">SALOMON OFFERS UNITS OF VAN DUSEN AIRPORT L.P.</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Salomon Brothers Inc, acting as sole
+	<field name = "content">Salomon Brothers Inc, acting as sole
 underwriter, said it is publicly offering 50,000 units of Van
 Dusen Airport Services Co, L.P.
     The offering consists of 50 mln dlrs of 12 pct senior

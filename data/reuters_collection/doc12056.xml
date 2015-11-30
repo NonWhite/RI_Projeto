@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 11:58:09.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1524reute
-r f BC-CYPRUS-MINERALS-CYPM   04-01 0064</field>
-	<field name = "TITLE">CYPRUS MINERALS CYPM> WINS COAL CONTRACT</field>
+	<field name = "titulo">CYPRUS MINERALS CYPM> WINS COAL CONTRACT</field>
 	<field name = "DATELINE">DENVER, April 1 -</field>
-	<field name = "BODY">Cyprus Minerals Co said it was awarded a
+	<field name = "content">Cyprus Minerals Co said it was awarded a
 five year contract to supply 360,000 tons of steam coal to
 Niagara Mohawk Power Co NMK>.
     The company is currently shipping 240,000 tons of steam

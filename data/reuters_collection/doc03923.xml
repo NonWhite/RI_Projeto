@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 15:48:32.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0503reute
-u f BC-CHANGES-SET-IN-DOW-JO   03-11 0063</field>
-	<field name = "TITLE">CHANGES SET IN DOW JONES INDUSTRIAL AVERAGE</field>
+	<field name = "titulo">CHANGES SET IN DOW JONES INDUSTRIAL AVERAGE</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">The Wall Street Journal said the
+	<field name = "content">The Wall Street Journal said the
 stocks of Owens-Illinois Inc OI> and Inco Ltd N> will be
 dropped as components of the 30 stock Dow Jones Industrial
 aveage, effective with the start of trading on the New York

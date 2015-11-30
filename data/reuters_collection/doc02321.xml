@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 13:52:48.83</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0287reute
-d f BC-UNICORP-AMERICAN-UAC   03-05 0046</field>
-	<field name = "TITLE">UNICORP AMERICAN UAC> ACQUISITION ADVANCES</field>
+	<field name = "titulo">UNICORP AMERICAN UAC> ACQUISITION ADVANCES</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Unicorp American Corp said it has
+	<field name = "content">Unicorp American Corp said it has
 signed a definitive agreement for the previously-announced
 acquisition of Lincoln Savings Bank.
     The company said the transaction is still subject to

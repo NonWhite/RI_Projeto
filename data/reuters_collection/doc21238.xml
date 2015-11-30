@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 12:36:28.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1992reute
-d f BC-PERRY-DRUG-PDS>-DIRE   10-19 0078</field>
-	<field name = "TITLE">PERRY DRUG PDS> DIRECTOR RESIGNS</field>
+	<field name = "titulo">PERRY DRUG PDS> DIRECTOR RESIGNS</field>
 	<field name = "DATELINE">PONTIAC, Mich, Oct 19 -</field>
-	<field name = "BODY">Perry Drug Stores Inc said Donald
+	<field name = "content">Perry Drug Stores Inc said Donald
 Fox has resigned from the board of directors, effective
 immediately.
     Fox, a board director since 1971, said he was resigning

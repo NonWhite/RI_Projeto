@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 04:46:26.42</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0333reute
-u f BC-GKN-REORGANISES-JOINT   03-30 0096</field>
-	<field name = "TITLE">GKN REORGANISES JOINT VENTURE</field>
+	<field name = "titulo">GKN REORGANISES JOINT VENTURE</field>
 	<field name = "DATELINE">LONDON, March 30 -</field>
-	<field name = "BODY">GKN Plc> said it and Zahnradfabrik
+	<field name = "content">GKN Plc> said it and Zahnradfabrik
 Friedrichshafen AG> would reorganise the ownership structure of
 their Viscodrive GmbH> joint venture.
     Under the agreement, GKN's Uni-Cardan AG unit would

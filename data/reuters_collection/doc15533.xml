@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:45:03.90</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0902reute
-r f BC-EUROCHEQUE-EXPECTS-AR   04-09 0113</field>
-	<field name = "TITLE">EUROCHEQUE EXPECTS AROUND 10 PCT CARD GROWTH</field>
+	<field name = "titulo">EUROCHEQUE EXPECTS AROUND 10 PCT CARD GROWTH</field>
 	<field name = "DATELINE">BRUSSELS, April 9 -</field>
-	<field name = "BODY">The number of cards in the Eurocheque
+	<field name = "content">The number of cards in the Eurocheque
 system, Europe's biggest personal payments system, grew by 11
 pct to 39.1 mln last year and is expected to continue
 increasing by around 10 pct in coming years, Eurocheque

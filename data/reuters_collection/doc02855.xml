@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 16:05:42.92</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0504reute
-r f BC-FOXBORO-CO-FOX>-4TH   03-06 0083</field>
-	<field name = "TITLE">FOXBORO CO FOX> 4TH QTR LOSS</field>
+	<field name = "titulo">FOXBORO CO FOX> 4TH QTR LOSS</field>
 	<field name = "DATELINE">FOXBORO, Mass., March 6 -</field>
-	<field name = "BODY">Oper shr loss one ct vs loss 2.65 dlrs
+	<field name = "content">Oper shr loss one ct vs loss 2.65 dlrs
     Oper net loss 100,000 vs loss 32.7 mln
     Revs 142.3 mln vs 168.8 mln
     12 mths

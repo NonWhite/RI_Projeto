@@ -4,13 +4,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">greenspan</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">RM C
-f2948reute
-u f BC-fin-futures-outlook   06-02 0089</field>
-	<field name = "TITLE">NEAR TERM STRENGTH SEEN FOR CURRENCY FUTURES</field>
+	<field name = "titulo">NEAR TERM STRENGTH SEEN FOR CURRENCY FUTURES</field>
 	<field name = "AUTHOR">by Patricia Campbell, Reuters</field>
 	<field name = "DATELINE">CHICAGO, June 2 -</field>
-	<field name = "BODY">Currency futures are likely to move
+	<field name = "content">Currency futures are likely to move
 higher following the sharp rally today after President Reagan
 announced that Paul Volcker would not accept a third term as
 Federal Reserve Chairman and that Alan Greenspan was nominated

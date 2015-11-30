@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 10:53:16.93</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0188reute
-u f BC-ITALIAN-BUSINESS-CONC   03-13 0116</field>
-	<field name = "TITLE">ITALIAN BUSINESS CONCERNED OVER POLITICAL CRISIS</field>
+	<field name = "titulo">ITALIAN BUSINESS CONCERNED OVER POLITICAL CRISIS</field>
 	<field name = "DATELINE">ROME, March 13 -</field>
-	<field name = "BODY">Italian Prime Minister designate Giulio
+	<field name = "content">Italian Prime Minister designate Giulio
 Andreotti expressed cautious optimism about his chances of
 forming a government, amid concern by industrialists that a
 lengthy political crisis could cause economic damage.

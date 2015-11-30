@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:27:30.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0059
-reute
-d f BC-CAREMARK-CMRK>-CHANG   03-02 0032</field>
-	<field name = "TITLE">CAREMARK CMRK> CHANGES FISCAL YEAR-END</field>
+	<field name = "titulo">CAREMARK CMRK> CHANGES FISCAL YEAR-END</field>
 	<field name = "DATELINE">NEWPORT BEACH, Calif., March 2 -</field>
-	<field name = "BODY">Caremark Inc said it is
+	<field name = "content">Caremark Inc said it is
 changing its fiscal year-end to a calendar year from the
 previous fiscal year ending June 30.
  Reuter</field>

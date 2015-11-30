@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 17:30:08.88</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM F A
-f0984reute
-u f BC-BRAZILIAN-FINANCE-MIN   03-05 0117</field>
-	<field name = "TITLE">BRAZILIAN FINANCE MINISTER EXTENDS TRIP TO JAPAN</field>
+	<field name = "titulo">BRAZILIAN FINANCE MINISTER EXTENDS TRIP TO JAPAN</field>
 	<field name = "DATELINE">BRASILIA, MARCH 5 -</field>
-	<field name = "BODY">Brazilian Finance Minister Dilson
+	<field name = "content">Brazilian Finance Minister Dilson
 Funaro will extend his international tour, flying to Japan for
 talks with government officials and representatives of banks to
 explain Brazil's decision to halt payment of part of its

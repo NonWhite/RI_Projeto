@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 10:03:22.54</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0169reute
-u f BC-STORA-CLOSE-TO-COMPLE   03-09 0103</field>
-	<field name = "TITLE">STORA CLOSE TO COMPLETING PAPYRUS TAKEOVER</field>
+	<field name = "titulo">STORA CLOSE TO COMPLETING PAPYRUS TAKEOVER</field>
 	<field name = "DATELINE">STOCKHOLM, March 9 -</field>
-	<field name = "BODY">Sweden's Stora Kopparbergs Bergslags
+	<field name = "content">Sweden's Stora Kopparbergs Bergslags
 AB SKPS.ST> said it has now acquired 90 pct of shares in rival
 pulp and paper makers Papyrus AB, thus passing the threshold
 above which it can compulsorily buy the rest of the company.

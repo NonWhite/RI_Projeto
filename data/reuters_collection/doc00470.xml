@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 10:54:29.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0818
-reute
-d f BC-UNOCAL-UCL>-PLANS-LU   03-02 0098</field>
-	<field name = "TITLE">UNOCAL UCL> PLANS LUBE CENTERS AT TRUCKSTOPS</field>
+	<field name = "titulo">UNOCAL UCL> PLANS LUBE CENTERS AT TRUCKSTOPS</field>
 	<field name = "DATELINE">CHICAGO, March 2 -</field>
-	<field name = "BODY">Unocal Corp said it plans to introduce
+	<field name = "content">Unocal Corp said it plans to introduce
 truck lube centers at most of the 148 Unocal 76 Auto/TruckStops
 along the nation's interstate highways.
     The company said the centers will be the first national

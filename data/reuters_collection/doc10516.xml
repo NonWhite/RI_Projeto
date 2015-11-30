@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:01:51.09F</field>
-	<field name = "UNKNOWN">f1476reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-CONSUMERS-POWER-CMS>   03-27 0074</field>
-	<field name = "TITLE">CONSUMERS POWER CMS> TO RESTART NUCLEAR PLANT</field>
+	<field name = "titulo">CONSUMERS POWER CMS> TO RESTART NUCLEAR PLANT</field>
 	<field name = "DATELINE">JACKSON, Mich., March 27 -</field>
-	<field name = "BODY">Consumers Power Co said it
+	<field name = "content">Consumers Power Co said it
 intends to restart the the Palisades Nuclear Plant within the
 next several days.
     Consumers Power said it shut the plant down last May 19

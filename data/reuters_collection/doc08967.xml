@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 15:07:38.74</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2230reute
-s f BC-SIGNET-BANKING-CORP-R   03-24 0024</field>
-	<field name = "TITLE">SIGNET BANKING CORP REGULAR DIVIDEND</field>
+	<field name = "titulo">SIGNET BANKING CORP REGULAR DIVIDEND</field>
 	<field name = "DATELINE">RICHMOND, Va, March 24 -</field>
-	<field name = "BODY">Qtly div 31 cts vs 31 cts prior
+	<field name = "content">Qtly div 31 cts vs 31 cts prior
     Payable APril 22
     Record April three
  Reuter</field>

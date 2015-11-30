@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 08:13:26.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0838reute
-r f BC-GM-(GM)-LAYING-OFF-5,   03-05 0083</field>
-	<field name = "TITLE">GM GM>  LAYING OFF 5,500 AT TWO PLANTS</field>
+	<field name = "titulo">GM GM>  LAYING OFF 5,500 AT TWO PLANTS</field>
 	<field name = "DATELINE">DETROIT, March 5 -</field>
-	<field name = "BODY">General Motors Corp said it ordered
+	<field name = "content">General Motors Corp said it ordered
 temporary layoffs of 5,500 hourly workers to cut production and
 thereby reduce inventories of cars built at two plants later
 this month.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 06:53:34.26</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f7386reute
-b f BC-DEUTSCHE-BABCOCK-RIGH   03-18 0112</field>
-	<field name = "TITLE">DEUTSCHE BABCOCK RIGHTS ISSUE PRICED AT 165 MARKS</field>
+	<field name = "titulo">DEUTSCHE BABCOCK RIGHTS ISSUE PRICED AT 165 MARKS</field>
 	<field name = "DATELINE">OBERHAUSEN, West Germany, March 18 -</field>
-	<field name = "BODY">Deutsche Babcock AG
+	<field name = "content">Deutsche Babcock AG
 DBCG.G> said an issue price of 165 marks had been set on a
 two-for-five rights issue of shares which will raise nominal
 capital by 100 mln marks to 350 mln marks.

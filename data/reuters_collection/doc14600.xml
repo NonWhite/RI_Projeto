@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:18:56.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F
-f2366reute
-u f BC-DAYTON-HUDSON-XXX>-D   04-07 0110</field>
-	<field name = "TITLE">DAYTON HUDSON XXX> DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">DAYTON HUDSON XXX> DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 downgraded Dayton Hudson Corp's 1.3 billion dlrs of debt.
     The agency cut to Aa-3 from Aa-2 Dayton Hudson's senior
 notes, debentures, revenue bonds and Eurodebt, and shelf

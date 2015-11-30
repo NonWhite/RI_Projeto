@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:55:51.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0683reute
-r f BC-SYNERGEN-SYGN>-TO-MA   03-11 0101</field>
-	<field name = "TITLE">SYNERGEN SYGN> TO MAKE DRUG FOR CIBA-GEIGY</field>
+	<field name = "titulo">SYNERGEN SYGN> TO MAKE DRUG FOR CIBA-GEIGY</field>
 	<field name = "DATELINE">BOULDER, Colo., March 11 -</field>
-	<field name = "BODY">Synergen Inc said it agreed to
+	<field name = "content">Synergen Inc said it agreed to
 provide its human elastase inhibitor, designed to treat
 emphysema, to Ciba-Geigy AG CIGZ> for human clinical trials.
     Ciba-Geigy is currently testing the substance in animals,

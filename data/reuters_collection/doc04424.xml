@@ -2,13 +2,10 @@
 	<field name = "DATE">12-MAR-1987 14:30:38.87</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">Y
-f0097reute
-r f BC-MONTEDISON,-OTHER-REF   03-12 0101</field>
-	<field name = "TITLE">MONTEDISON, OTHER REFINERIES TO SHUT FOR WORK</field>
+	<field name = "titulo">MONTEDISON, OTHER REFINERIES TO SHUT FOR WORK</field>
 	<field name = "AUTHOR">By JO WINTERBOTTOM, Reuters</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">Selm-Societa Energia Montedison is to
+	<field name = "content">Selm-Societa Energia Montedison is to
 close its Priolo crude refining units from March 15th to March
 28th for maintenance, a company spokesman said.
     Throughput at the refinery is currently estimated at

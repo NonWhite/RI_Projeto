@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 11:35:47.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1400reute
-u f BC-JEFFERIES-JEFG>-SETT   03-23 0102</field>
-	<field name = "TITLE">JEFFERIES JEFG> SETTLES DISPUTE WITH SEC</field>
+	<field name = "titulo">JEFFERIES JEFG> SETTLES DISPUTE WITH SEC</field>
 	<field name = "DATELINE">LOS ANGELES, March 23 -</field>
-	<field name = "BODY">Jefferies Group Inc said it
+	<field name = "content">Jefferies Group Inc said it
 resolved an accounting dispute with the staff of the Securities
 and Exchange Commission resulting from a brokerage transaction
 in which the company acted as agent for buyer and seller.

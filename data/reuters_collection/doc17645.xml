@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 13:04:05.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1780reute
-r f BC-WHITTAKER-WKR>-SEES   06-01 0098</field>
-	<field name = "TITLE">WHITTAKER WKR> SEES HIGHER 1987 PROFITS</field>
+	<field name = "titulo">WHITTAKER WKR> SEES HIGHER 1987 PROFITS</field>
 	<field name = "DATELINE">LOS ANGELES, June 1 -</field>
-	<field name = "BODY">Whittaker Corp chairman and chief
+	<field name = "content">Whittaker Corp chairman and chief
 executive officer Joseph Alibrandi said the company expects to
 report operating profits in fiscal 1987 that exceed 1986
 results of 41.5 mln dlrs.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:33:01.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2256reute
-s f BC-OVERSEAS-SHIPHOLDING   06-02 0037</field>
-	<field name = "TITLE">OVERSEAS SHIPHOLDING GROUP OSG> SETS PAYOUT</field>
+	<field name = "titulo">OVERSEAS SHIPHOLDING GROUP OSG> SETS PAYOUT</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Qtrly div 12.5 cts per share vs 12.5 cts prior
+	<field name = "content">Qtrly div 12.5 cts per share vs 12.5 cts prior
     Pay Aug 25
     Record Aug Three
     NOTER: full name of company is overseas shipholding group

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 03:55:13.05</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0191reute
-u f BC-FINAL-TERMS-SET-ON-AT   04-08 0068</field>
-	<field name = "TITLE">FINAL TERMS SET ON ATARI CORP CONVERTIBLE EUROBOND</field>
+	<field name = "titulo">FINAL TERMS SET ON ATARI CORP CONVERTIBLE EUROBOND</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">The coupon on the 75 mln dlr, 15-year,
+	<field name = "content">The coupon on the 75 mln dlr, 15-year,
 convertible eurobond for Atari Corp has been set at 5-1/4 pct
 compared with indicated range of five to 5-1/4 pct, lead
 manager Paine Webber International said.

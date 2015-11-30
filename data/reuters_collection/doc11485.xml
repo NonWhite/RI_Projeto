@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 12:45:20.94</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">RM
-f1861reute
-b f BC-YUGOSLAVIA-REACHES-PA   03-31 0102</field>
-	<field name = "TITLE">YUGOSLAVIA REACHES PARIS PACT ON PART DEBT</field>
+	<field name = "titulo">YUGOSLAVIA REACHES PARIS PACT ON PART DEBT</field>
 	<field name = "DATELINE">BELGRADE, March 31 -</field>
-	<field name = "BODY">Yugoslavia has reached an agreement
+	<field name = "content">Yugoslavia has reached an agreement
 with Western creditors on refinancing a portion of its 19.7
 billion dollar hard currency debt.
     The official Tanjug news agency said the agreement was

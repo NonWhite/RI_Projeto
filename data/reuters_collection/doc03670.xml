@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 10:50:16.02</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0384reute
-b f BC-EDF-ISSUING-FIVE-BILL   03-11 0087</field>
-	<field name = "TITLE">EDF ISSUING FIVE BILLION FRENCH FRANC BOND</field>
+	<field name = "titulo">EDF ISSUING FIVE BILLION FRENCH FRANC BOND</field>
 	<field name = "DATELINE">PARIS, March 11 -</field>
-	<field name = "BODY">The French electricity utility
+	<field name = "content">The French electricity utility
 Electricite de France is issuing a five billion French franc
 bond in three tranches, co-lead manager Banque Paribas said
 here.

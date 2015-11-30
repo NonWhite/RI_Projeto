@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 17:49:47.90</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f2740reute
-d f BC-RESCUE-WORKERS-BRINGI   04-02 0133</field>
-	<field name = "TITLE">RESCUE WORKERS BRINGING MINERS FROM UNDERGROUND</field>
+	<field name = "titulo">RESCUE WORKERS BRINGING MINERS FROM UNDERGROUND</field>
 	<field name = "DATELINE">MURDOCHVILLE, Quebec, April 2 -</field>
-	<field name = "BODY">Rescue workers are bringing
+	<field name = "content">Rescue workers are bringing
 out miners who have been trapped in a Noranda Inc>
 copper mine for almost 24 hours by fire which has so far killed
 one and sent 17 to hospital, company officials said.

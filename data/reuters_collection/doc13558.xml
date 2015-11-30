@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">luxembourg</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0469reute
-r f BC-EC-INDUSTRIAL-PRODUCT   04-07 0109</field>
-	<field name = "TITLE">EC INDUSTRIAL PRODUCTION GROWTH HALTS IN JANUARY</field>
+	<field name = "titulo">EC INDUSTRIAL PRODUCTION GROWTH HALTS IN JANUARY</field>
 	<field name = "DATELINE">LUXEMBOURG, April 7 -</field>
-	<field name = "BODY">Industrial production in the European
+	<field name = "content">Industrial production in the European
 Community (EC) in January showed no growth compared with
 January 1986, the EC statistics office, Eurostat, said in a
 report.

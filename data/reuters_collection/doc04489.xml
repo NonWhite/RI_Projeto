@@ -6,12 +6,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0375reute
-u f BC-GLICKMAN-PUSHES-HARD   03-12 0134</field>
-	<field name = "TITLE">GLICKMAN PUSHES HARD FOR 0/92 FARM PLAN</field>
+	<field name = "titulo">GLICKMAN PUSHES HARD FOR 0/92 FARM PLAN</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">Implementation of a one-year 0/92
+	<field name = "content">Implementation of a one-year 0/92
 pilot program for wheat and feedgrains was strongly promoted
 today by the chairman of a key house agriculture subcommittee
 as a way to cut farm costs and simultaneously give farmers

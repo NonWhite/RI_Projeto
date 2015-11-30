@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 22:53:18.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM AI 
-f3744reute
-u f BC-POLL-SHOWS-AMERICANS   10-20 0108</field>
-	<field name = "TITLE">POLL SHOWS AMERICANS HOLD ON TO STOCKS AFTER DROP</field>
+	<field name = "titulo">POLL SHOWS AMERICANS HOLD ON TO STOCKS AFTER DROP</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">The "Black Monday" stock market crash
+	<field name = "content">The "Black Monday" stock market crash
 failed to destroy Americans' faith in the economic soundness of
 the country, according to a poll released on Tuesday.
     The ABC-Washington Post poll, taken after the close of

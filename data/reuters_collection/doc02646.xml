@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 11:10:03.95</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0465reute
-r f BC-SANTA-FE-SOUTHERN-SF   03-06 0067</field>
-	<field name = "TITLE">SANTA FE SOUTHERN SFX> APPEALS MERGER RULING</field>
+	<field name = "titulo">SANTA FE SOUTHERN SFX> APPEALS MERGER RULING</field>
 	<field name = "DATELINE">CHICAGO, March 6 -</field>
-	<field name = "BODY">Santa Fe Southern Pacific Corp said it
+	<field name = "content">Santa Fe Southern Pacific Corp said it
 filed a petition asking the U.S. Interstate Commerce Commission
 to reconsider its earlier rejection of the merger of the
 holding company's railroad assets.

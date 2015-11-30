@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 10:15:55.43</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1182reute
-b f BC-BELL-ATLANTIC-C   10-19 0058</field>
-	<field name = "TITLE">BELL ATLANTIC CORP BEL> 3RD QTR NET</field>
+	<field name = "titulo">BELL ATLANTIC CORP BEL> 3RD QTR NET</field>
 	<field name = "DATELINE">PHILADELPHIA, Oct 19 -</field>
-	<field name = "BODY">Shr 1.62 dlrs vs 1.49 dlrs
+	<field name = "content">Shr 1.62 dlrs vs 1.49 dlrs
     Net 321.8 mln vs 297.9 mln
     Revs 2.59 billion vs 2.49 billion
     Avg shrs 198.8 mln vs 199.5 mln

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 13:13:13.09</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1930reute
-u f BC-DOLLAR-STRAIGHT-BONDS   04-13 0109</field>
-	<field name = "TITLE">DOLLAR STRAIGHT BONDS END LOWER, TEXACO UNTRADED</field>
+	<field name = "titulo">DOLLAR STRAIGHT BONDS END LOWER, TEXACO UNTRADED</field>
 	<field name = "AUTHOR">By Christopher Pizzey, Reuters</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">The dollar straight sector of the
+	<field name = "content">The dollar straight sector of the
 eurobond market ended lower after another nervous day's
 trading, with many operators keeping to the sidelines ahead of
 tomorrow's U.S. Trade figures for February, dealers said.

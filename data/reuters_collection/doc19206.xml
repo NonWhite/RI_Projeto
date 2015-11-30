@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 11:13:09.79</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F Y 
-f1197reute
-u f BC-NYSE-SEEKS-COMMENT-FR   06-19 0079</field>
-	<field name = "TITLE">NYSE SEEKS COMMENT FROM TESORO PETROLEUM TSO></field>
+	<field name = "titulo">NYSE SEEKS COMMENT FROM TESORO PETROLEUM TSO></field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">The New York Stock Exchange said Tesoro
+	<field name = "content">The New York Stock Exchange said Tesoro
 Petroleum had replied that it did not comment on unusual market
 activity or rumors when asked by the NYSE about the company's
 stock rise.

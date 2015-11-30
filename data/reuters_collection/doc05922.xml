@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 09:43:24.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f4948reute
-r f BC-SUNGARD-DATA-SNDT>-S   03-17 0046</field>
-	<field name = "TITLE">SUNGARD DATA SNDT> SHARE OFFERING STARTS</field>
+	<field name = "titulo">SUNGARD DATA SNDT> SHARE OFFERING STARTS</field>
 	<field name = "DATELINE">WAYNE, Pa., March 17 -</field>
-	<field name = "BODY">SunGard Data Systems Inc said an
+	<field name = "content">SunGard Data Systems Inc said an
 offering of 1,200,000 common shares is underway at 18.25 dlrs
 each through underwriters led by Alex. Brown and Sons Inc
 ABSB> and L.F. Rothschild, Unterberg, Towbin Inc R>.

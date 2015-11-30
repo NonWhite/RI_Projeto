@@ -5,12 +5,9 @@
 	<field name = "PLACES">cyprus</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V Y 
-f2086reute
-u f AM-GULF-IRAN URGENT  10-19 0094</field>
-	<field name = "TITLE">IRAN SAYS US ATTACK INVOLVES IT IN FULL-SCALE WAR</field>
+	<field name = "titulo">IRAN SAYS US ATTACK INVOLVES IT IN FULL-SCALE WAR</field>
 	<field name = "DATELINE">NICOSIA, Oct 19 -</field>
-	<field name = "BODY">A top Iranian military official said
+	<field name = "content">A top Iranian military official said
 America's attack on an Iranian oil platform on Monday had
 involved the United States in full-scale war and Iran would
 avenge it with a "crushing blow."

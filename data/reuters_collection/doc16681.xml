@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 16:41:17.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2584reute
-r f BC-ANDOVER-WAGES-HBO-HB   04-13 0103</field>
-	<field name = "TITLE">ANDOVER WAGES HBO HBOC> PROXY WAR</field>
+	<field name = "titulo">ANDOVER WAGES HBO HBOC> PROXY WAR</field>
 	<field name = "DATELINE">ATLANTA, April 13 -</field>
-	<field name = "BODY">Andover Group, a Virginia general
+	<field name = "content">Andover Group, a Virginia general
 partnership, said it mailed proxies soliciting votes for a
 slate of nominees to HBO and Co's board of directors.
    Last week, HBO and Co sent a letter urging shareholders

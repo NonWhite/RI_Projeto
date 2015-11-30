@@ -3,13 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0284
-reute
-u f BC-HOECHST-AG>-COMPLETE   03-02 0045</field>
-	<field name = "TITLE">HOECHST AG> COMPLETES CELANESE CZ> ACQUISITION</field>
+	<field name = "titulo">HOECHST AG> COMPLETES CELANESE CZ> ACQUISITION</field>
 	<field name = "DATELINE">SOMERVILLE, N.J., March 2 -</field>
-	<field name = "BODY">Hoechst AG of West Germany said
+	<field name = "content">Hoechst AG of West Germany said
 it has completed the acquisition of Celanese Corp.
     Hoechst acquired a majority of Celanese shares in a recent
 tender offer at 245 dlrs per common share.

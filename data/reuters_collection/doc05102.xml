@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 17:35:22.04</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f0618reute
-u f BC-NYSE-SEES-NO-PROBLEM   03-13 0107</field>
-	<field name = "TITLE">NYSE SEES NO PROBLEM ON RULE 390 INTERPRETATION</field>
+	<field name = "titulo">NYSE SEES NO PROBLEM ON RULE 390 INTERPRETATION</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">The New York Stock Exchange sought to
+	<field name = "content">The New York Stock Exchange sought to
 defuse a trans-Atlantic flap over whether member firms can
 trade stocks on London's electronic dealing system during New
 York trading hours.

@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 18:17:48.07</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0310
-reute
-r f BC-SEC-PROBES-1986-TRE-   03-02 0102</field>
-	<field name = "TITLE">SEC PROBES 1986 TRE TRE> TAKEOVER ATTEMPT</field>
+	<field name = "titulo">SEC PROBES 1986 TRE TRE> TAKEOVER ATTEMPT</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">The federal Securities and Exchange
+	<field name = "content">The federal Securities and Exchange
 Commission (SEC) is looking for possible securities laws
 violations in connection with an unsuccessful 1986 bid by
 Hollywood producer Burt Sugarman to take over TRE Corp,

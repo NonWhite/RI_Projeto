@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:20:26.65</field>
-	<field name = "UNKNOWN">RM V F
-f2374reute
-u f BC-QT8916   04-07 0103</field>
-	<field name = "TITLE">WALL STREET CLOSE SHARPLY LOWER</field>
+	<field name = "titulo">WALL STREET CLOSE SHARPLY LOWER</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Wall Street's fears about interest
+	<field name = "content">Wall Street's fears about interest
 rates and inflation were reignited today, triggering a sharp
 selloff in active trading. Profit taking and arbitrage related
 sell programs, taking a cue from falling bond prices, combined

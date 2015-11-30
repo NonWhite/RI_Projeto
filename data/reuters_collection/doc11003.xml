@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 14:23:38.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2196reute
-r f BC-CAMPBELL-SOUP-CPB>-T   03-30 0056</field>
-	<field name = "TITLE">CAMPBELL SOUP CPB> TO SELL PLANT IN DELAWARE</field>
+	<field name = "titulo">CAMPBELL SOUP CPB> TO SELL PLANT IN DELAWARE</field>
 	<field name = "DATELINE">CAMDEN, N.J., March 30 -</field>
-	<field name = "BODY">Campbell Soup co said it will sell
+	<field name = "content">Campbell Soup co said it will sell
 its W.L. Wheatley ingredients plant in Clayton, Del., as a
 going operation.
     It said it will continue to operate the plant until a buyer

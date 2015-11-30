@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1222reute
-b f BC-/-FED-MAY-ADD-RESERVE   04-09 0098</field>
-	<field name = "TITLE">FED MAY ADD RESERVES TO BANKING SYSTEM</field>
+	<field name = "titulo">FED MAY ADD RESERVES TO BANKING SYSTEM</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">The Federal Reserve may intervene in
+	<field name = "content">The Federal Reserve may intervene in
 the government securities market to supply temporary reserves
 indirectly via customer repurchase agreements, economists said.
     They said that while the Fed faces no great urgency to add

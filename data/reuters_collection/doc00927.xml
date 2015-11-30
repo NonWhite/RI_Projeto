@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 06:01:20.61</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0848
-reute
-u f BC-COUNCIL-OF-EUROPE-ISS   03-03 0094</field>
-	<field name = "TITLE">COUNCIL OF EUROPE ISSUES LUXEMBOURG FRANC BOND</field>
+	<field name = "titulo">COUNCIL OF EUROPE ISSUES LUXEMBOURG FRANC BOND</field>
 	<field name = "DATELINE">LUXEMBOURG, March 3 -</field>
-	<field name = "BODY">The Council of Europe is issuing a
+	<field name = "content">The Council of Europe is issuing a
 125 mln luxembourg franc private placement bond carrying a
 7-1/4 pct coupon and priced at par, lead manager Banque
 Internationale a Luxembourg SA (BIL) said.

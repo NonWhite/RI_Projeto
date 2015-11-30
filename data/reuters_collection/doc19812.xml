@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 14:14:52.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2095reute
-h f BC-AMERICAN-CENTURY-ACT   06-29 0076</field>
-	<field name = "TITLE">AMERICAN CENTURY ACT> COMPLETES FORECLOSURE</field>
+	<field name = "titulo">AMERICAN CENTURY ACT> COMPLETES FORECLOSURE</field>
 	<field name = "DATELINE">SAN ANTONIO, TEXAS, June 29 -</field>
-	<field name = "BODY">American Century Corp said
+	<field name = "content">American Century Corp said
 its Commerce Savings subsidiary received 42.8 mln dlrs from the
 foreclosure of certain properties in Aspen, Colo.
     It said the sum represents the amount Commerce bid for the

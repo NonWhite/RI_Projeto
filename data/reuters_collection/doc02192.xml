@@ -4,12 +4,9 @@
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">F
-f0720reute
-r f BC-CORNING-GLASS-WORKS-   03-05 0094</field>
-	<field name = "TITLE">CORNING GLASS WORKS GLW> UNIT TRANSFERS STOCK</field>
+	<field name = "titulo">CORNING GLASS WORKS GLW> UNIT TRANSFERS STOCK</field>
 	<field name = "DATELINE">CORNING, N.Y., March 5 -</field>
-	<field name = "BODY">Corning Glass Works' subsidiary
+	<field name = "content">Corning Glass Works' subsidiary
 Corning International Corp said it agreed to transfer 55 pct of
 its capital stock of an Argentine glass manufacturer to a
 European group.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 11:12:46.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1353reute
-s f BC-CHICAGO-PACIFIC-CORP   06-01 0024</field>
-	<field name = "TITLE">CHICAGO PACIFIC CORP CPAC.O> REGULAR PAYOUT</field>
+	<field name = "titulo">CHICAGO PACIFIC CORP CPAC.O> REGULAR PAYOUT</field>
 	<field name = "DATELINE">CHICAGO, June 1 -</field>
-	<field name = "BODY">Qtly div five cts vs five cts previously
+	<field name = "content">Qtly div five cts vs five cts previously
     Pay July One
     Record June 15
  Reuter</field>

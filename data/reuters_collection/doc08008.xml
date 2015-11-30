@@ -3,13 +3,10 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2515reute
-h f BC-SEAWAY (PIX-EXPECTED)  03-20 0130</field>
-	<field name = "TITLE">STRIKE THREAT, LOWER TRAFFIC MAR SEAWAY OPENING</field>
+	<field name = "titulo">STRIKE THREAT, LOWER TRAFFIC MAR SEAWAY OPENING</field>
 	<field name = "AUTHOR">By Jane Arraf, Reuters</field>
 	<field name = "DATELINE">MONTREAL, March 20, Reuter -</field>
-	<field name = "BODY">The St. Lawrence Seaway, set
+	<field name = "content">The St. Lawrence Seaway, set
 to reopen March 31 after the winter, faces another tough year
 because of depressed traffic levels and the possibility of the
 first strike in 20 years on the Great Lakes, seaway officials

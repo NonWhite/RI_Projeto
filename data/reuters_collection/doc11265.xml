@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 08:48:55.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0835reute
-r f BC-CITICORP-CCI>-STARTS   03-31 0058</field>
-	<field name = "TITLE">CITICORP CCI> STARTS MONEY TRANSFER SERVICE</field>
+	<field name = "titulo">CITICORP CCI> STARTS MONEY TRANSFER SERVICE</field>
 	<field name = "DATELINE">CHICAGO, March 31 -</field>
-	<field name = "BODY">Citicorp's Citicorp Global Payment
+	<field name = "content">Citicorp's Citicorp Global Payment
 Products subsidiary said it has started nationwide operation of
 its new rapid public money transfer service, Citicorp Express
 Money Service.

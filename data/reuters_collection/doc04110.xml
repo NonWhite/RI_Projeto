@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 07:00:12.59</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f0507reute
-u f BC-BOND-CORP-INTERNATIO   03-12 0095</field>
-	<field name = "TITLE">BOND CORP INTERNATIONAL LTD> NINE MOS TO DEC 31</field>
+	<field name = "titulo">BOND CORP INTERNATIONAL LTD> NINE MOS TO DEC 31</field>
 	<field name = "DATELINE">HONG KONG, March 12 -</field>
-	<field name = "BODY">Shr loss 17.4 H.K. Cents (no comparison)
+	<field name = "content">Shr loss 17.4 H.K. Cents (no comparison)
     Dividend nil (no comparison)
     Net loss 11.49 mln dlrs.
     Notes - Net excluded extraordinary losses 27.91 mln dlrs.

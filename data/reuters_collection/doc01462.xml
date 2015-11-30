@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 10:15:07.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0319reute
-b f BC-OCCIDENTAL-OXY>-SELL   03-04 0082</field>
-	<field name = "TITLE">OCCIDENTAL OXY> SELLS 33 MLN COMMON SHARES</field>
+	<field name = "titulo">OCCIDENTAL OXY> SELLS 33 MLN COMMON SHARES</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Occidental Petroleum Corp said the size
+	<field name = "content">Occidental Petroleum Corp said the size
 of its underwritten offering of common stock was increased to
 33 mln shares from the proposed 30 mln.
     The company said the offering is being made at 30.50 dlrs a

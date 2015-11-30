@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 13:25:49.71</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1838reute
-d f BC-cdc   03-19 0110</field>
-	<field name = "TITLE">CDC MAY SELL FALCONBRIDGE (FALCF) DEBT</field>
+	<field name = "titulo">CDC MAY SELL FALCONBRIDGE (FALCF) DEBT</field>
 	<field name = "DATELINE">TORONTO, March 19 -</field>
-	<field name = "BODY">Canada Development Corp> said it is
+	<field name = "content">Canada Development Corp> said it is
 considering the sale of the 270.8 mln dlrs it holds of
 Falconbridge Ltd's 8.5 pct convertible debentures and of its 25
 pct holding in CDC Life Sciences Inc>.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 07:25:45.57</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f7461reute
-h f BC-JAPAN-TO-ALLOW-MORE-F   03-18 0096</field>
-	<field name = "TITLE">JAPAN TO ALLOW MORE FOREIGN BROKERS AT AUCTIONS</field>
+	<field name = "titulo">JAPAN TO ALLOW MORE FOREIGN BROKERS AT AUCTIONS</field>
 	<field name = "DATELINE">TOKYO, March 17 -</field>
-	<field name = "BODY">The Finance Ministry said it will allow
+	<field name = "content">The Finance Ministry said it will allow
 more foreign brokers to participate in government note auctions
 from April by abolishing a requirement that participants have
 current accounts with the Bank of Japan.

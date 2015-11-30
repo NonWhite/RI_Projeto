@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 19:00:25.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0857reute
-r f BC-UNITED-MEDICAL-UM>-T   03-12 0086</field>
-	<field name = "TITLE">UNITED MEDICAL UM> TO AMEND COVENANTS</field>
+	<field name = "titulo">UNITED MEDICAL UM> TO AMEND COVENANTS</field>
 	<field name = "DATELINE">HADDONFIELD, N.J., March 12 -</field>
-	<field name = "BODY">United Medical Corp said it
+	<field name = "content">United Medical Corp said it
 it has requested a meeting of holders of its Swiss Francs 30
 mln 5-1/8 pct convertible subordinated notes due 1991.
     The meeting has been requested in order to amend the

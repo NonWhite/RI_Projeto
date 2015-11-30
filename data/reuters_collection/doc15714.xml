@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 12:22:10.55</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1625reute
-r f BC-FIRST-FEDERAL-OF-MICH   04-09 0028</field>
-	<field name = "TITLE">FIRST FEDERAL OF MICHIGAN FFOM> 1ST QTR NET</field>
+	<field name = "titulo">FIRST FEDERAL OF MICHIGAN FFOM> 1ST QTR NET</field>
 	<field name = "DATELINE">DETROIT, April 9 -</field>
-	<field name = "BODY">Shr 3.33 dlrs vs 3.39 dlrs
+	<field name = "content">Shr 3.33 dlrs vs 3.39 dlrs
     Net 37,069,000 vs 36,902,000
     Avg shrs 10.95 mln vs 10.05 mln
  Reuter</field>

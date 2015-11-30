@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">RM A
-f0663reute
-r f BC-venezuelan-president   03-12 0113</field>
-	<field name = "TITLE">VENEZUELAN PRESIDENT DEFENDS REFINANCING ACCORD</field>
+	<field name = "titulo">VENEZUELAN PRESIDENT DEFENDS REFINANCING ACCORD</field>
 	<field name = "DATELINE">Caracas, march 12 -</field>
-	<field name = "BODY">president jaime lusinchi defended the
+	<field name = "content">president jaime lusinchi defended the
 20.3 billion dlr debt rescheduling accord his government
 recently signed, saying it will open new credit flows and bring
 needed foreign investment to venezuela.

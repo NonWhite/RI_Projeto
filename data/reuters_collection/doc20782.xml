@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 17:37:50.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A 
-f3424reute
-r f BC-FIRST-REPUBLICBANK-F   10-20 0105</field>
-	<field name = "TITLE">FIRST REPUBLICBANK FRB> TROUBLED LOANS RISE</field>
+	<field name = "titulo">FIRST REPUBLICBANK FRB> TROUBLED LOANS RISE</field>
 	<field name = "DATELINE">DALLAS, Oct 20 -</field>
-	<field name = "BODY">First RepublicBank Corp, the largest bank
+	<field name = "content">First RepublicBank Corp, the largest bank
 holding company in Texas, reported a loss of 6.3 mln dlrs for
 the third quarter and said that its non-performing loans rose
 sharply because of a further deterioration in Texas's real

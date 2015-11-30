@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F RM
-f2632reute
-r f BC-EC-OFFICIAL-FAULTS-U.   03-19 0101</field>
-	<field name = "TITLE">EC OFFICIAL FAULTS U.S. TRADE BILL</field>
+	<field name = "titulo">EC OFFICIAL FAULTS U.S. TRADE BILL</field>
 	<field name = "DATELINE">LOS ANGELES, March 19 -</field>
-	<field name = "BODY">Sir Roy Denman, Head of the EC
+	<field name = "content">Sir Roy Denman, Head of the EC
 Delegation in Washington, said pending U.S. trade legislation
 is a misguided attempt to deal with the nation's trade deficit
 and will spark retaliation if passed in its present form.

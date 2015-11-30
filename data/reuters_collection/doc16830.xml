@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 10:10:37.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0235reute
-r f BC-JEFFERSON-BANK-JFFN.   04-17 0100</field>
-	<field name = "TITLE">JEFFERSON BANK JFFN.O> TO MAKE RIGHTS OFFERING</field>
+	<field name = "titulo">JEFFERSON BANK JFFN.O> TO MAKE RIGHTS OFFERING</field>
 	<field name = "DATELINE">PHILADELPHIA, April 17 -</field>
-	<field name = "BODY">Jefferson Bank said it plans to
+	<field name = "content">Jefferson Bank said it plans to
 offer shareholders the right to purchase additional common
 shares at 80 pct of the closing bid price per share on the date
 the offering starts, subject to a minimum of 9.25 dlrs per

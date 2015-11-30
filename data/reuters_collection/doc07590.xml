@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 07:11:16.64</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f0425reute
-b f BC-embargoed-0700edt****   03-20 0057</field>
-	<field name = "TITLE">CANADA FEBRUARY CONSUMER PRICES UP 0.4 PCT</field>
+	<field name = "titulo">CANADA FEBRUARY CONSUMER PRICES UP 0.4 PCT</field>
 	<field name = "DATELINE">OTTAWA, March 20 -</field>
-	<field name = "BODY">The Canadian consumer price index rose
+	<field name = "content">The Canadian consumer price index rose
 0.4 pct in February, to 135.8, base 1981, compared with a 0.2
 pct rise in January and a 0.4 pct rise in February last year,
 Statistics Canada said.

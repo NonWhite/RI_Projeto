@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 07:52:14.68</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f0616reute
-u f BC-NO-PROOF-OF-MORE-CHER   03-24 0115</field>
-	<field name = "TITLE">NO PROOF OF MORE CHERNOBYL GRAIN DAMAGE-DIPLOMATS</field>
+	<field name = "titulo">NO PROOF OF MORE CHERNOBYL GRAIN DAMAGE-DIPLOMATS</field>
 	<field name = "DATELINE">MOSCOW, March 24 -</field>
-	<field name = "BODY">Western agricultural attaches in Moscow
+	<field name = "content">Western agricultural attaches in Moscow
 said they had no evidence to substantiate rumours that last
 April's Chernobyl nuclear disaster had a worse effect on Soviet
 grain than first reported.

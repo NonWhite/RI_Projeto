@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 15:40:22.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2172reute
-r f BC-SEARS-S>-MERCHANDISE   04-03 0109</field>
-	<field name = "TITLE">SEARS S> MERCHANDISE PLANS HIGHER SPENDING</field>
+	<field name = "titulo">SEARS S> MERCHANDISE PLANS HIGHER SPENDING</field>
 	<field name = "DATELINE">CHICAGO, April 3 -</field>
-	<field name = "BODY">Sears, Roebuck and Co said in its
+	<field name = "content">Sears, Roebuck and Co said in its
 annual report that its Merchandise Group plans 1987 capital
 expenditures of 355 mln dlrs, up from 280.4 mln dlrs in 1986.
    It said about 131 mln dlrs will be used for 32 new and

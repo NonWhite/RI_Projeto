@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 16:39:14.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0943reute
-d f AM-ENERGY   03-03 0108</field>
-	<field name = "TITLE">CONGRESS PASSES APPLIANCE STANDARD BILL</field>
+	<field name = "titulo">CONGRESS PASSES APPLIANCE STANDARD BILL</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">Congress passed and sent to President
+	<field name = "content">Congress passed and sent to President
 Reagan a bill that sets energy efficiency standards for major
 household appliances such as refrigerators, air conditioners,
 washers and dryers and furnances.

@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:02:05.60F</field>
-	<field name = "UNKNOWN">f0469reute</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "EXCHANGES">fse</field>
-	<field name = "UNKNOWN">r f BC-GERMAN-STOCKS-SYSTEM   03-27 0120</field>
-	<field name = "TITLE">GERMAN STOCKS SYSTEM SHOULD DEVELOP ALONGSIDE CITY</field>
+	<field name = "titulo">GERMAN STOCKS SYSTEM SHOULD DEVELOP ALONGSIDE CITY</field>
 	<field name = "DATELINE">FRANKFURT, March 27 -</field>
-	<field name = "BODY">The German auction system of shares
+	<field name = "content">The German auction system of shares
 trading, retaining the business floor, can develop in parallel
 to off-floor computer trading introduced in London in the "Big
 Bang," Frankfurt stock exchange president Michael Hauck said.

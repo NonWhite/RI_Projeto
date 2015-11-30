@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 10:03:41.07</field>
-	<field name = "UNKNOWN">RM V 
-f1029reute
-b f BC-/U.S.-HOME-SALES-FELL   06-29 0095</field>
-	<field name = "TITLE">U.S. HOME SALES FELL 14.9 PCT IN MAY</field>
+	<field name = "titulo">U.S. HOME SALES FELL 14.9 PCT IN MAY</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">Sales of new, single-family homes
+	<field name = "content">Sales of new, single-family homes
 fell 14.9 pct in May from April to a seasonally adjusted annual
 rate of 616,000 units, the Commerce Department said.
     The department revised April sales downward to show a 1.0

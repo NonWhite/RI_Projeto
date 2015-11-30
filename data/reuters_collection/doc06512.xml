@@ -10,12 +10,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">greece</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">G
-f8087reute
-u f BC-CEREALS-MCAS-TO-BE-UN   03-18 0081</field>
-	<field name = "TITLE">CEREALS MCAS TO BE UNCHANGED NEXT WEEK</field>
+	<field name = "titulo">CEREALS MCAS TO BE UNCHANGED NEXT WEEK</field>
 	<field name = "DATELINE">BRUSSELS, March 18 -</field>
-	<field name = "BODY">Monetary compensatory amounts (mcas)
+	<field name = "content">Monetary compensatory amounts (mcas)
 for cereals will be unchanged for the week starting March 23,
 European Commission officials said.
     Cereals mcas are plus 2.4 points for West Germany and the

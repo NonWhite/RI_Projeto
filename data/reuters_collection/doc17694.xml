@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 14:02:24.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1976reute
-r f BC-ROONEY-QUITS-AS-SERVI   06-01 0102</field>
-	<field name = "TITLE">ROONEY QUITS AS SERVICE RESOURCES SRC>UNIT HEAD</field>
+	<field name = "titulo">ROONEY QUITS AS SERVICE RESOURCES SRC>UNIT HEAD</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Service Resources Corp said Patrick J.
+	<field name = "content">Service Resources Corp said Patrick J.
 Rooney has resigned as chairman and chief executive officer of
 its Chas. P. Young subsidiary to devote more time to his posts
 as chairman and chief executive of the parent company.

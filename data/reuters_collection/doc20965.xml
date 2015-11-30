@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 16:08:24.69</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F 
-f2999reute
-b f BC-PACIFIC-STOCK-EXCHANG   10-19 0070</field>
-	<field name = "TITLE">PACIFIC STOCK EXCHANGE TO CLOSE EARLY</field>
+	<field name = "titulo">PACIFIC STOCK EXCHANGE TO CLOSE EARLY</field>
 	<field name = "DATELINE">SAN FRANCISCO, Oct 19 -</field>
-	<field name = "BODY">The Pacific Stock Exchange said it
+	<field name = "content">The Pacific Stock Exchange said it
 plans to close at 1300 pdt rather than at its normal closing
 time of 1330 pdt because of the extraordinary volume of
 transactions.

@@ -2,13 +2,10 @@
 	<field name = "DATE">4-MAR-1987 16:27:27.59</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0767reute
-u f BC-VIACOM-VIA>-MERGER-E   03-04 0103</field>
-	<field name = "TITLE">VIACOM VIA> MERGER EXPECTED IN 60 TO 90 DAYS</field>
+	<field name = "titulo">VIACOM VIA> MERGER EXPECTED IN 60 TO 90 DAYS</field>
 	<field name = "AUTHOR">By Cal Mankowski, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Sumner Redstone, president of National
+	<field name = "content">Sumner Redstone, president of National
 Amusements, Inc, predicted he can win regulatory approvals to
 wrap up the 3.4 billion dlr acquisition of Viacom International
 Inc in 60 to 90 days.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:18:56.81</field>
-	<field name = "UNKNOWN">C G
-f0575reute
-r f BC-six/ten-day-weather   04-07 0118</field>
-	<field name = "TITLE">U.S. SIX TO TEN DAY WEATHER OUTLOOK</field>
+	<field name = "titulo">U.S. SIX TO TEN DAY WEATHER OUTLOOK</field>
 	<field name = "DATELINE">Kansas City, April 7 -</field>
-	<field name = "BODY">The National Weather service six to
+	<field name = "content">The National Weather service six to
 ten day outlook for Sunday, April 12, through Thursday, April
 16, calls for temperatures to average below normal from the
 southern Plateau east southeastward through Texas.

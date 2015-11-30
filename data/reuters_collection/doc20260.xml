@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 10:42:36.41</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">tanzania</field>
-	<field name = "UNKNOWN">C T G 
-f1361reute
-d f BC-NEW-CONTAINER-CRANES   10-20 0107</field>
-	<field name = "TITLE">NEW CONTAINER CRANES ARRIVE AT TANZANIA PORT</field>
+	<field name = "titulo">NEW CONTAINER CRANES ARRIVE AT TANZANIA PORT</field>
 	<field name = "DATELINE">DAR ES SALAAM, Oct 20 -</field>
-	<field name = "BODY">Two large container cranes donated
+	<field name = "content">Two large container cranes donated
 by the Danish International Development Agency (DANIDA) have
 arrived in Dar es Salaam where they will help to increase the
 port's cargo handling capacity, port officials said.

@@ -3,12 +3,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">F
-f0610reute
-r f BC-LUFTHANSA-LAUNCHES-FL   04-01 0111</field>
-	<field name = "TITLE">LUFTHANSA LAUNCHES FLIGHTS TO WASHINGTON, RIYADH</field>
+	<field name = "titulo">LUFTHANSA LAUNCHES FLIGHTS TO WASHINGTON, RIYADH</field>
 	<field name = "DATELINE">FRANKFURT, April 1 -</field>
-	<field name = "BODY">Deutsche Lufthansa AG LHAG.F> said it
+	<field name = "content">Deutsche Lufthansa AG LHAG.F> said it
 launched today regular scheduled services from Frankfurt to
 Washington D.C. And Riyadh.
     The four weekly flights to Washington will be increased to

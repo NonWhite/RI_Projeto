@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 14:46:26.98</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2138reute
-d f BC-OLD-STONE-OSTN>-COMP   04-01 0108</field>
-	<field name = "TITLE">OLD STONE OSTN> COMPLETES ACQUISITION</field>
+	<field name = "titulo">OLD STONE OSTN> COMPLETES ACQUISITION</field>
 	<field name = "DATELINE">PROVIDENCE, R.I., April 1 -</field>
-	<field name = "BODY">Old Stone Corp said it
+	<field name = "content">Old Stone Corp said it
 completed the previously announced acquisition of First Federal
 Savings Bank of North Carolina, a Shelby, N.C., savings bank,
 for common stock.

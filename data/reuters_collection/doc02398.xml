@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 15:33:52.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0614reute
-d f BC-GM-GM>-TO-OFFER-AIRB   03-05 0111</field>
-	<field name = "TITLE">GM GM> TO OFFER AIRBAGS, WANTS RULES RELAXED</field>
+	<field name = "titulo">GM GM> TO OFFER AIRBAGS, WANTS RULES RELAXED</field>
 	<field name = "DATELINE">DETROIT, March 5 -</field>
-	<field name = "BODY">General Motors Corp said it plans to
+	<field name = "content">General Motors Corp said it plans to
 offer driver-side airbags as standard equipment on 500,000  
 cars in the 1990 model year and up to three mln by 1992 if a
 federal safety rule is relaxed for domestic automakers.

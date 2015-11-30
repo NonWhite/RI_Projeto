@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">mexico</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">C G L M T
-f1347reute
-d f AM-DRUGS-MEXICO   04-03 0134</field>
-	<field name = "TITLE">U.S. SENATE DEFEATS MOVE TO CUT MEXICO AID</field>
+	<field name = "titulo">U.S. SENATE DEFEATS MOVE TO CUT MEXICO AID</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The Democratic-controlled U.S. Senate
+	<field name = "content">The Democratic-controlled U.S. Senate
 sided with President Reagan and defeated an attempt to cut U.S.
 aid to Mexico as a protest it is failing to cooperate fully
 with the American war against drugs.

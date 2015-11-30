@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 16:43:06.45</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0852reute
-u f BC-ARMTEK-ARM>-SELLS-TI   03-05 0097</field>
-	<field name = "TITLE">ARMTEK ARM> SELLS TIRE, TRUCK TIRE BUSINESS</field>
+	<field name = "titulo">ARMTEK ARM> SELLS TIRE, TRUCK TIRE BUSINESS</field>
 	<field name = "DATELINE">NEW HAVEN, March 5 -</field>
-	<field name = "BODY">Armtek Corp, formerly known as
+	<field name = "content">Armtek Corp, formerly known as
 Armstrong Rubber Co, said it signed agreements with Condere
 Corp> for the sale of its Natchez, Miss. tire plant and its S
 and A Truck Tire Sales and Services Corp.

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 16:13:38.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2348reute
-u f BC-UAL-UAL>-SURROUNDED   03-25 0091</field>
-	<field name = "TITLE">UAL UAL> SURROUNDED BY TAKEOVER SPECULATION</field>
+	<field name = "titulo">UAL UAL> SURROUNDED BY TAKEOVER SPECULATION</field>
 	<field name = "AUTHOR">By Patti Domm</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">UAL Inc's diversification into hotels
+	<field name = "content">UAL Inc's diversification into hotels
 and rental cars may be its downfall, analysts said.
     Digesting its acquisitions of hotels, Pan Am Corp's Pacific
 air routes, and Hertz rental cars, combined with stiff air fare

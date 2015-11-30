@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 16:26:26.96</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0052
-reute
-r f BC-WHITEHALL-CORP-WHT>   03-02 0040</field>
-	<field name = "TITLE">WHITEHALL CORP WHT> 4TH QTR NET</field>
+	<field name = "titulo">WHITEHALL CORP WHT> 4TH QTR NET</field>
 	<field name = "DATELINE">DALLAS, March 2 -</field>
-	<field name = "BODY">Shr 15 cts vs 55 cts
+	<field name = "content">Shr 15 cts vs 55 cts
     Net 557,000 vs 2,020,000
     Revs 8,872,000 vs 13,908,000
     Year

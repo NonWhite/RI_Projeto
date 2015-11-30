@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PEOPLE">lyng</field>
-	<field name = "UNKNOWN">C G
-f1515reute
-b f BC-/LYNG-HAS-NO-COMMENT   03-31 0131</field>
-	<field name = "TITLE">LYNG HAS NO COMMENT ON WHEAT SUBSIDY TO SOVIETS</field>
+	<field name = "titulo">LYNG HAS NO COMMENT ON WHEAT SUBSIDY TO SOVIETS</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">U.S. Agriculture Secretary Richard
+	<field name = "content">U.S. Agriculture Secretary Richard
 Lyng declined to confirm statements made today by a farm state
 congressman that the United States will offer subsidized wheat
 to the Soviet Union within the next 10 days to two weeks.

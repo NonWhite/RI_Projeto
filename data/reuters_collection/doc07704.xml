@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 10:37:16.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f1082reute
-b f BC-MORGAN-GUARANTY-SELLS   03-20 0110</field>
-	<field name = "TITLE">MORGAN GUARANTY SELLS FIRST REPACKAGED PERPETUAL</field>
+	<field name = "titulo">MORGAN GUARANTY SELLS FIRST REPACKAGED PERPETUAL</field>
 	<field name = "DATELINE">LONDON, March 20 -</field>
-	<field name = "BODY">Morgan Guaranty Ltd, through a special
+	<field name = "content">Morgan Guaranty Ltd, through a special
 financing subsidiary, said it is issuing the first repackaging
 of perpetual floating rate notes, consisting of a repackaging
 of an outstanding WestPac Banking Corp security.

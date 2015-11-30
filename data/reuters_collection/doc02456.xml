@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:25:13.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0788reute
-d f BC-GEN-DYNAMICS-GD>-GET   03-05 0035</field>
-	<field name = "TITLE">GEN DYNAMICS GD> GETS AIR FORCE CONTRACTS</field>
+	<field name = "titulo">GEN DYNAMICS GD> GETS AIR FORCE CONTRACTS</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">General Dynamics Corp has received
+	<field name = "content">General Dynamics Corp has received
 two contracts totaling 29.2 mln dlrs for upgrade and retrofit
 work on F-16A/B aircraft, the Air Force said.
  REUTER</field>

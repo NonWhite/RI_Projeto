@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 16:44:54.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F
-f2461reute
-b f BC-MOODY'S-REVIEWS-HOSPI   06-01 0116</field>
-	<field name = "TITLE">MOODY'S REVIEWS HOSPITAL CORP HCA> DEBT</field>
+	<field name = "titulo">MOODY'S REVIEWS HOSPITAL CORP HCA> DEBT</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 put Hospital Corp of America's nearly three billion dlrs of
 long-term debt under review with uncertain direction.
     Under review are the A-2 senior debt, A-3 convertible

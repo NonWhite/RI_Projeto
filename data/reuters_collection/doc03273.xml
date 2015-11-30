@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 13:41:42.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0212reute
-r f BC-FLYING-TIGERS-TGR>-A   03-09 0048</field>
-	<field name = "TITLE">FLYING TIGERS TGR> ADDS AIR CARGO ROUTES</field>
+	<field name = "titulo">FLYING TIGERS TGR> ADDS AIR CARGO ROUTES</field>
 	<field name = "DATELINE">LOS ANGELES, March 9 -</field>
-	<field name = "BODY">Flying Tigers said it has expanded
+	<field name = "content">Flying Tigers said it has expanded
 its air cargo routes to include Asia-to-Europe jetfreighter
 flights.
     The company also said it is launching a jetfreighter

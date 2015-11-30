@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V RM
-f2147reute
-u f BC-/BALDRIGE-SAYS-U.S.-T   03-31 0096</field>
-	<field name = "TITLE">BALDRIGE SAYS U.S. TO IMPOSE JAPANESE SANCTIONS</field>
+	<field name = "titulo">BALDRIGE SAYS U.S. TO IMPOSE JAPANESE SANCTIONS</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Commerce Secretary Malcolm Baldrige
+	<field name = "content">Commerce Secretary Malcolm Baldrige
 said the United States would go ahead with planned 300 mln dlr
 sanctions against Japanese semiconductor exports, despite any
 U.S. Japanese talks to avert the trade curbs.

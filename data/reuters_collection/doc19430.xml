@@ -3,12 +3,9 @@
 	<field name = "TOPICS">zinc</field>
 	<field name = "TOPICS">lead</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">C M 
-f2351reute
-u f BC-/NORANDA-BRUNSWICK-MI   06-19 0137</field>
-	<field name = "TITLE">NORANDA BRUNSWICK MINERS VOTE MONDAY ON CONTRACT</field>
+	<field name = "titulo">NORANDA BRUNSWICK MINERS VOTE MONDAY ON CONTRACT</field>
 	<field name = "DATELINE">TORONTO, June 19 -</field>
-	<field name = "BODY">Noranda Inc said 1,100 unionized workers
+	<field name = "content">Noranda Inc said 1,100 unionized workers
 at its 63 pct-owned Brunswick Mining and Smelter Corp lead-zinc
 mine in New Brunswick would start voting Monday on a tentative
 contract pact.

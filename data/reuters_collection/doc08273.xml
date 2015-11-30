@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 10:22:53.13</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f1061reute
-u f BC-WESTLB-RAISES-AUSTRAL   03-23 0092</field>
-	<field name = "TITLE">WESTLB RAISES AUSTRALIAN DLR BOND TO 75 MLN</field>
+	<field name = "titulo">WESTLB RAISES AUSTRALIAN DLR BOND TO 75 MLN</field>
 	<field name = "DATELINE">DUESSELDORF, March 23 -</field>
-	<field name = "BODY">Westdeutsche Landesbank
+	<field name = "content">Westdeutsche Landesbank
 Girozentrale (WestLB said it is raising the amount of a 14-3/8
 pct five-year bullet Australian dlr eurobond, priced at
 101-1/2, to 75 mln dlrs from 50 mln.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:45:30.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4288reute
-u f BC-FIRST-WISCONSIN-FWB>   06-18 0067</field>
-	<field name = "TITLE">FIRST WISCONSIN FWB> TO SELL BUILDING FOR GAIN</field>
+	<field name = "titulo">FIRST WISCONSIN FWB> TO SELL BUILDING FOR GAIN</field>
 	<field name = "DATELINE">MILWAUKEE, June 18 -</field>
-	<field name = "BODY">First Wisconsin Corp said it has
+	<field name = "content">First Wisconsin Corp said it has
 agreed to sell its First Wisconsin Center in Milwaukee and
 adjacent property to Trammell Crow Co for 195 mln dlrs,
 resulting in a gain of 77 mln dlrs after tax.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0341reute
-b f BC-JAPAN-MINISTRY-ASKS-T   04-02 0090</field>
-	<field name = "TITLE">JAPAN MINISTRY ASKS TRUST BANKS TO CUT DLR SALES</field>
+	<field name = "titulo">JAPAN MINISTRY ASKS TRUST BANKS TO CUT DLR SALES</field>
 	<field name = "DATELINE">TOKYO, April 2 -</field>
-	<field name = "BODY">The Finance Ministry has asked trust banks
+	<field name = "content">The Finance Ministry has asked trust banks
 to moderate their dollar selling, trust banking sources said.
     A Ministry official told Reuters earlier this week the
 Ministry had recently surveyed foreign exchange transactions by

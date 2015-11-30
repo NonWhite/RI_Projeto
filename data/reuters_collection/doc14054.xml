@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">V RM
-f1207reute
-b f BC-VOLCKER-SEES-TIGHT-PO   04-07 0076</field>
-	<field name = "TITLE">VOLCKER SEES TIGHT POLICY HURTING INVESTMENT</field>
+	<field name = "titulo">VOLCKER SEES TIGHT POLICY HURTING INVESTMENT</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Federal Reserve Board Chairman Paul
+	<field name = "content">Federal Reserve Board Chairman Paul
 Volcker said a restrictive monetary policy would be damaging to
 investment and that a better course would be to restrain
 spending.

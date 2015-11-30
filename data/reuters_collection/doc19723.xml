@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:23:36.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1680reute
-r f BC-APOLLO-APCI.O>-CUTS   06-29 0101</field>
-	<field name = "TITLE">APOLLO APCI.O> CUTS WORKSTATION PRICES</field>
+	<field name = "titulo">APOLLO APCI.O> CUTS WORKSTATION PRICES</field>
 	<field name = "DATELINE">BOSTON, June 29 -</field>
-	<field name = "BODY">Apollo Computer Inc said the price cuts
+	<field name = "content">Apollo Computer Inc said the price cuts
 announced earlier today on its Domain Series 3000 computer
 workstations average 35 pct to 50 pct.
     An Apollo spokesman said the cuts bring prices to under

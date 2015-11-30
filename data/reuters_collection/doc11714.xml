@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 17:05:01.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2728reute
-r f BC-INTERNATIONAL-PAPER-   03-31 0083</field>
-	<field name = "TITLE">INTERNATIONAL PAPER IP> LOWERS SPENDING</field>
+	<field name = "titulo">INTERNATIONAL PAPER IP> LOWERS SPENDING</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">International Paper Co said spending
+	<field name = "content">International Paper Co said spending
 for 1987 is forecast to be about 550 mln dlrs compared to 567
 mln dlrs in 1986, excluding the 1.1 billion dlrs acquisition of
 Hamermill Paper Co, according to the company's annual report.

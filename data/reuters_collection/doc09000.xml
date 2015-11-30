@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 15:59:17.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2412reute
-u f BC-ADVANCED-MAGNETICS-A   03-24 0066</field>
-	<field name = "TITLE">ADVANCED MAGNETICS ADMG> IN AGREEMENT</field>
+	<field name = "titulo">ADVANCED MAGNETICS ADMG> IN AGREEMENT</field>
 	<field name = "DATELINE">CAMBRIDGE, Mass., March 24 -</field>
-	<field name = "BODY">Advanced Magnetics Inc said it
+	<field name = "content">Advanced Magnetics Inc said it
 reached a four mln dlrs research and development agreement with
 ML TEchnolgy Ventures LP, a limited partnership sponsored by
 Merrill LYnch Capital Markets.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 09:29:14.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F E
-f0965reute
-r f BC-CORVUS-CRVS>-IN-DEAL   03-31 0112</field>
-	<field name = "TITLE">CORVUS CRVS> IN DEAL WITH BELL CANADA BCE></field>
+	<field name = "titulo">CORVUS CRVS> IN DEAL WITH BELL CANADA BCE></field>
 	<field name = "DATELINE">SAN JOSE, Calif., March 31 -</field>
-	<field name = "BODY">Corvus Systems Inc said it has
+	<field name = "content">Corvus Systems Inc said it has
 rached an agreement to sell networking products for personal
 computers to Bell Canada Enterprises Inc.
     It said Bell Canada will remarket the products as part of

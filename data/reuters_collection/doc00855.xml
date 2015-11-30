@@ -5,13 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PEOPLE">lyng</field>
-	<field name = "UNKNOWN">C G
-f0318
-reute
-u f BC-USSR-WHEAT-BONUS-RUMO   03-02 0131</field>
-	<field name = "TITLE">USSR WHEAT BONUS RUMORS PERSIST DESPITE DENIALS</field>
+	<field name = "titulo">USSR WHEAT BONUS RUMORS PERSIST DESPITE DENIALS</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">Grain trade representatives continued
+	<field name = "content">Grain trade representatives continued
 to speculate that the Reagan administration will offer
 subsidized wheat to the Soviet Union, while U.S. Agriculture
 Department officials said there was no substance to the

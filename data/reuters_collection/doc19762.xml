@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 13:10:12.85</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1864reute
-d f BC-CYCARE-CYCR.O>-BUYS   06-29 0056</field>
-	<field name = "TITLE">CYCARE CYCR.O> BUYS CONTROL DATA CAD> UNIT</field>
+	<field name = "titulo">CYCARE CYCR.O> BUYS CONTROL DATA CAD> UNIT</field>
 	<field name = "DATELINE">PHOENIX, Ariz., June 29 -</field>
-	<field name = "BODY">Cycare Systems Inc, an
+	<field name = "content">Cycare Systems Inc, an
 information processing systems company, said it purchased the
 assets of Control Data Corp's MedTec unit for undisclosed
 terms.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C T
-f0294reute
-u f BC-EC-SUGAR-TENDER-SEEN   04-09 0083</field>
-	<field name = "TITLE">EC SUGAR TENDER SEEN MARKING NO CHANGE IN POLICY</field>
+	<field name = "titulo">EC SUGAR TENDER SEEN MARKING NO CHANGE IN POLICY</field>
 	<field name = "DATELINE">BRUSSELS, April 9 -</field>
-	<field name = "BODY">The maximum export rebate granted at
+	<field name = "content">The maximum export rebate granted at
 yesterday's EC sugar tender marked no change in policy over
 producer complaints that they are not obtaining the EC
 intervention price in exporting sugar outside the Community, EC

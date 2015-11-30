@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 13:24:01.33</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">Y
-f0148reute
-u f BC-IC-GAS-MAKES-NO-RECOM   03-09 0101</field>
-	<field name = "TITLE">IC GAS MAKES NO RECOMMENDATION ON TRACTEBEL OFFER</field>
+	<field name = "titulo">IC GAS MAKES NO RECOMMENDATION ON TRACTEBEL OFFER</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">Imperial Continental Gas Association
+	<field name = "content">Imperial Continental Gas Association
 ICGS.L>, IC Gas, said its board is not making a recommendation
 on the partial tender offfer at 710p per share announced by
 Tractebel SA> and Groupe Bruxelles Lambert SA>.

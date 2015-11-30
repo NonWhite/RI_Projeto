@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 08:46:08.05</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">A
-f0901reute
-r f BC-VENEZUELA-REVEALS-DEB   03-09 0113</field>
-	<field name = "TITLE">VENEZUELA REVEALS DEBT PAYMENT SCHEDULE DETAILS</field>
+	<field name = "titulo">VENEZUELA REVEALS DEBT PAYMENT SCHEDULE DETAILS</field>
 	<field name = "DATELINE">CARACAS, March 8 -</field>
-	<field name = "BODY">The 20.3 billion dlr debt rescheduling
+	<field name = "content">The 20.3 billion dlr debt rescheduling
 accord Venezuela signed a week ago will reduce its payments
 over the next three years by 64 pct, according to Finance
 Ministry figures released this weekend.

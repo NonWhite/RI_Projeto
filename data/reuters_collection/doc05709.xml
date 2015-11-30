@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">icahn</field>
-	<field name = "UNKNOWN">F
-f3662reute
-b f BC-ICAHN   03-16 0072</field>
-	<field name = "TITLE">ICAHN SAYS HE IS TARGET OF SEC INVESTIGATION</field>
+	<field name = "titulo">ICAHN SAYS HE IS TARGET OF SEC INVESTIGATION</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">Corporate raider Carl Icahn
+	<field name = "content">Corporate raider Carl Icahn
 acknowledged that he is one of the targets of an investigation
 by the Securities and Exchange Commission into possible
 violations of securities laws.

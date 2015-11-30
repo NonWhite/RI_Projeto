@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">austria</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">V 
-f0520reute
-b f BC-EXTRACTS-FROM-OPEC-CO   06-29 0112</field>
-	<field name = "TITLE">EXTRACTS FROM OPEC COMMUNIQUE</field>
+	<field name = "titulo">EXTRACTS FROM OPEC COMMUNIQUE</field>
 	<field name = "DATELINE">VIENNA, June 29 -</field>
-	<field name = "BODY">Following are extracts from the
+	<field name = "content">Following are extracts from the
 communique issued at the conclusion of the OPEC conference
 here.
     "The conference expressed satisfaction about the positive

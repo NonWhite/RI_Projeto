@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 16:09:17.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V
-f2475reute
-u f BC-/U.S.-ONE-YEAR-BILL-Y   04-09 0092</field>
-	<field name = "TITLE">U.S. ONE-YEAR BILL YIELDS RATE OF 5.92 PCT</field>
+	<field name = "titulo">U.S. ONE-YEAR BILL YIELDS RATE OF 5.92 PCT</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Treasury said its auction of
+	<field name = "content">The U.S. Treasury said its auction of
 9.76 billion dlrs of 52-week bills produced an average rate of
 5.92 pct.
     The rate was up from 5.68 pct at the last auction of

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 16:00:55.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2222reute
-u f BC-MELLON-MEC>-SUED-BY   04-03 0070</field>
-	<field name = "TITLE">MELLON MEC> SUED BY SHAREHOLDER</field>
+	<field name = "titulo">MELLON MEC> SUED BY SHAREHOLDER</field>
 	<field name = "DATELINE">PHILADELPHIA, April 3 -</field>
-	<field name = "BODY">Mellon Bank Corp said a shareholder
+	<field name = "content">Mellon Bank Corp said a shareholder
 filed a class action suit in Philadelphia in light of the
 precipitous decline in Mellon's stock on the New York Stock
 Exchange.

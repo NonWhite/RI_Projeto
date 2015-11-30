@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 15:42:29.51</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0928
-reute
-r f BC-INT'L-MINERALS-IGL>   03-02 0076</field>
-	<field name = "TITLE">INT'L MINERALS IGL> BUYS ANIMAL PRODUCTS UNIT</field>
+	<field name = "titulo">INT'L MINERALS IGL> BUYS ANIMAL PRODUCTS UNIT</field>
 	<field name = "DATELINE">NORTHBROOK, Ill., March 2 -</field>
-	<field name = "BODY">International Minerals and
+	<field name = "content">International Minerals and
 Chemical Corp said it completed its acquisition of Johnson and
 Johnson Co's Pitman-Moore unit, a producer of animal health
 products.

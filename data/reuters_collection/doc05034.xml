@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 15:52:33.91</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E RM
-f0336reute
-r f BC-bcresources   03-13 0102</field>
-	<field name = "TITLE">B.C. RESOURCES HAS NEW 360 MLN DLR CREDIT LINE</field>
+	<field name = "titulo">B.C. RESOURCES HAS NEW 360 MLN DLR CREDIT LINE</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, March 13 -</field>
-	<field name = "BODY">British Columbia
+	<field name = "content">British Columbia
 Resources Investment Corp said it successfully concluded
 refinancing negotiations with bankers for a new 360 mln dlr
 restructured credit facility.

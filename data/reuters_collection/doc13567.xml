@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:45:25.11</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0485reute
-r f BC-MOULINEX-NOMINATES-NE   04-07 0100</field>
-	<field name = "TITLE">MOULINEX NOMINATES NEW GENERAL MANAGER</field>
+	<field name = "titulo">MOULINEX NOMINATES NEW GENERAL MANAGER</field>
 	<field name = "DATELINE">PARIS, April 7 -</field>
-	<field name = "BODY">Electrical appliance maker Moulinex
+	<field name = "content">Electrical appliance maker Moulinex
 MOUP.PA> said industrial director Roland Darneau had been
 nominated as general manager of the group.
     Darneau's appointment, if confirmed by the Moulinex board

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 21:50:50.68</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">F
-f2898reute
-u f BC-INDIAN-ROCKET-LAUNCH   03-24 0082</field>
-	<field name = "TITLE">INDIAN ROCKET LAUNCH FAILS</field>
+	<field name = "titulo">INDIAN ROCKET LAUNCH FAILS</field>
 	<field name = "DATELINE">NEW DELHI, March 25 -</field>
-	<field name = "BODY">India's first intercontinental-range
+	<field name = "content">India's first intercontinental-range
 rocket fell into the Bay of Bengal two minutes after launch
 yesterday.
     "Disaster struck the Indian space program today," the Press

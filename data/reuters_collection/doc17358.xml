@@ -3,13 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">F Y RM
-f2948reute
-u f BC-OILPATCH-EXECUTIVES-S   04-28 0095</field>
-	<field name = "TITLE">DECLINE IN U.S. DOLLAR MAY BOOST OPEC OIL PRICE</field>
+	<field name = "titulo">DECLINE IN U.S. DOLLAR MAY BOOST OPEC OIL PRICE</field>
 	<field name = "AUTHOR">By JULIE VORMAN, Reuters</field>
 	<field name = "DATELINE">HOUSTON, April 28 -</field>
-	<field name = "BODY">The sliding value of the U.S. dollar
+	<field name = "content">The sliding value of the U.S. dollar
 may soon force the Organization of Petroleum Exporting
 Countries to raise its oil benchmark price, setting the stage
 for prices as high as 22 dlrs a barrel by yearend, top

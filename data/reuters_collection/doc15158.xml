@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:11:43.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1887reute
-d f BC-PUBLIC-SERVICE-COLORA   04-08 0088</field>
-	<field name = "TITLE">PUBLIC SERVICE COLORADO PSR> IN SETTLEMENT</field>
+	<field name = "titulo">PUBLIC SERVICE COLORADO PSR> IN SETTLEMENT</field>
 	<field name = "DATELINE">DENVER, April 8 -</field>
-	<field name = "BODY">Public Service Co of Colorado said it has
+	<field name = "content">Public Service Co of Colorado said it has
 reached a preliminary agreement to resolve a territorial
 dispute with Union Rural Electric Association of Brighton,
 Colo.

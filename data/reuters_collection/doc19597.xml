@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:31:56.53</field>
-	<field name = "UNKNOWN">F 
-f0900reute
-u f BC-LORIMAR-TELEPICTURES   06-29 0063</field>
-	<field name = "TITLE">LORIMAR TELEPICTURES LT> 4TH QTR OPER LOSS</field>
+	<field name = "titulo">LORIMAR TELEPICTURES LT> 4TH QTR OPER LOSS</field>
 	<field name = "DATELINE">CULVER CITY, CALIF., June 29 -</field>
-	<field name = "BODY">Period ended March 31
+	<field name = "content">Period ended March 31
     Oper shr loss 1.07 dlrs vs not applicable
     Oper net loss 49,098,000 vs n.a.
     Revs 240.5 mln

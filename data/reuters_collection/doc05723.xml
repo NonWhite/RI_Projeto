@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 17:18:05.88</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3744reute
-u f BC-U.S.-DECLINES-COMMENT   03-16 0106</field>
-	<field name = "TITLE">U.S. DECLINES COMMENT ON SCHLUMBERGERSLB> MOVE</field>
+	<field name = "titulo">U.S. DECLINES COMMENT ON SCHLUMBERGERSLB> MOVE</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">A U.S. Commerce Department spokesman
+	<field name = "content">A U.S. Commerce Department spokesman
 said the agency would have no comment on Schlumberger Ltd's
 announcement that it had terminated an agreement in principle
 to sell its Fairchild Semiconductor Corp unit to Fujitsu Ltd.

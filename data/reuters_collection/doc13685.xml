@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:07:39.17</field>
-	<field name = "UNKNOWN">M
-f0705reute
-u f BC-LME-ZINC-MIDSESSION-S   04-07 0090</field>
-	<field name = "TITLE">LME ZINC MIDSESSION SLIGHTLY EASIER</field>
+	<field name = "titulo">LME ZINC MIDSESSION SLIGHTLY EASIER</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">LME zinc was quiet throughout the morning
+	<field name = "content">LME zinc was quiet throughout the morning
 with very little dealing after some light trade selling on the
 pre-market, dealers said.
     Three months delivery ended official ring dealings quoted

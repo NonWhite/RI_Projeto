@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 08:25:33.47</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0735reute
-u f BC-BAIRD-BATM>-GETS-TEM   03-12 0054</field>
-	<field name = "TITLE">BAIRD BATM> GETS TEMPORARY RESTRAINING ORDER</field>
+	<field name = "titulo">BAIRD BATM> GETS TEMPORARY RESTRAINING ORDER</field>
 	<field name = "DATELINE">BOSTON, March 12 -</field>
-	<field name = "BODY">Baird Corp said the Massachusetts state
+	<field name = "content">Baird Corp said the Massachusetts state
 court for Suffolk county has granted it a temporary restraining
 order prohibiting Mark IV Industries Inc IV> from further
 purchases of Baird stock until Mark IV complies with the

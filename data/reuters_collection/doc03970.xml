@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 17:06:58.93</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0702reute
-r f BC-SOUTHERNNET-INC-SOUT   03-11 0041</field>
-	<field name = "TITLE">SOUTHERNNET INC SOUT> 4TH QTR NET</field>
+	<field name = "titulo">SOUTHERNNET INC SOUT> 4TH QTR NET</field>
 	<field name = "DATELINE">ATLANTA, Ga., March 11 -</field>
-	<field name = "BODY">Shr 32 cts vs four cts
+	<field name = "content">Shr 32 cts vs four cts
     Net 3,370,000 vs 353,000
     Revs 27.8 mln vs 20.2 mln
     Year

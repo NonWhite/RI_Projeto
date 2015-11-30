@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 14:47:17.31</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2170reute
-r f BC-FINANCIAL-CORP-FIN>   03-24 0083</field>
-	<field name = "TITLE">FINANCIAL CORP FIN> NOT HOLDING BUYOUT TALKS</field>
+	<field name = "titulo">FINANCIAL CORP FIN> NOT HOLDING BUYOUT TALKS</field>
 	<field name = "DATELINE">IRVINE, Calif., March 24 -</field>
-	<field name = "BODY">Financial Corp of America said
+	<field name = "content">Financial Corp of America said
 it is not holding discussions with anyone regarding a buyout of
 the company.
     But a spokeswoman pointed out that Financial Corp has said

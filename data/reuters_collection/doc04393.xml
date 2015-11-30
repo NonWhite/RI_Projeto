@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 13:45:59.19</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f0994reute
-r f BC-NYFE-SEAT-SOLD-FOR-20   03-12 0047</field>
-	<field name = "TITLE">NYFE SEAT SOLD FOR 200 DLRS</field>
+	<field name = "titulo">NYFE SEAT SOLD FOR 200 DLRS</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">The New York Stock Exchange said a
+	<field name = "content">The New York Stock Exchange said a
 seat on the New York Futures Exchange sold for 200 dlrs, which
 is unchanged from the previous sale, made yesterday.
     The NYSE said the current bid is 200 dlrs and the current

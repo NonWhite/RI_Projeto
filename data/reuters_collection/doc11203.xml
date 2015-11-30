@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 04:35:39.64</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0314reute
-u f BC-CHINA-REFORMS-TO-TAKE   03-31 0098</field>
-	<field name = "TITLE">CHINA REFORMS TO TAKE DECADES, NO ALTERNATIVE</field>
+	<field name = "titulo">CHINA REFORMS TO TAKE DECADES, NO ALTERNATIVE</field>
 	<field name = "AUTHOR">By Mark O'Neill, Reuters</field>
 	<field name = "DATELINE">PEKING, March 31 -</field>
-	<field name = "BODY">China's economic reforms will take
+	<field name = "content">China's economic reforms will take
 decades to fulfill and will outlast the life of any leader
 because they are the only way to save the country from poverty,
 an economist in one of the country's top think tanks told

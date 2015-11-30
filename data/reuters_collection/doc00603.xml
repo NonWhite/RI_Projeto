@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:14:52.64</field>
-	<field name = "UNKNOWN">F
-f0469
-reute
-d f BC-SNET-SNG>-COMPLETES   03-02 0073</field>
-	<field name = "TITLE">SNET SNG> COMPLETES PRATT/WHITNEY UTC> ORDER</field>
+	<field name = "titulo">SNET SNG> COMPLETES PRATT/WHITNEY UTC> ORDER</field>
 	<field name = "DATELINE">NEW HAVEN, Conn., March 2 -</field>
-	<field name = "BODY">Southern New England
+	<field name = "content">Southern New England
 Telecommunications Inc said it completed the installation of a
 multi-million dlr telecommunications system for United
 Technologies Corp's Pratt and Whitney unit.

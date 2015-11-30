@@ -3,12 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G L M T
-f1402reute
-b f BC-/U.S.-SENATE-HITS-EC   03-26 0112</field>
-	<field name = "TITLE">U.S. SENATE HITS EC OILS TAX, VOWS RETALIATION</field>
+	<field name = "titulo">U.S. SENATE HITS EC OILS TAX, VOWS RETALIATION</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">The Senate voted to condemn the
+	<field name = "content">The Senate voted to condemn the
 proposed European common market tax on vegetable and marine
 fats and oils and said it would result in retaliation.
     The non-binding Senate resolution, a sense of Senate

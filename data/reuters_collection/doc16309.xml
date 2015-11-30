@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 10:39:40.04</field>
 	<field name = "TOPICS">lei</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f1169reute
-u f BC-CANADA-JANUARY-LEADIN   04-13 0097</field>
-	<field name = "TITLE">CANADA JANUARY LEADING INDICATOR UP 0.4 PCT</field>
+	<field name = "titulo">CANADA JANUARY LEADING INDICATOR UP 0.4 PCT</field>
 	<field name = "DATELINE">OTTAWA, April 13 -</field>
-	<field name = "BODY">Canada's leading composite indicator
+	<field name = "content">Canada's leading composite indicator
 rose 0.4 pct in January with eight of the 10 major components
 posting gains, the most widespread monthly advance in the past
 year, Statistics Canada said.

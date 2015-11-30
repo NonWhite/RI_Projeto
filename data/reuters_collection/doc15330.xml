@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 16:58:03.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2593reute
-r f BC-CAESARS-WORLD-CAW>-S   04-08 0120</field>
-	<field name = "TITLE">CAESARS WORLD CAW> STAYS ON S/P WATCH, NEGATIVE</field>
+	<field name = "titulo">CAESARS WORLD CAW> STAYS ON S/P WATCH, NEGATIVE</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it is
+	<field name = "content">Standard and Poor's Corp said it is
 keeping 230 mln dlrs of debt of Caesars World Inc and Caesars
 World Finance Corp on creditwatch with negative implications.
     S and P cited Caesars World's proposed recapitalization

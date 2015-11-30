@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 14:48:29.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0590reute
-r f BC-AMERICAN-ADVENTURE-G   03-03 0084</field>
-	<field name = "TITLE">AMERICAN ADVENTURE GOAA> SETS BANKRUPTCY PLAN</field>
+	<field name = "titulo">AMERICAN ADVENTURE GOAA> SETS BANKRUPTCY PLAN</field>
 	<field name = "DATELINE">KIRKLAND, Wash., March 3 -</field>
-	<field name = "BODY">American Adventure Inc said a
+	<field name = "content">American Adventure Inc said a
 U.S. Bankruptcy Court confirmed its reorganization plan.
     The plan calls for the sale of substantially all the assets
 of the company to a new company that will retain the same name,

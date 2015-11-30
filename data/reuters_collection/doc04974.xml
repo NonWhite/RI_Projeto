@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 14:31:20.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0107reute
-r f BC-J.P.-MORGAN-JPM>-OFF   03-13 0051</field>
-	<field name = "TITLE">J.P. MORGAN JPM> OFFICIAL DIES</field>
+	<field name = "titulo">J.P. MORGAN JPM> OFFICIAL DIES</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">J.P. Morgan and Co said Peter F.
+	<field name = "content">J.P. Morgan and Co said Peter F.
 Culver, 42, senior vice president of its Morgan Guaranty Trust
 Co subsidiary and general manager of the Euro-Clear Operations
 Centre in Brussels, has died of an apparent heart attack at a

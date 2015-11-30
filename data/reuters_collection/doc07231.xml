@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 12:23:57.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1585reute
-h f BC-MCI-MCI>-FILES-CREDI   03-19 0061</field>
-	<field name = "TITLE">MCI MCI> FILES CREDIT CARD FRAUD SUIT</field>
+	<field name = "titulo">MCI MCI> FILES CREDIT CARD FRAUD SUIT</field>
 	<field name = "DATELINE">CHARLOTTE, N.C., March 19 -</field>
-	<field name = "BODY">MCI Telecommunications Corp
+	<field name = "content">MCI Telecommunications Corp
 said it filed suit against 27 Johnson C. Smith University
 students in Mecklenburg County General Court to recover damages
 from credit card fraud in excess of 600,000 dlrs.

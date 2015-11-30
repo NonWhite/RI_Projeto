@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 18:18:10.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0787reute
-r f BC-PUGET-SOUND-POWER-PS   03-06 0091</field>
-	<field name = "TITLE">PUGET SOUND POWER PSD> REDEEMS MORTGAGE BONDS</field>
+	<field name = "titulo">PUGET SOUND POWER PSD> REDEEMS MORTGAGE BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Puget Sound Power and Light Co said its
+	<field name = "content">Puget Sound Power and Light Co said its
 board authorized the redemption on April 20 of the outstanding
 principal amount of 94.7 mln dlrs of first mortgage bonds.
     The issues included are 29.7 mln dlrs of 9-1/2 pct series

@@ -2,12 +2,9 @@
 	<field name = "DATE">11-APR-1987 01:23:09.83</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">RM
-f0008reute
-r f BC-COR--TEXACO-TX>-SAYS   04-11 0112</field>
-	<field name = "TITLE">COR TEXACO TX> SAYS IT CAN'T POST MORE THAN 1 BILLION</field>
+	<field name = "titulo">COR TEXACO TX> SAYS IT CAN'T POST MORE THAN 1 BILLION</field>
 	<field name = "DATELINE">HOUSTON, April 10 -</field>
-	<field name = "BODY">Texaco Inc, in documents filed with a
+	<field name = "content">Texaco Inc, in documents filed with a
 Texas state appeals court, said a ruling forcing it to post a
 bond of more than one billion dlrs as security for a 10.53
 billion dlr judgment would halt its credit agreements and force

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 13:09:01.73</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">E F RM
-f1935reute
-u f BC-ROYAL-BANK-(RY.TO)-RE   06-02 0106</field>
-	<field name = "TITLE">ROYAL BANK (RY.TO) RECLASSIFIES BRAZIL LOANS</field>
+	<field name = "titulo">ROYAL BANK (RY.TO) RECLASSIFIES BRAZIL LOANS</field>
 	<field name = "DATELINE">MONTREAL, June 2 -</field>
-	<field name = "BODY">Royal Bank of Canada said it classified
+	<field name = "content">Royal Bank of Canada said it classified
 1.3 billion dlrs in medium and long-term loans to Brazil as
 non-accrual, leading to a seven pct drop in second quarter
 profit.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:51:41.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1949reute
-d f BC-TEAM-TMI>-TO-UNVEIL   03-25 0107</field>
-	<field name = "TITLE">TEAM TMI> TO UNVEIL NEW EQUIPMENT IN MAY</field>
+	<field name = "titulo">TEAM TMI> TO UNVEIL NEW EQUIPMENT IN MAY</field>
 	<field name = "DATELINE">HOUSTON, March 25 -</field>
-	<field name = "BODY">Team Inc said it will introduce a line
+	<field name = "content">Team Inc said it will introduce a line
 of repair products for electrical distribution and transmission
 equipment for the utility industry in May.
     The new products include a transformer repair service which

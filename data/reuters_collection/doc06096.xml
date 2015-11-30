@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 12:45:33.67</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f5797reute
-u f BC-AMEX-CALLS-FOR-UNIFOR   03-17 0105</field>
-	<field name = "TITLE">AMEX CALLS FOR UNIFORM EXPIRATION PROCEDURES</field>
+	<field name = "titulo">AMEX CALLS FOR UNIFORM EXPIRATION PROCEDURES</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">The American Stock Exchange said it is
+	<field name = "content">The American Stock Exchange said it is
 prepared to move settlement prices for its broad-based stock
 index contracts to the stock market opening on expiration
 Fridays providing the change is part of an industry-wide move

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">C G 
-f0955reute
-r f BC-SHAMROCK-COMPLETES-CE   10-19 0089</field>
-	<field name = "TITLE">SHAMROCK COMPLETES CENTRAL SOYA SALE TO FERRUZZI</field>
+	<field name = "titulo">SHAMROCK COMPLETES CENTRAL SOYA SALE TO FERRUZZI</field>
 	<field name = "DATELINE">BURBANK, Calif., Oct 19 -</field>
-	<field name = "BODY">Shamrock Capital LP said it has
+	<field name = "content">Shamrock Capital LP said it has
 completed the sale of Cental Soya Co Inc to Ferruzzi Agricola
 Finanziaria the holding company for the Ferruzzi group of
 Ravenna, Italy.

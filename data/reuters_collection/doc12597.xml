@@ -2,13 +2,10 @@
 	<field name = "DATE">2-APR-1987 10:53:39.49</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM A
-f1320reute
-r f BC-U.S.-URGED-TO-STRENGT   04-02 0081</field>
-	<field name = "TITLE">U.S. URGED TO STRENGTHEN DEBT STRATEGY</field>
+	<field name = "titulo">U.S. URGED TO STRENGTHEN DEBT STRATEGY</field>
 	<field name = "AUTHOR">By Peter Torday, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">Several industrial nations are
+	<field name = "content">Several industrial nations are
 pressing the United States to consider whether its debt
 strategy, under increasing fire in the developing world, needs
 to be strengthened, monetary sources say.

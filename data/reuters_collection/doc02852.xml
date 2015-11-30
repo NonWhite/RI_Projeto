@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">V RM
-f0500reute
-u f AM-FERRY 1STLD  03-06 0104</field>
-	<field name = "TITLE">TWO HUNDRED PEOPLE RESCUED FROM SINKING FERRY</field>
+	<field name = "titulo">TWO HUNDRED PEOPLE RESCUED FROM SINKING FERRY</field>
 	<field name = "DATELINE">BRUSSELS, March 6 -</field>
-	<field name = "BODY">About 200 people were rescued, some
+	<field name = "content">About 200 people were rescued, some
 badly hurt, from a sinking cross Channel ferry carrying
 approximately 540 people off the Belgian port of Zeebrugge, a
 port control spokesman said.

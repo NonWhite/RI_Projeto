@@ -2,13 +2,10 @@
 	<field name = "DATE">22-MAR-1987 00:00:04.61</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">nigeria</field>
-	<field name = "UNKNOWN">RM
-f0001reute
-u f BC-NIGERIA-CHANGES-AUCTI   03-21 0083</field>
-	<field name = "TITLE">NIGERIA CHANGES AUCTION RULES TO DEFEND THE NAIRA</field>
+	<field name = "titulo">NIGERIA CHANGES AUCTION RULES TO DEFEND THE NAIRA</field>
 	<field name = "AUTHOR">By Nick Kotch, Reuters</field>
 	<field name = "DATELINE">LAGOS, March 22 -</field>
-	<field name = "BODY">Nigeria's Central Bank has changed the
+	<field name = "content">Nigeria's Central Bank has changed the
 rules governing its foreign exchange auctions in what analysts
 see as a means of defending the naira currency, which has
 depreciated steadily.

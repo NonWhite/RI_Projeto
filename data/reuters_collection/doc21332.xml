@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 11:17:31.46</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F E 
-f1520reute
-u f BC-MULTIFOODS-IMC>-FILE   10-19 0101</field>
-	<field name = "TITLE">MULTIFOODS IMC> FILES SUIT AGAINST BREGMAN</field>
+	<field name = "titulo">MULTIFOODS IMC> FILES SUIT AGAINST BREGMAN</field>
 	<field name = "DATELINE">MINNEAPOLIS, MINN., Oct 19 -</field>
-	<field name = "BODY">International Multifoods Corp
+	<field name = "content">International Multifoods Corp
 said it filed a suit charging Bregman Partners and its
 affiliates unlawfully planned to acquire control of the
 company.

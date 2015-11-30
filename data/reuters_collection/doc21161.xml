@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 13:45:24.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2345reute
-r f BC-AMR-AMR>-UNIT-TO-BUY   10-19 0101</field>
-	<field name = "TITLE">AMR AMR> UNIT TO BUY NINE SMALL PLANES</field>
+	<field name = "titulo">AMR AMR> UNIT TO BUY NINE SMALL PLANES</field>
 	<field name = "DATELINE">FORT WORTH, Texas, Oct 19 -</field>
-	<field name = "BODY">AMR Corp said its Nashville
+	<field name = "content">AMR Corp said its Nashville
 Eagle Inc subsidiary will acquire nine 19-seat Metro III
 airplanes in separate agreements with Fairchild Industries
 Inc's FEN> Fairchild Aircraft Corp unit and Midstate Airlines

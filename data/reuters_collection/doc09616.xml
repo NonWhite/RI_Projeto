@@ -3,12 +3,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2498reute
-u f BC-LOWER-U.S.-SOYBEAN-LO   03-25 0136</field>
-	<field name = "TITLE">LOWER U.S. SOYBEAN LOAN IDEA SHARPLY CRITICIZED</field>
+	<field name = "titulo">LOWER U.S. SOYBEAN LOAN IDEA SHARPLY CRITICIZED</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">U.S. soybean lobbyists and
+	<field name = "content">U.S. soybean lobbyists and
 congressional aides criticized a proposal from a senior
 Agriculture Department official that Congress allow the U.S.
 soybean loan level to be officially lowered to 4.56 dlrs per

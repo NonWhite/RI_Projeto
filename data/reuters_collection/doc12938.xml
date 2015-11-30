@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 11:28:53.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1381reute
-b f BC-COASTAL-CORP-CGP>-AN   04-03 0107</field>
-	<field name = "TITLE">COASTAL CORP CGP> AND UNITS UPGRADED BY S/P</field>
+	<field name = "titulo">COASTAL CORP CGP> AND UNITS UPGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 upgraded the ratings on four billion dlrs of debt of Coastal
 Corp and its subsidiaries.
     S and P cited Coastal's success in reducing debt and

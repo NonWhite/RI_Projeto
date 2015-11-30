@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 11:47:54.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f3619reute
-r f BC-CRANE-CR>-DEBT-UPGRA   06-18 0104</field>
-	<field name = "TITLE">CRANE CR> DEBT UPGRADED BY MOODY'S</field>
+	<field name = "titulo">CRANE CR> DEBT UPGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 upgraded Crane Co's 75 mln dlrs of debt.
     Raised were the company's subordinated debt to Baa-3 from
 Ba-2 and in-substance defeased senior debentures to A-2 from

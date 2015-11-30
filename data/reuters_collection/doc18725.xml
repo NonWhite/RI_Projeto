@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 11:16:23.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3480reute
-r f BC-SYKES-DATATRONICS-SY   06-18 0101</field>
-	<field name = "TITLE">SYKES DATATRONICS SYKE.O> SELLS DEBENTURES</field>
+	<field name = "titulo">SYKES DATATRONICS SYKE.O> SELLS DEBENTURES</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., June 18 -</field>
-	<field name = "BODY">Sykes Datatronics Inc said it
+	<field name = "content">Sykes Datatronics Inc said it
 has agreed in principle for Marshall Associates and H and M
 resources Inc to each purchase up to one mln dlrs of its
 convertible debentures, allowing Sykes to pay in full its debt

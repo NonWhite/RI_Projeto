@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 14:27:04.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2174reute
-h f BC-ITS-DEVELOPS-INTERACT   04-13 0057</field>
-	<field name = "TITLE">ITS DEVELOPS INTERACTIVE VIDEO SYSTEMS</field>
+	<field name = "titulo">ITS DEVELOPS INTERACTIVE VIDEO SYSTEMS</field>
 	<field name = "DATELINE">BEDFORD, Mass., April 13 -</field>
-	<field name = "BODY">ITS Inc> said it has completed
+	<field name = "content">ITS Inc> said it has completed
 development of two interactive video systems for Mass Mutual
 Insurance Co> under a two mln dlr development agreement.
     ITS said the systems are integrated, interactive marketing

@@ -5,12 +5,9 @@
 	<field name = "PLACES">guinea</field>
 	<field name = "PLACES">sierra-leone</field>
 	<field name = "PLACES">gabon</field>
-	<field name = "UNKNOWN">RM
-f2772reute
-r f BC-ISLAMIC-BANK-MAKES-12   03-28 0109</field>
-	<field name = "TITLE">ISLAMIC BANK MAKES 12.3 MLN DLRS OF LOANS</field>
+	<field name = "titulo">ISLAMIC BANK MAKES 12.3 MLN DLRS OF LOANS</field>
 	<field name = "DATELINE">ISTANBUL, March 28 -</field>
-	<field name = "BODY">The Islamic Development Bank (IDB)
+	<field name = "content">The Islamic Development Bank (IDB)
 approved a total of 12.3 mln dlrs of project loans and
 technical assistace to member countries, a bank statement said.
     It said Senegal was given a 5.5 mln dlrs loan for a rice

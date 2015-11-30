@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 15:51:44.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2322reute
-r f BC-FIRST-CITY-BANCORP-F   03-19 0085</field>
-	<field name = "TITLE">FIRST CITY BANCORP FBT> SELLS ENERGY LOANS</field>
+	<field name = "titulo">FIRST CITY BANCORP FBT> SELLS ENERGY LOANS</field>
 	<field name = "DATELINE">HOUSTON, March 19 -</field>
-	<field name = "BODY">First City Bancorp said two
+	<field name = "content">First City Bancorp said two
 subsidiaries sold 54 mln dlrs of energy-related loans and loan
 participations to Prudential-Bache Energy Growth Fund LP
 G-One>.

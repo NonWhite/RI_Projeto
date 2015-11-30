@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 14:17:08.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9044reute
-r f BC-SCOTT-PAPER-SPP>-TO   03-18 0080</field>
-	<field name = "TITLE">SCOTT PAPER SPP> TO UPGRADE PULP FACILITIES</field>
+	<field name = "titulo">SCOTT PAPER SPP> TO UPGRADE PULP FACILITIES</field>
 	<field name = "DATELINE">PHILADELPHIA, March 18 -</field>
-	<field name = "BODY">Scott Paper Co said it will spend
+	<field name = "content">Scott Paper Co said it will spend
 70 mln dlrs to upgrade pulping facilities at its paper plant in
 Westbrook, Me.
     The company said the effort is part of its plan to reduce

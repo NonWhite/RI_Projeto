@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 11:47:50.38</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f5502reute
-r f BC-CONSERVATIVE-GAINS-MA   03-17 0112</field>
-	<field name = "TITLE">CONSERVATIVE GAINS MAY SPEED FINNISH MARKET REFORM</field>
+	<field name = "titulo">CONSERVATIVE GAINS MAY SPEED FINNISH MARKET REFORM</field>
 	<field name = "AUTHOR">By Simon Haydon, Reuters</field>
 	<field name = "DATELINE">HELSINKI, March 17 -</field>
-	<field name = "BODY">Conservative gains in Finnish general
+	<field name = "content">Conservative gains in Finnish general
 elections could speed liberalisation of financial markets,
 though there will not be a radical economic restructuring,
 conservative officials and economic analysts said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 03:37:29.19</field>
 	<field name = "TOPICS">zinc</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C M
-f0224reute
-b f BC-WORLD-ZINC-STOCKS-FAL   03-31 0092</field>
-	<field name = "TITLE">WORLD ZINC STOCKS FALL 7,700 TONNES IN FEBRUARY</field>
+	<field name = "titulo">WORLD ZINC STOCKS FALL 7,700 TONNES IN FEBRUARY</field>
 	<field name = "DATELINE">EINDHOVEN, March 31 -</field>
-	<field name = "BODY">World closing stocks of primary zinc
+	<field name = "content">World closing stocks of primary zinc
 at smelters, excluding Eastern Bloc countries, fell 7,700
 tonnes in February to 459,100 tonnes from 466,800 (revised from
 449,600) in January, compared with 403,700 in February 1986,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 14:38:46.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0360reute
-d f BC-PITNEY-BOWES-PBI>-UN   03-09 0091</field>
-	<field name = "TITLE">PITNEY BOWES PBI> UNIT TO MARKET SUDBURY SYSTEM</field>
+	<field name = "titulo">PITNEY BOWES PBI> UNIT TO MARKET SUDBURY SYSTEM</field>
 	<field name = "DATELINE">RYE, N.Y., March 9 -</field>
-	<field name = "BODY">Pitney Bowes Inc's Dictaphone Corp
+	<field name = "content">Pitney Bowes Inc's Dictaphone Corp
 subsidiary said it has contracted the exclusive right to sell
 Sudbury Systems Inc>'s RTAS digital dictation system in
 medical markets in the United States.

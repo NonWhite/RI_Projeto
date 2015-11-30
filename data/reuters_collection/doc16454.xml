@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:37:50.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1771reute
-r f BC-PACIFIC-NUCLEAR-SYSTE   04-13 0095</field>
-	<field name = "TITLE">PACIFIC NUCLEAR SYSTEMS PACN.O> WINS CONTRACT</field>
+	<field name = "titulo">PACIFIC NUCLEAR SYSTEMS PACN.O> WINS CONTRACT</field>
 	<field name = "DATELINE">FEDERAL WAY, Wash., April 13 -</field>
-	<field name = "BODY">Pacific Nuclear Systems Inc
+	<field name = "content">Pacific Nuclear Systems Inc
 said its Nuclear Packaging Inc unit won a contract with the
 U.S. Department of Energy worth up to 2.3 mln dlrs.
     The company said the initial phase of the contract was

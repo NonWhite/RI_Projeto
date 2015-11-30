@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 10:22:39.00</field>
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1052reute
-r f BC-BETHLEHEM-STEEL-CORP   04-24 0062</field>
-	<field name = "TITLE">BETHLEHEM STEEL CORP BS> INCREASES PRICES</field>
+	<field name = "titulo">BETHLEHEM STEEL CORP BS> INCREASES PRICES</field>
 	<field name = "DATELINE">BETHLEHEM, Pa., April 24 -</field>
-	<field name = "BODY">Bethlehem Steel Corp said it was
+	<field name = "content">Bethlehem Steel Corp said it was
 raising the prices by 30 dlrs per ton on section extras on
 certain wide planned structural shapes.
     The increase will affect seven wide planned section groups

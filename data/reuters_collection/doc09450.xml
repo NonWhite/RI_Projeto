@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:16:05.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1821reute
-r f BC-MACK-TRUCKS-MACK>-DE   03-25 0115</field>
-	<field name = "TITLE">MACK TRUCKS MACK> DEBT AFFIRMED BY S/P</field>
+	<field name = "titulo">MACK TRUCKS MACK> DEBT AFFIRMED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 affirmed Mack Trucks Inc's 40 mln dlrs of BB-plus senior debt.
     The agency cited expectations that Mack's profitability
 will improve over the marginal levels of last year. S and P

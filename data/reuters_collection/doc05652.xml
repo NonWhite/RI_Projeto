@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 15:44:55.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3492reute
-d f BC-N.J.-BUSINESS-CONVERT   03-16 0131</field>
-	<field name = "TITLE">N.J. BUSINESS CONVERTS MAGAZINE TO MONTHLY</field>
+	<field name = "titulo">N.J. BUSINESS CONVERTS MAGAZINE TO MONTHLY</field>
 	<field name = "DATELINE">MORGANVILLE, N.J., March 16 -</field>
-	<field name = "BODY">The Business Journal of New
+	<field name = "content">The Business Journal of New
 Jersey said it will publish Garden State Home and Garden
 monthly, beginning in September.
     The company said the publication was launched as a

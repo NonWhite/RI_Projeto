@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 14:37:31.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2226reute
-d f BC-ITT'S-ITT>SHERATON-T   03-31 0052</field>
-	<field name = "TITLE">ITT'S ITT>SHERATON TO ADD 34 PROPERTIES IN YEAR</field>
+	<field name = "titulo">ITT'S ITT>SHERATON TO ADD 34 PROPERTIES IN YEAR</field>
 	<field name = "DATELINE">BOSTON, March 31 -</field>
-	<field name = "BODY">ITT Corp's Sheraton Corp subsidiary said
+	<field name = "content">ITT Corp's Sheraton Corp subsidiary said
 during 1987 it plans to add 34 properties, down from 40 in
 1986.
     It said revenues of owned, leased, managed and franchised

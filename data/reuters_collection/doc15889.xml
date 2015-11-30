@@ -11,12 +11,9 @@
 	<field name = "TOPICS">soy-meal</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2292reute
-b f BC-seasonal-exports   04-09 0116</field>
-	<field name = "TITLE">SEASONAL EXPORTS REPORTED BY U.S. EXPORTERS</field>
+	<field name = "titulo">SEASONAL EXPORTS REPORTED BY U.S. EXPORTERS</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Exports of the following commodities
+	<field name = "content">Exports of the following commodities
 between start of current seasons and April 2, with comparisons,
 as reported to USDA by exporters, in thousand tonnes, unless
 noted --

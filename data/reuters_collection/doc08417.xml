@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 13:51:44.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1924reute
-d f BC-MEDICAL-GRAPHICS-MGC   03-23 0116</field>
-	<field name = "TITLE">MEDICAL GRAPHICS MGCC> CHAIRMAN RESIGNS</field>
+	<field name = "titulo">MEDICAL GRAPHICS MGCC> CHAIRMAN RESIGNS</field>
 	<field name = "DATELINE">ST. PAUL, March 23 -</field>
-	<field name = "BODY">Medical Graphics Corp said William
+	<field name = "content">Medical Graphics Corp said William
 Stubblefield resigned as chairman and chief executive officer,
 effective immediately, with President Kye Anderson assuming his
 duties.

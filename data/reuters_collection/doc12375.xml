@@ -3,12 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f2677reute
-d f BC-EXOTIC-NEWCASTLE-DISE   04-01 0121</field>
-	<field name = "TITLE">EXOTIC NEWCASTLE DISEASE IN MD/NEW YORK-USDA</field>
+	<field name = "titulo">EXOTIC NEWCASTLE DISEASE IN MD/NEW YORK-USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Exotic Newcastle, a highly contagious
+	<field name = "content">Exotic Newcastle, a highly contagious
 disease of pet birds and poultry, has been confirmed in two
 pet-bird dealer facilities in Maryland, and New York, the U.S.
 Agriculture Department said.

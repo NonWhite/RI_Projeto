@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">finland</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">C G M T
-f0795reute
-r f BC-HIGH-WINDS-KEEP-VESSE   03-20 0104</field>
-	<field name = "TITLE">HIGH WINDS KEEP VESSELS TRAPPED IN BALTIC ICE</field>
+	<field name = "titulo">HIGH WINDS KEEP VESSELS TRAPPED IN BALTIC ICE</field>
 	<field name = "DATELINE">HELSINKI, March 20 -</field>
-	<field name = "BODY">Strong south-easterly winds were
+	<field name = "content">Strong south-easterly winds were
 keeping many vessels trapped in the ice off the Finnish and
 Swedish coasts in one of the worst icy periods in the Baltic
 for many years, the Finnish Board of Navigation said.

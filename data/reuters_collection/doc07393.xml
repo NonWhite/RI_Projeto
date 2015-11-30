@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 15:40:02.88</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f2287reute
-u f BC-ITALIAN-PANEL-URGES-G   03-19 0077</field>
-	<field name = "TITLE">ITALIAN PANEL URGES EXCHANGE LIBERALIZATION</field>
+	<field name = "titulo">ITALIAN PANEL URGES EXCHANGE LIBERALIZATION</field>
 	<field name = "DATELINE">ROME, March 19 -</field>
-	<field name = "BODY">Liberalization of Italy's foreign exchange
+	<field name = "content">Liberalization of Italy's foreign exchange
 controls should be "gradual" but also "reasonably rapid," a report
 issued by a study committee nominated by the Italian Treasury
 Ministry said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 05:58:05.17</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0118reute
-b f BC-ABE-SAYS-5,000-BILLIO   04-17 0099</field>
-	<field name = "TITLE">ABE SAYS 5,000 BILLION YEN PACKAGE TO SATISFY U.S.</field>
+	<field name = "titulo">ABE SAYS 5,000 BILLION YEN PACKAGE TO SATISFY U.S.</field>
 	<field name = "DATELINE">TOKYO, April 17 -</field>
-	<field name = "BODY">Japan's plan to stimulate its economy
+	<field name = "content">Japan's plan to stimulate its economy
 will inject about 5,000 billion yen into the economy and should
 be appreciated by the U.S., Ruling Liberal Democratic Party
 (LDP) executive council chairman Shintaro Abe told reporters.

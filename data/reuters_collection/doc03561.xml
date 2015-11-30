@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 08:48:24.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0886reute
-r f PM-BANKS   03-11 0104</field>
-	<field name = "TITLE">U.S. BANKS, THRIFTS FACE CHANGE FROM SENATE BILL</field>
+	<field name = "titulo">U.S. BANKS, THRIFTS FACE CHANGE FROM SENATE BILL</field>
 	<field name = "AUTHOR">By Kenneth Barry</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">U.S. banks and savings and loan
+	<field name = "content">U.S. banks and savings and loan
 institutions could face important changes as a result of
 emergency legislation adopted overwhelmingly by the Senate
 Banking Committee.

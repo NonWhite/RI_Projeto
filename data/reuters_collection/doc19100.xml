@@ -6,12 +6,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G 
-f0623reute
-u f BC-TRACOMIN-SEES-LOWER-U   06-19 0109</field>
-	<field name = "TITLE">TRACOMIN SEES LOWER U.S. EDIBLE GROUNDNUT EXPORTS</field>
+	<field name = "titulo">TRACOMIN SEES LOWER U.S. EDIBLE GROUNDNUT EXPORTS</field>
 	<field name = "DATELINE">LAUSANNE, Switzerland, June 19 -</field>
-	<field name = "BODY">U.S. Exports of edible
+	<field name = "content">U.S. Exports of edible
 groundnuts could fall to 185,000 tonnes in the year to
 September 1987 from 248,000 in the same 1986 period, trading
 company Tracomin SA said.

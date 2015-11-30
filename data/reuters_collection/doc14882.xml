@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 06:27:04.12</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F
-f0433reute
-u f BC-DUTCH-PROPOSE-STRICT   04-08 0111</field>
-	<field name = "TITLE">DUTCH PROPOSE STRICT INSIDER TRADING LAW</field>
+	<field name = "titulo">DUTCH PROPOSE STRICT INSIDER TRADING LAW</field>
 	<field name = "DATELINE">THE HAGUE, April 8 -</field>
-	<field name = "BODY">The ministries of Finance and Justice
+	<field name = "content">The ministries of Finance and Justice
 said they have presented parliament with a new law to make
 insider trading in shares a criminal offence.
     A year ago, the Amsterdam Bourse announced its own rules,

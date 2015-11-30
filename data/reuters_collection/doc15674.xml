@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 11:50:30.61</field>
 	<field name = "TOPICS">orange</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">C T
-f1452reute
-d f BC-WEATHER-HURTS-ITALIAN   04-09 0114</field>
-	<field name = "TITLE">WEATHER HURTS ITALIAN ORANGES - USDA REPORT</field>
+	<field name = "titulo">WEATHER HURTS ITALIAN ORANGES - USDA REPORT</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Unfavorable weather conditions during
+	<field name = "content">Unfavorable weather conditions during
 the second week of March caused damage to oranges in the
 Calabria region in southern Italy, the U.S. Agriculture
 Department's officer in Rome said in a field report.

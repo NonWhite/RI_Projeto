@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 16:08:25.90</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2488reute
-r f BC-VANDERBILT-VAGO>-TO   03-30 0116</field>
-	<field name = "TITLE">VANDERBILT VAGO> TO RAISE COMMON, MERGE</field>
+	<field name = "titulo">VANDERBILT VAGO> TO RAISE COMMON, MERGE</field>
 	<field name = "DATELINE">LAS VEGAS, March 30 -</field>
-	<field name = "BODY">Vanderbilt Gold Corp said
+	<field name = "content">Vanderbilt Gold Corp said
 shareholders at a special meeting approved its reincorporation
 in Delaware, an increase in authorized common to 25 mln shares
 from 12 mln shares, and a non-qualified stock option plan.

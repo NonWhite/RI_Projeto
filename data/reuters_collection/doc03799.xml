@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 13:13:45.38</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">austria</field>
-	<field name = "UNKNOWN">RM
-f0041reute
-r f BC-AUSTRIAN-1987-GROWTH   03-11 0106</field>
-	<field name = "TITLE">AUSTRIAN 1987 GROWTH SEEN BETWEEN 0.5 AND 1.5 PCT</field>
+	<field name = "titulo">AUSTRIAN 1987 GROWTH SEEN BETWEEN 0.5 AND 1.5 PCT</field>
 	<field name = "DATELINE">VIENNA, March 11 -</field>
-	<field name = "BODY">A meeting of leading politicians,
+	<field name = "content">A meeting of leading politicians,
 bankers and economists has forecast Austrian real gross
 domestic product growth for this year at between 0.5 and 1.5
 pct, a government spokesman said.

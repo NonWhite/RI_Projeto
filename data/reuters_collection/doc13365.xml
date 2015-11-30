@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 03:19:54.80</field>
-	<field name = "UNKNOWN">RM C G L M T
-f0104reute
-r f BC-REUTER-COMMODITIES-NE   04-07 0098</field>
-	<field name = "TITLE">REUTER COMMODITIES NEWS HIGHLIGHTS 0700 GMT - APRIL 7</field>
+	<field name = "titulo">REUTER COMMODITIES NEWS HIGHLIGHTS 0700 GMT - APRIL 7</field>
 	<field name = "DATELINE">BANGKOK -</field>
-	<field name = "BODY">Thailand exported 75,160 tonnes of rice in the
+	<field name = "content">Thailand exported 75,160 tonnes of rice in the
 week ended March 31, down from 88,785 tonnes the previous week,
 the Commerce Ministry said. (XYYE 0405)
     PEKING - Wheat and rapeseed crops in east China suffered

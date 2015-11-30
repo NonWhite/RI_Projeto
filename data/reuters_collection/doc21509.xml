@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">A 
-f0570reute
-r f BC-PAPERS-SAY-VENEZUELAN   10-19 0082</field>
-	<field name = "TITLE">PAPERS SAY VENEZUELAN CENTRAL BANK CHIEF TO RESIGN</field>
+	<field name = "titulo">PAPERS SAY VENEZUELAN CENTRAL BANK CHIEF TO RESIGN</field>
 	<field name = "DATELINE">CARACAS, Oct 18 -</field>
-	<field name = "BODY">Venezuelan Central Bank President Hernan
+	<field name = "content">Venezuelan Central Bank President Hernan
 Anzola has submitted his resignation and asked President Jaime
 Lusinchi to transfer him to a post in the oil industry, two
 leading Venezuelan newspapers reported.

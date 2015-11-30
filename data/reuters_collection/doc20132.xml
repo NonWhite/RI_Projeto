@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 08:57:14.76</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">RM V 
-f0880reute
-b f BC-/GOLDMAN-MAY-LEND-A-B   10-20 0049</field>
-	<field name = "TITLE">GOLDMAN MAY LEND A BILLION DLRS TO MUTUAL FUNDS</field>
+	<field name = "titulo">GOLDMAN MAY LEND A BILLION DLRS TO MUTUAL FUNDS</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Goldman Sachs and Co has decided to make
+	<field name = "content">Goldman Sachs and Co has decided to make
 a billion dlrs of its own capital available to mutual funds to
 enable them to sell securities for cash if they need to do so,
 a senior spokesman for the investment banking firm said.

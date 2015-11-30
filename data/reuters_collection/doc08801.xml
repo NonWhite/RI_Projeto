@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 11:13:35.22</field>
 	<field name = "TOPICS">interest</field>
-	<field name = "UNKNOWN">V RM
-f1324reute
-b f BC-/-FED-MAY-ADD-RESERVE   03-24 0108</field>
-	<field name = "TITLE">FED MAY ADD RESERVES, ECONOMISTS SAY</field>
+	<field name = "titulo">FED MAY ADD RESERVES, ECONOMISTS SAY</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">The Federal Reserve may intervene in
+	<field name = "content">The Federal Reserve may intervene in
 the government securities market to add reserves today, some
 economists said, although others felt that the Fed was likely
 to refrain from any action.

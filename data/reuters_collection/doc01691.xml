@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y
-f0358reute
-u f BC-U.K.-OIL-INDUSTRY-"NO   03-04 0113</field>
-	<field name = "TITLE">U.K. OIL INDUSTRY SAID NOT PERMANENTLY DAMAGED</field>
+	<field name = "titulo">U.K. OIL INDUSTRY SAID NOT PERMANENTLY DAMAGED</field>
 	<field name = "DATELINE">LONDON, March 4 -</field>
-	<field name = "BODY">The U.K. Offshore oil industry has
+	<field name = "content">The U.K. Offshore oil industry has
 suffered from last year's collapse in oil prices but should not
 sustain any permament damage, Minister of State for Energy
 Alick Buchanan-Smith said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:41:27.00</field>
 	<field name = "PLACES">bahrain</field>
-	<field name = "UNKNOWN">RM
-f1397reute
-u f BC-INVESTCORP-RAISES-60   03-19 0107</field>
-	<field name = "TITLE">INVESTCORP RAISES 60 MLN DLR FACILITY</field>
+	<field name = "titulo">INVESTCORP RAISES 60 MLN DLR FACILITY</field>
 	<field name = "DATELINE">BAHRAIN, March 19 -</field>
-	<field name = "BODY">Bahrain-based Arabian Investment
+	<field name = "content">Bahrain-based Arabian Investment
 Banking Corp (Investcorp) EC> is raising 60 mln dlrs through a
 medium-term revolving multi-purpose facility, arranger and
 co-lead manager Arab Banking Corp> (ABC) said.

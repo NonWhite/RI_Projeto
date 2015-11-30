@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-MAR-1987 06:37:53.80</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">RM
-f0052reute
-r f BC-ISLAMIC-DEVELOPMENT-B   03-29 0108</field>
-	<field name = "TITLE">ISLAMIC DEVELOPMENT BANK LOANS FALL</field>
+	<field name = "titulo">ISLAMIC DEVELOPMENT BANK LOANS FALL</field>
 	<field name = "DATELINE">ISTANBUL, March 29 -</field>
-	<field name = "BODY">The Jeddah-based Islamic Development
+	<field name = "content">The Jeddah-based Islamic Development
 Bank (IDB) said in an annual report its loans during the last
 Islamic year fell 24 pct due to world economic recession.
     Total financing approved by the bank for projects, trade,

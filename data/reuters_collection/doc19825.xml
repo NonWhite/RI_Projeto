@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 14:35:39.64</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2149reute
-d f BC-ROCHESTER-RTC>-ACQUI   06-29 0068</field>
-	<field name = "TITLE">ROCHESTER RTC> ACQUIRES CANTON TELEPHONE CO></field>
+	<field name = "titulo">ROCHESTER RTC> ACQUIRES CANTON TELEPHONE CO></field>
 	<field name = "DATELINE">ROCHESTER, N.Y., June 29 -</field>
-	<field name = "BODY">Rochester Telephone Corp said it
+	<field name = "content">Rochester Telephone Corp said it
 completed the acquisition of Canton Telephone Co and is now
 operating the company.
     Terms of the acquisition were not disclosed.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 10:29:16.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1047reute
-d f BC-BPI-SYSTEMS-BPII>-LA   03-20 0060</field>
-	<field name = "TITLE">BPI SYSTEMS BPII> LAUNCHES PRODUCTS</field>
+	<field name = "titulo">BPI SYSTEMS BPII> LAUNCHES PRODUCTS</field>
 	<field name = "DATELINE">AUSTIN, Texas, March 20 -</field>
-	<field name = "BODY">BPI Systems Inc said it
+	<field name = "content">BPI Systems Inc said it
 introduced an enhanced version of its Entry series general
 accounting software, Version C.14,  that includes budgeting,
 more printing options and additional features.

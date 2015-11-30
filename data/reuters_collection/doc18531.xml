@@ -2,13 +2,10 @@
 	<field name = "DATE">18-JUN-1987 06:30:06.55</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM AI 
-f2523reute
-u f BC-JAPAN-INSTITUTIONS-EY   06-18 0108</field>
-	<field name = "TITLE">JAPAN INSTITUTIONS EYEING T-BOND INVESTMENT WARILY</field>
+	<field name = "titulo">JAPAN INSTITUTIONS EYEING T-BOND INVESTMENT WARILY</field>
 	<field name = "AUTHOR">By Ayumu Murano, Reuters</field>
 	<field name = "DATELINE">TOKYO, June 18 -</field>
-	<field name = "BODY">Some major Japanese institutional
+	<field name = "content">Some major Japanese institutional
 investors are gradually returning to investing in U.S.
 Treasuries, although fear that the dollar has not yet bottomed
 out has kept others cautiously waiting on the sidelines.

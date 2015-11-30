@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 13:35:35.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f8904reute
-r f BC-FPL-GROUP-FPL>-UNIT   03-18 0089</field>
-	<field name = "TITLE">FPL GROUP FPL> UNIT SELLS BONDS AT 8.951 PCT</field>
+	<field name = "titulo">FPL GROUP FPL> UNIT SELLS BONDS AT 8.951 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">FPL Group Capital Inc, a unit of FPL
+	<field name = "content">FPL Group Capital Inc, a unit of FPL
 Group Inc, is raising 150 mln dlrs through an offering of
 debentures due 2017 yielding 8.951 pct, said lead manager
 Salomon Brothers Inc.

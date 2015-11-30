@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cocoa</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">C T
-f0736reute
-u f BC-JACOBS-SUCHARD-SEES-1   03-12 0106</field>
-	<field name = "TITLE">JACOBS SUCHARD SEES 100,000 TONNE COCOA SURPLUS</field>
+	<field name = "titulo">JACOBS SUCHARD SEES 100,000 TONNE COCOA SURPLUS</field>
 	<field name = "DATELINE">ZURICH, March 12 -</field>
-	<field name = "BODY">Jacobs Suchard AG expects a world cocoa
+	<field name = "content">Jacobs Suchard AG expects a world cocoa
 surplus of around 100,000 tonnes in 1987 compared with a
 104,000 tonne surplus in 1986, Jens Sroka, head of commodity
 buying, told a news conference.

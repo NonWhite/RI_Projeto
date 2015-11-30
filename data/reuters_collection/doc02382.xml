@@ -11,13 +11,10 @@
 	<field name = "PLACES">indonesia</field>
 	<field name = "PLACES">venezuela</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">V Y RM
-f0537reute
-u f BC-OPEC-PRESIDENT-SAYS-O   03-05 0111</field>
-	<field name = "TITLE">OPEC PRESIDENT SAYS OUTPUT WELL BELOW CEILING</field>
+	<field name = "titulo">OPEC PRESIDENT SAYS OUTPUT WELL BELOW CEILING</field>
 	<field name = "AUTHOR">By Judith Matloff, Reuters</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">Opec Conference President Rilwanu Lukman
+	<field name = "content">Opec Conference President Rilwanu Lukman
 said the group was producing well below the 15.8 mln bpd
 ceiling it set in December, partly because liftings had been
 delayed or postponed by customers unwilling to pay fixed Opec

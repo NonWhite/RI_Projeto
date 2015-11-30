@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 17:15:26.18</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2592reute
-r f BC-ENTWISTLE   04-24 0106</field>
-	<field name = "TITLE">ENTWISTLE ENTW.O> HAS 5.1 PCT OF ESPEY ESP></field>
+	<field name = "titulo">ENTWISTLE ENTW.O> HAS 5.1 PCT OF ESPEY ESP></field>
 	<field name = "DATELINE">WASHINGTON, April 24 -</field>
-	<field name = "BODY">Entwistle Co told the Securities and
+	<field name = "content">Entwistle Co told the Securities and
 Exchange Commission it has acquired 62,500 shares of Espey
 Manufacturing and Electronics Corp, or 5.1 pct of the total
 outstanding common stock.

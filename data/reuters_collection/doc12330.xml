@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f2523reute
-u f BC-CALIFORNIA-WATER   04-01 0093</field>
-	<field name = "TITLE">FRENCH FIRM HAS FIVE PCT OF CALIF. WATER CWTR></field>
+	<field name = "titulo">FRENCH FIRM HAS FIVE PCT OF CALIF. WATER CWTR></field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Compagnie Generale Des Eaux
+	<field name = "content">Compagnie Generale Des Eaux
 EAUG.PA>, a French water, waste treatment and disposal,
 heating, ventilation and air conditioning concern said it has a
 5.0 pct stake in California Water Service Co.

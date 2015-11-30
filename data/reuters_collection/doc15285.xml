@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 15:57:01.32</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f2413reute
-r f AM-AIRBUS   04-08 0102</field>
-	<field name = "TITLE">AIRBUS SIGNS ACCORD ON CFM ENGINE FOR A340 PLANE</field>
+	<field name = "titulo">AIRBUS SIGNS ACCORD ON CFM ENGINE FOR A340 PLANE</field>
 	<field name = "DATELINE">PARIS, April 8 -</field>
-	<field name = "BODY">The European Airbus Industrie> consortium
+	<field name = "content">The European Airbus Industrie> consortium
 today formally signed an agreement with the Franco-U.S. Group
 CFM International> for an improved version of the CFM56-5
 engine to power the A340-200 and A340-300 aircraft, an Airbus

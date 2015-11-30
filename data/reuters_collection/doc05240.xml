@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1409reute
-b f BC-BUNDESBANK-ADDS-MONEY   03-16 0105</field>
-	<field name = "TITLE">BUNDESBANK ADDS MONEY MARKET LIQUIDITY</field>
+	<field name = "titulo">BUNDESBANK ADDS MONEY MARKET LIQUIDITY</field>
 	<field name = "DATELINE">FRANKFURT, March 16 -</field>
-	<field name = "BODY">The Bundesbank came into the domestic
+	<field name = "content">The Bundesbank came into the domestic
 money market to add temporary liquidity through federal
 government funds as call money rates rose above 4.0 pct,
 dealers said.

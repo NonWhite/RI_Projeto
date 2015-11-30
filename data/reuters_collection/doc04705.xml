@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 07:17:16.28</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">E A
-f0478reute
-r f BC-OKB-ISSUES-100-MLN-CA   03-13 0078</field>
-	<field name = "TITLE">OKB ISSUES 100 MLN CANADIAN DLR BOND</field>
+	<field name = "titulo">OKB ISSUES 100 MLN CANADIAN DLR BOND</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">Oesterreichishce Kontrollbank AG is
+	<field name = "content">Oesterreichishce Kontrollbank AG is
 issuing a 100 mln Canadian dlr eurobond due March 20, 1997 at
 nine pct and priced at 101-7/8 pct, Morgan Guaranty Ltd said as
 joint book-runner with LTCB International.

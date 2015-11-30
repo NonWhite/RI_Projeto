@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-APR-1987 06:07:02.53</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0414reute
-b f BC-KLOECKNER-WERKE-SHARE   04-27 0108</field>
-	<field name = "TITLE">KLOECKNER-WERKE SHARES SUSPENDED IN FRANKFURT</field>
+	<field name = "titulo">KLOECKNER-WERKE SHARES SUSPENDED IN FRANKFURT</field>
 	<field name = "DATELINE">FRANKFURT, April 27 -</field>
-	<field name = "BODY">Shares in Kloeckner-Werke AG KLKG.F>
+	<field name = "content">Shares in Kloeckner-Werke AG KLKG.F>
 were suspended from stock exchange trading pending an
 announcement expected by the company today or tomorrow, a
 bourse spokesman said, without giving further details.

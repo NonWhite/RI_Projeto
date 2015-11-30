@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 10:47:45.04</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1181reute
-r f BC-DALLAS-INVESTOR-CUTS   03-25 0067</field>
-	<field name = "TITLE">DALLAS INVESTOR CUTS STAKE IN MCDERMOTT (MDR)</field>
+	<field name = "titulo">DALLAS INVESTOR CUTS STAKE IN MCDERMOTT (MDR)</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">A group led by Dallas investor
+	<field name = "content">A group led by Dallas investor
 Harold Simmons told the Securities and Exchange Commission it
 had reduced its stake in McDermott International Inc by one
 pct, to under five pct.

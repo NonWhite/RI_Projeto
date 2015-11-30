@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 15:10:31.00</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0525reute
-b f BC-TWA-TWA>-MAKES-MERGE   03-04 0057</field>
-	<field name = "TITLE">TWA TWA> MAKES MERGER OFFER FOR USAIR U></field>
+	<field name = "titulo">TWA TWA> MAKES MERGER OFFER FOR USAIR U></field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">Trans World Airlines said it has
+	<field name = "content">Trans World Airlines said it has
 proposed a cash merger of USAir Group with TWA in which the
 holders of USAir common would receive 52 dlrs in cash in
 exchange for their stock.

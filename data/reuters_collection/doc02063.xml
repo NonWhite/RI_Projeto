@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 10:22:24.09</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0266reute
-r f BC-BANKERS-WELCOME-SPANI   03-05 0115</field>
-	<field name = "TITLE">BANKERS WELCOME SPANISH RESERVE REQUIREMENT HIKE</field>
+	<field name = "titulo">BANKERS WELCOME SPANISH RESERVE REQUIREMENT HIKE</field>
 	<field name = "DATELINE">MADRID, March 5 -</field>
-	<field name = "BODY">Bankers welcomed the Bank of Spain's
+	<field name = "content">Bankers welcomed the Bank of Spain's
 decision to raise the reserve requirement for banks and savings
 banks, saying it reflected the socialist government's
 determination not to ease up in the fight against inflation

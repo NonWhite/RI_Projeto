@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 05:43:10.09</field>
 	<field name = "PLACES">philippines</field>
 	<field name = "PEOPLE">aquino</field>
-	<field name = "UNKNOWN">RM AI 
-f0379reute
-u f BC-AQUINO-SAYS-GROWTH-HA   10-20 0098</field>
-	<field name = "TITLE">AQUINO SAYS GROWTH HAS PRIORITY OVER DEBT PAYMENTS</field>
+	<field name = "titulo">AQUINO SAYS GROWTH HAS PRIORITY OVER DEBT PAYMENTS</field>
 	<field name = "DATELINE">MANILA, Oct 20 -</field>
-	<field name = "BODY">President Corazon Aquino said economic
+	<field name = "content">President Corazon Aquino said economic
 growth took priority over debt repayments but she sought to
 dispel fears that the Philippines would not honour a July
 agreement rescheduling 13.2 billion dlrs of debt.

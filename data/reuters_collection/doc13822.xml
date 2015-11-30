@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:04:22.92</field>
-	<field name = "UNKNOWN">RM C M F
-f0894reute
-b f BC-ny-silver-clsg-report   04-07 0102</field>
-	<field name = "TITLE">COMEX SILVER FUTURES SOAR AT OPENING</field>
+	<field name = "titulo">COMEX SILVER FUTURES SOAR AT OPENING</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Comex silver futures opened 15 to 18
+	<field name = "content">Comex silver futures opened 15 to 18
 cents higher and then retreated slightly as followthrough
 buying slowed.
     May was up 12.5 cents at 6.705 dlrs from a high of 6.75

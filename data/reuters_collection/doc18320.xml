@@ -3,12 +3,9 @@
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">A RM
-f2749reute
-u f BC-TREASURY-TO-PUBLISH-U   06-02 0081</field>
-	<field name = "TITLE">TREASURY TO PUBLISH U.S. RESERVE ASSETS MONTHLY</field>
+	<field name = "titulo">TREASURY TO PUBLISH U.S. RESERVE ASSETS MONTHLY</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">The Treasury Department said it would
+	<field name = "content">The Treasury Department said it would
 release data on U.S. reserve assets on a monthly basis from now
 on instead of quarterly.
     Reserve assets are held in gold, special drawing rights

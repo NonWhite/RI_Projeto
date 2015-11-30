@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 01:59:56.87</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">RM
-f0633
-reute
-u f BC-INDONESIA'S-EXPORTS-D   03-02 0092</field>
-	<field name = "TITLE">INDONESIA'S EXPORTS DROP IN CALENDAR 1986</field>
+	<field name = "titulo">INDONESIA'S EXPORTS DROP IN CALENDAR 1986</field>
 	<field name = "DATELINE">JAKARTA, March 2 -</field>
-	<field name = "BODY">The total value of Indonesia's exports
+	<field name = "content">The total value of Indonesia's exports
 fell in calendar 1986 to 15.995 billion dlrs from 18.762
 billion in calendar 1985, according to the central bank's
 latest report.

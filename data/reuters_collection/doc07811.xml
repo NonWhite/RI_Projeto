@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:38:13.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1664reute
-u f BC-D-AND-P-LIFTS-GENERAL   03-20 0112</field>
-	<field name = "TITLE">D AND P LIFTS GENERAL PUBLIC UTILITIESGPU> UNIT</field>
+	<field name = "titulo">D AND P LIFTS GENERAL PUBLIC UTILITIESGPU> UNIT</field>
 	<field name = "DATELINE">CHICAGO, March 20 -</field>
-	<field name = "BODY">Duff and Phelps today raised the
+	<field name = "content">Duff and Phelps today raised the
 ratings on General Public Utilities' Pennsylvania Electric Co.
 subsidiary fixed income securities.
     First mortgage bonds and collateralized pollution control

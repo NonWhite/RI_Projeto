@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 22:21:56.67</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f2941reute
-u f BC-AVERAGE-YEN-CD-RATES   04-09 0095</field>
-	<field name = "TITLE">AVERAGE YEN CD RATES FALL IN LATEST WEEK</field>
+	<field name = "titulo">AVERAGE YEN CD RATES FALL IN LATEST WEEK</field>
 	<field name = "DATELINE">TOKYO, April 10 -</field>
-	<field name = "BODY">Average interest rates on yen
+	<field name = "content">Average interest rates on yen
 certificates of deposit (CD) fell to 4.13 pct in the week ended
 April 8 from 4.33 pct the previous week, the Bank of Japan
 said.

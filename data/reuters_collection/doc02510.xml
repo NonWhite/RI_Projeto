@@ -5,12 +5,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">F RM
-f0018reute
-r f BC-trade   03-05 0122</field>
-	<field name = "TITLE">FAVORED TRADE STATUS FOR MOSCOW STILL OPPOSED</field>
+	<field name = "titulo">FAVORED TRADE STATUS FOR MOSCOW STILL OPPOSED</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">The Reagan administration wants to
+	<field name = "content">The Reagan administration wants to
 encourage expanded trade with the Soviet Union but does not
 believe Moscow yet warrants most-favored-nation treatment,
 Deputy Secretary of State John Whitehead said.

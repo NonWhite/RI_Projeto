@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:23:37.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2681reute
-r f BC-MCA-INC-MCA>-TO-BUY   10-20 0067</field>
-	<field name = "TITLE">MCA INC MCA> TO BUY BACK TEN MLN COMMON SHARES</field>
+	<field name = "titulo">MCA INC MCA> TO BUY BACK TEN MLN COMMON SHARES</field>
 	<field name = "DATELINE">UNIVERSAL CITY, Calif., Oct 20 -</field>
-	<field name = "BODY">MCA Inc said its board has
+	<field name = "content">MCA Inc said its board has
 authorized management to buy up to ten mln shares of MCA's
 common stock in the open market or through private
 transactions.

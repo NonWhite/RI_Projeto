@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G 
-f1960reute
-u f BC-SENATE-PANEL-STUDIES   10-19 0142</field>
-	<field name = "TITLE">SENATE PANEL STUDIES LOAN RATE, SET ASIDE PLANS</field>
+	<field name = "titulo">SENATE PANEL STUDIES LOAN RATE, SET ASIDE PLANS</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">The Senate Agriculture Committee was
+	<field name = "content">The Senate Agriculture Committee was
 expected to consider proposals that would limit adjustments in
 county loan rate differentials which trigger larger corn and
 wheat acreage reduction requirements, Senate staff said.

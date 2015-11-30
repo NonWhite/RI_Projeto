@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 10:28:27.52</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0269reute
-u f BC-CONTROL-DATA-CDA>-TO   03-09 0030</field>
-	<field name = "TITLE">CONTROL DATA CDA> TO BUY PERIPHERALS STAKE</field>
+	<field name = "titulo">CONTROL DATA CDA> TO BUY PERIPHERALS STAKE</field>
 	<field name = "DATELINE">MINNEAPOLIS, Minn., March 9 -</field>
-	<field name = "BODY">Control Data Corp said it
+	<field name = "content">Control Data Corp said it
 agreed to acquire Unisys Inc's UIS> 13 pct stake in Magnetic
 Peripherals Inc>.
     The letter of intent provides that Unisys converts from an

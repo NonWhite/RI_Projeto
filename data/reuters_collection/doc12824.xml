@@ -3,12 +3,9 @@
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">kampuchea</field>
-	<field name = "UNKNOWN">C G L M T
-f0730reute
-d f BC-CHINA-REPORTS-TALKS-B   04-03 0096</field>
-	<field name = "TITLE">CHINA REPORTS BREAKTHROUGH IN TALKS WITH USSR</field>
+	<field name = "titulo">CHINA REPORTS BREAKTHROUGH IN TALKS WITH USSR</field>
 	<field name = "DATELINE">PEKING, April 3 -</field>
-	<field name = "BODY">After years of refusal, Moscow has agreed
+	<field name = "content">After years of refusal, Moscow has agreed
 to discuss the problems of Afghanistan and Kampuchea in its
 talks with Peking on normalising relations, Chinese
 Vice-Foreign Minister Qian Qichen said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 09:57:30.02</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0958reute
-b f BC-/AMERICAN-MOTORS-AMO   03-23 0084</field>
-	<field name = "TITLE">AMERICAN MOTORS AMO> STATEMENT QUALIFIED</field>
+	<field name = "titulo">AMERICAN MOTORS AMO> STATEMENT QUALIFIED</field>
 	<field name = "DATELINE">DETROIT, March 23 -</field>
-	<field name = "BODY">American Motors Corp said its auditors
+	<field name = "content">American Motors Corp said its auditors
 qualified the company's 1986 financial report.
     The report was qualified due to uncertainties surrounding
 the previously announced arbitration award against American

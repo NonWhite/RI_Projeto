@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 04:12:32.21</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0668
-reute
-u f BC-FISONS-SEES-STRONG-IN   03-03 0118</field>
-	<field name = "TITLE">FISONS SEES STRONG INTERNATIONAL GROWTH IN 1986</field>
+	<field name = "titulo">FISONS SEES STRONG INTERNATIONAL GROWTH IN 1986</field>
 	<field name = "DATELINE">LONDON, March 3 -</field>
-	<field name = "BODY">Fisons Plc FISN.L> said strong
+	<field name = "content">Fisons Plc FISN.L> said strong
 international growth had been the main feature of the group's
 1986 progress, with the pharmaceutical division reporting a 50
 pct increase in U.S. Sales during the period.

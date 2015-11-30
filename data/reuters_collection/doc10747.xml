@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 06:08:46.14</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0481reute
-u f BC-B-AND-C-REORGANISES-C   03-30 0108</field>
-	<field name = "TITLE">B AND C REORGANISES COMMERCIAL OPERATIONS</field>
+	<field name = "titulo">B AND C REORGANISES COMMERCIAL OPERATIONS</field>
 	<field name = "DATELINE">LONDON, March 30 -</field>
-	<field name = "BODY">British and Commonwealth Shipping Co Plc
+	<field name = "content">British and Commonwealth Shipping Co Plc
 BCOM.L> said that it would reorganise its commercial and
 service operations into a single public grouping with
 autonomous management.

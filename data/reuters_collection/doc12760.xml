@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 04:56:10.57</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0298reute
-u f BC-AUSTRALIAN-TUG-CREWS   04-03 0112</field>
-	<field name = "TITLE">AUSTRALIAN TUG CREWS DELAY FOREIGN CONTAINER SHIPS</field>
+	<field name = "titulo">AUSTRALIAN TUG CREWS DELAY FOREIGN CONTAINER SHIPS</field>
 	<field name = "DATELINE">SYDNEY, April 3 -</field>
-	<field name = "BODY">Tug crews are preventing the movement of
+	<field name = "content">Tug crews are preventing the movement of
 foreign-flag container vessels in and out of the ports of
 Sydney, Melbourne and Fremantle, shipping sources said.
     They said maritime unions imposed bans on late Wednesday

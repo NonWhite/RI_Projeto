@@ -1,8 +1,5 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 20:30:39.56</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">RM AI 
-f3519reute
-f f BC-Tokyo-stock-index-fal   10-19 0013</field>
-	<field name = "TITLE">Tokyo stock index falls 201.12 to 25,545.44 after open, most stocks untraded</field>
+	<field name = "titulo">Tokyo stock index falls 201.12 to 25,545.44 after open, most stocks untraded</field>
 </doc></add>

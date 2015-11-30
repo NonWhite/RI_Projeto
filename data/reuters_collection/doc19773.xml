@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 13:26:35.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1911reute
-d f BC-SUNRIVER-INTRODUCES-N   06-29 0087</field>
-	<field name = "TITLE">SUNRIVER INTRODUCES NEW WORKSTATIONS</field>
+	<field name = "titulo">SUNRIVER INTRODUCES NEW WORKSTATIONS</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">SunRiver Corp>, a Jackson, Miss.-based
+	<field name = "content">SunRiver Corp>, a Jackson, Miss.-based
 computer products company, said it introduced the first line of
 computer workstations designed to be connected with powerful
 personal computers over fiber-optic cable.

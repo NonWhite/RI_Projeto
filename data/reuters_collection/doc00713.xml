@@ -2,14 +2,10 @@
 	<field name = "DATE">2-MAR-1987 15:02:49.77</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0818
-reute
-u f BC-TALKING-POINT/VIACOM   03-02 0108</field>
-	<field name = "TITLE">TALKING POINT/VIACOM INTERNATIONAL VIA></field>
+	<field name = "titulo">TALKING POINT/VIACOM INTERNATIONAL VIA></field>
 	<field name = "AUTHOR">By Cal Mankowski, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">A bidding war for Viacom International
+	<field name = "content">A bidding war for Viacom International
 Inc, one of the largest U.S. entertainment companies, pitted a
 management group and other investors against National
 Amusements Inc, a closely held theater operator.

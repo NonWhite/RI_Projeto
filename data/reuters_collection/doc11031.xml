@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 15:18:39.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2371reute
-u f BC-PAY-'N-PAK-PNP>-TO-E   03-30 0079</field>
-	<field name = "TITLE">PAY 'N PAK PNP> TO EXPLORE ITS ALTERNATIVES</field>
+	<field name = "titulo">PAY 'N PAK PNP> TO EXPLORE ITS ALTERNATIVES</field>
 	<field name = "DATELINE">KENT, Wash., March 30 -</field>
-	<field name = "BODY">Pay 'N Pak Stores Inc said it
+	<field name = "content">Pay 'N Pak Stores Inc said it
 intends to explore all alternatives for the purpose of
 maximizing its value to stockholders.
     The company said it also retained Salomon Brothers Inc as

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 05:31:32.38</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">RM 
-f2422reute
-u f BC-INDIAN-DEVELOPMENT-BA   06-18 0106</field>
-	<field name = "TITLE">INDIAN DEVELOPMENT BANK TO RAISE 10 BILLION YEN</field>
+	<field name = "titulo">INDIAN DEVELOPMENT BANK TO RAISE 10 BILLION YEN</field>
 	<field name = "DATELINE">BOMBAY, June 18 -</field>
-	<field name = "BODY">The state-owned Industrial Development
+	<field name = "content">The state-owned Industrial Development
 Bank of India (IDBI) has given Morgan Guaranty Ltd, Hong Kong>
 the mandate to arrange a 10 billion yen loan in Japan, a senior
 IDBI official told Reuters.

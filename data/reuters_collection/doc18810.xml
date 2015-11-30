@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">F 
-f3895reute
-r f BC-XEROX-XRX>-AFFILIATE   06-18 0111</field>
-	<field name = "TITLE">XEROX XRX> AFFILIATE TO SELL S.AFRICAN UNIT</field>
+	<field name = "titulo">XEROX XRX> AFFILIATE TO SELL S.AFRICAN UNIT</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Xerox Corp's affiliate Rank Xerox Ltd
+	<field name = "content">Xerox Corp's affiliate Rank Xerox Ltd
 said it signed a definitive agreement to sell its Rank Xerox
 South Africa Pty Ltd affiliate to Altron Group ALRN.O>, for
 undisclosed terms.

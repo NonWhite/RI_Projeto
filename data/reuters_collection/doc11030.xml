@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 15:17:57.62</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2366reute
-r f BC-NORTH-AMERICAN-GROUP   03-30 0070</field>
-	<field name = "TITLE">NORTH AMERICAN GROUP NAMG> 4TH QTR OPER LOSS</field>
+	<field name = "titulo">NORTH AMERICAN GROUP NAMG> 4TH QTR OPER LOSS</field>
 	<field name = "DATELINE">CHICAGO, March 30 -</field>
-	<field name = "BODY">Oper shr loss 12 cts vs loss 10 cts
+	<field name = "content">Oper shr loss 12 cts vs loss 10 cts
     Oper net loss 474,270 vs loss 369,848
     Revs 202,500 vs 111,210
     Avg shrs 3,904,373 vs 3,495,579

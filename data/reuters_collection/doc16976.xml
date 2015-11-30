@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0858reute
-b f BC-BUNDESBANK-INTERVENES   04-21 0103</field>
-	<field name = "TITLE">BUNDESBANK INTERVENES TO BUY DOLLARS AGAINST YEN</field>
+	<field name = "titulo">BUNDESBANK INTERVENES TO BUY DOLLARS AGAINST YEN</field>
 	<field name = "DATELINE">FRANKFURT, April 21 -</field>
-	<field name = "BODY">The Bundesbank intervened in the open
+	<field name = "content">The Bundesbank intervened in the open
 market to buy dollars against yen, dealers said.
     They were responding to enquiries immediately after news
 the Swiss National Bank said it joined concerted intervention

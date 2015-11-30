@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">A RM F
-f1577reute
-b f BC-TREASURY'S-BAKER-SAYS   04-01 0108</field>
-	<field name = "TITLE">TREASURY'S BAKER SAYS BRAZIL NOT IN CRISIS</field>
+	<field name = "titulo">TREASURY'S BAKER SAYS BRAZIL NOT IN CRISIS</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 he did not believe Brazil was currently in a crisis because of
 its debt situation and hoped the country would resolve its
 differences with commerical banks through direct negotiations.

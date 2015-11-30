@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 14:50:01.39</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2156reute
-h f BC-INSPEECH-INSP>-BUYS   04-01 0056</field>
-	<field name = "TITLE">INSPEECH INSP> BUYS NORMA BORK, BORK MEDICAL</field>
+	<field name = "titulo">INSPEECH INSP> BUYS NORMA BORK, BORK MEDICAL</field>
 	<field name = "DATELINE">VALLEY FORGE, Pa., April 1 -</field>
-	<field name = "BODY">Inspeech Inc said it acquired
+	<field name = "content">Inspeech Inc said it acquired
 Norma Bork Associates Inc and Bork Medical Services Inc for
 undisclosed terms.
     These firms, with combined revenues of about one mln dlrs,

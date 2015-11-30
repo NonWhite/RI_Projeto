@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 11:17:59.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1374reute
-r f BC-NOVELL-NOVL.O>-UNVEI   06-01 0108</field>
-	<field name = "TITLE">NOVELL NOVL.O> UNVEILS NETWORKING PRODUCTS</field>
+	<field name = "titulo">NOVELL NOVL.O> UNVEILS NETWORKING PRODUCTS</field>
 	<field name = "DATELINE">ATLANTA, Ga., June 1 -</field>
-	<field name = "BODY">Novell Inc said it introduced a
+	<field name = "content">Novell Inc said it introduced a
 series of new networking products that extend its NetWare local
 area network (LAN) communications.
     One of the new products, an asynchronous bridge, connects

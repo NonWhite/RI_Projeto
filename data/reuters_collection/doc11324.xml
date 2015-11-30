@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 09:59:21.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1078reute
-b f BC-NL-INDUSTRIES-NL>-ST   03-31 0110</field>
-	<field name = "TITLE">NL INDUSTRIES NL> STUDIES SPIN OFF</field>
+	<field name = "titulo">NL INDUSTRIES NL> STUDIES SPIN OFF</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">NL Industries Inc said it would seek
+	<field name = "content">NL Industries Inc said it would seek
 an alternative to current plans to spin off its chemical
 operations if an affiliate tries to block the plan.
     The company said the lessor of an NL Chemicals pigment

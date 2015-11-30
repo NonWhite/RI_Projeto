@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 11:59:15.70</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">denmark</field>
-	<field name = "UNKNOWN">RM
-f1599reute
-u f BC-DANISH-RESERVES-RISE   04-02 0113</field>
-	<field name = "TITLE">DANISH RESERVES RISE IN MARCH</field>
+	<field name = "titulo">DANISH RESERVES RISE IN MARCH</field>
 	<field name = "DATELINE">COPENHAGEN, April 2 -</field>
-	<field name = "BODY">Denmark's net official reserves rose
+	<field name = "content">Denmark's net official reserves rose
 to 49.49 billion crowns in March from 36.34 billion in
 February, against 43.13 billion in March 1986, the central bank
 said in its monthly balance sheet report.

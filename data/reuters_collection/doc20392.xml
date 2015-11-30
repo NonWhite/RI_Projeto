@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 11:52:29.27</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1781reute
-b f BC-CITICORP-CCI>-3RD-QT   10-20 0075</field>
-	<field name = "TITLE">CITICORP CCI> 3RD QTR NET</field>
+	<field name = "titulo">CITICORP CCI> 3RD QTR NET</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Shr profit 3.64 dlrs vs profit 1.64 dlrs
+	<field name = "content">Shr profit 3.64 dlrs vs profit 1.64 dlrs
     Net profit 541 mln vs profit 247 mln
     Nine mths
     Shr loss 13.30 dlrs vs profit 5.11 dlrs

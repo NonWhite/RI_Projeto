@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">lawson</field>
-	<field name = "UNKNOWN">RM A
-f1319reute
-b f BC-/LAWSON-SEES-NO-CHANG   04-09 0072</field>
-	<field name = "TITLE">LAWSON SEES NO CHANGE IN U.K. MONETARY POLICY</field>
+	<field name = "titulo">LAWSON SEES NO CHANGE IN U.K. MONETARY POLICY</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">British Chancellor of the Exchequer
+	<field name = "content">British Chancellor of the Exchequer
 Nigel Lawson said he saw no immediate implications for British
 monetary policy arising from the Group of Seven meeting
 yesterday.

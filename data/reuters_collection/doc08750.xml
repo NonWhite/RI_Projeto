@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 10:11:45.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1036reute
-u f BC-CONTROL-DATA-CDA>-AN   03-24 0101</field>
-	<field name = "TITLE">CONTROL DATA CDA> ANNOUNCES NEW COMPUTER</field>
+	<field name = "titulo">CONTROL DATA CDA> ANNOUNCES NEW COMPUTER</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Control Data Corp said it is offering
+	<field name = "content">Control Data Corp said it is offering
 its first departmental computer, the CYBER 1809 model 930.
     It also announced enhanced versions of its CDCNET
 Communications Network, NOS/VE virtual operating system and

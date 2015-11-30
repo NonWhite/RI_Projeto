@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 17:59:48.18</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f2736reute
-r f BC-belmoral-sets-26-mln   06-29 0112</field>
-	<field name = "TITLE">BELMORAL BME.TO> SETS 26 MLN DLR UNIT ISSUE</field>
+	<field name = "titulo">BELMORAL BME.TO> SETS 26 MLN DLR UNIT ISSUE</field>
 	<field name = "DATELINE">TORONTO, June 29 -</field>
-	<field name = "BODY">Belmoral Mines Ltd said it agreed in
+	<field name = "content">Belmoral Mines Ltd said it agreed in
 principle for the 26 mln dlr sale of four mln units priced at
 6.50 dlrs each to investment dealer McLeod Young Weir Ltd,
 subject to board and regulatory approvals.

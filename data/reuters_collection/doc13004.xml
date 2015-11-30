@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f1697reute
-r f BC-CIS-TECHNOLOGIESCIH>   04-03 0099</field>
-	<field name = "TITLE">CIS TECHNOLOGIESCIH> TO SELL SHARES TO SWISS CO</field>
+	<field name = "titulo">CIS TECHNOLOGIESCIH> TO SELL SHARES TO SWISS CO</field>
 	<field name = "DATELINE">TULSA, Okla, April 3 -</field>
-	<field name = "BODY">CIS Technologies Inc said it
+	<field name = "content">CIS Technologies Inc said it
 executed a formal share purchase agreement with Swiss
 Reinsurance Co of Zurich, Switzerland.
     Under terms of the agreement, Swiss Re will acquire 5.5 mln

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 07:41:42.61</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">A
-f0527reute
-u f BC-BUNDESBANK-LEAVES-CRE   03-19 0051</field>
-	<field name = "TITLE">BUNDESBANK LEAVES CREDIT POLICIES UNCHANGED</field>
+	<field name = "titulo">BUNDESBANK LEAVES CREDIT POLICIES UNCHANGED</field>
 	<field name = "DATELINE">FRANKFURT, March 19 -</field>
-	<field name = "BODY">The Bundesbank left credit policies
+	<field name = "content">The Bundesbank left credit policies
 unchanged after today's regular meeting of its council, a
 spokesman said in answer to enquiries.
     The West German discount rate remains at 3.0 pct, and the

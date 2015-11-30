@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 16:49:42.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2438reute
-u f BC-TEXAS-INSTRUMENTS-TX   03-23 0079</field>
-	<field name = "TITLE">TEXAS INSTRUMENTS TXN> CHIP PACT APPROVED</field>
+	<field name = "titulo">TEXAS INSTRUMENTS TXN> CHIP PACT APPROVED</field>
 	<field name = "DATELINE">DALLAS, March 23 -</field>
-	<field name = "BODY">Texas Instruments Inc said the 
+	<field name = "content">Texas Instruments Inc said the 
 International Trade Commission approved its previously
 disclosed settlement of a patent dispute with a number of
 Japanese semiconductor companies.

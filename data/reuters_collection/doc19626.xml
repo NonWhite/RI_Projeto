@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 10:21:31.92</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F 
-f1103reute
-u f BC-BRITISH-AIRWAYS-SEES   06-29 0075</field>
-	<field name = "TITLE">BRITISH AIRWAYS SEES FIRST QUARTER RECOVERY</field>
+	<field name = "titulo">BRITISH AIRWAYS SEES FIRST QUARTER RECOVERY</field>
 	<field name = "DATELINE">LONDON, June 29 -</field>
-	<field name = "BODY">British Airways Plc's BAB.L> May
+	<field name = "content">British Airways Plc's BAB.L> May
 passenger and cargo traffic figures provided evidence of
 recovery from last year's setbacks and this trend will be
 reflected in first quarter results due in August, chairman Lord

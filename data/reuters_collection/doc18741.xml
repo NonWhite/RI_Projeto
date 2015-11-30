@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uganda</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">T 
-f3557reute
-d f BC-IMF-LOANS-UGANDA-92.1   06-18 0122</field>
-	<field name = "TITLE">IMF LOANS UGANDA 92.1 MLN DLRS</field>
+	<field name = "titulo">IMF LOANS UGANDA 92.1 MLN DLRS</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">The International Monetary Fund said
+	<field name = "content">The International Monetary Fund said
 it has loaned Uganda 92.1 mln dlrs to aid in economic recovery.
     The fund said 60 mln dlrs of the loan is available through
 the so-called structural adjustment facility (SAF) over the

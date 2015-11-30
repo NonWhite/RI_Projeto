@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 17:49:36.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0033reute
-h f BC-CEMDAC-GOES-OUT-OF-BU   03-05 0033</field>
-	<field name = "TITLE">CEMDAC GOES OUT OF BUSINESS</field>
+	<field name = "titulo">CEMDAC GOES OUT OF BUSINESS</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 5 -</field>
-	<field name = "BODY">Cemdac Corp said it told the state
+	<field name = "content">Cemdac Corp said it told the state
 of Minnesota to permanently suspend trading of its common
 stock.
     The company said it is ceasing operations.

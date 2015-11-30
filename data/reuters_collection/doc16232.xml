@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 09:11:25.12</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0825reute
-u f BC-S.ATLANTIC-SOAF.O>,   04-13 0076</field>
-	<field name = "TITLE">S.ATLANTIC SOAF.O>, INDEPENDENCE INHO.O> MERGE</field>
+	<field name = "titulo">S.ATLANTIC SOAF.O>, INDEPENDENCE INHO.O> MERGE</field>
 	<field name = "DATELINE">STAMFORD, Conn., April 13 -</field>
-	<field name = "BODY">South Atlantic Financial Corp
+	<field name = "content">South Atlantic Financial Corp
 said it has agreed in principle to merge with Independence
 Holding Co into a new company to be called SAFCO International
 Ltd.

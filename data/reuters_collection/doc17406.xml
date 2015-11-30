@@ -2,12 +2,9 @@
 	<field name = "DATE">29-APR-1987 13:18:04.43</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">C
-f1941reute
-d f BC-SEC   04-29 0100</field>
-	<field name = "TITLE">SEC OKAYS MIDWEST STOCK TRADING OF OTC ISSUES</field>
+	<field name = "titulo">SEC OKAYS MIDWEST STOCK TRADING OF OTC ISSUES</field>
 	<field name = "DATELINE">WASHINGTON, April 29 -</field>
-	<field name = "BODY">The Securities Exchange Commission
+	<field name = "content">The Securities Exchange Commission
 decided to allow the Midwest Stock exchange to trade 25 stocks
 currently listed on the National Securities Dealers Association
 Automated Quotation, NASDAQ, system.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 10:59:37.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM Y
-f5264reute
-r f BC-VALERO-ENERGY-VLO>-D   03-17 0110</field>
-	<field name = "TITLE">VALERO ENERGY VLO> DEBT UPGRADED BY MOODY'S</field>
+	<field name = "titulo">VALERO ENERGY VLO> DEBT UPGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 upgraded Valero Energy Corp's 120 mln dlrs of debt.
     Moody's cited an improved leverage position that will
 result from Valero's sale of its Valero Natural Gas subsidiary

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 10:40:42.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1053reute
-r f BC-ARMCO-INC-AS>-UNIT-F   06-19 0107</field>
-	<field name = "TITLE">ARMCO INC AS> UNIT FORMS JOINT VENTURE FIRM</field>
+	<field name = "titulo">ARMCO INC AS> UNIT FORMS JOINT VENTURE FIRM</field>
 	<field name = "DATELINE">PARSIPPANY, N.J., June 19 -</field>
-	<field name = "BODY">Armco said its Northern
+	<field name = "content">Armco said its Northern
 Automatic Electric Foundry Co unit formed a joint venture
 company with Stelco Inc STE.TO> unit Stelco Erie Corp.
     The companies said the new firm, which will be called M.E.

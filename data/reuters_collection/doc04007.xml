@@ -4,12 +4,9 @@
 	<field name = "PLACES">canada</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">E
-f0877reute
-r f AM-CANADA-CLARK   03-11 0105</field>
-	<field name = "TITLE">CLARK SAYS HE EXPECTS U.S. ACTION ON ACID RAIN</field>
+	<field name = "titulo">CLARK SAYS HE EXPECTS U.S. ACTION ON ACID RAIN</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">Canadian Foreign Secretary Joe
+	<field name = "content">Canadian Foreign Secretary Joe
 Clark, winding up a two-day visit to Washington, said he
 expected the Reagan administration to take some action on
 reducing acid rain.

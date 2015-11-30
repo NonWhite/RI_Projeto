@@ -5,12 +5,9 @@
 	<field name = "PLACES">ussr</field>
 	<field name = "PEOPLE">reagan</field>
 	<field name = "PEOPLE">verity</field>
-	<field name = "UNKNOWN">F A RM 
-f2743reute
-r f AM-REAGAN-VERITY   10-19 0104</field>
-	<field name = "TITLE">REAGAN CALLS FOR VIGILANCE ON CERTAIN EXPORTS</field>
+	<field name = "titulo">REAGAN CALLS FOR VIGILANCE ON CERTAIN EXPORTS</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">President Reagan said the Commerce
+	<field name = "content">President Reagan said the Commerce
 Department should be vigilant in preventing the flow of
 strategic technology from reaching the the Soviet Union and
 other communist countries.

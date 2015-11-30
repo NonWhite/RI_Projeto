@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 14:03:18.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3195reute
-r f BC-BHP-MINTERALS-BRKNY>   03-16 0113</field>
-	<field name = "TITLE">BHP MINTERALS BRKNY> MELDS UTAH INTERNATIONAL</field>
+	<field name = "titulo">BHP MINTERALS BRKNY> MELDS UTAH INTERNATIONAL</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 16 -</field>
-	<field name = "BODY">Broken Hill Proprietary Co Ltd
+	<field name = "content">Broken Hill Proprietary Co Ltd
 said it will integrate Utah International Inc, which it bought
 three years ago, under a common management structure.
     The company said effective June 1, when Utah International

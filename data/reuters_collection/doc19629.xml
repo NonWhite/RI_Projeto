@@ -6,12 +6,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">F 
-f1128reute
-u f BC-STALEY-STA>-SELLS-IN   06-29 0082</field>
-	<field name = "TITLE">STALEY STA> SELLS INTEREST IN SPANISH VENTURE</field>
+	<field name = "titulo">STALEY STA> SELLS INTEREST IN SPANISH VENTURE</field>
 	<field name = "DATELINE">ROLLING MEADOWS, ILL., June 29 -</field>
-	<field name = "BODY">Staley Continental Inc
+	<field name = "content">Staley Continental Inc
 said it sold its 50 interest in Sociedad Iberica de
 Molturacion, S.A. (Simsa), a soybean and sunflower seed
 processing company based in Madrid, Spain.

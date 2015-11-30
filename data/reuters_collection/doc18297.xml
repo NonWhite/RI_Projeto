@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 16:36:35.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2636reute
-u f BC-SEARS-S>-DOWNGRADED   06-02 0082</field>
-	<field name = "TITLE">SEARS S> DOWNGRADED BY E.F. HUTTON</field>
+	<field name = "titulo">SEARS S> DOWNGRADED BY E.F. HUTTON</field>
 	<field name = "DATELINE">CHICAGO, June 2 -</field>
-	<field name = "BODY">Sears, Roebuck and Co's stock was
+	<field name = "content">Sears, Roebuck and Co's stock was
 downgraded one notch from a neutral rating, said E.F. Hutton
 analyst Bernard Sosnick.
     The company's stock closed at 50, off 1-1/4.

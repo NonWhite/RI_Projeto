@@ -4,13 +4,10 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0125reute
-u f BC-GERMAN-BOND-YIELDS-SE   03-23 0095</field>
-	<field name = "TITLE">GERMAN BOND YIELDS SEEN FALLING IN NEAR TERM</field>
+	<field name = "titulo">GERMAN BOND YIELDS SEEN FALLING IN NEAR TERM</field>
 	<field name = "AUTHOR">By Alice Ratcliffe, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 23 -</field>
-	<field name = "BODY">West German bond yields could decline
+	<field name = "content">West German bond yields could decline
 over the next few months if recent efforts to stabilize
 exchange rates, as seen in last month's Paris pact, extend to
 keeping down European interest rates, banking economists said.

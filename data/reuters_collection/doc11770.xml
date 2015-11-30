@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 23:33:12.88</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f3041reute
-u f BC-TAIWAN'S-SECOND-QUART   03-31 0116</field>
-	<field name = "TITLE">TAIWAN'S SECOND QUARTER IMPORTS SEEN RISING</field>
+	<field name = "titulo">TAIWAN'S SECOND QUARTER IMPORTS SEEN RISING</field>
 	<field name = "DATELINE">TAIPEI, April 1 -</field>
-	<field name = "BODY">Taiwan's imports in the second quarter of
+	<field name = "content">Taiwan's imports in the second quarter of
 1987 are expected to rise to 7.75 billion U.S. Dlrs from 5.82
 billion a year earlier and from 6.95 billion in the first
 quarter of this year, the statistics department said.

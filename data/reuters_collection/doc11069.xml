@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 16:18:50.48</field>
 	<field name = "TOPICS">fuel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2516reute
-u f BC-ROYAL-DUTCH-RD>-UNIT   03-30 0094</field>
-	<field name = "TITLE">ROYAL DUTCH RD> UNIT RAISES HEAVY FUEL PRICES</field>
+	<field name = "titulo">ROYAL DUTCH RD> UNIT RAISES HEAVY FUEL PRICES</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">Scallop Petroleum Corp, a subsidiary
+	<field name = "content">Scallop Petroleum Corp, a subsidiary
 of Royal Dutch/Shell group, said today it raised contract
 prices for heavy fuel 25 cts to 1.75 dlrs a barrel, effective
 today.

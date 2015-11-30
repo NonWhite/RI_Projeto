@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 11:51:43.01</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1597reute
-u f BC-KODAK-EK>-BUYS-STAKE   03-26 0105</field>
-	<field name = "TITLE">KODAK EK> BUYS STAKE IN BIOTECHNOLOGY COMPANY</field>
+	<field name = "titulo">KODAK EK> BUYS STAKE IN BIOTECHNOLOGY COMPANY</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., March 26 -</field>
-	<field name = "BODY">Eastman Kodak Co said it has
+	<field name = "content">Eastman Kodak Co said it has
 reached an agreement to acquire new stock representing a 16 pct
 interest in industrial biotechnology company Genencor Inc> for
 undisclosed terms.

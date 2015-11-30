@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 09:08:47.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0854reute
-u f BC-GM-UNIT-GMH>-NEGOTIA   06-02 0095</field>
-	<field name = "TITLE">GM UNIT GMH> NEGOTIATING FOR BRITISH CONTRACT</field>
+	<field name = "titulo">GM UNIT GMH> NEGOTIATING FOR BRITISH CONTRACT</field>
 	<field name = "DATELINE">EL SEGUNDO, Calif., June 2 -</field>
-	<field name = "BODY">General Motors Corp's Hughes
+	<field name = "content">General Motors Corp's Hughes
 Aircraft Co subsidiary said it has been chosen by British
 Satellite Broadcasting to negotiate for a contract worth about
 300 mln dlrs to deliver two satellites for direct broadcast

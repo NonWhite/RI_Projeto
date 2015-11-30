@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 23:18:47.24</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">RM
-f2970reute
-u f BC-ECUADOR-CRUDE-OIL-OUT   04-09 0099</field>
-	<field name = "TITLE">ECUADOR CRUDE OIL OUTPUT TO RESUME NEXT MONTH</field>
+	<field name = "titulo">ECUADOR CRUDE OIL OUTPUT TO RESUME NEXT MONTH</field>
 	<field name = "DATELINE">QUITO, April 9 -</field>
-	<field name = "BODY">Ecuador is due to resume limited crude oil
+	<field name = "content">Ecuador is due to resume limited crude oil
 output on May 8 when a new 43 km pipeline to neighbouring
 Colombia should be finished, an energy ministry spokesman said.
     Oil output was halted on March 5 by an earthquake which

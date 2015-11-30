@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">22-MAR-1987 21:47:39.03</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0161reute
-u f BC-RESERVE-BANK-CANCELS   03-22 0074</field>
-	<field name = "TITLE">RESERVE BANK CANCELS WEEKLY N.Z. T-BILL TENDER</field>
+	<field name = "titulo">RESERVE BANK CANCELS WEEKLY N.Z. T-BILL TENDER</field>
 	<field name = "DATELINE">WELLINGTON, March 23 -</field>
-	<field name = "BODY">The Reserve Bank said it is
+	<field name = "content">The Reserve Bank said it is
 cancelling its regular weekly treasury bill tender scheduled
 for tomorrow.
     The Bank said in a statement forecasts indicate a net cash

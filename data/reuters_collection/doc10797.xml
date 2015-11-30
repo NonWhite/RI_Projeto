@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 08:31:59.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0788reute
-r f AM-GM   03-30 0110</field>
-	<field name = "TITLE">WORKERS TO END 4-DAY STRIKE AT GENERAL MOTORS</field>
+	<field name = "titulo">WORKERS TO END 4-DAY STRIKE AT GENERAL MOTORS</field>
 	<field name = "DATELINE">PONTIAC, Mich., March 30 -</field>
-	<field name = "BODY">United Auto Workers members
+	<field name = "content">United Auto Workers members
 voted overwhelmingly to ratify a settlement in a four-day
 strike against General Motors Corp's GM> truck and bus complex
 here, a UAW official said.

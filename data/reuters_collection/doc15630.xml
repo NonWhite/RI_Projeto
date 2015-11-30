@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:14:45.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1292reute
-d f BC-MORGAN,-OLMSTEAD,-KEN   04-09 0083</field>
-	<field name = "TITLE">MORGAN, OLMSTEAD, KENNEDY MOKG> NAMES PRES</field>
+	<field name = "titulo">MORGAN, OLMSTEAD, KENNEDY MOKG> NAMES PRES</field>
 	<field name = "DATELINE">LOS ANGELES, April 9 -</field>
-	<field name = "BODY">Morgan, Olmstead, Kennedy and
+	<field name = "content">Morgan, Olmstead, Kennedy and
 Gardner Capital Corp said Michael Fusco has been named
 president of its securities brokerage and investment banking
 firm, Morgan, Olmstead, Kennedy and Gardner Inc.

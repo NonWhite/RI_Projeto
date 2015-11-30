@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 11:17:26.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM 
-f1565reute
-r f BC-BANKERS-TRUST-BT>-NE   10-20 0103</field>
-	<field name = "TITLE">BANKERS TRUST BT> NET BOOSTED BY TAX BENEFIT</field>
+	<field name = "titulo">BANKERS TRUST BT> NET BOOSTED BY TAX BENEFIT</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Bankers Trust New York Corp said tax
+	<field name = "content">Bankers Trust New York Corp said tax
 benefits as a result of an increase in loan loss provisions
 boosted earnings to a record 146.4 mln dlrs in the third
 quarter from 110.3 mln a year ago.

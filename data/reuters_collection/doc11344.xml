@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 10:18:34.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1195reute
-r f BC-HECK'S-HEX>-CHANGES   03-31 0088</field>
-	<field name = "TITLE">HECK'S HEX> CHANGES AUDITORS</field>
+	<field name = "titulo">HECK'S HEX> CHANGES AUDITORS</field>
 	<field name = "DATELINE">NITRO, W. Va., March 31 -</field>
-	<field name = "BODY">Heck's Inc said it has named
+	<field name = "content">Heck's Inc said it has named
 Touche Ross and Co to replace KMG Main Hurdman as auditor.
     A company spokesman said the change was made in connection
 with Heck's Chapter 11 bankruptcy filing on March 5.

@@ -1,10 +1,7 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:57:49.53</field>
-	<field name = "UNKNOWN">C T
-f1411reute
-u f BC-LONDON-COFFEE-GRADING   04-07 0024</field>
-	<field name = "TITLE">LONDON COFFEE GRADINGS/TENDERS AFTERNOON - APR 7</field>
+	<field name = "titulo">LONDON COFFEE GRADINGS/TENDERS AFTERNOON - APR 7</field>
 	<field name = "DATELINE">GRADINGS -</field>
-	<field name = "BODY">20 Sierra Leone type 2 and three Zaire type 3
+	<field name = "content">20 Sierra Leone type 2 and three Zaire type 3
 originals were posted. Total todate 43.</field>
 </doc></add>

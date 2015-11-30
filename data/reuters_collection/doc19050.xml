@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 04:20:47.11</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0223reute
-u f BC-C.-ITOH-SEES-NO-GROWT   06-19 0108</field>
-	<field name = "TITLE">C. ITOH SEES NO GROWTH IN 1987/88 GROUP PROFIT</field>
+	<field name = "titulo">C. ITOH SEES NO GROWTH IN 1987/88 GROUP PROFIT</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">C. Itoh and Co Ltd CITT.T> said its group
+	<field name = "content">C. Itoh and Co Ltd CITT.T> said its group
 net profit in the year ending March 31, 1988, is expected to be
 unchanged from a year earlier.
     The prediction assumes a yen/dollar rate of 140 yen and a

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 11:17:25.47</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM 
-f1216reute
-u f BC-SPAIN-PLANS-TARIFF-OV   06-19 0094</field>
-	<field name = "TITLE">SPAIN PLANS TARIFF OVERHAUL FOR POWER UTILITIES</field>
+	<field name = "titulo">SPAIN PLANS TARIFF OVERHAUL FOR POWER UTILITIES</field>
 	<field name = "AUTHOR">By Andrew Hurst, Reuters</field>
 	<field name = "DATELINE">MADRID, June 19 -</field>
-	<field name = "BODY">Spain's socialist government is aiming to
+	<field name = "content">Spain's socialist government is aiming to
 restore confidence of foreign banks in its power generation
 sector by pushing through a complete reform of the industry's
 tariff structure, a senior government official said.

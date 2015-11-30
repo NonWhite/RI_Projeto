@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-MAR-1987 23:07:24.78</field>
 	<field name = "PLACES">poland</field>
-	<field name = "UNKNOWN">RM
-f0192reute
-u f BC-POLISH-GOVERNMENT-HIK   03-29 0104</field>
-	<field name = "TITLE">POLISH GOVERNMENT HIKES FOOD, FUEL, ENERGY PRICES</field>
+	<field name = "titulo">POLISH GOVERNMENT HIKES FOOD, FUEL, ENERGY PRICES</field>
 	<field name = "DATELINE">WARSAW, March 30 -</field>
-	<field name = "BODY">Poland's communist government raised
+	<field name = "content">Poland's communist government raised
 food, fuel and energy prices but said it had taken an economic
 risk by reducing the scale of the increases under pressure from
 the country's official trade unions.

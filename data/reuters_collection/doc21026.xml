@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 15:06:01.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2749reute
-d f BC-ENTERTAINMENT-MARKETI   10-19 0061</field>
-	<field name = "TITLE">ENTERTAINMENT MARKETING EM> HEAD TO BUY SHARES</field>
+	<field name = "titulo">ENTERTAINMENT MARKETING EM> HEAD TO BUY SHARES</field>
 	<field name = "DATELINE">HOUSTON, Oct 19 -</field>
-	<field name = "BODY">Elias Zinn, chairman and chief executive
+	<field name = "content">Elias Zinn, chairman and chief executive
 of Entertainment Marketing Inc, said he planned to personally
 purchase up to 500,000 shares of Entertaiment Marketing common
 stock from time to time in the open market.

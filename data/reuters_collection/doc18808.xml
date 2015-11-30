@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:48:27.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3892reute
-u f BC-BANK-NF-NEW-ENGLAND-   06-18 0029</field>
-	<field name = "TITLE">BANK NF NEW ENGLAND BKNE.O> SETS LOSS PROVISION</field>
+	<field name = "titulo">BANK NF NEW ENGLAND BKNE.O> SETS LOSS PROVISION</field>
 	<field name = "DATELINE">BOSTON, June 18 -</field>
-	<field name = "BODY">Bank of New England Corp said it will
+	<field name = "content">Bank of New England Corp said it will
 make a special second quarter loan loss provision of 107 mln
 dlrs.
  Reuter</field>

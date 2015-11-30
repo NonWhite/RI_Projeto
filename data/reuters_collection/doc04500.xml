@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:05:27.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0410reute
-r f BC-TEXACO-TX>,-HONEYWEL   03-12 0099</field>
-	<field name = "TITLE">TEXACO TX>, HONEYWELL HON> IN JOINT VENTURE</field>
+	<field name = "titulo">TEXACO TX>, HONEYWELL HON> IN JOINT VENTURE</field>
 	<field name = "DATELINE">PHOENIX, Ariz., March 12 -</field>
-	<field name = "BODY">Texaco Inc and Honeywell Inc
+	<field name = "content">Texaco Inc and Honeywell Inc
 said they formed a joint venture to provide advanced industrial
 plant control systems and services.
     The companies did not say how much money they will invest

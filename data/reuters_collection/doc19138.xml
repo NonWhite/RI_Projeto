@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 09:35:14.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y 
-f0834reute
-r f BC-TVA-CUSTOMERS-ASK-COU   06-19 0101</field>
-	<field name = "TITLE">TVA CUSTOMERS ASK COURT REQUIRE DOE PAYMENT</field>
+	<field name = "titulo">TVA CUSTOMERS ASK COURT REQUIRE DOE PAYMENT</field>
 	<field name = "DATELINE">NASHVILLE, Tenn., June 19 -</field>
-	<field name = "BODY">An organization of Tennessee
+	<field name = "content">An organization of Tennessee
 Valley Authority industrial customers said it has joined the
 TVA in asking a court to prevent the U.S. Department of Energy
 from witholding contracted payments to TVA.

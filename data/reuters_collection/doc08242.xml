@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 09:36:16.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0888reute
-b f BC-ICN-PHARMACEUTICALS-   03-23 0088</field>
-	<field name = "TITLE">ICN PHARMACEUTICALS ICN> TO BUY BACK SHARES</field>
+	<field name = "titulo">ICN PHARMACEUTICALS ICN> TO BUY BACK SHARES</field>
 	<field name = "DATELINE">COSTA MESA, Calif., March 23 -</field>
-	<field name = "BODY">ICN Pharmaceuticals Inc said
+	<field name = "content">ICN Pharmaceuticals Inc said
 its board approved the purchase of up to three mln shares of
 its outstanding common stock.
     ICN also said it plans to buy up to 500,000 more shares

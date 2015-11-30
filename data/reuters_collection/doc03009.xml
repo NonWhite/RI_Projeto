@@ -3,12 +3,9 @@
 	<field name = "TOPICS">strategic-metal</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">A
-f0808reute
-d f AM-URANIUM   03-09 0135</field>
-	<field name = "TITLE">U.S. TO ALLOW TEMPORARY IMPORTS OF S.A. URANIUM</field>
+	<field name = "titulo">U.S. TO ALLOW TEMPORARY IMPORTS OF S.A. URANIUM</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">The Treasury Department said it would
+	<field name = "content">The Treasury Department said it would
 temporarily permit imports of South African uranium ore and
 oxide pending clarification of anti-apartheid sanctions laws
 passed by Congress last fall.

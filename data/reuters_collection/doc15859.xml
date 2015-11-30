@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2201reute
-b f BC-us/supply/demand   04-09 0118</field>
-	<field name = "TITLE">USDA DETAILS FREE GRAIN STOCKS UNDER LOAN</field>
+	<field name = "titulo">USDA DETAILS FREE GRAIN STOCKS UNDER LOAN</field>
 	<field name = "DATELINE">Washington, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department gave
+	<field name = "content">The U.S. Agriculture Department gave
 projected carryover free stocks of feedgrains, corn and wheat
 under loans, with comparisons, as follows, in mln bushels,
 except feedgrains, which is in mln tonnes --

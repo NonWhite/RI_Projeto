@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 11:59:29.67</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0713reute
-h f BC-BRITISH-AIRWAYS-BAB>   03-09 0108</field>
-	<field name = "TITLE">BRITISH AIRWAYS BAB> OFFERING HOLIDAY PACKAGE</field>
+	<field name = "titulo">BRITISH AIRWAYS BAB> OFFERING HOLIDAY PACKAGE</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">British Airways said it is introducing
+	<field name = "content">British Airways said it is introducing
 a short-stay fare, called "On The Town," permitting passengers
 to book a theater holiday in London at the last minute and
 spend up to four days in England.

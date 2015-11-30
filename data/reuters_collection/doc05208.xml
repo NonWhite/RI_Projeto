@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 04:09:11.15</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F RM M C
-f1246reute
-u f BC-JAPAN'S-DOWA-MINING-T   03-16 0103</field>
-	<field name = "TITLE">JAPAN'S DOWA MINING TO PRODUCE GOLD FROM APRIL</field>
+	<field name = "titulo">JAPAN'S DOWA MINING TO PRODUCE GOLD FROM APRIL</field>
 	<field name = "DATELINE">TOKYO, March 16 -</field>
-	<field name = "BODY">Dowa Mining Co Ltd> said it will start
+	<field name = "content">Dowa Mining Co Ltd> said it will start
 commercial production of gold, copper, lead and zinc from its
 Nurukawa Mine in northern Japan in April.
     A company spokesman said the mine's monthly output is

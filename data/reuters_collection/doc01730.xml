@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f0508reute
-u f BC-/RENEWAL-OF-U.S./USSR   03-04 0110</field>
-	<field name = "TITLE">RENEWAL OF U.S./USSR GRAIN PACT SAID UNCERTAIN</field>
+	<field name = "titulo">RENEWAL OF U.S./USSR GRAIN PACT SAID UNCERTAIN</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">Prospects for renewal of the
+	<field name = "content">Prospects for renewal of the
 five-year U.S./USSR grains agreement are uncertain at this
 point, a Soviet trade official told Reuters.
     The current trade imbalance between the United States and

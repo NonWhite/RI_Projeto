@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 10:04:05.70</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "EXCHANGES">ase</field>
-	<field name = "UNKNOWN">RM
-f0994reute
-u f BC-AMSTERDAM-EXCHANGE-AN   03-25 0102</field>
-	<field name = "TITLE">AMSTERDAM EXCHANGE ANNOUNCES MODERNISATION DRIVE</field>
+	<field name = "titulo">AMSTERDAM EXCHANGE ANNOUNCES MODERNISATION DRIVE</field>
 	<field name = "DATELINE">AMSTERDAM, March 25 -</field>
-	<field name = "BODY">The Amsterdam Stock Exchange, engaged
+	<field name = "content">The Amsterdam Stock Exchange, engaged
 in a reform program to boost competitiveness, said it is
 launching a modernisation drive of its operational systems.
     The move, announced one day after news of a first step

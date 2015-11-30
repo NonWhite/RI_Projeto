@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 15:34:23.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0627reute
-d f BC-ADVANCED-GENETIC-SCIE   03-04 0049</field>
-	<field name = "TITLE">ADVANCED GENETIC SCIENCES AGSI> NAMES DIRECTOR</field>
+	<field name = "titulo">ADVANCED GENETIC SCIENCES AGSI> NAMES DIRECTOR</field>
 	<field name = "DATELINE">OAKLAND, March 4 -</field>
-	<field name = "BODY">Advanced Genetic Sciences Inc said Debra
+	<field name = "content">Advanced Genetic Sciences Inc said Debra
 Coyman was named director of business development of the
 company. The company said Coyman was previously director of
 product development of Agrigenetics Research Corp in Boulder,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 13:40:00.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1921reute
-d f BC-CALLON-PETROLEUM-CLN   04-01 0076</field>
-	<field name = "TITLE">CALLON PETROLEUM CLNP> GETS QUALIFIED AUDIT</field>
+	<field name = "titulo">CALLON PETROLEUM CLNP> GETS QUALIFIED AUDIT</field>
 	<field name = "DATELINE">NATCHEZ, Miss., March 1 -</field>
-	<field name = "BODY">Callon Petroleum Co said its
+	<field name = "content">Callon Petroleum Co said its
 auditors will qualify their opinion on 1986 financial
 statements due to questions about Callon's ability to continue
 as a going concern.

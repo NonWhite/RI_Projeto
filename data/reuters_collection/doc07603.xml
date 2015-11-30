@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0540reute
-u f BC-AKZO-BUYS-RHONE-POULE   03-20 0107</field>
-	<field name = "TITLE">AKZO BUYS RHONE-POULENC HOUSEHOLD UNITS</field>
+	<field name = "titulo">AKZO BUYS RHONE-POULENC HOUSEHOLD UNITS</field>
 	<field name = "DATELINE">ARNHEM, Netherlands, March 20 -</field>
-	<field name = "BODY">Dutch chemical group Akzo
+	<field name = "content">Dutch chemical group Akzo
 N.V. AKZO.AS> said it agreed to take over household product
 subsidiaries of French group Rhone-Poulenc RHON.PA> for an
 undisclosed sum.

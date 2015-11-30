@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 02:36:36.41</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0109reute
-u f BC-AUSTRALIAN-OPPOSITION   03-23 0105</field>
-	<field name = "TITLE">AUSTRALIAN OPPOSITION LEADER SACKS PREDECESSOR</field>
+	<field name = "titulo">AUSTRALIAN OPPOSITION LEADER SACKS PREDECESSOR</field>
 	<field name = "DATELINE">SYDNEY, March 23 -</field>
-	<field name = "BODY">Australian opposition leader John Howard
+	<field name = "content">Australian opposition leader John Howard
 sacked from the shadow cabinet Andrew Peacock, who is a former
 foreign minister and Howard's predecessor, party officials
 said.

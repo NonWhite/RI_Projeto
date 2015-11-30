@@ -2,13 +2,10 @@
 	<field name = "DATE">20-OCT-1987 11:09:48.56</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1519reute
-h f BC-ASIAN-SMALL-MARKETS-R   10-20 0100</field>
-	<field name = "TITLE">ASIAN SMALL MARKETS REEL FROM WALL STREET</field>
+	<field name = "titulo">ASIAN SMALL MARKETS REEL FROM WALL STREET</field>
 	<field name = "AUTHOR">By Andrew Browne</field>
 	<field name = "DATELINE">TAIPEI, Oct 20 -</field>
-	<field name = "BODY">Stock markets in Asia's economic "little
+	<field name = "content">Stock markets in Asia's economic "little
 dragons," seen as hot tips for global investors, reeled today as
 share prices crashed in the U.S., The region's main trading
 partner.

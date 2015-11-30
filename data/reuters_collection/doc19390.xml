@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 15:41:42.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2198reute
-r f BC-DIAMOND-BATHURST-DBJ   06-19 0110</field>
-	<field name = "TITLE">DIAMOND BATHURST DBJ> DEBT DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">DIAMOND BATHURST DBJ> DEBT DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 cut to B-2 from Ba-1 Diamond Bathurst Inc's subordinated notes
 of 1995.
     Moody's said it expects the company's operating performance

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 07:11:59.11</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">E A
-f4531reute
-r f BC-TORONTO-DOMINION-ISSU   03-17 0079</field>
-	<field name = "TITLE">TORONTO DOMINION ISSUES 20 BILLION YEN EUROBOND</field>
+	<field name = "titulo">TORONTO DOMINION ISSUES 20 BILLION YEN EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">Toronto Dominion Bank is issuing a 20
+	<field name = "content">Toronto Dominion Bank is issuing a 20
 billion yen eurobond due April 6, 1992 with a 4-5/8 pct coupon
 and priced at 101-5/8, lead manager Nomura International Ltd
 said.

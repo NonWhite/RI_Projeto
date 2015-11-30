@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 13:55:30.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2002reute
-d f BC-WURLITZER-WUR>-ELECT   04-24 0099</field>
-	<field name = "TITLE">WURLITZER WUR> ELECTS NEW TOP OFFICERS</field>
+	<field name = "titulo">WURLITZER WUR> ELECTS NEW TOP OFFICERS</field>
 	<field name = "DATELINE">DEKALB, ILL., April 24 -</field>
-	<field name = "BODY">Wurlitzer Co said George Howell
+	<field name = "content">Wurlitzer Co said George Howell
 was elected vice chairman, succeeding Sid Weiss who was named
 chief executive officer.
     Weiss became vice chairman in December 1986. Weiss and

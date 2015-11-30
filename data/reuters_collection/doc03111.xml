@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">nicaragua</field>
-	<field name = "UNKNOWN">V
-f0369reute
-u f PM-REAGAN   03-09 0113</field>
-	<field name = "TITLE">PAPER SAYS POINDEXTER MAY LINK REAGAN TO FUNDS</field>
+	<field name = "titulo">PAPER SAYS POINDEXTER MAY LINK REAGAN TO FUNDS</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">President Reagan's denial that he
+	<field name = "content">President Reagan's denial that he
 knew proceeds from Iran arms sales were diverted to Nicaraguan
 contra rebels might be challenged by his former national
 security adviser, according to the Washington Post.

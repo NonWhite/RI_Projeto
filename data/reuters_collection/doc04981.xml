@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 14:36:04.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0130reute
-d f BC-GTE-GTE>-COMMENTS-ON   03-13 0097</field>
-	<field name = "TITLE">GTE GTE> COMMENTS ON JUSTICE DEP'T PROPOSALS</field>
+	<field name = "titulo">GTE GTE> COMMENTS ON JUSTICE DEP'T PROPOSALS</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">GTE Corp said it supports
+	<field name = "content">GTE Corp said it supports
 recommendations by the Department of Justice to allow the
 regional Bell companies to enter some new businesses but that
 it rejects the government's proposal to let the companies offer

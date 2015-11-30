@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 09:04:37.13</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C L
-f0879reute
-d f BC-LONDON-MEAT-FUTURES-N   03-31 0136</field>
-	<field name = "TITLE">LONDON MEAT FUTURES NEED MARKETING - CHAIRMAN</field>
+	<field name = "titulo">LONDON MEAT FUTURES NEED MARKETING - CHAIRMAN</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">Pigmeat and beef futures, which have
+	<field name = "content">Pigmeat and beef futures, which have
 been thinly traded on the London Meat Futures Exchange, LMFE,
 despite lower physical prices and the introduction of new
 contracts, need more effective marketing, LMFE chairman Pat

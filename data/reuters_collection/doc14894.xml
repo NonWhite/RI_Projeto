@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 06:54:25.93</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0482reute
-b f BC-BANK-OF-JAPAN-HAS-NO   04-08 0098</field>
-	<field name = "TITLE">BANK OF JAPAN HAS NO COMMENT ON YEN BOND REPORT</field>
+	<field name = "titulo">BANK OF JAPAN HAS NO COMMENT ON YEN BOND REPORT</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">A Bank of Japan spokesman declined to
+	<field name = "content">A Bank of Japan spokesman declined to
 comment on a press report that the central bank had decided to
 conduct closer scrutiny of the operations of financial
 institutions in the bond market.

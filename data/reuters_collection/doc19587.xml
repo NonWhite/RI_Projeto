@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:06:31.51</field>
-	<field name = "UNKNOWN">Y 
-f0837reute
-u f BC-INTERNATIONAL-SPOT-OI   06-29 0112</field>
-	<field name = "TITLE">INTERNATIONAL SPOT OIL PRICES FIRM ON OPEC ACCORD</field>
+	<field name = "titulo">INTERNATIONAL SPOT OIL PRICES FIRM ON OPEC ACCORD</field>
 	<field name = "AUTHOR">By Karen Yates, Reuters</field>
 	<field name = "DATELINE">LONDON, June 29 -</field>
-	<field name = "BODY">OPEC's weekend decision to cut planned
+	<field name = "content">OPEC's weekend decision to cut planned
 oil output levels for second half 1987 has renewed market
 confidence in the oil price outlook for the rest of the year
 and boosted international spot prices, oil traders said.

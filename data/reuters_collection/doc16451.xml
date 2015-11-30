@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:37:06.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1766reute
-r f BC-NORTHERN-TRUST-NTRS.   04-13 0085</field>
-	<field name = "TITLE">NORTHERN TRUST NTRS.O> FILES SHELF</field>
+	<field name = "titulo">NORTHERN TRUST NTRS.O> FILES SHELF</field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">Northern Trust Corp said it filed with
+	<field name = "content">Northern Trust Corp said it filed with
 the Securities and Exchange Commission to offer up to 150 mln
 dlrs of debt securities.
     The company said it may sell the securities through

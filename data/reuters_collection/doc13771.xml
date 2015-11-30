@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:46:22.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0820reute
-u f BC-AIRBUS-REPLACES-SUPER   04-07 0090</field>
-	<field name = "TITLE">AIRBUS TO USE GE GE> ENGINE ON A-340 AIRLINER</field>
+	<field name = "titulo">AIRBUS TO USE GE GE> ENGINE ON A-340 AIRLINER</field>
 	<field name = "DATELINE">PARIS, April 7 -</field>
-	<field name = "BODY">The European Airbus Industrie> consortium
+	<field name = "content">The European Airbus Industrie> consortium
 is to change the lead engine on its A-340 aircraft because the
 high-technology superfan engine will not be ready by 1992, a
 company spokesman said.

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 04:54:29.65</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0731
-reute
-u f BC-AUSTRALIAN-POLICE-ARR   03-03 0102</field>
-	<field name = "TITLE">AUSTRALIAN POLICE ARREST FORMER WESTPAC CLERK</field>
+	<field name = "titulo">AUSTRALIAN POLICE ARREST FORMER WESTPAC CLERK</field>
 	<field name = "DATELINE">SYDNEY, March 3 -</field>
-	<field name = "BODY">Australian police said they charged a
+	<field name = "content">Australian police said they charged a
 former currency clerk of Westpac Banking Corp WSTP.S> with
 misappropriating 8,300 dlrs in July in an alleged
 foreign-exchange fraud.

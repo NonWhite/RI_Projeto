@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 15:26:04.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f4417reute
-r f BC-SOUTHLAND-SLC>-MAY-B   06-18 0092</field>
-	<field name = "TITLE">SOUTHLAND SLC> MAY BE DOWNGRADED BY S/P</field>
+	<field name = "titulo">SOUTHLAND SLC> MAY BE DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it may
+	<field name = "content">Standard and Poor's Corp said it may
 downgrade Southland Corp's 156 mln dlrs of debt securities and
 125 mln dlrs (liquidation value) of preferred stock.
     The agency cited Southland's announcement that it is

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 13:17:55.02</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM
-f1833reute
-r f BC-SWISS-BANKS-MEET-CHUR   03-20 0101</field>
-	<field name = "TITLE">SWISS BANKS MEET CHURCHES OVER S. AFRICA LOANS</field>
+	<field name = "titulo">SWISS BANKS MEET CHURCHES OVER S. AFRICA LOANS</field>
 	<field name = "DATELINE">ZURICH, March 20 -</field>
-	<field name = "BODY">Swiss banks are holding talks with
+	<field name = "content">Swiss banks are holding talks with
 Protestant and Roman Catholic officials to hear church
 complaints about lending to South Africa, the Swiss Bankers'
 Association said.

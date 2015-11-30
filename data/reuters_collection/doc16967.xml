@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 08:22:31.87</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0669reute
-r f AM-OIL-HODEL   04-21 0077</field>
-	<field name = "TITLE">HODEL SAYS ODDS ON FINDING NEW ALASKA OIL 1-IN-5</field>
+	<field name = "titulo">HODEL SAYS ODDS ON FINDING NEW ALASKA OIL 1-IN-5</field>
 	<field name = "DATELINE">WASHINGTON, April 21 -</field>
-	<field name = "BODY">U.S. Interior Secretary Donald Hodel
+	<field name = "content">U.S. Interior Secretary Donald Hodel
 said there was a one in five chance that new drilling in Alaska
 would find oil.
     "But if it's there, there's a very good chance that it would

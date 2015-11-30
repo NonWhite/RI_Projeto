@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0145reute
-u f BC-GERMAN-TRADE,-CURRENT   03-26 0096</field>
-	<field name = "TITLE">GERMAN TRADE, CURRENT ACCOUNT DATA DUE TODAY</field>
+	<field name = "titulo">GERMAN TRADE, CURRENT ACCOUNT DATA DUE TODAY</field>
 	<field name = "DATELINE">WIESBADEN, March 26 -</field>
-	<field name = "BODY">The Federal Statistics Office will
+	<field name = "content">The Federal Statistics Office will
 today publish trade and current account figures for February, a
 spokeswoman said in reply to queries.
     In January the current account surplus provisionally

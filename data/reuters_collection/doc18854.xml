@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 13:28:59.84</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F 
-f4064reute
-u f BC-CONT'L-ILLINOIS-CIL>   06-18 0083</field>
-	<field name = "TITLE">CONT'L ILLINOIS CIL> CANNOT EXPLAIN STOCK MOVE</field>
+	<field name = "titulo">CONT'L ILLINOIS CIL> CANNOT EXPLAIN STOCK MOVE</field>
 	<field name = "DATELINE">CHICAGO, June 18 -</field>
-	<field name = "BODY">Continental Illinois Corp said it knows
+	<field name = "content">Continental Illinois Corp said it knows
 of know reason why its stock was trading higher in heavy
 volume.
     The stock was up 1/2 to 5-3/8 on turnover of 1,386,000

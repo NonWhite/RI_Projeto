@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">conable</field>
-	<field name = "UNKNOWN">C G L M T
-f0122reute
-r f AM-conable   03-05 0115</field>
-	<field name = "TITLE">WORLD BANK PRESIDENT EXPECTS BRAZILIAN DEBT PLAN</field>
+	<field name = "titulo">WORLD BANK PRESIDENT EXPECTS BRAZILIAN DEBT PLAN</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">World Bank President Barber Conable
+	<field name = "content">World Bank President Barber Conable
 said he was confident Brazil would come up with a debt plan and
 that the current suspension on commercial bank debt payments
 would be temporary.

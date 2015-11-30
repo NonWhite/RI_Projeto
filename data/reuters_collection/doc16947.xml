@@ -7,13 +7,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">india</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0353reute
-u f BC-WORLD-BANK-SUGGESTS-M   04-21 0092</field>
-	<field name = "TITLE">WORLD BANK SUGGESTS MORE OPEN ECONOMY FOR INDIA</field>
+	<field name = "titulo">WORLD BANK SUGGESTS MORE OPEN ECONOMY FOR INDIA</field>
 	<field name = "AUTHOR">By Ajoy Sen, Reuters</field>
 	<field name = "DATELINE">NEW DELHI, April 21 -</field>
-	<field name = "BODY">The World Bank has suggested India
+	<field name = "content">The World Bank has suggested India
 should move to a more open economy by gradually removing most
 government controls on industry and adopting a liberal external
 trade policy with reduced levels of protection.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f0325reute
-u f BC-TAIWAN-BUYS-81,000-TO   04-29 0093</field>
-	<field name = "TITLE">TAIWAN BUYS 81,000 TONNES OF U.S. MAIZE</field>
+	<field name = "titulo">TAIWAN BUYS 81,000 TONNES OF U.S. MAIZE</field>
 	<field name = "DATELINE">TAIPEI, April 29 -</field>
-	<field name = "BODY">The joint committee of Taiwan's maize
+	<field name = "content">The joint committee of Taiwan's maize
 importers awarded contracts to two U.S. Firms to supply two
 shipments totalling 81,000 tonnes, a committee spokesman said.
     Continental Grain Co of New York won a contract for the

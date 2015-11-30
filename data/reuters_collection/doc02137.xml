@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:10:59.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0530reute
-d f BC-TOKHEIM-TOK>-UNIT-IN   03-05 0078</field>
-	<field name = "TITLE">TOKHEIM TOK> UNIT IN MARKETING AGREEMENT</field>
+	<field name = "titulo">TOKHEIM TOK> UNIT IN MARKETING AGREEMENT</field>
 	<field name = "DATELINE">FORT WAYNE, IND., March 5 -</field>
-	<field name = "BODY">Tokheim Corp said its Advanced
+	<field name = "content">Tokheim Corp said its Advanced
 Products and Electronics Division reached a four-year
 manufacturing and marketing agreement with TechVend, a New
 Jersey-based company which has developed a credit card

@@ -2,13 +2,10 @@
 	<field name = "DATE">9-APR-1987 12:49:07.67</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1751reute
-u f BC-U.S.-MARCH-RETAIL-SAL   04-09 0097</field>
-	<field name = "TITLE">U.S. MARCH RETAIL SALES CUT BY LATE EASTER</field>
+	<field name = "titulo">U.S. MARCH RETAIL SALES CUT BY LATE EASTER</field>
 	<field name = "AUTHOR">BY Susan Zeidler, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">U.S. retailers' lackluster March sales
+	<field name = "content">U.S. retailers' lackluster March sales
 were due to a late Easter, according to analysts who expect a
 recovery in April.
     "Sales look soft because of the Easter shift, but

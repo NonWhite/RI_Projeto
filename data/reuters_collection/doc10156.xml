@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:18:08.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2542reute
-r f BC-UAL-UAL>-UNIT'S-EIGH   03-26 0088</field>
-	<field name = "TITLE">UAL UAL> UNIT'S EIGHT-YEAR NOTES YIELD 8.06 PCT</field>
+	<field name = "titulo">UAL UAL> UNIT'S EIGHT-YEAR NOTES YIELD 8.06 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Hertz Corp, a unit of UAL Inc, is
+	<field name = "content">Hertz Corp, a unit of UAL Inc, is
 raising 100 mln dlrs through an offering of notes due 1995
 yielding 8.06 pct, said lead manager Shearson Lehman Brothers
 Inc.

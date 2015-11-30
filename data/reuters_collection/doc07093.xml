@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 09:39:43.34</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">boesky</field>
-	<field name = "UNKNOWN">F
-f0882reute
-u f BC-JEFFERIES-JEFG>-CHAI   03-19 0040</field>
-	<field name = "TITLE">JEFFERIES JEFG> CHAIRMAN PLEADING GUILTY, QUITS</field>
+	<field name = "titulo">JEFFERIES JEFG> CHAIRMAN PLEADING GUILTY, QUITS</field>
 	<field name = "DATELINE">LOS ANGELES, March 19 -</field>
-	<field name = "BODY">Jefferies Group Inc said founder
+	<field name = "content">Jefferies Group Inc said founder
 and chairman Boyd L. Jefferies has resigned and intends to
 plead guilty to two felony counts of violating federal
 securities laws.

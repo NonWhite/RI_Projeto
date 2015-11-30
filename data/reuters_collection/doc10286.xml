@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 00:25:46.86RM</field>
-	<field name = "UNKNOWN">f0026reute</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">u f BC-JAPAN-CONSTRUCTION-OR   03-27 0100</field>
-	<field name = "TITLE">JAPAN CONSTRUCTION ORDERS RISE IN FEBRUARY</field>
+	<field name = "titulo">JAPAN CONSTRUCTION ORDERS RISE IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Orders received in February by 50 major
+	<field name = "content">Orders received in February by 50 major
 Japanese construction firms rose 2.7 pct to 841.68 billion yen
 from a year earlier for the third successive year-on-year gain,
 the construction ministry said.

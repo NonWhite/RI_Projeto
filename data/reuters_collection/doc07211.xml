@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 11:50:59.75</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1427reute
-u f BC-REXNORD-INC-REX>-1ST   03-19 0031</field>
-	<field name = "TITLE">REXNORD INC REX> 1ST QTR JAN  31 LOSS</field>
+	<field name = "titulo">REXNORD INC REX> 1ST QTR JAN  31 LOSS</field>
 	<field name = "DATELINE">MILWAUKEE, WIS., March 19 -</field>
-	<field name = "BODY">Shr loss 76 cts vs profit 50 cts
+	<field name = "content">Shr loss 76 cts vs profit 50 cts
     Net loss 19,186,000 vs profit 12,438,000
     Sales 157.9 mln vs 149.2 mln
     NOTE: Fiscal 1987 net loss includes a pretax charge of 19.5

@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 09:39:59.02</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f7869reute
-b f BC-GENCORP-GY>-GROUP-HO   03-18 0099</field>
-	<field name = "TITLE">GENCORP GY> GROUP HOLDS 9.8 PCT STAKE</field>
+	<field name = "titulo">GENCORP GY> GROUP HOLDS 9.8 PCT STAKE</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">(General Partners), a Texas general
+	<field name = "content">(General Partners), a Texas general
 partnership equally owned by affiliates of Wagner and Brown and
 AFG Industries Inc AFG>, said it currently holds 2,180,608
 common shares, or about 9.8 pct, of Gencorp Inc's GY>

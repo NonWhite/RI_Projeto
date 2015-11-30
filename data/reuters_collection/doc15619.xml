@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 11:07:44.59</field>
 	<field name = "TOPICS">potato</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G
-f1260reute
-d f BC-U.K.-POTATO-FUTURES-T   04-09 0108</field>
-	<field name = "TITLE">U.K. POTATO FUTURES TRADING NOT TO BE SUSPENDED</field>
+	<field name = "titulo">U.K. POTATO FUTURES TRADING NOT TO BE SUSPENDED</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Trading on the London potato futures
+	<field name = "content">Trading on the London potato futures
 market will not be suspended, Richard Harris, Chairman of the
 London Potato Futures Association (LPFA), said in a statement
 to floor members.

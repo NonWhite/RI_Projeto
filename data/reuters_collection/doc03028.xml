@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 09:06:39.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0971reute
-r f BC-BANKING-TRADE-GROUP-S   03-09 0098</field>
-	<field name = "TITLE">BANKING TRADE GROUP SAYS BANK PROFITS DOWN</field>
+	<field name = "titulo">BANKING TRADE GROUP SAYS BANK PROFITS DOWN</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">The American Bankers Association said
+	<field name = "content">The American Bankers Association said
 the profitability of the nation's commercial banks declined by
 12 pct during the first three quarters of 1986.
     During the first nine months of last year, the industry's

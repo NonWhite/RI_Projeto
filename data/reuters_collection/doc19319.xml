@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:54:28.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1885reute
-r f BC-HILLS-DEPARTMENT-STOR   06-19 0100</field>
-	<field name = "TITLE">HILLS DEPARTMENT STORES PLANS OFFERING CHANGES</field>
+	<field name = "titulo">HILLS DEPARTMENT STORES PLANS OFFERING CHANGES</field>
 	<field name = "DATELINE">CANTON, Mass, June 19 -</field>
-	<field name = "BODY">Hills Department Stores Inc said it
+	<field name = "content">Hills Department Stores Inc said it
 has decided to amend the registration on file with the
 Securities and Exchange Commission covering its planned initial
 offering.

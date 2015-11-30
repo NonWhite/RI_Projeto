@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 13:09:40.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0977reute
-r f BC-ROCHESTER-GAS-RGS>-S   03-06 0090</field>
-	<field name = "TITLE">ROCHESTER GAS RGS> SEES FURTHER NUCLEAR DELAYS</field>
+	<field name = "titulo">ROCHESTER GAS RGS> SEES FURTHER NUCLEAR DELAYS</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., March 6 -</field>
-	<field name = "BODY">Rochester Gas and Electric Co
+	<field name = "content">Rochester Gas and Electric Co
 said it now estimates Unit Two of the Nine Mile nuclear power
 plant will not start commercial operation until 1988's first
 quarter.

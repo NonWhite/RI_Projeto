@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 15:19:18.05</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM A
-f2216reute
-u f BC-BANKERS-HOPEFUL-ON-PH   03-23 0108</field>
-	<field name = "TITLE">BANKERS HOPEFUL ON PHILIPPINE DEBT TALKS</field>
+	<field name = "titulo">BANKERS HOPEFUL ON PHILIPPINE DEBT TALKS</field>
 	<field name = "DATELINE">MIAMI, March 23 -</field>
-	<field name = "BODY">The Philippines and its commercial bank
+	<field name = "content">The Philippines and its commercial bank
 advisory committee will resume talks tomorrow on what bankers
 hope will be the final leg of negotiations for a 9.4 billion
 dlr debt rescheduling package.

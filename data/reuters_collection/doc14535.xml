@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:49:30.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2293reute
-d f BC-PERCEPTRONICS-PERC>   04-07 0064</field>
-	<field name = "TITLE">PERCEPTRONICS PERC> UNIT GETS NAVY CONTRACT</field>
+	<field name = "titulo">PERCEPTRONICS PERC> UNIT GETS NAVY CONTRACT</field>
 	<field name = "DATELINE">WOODLAND HILLS, Calif., April 7 -</field>
-	<field name = "BODY">Perceptronics Inc said its
+	<field name = "content">Perceptronics Inc said its
 FAAC Perceptronics subsidiary received a 2.7 mln dlr contract
 from the Naval Air Development Center in Warminster, Pa.
     The contract calls for the company to develop software for

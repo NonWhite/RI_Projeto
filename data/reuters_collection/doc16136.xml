@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 05:08:14.44</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">RM
-f0261reute
-u f BC-NAKASONE'S-PARTY-SUFF   04-13 0107</field>
-	<field name = "TITLE">NAKASONE'S PARTY SUFFERS SETBACKS IN LOCAL POLLS</field>
+	<field name = "titulo">NAKASONE'S PARTY SUFFERS SETBACKS IN LOCAL POLLS</field>
 	<field name = "DATELINE">TOKYO, April 13 -</field>
-	<field name = "BODY">Japanese Prime Minister Yasuhiro
+	<field name = "content">Japanese Prime Minister Yasuhiro
 Nakasone's unpopular plan to introduce a sales tax caused an
 electoral setback for his ruling Liberal Democratic Party (LDP)
 in Sunday's local elections, political analysts said.

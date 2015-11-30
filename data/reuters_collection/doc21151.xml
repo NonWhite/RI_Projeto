@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V 
-f2379reute
-u f BC-U.S-SENATE-PANEL-VOTE   10-19 0102</field>
-	<field name = "TITLE">U.S SENATE PANEL VOTES TO LIMIT COUNTY LOAN DROP</field>
+	<field name = "titulo">U.S SENATE PANEL VOTES TO LIMIT COUNTY LOAN DROP</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">The Senate Agriculture committee voted
+	<field name = "content">The Senate Agriculture committee voted
 to limit changes in county loan rate differentials starting
 with the 1988 crop as part of a budget deficit reduction
 package.

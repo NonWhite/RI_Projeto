@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 13:55:27.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f4144reute
-u f AM-BUDGET-REAGAN   06-18 0088</field>
-	<field name = "TITLE">WHITE HOUSE RAPS DEMOCRATS' BUDGET</field>
+	<field name = "titulo">WHITE HOUSE RAPS DEMOCRATS' BUDGET</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">The White House called a compromise
+	<field name = "content">The White House called a compromise
 budget hammered out by congressional Democratic leaders a
 "pickpocket" spending plan, but barred negotiations on changing
 it until budget reforms are in place.

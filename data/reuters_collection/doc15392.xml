@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 05:28:59.40</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0274reute
-u f BC-EQUITICORP-H.K.-UNIT   04-09 0113</field>
-	<field name = "TITLE">EQUITICORP H.K. UNIT TO RAISE 30 MLN U.S. DLRS</field>
+	<field name = "titulo">EQUITICORP H.K. UNIT TO RAISE 30 MLN U.S. DLRS</field>
 	<field name = "DATELINE">HONG KONG, April 9 -</field>
-	<field name = "BODY">Equiticorp Hongkong Ltd> is planning
+	<field name = "content">Equiticorp Hongkong Ltd> is planning
 a 30 mln U.S. Dlr transferrable loan facility to raise working
 capital, lead managers Manufacturers Hanover Asia Ltd> and
 Manufacturers Hanover Ltd>, said.

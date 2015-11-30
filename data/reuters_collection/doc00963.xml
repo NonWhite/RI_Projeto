@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 08:12:47.58</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V
-f0105
-reute
-u f BC-REAGAN-APPROVAL-RATIN   03-03 0106</field>
-	<field name = "TITLE">REAGAN APPROVAL RATING FALLS TO FOUR-YEAR LOW</field>
+	<field name = "titulo">REAGAN APPROVAL RATING FALLS TO FOUR-YEAR LOW</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">President Reagan's approval rating fell
+	<field name = "content">President Reagan's approval rating fell
 after the Tower Commission criticised his handling of the Iran
 arms scandal, a New York Times/CBS poll indicates.
     The poll found 51 pct of those surveyed thought he was

@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 11:17:42.69</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1485reute
-u f BC-USX-X>,-CONSOLIDATED   03-31 0049</field>
-	<field name = "TITLE">USX X>, CONSOLIDATED NATURAL CNG> END TALKS</field>
+	<field name = "titulo">USX X>, CONSOLIDATED NATURAL CNG> END TALKS</field>
 	<field name = "DATELINE">DALLAS, March 31 -</field>
-	<field name = "BODY">USX Corp's Texas Oil and Gas Corp
+	<field name = "content">USX Corp's Texas Oil and Gas Corp
 subsidiary and Consolidated Natural Gas Co have mutually agreed
 not to pursue further their talks on Consolidated's possible
 purchase of Apollo Gas Co from Texas Oil.

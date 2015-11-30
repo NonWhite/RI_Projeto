@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PEOPLE">perez-de-cuellar</field>
-	<field name = "UNKNOWN">V Y RM 
-f2205reute
-u f AM-GULF-COUNCIL   10-19 0103</field>
-	<field name = "TITLE">SECURITY COUNCIL CALLS TALKS AFTER GULF ATTACK</field>
+	<field name = "titulo">SECURITY COUNCIL CALLS TALKS AFTER GULF ATTACK</field>
 	<field name = "DATELINE">UNITED NATIONS, Oct 19 -</field>
-	<field name = "BODY">The U.N. Security Council was
+	<field name = "content">The U.N. Security Council was
 called to a private meeting on Monday for consultations 
 following the United States attack on an Iranian oil platform.
     Meanwhile, a U.N. spokesman said that as far as he knew a

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-supply</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f3135reute
-b f BC-JAPAN-DOES-NOT-INTEND   04-23 0108</field>
-	<field name = "TITLE">JAPAN DOES NOT INTEND TO EASE CREDIT - OFFICIALS</field>
+	<field name = "titulo">JAPAN DOES NOT INTEND TO EASE CREDIT - OFFICIALS</field>
 	<field name = "DATELINE">TOKYO, April 24 -</field>
-	<field name = "BODY">The Bank of Japan does not intend to ease
+	<field name = "content">The Bank of Japan does not intend to ease
 credit policy further, bank officials told Reuters.
     They were responding to rumours in the Japanese bond market
 that the central bank was planning to cut its 2.5 pct discount

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 14:37:00.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2222reute
-r f BC-ANCHOR-HOCKING-ARH>   03-31 0083</field>
-	<field name = "TITLE">ANCHOR HOCKING ARH> POSTPONES ANNUAL MEETING</field>
+	<field name = "titulo">ANCHOR HOCKING ARH> POSTPONES ANNUAL MEETING</field>
 	<field name = "DATELINE">LANCASTER, Ohio, March 31 -</field>
-	<field name = "BODY">Anchor Hocking Corp said it
+	<field name = "content">Anchor Hocking Corp said it
 postponed its annual meeting of stockholders previously
 scheduled for May 6 pending completion of a review of proxy
 materials by the Securities and Exchange Commission.

@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 15:08:54.04</field>
 	<field name = "TOPICS">zinc</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">M 
-f4364reute
-b f BC-force-majeure-lifted   06-18 0095</field>
-	<field name = "TITLE">FORCE MAJEURE LIFTED AT CAJAMARQUILLA</field>
+	<field name = "titulo">FORCE MAJEURE LIFTED AT CAJAMARQUILLA</field>
 	<field name = "DATELINE">LIMA, June 18 -</field>
-	<field name = "BODY">Peru's state minerals marketing arm, Minero
+	<field name = "content">Peru's state minerals marketing arm, Minero
 Peru Comercial SA (Minpeco), lifted a force majeure on zinc
 ingot shipments from the country's biggest zinc refinery at
 Cajamarquilla, a spokesman said.

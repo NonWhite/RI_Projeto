@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 10:41:36.86</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0589reute
-s f BC-PILLSBURY-CO-PSY>-VO   03-03 0025</field>
-	<field name = "TITLE">PILLSBURY CO PSY> VOTES QUARTERLY DIVIDEND</field>
+	<field name = "titulo">PILLSBURY CO PSY> VOTES QUARTERLY DIVIDEND</field>
 	<field name = "DATELINE">MINNEAPOLIS, MINN., March 3 -</field>
-	<field name = "BODY">Qtly div 25 cts vs 25 cts prior qtr
+	<field name = "content">Qtly div 25 cts vs 25 cts prior qtr
     Pay 31 May
     Record 1 May
  Reuter</field>

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:44:33.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0813reute
-r f BC-3COM-COMS>-SUPPORTS   04-07 0096</field>
-	<field name = "TITLE">3COM COMS> SUPPORTS NEW IBM> COMPUTERS</field>
+	<field name = "titulo">3COM COMS> SUPPORTS NEW IBM> COMPUTERS</field>
 	<field name = "DATELINE">SANTA CLARA, Calif., April 7 -</field>
-	<field name = "BODY">3Com Corp said it supports
+	<field name = "content">3Com Corp said it supports
 International Business Machines Corp's personal System/2 series
 of computers, and will provide network operating software and
 interfaces.

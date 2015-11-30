@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 11:17:14.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0593reute
-r f BC-INDEPENDENT-AIR-IAIR   03-04 0104</field>
-	<field name = "TITLE">INDEPENDENT AIR IAIR> IN EXCHANGE FOR WARRANTS</field>
+	<field name = "titulo">INDEPENDENT AIR IAIR> IN EXCHANGE FOR WARRANTS</field>
 	<field name = "DATELINE">ATLANTA, March 4 -</field>
-	<field name = "BODY">Independent Air Holdings Inc said it is
+	<field name = "content">Independent Air Holdings Inc said it is
 planning an exchange offer for its Class A warrants, which
 expire April 11.
     The company said for 30 days after the effective date of

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2447reute
-d f BC-UNIONIST-URGES-RETALI   03-24 0108</field>
-	<field name = "TITLE">UNIONIST URGES RETALIATION AGAINST JAPAN</field>
+	<field name = "titulo">UNIONIST URGES RETALIATION AGAINST JAPAN</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">William Bywater, president of the
+	<field name = "content">William Bywater, president of the
 International Union of Electronic Workers, called on President
 Reagan to retaliate against Japan for unfair practices in
 semiconductor trade.

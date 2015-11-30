@@ -4,12 +4,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">M
-f0612reute
-d f BC-GREEK-BULK-CARRIER-AG   04-29 0074</field>
-	<field name = "TITLE">GREEK BULK ORE CARRIER AGROUND IN ORINOCO RIVER</field>
+	<field name = "titulo">GREEK BULK ORE CARRIER AGROUND IN ORINOCO RIVER</field>
 	<field name = "DATELINE">LONDON, April 29 -</field>
-	<field name = "BODY">A Greek bulk carrier loaded with iron
+	<field name = "content">A Greek bulk carrier loaded with iron
 ore has run aground in Venezuela's Orinoco river, Lloyd's
 shipping services reports.
     The 74,596-dwt Andromachi is reported to have run aground

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 13:44:20.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0990reute
-u f BC-DISTILLERS-DR>-KNOWS   03-12 0109</field>
-	<field name = "TITLE">DISTILLERS DR> KNOWS NO REASON FOR STOCK MOVE</field>
+	<field name = "titulo">DISTILLERS DR> KNOWS NO REASON FOR STOCK MOVE</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">National Distillers and Chemical Corp
+	<field name = "content">National Distillers and Chemical Corp
 said it was unable to explain a sharp rise in its stock.
     National Distillers rose 3-1/8 to 63-3/4 in moderate
 trading of 84,000 shares. Texas investor Robert M. Bass

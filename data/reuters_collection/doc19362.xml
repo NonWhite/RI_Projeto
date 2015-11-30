@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:50:07.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2045reute
-d f BC-GEMCRAFT-GEMH.O>-TO   06-19 0085</field>
-	<field name = "TITLE">GEMCRAFT GEMH.O> TO BUY ABOUT 130,000 SHARES</field>
+	<field name = "titulo">GEMCRAFT GEMH.O> TO BUY ABOUT 130,000 SHARES</field>
 	<field name = "DATELINE">HOUSTON, June 19 -</field>
-	<field name = "BODY">Gemcraft Inc told shareholders at the
+	<field name = "content">Gemcraft Inc told shareholders at the
 annual meeting that the company and its principal shareholders
 will repurchase about 130,000 shares of its common stock.
     The company's portion of the repurchase obligation equals

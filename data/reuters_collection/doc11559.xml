@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 14:27:53.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2174reute
-u f BC-TEXACO-TX>-NO-COMMEN   03-31 0108</field>
-	<field name = "TITLE">TEXACO TX> NO COMMENT ON SETTLEMENT STATEMENT</field>
+	<field name = "titulo">TEXACO TX> NO COMMENT ON SETTLEMENT STATEMENT</field>
 	<field name = "DATELINE">NEW YORK, MARCH 31 -</field>
-	<field name = "BODY">Texaco Inc said that it had no comment
+	<field name = "content">Texaco Inc said that it had no comment
 in response to a statement by Pennzoil Co PZL> chairman J.
 Hugh Liedtke that any settlement with Texaco must be above the
 two billion dlrs range.

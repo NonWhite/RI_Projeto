@@ -2,13 +2,10 @@
 	<field name = "DATE">20-OCT-1987 14:38:48.98</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F 
-f2751reute
-d f AM-MARKETS-FLORIDA -  10-20 0103</field>
-	<field name = "TITLE">STOCK TUMBLE MAY SCARE RETIREES OUT OR MARKET</field>
+	<field name = "titulo">STOCK TUMBLE MAY SCARE RETIREES OUT OR MARKET</field>
 	<field name = "AUTHOR">By Peter Kiernan</field>
 	<field name = "DATELINE">MIAMI, Oct 20 -</field>
-	<field name = "BODY">Many Florida investors are old enough to
+	<field name = "content">Many Florida investors are old enough to
 have seen it all before -- they lived through the Crash of '29
 and Monday's stock market debacle was just another day for
 some.

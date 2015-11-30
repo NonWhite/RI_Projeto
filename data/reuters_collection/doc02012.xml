@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 09:33:06.03</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0060reute
-u f BC-JAPAN-FUND-JPN>-SEEK   03-05 0100</field>
-	<field name = "TITLE">JAPAN FUND JPN> SEEKERS CONFIDENT OF FINANCING</field>
+	<field name = "titulo">JAPAN FUND JPN> SEEKERS CONFIDENT OF FINANCING</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">The Sterling Grace Capital Management
+	<field name = "content">The Sterling Grace Capital Management
 L.P.> group said it is confident financing can be arranged if
 The Japan Fund's board recommend's the group's acquisition
 proposal.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 16:35:15.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2463reute
-u f BC-FLEETFLT>,-NORSTARN   03-19 0116</field>
-	<field name = "TITLE">FLEETFLT>, NORSTARNOR> S/P RATINGS UNAFFECTED</field>
+	<field name = "titulo">FLEETFLT>, NORSTARNOR> S/P RATINGS UNAFFECTED</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Standard and Poor's Corp said the
+	<field name = "content">Standard and Poor's Corp said the
 merger agreement between Fleet Financial Group and Norstar
 Bancorp Inc would not affect the firms' current ratings because
 the merger cannot take place until July 1988.

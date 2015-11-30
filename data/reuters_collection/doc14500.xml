@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:39:56.31</field>
-	<field name = "UNKNOWN">C G
-f2250reute
-u f BC-ny-cotton-clsg-report   04-07 0105</field>
-	<field name = "TITLE">NY COTTON EXTENDS GAINS LATE, SETTLES HIGHER</field>
+	<field name = "titulo">NY COTTON EXTENDS GAINS LATE, SETTLES HIGHER</field>
 	<field name = "DATELINE">New York, April 7 -</field>
-	<field name = "BODY">Cotton futures extended their gains in
+	<field name = "content">Cotton futures extended their gains in
 late dealings when trade selling dissipated, allowing local and
 speculative buying to increase, brokers said.
     The market settled 0.75 to 0.50 cent stronger, with spot

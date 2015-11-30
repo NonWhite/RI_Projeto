@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 10:35:33.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0307reute
-r f BC-FRANK-B.-HALL-FBH>-S   03-09 0101</field>
-	<field name = "TITLE">FRANK B. HALL FBH> SUED BY NY INSURANCE DEPT</field>
+	<field name = "titulo">FRANK B. HALL FBH> SUED BY NY INSURANCE DEPT</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Frank B. Hall and Co Inc said the
+	<field name = "content">Frank B. Hall and Co Inc said the
 superintendent of insurance of New York, as liquidator of Union
 Capital Indemnity Insurance Co of New York, has filed a lawsuit
 against the company, Touche Ross and Co, a group of Hall units,

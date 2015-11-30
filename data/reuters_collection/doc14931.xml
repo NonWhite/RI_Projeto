@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 08:17:38.91</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0683reute
-r f BC-CINCINNATI-BELL-CSN>   04-08 0090</field>
-	<field name = "TITLE">CINCINNATI BELL CSN> STARTS AUXTON AUXT> BID</field>
+	<field name = "titulo">CINCINNATI BELL CSN> STARTS AUXTON AUXT> BID</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Cincinnati Bell Inc said it has started
+	<field name = "content">Cincinnati Bell Inc said it has started
 its previously-announced 15.75 dlr per share tender offer for
 all shares of Auxton Computer Enterprises Inc.
     In a newspaper advertisement, the company said the tender

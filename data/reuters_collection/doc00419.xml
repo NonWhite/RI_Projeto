@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 09:43:47.96</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0531
-reute
-u f BC-WHITTAKER-CORP-WKR>   03-02 0083</field>
-	<field name = "TITLE">WHITTAKER CORP WKR> 1ST QTR JAN 31 NET</field>
+	<field name = "titulo">WHITTAKER CORP WKR> 1ST QTR JAN 31 NET</field>
 	<field name = "DATELINE">LOS ANGELES, March 2 -</field>
-	<field name = "BODY">Oper shr 17 cts vs 25 cts
+	<field name = "content">Oper shr 17 cts vs 25 cts
     Qtly div 15 cts vs 15 cts prior
     Oper net 1,522,000 vs 3,501,000
     Sales 98.0 mln vs 86.3 mln

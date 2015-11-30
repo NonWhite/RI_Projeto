@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">norway</field>
-	<field name = "UNKNOWN">E F Y
-f0796reute
-r f BC-bow-valley-bvi>-to-s   04-07 0079</field>
-	<field name = "TITLE">BOW VALLEY BVI> TO SELL NORWEGIAN SUBSIDIARY</field>
+	<field name = "titulo">BOW VALLEY BVI> TO SELL NORWEGIAN SUBSIDIARY</field>
 	<field name = "DATELINE">Calgary, Alberta, April 7 -</field>
-	<field name = "BODY">Bow Valley Industries Ltd said
+	<field name = "content">Bow Valley Industries Ltd said
 it agreed to sell its wholly owned Norwegian subsidiary to Elf
 Aquitaine Norge A/S of Stavanger, Norway for 13 mln Canadian
 dlrs.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:38:34.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0360reute
-d f BC-CONSOLIDATED-STORES-   03-05 0073</field>
-	<field name = "TITLE">CONSOLIDATED STORES CNS> BUYS WAREHOUSE SPACE</field>
+	<field name = "titulo">CONSOLIDATED STORES CNS> BUYS WAREHOUSE SPACE</field>
 	<field name = "DATELINE">COLUMBUS, Ohio, March 5 -</field>
-	<field name = "BODY">Consolidated Store Corp said it
+	<field name = "content">Consolidated Store Corp said it
 purchased two mln square feet of warehouse space on 146 acres
 of land adjacent to its present Columbus distribution center of
 430,000 square feet on 121 acres.

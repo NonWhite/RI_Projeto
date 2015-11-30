@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 07:37:44.82</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0589reute
-r f BC-PHILADELPHIA-SEES-CUR   04-08 0086</field>
-	<field name = "TITLE">PHILADELPHIA SEES CURRENCY OPTIONS TRADE IN ASIA</field>
+	<field name = "titulo">PHILADELPHIA SEES CURRENCY OPTIONS TRADE IN ASIA</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">The Philadelphia Stock Exchange will soon
+	<field name = "content">The Philadelphia Stock Exchange will soon
 open offices in Hong Kong and Tokyo to help boost Far Eastern
 participation in foreign currency options before it starts
 evening trading in four or five months time, exchange president

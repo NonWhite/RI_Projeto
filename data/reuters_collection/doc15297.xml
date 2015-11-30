@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 16:14:08.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2464reute
-w f BC-VMS-SHORT-TERM-VST>   04-08 0088</field>
-	<field name = "TITLE">VMS SHORT TERM VST> TO FUND LOAN INCREASE</field>
+	<field name = "titulo">VMS SHORT TERM VST> TO FUND LOAN INCREASE</field>
 	<field name = "DATELINE">CHICAGO, April 8 -</field>
-	<field name = "BODY">VMS Short Term Income Trust said it
+	<field name = "content">VMS Short Term Income Trust said it
 agreed to commit to fund a 1.8 mln dlrs loan increase for 1420
 K Street, a 12-story, 60,000 square foot office building in
 Washington, D.C.

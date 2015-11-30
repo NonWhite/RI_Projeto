@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:41:13.59</field>
-	<field name = "UNKNOWN">L C
-f2435reute
-u f BC-TX/W-OKLA-FEEDLOT-CAT   04-07 0076</field>
-	<field name = "TITLE">TX/W OKLA FEEDLOT CATTLE STDY/UP 0.50 DLR-USDA</field>
+	<field name = "titulo">TX/W OKLA FEEDLOT CATTLE STDY/UP 0.50 DLR-USDA</field>
 	<field name = "DATELINE">amarillo, april 7 -</field>
-	<field name = "BODY">slaughter steers were fully steady and
+	<field name = "content">slaughter steers were fully steady and
 heifers steady to 0.50 dlr higher in moderate trade, the usda
 said.
     Feedlots reported fairly good interest and inquiry from

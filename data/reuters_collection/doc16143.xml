@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">G C
-f0308reute
-u f BC-AWB-CHAIRMAN-URGES-FA   04-13 0114</field>
-	<field name = "TITLE">AWB CHAIRMAN URGES FARMERS NOT TO CUT PLANTINGS</field>
+	<field name = "titulo">AWB CHAIRMAN URGES FARMERS NOT TO CUT PLANTINGS</field>
 	<field name = "DATELINE">MELBOURNE, April 13 -</field>
-	<field name = "BODY">Australia could lose valuable wheat
+	<field name = "content">Australia could lose valuable wheat
 markets through lack of availability if plantings for the
 coming 1987/88 season are significantly reduced, Australian
 Wheat Board (AWB) chairman Clinton Condon said.

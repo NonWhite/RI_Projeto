@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:03:01.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0396reute
-r f BC-MUSIKAHN-CORP-FILES-F   03-12 0103</field>
-	<field name = "TITLE">MUSIKAHN CORP FILES FOR REORGANIZATION</field>
+	<field name = "titulo">MUSIKAHN CORP FILES FOR REORGANIZATION</field>
 	<field name = "DATELINE">FREEPORT, N.Y., March 12 -</field>
-	<field name = "BODY">Musikahn Corp> said it filed a
+	<field name = "content">Musikahn Corp> said it filed a
 reorganization plan with the U.S. Bankruptcy Court for itself
 and its subsidiary, Jack Kahn Music Co.
     The company said both entities have been operating as

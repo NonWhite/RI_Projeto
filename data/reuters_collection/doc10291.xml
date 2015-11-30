@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 01:17:33.75F</field>
-	<field name = "UNKNOWN">f0049reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">u f BC-BHP-SEES-STRONG-FOURT   03-27 0104</field>
-	<field name = "TITLE">BHP SEES STRONG FOURTH QUARTER BUT LOWER YEAR NET</field>
+	<field name = "titulo">BHP SEES STRONG FOURTH QUARTER BUT LOWER YEAR NET</field>
 	<field name = "DATELINE">MELBOURNE, March 27 -</field>
-	<field name = "BODY">The Broken Hill Pty Co Ltd BRKN.S>
+	<field name = "content">The Broken Hill Pty Co Ltd BRKN.S>
 said it expects a strong full year result, helped by sigificant
 investment allowance credits in the fourth quarter, but net
 will fall short of the record 988.2 mln dlrs earned in 1985/86

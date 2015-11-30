@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 09:15:19.87</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f4859reute
-d f BC-CREDIT-AGRICOLE-REPLA   03-17 0101</field>
-	<field name = "TITLE">CREDIT AGRICOLE REPLACES BNP IN HACHETTE TV BID</field>
+	<field name = "titulo">CREDIT AGRICOLE REPLACES BNP IN HACHETTE TV BID</field>
 	<field name = "DATELINE">PARIS, March 17 -</field>
-	<field name = "BODY">French state agricultural bank Caisse
+	<field name = "content">French state agricultural bank Caisse
 Nationale du Credit Agricole> has joined the group led by
 publishing house Hachette> which is bidding for control of the
 state television station TF1, replacing Banque Nationale de

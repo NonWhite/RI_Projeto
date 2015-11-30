@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 17:10:30.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2564reute
-r f BC-WESTPORT-BANK-WBT.O>   06-01 0097</field>
-	<field name = "TITLE">WESTPORT BANK WBT.O> SETS 2-FOR-1 SPLIT</field>
+	<field name = "titulo">WESTPORT BANK WBT.O> SETS 2-FOR-1 SPLIT</field>
 	<field name = "DATELINE">WESTPORT, Conn., June 1 -</field>
-	<field name = "BODY">Westport Bank Corp Inc  aid its
+	<field name = "content">Westport Bank Corp Inc  aid its
 board has declared a 2-for-1 stock split of Westport's common
 and an increase in its quarterly cash dividend.
     The company said the split will be effective in the form of

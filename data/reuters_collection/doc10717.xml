@@ -5,12 +5,9 @@
 	<field name = "TOPICS">dmk</field>
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">RM
-f0298reute
-u f BC-INDONESIAN-RUPIAH-SLI   03-30 0107</field>
-	<field name = "TITLE">INDONESIAN RUPIAH SLIPS AGAINST MARK AND YEN</field>
+	<field name = "titulo">INDONESIAN RUPIAH SLIPS AGAINST MARK AND YEN</field>
 	<field name = "DATELINE">JAKARTA, March 30 -</field>
-	<field name = "BODY">The Indonesian rupiah has held steady
+	<field name = "content">The Indonesian rupiah has held steady
 since its 31 pct devaluation against the dollar six months ago,
 but has slipped against the mark and to a lesser extent against
 the yen, according to central bank figures.

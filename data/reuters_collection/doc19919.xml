@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 16:49:16.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2549reute
-u f AM-BANKS   06-29 0080</field>
-	<field name = "TITLE">U.S. HOUSE PASSES TRUTH IN SAVINGS ACT</field>
+	<field name = "titulo">U.S. HOUSE PASSES TRUTH IN SAVINGS ACT</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">The House of Representatives passed a
+	<field name = "content">The House of Representatives passed a
 bill that requires financial institutions to disclose the terms
 and conditions of interest rates they offer on savings
 accounts.

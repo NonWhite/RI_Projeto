@@ -4,13 +4,10 @@
 	<field name = "TOPICS">retail</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM C
-f0861reute
-u f BC-fin-futures-outlook   03-11 0103</field>
-	<field name = "TITLE">U.S. ECONOMIC DATA KEY TO DEBT FUTURES OUTLOOK</field>
+	<field name = "titulo">U.S. ECONOMIC DATA KEY TO DEBT FUTURES OUTLOOK</field>
 	<field name = "AUTHOR">By Brad Schade, Reuters</field>
 	<field name = "DATELINE">CHICAGO, March 11 -</field>
-	<field name = "BODY">U.S. economic data this week could be
+	<field name = "content">U.S. economic data this week could be
 the key in determining whether U.S. interest rate futures break
 out of a 3-1/2 month trading range, financial analysts said.
     Although market expectations are for February U.S. retail

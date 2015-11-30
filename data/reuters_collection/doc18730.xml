@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 11:22:33.59</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM 
-f3509reute
-u f BC-BONN-SHOULD-SPEED-UP   06-18 0110</field>
-	<field name = "TITLE">BONN SHOULD SPEED UP TAX REFORM, INSTITUTE SAYS</field>
+	<field name = "titulo">BONN SHOULD SPEED UP TAX REFORM, INSTITUTE SAYS</field>
 	<field name = "DATELINE">BONN, June 18 -</field>
-	<field name = "BODY">West Germany's proposed tax reform should
+	<field name = "content">West Germany's proposed tax reform should
 be brought forward to stimulate economic growth and head off
 U.S.-led pressure on Bonn to take further fiscal steps to help
 boost the world economy, the Ifo economic institute said.

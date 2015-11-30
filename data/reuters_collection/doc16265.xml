@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 09:48:04.25</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0949reute
-d f BC-LINDBERG-CORP-LIND>   04-13 0047</field>
-	<field name = "TITLE">LINDBERG CORP LIND> 1ST QTR NET</field>
+	<field name = "titulo">LINDBERG CORP LIND> 1ST QTR NET</field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">Shr 15 cts vs 15 cts
+	<field name = "content">Shr 15 cts vs 15 cts
     Net 689,561 vs 784,088
     Sales 19.2 mln vs 19.8 mln
     Avg shrs 4.7 mln vs 5.3 mln

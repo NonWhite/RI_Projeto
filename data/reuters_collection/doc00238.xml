@@ -3,13 +3,9 @@
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0389
-reute
-u f BC-CHINA-TO-BORROW-390-M   03-01 0098</field>
-	<field name = "TITLE">CHINA TO BORROW 390 MLN DLRS</field>
+	<field name = "titulo">CHINA TO BORROW 390 MLN DLRS</field>
 	<field name = "DATELINE">PEKING, March 1 -</field>
-	<field name = "BODY">China will receive loans totalling 390
+	<field name = "content">China will receive loans totalling 390
 mln dlrs from Japan and the World Bank for investment in new
 highways and port facilities.
     The Japan Overseas Economic Co-operation Fund is to provide

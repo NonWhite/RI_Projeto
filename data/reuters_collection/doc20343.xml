@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 11:33:53.37</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1649reute
-r f BC-KELLOGG-CO-K>-3RD-QT   10-20 0044</field>
-	<field name = "TITLE">KELLOGG CO K> 3RD QTR NET</field>
+	<field name = "titulo">KELLOGG CO K> 3RD QTR NET</field>
 	<field name = "DATELINE">BATTLE CREEK, Mich., Oct 20 -</field>
-	<field name = "BODY">Shr 96 cts vs 83 cts
+	<field name = "content">Shr 96 cts vs 83 cts
     Net 119.3 mln vs 102.8 mln
     Revs 1.01 billion vs 869.9 mln
     Nine mths

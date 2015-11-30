@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 12:20:57.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1727reute
-d f BC-SPARTECH-SPTN.O>-MAY   06-02 0041</field>
-	<field name = "TITLE">SPARTECH SPTN.O> MAY BUY 10 PCT OF ITS STOCK</field>
+	<field name = "titulo">SPARTECH SPTN.O> MAY BUY 10 PCT OF ITS STOCK</field>
 	<field name = "DATELINE">ST. LOUIS, June 2 -</field>
-	<field name = "BODY">Spartech Corp said it will repurchase
+	<field name = "content">Spartech Corp said it will repurchase
 up to 10 pct of its 2.6 mln common shares outstanding.
     The company said it believes the common stock is
 undervalued at current prices.

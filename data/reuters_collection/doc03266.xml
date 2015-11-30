@@ -5,12 +5,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f0172reute
-u f BC-USX-X>-CHAIRMAN-CALL   03-09 0103</field>
-	<field name = "TITLE">USX X> CHAIRMAN CALLS FOR LOWER DOLLAR</field>
+	<field name = "titulo">USX X> CHAIRMAN CALLS FOR LOWER DOLLAR</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">USX Corp chairman David Roderick called
+	<field name = "content">USX Corp chairman David Roderick called
 for a lower value for the U.S. dollar against other currencies
 to help speed a correction in the U.S. trade deficit, which
 last year reached 170 billion dlrs.

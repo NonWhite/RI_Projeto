@@ -3,12 +3,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V
-f0476reute
-u f BC-BANK-OF-JAPAN-BUYS-MO   04-21 0052</field>
-	<field name = "TITLE">BANK OF JAPAN BUYS MODERATE DOLLAR SUM -- DEALERS</field>
+	<field name = "titulo">BANK OF JAPAN BUYS MODERATE DOLLAR SUM -- DEALERS</field>
 	<field name = "DATELINE">TOKYO, April 21 -</field>
-	<field name = "BODY">The Bank of Japan intervened in the
+	<field name = "content">The Bank of Japan intervened in the
 market to try to accelerate the dollar's rise after heavy
 dollar buying by institutional investors, dealers said.
     The central bank bought a moderate amount of dollars at

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">palm-oil</field>
 	<field name = "PLACES">indonesia</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">G C
-f0073reute
-u f BC-INDONESIA-SEES-CPO-PR   04-08 0104</field>
-	<field name = "TITLE">INDONESIA SEES CPO PRICE RISING SHARPLY</field>
+	<field name = "titulo">INDONESIA SEES CPO PRICE RISING SHARPLY</field>
 	<field name = "DATELINE">JAKARTA, April 8 -</field>
-	<field name = "BODY">Indonesia expects crude palm oil (CPO)
+	<field name = "content">Indonesia expects crude palm oil (CPO)
 prices to rise sharply to between 450 and 550 dlrs a tonne FOB
 sometime this year because of better European demand and a fall
 in Malaysian output, Hasrul Harahap, junior minister for tree

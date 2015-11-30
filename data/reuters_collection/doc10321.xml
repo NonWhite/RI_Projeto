@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 05:04:06.33M C</field>
-	<field name = "UNKNOWN">f0302reute</field>
 	<field name = "TOPICS">alum</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">u f BC-JAPAN-ALUMINIUM-OUTPU   03-27 0091</field>
-	<field name = "TITLE">JAPAN ALUMINIUM OUTPUT FALLS IN FEBRUARY</field>
+	<field name = "titulo">JAPAN ALUMINIUM OUTPUT FALLS IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Japanese aluminium output fell to 5,298
+	<field name = "content">Japanese aluminium output fell to 5,298
 tonnes in February from 7,472 in January and 14,280 a year
 earlier, preliminary International Trade and Industry Ministry
 figures show.

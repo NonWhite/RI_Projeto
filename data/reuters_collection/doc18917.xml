@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:35:40.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f4261reute
-b f BC-OHIO-EDISON-OEC>-UPG   06-18 0113</field>
-	<field name = "TITLE">OHIO EDISON OEC> UPGRADED BY MOODY'S</field>
+	<field name = "titulo">OHIO EDISON OEC> UPGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 upgraded Ohio Edison Co's 2.7 billion dlrs of debt securities.
     Raised to Baa-2 from Baa-3 were the utility's first
 mortgage bonds, preferred stock and secured pollution control

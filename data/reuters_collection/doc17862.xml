@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 18:30:28.08</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2719reute
-u f BC-BURLINGTON-BUR>-HEAR   06-01 0106</field>
-	<field name = "TITLE">BURLINGTON BUR> HEARING TO CONTINUE TOMORROW</field>
+	<field name = "titulo">BURLINGTON BUR> HEARING TO CONTINUE TOMORROW</field>
 	<field name = "DATELINE">Greensboro, N.C., June 1 -</field>
-	<field name = "BODY">U.S. District Court Judge Eugene
+	<field name = "content">U.S. District Court Judge Eugene
 A. Gordon said he plans to issue a decision tomorrow on
 Burlington Industries Inc's request for an injunction to stop
 Samjens Acquisition Corp's takeover bid for the company.

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 12:47:50.31</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">F
-f1714reute
-r f BC-GENERALE-DE-BANQUE,-H   03-20 0061</field>
-	<field name = "TITLE">GENERALE DE BANQUE, HELLER BUY FACTORING UNIT</field>
+	<field name = "titulo">GENERALE DE BANQUE, HELLER BUY FACTORING UNIT</field>
 	<field name = "DATELINE">BRUSSELS, March 20 -</field>
-	<field name = "BODY">Generale de Banque SA GENB.BR> and
+	<field name = "content">Generale de Banque SA GENB.BR> and
 Heller Overseas Corp> of Chicago have each taken 50 pct stakes
 in factoring company SA Belgo-Factors, Generale de Banque said
 in a statement.

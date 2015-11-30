@@ -4,12 +4,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PEOPLE">keating</field>
-	<field name = "UNKNOWN">RM
-f0337reute
-u f BC-KEATING-REVISES-DOWN   03-26 0105</field>
-	<field name = "TITLE">KEATING REVISES DOWN AUSTRALIAN GROWTH FORECAST</field>
+	<field name = "titulo">KEATING REVISES DOWN AUSTRALIAN GROWTH FORECAST</field>
 	<field name = "DATELINE">CANBERRA, March 26 -</field>
-	<field name = "BODY">Treasurer Paul Keating forecast
+	<field name = "content">Treasurer Paul Keating forecast
 economic growth at slightly under two pct in the financial year
 ending June this year, down from the 2.25 pct forecast
 contained in the 1986/87 budget delivered last August.

@@ -4,12 +4,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">alfonsin</field>
 	<field name = "PEOPLE">von-weizsaecker</field>
-	<field name = "UNKNOWN">RM
-f3628reute
-u f AM-WEIZSAECKER 1STLD  03-16 0103</field>
-	<field name = "TITLE">WEST GERMAN PRESIDENT HOLDS TALKS WITH ALFONSIN</field>
+	<field name = "titulo">WEST GERMAN PRESIDENT HOLDS TALKS WITH ALFONSIN</field>
 	<field name = "DATELINE">BUENOS AIRES, March 16 -</field>
-	<field name = "BODY">West German President Richard von
+	<field name = "content">West German President Richard von
 Weizsaecker met Argentine President Raul Alfonsin for talks on
 the first day of the German leader's four-day visit.
     Local officials placed great importance on the meeting

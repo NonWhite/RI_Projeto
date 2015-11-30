@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:35:55.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1840reute
-d f BC-AMITY-BANCORP-INC-AM   06-19 0052</field>
-	<field name = "TITLE">AMITY BANCORP INC AMTY.O> SEMI-ANNUAL DIV</field>
+	<field name = "titulo">AMITY BANCORP INC AMTY.O> SEMI-ANNUAL DIV</field>
 	<field name = "DATELINE">NEW HAVEN, Conn -</field>
-	<field name = "BODY">June 19
+	<field name = "content">June 19
     Semi-annual div eight cts vs 15 cts prior
     Pay Aug 1
     Record July 1

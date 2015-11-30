@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:38:10.51F</field>
-	<field name = "UNKNOWN">f1353reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-PICTEL-PCTL>-OFFERS   03-27 0108</field>
-	<field name = "TITLE">PICTEL PCTL> OFFERS UNITS AT SIX DLRS EACH</field>
+	<field name = "titulo">PICTEL PCTL> OFFERS UNITS AT SIX DLRS EACH</field>
 	<field name = "DATELINE">PEABODY, Mass., March 27 -</field>
-	<field name = "BODY">PicTel Corp said it began a
+	<field name = "content">PicTel Corp said it began a
 public offering of 1,050,000 units priced at six dlrs a unit
 through managing underwriters F.N. Wolf and Co and Sherwood
 Capital Inc.

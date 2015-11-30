@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 07:58:51.28</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0620reute
-b f BC-SUN-ALLIANCE-reports   04-01 0100</field>
-	<field name = "TITLE">SUN ALLIANCE reports sharp profit rise</field>
+	<field name = "titulo">SUN ALLIANCE reports sharp profit rise</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">Year 1986
+	<field name = "content">Year 1986
     Shr 64.2p vs 14p
     Div 16p making 23.5p vs 17.5p
     Pretax profit 180.4 mln stg vs 37.7 mln

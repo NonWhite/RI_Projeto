@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 07:06:31.32</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G T
-f1549reute
-u f BC-SCIENTIST-ALLAYS-FEAR   03-16 0109</field>
-	<field name = "TITLE">SCIENTIST ALLAYS FEARS ABOUT CHERNOBYL POLLUTION</field>
+	<field name = "titulo">SCIENTIST ALLAYS FEARS ABOUT CHERNOBYL POLLUTION</field>
 	<field name = "DATELINE">MOSCOW, March 16 -</field>
-	<field name = "BODY">Radioactive contamination of water
+	<field name = "content">Radioactive contamination of water
 supplies around the Chernobyl nuclear power plant will not
 reach danger levels when the winter snowfall starts to melt, a
 Soviet scientist was quoted as saying at the weekend.

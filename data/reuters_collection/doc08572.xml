@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 18:25:12.86</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f2647reute
-r f BC-U.S.-BUDGET-WRITERS-T   03-23 0100</field>
-	<field name = "TITLE">U.S. BUDGET WRITERS TO DRAFT MEASURE JOINTLY</field>
+	<field name = "titulo">U.S. BUDGET WRITERS TO DRAFT MEASURE JOINTLY</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">Republicans apparently have ended
+	<field name = "content">Republicans apparently have ended
 their vote boycott at the budget drafting sessions of the House
 Budget Committee.
     House Budget Committee Chairman William Gray, a Democrat,

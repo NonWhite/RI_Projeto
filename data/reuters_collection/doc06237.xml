@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 15:38:41.78</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f6406reute
-r f BC-FINANCIAL-TIMES-LAUNC   03-17 0101</field>
-	<field name = "TITLE">FINANCIAL TIMES LAUNCHES NEW WORLD SHARE INDEX</field>
+	<field name = "titulo">FINANCIAL TIMES LAUNCHES NEW WORLD SHARE INDEX</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">The Financial Times newspaper said it
+	<field name = "content">The Financial Times newspaper said it
 has launched a new international share index, which represents
 more than 70 pct of the world's total stock market value. The
 FT-Actuaries World Indices, published for the first time today,

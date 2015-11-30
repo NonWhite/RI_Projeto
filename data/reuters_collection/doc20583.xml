@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 14:49:32.17</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2795reute
-h f BC-TOTAL-CAPITAL-ACQUIRE   10-20 0048</field>
-	<field name = "TITLE">TOTAL CAPITAL ACQUIRES DUNHILL COMPACT</field>
+	<field name = "titulo">TOTAL CAPITAL ACQUIRES DUNHILL COMPACT</field>
 	<field name = "DATELINE">DENVER, Oct 20 -</field>
-	<field name = "BODY">Total Capital Corp> said it acquired
+	<field name = "content">Total Capital Corp> said it acquired
 Dunhill Compact Classics Inc> for an unspecified amount of
 stock.
     The surviving company will be controlled by Dunhill's

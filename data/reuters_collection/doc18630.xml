@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 09:17:45.03</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f2980reute
-r f BC-cominco   06-18 0110</field>
-	<field name = "TITLE">COMINCO CLT> PLANS CANADIAN STOCK ISSUE</field>
+	<field name = "titulo">COMINCO CLT> PLANS CANADIAN STOCK ISSUE</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, June 18 -</field>
-	<field name = "BODY">Cominco Ltd said it
+	<field name = "content">Cominco Ltd said it
 plans to issue units in Canada containing common share purchase
 warrants indexed to zinc and copper prices.
     Each unit will consist of one deferred retractable

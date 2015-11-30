@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">V
-f0723reute
-u f BC-VOLCKER-SAYS-U.S.-TRA   03-20 0107</field>
-	<field name = "TITLE">VOLCKER SAYS TRADE DEFICIT IS MAJOR CHALLENGE</field>
+	<field name = "titulo">VOLCKER SAYS TRADE DEFICIT IS MAJOR CHALLENGE</field>
 	<field name = "DATELINE">JACKSONVILLE, Fla., March 20 -</field>
-	<field name = "BODY">Federal Reserve Board
+	<field name = "content">Federal Reserve Board
 Chairman Paul Volcker said the U.S. Trade deficit is a
 challenge for the U.S. Equal to the Soviet Union launching of
 Sputnik.

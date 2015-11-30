@@ -4,12 +4,9 @@
 	<field name = "TOPICS">income</field>
 	<field name = "TOPICS">housing</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A 
-f4228reute
-d f BC-BANK-OF-AMERICA-SEES   06-18 0111</field>
-	<field name = "TITLE">BANK OF AMERICA SEES SLOW U.S. CONSUMER SPENDING</field>
+	<field name = "titulo">BANK OF AMERICA SEES SLOW U.S. CONSUMER SPENDING</field>
 	<field name = "DATELINE">SAN FRANCISCO, June 18 -</field>
-	<field name = "BODY">A trade-led boom in the U.S. is
+	<field name = "content">A trade-led boom in the U.S. is
 unlikely this year or next because growth in net exports will
 merely offset a dramatic slowdown in consumer spending and
 other sectors of the economy, Bank of America said in its

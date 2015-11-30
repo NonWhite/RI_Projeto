@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 17:19:24.18</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2670reute
-d f BC-KANSAS-GAS-AND-ELECTR   03-30 0071</field>
-	<field name = "TITLE">KANSAS GAS AND ELECTRIC CO KGE> FEBRUARY NET</field>
+	<field name = "titulo">KANSAS GAS AND ELECTRIC CO KGE> FEBRUARY NET</field>
 	<field name = "DATELINE">WICHITA, Kan., March 30 -</field>
-	<field name = "BODY">Shr 13 cts vs 5 cts
+	<field name = "content">Shr 13 cts vs 5 cts
     Net 5,568,319 vs 2,968,437
     Rev 36.5 mln vs 34.0 mln
     12 months

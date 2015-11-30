@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "TOPICS">platinum</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM C M F
-f0391reute
-b f BC-LONDON-GOLD-MORNING-F   04-13 0101</field>
-	<field name = "TITLE">LONDON GOLD MORNING FIX HIGHEST SINCE OCTOBER</field>
+	<field name = "titulo">LONDON GOLD MORNING FIX HIGHEST SINCE OCTOBER</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">Gold bullion continued to move higher
+	<field name = "content">Gold bullion continued to move higher
 supported by good general buying and was fixed this morning at
 436.50 dlrs, 268.368 stg, an ounce, up from Friday's close of
 432.00/50, dealers said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 18:09:39.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0856reute
-h f AM-AIDS   03-11 0095</field>
-	<field name = "TITLE">DOCTORS FIND LINK BETWEEN AIDS, SMALLPOX VIRUS</field>
+	<field name = "titulo">DOCTORS FIND LINK BETWEEN AIDS, SMALLPOX VIRUS</field>
 	<field name = "DATELINE">BOSTON, March 11 -</field>
-	<field name = "BODY">In a discovery that could complicate the
+	<field name = "content">In a discovery that could complicate the
 search for an AIDS vaccine, a team of U.S. Army doctors said
 they have uncovered a potentially-fatal interaction between the
 AIDS virus and a virus used to protect against smallpox.

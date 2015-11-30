@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 05:14:48.30</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0327reute
-u f BC-JAPAN-TO-BUY-THREE-BI   06-02 0112</field>
-	<field name = "TITLE">JAPAN TO BUY THREE BILLION YEN U.S. SUPERCOMPUTER</field>
+	<field name = "titulo">JAPAN TO BUY THREE BILLION YEN U.S. SUPERCOMPUTER</field>
 	<field name = "DATELINE">TOKYO, June 2 -</field>
-	<field name = "BODY">Japan planned to buy a three billion yen
+	<field name = "content">Japan planned to buy a three billion yen
 supercomputer as part of a policy of importing more U.S. Goods,
 a spokesman for the private business group Kansai Economic
 Federation told Reuters by telephone from Osaka.

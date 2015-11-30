@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 11:26:01.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1462reute
-r f BC-GE-GE>-CREDIT-SUES-P   03-26 0088</field>
-	<field name = "TITLE">GE GE> CREDIT SUES PHOENIX FINANCIAL PHFC></field>
+	<field name = "titulo">GE GE> CREDIT SUES PHOENIX FINANCIAL PHFC></field>
 	<field name = "DATELINE">MEDFORD, N.J., MARCH 26 -</field>
-	<field name = "BODY">Phoenix Financial Corp said it
+	<field name = "content">Phoenix Financial Corp said it
 was sued by General Electric Credit Corp, a unit of General
 Electric Co, for breach of warranties and representations.
     The warranties are connected with leases the company said

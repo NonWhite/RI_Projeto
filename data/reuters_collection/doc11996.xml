@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:59:22.60</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F
-f1265reute
-r f BC-CHASE-CMB>-BUYS-BORG   04-01 0094</field>
-	<field name = "TITLE">CHASE CMB> BUYS BORG-WARNER BOR> UNIT</field>
+	<field name = "titulo">CHASE CMB> BUYS BORG-WARNER BOR> UNIT</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Chase Manhattan Corp said Chase
+	<field name = "content">Chase Manhattan Corp said Chase
 Trans-Info, a subsidiary of its Chase Manhattan Bank N.A. unit,
 has bought Borg-Warner Corp's Traffic Services business,
 including an Illinois processing center, for an undisclosed

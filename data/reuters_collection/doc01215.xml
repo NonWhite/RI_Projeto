@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">C T
-f0325reute
-u f BC-COLOMBIA-TO-SELL-SUGA   03-03 0051</field>
-	<field name = "TITLE">COLOMBIA TO SELL SUGAR, LONDON TRADERS SAY</field>
+	<field name = "titulo">COLOMBIA TO SELL SUGAR, LONDON TRADERS SAY</field>
 	<field name = "DATELINE">LONDON, March 3 -</field>
-	<field name = "BODY">Colombia is holding a snap selling tender
+	<field name = "content">Colombia is holding a snap selling tender
 tonight for one cargo of world market raw sugar, traders said.
     The sugar is for March 15/April 15 shipment and bids are
 being sought based on the New York May delivery futures

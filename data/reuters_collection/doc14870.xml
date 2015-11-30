@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 05:54:40.02</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0378reute
-b f BC-QUEBEC-ISSUES-30-BILL   04-08 0077</field>
-	<field name = "TITLE">QUEBEC ISSUES 30 BILLION YEN EUROBOND</field>
+	<field name = "titulo">QUEBEC ISSUES 30 BILLION YEN EUROBOND</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">The Province of Quebec is issuing a 30
+	<field name = "content">The Province of Quebec is issuing a 30
 billion yen eurobond due May 7, 1997 paying five pct and priced
 at 102-1/2 pct, lead manager Bank of Tokyo International Ltd
 said.

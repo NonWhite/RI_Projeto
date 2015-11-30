@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">F
-f1570reute
-r f BC-MCGRAW-HILL-MHP>-DIV   04-13 0086</field>
-	<field name = "TITLE">MCGRAW-HILL MHP> DIVESTS SOUTH AFRICAN UNIT</field>
+	<field name = "titulo">MCGRAW-HILL MHP> DIVESTS SOUTH AFRICAN UNIT</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">McGraw-Hill Inc said it has sold its
+	<field name = "content">McGraw-Hill Inc said it has sold its
 McGraw-Hill Book Co South Africa Pty Ltd subsidiary to a local
 management group for an undisclosed amount of cash and halted
 the sale of all products and services to South Africa.

@@ -5,12 +5,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">honduras</field>
-	<field name = "UNKNOWN">C G
-f2651reute
-r f BC-HONDURAS-SEEKING-VESS   03-31 0087</field>
-	<field name = "TITLE">HONDURAS SEEKING VESSELS FOR BULK WHEAT SHIPMENT</field>
+	<field name = "titulo">HONDURAS SEEKING VESSELS FOR BULK WHEAT SHIPMENT</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Honduras will tender April 2 for
+	<field name = "content">Honduras will tender April 2 for
 U.S. and non-U.S. flag vessels to import 19,369 tonnes of wheat
 in bulk, an agent for the country said.
     The agent said Honduras is seeking vessels to deliver 

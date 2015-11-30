@@ -3,12 +3,9 @@
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V
-f0541reute
-u f BC-MOSCOW-INDIGNANT-AT-R   04-08 0125</field>
-	<field name = "TITLE">MOSCOW INDIGNANT AT REAGAN STATEMENT</field>
+	<field name = "titulo">MOSCOW INDIGNANT AT REAGAN STATEMENT</field>
 	<field name = "DATELINE">MOSCOW, April 8 -</field>
-	<field name = "BODY">Soviet Deputy Foreign Minister Vladimir
+	<field name = "content">Soviet Deputy Foreign Minister Vladimir
 Petrovsky said today Moscow felt "indignation and regret" at what
 he called "truly hostile statements about the Soviet Union" made
 by President Reagan.

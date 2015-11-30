@@ -9,13 +9,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0025
-reute
-u f BC-ASCS-TERMINAL-MARKET   02-26 0113</field>
-	<field name = "TITLE">ASCS TERMINAL MARKET VALUES FOR PIK GRAIN</field>
+	<field name = "titulo">ASCS TERMINAL MARKET VALUES FOR PIK GRAIN</field>
 	<field name = "DATELINE">KANSAS CITY, Feb 26 -</field>
-	<field name = "BODY">The Agricultural Stabilization and
+	<field name = "content">The Agricultural Stabilization and
 Conservation Service (ASCS) has established these unit values
 for commodities offered from government stocks through
 redemption of Commodity Credit Corporation commodity

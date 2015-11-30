@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:55:59.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2521reute
-u f AM-GIULIANI   04-01 0114</field>
-	<field name = "TITLE">U.S. ATTORNEY GIULIANI CLARIFIES SEC REMARKS</field>
+	<field name = "titulo">U.S. ATTORNEY GIULIANI CLARIFIES SEC REMARKS</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">U.S. Attorney Rudolph Giuliani,
+	<field name = "content">U.S. Attorney Rudolph Giuliani,
 clarifying earlier remarks about being offered a top job at the
 Securities and Exchange Commission, said he had no intention
 about commenting on whether the offer was made.

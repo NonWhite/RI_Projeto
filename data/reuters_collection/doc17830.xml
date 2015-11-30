@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 17:07:47.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2554reute
-u f BC-GM-GM>-MAY-CAR-OUTPU   06-01 0051</field>
-	<field name = "TITLE">GM GM> MAY CAR OUTPUT FALLS 26.3 PCT</field>
+	<field name = "titulo">GM GM> MAY CAR OUTPUT FALLS 26.3 PCT</field>
 	<field name = "DATELINE">DETROIT, June 1 -</field>
-	<field name = "BODY">General Motors Corp said its May North
+	<field name = "content">General Motors Corp said its May North
 American car production fell 26.3 pct to 328,221 units from
 445,440 a year ago.
     The company said its May production of commercial vehicles

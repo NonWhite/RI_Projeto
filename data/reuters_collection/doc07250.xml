@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 12:40:20.68</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1672reute
-u f BC-GERMAN-COMPANY-INSOLV   03-19 0088</field>
-	<field name = "TITLE">GERMAN COMPANY INSOLVENCIES DOWN IN JANUARY</field>
+	<field name = "titulo">GERMAN COMPANY INSOLVENCIES DOWN IN JANUARY</field>
 	<field name = "DATELINE">WIESBADEN, West Germany, March 19 -</field>
-	<field name = "BODY">West German corporate
+	<field name = "content">West German corporate
 insolvencies totalled 1,099 in January, 0.7 pct less than in
 the same month of 1986, the Federal Statistics Office said.
     The number of insolvencies fell by 3.6 pct in the building

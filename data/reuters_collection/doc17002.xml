@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 11:38:04.12</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f1418reute
-u f BC-API-OIL-INVENTORY-REP   04-21 0081</field>
-	<field name = "TITLE">API OIL INVENTORY REPORT TO BE ISSUED TONIGHT</field>
+	<field name = "titulo">API OIL INVENTORY REPORT TO BE ISSUED TONIGHT</field>
 	<field name = "DATELINE">NEW YORK, APRIL 21 -</field>
-	<field name = "BODY">The American Petroleum Institute, API,
+	<field name = "content">The American Petroleum Institute, API,
 said its weekly U.S. petroleum inventory report will be issued
 tonight, despite many company closures on Friday of last week
 for the Easter holiday.

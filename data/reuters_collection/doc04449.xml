@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 15:08:50.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0205reute
-r f BC-PROPOSED-OFFERINGS   03-12 0093</field>
-	<field name = "TITLE">PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</field>
+	<field name = "titulo">PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">The following proposed securities
+	<field name = "content">The following proposed securities
 offerings were filed recently with the Securities and Exchange
 Commission:
     Caterpillar Financial Services Corp, subsidiary of

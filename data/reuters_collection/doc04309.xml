@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 12:05:34.33</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0585reute
-u f BC-SECURITY-PACIFIC-SPC   03-12 0066</field>
-	<field name = "TITLE">SECURITY PACIFIC SPC> BUYS ORBANCO ORBN></field>
+	<field name = "titulo">SECURITY PACIFIC SPC> BUYS ORBANCO ORBN></field>
 	<field name = "DATELINE">LOS ANGELES, March 12 -</field>
-	<field name = "BODY">Security Pacific Corp said it
+	<field name = "content">Security Pacific Corp said it
 completed its previously announced acquisition of Orbanco
 Financial Services Corp after receiving federal approval of the
 deal.

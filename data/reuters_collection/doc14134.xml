@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:37:31.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1321reute
-r f BC-STONE-STO>-FILES-FOR   04-07 0103</field>
-	<field name = "TITLE">STONE STO> FILES FOR SECONDARY OFFERING</field>
+	<field name = "titulo">STONE STO> FILES FOR SECONDARY OFFERING</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Stone Container Corp said it filed a
+	<field name = "content">Stone Container Corp said it filed a
 registration statement for a secondary offering of 1,933,453
 shares of its common stock.
     It said the shares and warrants originally were issued to

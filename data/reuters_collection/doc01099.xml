@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 11:18:52.62</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E V RM
-f0757reute
-u f BC-CANADA-CURRENT-ACCOUN   03-03 0106</field>
-	<field name = "TITLE">CANADA CURRENT ACCOUNT DEFICIT UP IN QUARTER</field>
+	<field name = "titulo">CANADA CURRENT ACCOUNT DEFICIT UP IN QUARTER</field>
 	<field name = "DATELINE">OTTAWA, March 3 -</field>
-	<field name = "BODY">Canada's current account deficit widened
+	<field name = "content">Canada's current account deficit widened
 to a seasonally adjusted 2.27 billion dlrs in the fourth
 quarter from a deficit of 1.94 billion dlrs in the third,
 Statistics Canada said.

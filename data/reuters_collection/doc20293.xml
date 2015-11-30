@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 11:03:43.51</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">RM A F 
-f1479reute
-r f BC-SENATORS-URGE-ACTION   10-20 0097</field>
-	<field name = "TITLE">SENATORS URGE ACTION ON DEFICIT TO CALM FEARS</field>
+	<field name = "titulo">SENATORS URGE ACTION ON DEFICIT TO CALM FEARS</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">Leading senators told investors
+	<field name = "content">Leading senators told investors
 Congress should take swift action on reducing the federal
 budget deficit to calm nervousness in the stock market, which
 has been hit by record setting losses.

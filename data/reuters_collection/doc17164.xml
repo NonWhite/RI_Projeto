@@ -3,12 +3,9 @@
 	<field name = "TOPICS">f-cattle</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C L
-f2217reute
-b f BC-pig-crop-cme-reaction   04-24 0057</field>
-	<field name = "TITLE">CATTLE ON FEED REPORT CALLED NEGATIVE</field>
+	<field name = "titulo">CATTLE ON FEED REPORT CALLED NEGATIVE</field>
 	<field name = "DATELINE">CHICAGO, April 24 -</field>
-	<field name = "BODY">Chicago Mercantile Exchange floor
+	<field name = "content">Chicago Mercantile Exchange floor
 traders' immediate comments on the 13-state USDA quarterly
 cattle on feed report were negative.
     Traders said that placements on feed and total on-feed

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 12:03:31.40</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">V RM
-f1613reute
-u f BC-ST.-GERMAIN-REGRETS-V   06-02 0100</field>
-	<field name = "TITLE">ST. GERMAIN REGRETS VOLCKER STEPPING DOWN</field>
+	<field name = "titulo">ST. GERMAIN REGRETS VOLCKER STEPPING DOWN</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">House Banking Committee chairman
+	<field name = "content">House Banking Committee chairman
 Fernand St. Germain, a Rhode Island Democrat, said he regretted
 Federal Reserve Board chairman Paul Volcker had decided not to
 accept a new term.

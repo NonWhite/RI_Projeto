@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:06:44.08</field>
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0986reute
-b f BC-oil/lard-stats   04-01 0100</field>
-	<field name = "TITLE">U.S. OIL/LARD STATISTICS</field>
+	<field name = "titulo">U.S. OIL/LARD STATISTICS</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">U.S. Census Bureau figures released
+	<field name = "content">U.S. Census Bureau figures released
 here showed factory and warehouse stocks on Feb 28 included the
 following, with comparisons, in mln lbs --
           02/28/87    01/31/87  02/28/86

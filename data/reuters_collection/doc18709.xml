@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 11:00:43.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3390reute
-r f BC-VMS-HOTEL-VHT>-INCRE   06-18 0088</field>
-	<field name = "TITLE">VMS HOTEL VHT> INCREASES LOAN TO HOTEL</field>
+	<field name = "titulo">VMS HOTEL VHT> INCREASES LOAN TO HOTEL</field>
 	<field name = "DATELINE">CHICAGO, June 18 -</field>
-	<field name = "BODY">VMS Hotel Investment Trust said it
+	<field name = "content">VMS Hotel Investment Trust said it
 committed to fund a 1,029,600 dlr short-term loan increase for
 capital improvements in the Omni Park Central Hotel in New
 York.

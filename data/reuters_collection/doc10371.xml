@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:07:17.04RM</field>
-	<field name = "UNKNOWN">f0630reute</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">u f BC-S.-AFRICAN-TRADE-SURP   03-27 0103</field>
-	<field name = "TITLE">S. AFRICAN TRADE SURPLUS RISES SHARPLY IN FEBRUARY</field>
+	<field name = "titulo">S. AFRICAN TRADE SURPLUS RISES SHARPLY IN FEBRUARY</field>
 	<field name = "DATELINE">JOHANNESBURG, March 27 -</field>
-	<field name = "BODY">South Africa's trade surplus rose
+	<field name = "content">South Africa's trade surplus rose
 to 1.62 billion rand in February after falling to 906.2 mln in
 January, Customs and Excise figures show.
     This compares with a year earlier surplus of 958.9 mln

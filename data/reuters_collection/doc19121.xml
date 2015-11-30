@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 09:03:42.77</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">C G L M T 
-f0737reute
-u f BC-SPANISH-CARGO-FIRMS-H   06-19 0061</field>
-	<field name = "TITLE">SPAIN CARGO FIRMS HIRE DOCKERS TO OFFSET STRIKE</field>
+	<field name = "titulo">SPAIN CARGO FIRMS HIRE DOCKERS TO OFFSET STRIKE</field>
 	<field name = "DATELINE">BARCELONA, June 19 -</field>
-	<field name = "BODY">Cargo handling companies said they
+	<field name = "content">Cargo handling companies said they
 were hiring twice the usual number of dockers to offset an
 intermittent strike in Spanish ports.
     Spanish dockers began a nine-day strike on Wednesday in

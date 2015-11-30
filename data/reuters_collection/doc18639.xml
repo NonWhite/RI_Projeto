@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 09:31:59.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3021reute
-b f BC-LINCOLN-TELECOM-LTEC   06-18 0095</field>
-	<field name = "TITLE">LINCOLN TELECOM LTEC.O> VOTES INCREASE, SPLIT</field>
+	<field name = "titulo">LINCOLN TELECOM LTEC.O> VOTES INCREASE, SPLIT</field>
 	<field name = "DATELINE">LINCOLN, NEB., June 18 -</field>
-	<field name = "BODY">Lincoln Telecommunications Co said
+	<field name = "content">Lincoln Telecommunications Co said
 its directors voted to increase the quarterly dividend to 58
 cts a share from 55 cts payable July 10, record June 30.
     The company also said its board voted a two-for-one stock

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 17:17:55.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2485reute
-r f BC-FIRST-CHICAGO-FNB>-F   06-19 0062</field>
-	<field name = "TITLE">FIRST CHICAGO FNB> FILES PREFERRED STOCK OFFER</field>
+	<field name = "titulo">FIRST CHICAGO FNB> FILES PREFERRED STOCK OFFER</field>
 	<field name = "DATELINE">CHICAGO, June 19 -</field>
-	<field name = "BODY">First Chicago Corp said it registered
+	<field name = "content">First Chicago Corp said it registered
 for an offering of nearly 2.5 mln shares of cumulative
 convertible preferred stock, Series A, with a value of 50 dlrs
 a share.

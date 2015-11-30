@@ -4,12 +4,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0003reute
-u f BC-SEIPP-SAYS-GERMAN-INT   04-01 0111</field>
-	<field name = "TITLE">SEIPP SAYS GERMAN INTEREST RATES SHOULD FALL</field>
+	<field name = "titulo">SEIPP SAYS GERMAN INTEREST RATES SHOULD FALL</field>
 	<field name = "DATELINE">FRANKFURT, April 1 -</field>
-	<field name = "BODY">The Bundesbank should take further
+	<field name = "content">The Bundesbank should take further
 steps to reduce German interest rates to protect the mark from
 further appreciation and to persuade investors to bring
 long-term yields lower, Commerzbank AG CBKG.F> management

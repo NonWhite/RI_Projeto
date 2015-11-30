@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 10:49:09.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f1192reute
-r f BC-FED-ADOPTS-REDEPOSIT   03-25 0099</field>
-	<field name = "TITLE">FED ADOPTS REDEPOSIT SERVICE FOR BOUNCED CHECKS</field>
+	<field name = "titulo">FED ADOPTS REDEPOSIT SERVICE FOR BOUNCED CHECKS</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The Federal Reserve Board
+	<field name = "content">The Federal Reserve Board
 unanimously approved a proposal to allow Federal Reserve banks
 to offer a redeposit service for bounced checks.
     The service would allow a commercial bank that sends checks

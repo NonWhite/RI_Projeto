@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 22:24:33.20</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f2991reute
-u f BC-JAPAN-LIKELY-TO-ALLOW   03-26 0097</field>
-	<field name = "TITLE">JAPAN LIKELY TO ALLOW FOREIGN FUTURES MARKET USE</field>
+	<field name = "titulo">JAPAN LIKELY TO ALLOW FOREIGN FUTURES MARKET USE</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">The finance ministry appears ready to
+	<field name = "content">The finance ministry appears ready to
 allow Japanese financial institutions to use overseas financial
 futures markets, a ministry official said.
     He declined to say when, but banking sources expect

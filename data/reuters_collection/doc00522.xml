@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 11:49:17.45</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0073
-reute
-h f BC-SONY-TO-EXPAND-U.K.-T   03-02 0110</field>
-	<field name = "TITLE">SONY TO EXPAND U.K. TELEVISION OUTPUT</field>
+	<field name = "titulo">SONY TO EXPAND U.K. TELEVISION OUTPUT</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">Sony (U.K.) Ltd said it would be doubling
+	<field name = "content">Sony (U.K.) Ltd said it would be doubling
 capacity at its Bridgend, Wales, television and components
 factory over the next three years in a 30 mln stg expansion.
     The expansion, backed by Welsh office grants, would make

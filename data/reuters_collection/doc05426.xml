@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 11:35:50.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2522reute
-b f -S-enate-budget   03-16 0114</field>
-	<field name = "TITLE">U.S. SENATE, HOUSE BUDGET CHIEFS AGREE ON TAX</field>
+	<field name = "titulo">U.S. SENATE, HOUSE BUDGET CHIEFS AGREE ON TAX</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">The chairmen of the House and Senate
+	<field name = "content">The chairmen of the House and Senate
 Budget Committees are in general accord on the need to cut the
 federal budget deficit by about 36 billion dlrs, half through
 new revenues, congressional sources said.

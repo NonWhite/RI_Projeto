@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0710reute
-u f BC-HOUSE-0/92-FARM-PLAN   03-05 0101</field>
-	<field name = "TITLE">HOUSE 0/92 FARM PLAN MARKUP DELAYED TILL TUESDAY</field>
+	<field name = "titulo">HOUSE 0/92 FARM PLAN MARKUP DELAYED TILL TUESDAY</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">A House Agriculture Committee meeting
+	<field name = "content">A House Agriculture Committee meeting
 to draft a disaster aid bill containing a controversial 0/92
 provision has been postponed until next Tuesday, committee
 staff members announced.

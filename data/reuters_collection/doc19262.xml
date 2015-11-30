@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 12:36:11.54</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1572reute
-u f BC-FIRST-FBT>-REITERATE   06-19 0100</field>
-	<field name = "TITLE">FIRST FBT> REITERATES SPECULATION PREMATURE</field>
+	<field name = "titulo">FIRST FBT> REITERATES SPECULATION PREMATURE</field>
 	<field name = "DATELINE">HOUSTON, June 19 -</field>
-	<field name = "BODY">First City Bancorp of Texas Inc, which
+	<field name = "content">First City Bancorp of Texas Inc, which
 is soliciting bidders, reiterated that it is premature to
 speculate on what course of action it will pursue following a
 story in today's Wall Street Journal that it has attracted at

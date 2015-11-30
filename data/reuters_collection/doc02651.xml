@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 11:16:00.59</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0491reute
-u f BC-NORDBANKEN-TO-AUCTION   03-06 0110</field>
-	<field name = "TITLE">NORDBANKEN TO AUCTION ITS FERMENTA SHARES</field>
+	<field name = "titulo">NORDBANKEN TO AUCTION ITS FERMENTA SHARES</field>
 	<field name = "DATELINE">STOCKHOLM, March 6 -</field>
-	<field name = "BODY">Sweden's Nordbanken> banking group
+	<field name = "content">Sweden's Nordbanken> banking group
 said it would sell the 4.2 mln B free shares deposited as loan
 collateral by Fermenta AB's FRMS.ST> founder and former chief
 executive Refaat el-Sayed and it planned to buy them up itself.

@@ -2,13 +2,10 @@
 	<field name = "DATE">16-JUN-1987 06:36:51.01</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM V
-f0465reute
-u f BC-JAPAN-OFFICIALS-SAY-W   06-16 0111</field>
-	<field name = "TITLE">JAPAN OFFICIALS SAY WORST MAY BE OVER FOR ECONOMY</field>
+	<field name = "titulo">JAPAN OFFICIALS SAY WORST MAY BE OVER FOR ECONOMY</field>
 	<field name = "AUTHOR">By Kunio Inoue, Reuters</field>
 	<field name = "DATELINE">TOKYO, June 16 -</field>
-	<field name = "BODY">Government officials said the worst may be
+	<field name = "content">Government officials said the worst may be
 over for the Japanese economy, after today's news of stronger
 than expected growth in the January/March period.
     But private economists were not so sure and said the

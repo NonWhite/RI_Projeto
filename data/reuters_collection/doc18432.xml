@@ -2,12 +2,9 @@
 	<field name = "DATE">16-JUN-1987 03:59:45.40</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI
-f0213reute
-b f BC-JAPAN-GNP-RISES-1.2-P   06-16 0111</field>
-	<field name = "TITLE">JAPAN GNP RISES 1.2 PCT IN JANUARY/MARCH</field>
+	<field name = "titulo">JAPAN GNP RISES 1.2 PCT IN JANUARY/MARCH</field>
 	<field name = "DATELINE">TOKYO, June 16 -</field>
-	<field name = "BODY">Japan's gross national product (gnp) rose
+	<field name = "content">Japan's gross national product (gnp) rose
 a real 1.2 pct in the January/March quarter after a downwardly
 revised 0.7 pct increase in the previous three months, the
 Economic Planning Agency said.

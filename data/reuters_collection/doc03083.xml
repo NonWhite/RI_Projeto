@@ -7,12 +7,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">biffex</field>
-	<field name = "UNKNOWN">C G T
-f0218reute
-d f BC-U.K.-AGRICULTURAL-FUT   03-09 0125</field>
-	<field name = "TITLE">U.K. AGRICULTURAL FUTURES MARKETS TO MERGE</field>
+	<field name = "titulo">U.K. AGRICULTURAL FUTURES MARKETS TO MERGE</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">Three London markets which trade potato,
+	<field name = "content">Three London markets which trade potato,
 soymeal and meat futures said they will merge to form a new
 Agricultural Futures Exchange.
     Legal advisers have been instructed to implement the

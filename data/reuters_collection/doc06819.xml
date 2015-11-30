@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 16:22:26.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9429reute
-h f BC-SSMC-SSM>-FORMS-ELEC   03-18 0060</field>
-	<field name = "TITLE">SSMC SSM> FORMS ELECTRICAL PRODUCTS DIVISION</field>
+	<field name = "titulo">SSMC SSM> FORMS ELECTRICAL PRODUCTS DIVISION</field>
 	<field name = "DATELINE">STAMFORD, Conn., March 18 -</field>
-	<field name = "BODY">SSMC Inc said it formed a
+	<field name = "content">SSMC Inc said it formed a
 separate division to consolidate the manufacture and marketing
 of its motors for the appliance, computer and automotive
 industries.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 16:40:47.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f0483reute
-u f BC-SPENDTHRIFT-FARM-SFI   03-13 0103</field>
-	<field name = "TITLE">SPENDTHRIFT FARM SFI> TO MISS NOTE PAYMENT</field>
+	<field name = "titulo">SPENDTHRIFT FARM SFI> TO MISS NOTE PAYMENT</field>
 	<field name = "DATELINE">LEXINGTON, Ky., March 13 -</field>
-	<field name = "BODY">Spendthrift Farm Inc said it
+	<field name = "content">Spendthrift Farm Inc said it
 will miss the 1,875,000 dlr March 16 interest payment on its 30
 mln dlrs of 12.5 pct senior subordinated notes due 1994.
     It said it is currently holding talks with its creditors

@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 13:59:13.83</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6086reute
-r f BC-WAINCO-OIL-WOL>-COMP   03-17 0098</field>
-	<field name = "TITLE">WAINCO OIL WOL> COMPLETES WILDCAT WELL</field>
+	<field name = "titulo">WAINCO OIL WOL> COMPLETES WILDCAT WELL</field>
 	<field name = "DATELINE">HOUSTON, March 17 -</field>
-	<field name = "BODY">Wainco Oil Corp said it has completed a
+	<field name = "content">Wainco Oil Corp said it has completed a
 wildcat well on its GrandMarais prspect in Jefferson Davis
 Parish, La., which is currently producing at a rate of 1.1 mln
 cubic feet of gas and 40 barrels of condensate daily.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 18:03:13.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2658reute
-r f BC-GM-GM>-PARTS-WORKERS   03-19 0104</field>
-	<field name = "TITLE">GM GM> PARTS WORKERS TO VOTE ON CONTRACT</field>
+	<field name = "titulo">GM GM> PARTS WORKERS TO VOTE ON CONTRACT</field>
 	<field name = "DATELINE">LIVONIA, Mich., March 19 -</field>
-	<field name = "BODY">Workers at a General Motors Corp
+	<field name = "content">Workers at a General Motors Corp
 parts plant in Michigan are scheduled to vote tomorrow on a new
 contract that would change the way many of the workers do their
 job.

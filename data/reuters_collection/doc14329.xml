@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:29:42.05</field>
-	<field name = "UNKNOWN">G
-f1581reute
-u f BC-cbt-soybean-report   04-07 0140</field>
-	<field name = "TITLE">CBT SOYBEAN FUTURES MOSTLY HIGHER AT MIDSESSION</field>
+	<field name = "titulo">CBT SOYBEAN FUTURES MOSTLY HIGHER AT MIDSESSION</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">CBT soybean futures held gains of three
+	<field name = "content">CBT soybean futures held gains of three
 to 6-1/2 cents per bushel in moderately light midsession trade,
 with new crop supported by local house buying.
     Slow country movement, steady to firmer cash soybean basis

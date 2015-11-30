@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">RM A
-f0461reute
-u f BC-U.S.-TREASURY-OFFICIA   03-06 0096</field>
-	<field name = "TITLE">U.S. TREASURY OFFICIAL URGES JAPAN OPEN MARKETS</field>
+	<field name = "titulo">U.S. TREASURY OFFICIAL URGES JAPAN OPEN MARKETS</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">The director of the Treasury
+	<field name = "content">The director of the Treasury
 Department's office of international banking and portfolio
 investment said Japan should open its bond and stock markets to
 more U.S. firms.

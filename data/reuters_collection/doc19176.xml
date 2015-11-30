@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 10:37:00.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1035reute
-h f BC-KAYPRO-KPRO.O>-DEALE   06-19 0044</field>
-	<field name = "TITLE">KAYPRO KPRO.O> DEALER WINS NETWORKING CONTRACT</field>
+	<field name = "titulo">KAYPRO KPRO.O> DEALER WINS NETWORKING CONTRACT</field>
 	<field name = "DATELINE">ANCHORAGE, Alaska, June 19 -</field>
-	<field name = "BODY">Alaska Micro Systems>, a
+	<field name = "content">Alaska Micro Systems>, a
 Kaypro dealer, said the Anchorage School District chose it to
 provide 116,000 dlrs of computer equipment to Chugiak High
 School for computer and typing classes.

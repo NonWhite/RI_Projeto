@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 11:16:19.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1345reute
-r f BC-ALPHA-INDUSTRIES-AHA   03-24 0053</field>
-	<field name = "TITLE">ALPHA INDUSTRIES AHA> GETS FAVORABLE DECISION</field>
+	<field name = "titulo">ALPHA INDUSTRIES AHA> GETS FAVORABLE DECISION</field>
 	<field name = "DATELINE">WOBURN, Mass., March 24 -</field>
-	<field name = "BODY">Alpha Industries Inc said the
+	<field name = "content">Alpha Industries Inc said the
 U.S. Court of Appeals has upheld a lower court decision
 dismissing a class action shareholder suit that had alleged
 violations of Securities and Exchange Commission disclosure

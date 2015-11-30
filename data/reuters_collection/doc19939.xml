@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 17:19:07.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2650reute
-u f BC-SENATE-REPUBLICANS-BA   06-29 0111</field>
-	<field name = "TITLE">SENATE REPUBLICANS BACK HINEMAN FOR CFTC POST</field>
+	<field name = "titulo">SENATE REPUBLICANS BACK HINEMAN FOR CFTC POST</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">Two leading Senate Republicans have
+	<field name = "content">Two leading Senate Republicans have
 urged the White House to name Commodity Futures Trading
 Commission (CFTC) Commissioner Kalo Hineman to replace outgoing
 Chairman Susan Phillips, congressional sources said.

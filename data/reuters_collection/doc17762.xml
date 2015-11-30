@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 15:31:01.76</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2270reute
-r f BC-PHARMACONTROL-PHAR.O   06-01 0101</field>
-	<field name = "TITLE">PHARMACONTROL PHAR.O> ACQUIRES REVCO UNIT</field>
+	<field name = "titulo">PHARMACONTROL PHAR.O> ACQUIRES REVCO UNIT</field>
 	<field name = "DATELINE">ENGLEWOOD CLIFFS, N.J., June 1 -</field>
-	<field name = "BODY">PharmaControl Corp said it
+	<field name = "content">PharmaControl Corp said it
 acquired Private Formulations Inc from Revco D.S. Inc> for six
 mln dlrs in cash, a 13,550,000 dlr promissory note and warrants
 to buy 200,000 PharmaControl common shares.

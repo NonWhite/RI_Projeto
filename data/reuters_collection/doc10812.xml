@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 08:56:14.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0882reute
-r f BC-MAGMA-POWER-MGMA>-NA   03-30 0093</field>
-	<field name = "TITLE">MAGMA POWER MGMA> NAMES NEW CHIEF EXECUTIVE</field>
+	<field name = "titulo">MAGMA POWER MGMA> NAMES NEW CHIEF EXECUTIVE</field>
 	<field name = "DATELINE">SAN DIEGO, March 30 -</field>
-	<field name = "BODY">Magma Power Co said director Arnold
+	<field name = "content">Magma Power Co said director Arnold
 L. Johnson has been named president and chief executive
 officer.
     He succeeds Andrew W. Hoch, who moved to chairman in

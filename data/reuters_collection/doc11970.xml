@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:42:59.92</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f1168reute
-u f BC-TEXAS-INSTRUMENTS-TX   04-01 0100</field>
-	<field name = "TITLE">TEXAS INSTRUMENTS TXN> OPINION REAFFIRMED</field>
+	<field name = "titulo">TEXAS INSTRUMENTS TXN> OPINION REAFFIRMED</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Texas Instruments Inc, one of the few
+	<field name = "content">Texas Instruments Inc, one of the few
 U.S. semiconductor producers expected to benefit directly from
 the Reagan Administration's actions to curtail Japanese dumping
 of chips, received a reaffirmed buy recommendation from Smith

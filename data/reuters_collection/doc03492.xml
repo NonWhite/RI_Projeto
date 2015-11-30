@@ -3,13 +3,10 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">RM
-f0442reute
-u f BC-INDONESIAN-BANKS-RAIS   03-11 0103</field>
-	<field name = "TITLE">INDONESIAN BANKS RAISE INTEREST RATES</field>
+	<field name = "titulo">INDONESIAN BANKS RAISE INTEREST RATES</field>
 	<field name = "AUTHOR">By Bill Tarrant, Reuters</field>
 	<field name = "DATELINE">JAKARTA, March 11 -</field>
-	<field name = "BODY">A tight money market has pushed
+	<field name = "content">A tight money market has pushed
 interest rates on three to six month time deposits to between
 15 and 18 pct from 13 to 15 pct a month ago, bankers said.
     March is usually a tight month for the money market because

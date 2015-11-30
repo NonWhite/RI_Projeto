@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0306reute
-u f BC-U.S.-SEISMIC-CREW-COU   03-12 0115</field>
-	<field name = "TITLE">U.S. SEISMIC CREW COUNT DROPS 6 PCT IN FEBRUARY</field>
+	<field name = "titulo">U.S. SEISMIC CREW COUNT DROPS 6 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">TULSA, Okla, March 12 -</field>
-	<field name = "BODY">The number of seismic crews
+	<field name = "content">The number of seismic crews
 searching for oil and gas in the United States dropped by nine
 to a total of 151 crews, a decrease of six pct from January,
 the Society of Exploration Geophysicists said.

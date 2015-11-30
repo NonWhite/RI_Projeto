@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f0179reute
-u f BC-/DOLE-SAYS-0/92-OPTIO   03-11 0113</field>
-	<field name = "TITLE">DOLE SAYS 0/92 OPTION SHOULD BE CONSIDERED</field>
+	<field name = "titulo">DOLE SAYS 0/92 OPTION SHOULD BE CONSIDERED</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">U.S. Senate Republican leader Robert
+	<field name = "content">U.S. Senate Republican leader Robert
 Dole said Congress should consider legislation to apply the
 so-called 0/92 option to producers of major commodities.
     Dole told the National Corn Growers Association that he

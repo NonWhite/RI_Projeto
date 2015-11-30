@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 13:11:56.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1956reute
-r f BC-GAC-LIQUIDATING-TRUST   03-30 0090</field>
-	<field name = "TITLE">GAC LIQUIDATING TRUST GACTZ> SELLS LAND</field>
+	<field name = "titulo">GAC LIQUIDATING TRUST GACTZ> SELLS LAND</field>
 	<field name = "DATELINE">CORAL GABLES, Fla., March 30 -</field>
-	<field name = "BODY">GAC Liquidating Trust said
+	<field name = "content">GAC Liquidating Trust said
 it has completed the sale of its Rio Rico 16,653 acre
 undeveloped land tract in Nogales, Ariz., for about 4,725,000
 dlrs.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">iraq</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">V
-f7474reute
-r f PM-GULF-IRAQ   03-18 0096</field>
-	<field name = "TITLE">IRAQ SAYS IT ATTACKS TWO SHIPS IN GULF</field>
+	<field name = "titulo">IRAQ SAYS IT ATTACKS TWO SHIPS IN GULF</field>
 	<field name = "DATELINE">BAGHDAD, March 18 -</field>
-	<field name = "BODY">Iraq said its warplanes hit two ships
+	<field name = "content">Iraq said its warplanes hit two ships
 off the Iranian coast in attacks last night and early today.
     The planes "dealt accurate and effective blows to both
 maritime targets before they returned safely to base," a

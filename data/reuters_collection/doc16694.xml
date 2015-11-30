@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 16:57:53.61</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2646reute
-r f BC-TEXAS-AIR-TEX>-UNIT   04-13 0060</field>
-	<field name = "TITLE">TEXAS AIR TEX> UNIT COMPLETES SYSTEM SALE</field>
+	<field name = "titulo">TEXAS AIR TEX> UNIT COMPLETES SYSTEM SALE</field>
 	<field name = "DATELINE">MIAMI, April 13 -</field>
-	<field name = "BODY">Texas Air Corp's Eastern Airlines said it
+	<field name = "content">Texas Air Corp's Eastern Airlines said it
 completed its previously announced plan to sell its travel
 agency automation system, SystemOne Direct Access Inc, and its
 computer and communications support unit, EAL Automation

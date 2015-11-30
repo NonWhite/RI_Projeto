@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-APR-1987 07:25:11.26</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0591reute
-u f BC-FRENCH-HOUSEHOLD-CONS   04-27 0086</field>
-	<field name = "TITLE">FRENCH HOUSEHOLD CONSUMPTION DOWN 3.6 PCT IN MARCH</field>
+	<field name = "titulo">FRENCH HOUSEHOLD CONSUMPTION DOWN 3.6 PCT IN MARCH</field>
 	<field name = "DATELINE">PARIS, April 27 -</field>
-	<field name = "BODY">French household consumption of
+	<field name = "content">French household consumption of
 manufactured goods fell 3.6 pct in March, the National
 Statistics Institute (INSEE) said.
     It said the figure fell to 46.35 billion francs seasonally

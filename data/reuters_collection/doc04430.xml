@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 14:43:30.73</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">C M
-f0137reute
-b f BC-/PERU'S-CENTROMIN-SAY   03-12 0095</field>
-	<field name = "TITLE">PERU'S CENTROMIN SAYS NO COPPER FORCE MAJEURE</field>
+	<field name = "titulo">PERU'S CENTROMIN SAYS NO COPPER FORCE MAJEURE</field>
 	<field name = "DATELINE">LIMA, March 12 -</field>
-	<field name = "BODY">Peru's biggest state mining firm,
+	<field name = "content">Peru's biggest state mining firm,
 Centromin SA, said today there was no immediate force majeure
 possibility on its copper shipments after guerrillas blew up a
 railway line, interrupting train traffic from the Cobriza

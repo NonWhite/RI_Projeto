@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 15:28:25.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2451reute
-u f BC-CONGRESSMAN-QUESTIONS   06-02 0101</field>
-	<field name = "TITLE">CONGRESSMAN QUESTIONS INSIDER TRADING ENFORCEMENT</field>
+	<field name = "titulo">CONGRESSMAN QUESTIONS INSIDER TRADING ENFORCEMENT</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">Rep. Norman Lent, R-N.Y., said Dennis
+	<field name = "content">Rep. Norman Lent, R-N.Y., said Dennis
 Levine's conviction for insider trading showed the need for
 tougher enforcement of insider trading laws by the government
 and the securities industry.

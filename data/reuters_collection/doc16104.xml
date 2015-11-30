@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 01:05:22.33</field>
 	<field name = "PLACES">japan</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">RM
-f0027reute
-b f BC-TOKYO-STOCKS-PLUNGE-I   04-13 0093</field>
-	<field name = "TITLE">TOKYO STOCKS PLUNGE IN MIDDAY TRADE</field>
+	<field name = "titulo">TOKYO STOCKS PLUNGE IN MIDDAY TRADE</field>
 	<field name = "DATELINE">TOKYO, April 13 -</field>
-	<field name = "BODY">Tokyo's stockmarket index plunged sharply
+	<field name = "content">Tokyo's stockmarket index plunged sharply
 at the start of afternoon trade as investors took profits from
 last week's four straight record closes, brokers said.
     The market index fell 427.48 points to 22,789.11 only 13

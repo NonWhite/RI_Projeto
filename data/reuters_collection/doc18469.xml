@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 01:22:27.51</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f2118reute
-u f BC-JAPAN-FOREIGN-SHIPBUI   06-18 0102</field>
-	<field name = "TITLE">JAPAN FOREIGN SHIPBUILDING ORDERS FALL IN MAY</field>
+	<field name = "titulo">JAPAN FOREIGN SHIPBUILDING ORDERS FALL IN MAY</field>
 	<field name = "DATELINE">TOKYO, June 18 -</field>
-	<field name = "BODY">New foreign shipbuilding orders received
+	<field name = "content">New foreign shipbuilding orders received
 by Japanese yards in May fell to five vessels totalling 188,900
 gross tons (gt) from eight ships of 314,000 gt in April,
 against four ships of 104,500 gt a year earlier, the Japan Ship

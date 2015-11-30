@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 19:24:43.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2767reute
-u f BC-MEMBERS-VOTE-TO-DISSO   03-25 0110</field>
-	<field name = "TITLE">MEMBERS VOTE TO DISSOLVE U.S. FARM CO-OP</field>
+	<field name = "titulo">MEMBERS VOTE TO DISSOLVE U.S. FARM CO-OP</field>
 	<field name = "DATELINE">CHICAGO, March 25 -</field>
-	<field name = "BODY">The shareholders of Illinois
+	<field name = "content">The shareholders of Illinois
 Cooperative Futures Co voted to dissolve the 26-year-old firm,
 the futures trading arm of 85 farm cooperatives, its president
 said.

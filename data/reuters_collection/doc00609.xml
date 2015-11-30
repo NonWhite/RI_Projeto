@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:20:26.04</field>
-	<field name = "UNKNOWN">F
-f0483
-reute
-r f BC-HEALTH-MOR-INC-HMI>   03-02 0040</field>
-	<field name = "TITLE">HEALTH-MOR INC HMI> 4TH QTR NET</field>
+	<field name = "titulo">HEALTH-MOR INC HMI> 4TH QTR NET</field>
 	<field name = "DATELINE">LOMBARD, Ill., March 2 -</field>
-	<field name = "BODY">Shr 27 cts vs 39 cts
+	<field name = "content">Shr 27 cts vs 39 cts
     Net 481,189 vs 697,381
     Revs 6.1 mln vs 6.4 mln
     Year

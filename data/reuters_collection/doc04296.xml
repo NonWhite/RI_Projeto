@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 11:44:39.74</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0499reute
-u f BC-GERMAN-BANKS-SAY-UNCE   03-12 0098</field>
-	<field name = "TITLE">GERMAN BANKS SAY UNCERTAINTY ABOUT ECONOMY GROWING</field>
+	<field name = "titulo">GERMAN BANKS SAY UNCERTAINTY ABOUT ECONOMY GROWING</field>
 	<field name = "DATELINE">BONN, March 12 -</field>
-	<field name = "BODY">Uncertainty is growing about the prospects
+	<field name = "content">Uncertainty is growing about the prospects
 for the economy as orders for industry fall and companies scale
 back investment plans, the German Savings Banks and Giro
 Association said.

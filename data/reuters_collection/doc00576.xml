@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:52:57.90</field>
-	<field name = "UNKNOWN">F
-f0375
-reute
-r f BC-BRT-REALTY-TRUST-BRT   03-02 0096</field>
-	<field name = "TITLE">BRT REALTY TRUST BRT> RAISES QUARTERLY PAYOUT</field>
+	<field name = "titulo">BRT REALTY TRUST BRT> RAISES QUARTERLY PAYOUT</field>
 	<field name = "DATELINE">GREAT NECK, N.Y., March 2 -</field>
-	<field name = "BODY">BRT Realty Trust said it raised
+	<field name = "content">BRT Realty Trust said it raised
 its quarterly dividend to 50 cts a share from the 42 cts paid
 in the previous quarter.
     It said the dividend is payable March 31 to shareholders of

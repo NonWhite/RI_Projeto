@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 18:30:48.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9756reute
-u f BC-INTELSAT,-MARTIN-MARI   03-18 0093</field>
-	<field name = "TITLE">INTELSAT, MARTIN MARIETTA IN LAUNCH CONTRACT</field>
+	<field name = "titulo">INTELSAT, MARTIN MARIETTA IN LAUNCH CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, D.C. March 18 -</field>
-	<field name = "BODY">International
+	<field name = "content">International
 Telecommunications Satellite Organization, a cooperative of 113
 nations,  said it has authorized its director general to
 contract with martin Marietta Corp ML> for the launch of two

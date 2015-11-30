@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 11:30:35.89</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2496reute
-u f BC-GOLDEN-NUGGET-INC-GN   03-16 0030</field>
-	<field name = "TITLE">GOLDEN NUGGET INC GNG> 4TH QTR LOSS</field>
+	<field name = "titulo">GOLDEN NUGGET INC GNG> 4TH QTR LOSS</field>
 	<field name = "DATELINE">LAS VEGAS, March 16 -</field>
-	<field name = "BODY">Oper shr loss 20 cts vs loss 19 cts
+	<field name = "content">Oper shr loss 20 cts vs loss 19 cts
     Oper net loss 7,001,000 vs loss 6,761,000
     Revs 93.0 mln vs 90.6 mln
     Avg shrs 35.2 mln vs 34.8 mln

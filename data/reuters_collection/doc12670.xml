@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 14:00:00.81</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f2012reute
-r f BC-ARK-RESTAURANTS-RK>   04-02 0067</field>
-	<field name = "TITLE">ARK RESTAURANTS RK> BEGINS TRADING ON AMEX</field>
+	<field name = "titulo">ARK RESTAURANTS RK> BEGINS TRADING ON AMEX</field>
 	<field name = "DATELINE">NEW YORK, April 2 -</field>
-	<field name = "BODY">Ark Restaurants Corp's 3,333,333 shares
+	<field name = "content">Ark Restaurants Corp's 3,333,333 shares
 of common stock began trading today on the American Stock
 Exchange, the exchange said.
     The common opened on 100 shares at 4-3/8, the exchange

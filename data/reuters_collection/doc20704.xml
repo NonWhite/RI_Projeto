@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 16:13:48.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM 
-f3140reute
-u f BC-AMERICAN-EXPRESS-AXP   10-20 0083</field>
-	<field name = "TITLE">AMERICAN EXPRESS SAYS ITS STRATEGY IS STABLE</field>
+	<field name = "titulo">AMERICAN EXPRESS SAYS ITS STRATEGY IS STABLE</field>
 	<field name = "AUTHOR">By Alison Rea</field>
 	<field name = "DATELINE">DALLAS, Oct 20 -</field>
-	<field name = "BODY">American Express Co's AXP> president
+	<field name = "content">American Express Co's AXP> president
 Louis Gerstner Jr. said a bear market will not effect his
 company's long-term strategy.
     "I don't think where the market goes over any month long

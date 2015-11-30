@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 09:06:47.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0199reute
-r f BC-CHEMLAWN-CHEM>-POSTP   04-17 0056</field>
-	<field name = "TITLE">CHEMLAWN CHEM> POSTPONES ANNUAL MEETING</field>
+	<field name = "titulo">CHEMLAWN CHEM> POSTPONES ANNUAL MEETING</field>
 	<field name = "DATELINE">COLUMBUS, Ohio, April 17 -</field>
-	<field name = "BODY">ChemLAwn Corp said due to the
+	<field name = "content">ChemLAwn Corp said due to the
 tender offer by Ecolab Inc ECL> for ChemLawn shares at 36.50
 dlrs each, it has postponed its annual meeting, which had
 scheduled for April 23.

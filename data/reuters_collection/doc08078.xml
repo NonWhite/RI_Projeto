@@ -2,12 +2,9 @@
 	<field name = "DATE">22-MAR-1987 01:06:32.02</field>
 	<field name = "PLACES">italy</field>
 	<field name = "PEOPLE">ciampi</field>
-	<field name = "UNKNOWN">RM
-f0023reute
-u f BC-CALABRIAN-BANK-TAKEN   03-22 0086</field>
-	<field name = "TITLE">CALABRIAN BANK TAKEN OVER BY COMMISSIONERS</field>
+	<field name = "titulo">CALABRIAN BANK TAKEN OVER BY COMMISSIONERS</field>
 	<field name = "DATELINE">ROME, March 22 -</field>
-	<field name = "BODY">Bank of Italy governor Carlo Ciampi
+	<field name = "content">Bank of Italy governor Carlo Ciampi
 appointed three commissioners to take over the temporary
 running of the Cassa di Risparmio di Calabria e Lucania
 (Carical).

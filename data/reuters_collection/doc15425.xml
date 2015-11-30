@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 07:13:52.76</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0431reute
-b f BC-TORONTO-DOMINION-AUST   04-09 0044</field>
-	<field name = "TITLE">TORONTO DOMINION AUSTRALIA DOLLAR BOND INCREASED</field>
+	<field name = "titulo">TORONTO DOMINION AUSTRALIA DOLLAR BOND INCREASED</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Toronto Dominion Bank, Nassau Branch, has
+	<field name = "content">Toronto Dominion Bank, Nassau Branch, has
 increased its eurobond offering to 50 mln Australian dlrs from
 40 mln, lead manager Hambros Bank Ltd said.
     All other terms remain the same.

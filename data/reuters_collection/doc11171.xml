@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 01:24:13.77</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0034reute
-u f BC-CHINA-GETS-RARE-CRITI   03-31 0107</field>
-	<field name = "TITLE">CHINA GETS RARE CRITICISM DURING PEOPLE'S CONGRESS</field>
+	<field name = "titulo">CHINA GETS RARE CRITICISM DURING PEOPLE'S CONGRESS</field>
 	<field name = "AUTHOR">By Stephen Nisbet, Reuters</field>
 	<field name = "DATELINE">PEKING, March 31 -</field>
-	<field name = "BODY">Charges of public sector waste,
+	<field name = "content">Charges of public sector waste,
 corruption and neglect of agriculture have surfaced amid the
 compliments in debates at the annual session of China's
 parliament, the National People's Congress (NPC).

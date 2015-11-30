@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 11:31:11.28</field>
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1634reute
-r f BC-BETHLEHEM-STEEL-BS>   10-20 0090</field>
-	<field name = "TITLE">BETHLEHEM STEEL BS> SETS STEEL PRICE INCREASES</field>
+	<field name = "titulo">BETHLEHEM STEEL BS> SETS STEEL PRICE INCREASES</field>
 	<field name = "DATELINE">BETHLEHEM, Pa., Oct 20 -</field>
-	<field name = "BODY">Bethlehem Steel Corp said prices
+	<field name = "content">Bethlehem Steel Corp said prices
 for steel sheet products will be increased up to 30 dlrs a ton
 effective January 3.
     The increases will affect certain non-contract or spot

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 10:35:44.92</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f2238reute
-b f BC-KAWASAKI-STEEL-ISSUES   03-16 0100</field>
-	<field name = "TITLE">KAWASAKI STEEL ISSUES NOVEL 30 MLN DLR EUROBOND</field>
+	<field name = "titulo">KAWASAKI STEEL ISSUES NOVEL 30 MLN DLR EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 16 -</field>
-	<field name = "BODY">Kawasaki Steel International Finance Plc
+	<field name = "content">Kawasaki Steel International Finance Plc
 is issuing a stepped coupon 30 mln dlr eurobond due March 26,
 1994 priced at 101-7/8 pct, lead manager Wako International
 Europe Ltd said.

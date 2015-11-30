@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">portugal</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f1822reute
-d f BC-PORTUGUESE-GRAIN-AGEN   03-23 0099</field>
-	<field name = "TITLE">PORTUGUESE GRAIN AGENCY BAN OPPOSED BY MINISTER</field>
+	<field name = "titulo">PORTUGUESE GRAIN AGENCY BAN OPPOSED BY MINISTER</field>
 	<field name = "DATELINE">LISBON, March 23 -</field>
-	<field name = "BODY">Portugal's Agriculture Minister Alvaro
+	<field name = "content">Portugal's Agriculture Minister Alvaro
 Barreto said he disagreed with a court order barring the state
 grain buying agency EPAC from taking part in cereals import
 tenders open to private traders.

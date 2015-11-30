@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">lyng</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G L 
-f2452reute
-r f BC-LYNG-DEFENDS-U.S.-EXP   10-20 0129</field>
-	<field name = "TITLE">LYNG DEFENDS U.S. EXPORT SUBSIDY PROGRAM</field>
+	<field name = "titulo">LYNG DEFENDS U.S. EXPORT SUBSIDY PROGRAM</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">U.S. Agriculture Secretary Richard
+	<field name = "content">U.S. Agriculture Secretary Richard
 Lyng said the United States will continue its policy of
 subsidizing farm exports to regain lost markets until there is
 a global agreement to end such subsidies.

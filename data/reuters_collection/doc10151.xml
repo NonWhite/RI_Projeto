@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:15:42.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2529reute
-r f BC-INTERNATIONAL-MOBILE   03-26 0062</field>
-	<field name = "TITLE">INTERNATIONAL MOBILE IMMC> FILES FOR OFFERING</field>
+	<field name = "titulo">INTERNATIONAL MOBILE IMMC> FILES FOR OFFERING</field>
 	<field name = "DATELINE">PHILADELPHIA, March 26 -</field>
-	<field name = "BODY">International Mobile Machines Corp
+	<field name = "content">International Mobile Machines Corp
 said it filed for a public offering of one mln shares of
 convertible preferred stock.
     The company said it filed a registration statement with the

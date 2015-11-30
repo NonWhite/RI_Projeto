@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 08:28:22.67</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C G T M
-f0623reute
-d f BC-JAPAN-DOCKWORKERS-STR   04-24 0105</field>
-	<field name = "TITLE">JAPAN DOCK STRIKE TO CONTINUE OVER WEEKEND</field>
+	<field name = "titulo">JAPAN DOCK STRIKE TO CONTINUE OVER WEEKEND</field>
 	<field name = "DATELINE">TOKYO, April 24 -</field>
-	<field name = "BODY">A strike by Japanese dockworkers will
+	<field name = "content">A strike by Japanese dockworkers will
 continue over the weekend as no breakthrough is in sight, a
 Japan Harbour Transportation Association spokesman said.
     The association has not yet agreed on a schedule for

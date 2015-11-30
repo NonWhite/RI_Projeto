@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 08:40:58.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0357
-reute
-r f BC-IMPERIAL-CHEMICAL-IM   03-02 0100</field>
-	<field name = "TITLE">IMPERIAL CHEMICAL IMP> FORMS NEW UNIT</field>
+	<field name = "titulo">IMPERIAL CHEMICAL IMP> FORMS NEW UNIT</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Imperial Chemical Industries PLC said
+	<field name = "content">Imperial Chemical Industries PLC said
 it is forming a new U.S. pharmaceuticals unit called ICI
 Pharma.
     Combined sales of Imperial's existing Stuart

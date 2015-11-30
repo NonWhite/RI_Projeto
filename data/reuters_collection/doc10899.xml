@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 12:25:53.23</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f1785reute
-u f BC-NYSE-SAYS-SANTA-FE-S   03-30 0081</field>
-	<field name = "TITLE">NYSE SAYS SANTA FE SFX> NO RESPONSE YET ON STOCK</field>
+	<field name = "titulo">NYSE SAYS SANTA FE SFX> NO RESPONSE YET ON STOCK</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">The New York Stock Exchange said Santa
+	<field name = "content">The New York Stock Exchange said Santa
 Fe Southern Pacific Corp has not yet responded to the
 Exchange's inquiries about the unusual activity in the
 company's stock.

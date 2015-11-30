@@ -2,13 +2,10 @@
 	<field name = "DATE">17-MAR-1987 08:22:16.60</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f4701reute
-u f BC-ECONOMISTS-SEE-SLUGGI   03-17 0103</field>
-	<field name = "TITLE">ECONOMISTS SEE SLUGGISH JAPANESE ECONOMY AHEAD</field>
+	<field name = "titulo">ECONOMISTS SEE SLUGGISH JAPANESE ECONOMY AHEAD</field>
 	<field name = "AUTHOR">By Kunio Inoue, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 17 -</field>
-	<field name = "BODY">The Japanese economy will remain sluggish
+	<field name = "content">The Japanese economy will remain sluggish
 in the months ahead after turning in its worst performance for
 12 years in 1986, private economists said.
     Consumer spending, a main driving force of domestic demand,

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:57:29.05</field>
-	<field name = "UNKNOWN">GQ
-f2314reute
-d f BC-mpls-cash-grain   04-07 0085</field>
-	<field name = "TITLE">MINNEAPOLIS DAILY CASH GRAIN CLOSE (RAIL) USDA</field>
+	<field name = "titulo">MINNEAPOLIS DAILY CASH GRAIN CLOSE (RAIL) USDA</field>
 	<field name = "DATELINE">APRIL 7  -</field>
-	<field name = "BODY">(CENTS PER BUSHEL)
+	<field name = "content">(CENTS PER BUSHEL)
  Minneapolis/Duluth Cash Close and Change
  M=Minneapolis, D=Duluth, NB=no bid
  1 DNS WHEAT: PROTEIN

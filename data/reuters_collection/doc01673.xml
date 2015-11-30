@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">C G
-f0298reute
-u f BC-CANADA-WHEAT-BOARD-AD   03-04 0137</field>
-	<field name = "TITLE">CANADA WHEAT BOARD ADVISES CUT IN GRAIN PRICES</field>
+	<field name = "titulo">CANADA WHEAT BOARD ADVISES CUT IN GRAIN PRICES</field>
 	<field name = "DATELINE">WINNIPEG, March 4 -</field>
-	<field name = "BODY">The Canadian Wheat Board has advised
+	<field name = "content">The Canadian Wheat Board has advised
 the federal government to sharply cut initial prices paid to
 farmers for their wheat, oats, and barley in the crop year
 beginning August 1, a board spokesman said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 19:21:34.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2840reute
-h f BC-UNIVATION-INC-UNIV>   03-24 0049</field>
-	<field name = "TITLE">UNIVATION INC UNIV> EXPANDS EUROPE DISTRIBUTION</field>
+	<field name = "titulo">UNIVATION INC UNIV> EXPANDS EUROPE DISTRIBUTION</field>
 	<field name = "DATELINE">MILPITAS, Calif., March 24 -</field>
-	<field name = "BODY">Univation Inc said it has
+	<field name = "content">Univation Inc said it has
 entered marketing agreements with eight major European
 distributors in seven countries.
     The company said the agreements are expected to yield ten

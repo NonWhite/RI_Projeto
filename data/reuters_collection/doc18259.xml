@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 15:39:32.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2487reute
-d f BC-CORBUS-CRVS.O>-PRESI   06-02 0039</field>
-	<field name = "TITLE">CORBUS CRVS.O> PRESIDENT NAMED CEO</field>
+	<field name = "titulo">CORBUS CRVS.O> PRESIDENT NAMED CEO</field>
 	<field name = "DATELINE">SAN JOSE, Calif., June 2-</field>
-	<field name = "BODY">Corvus Systems Inc said Lewis
+	<field name = "content">Corvus Systems Inc said Lewis
 Lipton, currently president, was named to the additional post
 of chief executive.
     The company said Lipton was also elected to its board.

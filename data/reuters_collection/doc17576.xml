@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1333reute
-b f BC-/-FED-EXPECTED-TO-SET   06-01 0088</field>
-	<field name = "TITLE">FED EXPECTED TO SET CUSTOMER REPURCHASES</field>
+	<field name = "titulo">FED EXPECTED TO SET CUSTOMER REPURCHASES</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">The Federal Reserve is expected to add
+	<field name = "content">The Federal Reserve is expected to add
 reserves to the U.S. banking system by arranging a round of
 customer repurchase agreements during this morning's
 intervention period, several economists said.

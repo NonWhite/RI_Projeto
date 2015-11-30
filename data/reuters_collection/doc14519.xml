@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:46:57.83</field>
-	<field name = "UNKNOWN">G
-f2273reute
-u f BC-gulf-barge-soybeans   04-07 0076</field>
-	<field name = "TITLE">CHICAGO CASH GRAIN</field>
+	<field name = "titulo">CHICAGO CASH GRAIN</field>
 	<field name = "DATELINE">CHICAGO, APRIL 7 -</field>
-	<field name = "BODY">BEST BASIS BIDS POSTED BY GRAIN DEALERS
+	<field name = "content">BEST BASIS BIDS POSTED BY GRAIN DEALERS
 AT THE CLOSE -
     CHICAGO CORN
  PROCESSORS    SPOT, 4 UNDER MAY - UNC

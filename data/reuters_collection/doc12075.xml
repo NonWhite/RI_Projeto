@@ -4,12 +4,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">C G
-f1618reute
-u f BC-JAPANESE-CRUSHERS-BUY   04-01 0033</field>
-	<field name = "TITLE">JAPANESE CRUSHERS BUY CANADIAN RAPESEED</field>
+	<field name = "titulo">JAPANESE CRUSHERS BUY CANADIAN RAPESEED</field>
 	<field name = "DATELINE">WINNIPEG, April 1 -</field>
-	<field name = "BODY">Japanese crushers bought 5,000 to 6,000
+	<field name = "content">Japanese crushers bought 5,000 to 6,000
 tonnes of Canadian rapeseed for May shipment in export business
 overnight, trade sources said.
  Reuter</field>

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 17:15:31.30</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f2637reute
-u f BC-BELL-CANADA-BCE>-UNI   06-29 0093</field>
-	<field name = "TITLE">BELL CANADA BCE> UNIT DETAILS RATE REDUCTIONS</field>
+	<field name = "titulo">BELL CANADA BCE> UNIT DETAILS RATE REDUCTIONS</field>
 	<field name = "DATELINE">OTTAWA, June 29 -</field>
-	<field name = "BODY">Bell Canada, owned by Bell Canada
+	<field name = "content">Bell Canada, owned by Bell Canada
 Enterprises Inc, said it will reduce long distance rates in
 Canada by an average of between two and eight pct, in line with
 a ruling by Canadian regulators.

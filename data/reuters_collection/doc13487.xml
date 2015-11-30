@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:43:42.40</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0371reute
-b f BC-FRENCH-TREASURY-TO-RE   04-07 0065</field>
-	<field name = "TITLE">FRENCH TREASURY TO REPAY 680 MLN FRANCS OF DEBT</field>
+	<field name = "titulo">FRENCH TREASURY TO REPAY 680 MLN FRANCS OF DEBT</field>
 	<field name = "DATELINE">PARIS, April 7 -</field>
-	<field name = "BODY">The French treasury has decided to repay
+	<field name = "content">The French treasury has decided to repay
 680 mln francs of debt issued before 1950, the Finance Ministry
 said.
     Seven issues, accounting for 0.13 pct of total state

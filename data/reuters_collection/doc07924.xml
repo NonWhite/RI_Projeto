@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 15:11:03.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2182reute
-b f BC-/AMERICAN-EXPRESS-AX   03-20 0106</field>
-	<field name = "TITLE">AMERICAN EXPRESS AXP> AND UNIT GET SUBPOENAS</field>
+	<field name = "titulo">AMERICAN EXPRESS AXP> AND UNIT GET SUBPOENAS</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">American Express Co said it was
+	<field name = "content">American Express Co said it was
 subpoenaed by the Securities and Exchange Commission in
 connection with documents on transactions in securities of
 American Express and its former unit, Fireman's Fund.

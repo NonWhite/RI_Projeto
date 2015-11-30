@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">malaysia</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y 
-f0049reute
-u f BC-MALAYSIA-ADVISED-TO-R   10-20 0116</field>
-	<field name = "TITLE">MALAYSIA ADVISED TO RAISE CRUDE OIL OUTPUT IN 1988</field>
+	<field name = "titulo">MALAYSIA ADVISED TO RAISE CRUDE OIL OUTPUT IN 1988</field>
 	<field name = "DATELINE">KUALA LUMPUR, Oct 20 -</field>
-	<field name = "BODY">Malaysia's national oil company,
+	<field name = "content">Malaysia's national oil company,
 Petronas, has advised the government to raise crude oil output
 to 540,000 barrels a day (bpd) in 1988 from a current 500,000
 bpd, a senior company official said.

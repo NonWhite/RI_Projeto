@@ -3,13 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">Y
-f2839reute
-u f BC-CHINESE-OFFICIALS-SAY   04-29 0089</field>
-	<field name = "TITLE">CHINESE OFFICIALS SAY DRILLING OUTLOOK BRIGHT</field>
+	<field name = "titulo">CHINESE OFFICIALS SAY DRILLING OUTLOOK BRIGHT</field>
 	<field name = "AUTHOR">By KAREN YATES, Reuters</field>
 	<field name = "DATELINE">HOUSTON, April 29 -</field>
-	<field name = "BODY">China's oil drilling industry is one of
+	<field name = "content">China's oil drilling industry is one of
 the few bright spots in the international oilpatch with about
 1,000 rigs currently working and annual increases of 80-100
 expected through the end of the century, a Chinese petroleum

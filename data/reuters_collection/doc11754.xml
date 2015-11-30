@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 18:50:46.64</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2908reute
-d f BC-DBA   03-31 0101</field>
-	<field name = "TITLE">INVESTOR GROUP CUTS DBA SYSTEMS DBAS> STAKE</field>
+	<field name = "titulo">INVESTOR GROUP CUTS DBA SYSTEMS DBAS> STAKE</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">A group led by New York investors
+	<field name = "content">A group led by New York investors
 David Bellet and Chester Siuda said it lowered its stake in DBA
 Systems Inc to 100,000 shares, or 3.7 pct of the total
 outstanding, from 170,000 shares, or 6.3 pct.

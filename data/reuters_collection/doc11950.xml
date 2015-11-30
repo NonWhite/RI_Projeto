@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 10:22:19.08</field>
 	<field name = "PLACES">tanzania</field>
-	<field name = "UNKNOWN">C G T M
-f1063reute
-d f BC-TANZANIA-OUTLINES-NEW   04-01 0098</field>
-	<field name = "TITLE">TANZANIA OUTLINES NEW FIVE-YEAR PLAN</field>
+	<field name = "titulo">TANZANIA OUTLINES NEW FIVE-YEAR PLAN</field>
 	<field name = "DATELINE">DAR ES SALAAM, April 1 -</field>
-	<field name = "BODY">Tanzania will need about 1.2
+	<field name = "content">Tanzania will need about 1.2
 billion dlrs of hard currency investment to support its
 1987-1992 five-year plan which begins in July, Minister of
 State for Finance Damas Mbogoro said.

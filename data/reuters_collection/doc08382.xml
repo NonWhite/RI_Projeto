@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 12:41:52.12</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f1695reute
-d f BC-HAHN-SAYS-VW-EQUAL-TO   03-23 0107</field>
-	<field name = "TITLE">HAHN SAYS VW EQUAL TO CURRENCY SCANDAL CHALLENGE</field>
+	<field name = "titulo">HAHN SAYS VW EQUAL TO CURRENCY SCANDAL CHALLENGE</field>
 	<field name = "DATELINE">WOLFSBURG, West Germany, March 23 -</field>
-	<field name = "BODY">Volkswagen AG VOWG.F>
+	<field name = "content">Volkswagen AG VOWG.F>
 managing board chairman Carl Hahn said the company was equal to
 the challenge of overcoming potential losses from allegedly
 fraudulent currency transactions.

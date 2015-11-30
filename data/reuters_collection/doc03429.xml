@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">pickens</field>
-	<field name = "UNKNOWN">F Y
-f0070reute
-r f BC-Eds----use-this-one-i   03-09 0118</field>
-	<field name = "TITLE">PICKENS SEES CONTINUED SLUMP IN WORKING RIGS</field>
+	<field name = "titulo">PICKENS SEES CONTINUED SLUMP IN WORKING RIGS</field>
 	<field name = "DATELINE">DALLAS, March 9 -</field>
-	<field name = "BODY">T. Boone Pickens, the Texas oilman and
+	<field name = "content">T. Boone Pickens, the Texas oilman and
 financier, said he believes the heady days the oil service
 industry had in the early 1980s, when over 4,500 oil rigs were
 once reported operating, will not return in his lifetime.

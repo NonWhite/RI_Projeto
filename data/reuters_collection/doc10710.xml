@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 04:08:42.98</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0255reute
-b f BC-BANK-OF-JAPAN-TO-SELL   03-30 0103</field>
-	<field name = "TITLE">BANK OF JAPAN TO SELL 500 BILLION YEN IN BILLS</field>
+	<field name = "titulo">BANK OF JAPAN TO SELL 500 BILLION YEN IN BILLS</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">The Bank of Japan will sell 500 billion
+	<field name = "content">The Bank of Japan will sell 500 billion
 yen of financing bills via a 32-day repurchase agreement to
 help mop up a money market surplus of around 1,750 billion yen
 tomorrow, short-term money houses said.

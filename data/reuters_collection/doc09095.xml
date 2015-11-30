@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 18:14:54.16</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">A RM
-f2758reute
-r f AM-BRAZIL-PLANNING   03-24 0083</field>
-	<field name = "TITLE">BRAZIL ANNOUNCES NEW PLANNING MINISTER</field>
+	<field name = "titulo">BRAZIL ANNOUNCES NEW PLANNING MINISTER</field>
 	<field name = "DATELINE">BRASILIA, March 24 -</field>
-	<field name = "BODY">Brazil's new planning minister is
+	<field name = "content">Brazil's new planning minister is
 Anibal Teixeira de Souza, the former head of a national welfare
 program, the government said.
     Teixeira replaces economist Joao Sayad, who last week

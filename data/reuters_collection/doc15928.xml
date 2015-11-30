@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 15:58:58.90</field>
 	<field name = "TOPICS">orange</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C T
-f2441reute
-b f BC-USDA-FLORIDA-ORANGE-R   04-09 0121</field>
-	<field name = "TITLE">USDA FLORIDA ORANGE REPORT CONSIDERED BEARISH</field>
+	<field name = "titulo">USDA FLORIDA ORANGE REPORT CONSIDERED BEARISH</field>
 	<field name = "DATELINE">New York, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department's
+	<field name = "content">The U.S. Agriculture Department's
 latest estimates on 1986/87 Florida orange production and
 orange juice yield are bearish for the frozen concentrated
 orange juice futures market because the yield increase was

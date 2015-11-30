@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f2162reute
-u f AM-CHIPS-AMERICAN   03-31 0109</field>
-	<field name = "TITLE">SENIOR U.S. OFFICIAL TO VISIT JAPAN AS TRADE ROW GROWS</field>
+	<field name = "titulo">SENIOR U.S. OFFICIAL TO VISIT JAPAN AS TRADE ROW GROWS</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Undersecretary of State Michael
+	<field name = "content">Undersecretary of State Michael
 Armacost will visit Tokyo next week for meetings with
 high-level officials that will include discussions of a growing
 trade row over Japanese semiconductor electronics products.

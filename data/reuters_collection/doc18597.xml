@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 08:42:16.03</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G L M T 
-f2867reute
-u f BC-/SENATOR-SAYS-REAGAN   06-18 0144</field>
-	<field name = "TITLE">SENATOR SAYS REAGAN FARM REFORM PLANS DOOMED</field>
+	<field name = "titulo">SENATOR SAYS REAGAN FARM REFORM PLANS DOOMED</field>
 	<field name = "DATELINE">Washington, June 18 -</field>
-	<field name = "BODY">Senator Kent Conrad, D-ND, said
+	<field name = "content">Senator Kent Conrad, D-ND, said
 President Reagan's goal of phasing-out world farm subsidies by
 the year 2000 is doomed to failure because the European
 Community, EC, will not accept it.

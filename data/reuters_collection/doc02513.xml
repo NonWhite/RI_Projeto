@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 17:46:11.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0025reute
-d f BC-INTEREST-IN-OPTIONS-S   03-05 0126</field>
-	<field name = "TITLE">INTEREST IN OPTIONS STIRRED BY U.S. FARM PLANS</field>
+	<field name = "titulo">INTEREST IN OPTIONS STIRRED BY U.S. FARM PLANS</field>
 	<field name = "AUTHOR">By Nelson Graves, Reuter</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">In their search for ways to cut
+	<field name = "content">In their search for ways to cut
 spending on U.S. farm programs, policymakers and their advisers
 here are citing trading in options contracts as an alternative
 to federal income and price supports.

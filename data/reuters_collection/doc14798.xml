@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 22:20:13.19</field>
-	<field name = "UNKNOWN">RM
-f2746reute
-u f BC-U.S.-INTEREST-RATE-FU   04-07 0095</field>
-	<field name = "TITLE">U.S. INTEREST RATE FUTURES OPEN SLIGHTLY LOWER</field>
+	<field name = "titulo">U.S. INTEREST RATE FUTURES OPEN SLIGHTLY LOWER</field>
 	<field name = "DATELINE">SINGAPORE, April 8 -</field>
-	<field name = "BODY">U.S. Interest rate futures opened
+	<field name = "content">U.S. Interest rate futures opened
 slightly lower on underlying weakness of the U.S. Dollar,
 dealers said.
     Sentiment was also dampened by a firmer federal funds rate

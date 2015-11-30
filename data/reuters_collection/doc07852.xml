@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 13:20:53.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1847reute
-d f BC-UNIFORCE-UNFR>-TO-FI   03-20 0076</field>
-	<field name = "TITLE">UNIFORCE UNFR> TO FILE REGISTRATION</field>
+	<field name = "titulo">UNIFORCE UNFR> TO FILE REGISTRATION</field>
 	<field name = "DATELINE">NEW HYDE PARK, N.Y., March 20 -</field>
-	<field name = "BODY">Uniforce Temporary
+	<field name = "content">Uniforce Temporary
 Personnel Inc said it will file in April a registration
 statement with the Securities and Exchange Commission for an
 offering of 128,250 shares of common stock issuable upon

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 17:14:01.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6665reute
-d f BC-GE-GE>-GETS-27.4-MLN   03-17 0055</field>
-	<field name = "TITLE">GE GE> GETS 27.4 MLN DLR NAVY CONTRACT</field>
+	<field name = "titulo">GE GE> GETS 27.4 MLN DLR NAVY CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">General Electric Co's Aircraft
+	<field name = "content">General Electric Co's Aircraft
 Engine Business Group is being awarded 27.4 mln dlr contract
 for ancillary equipment for the F110 engine and the F-14A
 aircraft, the Defense Department said.

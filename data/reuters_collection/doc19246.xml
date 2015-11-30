@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 12:12:43.39</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM 
-f1461reute
-b f BC-LLOYDS-PULLS-OUT-OF-E   06-19 0065</field>
-	<field name = "TITLE">LLOYDS PULLS OUT OF EUROBOND/GILT MARKET MAKING</field>
+	<field name = "titulo">LLOYDS PULLS OUT OF EUROBOND/GILT MARKET MAKING</field>
 	<field name = "DATELINE">LONDON, June 19 -</field>
-	<field name = "BODY">Lloyds Bank Plc said it is withdrawing
+	<field name = "content">Lloyds Bank Plc said it is withdrawing
 from market making in Eurobonds and U.K. Government bonds
 (gilts).
     It said in a statement it will maintain an active presence

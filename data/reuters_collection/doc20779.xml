@@ -5,12 +5,9 @@
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "PEOPLE">greenspan</field>
 	<field name = "PEOPLE">sprinkel</field>
-	<field name = "UNKNOWN">V RM 
-f3412reute
-b f BC-/REAGAN-SAYS-HE-IS-WI   10-20 0101</field>
-	<field name = "TITLE">REAGAN SAYS HE IS WILLING TO NEGOTIATE ON BUDGET</field>
+	<field name = "titulo">REAGAN SAYS HE IS WILLING TO NEGOTIATE ON BUDGET</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">President Reagan said he had ordered
+	<field name = "content">President Reagan said he had ordered
 the administration to begin talks with congressional leaders on
 a budget deficit reduction plan.
     Reagan said in a statement following a meeting with his top

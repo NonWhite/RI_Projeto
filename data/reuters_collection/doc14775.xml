@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 20:33:03.48</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f2710reute
-u f BC-N.ZEALAND-RESERVE-BAN   04-07 0083</field>
-	<field name = "TITLE">N.ZEALAND RESERVE BANK GIVES BOND TENDER DETAILS</field>
+	<field name = "titulo">N.ZEALAND RESERVE BANK GIVES BOND TENDER DETAILS</field>
 	<field name = "DATELINE">WELLINGTON, April 8 -</field>
-	<field name = "BODY">The Reserve Bank said it will offer
+	<field name = "content">The Reserve Bank said it will offer
 400 mln N.Z. Dlrs in government bonds of two differing
 maturities at a 14 pct coupon at a bond tender on April 15.
     The bank said it will offer 200 mln dlrs of bonds maturing

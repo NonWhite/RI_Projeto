@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 11:59:00.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1515reute
-r f BC-CONTROL-DATA-CDA>-LA   03-24 0085</field>
-	<field name = "TITLE">CONTROL DATA CDA> LAUNCHES NEW CYBER SYSTEM</field>
+	<field name = "titulo">CONTROL DATA CDA> LAUNCHES NEW CYBER SYSTEM</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Control Data Corp, the computer
+	<field name = "content">Control Data Corp, the computer
 concern, is introducing its first department computer, the
 CYBER 180 Model 930, which will integrate a computer network
 starting with desktop computers through its mainframe line to

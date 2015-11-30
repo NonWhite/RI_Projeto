@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 17:43:51.55</field>
 	<field name = "PLACES">argentina</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM
-f0979reute
-r f BC-IMPORT-TAX-LIFTED-ON   03-04 0110</field>
-	<field name = "TITLE">IMPORT TAX LIFTED ON CAPITAL GOODS</field>
+	<field name = "titulo">IMPORT TAX LIFTED ON CAPITAL GOODS</field>
 	<field name = "DATELINE">BUENOS AIRES, March 4 -</field>
-	<field name = "BODY">Argentina's Idustry and Foreign
+	<field name = "content">Argentina's Idustry and Foreign
 Trade Secretary announced the lifting until December 1989 of
 import taxes on capital goods not produced in the country.
     Roberto Lavagna in a news conference also said Argentina

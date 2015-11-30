@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:33:47.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0530reute
-r f BC-CHRYSLER-C>-TO-PUT-F   03-12 0085</field>
-	<field name = "TITLE">CHRYSLER C> TO PUT FOUR PLANTS ON OVERTIME</field>
+	<field name = "titulo">CHRYSLER C> TO PUT FOUR PLANTS ON OVERTIME</field>
 	<field name = "DATELINE">DETROIT, March 12 -</field>
-	<field name = "BODY">Chrysler Corp's Chrysler Motors unit
+	<field name = "content">Chrysler Corp's Chrysler Motors unit
 said it will put four of its U.S. assembly plants on overtime
 during the week of March 16.
     Three of the plants will also operate Saturday, March 14,

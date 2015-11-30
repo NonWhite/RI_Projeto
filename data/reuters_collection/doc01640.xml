@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 13:19:19.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">M
-f0189reute
-d f BC-AMERICAN-MOTORS-LATE   03-04 0097</field>
-	<field name = "TITLE">AMERICAN MOTORS LATE FEBRUARY SALES OFF</field>
+	<field name = "titulo">AMERICAN MOTORS LATE FEBRUARY SALES OFF</field>
 	<field name = "DATELINE">SOUTHFIELD, MICH., March 4 -</field>
-	<field name = "BODY">American Motors Corp said its
+	<field name = "content">American Motors Corp said its
 U.S. car sales for the February 21 to 28 period dropped 65 pct
 to 926 cars from 2,672 cars in the same period a year ago.
     There were seven selling days in both periods.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 05:46:06.54</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0362reute
-r f BC-VEBA-PLACEMENT-CONTIN   03-25 0116</field>
-	<field name = "TITLE">VEBA PLACEMENT CONTINUES FOR SMALL SHAREHOLDERS</field>
+	<field name = "titulo">VEBA PLACEMENT CONTINUES FOR SMALL SHAREHOLDERS</field>
 	<field name = "DATELINE">FRANKFURT, March 25 -</field>
-	<field name = "BODY">The placement of 10.1 mln government
+	<field name = "content">The placement of 10.1 mln government
 owned shares in Veba AG VEBG.F> is still open for small
 shareholders but lead manager Deutsche Bank AG DBKG.F> has
 already closed its books for institutional investors, a

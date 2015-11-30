@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 08:49:25.94</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">Y 
-f0854reute
-u f BC-REUTERS-LAUNCHES-TWO   10-20 0094</field>
-	<field name = "TITLE">REUTERS LAUNCHES TWO NEW SERVICES IN EUROPE</field>
+	<field name = "titulo">REUTERS LAUNCHES TWO NEW SERVICES IN EUROPE</field>
 	<field name = "DATELINE">LONDON, Oct 20 -</field>
-	<field name = "BODY">Reuters Holdings Plc RTRS.L> said it had
+	<field name = "content">Reuters Holdings Plc RTRS.L> said it had
 launched the Reuter Commodities 2000 and the Reuter Energy 2000
 high speed quotation services in Europe.
     They will carry around 18,000 quotations on commodity,

@@ -3,13 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
 	<field name = "PEOPLE">howard-baker</field>
-	<field name = "UNKNOWN">V RM
-f0144
-reute
-b f BC-BAKER-SAYS-REAGAN-TO   03-02 0112</field>
-	<field name = "TITLE">BAKER SAYS REAGAN TO MEET PRESS "VERY SOON"</field>
+	<field name = "titulo">BAKER SAYS REAGAN TO MEET PRESS "VERY SOON"</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">White House Chief of Staff Howard
+	<field name = "content">White House Chief of Staff Howard
 Baker said President Reagan will meet the press "very soon."
     Baker told a brief news conference "I expect you'll see the
 president very soon" when asked by reporters when Reagan

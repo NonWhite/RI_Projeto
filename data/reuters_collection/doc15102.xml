@@ -3,12 +3,9 @@
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">F RM A
-f1539reute
-r f BC-J.P.-MORGAN-JPM>-NET   04-08 0109</field>
-	<field name = "TITLE">J.P. MORGAN JPM> NET HURT BY BRAZIL, TRADING</field>
+	<field name = "titulo">J.P. MORGAN JPM> NET HURT BY BRAZIL, TRADING</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">J.P. Morgan and Co Inc said its
+	<field name = "content">J.P. Morgan and Co Inc said its
 first-quarter earnings fell by 3.2 pct, largely reflecting its
 previously announced decision to place on non-accrual status
 its 1.3 billion dlrs of medium- and long-term loans to Brazil.

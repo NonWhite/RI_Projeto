@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 05:26:17.45</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">lebanon</field>
-	<field name = "UNKNOWN">RM 
-f0337reute
-u f BC-BANKS-EXTEND-TRADING   10-19 0105</field>
-	<field name = "TITLE">BANKS EXTEND TRADING HALT IN LEBANESE POUND</field>
+	<field name = "titulo">BANKS EXTEND TRADING HALT IN LEBANESE POUND</field>
 	<field name = "DATELINE">BEIRUT, Oct 19 -</field>
-	<field name = "BODY">Lebanon's Bankers Association said it
+	<field name = "content">Lebanon's Bankers Association said it
 extended its suspension of trading in the Lebanese pound for
 two more working days to study ways to stem the currency's
 collapse.

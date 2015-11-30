@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 15:44:27.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F RM 
-f2206reute
-r f BC-U.S.-BROADENS-NATIONA   06-19 0115</field>
-	<field name = "TITLE">U.S. BROADENS NATIONAL BANK CAPITAL FORBEARANCE</field>
+	<field name = "titulo">U.S. BROADENS NATIONAL BANK CAPITAL FORBEARANCE</field>
 	<field name = "DATELINE">WASHINGTON, June 19 -</field>
-	<field name = "BODY">U.S. Comptroller of the Currency
+	<field name = "content">U.S. Comptroller of the Currency
 Robert Clarke said his office is expanding a plan giving
 temporarily ailing but well managed national banks extra time
 to come into compliance with its minimum capital requirements.

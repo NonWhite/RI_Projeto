@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 10:51:09.00</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0425reute
-u f BC-POLAROID-PRD>-UP-ON   03-05 0104</field>
-	<field name = "TITLE">POLAROID PRD> UP ON REAFFIRMED OPINION</field>
+	<field name = "titulo">POLAROID PRD> UP ON REAFFIRMED OPINION</field>
 	<field name = "DATELINE">NEW YORK, MARCH 5 -</field>
-	<field name = "BODY">Shares of Polaroid Corp rose following
+	<field name = "content">Shares of Polaroid Corp rose following
 a reiterated recommendation by Merrill Lynch and Co that
 focused on strong earnings momentum for the company, traders
 said.

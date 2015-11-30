@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 05:22:31.01</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f0296reute
-r f BC-CHINA-TRYING-TO-INCRE   03-13 0113</field>
-	<field name = "TITLE">CHINA TRYING TO INCREASE COTTON OUTPUT, PAPER SAYS</field>
+	<field name = "titulo">CHINA TRYING TO INCREASE COTTON OUTPUT, PAPER SAYS</field>
 	<field name = "DATELINE">PEKING, March 13 -</field>
-	<field name = "BODY">China's 1987 cotton output must rise
+	<field name = "content">China's 1987 cotton output must rise
 above the 1986 level of 3.54 mln tonnes or supply will fall
 short of increasing demand, the China Daily said.
     Demand in 1986 rose 10.9 pct over 1985.

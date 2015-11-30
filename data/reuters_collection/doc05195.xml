@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ipi</field>
 	<field name = "TOPICS">inventories</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f1087reute
-b f BC-JAPAN-JANUARY-INDUSTR   03-16 0082</field>
-	<field name = "TITLE">JAPAN JANUARY INDUSTRIAL PRODUCTION REVISED UP</field>
+	<field name = "titulo">JAPAN JANUARY INDUSTRIAL PRODUCTION REVISED UP</field>
 	<field name = "DATELINE">TOKYO, March 16 -</field>
-	<field name = "BODY">Japan's January seasonally adjusted
+	<field name = "content">Japan's January seasonally adjusted
 industrial production index (base 1980) was revised upwards to
 122.3 from a preliminary 122.0, the Ministry of International
 Trade and Industry said.

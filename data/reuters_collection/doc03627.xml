@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 10:19:12.40</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM A
-f0230reute
-r f BC-METROPOLIS-OF-TOKYO-S   03-11 0102</field>
-	<field name = "TITLE">METROPOLIS OF TOKYO SELLS 10-YEAR BONDS</field>
+	<field name = "titulo">METROPOLIS OF TOKYO SELLS 10-YEAR BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">The Metropolis of Tokyo is offering in
+	<field name = "content">The Metropolis of Tokyo is offering in
 the Yankee bond market 100 mln dlrs of guaranteed bonds due
 1997 yielding 7.57 pct, said lead manager First Boston Corp.
     The bonds bear a 7-1/2 pct coupon and were priced at 99.515

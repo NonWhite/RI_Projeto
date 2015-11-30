@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 12:01:41.45</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">A RM
-f1682reute
-b f BC-/GOTABANKEN-AND-UNIT   03-30 0086</field>
-	<field name = "TITLE">GOTABANKEN AND UNIT MAY BE DOWNGRADED BY MOODY'S</field>
+	<field name = "titulo">GOTABANKEN AND UNIT MAY BE DOWNGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 may downgrade 2.2 billion crowns of debt of Gotabanken> and
 its unit, Gotabanken Inc.
     The rating agency cited concerns over the company's asset

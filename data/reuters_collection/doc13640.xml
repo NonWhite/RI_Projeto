@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:32:46.84</field>
-	<field name = "UNKNOWN">C M
-f0617reute
-u f BC-LONDON-SILVER-FIX-HIG   04-07 0093</field>
-	<field name = "TITLE">LONDON SILVER FIX HIGHEST SINCE APRIL 1985</field>
+	<field name = "titulo">LONDON SILVER FIX HIGHEST SINCE APRIL 1985</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Silver bullion was fixed at 674.50 cents
+	<field name = "content">Silver bullion was fixed at 674.50 cents
 an ounce, its highest since mid-April 1985, dealers said.
     The metal continued to be supported by gold/silver ratio
 dealing, with traders buying silver and selling gold.

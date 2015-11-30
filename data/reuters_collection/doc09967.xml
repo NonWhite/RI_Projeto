@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 11:39:07.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1536reute
-h f BC-BALLY-BLY>-NAMES-NEW   03-26 0062</field>
-	<field name = "TITLE">BALLY BLY> NAMES NEW CHIEF FINANCIAL OFFICER</field>
+	<field name = "titulo">BALLY BLY> NAMES NEW CHIEF FINANCIAL OFFICER</field>
 	<field name = "DATELINE">CHICAGO, March 26 -</field>
-	<field name = "BODY">Bally Manufacturing Corp said it has
+	<field name = "content">Bally Manufacturing Corp said it has
 elected Paul Johnson a vice president and named him chief
 financial officer, replacing Donald Romans, who took early
 retirement.

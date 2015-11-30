@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
 	<field name = "ORGS">euratom</field>
-	<field name = "UNKNOWN">F Y
-f0989reute
-r f BC-REAGAN-EXTENDS-U.S.-C   03-09 0073</field>
-	<field name = "TITLE">REAGAN EXTENDS U.S. COOPERATION WITH EURATOM</field>
+	<field name = "titulo">REAGAN EXTENDS U.S. COOPERATION WITH EURATOM</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">President Reagan signed an order 
+	<field name = "content">President Reagan signed an order 
 allowing sales of U.S. nuclear fuel to the European Atomic
 Energy Community (EURATOM) to continue for a further year, even
 though they do not comply with a 1978 U.S. law.

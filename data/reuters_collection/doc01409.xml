@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 18:27:08.58</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">C G L M T
-f0175reute
-r f AM-GULF-IRAQ   03-03 0086</field>
-	<field name = "TITLE">IRAQ REPORTS IRAN ATTACK REPULSED EAST OF BASRA</field>
+	<field name = "titulo">IRAQ REPORTS IRAN ATTACK REPULSED EAST OF BASRA</field>
 	<field name = "DATELINE">BAGHDAD, March 3 -</field>
-	<field name = "BODY">Iraq said its troops repelled an
+	<field name = "content">Iraq said its troops repelled an
 overnight Iranian attack east of the southern port city of
 Basra, scene of several Iranian Gulf war thrusts in the past
 two months.

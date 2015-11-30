@@ -4,13 +4,10 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">A 
-f1355reute
-d f BC-LOUVRE-REAFFIRMATION   10-20 0114</field>
-	<field name = "TITLE">LOUVRE REAFFIRMATION NOT ENOUGH - U.K. ANALYSTS</field>
+	<field name = "titulo">LOUVRE REAFFIRMATION NOT ENOUGH - U.K. ANALYSTS</field>
 	<field name = "AUTHOR">By Rowena Whelan</field>
 	<field name = "DATELINE">LONDON, Oct 20 -</field>
-	<field name = "BODY">U.S. And West German reaffirmation of
+	<field name = "content">U.S. And West German reaffirmation of
 support for the Louvre Accord cannot cure the fundamental
 problems bedevilling the world economy which lie behind the
 current collapse in stock markets, London economists said.

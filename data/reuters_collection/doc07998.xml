@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 16:53:26.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2476reute
-b f BC-SALOMON-INC-SB>-SAID   03-20 0099</field>
-	<field name = "TITLE">SALOMON INC SB> SAID IT RECEIVED SUBPOENA</field>
+	<field name = "titulo">SALOMON INC SB> SAID IT RECEIVED SUBPOENA</field>
 	<field name = "DATELINE">New York, March 20 -</field>
-	<field name = "BODY">Salomon Inc's Salomon Brothers unit
+	<field name = "content">Salomon Inc's Salomon Brothers unit
 said the Securities and Exchange Commission subpoenaed its
 records with respect to Fireman's Fund Corp, American Express
 Co, Shearson Lehman Brothers Inc, Jefferies and Co and others.

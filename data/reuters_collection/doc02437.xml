@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:13:07.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0754reute
-w f BC-VMS--HOTEL-VHT>-APPR   03-05 0091</field>
-	<field name = "TITLE">VMS  HOTEL VHT> APPROVES 19.4 MLN DLR LOAN</field>
+	<field name = "titulo">VMS  HOTEL VHT> APPROVES 19.4 MLN DLR LOAN</field>
 	<field name = "DATELINE">CHICAGO, March 5 -</field>
-	<field name = "BODY">VMS Hotel Investment Trust said it
+	<field name = "content">VMS Hotel Investment Trust said it
 agreed to fund a 19.4 mln dlr secured loan for the Santa
 Barbara Biltmore Hotel in Santa Barbara, Calif.
     It said the financing will be applied toward renovating and

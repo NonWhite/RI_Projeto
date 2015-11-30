@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 15:57:47.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2347reute
-u f BC-DIAMOND-SHAMROCK-DIA   04-01 0103</field>
-	<field name = "TITLE">DIAMOND SHAMROCK DIA> TO RAISE SHARE VALUES</field>
+	<field name = "titulo">DIAMOND SHAMROCK DIA> TO RAISE SHARE VALUES</field>
 	<field name = "AUTHOR">by TED D'AFFLISIO, REUTERS</field>
 	<field name = "DATELINE">NEW YORK, APRIL 1 -</field>
-	<field name = "BODY">Diamond Shamrock executives said that
+	<field name = "content">Diamond Shamrock executives said that
 to reduce the vulnerability to takeover pressures, they want to
 raise the value of the two companies to be formed by splitting
 Diamond Shamrock.

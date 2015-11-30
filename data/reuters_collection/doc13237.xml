@@ -2,12 +2,9 @@
 	<field name = "DATE">5-APR-1987 00:01:14.83</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0000reute
-u f BC-INSTITUTE-SEES-W.GERM   04-05 0095</field>
-	<field name = "TITLE">INSTITUTE SEES W.GERMAN OUTPUT FALL IN 1987</field>
+	<field name = "titulo">INSTITUTE SEES W.GERMAN OUTPUT FALL IN 1987</field>
 	<field name = "DATELINE">MUNICH, April 5 -</field>
-	<field name = "BODY">Production in the manufactured goods
+	<field name = "content">Production in the manufactured goods
 industry has been falling since mid-1986 and will decline by
 between one and two pct this year after a 2.5 pct increase in
 1986, the Ifo economic institute said.

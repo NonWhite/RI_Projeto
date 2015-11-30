@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 14:09:40.87</field>
-	<field name = "UNKNOWN">RM
-f0661
-reute
-u f BC-GOVERNMENT-BOND-BROKE   03-02 0104</field>
-	<field name = "TITLE">GOVERNMENT BOND BROKER SEES WIDER DATA ACCESS</field>
+	<field name = "titulo">GOVERNMENT BOND BROKER SEES WIDER DATA ACCESS</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">The major U.S. Government bond brokers
+	<field name = "content">The major U.S. Government bond brokers
 are likely to give in to pressure from regulators and investors
 within the next 18 months, making their direct-dealing screens
 available to many of those firms that are not now eligible to

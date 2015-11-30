@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 14:53:33.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0405reute
-d f BC-J.W.-MAYS-INC-MAYS>   03-09 0074</field>
-	<field name = "TITLE">J.W. MAYS INC MAYS> COMPLETES PAYMENTS</field>
+	<field name = "titulo">J.W. MAYS INC MAYS> COMPLETES PAYMENTS</field>
 	<field name = "DATELINE">BROOKLYN, N.Y., March 9 -</field>
-	<field name = "BODY">J.W. Mays Inc said it made the
+	<field name = "content">J.W. Mays Inc said it made the
 final payment of 84,519 dlrs due its unsecured creditors under
 its reorganization plan.
     The company said it has been out of bankrputcy since

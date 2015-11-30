@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 10:13:47.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1020reute
-r f BC-SOUTHEAST-BANKING-ST   04-01 0085</field>
-	<field name = "TITLE">SOUTHEAST BANKING STB> FILES FOR NOTE OFFERING</field>
+	<field name = "titulo">SOUTHEAST BANKING STB> FILES FOR NOTE OFFERING</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Southeast Banking Corp said it filed
+	<field name = "content">Southeast Banking Corp said it filed
 with the Securities and Exchange Commission a registration
 statement covering a 50 mln dlr issue of convertible
 subordinated capital notes due 1999.

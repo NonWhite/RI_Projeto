@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 12:09:16.06</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2703reute
-r f BC-METEX-MTX>-CHAIRMAN   03-16 0097</field>
-	<field name = "TITLE">METEX MTX> CHAIRMAN SELLS SHARES</field>
+	<field name = "titulo">METEX MTX> CHAIRMAN SELLS SHARES</field>
 	<field name = "DATELINE">EDISON, N.J., March 16 -</field>
-	<field name = "BODY">Metex Corp said its chairman and
+	<field name = "content">Metex Corp said its chairman and
 chief executive officer Alan Cohen sold 78,375 shares of Metex
 common stock to Metropolitan Consolidated Industries Inc
 MONY>.

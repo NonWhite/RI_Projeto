@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f4423reute
-u f BC-TAIWAN-ISSUES-MORE-CE   03-17 0101</field>
-	<field name = "TITLE">TAIWAN ISSUES MORE CERTIFICATES OF DEPOSIT</field>
+	<field name = "titulo">TAIWAN ISSUES MORE CERTIFICATES OF DEPOSIT</field>
 	<field name = "DATELINE">TAIPEI, March 17 -</field>
-	<field name = "BODY">Taiwan's central bank issued 12 billion
+	<field name = "content">Taiwan's central bank issued 12 billion
 Taiwan dlrs worth of certificates of deposit after issuing six
 billion yesterday, bringing CD issues so far this year to
 115.47 billion dlrs, a bank official told Reuters.

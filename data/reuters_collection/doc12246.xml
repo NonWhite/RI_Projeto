@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 15:15:38.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2225reute
-u f BC-MOODY'S-MAY-LOWER-GAF   04-01 0106</field>
-	<field name = "TITLE">MOODY'S MAY LOWER GAF GAF>, BORG-WARNER BOR></field>
+	<field name = "titulo">MOODY'S MAY LOWER GAF GAF>, BORG-WARNER BOR></field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 may downgrade the debt ratings of GAF Corp because of its 3.1
 billion dlr acquisition offer for Borg-Warner Corp.
     In a related action, the agency changed to possible

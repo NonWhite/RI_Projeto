@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 08:24:07.75</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0770reute
-b f BC-BFCE-ISSUES-17-BILLIO   04-02 0103</field>
-	<field name = "TITLE">BFCE ISSUES 17 BILLION YEN EUROBOND</field>
+	<field name = "titulo">BFCE ISSUES 17 BILLION YEN EUROBOND</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">Banque Francaise du Commerce Exterieur
+	<field name = "content">Banque Francaise du Commerce Exterieur
 (BFCE) is issuing a 17 billion yen eurobond due May 11, 1992
 with a 4-3/8 pct coupon and priced at 102-3/8 pct, lead manager
 Nippon Credit International Ltd said.

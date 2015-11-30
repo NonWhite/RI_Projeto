@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 10:12:45.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f7985reute
-u f BC-LTV-QLTV>-GETS-500-M   03-18 0102</field>
-	<field name = "TITLE">LTV QLTV> GETS 500 MLN DLR BOEING BA> CONTRACT</field>
+	<field name = "titulo">LTV QLTV> GETS 500 MLN DLR BOEING BA> CONTRACT</field>
 	<field name = "DATELINE">DALLAS, March 18 -</field>
-	<field name = "BODY">LTV Corp said it has received a contract
+	<field name = "content">LTV Corp said it has received a contract
 worth more than 500 mln dlrs from Boeing Co to produce major
 sections for Boeing 767, 757 and 747 airliners, including the
 new 747-400.

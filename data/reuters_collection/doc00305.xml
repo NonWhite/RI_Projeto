@@ -2,14 +2,10 @@
 	<field name = "DATE">2-MAR-1987 05:07:13.58</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">nigeria</field>
-	<field name = "UNKNOWN">RM
-f0848
-reute
-u f BC-JAPANESE-BANKS-COOL-O   03-02 0094</field>
-	<field name = "TITLE">JAPANESE BANKS COOL ON NIGERIAN DEBT TALKS</field>
+	<field name = "titulo">JAPANESE BANKS COOL ON NIGERIAN DEBT TALKS</field>
 	<field name = "AUTHOR">By Kunio Inoue, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 2 -</field>
-	<field name = "BODY">Japanese banks are expected to give
+	<field name = "content">Japanese banks are expected to give
 Nigerian debt negotiators a cool response when they arrive here
 tomorrow for talks, banking sources said.
     "We're not very enthusiastic about Nigeria's debt

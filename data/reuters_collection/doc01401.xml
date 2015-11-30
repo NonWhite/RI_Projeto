@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 18:12:37.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0159reute
-r f BC-BORDEN-INC-BN>-TO-RE   03-03 0091</field>
-	<field name = "TITLE">BORDEN INC BN> TO REDEEM 8-1/2 PCT DEBENTURES</field>
+	<field name = "titulo">BORDEN INC BN> TO REDEEM 8-1/2 PCT DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">Borden Inc called for redemption on
+	<field name = "content">Borden Inc called for redemption on
 March 23 of all its outstanding 8-1/2 pct sinking fund
 debentures, due 2004.
     The company said the redemption price is at 104.55 pct of

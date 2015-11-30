@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 12:44:41.97</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f1859reute
-u f BC-ITALY'S-CIR-PLANS-CON   03-30 0076</field>
-	<field name = "TITLE">ITALY'S CIR PLANS CONVERTIBLE BOND ISSUES</field>
+	<field name = "titulo">ITALY'S CIR PLANS CONVERTIBLE BOND ISSUES</field>
 	<field name = "DATELINE">TURIN, March 30 -</field>
-	<field name = "BODY">CIR (Comagnie Riunite Industriali SpA)
+	<field name = "content">CIR (Comagnie Riunite Industriali SpA)
 IRRI.MI> said it will ask shareholders to approve two
 five-year bond issues carrying warrants convertible into shares
 of its subsidiaries Buitoni SpA> and Sasib SpA>.

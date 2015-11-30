@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:42:42.17F</field>
-	<field name = "UNKNOWN">f1076reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">d f BC-HOMAC-HOMC>-WINS-INJ   03-27 0079</field>
-	<field name = "TITLE">HOMAC HOMC> WINS INJUNCTION AGAINST TANGENT</field>
+	<field name = "titulo">HOMAC HOMC> WINS INJUNCTION AGAINST TANGENT</field>
 	<field name = "DATELINE">DETROIT, March 27 -</field>
-	<field name = "BODY">Homac Inc said the U.S. District Court
+	<field name = "content">Homac Inc said the U.S. District Court
 for the Eastern District of Michigan issued a preliminary
 injunction against Tangent Inc of Dallas from appointing
 directors to Homac's board without written consent of a

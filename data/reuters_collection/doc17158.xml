@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 14:24:06.66</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2075reute
-u f BC-cominco   04-24 0113</field>
-	<field name = "TITLE">COMINCO CLT> TO CLOSE B.C. FERTILIZER PLANT</field>
+	<field name = "titulo">COMINCO CLT> TO CLOSE B.C. FERTILIZER PLANT</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, April 24 -</field>
-	<field name = "BODY">Cominco Ltd said it
+	<field name = "content">Cominco Ltd said it
 will permanently close its fertilizer plant at Kimberley,
 British Columbia, in the latter half of May and 140 employees
 will lose their jobs.

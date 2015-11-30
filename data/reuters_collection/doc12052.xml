@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1511reute
-d f BC-DEAK-INTERNATIONAL-BU   04-01 0114</field>
-	<field name = "TITLE">DEAK INTERNATIONAL BUYS JOHNSON MATTHEY</field>
+	<field name = "titulo">DEAK INTERNATIONAL BUYS JOHNSON MATTHEY</field>
 	<field name = "DATELINE">NEW YORK, APRIL 1 -</field>
-	<field name = "BODY">Deak International, a foreign currency
+	<field name = "content">Deak International, a foreign currency
 and precious metals firm, announced the acquisition of Johnson
 Matthey Commodities of New York from Minories Finance Limited,
 a unit of the Bank of England.

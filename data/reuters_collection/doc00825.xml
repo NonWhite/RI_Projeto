@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 17:31:56.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0225
-reute
-r f BC-FDA-OKAYS-DRUG-TO-LES   03-02 0109</field>
-	<field name = "TITLE">FDA OKAYS DRUG TO LESSEN HEMOPHILIACS' BLEEDING</field>
+	<field name = "titulo">FDA OKAYS DRUG TO LESSEN HEMOPHILIACS' BLEEDING</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">The federal Food and Drug
+	<field name = "content">The federal Food and Drug
 Administration said it approved for U.S. marketing a drug that
 reduces bleeding in hemophiliacs requiring dental work.
     The FDA said the drug, tranemaxic acid, would lessen and in

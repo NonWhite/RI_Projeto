@@ -5,12 +5,9 @@
 	<field name = "PLACES">australia</field>
 	<field name = "ORGS">gatt</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T 
-f1285reute
-r f BC-AUSTRALIA-SEES-CAIRNS   10-19 0113</field>
-	<field name = "TITLE">CAIRNS GROUP SAID INFLUENTIAL IN TRADE TALKS</field>
+	<field name = "titulo">CAIRNS GROUP SAID INFLUENTIAL IN TRADE TALKS</field>
 	<field name = "DATELINE">BANGKOK, Oct 19 -</field>
-	<field name = "BODY">Australian Minister for Trade
+	<field name = "content">Australian Minister for Trade
 Negotiations Michael Duffy said his country and Third World
 commodity producers have formed an effective lobby group
 against farm export subsidies and market access restrictions.

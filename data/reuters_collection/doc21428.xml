@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 09:52:59.85</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1090reute
-u f BC-MANAGEMENT-GROUP-HAS   10-19 0073</field>
-	<field name = "TITLE">MANAGEMENT GROUP HAS RESTAURANT RA> MAJORITY</field>
+	<field name = "titulo">MANAGEMENT GROUP HAS RESTAURANT RA> MAJORITY</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Restaurant Associates Industries Inc
+	<field name = "content">Restaurant Associates Industries Inc
 said the management group led by chairman Martin Brody and
 president Max Pine through October 16 had received 1,796,727
 Class A and 1,766,091 Class B shares in response to its tender

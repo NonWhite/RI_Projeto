@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 10:20:21.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1160reute
-r f BC-FISCHER-WATT-TO-SELL   03-26 0077</field>
-	<field name = "TITLE">FISCHER-WATT TO SELL CONVERTIBLE PREFERRED</field>
+	<field name = "titulo">FISCHER-WATT TO SELL CONVERTIBLE PREFERRED</field>
 	<field name = "DATELINE">RENO, Nev., March 26 -</field>
-	<field name = "BODY">Fischer-Watt Gold Co Inc> said it
+	<field name = "content">Fischer-Watt Gold Co Inc> said it
 intends to raise about five mln dlrs from the private sale of
 convertible preferred stock.
     The company said based on successful completion of the

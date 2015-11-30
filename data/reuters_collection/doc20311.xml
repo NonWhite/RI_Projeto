@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 11:12:33.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1538reute
-r f BC-NATIONAL-DISTILLERS-   10-20 0038</field>
-	<field name = "TITLE">NATIONAL DISTILLERS DR> REPURCHASING SHARES</field>
+	<field name = "titulo">NATIONAL DISTILLERS DR> REPURCHASING SHARES</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">National Distillers and Chemical corp
+	<field name = "content">National Distillers and Chemical corp
 said it intends to repurchase up to three mln of its 32.8 mln
 common shares in the open market or privately from time to time.
  Reuter</field>

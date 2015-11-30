@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 17:02:21.55</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2473reute
-r f BC-CRYSTAL-OIL-CO-COR>   03-25 0076</field>
-	<field name = "TITLE">CRYSTAL OIL CO COR> 4TH QTR LOSS</field>
+	<field name = "titulo">CRYSTAL OIL CO COR> 4TH QTR LOSS</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Oper shr loss 16 cts vs loss 44 cts
+	<field name = "content">Oper shr loss 16 cts vs loss 44 cts
     Oper net loss 8,926,000 vs loss 14.4 mln
     Revs 9,920,000 vs 21.2 mln
     Year

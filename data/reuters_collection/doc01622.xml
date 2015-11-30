@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 12:57:01.16</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G T
-f0095reute
-u f BC-IZVESTIA-SAYS-SOVIET   03-04 0090</field>
-	<field name = "TITLE">IZVESTIA SAYS SOVIET WINTER CROPS NEED RESEEDING</field>
+	<field name = "titulo">IZVESTIA SAYS SOVIET WINTER CROPS NEED RESEEDING</field>
 	<field name = "DATELINE">MOSCOW, March 4 -</field>
-	<field name = "BODY">The government daily Izvestia said a
+	<field name = "content">The government daily Izvestia said a
 considerable amount of Soviet winter crops need to be reseeded
 and the state 1987 grain harvest target of 232 mln tonnes will
 not be easy to fulfil.

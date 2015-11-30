@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 10:50:21.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0180reute
-u f BC-VOLKSWAGEN-OF-AMERICA   03-13 0056</field>
-	<field name = "TITLE">VOLKSWAGEN OF AMERICA EARLY MARCH SALES RISE</field>
+	<field name = "titulo">VOLKSWAGEN OF AMERICA EARLY MARCH SALES RISE</field>
 	<field name = "DATELINE">TROY, MICH., March 13 -</field>
-	<field name = "BODY">Volkswagen of America said its U.S.
+	<field name = "content">Volkswagen of America said its U.S.
 car sales for the March 1-10 period rose 4.9 pct to 849 from
 809 a year earlier.
     It said there were eight selling days in each period.

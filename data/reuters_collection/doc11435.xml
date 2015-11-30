@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1635reute
-u f BC-/TRADERS-EXPECT-SHARP   03-31 0143</field>
-	<field name = "TITLE">TRADERS EXPECT SHARP DROP IN U.S. CORN ACREAGE</field>
+	<field name = "titulo">TRADERS EXPECT SHARP DROP IN U.S. CORN ACREAGE</field>
 	<field name = "DATELINE">CHICAGO, March 31 -</field>
-	<field name = "BODY">Grain trade analysts expect a sharp
+	<field name = "content">Grain trade analysts expect a sharp
 drop in corn acreage, with most expecting a more modest decline
 in soybeans, in the U.S. Agriculture Department, USDA,
 plantings intentions report due out at 1500 est (2100 gmt).

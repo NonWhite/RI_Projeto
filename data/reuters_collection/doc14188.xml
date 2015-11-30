@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:51:14.11</field>
-	<field name = "UNKNOWN">C G
-f1390reute
-u f BC-EUROPEAN-SOY/FEED-AFT   04-07 0108</field>
-	<field name = "TITLE">EUROPEAN SOY/FEED AFTERNOON GENERALLY ACTIVE</field>
+	<field name = "titulo">EUROPEAN SOY/FEED AFTERNOON GENERALLY ACTIVE</field>
 	<field name = "DATELINE">ROTTERDAM, April 7 -</field>
-	<field name = "BODY">The cif Rotterdam meals and feeds
+	<field name = "content">The cif Rotterdam meals and feeds
 market was generally active this afternoon after a quiet
 morning as consumers stepped in to cover short positions, the
 dollar remained steady and Chicago rallied, market sources

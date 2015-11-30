@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:10:38.01</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f1005reute
-b f BC-/MARINE-MIDLAND-MMB>   04-01 0030</field>
-	<field name = "TITLE">MARINE MIDLAND MMB> RAISES PRIME RATE</field>
+	<field name = "titulo">MARINE MIDLAND MMB> RAISES PRIME RATE</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Marine Midland Banks Inc said it is
+	<field name = "content">Marine Midland Banks Inc said it is
 raising its prime lending rate to 7-3/4 pct from 7-1/2 pct,
 effective immediately.
  Reuter</field>

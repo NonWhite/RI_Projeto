@@ -8,12 +8,9 @@
 	<field name = "PLACES">spain</field>
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C G
-f1005reute
-u f BC-EC-TO-OFFER-ARGENTINA   04-24 0103</field>
-	<field name = "TITLE">EC TO OFFER ARGENTINA GRAIN SALE COMPENSATION</field>
+	<field name = "titulo">EC TO OFFER ARGENTINA GRAIN SALE COMPENSATION</field>
 	<field name = "DATELINE">BRUSSELS, April 24 -</field>
-	<field name = "BODY">The European Community is to offer
+	<field name = "content">The European Community is to offer
 Argentina compensation for its loss of maize and sorghum
 exports to Spain following Spain's accession to the EC, EC
 sources said.

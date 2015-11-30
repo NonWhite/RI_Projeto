@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 08:41:41.22</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0829reute
-r f BC-PLUM-HOLDING-INC>-ST   10-20 0110</field>
-	<field name = "TITLE">PLUM HOLDING INC> STARTS HOILLY SUGAR HLY> BID</field>
+	<field name = "titulo">PLUM HOLDING INC> STARTS HOILLY SUGAR HLY> BID</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Plum Holding Inc said it has started its
+	<field name = "content">Plum Holding Inc said it has started its
 previously-announced offer to purchase 664,400 common shares of
 Holly Sugar Corp at 95 dlrs each.
     In a newspaper advertisement, the firm said the offer,

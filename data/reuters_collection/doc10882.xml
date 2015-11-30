@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 11:57:24.95</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1672reute
-u f BC-CYCLOPS   03-30 0097</field>
-	<field name = "TITLE">OPPENHEIMER HAS SIX PCT OF CYCLOPS CYL></field>
+	<field name = "titulo">OPPENHEIMER HAS SIX PCT OF CYCLOPS CYL></field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">Oppenheimer, the brokerage and
+	<field name = "content">Oppenheimer, the brokerage and
 investment subsidiary of Oppenheimer Group Inc, told the
 Securities and Exchange Commission it has acquired 243,400
 shares of Cyclops Corp, or 6.0 pct of the total outstanding.

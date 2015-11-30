@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 17:32:08.01</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2459reute
-u f BC-U.S.-COMPANY-EARNINGS   04-03 0063</field>
-	<field name = "TITLE">U.S. COMPANY EARNINGS HIGHLIGHTS</field>
+	<field name = "titulo">U.S. COMPANY EARNINGS HIGHLIGHTS</field>
 	<field name = "DATELINE">New York, april 3 -</field>
-	<field name = "BODY">First Quarter
+	<field name = "content">First Quarter
  Anchor Financial Corp shr 31 cts vs 31
  Nine Months
  Biomet Inc shr 49 cts vs 36

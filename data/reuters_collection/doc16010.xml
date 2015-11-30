@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 17:16:11.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2695reute
-d f BC-TENNEX-INDUSTRIES-TO   04-09 0076</field>
-	<field name = "TITLE">TENNEX INDUSTRIES TO BUILD PLANT IN TENNESSEE</field>
+	<field name = "titulo">TENNEX INDUSTRIES TO BUILD PLANT IN TENNESSEE</field>
 	<field name = "DATELINE">NASHVILLE, Tenn., April 9 -</field>
-	<field name = "BODY">Tennex Industries Inc>, a
+	<field name = "content">Tennex Industries Inc>, a
 Japanese owned supplier of air cleaners for the automotive
 industry, said it will build a seven mln dlr plant in
 Munfreesboro, Tenn.

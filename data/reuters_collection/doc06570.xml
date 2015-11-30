@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 11:44:39.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f8387reute
-d f BC-CHASE-MANHATTAN-CMB>   03-18 0105</field>
-	<field name = "TITLE">CHASE MANHATTAN CMB> OFFERS NEW MARKET ACCOUNT</field>
+	<field name = "titulo">CHASE MANHATTAN CMB> OFFERS NEW MARKET ACCOUNT</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">Chase Manhattan Corp said it
+	<field name = "content">Chase Manhattan Corp said it
 introduced the Market Index Investment, a new deposit account
 that allows investors to take advantage of stock market gains
 without risk of principal loss.

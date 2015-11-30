@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 13:40:59.88</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1920reute
-r f BC-PAN-AM'S-PN>-MAIN-UN   03-20 0113</field>
-	<field name = "TITLE">PAN AM'S PN> MAIN UNIT TO REPORT SMALLER LOSS</field>
+	<field name = "titulo">PAN AM'S PN> MAIN UNIT TO REPORT SMALLER LOSS</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Pan Am Corp said its largest division,
+	<field name = "content">Pan Am Corp said its largest division,
 the Atlantic, will report a first quarter loss that will be
 substantially lower than that reported a year ago.
     In the 1986 1st qtr, Pan Am reported a net loss of 118.4

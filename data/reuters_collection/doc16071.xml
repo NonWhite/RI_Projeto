@@ -4,13 +4,10 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">RM
-f2915reute
-u f BC-U.S.-MARKETS-OFFER-GL   04-09 0113</field>
-	<field name = "TITLE">U.S. MARKETS OFFER GLIMPSE OF VOLCKER NIGHTMARE</field>
+	<field name = "titulo">U.S. MARKETS OFFER GLIMPSE OF VOLCKER NIGHTMARE</field>
 	<field name = "AUTHOR">By Alan Wheatley, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Today's turmoil in the U.S. Financial
+	<field name = "content">Today's turmoil in the U.S. Financial
 markets, with bond and stock prices tumbling in the dollar's
 wake, is evidence of a major shift in investor psychology that
 is likely to spell more turbulence ahead, economists said.

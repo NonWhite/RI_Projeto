@@ -7,12 +7,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C G
-f0536reute
-b f BC-/CHINA-ADDS,-CANCELS   03-05 0122</field>
-	<field name = "TITLE">CHINA ADDS, CANCELS WHEAT COMMITMENTS - USDA</field>
+	<field name = "titulo">CHINA ADDS, CANCELS WHEAT COMMITMENTS - USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">China has added 90,000 tonnes of U.S.
+	<field name = "content">China has added 90,000 tonnes of U.S.
 wheat to its purchases for delivery in the 1987/88 season and
 cancelled 30,000 tonnes of wheat purchases for delivery in the
 1986/87 season, the U.S. Agriculture Department said.

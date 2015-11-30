@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">philippines</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0037reute
-u f BC-AUSTRALIAN-OFFER-FOR   03-22 0101</field>
-	<field name = "TITLE">AUSTRALIAN OFFER FOR SAN MIGUEL SHARES</field>
+	<field name = "titulo">AUSTRALIAN OFFER FOR SAN MIGUEL SHARES</field>
 	<field name = "DATELINE">MANILA, March 22 -</field>
-	<field name = "BODY">Diversified investment company, Ariadne
+	<field name = "content">Diversified investment company, Ariadne
 Australia Ltd>, has offered 3.8 billion pesos for 38 mln shares
 in the Philippine brewing firm San Miguel>, a Manila newspaper
 reported.

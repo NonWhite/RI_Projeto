@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 21:45:27.86</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI 
-f2919reute
-b f BC-JAPAN-UNEMPLOYMENT-RI   06-29 0094</field>
-	<field name = "TITLE">JAPAN UNEMPLOYMENT RISES TO RECORD 3.2 PCT IN MAY</field>
+	<field name = "titulo">JAPAN UNEMPLOYMENT RISES TO RECORD 3.2 PCT IN MAY</field>
 	<field name = "DATELINE">TOKYO, June 30 -</field>
-	<field name = "BODY">Japan's seasonally adjusted unemployment
+	<field name = "content">Japan's seasonally adjusted unemployment
 rate rose to a record 3.2 pct in May, the worst level since the
 government started compiling unemployment statistics in 1953,
 the government's Management and Coodination Agency said.

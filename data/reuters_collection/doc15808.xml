@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 14:08:22.42</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f2031reute
-u f BC-ITALIAN-TREASURY-BILL   04-09 0101</field>
-	<field name = "TITLE">ITALIAN TREASURY BILL OFFER MEETS MIXED DEMAND</field>
+	<field name = "titulo">ITALIAN TREASURY BILL OFFER MEETS MIXED DEMAND</field>
 	<field name = "DATELINE">ROME, April 9 -</field>
-	<field name = "BODY">Market response to the Italian Treasury's
+	<field name = "content">Market response to the Italian Treasury's
 3,000 billion lire offer of short-term bills (BOTs) was mixed,
 with six month paper oversubscribed but 12-month bills little
 in demand, Bank of Italy figures show.

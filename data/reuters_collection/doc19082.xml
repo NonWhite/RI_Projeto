@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 07:07:28.57</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0446reute
-u f BC-JAPAN-FIRMS-TO-LAUNCH   06-19 0110</field>
-	<field name = "TITLE">JAPAN FIRMS TO LAUNCH SALES OF 100 OCTANE GASOLINE</field>
+	<field name = "titulo">JAPAN FIRMS TO LAUNCH SALES OF 100 OCTANE GASOLINE</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">Japanese oil companies are starting
+	<field name = "content">Japanese oil companies are starting
 campaigns to market 100 octane gasoline to meet growing
 domestic demand for higher quality motor fuel, oil sources
 said.

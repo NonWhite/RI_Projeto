@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 08:57:14.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0830reute
-r f BC-ALASKA-AIR-ALK>-LOAD   06-02 0102</field>
-	<field name = "TITLE">ALASKA AIR ALK> LOAD FACTOR UP IN MAY</field>
+	<field name = "titulo">ALASKA AIR ALK> LOAD FACTOR UP IN MAY</field>
 	<field name = "DATELINE">SEATTLE, June 2 -</field>
-	<field name = "BODY">Alaska Air Group Inc's Alaska Airlines
+	<field name = "content">Alaska Air Group Inc's Alaska Airlines
 subsidiary said its load factor was 58.6 pct last month, up
 from 58 pct in May 1986.
     It said revenue passenger miles incrased eight pct to 234.9

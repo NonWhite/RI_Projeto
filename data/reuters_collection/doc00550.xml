@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 12:28:20.58</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F E
-f0275
-reute
-r f BC-OSR-OSRC>-TO-MAKE-AC   03-02 0101</field>
-	<field name = "TITLE">OSR OSRC> TO MAKE ACQUISITION</field>
+	<field name = "titulo">OSR OSRC> TO MAKE ACQUISITION</field>
 	<field name = "DATELINE">OLD BETHPAGE, N.Y., March 2 -</field>
-	<field name = "BODY">OSR Corp said it has agreed
+	<field name = "content">OSR Corp said it has agreed
 to acquire the properties and assets of Telcom International
 Group for 10.5 mln common shares, which would give former
 Telcom owners an 84 pct interest in the combined company.

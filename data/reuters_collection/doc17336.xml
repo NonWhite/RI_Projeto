@@ -4,12 +4,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "TOPICS">strategic-metal</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G M
-f1325reute
-d f BC-SOY-PLANTS-MIGHT-BE-U   04-27 0114</field>
-	<field name = "TITLE">SOY PLANTS MIGHT BE USED TO DRAW CADMIUM FROM SOIL</field>
+	<field name = "titulo">SOY PLANTS MIGHT BE USED TO DRAW CADMIUM FROM SOIL</field>
 	<field name = "DATELINE">ROTTERDAM, April 27 -</field>
-	<field name = "BODY">Effective extraction of the toxic
+	<field name = "content">Effective extraction of the toxic
 metal cadmium from soil may at last be feasible using soybean
 plants, research in the Netherlands by a Belgian-based
 environment group shows.

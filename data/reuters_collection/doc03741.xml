@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 12:02:23.84</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0706reute
-u f BC-CHI-CHI'S-CHIC>-TAKE   03-11 0062</field>
-	<field name = "TITLE">CHI-CHI'S CHIC> TAKES 20 MLN DLR CHARGE</field>
+	<field name = "titulo">CHI-CHI'S CHIC> TAKES 20 MLN DLR CHARGE</field>
 	<field name = "DATELINE">LOUISVILLE, Ky., March 11 -</field>
-	<field name = "BODY">Chi-Chi's Inc said it has taken
+	<field name = "content">Chi-Chi's Inc said it has taken
 a 20 mln dlr pretax charge against earnings for the third
 quarter ended January 31 to cover the cost of disposing of 21
 "underperforming" company-owned restaurants.

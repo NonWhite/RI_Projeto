@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 13:02:39.75</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0347reute
-u f BC-HOSPITAL-CORP-HCA>-B   04-17 0107</field>
-	<field name = "TITLE">HOSPITAL CORP HCA> BOARD AGAINST BUYOUT BID</field>
+	<field name = "titulo">HOSPITAL CORP HCA> BOARD AGAINST BUYOUT BID</field>
 	<field name = "DATELINE">NASHVILLE, Tenn., April 17 -</field>
-	<field name = "BODY">Hospital Corp of America said
+	<field name = "content">Hospital Corp of America said
 its management believes the 47 dlr per share acquisition offer
 it received from Charles R. Miller, Richard E. Ragsdale and
 Richard L. Scott is not in the best interest of shareholders,

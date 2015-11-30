@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 19:14:52.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C T 
-f3429reute
-r f BC-FEMALE-FRUIT-FLY-MAY   10-19 0108</field>
-	<field name = "TITLE">FEMALE FRUIT FLY MAY LEAD TO CALIFORNIA SPRAYING</field>
+	<field name = "titulo">FEMALE FRUIT FLY MAY LEAD TO CALIFORNIA SPRAYING</field>
 	<field name = "DATELINE">WESTMINSTER, Calif., Oct 19 -</field>
-	<field name = "BODY">The discovery of a fertile
+	<field name = "content">The discovery of a fertile
 female Mediterranean fruit fly in a backyard apple tree may
 lead to aerial spraying in Orange County, California State
 Department of Agriculture officials said.

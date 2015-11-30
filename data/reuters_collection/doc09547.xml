@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 15:21:22.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2218reute
-h f BC-ZENITH-ZE>-NAMES-NEW   03-25 0034</field>
-	<field name = "TITLE">ZENITH ZE> NAMES NEW FINANCIAL OFFICER</field>
+	<field name = "titulo">ZENITH ZE> NAMES NEW FINANCIAL OFFICER</field>
 	<field name = "DATELINE">GLENVIEW, ILL., March 25 -</field>
-	<field name = "BODY">Zenith Electronics Corp said
+	<field name = "content">Zenith Electronics Corp said
 Howard Graham has been named vice president-finance and chief
 financial officer, effective April 1.
    

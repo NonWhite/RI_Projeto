@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 12:42:57.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1854reute
-d f BC-CLINI-THERM-CLIN>-GE   03-31 0098</field>
-	<field name = "TITLE">CLINI-THERM CLIN> GETS RESTRAINING ORDER</field>
+	<field name = "titulo">CLINI-THERM CLIN> GETS RESTRAINING ORDER</field>
 	<field name = "DATELINE">DALLAS, March 31 -</field>
-	<field name = "BODY">Clini-Therm Corp said a Dallas court
+	<field name = "content">Clini-Therm Corp said a Dallas court
 granted a temporary restraining order prohibiting a former
 officer and director from using or disclosing priveleged
 information obtained during employment at the company.

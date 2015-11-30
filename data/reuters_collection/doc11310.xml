@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 09:31:27.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F E
-f0980reute
-r f BC-METROPOLITAN-LIFE-SUB   03-31 0107</field>
-	<field name = "TITLE">METROPOLITAN LIFE SUBSIDIARY IN HOTEL PACT</field>
+	<field name = "titulo">METROPOLITAN LIFE SUBSIDIARY IN HOTEL PACT</field>
 	<field name = "DATELINE">PHOENIX, March 31 -</field>
-	<field name = "BODY">Metropolitan Life Insurance Co of New
+	<field name = "content">Metropolitan Life Insurance Co of New
 York's> Compris Hotel Corp said it singed a letter of intent to
 develop 33 Compri hotels by 1991.
     The hotels are to be built in the U.S. and Canada, the

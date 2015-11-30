@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:43:18.66RM</field>
-	<field name = "UNKNOWN">f0898reute</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">madagascar</field>
-	<field name = "UNKNOWN">r f BC-MADAGASCAR-NEGOTIATIN   03-27 0086</field>
-	<field name = "TITLE">MADAGASCAR NEGOTIATING 180 MLN FRANC FRENCH LOAN</field>
+	<field name = "titulo">MADAGASCAR NEGOTIATING 180 MLN FRANC FRENCH LOAN</field>
 	<field name = "DATELINE">ANTANANARIVO, March 27 -</field>
-	<field name = "BODY">A French government team has
+	<field name = "content">A French government team has
 arrived in Antananarivo to negotiate a new 180 mln franc
 structural adjustment credit for the Madagascar government,
 diplomatic sources said.

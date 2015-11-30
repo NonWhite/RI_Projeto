@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:10:55.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1885reute
-u f BC-U.S.-TREASURY-SAYS-NO   04-08 0098</field>
-	<field name = "TITLE">U.S. TREASURY SAYS NO PLANS FOR SPECIAL BONDS</field>
+	<field name = "titulo">U.S. TREASURY SAYS NO PLANS FOR SPECIAL BONDS</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">A Treasury official said there are no
+	<field name = "content">A Treasury official said there are no
 plans to try to reduce the U.S. budget deficit by issuing
 yen-denominated bonds that would become known as "Reagan bonds."
     "It simply isn't something that we are planning to do," the

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 10:34:44.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3267reute
-u f BC-FEDERATED-DEPARTMENT   06-18 0044</field>
-	<field name = "TITLE">FEDERATED DEPARTMENT FDS> UNIT CUTTING STAFF</field>
+	<field name = "titulo">FEDERATED DEPARTMENT FDS> UNIT CUTTING STAFF</field>
 	<field name = "DATELINE">DALLAS, June 18 -</field>
-	<field name = "BODY">Federated Department Stores Inc's Foley's
+	<field name = "content">Federated Department Stores Inc's Foley's
 unit said it will consolidate Dallas Distribution Center
 operations, reducing the number of buildings to one from three
 and cutting staff to 125 from 300.

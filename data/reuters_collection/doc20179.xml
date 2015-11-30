@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 09:35:20.93</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1013reute
-r f BC-KRAFT-INC-KRA>-3RD-Q   10-20 0053</field>
-	<field name = "TITLE">KRAFT INC KRA> 3RD QTR SEPT 26 NET</field>
+	<field name = "titulo">KRAFT INC KRA> 3RD QTR SEPT 26 NET</field>
 	<field name = "DATELINE">GLENVIEW, ILL., Oct 20 -</field>
-	<field name = "BODY">Shr 91 cts vs 17 cts
+	<field name = "content">Shr 91 cts vs 17 cts
     Net 124,100,000 vs 21,200,000
     Sales 2.83 billion vs 2.22 billion
     Nine mths

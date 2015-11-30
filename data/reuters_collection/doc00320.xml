@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 06:18:48.35</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0980
-reute
-u f BC-BEECHAM-UNIT-LAUNCHES   03-02 0086</field>
-	<field name = "TITLE">BEECHAM UNIT LAUNCHES ARTHRITIS DRUG</field>
+	<field name = "titulo">BEECHAM UNIT LAUNCHES ARTHRITIS DRUG</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">Beecham Group Plc BHAM.L> said its
+	<field name = "content">Beecham Group Plc BHAM.L> said its
 subsidiary Beecham Pharmaceuticals> launched a new once-a-day,
 prescription only medicine for the reduction of pain and
 inflammation caused by rheumatoid and osteoarthritis. The

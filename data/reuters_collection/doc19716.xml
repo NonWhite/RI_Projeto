@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:18:43.57</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f1651reute
-u f BC-STRIKES-HIT-CONSOLIDA   06-29 0079</field>
-	<field name = "TITLE">STRIKES HIT CONSOLIDATED-BATHURST cb.to> MILLS</field>
+	<field name = "titulo">STRIKES HIT CONSOLIDATED-BATHURST cb.to> MILLS</field>
 	<field name = "DATELINE">MONTREAL, June 29 -</field>
-	<field name = "BODY">Consolidated-Bathurst Inc said three of
+	<field name = "content">Consolidated-Bathurst Inc said three of
 its Quebec newsprint mills have been shut down by strikes which
 began over the weekend.
     The company said about 2,000 workers, members of the

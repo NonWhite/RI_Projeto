@@ -5,13 +5,10 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0963reute
-u f BC-ECONOMIC-SPOTLIGHT--   03-13 0100</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - EMS MARKS EIGHTH BIRTHDAY</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - EMS MARKS EIGHTH BIRTHDAY</field>
 	<field name = "AUTHOR">By Tony Carritt, Reuters</field>
 	<field name = "DATELINE">BRUSSELS, March 13 -</field>
-	<field name = "BODY">The European Monetary System marks its
+	<field name = "content">The European Monetary System marks its
 eighth anniversary still vulnerable to turmoil in world money
 markets despite creating an island of currency rate stability
 in Europe, economists say. But many economists say the system,

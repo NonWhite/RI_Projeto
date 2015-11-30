@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f1615reute
-r f BC-NV-PHILIPS-SHARES-MOV   03-24 0113</field>
-	<field name = "TITLE">NV PHILIPS SHARES MOVE FROM NASDAQ TO NYSE</field>
+	<field name = "titulo">NV PHILIPS SHARES MOVE FROM NASDAQ TO NYSE</field>
 	<field name = "DATELINE">EINDHOVEN, Netherlands, March 24 -</field>
-	<field name = "BODY">Dutch electronics group
+	<field name = "content">Dutch electronics group
 N.V. Philips Gloeilampenfabrieken PGLO.AS> said it will move
 its New York share listing, currently over the counter in the
 Nasdaq system, to the New York Stock Exchange.

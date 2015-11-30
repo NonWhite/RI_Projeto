@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:13:48.65F</field>
-	<field name = "UNKNOWN">f1810reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">d f BC-EDUCATION-SYSTEMS-ES   03-27 0047</field>
-	<field name = "TITLE">EDUCATION SYSTEMS ESPC> YEAR NET</field>
+	<field name = "titulo">EDUCATION SYSTEMS ESPC> YEAR NET</field>
 	<field name = "DATELINE">BELLEVILLE, N.J., March 27 -</field>
-	<field name = "BODY">Shr 27 cts vs 34 cts
+	<field name = "content">Shr 27 cts vs 34 cts
     Net 174,390 vs 222,720
     Revs 4,948,622 vs 4,516,042
     Note: Current net includes non-recurring loss on

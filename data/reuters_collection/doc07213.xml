@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:52:40.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f1433reute
-d f BC-U.S.-OFFICIAL-PESSIMI   03-19 0122</field>
-	<field name = "TITLE">U.S. OFFICIAL PESSIMISTIC ON AID FUNDING</field>
+	<field name = "titulo">U.S. OFFICIAL PESSIMISTIC ON AID FUNDING</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">Deputy Assistant Treasury Secretary
+	<field name = "content">Deputy Assistant Treasury Secretary
 James Conrow said he was exceedingly pessimistic that 1988
 funding for the multilateral development banks, as proposed by
 the Reagan administration, will be approved by Congress.

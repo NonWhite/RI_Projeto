@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 09:39:31.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0132reute
-r f BC-RAPID-AMERICAN-CORP-U   03-06 0079</field>
-	<field name = "TITLE">RAPID-AMERICAN CORP UNIT PURSUES FRAUD SUIT</field>
+	<field name = "titulo">RAPID-AMERICAN CORP UNIT PURSUES FRAUD SUIT</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Rapid-American Corp> said its Faberge
+	<field name = "content">Rapid-American Corp> said its Faberge
 Inc subsidiary was granted approval by federal court to pursue
 its 11 mln dlr fraud suit against Porterfield Buying Unit> and
 its partners.

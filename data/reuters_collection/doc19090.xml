@@ -3,12 +3,9 @@
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">G T 
-f0561reute
-u f BC-EC-FARM-MINISTERS-MEE   06-19 0099</field>
-	<field name = "TITLE">EC FARM MINISTERS MEETING UNLIKELY NEXT WEEK</field>
+	<field name = "titulo">EC FARM MINISTERS MEETING UNLIKELY NEXT WEEK</field>
 	<field name = "DATELINE">BRUSSELS, June 19 -</field>
-	<field name = "BODY">A meeting of European Community (EC)
+	<field name = "content">A meeting of European Community (EC)
 farm ministers is unlikely to be held next week following the
 ministers' failure to agree a 1987/88 farm price package
 yesterday, an EC Commission spokesman said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">V RM
-f1501reute
-b f BC-VOLCKER-SAYS-FED-POLI   04-07 0078</field>
-	<field name = "TITLE">VOLCKER SAYS FED POLICY NOT LINKED TO RATE RISE</field>
+	<field name = "titulo">VOLCKER SAYS FED POLICY NOT LINKED TO RATE RISE</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Federal Reserve Board Chairman Paul
+	<field name = "content">Federal Reserve Board Chairman Paul
 Volcker said that he did not believe there was a connection
 between the Fed's policies and the recent rise in the prime
 interest rate by most major U.S. banks.

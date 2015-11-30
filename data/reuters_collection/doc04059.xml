@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 03:15:32.57</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0199reute
-u f BC-JAPAN'S-OVERSEAS-OUTP   03-12 0108</field>
-	<field name = "TITLE">JAPAN'S OVERSEAS OUTPUT FORECAST TO RISE 26 PCT</field>
+	<field name = "titulo">JAPAN'S OVERSEAS OUTPUT FORECAST TO RISE 26 PCT</field>
 	<field name = "DATELINE">TOKYO, March 12 -</field>
-	<field name = "BODY">The overseas production in yen terms of
+	<field name = "content">The overseas production in yen terms of
 Japanese firms should rise 26 pct in 1987/88 ending March after
 a four pct fall in 1986/87, a Ministry of International Trade
 and Industry survey said.

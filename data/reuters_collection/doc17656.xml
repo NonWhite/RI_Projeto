@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 13:19:46.26</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f1828reute
-u f AM-U.S.-PROBES-RJR-RJR>   06-01 0097</field>
-	<field name = "TITLE">U.S. PROBES RJR RJR> TAINTED TOBACCO SHIPMENTS</field>
+	<field name = "titulo">U.S. PROBES RJR RJR> TAINTED TOBACCO SHIPMENTS</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">Federal law enforcement authorities
+	<field name = "content">Federal law enforcement authorities
 said they began a criminal investigation of R.J. Reynolds
 Tobacco Co after the company imported herbicide-tainted tobacco
 and then exported tainted cigarettes to Japan.

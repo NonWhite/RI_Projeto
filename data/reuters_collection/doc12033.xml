@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 11:36:30.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1435reute
-u f BC-CARDIS-CDS>-EXPECTS   04-01 0096</field>
-	<field name = "TITLE">CARDIS CDS> EXPECTS SIGNIFICANT YEAR LOSS</field>
+	<field name = "titulo">CARDIS CDS> EXPECTS SIGNIFICANT YEAR LOSS</field>
 	<field name = "DATELINE">BEVERLY HILLS, Calif., April 1 -</field>
-	<field name = "BODY">Cardis Corp said it
+	<field name = "content">Cardis Corp said it
 anticipates reporting a loss from continuing operations of
 approximately 17.7 mln dlrs on revenues of 228 mln dlrs for
 fiscal year 1986.

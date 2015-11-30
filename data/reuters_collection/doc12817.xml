@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 08:32:08.71</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0685reute
-b f BC-/U.S.-MARCH-JOBLESS-R   04-03 0103</field>
-	<field name = "TITLE">U.S. MARCH JOBLESS RATE FELL TO 6.6 PCT</field>
+	<field name = "titulo">U.S. MARCH JOBLESS RATE FELL TO 6.6 PCT</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The U.S. civilian unemployment rate
+	<field name = "content">The U.S. civilian unemployment rate
 fell to 6.6 pct in March from 6.7 pct in February, the Labor
 Department said.
     The number of non-farm payroll jobs rose 164,000 last month

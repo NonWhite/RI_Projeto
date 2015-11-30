@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 11:24:16.28</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A
-f0780reute
-r f BC-ONTARIO-TREASURY-BILL   03-03 0047</field>
-	<field name = "TITLE">ONTARIO TREASURY BILL YIELD EDGES UP</field>
+	<field name = "titulo">ONTARIO TREASURY BILL YIELD EDGES UP</field>
 	<field name = "DATELINE">TORONTO, March 3 -</field>
-	<field name = "BODY">This week's Ontario government auction
+	<field name = "content">This week's Ontario government auction
 of 50 mln dlrs worth of 91-day treasury bills yielded an
 average of 7.28 pct, up slightly from 7.26 pct last week, a
 treasury department spokesman said.

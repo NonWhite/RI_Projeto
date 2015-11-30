@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:59:17.36</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">RM
-f1496reute
-u f BC-COLOMBIA-SECURES-1.95   04-09 0094</field>
-	<field name = "TITLE">COLOMBIA SECURES 1.95 BILLION DLRS OF DEBT</field>
+	<field name = "titulo">COLOMBIA SECURES 1.95 BILLION DLRS OF DEBT</field>
 	<field name = "DATELINE">BOGOTA, April 9 -</field>
-	<field name = "BODY">Colombia has secured total borrowings
+	<field name = "content">Colombia has secured total borrowings
 this year for 1.95 billion dlrs, of which 1.40 billion
 correspond to loans arranged before 1986, Director of Public
 Credit Mauricio Cabrera said.

@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "PEOPLE">thatcher</field>
-	<field name = "UNKNOWN">RM
-f0945reute
-u f BC-THATCHER-DEFENDS-UK-O   03-25 0102</field>
-	<field name = "TITLE">THATCHER DEFENDS UK OIL POLICY IN SAUDI INTERVIEW</field>
+	<field name = "titulo">THATCHER DEFENDS UK OIL POLICY IN SAUDI INTERVIEW</field>
 	<field name = "DATELINE">JEDDAH, March 25 -</field>
-	<field name = "BODY">British Prime Minister Margaret Thatcher
+	<field name = "content">British Prime Minister Margaret Thatcher
 denied in an interview published in Saudi Arabia today that her
 government's oil policy contributed to weakness in world oil
 prices.

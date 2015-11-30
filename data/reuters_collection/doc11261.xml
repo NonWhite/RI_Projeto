@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 08:43:04.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0824reute
-u f BC-AMES-ADD>-FINDS-INVE   03-31 0086</field>
-	<field name = "TITLE">AMES ADD> FINDS INVENTORY SHORTAGE</field>
+	<field name = "titulo">AMES ADD> FINDS INVENTORY SHORTAGE</field>
 	<field name = "DATELINE">ROCKY HILL, Conn., March 31 -</field>
-	<field name = "BODY">Ames Department Stores Inc
+	<field name = "content">Ames Department Stores Inc
 said its year-end audit has revealed an extraordinary inventory
 shortage at its Secaucus, N.J., distribution center and an
 investigation is in progress.

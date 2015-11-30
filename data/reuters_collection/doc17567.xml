@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "ORGS">icco</field>
-	<field name = "UNKNOWN">C T
-f1253reute
-b f BC-BRAZIL-NOT-SELLING-TO   06-01 0131</field>
-	<field name = "TITLE">BRAZIL NOT SELLING TO COCOA BUFFER STOCK - TRADE</field>
+	<field name = "titulo">BRAZIL NOT SELLING TO COCOA BUFFER STOCK - TRADE</field>
 	<field name = "DATELINE">RIO DE JANEIRO, June 1 -</field>
-	<field name = "BODY">Brazil is not selling cocoa beans
+	<field name = "content">Brazil is not selling cocoa beans
 to the International Cocoa Organization, ICCO, buffer stock, as
 spot prices for beans in the interior area are 20 to 25 pct
 higher than levels which would be paid by the ICCO buffer stock

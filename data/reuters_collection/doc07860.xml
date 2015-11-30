@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 13:30:45.46</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1887reute
-s f BC-YORK-FINANCIAL-CORP-   03-20 0024</field>
-	<field name = "TITLE">YORK FINANCIAL CORP YFED> DECLARES QTLY DIV</field>
+	<field name = "titulo">YORK FINANCIAL CORP YFED> DECLARES QTLY DIV</field>
 	<field name = "DATELINE">YORK, Pa., March 20 -</field>
-	<field name = "BODY">Qtly div 17 cts vs 17 cts prior
+	<field name = "content">Qtly div 17 cts vs 17 cts prior
     Pay May five
     Record April 20
  Reuter</field>

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 13:19:42.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0072reute
-r f BC-EL-PASO-ELECTRIC-ELP   03-11 0102</field>
-	<field name = "TITLE">EL PASO ELECTRIC ELPA> REACHES NEW MEXICO PACT</field>
+	<field name = "titulo">EL PASO ELECTRIC ELPA> REACHES NEW MEXICO PACT</field>
 	<field name = "DATELINE">EL PASO, Texas, March 11 --</field>
-	<field name = "BODY">El Paso Electric Co said it has
+	<field name = "content">El Paso Electric Co said it has
 agreed to limit rate increases in its New Mexico service
 territory to a maximum of nine pct over the next three years.
     Last year, about 18 pct of the utility's revenues came from

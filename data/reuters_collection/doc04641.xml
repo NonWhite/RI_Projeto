@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 03:13:28.29</field>
 	<field name = "PLACES">bangladesh</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0110reute
-u f BC-BANGLADESH-TO-SEEK-WO   03-13 0096</field>
-	<field name = "TITLE">BANGLADESH TO SEEK WORLD BANK HELP FOR INDUSTRY</field>
+	<field name = "titulo">BANGLADESH TO SEEK WORLD BANK HELP FOR INDUSTRY</field>
 	<field name = "DATELINE">DHAKA, March 13 -</field>
-	<field name = "BODY">Bangladesh will seek additional money
+	<field name = "content">Bangladesh will seek additional money
 from the World Bank to finance industrial development which is
 facing a capital shortage and a lack of expertise, Finance
 Ministry officials said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 15:40:42.28</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3015reute
-d f BC-CORPORATE-SOFTWARE-IN   10-20 0055</field>
-	<field name = "TITLE">CORPORATE SOFTWARE INC CSOF.O> 3RD QTR NET</field>
+	<field name = "titulo">CORPORATE SOFTWARE INC CSOF.O> 3RD QTR NET</field>
 	<field name = "DATELINE">WESTWOOD, Mass., Oct 20 -</field>
-	<field name = "BODY">Shr 13 cts vs 12 cts
+	<field name = "content">Shr 13 cts vs 12 cts
     Net 470,000 vs 311,000
     Revs 15.8 mln vs 8,176,000
     Avg shrs 3,723,000 vs 2,512,000

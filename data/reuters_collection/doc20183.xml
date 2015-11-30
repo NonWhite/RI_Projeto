@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 09:40:25.95</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">greenspan</field>
-	<field name = "UNKNOWN">V RM 
-f1029reute
-b f BC-GREENSPAN-CUTS-SHORT   10-20 0082</field>
-	<field name = "TITLE">GREENSPAN CUTS SHORT SCHEDULED DALLAS TRIP</field>
+	<field name = "titulo">GREENSPAN CUTS SHORT SCHEDULED DALLAS TRIP</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">Federal Reserve Board Chairman Alan
+	<field name = "content">Federal Reserve Board Chairman Alan
 Greenspan cut short a scheduled trip to Dallas and is returning
 to Washington to moniter events, a Federal Reserve spokesman
 said.

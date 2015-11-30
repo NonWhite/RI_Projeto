@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 13:39:22.58</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f6015reute
-u f BC-U.K.-BUDGET-SEEN-BOOS   03-17 0108</field>
-	<field name = "TITLE">U.K. BUDGET SEEN BOOSTING GOVERNMENT BOND MARKET</field>
+	<field name = "titulo">U.K. BUDGET SEEN BOOSTING GOVERNMENT BOND MARKET</field>
 	<field name = "AUTHOR">By Norma Cohen, Reuters</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">Chancellor of the Exchequer Nigel
+	<field name = "content">Chancellor of the Exchequer Nigel
 Lawson's budget contained virtually everything the government
 bond (gilts) market had hoped for and is likely to help prices
 race ahead in coming months, analysts and traders said.

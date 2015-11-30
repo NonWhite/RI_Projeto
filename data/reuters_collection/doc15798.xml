@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 14:00:39.20</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM V
-f1993reute
-u f BC-CRAXI-SAYS-RESIGNING   04-09 0088</field>
-	<field name = "TITLE">CRAXI SAYS HE IS RESIGNING</field>
+	<field name = "titulo">CRAXI SAYS HE IS RESIGNING</field>
 	<field name = "DATELINE">ROME, April 9 -</field>
-	<field name = "BODY">Italian Prime Minister Bettino Craxi, whose
+	<field name = "content">Italian Prime Minister Bettino Craxi, whose
 five-party coalition government fell apart yesterday, told the
 Senate he was resigning.
     Craxi said at the end of a Senate (upper house) debate on

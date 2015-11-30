@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 08:21:26.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2800reute
-r f BC-JOY-TECHNOLOGIES-SELL   06-18 0082</field>
-	<field name = "TITLE">JOY TECHNOLOGIES SELLS 12-YEAR DEBENTURES</field>
+	<field name = "titulo">JOY TECHNOLOGIES SELLS 12-YEAR DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Joy Technologies Inc is raising 185 mln
+	<field name = "content">Joy Technologies Inc is raising 185 mln
 dlrs through an offering of senior subordinated debentures due
 1999 yielding 13.85 pct, said lead manager Kidder, Peabody and
 Co Inc.

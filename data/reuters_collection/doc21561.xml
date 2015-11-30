@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 02:30:11.36</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM 
-f0112reute
-u f BC-PHILIPPINE-TRADE-GAP   10-19 0079</field>
-	<field name = "TITLE">PHILIPPINE TRADE GAP WIDENS IN JANUARY-AUGUST</field>
+	<field name = "titulo">PHILIPPINE TRADE GAP WIDENS IN JANUARY-AUGUST</field>
 	<field name = "DATELINE">MANILA, Oct 19 -</field>
-	<field name = "BODY">The Philippines' trade deficit widened to
+	<field name = "content">The Philippines' trade deficit widened to
 542 mln dlrs in the eight months to end-August from 159 mln
 dlrs in the same 1986 period, the National Statistics Office
 said.

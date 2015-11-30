@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 11:30:17.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0660reute
-b f BC-/FORD-F>-LATE-FEBRUA   03-04 0089</field>
-	<field name = "TITLE">FORD F> LATE FEBRUARY CAR SALES UP 29.3 PCT</field>
+	<field name = "titulo">FORD F> LATE FEBRUARY CAR SALES UP 29.3 PCT</field>
 	<field name = "DATELINE">DEARBORN, Mich., March 4 -</field>
-	<field name = "BODY">Ford Motor Co said its sales of
+	<field name = "content">Ford Motor Co said its sales of
 U.S.-made cars in late February rose 29.3 pct over the same
 period last year.
     The automaker said it sold 51,411 domestic cars in the

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:25:31.37</field>
-	<field name = "UNKNOWN">C G
-f2218reute
-r f BC-MINNEAPOLIS-DELIVERAB   04-07 0066</field>
-	<field name = "TITLE">MINNEAPOLIS DELIVERABLE SPRING WHEAT STOCKS</field>
+	<field name = "titulo">MINNEAPOLIS DELIVERABLE SPRING WHEAT STOCKS</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 7 -</field>
-	<field name = "BODY">The CFTC reported stocks of northern
+	<field name = "content">The CFTC reported stocks of northern
 spring wheat in deliverable positions as of Friday, April 3 
 (in 000s of bushels).
     Mpls      4/3/87  Week Ago  Year Ago

@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C
-f1871reute
-d f AM-TRADE-AMERICAN   04-08 0129</field>
-	<field name = "TITLE">JAPAN IN LAST-DITCH EFFORT TO AVERT TARIFFS</field>
+	<field name = "titulo">JAPAN IN LAST-DITCH EFFORT TO AVERT TARIFFS</field>
 	<field name = "AUTHOR">By Robert Trautman, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">Senior Japanese officials tomorrow
+	<field name = "content">Senior Japanese officials tomorrow
 open talks with American trade negotiators in a last-ditch
 effort to avert new high U.S. tariffs to be imposed on a wide
 variety of Japanese electronic exports.

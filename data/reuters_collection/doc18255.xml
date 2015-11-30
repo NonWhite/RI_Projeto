@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 15:38:19.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2481reute
-r f BC-SPARTECH-SPTN.O>-HAS   06-02 0069</field>
-	<field name = "TITLE">SPARTECH SPTN.O> HAS 475,000 DLRS FOR BUYBACK</field>
+	<field name = "titulo">SPARTECH SPTN.O> HAS 475,000 DLRS FOR BUYBACK</field>
 	<field name = "DATELINE">ST. LOUIS, June 2 -</field>
-	<field name = "BODY">Spartech Corp, which earlier said it
+	<field name = "content">Spartech Corp, which earlier said it
 will repurchase up to 10 pct of its 2.6 mln outstanding shares
 in the open market, said it has about 475,000 dlrs currently
 available for buybacks.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:24:22.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f1966reute
-b f BC-/U.S.-BUDGET-DEFICIT   06-19 0099</field>
-	<field name = "TITLE">U.S. BUDGET DEFICIT 35.74 BILLION DLRS IN MAY</field>
+	<field name = "titulo">U.S. BUDGET DEFICIT 35.74 BILLION DLRS IN MAY</field>
 	<field name = "DATELINE">WASHINGTON, June 19 -</field>
-	<field name = "BODY">The U.S. budget was in deficit 35.74
+	<field name = "content">The U.S. budget was in deficit 35.74
 billion dlrs in May, compared with a deficit of 39.40 billion
 dlrs in May 1986, the Treasury Department said.
     Last month's deficit followed an April surplus of 38.66

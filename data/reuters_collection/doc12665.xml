@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 13:41:01.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1982reute
-r f BC-MCDOWELL-ME>-TO-GET   04-02 0107</field>
-	<field name = "TITLE">MCDOWELL ME> TO GET QUALIFIED AUDIT</field>
+	<field name = "titulo">MCDOWELL ME> TO GET QUALIFIED AUDIT</field>
 	<field name = "DATELINE">NASHVILLE, Tenn., April 2 -</field>
-	<field name = "BODY">McDowell Enterprises Inc said
+	<field name = "content">McDowell Enterprises Inc said
 its auditors have decided to qualify their opinion on 1986
 financial statements due to questions about the company's
 ability to continue as a going concern.

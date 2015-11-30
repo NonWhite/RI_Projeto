@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 16:10:35.89</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2491reute
-u f BC-/LITTLE-RISK-SEEN-FOR   03-30 0142</field>
-	<field name = "TITLE">LITTLE RISK SEEN FOR TEXAS COTTON FROM COLD</field>
+	<field name = "titulo">LITTLE RISK SEEN FOR TEXAS COTTON FROM COLD</field>
 	<field name = "DATELINE">New York, March 30 -</field>
-	<field name = "BODY">Texas' cotton crop stands little
+	<field name = "content">Texas' cotton crop stands little
 chance of damage from frigid temperatures expected tonight in
 that state, as very little cotton has been planted, according
 to Texas agricultural sources and cotton market analysts.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 10:40:16.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM F A 
-f1320reute
-r f BC-BANK-PURCHASE-SLOWS-S   10-19 0111</field>
-	<field name = "TITLE">BANK PURCHASE SLOWS SECURITY PACIFIC SPC> NET</field>
+	<field name = "titulo">BANK PURCHASE SLOWS SECURITY PACIFIC SPC> NET</field>
 	<field name = "DATELINE">LOS ANGELES, Oct 19 -</field>
-	<field name = "BODY">Security Pacific Corp SPC> said
+	<field name = "content">Security Pacific Corp SPC> said
 growth in its third-quarter earnings was slowed by the purchase
 of Rainier Bancorp and the suspension of interest payments on
 Brazilian and Ecuadorian loans that were placed on a

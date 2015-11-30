@@ -2,12 +2,9 @@
 	<field name = "DATE">16-JUN-1987 07:54:39.94</field>
 	<field name = "TOPICS">zinc</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F M
-f0619reute
-u f BC-MAJOR-EUROPEAN-ZINC-S   06-16 0111</field>
-	<field name = "TITLE">MAJOR EUROPEAN ZINC SMELTER MERGER SEEN BY 1990</field>
+	<field name = "titulo">MAJOR EUROPEAN ZINC SMELTER MERGER SEEN BY 1990</field>
 	<field name = "DATELINE">AMSTERDAM, June 16 -</field>
-	<field name = "BODY">There should be at least one merger
+	<field name = "content">There should be at least one merger
 between major European zinc smelters before the end of the
 decade, Christian Bue, Executive Vice President (commercial) of
 SMM Penarroya in France, said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 14:22:13.73</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0242reute
-d f BC-MILES-LABORATORIES-IN   03-11 0065</field>
-	<field name = "TITLE">MILES LABORATORIES INC 4TH QTR NET</field>
+	<field name = "titulo">MILES LABORATORIES INC 4TH QTR NET</field>
 	<field name = "DATELINE">ELKHART, Ind., March 11 -</field>
-	<field name = "BODY">Net 3,563,000 vs 2,821,000
+	<field name = "content">Net 3,563,000 vs 2,821,000
     Sales 318.6 mln vs 305.4 mln
     Year
     Net 28,950,000 vs 20,167,000

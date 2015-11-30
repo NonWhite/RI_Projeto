@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 18:16:32.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2698reute
-r f BC-ELSINORE-ELS>-MAKES   06-01 0071</field>
-	<field name = "TITLE">ELSINORE ELS> MAKES DEPOSIT TO COVER BONDS</field>
+	<field name = "titulo">ELSINORE ELS> MAKES DEPOSIT TO COVER BONDS</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Elsinore Corp said it deposited five mln
+	<field name = "content">Elsinore Corp said it deposited five mln
 dlrs to cover accrued and unpaid interest through June 30 of
 the 15-1/2 pct senior mortgage bonds of 1999 of its unit
 Elsinore Finance Corp.

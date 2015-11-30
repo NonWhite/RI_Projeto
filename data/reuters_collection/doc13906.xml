@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:29:58.67</field>
-	<field name = "UNKNOWN">E F
-f1008reute
-u f BC-canastocks   04-07 0098</field>
-	<field name = "TITLE">CANADA STOCKS STRENGTHEN IN EARLY TRADING</field>
+	<field name = "titulo">CANADA STOCKS STRENGTHEN IN EARLY TRADING</field>
 	<field name = "DATELINE">TORONTO, April 7 -</field>
-	<field name = "BODY">Toronto stocks made solid gains in
+	<field name = "content">Toronto stocks made solid gains in
 active early trading as resource issues continued an advance
 that powered the market to a record high close yesterday.
     The composite index rose 9.00 points to 3890.30 on brisk

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 12:26:36.31</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">F
-f1591reute
-r f BC-CME-DROPS-S--P-500-F   03-19 0108</field>
-	<field name = "TITLE">CME DROPS S AND P 500 FUTURES PRICE LIMIT PLAN</field>
+	<field name = "titulo">CME DROPS S AND P 500 FUTURES PRICE LIMIT PLAN</field>
 	<field name = "DATELINE">BOCA RATON, March 19 -</field>
-	<field name = "BODY">The Chicago Mercantile Exchange's
+	<field name = "content">The Chicago Mercantile Exchange's
 board of the directors has decided to drop a proposal to place
 a limit on daily price movements of its Standard and Poor's 500
 futures contract, CME President William Brodsky said.

@@ -5,12 +5,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "TOPICS">rubber</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">G T 
-f0756reute
-r f BC-THAI-TRADERS-PLAN-MAI   10-19 0117</field>
-	<field name = "TITLE">THAI TRADERS PLAN MAIZE FUTURES MARKET</field>
+	<field name = "titulo">THAI TRADERS PLAN MAIZE FUTURES MARKET</field>
 	<field name = "DATELINE">BANGKOK, Oct 19 -</field>
-	<field name = "BODY">Thai traders plan to establish a company
+	<field name = "content">Thai traders plan to establish a company
 to regulate maize forward trading, in what could be a first
 step towards a commodities futures exchange, maize dealers
 said.

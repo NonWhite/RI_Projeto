@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 13:33:15.81</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">A RM
-f0132reute
-r f BC-EMERSON-EMR>-SELLS-N   03-11 0077</field>
-	<field name = "TITLE">EMERSON EMR> SELLS NEW ZEALAND DOLLAR NOTES</field>
+	<field name = "titulo">EMERSON EMR> SELLS NEW ZEALAND DOLLAR NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Emerson Electric Co is offering in the
+	<field name = "content">Emerson Electric Co is offering in the
 U.S. debt market 100 mln New Zealand dlrs of notes due 1989
 with an 18.55 pct coupon and par pricing, said lead underwriter
 Prudential-Bache Securities Inc.

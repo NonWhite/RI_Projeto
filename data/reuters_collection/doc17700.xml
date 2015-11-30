@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2013reute
-b f BC-MAXWELL-WOULD-NOT-REN   06-01 0092</field>
-	<field name = "TITLE">MAXWELL WOULD NOT RENEW BID IF SUIT FAILS</field>
+	<field name = "titulo">MAXWELL WOULD NOT RENEW BID IF SUIT FAILS</field>
 	<field name = "DATELINE">London, June 1 -</field>
-	<field name = "BODY">British press magnate Robert Maxwell said
+	<field name = "content">British press magnate Robert Maxwell said
 his British Printing and Communication Corp Plc would not renew
 its bid for Harcourt Brace Jovanovich Inc HBJ> if the lawsuit
 filed against Harcourt in New York today fails.

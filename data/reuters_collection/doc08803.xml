@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 11:14:39.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1332reute
-r f BC-E-TRON-CORP-REACHES-A   03-24 0094</field>
-	<field name = "TITLE">E-TRON CORP REACHES AGREEMENT WITH FORMER PRES</field>
+	<field name = "titulo">E-TRON CORP REACHES AGREEMENT WITH FORMER PRES</field>
 	<field name = "DATELINE">EDISON, N.J., March 24 -</field>
-	<field name = "BODY">E-tron Corp said it will submit a
+	<field name = "content">E-tron Corp said it will submit a
 settlement agreement reached with its former president to the
 bankruptcy court for approval.
     It said the settlement stems from a suit against the former

@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 04:46:50.31F</field>
-	<field name = "UNKNOWN">f0261reute</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">u f BC-CSR-SAYS-IT-WILL-MAKE   03-27 0113</field>
-	<field name = "TITLE">CSR SAYS IT WILL MAKE MAJOR STATEMENT NEXT WEEK</field>
+	<field name = "titulo">CSR SAYS IT WILL MAKE MAJOR STATEMENT NEXT WEEK</field>
 	<field name = "DATELINE">SYDNEY, March 27 -</field>
-	<field name = "BODY">CSR Ltd CSRA.S> said it expected to
+	<field name = "content">CSR Ltd CSRA.S> said it expected to
 make an announcement next week which would have a significant
 and beneficial impact on the future of the company.
     It said the statement was prompted by heavy turnover in CSR

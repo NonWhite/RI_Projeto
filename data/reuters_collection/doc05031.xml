@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 15:47:27.24</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A RM
-f0322reute
-u f BC-EDF-TO-LAUNCH-EURO-CP   03-13 0116</field>
-	<field name = "TITLE">EDF TO LAUNCH EURO-CP PROGRAM MONDAY</field>
+	<field name = "titulo">EDF TO LAUNCH EURO-CP PROGRAM MONDAY</field>
 	<field name = "DATELINE">LONDON, March 13 -</field>
-	<field name = "BODY">Electricite de France> (EdF) will make
+	<field name = "content">Electricite de France> (EdF) will make
 its first offering of Euro-commercial paper in the
 international market on Monday, EdF chief financial officer
 Daniel Lallier said in a telephone call from Paris.

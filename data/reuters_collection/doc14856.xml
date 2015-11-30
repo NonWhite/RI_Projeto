@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 04:30:07.09</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0242reute
-u f BC-JAPANESE-AUTOMAKERS-T   04-08 0108</field>
-	<field name = "TITLE">JAPANESE AUTOMAKERS TURN TO FOUR-WHEEL STEERING</field>
+	<field name = "titulo">JAPANESE AUTOMAKERS TURN TO FOUR-WHEEL STEERING</field>
 	<field name = "AUTHOR">By Jeff Stearns, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">Major Japanese automakers are gearing up
+	<field name = "content">Major Japanese automakers are gearing up
 to equip sporty models with four-wheel steering, a feature that
 could become standard on high-grade cars in the future,
 automotive industry sources said.

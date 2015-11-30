@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:01:22.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM 
-f1674reute
-r f BC-FULL-INTERSTATE-BANKI   06-19 0092</field>
-	<field name = "TITLE">FULL INTERSTATE BANKING GAINS IN ILLINOIS</field>
+	<field name = "titulo">FULL INTERSTATE BANKING GAINS IN ILLINOIS</field>
 	<field name = "DATELINE">CHICAGO, June 19 -</field>
-	<field name = "BODY">Illinois Governor James Thompson will
+	<field name = "content">Illinois Governor James Thompson will
 likely sign a bill setting December 1, 1990, as the trigger
 date opening the state to wider interstate banking, a
 gubernatorial spokesman said.

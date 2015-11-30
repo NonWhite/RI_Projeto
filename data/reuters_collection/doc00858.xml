@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 18:42:09.09</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0333
-reute
-r f BC-DALLAS-CORP-DLS>-4TH   03-02 0081</field>
-	<field name = "TITLE">DALLAS CORP DLS> 4TH QTR LOSS</field>
+	<field name = "titulo">DALLAS CORP DLS> 4TH QTR LOSS</field>
 	<field name = "DATELINE">DALLAS, March 2 -</field>
-	<field name = "BODY">Oper shr loss 22 cts vs profit 10 cts
+	<field name = "content">Oper shr loss 22 cts vs profit 10 cts
     Oper net loss 1,626,000 vs pofit 702,000
     Revs 98.3 mln vs 105.1 mln
     12 mths

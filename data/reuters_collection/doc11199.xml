@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0299reute
-b f BC-U.K.-MONEY-MARKET-GET   03-31 0104</field>
-	<field name = "TITLE">U.K. MONEY MARKET GETS 1.14 BILLION STG EARLY HELP</field>
+	<field name = "titulo">U.K. MONEY MARKET GETS 1.14 BILLION STG EARLY HELP</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">The Bank of England said it had provided
+	<field name = "content">The Bank of England said it had provided
 the money market with 1.143 billion mln stg assistance in
 response to an early round of bill offers from the discount
 houses.

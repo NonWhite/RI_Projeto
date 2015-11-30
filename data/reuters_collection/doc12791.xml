@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">A
-f0491reute
-r f BC-MIYAZAWA,-BAKER-TALKE   04-03 0097</field>
-	<field name = "TITLE">MIYAZAWA, BAKER TALKED RECENTLY OVER TELEPHONE</field>
+	<field name = "titulo">MIYAZAWA, BAKER TALKED RECENTLY OVER TELEPHONE</field>
 	<field name = "DATELINE">TOKYO, April 3 -</field>
-	<field name = "BODY">Finance Minister Kiichi Miyazawa said he
+	<field name = "content">Finance Minister Kiichi Miyazawa said he
 recently talked with U.S. Treasury James Baker over the
 telephone, but declined to say what was discussed.
     Miyazawa told reporters he talks with the U.S. Treasury

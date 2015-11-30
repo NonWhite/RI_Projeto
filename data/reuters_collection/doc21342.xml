@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:09:28.53</field>
 	<field name = "TOPICS">money-fx</field>
-	<field name = "UNKNOWN">V RM 
-f1471reute
-b f BC-/-FED-SEEN-ADDING-RES   10-19 0102</field>
-	<field name = "TITLE">FED SEEN ADDING RESERVES VIA SYSTEM REPOS</field>
+	<field name = "titulo">FED SEEN ADDING RESERVES VIA SYSTEM REPOS</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">The Federal Reserve is expected to enter
+	<field name = "content">The Federal Reserve is expected to enter
 the government securities market to supply reserves to the
 banking system via system repurchase agreements, economists
 said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 09:52:04.56</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1087reute
-u f BC-CALFED-INC-CAL>-3RD   10-19 0045</field>
-	<field name = "TITLE">CALFED INC CAL> 3RD QTR NET</field>
+	<field name = "titulo">CALFED INC CAL> 3RD QTR NET</field>
 	<field name = "DATELINE">LOS ANGELES, Oct 19 -</field>
-	<field name = "BODY">shr 1.99 dlrs vs 2.05 dlrs
+	<field name = "content">shr 1.99 dlrs vs 2.05 dlrs
     diluted shr 1.80 dlrs vs 1.75 dlrs
     net 50.0 mln vs 48.5 mln
     nine months

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F
-f1023reute
-r f BC-giantbay   04-13 0111</field>
-	<field name = "TITLE">GIANT BAY GBYLF> IN IDAHO GOLD VENTURE</field>
+	<field name = "titulo">GIANT BAY GBYLF> IN IDAHO GOLD VENTURE</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, April 13 -</field>
-	<field name = "BODY">Giant Bay Resources
+	<field name = "content">Giant Bay Resources
 Ltd said it signed an agreement in principle with Hecla Mining
 Co for an operating joint venture on Hecla's Stibnite, Idaho,
 gold deposit.

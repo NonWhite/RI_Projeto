@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 15:37:43.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0627reute
-u f BC-radtech-radt>-board   03-05 0094</field>
-	<field name = "TITLE">RADTECH RADT> BOARD REMOVES CHAIRMAN</field>
+	<field name = "titulo">RADTECH RADT> BOARD REMOVES CHAIRMAN</field>
 	<field name = "DATELINE">ALBUQUERQUE, N.M., March 5 -</field>
-	<field name = "BODY">Radtech Inc said its board has
+	<field name = "content">Radtech Inc said its board has
 removed Ronald G. Williams as chairman and chief executive
 officer and has elected President Samuel A. Francis chief
 exeuctive officer.

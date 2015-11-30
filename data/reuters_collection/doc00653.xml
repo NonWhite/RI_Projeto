@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:51:52.51</field>
-	<field name = "UNKNOWN">F
-f0590
-reute
-u f BC-DEAN-WITTER   03-02 0084</field>
-	<field name = "TITLE">SEARS S> DEAN WITTER UNIT AGREES TO SEC CENSURE</field>
+	<field name = "titulo">SEARS S> DEAN WITTER UNIT AGREES TO SEC CENSURE</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">Federal regulators said Dean Witter
+	<field name = "content">Federal regulators said Dean Witter
 Reynolds Inc, the brokerage subsidiary of Sears, Roebuck and
 Co, agreed to a censure to settle charges that it failed to
 fully report cash transactions.

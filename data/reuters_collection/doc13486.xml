@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:42:47.82</field>
-	<field name = "UNKNOWN">C T
-f0370reute
-u f BC-LONDON-COCOA-HOLDS-LI   04-07 0114</field>
-	<field name = "TITLE">LONDON COCOA HOLDS LITTLE CHANGED AT MIDMORNING</field>
+	<field name = "titulo">LONDON COCOA HOLDS LITTLE CHANGED AT MIDMORNING</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Cocoa futures were about unchanged from
+	<field name = "content">Cocoa futures were about unchanged from
 last night by midmorning with near July trading at 1,319 stg
 from 1,318 asked and a 1,324/1,318 high-low.
     Sterling's strength together with continued availability of

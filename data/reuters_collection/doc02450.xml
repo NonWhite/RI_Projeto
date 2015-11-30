@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:21:51.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0781reute
-d f BC-GM-GM>-GETS-61.1-MLN   03-05 0042</field>
-	<field name = "TITLE">GM GM> GETS 61.1 MLN DLR NAVY CONTRACT</field>
+	<field name = "titulo">GM GM> GETS 61.1 MLN DLR NAVY CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Hughes Aircraft Co, a division of
+	<field name = "content">Hughes Aircraft Co, a division of
 General Motors Corp, has received a 61.1 mln dlr contract for
 electronic display equipment for U.S., Australian and Spanish
 surface ships, the Navy said.

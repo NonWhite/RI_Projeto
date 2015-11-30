@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 04:15:03.84</field>
 	<field name = "PLACES">singapore</field>
 	<field name = "PLACES">brunei</field>
-	<field name = "UNKNOWN">RM
-f0224reute
-u f BC-SHEARSON-LEHMAN-NO-LO   04-03 0107</field>
-	<field name = "TITLE">SHEARSON LEHMAN NO LONGER ADVISING KHOO</field>
+	<field name = "titulo">SHEARSON LEHMAN NO LONGER ADVISING KHOO</field>
 	<field name = "DATELINE">SINGAPORE, April 3 -</field>
-	<field name = "BODY">Shearson Lehman Brothers Inc will no
+	<field name = "content">Shearson Lehman Brothers Inc will no
 longer be working as financial advisers for financier Khoo Teck
 Puat, Shearson said in a statement.
     Acting as Khoo's advisers, Shearson formulated a repayment

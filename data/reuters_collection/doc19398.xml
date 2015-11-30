@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 15:51:05.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2235reute
-d f BC-KLEINWORT-BENSON-AUST   06-19 0037</field>
-	<field name = "TITLE">KLEINWORT BENSON AUSTRALIAN FUND KBA> DIVIDEND</field>
+	<field name = "titulo">KLEINWORT BENSON AUSTRALIAN FUND KBA> DIVIDEND</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Kleinwort Benson Australian Income Fund
+	<field name = "content">Kleinwort Benson Australian Income Fund
 Inc
     Qtly div from investment income 30 cts vs 36.5 cts in prior
 qtr

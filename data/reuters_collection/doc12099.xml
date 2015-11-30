@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 12:46:11.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1716reute
-r f BC-REYNOLDS-AND-REYNOLDS   04-01 0068</field>
-	<field name = "TITLE">REYNOLDS AND REYNOLDS REYNA> TO FIGHT SUIT</field>
+	<field name = "titulo">REYNOLDS AND REYNOLDS REYNA> TO FIGHT SUIT</field>
 	<field name = "DATELINE">DAYTON, Ohio, April 1 -</field>
-	<field name = "BODY">The Reynolds and Reynolds Co said
+	<field name = "content">The Reynolds and Reynolds Co said
 it will fight a suit filed against it by Advanced Voice
 Technologies> alleging misappropriation of trade secrets.
     The company reiterated its denial of the charges, stating

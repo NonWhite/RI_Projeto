@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:15:47.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1352reute
-b f BC-WALL-STREET-STOCKS/TE   04-13 0090</field>
-	<field name = "TITLE">WALL STREET STOCKS/TEXACO QTX>, PENNZOIL PZL></field>
+	<field name = "titulo">WALL STREET STOCKS/TEXACO QTX>, PENNZOIL PZL></field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Texaco Inc's decision to file for
+	<field name = "content">Texaco Inc's decision to file for
 protection under the bankruptcy code had a chilling effect on
 its stock, and sent Pennzoil Co's shares sharply lower as well,
 traders said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C G L M T
-f0961reute
-r f AM-BRITAIN-JAPAN   03-11 0120</field>
-	<field name = "TITLE">BRITAIN CALLS ON JAPAN TO INCREASE IMPORTS</field>
+	<field name = "titulo">BRITAIN CALLS ON JAPAN TO INCREASE IMPORTS</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Britain today called on Japan to
+	<field name = "content">Britain today called on Japan to
 increase foreign imports or risk the rise of protectionism and
 the harm it would bring to it and other trading nations.
     British Trade and Industry Secretary Paul Channon said

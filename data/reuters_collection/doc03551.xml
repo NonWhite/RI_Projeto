@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 08:36:17.82</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G L M T
-f0837reute
-u f BC-LCE-MOVE-TO-NEW-PREMI   03-11 0112</field>
-	<field name = "TITLE">LCE MOVE TO NEW PREMISES DELAYED TO END-MAY</field>
+	<field name = "titulo">LCE MOVE TO NEW PREMISES DELAYED TO END-MAY</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">The London Commodity Exchange (LCE) has
+	<field name = "content">The London Commodity Exchange (LCE) has
 put back the date at which it will move to its new premises in
 Commodity Quay to end-May from the intended early April launch,
 an LCE spokeswoman said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G T L 
-f2914reute
-u f BC-/BUDGET-PACT-CUTS-U.S   06-18 0144</field>
-	<field name = "TITLE">BUDGET PACT CUTS U.S. FARM FUNDS 1.25 BILLION DLRS</field>
+	<field name = "titulo">BUDGET PACT CUTS U.S. FARM FUNDS 1.25 BILLION DLRS</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">U.S. House and Senate budget
+	<field name = "content">U.S. House and Senate budget
 negotiators agreed as part of an overall budget accord reached
 yesterday, to cut 1.25 billion dlrs from fiscal 1988 spending
 on agricultural programs, Congressional sources told Reuters.

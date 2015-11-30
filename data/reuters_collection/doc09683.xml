@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 19:15:06.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2758reute
-u f BC-U.S.-BANKS-SEEN-STEPP   03-25 0094</field>
-	<field name = "TITLE">U.S. BANKS SEEN STEPPING UP SECURITIES ROLE</field>
+	<field name = "titulo">U.S. BANKS SEEN STEPPING UP SECURITIES ROLE</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">The Glass-Steagall Act separating
+	<field name = "content">The Glass-Steagall Act separating
 banking and securities activities in the U.S. is all but dead
 following decisions by federal and state authorities, the
 chairman of Bankers Trust Co asserted.

@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 08:57:01.89</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0911reute
-r f BC-JAPAN-FOREIGN-MINISTE   03-11 0101</field>
-	<field name = "TITLE">JAPAN FOREIGN MINISTER CALLS OFF TRIP TO THE U.S.</field>
+	<field name = "titulo">JAPAN FOREIGN MINISTER CALLS OFF TRIP TO THE U.S.</field>
 	<field name = "DATELINE">TOKYO, March 11 -</field>
-	<field name = "BODY">Foreign Minister Tadashi Kuranari has
+	<field name = "content">Foreign Minister Tadashi Kuranari has
 cancelled a trip tomorrow to the U.S. Because of continued
 confusion in the Japanese Parliament, Foreign Ministry
 officials said.

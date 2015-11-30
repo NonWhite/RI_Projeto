@@ -5,12 +5,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2855reute
-u f BC-GRAIN-REPORTS-IMPROVE   03-31 0143</field>
-	<field name = "TITLE">GRAIN REPORTS IMPROVE U.S. FARM OUTLOOK-ANALYSTS</field>
+	<field name = "titulo">GRAIN REPORTS IMPROVE U.S. FARM OUTLOOK-ANALYSTS</field>
 	<field name = "DATELINE">CHICAGO, March 31 -</field>
-	<field name = "BODY">The U.S. grain planting intentions and
+	<field name = "content">The U.S. grain planting intentions and
 stocks reports bear optimistic news for U.S agriculture, a
 grain analyst on a Chicago Board of Trade panel said.
     The decline in intended soybean acreage and lower stocks

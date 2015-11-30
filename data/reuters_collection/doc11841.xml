@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 07:09:49.49</field>
 	<field name = "PLACES">philippines</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V
-f0514reute
-u f BC-KIDNAPPED-BUSINESSMAN   04-01 0075</field>
-	<field name = "TITLE">KIDNAPPED BUSINESSMAN RELEASED</field>
+	<field name = "titulo">KIDNAPPED BUSINESSMAN RELEASED</field>
 	<field name = "DATELINE">MANILA, April 1, Reuter -</field>
-	<field name = "BODY">Kidnapped Japanese businessman
+	<field name = "content">Kidnapped Japanese businessman
 Nobuyuki Wakaoji has been released after four months in
 captivity, Presidential spokesman Teodoro Benigno said.
     Benigno told reporters the 53-year-old Mitsui and Co Ltd

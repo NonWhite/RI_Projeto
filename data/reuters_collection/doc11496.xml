@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 13:12:23.60</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1948reute
-u f BC-AVERY-AVRY>-SEES-QTR   03-31 0083</field>
-	<field name = "TITLE">AVERY AVRY> SEES QTR, YEAR LOSS</field>
+	<field name = "titulo">AVERY AVRY> SEES QTR, YEAR LOSS</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Avery Inc said the company will not
+	<field name = "content">Avery Inc said the company will not
 show a profit in the next quarter and will probably not show a
 profit in 1987.
     Speaking at the annual shareholders meeting, chairman

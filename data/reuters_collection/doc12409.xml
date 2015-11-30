@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0211reute
-u f BC-BANK-OF-FRANCE-TO-BUY   04-02 0098</field>
-	<field name = "TITLE">BANK OF FRANCE TO BUY FIRST CATEGORY PAPER TODAY</field>
+	<field name = "titulo">BANK OF FRANCE TO BUY FIRST CATEGORY PAPER TODAY</field>
 	<field name = "DATELINE">PARIS, April 2 -</field>
-	<field name = "BODY">The Bank of France is to inject liquidity
+	<field name = "content">The Bank of France is to inject liquidity
 against first category paper at a tender this afternoon, a Bank
 spokesman said.
     Money market sources were divided as to whether they

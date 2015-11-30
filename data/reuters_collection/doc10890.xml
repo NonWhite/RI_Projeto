@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 12:06:18.44</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1705reute
-d f BC-DATRON-CORP-DATR>-4T   03-30 0038</field>
-	<field name = "TITLE">DATRON CORP DATR> 4TH QTR NET</field>
+	<field name = "titulo">DATRON CORP DATR> 4TH QTR NET</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 30 -</field>
-	<field name = "BODY">Shr 19 cts vs 13 cts
+	<field name = "content">Shr 19 cts vs 13 cts
     Net 166,000 vs 118,000
     Rev 3.2 mln vs 2.5 mln
     Year

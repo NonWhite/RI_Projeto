@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 17:11:44.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2638reute
-r f BC-PROPOSED-OFFERINGS   04-08 0095</field>
-	<field name = "TITLE">PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</field>
+	<field name = "titulo">PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">The following proposed securities
+	<field name = "content">The following proposed securities
 offerings were filed recently with the Securities and Exchange
 Commission:
     First Interstate Bancorp I> - Shelf offering of up to 112

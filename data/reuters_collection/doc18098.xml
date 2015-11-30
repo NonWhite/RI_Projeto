@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 11:57:55.69</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C L
-f1585reute
-u f BC-EX-USDA-OFFICIAL-URGE   06-02 0123</field>
-	<field name = "TITLE">EX-USDA OFFICIAL URGES CHICKEN HANDLING LABELS</field>
+	<field name = "titulo">EX-USDA OFFICIAL URGES CHICKEN HANDLING LABELS</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">A former U.S. Agriculture Department
+	<field name = "content">A former U.S. Agriculture Department
 official urged the department to require that packages of
 chicken be labeled with handling and cooking instructions to
 protect the public from disease.

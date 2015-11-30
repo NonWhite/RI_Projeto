@@ -4,13 +4,10 @@
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0399reute
-u f BC-TAIWAN-CLAMPS-NEW-CON   03-12 0102</field>
-	<field name = "TITLE">TAIWAN CLAMPS NEW CONTROLS ON CURRENCY INFLOWS</field>
+	<field name = "titulo">TAIWAN CLAMPS NEW CONTROLS ON CURRENCY INFLOWS</field>
 	<field name = "AUTHOR">By Andrew Browne, Reuters</field>
 	<field name = "DATELINE">TAIPEI, March 12 -</field>
-	<field name = "BODY">Taiwan's new controls on currency
+	<field name = "content">Taiwan's new controls on currency
 inflows, implemented today, are a desperate bid to stem a flood
 of speculative money prompted by the local currency surge
 against the U.S. Dollar, local and foreign bankers said.

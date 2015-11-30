@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0893reute
-b f BC-ALMOST-200-DEAD-IN-FE   03-07 0101</field>
-	<field name = "TITLE">ALMOST 200 DEAD IN FERRY DISASTER</field>
+	<field name = "titulo">ALMOST 200 DEAD IN FERRY DISASTER</field>
 	<field name = "DATELINE">ZEEBRUGGE, March 7 -</field>
-	<field name = "BODY">There are no more survivors from a
+	<field name = "content">There are no more survivors from a
 British cross-Channel ferry disaster off the Belgian coast and
 almost 200 people seem certain to have perished, a senior
 Belgian official said.

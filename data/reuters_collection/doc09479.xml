@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:47:39.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f1935reute
-r f BC-OAK-INDUSTRIES-OAK>   03-25 0107</field>
-	<field name = "TITLE">OAK INDUSTRIES OAK> SETS DEBT EXCHANGE OFFER</field>
+	<field name = "titulo">OAK INDUSTRIES OAK> SETS DEBT EXCHANGE OFFER</field>
 	<field name = "DATELINE">SAN DIEGO, Calif., March 25 -</field>
-	<field name = "BODY">Oak Industries said it will
+	<field name = "content">Oak Industries said it will
 commence an exhcange offer for any or all of certain of its
 debentures and notes.
     It said it is offering to exchange 660 shares of common

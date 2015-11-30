@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 09:26:15.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0891reute
-h f BC-GREAT-LAKES-CHEMICAL   04-08 0054</field>
-	<field name = "TITLE">GREAT LAKES CHEMICAL GLK> TO BUILD NEW PLANT</field>
+	<field name = "titulo">GREAT LAKES CHEMICAL GLK> TO BUILD NEW PLANT</field>
 	<field name = "DATELINE">WEST LAFAYETTE, IND., April 8 -</field>
-	<field name = "BODY">Great Lakes Chemical Corp
+	<field name = "content">Great Lakes Chemical Corp
 said it will build a new plant in El Dorado, Ark., to produce
 several fluorine-based specialty chemicals.
     It said total cost of the project, which would employ up to

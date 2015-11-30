@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 13:22:06.10</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f1899reute
-u f BC-UNION-UEL.TO>-ENDS-P   06-29 0069</field>
-	<field name = "TITLE">UNION UEL.TO> ENDS PACT TO SELL CANBRA CBF.TO></field>
+	<field name = "titulo">UNION UEL.TO> ENDS PACT TO SELL CANBRA CBF.TO></field>
 	<field name = "DATELINE">TORONTO, June 29 -</field>
-	<field name = "BODY">Union Enterprises Ltd said its agreement
+	<field name = "content">Union Enterprises Ltd said its agreement
 to sell its interest in Canbra Foods Ltd to Macluan Capital
 Corp has been terminated.
     Union said Macluan failed to make an offer for Union's 72

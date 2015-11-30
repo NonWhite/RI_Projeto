@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 15:59:00.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9347reute
-u f BC-U.S.-AGENCY-FINDS-RAI   03-18 0090</field>
-	<field name = "TITLE">U.S. AGENCY FINDS RAILROAD REVENUES INADEQUATE</field>
+	<field name = "titulo">U.S. AGENCY FINDS RAILROAD REVENUES INADEQUATE</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">The Interstate Commerce Commission
+	<field name = "content">The Interstate Commerce Commission
 (ICC), which regulates interstate freight rail service,
 concluded that none of the 24 largest U.S. freight railroads
 had adequate revenues in 1985.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 15:55:37.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3071reute
-h f BC-GENERAL-MILLS-GIS>-R   10-20 0112</field>
-	<field name = "TITLE">GENERAL MILLS GIS> REALIGNS EDDIE BAUER</field>
+	<field name = "titulo">GENERAL MILLS GIS> REALIGNS EDDIE BAUER</field>
 	<field name = "DATELINE">CHICAGO, Oct 20 -</field>
-	<field name = "BODY">General Mills Inc said it is naming a new
+	<field name = "content">General Mills Inc said it is naming a new
 top management team to its Eddie Bauer specialty retailing
 subsidiary, effective November Two.
     It said Wayne Bandovinus will join the specialty retailer

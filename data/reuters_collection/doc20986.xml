@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 15:51:05.63</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">C M 
-f2936reute
-d f BC-S.-AFRICA-MINING-HOUS   10-19 0122</field>
-	<field name = "TITLE">S. AFRICA MINING HOUSE REPORTS HUGE STRIKE LOSSES</field>
+	<field name = "titulo">S. AFRICA MINING HOUSE REPORTS HUGE STRIKE LOSSES</field>
 	<field name = "DATELINE">JOHANNESBURG, Oct 19 -</field>
-	<field name = "BODY">A major South African mining house
+	<field name = "content">A major South African mining house
 on Monday reported two of its gold mines suffered huge losses
 as a result of a black miners' strike in August which crippled
 about half the country's crucial gold mines.

@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 09:37:48.75</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F
-f4930reute
-d f BC-LUFTHANSA-SAYS-FARE-P   03-17 0110</field>
-	<field name = "TITLE">LUFTHANSA SAYS FARE POLICY IN LINE WITH EC RULES</field>
+	<field name = "titulo">LUFTHANSA SAYS FARE POLICY IN LINE WITH EC RULES</field>
 	<field name = "DATELINE">BONN, March 17 -</field>
-	<field name = "BODY">The West German airline, Deutsche
+	<field name = "content">The West German airline, Deutsche
 Lufthansa AG, believes the way it decides fares is in line with
 European Community (EC) guidelines despite an official probe, a
 company spokesman said today.

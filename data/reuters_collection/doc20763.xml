@@ -6,13 +6,10 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "PEOPLE">lawson</field>
-	<field name = "UNKNOWN">RM A 
-f3332reute
-r f BC-MARKETS-BAKER SCHEDULED-NEWS-ANALYSIS  10-20 0078</field>
-	<field name = "TITLE">TREASURY'S BAKER UNDER FIRE FOR WALL STREET DROP</field>
+	<field name = "titulo">TREASURY'S BAKER UNDER FIRE FOR WALL STREET DROP</field>
 	<field name = "AUTHOR">By Alver Carlson</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">As official Washington sought to
+	<field name = "content">As official Washington sought to
 restore investor confidence after Monday's Wall Street
 collapse, Treasury Secretary James Baker came under fire from
 critics who claimed he helped to precipitate the crisis.

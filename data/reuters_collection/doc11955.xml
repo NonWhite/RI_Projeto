@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 10:27:53.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f1088reute
-d f BC-U.S.-SENATOR-HITS-PRO   04-01 0130</field>
-	<field name = "TITLE">U.S. SENATOR HITS PROPOSED FARM BUDGET CUTS</field>
+	<field name = "titulo">U.S. SENATOR HITS PROPOSED FARM BUDGET CUTS</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">U.S. Senate Agriculture Committee
+	<field name = "content">U.S. Senate Agriculture Committee
 chairman Patrick Leahy (D-Vt.) said it would be impossible to
 cut two billion dlrs from the fiscal 1988 agriculture budget as
 proposed by Senate Budget Committee chairman Lawton Chiles

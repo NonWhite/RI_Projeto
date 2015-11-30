@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 16:35:40.34</field>
 	<field name = "PLACES">peru</field>
 	<field name = "ORGS">fao</field>
-	<field name = "UNKNOWN">C G L M T
-f6563reute
-d f AM-peru-fao   03-17 0132</field>
-	<field name = "TITLE">FAO DIRECTOR GENERAL SIGNS PERU AID AGREEMENT</field>
+	<field name = "titulo">FAO DIRECTOR GENERAL SIGNS PERU AID AGREEMENT</field>
 	<field name = "DATELINE">LIMA, March 17 -</field>
-	<field name = "BODY">The Director-General of the Food and
+	<field name = "content">The Director-General of the Food and
 Agricultural Organisation (FAO), Edouard Saouma, signed an
 agreement to aid peru with 160,000 dlrs in technical asistance
 to draw up studies for farm development in the country.

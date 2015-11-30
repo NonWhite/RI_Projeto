@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 00:20:59.50</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">M C
-f4055reute
-u f BC-RENISON-GOLDFIELDS-EX   03-17 0118</field>
-	<field name = "TITLE">RENISON GOLDFIELDS EXTENDS LYELL COPPER MINE LIFE</field>
+	<field name = "titulo">RENISON GOLDFIELDS EXTENDS LYELL COPPER MINE LIFE</field>
 	<field name = "DATELINE">SYDNEY, March 17 -</field>
-	<field name = "BODY">The Renison Goldfields Consolidated Ltd
+	<field name = "content">The Renison Goldfields Consolidated Ltd
 RGFJ.S> (RGC) Mt Lyell copper mine in Tasmania will stay open
 for an extra five years following a new aid package from the
 state government, RGC said in a statement.

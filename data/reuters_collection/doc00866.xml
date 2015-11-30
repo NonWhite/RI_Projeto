@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 19:34:18.74</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0369
-reute
-b f BC-JAPAN-UNEMPLOYMNENT-R   03-02 0090</field>
-	<field name = "TITLE">JAPAN UNEMPLOYMNENT RISES TO RECORD IN JANUARY</field>
+	<field name = "titulo">JAPAN UNEMPLOYMNENT RISES TO RECORD IN JANUARY</field>
 	<field name = "DATELINE">TOKYO, March 3 -</field>
-	<field name = "BODY">Japan's seasonally adjusted unemployment
+	<field name = "content">Japan's seasonally adjusted unemployment
 rate rose to a record 3.0 pct in January, the worst since the
 Government started compiling unemployment statistics under its
 current system in 1953, up from the previous record 2.9 pct in

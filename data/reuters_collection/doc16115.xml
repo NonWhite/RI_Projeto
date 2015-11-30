@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 02:03:38.10</field>
 	<field name = "PLACES">australia</field>
 	<field name = "EXCHANGES">asx</field>
-	<field name = "UNKNOWN">E
-f0070reute
-u f BC-AUSTRALIAN-STOCKS-CLO   04-13 0091</field>
-	<field name = "TITLE">AUSTRALIAN STOCKS CLOSE AT RECORD LEVELS</field>
+	<field name = "titulo">AUSTRALIAN STOCKS CLOSE AT RECORD LEVELS</field>
 	<field name = "DATELINE">SYDNEY, April 13 -</field>
-	<field name = "BODY">Australian share markets closed at
+	<field name = "content">Australian share markets closed at
 record levels for the seventh consecutive session as strong
 overseas interest in gold stocks pushed the market higher,
 brokers said.

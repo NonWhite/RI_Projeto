@@ -5,12 +5,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f0977reute
-u f BC-MARKET-DISCOUNTS-HIGH   03-09 0129</field>
-	<field name = "TITLE">MARKET DISCOUNTS HIGHER SOVIET GRAIN IMPORTS</field>
+	<field name = "titulo">MARKET DISCOUNTS HIGHER SOVIET GRAIN IMPORTS</field>
 	<field name = "DATELINE">CHICAGO, MARCH 9 -</field>
-	<field name = "BODY">Grain analysts said the increase of
+	<field name = "content">Grain analysts said the increase of
 three mln tonnes in 1986/87 Soviet grain imports is unlikely to
 affect the market Tuesday.
     They said the market already has discounted higher Soviet

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 11:39:26.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1461reute
-r f BC-KROGER-KR>-EMPLOYEES   06-01 0063</field>
-	<field name = "TITLE">KROGER KR> EMPLOYEES TO VOTE ON NEW CONTRACT</field>
+	<field name = "titulo">KROGER KR> EMPLOYEES TO VOTE ON NEW CONTRACT</field>
 	<field name = "DATELINE">DENVER, June 1 -</field>
-	<field name = "BODY">Kroger Co said members of the United Food
+	<field name = "content">Kroger Co said members of the United Food
 and Commercial Workers Union, which have been on strike against
 its King Soopers Supermarkets division for the past two weeks,
 will vote tonight on a new contract proposal.

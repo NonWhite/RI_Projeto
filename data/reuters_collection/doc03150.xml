@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 11:27:36.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0569reute
-u f BC-PERRY-DRUG-PDS>-FEBR   03-09 0063</field>
-	<field name = "TITLE">PERRY DRUG PDS> FEBRUARY SALES UP 19.5 PCT</field>
+	<field name = "titulo">PERRY DRUG PDS> FEBRUARY SALES UP 19.5 PCT</field>
 	<field name = "DATELINE">PONTIAC, Mich., March 9 -</field>
-	<field name = "BODY">Perry Drug Stores Inc said
+	<field name = "content">Perry Drug Stores Inc said
 February sales were up 19.5 pct to 52 mln dlrs from 43 mln dlrs
 a year earlier, with same-store sales up five pct.
     It said sales for the first four months of its fiscal year

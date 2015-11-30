@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 08:51:04.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0755reute
-r f BC-METRO-CABLE-METO>-TO   03-25 0083</field>
-	<field name = "TITLE">METRO CABLE METO> TO SELL PARTNERSHIP</field>
+	<field name = "titulo">METRO CABLE METO> TO SELL PARTNERSHIP</field>
 	<field name = "DATELINE">ENGLEWOOD, Colo., March 25 -</field>
-	<field name = "BODY">Metro Cable Corp said it has
+	<field name = "content">Metro Cable Corp said it has
 entered into a letter of intent for the sale of limited
 partnership Intermountain Cable Associates for about 3,250,000
 dlrs.

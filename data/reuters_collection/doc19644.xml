@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 10:52:21.47</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1239reute
-d f BC-NEW-GENERATION-PRODUC   06-29 0064</field>
-	<field name = "TITLE">NEW GENERATION PRODUCTS MAKES ACQUISITION</field>
+	<field name = "titulo">NEW GENERATION PRODUCTS MAKES ACQUISITION</field>
 	<field name = "DATELINE">SALT LAKE CITY, Utah, June 29 -</field>
-	<field name = "BODY">New Generation Products
+	<field name = "content">New Generation Products
 Inc> said it has acquired a 20 pct ownership in Personal
 Protection Technolgies Inc>.
     New Generation said Personal Protection is developing a

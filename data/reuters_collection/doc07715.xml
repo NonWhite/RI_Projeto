@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1168reute
-b f BC-/-FED-EXPECTED-TO-SET   03-20 0062</field>
-	<field name = "TITLE">FED EXPECTED TO SET CUSTOMER REPURCHASES</field>
+	<field name = "titulo">FED EXPECTED TO SET CUSTOMER REPURCHASES</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">The Federal Reserve is expected to
+	<field name = "content">The Federal Reserve is expected to
 intervene in the government securities market to add temporary
 reserves indirectly via 1.5-2.0 billion dlrs of customer
 repurchase agreements, economists said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 16:23:10.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2589reute
-r f BC-BRANIFF-INC-BAIR.O>   06-02 0081</field>
-	<field name = "TITLE">BRANIFF INC BAIR.O> MAY TRAFFIC ROSE</field>
+	<field name = "titulo">BRANIFF INC BAIR.O> MAY TRAFFIC ROSE</field>
 	<field name = "DATELINE">DALLAS, June 2 -</field>
-	<field name = "BODY">Braniff Inc  aid its May load factor rose
+	<field name = "content">Braniff Inc  aid its May load factor rose
 to 59.15 pct from 57.16 pct. Revenue passenger miles rose 25.7
 pct to 268.9 mln miles from 213.8 mln miles and available seat
 miles rose 21.5 pct to 454.5 mln miles from 374.1 mln miles.

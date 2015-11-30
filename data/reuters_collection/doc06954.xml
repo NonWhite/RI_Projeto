@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 02:20:26.56</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0034reute
-u f BC-NEW-ZEALAND-RETAIL-SA   03-19 0086</field>
-	<field name = "TITLE">NEW ZEALAND RETAIL SALES SLOW IN JANUARY</field>
+	<field name = "titulo">NEW ZEALAND RETAIL SALES SLOW IN JANUARY</field>
 	<field name = "DATELINE">WELLINGTON, March 19 -</field>
-	<field name = "BODY">Seasonally adjusted retail sales
+	<field name = "content">Seasonally adjusted retail sales
 rose by 0.1 pct in January, compared with increases of 5.7 pct
 in December and 1.0 pct a year earlier, the Statistics
 Department said.

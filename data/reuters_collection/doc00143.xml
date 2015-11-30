@@ -3,14 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y
-f0189
-reute
-r f BC-/OPEC-MAY-HAVE-TO-MEE   02-26 0105</field>
-	<field name = "TITLE">OPEC MAY HAVE TO MEET TO FIRM PRICES - ANALYSTS</field>
+	<field name = "titulo">OPEC MAY HAVE TO MEET TO FIRM PRICES - ANALYSTS</field>
 	<field name = "AUTHOR">BY TED D'AFFLISIO, Reuters</field>
 	<field name = "DATELINE">NEW YORK, Feb 26 -</field>
-	<field name = "BODY">OPEC may be forced to meet before a
+	<field name = "content">OPEC may be forced to meet before a
 scheduled June session to readdress its production cutting
 agreement if the organization wants to halt the current slide
 in oil prices, oil industry analysts said.

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 15:20:48.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0778
-reute
-r f BC-NATIONAL-INTERGROUPN   02-26 0047</field>
-	<field name = "TITLE">NATIONAL INTERGROUPNII> TO OFFER PERMIAN UNITS</field>
+	<field name = "titulo">NATIONAL INTERGROUPNII> TO OFFER PERMIAN UNITS</field>
 	<field name = "DATELINE">PITTSBURGH, Feb 26 -</field>
-	<field name = "BODY">National Intergroup Inc said it plans
+	<field name = "content">National Intergroup Inc said it plans
 to file a registration statement with the securities and
 exchange commission for an offering of cumulative convertible
 preferred partnership units in Permian Partners L.P.

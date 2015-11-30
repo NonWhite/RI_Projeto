@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 07:22:15.14</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0622reute
-u f BC-U.K.-ONE-BILLION-STG   03-11 0114</field>
-	<field name = "TITLE">U.K. ONE BILLION STG BOND TRANCHE EXHAUSTED</field>
+	<field name = "titulo">U.K. ONE BILLION STG BOND TRANCHE EXHAUSTED</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">A one billion stg tranche of 8-3/4 pct
+	<field name = "content">A one billion stg tranche of 8-3/4 pct
 Treasury Loan stock due 1997 was exhausted in very early
 trading on the U.K. Government bond market only minutes after
 becoming available for trading, dealers said.

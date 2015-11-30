@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 11:56:22.12</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f1490reute
-u f BC-NASD-TAKES-DISCIPLINA   03-23 0066</field>
-	<field name = "TITLE">NASD TAKES DISCIPLINARY ACTION AGAINST EX-TRADER</field>
+	<field name = "titulo">NASD TAKES DISCIPLINARY ACTION AGAINST EX-TRADER</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">The National Association of
+	<field name = "content">The National Association of
 Securities Dealers Inc> said it has taken disciplinary action
 against Mark Woltz, a former trader of a major firm, suspending
 him from association with any NASD member for 20 business days,

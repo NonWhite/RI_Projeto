@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:13:39.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0780reute
-r f BC-CHICAGO-PACIFIC-CPAC   04-09 0105</field>
-	<field name = "TITLE">CHICAGO PACIFIC CPAC> SELLS CONVERTIBLE DEBT</field>
+	<field name = "titulo">CHICAGO PACIFIC CPAC> SELLS CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Chicago Pacific Corp is raising 150 mln
+	<field name = "content">Chicago Pacific Corp is raising 150 mln
 dlrs through an offering of convertible subordinated debentures
 due 2012 with a 6-1/2 pct coupon and par pricing, said lead
 manager Goldman, Sachs and Co.

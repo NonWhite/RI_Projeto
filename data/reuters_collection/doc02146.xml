@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:16:33.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0561reute
-r f BC-BESICORP,-LCP-CHEMICA   03-05 0110</field>
-	<field name = "TITLE">BESICORP, LCP CHEMICALS IN COGENERATION PACT</field>
+	<field name = "titulo">BESICORP, LCP CHEMICALS IN COGENERATION PACT</field>
 	<field name = "DATELINE">ELLENVILLE, N.Y., March 5 -</field>
-	<field name = "BODY">Besicorp Group Inc> said it
+	<field name = "content">Besicorp Group Inc> said it
 reached an agreement with LCP Chemicals and Plastics Inc> to
 develop an 80 megawatt cogeneration station at LCP's facility
 in Syracuse N.Y., in a project estimated to require about 50

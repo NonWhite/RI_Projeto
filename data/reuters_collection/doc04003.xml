@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 18:13:59.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0860reute
-d f AM-CANCER   03-11 0107</field>
-	<field name = "TITLE">BIRTH CONTROL PILLS HELP PREVENT CANCER - STUDY</field>
+	<field name = "titulo">BIRTH CONTROL PILLS HELP PREVENT CANCER - STUDY</field>
 	<field name = "DATELINE">BOSTON, March 11 -</field>
-	<field name = "BODY">Doctors at the Centers for Disease
+	<field name = "content">Doctors at the Centers for Disease
 Control in Atlanta said they have new evidence that birth
 control pills can help provide long-term protection from cancer
 of the ovary, even if the pills are only taken for a few

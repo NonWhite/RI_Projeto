@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 12:08:10.37</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">RM
-f0753reute
-u f BC-TURKISH-BANK-SEEKS-20   03-11 0100</field>
-	<field name = "TITLE">TURKISH BANK SEEKS 20 MLN DLR LOAN</field>
+	<field name = "titulo">TURKISH BANK SEEKS 20 MLN DLR LOAN</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Uluslararasi Endustri ve Ticaret Bankasi
+	<field name = "content">Uluslararasi Endustri ve Ticaret Bankasi
 AS (INTERBANK), a large privately-owned trade financing bank in
 Turkey, is seeking a 20 mln dlr committed export advance
 facility, Morgan Guaranty Ltd said as lead manager.

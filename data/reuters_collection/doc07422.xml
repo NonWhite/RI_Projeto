@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2428reute
-r f BC-AMOCO-AN>-OIL-RESERV   03-19 0110</field>
-	<field name = "TITLE">AMOCO AN> OIL RESERVES DOWN, GAS UP IN 1986</field>
+	<field name = "titulo">AMOCO AN> OIL RESERVES DOWN, GAS UP IN 1986</field>
 	<field name = "DATELINE">CHICAGO, March 19 -</field>
-	<field name = "BODY">Amoco Corp's petroleum liquids reserves
+	<field name = "content">Amoco Corp's petroleum liquids reserves
 total 2.42 billion barrels at the end of 1986, down from 2.77
 billion a year earlier, but its natural gas reserves increased
 to 15.37 trillion cubic feet from 15.14 trillion, the company's

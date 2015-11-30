@@ -2,13 +2,10 @@
 	<field name = "DATE">9-MAR-1987 03:51:51.19</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0322reute
-u f BC-U.S.-SEEKS-MAJOR-JAPA   03-09 0107</field>
-	<field name = "TITLE">U.S. SEEKS MAJOR JAPANESE ECONOMIC CHANGE IN APRIL</field>
+	<field name = "titulo">U.S. SEEKS MAJOR JAPANESE ECONOMIC CHANGE IN APRIL</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 9 -</field>
-	<field name = "BODY">The United States has openly attacked
+	<field name = "content">The United States has openly attacked
 Japan's tight-fisted fiscal policy for the first time and
 warned Tokyo its promised economic package in April must be
 significant, senior U.S. Officials said.

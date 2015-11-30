@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 20:28:19.19</field>
-	<field name = "UNKNOWN">RM
-f2705reute
-u f BC-DOLLAR-OPENS-EASIER-I   04-07 0110</field>
-	<field name = "TITLE">DOLLAR OPENS EASIER IN TOKYO</field>
+	<field name = "titulo">DOLLAR OPENS EASIER IN TOKYO</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">The dollar opened easier against major
+	<field name = "content">The dollar opened easier against major
 currencies on underlying negative sentiment, but is likely to
 move marginally ahead of expected meetings of leading Finance
 Ministers in Washington this week, dealers said.

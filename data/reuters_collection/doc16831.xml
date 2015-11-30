@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 10:10:45.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0236reute
-r f BC-GENEX-GNEX.O>-PLANS   04-17 0100</field>
-	<field name = "TITLE">GENEX GNEX.O> PLANS PREFERRED RIGHTS OFFERING</field>
+	<field name = "titulo">GENEX GNEX.O> PLANS PREFERRED RIGHTS OFFERING</field>
 	<field name = "DATELINE">GAITHERSBURG, Md., April 17 -</field>
-	<field name = "BODY">Genex Corp said it has filed
+	<field name = "content">Genex Corp said it has filed
 for a proposed 8,500,000 dlr rights offering that is planned
 for early summer.
     It said shareholders will have the right to buy 1.1

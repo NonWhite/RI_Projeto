@@ -3,12 +3,9 @@
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C T
-f0983reute
-d f BC-COPPER-STUDY-GROUP-CO   03-03 0129</field>
-	<field name = "TITLE">COPPER STUDY GROUP CONSIDERED AT GENEVA MEETING</field>
+	<field name = "titulo">COPPER STUDY GROUP CONSIDERED AT GENEVA MEETING</field>
 	<field name = "DATELINE">GENEVA, March 3 -</field>
-	<field name = "BODY">Major copper producing and consuming
+	<field name = "content">Major copper producing and consuming
 countries are considering a U.S. proposal to set up a study
 group to review the world copper market, delegates said.
     The U.S. initiative was introduced last December at a

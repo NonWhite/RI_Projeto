@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:44:36.52</field>
-	<field name = "UNKNOWN">^! 16#838#</field>
-	<field name = "UNKNOWN">L
-f0814reute
-u f BC-ST-JOSEPH-HOGS-SEEN-U   04-07 0036</field>
-	<field name = "TITLE">ST JOSEPH HOGS SEEN UP 1.00 DLR - PRIVATE</field>
+	<field name = "titulo">ST JOSEPH HOGS SEEN UP 1.00 DLR - PRIVATE</field>
 	<field name = "DATELINE">St Joseph, April 7 - Sunny/38 degrees -</field>
-	<field name = "BODY">Hog prices are
+	<field name = "content">Hog prices are
 expected 1.00 dlr higher on estimated receipts of 1,500 head,
 private sources said. Top seen at 51.50 dlrs per cwt.
  Reuter</field>

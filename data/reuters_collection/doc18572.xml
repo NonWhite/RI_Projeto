@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 08:09:47.25</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F A 
-f2749reute
-r f BC-dome-shareholder-file   06-18 0095</field>
-	<field name = "TITLE">DOME DMP> SHAREHOLDER FILES CLASS ACTION SUIT</field>
+	<field name = "titulo">DOME DMP> SHAREHOLDER FILES CLASS ACTION SUIT</field>
 	<field name = "DATELINE">CALGARY, Alberta, June 18 -</field>
-	<field name = "BODY">Dome Petroleum Ltd said one of
+	<field name = "content">Dome Petroleum Ltd said one of
 its common shareholders filed a class action suit in a New York
 court alleging the company, its chairman and president breached
 their fiduciary duties concerning Amoco Corp's proposed

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 13:50:53.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2092reute
-d f BC-BORMON-IN-FINAL-PHASE   06-02 0077</field>
-	<field name = "TITLE">BORMON IN FINAL PHASE OF BUILDING TRANSPORT</field>
+	<field name = "titulo">BORMON IN FINAL PHASE OF BUILDING TRANSPORT</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Bromon Aircraft Co, which is privately
+	<field name = "content">Bromon Aircraft Co, which is privately
 held, said it is in the final design phase of a twin turboprop,
 and is scheduled to complete production of three prototype
 aircraft in the fall of 1988.

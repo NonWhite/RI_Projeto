@@ -3,12 +3,9 @@
 	<field name = "TOPICS">plywood</field>
 	<field name = "TOPICS">lumber</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f1433reute
-d f BC-PLYWOOD-CREDITS-EYED   04-03 0107</field>
-	<field name = "TITLE">PLYWOOD CREDITS EYED BY REAGAN ADMINISTRATION</field>
+	<field name = "titulo">PLYWOOD CREDITS EYED BY REAGAN ADMINISTRATION</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The Reagan administration is debating
+	<field name = "content">The Reagan administration is debating
 whether to provide government credit guarantees for the export
 of plywood, a U.S. Agriculture Department official said.
     As a member of the Organization for Economic Cooperation

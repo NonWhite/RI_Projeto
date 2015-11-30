@@ -4,12 +4,9 @@
 	<field name = "PLACES">ecuador</field>
 	<field name = "PLACES">venezuela</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0049reute
-u f BC-ECUADOR-DEPUTY-MINIST   03-11 0116</field>
-	<field name = "TITLE">ECUADOR DEPUTY MINISTER SEEKS OIL AID IN VENEZUELA</field>
+	<field name = "titulo">ECUADOR DEPUTY MINISTER SEEKS OIL AID IN VENEZUELA</field>
 	<field name = "DATELINE">CARACAS, March 11 -</field>
-	<field name = "BODY">Ecuador's deputy energy minister
+	<field name = "content">Ecuador's deputy energy minister
 Fernando Santos Alvite arrived here last night for talks on
 further Venezuelan assistance to his country's oil industry
 following last week's earthquake, officials said.

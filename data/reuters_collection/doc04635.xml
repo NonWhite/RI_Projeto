@@ -3,12 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">L
-f0071reute
-r f BC-AUSTRALIAN-BEEF-OUTPU   03-13 0109</field>
-	<field name = "TITLE">AUSTRALIAN BEEF OUTPUT SEEN DECLINING IN 1987</field>
+	<field name = "titulo">AUSTRALIAN BEEF OUTPUT SEEN DECLINING IN 1987</field>
 	<field name = "DATELINE">SYDNEY, March 13 -</field>
-	<field name = "BODY">Australian beef output is forecast to
+	<field name = "content">Australian beef output is forecast to
 decline to 1.34 mln tonnes carcass weight in 1987 and 1.36 mln
 in 1988 from 1.44 mln in 1986, the Australian Meat and
 Live-Stock Corp (AMLC) said.

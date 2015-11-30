@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F
-f1377reute
-b f AM-COURT-OIL   03-24 0083</field>
-	<field name = "TITLE">U.S. COURT ALLOWS OFFSHORE ALASKAN EXPLORATION</field>
+	<field name = "titulo">U.S. COURT ALLOWS OFFSHORE ALASKAN EXPLORATION</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">A unanimous Supreme Court ruled that
+	<field name = "content">A unanimous Supreme Court ruled that
 oil and gas exploration can proceed on two tracts off the
 Alaska coast which were leased by the federal government to
 eight major oil companies.

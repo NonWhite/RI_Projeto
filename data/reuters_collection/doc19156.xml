@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 10:07:15.03</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E 
-f0929reute
-d f BC-CANADIAN-TAX-REFORM-C   06-19 0096</field>
-	<field name = "TITLE">CANADIAN TAX REFORM CALLED AN IMPORTANT STEP</field>
+	<field name = "titulo">CANADIAN TAX REFORM CALLED AN IMPORTANT STEP</field>
 	<field name = "AUTHOR">By Larry Welsh, Reuters</field>
 	<field name = "DATELINE">OTTAWA, June 18 -</field>
-	<field name = "BODY">Canada's sweeping tax reform package,
+	<field name = "content">Canada's sweeping tax reform package,
 announced today, is an important step towards a fairer system,
 but is not as bold a revamp of the tax structure as some had
 expected, economists and business leaders said.

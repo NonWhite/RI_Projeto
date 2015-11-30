@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 12:20:15.12</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f8569reute
-u f BC-FRANCE-ANNOUNCES-PLAN   03-18 0097</field>
-	<field name = "TITLE">FRANCE ANNOUNCES PLAN TO BOOST EMPLOYMENT</field>
+	<field name = "titulo">FRANCE ANNOUNCES PLAN TO BOOST EMPLOYMENT</field>
 	<field name = "DATELINE">PARIS, March 18 -</field>
-	<field name = "BODY">The government announced a three billion
+	<field name = "content">The government announced a three billion
 franc program to combat long-term unemployment amid speculation
 among political and economic analysts that it is positioning
 itself for a period of economic reflation.

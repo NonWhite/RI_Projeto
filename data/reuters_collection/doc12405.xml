@@ -5,12 +5,9 @@
 	<field name = "TOPICS">stg</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">lawson</field>
-	<field name = "UNKNOWN">RM
-f0181reute
-b f BC-U.K.-MONEY-RATES-HARD   04-02 0115</field>
-	<field name = "TITLE">U.K. MONEY RATES HARDEN ON LAWSON CURRENCY TARGETS</field>
+	<field name = "titulo">U.K. MONEY RATES HARDEN ON LAWSON CURRENCY TARGETS</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">Money market rates rates showed a harder
+	<field name = "content">Money market rates rates showed a harder
 edge after news U.K. Chancellor of the Exchequer Nigel Lawson
 has set a target for the pound against the mark and dollar, to
 be maintained by a mixture of interest rates and intervention

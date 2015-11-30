@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">italy</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">G T
-f2354reute
-d f BC-ITALY'S-FERRUZZI-TAKE   03-16 0107</field>
-	<field name = "TITLE">ITALY'S FERRUZZI TAKES OVER SPANISH MILL</field>
+	<field name = "titulo">ITALY'S FERRUZZI TAKES OVER SPANISH MILL</field>
 	<field name = "DATELINE">MADRID, March 16 -</field>
-	<field name = "BODY">Italy's Ferruzzi SpA has taken a 67 pct
+	<field name = "content">Italy's Ferruzzi SpA has taken a 67 pct
 stake in Spanish sunflower seed and cotton mill Cooperativa
 Agricola del Guadalete SA (GUADALCO), sources at GUADALCO said.
     The Italian firm's Spanish subsidiary, Ferruzzi Espana SA,

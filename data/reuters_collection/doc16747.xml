@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 22:42:11.20</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">RM
-f2906reute
-u f BC-CME-MEMBERS-REJECT-PE   04-13 0113</field>
-	<field name = "TITLE">CME MEMBERS REJECT PETITION TO BAN DUAL TRADING</field>
+	<field name = "titulo">CME MEMBERS REJECT PETITION TO BAN DUAL TRADING</field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">Members of the Chicago Mercantile
+	<field name = "content">Members of the Chicago Mercantile
 Exchange (CME) rejected a membership petition to ban dual
 trading in Standard and Poor's 500 stock index futures and
 options on futures, the exchange said.

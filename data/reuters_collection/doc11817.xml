@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 05:25:50.14</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0349reute
-r f BC-MARK-EUROBOND-ISSUES   04-01 0086</field>
-	<field name = "TITLE">MARK EUROBOND ISSUES FALL IN SECOND MARCH HALF</field>
+	<field name = "titulo">MARK EUROBOND ISSUES FALL IN SECOND MARCH HALF</field>
 	<field name = "DATELINE">FRANKFURT, April 1 -</field>
-	<field name = "BODY">The volume of mark eurobond issues
+	<field name = "content">The volume of mark eurobond issues
 fell in the period March 16 to 31 to 900 mln marks from 1.37
 billion in the period March 1 to 15, the Bundesbank said.
     Issues comprised three bonds, including two fixed-interest

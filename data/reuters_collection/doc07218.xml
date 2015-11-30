@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:59:36.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1458reute
-r f BC-TREASURY'S-CONROW-PES   03-19 0092</field>
-	<field name = "TITLE">TREASURY'S CONROW PESSIMISTIC ON MDB FUNDING</field>
+	<field name = "titulo">TREASURY'S CONROW PESSIMISTIC ON MDB FUNDING</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">Deputy Assistant Treasury Secretary
+	<field name = "content">Deputy Assistant Treasury Secretary
 James Conrow said he was exceedingly pessimistic that Congress
 will approve the Reagan administration's proposed 1988 funding
 for the multilateral development banks.

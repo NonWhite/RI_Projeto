@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 15:56:31.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0692reute
-r f BC-LEGISLATORS-COOL-TO-N   03-04 0086</field>
-	<field name = "TITLE">LEGISLATORS COOL TO NEW STOCK TAX IDEA</field>
+	<field name = "titulo">LEGISLATORS COOL TO NEW STOCK TAX IDEA</field>
 	<field name = "AUTHOR">By Jacqueline Frank, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">Key tax and budget lawmakers
+	<field name = "content">Key tax and budget lawmakers
 Wednesday expressed reservations about the suggested new
 securities tax, which has has aroused concern on Wall Street
 and put pressure on brokerage stocks.

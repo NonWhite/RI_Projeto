@@ -1,14 +1,12 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 04:56:39.64G C</field>
-	<field name = "UNKNOWN">f0275reute</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">u f BC-TAIWAN-BUYS-340,000-T   03-27 0106</field>
-	<field name = "TITLE">TAIWAN BUYS 340,000 TONNES OF U.S. MAIZE</field>
+	<field name = "titulo">TAIWAN BUYS 340,000 TONNES OF U.S. MAIZE</field>
 	<field name = "DATELINE">TAIPEI, March 27 -</field>
-	<field name = "BODY">The joint committee of Taiwan's maize
+	<field name = "content">The joint committee of Taiwan's maize
 importers awarded contracts to five U.S. Companies for seven
 shipments totalling 340,000 tonnes of maize for delivery
 between September 1 and December 20, a committee official said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 07:28:41.74</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0496reute
-u f BC-WEST-GERMAN-CAR-OUTPU   03-19 0107</field>
-	<field name = "TITLE">WEST GERMAN CAR OUTPUT RISES IN FEBRUARY</field>
+	<field name = "titulo">WEST GERMAN CAR OUTPUT RISES IN FEBRUARY</field>
 	<field name = "DATELINE">FRANKFURT, March 19 -</field>
-	<field name = "BODY">West German car and van production
+	<field name = "content">West German car and van production
 rose to 389,900 in February from 380,900 in February 1986, the
 German Automobile Industry Association VDA said in a statement.
     Production of trucks of up to six tonnes fell sharply to

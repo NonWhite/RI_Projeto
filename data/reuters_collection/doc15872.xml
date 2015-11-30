@@ -4,12 +4,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">miyazawa</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">V RM
-f2243reute
-b f BC-/MIYAZAWA-WARNS-ABOUT   04-09 0106</field>
-	<field name = "TITLE">MIYAZAWA WARNS ABOUT CURRENCY SHIFTS</field>
+	<field name = "titulo">MIYAZAWA WARNS ABOUT CURRENCY SHIFTS</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Japanese Finance Minister Kiichi
+	<field name = "content">Japanese Finance Minister Kiichi
 Miyazawa said that further substantial exchange rate shifts
 could damage the prospects for growth and adjustment and called
 for cooperation in exchange markets.

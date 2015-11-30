@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 11:59:04.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F E
-f2636reute
-d f BC-HITECH-ENGINEERING-T   03-16 0098</field>
-	<field name = "TITLE">HITECH ENGINEERING THEX> TO MAKE PROJECTOR</field>
+	<field name = "titulo">HITECH ENGINEERING THEX> TO MAKE PROJECTOR</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">Hitech Engineering Co said it agreed
+	<field name = "content">Hitech Engineering Co said it agreed
 to make a new version of (Electrohome Ltd's) large-screen video
 projector and to obtain certification for the projector on the
 Defense Department's preferred products list.

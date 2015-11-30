@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:16:16.76</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM 
-f1514reute
-b f BC-SALOMON-NOT-PULLING-O   10-19 0097</field>
-	<field name = "TITLE">SALOMON NOT PULLING OUT OF EUROYEN BONDS</field>
+	<field name = "titulo">SALOMON NOT PULLING OUT OF EUROYEN BONDS</field>
 	<field name = "DATELINE">LONDON, Oct 19 -</field>
-	<field name = "BODY">Salomon Brothers Inc> is not withdrawing
+	<field name = "content">Salomon Brothers Inc> is not withdrawing
 as a market maker in euroyen bonds, contrary to strong market
 rumours circulating in London, a London-based spokeswoman for
 the company's New York headquarters said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 07:00:47.67</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0508reute
-b f BC-ROWNTREE-ISSUES-CONVE   03-12 0106</field>
-	<field name = "TITLE">ROWNTREE ISSUES CONVERTIBLE EUROSTERLING BOND</field>
+	<field name = "titulo">ROWNTREE ISSUES CONVERTIBLE EUROSTERLING BOND</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">Rowntree Mackintosh Plc RWNT.L> is
+	<field name = "content">Rowntree Mackintosh Plc RWNT.L> is
 issuing a 55 mln stg eurobond due March 31, 2002, paying an
 indicated coupon of 4-1/2 pct to five pct and priced at par,
 lead manager J Henry Schroder Wagg and Co Ltd said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 08:38:10.55</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0727reute
-u f BC-DIXONS-GETS-ONLY-20-P   03-25 0086</field>
-	<field name = "TITLE">DIXONS GETS ONLY 20 PCT OF CYCLOPS CYL> IN BID</field>
+	<field name = "titulo">DIXONS GETS ONLY 20 PCT OF CYCLOPS CYL> IN BID</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Dixons Group PLC> said only about
+	<field name = "content">Dixons Group PLC> said only about
 852,000 shares of Cyclops Corp common stock, or 20 pct on a
 fully diluted basis, were tendered and not withdrawn under its
 bid for all shares that expired yesterday, but the companmy has

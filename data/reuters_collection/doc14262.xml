@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 12:10:47.31</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1490reute
-r f BC-ACME-PRECISION-ACL>   04-07 0095</field>
-	<field name = "TITLE">ACME PRECISION ACL> SETS HOLDER VOTE ON BUYOUT</field>
+	<field name = "titulo">ACME PRECISION ACL> SETS HOLDER VOTE ON BUYOUT</field>
 	<field name = "DATELINE">DETROIT, April 7 -</field>
-	<field name = "BODY">Acme Precision Products Inc said it set
+	<field name = "content">Acme Precision Products Inc said it set
 its annual meeting for May 14 for shareholders to vote on the
 proposed management-led leveraged buyout of the company.
     The record date for the meeting will be April 16, with

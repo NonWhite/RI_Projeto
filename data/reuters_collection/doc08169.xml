@@ -3,12 +3,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">luxembourg</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0401reute
-b f BC-TASMANIAN-PUBLIC-FINA   03-23 0087</field>
-	<field name = "TITLE">TASMANIAN PUBLIC FINANCE HAS AUSTRALIAN DLR BOND</field>
+	<field name = "titulo">TASMANIAN PUBLIC FINANCE HAS AUSTRALIAN DLR BOND</field>
 	<field name = "DATELINE">LONDON, March 23 -</field>
-	<field name = "BODY">The Tasmanian Public Finance Corp,
+	<field name = "content">The Tasmanian Public Finance Corp,
 guaranteed by the state of Tasmania, is issuing a 46 mln
 Australian dlr eurobond due April 23, 1992 paying 14-3/4 pct
 and priced at 101-1/8 pct, lead manager Deutsche Bank Capital

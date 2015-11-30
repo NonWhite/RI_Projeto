@@ -4,12 +4,9 @@
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">spain</field>
 	<field name = "PLACES">greece</field>
-	<field name = "UNKNOWN">G
-f0783reute
-u f BC-SESOSTRIS-SELLS-18,00   04-07 0056</field>
-	<field name = "TITLE">SESOSTRIS SELLS 18,000 TONNES BARLEY TO GREECE</field>
+	<field name = "titulo">SESOSTRIS SELLS 18,000 TONNES BARLEY TO GREECE</field>
 	<field name = "DATELINE">MADRID, April 7 -</field>
-	<field name = "BODY">Sesostris, the Spanish subsidiary of the
+	<field name = "content">Sesostris, the Spanish subsidiary of the
 international grain trader Dreyfus, sold 18,000 tonnes of
 barley to Greece for delivery from Mediterranean ports from
 April 14 to 30, a company spokesman said. He gave no details on

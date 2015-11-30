@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 09:18:36.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1959reute
-u f BC-spectra-spct>-test-o   03-16 0110</field>
-	<field name = "TITLE">SPECTRA SPCT> TESTS OF NEW DRUG NOT ENCOURAGING</field>
+	<field name = "titulo">SPECTRA SPCT> TESTS OF NEW DRUG NOT ENCOURAGING</field>
 	<field name = "DATELINE">HANOVER, Mass., March 16 -</field>
-	<field name = "BODY">Spectra Pharmaceutical Services
+	<field name = "content">Spectra Pharmaceutical Services
 Inc said current clinical studies of its proposed dry eye drug
 Tretinoin have not produced encouraging results based on
 preliminary indications.

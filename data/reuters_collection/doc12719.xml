@@ -6,13 +6,10 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2650reute
-d f BC-U.S.-ACREAGE-CUTS-SEE   04-02 0135</field>
-	<field name = "TITLE">U.S. ACREAGE CUTS SEEN LIMITING STOCK BUILD</field>
+	<field name = "titulo">U.S. ACREAGE CUTS SEEN LIMITING STOCK BUILD</field>
 	<field name = "AUTHOR">By Maggie McNeil, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">Sharp cuts this year in U.S. planted
+	<field name = "content">Sharp cuts this year in U.S. planted
 acreage may not make a big dent in the U.S. grain stockpile but
 will at least keep grain surpluses from increasing, Agriculture
 Department and industry commodity analysts said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 15:54:04.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2404reute
-h f BC-KANSAS-POWER/LIGHT-K   04-08 0048</field>
-	<field name = "TITLE">KANSAS POWER/LIGHT KAN> NAMES CHIEF EXECUTIVE</field>
+	<field name = "titulo">KANSAS POWER/LIGHT KAN> NAMES CHIEF EXECUTIVE</field>
 	<field name = "DATELINE">TOPEKA, KAN., April 8 -</field>
-	<field name = "BODY">Kansas Power and Light Co said it
+	<field name = "content">Kansas Power and Light Co said it
 named David Black as chief executive officer. It said he will
 succeed William Wall after the May Five annual meeting.
     It said Black is the company's senior vice president, law.

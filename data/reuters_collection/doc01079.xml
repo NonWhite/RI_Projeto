@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 11:07:09.72</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0702reute
-r f BC-LSB-INDUSTRIES-INC-L   03-03 0063</field>
-	<field name = "TITLE">LSB INDUSTRIES INC LSB> 4TH QTR NET</field>
+	<field name = "titulo">LSB INDUSTRIES INC LSB> 4TH QTR NET</field>
 	<field name = "DATELINE">Oklahoma City, March 3 -</field>
-	<field name = "BODY">Shr profit five cts vs loss 2.11 dlrs
+	<field name = "content">Shr profit five cts vs loss 2.11 dlrs
     Net profit 375,061 vs loss 10.4 mln
     Revs 39.9 mln vs 37.8 mln
     Avg shrs 6,536,008 vs 4,939,895

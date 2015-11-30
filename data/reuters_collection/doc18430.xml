@@ -4,12 +4,9 @@
 	<field name = "TOPICS">rapeseed</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">G
-f0098reute
-u f BC-JAPAN-BUYS-50,000-TON   06-16 0105</field>
-	<field name = "TITLE">JAPAN BUYS 50,000 TONNES OF CANADIAN RAPESEED</field>
+	<field name = "titulo">JAPAN BUYS 50,000 TONNES OF CANADIAN RAPESEED</field>
 	<field name = "DATELINE">TOKYO, June 16 -</field>
-	<field name = "BODY">Japanese crushers have so far bought
+	<field name = "content">Japanese crushers have so far bought
 50,000 tonnes of Canadian rapeseed for shipment in late
 July/August and total purchases for the period are likely to be
 around 130,000 tonnes, trade sources said.

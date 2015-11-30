@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 12:09:34.05</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM 
-f1442reute
-u f BC-S.-AFRICA-CITICORP-ST   06-19 0110</field>
-	<field name = "TITLE">S. AFRICA CITICORP STAFF CHALLENGE DISINVESTMENT</field>
+	<field name = "titulo">S. AFRICA CITICORP STAFF CHALLENGE DISINVESTMENT</field>
 	<field name = "DATELINE">JOHANNESBURG, June 19 -</field>
-	<field name = "BODY">South African staff of the U.S.
+	<field name = "content">South African staff of the U.S.
 Bank Citicorp CCI> said they will challenge its plans to sell
 local operations and withdraw from the country.
     Employees said they had written to Citicorp chief executive

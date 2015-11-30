@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 13:29:04.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1858reute
-d f BC-CYTOGEN-CYTO>-TO-EXP   03-19 0086</field>
-	<field name = "TITLE">CYTOGEN CYTO> TO EXPAND IMAGING TESTS</field>
+	<field name = "titulo">CYTOGEN CYTO> TO EXPAND IMAGING TESTS</field>
 	<field name = "DATELINE">PRINCETON, N.J., March 19 -</field>
-	<field name = "BODY">Cytogen Corp said its will
+	<field name = "content">Cytogen Corp said its will
 expand clinical trials of its cancer imaging technology. It
 said the new studies were anticipated to begin by mid year.
     It said the first phase of human testing begain in October.

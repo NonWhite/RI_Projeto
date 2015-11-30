@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 12:13:05.87</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F
-f1654reute
-d f BC-DUTCH-CHEMICAL-FIRM-D   04-08 0093</field>
-	<field name = "TITLE">DUTCH CHEMICAL FIRM DSM TO BE PRIVATISED</field>
+	<field name = "titulo">DUTCH CHEMICAL FIRM DSM TO BE PRIVATISED</field>
 	<field name = "DATELINE">HEERLEN, Netherlands, April 8 -</field>
-	<field name = "BODY">Dutch state-owned chemical
+	<field name = "content">Dutch state-owned chemical
 firm NV DSM DSMN.AS>, the former Dutch state mines, which
 today reported a 2.5 pct increase in 1986 net profit to 412 mln
 guilders, said it was poised to be privatised, possibly next

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 09:07:16.73</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0923reute
-u f BC-SHEARSON-LEHMAN   10-20 0058</field>
-	<field name = "TITLE">SHEARSON LEHMAN BROTHERS HOLDINGS SHE> 3RD QTR</field>
+	<field name = "titulo">SHEARSON LEHMAN BROTHERS HOLDINGS SHE> 3RD QTR</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Shr 51 cts
+	<field name = "content">Shr 51 cts
     Net 51 mln dlrs vs 65 mln dlrs
     Revs 1.3 billion vs 1.1 billion
     Nine mths

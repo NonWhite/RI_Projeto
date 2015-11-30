@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">V RM
-f2842reute
-b f BC-TREASURY'S-BAKER-CALL   04-09 0092</field>
-	<field name = "TITLE">TREASURY'S BAKER CALLS FOR MORE BANK FLEXIBILITY</field>
+	<field name = "titulo">TREASURY'S BAKER CALLS FOR MORE BANK FLEXIBILITY</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 that commercial banks need to develop more flexibility in their
 concerted lending mechanisms "to help assure continued
 participation in new money packages."

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 09:56:11.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1058reute
-r f BC-VISHAY-VSH>-COMPLETE   03-26 0084</field>
-	<field name = "TITLE">VISHAY VSH> COMPLETES EXCHANGE OFFER</field>
+	<field name = "titulo">VISHAY VSH> COMPLETES EXCHANGE OFFER</field>
 	<field name = "DATELINE">MALVERN, Pa., March 26 -</field>
-	<field name = "BODY">Vishay Intertechnology Inc said it
+	<field name = "content">Vishay Intertechnology Inc said it
 has received a total of 2,362,616 common shares in response to
 its offer to exchange Class B shares for common shares, and all
 common shares received were accepted.

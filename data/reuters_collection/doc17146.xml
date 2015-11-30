@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f1965reute
-r f BC-BANK-OF-FINLAND-EASES   04-24 0102</field>
-	<field name = "TITLE">BANK OF FINLAND EASES REFERENCE RATE RESTRICTIONS</field>
+	<field name = "titulo">BANK OF FINLAND EASES REFERENCE RATE RESTRICTIONS</field>
 	<field name = "DATELINE">HELSINKI, April 24 -</field>
-	<field name = "BODY">The Bank of Finland said it was
+	<field name = "content">The Bank of Finland said it was
 reducing restrictions on the use of money market rates as
 reference rates for loans.
     The Bank would start quoting money market rates referred to

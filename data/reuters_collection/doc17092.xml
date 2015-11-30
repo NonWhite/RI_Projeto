@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1014reute
-r f BC-CONSOLIDATED-GAS-CNG   04-24 0094</field>
-	<field name = "TITLE">CONSOLIDATED GAS CNG>HIGH BIDDER ON GULF TRACTS</field>
+	<field name = "titulo">CONSOLIDATED GAS CNG>HIGH BIDDER ON GULF TRACTS</field>
 	<field name = "DATELINE">PITTSBURGH, April 24 -</field>
-	<field name = "BODY">Consolidated Natural Gas Co said its
+	<field name = "content">Consolidated Natural Gas Co said its
 CNG Producing Co subsidiary, bidding alone or with partners,
 was the apparent high bidder on six of seven tracts it south at
 Wednesday's sale of federal oil and gas leases in the Gulf of

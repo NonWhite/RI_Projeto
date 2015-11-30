@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 12:55:16.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2164reute
-h f BC-OAKWOOD-HOMES-OH>-BE   10-20 0062</field>
-	<field name = "TITLE">OAKWOOD HOMES OH> BEGINS STOCK REPURCHASE</field>
+	<field name = "titulo">OAKWOOD HOMES OH> BEGINS STOCK REPURCHASE</field>
 	<field name = "DATELINE">GREENSBORO, N.C., Oct 20 -</field>
-	<field name = "BODY">Oakwood Homes Corp said it was
+	<field name = "content">Oakwood Homes Corp said it was
 beginning a stock repurchase program under which it may
 purchase up to 400,000 shares, or about seven pct, of its
 common stock.

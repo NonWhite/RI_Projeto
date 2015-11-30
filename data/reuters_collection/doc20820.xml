@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 18:40:25.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3552reute
-s f BC-SUPER-VALU-STORES-INC   10-20 0024</field>
-	<field name = "TITLE">SUPER VALU STORES INC SVU> SETS REG DIV</field>
+	<field name = "titulo">SUPER VALU STORES INC SVU> SETS REG DIV</field>
 	<field name = "DATELINE">MINNEAPOLIS, Oct 20 -</field>
-	<field name = "BODY">Qtly div 11 cts vs 11 cts prior
+	<field name = "content">Qtly div 11 cts vs 11 cts prior
     Pay December 15
     Record December 1
  Reuter</field>

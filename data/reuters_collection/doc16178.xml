@@ -3,12 +3,9 @@
 	<field name = "TOPICS">alum</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lme</field>
-	<field name = "UNKNOWN">C M
-f0515reute
-u f BC-LME-CLARIFIES-NEW-ALU   04-13 0112</field>
-	<field name = "TITLE">LME CLARIFIES NEW ALUMINIUM CONTRACT DETAILS</field>
+	<field name = "titulo">LME CLARIFIES NEW ALUMINIUM CONTRACT DETAILS</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">The London Metal Exchange (LME) has
+	<field name = "content">The London Metal Exchange (LME) has
 issued a note clarifying details on its new high grade
 aluminium contract, in response to questions from members
 following the announcement of the contract, due to start June

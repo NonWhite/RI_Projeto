@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 17:12:38.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f0649reute
-u f AM-DUBERSTEIN-TO-BE-DEPU   03-12 0092</field>
-	<field name = "TITLE">DUBERSTEIN TO BE DEPUTY WHITE HOUSE CHIEF/STAFF</field>
+	<field name = "titulo">DUBERSTEIN TO BE DEPUTY WHITE HOUSE CHIEF/STAFF</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">Former White House aide Kenneth
+	<field name = "content">Former White House aide Kenneth
 Duberstein has been chosen to be President Reagan's deputy
 chief of staff, administration officials said.
     Duberstein, who is now a Washington lobbyist, previously

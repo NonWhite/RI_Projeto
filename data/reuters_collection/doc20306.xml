@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 11:11:41.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1530reute
-r f BC-IBM-IBM>-ANNOUNCES-P   10-20 0112</field>
-	<field name = "TITLE">IBM IBM> ANNOUNCES PRICE CHANGES FOR SYSTEM/38</field>
+	<field name = "titulo">IBM IBM> ANNOUNCES PRICE CHANGES FOR SYSTEM/38</field>
 	<field name = "DATELINE">RYE BROOK, N.Y., Oct 20 -</field>
-	<field name = "BODY">International Business Machines
+	<field name = "content">International Business Machines
 Corp said it announced a series of price actions relating to
 its System/38 line of computers.
     The company said it introduced price reductions ranging

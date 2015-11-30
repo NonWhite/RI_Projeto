@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 11:40:29.99</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f1393reute
-d f BC-AMEX-APPROVES-LISTING   03-19 0051</field>
-	<field name = "TITLE">AMEX APPROVES LISTING OF LANDMARK LCO></field>
+	<field name = "titulo">AMEX APPROVES LISTING OF LANDMARK LCO></field>
 	<field name = "DATELINE">ATLANTA, Ga, March 19 -</field>
-	<field name = "BODY">The American Stock Exchange said it
+	<field name = "content">The American Stock Exchange said it
 has approved the listing of 12.3 mln common shares of Landmark
 Technology Corp.
     Trading of the shares will begin Friday, March 20. The

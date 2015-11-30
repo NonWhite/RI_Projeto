@@ -3,12 +3,9 @@
 	<field name = "TOPICS">carcass</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0417reute
-r f BC-OCCIDENTAL-UNIT-OXY>   03-12 0102</field>
-	<field name = "TITLE">OCCIDENTAL UNIT OXY> LIFTS LOCKOUT</field>
+	<field name = "titulo">OCCIDENTAL UNIT OXY> LIFTS LOCKOUT</field>
 	<field name = "DATELINE">CHICAGO, March 12 -</field>
-	<field name = "BODY">Iowa Beef Processors Inc is lifting a
+	<field name = "content">Iowa Beef Processors Inc is lifting a
 lockout at its Dakota City, Nebraska processing plant and plans
 to resume operations March 16, United Food and Commercial
 Workers Union spokesman Allen Zack said by phone from his

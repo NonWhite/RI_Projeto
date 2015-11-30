@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 14:36:05.43</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f2094reute
-r f BC-REUTERS-LAUNCHES-VIDE   04-09 0106</field>
-	<field name = "TITLE">REUTERS LAUNCHES VIDEOTEXT SERVICE IN U.K.</field>
+	<field name = "titulo">REUTERS LAUNCHES VIDEOTEXT SERVICE IN U.K.</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Reuters Holdings Plc RTRS.L> said it has
+	<field name = "content">Reuters Holdings Plc RTRS.L> said it has
 launched its colour videotext service, Reuter News-Watch, in
 Britain to service the customers of hotels, restaurants,
 airports and banks.

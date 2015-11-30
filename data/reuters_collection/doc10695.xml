@@ -11,13 +11,10 @@
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">RM
-f0141reute
-u f BC-H.K.-DEALERS-SAY-NAKA   03-30 0095</field>
-	<field name = "TITLE">H.K. DEALERS SAY NAKASONE G-6 COMMENT TOO LATE</field>
+	<field name = "titulo">H.K. DEALERS SAY NAKASONE G-6 COMMENT TOO LATE</field>
 	<field name = "AUTHOR">By Joshua So, Reuters</field>
 	<field name = "DATELINE">HONG KONG, March 30 -</field>
-	<field name = "BODY">Remarks by Japan's Prime Minister
+	<field name = "content">Remarks by Japan's Prime Minister
 Yasuhiro Nakasone that last month's G-6 meeting agreed to
 stabilize the dollar above 150 yen have come too late to
 influence currency trading, dealers said.

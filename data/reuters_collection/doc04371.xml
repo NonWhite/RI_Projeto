@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 13:26:52.71</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0932reute
-r f BC-VOLT-INFORMATION-SCIE   03-12 0084</field>
-	<field name = "TITLE">VOLT INFORMATION SCIENCES INC VOLT> 1ST QTR</field>
+	<field name = "titulo">VOLT INFORMATION SCIENCES INC VOLT> 1ST QTR</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Shr 12 cts vs seven cts
+	<field name = "content">Shr 12 cts vs seven cts
     Net 817,000 vs 512,000
     Revs 107.5 mln vs 99.9 mln
     Avg 6.9 mln vs 7.2 mln

@@ -2,13 +2,10 @@
 	<field name = "DATE">9-APR-1987 04:20:25.68</field>
 	<field name = "PLACES">china</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">RM
-f0166reute
-u f BC-CHINA-LIKELY-TO-JOIN   04-09 0105</field>
-	<field name = "TITLE">CHINA LIKELY TO JOIN GATT, DIPLOMATS SAY</field>
+	<field name = "titulo">CHINA LIKELY TO JOIN GATT, DIPLOMATS SAY</field>
 	<field name = "AUTHOR">By Mark O'Neill, Reuters</field>
 	<field name = "DATELINE">PEKING, April 9 -</field>
-	<field name = "BODY">China is likely to succeed in joining
+	<field name = "content">China is likely to succeed in joining
 GATT despite policies that contradict free trade, because
 western countries support its entry, western diplomats said.
     China applied to join the General Agreement on Tariffs and

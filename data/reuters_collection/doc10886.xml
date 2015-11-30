@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f1679reute
-u f BC-ALLEGHENY-INTERNATION   03-30 0063</field>
-	<field name = "TITLE">ALLEGHENY INTERNATIONAL AG> SELLS WILKINSON</field>
+	<field name = "titulo">ALLEGHENY INTERNATIONAL AG> SELLS WILKINSON</field>
 	<field name = "DATELINE">PITTSBURGH, March 30 -</field>
-	<field name = "BODY">Allegheny International Inc said it
+	<field name = "content">Allegheny International Inc said it
 sold its Wilkinson Sword Consumer Group to the Swedish Match
 Co> of Stockholm for for 230 mln dlrs.
     After settlement of intercompany transactions between the

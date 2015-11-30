@@ -2,13 +2,10 @@
 	<field name = "DATE">5-MAR-1987 12:49:46.69</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0056reute
-u f BC-/FEBRUARY-U.S.-RETAIL   03-05 0088</field>
-	<field name = "TITLE">FEBRUARY U.S. RETAIL SALES NOT SIGN OF UPTURN</field>
+	<field name = "titulo">FEBRUARY U.S. RETAIL SALES NOT SIGN OF UPTURN</field>
 	<field name = "AUTHOR">BY SUSAN ZEIDLER, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">U.S. retailers posted stronger than
+	<field name = "content">U.S. retailers posted stronger than
 expected sales in February, but not enough to prompt analysts
 to change their expectations of sluggish sales growth for the
 first half of 1987.

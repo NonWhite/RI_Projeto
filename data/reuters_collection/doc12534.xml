@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 09:39:45.38</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0972reute
-r f BC-bellcanada   04-02 0109</field>
-	<field name = "TITLE">BELL CANADA BCE> UNIT SETS OFFERING TERMS</field>
+	<field name = "titulo">BELL CANADA BCE> UNIT SETS OFFERING TERMS</field>
 	<field name = "DATELINE">VANCOUVER, April 2 -</field>
-	<field name = "BODY">BCE Development Corp>, about 69 pct
+	<field name = "content">BCE Development Corp>, about 69 pct
 owned by Bell Canada Enterprises Inc, said its previously
 announced offering of preferred shares will total 90 mln dlrs,
 with shares priced at 25 dlrs each.

@@ -5,13 +5,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">V RM
-f2474reute
-r f BC-DOLLAR-EXPECTED-TO-FA   03-24 0108</field>
-	<field name = "TITLE">DOLLAR EXPECTED TO FALL DESPITE INTERVENTION</field>
+	<field name = "titulo">DOLLAR EXPECTED TO FALL DESPITE INTERVENTION</field>
 	<field name = "AUTHOR">By Claire Miller, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Central bank intervention in the
+	<field name = "content">Central bank intervention in the
 foreign exchange markets succeeded in staunching the dollar's
 losses today, but senior dealers here believe the U.S. currency
 is headed for a further retreat.

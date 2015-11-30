@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0035reute
-r f BC-MOBIL-MOB>-CAPITAL-E   03-13 0100</field>
-	<field name = "TITLE">MOBIL MOB> CAPITAL EXPENDITURES LOWER IN 1987</field>
+	<field name = "titulo">MOBIL MOB> CAPITAL EXPENDITURES LOWER IN 1987</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">Mobil Corp chairman Allen E. Murray
+	<field name = "content">Mobil Corp chairman Allen E. Murray
 said in the annual report issued today that the company's total
 1987 capital expenditures would be lower than the three
 billion dlrs spent in 1986.

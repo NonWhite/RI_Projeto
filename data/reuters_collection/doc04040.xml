@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 22:25:49.20</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">F
-f0040reute
-u f BC-CHINA-CLOSES-SECOND-R   03-11 0112</field>
-	<field name = "TITLE">CHINA CLOSES SECOND ROUND OF OFFSHORE OIL BIDS</field>
+	<field name = "titulo">CHINA CLOSES SECOND ROUND OF OFFSHORE OIL BIDS</field>
 	<field name = "DATELINE">PEKING, March 12 -</field>
-	<field name = "BODY">China has closed the second round of
+	<field name = "content">China has closed the second round of
 bidding by foreign firms for offshore oil exploration rights,
 the China Daily has reported.
     It quoted a spokesman for the China National Offshore Oil

@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 06:33:04.00</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM
-f0516reute
-r f BC-ASIAN-DOLLAR-MARKET-A   03-30 0103</field>
-	<field name = "TITLE">ASIAN DOLLAR MARKET ASSETS FALL IN JANUARY</field>
+	<field name = "titulo">ASIAN DOLLAR MARKET ASSETS FALL IN JANUARY</field>
 	<field name = "DATELINE">SINGAPORE, March 30 -</field>
-	<field name = "BODY">The gross size of the Asian dollar
+	<field name = "content">The gross size of the Asian dollar
 market contracted to 197.2 billion U.S. Dlrs in January, down
 3.4 billion dlrs from December, reflecting a decline in
 interbank activity, the Monetary Authority of Singapore (MAS)

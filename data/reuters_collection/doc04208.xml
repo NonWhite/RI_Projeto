@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">Y
-f0022reute
-u f BC-VAN-OMMEREN-ACQUIRES   03-12 0085</field>
-	<field name = "TITLE">VAN OMMEREN ACQUIRES DUTCH GAS CONTAINER UNIT</field>
+	<field name = "titulo">VAN OMMEREN ACQUIRES DUTCH GAS CONTAINER UNIT</field>
 	<field name = "DATELINE">ROTTERDAM, March 12 -</field>
-	<field name = "BODY">Dutch shipping and transport group
+	<field name = "content">Dutch shipping and transport group
 PHS Van Ommeren NV OMMN.AS> said it has taken over a small
 Dutch gas container firm as a first step in establishing a
 world-wide gas container organisation.

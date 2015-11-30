@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 17:11:14.29</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V RM
-f0448reute
-u f BC-/JAPAN-SAYS-IT-IS-DIS   04-17 0108</field>
-	<field name = "TITLE">JAPAN SAYS IT IS DISAPPOINTED WITH TARIFFS</field>
+	<field name = "titulo">JAPAN SAYS IT IS DISAPPOINTED WITH TARIFFS</field>
 	<field name = "DATELINE">WASHINGTON, April 17 -</field>
-	<field name = "BODY">The Japanese Embassy said in a
+	<field name = "content">The Japanese Embassy said in a
 statement it was "deeply disappointed" by the tariffs announced
 by President Reagan in retaliation for Japan's not honoring its
 semiconductor agreement with the United States.

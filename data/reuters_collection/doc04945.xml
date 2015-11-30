@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 13:55:44.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f0009reute
-d f BC-U.S.-FARM-LOAN-SECOND   03-13 0142</field>
-	<field name = "TITLE">U.S. FARM LOAN SECONDARY MARKET GAINS SUPPORT</field>
+	<field name = "titulo">U.S. FARM LOAN SECONDARY MARKET GAINS SUPPORT</field>
 	<field name = "AUTHOR">By Greg McCune, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">A secondary market for resale of
+	<field name = "content">A secondary market for resale of
 farm real estate loans similar to markets on home mortgages is
 gaining support in Congress and among rural lenders and could
 be set up this year, Congressional and financial sources said.

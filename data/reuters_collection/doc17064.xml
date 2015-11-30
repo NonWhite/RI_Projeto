@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0471reute
-b f BC-NO-SWISS-NATIONAL-BAN   04-24 0094</field>
-	<field name = "TITLE">NO SWISS NATIONAL BANK INTERVENTION SEEN</field>
+	<field name = "titulo">NO SWISS NATIONAL BANK INTERVENTION SEEN</field>
 	<field name = "DATELINE">ZURICH, April 24 -</field>
-	<field name = "BODY">A Swiss National Bank spokesman said the
+	<field name = "content">A Swiss National Bank spokesman said the
 bank had not intervened in currency markets today and dealers
 said they had seen no evidence of Bundesbank action outside
 West Germany.

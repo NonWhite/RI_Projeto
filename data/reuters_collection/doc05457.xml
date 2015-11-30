@@ -4,12 +4,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">A
-f2640reute
-d f BC-BRAZIL-SAYS-DEBT-CRIS   03-16 0115</field>
-	<field name = "TITLE">BRAZIL SAYS DEBT CRISIS IS WORLD PROBLEM</field>
+	<field name = "titulo">BRAZIL SAYS DEBT CRISIS IS WORLD PROBLEM</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 16 -</field>
-	<field name = "BODY">Brazilian Finance Minister
+	<field name = "content">Brazilian Finance Minister
 Dilson Funaro said his country's foreign debt crisis could only
 be solved by changes in the international financial system.
     Speaking to a business conference he said "It is not Brazil

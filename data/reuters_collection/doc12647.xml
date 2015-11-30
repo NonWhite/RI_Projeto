@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f1762reute
-d f BC-SWEDEN-OKAYS-CYTRX-C   04-02 0042</field>
-	<field name = "TITLE">SWEDEN OKAYS CYTRX CYTR> BIOPOOL ACQUISITION</field>
+	<field name = "titulo">SWEDEN OKAYS CYTRX CYTR> BIOPOOL ACQUISITION</field>
 	<field name = "DATELINE">ATLANTA, April 2 -</field>
-	<field name = "BODY">CytRx Corp said the Swedish authorites
+	<field name = "content">CytRx Corp said the Swedish authorites
 and the Bank of Sweden approved its acquisition of Biopool AB
 of Sweden through a 60 pct owned Delaware corporate subsidiary,
 CytRx Biopool Ltd.

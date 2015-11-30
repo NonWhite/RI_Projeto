@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 13:09:57.13</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f1974reute
-b f BC-FED'S-HELLER-URGES-BR   03-26 0091</field>
-	<field name = "TITLE">FED'S HELLER URGES BROAD REFORM TO AID BANKING</field>
+	<field name = "titulo">FED'S HELLER URGES BROAD REFORM TO AID BANKING</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">Federal Reserve Board Governor
+	<field name = "content">Federal Reserve Board Governor
 Robert Heller said the banking system could be strengthened by
 permitting formation of financial services holding companies
 involved in areas like banking, insurance, real estate and

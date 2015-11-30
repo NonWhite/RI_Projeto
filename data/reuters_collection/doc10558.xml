@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:57:47.05C</field>
-	<field name = "UNKNOWN">f1737reute</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">biffex</field>
-	<field name = "UNKNOWN">r f BC-BIFFEX-LOOKING-TO-JOI   03-27 0111</field>
-	<field name = "TITLE">BIFFEX LOOKING TO JOIN NEW FUTURES EXCHANGE</field>
+	<field name = "titulo">BIFFEX LOOKING TO JOIN NEW FUTURES EXCHANGE</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">The Baltic International Freight Futures
+	<field name = "content">The Baltic International Freight Futures
 Exchange (BIFFEX) said it agreed to pursue negotiations with
 other futures markets on the Baltic Exchange with a view to
 merging into a new futures exchange.

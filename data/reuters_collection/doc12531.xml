@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 09:34:34.57</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0955reute
-b f BC-/ELI-LILLY-LLY>-TO-S   04-02 0085</field>
-	<field name = "TITLE">ELI LILLY LLY> TO SELL ELIZABETH ARDEN UNIT</field>
+	<field name = "titulo">ELI LILLY LLY> TO SELL ELIZABETH ARDEN UNIT</field>
 	<field name = "DATELINE">INDIANAPOLIS, April 2 -</field>
-	<field name = "BODY">Eli Lilly and Co said its board
+	<field name = "content">Eli Lilly and Co said its board
 decided to sell Elizabeth Arden Inc, a wholly owned subsidiary
 that manufactures and markets cosmetics and fine fragrance
 products.

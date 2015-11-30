@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 14:12:30.58</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f9032reute
-r f BC-CONSOLIDATED-NATURAL   03-18 0072</field>
-	<field name = "TITLE">CONSOLIDATED NATURAL CNG> FORMS TRADING UNIT</field>
+	<field name = "titulo">CONSOLIDATED NATURAL CNG> FORMS TRADING UNIT</field>
 	<field name = "DATELINE">PITTSBURGH, March 18 -</field>
-	<field name = "BODY">Consolidated Natural Gas Co said it
+	<field name = "content">Consolidated Natural Gas Co said it
 has received Securities and Exchange Commission approval to
 establish a wholly-owned natural gas marketing subsidiary
 called CNG Trading Co.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 18:51:10.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2900reute
-u f BC-SEC   06-02 0110</field>
-	<field name = "TITLE">SEC SAYS COMPANY INFLATED 1982/83 INCOME</field>
+	<field name = "titulo">SEC SAYS COMPANY INFLATED 1982/83 INCOME</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">The Securities and Exchange Commission
+	<field name = "content">The Securities and Exchange Commission
 charged Windsor Holding Co, a Chicago-based lamp and ceiling
 fan maker, with fraudulently overstating its 1982 and 1983
 pre-tax income by a total of 3.6 mln dlrs.

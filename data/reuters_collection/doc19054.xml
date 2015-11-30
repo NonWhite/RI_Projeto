@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">G 
-f0241reute
-u f BC-BANGLADESH-NAVY-UNLOA   06-19 0100</field>
-	<field name = "TITLE">BANGLADESH NAVY UNLOADS GRAINS DURING PORT STRIKE</field>
+	<field name = "titulo">BANGLADESH NAVY UNLOADS GRAINS DURING PORT STRIKE</field>
 	<field name = "DATELINE">CHITTAGONG, Bangladesh, June 19 -</field>
-	<field name = "BODY">The navy is unloading
+	<field name = "content">The navy is unloading
 foodgrains at Chittagong port following a strike by nearly
 1,000 dockworkers, Bangladesh Shipping Corp officials said.
     The navy was unloading 74,000 tonnes of foodgrains from two

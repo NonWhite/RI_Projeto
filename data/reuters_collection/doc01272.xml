@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0735reute
-b f BC-ussr-export-sale   03-03 0049</field>
-	<field name = "TITLE">USDA REPORTS CORN SOLD SOLD TO UNKNOWN</field>
+	<field name = "titulo">USDA REPORTS CORN SOLD SOLD TO UNKNOWN</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">The U.S. Agriculture Department said
+	<field name = "content">The U.S. Agriculture Department said
 private U.S. exporters reported sales of 104,000 tonnes of corn
 to unknown destinations for shipment in the 1986/87 marketing
 year.

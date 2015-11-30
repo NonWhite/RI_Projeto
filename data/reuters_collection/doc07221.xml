@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 12:03:38.22</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f1479reute
-u f BC-FRENCH-INSTITUTE-PESS   03-19 0105</field>
-	<field name = "TITLE">FRENCH INSTITUTE PESSIMISTIC ON 1987 GROWTH</field>
+	<field name = "titulo">FRENCH INSTITUTE PESSIMISTIC ON 1987 GROWTH</field>
 	<field name = "DATELINE">PARIS, March 19 -</field>
-	<field name = "BODY">French gross domestic product will grow
+	<field name = "content">French gross domestic product will grow
 by only 1.5 pct in real terms this year, compared with the
 government's forecast of two to 2.5 pct growth, the private
 Institut des Previsions Economiques et Financieres pour le

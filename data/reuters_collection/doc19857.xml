@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 15:29:38.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2316reute
-r f BC-MICRO-GENERAL-CORP-M   06-29 0085</field>
-	<field name = "TITLE">MICRO GENERAL CORP MGEN.O> COMPLETES OFFER</field>
+	<field name = "titulo">MICRO GENERAL CORP MGEN.O> COMPLETES OFFER</field>
 	<field name = "DATELINE">IRVINE, Calif, June 29 -</field>
-	<field name = "BODY">Micro General Corp said it has
+	<field name = "content">Micro General Corp said it has
 completed a 1.5-mln-dlr equity offering of 1.2 mln units, each
 consisting of two shares of common stock and one common stock
 purchase warrant.

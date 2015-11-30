@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">C G
-f0597reute
-u f BC-U.S.-CORN-DEMAND-GROW   03-11 0134</field>
-	<field name = "TITLE">U.S. CORN DEMAND GROWING IN JAPAN, SOUTH KOREA</field>
+	<field name = "titulo">U.S. CORN DEMAND GROWING IN JAPAN, SOUTH KOREA</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">The recent purchase of 1.5 mln
+	<field name = "content">The recent purchase of 1.5 mln
 tonnes of U.S. corn by Japan and 600,000 tonnes by South Korea
 suggests that the two countries' demand for reliable supplies
 of corn is increasing, the U.S. Agriculture Department said.

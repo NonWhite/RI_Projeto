@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 06:38:22.46</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0488reute
-b f BC-GUS-MAKES-8.2-MLN-STG   03-12 0063</field>
-	<field name = "TITLE">GUS MAKES 8.2 MLN STG AGREED OFFER FOR PANTHERELLA</field>
+	<field name = "titulo">GUS MAKES 8.2 MLN STG AGREED OFFER FOR PANTHERELLA</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">Great Universal Stores Plc GUS.L> said
+	<field name = "content">Great Universal Stores Plc GUS.L> said
 it has made an agreed offer for Pantherella Plc>, valuing the
 company at 8.2 mln stg and each Pantherella ordinary share at
 205 pence.

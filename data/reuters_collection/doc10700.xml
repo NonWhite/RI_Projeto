@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">G C
-f0189reute
-u f BC-JAPAN-ACTIVELY-BOUGHT   03-30 0113</field>
-	<field name = "TITLE">JAPAN ACTIVELY BOUGHT U.S. CORN LAST WEEK - TRADE</field>
+	<field name = "titulo">JAPAN ACTIVELY BOUGHT U.S. CORN LAST WEEK - TRADE</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">Japanese feed and starch makers actively
+	<field name = "content">Japanese feed and starch makers actively
 bought U.S. Corn last week, C and F basis, for July/September
 shipment in view of bullish freight rates following active
 inquiries by the Soviet Union, trade sources said.

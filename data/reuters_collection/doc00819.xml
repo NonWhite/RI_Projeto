@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 17:26:06.03</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0211
-reute
-r f BC-ARMTEK-ARM>-TO-SELL   03-02 0095</field>
-	<field name = "TITLE">ARMTEK ARM> TO SELL INDUSTRIAL TIRE UNIT</field>
+	<field name = "titulo">ARMTEK ARM> TO SELL INDUSTRIAL TIRE UNIT</field>
 	<field name = "DATELINE">NEW HAVEN, CONN., March 2 -</field>
-	<field name = "BODY">Armtek Corp, previously the
+	<field name = "content">Armtek Corp, previously the
 Armstrong Rubber Co, said it agreed to sell its industrial tire
 and assembly division to a Dyneer Corp DYR> for an undisclosed
 sum.

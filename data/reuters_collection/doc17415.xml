@@ -2,13 +2,10 @@
 	<field name = "DATE">29-APR-1987 14:49:22.86</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2281reute
-d f BC-GAS-GROWTH-SEEN-HURT   04-29 0096</field>
-	<field name = "TITLE">GAS GROWTH SEEN HURT BY REGULATORY UNCERTAINTY</field>
+	<field name = "titulo">GAS GROWTH SEEN HURT BY REGULATORY UNCERTAINTY</field>
 	<field name = "AUTHOR">By NAILENE CHOU WIEST, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 29 -</field>
-	<field name = "BODY">Demand for natural gas has failed to
+	<field name = "content">Demand for natural gas has failed to
 grow in proportion to the decline in oil deliveries because of
 concerns over unresolved regulatory issues in the United
 States, said industry analysts and gas utility company sources.

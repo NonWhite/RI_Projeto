@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 14:50:50.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0400reute
-d f BC-FAA-ENDORSES-SINGER-   03-09 0089</field>
-	<field name = "TITLE">FAA ENDORSES SINGER SMF> WIND SHEAR SIMULATOR</field>
+	<field name = "titulo">FAA ENDORSES SINGER SMF> WIND SHEAR SIMULATOR</field>
 	<field name = "DATELINE">DALLAS/FORT WORTH AIRPORT, Texas, March 9 -</field>
-	<field name = "BODY">Singer Co said
+	<field name = "content">Singer Co said
 its flight simulator designed to train pilots in dealing with
 wind shear was endorsed by the Federal Aviation Administration,
 FAA.

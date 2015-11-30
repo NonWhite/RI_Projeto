@@ -4,12 +4,9 @@
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G T
-f1186reute
-u f BC-ABNORMAL-RADIATION-FO   04-03 0111</field>
-	<field name = "TITLE">ABNORMAL RADIATION FOUND IN SOVIET TEA/HAZELNUTS</field>
+	<field name = "titulo">ABNORMAL RADIATION FOUND IN SOVIET TEA/HAZELNUTS</field>
 	<field name = "DATELINE">MOSCOW, April 3 -</field>
-	<field name = "BODY">Abnormally high levels of radiation were
+	<field name = "content">Abnormally high levels of radiation were
 found in Soviet tea and hazelnuts more than nine months after
 the Chernobyl nuclear accident, West German residents in Moscow
 were advised this week.

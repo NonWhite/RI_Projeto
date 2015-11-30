@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 18:09:17.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0293
-reute
-h f BC-COUSINS-HOME-FURNISHI   03-02 0089</field>
-	<field name = "TITLE">COUSINS HOME FURNISHINGS CUZZ> GET CREDIT LINE</field>
+	<field name = "titulo">COUSINS HOME FURNISHINGS CUZZ> GET CREDIT LINE</field>
 	<field name = "DATELINE">SAN DIEGO, March 2 -</field>
-	<field name = "BODY">Cousins Home Furnishings Inc said it
+	<field name = "content">Cousins Home Furnishings Inc said it
 obtained a 5.0-mln-dlr working capital line of credit from
 Lloyds Bank PLC, through its Los Angeles branch.
     The credit is supported by a guarantee from the company's

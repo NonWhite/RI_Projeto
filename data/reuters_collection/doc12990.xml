@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 12:31:51.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1635reute
-b f BC-******GENERAL-MOTORS   04-03 0060</field>
-	<field name = "TITLE">GENERAL MOTORS GM> LATE MARCH CAR SALES RISE</field>
+	<field name = "titulo">GENERAL MOTORS GM> LATE MARCH CAR SALES RISE</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">General Motors Corp said late March car
+	<field name = "content">General Motors Corp said late March car
 sales rose 6.2 pct.
     Total passenger car sales for the period March 21 to 31
 were 140,522 compared to 132,298 in the year-ago period, the

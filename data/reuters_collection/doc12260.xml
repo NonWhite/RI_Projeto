@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f2298reute
-u f BC-/ANALYSTS-SAY-USSR-MA   04-01 0146</field>
-	<field name = "TITLE">ANALYSTS SAY USSR MAY PREFER NEW CROP U.S. WHEAT</field>
+	<field name = "titulo">ANALYSTS SAY USSR MAY PREFER NEW CROP U.S. WHEAT</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">The Soviet Union would likely be more
+	<field name = "content">The Soviet Union would likely be more
 interested in purchasing new crop wheat than in booking any
 grain for immediate shipment if offered a subsidy on U.S.
 wheat, an executive with a major grain export company said.

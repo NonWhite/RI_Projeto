@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:59:10.96</field>
-	<field name = "UNKNOWN">M
-f0682reute
-b f BC-ny-silver-pre-opg   04-07 0028</field>
-	<field name = "TITLE">COMEX SILVER FUTURES EXPECTED SHARPLY HIGHER</field>
+	<field name = "titulo">COMEX SILVER FUTURES EXPECTED SHARPLY HIGHER</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Comex silver futures are expected to
+	<field name = "content">Comex silver futures are expected to
 open 15.0 to 20.0 cents higher following London silver prices.
  Reuter</field>
 </doc></add>

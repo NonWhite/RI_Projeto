@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 11:10:37.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f0350reute
-r f BC-FIELDCREST-FLD>-SELL   03-12 0113</field>
-	<field name = "TITLE">FIELDCREST FLD> SELLS CONVERTIBLE DEBENTURES</field>
+	<field name = "titulo">FIELDCREST FLD> SELLS CONVERTIBLE DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Fieldcrest Cannon Inc is raising 110
+	<field name = "content">Fieldcrest Cannon Inc is raising 110
 mln dlrs through an offering of convertible subordinated
 debentures due 2012 with a six pct coupon and par pricing, said
 sole underwriter Kidder, Peabody and Co Inc.

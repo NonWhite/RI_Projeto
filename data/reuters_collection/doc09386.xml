@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 11:50:17.79</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">F
-f1438reute
-h f BC-ITALY'S-STET-FORMS-TE   03-25 0091</field>
-	<field name = "TITLE">ITALY'S STET FORMS TELECOMMUNICATIONS FIRM</field>
+	<field name = "titulo">ITALY'S STET FORMS TELECOMMUNICATIONS FIRM</field>
 	<field name = "DATELINE">ROME, March 25 -</field>
-	<field name = "BODY">State holding company Societa Finanziaria
+	<field name = "content">State holding company Societa Finanziaria
 Telefonica Spa> (STET) said it was forming a new
 telecommunications company, Teleo Spa> that intends to offer
 electronic mail systems among its services.

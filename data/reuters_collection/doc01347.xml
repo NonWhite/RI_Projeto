@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 16:53:31.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L M T
-f0968reute
-r f BC-U.S.-TREASURY-OFFICIA   03-03 0098</field>
-	<field name = "TITLE">U.S. TREASURY OFFICIAL SEES LATIN DEBT PROGRESS</field>
+	<field name = "titulo">U.S. TREASURY OFFICIAL SEES LATIN DEBT PROGRESS</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">Assistant U.S. Treasury Secretary
+	<field name = "content">Assistant U.S. Treasury Secretary
 David Mulford said rapid progress was being made in talks with
 commercial banks for loans to Argentina, the Philippines and
 Brazil.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 02:19:49.09</field>
-	<field name = "UNKNOWN">E
-f0059reute
-u f BC-AUSTRALIAN-STOCKS-CLO   04-07 0107</field>
-	<field name = "TITLE">AUSTRALIAN STOCKS CLOSE AT RECORD, BUT OFF HIGHS</field>
+	<field name = "titulo">AUSTRALIAN STOCKS CLOSE AT RECORD, BUT OFF HIGHS</field>
 	<field name = "DATELINE">SYDNEY, April 7 -</field>
-	<field name = "BODY">Australian share prices closed at record
+	<field name = "content">Australian share prices closed at record
 levels, boosted by continued demand for gold and blue chip
 industrials, but fell from the day's highs on late
 profit-taking, brokers said.

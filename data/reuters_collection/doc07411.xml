@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 16:10:04.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2371reute
-r f BC-WESTCORP-WCRP>-UNIT   03-19 0111</field>
-	<field name = "TITLE">WESTCORP WCRP> UNIT SELLS CAR LOAN BACKED BONDS</field>
+	<field name = "titulo">WESTCORP WCRP> UNIT SELLS CAR LOAN BACKED BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Western Financial Auto Loans 2, a unit
+	<field name = "content">Western Financial Auto Loans 2, a unit
 of Westcorp's Western Financial Savings Bank subsidiary, is
 offering 125 mln dlrs of bonds that are collateralized by car
 loan receivables, said sole underwriter Drexel Burnham.

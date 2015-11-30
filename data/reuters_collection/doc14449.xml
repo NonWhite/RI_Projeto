@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:15:30.55</field>
-	<field name = "UNKNOWN">C G
-f2188reute
-u f BC-MINNEAPOLIS-SPRING-WH   04-07 0117</field>
-	<field name = "TITLE">MINNEAPOLIS SPRING WHEAT CLOSES HIGHER</field>
+	<field name = "titulo">MINNEAPOLIS SPRING WHEAT CLOSES HIGHER</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 7 -</field>
-	<field name = "BODY">Spring wheat futures closed 1-3/4 to
+	<field name = "content">Spring wheat futures closed 1-3/4 to
 3/4 cents higher as some exporter pricing and firm cash demand
 lent support to an otherwise quiet market, traders said. May
 closed 1-3/4 cents higher at 2.85-1/4 dlrs.

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 11:31:42.62</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f1422reute
-h f BC-U.K.-BANKERS-CONSIDER   06-01 0105</field>
-	<field name = "TITLE">U.K. BANKERS CONSIDER NEW ECGD FINANCING PLAN</field>
+	<field name = "titulo">U.K. BANKERS CONSIDER NEW ECGD FINANCING PLAN</field>
 	<field name = "DATELINE">LONDON, June 1 -</field>
-	<field name = "BODY">Representatives of major U.K. Based banks
+	<field name = "content">Representatives of major U.K. Based banks
 are meeting here today to consider a new plan for reducing the
 cost of financing British exports guaranteed by the Export
 Credits Guarantee Department (ECGD), senior banking sources

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:40:47.55</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0371reute
-u f BC-ITALIAN-TREASURY-DETA   03-05 0116</field>
-	<field name = "TITLE">ITALIAN TREASURY DETAILS NEW BILL OFFER</field>
+	<field name = "titulo">ITALIAN TREASURY DETAILS NEW BILL OFFER</field>
 	<field name = "DATELINE">ROME, March 5 -</field>
-	<field name = "BODY">The Italian treasury said it would offer
+	<field name = "content">The Italian treasury said it would offer
 3,500 billion lire of short-term treasury bills (BOTs) at rates
 slightly lower than the preceding offer in mid-February.
     It said it would offer 1,500 billion lire of six-month

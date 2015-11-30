@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 08:35:17.20</field>
-	<field name = "UNKNOWN">F 
-f0771reute
-b f BC-MARINE-MCRP.O>-GETS   06-29 0070</field>
-	<field name = "TITLE">MARINE MCRP.O> GETS MARSHALL/ILSLEY PROPOSAL</field>
+	<field name = "titulo">MARINE MCRP.O> GETS MARSHALL/ILSLEY PROPOSAL</field>
 	<field name = "DATELINE">MILWAUKEE, WIS., June 29 -</field>
-	<field name = "BODY">Marine Corp said it received a
+	<field name = "content">Marine Corp said it received a
 proposal from Marshall and Ilsley Corp MRIS.O> under which
 Marine shareholders would receive Marshall and Ilsley common
 stock or a combination of cash and stock equal to at least

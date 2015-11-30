@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 09:14:02.42</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f4853reute
-r f BC-SHAMROCK-HOLDINGS-UNI   03-17 0096</field>
-	<field name = "TITLE">SHAMROCK HOLDINGS UNIT AQUIRES SOFTWARE COMPANY</field>
+	<field name = "titulo">SHAMROCK HOLDINGS UNIT AQUIRES SOFTWARE COMPANY</field>
 	<field name = "DATELINE">BURBANK, Calif., March 16 -</field>
-	<field name = "BODY">Shamrock Holdings Inc> said
+	<field name = "content">Shamrock Holdings Inc> said
 its subsidiary, Shamrock Holdings of California, acquired
 controlling interest in DBMS Inc> through the purchase of
 575,000 shares of its preferred stock.

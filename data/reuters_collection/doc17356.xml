@@ -3,12 +3,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F Y
-f2899reute
-r f BC-NORTH-AMERICAN-GAS-MA   04-28 0087</field>
-	<field name = "TITLE">NORTH AMERICAN GAS MARKET SOUGHT BY FERC</field>
+	<field name = "titulo">NORTH AMERICAN GAS MARKET SOUGHT BY FERC</field>
 	<field name = "DATELINE">CALGARY, Alberta, April 28 -</field>
-	<field name = "BODY">Blocking Canadian gas imports
+	<field name = "content">Blocking Canadian gas imports
 would not serve the long-term interests of the United States,
 said Martha Hesse, chairman of the Federal Energy Regulatory
 Commission, adding that the development of a freely open North

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 06:47:26.22</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0415reute
-b f BC-STERLING-M3-UP-2-1/4   03-19 0110</field>
-	<field name = "TITLE">STERLING M3 UP 2-1/4 PCT IN FEBRUARY, M0 DOWN</field>
+	<field name = "titulo">STERLING M3 UP 2-1/4 PCT IN FEBRUARY, M0 DOWN</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">The main measure of U.K. Broad money,
+	<field name = "content">The main measure of U.K. Broad money,
 sterling M3, grew a provisional, seasonally adjusted 2-1/4 pct
 in February after a rise of 1.1 pct in January, the Bank of
 England said.

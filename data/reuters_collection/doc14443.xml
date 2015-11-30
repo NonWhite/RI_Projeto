@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:13:05.42</field>
-	<field name = "UNKNOWN">GQ
-f2181reute
-u f BC-CHICAGO-DELIVERABLE-W   04-07 0111</field>
-	<field name = "TITLE">CHICAGO DELIVERABLE WHEAT STOCKS</field>
+	<field name = "titulo">CHICAGO DELIVERABLE WHEAT STOCKS</field>
 	<field name = "DATELINE">CHICAGO, April 7  -</field>
-	<field name = "BODY">The CFTC reported the following stocks
+	<field name = "content">The CFTC reported the following stocks
 of wheat in Chicago as of Friday, April 3 , deliverable against
 CBT wheat futures in 000's bushels -
                         CURRENT  WEEK  YEAR

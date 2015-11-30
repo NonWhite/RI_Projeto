@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">C M
-f0846reute
-u f BC-SOUTH-AFRICAN-GOLD-HO   04-07 0142</field>
-	<field name = "TITLE">SOUTH AFRICAN GOLD HOLDINGS RISE IN MARCH</field>
+	<field name = "titulo">SOUTH AFRICAN GOLD HOLDINGS RISE IN MARCH</field>
 	<field name = "DATELINE">PRETORIA, April 7 -</field>
-	<field name = "BODY">South Africa gold holdings rose 172.56
+	<field name = "content">South Africa gold holdings rose 172.56
 mln rand to 4.17 billion rand in March after rising 39 mln rand
 to 4.0 billion in February, Reserve Bank figures show.
     In volume terms gold holdings rose to 5.51 mln ounces in

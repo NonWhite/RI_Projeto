@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 09:23:15.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0808reute
-a f BC-WYMAN-GORDON-WYMN>-T   03-20 0098</field>
-	<field name = "TITLE">WYMAN-GORDON WYMN> TO INVEST 11.7 MLN DLRS</field>
+	<field name = "titulo">WYMAN-GORDON WYMN> TO INVEST 11.7 MLN DLRS</field>
 	<field name = "DATELINE">WORCESTER, Mass., March 19 -</field>
-	<field name = "BODY">Wyman-Gordon Inc said it plans
+	<field name = "content">Wyman-Gordon Inc said it plans
 to invest 11.7 mln dlrs in two projects to improve the
 company's metals technology capabilities.
     The projects include the installation of a plasma cold

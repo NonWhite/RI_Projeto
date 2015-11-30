@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 00:09:05.07</field>
 	<field name = "TOPICS">rubber</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">T C
-f0002reute
-r f BC-MALAYSIA-CUTS-GAZETTE   04-01 0081</field>
-	<field name = "TITLE">MALAYSIA CUTS GAZETTED RUBBER PRICE</field>
+	<field name = "titulo">MALAYSIA CUTS GAZETTED RUBBER PRICE</field>
 	<field name = "DATELINE">KUALA LUMPUR, April 1 -</field>
-	<field name = "BODY">Malaysia said it cut the gazetted
+	<field name = "content">Malaysia said it cut the gazetted
 price of rubber to 202-7/8 cents per kg from 213-1/2 cents in
 March, effective immediately.
     No export duty is applicable at this level, against 3/8

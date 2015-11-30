@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 14:58:55.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f2152reute
-r f BC-U.S.-HOUSE-PLAN-TO-EA   03-19 0109</field>
-	<field name = "TITLE">U.S. HOUSE PLAN TO EASE LDC DEBT ADVANCES</field>
+	<field name = "titulo">U.S. HOUSE PLAN TO EASE LDC DEBT ADVANCES</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">A U.S. House Banking subcommittee
+	<field name = "content">A U.S. House Banking subcommittee
 approved a plan to seek negotiations with other industrialized
 countries for the purchase of developing country debt from
 commercial banks.

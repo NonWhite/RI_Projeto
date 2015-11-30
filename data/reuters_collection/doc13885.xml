@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:21:50.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0983reute
-d f BC-COGNITIVE-CSAI>-COMP   04-07 0087</field>
-	<field name = "TITLE">COGNITIVE CSAI> COMPLETES WORK ON PROGRAM</field>
+	<field name = "titulo">COGNITIVE CSAI> COMPLETES WORK ON PROGRAM</field>
 	<field name = "DATELINE">NEW HAVEN, Conn., april 7 -</field>
-	<field name = "BODY">Cognitive Systems Inc said it
+	<field name = "content">Cognitive Systems Inc said it
 has completed work on a prototype artificial intelligence
 program for American Express Co's AXP> American Express travel
 Related Services Inc involving a point-of-sale application for

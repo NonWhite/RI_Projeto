@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 02:19:13.69</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0023reute
-b f BC-JAPAN-MARCH-INTERIM-T   03-19 0098</field>
-	<field name = "TITLE">JAPAN MARCH INTERIM TRADE SURPLUS FALLS</field>
+	<field name = "titulo">JAPAN MARCH INTERIM TRADE SURPLUS FALLS</field>
 	<field name = "DATELINE">TOKYO, March 19 -</field>
-	<field name = "BODY">Japan's customs-cleared trade surplus
+	<field name = "content">Japan's customs-cleared trade surplus
 fell to 1.89 billion dlrs in the first 10 days of March from a
 1.91 billion surplus a year earlier, the Ministry of Finance
 said.

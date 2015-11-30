@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 16:07:44.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2442reute
-r f BC-FEUD-PERSISTS-AT-U.S.   03-24 0105</field>
-	<field name = "TITLE">FEUD PERSISTS AT U.S. HOUSE BUDGET COMMITTTEE</field>
+	<field name = "titulo">FEUD PERSISTS AT U.S. HOUSE BUDGET COMMITTTEE</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">A feud among Democrats and
+	<field name = "content">A feud among Democrats and
 Republicans persisted at the House Budget Committee, stalling
 the writing of a fiscal 1988 U.S. budget plan.
     Republicans failed to appear at a drafting session called

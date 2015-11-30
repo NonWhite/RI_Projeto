@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:16:14.91</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1354reute
-b f BC-JOHN-MOWLEM-ARRANGES   04-13 0110</field>
-	<field name = "TITLE">JOHN MOWLEM ARRANGES 50 MLN STERLING CP PROGRAM</field>
+	<field name = "titulo">JOHN MOWLEM ARRANGES 50 MLN STERLING CP PROGRAM</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">John Mowlem Plc, the U.K. Building and
+	<field name = "content">John Mowlem Plc, the U.K. Building and
 construction company, has arranged a 50 mln stg commercial
 paper program, with an option to issue notes in U.S. Dollars,
 Mowlem treasurer Philip Ridal said.

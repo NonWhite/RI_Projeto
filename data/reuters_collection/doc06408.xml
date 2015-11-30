@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 08:17:04.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f7578reute
-r f AM-BANK   03-18 0083</field>
-	<field name = "TITLE">FDIC ANNOUNCES 44TH U.S. BANK FAILURE OF YEAR</field>
+	<field name = "titulo">FDIC ANNOUNCES 44TH U.S. BANK FAILURE OF YEAR</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">The Federal Deposit Insurance Corp.
+	<field name = "content">The Federal Deposit Insurance Corp.
 (FDIC) announced the failure of an Oklahoma City bank, the 44th
 U.S. bank failure this year.
     The FDIC said it had approved the assumption of the United

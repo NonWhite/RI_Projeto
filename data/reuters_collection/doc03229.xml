@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:41:50.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0969reute
-d f BC-PIEZO   03-09 0113</field>
-	<field name = "TITLE">PIEZO PEPI> PREFERRED HOLDERS SEEK BOARD SEATS</field>
+	<field name = "titulo">PIEZO PEPI> PREFERRED HOLDERS SEEK BOARD SEATS</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">A group of brokerage executives with
+	<field name = "content">A group of brokerage executives with
 a 25.25 pct stake in the cumulative convertible preferred stock
 of Piezo Electric Products Inc said it will seek two seats on
 the company's board of directors.

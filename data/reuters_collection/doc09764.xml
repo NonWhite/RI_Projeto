@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 06:32:20.12</field>
 	<field name = "PLACES">austria</field>
-	<field name = "UNKNOWN">RM
-f0462reute
-b f BC-AUSTRIA-MAKES-TWO-BIL   03-26 0102</field>
-	<field name = "TITLE">AUSTRIA MAKES TWO BILLION SCHILLING NOTE ISSUE</field>
+	<field name = "titulo">AUSTRIA MAKES TWO BILLION SCHILLING NOTE ISSUE</field>
 	<field name = "DATELINE">VIENNA, March 26 -</field>
-	<field name = "BODY">Austria is making a two billion
+	<field name = "content">Austria is making a two billion
 schilling issue of floating rate treasury notes carrying
 interest of 1/8th of a point over the three-month Vienna
 Interbank Offered Rate (VIBOR), lead manager Oesterreichische

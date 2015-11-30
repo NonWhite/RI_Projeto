@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 22:19:25.06</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f9879reute
-u f BC-AUSTRALIAN-BANK-DEPOS   03-18 0108</field>
-	<field name = "TITLE">AUSTRALIAN BANK DEPOSITS RISE IN FEBRUARY</field>
+	<field name = "titulo">AUSTRALIAN BANK DEPOSITS RISE IN FEBRUARY</field>
 	<field name = "DATELINE">CANBERRA, March 19 -</field>
-	<field name = "BODY">Australian trading bank deposits rose
+	<field name = "content">Australian trading bank deposits rose
 243 mln dlrs to 45.34 billion in February after rising 589 mln
 to 45.10 billion in January and 140 mln to 43.80 billion in
 February last year, the Statistics Bureau said.

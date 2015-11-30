@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">C G
-f6013reute
-r f BC-s-africa-crop-weather   03-17 0102</field>
-	<field name = "TITLE">SOUTH AFRICA CROP WEATHER SUMMARY -- USDA/NOAA</field>
+	<field name = "titulo">SOUTH AFRICA CROP WEATHER SUMMARY -- USDA/NOAA</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Dry weather pushed further into
+	<field name = "content">Dry weather pushed further into
 South Africa's Orange Free State's Maize Triangle in the week
 ended March 14, the Joint Agricultural Weather Facility of the
 U.S. Agriculture and Commerce Departments said.

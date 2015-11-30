@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 08:21:11.55</field>
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0794reute
-u f BC-CHINA-WELCOMES-U.S.-C   03-11 0103</field>
-	<field name = "TITLE">CHINA WELCOMES U.S. COURT BOND DECISION</field>
+	<field name = "titulo">CHINA WELCOMES U.S. COURT BOND DECISION</field>
 	<field name = "DATELINE">PEKING, March 11 -</field>
-	<field name = "BODY">China welcomed a U.S. Supreme Court
+	<field name = "content">China welcomed a U.S. Supreme Court
 decision dismissing claims by holders of 41 mln dlrs of
 pre-1949 Chinese bonds, but U.S. Officials said Peking has a
 long way to go before it can issue bonds in the U.S.

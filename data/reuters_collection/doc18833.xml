@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:59:56.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A 
-f3946reute
-b f BC-FIRST-WISCONSIN-FWB>   06-18 0086</field>
-	<field name = "TITLE">FIRST WISCONSIN FWB> ADDS LOAN LOSSES</field>
+	<field name = "titulo">FIRST WISCONSIN FWB> ADDS LOAN LOSSES</field>
 	<field name = "DATELINE">MILWAUKEE, WIS., June 18 -</field>
-	<field name = "BODY">First Wisconsin Corp said
+	<field name = "content">First Wisconsin Corp said
 directors of its First Wisconsin National Bank of Milwaukee
 approved a 96 mln dlr increase in the bank's loan loss reserves
 in response to uncertainty over the impact of third world debt

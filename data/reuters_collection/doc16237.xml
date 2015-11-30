@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 09:17:56.40</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0841reute
-r f BC-COLUMBIA-GAS-CG>-SEE   04-13 0088</field>
-	<field name = "TITLE">COLUMBIA GAS CG> SEEKS CONTRACT COST RECOVERY</field>
+	<field name = "titulo">COLUMBIA GAS CG> SEEKS CONTRACT COST RECOVERY</field>
 	<field name = "DATELINE">CHARLESTON, W. Va., April 13 -</field>
-	<field name = "BODY">Columbia Gas Transmission
+	<field name = "content">Columbia Gas Transmission
 corp said it made an abbreviated, streamlined filing with the
 Federal Energy Regulatory Commission to recover a portion if
 its costs of renegotiating high-cost gas purchase contracts.

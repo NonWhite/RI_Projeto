@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 07:09:28.74</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">E A
-f0608reute
-r f BC-HERTZ-REALTY-ISSUES-7   04-02 0082</field>
-	<field name = "TITLE">HERTZ REALTY ISSUES 75 MLN CANADIAN DLR EUROBOND</field>
+	<field name = "titulo">HERTZ REALTY ISSUES 75 MLN CANADIAN DLR EUROBOND</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">Hertz Realty Corp is issuing a 75 mln
+	<field name = "content">Hertz Realty Corp is issuing a 75 mln
 Canadian dlr bond due April 30, 1993 paying nine pct and priced
 at 100-3/4 pct, syndicate sources said.
     The non-callable bond is guaranteed by Hertz Corp. It is

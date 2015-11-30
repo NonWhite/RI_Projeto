@@ -1,14 +1,12 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:55:53.91C T</field>
-	<field name = "UNKNOWN">f0594reute</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">u f BC-SUGAR-MARKET-SEES-GOO   03-27 0111</field>
-	<field name = "TITLE">SUGAR MARKET SEES GOOD RECENT OFFTAKE</field>
+	<field name = "titulo">SUGAR MARKET SEES GOOD RECENT OFFTAKE</field>
 	<field name = "AUTHOR">By Peter Read</field>
 	<field name = "DATELINE">LONDON, March 27 -</field>
-	<field name = "BODY">Reports the Soviet Union has lately
+	<field name = "content">Reports the Soviet Union has lately
 extended its recent buying programme by taking five to eight
 raws cargoes from the free market at around 30/40 points under
 New York May futures highlight recent worldwide demand for

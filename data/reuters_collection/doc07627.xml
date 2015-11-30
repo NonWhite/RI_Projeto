@@ -6,13 +6,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">oecd</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f0683reute
-u f BC-JAPAN-UNDER-ATTACK-OV   03-20 0110</field>
-	<field name = "TITLE">JAPAN UNDER ATTACK OVER TRADE SURPLUS</field>
+	<field name = "titulo">JAPAN UNDER ATTACK OVER TRADE SURPLUS</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 20 -</field>
-	<field name = "BODY">Japan's economic policies face fierce
+	<field name = "content">Japan's economic policies face fierce
 international attack as hopes fade of a substantial drop in its
 trade surplus, international monetary sources said.
     At a meeting this week in Paris, senior government

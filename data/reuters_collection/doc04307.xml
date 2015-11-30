@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 12:02:30.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0564reute
-r f BC-AMERICAN-CENTURY-CORP   03-12 0074</field>
-	<field name = "TITLE">AMERICAN CENTURY CORP ACT> GETS INJUNCTION</field>
+	<field name = "titulo">AMERICAN CENTURY CORP ACT> GETS INJUNCTION</field>
 	<field name = "DATELINE">SAN ANTONIO, March 12 -</field>
-	<field name = "BODY">American Century Corp said it was
+	<field name = "content">American Century Corp said it was
 granted an injunction against Merrill Lynch and certain
 affiliates barring them from taking or selling any of the
 collateral for a 12 mln dlr line of credit extended by Merrill.

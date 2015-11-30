@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 16:51:56.13</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C T
-f2370reute
-b f BC-IBC-COULD-CLOSE-COFFE   04-03 0120</field>
-	<field name = "TITLE">IBC COULD CLOSE MAY EXPORT REGISTRATIONS TONIGHT</field>
+	<field name = "titulo">IBC COULD CLOSE MAY EXPORT REGISTRATIONS TONIGHT</field>
 	<field name = "DATELINE">RIO DE JANEIRO, April 3 -</field>
-	<field name = "BODY">The Brazilian Coffee Institute
+	<field name = "content">The Brazilian Coffee Institute
 (IBC) could close May export registrations tonight following
 extremely heavy sales today, exporters said.
     They estimated registrations today at between 1.0 mln and

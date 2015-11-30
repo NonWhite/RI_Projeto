@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 04:31:23.83</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0293reute
-u f BC-JAPANESE-SHIPYARDS-TO   03-30 0117</field>
-	<field name = "TITLE">JAPANESE SHIPYARDS TO FORM CARTEL, CUT OUTPUT</field>
+	<field name = "titulo">JAPANESE SHIPYARDS TO FORM CARTEL, CUT OUTPUT</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">Japan's ailing shipyards have won
+	<field name = "content">Japan's ailing shipyards have won
 approval from the Fair Trade Commission to form a cartel to
 slash production to about half of total capacity for one year,
 effective April 1, industry sources said.

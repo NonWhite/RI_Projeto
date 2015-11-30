@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 04:33:05.29</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0218reute
-u f BC-TEXACO-TX>-EUROBONDS   04-13 0118</field>
-	<field name = "TITLE">TEXACO TX> EUROBONDS UNQUOTED AT MARKET OPENING</field>
+	<field name = "titulo">TEXACO TX> EUROBONDS UNQUOTED AT MARKET OPENING</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">Eurobonds for Texaco Inc subsidiaries
+	<field name = "content">Eurobonds for Texaco Inc subsidiaries
 were unquoted this morning as traders assessed the implications
 of the company's shock weekend decision to file for bankruptcy
 under Chapter 11 of U.S. Bankruptcy laws, eurobond dealers

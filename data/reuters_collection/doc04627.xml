@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 00:27:37.31</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PEOPLE">hawke</field>
-	<field name = "UNKNOWN">RM
-f0007reute
-u f BC-AUSTRALIAN-BUSINESS-U   03-13 0108</field>
-	<field name = "TITLE">AUSTRALIAN BUSINESS URGED TO RESTRAIN PROFITS</field>
+	<field name = "titulo">AUSTRALIAN BUSINESS URGED TO RESTRAIN PROFITS</field>
 	<field name = "DATELINE">CANBERRA, March 13 -</field>
-	<field name = "BODY">Australian Prime Minister Bob Hawke
+	<field name = "content">Australian Prime Minister Bob Hawke
 called on businessmen to hold their salaries and profit margins
 as part of his campaign for economic restraint.
     In a speech to the National Press Club, Hawke said business

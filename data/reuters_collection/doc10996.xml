@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 14:17:46.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2183reute
-d f BC-MAYFAIR-MAYF>-IN-HER   03-30 0042</field>
-	<field name = "TITLE">MAYFAIR MAYF> IN HERSHEY HSY> LICENSE DEAL</field>
+	<field name = "titulo">MAYFAIR MAYF> IN HERSHEY HSY> LICENSE DEAL</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">Mayfair Industries Inc said it has
+	<field name = "content">Mayfair Industries Inc said it has
 entered into a licensing agreement under which it will use
 logos of Hershey Foods Inc candy products on a variety of
 garments, effective immediately.

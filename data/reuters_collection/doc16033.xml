@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 18:04:24.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2803reute
-r f BC-GM-GM>-UNIT-GETS-BOE   04-09 0053</field>
-	<field name = "TITLE">GM GM> UNIT GETS BOEING BA> CONTRACT</field>
+	<field name = "titulo">GM GM> UNIT GETS BOEING BA> CONTRACT</field>
 	<field name = "DATELINE">IRVINE, Calif., April 9 -</field>
-	<field name = "BODY">General Motors Corp's Hughes
+	<field name = "content">General Motors Corp's Hughes
 Aircraft Co said it received a contract worth more than 20 mln
 dlrs from Boeing Co's Boeing Commercial Airplane Co.
     Hughes will supply a cabin entertainment and service system

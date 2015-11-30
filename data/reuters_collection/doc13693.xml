@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 09:12:12.87</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C M F
-f0717reute
-u f BC-magma-copper-price   04-07 0037</field>
-	<field name = "TITLE">MAGMA RAISES COPPER PRICE 0.50 CT TO 66.00 CTS</field>
+	<field name = "titulo">MAGMA RAISES COPPER PRICE 0.50 CT TO 66.00 CTS</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Magma Copper Co, a subsidiary of
+	<field name = "content">Magma Copper Co, a subsidiary of
 Newmont Mining Corp, said it is raising its copper cathode
 price by 0.50 cent to 66.00 cents a lb, effective immediately.
  Reuter</field>

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 04:11:24.04</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM
-f0347reute
-u f BC-SINGAPORE-M-1-MONEY-S   03-09 0104</field>
-	<field name = "TITLE">SINGAPORE M-1 MONEY SUPPLY UP 3.7 PCT IN DECEMBER</field>
+	<field name = "titulo">SINGAPORE M-1 MONEY SUPPLY UP 3.7 PCT IN DECEMBER</field>
 	<field name = "DATELINE">SINGAPORE, March 9 -</field>
-	<field name = "BODY">Singapore's M-1 money supply rose 3.7
+	<field name = "content">Singapore's M-1 money supply rose 3.7
 pct during December to 9.82 billion dlrs, after a 2.0 pct
 increase in November, the Monetary authority of Singapore (MAS)
 said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:33:14.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0323reute
-r f BC-NOEL-INDUSTRIES-NOL>   03-05 0096</field>
-	<field name = "TITLE">NOEL INDUSTRIES NOL> BOARD APPROVES FINANCING</field>
+	<field name = "titulo">NOEL INDUSTRIES NOL> BOARD APPROVES FINANCING</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Noel Industries Inc said its board
+	<field name = "content">Noel Industries Inc said its board
 approved in principle a private placement of 900 units, each
 unit consisting of 1,000 dlrs of nine pct senior subordinated
 convertible debentures due Marcxh 31, 1991, and 95 warrants to

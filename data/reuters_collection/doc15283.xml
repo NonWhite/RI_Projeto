@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 15:54:55.54</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G L M T
-f2409reute
-b f BC-SHULTZ-SAYS-"SHADOW"   04-08 0082</field>
-	<field name = "TITLE">SHULTZ SAYS "SHADOW" CAST OVER HIS USSR VISIT</field>
+	<field name = "titulo">SHULTZ SAYS "SHADOW" CAST OVER HIS USSR VISIT</field>
 	<field name = "DATELINE">****WASHINGTON, April 8 -</field>
-	<field name = "BODY">U.S. Secretary of State George
+	<field name = "content">U.S. Secretary of State George
 Shultz said the Marines spy case had cast a "heavy shadow" over
 his scheduled talks in Moscow next week.
     "Unfortunately, as is so often the case when we are in the

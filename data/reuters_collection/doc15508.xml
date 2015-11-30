@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:26:35.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0813reute
-b f BC-/K-MART-KM>-MARCH-SA   04-09 0072</field>
-	<field name = "TITLE">K MART KM> MARCH SALES SHOW INCREASE</field>
+	<field name = "titulo">K MART KM> MARCH SALES SHOW INCREASE</field>
 	<field name = "DATELINE">TROY, MICH., April 9 -</field>
-	<field name = "BODY">K mart Corp said its sales for the
+	<field name = "content">K mart Corp said its sales for the
 five weeks ended April One rose 4.6 pct to 2.18 billion dlrs
 from 2.08 billion dlrs a year earlier. On a comparable store
 basis, sales rose one-tenth of one pct.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 12:17:11.47</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">F
-f1605reute
-h f BC-EUROPEAN-AIRLINES-REP   04-09 0110</field>
-	<field name = "TITLE">EUROPEAN AIRLINES REPORT RECORD PASSENGER RESULTS</field>
+	<field name = "titulo">EUROPEAN AIRLINES REPORT RECORD PASSENGER RESULTS</field>
 	<field name = "DATELINE">BRUSSELS, April 9 -</field>
-	<field name = "BODY">European airlines, hit by a drop in
+	<field name = "content">European airlines, hit by a drop in
 business across the North Atlantic for much of last year, today
 reported record passenger traffic for February.
     The 21-member Association of European Airlines said

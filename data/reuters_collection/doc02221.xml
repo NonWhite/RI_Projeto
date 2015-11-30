@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 12:07:47.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0836reute
-u f BC-SPEAKER-SEES-ACTION-O   03-05 0111</field>
-	<field name = "TITLE">U.S. HOUSE SPEAKER SEES ACTION ON FSLIC FUNDING</field>
+	<field name = "titulo">U.S. HOUSE SPEAKER SEES ACTION ON FSLIC FUNDING</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">House Speaker Jim Wright said he
+	<field name = "content">House Speaker Jim Wright said he
 expects the House Banking Committee to approve legislation in
 "a week or so" for an infusion of funding for the cash-short
 Federal Savings and Loan Insurance Corporation (FSLIC).

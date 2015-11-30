@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 05:11:41.07</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f1361reute
-u f BC-JAPAN'S-NEC-THREATENS   03-16 0101</field>
-	<field name = "TITLE">JAPAN'S NEC THREATENS LEGAL ACTION AGAINST SEIKO</field>
+	<field name = "titulo">JAPAN'S NEC THREATENS LEGAL ACTION AGAINST SEIKO</field>
 	<field name = "DATELINE">TOKYO, March 16 -</field>
-	<field name = "BODY">NEC Corp NESI.T> may take legal action
+	<field name = "content">NEC Corp NESI.T> may take legal action
 to halt introduction of Seiko Epson Corp>'s NEC-compatible
 personal computer series, which NEC alleges infringes
 copyrights for NEC's 9801 V computer series, an NEC official

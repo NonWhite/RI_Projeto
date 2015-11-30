@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">15-MAR-1987 06:23:12.23</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">F
-f0893reute
-r f BC-NEW-SAUDI-SHARE-INDEX   03-15 0097</field>
-	<field name = "TITLE">NEW SAUDI SHARE INDEX INTRODUCED</field>
+	<field name = "titulo">NEW SAUDI SHARE INDEX INTRODUCED</field>
 	<field name = "DATELINE">JEDDAH, March 15 -</field>
-	<field name = "BODY">Saudi Arabia's Ministry of Finance and
+	<field name = "content">Saudi Arabia's Ministry of Finance and
 National Economy has started to issue an index to measure share
 activity in the kingdom.
     An official of the Ministry's National Centre for Financial

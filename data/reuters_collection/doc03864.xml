@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 14:19:45.21</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0238reute
-u f BC-SOFTWARE-AG-SAGA>-SE   03-11 0044</field>
-	<field name = "TITLE">SOFTWARE AG SAGA> SEES WEAK RESULTS</field>
+	<field name = "titulo">SOFTWARE AG SAGA> SEES WEAK RESULTS</field>
 	<field name = "DATELINE">RESTON, Va., March 11 -</field>
-	<field name = "BODY">Software AG Systems Inc said it
+	<field name = "content">Software AG Systems Inc said it
 expects to report earnings for its third quarter "substantially
 weaker" than earnings of prior periods due to an unexpected
 shortfall in U.S. domestic license revenues.

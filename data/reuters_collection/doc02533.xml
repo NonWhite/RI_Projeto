@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 18:25:29.65</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0104reute
-r f BC-COMDATA   03-05 0118</field>
-	<field name = "TITLE">HUNT GROUP HAS COMDATA STAKE, SEEKS INFLUENCE</field>
+	<field name = "titulo">HUNT GROUP HAS COMDATA STAKE, SEEKS INFLUENCE</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">An investor group led by members of
+	<field name = "content">An investor group led by members of
 the Hunt family of Dallas, Texas, told the Securities and
 Exchange Commission it has acquired a 6.2 pct stake in Comdata
 Network Inc CDN> and may try to influence company policy.

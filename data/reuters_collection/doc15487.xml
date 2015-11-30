@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:07:36.45</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">RM
-f0761reute
-u f BC-INDIAN-STATE-COMPANY   04-09 0095</field>
-	<field name = "TITLE">INDIAN STATE COMPANY BONDS PROVOKE COMPLAINTS</field>
+	<field name = "titulo">INDIAN STATE COMPANY BONDS PROVOKE COMPLAINTS</field>
 	<field name = "AUTHOR">By Ajoy Sen, Reuters</field>
 	<field name = "DATELINE">NEW DELHI, April 9 -</field>
-	<field name = "BODY">India's private businessmen say they
+	<field name = "content">India's private businessmen say they
 have been placed on an unequal footing in raising money from
 the capital market because government companies are wooing
 investors by issuing more attractive tax-free bonds.

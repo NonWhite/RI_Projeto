@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:39:19.56</field>
-	<field name = "UNKNOWN">F
-f0557
-reute
-u f BC-CONTINENTAL   03-02 0110</field>
-	<field name = "TITLE">CONTINENTAL ILL CIL> TO RECHARACTERIZE LOSS</field>
+	<field name = "titulo">CONTINENTAL ILL CIL> TO RECHARACTERIZE LOSS</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">Continental Illinois Corp settled an
+	<field name = "content">Continental Illinois Corp settled an
 administrative complaint by the Securities and Exchange
 Commission by agreeing to recharacterize 425 mln dlrs
 previously reported in the second quarter 1984 as a "loss of

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 11:44:43.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1447reute
-r f BC-HAWKEYE-BANCORP-HWKB   03-23 0094</field>
-	<field name = "TITLE">HAWKEYE BANCORP HWKB> EXCHANGE OFFER EXPIRES</field>
+	<field name = "titulo">HAWKEYE BANCORP HWKB> EXCHANGE OFFER EXPIRES</field>
 	<field name = "DATELINE">DES MOINES, March 23 -</field>
-	<field name = "BODY">Hawkeye Bancorp said its exchange
+	<field name = "content">Hawkeye Bancorp said its exchange
 offer to holders of its preferred stock expired, and a total of
 14,721 shares of preferred had been tendered.
     Hawekeye said it expects to accept for exchange all shares

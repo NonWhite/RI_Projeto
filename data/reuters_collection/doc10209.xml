@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 17:17:15.67</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f2730reute
-r f AM-BRITAIN-POLL   03-26 0114</field>
-	<field name = "TITLE">BRITAIN'S CENTRIST ALLIANCE GAINS IN LATEST POLL</field>
+	<field name = "titulo">BRITAIN'S CENTRIST ALLIANCE GAINS IN LATEST POLL</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">Britain's centrist Alliance has gained
+	<field name = "content">Britain's centrist Alliance has gained
 further ground and now stands second to the ruling
 Conservatives according to a new public opinion poll, leaving
 the main opposition Labour Party trailing in third place.

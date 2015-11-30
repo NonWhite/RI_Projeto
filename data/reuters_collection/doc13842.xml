@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:10:20.58</field>
-	<field name = "UNKNOWN">A C RM
-f0924reute
-u f BC-int-rate-fut-report   04-07 0095</field>
-	<field name = "TITLE">U.S. DEBT FUTURES LOWER IN QUIET OPEN</field>
+	<field name = "titulo">U.S. DEBT FUTURES LOWER IN QUIET OPEN</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">U.S. interest rate futures were lower in
+	<field name = "content">U.S. interest rate futures were lower in
 quiet early activity.
     A weak dollar pressured debt futures. Remarks made
 yesterday by Council of Economic Advisers Beryl Sprinkel that

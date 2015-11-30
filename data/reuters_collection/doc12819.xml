@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 08:38:26.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0712reute
-r f BC-TIMES-MIRROR-TMC>-FE   04-03 0072</field>
-	<field name = "TITLE">TIMES MIRROR TMC> FEBRUARY AD REVENUES ROSE</field>
+	<field name = "titulo">TIMES MIRROR TMC> FEBRUARY AD REVENUES ROSE</field>
 	<field name = "DATELINE">LOS ANGELES, April 3 -</field>
-	<field name = "BODY">Times Mirror Co said its Newspaper
+	<field name = "content">Times Mirror Co said its Newspaper
 Publishing group's advertising revenues increased 12.8 pct to
 121.2 mln dlrs in the four weeks ended March one from 107.5 mln
 dlrs a year earlier.

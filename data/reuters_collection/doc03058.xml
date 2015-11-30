@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 09:48:24.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0114reute
-r f BC-CLAIRE'S-STORES-CLE>   03-09 0099</field>
-	<field name = "TITLE">CLAIRE'S STORES CLE> FEBRUARY SALES RISE</field>
+	<field name = "titulo">CLAIRE'S STORES CLE> FEBRUARY SALES RISE</field>
 	<field name = "DATELINE">MIAMI, March 9 -</field>
-	<field name = "BODY">Claire's Stores Inc said February sales
+	<field name = "content">Claire's Stores Inc said February sales
 were up 46 pct to 6,360,000 dlrs from 4,350,000 dlrs a year
 before, with same-store sales up 16 pct.
     The company said March sales may not increase at the sdame

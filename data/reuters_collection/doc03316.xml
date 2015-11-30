@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 15:13:31.49</field>
 	<field name = "TOPICS">potato</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0469reute
-u f BC-USDA-WINTER/SPRING-PO   03-09 0115</field>
-	<field name = "TITLE">USDA WINTER/SPRING POTATO ESTIMATES</field>
+	<field name = "titulo">USDA WINTER/SPRING POTATO ESTIMATES</field>
 	<field name = "DATELINE">WASHINGTON, March 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 estimated 1987 winter potato production, based on March 1
 conditions, at 2,788,000 cwts (100 lbs), vs 2,764,000 cwts
 indicated last month and 2,991,000 cwts last year.

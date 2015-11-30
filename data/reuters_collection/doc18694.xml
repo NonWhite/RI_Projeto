@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 10:49:51.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C 
-f3337reute
-d f BC-CFTC'S-DAVIS-URGES-CA   06-18 0126</field>
-	<field name = "TITLE">CFTC'S DAVIS URGES CAUTION ON OFF-EXCHANGE ISSUE</field>
+	<field name = "titulo">CFTC'S DAVIS URGES CAUTION ON OFF-EXCHANGE ISSUE</field>
 	<field name = "DATELINE">CHICAGO, June 18 -</field>
-	<field name = "BODY">Regulations governing hedging and risk
+	<field name = "content">Regulations governing hedging and risk
 management should be revised and development of new futures
 instruments cautiously monitored in dealing with the growth of
 off-exchange futures instruments, Robert Davis, a commissioner

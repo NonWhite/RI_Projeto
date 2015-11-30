@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 03:52:34.29</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f0735
-reute
-u f BC-TAIWAN-CENTRAL-BANK-I   03-02 0085</field>
-	<field name = "TITLE">TAIWAN CENTRAL BANK ISSUES CERTIFICATES OF DEPOSIT</field>
+	<field name = "titulo">TAIWAN CENTRAL BANK ISSUES CERTIFICATES OF DEPOSIT</field>
 	<field name = "DATELINE">TAIPEI, March 2 -</field>
-	<field name = "BODY">The Central Bank issued 2.14 billion
+	<field name = "content">The Central Bank issued 2.14 billion
 Taiwan dlrs of certificates of deposit (CD), bringing the total
 so far this year to 86.21 billion, a bank official told
 Reuters.

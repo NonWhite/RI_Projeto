@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:33:12.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1637reute
-u f BC-MORRISON-KNUDSEN-MRN   03-20 0089</field>
-	<field name = "TITLE">MORRISON KNUDSEN MRN>GETS 200 MLN DLR CONTRACT</field>
+	<field name = "titulo">MORRISON KNUDSEN MRN>GETS 200 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">BOISE, Idaho, March 20 -</field>
-	<field name = "BODY">Morrison Knudsen Corp said a unit
+	<field name = "content">Morrison Knudsen Corp said a unit
 was awarded an 11-1/2-year contract totaling about 200 mln dlrs
 for the operation of a steam coal mine near Montgomery, W.Va.
     The company said the contract carries an option for an

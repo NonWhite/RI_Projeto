@@ -1,14 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 08:24:07.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0293
-reute
-r f AM-MACINTOSH   03-02 0085</field>
-	<field name = "TITLE">APPLE COMPUTER AAPL> UPGRADES MACINTOSH LINE</field>
+	<field name = "titulo">APPLE COMPUTER AAPL> UPGRADES MACINTOSH LINE</field>
 	<field name = "AUTHOR">By Dean Lokken</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 2 -</field>
-	<field name = "BODY">Apple Computer Inc today will
+	<field name = "content">Apple Computer Inc today will
 announce the addition of two new machines to its profitable
 Macintosh line of personal computers, both aimed at the
 business market.

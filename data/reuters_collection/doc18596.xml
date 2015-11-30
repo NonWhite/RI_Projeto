@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 08:35:14.43</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V 
-f2860reute
-u f AM-BUDGET   06-18 0107</field>
-	<field name = "TITLE">U.S. BUDGET COMPROMISE REACHED IN CONGRESS</field>
+	<field name = "titulo">U.S. BUDGET COMPROMISE REACHED IN CONGRESS</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">Congressional Democratic leaders
+	<field name = "content">Congressional Democratic leaders
 announced a compromise has been reached on a 1988 budget,
 paving the way for final approval of a trillion dollar spending
 plan.

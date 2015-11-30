@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gas</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y C
-f2653reute
-u f BC-wkly-distillate   04-08 0075</field>
-	<field name = "TITLE">EIA SAYS DISTILLATE STOCKS UNCHANGED IN WEEK</field>
+	<field name = "titulo">EIA SAYS DISTILLATE STOCKS UNCHANGED IN WEEK</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">Distillate fuel stocks held in
+	<field name = "content">Distillate fuel stocks held in
 primary storage were unchanged in the week ended April three at
 106.9 mln barrels, the Energy Information Administration (EIA)
 said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:56:47.77</field>
 	<field name = "MKNOTE">All five tag fields added as empty fields SPF</field>
-	<field name = "UNKNOWN">V F
-f0859reute
-u f BC-QT8912   04-07 0102</field>
-	<field name = "TITLE">WALL STREET STOCKS LOWER IN EARLY TRADING</field>
+	<field name = "titulo">WALL STREET STOCKS LOWER IN EARLY TRADING</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Weakness in the dollar and a subsequent
+	<field name = "content">Weakness in the dollar and a subsequent
 easing of bond prices underscored Wall Street's lingering
 anxiety with interest rates and inflation, prompting investors
 to take profits. The decline, though mild, was broad based.

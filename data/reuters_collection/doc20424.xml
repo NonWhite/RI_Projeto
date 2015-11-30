@@ -1,8 +1,5 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:10:42.54</field>
 	<field name = "EXCHANGES">cboe</field>
-	<field name = "UNKNOWN">V RM 
-f2266reute
-f f BC-CBOE-TO-RESUME   10-20 0009</field>
-	<field name = "TITLE">CBOE TO RESUME INDEX OPTIONS TRADING AT 1215 CDT</field>
+	<field name = "titulo">CBOE TO RESUME INDEX OPTIONS TRADING AT 1215 CDT</field>
 </doc></add>

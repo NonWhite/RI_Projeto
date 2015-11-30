@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:11:21.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0532reute
-u f BC-WHITE-HOUSE-SAYS-TAX   03-05 0091</field>
-	<field name = "TITLE">WHITE HOUSE SAYS TAX INCREASE NOT NEEDED</field>
+	<field name = "titulo">WHITE HOUSE SAYS TAX INCREASE NOT NEEDED</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">The White House said a tax increase
+	<field name = "content">The White House said a tax increase
 is not needed to reduce the federal budget deficit.
     "We think that's certainly unnecessary. We are opposed to
 tax increases," spokesman Marlin Fitzwater said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 09:55:48.07</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0044reute
-d f BC-PRECISION-AEROTECH-IN   03-12 0084</field>
-	<field name = "TITLE">PRECISION AEROTECH INC PAR> 3RD QTR JAN 31 NET</field>
+	<field name = "titulo">PRECISION AEROTECH INC PAR> 3RD QTR JAN 31 NET</field>
 	<field name = "DATELINE">LA JOLLA, Calif., March 12 -</field>
-	<field name = "BODY">Oper shr 16 cts vs two cts
+	<field name = "content">Oper shr 16 cts vs two cts
     Oper net 467,000 vs 52,000
     Sales 8,954,000 vs 6,338,000
     Avg shrs 2,939,459 vs 1,979,916

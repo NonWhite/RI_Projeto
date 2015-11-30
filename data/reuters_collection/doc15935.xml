@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 16:04:37.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2460reute
-d f BC-DIANA-DNA>-NOMINATES   04-09 0092</field>
-	<field name = "TITLE">DIANA DNA> NOMINATES FREEDOM FRFE> DIRECTORS</field>
+	<field name = "titulo">DIANA DNA> NOMINATES FREEDOM FRFE> DIRECTORS</field>
 	<field name = "DATELINE">MILWAUKEE, WIS., April 9 -</field>
-	<field name = "BODY">Diana Corp said it organized the
+	<field name = "content">Diana Corp said it organized the
 Stockholders Protective Committee of Freedom Federal Savings
 Bank to nominate two candidates for election to the Freedom
 board at the April 20 annual meeting.

@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 09:25:09.77</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0937reute
-u f BC-BP-BP>-TO-HOLD-NEW-Y   03-26 0063</field>
-	<field name = "TITLE">BP BP> TO HOLD NEW YORK PRESS CONFERENCE</field>
+	<field name = "titulo">BP BP> TO HOLD NEW YORK PRESS CONFERENCE</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">British Petroleum Co PLC said it has
+	<field name = "content">British Petroleum Co PLC said it has
 scheduled a New York press conference for 1300 EST/1800 gmt
 today at which senior management will discuss the company's
 proposed acquisition of the 45 pct of Standard Oil Co SRD>

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 09:41:45.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0346reute
-r f BC-CARIBBEAN-SELECT-CSE   03-03 0091</field>
-	<field name = "TITLE">CARIBBEAN SELECT CSEL> TO REDEEM WARRANTS</field>
+	<field name = "titulo">CARIBBEAN SELECT CSEL> TO REDEEM WARRANTS</field>
 	<field name = "DATELINE">TAMPA, Fla., March 3 -</field>
-	<field name = "BODY">Caribbean Select Inc said it has
+	<field name = "content">Caribbean Select Inc said it has
 elected to redeem on April 10 all its Class A warrants and all
 Class B warrants at 0.01 ct each.
     At the same time, it said its board has decided to reduce

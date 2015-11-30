@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 12:45:44.41</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f0992reute
-d f BC-ANGIO-MEDICAL-IN-INIT   03-09 0074</field>
-	<field name = "TITLE">ANGIO-MEDICAL IN INITIAL OFFERING</field>
+	<field name = "titulo">ANGIO-MEDICAL IN INITIAL OFFERING</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Angio-Medical Corp> said it filed with
+	<field name = "content">Angio-Medical Corp> said it filed with
 the Securities and Exchange Commission for an initial public
 offering of 1,666,667 units of one share of common and one
 redeemable warrant to buy one share of common at six dlrs per

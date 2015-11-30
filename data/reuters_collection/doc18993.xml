@@ -6,12 +6,9 @@
 	<field name = "PLACES">spain</field>
 	<field name = "PLACES">greece</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM 
-f4936reute
-u f BC-SOUTHERN-EUROPE-HAS-S   06-18 0113</field>
-	<field name = "TITLE">SOUTHERN EUROPE HAS STRONG DOMESTIC DEMAND GROWTH</field>
+	<field name = "titulo">SOUTHERN EUROPE HAS STRONG DOMESTIC DEMAND GROWTH</field>
 	<field name = "DATELINE">PARIS, June 19 -</field>
-	<field name = "BODY">Strong growth in domestic demand was a key
+	<field name = "content">Strong growth in domestic demand was a key
 feature of the economies of southern European countries in
 1986, though the growth is seen slowing this year and next, the
 Organisation for Economic Cooperation and Development said.

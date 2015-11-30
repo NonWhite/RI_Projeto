@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:06:40.00</field>
-	<field name = "UNKNOWN">F 
-f0838reute
-d f BC-TECHNOLOGY   06-29 0099</field>
-	<field name = "TITLE">TECHNOLOGY/ALTERNATIVES TO IBM SOFTWARE STANDARD</field>
+	<field name = "titulo">TECHNOLOGY/ALTERNATIVES TO IBM SOFTWARE STANDARD</field>
 	<field name = "AUTHOR">By Catherine Arnst, Reuters</field>
 	<field name = "DATELINE">BOSTON, June 29 -</field>
-	<field name = "BODY">In the fast paced personal computer
+	<field name = "content">In the fast paced personal computer
 industry, millions can be made in six months, and such an
 opportunity may exist now for companies seeking to capitalize
 on the delay of a new IBM software standard.

@@ -2,14 +2,10 @@
 	<field name = "DATE">2-MAR-1987 12:08:11.99</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">C
-f0167
-reute
-d f BC-CME-PLANS-RULE-CHANGE   03-02 0085</field>
-	<field name = "TITLE">CME PLANS RULE CHANGES TIGHTENING S/P TRADING</field>
+	<field name = "titulo">CME PLANS RULE CHANGES TIGHTENING S/P TRADING</field>
 	<field name = "AUTHOR">By Brad Schade, Reuters</field>
 	<field name = "DATELINE">CHICAGO, March 2 -</field>
-	<field name = "BODY">Directors of the Chicago Mercantile
+	<field name = "content">Directors of the Chicago Mercantile
 Exchange will meet Wednesday to consider a membership petition
 asking the exchange to tighten rules covering trading
 activities in the widely-popular Standard and Poor's 500 Stock

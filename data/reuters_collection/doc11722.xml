@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 17:21:31.87</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2771reute
-r f BC-FUTURE-   03-31 0103</field>
-	<field name = "TITLE">OIL PRICES SAID NOW BASED ON FUTURES PRICE</field>
+	<field name = "titulo">OIL PRICES SAID NOW BASED ON FUTURES PRICE</field>
 	<field name = "DATELINE">SAN ANTONIO, TEXAS, March 31 -</field>
-	<field name = "BODY">Energy futures now set the
+	<field name = "content">Energy futures now set the
 standard for oil pricing, said Arnold Safer, president of The
 Energy Futures Group Inc, a consulting firm.
      "Petroleum futures trading at the New York Mercantile

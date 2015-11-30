@@ -1,8 +1,5 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 06:54:16.28</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">RM V 
-f0533reute
-f f BC-London'-FTSE-100-shar   10-20 0012</field>
-	<field name = "TITLE">London' FTSE 100 share index down 300.6 points to 1,751.7 at 1052 GMT</field>
+	<field name = "titulo">London' FTSE 100 share index down 300.6 points to 1,751.7 at 1052 GMT</field>
 </doc></add>

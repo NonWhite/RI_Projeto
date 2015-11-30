@@ -6,12 +6,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">lawson</field>
-	<field name = "UNKNOWN">RM V
-f0877reute
-u f BC-LAWSON-SAYS-LOUVRE-CU   06-02 0107</field>
-	<field name = "TITLE">LAWSON SAYS LOUVRE CURRENCY ACCORD SATISFACTORY</field>
+	<field name = "titulo">LAWSON SAYS LOUVRE CURRENCY ACCORD SATISFACTORY</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">The Louvre agreement by the Group of Seven
+	<field name = "content">The Louvre agreement by the Group of Seven
 finance ministers and central bankers to stabilise currencies
 has worked well and needs no fundamental strengthening at the
 economic summit in Venice on June 8-10, U.K. Chancellor of the

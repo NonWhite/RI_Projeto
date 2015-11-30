@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 12:36:48.98</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f5753reute
-u f BC-ATT-PHILIPS-BID-FOR-C   03-17 0120</field>
-	<field name = "TITLE">ATT-PHILIPS BID FOR CGCT OUTLINED</field>
+	<field name = "titulo">ATT-PHILIPS BID FOR CGCT OUTLINED</field>
 	<field name = "DATELINE">PARIS, March 17 -</field>
-	<field name = "BODY">American Telephone and Telegraph Co and
+	<field name = "content">American Telephone and Telegraph Co and
 Philips Telecommunications BV (APT) would hold 36 pct through
 direct and indirect holdings in France's Cie Generale de
 Constructions Telephoniques> if a joint bid with French

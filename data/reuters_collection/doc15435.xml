@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0466reute
-b f BC-U.K.-MONEY-MARKET-GET   04-09 0069</field>
-	<field name = "TITLE">U.K. MONEY MARKET GETS 103 MLN STG HELP</field>
+	<field name = "titulo">U.K. MONEY MARKET GETS 103 MLN STG HELP</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">The Bank of England said it operated in
+	<field name = "content">The Bank of England said it operated in
 the money market this morning, buying 103 mln stg bank bills.
     The central bank bought in band one 60 mln stg at 9-7/8, in
 band two eight mln at 9-13/16, in band three 26 mln at 9-3/4

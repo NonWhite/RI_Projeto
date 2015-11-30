@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:31:40.51</field>
-	<field name = "UNKNOWN">RM C G L M T
-f0177reute
-u f BC-DOLLAR-OPENS-LOWER-IN   04-07 0102</field>
-	<field name = "TITLE">DOLLAR OPENS LOWER IN QUIET ZURICH</field>
+	<field name = "titulo">DOLLAR OPENS LOWER IN QUIET ZURICH</field>
 	<field name = "DATELINE">ZURICH, April 7 -</field>
-	<field name = "BODY">The dollar opened slightly lower in quiet
+	<field name = "content">The dollar opened slightly lower in quiet
 trading, with dealers holding back ahead of the outcome of this
 week's top-level international monetary talks in Washington.
     The dollar began here at 1.5128/5138 Swiss francs, down

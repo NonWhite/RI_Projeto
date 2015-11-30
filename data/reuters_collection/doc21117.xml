@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 14:06:31.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2462reute
-d f BC-INVESTOR-SUES-FIRST-N   10-19 0106</field>
-	<field name = "TITLE">INVESTOR SUES FIRST NORTHERN SAVINGS FNGB.O></field>
+	<field name = "titulo">INVESTOR SUES FIRST NORTHERN SAVINGS FNGB.O></field>
 	<field name = "DATELINE">MINNEAPOLIS, Oct 19 -</field>
-	<field name = "BODY">Investor Donald Knutson said he filed
+	<field name = "content">Investor Donald Knutson said he filed
 a suit against First Northern Savings and Loan Association of
 Green Bay, stating his request of management for access to
 First Northern's stockholder lists had been denied.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 09:36:00.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0837reute
-h f BC-XIOX-XIOX.O>-REINCOR   06-19 0026</field>
-	<field name = "TITLE">XIOX XIOX.O> REINCORPORATES IN DELAWARE</field>
+	<field name = "titulo">XIOX XIOX.O> REINCORPORATES IN DELAWARE</field>
 	<field name = "DATELINE">BURLINGAME, Calif., June 19 -</field>
-	<field name = "BODY">Xiox Corp said it has changed
+	<field name = "content">Xiox Corp said it has changed
 its state of incorporation to Delaware from California.
  Reuter</field>
 </doc></add>

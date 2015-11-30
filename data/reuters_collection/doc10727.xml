@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 05:02:39.78</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0371reute
-u f BC-CREDIT-AGRICOLE-OFFER   03-30 0067</field>
-	<field name = "TITLE">CREDIT AGRICOLE OFFERS TO SWAP BONDS</field>
+	<field name = "titulo">CREDIT AGRICOLE OFFERS TO SWAP BONDS</field>
 	<field name = "DATELINE">PARIS, March 30 -</field>
-	<field name = "BODY">Credit Agricole announced an offer to
+	<field name = "content">Credit Agricole announced an offer to
 swap the 1,889,000 francs of bonds outstanding on its original
 4.25 mln franc, 10-year, 14 pct July 1980 issue for its new
 four billion franc, two tranche, 8.30 pct, 1987 issue.

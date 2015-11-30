@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">sourrouille</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">A 
-f0534reute
-u f BC-ARGENTINE-MINISTER-TO   06-29 0112</field>
-	<field name = "TITLE">ARGENTINE MINISTER TO SEEK RELEASE OF LOANS</field>
+	<field name = "titulo">ARGENTINE MINISTER TO SEEK RELEASE OF LOANS</field>
 	<field name = "DATELINE">BUENOS AIRES, June 29 -</field>
-	<field name = "BODY">Argentine Economy Minister Juan
+	<field name = "content">Argentine Economy Minister Juan
 Sourrouille left at the weekend for the United States for talks
 with creditor banks and the IMF aimed at obtaining the release
 of new loans, the semi-official news agency Telam said.

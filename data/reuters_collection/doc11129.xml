@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 18:11:35.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2739reute
-r f BC-ENDOTRONICS-ENDO>-RE   03-30 0048</field>
-	<field name = "TITLE">ENDOTRONICS ENDO> REDUCES STAFF</field>
+	<field name = "titulo">ENDOTRONICS ENDO> REDUCES STAFF</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 30 -</field>
-	<field name = "BODY">Endotronics Inc said it has cut
+	<field name = "content">Endotronics Inc said it has cut
 about 70 employees, or 42 pct of its worforce.
     It said the action is necessary to successfully reorganize
 the company under Chapter 11 of the U.S. bankruptcy code, for

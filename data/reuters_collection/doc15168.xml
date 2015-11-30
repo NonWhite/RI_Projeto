@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:18:34.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1921reute
-d f BC-LE-PEEP-RESTAURANTS-S   04-08 0086</field>
-	<field name = "TITLE">LE PEEP RESTAURANTS SUES OHIO COMPANY</field>
+	<field name = "titulo">LE PEEP RESTAURANTS SUES OHIO COMPANY</field>
 	<field name = "DATELINE">DENVER, April 8 -</field>
-	<field name = "BODY">Le Peep Restaurants Inc> said it is
+	<field name = "content">Le Peep Restaurants Inc> said it is
 suing an Ohio company, charging it copied its restaurant from
 its menu to its design.
     The action is being taken against Shelly's Inc>, operator

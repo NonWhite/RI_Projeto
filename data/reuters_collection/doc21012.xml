@@ -6,13 +6,10 @@
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
 	<field name = "PLACES">kuwait</field>
-	<field name = "UNKNOWN">Y RM 
-f2820reute
-u f AM-GULF-FUTURE   10-19 0081</field>
-	<field name = "TITLE">LATEST ATTACK SEEN POINTING UP DILEMMAS FOR US</field>
+	<field name = "titulo">LATEST ATTACK SEEN POINTING UP DILEMMAS FOR US</field>
 	<field name = "AUTHOR">By CHRISTOPHER HANSON</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">Military experts say the United States
+	<field name = "content">Military experts say the United States
 faces a dilemma in the Gulf following U.S. destruction of an
 Iranian oil platform in retaliation for an attack on a
 U.S.-flagged tanker.

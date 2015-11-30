@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 10:47:32.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1179reute
-u f BC-BRISTOL-MYERS-BMY>-F   03-25 0102</field>
-	<field name = "TITLE">BRISTOL-MYERS BMY> FILES AIDS VACCINE WITH FDA</field>
+	<field name = "titulo">BRISTOL-MYERS BMY> FILES AIDS VACCINE WITH FDA</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Bristol-Myers Co said it has filed an
+	<field name = "content">Bristol-Myers Co said it has filed an
 investigational new drug application with the U.S. Food and
 Drug Administration requesting the agency to allow it to begin
 testing its AIDS vaccine in humans.

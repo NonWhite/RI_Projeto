@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 10:21:11.05</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1013reute
-d f BC-ADTEC-INC-JAIL>-3RD   03-19 0064</field>
-	<field name = "TITLE">ADTEC INC JAIL> 3RD QTR FEB 28 NET</field>
+	<field name = "titulo">ADTEC INC JAIL> 3RD QTR FEB 28 NET</field>
 	<field name = "DATELINE">SAN ANTONIO, Texas, March 19 -</field>
-	<field name = "BODY">Oper shr 11 cts vs 11 cts
+	<field name = "content">Oper shr 11 cts vs 11 cts
     Oper net 164,000 vs 161,000
     Revs 2,598,000 vs 2,241,000
     Nine mths

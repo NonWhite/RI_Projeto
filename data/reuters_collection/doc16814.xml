@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 09:24:46.05</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0209reute
-d f BC-ENDATA-INC-DATA.O>-1   04-17 0035</field>
-	<field name = "TITLE">ENDATA INC DATA.O> 1ST QTR NET</field>
+	<field name = "titulo">ENDATA INC DATA.O> 1ST QTR NET</field>
 	<field name = "DATELINE">NASHVILLE, Tenn., April 17 -</field>
-	<field name = "BODY">Oper shr 16 cts vs 11 cts
+	<field name = "content">Oper shr 16 cts vs 11 cts
     Oper net 660,000 vs 447,000
     Revs 9,936,000 vs 9,005,000
     NOTE: 1986 net excludes 381,000 dlr tax credit.

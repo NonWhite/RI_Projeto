@@ -3,12 +3,9 @@
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F RM
-f2250reute
-r f BC-BANK-OF-MONTREAL-HOPE   03-26 0112</field>
-	<field name = "TITLE">BANK OF MONTREAL HOPEFUL ON BRAZIL - PRESIDENT</field>
+	<field name = "titulo">BANK OF MONTREAL HOPEFUL ON BRAZIL - PRESIDENT</field>
 	<field name = "DATELINE">TORONTO, March 26 -</field>
-	<field name = "BODY">Bank of Montreal> is confident a
+	<field name = "content">Bank of Montreal> is confident a
 solution will be found to Brazil's foreign debt problem and is
 not considering declaring its Brazilian loans non-performing,
 president Grant Reuber said.

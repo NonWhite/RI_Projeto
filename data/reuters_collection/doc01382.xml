@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 17:36:48.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f0088reute
-r f BC-FIRST-UNION-FUNC>-SE   03-03 0082</field>
-	<field name = "TITLE">FIRST UNION FUNC> SELLS DEBT AT 8-1/8 PCT</field>
+	<field name = "titulo">FIRST UNION FUNC> SELLS DEBT AT 8-1/8 PCT</field>
 	<field name = "DATELINE">CHARLOTTE, N.C., March 3 -</field>
-	<field name = "BODY">First Union Corp said it is
+	<field name = "content">First Union Corp said it is
 raising 100 mln dlrs through an offering of par-priced 8-1/8
 pct subordinated notes due December 15, 1996.
     Managing underwriter for the issue is Shearson Lehman

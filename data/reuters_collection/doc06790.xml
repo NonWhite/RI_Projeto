@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 15:57:37.40</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">Y
-f9343reute
-u f BC-ESSO-SAF-SAYS-NO-IMME   03-18 0102</field>
-	<field name = "TITLE">NO IMMEDIATE PLANS TO CLOSE REFINERY - ESSO SAF</field>
+	<field name = "titulo">NO IMMEDIATE PLANS TO CLOSE REFINERY - ESSO SAF</field>
 	<field name = "DATELINE">PARIS, March 18 -</field>
-	<field name = "BODY">ESSO SAF ESSF.PA>, the French subsidiary
+	<field name = "content">ESSO SAF ESSF.PA>, the French subsidiary
 of Exxon Corp XON>, said it had no immediate plans to shut
 down one of its two refineries. Exxon's new president Lee R.
 Raymond said earlier that it could decide to close a French

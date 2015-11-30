@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 11:55:28.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1622reute
-d f BC-RICOH-REORGANIZES-U.S   03-26 0064</field>
-	<field name = "TITLE">RICOH REORGANIZES U.S. UNITS</field>
+	<field name = "titulo">RICOH REORGANIZES U.S. UNITS</field>
 	<field name = "DATELINE">WEST CALDWELL, N.J., March 26 -</field>
-	<field name = "BODY">Ricoh Corp, the U.S. unit
+	<field name = "content">Ricoh Corp, the U.S. unit
 of Japan-based Ricoh Ltd>, said it merged Ricoh Systems Inc
 into Ricoh Corp.
     The U.S. unit also purchased Ricoh Electronics Inc from the

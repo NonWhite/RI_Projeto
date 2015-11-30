@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 13:19:58.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0181reute
-r f BC-BEVERLY-ENTERPRISES-   03-05 0110</field>
-	<field name = "TITLE">BEVERLY ENTERPRISES BEV> DEBT LOWERED BY S/P</field>
+	<field name = "titulo">BEVERLY ENTERPRISES BEV> DEBT LOWERED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 downgraded 225 mln dlrs of debt of Beverly Enterprises.
     Cut were the company's senior debt to BB-minus from BB and
 subordinated debt to B-plus from BB-minus. The implied senior

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 15:04:22.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2323reute
-r f BC-TISCH-SAYS-CBS-CBS>   03-31 0109</field>
-	<field name = "TITLE">TISCH SAYS CBS CBS> HAS GROWN STRONGER</field>
+	<field name = "titulo">TISCH SAYS CBS CBS> HAS GROWN STRONGER</field>
 	<field name = "DATELINE">DALLAS, March 31 -</field>
-	<field name = "BODY">Laurence A. Tisch said CBS Inc is a
+	<field name = "content">Laurence A. Tisch said CBS Inc is a
 stronger company now than when he took control six months ago.
     Tisch, in a speech before the National Association of
 Broadcasters, said his cost-cutting efforts have made CBS a

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 07:44:35.00</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0699reute
-b f BC-BHF-UNIT-ISSUES-30-ML   04-02 0099</field>
-	<field name = "TITLE">BHF UNIT ISSUES 30 MLN AUSTRALIAN DLR EUROBOND</field>
+	<field name = "titulo">BHF UNIT ISSUES 30 MLN AUSTRALIAN DLR EUROBOND</field>
 	<field name = "DATELINE">FRANKFURT, April 2 - A unit of Berliner Handels-</field>
-	<field name = "BODY">und
+	<field name = "content">und
 Frankfurter Bank (BHF) is raising 30 mln Australian dollars
 through a five-year bullet eurobond with a 14-1/4 pct coupon
 and priced at 101-1/4, sole manager BHF said.

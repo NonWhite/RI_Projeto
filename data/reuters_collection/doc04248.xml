@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 10:28:06.95</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0179reute
-r f BC-LEADER-LDCO>-BUYS-PE   03-12 0109</field>
-	<field name = "TITLE">LEADER LDCO> BUYS PETROSURANCE STAKE</field>
+	<field name = "titulo">LEADER LDCO> BUYS PETROSURANCE STAKE</field>
 	<field name = "DATELINE">COLUMBUS, Ohio, March 12 -</field>
-	<field name = "BODY">Leader Development Corp said it
+	<field name = "content">Leader Development Corp said it
 has purchased 300,000 shares of convertible preferred stock in
 Petrosurance Inc> for 1,500,000 dlrs in cash and real estate.
     Petrosurance specializes in property and casualty insurance

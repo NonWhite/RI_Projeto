@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 13:35:14.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8902reute
-r f BC-ALLIED-BANKSHARES-AL   03-18 0059</field>
-	<field name = "TITLE">ALLIED BANKSHARES ALBN> SHARE OFFER EFFECTIVE</field>
+	<field name = "titulo">ALLIED BANKSHARES ALBN> SHARE OFFER EFFECTIVE</field>
 	<field name = "DATELINE">THOMSON, Ga., March 18 -</field>
-	<field name = "BODY">Allied Bankshares Inc said its
+	<field name = "content">Allied Bankshares Inc said its
 registration statement covering a 500,000 share offering was
 declared effective.
     The company said the stock will be sold at 12.50 dlrs a

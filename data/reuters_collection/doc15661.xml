@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:47:54.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1433reute
-r f BC-TOTH-ALUMINUM-TOTH>   04-09 0043</field>
-	<field name = "TITLE">TOTH ALUMINUM TOTH> SHARE OFFERING UNDER WAY</field>
+	<field name = "titulo">TOTH ALUMINUM TOTH> SHARE OFFERING UNDER WAY</field>
 	<field name = "DATELINE">NEW ORLEANS, April 9 -</field>
-	<field name = "BODY">Toth Aluminum Corp said an offering
+	<field name = "content">Toth Aluminum Corp said an offering
 of 2,500,000 common shares is under way at 1.875 dlrs each.
     It said another 5,993,577 shares are issuable on the
 exercise of outstanding options.

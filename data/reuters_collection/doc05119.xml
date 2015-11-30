@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 18:17:59.93</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">C G L M T
-f0697reute
-d f BC-venezuela's-biggest-p   03-13 0105</field>
-	<field name = "TITLE">VENEZUELA'S BIGGEST PRIVATE DEBTOR FACES DEFAULT</field>
+	<field name = "titulo">VENEZUELA'S BIGGEST PRIVATE DEBTOR FACES DEFAULT</field>
 	<field name = "DATELINE">CARACAS, March 13 -</field>
-	<field name = "BODY">Venezuela's biggest private sector
+	<field name = "content">Venezuela's biggest private sector
 company, La Electricidad de Caracas, will meet urgently with
 bank creditors in New York on monday to discuss the danger of a
 total default on its 622 mln dlr foreign debt, a company

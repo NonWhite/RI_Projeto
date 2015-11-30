@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">greece</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">A
-f0783reute
-u f BC-GREECE-SCRAPS-U.S.-BA   03-30 0094</field>
-	<field name = "TITLE">GREECE SCRAPS U.S. BASE CLOSURE REQUEST</field>
+	<field name = "titulo">GREECE SCRAPS U.S. BASE CLOSURE REQUEST</field>
 	<field name = "DATELINE">ATHENS, March 30 -</field>
-	<field name = "BODY">Prime Minister Andreas Papandreou has
+	<field name = "content">Prime Minister Andreas Papandreou has
 withdrawn a request to Washington to suspend operations at an
 American army base near Athens as a Greek-Turkish row over oil
 rights in the Aegean eased.

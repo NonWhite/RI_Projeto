@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 13:22:45.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1828reute
-d f BC-WHITEHALL-WHT>-GETS   03-19 0068</field>
-	<field name = "TITLE">WHITEHALL WHT> GETS NAVY CONTRACT</field>
+	<field name = "titulo">WHITEHALL WHT> GETS NAVY CONTRACT</field>
 	<field name = "DATELINE">DALLAS, March 19 -</field>
-	<field name = "BODY">Whitehall Corp said the U.S. Navy has
+	<field name = "content">Whitehall Corp said the U.S. Navy has
 exercised contract options to lease two additional Quick
 Reaction Surveillance Systems for the year ending September 30
 from Whitehall for 4,437,000 dlrs.

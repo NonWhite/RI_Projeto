@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 13:12:00.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM Y
-f1927reute
-u f BC-TEXACO'S-TX>-DEBT-DO   04-13 0096</field>
-	<field name = "TITLE">TEXACO'S TX> DEBT DOWNGRADED TO CAA BY MOODY'S</field>
+	<field name = "titulo">TEXACO'S TX> DEBT DOWNGRADED TO CAA BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Moody's Investors Services Inc said it
+	<field name = "content">Moody's Investors Services Inc said it
 downgraded about 8.2 billion dlrs of debt of Texaco Inc and its
 units.
     Moody's cited Texaco's filing under Chapter 11 of the

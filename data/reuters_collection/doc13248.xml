@@ -2,13 +2,10 @@
 	<field name = "DATE">5-APR-1987 05:03:59.35</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0041reute
-r f BC-JAL-PLANE-CRASH-THOUG   04-05 0112</field>
-	<field name = "TITLE">JAL PLANE CRASH THOUGHT DUE TO BOEING BA.N> FAULT</field>
+	<field name = "titulo">JAL PLANE CRASH THOUGHT DUE TO BOEING BA.N> FAULT</field>
 	<field name = "AUTHOR">By Janet Snyder, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 5 -</field>
-	<field name = "BODY">A Japanese government investigation team
+	<field name = "content">A Japanese government investigation team
 believes that faulty repairs by Boeing Co caused the worst
 single plane crash in history, one of the team said.
     Boeing Co is the manufacturer of the Japan Air Lines 747

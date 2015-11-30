@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 18:21:36.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3356reute
-d f BC-NAT'L-PROCESSING-FKY   10-19 0067</field>
-	<field name = "TITLE">NAT'L PROCESSING FKYN.O>, CHRYSLER C> IN PACT</field>
+	<field name = "titulo">NAT'L PROCESSING FKYN.O>, CHRYSLER C> IN PACT</field>
 	<field name = "DATELINE">LOUISVILLE, Ky., Oct 19 -</field>
-	<field name = "BODY">National Processing Co INc said
+	<field name = "content">National Processing Co INc said
 it signed a contract with Chrylser Corp's Chrysler Financial
 Corp unit to process its loan payment trasactions beginning
 February 1988.

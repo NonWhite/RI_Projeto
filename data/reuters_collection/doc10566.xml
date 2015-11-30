@@ -1,16 +1,14 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:00:55.39Y</field>
-	<field name = "UNKNOWN">f1751reute</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "TOPICS">heat</field>
 	<field name = "TOPICS">propane</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-U.S.-ENERGY-COSTS-ROS   03-27 0091</field>
-	<field name = "TITLE">U.S. ENERGY COSTS ROSE IN FEBRUARY BY 1.9 PCT</field>
+	<field name = "titulo">U.S. ENERGY COSTS ROSE IN FEBRUARY BY 1.9 PCT</field>
 	<field name = "DATELINE">WASHINGTON, March 27 -</field>
-	<field name = "BODY">Consumer energy costs rose 1.9 pct
+	<field name = "content">Consumer energy costs rose 1.9 pct
 in February following a sharp rise last month, the Labor
 Department said.
     The February increase in the overall energy costs,

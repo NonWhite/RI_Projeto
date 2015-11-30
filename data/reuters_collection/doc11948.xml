@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">kenya</field>
-	<field name = "UNKNOWN">C G T M
-f1054reute
-d f BC-KENYAN-MINISTER-FOREC   04-01 0134</field>
-	<field name = "TITLE">KENYAN MINISTER FORECASTS ECONOMIC EXPANSION</field>
+	<field name = "titulo">KENYAN MINISTER FORECASTS ECONOMIC EXPANSION</field>
 	<field name = "DATELINE">NAIROBI, April 1 -</field>
-	<field name = "BODY">Kenya's economy will continue to expand
+	<field name = "content">Kenya's economy will continue to expand
 this year and the government will do more to encourage
 investment by foreign firms and the local private sector,
 Planning Minister Robert Ouko said.

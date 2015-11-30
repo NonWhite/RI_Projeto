@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 00:55:38.27</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F
-f0028reute
-u f BC-JAPAN-VEHICLE-EXPORTS   03-30 0085</field>
-	<field name = "TITLE">JAPAN VEHICLE EXPORTS FALL IN FEBRUARY</field>
+	<field name = "titulo">JAPAN VEHICLE EXPORTS FALL IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">Japanese vehicle exports fell 8.2 pct in
+	<field name = "content">Japanese vehicle exports fell 8.2 pct in
 February from January to 530,066, the Japan Automobile
 Manufacturers Association said.
     February exports fell 6.8 pct from a year earlier after a

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 00:08:28.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0013reute
-u f BC-HOSPITAL-CORP-HCA>-G   06-01 0119</field>
-	<field name = "TITLE">HOSPITAL CORP HCA> GETS FUNDS FOR RESTRUCTURING</field>
+	<field name = "titulo">HOSPITAL CORP HCA> GETS FUNDS FOR RESTRUCTURING</field>
 	<field name = "DATELINE">NASHVILLE, TENN., May 31 -</field>
-	<field name = "BODY">Hospital Corp of America said it
+	<field name = "content">Hospital Corp of America said it
 received financing commitments of about 1.9 billion dlrs to pay
 for its previously announced reorganization, which was approved
 by the company's board of directors today.

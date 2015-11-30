@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 12:45:59.60</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f1818reute
-u f BC-HOECHST   04-13 0094</field>
-	<field name = "TITLE">HOECHST PLANS OFFERING TO FINANCE MERGER DEBT</field>
+	<field name = "titulo">HOECHST PLANS OFFERING TO FINANCE MERGER DEBT</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">Hoechst Celanese Corp, a recently
+	<field name = "content">Hoechst Celanese Corp, a recently
 formed subsidiary of Hoechst AG of Frankfurt, West Germany,
 filed with the Securities and Exchange Commission for a 500 mln
 dlr debt offering to repay part of its merger debt.

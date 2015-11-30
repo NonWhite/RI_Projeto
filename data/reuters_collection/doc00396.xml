@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 09:21:31.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0469
-reute
-u f BC-WRITERS-GUILD-OF-AMER   03-02 0042</field>
-	<field name = "TITLE">WRITERS GUILD OF AMERICA STRIKES TWO NETWORKS</field>
+	<field name = "titulo">WRITERS GUILD OF AMERICA STRIKES TWO NETWORKS</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">The Writers Guild of America said its
+	<field name = "content">The Writers Guild of America said its
 members have struck the news staffs of CBS Inc CBS> and
 Capital Cities/ABC Inc CCB> this morning after negotiations
 for a new contract broke down.

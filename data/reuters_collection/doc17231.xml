@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 02:42:56.63</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0084reute
-u f BC-C.-ITOH-TO-BUY-CRAY-S   04-27 0109</field>
-	<field name = "TITLE">C. ITOH TO BUY CRAY SUPERCOMPUTER</field>
+	<field name = "titulo">C. ITOH TO BUY CRAY SUPERCOMPUTER</field>
 	<field name = "DATELINE">TOKYO, April 27 -</field>
-	<field name = "BODY">C. Itoh and Co Ltd CITT.T> said in a
+	<field name = "content">C. Itoh and Co Ltd CITT.T> said in a
 statement it has agreed in principle to buy a Cray Research Inc
 CYR> X-MP supercomputer worth 8.3 mln dlrs.
     The computer will be paid for and used by the Century

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 07:10:03.38</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0493reute
-b f BC-GLAXO-PROFITS-UP-SHAR   04-13 0050</field>
-	<field name = "TITLE">GLAXO PROFITS UP SHARPLY, DIVIDEND RAISED</field>
+	<field name = "titulo">GLAXO PROFITS UP SHARPLY, DIVIDEND RAISED</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">Six months to end-December
+	<field name = "content">Six months to end-December
     Shr 32.6p vs 22.3p
     Div 5.0p vs 4.0p
     Pre-tax profit 376 mln stg vs 260 mln

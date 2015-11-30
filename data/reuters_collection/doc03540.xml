@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 08:16:54.73</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">portugal</field>
-	<field name = "UNKNOWN">RM
-f0775reute
-u f BC-PORTUGUESE-TRADE-DEFI   03-11 0115</field>
-	<field name = "TITLE">PORTUGUESE TRADE DEFICIT NARROWS IN 1986</field>
+	<field name = "titulo">PORTUGUESE TRADE DEFICIT NARROWS IN 1986</field>
 	<field name = "DATELINE">LISBON, March 11 -</field>
-	<field name = "BODY">Portugal's trade deficit narrowed in
+	<field name = "content">Portugal's trade deficit narrowed in
 1986 to 336.5 billion escudos from 354.8 billion in 1985,
 according to provisional National Statistics Institute figures.
     Imports totalled 1,412.6 billion escudos and exports

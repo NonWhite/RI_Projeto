@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 16:47:15.87</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0568reute
-d f BC-STANDARD-LOGIC-INC-S   03-12 0060</field>
-	<field name = "TITLE">STANDARD LOGIC INC STDL> 1ST QTR LOSS</field>
+	<field name = "titulo">STANDARD LOGIC INC STDL> 1ST QTR LOSS</field>
 	<field name = "DATELINE">CORONA, Calif., March 12 -</field>
-	<field name = "BODY">Qtr ends Jan 30
+	<field name = "content">Qtr ends Jan 30
     Oper shr loss 45 cts vs profit 44 cts
     Oper Net loss 225,815 vs profit 219,593
     Revs 175,247 vs 827,748

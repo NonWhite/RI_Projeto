@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 08:42:35.04</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0782reute
-u f BC-NATIONAL-SEMICONDUCTO   03-24 0066</field>
-	<field name = "TITLE">NATIONAL SEMICONDUCTOR CORP NSM> 3RD QTR LOSS</field>
+	<field name = "titulo">NATIONAL SEMICONDUCTOR CORP NSM> 3RD QTR LOSS</field>
 	<field name = "DATELINE">SANTA CLARA, Calif., March 24 -</field>
-	<field name = "BODY">March Eight
+	<field name = "content">March Eight
     Shr loss 31 cts vs loss 47 cts
     Net loss 25.6 mln vs loss 39.4 mln
     Sales 398.1 mln vs 322.3 mln

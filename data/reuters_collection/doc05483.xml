@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:29:29.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2806reute
-r f BC-HOECHST-AG>-UNIT-TO   03-16 0111</field>
-	<field name = "TITLE">HOECHST AG> UNIT TO RAISE 500 MLN DLRS</field>
+	<field name = "titulo">HOECHST AG> UNIT TO RAISE 500 MLN DLRS</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">Hoechst AG's> Hoechst Celanese Corp
+	<field name = "content">Hoechst AG's> Hoechst Celanese Corp
 subsidiary said it plans to raise about 500 mln dlrs in U.S.
 capital markets in three to four months.
     Company officials, at a press conference, said the money

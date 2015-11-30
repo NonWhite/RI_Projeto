@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 08:30:56.21</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0879reute
-d f BC-MITSUI-AND-CO-EUROBON   03-05 0105</field>
-	<field name = "TITLE">MITSUI AND CO EUROBONDS FORMALLY LAUNCHED</field>
+	<field name = "titulo">MITSUI AND CO EUROBONDS FORMALLY LAUNCHED</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">The two 150 mln dlr equity warrant
+	<field name = "content">The two 150 mln dlr equity warrant
 eurobonds for Mitsui and Co Ltd, reported earlier today from
 Tokyo, have now been formally launched, lead manager Nomura
 International Ltd said.

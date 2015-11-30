@@ -4,12 +4,9 @@
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">C L 
-f1625reute
-b f BC-U.S.-REFUSES-PARTS-OF   06-19 0115</field>
-	<field name = "TITLE">U.S. REFUSES PARTS OF TWO AUSTRALIA BEEF CARGOES</field>
+	<field name = "titulo">U.S. REFUSES PARTS OF TWO AUSTRALIA BEEF CARGOES</field>
 	<field name = "DATELINE">WASHINGTON, June 19 -</field>
-	<field name = "BODY">U.S. Agriculture Department
+	<field name = "content">U.S. Agriculture Department
 inspectors have refused entry to parts of two lots of
 Australian beef because of pesticide residues, a spokeswoman
 for the department said.

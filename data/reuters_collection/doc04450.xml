@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 15:10:01.79</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0210reute
-h f BC-THERMWOOD-CORP-THM>   03-12 0049</field>
-	<field name = "TITLE">THERMWOOD CORP THM> 2ND QTR JAN 31 NET</field>
+	<field name = "titulo">THERMWOOD CORP THM> 2ND QTR JAN 31 NET</field>
 	<field name = "DATELINE">DALE, IND., March 12 -</field>
-	<field name = "BODY">Shr three cts vs three cts
+	<field name = "content">Shr three cts vs three cts
     Net 165,798 vs 143,872
     Sales 1,787,561 vs 1,072,686
     Six mths

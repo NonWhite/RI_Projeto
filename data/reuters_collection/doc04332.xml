@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 12:30:35.96</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0708reute
-u f BC-MOBIL-MOB>-TO-RESTRU   03-12 0116</field>
-	<field name = "TITLE">MOBIL MOB> TO RESTRUCTURE EXPLORATION UNIT</field>
+	<field name = "titulo">MOBIL MOB> TO RESTRUCTURE EXPLORATION UNIT</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Mobil Oil Corp said it will
+	<field name = "content">Mobil Oil Corp said it will
 restructure its Dallas-based Mobil Exploration and Producing
 Services Inc operations April one, to provide stronger
 technological support to its U.S. and overseas operations.

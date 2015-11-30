@@ -3,12 +3,9 @@
 	<field name = "TOPICS">pet-chem</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">F
-f1957reute
-r f BC-AMOCO-AN>-TO-BUILD-T   06-15 0105</field>
-	<field name = "TITLE">AMOCO AN> TO BUILD TAIWAN CHEMICAL PLANT</field>
+	<field name = "titulo">AMOCO AN> TO BUILD TAIWAN CHEMICAL PLANT</field>
 	<field name = "DATELINE">CHICAGO, June 15 -</field>
-	<field name = "BODY">Amoco Corp said a Taiwan petrochemical
+	<field name = "content">Amoco Corp said a Taiwan petrochemical
 venture in which it is part owner plans to build a chemical
 plant in Taiwan.
     The company said the plant, to be built by China American

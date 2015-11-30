@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 09:03:21.43</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0864reute
-r f BC-NP-ENERGY-NPEEQ>-SAY   04-02 0083</field>
-	<field name = "TITLE">NP ENERGY NPEEQ> SAYS TRUSTEE APPOINTED</field>
+	<field name = "titulo">NP ENERGY NPEEQ> SAYS TRUSTEE APPOINTED</field>
 	<field name = "DATELINE">LOS ANGELES, April 2 -</field>
-	<field name = "BODY">NP Energy Corp said the U.S.
+	<field name = "content">NP Energy Corp said the U.S.
 Bankruptcy Court has indicated it will appoint a trustee to
 oversee the company's Chapter 11 bankruptcy proceedings.
     It said it hopes the appointment will thwart "hostile"

@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 15:41:00.51</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f9288reute
-r f BC-U.S.-BANK-INCOME-SHOW   03-18 0104</field>
-	<field name = "TITLE">U.S. BANK INCOME SHOWS FIRST DROP IN 25 YEARS</field>
+	<field name = "titulo">U.S. BANK INCOME SHOWS FIRST DROP IN 25 YEARS</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">Problems in the farmbelt and
+	<field name = "content">Problems in the farmbelt and
 oilpatch regions contributed to the first decline in overall
 income for U.S. banks in a quarter century, the Federal Deposit
 Insurance Corp (FDIC) said.

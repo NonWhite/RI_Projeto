@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 18:29:03.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2704reute
-r f BC-GAF-GAF>-DEBT-MAY-BE   04-01 0111</field>
-	<field name = "TITLE">GAF GAF> DEBT MAY BE DOWNGRADED BY S/P</field>
+	<field name = "titulo">GAF GAF> DEBT MAY BE DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it may
+	<field name = "content">Standard and Poor's Corp said it may
 downgrade GAF Corp's 415 mln dlrs of BB-minus senior debt and
 B-rated subordinated debt.
     S and P cited GAF's 3.2 billion dlr acquisition offer for

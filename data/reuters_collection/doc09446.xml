@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:10:55.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f1809reute
-r f BC-ATLANTIS-GROUP-INC>   03-25 0096</field>
-	<field name = "TITLE">ATLANTIS GROUP INC> TO OFFER SHARES, NOTES</field>
+	<field name = "titulo">ATLANTIS GROUP INC> TO OFFER SHARES, NOTES</field>
 	<field name = "DATELINE">MIAMI, March 25 -</field>
-	<field name = "BODY">Atlantis Group Inc said it has filed for
+	<field name = "content">Atlantis Group Inc said it has filed for
 an initial public offering of 1,500,000 common shares and a 50
 mln dlr offering of subordinated notes due 1997.
     The company said Robinson-Humphrey Co Inc and Sutro and Co

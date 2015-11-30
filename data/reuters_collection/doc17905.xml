@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 04:36:37.12</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0260reute
-u f BC-GERMAN-GNP-FIGURES-PU   06-02 0098</field>
-	<field name = "TITLE">GERMAN GNP FIGURES PUBLICATION DELAYED</field>
+	<field name = "titulo">GERMAN GNP FIGURES PUBLICATION DELAYED</field>
 	<field name = "DATELINE">WIESBADEN, June 2 -</field>
-	<field name = "BODY">Figures for first quarter 1987 West
+	<field name = "content">Figures for first quarter 1987 West
 German GNP will be published on June 11 after they were
 provisionally scheduled for June 4, an official at the Federal
 Statistics Office said.

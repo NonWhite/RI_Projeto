@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 09:38:28.77</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM
-f0876reute
-r f BC-LITTLE-JOY-FOR-SWISS   03-13 0113</field>
-	<field name = "TITLE">LITTLE JOY FOR SWISS EXPORTERS, STUDY SAYS</field>
+	<field name = "titulo">LITTLE JOY FOR SWISS EXPORTERS, STUDY SAYS</field>
 	<field name = "DATELINE">BERNE, March 13 -</field>
-	<field name = "BODY">The continued strength of the Swiss franc
+	<field name = "content">The continued strength of the Swiss franc
 against the dollar will largely deprive Swiss exporters of the
 benefits of the upturn in the world economy, a quarterly study
 by the Economics Department said.

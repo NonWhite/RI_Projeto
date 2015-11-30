@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:39:51.02</field>
-	<field name = "UNKNOWN">E F
-f0333
-reute
-r f BC-PACIFIC-WESTERN-FUSES   03-02 0111</field>
-	<field name = "TITLE">PACIFIC WESTERN FUSES MANAGEMENT WITH CP AIR</field>
+	<field name = "titulo">PACIFIC WESTERN FUSES MANAGEMENT WITH CP AIR</field>
 	<field name = "DATELINE">CALGARY, Alberta, March 2 -</field>
-	<field name = "BODY">Pacific Western Airlines Corp>
+	<field name = "content">Pacific Western Airlines Corp>
 said it integrated the senior management of Pacific Western and
 recently acquired Canadian Pacific Air Lines Ltd in preparation
 for the companies' merger this summer.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 13:48:19.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1989reute
-r f BC-CONTROL-RESOURCES-CR   03-24 0084</field>
-	<field name = "TITLE">CONTROL RESOURCES CRIX> NAMES PRESIDENT</field>
+	<field name = "titulo">CONTROL RESOURCES CRIX> NAMES PRESIDENT</field>
 	<field name = "DATELINE">MICHIGAN CITY, Ind., March 24 -</field>
-	<field name = "BODY">Control Resources
+	<field name = "content">Control Resources
 Industries Inc said R. Joseph Clancy was named to the
 newly-created position of president.
     It also said Cody Geddes was named vice president and chief

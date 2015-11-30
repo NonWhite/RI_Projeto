@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 17:34:52.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0194
-reute
-r f BC-PAINEWEBBER-GROUP-PW   02-26 0064</field>
-	<field name = "TITLE">PAINEWEBBER GROUP PWJ> TO REDEEM DEBENTURES</field>
+	<field name = "titulo">PAINEWEBBER GROUP PWJ> TO REDEEM DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, Feb 26 -</field>
-	<field name = "BODY">Painewebber Group Inc said it will
+	<field name = "content">Painewebber Group Inc said it will
 redeem all its outstanding 8-1/4 pct convertible subordinated
 debentures due 2008.
     It said it will redeem all the debentures for 1,060.50 dlrs

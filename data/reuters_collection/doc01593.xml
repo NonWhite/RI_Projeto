@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C G L M T
-f0952reute
-r f BC-GATT-TO-RULE-ON-U.S.   03-04 0123</field>
-	<field name = "TITLE">GATT TO RULE ON U.S. CUSTOMS USER FEE DISPUTE</field>
+	<field name = "titulo">GATT TO RULE ON U.S. CUSTOMS USER FEE DISPUTE</field>
 	<field name = "DATELINE">GENEVA, March 4 -</field>
-	<field name = "BODY">The world trade body GATT has decided to
+	<field name = "content">The world trade body GATT has decided to
 set up an arbitration panel to rule on objections by Canada and
 the European Community to a customs user fee imposed by the
 U.S. Government, a GATT spokesman said.

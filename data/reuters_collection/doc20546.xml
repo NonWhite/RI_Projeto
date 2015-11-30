@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:25:43.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2689reute
-d f BC-REDKEN-LABORATORIES-   10-20 0083</field>
-	<field name = "TITLE">REDKEN LABORATORIES RDKN.O> TO BUY BACK STOCK</field>
+	<field name = "titulo">REDKEN LABORATORIES RDKN.O> TO BUY BACK STOCK</field>
 	<field name = "DATELINE">CANOGA PARK, Calif., Oct 20 -</field>
-	<field name = "BODY">Redken Laboratories Inc said
+	<field name = "content">Redken Laboratories Inc said
 its board authorized management to repurchase up to 600,000 of
 the company's common shares.
     The repurchase program may be implimented over the next 18

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 16:44:36.38</field>
 	<field name = "TOPICS">earn</field>
-	<field name = "UNKNOWN">F
-f0643reute
-d f BC-VISTA-RESOURCES-INC-   03-11 0042</field>
-	<field name = "TITLE">VISTA RESOURCES INC VIST> 4TH QTR NET</field>
+	<field name = "titulo">VISTA RESOURCES INC VIST> 4TH QTR NET</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Shr 1.36 dlrs vs one dlr
+	<field name = "content">Shr 1.36 dlrs vs one dlr
     Net 1,010,249 vs 750,856
     Revs 15.2 mln vs 11.9 mln
     12 mths

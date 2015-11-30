@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 08:12:36.89</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "EXCHANGES">hkse</field>
-	<field name = "UNKNOWN">F 
-f0750reute
-r f BC-STOCK-CLOSURE-MAY-HAR   10-20 0105</field>
-	<field name = "TITLE">STOCK CLOSURE MAY HARM H.K. REPUTATION - OFFICIALS</field>
+	<field name = "titulo">STOCK CLOSURE MAY HARM H.K. REPUTATION - OFFICIALS</field>
 	<field name = "DATELINE">HONG KONG, Oct 20 -</field>
-	<field name = "BODY">Stockbrokers and legislators welcomed
+	<field name = "content">Stockbrokers and legislators welcomed
 the suspension of trading on the local market after Monday's
 record fall, but some said the suspension was too long and
 could harm the territory's reputation as a financial centre.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f0025reute
-r f BC-orbit-oil-increases   03-05 0094</field>
-	<field name = "TITLE">ORBIT INCREASES OIL AND GAS RESERVE VALUES</field>
+	<field name = "titulo">ORBIT INCREASES OIL AND GAS RESERVE VALUES</field>
 	<field name = "DATELINE">CALGARY, Alberta, March 5 -</field>
-	<field name = "BODY">Orbit Oil and Gas Ltd> said
+	<field name = "content">Orbit Oil and Gas Ltd> said
 the value of its oil and gas reserves increased by 19 pct to
 52.6 mln dlrs from 44.2 mln dlrs reported at year-end 1985,
 according to an independent appraisal.

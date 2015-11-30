@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:15:01.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1817reute
-r f BC-SOUTHWEST-FOREST-SWF   03-25 0119</field>
-	<field name = "TITLE">SOUTHWEST FOREST SWF> SETTLES STRIKE</field>
+	<field name = "titulo">SOUTHWEST FOREST SWF> SETTLES STRIKE</field>
 	<field name = "DATELINE">PHOENIX, Ariz., March 25 -</field>
-	<field name = "BODY">Southwest Forest Industries said
+	<field name = "content">Southwest Forest Industries said
 union workers at its Snowflake, Ariz., pulp and paper mill
 ratified a new three-year contract, ending a strike that halted
 production at the facility on March 17.

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 02:05:55.66</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0071reute
-u f BC-WESTERN-MINING-SELLS   04-13 0106</field>
-	<field name = "TITLE">WESTERN MINING SELLS ACM STAKE</field>
+	<field name = "titulo">WESTERN MINING SELLS ACM STAKE</field>
 	<field name = "DATELINE">MELBOURNE, April 13 -</field>
-	<field name = "BODY">Western Mining Corp Holdings Ltd
+	<field name = "content">Western Mining Corp Holdings Ltd
 WMNG.S> (WMC) said it sold its entire holding of 22.13 mln
 shares in the gold mining company Australian Consolidated
 Minerals Ltd> (ACM).

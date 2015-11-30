@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:06:16.65</field>
-	<field name = "UNKNOWN">CQ LQ
-f0700reute
-u f BC-cash-beef/pork-prices   04-07 0041</field>
-	<field name = "TITLE">CASH WHOLESALE BEEF PRICES</field>
+	<field name = "titulo">CASH WHOLESALE BEEF PRICES</field>
 	<field name = "DATELINE">FOB RIVER -</field>
-	<field name = "BODY">CLOSE      APRIL 6
+	<field name = "content">CLOSE      APRIL 6
         CENTS PER LB   CHANGE
  CHOICE STEERS
  YIELD GRADE 3

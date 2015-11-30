@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:08:35.98</field>
-	<field name = "UNKNOWN">GQ
-f2165reute
-u f BC-mpls-wheat-protein-sc   04-07 0057</field>
-	<field name = "TITLE">MINNEAPOLIS WHEAT PROTEIN SCALES</field>
+	<field name = "titulo">MINNEAPOLIS WHEAT PROTEIN SCALES</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 7 -</field>
-	<field name = "BODY">CTS/BU BASIS MPLS may
+	<field name = "content">CTS/BU BASIS MPLS may
  SPRING WHEAT
  ORD     17un unch 
  11.00   12un unch 

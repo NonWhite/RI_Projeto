@@ -10,12 +10,9 @@
 	<field name = "TOPICS">carcass</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G
-f0698reute
-r f BC-U.K.-GRAIN/POTATO-FUT   03-05 0100</field>
-	<field name = "TITLE">U.K. GRAIN/POTATO FUTURES VOLUME DOWN IN FEBRUARY</field>
+	<field name = "titulo">U.K. GRAIN/POTATO FUTURES VOLUME DOWN IN FEBRUARY</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">Traded volumes for U.K. Grain and potato
+	<field name = "content">Traded volumes for U.K. Grain and potato
 futures in February were down on the previous month while
 pigmeat and pig cash settlement futures were higher, official
 figures show.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 14:14:05.88</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f2092reute
-r f BC-GETTY-RESOURCES-(GEY.   06-29 0084</field>
-	<field name = "TITLE">GETTY RESOURCES (GEY.TO) COMPLETES FINANCING</field>
+	<field name = "titulo">GETTY RESOURCES (GEY.TO) COMPLETES FINANCING</field>
 	<field name = "DATELINE">VANCOUVER, June 29 -</field>
-	<field name = "BODY">Getty Resources Ltd said it completed
+	<field name = "content">Getty Resources Ltd said it completed
 its previously announced sale of 9.8 mln dlrs worth of
 subordinated notes convertible into 930,000 common shares of
 the company at 10.50 dlrs each.

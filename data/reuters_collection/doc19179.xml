@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 10:38:30.21</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1040reute
-d f BC-COLONIAL-BANCGROUP-C   06-19 0059</field>
-	<field name = "TITLE">COLONIAL BANCGROUP CLBGA> BUYS DESTIN BANK</field>
+	<field name = "titulo">COLONIAL BANCGROUP CLBGA> BUYS DESTIN BANK</field>
 	<field name = "DATELINE">MONTGOMERY, Ala., June 19 -</field>
-	<field name = "BODY">Colonial Bancgroup said it
+	<field name = "content">Colonial Bancgroup said it
 agreed to buy First National Bank of Destin> for an
 undisclosed sum.
     The company said if it is approved, the sale will mark its

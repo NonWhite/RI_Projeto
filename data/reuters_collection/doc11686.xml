@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 16:31:09.17</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2640reute
-h f BC-P.C.-QUOTE-INC-PCQT>   03-31 0027</field>
-	<field name = "TITLE">P.C. QUOTE INC PCQT> YEAR LOSS</field>
+	<field name = "titulo">P.C. QUOTE INC PCQT> YEAR LOSS</field>
 	<field name = "DATELINE">CHICAGO, March 31 -</field>
-	<field name = "BODY">Shr loss 30 cts vs loss 44 cts
+	<field name = "content">Shr loss 30 cts vs loss 44 cts
     Net loss 1,135,805 vs loss 1,461,792
     Sales 3,398,893 vs 2,075,260
  Reuter</field>

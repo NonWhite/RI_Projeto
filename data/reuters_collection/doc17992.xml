@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 09:49:45.95</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0975reute
-d f BC-MONTROSE-HOLDING-TO-A   06-02 0099</field>
-	<field name = "TITLE">MONTROSE HOLDING TO ACQUIRE VIRGINIA FEDERAL</field>
+	<field name = "titulo">MONTROSE HOLDING TO ACQUIRE VIRGINIA FEDERAL</field>
 	<field name = "DATELINE">RICHMOND, Va., June 2 -</field>
-	<field name = "BODY">Virginia Federal Savings and Loan
+	<field name = "content">Virginia Federal Savings and Loan
 Association> said it has signed a definitive agreement to be
 acquired by Montrose Holding Co>, an affiliate of Montrose
 Capital Corp> for 20 mln dlrs.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">V RM
-f0823reute
-b f BC-26-REPORTED-DEAD-IN-F   03-06 0084</field>
-	<field name = "TITLE">26 REPORTED DEAD IN FERRY DISASTER</field>
+	<field name = "titulo">26 REPORTED DEAD IN FERRY DISASTER</field>
 	<field name = "DATELINE">ZEEBRUGGE, Belgium, March 6 -</field>
-	<field name = "BODY">At least 26 people died when
+	<field name = "content">At least 26 people died when
 a car ferry struck a pier as it left Belgium for Britain, a
 nurse who took part in the rescue operation said.
     Jan Van Moerbeke, a male nurse, said on coming off the

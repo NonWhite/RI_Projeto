@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:15:37.95</field>
-	<field name = "UNKNOWN">GQ
-f2189reute
-u f BC-DELIVERABLE-GRADE-GUI   04-07 0101</field>
-	<field name = "TITLE">DELIVERABLE GRADE GUIDE</field>
+	<field name = "titulo">DELIVERABLE GRADE GUIDE</field>
 	<field name = "DATELINE">Deliverable Grades -</field>
-	<field name = "BODY">graded grain meeting exchange quality
+	<field name = "content">graded grain meeting exchange quality
 requirements for futures delivery, excluding CCC-owned grain.
 Includes all non-CCC deliverable grades regardless of whether
 receipted and/or registered.

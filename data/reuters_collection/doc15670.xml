@@ -3,13 +3,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f1444reute
-h f BC-JAPAN-CRITICISED-FOR   04-09 0086</field>
-	<field name = "TITLE">JAPAN CRITICISED FOR "DUMPING" OF BANK SERVICES</field>
+	<field name = "titulo">JAPAN CRITICISED FOR "DUMPING" OF BANK SERVICES</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 9 -</field>
-	<field name = "BODY">Japan, which has been accused of dumping
+	<field name = "content">Japan, which has been accused of dumping
 everything from steel to computer microchips on world markets,
 is now under attack for alleged cutthroat selling of a product
 of a different sort -- banking services.

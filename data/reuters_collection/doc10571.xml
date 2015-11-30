@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:13:43.85F</field>
-	<field name = "UNKNOWN">f1809reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-ALLEGHENY-LUDLUM-FILE   03-27 0110</field>
-	<field name = "TITLE">ALLEGHENY LUDLUM FILES INITIAL PUBLIC OFFERING</field>
+	<field name = "titulo">ALLEGHENY LUDLUM FILES INITIAL PUBLIC OFFERING</field>
 	<field name = "DATELINE">PITTSBURGH, March 27 -</field>
-	<field name = "BODY">Allegheny Ludlum Corp> said it
+	<field name = "content">Allegheny Ludlum Corp> said it
 filed with the Securities and Exchange Commission for an
 initial public offering of 6,265,000 common shares.
     The company said it is offering 4.4 mln primary shares and

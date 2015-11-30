@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 05:44:54.21</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0349reute
-u f BC-ISUZU-SEES-BIGGER-LOS   06-19 0099</field>
-	<field name = "TITLE">ISUZU SEES BIGGER LOSS IN 1986/87</field>
+	<field name = "titulo">ISUZU SEES BIGGER LOSS IN 1986/87</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">Isuzu Motors Ltd ISUM.T> forecast a
+	<field name = "content">Isuzu Motors Ltd ISUM.T> forecast a
 parent company net loss of 15 billion yen in the year ending
 October 31, 1987 against a 3.98 billion loss a year earlier,
  assuming a yen/dollar rate of 140 yen, a spokesman said.

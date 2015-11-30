@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:14:07.20</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f1513reute
-b f BC-AEGON-ISSUES-200-MLN   04-07 0101</field>
-	<field name = "TITLE">AEGON ISSUES 200 MLN GUILDER BONDS WITH WARRANTS</field>
+	<field name = "titulo">AEGON ISSUES 200 MLN GUILDER BONDS WITH WARRANTS</field>
 	<field name = "DATELINE">AMSTERDAM, April 7 -</field>
-	<field name = "BODY">Dutch insurer Aegon NV AEGN.AS> plans
+	<field name = "content">Dutch insurer Aegon NV AEGN.AS> plans
 to issue 200 mln guilder, 6.5 pct, six-year bonds at an issue
 price of 101.00 pct with 200,000 warrants, lead-manager
 Amsterdam-Rotterdam Bank NV (Amro) said.

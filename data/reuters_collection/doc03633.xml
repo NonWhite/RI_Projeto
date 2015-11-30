@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 10:20:15.36</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0238reute
-d f BC-VHC-LTD-VHCL>-4TH-QT   03-11 0103</field>
-	<field name = "TITLE">VHC LTD VHCL> 4TH QTR OPER NET</field>
+	<field name = "titulo">VHC LTD VHCL> 4TH QTR OPER NET</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Oper shr profit 18 cts vs loss one ct
+	<field name = "content">Oper shr profit 18 cts vs loss one ct
     Oper net profit 387,832 vs loss 29,312
     Revs 6,872,630 vs NA
     Year

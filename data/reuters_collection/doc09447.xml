@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:14:42.93</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1816reute
-u f BC-MOUNTLEIGH-GROUP-SEEK   03-25 0106</field>
-	<field name = "TITLE">MOUNTLEIGH GROUP SEEKS 100 MLN STG FACILITY</field>
+	<field name = "titulo">MOUNTLEIGH GROUP SEEKS 100 MLN STG FACILITY</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">Mountleigh Group Plc>, a U.K. Property
+	<field name = "content">Mountleigh Group Plc>, a U.K. Property
 company, is seeking a 100 mln stg multicurrency credit
 facility, Union Bank of Switzerland (London branch) said.
     The revolving, evergreen facility will be completely

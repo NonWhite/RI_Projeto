@@ -4,13 +4,10 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0059reute
-u f BC-AUSTRALIAN-EXPORTS-HE   03-19 0090</field>
-	<field name = "TITLE">AUSTRALIAN EXPORTS HELPING TO BOOST GDP</field>
+	<field name = "titulo">AUSTRALIAN EXPORTS HELPING TO BOOST GDP</field>
 	<field name = "AUTHOR">By David Skinner, Reuters</field>
 	<field name = "DATELINE">SYDNEY, March 19 -</field>
-	<field name = "BODY">The strong contribution of exports to
+	<field name = "content">The strong contribution of exports to
 the growth in Australia's gross domestic product (GDP) in the
 fourth quarter of 1986 was a significant and welcome feature of
 the data, private economists polled by Reuters said.

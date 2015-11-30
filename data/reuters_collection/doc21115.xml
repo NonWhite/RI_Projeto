@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 14:07:42.37</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F 
-f2468reute
-b f BC-NYSE-SAYS-IT-IS-CONFI   10-19 0089</field>
-	<field name = "TITLE">NYSE SAYS IT IS CONFIDENT IT CAN HANDLE VOLUME</field>
+	<field name = "titulo">NYSE SAYS IT IS CONFIDENT IT CAN HANDLE VOLUME</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">The New York Stock Exchange said it is
+	<field name = "content">The New York Stock Exchange said it is
 confident that its computer systems can handle the pace of
 trading volume today.
     "We are confident that whatever volume we have this

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 09:20:13.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0812reute
-r f BC-UNION-CARBIDE-UK>-UN   04-01 0053</field>
-	<field name = "TITLE">UNION CARBIDE UK> UNIT TO BUY BACK NOTES</field>
+	<field name = "titulo">UNION CARBIDE UK> UNIT TO BUY BACK NOTES</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Union Carbide Overseas Finance Corp
+	<field name = "content">Union Carbide Overseas Finance Corp
 N.V., a unit of Union Carbide Corp, said it plans to redeem on
 May one all outstanding 14-3/4 pct notes due May 1, 1989.
     The notes will be bought back at par. Interest will cease

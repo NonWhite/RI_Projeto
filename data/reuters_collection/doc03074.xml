@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 10:07:38.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0185reute
-u f BC-GENEX-CORP-GNEX>-GET   03-09 0087</field>
-	<field name = "TITLE">GENEX CORP GNEX> GETS FINANCING</field>
+	<field name = "titulo">GENEX CORP GNEX> GETS FINANCING</field>
 	<field name = "DATELINE">GAITHERSBURG, Md., March 9 -</field>
-	<field name = "BODY">Genex Corp said it has
+	<field name = "content">Genex Corp said it has
 completed an agreement for Eberstadt Fleming Venture Capital's
 Plant Resources Venture Fund II and Morgenthaler Venture
 Partners II and accounts managed by Citicorp CCI> to provide

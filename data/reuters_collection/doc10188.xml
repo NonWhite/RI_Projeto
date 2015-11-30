@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:43:00.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f2641reute
-u f AM-Launch   03-26 0092</field>
-	<field name = "TITLE">NASA ROCKET FAILS AFTER TAKEOFF</field>
+	<field name = "titulo">NASA ROCKET FAILS AFTER TAKEOFF</field>
 	<field name = "DATELINE">CAPE CANAVERAL, Fla., March 26 -</field>
-	<field name = "BODY">An Atlas Centaur rocket
+	<field name = "content">An Atlas Centaur rocket
 launching a military communications satellite went out of
 control a minute after launch and was destroyed, a NASA
 spokesman said.

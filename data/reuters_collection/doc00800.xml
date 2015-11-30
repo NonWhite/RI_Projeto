@@ -3,13 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
 	<field name = "PEOPLE">howard-baker</field>
-	<field name = "UNKNOWN">V RM
-f0128
-reute
-b f BC-REAGAN-TO-ADDRESS-NAT   03-02 0102</field>
-	<field name = "TITLE">REAGAN TO ADDRESS NATION WEDNESDAY NIGHT</field>
+	<field name = "titulo">REAGAN TO ADDRESS NATION WEDNESDAY NIGHT</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">White House Chief of Staff Howard
+	<field name = "content">White House Chief of Staff Howard
 Baker said President Reagan will address the nation in a
 nationally televised speech Wednesday night at 2100 EST on the
 Tower Commission Report on the arms to Iran scandal.

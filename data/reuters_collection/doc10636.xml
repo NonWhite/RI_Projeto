@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-MAR-1987 00:22:53.58</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0009reute
-r f BC-FRENCH-PUBLIC-SECTOR   03-29 0100</field>
-	<field name = "TITLE">FRENCH PUBLIC SECTOR TO GET FIVE BILLION FRANCS</field>
+	<field name = "titulo">FRENCH PUBLIC SECTOR TO GET FIVE BILLION FRANCS</field>
 	<field name = "DATELINE">PARIS, March 29 -</field>
-	<field name = "BODY">The French public sector will get a total
+	<field name = "content">The French public sector will get a total
 of five billion francs of investment from the 41 billion francs
 which the government expects to raise through its privatisation
 program, the Finance Ministry said in a statement.

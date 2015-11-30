@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 15:44:15.01</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9307reute
-s f BC-HARTFORD-NATIONAL-COR   03-18 0025</field>
-	<field name = "TITLE">HARTFORD NATIONAL CORP HNAT> DECLARES DIVIDEND</field>
+	<field name = "titulo">HARTFORD NATIONAL CORP HNAT> DECLARES DIVIDEND</field>
 	<field name = "DATELINE">HARTFORD, Conn., March 18 -</field>
-	<field name = "BODY">Qtly div 30 cts vs 30 cts prior
+	<field name = "content">Qtly div 30 cts vs 30 cts prior
     Pay April 20
     Record March 31
  Reuter</field>

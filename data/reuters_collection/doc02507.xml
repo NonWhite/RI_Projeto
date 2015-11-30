@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0004reute
-u f BC-HOUSE-0/92-PLAN-SEEN   03-05 0135</field>
-	<field name = "TITLE">HOUSE 0/92 PLAN SEEN SCALED-BACK TO 1987 WHEAT</field>
+	<field name = "titulo">HOUSE 0/92 PLAN SEEN SCALED-BACK TO 1987 WHEAT</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Key members of the House Agriculture
+	<field name = "content">Key members of the House Agriculture
 committee have agreed to scale-back the 0/92 provision of a
 pending disaster aid bill to cover only 1987 crop wheat, but a
 broader 0/92 proposal is likely to be resurrected later,

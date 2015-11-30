@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:19:10.52V</field>
-	<field name = "UNKNOWN">f1232reute</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">u f BC-REAGAN-VETOES-HIGHWAY   03-27 0057</field>
-	<field name = "TITLE">REAGAN VETOES HIGHWAY BILL</field>
+	<field name = "titulo">REAGAN VETOES HIGHWAY BILL</field>
 	<field name = "DATELINE">WASHINGTON, March 27 -</field>
-	<field name = "BODY">President Reagan vetoed an 87.5
+	<field name = "content">President Reagan vetoed an 87.5
 billion dlrs highway and mass transit bill calling it a budget
 buster.
     The bill, which also contains a provision allowing states

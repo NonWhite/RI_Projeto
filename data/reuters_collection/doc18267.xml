@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 15:56:42.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2521reute
-b f BC-SENATE-CLEARS-WAY-FOR   06-02 0100</field>
-	<field name = "TITLE">SENATE CLEARS WAY FOR PASSAGE OF MONEY BILL</field>
+	<field name = "titulo">SENATE CLEARS WAY FOR PASSAGE OF MONEY BILL</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">The Senate cleared away a
+	<field name = "content">The Senate cleared away a
 parliamentary obstacle threatening final passage of a 9.4
 billion dlr money bill for the rest of fiscal 1987 ending
 October 1.

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 16:49:01.49</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2621reute
-r f BC-BEVIS-BEVI>-RECEIVES   04-09 0089</field>
-	<field name = "TITLE">BEVIS BEVI> RECEIVES TAKEOVER INQUIRIES</field>
+	<field name = "titulo">BEVIS BEVI> RECEIVES TAKEOVER INQUIRIES</field>
 	<field name = "DATELINE">PROVIDENCE, R.I., April 9 -</field>
-	<field name = "BODY">Bevis Industries Inc, which has
+	<field name = "content">Bevis Industries Inc, which has
 been seeking to be acquired, said it recently received
 inquiries concerning the purchase of the company.
     The company did not identify the parties that made the

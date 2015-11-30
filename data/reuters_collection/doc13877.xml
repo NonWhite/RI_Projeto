@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:20:31.43</field>
-	<field name = "UNKNOWN">C G
-f0971reute
-u f BC-EARLY-GULF-CASH-SOYBE   04-07 0107</field>
-	<field name = "TITLE">EARLY GULF CASH SOYBEANS SLIGHTLY FIRMER</field>
+	<field name = "titulo">EARLY GULF CASH SOYBEANS SLIGHTLY FIRMER</field>
 	<field name = "DATELINE">KANSAS CITY, April 7 -</field>
-	<field name = "BODY">Early gulf cash soybean basis levels
+	<field name = "content">Early gulf cash soybean basis levels
 were slightly firmer in moderate trading as slow country
 movement lent support, dealers said.
     Lower barge freight rates lent some support, but slow

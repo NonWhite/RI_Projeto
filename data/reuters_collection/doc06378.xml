@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 06:19:11.06</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f7341reute
-b f BC-BRITISH-LAND-ISSUES-3   03-18 0113</field>
-	<field name = "TITLE">BRITISH LAND ISSUES 30 MLN STG CONVERTIBLE BOND</field>
+	<field name = "titulo">BRITISH LAND ISSUES 30 MLN STG CONVERTIBLE BOND</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">British Land Co Plc is issuing a 30 mln
+	<field name = "content">British Land Co Plc is issuing a 30 mln
 stg convertible eurobond due March 26, 2002 with an indicated
 coupon of 7-1/4 pct to 7-3/4 pct and priced at 101-3/4 pct,
 lead manager Credit Suisse First Boston Ltd said.

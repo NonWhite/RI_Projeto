@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 00:35:53.26</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">F
-f4069reute
-u f BC-INDIA-PREPARES-TO-LAU   03-17 0104</field>
-	<field name = "TITLE">INDIA PREPARES TO LAUNCH INTERCONTINENTAL ROCKET</field>
+	<field name = "titulo">INDIA PREPARES TO LAUNCH INTERCONTINENTAL ROCKET</field>
 	<field name = "DATELINE">BANGALORE, India, March 17 -</field>
-	<field name = "BODY">India is preparing to launch
+	<field name = "content">India is preparing to launch
 its first intercontinental-range rocket, which it insists is
 part of a purely peaceful space program.
     But a space department official who did not wish to be

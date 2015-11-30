@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 05:04:56.36M C</field>
-	<field name = "UNKNOWN">f0305reute</field>
 	<field name = "TOPICS">alum</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">u f BC-JAPAN-ALUMINIUM-IMPOR   03-27 0091</field>
-	<field name = "TITLE">JAPAN ALUMINIUM IMPORTS RISE IN FEBRUARY</field>
+	<field name = "titulo">JAPAN ALUMINIUM IMPORTS RISE IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Japanese primary aluminium imports rose
+	<field name = "content">Japanese primary aluminium imports rose
 to 98,170 tonnes in February from 91,157 in January and 94,926
 a year earlier, the Japan Aluminium Federation said.
     This brought total imports in 1986/87, ending March 31, to

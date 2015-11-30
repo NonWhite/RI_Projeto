@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:34:06.35</field>
-	<field name = "UNKNOWN">C G
-f1297reute
-u f BC-ny-cotton-opg-report   04-07 0086</field>
-	<field name = "TITLE">N.Y. COTTON FUTURES STEADY IN EARLY TRADING</field>
+	<field name = "titulo">N.Y. COTTON FUTURES STEADY IN EARLY TRADING</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Cotton futures were steady this morning
+	<field name = "content">Cotton futures were steady this morning
 on commission house buying. But trade selling was keeping gains
 to a minimum, brokers said.
     There was no news, but brokers said the market is 

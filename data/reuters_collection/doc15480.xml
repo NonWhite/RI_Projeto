@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">C M
-f0725reute
-u f BC-BELGIUM-LAUNCHES-BOND   04-09 0101</field>
-	<field name = "TITLE">BELGIUM LAUNCHES BONDS WITH GOLD WARRANTS</field>
+	<field name = "titulo">BELGIUM LAUNCHES BONDS WITH GOLD WARRANTS</field>
 	<field name = "DATELINE">ZURICH, April 9 -</field>
-	<field name = "BODY">The Kingdom of Belgium is launching 100
+	<field name = "content">The Kingdom of Belgium is launching 100
 mln Swiss francs of seven year notes with warrants attached to
 buy gold, lead manager Credit Suisse said.
     The notes themselves have a 3-3/8 pct coupon and are priced

@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:28:59.65F</field>
-	<field name = "UNKNOWN">f1616reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">h f BC-PLAZA-GROUP-COMPLETES   03-27 0077</field>
-	<field name = "TITLE">PLAZA GROUP COMPLETES MERGER TRANSACTION</field>
+	<field name = "titulo">PLAZA GROUP COMPLETES MERGER TRANSACTION</field>
 	<field name = "DATELINE">CHICAGO, March 27 -</field>
-	<field name = "BODY">Plaza Group> said it completed a
+	<field name = "content">Plaza Group> said it completed a
 transaction in which it merged its wholly owned subsidiary,
 Flyfaire International Inc, into Shefra Inc, a public company,
 in return for a controlling interest in Shefra.

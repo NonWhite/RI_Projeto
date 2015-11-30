@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 11:32:35.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0000
-reute
-r f BC-COLUMBIA-GAS-CG>-FOR   03-02 0110</field>
-	<field name = "TITLE">COLUMBIA GAS CG> FORMS ERIE PIPELINE SUBIDIARY</field>
+	<field name = "titulo">COLUMBIA GAS CG> FORMS ERIE PIPELINE SUBIDIARY</field>
 	<field name = "DATELINE">WILMINGTON, Del., March 2 -</field>
-	<field name = "BODY">Columbia Gas System Inc said it
+	<field name = "content">Columbia Gas System Inc said it
 has formed Columbia Erie Pipeline Corp as a subsidiary to
 participate with Coastal Corp's CGP> ANR Pipeline Co in
 construction and operation of the Erie Pipeline System.

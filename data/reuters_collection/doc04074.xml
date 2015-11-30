@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 04:23:22.95</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0297reute
-u f BC-BOLIDEN-SAYS-RESULTS   03-12 0105</field>
-	<field name = "TITLE">BOLIDEN SAYS RESULTS BURDENED BY LOSS WRITEOFF</field>
+	<field name = "titulo">BOLIDEN SAYS RESULTS BURDENED BY LOSS WRITEOFF</field>
 	<field name = "DATELINE">STOCKHOLM, Mar 12 -</field>
-	<field name = "BODY">Swedish mining and metals group
+	<field name = "content">Swedish mining and metals group
 Boliden AB BLDS ST> forecast a return to profitability during
 1987 after recording a 1.08 billion crown 1986 loss burdened by
 a massive write-off.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uae</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">RM V
-f0021reute
-u f BC-IRAN-SAYS-IT-WILL-COM   06-01 0105</field>
-	<field name = "TITLE">IRAN SAYS IT WILL COMBAT GULF INTERVENTION</field>
+	<field name = "titulo">IRAN SAYS IT WILL COMBAT GULF INTERVENTION</field>
 	<field name = "DATELINE">ABU DHABI, June 1 -</field>
-	<field name = "BODY">Iranian foreign minister Ali Akbar
+	<field name = "content">Iranian foreign minister Ali Akbar
 Velayati warned that Iran would combat any superpower
 intervention in the Gulf.
     "Iran, which is the most powerful (country) in the Gulf...

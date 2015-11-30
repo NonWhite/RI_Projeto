@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 04:51:39.17</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0263reute
-u f BC-FRIED.-KRUPP-GMBH-KR   03-26 0055</field>
-	<field name = "TITLE">FRIED. KRUPP GMBH KRPG.D> YEAR 1986</field>
+	<field name = "titulo">FRIED. KRUPP GMBH KRPG.D> YEAR 1986</field>
 	<field name = "DATELINE">ESSEN, West Germany, March 26 -</field>
-	<field name = "BODY">Provisional world group
+	<field name = "content">Provisional world group
 1986 third party turnover 15.9 billion marks vs 18.5 billion.
     Third party incoming orders 15.5 billion vs 16.9 billion.
     Orders on hand at end-1986 9.1 billion vs 10.3 billion.

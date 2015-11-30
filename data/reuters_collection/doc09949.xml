@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 11:28:56.94</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C G
-f1477reute
-u f BC-FARMERS-COMMODITIES-T   03-26 0129</field>
-	<field name = "TITLE">FARMERS COMMODITIES TO CLEAR FUTURES FOR CO-OPS</field>
+	<field name = "titulo">FARMERS COMMODITIES TO CLEAR FUTURES FOR CO-OPS</field>
 	<field name = "DATELINE">CHICAGO, March 26 -</field>
-	<field name = "BODY">Farmers Commodities of Des Moines,
+	<field name = "content">Farmers Commodities of Des Moines,
 Iowa, has taken steps to become a clearing member of the
 Chicago Board of Trade for farm cooperatives that currently
 trade through Illnois Cooperative Futures Co.

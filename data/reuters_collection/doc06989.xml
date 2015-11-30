@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 05:28:52.90</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0304reute
-u f BC-DAIMLER-DISMISSES-CUR   03-19 0104</field>
-	<field name = "TITLE">DAIMLER DISMISSES CURRENCY SPECULATION</field>
+	<field name = "titulo">DAIMLER DISMISSES CURRENCY SPECULATION</field>
 	<field name = "DATELINE">FRANKFURT, March 19 -</field>
-	<field name = "BODY">A spokesman for Daimler-Benz AG
+	<field name = "content">A spokesman for Daimler-Benz AG
 DAIG.F> said that rumours the car-maker was suffering from
 currency difficulties were "absolute rubbish."
     Like all major exporters Daimler undertakes currency

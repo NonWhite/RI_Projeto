@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:10:38.56</field>
-	<field name = "UNKNOWN">RM 
-f0853reute
-u f BC-METROLOGIE-ISSUES-73.   06-29 0095</field>
-	<field name = "TITLE">METROLOGIE ISSUES 73.8 MLN FRENCH FRANC BOND</field>
+	<field name = "titulo">METROLOGIE ISSUES 73.8 MLN FRENCH FRANC BOND</field>
 	<field name = "DATELINE">PARIS, June 29 -</field>
-	<field name = "BODY">French financial group Metrologie
+	<field name = "content">French financial group Metrologie
 International said it is issuing 73.8 mln francs worth of stock
 option bonds with Banque Paribas as lead manager.
     The eight-year issue at par will carry interest of six pct

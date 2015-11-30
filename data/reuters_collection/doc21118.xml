@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 14:05:45.42</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">F 
-f2458reute
-d f BC-SENATE-BOSS-ASKS-REAG   10-19 0079</field>
-	<field name = "TITLE">SENATE BOSS ASKS REAGAN TO FIGHT STOCK FALL</field>
+	<field name = "titulo">SENATE BOSS ASKS REAGAN TO FIGHT STOCK FALL</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">Senate Democratic leader Robert Byrd,
+	<field name = "content">Senate Democratic leader Robert Byrd,
 pointing to panic selling on Wall Street, urged President
 Reagan to join Congress in fighting trade and budget deficits.
     "It is time the administration put policies ahead of

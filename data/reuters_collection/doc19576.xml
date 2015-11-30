@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 08:34:41.07</field>
-	<field name = "UNKNOWN">F 
-f0768reute
-d f BC-BAKER,-FENTRESS-BKRF   06-29 0071</field>
-	<field name = "TITLE">BAKER, FENTRESS BKRF.O> NAMES NEW CHAIRMAN</field>
+	<field name = "titulo">BAKER, FENTRESS BKRF.O> NAMES NEW CHAIRMAN</field>
 	<field name = "DATELINE">CHICAGO, June 29 -</field>
-	<field name = "BODY">Baker, Fentress and Co said it named
+	<field name = "content">Baker, Fentress and Co said it named
 James Gorter as chairman, filling the vacancy created by the
 death on June 23 of Chairman and Chief Executive Officer James
 Fentress.

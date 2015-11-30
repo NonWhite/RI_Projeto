@@ -1,15 +1,13 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:41:28.21RM V Y</field>
-	<field name = "UNKNOWN">f1894reute</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">greece</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">u f AM-AEGEAN-AMERICAN   03-27 0097</field>
-	<field name = "TITLE">U.S. URGES RESTRAINT IN AEGEAN</field>
+	<field name = "titulo">U.S. URGES RESTRAINT IN AEGEAN</field>
 	<field name = "DATELINE">WASHINGTON, March 27 -</field>
-	<field name = "BODY">The United States said it was doing
+	<field name = "content">The United States said it was doing
 what it could to ease tension in the Aegean as Greek and
 Turkish warships headed for a possible clash over oil drilling
 rights on the sea's continental shelf.

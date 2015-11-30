@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">kuwait</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0152reute
-b f BC-KUWAIT-SAYS-OPEC-2.4   03-24 0109</field>
-	<field name = "TITLE">KUWAIT SAYS OPEC 2.4 MLN BPD BELOW CEILING</field>
+	<field name = "titulo">KUWAIT SAYS OPEC 2.4 MLN BPD BELOW CEILING</field>
 	<field name = "DATELINE">KUWAIT, March 24 -</field>
-	<field name = "BODY">Kuwaiti oil minister Sheikh Ali
+	<field name = "content">Kuwaiti oil minister Sheikh Ali
 al-Khalifa al-Sabah said OPEC was producing well below its oil
 output ceiling and this would help prices move higher,
 according to a Kuwaiti newspaper interview.

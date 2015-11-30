@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 14:01:47.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2077reute
-u f BC-IBM-IBM>-NAMES-NEW-P   04-08 0045</field>
-	<field name = "TITLE">IBM IBM> NAMES NEW PRESIDENT FOR ROLM UNIT</field>
+	<field name = "titulo">IBM IBM> NAMES NEW PRESIDENT FOR ROLM UNIT</field>
 	<field name = "DATELINE">ARMONK, N.Y., April 8 -</field>
-	<field name = "BODY">International Business Machines
+	<field name = "content">International Business Machines
 Corp said IBM vice president Ray S. AbuZayyad has been named
 president of its ROLM Corp subsidiary, succeeding Dennis D.
 Paboojian, who remains with IBM as a consultant.

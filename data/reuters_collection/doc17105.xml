@@ -4,12 +4,9 @@
 	<field name = "TOPICS">ipi</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">zimbabwe</field>
-	<field name = "UNKNOWN">RM
-f1322reute
-r f BC-ZIMBABWE-BANKING-CORP   04-24 0113</field>
-	<field name = "TITLE">ZIMBABWE BANKING CORP URGES POLICY REFORM</field>
+	<field name = "titulo">ZIMBABWE BANKING CORP URGES POLICY REFORM</field>
 	<field name = "DATELINE">HARARE, April 24 -</field>
-	<field name = "BODY">A range of substantial policy
+	<field name = "content">A range of substantial policy
 initiatives need to be implemented to shift resources from
 consumption to production in the Zimbabwe economy, says the
 Zimbabwe Banking Corporation (ZBC) in its quarterly economic

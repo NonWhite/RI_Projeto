@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 08:35:17.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0671reute
-u f BC-QUANTUM-CORP-QNTM.O>   06-19 0044</field>
-	<field name = "TITLE">QUANTUM CORP QNTM.O> TO TAKE 3.5 MLN DLR CHARGE</field>
+	<field name = "titulo">QUANTUM CORP QNTM.O> TO TAKE 3.5 MLN DLR CHARGE</field>
 	<field name = "DATELINE">MILPITAS, Calif., June 19 -</field>
-	<field name = "BODY">quantum corp said it will take
+	<field name = "content">quantum corp said it will take
 a charge of about 3,500,000 dlrs due to a decision to
 discontinue its Q160 160 megabyte disk drive, causing a loss
 for the first quarter ending June 28.

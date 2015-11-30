@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 18:35:24.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2649reute
-r f BC-GYNEX-GYNXU>,-SEARLE   04-07 0093</field>
-	<field name = "TITLE">GYNEX GYNXU>, SEARLE END MARKETING PACT</field>
+	<field name = "titulo">GYNEX GYNXU>, SEARLE END MARKETING PACT</field>
 	<field name = "DATELINE">DEERFIELD, Ill., April 7 -</field>
-	<field name = "BODY">Gynex Inc said that Gynex Labs
+	<field name = "content">Gynex Inc said that Gynex Labs
 and G.D. Searle, a unit of Monsanto Co MTC>, have terminated
 the distribution agreement under which Searle had exclusive
 rights to market Gynex's line of generic oral contraceptives.

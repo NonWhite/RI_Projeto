@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 12:22:01.82</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0245
-reute
-u f BC-BANNER-BNR>-COMPLETE   03-02 0088</field>
-	<field name = "TITLE">BANNER BNR> COMPLETES TENDER FOR REXNORD REX></field>
+	<field name = "titulo">BANNER BNR> COMPLETES TENDER FOR REXNORD REX></field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Banner Industries Inc said 19.8 mln of
+	<field name = "content">Banner Industries Inc said 19.8 mln of
 the outstanding 20 mln shares in Rexnord Inc were tendered
 pursuant to its 26.25 dlr a share offer that closed at midnight
 EST Feb 27.

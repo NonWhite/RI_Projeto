@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 12:25:20.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1706reute
-r f BC-GREAT-LAKES-CHEMICAL   04-08 0092</field>
-	<field name = "TITLE">GREAT LAKES CHEMICAL GLK> FILES OFFERING</field>
+	<field name = "titulo">GREAT LAKES CHEMICAL GLK> FILES OFFERING</field>
 	<field name = "DATELINE">WEST LAFAYETTE, IND., April 8 -</field>
-	<field name = "BODY">Great Lakes Chemical Corp
+	<field name = "content">Great Lakes Chemical Corp
 said it registered with the Securities and Exchange Commission
 a proposed public offering of two mln shares of its common
 stock.

@@ -13,12 +13,9 @@
 	<field name = "PLACES">czechoslovakia</field>
 	<field name = "PLACES">poland</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">C T 
-f1570reute
-u f BC-COLD,-WET-WEATHER-SLO   06-19 0094</field>
-	<field name = "TITLE">COLD, WET WEATHER SLOWS BEET GROWTH IN W. EUROPE</field>
+	<field name = "titulo">COLD, WET WEATHER SLOWS BEET GROWTH IN W. EUROPE</field>
 	<field name = "DATELINE">RATZEBURG, June 19 -</field>
-	<field name = "BODY">Cold and wet weather in northern,
+	<field name = "content">Cold and wet weather in northern,
 western and central parts of Europe continued to slow beet
 growth but plant density is reported to be good in most
 countries, sugar statistician F.O. Licht said.

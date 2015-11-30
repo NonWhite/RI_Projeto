@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0119reute
-b f BC-BANK-OF-FRANCE-TO-HOL   04-09 0078</field>
-	<field name = "TITLE">BANK OF FRANCE TO HOLD MONEY MARKET TENDER TODAY</field>
+	<field name = "titulo">BANK OF FRANCE TO HOLD MONEY MARKET TENDER TODAY</field>
 	<field name = "DATELINE">PARIS, April 9 -</field>
-	<field name = "BODY">The Bank of France said it has invited
+	<field name = "content">The Bank of France said it has invited
 offers of first category paper today for a money market
 intervention tender.
     Money market operators were divided over whether the Bank

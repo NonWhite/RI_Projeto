@@ -4,12 +4,9 @@
 	<field name = "PLACES">venezuela</field>
 	<field name = "PLACES">ecuador</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y 
-f3384reute
-u f AM-OIL-ECUADOR   10-19 0078</field>
-	<field name = "TITLE">VENEZUELA BACKS INCREASE IN ECUADOR OPEC QUOTA</field>
+	<field name = "titulo">VENEZUELA BACKS INCREASE IN ECUADOR OPEC QUOTA</field>
 	<field name = "DATELINE">CARACAS, Oct 19 -</field>
-	<field name = "BODY">Venezuela will back Ecuador's bid to
+	<field name = "content">Venezuela will back Ecuador's bid to
 raise its OPEC quota above 221,000 barrels per day (bpd)
 because it is a justifiable demand, Venezuelan Energy Minister
 Arturo Hernandez Grisanti said on Monday.

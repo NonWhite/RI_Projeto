@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 10:40:47.86</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1139reute
-u f BC-COMMERCE-DEPARTMENT-R   03-23 0107</field>
-	<field name = "TITLE">COMMERCE DEPARTMENT REVISES U.S. FACTORY ORDERS</field>
+	<field name = "titulo">COMMERCE DEPARTMENT REVISES U.S. FACTORY ORDERS</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">The Commerce Department published
+	<field name = "content">The Commerce Department published
 revisions to monthly data on factory orders indicating some
 substantial changes to published figures for recent months.
     The revisions take account of several factors including

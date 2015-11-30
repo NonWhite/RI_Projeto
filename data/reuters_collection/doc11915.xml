@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 09:58:57.29</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0933reute
-b f BC-TAFT-TFB>-HAD-NOT-CO   04-01 0098</field>
-	<field name = "TITLE">TAFT TFB> HAD NOT COMPLETED TV STATION SALE</field>
+	<field name = "titulo">TAFT TFB> HAD NOT COMPLETED TV STATION SALE</field>
 	<field name = "DATELINE">CINCINNATI, Ohio, April 1 -</field>
-	<field name = "BODY">Taft Broadcasting Co said the
+	<field name = "content">Taft Broadcasting Co said the
 sale of its independent television stations to TVX Broadcast
 Group, which had been set for yesterday, did not occur.
     TVX and its investment bankers, Salomon Inc's SB> Salomon

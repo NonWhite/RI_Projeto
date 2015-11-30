@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 12:40:24.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1832reute
-u f BC-HF-AHMANSON-AHM>-EST   06-02 0099</field>
-	<field name = "TITLE">HF AHMANSON AHM> ESTIMATES CUT BY GOLDMAN SACHS</field>
+	<field name = "titulo">HF AHMANSON AHM> ESTIMATES CUT BY GOLDMAN SACHS</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">The stock of HF Ahmanson and Co fell
+	<field name = "content">The stock of HF Ahmanson and Co fell
 sharply after analyst Robert Hottensen of Goldman Sachs and Co
 cut his earnings estimates of the savings and loan, traders
 said.

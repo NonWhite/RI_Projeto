@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 09:57:54.20</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f1070reute
-u f BC-EUROTUNNEL-NEEDS-CAPI   03-31 0106</field>
-	<field name = "TITLE">EUROTUNNEL NEEDS CAPITAL INCREASE BY END JULY, BENARD SAYS</field>
+	<field name = "titulo">EUROTUNNEL NEEDS CAPITAL INCREASE BY END JULY, BENARD SAYS</field>
 	<field name = "AUTHOR">By Brian Childs, Reuters</field>
 	<field name = "DATELINE">CALAIS, March 31 - Eurotunnel>, the Anglo-</field>
-	<field name = "BODY">French channel
+	<field name = "content">French channel
 tunnel consortium, needs to launch its planned 7.7-billion
 franc third stage capital increase by end July to cover ongoing
 project costs, French co-chairman Andre Benard said today.

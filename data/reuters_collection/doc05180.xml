@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">RM
-f1017reute
-u f BC-PERU-BEGINS-FOREIGN-E   03-15 0109</field>
-	<field name = "TITLE">PERU BEGINS FOREIGN EXCHANGE RATIONING</field>
+	<field name = "titulo">PERU BEGINS FOREIGN EXCHANGE RATIONING</field>
 	<field name = "DATELINE">LIMA, March 15 -</field>
-	<field name = "BODY">Peru will put into effect Monday a foreign
+	<field name = "content">Peru will put into effect Monday a foreign
 exchange rationing system for imports designed to stop a slide
 in the country's international reserves, a government decree in
 the Official Gazette said.

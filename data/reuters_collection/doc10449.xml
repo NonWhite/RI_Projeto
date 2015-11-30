@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:39:48.67RM</field>
-	<field name = "UNKNOWN">f1061reute</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "EXCHANGES">ase</field>
-	<field name = "UNKNOWN">u f BC-RABOBANK-ISSUE-IN-HEA   03-27 0115</field>
-	<field name = "TITLE">RABOBANK ISSUE IN HEAVY DEMAND ON AMSTERDAM BOURSE</field>
+	<field name = "titulo">RABOBANK ISSUE IN HEAVY DEMAND ON AMSTERDAM BOURSE</field>
 	<field name = "DATELINE">AMSTERDAM, March 27 -</field>
-	<field name = "BODY">A new Rabobank mortgage bond, whose
+	<field name = "content">A new Rabobank mortgage bond, whose
 terms dealers considered extremely generous, was in heavy
 demand on the Amsterdam bourse today, bond dealers said.
     Rabobank, not anticipating a strong two-day rally in Dutch

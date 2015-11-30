@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 06:54:25.23</field>
 	<field name = "TOPICS">wpi</field>
 	<field name = "PLACES">denmark</field>
-	<field name = "UNKNOWN">RM
-f0393reute
-r f BC-DANISH-WHOLESALE-PRIC   03-20 0056</field>
-	<field name = "TITLE">DANISH WHOLESALE PRICES FALL 0.5 PCT IN FEBRUARY</field>
+	<field name = "titulo">DANISH WHOLESALE PRICES FALL 0.5 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">COPENHAGEN, March 20 -</field>
-	<field name = "BODY">Denmark's wholesale price index fell
+	<field name = "content">Denmark's wholesale price index fell
 0.5 pct in February, giving a year-on-year fall of 4.9 pct, the
 National Statistics Office said.
     The index, base 1980, stood at 135 in February, a fall of

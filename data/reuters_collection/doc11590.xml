@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 14:49:30.76</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">C
-f2267reute
-d f AM-YUGOSLAVIA-DEBT   03-31 0129</field>
-	<field name = "TITLE">YUGOSLAVIA, WESTERN CREDITORS IN DEBT ACCORD</field>
+	<field name = "titulo">YUGOSLAVIA, WESTERN CREDITORS IN DEBT ACCORD</field>
 	<field name = "DATELINE">BELGRADE, March 31 -</field>
-	<field name = "BODY">Yugoslavia has reached an agreement
+	<field name = "content">Yugoslavia has reached an agreement
 with Western creditors on refinancing a portion of its 19.7
 billion dollar hard currency debt.
     The official Tanjug news agency said the agreement was

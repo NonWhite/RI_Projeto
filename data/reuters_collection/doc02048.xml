@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 10:04:36.77</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0192reute
-s f BC-REGIS-CORP-RGIS>-REG   03-05 0024</field>
-	<field name = "TITLE">REGIS CORP RGIS> REGULAR DIVIDEND SET</field>
+	<field name = "titulo">REGIS CORP RGIS> REGULAR DIVIDEND SET</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 5 -</field>
-	<field name = "BODY">Qtly div 4-1/2 cts vs 4-1/2 cts prior
+	<field name = "content">Qtly div 4-1/2 cts vs 4-1/2 cts prior
     Pay April 15
     Record March 24
  Reuter</field>

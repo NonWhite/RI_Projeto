@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 10:58:42.56</field>
 	<field name = "TOPICS">heat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f1206reute
-u f BC-EXXON-XON>-CUTS-HEAT   04-09 0075</field>
-	<field name = "TITLE">EXXON XON> CUTS HEATING OIL PRICE, TRADERS SAID</field>
+	<field name = "titulo">EXXON XON> CUTS HEATING OIL PRICE, TRADERS SAID</field>
 	<field name = "DATELINE">NEW YORK, April 9 --</field>
-	<field name = "BODY">Oil traders in the New York area said
+	<field name = "content">Oil traders in the New York area said
 Exxon Corp's Exxon U.S.A. unit reduced the price it charges
 contract barge customers for heating oil in New York harbor
 0.50 cent a gallon, effective today.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0146reute
-b f BC-BANK-OF-FRANCE-LAUNCH   03-26 0071</field>
-	<field name = "TITLE">BANK OF FRANCE LAUNCHES MONEY MARKET TENDER</field>
+	<field name = "titulo">BANK OF FRANCE LAUNCHES MONEY MARKET TENDER</field>
 	<field name = "DATELINE">PARIS, March 26 -</field>
-	<field name = "BODY">The Bank of France said it set a money
+	<field name = "content">The Bank of France said it set a money
 market intervention tender today to inject funds to the market
 against first category paper.
     Money market sources said the surprise announcement might

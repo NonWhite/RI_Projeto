@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 16:18:43.94</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f2572reute
-d f AM-VOLKSWAGEN   06-02 0095</field>
-	<field name = "TITLE">DEUTSCHE BANK SAYS NO SUPPORT FOR VW MANAGEMENT</field>
+	<field name = "titulo">DEUTSCHE BANK SAYS NO SUPPORT FOR VW MANAGEMENT</field>
 	<field name = "DATELINE">FRANKFURT, West Germany, June 2 -</field>
-	<field name = "BODY">West Germany's biggest
+	<field name = "content">West Germany's biggest
 bank said it would withhold support from Volkswagen AG VOWG.F>
 management at next month's annual meeting because of the VW
 currency scandal.

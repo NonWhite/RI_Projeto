@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 10:25:54.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1243reute
-r f BC-CMS-CMS>-CITES-HIGHE   10-19 0113</field>
-	<field name = "TITLE">CMS CMS> CITES HIGHER ELECTRIC SALES</field>
+	<field name = "titulo">CMS CMS> CITES HIGHER ELECTRIC SALES</field>
 	<field name = "DATELINE">JACKSON, MICH., Oct 19 -</field>
-	<field name = "BODY">CMS Energy Corp, parent of
+	<field name = "content">CMS Energy Corp, parent of
 Consumers Power Co, said the fivefold improvement in its third
 quarter earnings was the result of higher electric sales.
     The company also cited its ongoing refinancing program

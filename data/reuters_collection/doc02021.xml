@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0087reute
-b f BC-U.K.-MONEY-MARKET-GIV   03-05 0095</field>
-	<field name = "TITLE">U.K. MONEY MARKET GIVEN HELP, OFFERED FACILITIES</field>
+	<field name = "titulo">U.K. MONEY MARKET GIVEN HELP, OFFERED FACILITIES</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">The Bank of England said it had given the
+	<field name = "content">The Bank of England said it had given the
 money market 206 mln stg of assistance this afternoon and
 offered the discount houses borrowing facilities to take out
 the rest of the 1.10 billion stg shortage, revised down from an

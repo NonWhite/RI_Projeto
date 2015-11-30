@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 10:40:44.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0743
-reute
-d f BC-NUCLEAR-DATA-NDI>-GE   03-02 0098</field>
-	<field name = "TITLE">NUCLEAR DATA NDI> GETS EXTENSIONS ON LOANS</field>
+	<field name = "titulo">NUCLEAR DATA NDI> GETS EXTENSIONS ON LOANS</field>
 	<field name = "DATELINE">CHICAGO, March 2 -</field>
-	<field name = "BODY">Nuclear Data Inc said its bank lenders
+	<field name = "content">Nuclear Data Inc said its bank lenders
 agreed to extend its secured loan agreement through June 30,
 1987.
     The agreement, which covers about 9.5 mln dlrs in short

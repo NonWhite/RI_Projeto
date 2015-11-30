@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 04:45:32.13</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM 
-f2331reute
-b f BC-ALCAN-AUSTRALIA-SEEKS   06-18 0110</field>
-	<field name = "TITLE">ALCAN AUSTRALIA SEEKS 100 MLN DLR FACILITY</field>
+	<field name = "titulo">ALCAN AUSTRALIA SEEKS 100 MLN DLR FACILITY</field>
 	<field name = "DATELINE">LONDON, June 18 -</field>
-	<field name = "BODY">Alcan Australia Ltd AL.S> seeks a 100
+	<field name = "content">Alcan Australia Ltd AL.S> seeks a 100
 mln U.S. Dlr, eight year underwritten note issuance facility,
 Swiss Bank Corporation International Ltd said as arranger.
     The facility, which allows banks the option to withdraw

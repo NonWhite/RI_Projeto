@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">syria</field>
-	<field name = "UNKNOWN">C G
-f1657reute
-u f BC-FRENCH-MARKET-TALK-OF   03-31 0095</field>
-	<field name = "TITLE">FRENCH MARKET TALK OF SYRIAN WHEAT PURCHASES</field>
+	<field name = "titulo">FRENCH MARKET TALK OF SYRIAN WHEAT PURCHASES</field>
 	<field name = "DATELINE">PARIS, March 31 -</field>
-	<field name = "BODY">Syria may have bought 80,000 tonnes of
+	<field name = "content">Syria may have bought 80,000 tonnes of
 French soft wheat, some traders here said.
     But others said it may instead have given payment
 guarantees to allow for the shipping of an old contract to go

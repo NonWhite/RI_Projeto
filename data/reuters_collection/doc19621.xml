@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 10:12:22.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1063reute
-d f BC-PENNWALT-PSM>-INTROD   06-29 0101</field>
-	<field name = "TITLE">PENNWALT PSM> INTRODUCES NEW REFRIGERANT</field>
+	<field name = "titulo">PENNWALT PSM> INTRODUCES NEW REFRIGERANT</field>
 	<field name = "DATELINE">PHILADELPHIA, June 29 -</field>
-	<field name = "BODY">Pennwalt Corp said it is making a
+	<field name = "content">Pennwalt Corp said it is making a
 new refrigerant available as an alternative to
 chlorofluorocarbon (CFC) 12, a product suspected of depleting
 the earth's ozone layer.

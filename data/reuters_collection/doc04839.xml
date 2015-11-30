@@ -1,8 +1,5 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 10:33:45.54</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f0112reute
-b f BC-******NYSE,-NYFE-MOVE   03-13 0011</field>
-	<field name = "TITLE">NYSE, NYFE MOVE EXPIRATION OF INDEX OPTIONS AND FUTURES CONTRACTS</field>
+	<field name = "titulo">NYSE, NYFE MOVE EXPIRATION OF INDEX OPTIONS AND FUTURES CONTRACTS</field>
 </doc></add>

@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 16:27:10.48</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0056
-reute
-s f BC-PEOPLES-BANCORPORATIO   03-02 0023</field>
-	<field name = "TITLE">PEOPLES BANCORPORATION PEOP> QUARTERLY DIVIDEND</field>
+	<field name = "titulo">PEOPLES BANCORPORATION PEOP> QUARTERLY DIVIDEND</field>
 	<field name = "DATELINE">SEATTLE, March 2 -</field>
-	<field name = "BODY">Qtly div 25 cts vs 25 cts
+	<field name = "content">Qtly div 25 cts vs 25 cts
     Pay April 24
     Record March 31
  Reuter</field>

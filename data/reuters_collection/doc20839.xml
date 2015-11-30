@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 19:17:19.35</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3608reute
-d f BC-SOUTHMARK-SM>-TO-PUR   10-20 0071</field>
-	<field name = "TITLE">SOUTHMARK SM> TO PURCHASE NATIONAL SELF></field>
+	<field name = "titulo">SOUTHMARK SM> TO PURCHASE NATIONAL SELF></field>
 	<field name = "DATELINE">WEST PALM BEACH, Fla., Oct 20 -</field>
-	<field name = "BODY">National Self Storage said
+	<field name = "content">National Self Storage said
 has sold nine storage facilities to Southmark Corp for 37.1 mln
 dlrs.
     National Self, a developer of storage space for business

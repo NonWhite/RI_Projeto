@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 16:13:32.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0520reute
-r f BC-HOLIDAY-HIA>-UNIT'S   03-06 0113</field>
-	<field name = "TITLE">HOLIDAY HIA> UNIT'S NOTES DOWNGRADED BY S/P</field>
+	<field name = "titulo">HOLIDAY HIA> UNIT'S NOTES DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it cut to
+	<field name = "content">Standard and Poor's Corp said it cut to
 B from B-plus 900 mln dlrs of notes due 1994 of Holiday Inns
 Inc, a unit of Holiday Corp.
     S and P said the action reflected a change in the issue's

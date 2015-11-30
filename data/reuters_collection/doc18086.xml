@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 11:48:00.14</field>
 	<field name = "PLACES">kenya</field>
 	<field name = "PLACES">uganda</field>
-	<field name = "UNKNOWN">C G L M T
-f1530reute
-d f BC-UGANDAN-GOODWILL-MISS   06-02 0126</field>
-	<field name = "TITLE">UGANDAN GOODWILL MISSION TO VISIT KENYA</field>
+	<field name = "titulo">UGANDAN GOODWILL MISSION TO VISIT KENYA</field>
 	<field name = "DATELINE">NAIROBI, June 2 -</field>
-	<field name = "BODY">A Ugandan goodwill mission led by
+	<field name = "content">A Ugandan goodwill mission led by
 minister of state in the presidency Balaki Kirya will visit
 Kenya tomorrow for talks on improving strained relations
 between the two countries, diplomatic sources said.

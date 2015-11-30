@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 14:01:56.71C M</field>
-	<field name = "UNKNOWN">f1952reute</field>
 	<field name = "PLACES">zambia</field>
 	<field name = "PLACES">tanzania</field>
-	<field name = "UNKNOWN">r f BC-ZAMBIA-TANZANIA-HIGHW   03-27 0102</field>
-	<field name = "TITLE">ZAMBIA-TANZANIA HIGHWAY TO BE REHABILITATED</field>
+	<field name = "titulo">ZAMBIA-TANZANIA HIGHWAY TO BE REHABILITATED</field>
 	<field name = "DATELINE">DAR ES SALAAM, March 27 -</field>
-	<field name = "BODY">The main road between landlocked
+	<field name = "content">The main road between landlocked
 Zambia and the Tanzanian port of Dar es Salaam is to be
 rehabilitated at a cost of 109 mln dlrs, starting in December,
 Willie Lyatu, the project coordinator in the Tanzanian Ministry

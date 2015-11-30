@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 15:11:06.10</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM 
-f2866reute
-u f BC-ITALIAN-TREASURY-ECU   10-20 0096</field>
-	<field name = "TITLE">ITALIAN TREASURY ECU BILL OFFER UNDERSUBSCRIBED</field>
+	<field name = "titulo">ITALIAN TREASURY ECU BILL OFFER UNDERSUBSCRIBED</field>
 	<field name = "DATELINE">ROME, Oct 20 -</field>
-	<field name = "BODY">The Italian treasury's first offer of 500
+	<field name = "content">The Italian treasury's first offer of 500
 mln worth of 373-day European Currency Unit (ECU) bills on the
 domestic market was hugely undersubscribed, Bank of Italy
 figures showed.

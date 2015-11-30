@@ -1,6 +1,5 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:19:25.22C G T M</field>
-	<field name = "UNKNOWN">f0827reute</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
@@ -9,10 +8,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">r f BC-INDIA-STEPS-UP-COUNTE   03-27 0138</field>
-	<field name = "TITLE">INDIA STEPS UP COUNTERTRADE DEALS</field>
+	<field name = "titulo">INDIA STEPS UP COUNTERTRADE DEALS</field>
 	<field name = "DATELINE">NEW DELHI, March 27 -</field>
-	<field name = "BODY">India is searching for non-communist
+	<field name = "content">India is searching for non-communist
 countertrade partners to help it cut its trade deficit and
 conserve foreign exchange.
     Wheat, tobacco, tea, coffee, jute, engineering and

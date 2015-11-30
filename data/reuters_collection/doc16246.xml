@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 09:30:39.91</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0873reute
-r f BC-USAIR-U>-REPORTS-FIN   04-13 0060</field>
-	<field name = "TITLE">USAIR U> REPORTS FINAL PRORATION FACTOR</field>
+	<field name = "titulo">USAIR U> REPORTS FINAL PRORATION FACTOR</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">USAir Group Inc said, in announcing
+	<field name = "content">USAir Group Inc said, in announcing
 the final proration factor for its tender offer for Piedmont
 Aviation Inc PIE>, that 17.0 mln shares, or 90 pct of the
 shares were validly tendered.

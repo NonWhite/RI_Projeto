@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 16:43:43.66</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0499reute
-d f BC-TRIBUNE-TRB>-COMPLET   03-13 0101</field>
-	<field name = "TITLE">TRIBUNE TRB> COMPLETES CABLE SYSTEM SALE</field>
+	<field name = "titulo">TRIBUNE TRB> COMPLETES CABLE SYSTEM SALE</field>
 	<field name = "DATELINE">CHICAGO, March 13 -</field>
-	<field name = "BODY">Tribune Co said it completed the sale
+	<field name = "content">Tribune Co said it completed the sale
 of the Danville, Va., cable television system to Cablevision
 Industries Ltd Partnership, affiliated with Cablevision
 Industries Inc of Liberty, N.Y.

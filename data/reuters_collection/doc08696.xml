@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 08:26:05.23</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0717reute
-u f BC-BET-WINS-APPROVAL-FOR   03-24 0116</field>
-	<field name = "TITLE">BET WINS APPROVAL FOR U.S. SHARE ISSUE</field>
+	<field name = "titulo">BET WINS APPROVAL FOR U.S. SHARE ISSUE</field>
 	<field name = "DATELINE">LONDON, March 24 -</field>
-	<field name = "BODY">British services company BET Plc
+	<field name = "content">British services company BET Plc
 BETL.L> said its shareholders had given it approval to raise
 up to 170 mln dlrs through a share issue to U.S. Investors.
     A company spokesman told Reuters the issue of up to 44 mln

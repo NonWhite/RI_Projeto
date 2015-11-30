@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 09:40:25.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0940reute
-r f BC-M/A-COM-MAI>-ENDS-CH   04-08 0101</field>
-	<field name = "TITLE">M/A-COM MAI> ENDS CHIEF OPERATING OFFICER POST</field>
+	<field name = "titulo">M/A-COM MAI> ENDS CHIEF OPERATING OFFICER POST</field>
 	<field name = "DATELINE">BURLINGTON, Mass., April 8 -</field>
-	<field name = "BODY">M/A-Com Inc said it has
+	<field name = "content">M/A-Com Inc said it has
 eliminated the post of cheif operating officer, which had been
 held by president Thomas F. Burke until his recent election as
 chief executive officer.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 00:14:22.00</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM V
-f0009reute
-u f BC-CHINA-FOREST-FIRES-FL   06-02 0109</field>
-	<field name = "TITLE">CHINA FOREST FIRES FLARE AGAIN</field>
+	<field name = "titulo">CHINA FOREST FIRES FLARE AGAIN</field>
 	<field name = "DATELINE">PEKING, June 2 -</field>
-	<field name = "BODY">Forest fires in north-east China had
+	<field name = "content">Forest fires in north-east China had
 flared again, threatening settlements and virgin forests so far
 untouched by the blaze, the official press said.
     The New China News Agency said eight new fires had been

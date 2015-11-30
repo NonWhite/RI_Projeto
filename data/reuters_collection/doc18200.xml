@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:23:03.56</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f2202reute
-r f BC-AMOCO-AN>-CANADA-SAY   06-02 0099</field>
-	<field name = "TITLE">AMOCO AN> CANADA SAYS SHARE AMOUNT UNDECIDED</field>
+	<field name = "titulo">AMOCO AN> CANADA SAYS SHARE AMOUNT UNDECIDED</field>
 	<field name = "DATELINE">CALGARY, Alberta, June 2 -</field>
-	<field name = "BODY">Amoco Corp's wholly owned Amoco
+	<field name = "content">Amoco Corp's wholly owned Amoco
 Canada Petroleum Co Ltd said it had yet to work out details
 regarding the amount and timing of its previously reported
 share offering in Canada and would be doing so in talks with

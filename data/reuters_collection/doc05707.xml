@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">panama</field>
-	<field name = "UNKNOWN">F
-f3659reute
-u f BC-MCDERMOTT-MDR>-SAYS   03-16 0037</field>
-	<field name = "TITLE">MCDERMOTT MDR> SAYS STAKE VIOLATES LAW</field>
+	<field name = "titulo">MCDERMOTT MDR> SAYS STAKE VIOLATES LAW</field>
 	<field name = "DATELINE">NEW ORLEANS, March 16 -</field>
-	<field name = "BODY">McDermott International Inc said
+	<field name = "content">McDermott International Inc said
 the purchase of a 5.4 pct block of its stock was an apparent
 violation of the laws of Panama, its country of incorporation.
     The company said a detailed disclosure of an acquisition

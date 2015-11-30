@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ipi</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f6048reute
-r f BC-BANK-OF-FRANCE-SEES-C   03-17 0092</field>
-	<field name = "TITLE">BANK OF FRANCE SEES CONTINUED INDUSTRIAL PICKUP</field>
+	<field name = "titulo">BANK OF FRANCE SEES CONTINUED INDUSTRIAL PICKUP</field>
 	<field name = "DATELINE">PARIS, March 17 -</field>
-	<field name = "BODY">The Bank of France expects a continued
+	<field name = "content">The Bank of France expects a continued
 revival in short-term industrial activity, but the outlook for
 any improvement in France's record 10.9 pct unemployment rate
 remains bleak, the Bank of France said in its monthly review.

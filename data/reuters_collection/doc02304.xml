@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 13:34:44.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0234reute
-d f BC-U.S.-TREASURY-OFFICIA   03-05 0116</field>
-	<field name = "TITLE">U.S. TREASURY OFFICIAL PROMISES VACCINE AID PLAN</field>
+	<field name = "titulo">U.S. TREASURY OFFICIAL PROMISES VACCINE AID PLAN</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">The Reagan administration soon will
+	<field name = "content">The Reagan administration soon will
 propose a program of no-fault compensation for people injured
 by childhood vaccines, a senior Treasury Department counsel
 told the House select revenue measures subcommittee.

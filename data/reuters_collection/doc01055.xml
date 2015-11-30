@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 10:35:22.38</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0548reute
-b f BC-MONY-FUNDING-ISSUES-1   03-03 0087</field>
-	<field name = "TITLE">MONY FUNDING ISSUES 125 MLN DLR EUROBOND</field>
+	<field name = "titulo">MONY FUNDING ISSUES 125 MLN DLR EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 3 -</field>
-	<field name = "BODY">Mony Funding Inc is issuing a 125 mln dlr
+	<field name = "content">Mony Funding Inc is issuing a 125 mln dlr
 eurobond due April 7, 1997 paying 8-1/8 pct and priced at
 101-1/2 pct, sole lead manager Citicorp Investment Bank Ltd
 said.

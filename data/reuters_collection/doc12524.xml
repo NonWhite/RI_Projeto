@@ -3,12 +3,9 @@
 	<field name = "TOPICS">austdlr</field>
 	<field name = "TOPICS">dmk</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0923reute
-u f BC-CITIBANK-SELLS-MARK/A   04-02 0098</field>
-	<field name = "TITLE">CITIBANK SELLS MARK/AUSTRALIAN DLR WARRANTS</field>
+	<field name = "titulo">CITIBANK SELLS MARK/AUSTRALIAN DLR WARRANTS</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">Citicorp said that on behalf of its
+	<field name = "content">Citicorp said that on behalf of its
 Citibank N.A. Subsidiary, it is issuing 100,000 naked currency
 warrants priced at 67-1/2 marks each to purchase Australian
 dlrs for marks at a rate of 1.1825 marks per Australian dlr.

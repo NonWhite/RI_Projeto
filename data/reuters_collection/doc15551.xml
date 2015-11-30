@@ -4,12 +4,9 @@
 	<field name = "TOPICS">money-supply</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f1011reute
-r f BC-SPANISH-EMPLOYERS-WOR   04-09 0112</field>
-	<field name = "TITLE">SPANISH EMPLOYERS WORRIED BY HIGH INTEREST RATES</field>
+	<field name = "titulo">SPANISH EMPLOYERS WORRIED BY HIGH INTEREST RATES</field>
 	<field name = "DATELINE">MADRID, April 9 -</field>
-	<field name = "BODY">The head of Spain's employers'
+	<field name = "content">The head of Spain's employers'
 federation, Jose Maria Cuevas, said employers were worried
 about the government's monetary policies because high real
 interest rates were hampering investment.

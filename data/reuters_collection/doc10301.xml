@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 03:14:54.59F</field>
-	<field name = "UNKNOWN">f0136reute</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-UNITED-STATES-LINES-L   03-27 0113</field>
-	<field name = "TITLE">UNITED STATES LINES LAYS OFF FAR EAST STAFF</field>
+	<field name = "titulo">UNITED STATES LINES LAYS OFF FAR EAST STAFF</field>
 	<field name = "DATELINE">HONG KONG, March 27 -</field>
-	<field name = "BODY">United States Lines Inc> has laid
+	<field name = "content">United States Lines Inc> has laid
 off 260 employees, almost its entire Far East staff, its Hong
 Kong office general manager Elliott Burnside told Reuters.
     He also said calls by two of its container ships to Busan,

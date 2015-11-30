@@ -4,13 +4,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0591reute
-h f BC-ECONOMIC-SPOTLIGHT--   04-07 0113</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - FOREIGN BANKS IN GERMANY</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - FOREIGN BANKS IN GERMANY</field>
 	<field name = "AUTHOR">By Allan Saunderson, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, April 6 -</field>
-	<field name = "BODY">Foreign banks in West Germany are
+	<field name = "content">Foreign banks in West Germany are
 reassessing their positions after a number of changes in the
 markets and the regulatory environment that have dampened a
 once-euphoric enthusiasm for expansion here.

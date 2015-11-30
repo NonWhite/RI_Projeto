@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 03:01:35.01</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0124reute
-r f BC-VW-EXPECTS-HIGHER-GER   03-23 0107</field>
-	<field name = "TITLE">VW EXPECTS HIGHER GERMAN MARKET SHARE IN 1987</field>
+	<field name = "titulo">VW EXPECTS HIGHER GERMAN MARKET SHARE IN 1987</field>
 	<field name = "DATELINE">WOLFSBURG, West Germany, March 23 -</field>
-	<field name = "BODY">Volkswagen AG VOWG.F>
+	<field name = "content">Volkswagen AG VOWG.F>
 expects to increase its market share in West Germany in the
 full year 1987 after registering gains in the first two months
 of the year, managing board chairman Carl Hahn said.

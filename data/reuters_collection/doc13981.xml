@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:55:41.46</field>
-	<field name = "UNKNOWN">RM C G L M T
-f1114reute
-u f BC-REUTER-MONEY-NEWS-HIG   04-07 0111</field>
-	<field name = "TITLE">REUTER MONEY NEWS HIGHLIGHTS 1445 GMT APRIL 7</field>
+	<field name = "titulo">REUTER MONEY NEWS HIGHLIGHTS 1445 GMT APRIL 7</field>
 	<field name = "DATELINE">WASHINGTON -</field>
-	<field name = "BODY">Federal Reserve Board Chairman Paul Volcker
+	<field name = "content">Federal Reserve Board Chairman Paul Volcker
 said a further large drop in the value of the dollar could be
 counterproductive for world economic growth. Testifying before
 the Senate Banking Committee, Volcker said that Europe and

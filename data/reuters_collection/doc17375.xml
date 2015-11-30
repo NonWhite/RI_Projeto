@@ -3,12 +3,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "ORGS">adb-asia</field>
-	<field name = "UNKNOWN">RM
-f0260reute
-u f BC-SOVIET-UNION-UNDECIDE   04-29 0099</field>
-	<field name = "TITLE">SOVIET UNION UNDECIDED ON ADB MEMBERSHIP</field>
+	<field name = "titulo">SOVIET UNION UNDECIDED ON ADB MEMBERSHIP</field>
 	<field name = "DATELINE">OSAKA, Japan, April 29 -</field>
-	<field name = "BODY">The Soviet Union's first official
+	<field name = "content">The Soviet Union's first official
 observer at the Asian Development Bank (ADB) said he came away
 from this week's ADB annual meeting with a favourable
 impression but that no decision has been made on whether the

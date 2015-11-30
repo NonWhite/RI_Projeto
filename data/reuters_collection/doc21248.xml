@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 12:26:05.24</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM 
-f1932reute
-u f BC-NORDIC-INVESTMENT-BAN   10-19 0084</field>
-	<field name = "TITLE">NORDIC INVESTMENT BANK GIVES LOAN TO NESTE</field>
+	<field name = "titulo">NORDIC INVESTMENT BANK GIVES LOAN TO NESTE</field>
 	<field name = "DATELINE">HELSINKI, Oct 19 -</field>
-	<field name = "BODY">The Nordic Investment Bank (NIB) said in
+	<field name = "content">The Nordic Investment Bank (NIB) said in
 a statement it granted Finland's state-owned oil company Neste
 Oy Neoy.He> a one hundred million German mark loan to acquire
 shares in Sweden's OK Petroleum AB.

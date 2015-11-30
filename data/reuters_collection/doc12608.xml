@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">steeg</field>
 	<field name = "ORGS">iea</field>
-	<field name = "UNKNOWN">C
-f1460reute
-d f BC-WORLD-ENERGY-OFFICIAL   04-02 0131</field>
-	<field name = "TITLE">WORLD ENERGY OFFICIAL OPPOSES U.S OIL IMPORT FEE</field>
+	<field name = "titulo">WORLD ENERGY OFFICIAL OPPOSES U.S OIL IMPORT FEE</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">Helga Steeg, executive director of
+	<field name = "content">Helga Steeg, executive director of
 the International Energy Agency, said a U.S. oil import fee
 would disrupt world markets and could prompt trade retaliation
 against the United States.

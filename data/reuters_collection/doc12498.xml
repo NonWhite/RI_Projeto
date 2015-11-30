@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 08:49:35.49</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">ireland</field>
-	<field name = "UNKNOWN">RM
-f0841reute
-b f BC-IRELAND-ISSUES-300-ML   04-02 0055</field>
-	<field name = "TITLE">IRELAND ISSUES 300 MLN MARK EUROBOND</field>
+	<field name = "titulo">IRELAND ISSUES 300 MLN MARK EUROBOND</field>
 	<field name = "DATELINE">FRANKFURT, April 2 -</field>
-	<field name = "BODY">Ireland is raising 300 mln marks
+	<field name = "content">Ireland is raising 300 mln marks
 through a 10-year eurobond with a 6-1/2 pct coupon priced at
 100-1/2, lead manager Commerzbank AG said.
     The bond, with a yield at issue of 6.43 pct, will pay

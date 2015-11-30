@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 09:31:19.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0979reute
-r f BC-ALLIED-SIGNAL-ALD>-T   03-31 0100</field>
-	<field name = "TITLE">ALLIED-SIGNAL ALD> TO SHARE METALS TECHNOLOGY</field>
+	<field name = "titulo">ALLIED-SIGNAL ALD> TO SHARE METALS TECHNOLOGY</field>
 	<field name = "DATELINE">MORRISTOWN, N.J., March 31 -</field>
-	<field name = "BODY">Allied-Signal Inc's Metglas
+	<field name = "content">Allied-Signal Inc's Metglas
 Products said it and Vacuumschmelze GmbH> signed a licensing
 agreement whereby each may practice the other's technology for
 amorphous metals in magnetic applications.

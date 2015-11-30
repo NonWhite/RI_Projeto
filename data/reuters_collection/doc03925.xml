@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 15:49:04.44</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0506reute
-r f BC-WILLIAMS-COS-WMB>-CO   03-11 0071</field>
-	<field name = "TITLE">WILLIAMS COS WMB> COMPLETES SALE OF UNIT</field>
+	<field name = "titulo">WILLIAMS COS WMB> COMPLETES SALE OF UNIT</field>
 	<field name = "DATELINE">TULSA, Okla., March 11 -</field>
-	<field name = "BODY">Williams Cos said it completed the
+	<field name = "content">Williams Cos said it completed the
 sale of its Agrico Chemical Co unit to Freeport-McMoRan
 Resource Partners L.P. FRP> for an initial 250 mln dlrs cash.
     The company said it will also receive an additional 100 to

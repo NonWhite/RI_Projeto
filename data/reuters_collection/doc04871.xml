@@ -3,12 +3,9 @@
 	<field name = "PLACES">switzerland</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0587reute
-u f BC-SWISS-WARY-OF-U.S.-BR   03-13 0101</field>
-	<field name = "TITLE">SWISS WARY OF U.S.-BRITISH BANK SUPERVISION PACT</field>
+	<field name = "titulo">SWISS WARY OF U.S.-BRITISH BANK SUPERVISION PACT</field>
 	<field name = "DATELINE">ZURICH, March 13 -</field>
-	<field name = "BODY">Markus Lusser, vice-president of the
+	<field name = "content">Markus Lusser, vice-president of the
 Swiss National Bank, said he was sceptical of the recent
 U.S.-British accord on joint bank supervision, fearing smaller
 countries could be forced to cooperate.

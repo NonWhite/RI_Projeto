@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-MAR-1987 06:34:01.84</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f0024reute
-r f BC-HONG-KONG-LAND-HKLD.   03-21 0118</field>
-	<field name = "TITLE">HONG KONG LAND HKLD.HK> DETAILS MANDARIN SPIN-OFF</field>
+	<field name = "titulo">HONG KONG LAND HKLD.HK> DETAILS MANDARIN SPIN-OFF</field>
 	<field name = "DATELINE">HONG KONG, March 21 -</field>
-	<field name = "BODY">Hong Kong Land Co Ltd HKLD.HK> gave
+	<field name = "content">Hong Kong Land Co Ltd HKLD.HK> gave
 details of a previously announced spin-off of its 80 pct stake
 in Mandarin Oriental International Ltd> and a 32 pct stake in
 Jardine Strategic Holdings Ltd> (JSH).

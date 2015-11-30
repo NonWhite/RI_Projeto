@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0956reute
-b f BC-BUNDESBANK-BUYS-DOLLA   03-25 0079</field>
-	<field name = "TITLE">BUNDESBANK BUYS DOLLARS IN FRANKFURT - DEALERS</field>
+	<field name = "titulo">BUNDESBANK BUYS DOLLARS IN FRANKFURT - DEALERS</field>
 	<field name = "DATELINE">FRANKFURT, March 25 -</field>
-	<field name = "BODY">The Bundesbank bought large amounts
+	<field name = "content">The Bundesbank bought large amounts
 of dollars for yen in an apparent attempt to hold the dollar
 above 149 yen, dealers said.
     The dollar intervention was in concert with some other

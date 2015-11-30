@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 09:51:33.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0894reute
-u f BC-SWANK-INC-SNK>-CAN'T   03-20 0060</field>
-	<field name = "TITLE">SWANK INC SNK> CAN'T EXPLAIN STOCK ACTION</field>
+	<field name = "titulo">SWANK INC SNK> CAN'T EXPLAIN STOCK ACTION</field>
 	<field name = "DATELINE">ATTLEBORO, Mass., March 20 -</field>
-	<field name = "BODY">Swank Inc said it knows of no
+	<field name = "content">Swank Inc said it knows of no
 corporate development to account for the volume of activity in
 its stock yesterday and can only assume institutional trading
 was the cause.

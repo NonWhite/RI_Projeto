@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:10:56.74</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0767reute
-r f BC-SUNTRUST-STI>-PUTS-L   04-09 0058</field>
-	<field name = "TITLE">SUNTRUST STI> PUTS LOANS ON NONACCRUAL</field>
+	<field name = "titulo">SUNTRUST STI> PUTS LOANS ON NONACCRUAL</field>
 	<field name = "DATELINE">ATLANTA, April 9 -</field>
-	<field name = "BODY">SunTrust Banks Inc said in the first
+	<field name = "content">SunTrust Banks Inc said in the first
 quarter it placed about 20.2 mln dlrs of loans to Brazil and
 21.6 mln dlrs of loans to Ecuador on nonaccrual status.
     The company made the disclosure in reporting that first

@@ -8,12 +8,9 @@
 	<field name = "TOPICS">dkr</field>
 	<field name = "TOPICS">dmk</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f1174reute
-u f BC-FINLAND-REVISES-CURRE   04-01 0076</field>
-	<field name = "TITLE">FINLAND REVISES CURRENCY BASKET</field>
+	<field name = "titulo">FINLAND REVISES CURRENCY BASKET</field>
 	<field name = "DATELINE">HELSINKI, April 1 -</field>
-	<field name = "BODY">The Bank of Finland said it has revised
+	<field name = "content">The Bank of Finland said it has revised
 the weightings in its currency basket with effect from today.
 Weightings  match the respective country's share in Finland's
 foreign trade.

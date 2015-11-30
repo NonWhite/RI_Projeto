@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:58:29.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1264reute
-r f BC-HOSPITAL-CORP-HCA>-G   06-01 0099</field>
-	<field name = "TITLE">HOSPITAL CORP HCA> GETS FINANCING COMMITMENTS</field>
+	<field name = "titulo">HOSPITAL CORP HCA> GETS FINANCING COMMITMENTS</field>
 	<field name = "DATELINE">NASHVILLE, Tenn., June 1 -</field>
-	<field name = "BODY">Hospital Corp of America said it
+	<field name = "content">Hospital Corp of America said it
 received financing commitments of about 1.9 billion dlrs to pay
 for its previously announced reorganization.
      Hospital Corp said under the reorganization, over 100

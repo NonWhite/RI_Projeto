@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:19:49.36F</field>
-	<field name = "UNKNOWN">f1238reute</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">r f BC-THE-LIMITED-LTD>-APP   03-27 0045</field>
-	<field name = "TITLE">THE LIMITED LTD> APPLIES FOR TOKYO EXCHANGE</field>
+	<field name = "titulo">THE LIMITED LTD> APPLIES FOR TOKYO EXCHANGE</field>
 	<field name = "DATELINE">COLUMBUS, Ohio, March 27 -</field>
-	<field name = "BODY">The Limited Inc said it applied
+	<field name = "content">The Limited Inc said it applied
 to list its common stock on the Tokyo Stock Exchange.
     The company said the review process will take four months
 and the company expects trading to begin in July.

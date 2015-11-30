@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:26:20.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1263reute
-d f BC-LOWE'S-LOW>-TO-SELL   04-07 0040</field>
-	<field name = "TITLE">LOWE'S LOW> TO SELL DURAKON DRKN> LINER</field>
+	<field name = "titulo">LOWE'S LOW> TO SELL DURAKON DRKN> LINER</field>
 	<field name = "DATELINE">LAPEER, Mich., April 7 -</field>
-	<field name = "BODY">Durakon Industries Inc said its
+	<field name = "content">Durakon Industries Inc said its
 All Star Liner will be sold as the exclusive pickup truckbed
 liner in Lowe's Cos Inc's 300 retail home center outlets in the
 Southeastern U.S.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 12:18:29.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0782reute
-b f BC-AMERICAN-AIRLINES-AM   03-06 0076</field>
-	<field name = "TITLE">AMERICAN AIRLINES AMR> LOAD FACTOR DECLINES</field>
+	<field name = "titulo">AMERICAN AIRLINES AMR> LOAD FACTOR DECLINES</field>
 	<field name = "DATELINE">FORT WORTH, Texas, March 6 -</field>
-	<field name = "BODY">American Airlines Inc, owned
+	<field name = "content">American Airlines Inc, owned
 by AMR Corp, said its load factor for February dropped to 60.2
 pct from 64.0 pct a year ago.
     It said revenue passenger miles for the month increased 5.9

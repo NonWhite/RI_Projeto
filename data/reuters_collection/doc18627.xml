@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 09:16:54.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2972reute
-r f BC-ACA-JOE-ACAJ.O>-ACCO   06-18 0103</field>
-	<field name = "TITLE">ACA JOE ACAJ.O> ACCOUNTANT TO QUALIFY REPORT</field>
+	<field name = "titulo">ACA JOE ACAJ.O> ACCOUNTANT TO QUALIFY REPORT</field>
 	<field name = "DATELINE">SAN FRANCISCO, June 18 -</field>
-	<field name = "BODY">Aca Joe Inc said Touche Ross and
+	<field name = "content">Aca Joe Inc said Touche Ross and
 Co, intends to qualify its report on Aca Joe's year ended
 January 31 because of uncertainty about the company's ability
 as a going concern.

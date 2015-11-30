@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 11:40:04.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1463reute
-r f BC-CISTRON-BIOTECHNOLOGY   06-01 0104</field>
-	<field name = "TITLE">CISTRON BIOTECHNOLOGY CIST.O> IN MARKETING DEAL</field>
+	<field name = "titulo">CISTRON BIOTECHNOLOGY CIST.O> IN MARKETING DEAL</field>
 	<field name = "DATELINE">PINE BROOK, N.J., June 1 -</field>
-	<field name = "BODY">Cistron Biotechnology Inc said
+	<field name = "content">Cistron Biotechnology Inc said
 it has reached a marketing agreement for a "major multinational
 consumer products company" it did not name to seek U.S. Food
 and Drug Administration approvals for over the counter sales of

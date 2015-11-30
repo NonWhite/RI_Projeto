@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:12:21.17</field>
 	<field name = "PLACES">norway</field>
-	<field name = "UNKNOWN">RM 
-f2639reute
-u f BC-DEN-NORSKE-CREDITBANK   10-20 0113</field>
-	<field name = "TITLE">DEN NORSKE CREDITBANK LOAN LOSS CUT HELPS NET</field>
+	<field name = "titulo">DEN NORSKE CREDITBANK LOAN LOSS CUT HELPS NET</field>
 	<field name = "DATELINE">OSLO, Oct 20 -</field>
-	<field name = "BODY">Den Norske Creditbank (DNC) NCBO.OL>,
+	<field name = "content">Den Norske Creditbank (DNC) NCBO.OL>,
 Norway's biggest commercial bank, said it boosted its profits
 in 1987's first eight months by 32.3 pct after vigorously
 cutting loan losses and operating costs.

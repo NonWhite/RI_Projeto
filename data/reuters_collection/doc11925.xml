@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 10:04:29.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0974reute
-r f BC-PATTEN-PAT>-CALLS-CO   04-01 0095</field>
-	<field name = "TITLE">PATTEN PAT> CALLS CONVERTIBLE DEBENTURES</field>
+	<field name = "titulo">PATTEN PAT> CALLS CONVERTIBLE DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Patten Corp said it called for
+	<field name = "content">Patten Corp said it called for
 redemption on May one its outstanding 23 mln dlrs of 7-1/4 pct
 convertible subordinated debentures of 2001.
     It will buy back the debt at 1,105.93 dlrs per 1,000 dlr

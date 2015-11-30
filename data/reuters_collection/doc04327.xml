@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">turkey</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">M
-f0697reute
-d f BC-TURKISH-SHIP-HEADED-F   03-12 0079</field>
-	<field name = "TITLE">TURKISH SHIP HEADED FOR FLORIDA AFTER EXPLOSION</field>
+	<field name = "titulo">TURKISH SHIP HEADED FOR FLORIDA AFTER EXPLOSION</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">The Turkish ore/bulk/oil vessel Obo
+	<field name = "content">The Turkish ore/bulk/oil vessel Obo
 Engin, 78,078 tonnes dwt, had an explosion in its boiler
 yesterday, Lloyds shipping Intelligence Service reported.
     The vessel has retained some power and yesterday evening

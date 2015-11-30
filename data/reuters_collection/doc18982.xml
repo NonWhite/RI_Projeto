@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 18:09:07.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM A 
-f4880reute
-r f BC-FIRST-WACHOVIA-FW>-A   06-18 0104</field>
-	<field name = "TITLE">FIRST WACHOVIA FW> ADDS TO LOAN LOSS RESERVE</field>
+	<field name = "titulo">FIRST WACHOVIA FW> ADDS TO LOAN LOSS RESERVE</field>
 	<field name = "DATELINE">ATLANTA, Ga., June 18 -</field>
-	<field name = "BODY">First Wachovia Corp said it will
+	<field name = "content">First Wachovia Corp said it will
 add 50 mln dlrs to its loan loss reserve. It said about 35 mln
 dlrs will cover bad loans to developing countries and the
 balance is for domestic and international loans.

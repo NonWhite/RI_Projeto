@@ -8,12 +8,9 @@
 	<field name = "PLACES">ussr</field>
 	<field name = "ORGS">iwc-wheat</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0556reute
-b f BC-IWC-LIFTS-WORLD-GRAIN   03-26 0118</field>
-	<field name = "TITLE">IWC LIFTS WORLD GRAIN OUTPUT ESTIMATE TO RECORD</field>
+	<field name = "titulo">IWC LIFTS WORLD GRAIN OUTPUT ESTIMATE TO RECORD</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">The International Wheat Council (IWC)
+	<field name = "content">The International Wheat Council (IWC)
 lifted its estimate for 1986/87 world wheat and coarse grain
 production by one mln tonnes to a record 1,377 mln, compared
 with 1,351 mln tonnes the previous season.

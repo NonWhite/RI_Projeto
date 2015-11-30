@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:41:15.00</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0596reute
-r f BC-FRANCE-SETS-PRICE-FOR   03-06 0086</field>
-	<field name = "TITLE">FRANCE SETS PRICE FOR RHONE-POULENC ISSUE</field>
+	<field name = "titulo">FRANCE SETS PRICE FOR RHONE-POULENC ISSUE</field>
 	<field name = "DATELINE">PARIS, March 6 -</field>
-	<field name = "BODY">The Finance Ministry said it set a price
+	<field name = "content">The Finance Ministry said it set a price
 of 335 francs per investment certificate for a public offering
 of the state's rights to a 2.5 billion franc one-for-five
 rights issue of certificates by Rhone-Poulenc RHON.PA> opening

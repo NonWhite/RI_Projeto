@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 06:39:53.79</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0003
-reute
-b f BC-TESCO-ISSUES-100-MLN   03-02 0110</field>
-	<field name = "TITLE">TESCO ISSUES 100 MLN STG CONVERTIBLE BOND</field>
+	<field name = "titulo">TESCO ISSUES 100 MLN STG CONVERTIBLE BOND</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">Tesco Plc TSCO.L> is issuing a 100 mln
+	<field name = "content">Tesco Plc TSCO.L> is issuing a 100 mln
 stg convertible eurobond due February 20, 2002 paying an
 indicated coupon of four to 4-1/4 pct and priced at par, lead
 manager Credit Suisse First Boston Ltd said.

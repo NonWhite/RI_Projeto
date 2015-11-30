@@ -3,12 +3,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PEOPLE">thatcher</field>
-	<field name = "UNKNOWN">RM
-f0206reute
-u f BC-THATCHER-PROSPECTS-BO   04-03 0119</field>
-	<field name = "TITLE">THATCHER PROSPECTS BOOSTED BY USSR TRIP, POLL SAYS</field>
+	<field name = "titulo">THATCHER PROSPECTS BOOSTED BY USSR TRIP, POLL SAYS</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">British Prime Minister Margaret Thatcher
+	<field name = "content">British Prime Minister Margaret Thatcher
 has improved her standing with voters, according to the first
 opinion poll published since her return from the Soviet Union.
     Thatcher is seeking re-election for a third term and the

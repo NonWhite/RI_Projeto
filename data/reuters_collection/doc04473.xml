@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 15:35:53.02</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0320reute
-u f BC-PHILLIPS-P>-RAISES-C   03-12 0082</field>
-	<field name = "TITLE">PHILLIPS P> RAISES CRUDE POSTINGS 50 CTS</field>
+	<field name = "titulo">PHILLIPS P> RAISES CRUDE POSTINGS 50 CTS</field>
 	<field name = "DATELINE">New York, March 12 -</field>
-	<field name = "BODY">Phillips Petroleum said it raised the
+	<field name = "content">Phillips Petroleum said it raised the
 contract price it will for all grades of crude oil 50 cts a
 barrel, effective today.
     The increase brings Phillip's posted price for the West

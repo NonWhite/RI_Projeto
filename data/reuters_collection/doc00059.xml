@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 16:03:15.46</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">C G L M T
-f0923
-reute
-u f BC-ARGENTINA-COULD-SUSPE   02-26 0110</field>
-	<field name = "TITLE">ARGENTINA COULD SUSPEND DEBT PAYMENTS - DEPUTY</field>
+	<field name = "titulo">ARGENTINA COULD SUSPEND DEBT PAYMENTS - DEPUTY</field>
 	<field name = "DATELINE">BUENOS AIRES, Feb 26 -</field>
-	<field name = "BODY">Argentina could suspend payments on
+	<field name = "content">Argentina could suspend payments on
 its foreign debt if creditor banks reject a 2.15 billion dlr
 loan request to meet 1987 growth targets, ruling Radical Party
 Deputy Raul Baglini told a local radio station.

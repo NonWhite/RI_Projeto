@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 11:41:49.99</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C G L M T
-f0482reute
-u f BC-/SEC-REMOVES-OBSTACLE   03-12 0123</field>
-	<field name = "TITLE">SEC REMOVES OBSTACLE TO FOREIGN FUTURES TRADING</field>
+	<field name = "titulo">SEC REMOVES OBSTACLE TO FOREIGN FUTURES TRADING</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">The Securities and Exchange
+	<field name = "content">The Securities and Exchange
 Commission removed a key regulatory obstacle to trading futures
 on designated foreign debt securities on U.S. exchanges.
     The move would allow the Chicago Board of Trade, CBT, to

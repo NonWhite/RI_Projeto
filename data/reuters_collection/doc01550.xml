@@ -10,12 +10,9 @@
 	<field name = "PLACES">italy</field>
 	<field name = "PLACES">spain</field>
 	<field name = "PLACES">greece</field>
-	<field name = "UNKNOWN">G
-f0710reute
-r f BC-CEREALS-MCAS-TO-BE-UN   03-04 0070</field>
-	<field name = "TITLE">CEREALS MCAS TO BE UNCHANGED NEXT WEEK</field>
+	<field name = "titulo">CEREALS MCAS TO BE UNCHANGED NEXT WEEK</field>
 	<field name = "DATELINE">BRUSSELS, March 4 -</field>
-	<field name = "BODY">Cereals Monetary Compensatory Amounts,
+	<field name = "content">Cereals Monetary Compensatory Amounts,
 MCAs, will be unchanged for the week starting March 9, an EC
 Commission spokesman said.
     They will be plus 2.4 points for the Netherlands and West

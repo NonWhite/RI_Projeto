@@ -3,12 +3,9 @@
 	<field name = "PLACES">kenya</field>
 	<field name = "PEOPLE">camdessus</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f0874reute
-r f BC-IMF-ASSURES-KENYA-OF   03-15 0091</field>
-	<field name = "TITLE">IMF ASSURES KENYA OF MAXIMUM HELP</field>
+	<field name = "titulo">IMF ASSURES KENYA OF MAXIMUM HELP</field>
 	<field name = "DATELINE">NAIROBI, March 15 -</field>
-	<field name = "BODY">The International Monetary Fund (IMF)
+	<field name = "content">The International Monetary Fund (IMF)
 has assured Kenyan President Daniel Arap Moi it will continue
 to give his country maximum support, the official Kenya News
 Agency KNA said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 13:59:04.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2024reute
-r f BC-HEALTH-MANAGEMENT-HM   03-24 0087</field>
-	<field name = "TITLE">HEALTH MANAGEMENT HMA> LIMITS LIABILITY</field>
+	<field name = "titulo">HEALTH MANAGEMENT HMA> LIMITS LIABILITY</field>
 	<field name = "DATELINE">NAPLES, Fla., March 24 -</field>
-	<field name = "BODY">Health Management Associates Inc
+	<field name = "content">Health Management Associates Inc
 said stockholders approved amendments to its restated
 certificate of incorporation limiting the personal liability of
 directors for monetary damages except in certain circumstances.

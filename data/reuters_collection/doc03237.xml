@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:47:48.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0996reute
-d f BC-BEAR-STEARNS-BSC>-TO   03-09 0096</field>
-	<field name = "TITLE">BEAR STEARNS BSC> TO RELOCATE HEADQUARTERS</field>
+	<field name = "titulo">BEAR STEARNS BSC> TO RELOCATE HEADQUARTERS</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Bear Stearns Cos Inc said it was
+	<field name = "content">Bear Stearns Cos Inc said it was
 relocating its Wall Street headquarters to a mid-town location
 on Park Ave. and signed a lease with Olympia and York>.
     The firm said it will occupy 537,000 square beginning

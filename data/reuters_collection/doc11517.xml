@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 13:39:41.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2039reute
-b f BC--/FED-ADDS-PERMANENT   03-31 0104</field>
-	<field name = "TITLE">FED ADDS PERMANENT RESERVES BY BUYING COUPONS</field>
+	<field name = "titulo">FED ADDS PERMANENT RESERVES BY BUYING COUPONS</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">The Federal Reserve is offering to buy
+	<field name = "content">The Federal Reserve is offering to buy
 all maturities of Treasury notes and bonds for its own account
 for regular delivery, a spokeswoman for the New York Fed said.
     Fed funds were trading at 6-1/8 pct at the time of the

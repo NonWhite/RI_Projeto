@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">lawson</field>
-	<field name = "UNKNOWN">RM
-f7133reute
-u f BC-LAWSON-EXPECTS-INTERE   03-18 0061</field>
-	<field name = "TITLE">LAWSON EXPECTS INTEREST RATE FALL SOON</field>
+	<field name = "titulo">LAWSON EXPECTS INTEREST RATE FALL SOON</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">U.K. Chancellor of the Exchequer Nigel
+	<field name = "content">U.K. Chancellor of the Exchequer Nigel
 Lawson said he expected British interest rates to fall soon in
 response to his fiscal 1987/88 budget, but he did not say by
 how much.

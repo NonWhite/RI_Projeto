@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:21:43.64</field>
-	<field name = "UNKNOWN">C G
-f1236reute
-u f BC-cbr-s'prods-opg-reprt   04-07 0104</field>
-	<field name = "TITLE">CBT SOYPRODUCT FUTURES HIGHER IN EARLY TRADE</field>
+	<field name = "titulo">CBT SOYPRODUCT FUTURES HIGHER IN EARLY TRADE</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">CBT soyproduct futures traded higher
+	<field name = "content">CBT soyproduct futures traded higher
 early in sympathy with the unexpected strength in soybeans,
 with soyoil up 0.13 to 0.16 cent per lb and soymeal 0.40 to
 1.00 dlr per ton higher, traders said.

@@ -3,12 +3,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">chirac</field>
-	<field name = "UNKNOWN">V RM
-f2104reute
-u f AM-CHIRAC-ECONOMY   03-30 0101</field>
-	<field name = "TITLE">CHIRAC URGES EXCHANGE RATE STABILITY PLAN</field>
+	<field name = "titulo">CHIRAC URGES EXCHANGE RATE STABILITY PLAN</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">French Prime Minister Jacques Chirac
+	<field name = "content">French Prime Minister Jacques Chirac
 called on leading Western nations to set up a mechanism which
 would put a stop to volatile foreign exchange rates.
     In a speech prepared for delivery to businessmen and

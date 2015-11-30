@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:29:39.47F</field>
-	<field name = "UNKNOWN">f0704reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-COSTCO-WHOLESALE-CORP   03-27 0060</field>
-	<field name = "TITLE">COSTCO WHOLESALE CORP COST> 2ND QTR FEB 16 NET</field>
+	<field name = "titulo">COSTCO WHOLESALE CORP COST> 2ND QTR FEB 16 NET</field>
 	<field name = "DATELINE">SEATTLE, March 27 -</field>
-	<field name = "BODY">Oper shr five cts vs six cts
+	<field name = "content">Oper shr five cts vs six cts
     Oper net 1,100,000 vs 1,463,000
     Revs 177.8 mln vs 331.5 mln
     Avg shrs 21.9 mn vs 25.7 mln

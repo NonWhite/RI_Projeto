@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 17:23:41.22</field>
 	<field name = "PLACES">lebanon</field>
-	<field name = "UNKNOWN">V RM Y
-f2605reute
-b f BC-GEMAYEL-NAMES-ACTING   06-01 0100</field>
-	<field name = "TITLE">GEMAYEL NAMES ACTING PREMIER</field>
+	<field name = "titulo">GEMAYEL NAMES ACTING PREMIER</field>
 	<field name = "DATELINE">BEIRUT, June 1 -</field>
-	<field name = "BODY">President Amin Gemayel named Sunni Moslem
+	<field name = "content">President Amin Gemayel named Sunni Moslem
 Education Minister Selim Hoss as acting prime minister
 following the assassination of Premier Rashid Karami, a
 presidential palace statement said.

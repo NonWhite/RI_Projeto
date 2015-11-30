@@ -4,12 +4,9 @@
 	<field name = "TOPICS">gas</field>
 	<field name = "TOPICS">fuel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2807reute
-u f BC-RECENT-U.S.-OIL-DEMAN   04-29 0106</field>
-	<field name = "TITLE">RECENT U.S. OIL DEMAND UP 0.6 PCT FROM YEAR AGO</field>
+	<field name = "titulo">RECENT U.S. OIL DEMAND UP 0.6 PCT FROM YEAR AGO</field>
 	<field name = "DATELINE">WASHINGTON, April 29 -</field>
-	<field name = "BODY">U.S. oil demand as measured by
+	<field name = "content">U.S. oil demand as measured by
 products supplied rose 0.6 pct in the four weeks ended April 17
 to 15.91 mln barrels per day (bpd) from 15.82 mln in the same
 period a year ago, the Energy Information Administration (EIA)

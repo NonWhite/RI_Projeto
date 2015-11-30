@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:12:44.58</field>
-	<field name = "UNKNOWN">G
-f1504reute
-u f BC-wnpg-oilseed-report   04-07 0104</field>
-	<field name = "TITLE">MIDDAY WINNIPEG OILSEEDS HIGHER</field>
+	<field name = "titulo">MIDDAY WINNIPEG OILSEEDS HIGHER</field>
 	<field name = "DATELINE">WINNIPEG, April 7 -</field>
-	<field name = "BODY">Winnipeg oilseeds were higher, with
+	<field name = "content">Winnipeg oilseeds were higher, with
 rapeseed gaining 2.10 to 2.50 dlrs a bushel and flaxseed up
 1.50 to 2.70.
     Oilseeds were supported by the rally in the Chicago soy

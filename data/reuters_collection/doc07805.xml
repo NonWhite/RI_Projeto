@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:31:31.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1629reute
-b f BC-U.S.-HOUSE-BUDGET-WRI   03-20 0107</field>
-	<field name = "TITLE">U.S. HOUSE BUDGET WRITING PROCESS COLLAPSES</field>
+	<field name = "titulo">U.S. HOUSE BUDGET WRITING PROCESS COLLAPSES</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">Rep William Gray (D-Pa), Chairman of
+	<field name = "content">Rep William Gray (D-Pa), Chairman of
 the House Budget Committee, abruptly canceled the committee's
 budget writing process when Republican members said they would
 continue a vote strike begun yesterday.

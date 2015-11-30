@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 17:41:06.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f6726reute
-r f BC-WESTWORLD-COMMUNITY-   03-17 0088</field>
-	<field name = "TITLE">WESTWORLD COMMUNITY WCHI> EXTENDS EXCHANGE</field>
+	<field name = "titulo">WESTWORLD COMMUNITY WCHI> EXTENDS EXCHANGE</field>
 	<field name = "DATELINE">LAKE FOREST, Calif., March 17 -</field>
-	<field name = "BODY">Westworld Community
+	<field name = "content">Westworld Community
 Healthcare Inc said it is extending by ten days to March 27 its
 exchange offers for subordinated notes and debentures.
     The extension effects its exchange offers for 30 mln dlrs

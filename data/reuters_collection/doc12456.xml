@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0548reute
-u f BC-JAPAN/U.S.-WILL-BE-AT   04-02 0100</field>
-	<field name = "TITLE">JAPAN/U.S. WILL BE AT ODDS WHILE TRADE LOPSIDED</field>
+	<field name = "titulo">JAPAN/U.S. WILL BE AT ODDS WHILE TRADE LOPSIDED</field>
 	<field name = "DATELINE">TOKYO, April 2 -</field>
-	<field name = "BODY">Japan is doing all it can to solve its
+	<field name = "content">Japan is doing all it can to solve its
 trade problems with the United States but the two nations will
 remain at odds as long as the trade account is lopsided in
 Japan's favour, a senior official said.

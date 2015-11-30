@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:30:28.41</field>
-	<field name = "UNKNOWN">A RM
-f0767reute
-u f BC-DOLLAR-OPENS-LOWER-IN   04-07 0113</field>
-	<field name = "TITLE">DOLLAR OPENS LOWER IN NEW YORK</field>
+	<field name = "titulo">DOLLAR OPENS LOWER IN NEW YORK</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">The dollar opened lower following the
+	<field name = "content">The dollar opened lower following the
 trend set earlier in the Far East and Europe, dealers said.
     Still, the U.S. currency remained well within recent
 trading ranges because few operators are prepared to go out on

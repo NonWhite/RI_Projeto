@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 13:29:48.44</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0118reute
-d f BC-JIM-WALTER-JWC>-BUSY   03-11 0074</field>
-	<field name = "TITLE">JIM WALTER JWC> BUSY OWENS-CORNING OCF> PLANT</field>
+	<field name = "titulo">JIM WALTER JWC> BUSY OWENS-CORNING OCF> PLANT</field>
 	<field name = "DATELINE">TAMPA, Fla, March 11 -</field>
-	<field name = "BODY">Jim Walter Corp said it completed
+	<field name = "content">Jim Walter Corp said it completed
 the acquisition of Owens-Corning Fiberglas Corp's mineral
 ceiling and fiberboard plant in Meridian, Miss.
     Terms were not disclosed

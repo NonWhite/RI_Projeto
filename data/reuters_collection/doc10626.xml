@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">turkey</field>
 	<field name = "PLACES">greece</field>
-	<field name = "UNKNOWN">RM
-f2780reute
-r f BC-TURKISH-GREEK-AEGEAN   03-28 0106</field>
-	<field name = "TITLE">TURKISH-GREEK AEGEAN TENSION ABATES</field>
+	<field name = "titulo">TURKISH-GREEK AEGEAN TENSION ABATES</field>
 	<field name = "DATELINE">ANKARA, March 29 -</field>
-	<field name = "BODY">Turkey"s standoff with Greece over Aegean
+	<field name = "content">Turkey"s standoff with Greece over Aegean
 oil rights appeared at an end after the government said it had
 been assured Athens would not start prospecting in disputed
 waters.

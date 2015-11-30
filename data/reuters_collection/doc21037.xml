@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 14:56:46.00</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2695reute
-w f BC-TERMIFLEX-CORP-TFLX.   10-19 0038</field>
-	<field name = "TITLE">TERMIFLEX CORP TFLX.O> 1ST QTR SEPT 30 NET</field>
+	<field name = "titulo">TERMIFLEX CORP TFLX.O> 1ST QTR SEPT 30 NET</field>
 	<field name = "DATELINE">MERRIMACK, N.H., Oct 19 -</field>
-	<field name = "BODY">Shr five cts vs seven cts
+	<field name = "content">Shr five cts vs seven cts
     Net 64,652 vs 96,157
     Sales 1,205,321 vs 1,499,591
     NOTE: Backlog three mln dlrs vs 2,600,000 as of June 30,

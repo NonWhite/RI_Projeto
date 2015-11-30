@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 12:15:58.87</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1616reute
-b f BC-AMERICAN-EXPRESS-UNIT   03-24 0086</field>
-	<field name = "TITLE">AMERICAN EXPRESS UNIT ISSUES NEW ZEALAND DLR BOND</field>
+	<field name = "titulo">AMERICAN EXPRESS UNIT ISSUES NEW ZEALAND DLR BOND</field>
 	<field name = "DATELINE">London, March 24 -</field>
-	<field name = "BODY">American Express Overseas Credit Corp is
+	<field name = "content">American Express Overseas Credit Corp is
 issuing a 50 mln New Zealand dlr bond due April 27, 1990
 carrying a coupon of 18 pct and priced at 101-1/4, said Hambros
 Bank Ltd as lead manager.

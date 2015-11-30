@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 15:47:49.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2273reute
-u f BC-A-H-ROBINS-QRAH>-SEE   03-23 0083</field>
-	<field name = "TITLE">A H ROBINS QRAH> SEEKS ORDER</field>
+	<field name = "titulo">A H ROBINS QRAH> SEEKS ORDER</field>
 	<field name = "DATELINE">RICHMOND, Va, March 23 -</field>
-	<field name = "BODY">A.H. Robins Co said it filed a
+	<field name = "content">A.H. Robins Co said it filed a
 motion in the U.S. Bankruptcy Court in Richmond seeking to 
 establish an orderly procedure to determine the number of valid
 Dalkon Shield claims that must be dealt with in the company's

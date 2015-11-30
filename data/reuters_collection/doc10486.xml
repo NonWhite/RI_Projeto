@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:32:41.71C G</field>
-	<field name = "UNKNOWN">f1317reute</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">b f BC-/LOWER-ASCS-CORN-PRIC   03-27 0123</field>
-	<field name = "TITLE">LOWER ASCS CORN PRICES TO AFFECT TEN STATES</field>
+	<field name = "titulo">LOWER ASCS CORN PRICES TO AFFECT TEN STATES</field>
 	<field name = "DATELINE">WASHINGTON, March 27 -</field>
-	<field name = "BODY">The Agriculture Department's
+	<field name = "content">The Agriculture Department's
 widening of Louisiana gulf differentials will affect county
 posted prices for number two yellow corn in ten states, a USDA
 official said.

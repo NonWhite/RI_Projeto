@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 10:48:16.51</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0373reute
-u f BC-ANDREOTTI-ASKED-TO-FO   03-09 0089</field>
-	<field name = "TITLE">ANDREOTTI ASKED TO FORM GOVERNMENT</field>
+	<field name = "titulo">ANDREOTTI ASKED TO FORM GOVERNMENT</field>
 	<field name = "DATELINE">ROME, March 9 -</field>
-	<field name = "BODY">Italian President Francesco Cossiga asked
+	<field name = "content">Italian President Francesco Cossiga asked
 veteran Christian Democrat politician Giulio Andreotti to try
 to form a new government, officials said.
     They said Andreotti had reserved his reply on whether to

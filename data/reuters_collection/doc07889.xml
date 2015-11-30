@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 13:59:08.82</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">Y
-f1967reute
-u f BC-SPANISH-COAL-MINERS-C   03-20 0108</field>
-	<field name = "TITLE">SPANISH COAL MINERS CALL STRIKES OVER LAYOFFS</field>
+	<field name = "titulo">SPANISH COAL MINERS CALL STRIKES OVER LAYOFFS</field>
 	<field name = "DATELINE">MADRID, March 20 -</field>
-	<field name = "BODY">Miners at Spain's state-owned Hulleras
+	<field name = "content">Miners at Spain's state-owned Hulleras
 del Norte S.A. (Hunosa) coal company have called a 72-hour
 strike starting on Monday to protest against a restructuring
 plan that entails layoffs, union sources said.

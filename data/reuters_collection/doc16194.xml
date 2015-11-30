@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 08:02:05.70</field>
 	<field name = "TOPICS">wpi</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0599reute
-u f BC-U.K.-PRODUCER-PRICES   04-13 0083</field>
-	<field name = "TITLE">U.K. PRODUCER PRICES SEEN MOVED BY TECHNICALITIES</field>
+	<field name = "titulo">U.K. PRODUCER PRICES SEEN MOVED BY TECHNICALITIES</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">U.K. Producer price data for March were
+	<field name = "content">U.K. Producer price data for March were
 roughly as expected after taking into account technical factors
 which affected the year-on-year outcome, economic analysts
 said.

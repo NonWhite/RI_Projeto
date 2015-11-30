@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">peseta</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f2449reute
-u f BC-SPAIN-TO-RELAX-EXCHAN   03-16 0098</field>
-	<field name = "TITLE">SPAIN TO RELAX EXCHANGE CONTROLS</field>
+	<field name = "titulo">SPAIN TO RELAX EXCHANGE CONTROLS</field>
 	<field name = "DATELINE">MADRID, March 16 -</field>
-	<field name = "BODY">The Bank of Spain is relaxing exchange
+	<field name = "content">The Bank of Spain is relaxing exchange
 controls to help put Spanish banks on an equal footing with
 European Community competitors by the 1993 deadline for the
 ending of restrictions, a central bank spokesman said.

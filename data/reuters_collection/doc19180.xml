@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 10:39:33.07</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1043reute
-b f BC-CHRYSLER-C>-HAS-NO-P   06-19 0085</field>
-	<field name = "TITLE">CHRYSLER C> HAS NO PLANS TO RAISE BID</field>
+	<field name = "titulo">CHRYSLER C> HAS NO PLANS TO RAISE BID</field>
 	<field name = "DATELINE">DETROIT, June 19 -</field>
-	<field name = "BODY">Chrysler Corp said it has no intention
+	<field name = "content">Chrysler Corp said it has no intention
 of increasing its offer for Electrospace Systems Inc ELE>.
     Chrysler agreed to purchase the Texas-based defense
 electronics contractor in a tender offer of 27 dlrs a share for

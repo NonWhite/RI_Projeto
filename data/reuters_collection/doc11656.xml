@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f2571reute
-d f BC-ALLIED-SIGNAL-ALD>-C   03-31 0057</field>
-	<field name = "TITLE">ALLIED-SIGNAL ALD> COMPLETES UNIT SALE</field>
+	<field name = "titulo">ALLIED-SIGNAL ALD> COMPLETES UNIT SALE</field>
 	<field name = "DATELINE">MORRIS TOWNSHIP, N.J., March 31 -</field>
-	<field name = "BODY">Allied-Signal Inc said it
+	<field name = "content">Allied-Signal Inc said it
 completed the previously announced sale of its Linotype Group
 to Commerzbank AG of West Germany.
     The purchase price was not disclosed.

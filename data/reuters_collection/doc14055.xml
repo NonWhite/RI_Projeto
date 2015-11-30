@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:14:55.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1209reute
-d f BC-REUTERS-RtrSY>-UNIT   04-07 0108</field>
-	<field name = "TITLE">REUTERS RtrSY> UNIT COMPLETES TRADING SYSTEM</field>
+	<field name = "titulo">REUTERS RtrSY> UNIT COMPLETES TRADING SYSTEM</field>
 	<field name = "DATELINE">NEW YORK, April -</field>
-	<field name = "BODY">Rich Inc, a wholly-owned subsidiary of
+	<field name = "content">Rich Inc, a wholly-owned subsidiary of
 Reuters Holdings PLC of London, said it completed installation
 of a 20 mln dlr trading system for Merrill Lynch and Co Inc
 MER> in New York.

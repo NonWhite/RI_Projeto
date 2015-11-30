@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:36:21.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0346reute
-u f BC-CARSON-PIRIE-SCOTT-C   03-05 0076</field>
-	<field name = "TITLE">CARSON PIRIE SCOTT CRN> FEBRUARY SALES UP</field>
+	<field name = "titulo">CARSON PIRIE SCOTT CRN> FEBRUARY SALES UP</field>
 	<field name = "DATELINE">CHICAGO, March 5 -</field>
-	<field name = "BODY">Carson Pirie Scott and Co said its
+	<field name = "content">Carson Pirie Scott and Co said its
 February sales increased 18.2 pct to 104.3 mln dlrs from 88.2
 mln dlrs a year ago.
     It said each of its business groups - retail foodservice

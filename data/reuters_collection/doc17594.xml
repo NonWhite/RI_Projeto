@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F E
-f1443reute
-u f BC-COKE-CONSOLIDATED-CO   06-01 0097</field>
-	<field name = "TITLE">COKE CONSOLIDATED COKE.O> TO SELL CANADA UNIT</field>
+	<field name = "titulo">COKE CONSOLIDATED COKE.O> TO SELL CANADA UNIT</field>
 	<field name = "DATELINE">CHARLOTTE, N.C., June 1 -</field>
-	<field name = "BODY">Coca-Cola Bottling Co
+	<field name = "content">Coca-Cola Bottling Co
 Consolidated said it has agreed in principle to sell its
 Vancouver-based Canadian bottling subsidiary to Coca-Cola Co
 KO> for undisclosed terms, with closing expected within 60

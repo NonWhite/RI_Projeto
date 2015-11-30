@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 03:51:50.46</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">RM
-f0185reute
-u f BC-VENEZUELA-PREPARING-N   04-27 0102</field>
-	<field name = "TITLE">VENEZUELA PREPARING NEW WAGE, INFLATION PLAN</field>
+	<field name = "titulo">VENEZUELA PREPARING NEW WAGE, INFLATION PLAN</field>
 	<field name = "DATELINE">CARACAS, April 27 -</field>
-	<field name = "BODY">President Jaime Lusinchi is preparing
+	<field name = "content">President Jaime Lusinchi is preparing
 an economic package in response to demands from organised
 labour in Venezuela for a general wage increase and controls on
 inflation, the state news agency Venpres reported.

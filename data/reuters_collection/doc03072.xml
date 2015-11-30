@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 10:05:45.89</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0178reute
-b f BC-FRENCH-JANUARY-M-3-MO   03-09 0107</field>
-	<field name = "TITLE">FRENCH JANUARY M-3 MONEY SUPPLY RISES ONE PCT</field>
+	<field name = "titulo">FRENCH JANUARY M-3 MONEY SUPPLY RISES ONE PCT</field>
 	<field name = "DATELINE">PARIS, March 9 -</field>
-	<field name = "BODY">French money supply, measured in terms of
+	<field name = "content">French money supply, measured in terms of
 M-3, rose a provisional one pct in January after falling 0.7
 pct in December, the Bank of France said.
     M-3 is the main money supply aggregate used by the French

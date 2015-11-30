@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 07:44:01.73</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f0030
-reute
-u f BC-HK-HOTELS-SOARS-ON-TA   03-03 0098</field>
-	<field name = "TITLE">HK HOTELS SOARS ON TAKEOVER SPECULATION</field>
+	<field name = "titulo">HK HOTELS SOARS ON TAKEOVER SPECULATION</field>
 	<field name = "DATELINE">HONG KONG, March 3 -</field>
-	<field name = "BODY">The price of Hongkong and Shanghai
+	<field name = "content">The price of Hongkong and Shanghai
 Hotels Ltd SHLH.HK>'s stock soared on speculation of a
 takeover battle between major shareholders the Kadoorie family
 and the Evergo Industrial Enterprise Ltd EVGH.HK> group, stock

@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 22:56:45.09</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0048reute
-u f BC-AMC-IMPOSES-HIRING-FR   03-11 0097</field>
-	<field name = "TITLE">AMC IMPOSES HIRING FREEZE DUE TO TAKEOVER BID</field>
+	<field name = "titulo">AMC IMPOSES HIRING FREEZE DUE TO TAKEOVER BID</field>
 	<field name = "DATELINE">DETROIT, March 11 -</field>
-	<field name = "BODY">American Motors Corp AMO> management
+	<field name = "content">American Motors Corp AMO> management
 has ordered a hiring freeze in view of Chrysler Corp's C> 1.5
 billion dlr takeover bid, a spokesman for AMC said.
     Analysts said the merger is virtually certain to go ahead.

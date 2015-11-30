@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 15:07:27.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f2162reute
-d f BC-CFTC-STUDYING-TRANSFE   03-23 0137</field>
-	<field name = "TITLE">CFTC STUDYING TRANSFERING SURVEILLANCE COSTS</field>
+	<field name = "titulo">CFTC STUDYING TRANSFERING SURVEILLANCE COSTS</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">The Commodity Futures Trading
+	<field name = "content">The Commodity Futures Trading
 Commission, CFTC, and the White House budget office are
 exploring the possibility of transfering the three mln dlr
 annual cost of the commission's surveillance functions to the

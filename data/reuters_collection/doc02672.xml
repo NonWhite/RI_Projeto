@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:38:18.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0584reute
-u f BC-PHILIP-CROSBY-PCRO>   03-06 0043</field>
-	<field name = "TITLE">PHILIP CROSBY PCRO> PROBES POSSIBLE EMBEZZLING</field>
+	<field name = "titulo">PHILIP CROSBY PCRO> PROBES POSSIBLE EMBEZZLING</field>
 	<field name = "DATELINE">WINTER PARK, Fla., March 6 -</field>
-	<field name = "BODY">Philip Crosby Associates Inc
+	<field name = "content">Philip Crosby Associates Inc
 said it and police authorities are investigating a possible
 embezzlement by a bonded former employee that may involve
 several hundred thousand dollars.

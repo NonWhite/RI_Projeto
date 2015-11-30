@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:46:03.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1880reute
-r f BC-S.P.I.-SUSPENSION-SP   03-26 0046</field>
-	<field name = "TITLE">S.P.I. SUSPENSION SPILF> WINS CONTRACT</field>
+	<field name = "titulo">S.P.I. SUSPENSION SPILF> WINS CONTRACT</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">S.P.I. Suspension and Parts Industries
+	<field name = "content">S.P.I. Suspension and Parts Industries
 Ltd said it won four multi-year contracts from the U.S. Army
 worth 34.5 mln dlrs.
     The contracts, for wheels on U.S. Army vehicles, will run

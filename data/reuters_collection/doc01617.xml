@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 12:52:47.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0076reute
-b f BC-GM-GM>-LATE-FEBRUARY   03-04 0098</field>
-	<field name = "TITLE">GM GM> LATE FEBRUARY CAR SALES OFF 8.6 PCT</field>
+	<field name = "titulo">GM GM> LATE FEBRUARY CAR SALES OFF 8.6 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">General Motors Corp said car sales for
+	<field name = "content">General Motors Corp said car sales for
 February 21 through 28 were off 8.6 pct to 98,036 from 107,207
 a year before.
     The company said truck sales for the period were up 10.9

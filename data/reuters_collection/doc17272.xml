@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0571reute
-r f BC-U.S.-OFFICIAL-SAYS-EA   04-27 0101</field>
-	<field name = "TITLE">U.S. OFFICIAL SAYS EAGLE GOLD COIN HAS MAJOR SHARE</field>
+	<field name = "titulo">U.S. OFFICIAL SAYS EAGLE GOLD COIN HAS MAJOR SHARE</field>
 	<field name = "DATELINE">TOKYO, April 27 -</field>
-	<field name = "BODY">A visiting U.S. Mint official told
+	<field name = "content">A visiting U.S. Mint official told
 reporters that American Eagle gold coins took the largest share
 of the world bullion coin market in 1986 despite the fact sales
 only began in October last year.

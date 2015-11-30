@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 06:55:41.00</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0543reute
-u f BC-ICN-MARK-EUROBOND-ISS   03-30 0114</field>
-	<field name = "TITLE">ICN MARK EUROBOND ISSUE NOW UNCERTAIN</field>
+	<field name = "titulo">ICN MARK EUROBOND ISSUE NOW UNCERTAIN</field>
 	<field name = "DATELINE">FRANKFURT, March 30 -</field>
-	<field name = "BODY">Plans by the U.S.-based ICN
+	<field name = "content">Plans by the U.S.-based ICN
 Pharmaceuticals Inc ICN.N> to issue a mark eurobond soon are
 in doubt owing to uncertainties about future expansion, Arab
 Banking Corp - Daus and Co GmbH (ABC DAUS) said.

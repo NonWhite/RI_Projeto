@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1284reute
-u f BC-GERMAN-LONG-TERM-CAPI   04-07 0118</field>
-	<field name = "TITLE">GERMAN LONG-TERM CAPITAL INFLOW SLUMPS IN FEBRUARY</field>
+	<field name = "titulo">GERMAN LONG-TERM CAPITAL INFLOW SLUMPS IN FEBRUARY</field>
 	<field name = "DATELINE">FRANKFURT, April 7 -</field>
-	<field name = "BODY">The inflow of long-term capital into
+	<field name = "content">The inflow of long-term capital into
 West Germany slumped to 606 mln marks in February from
 January's record 11.91 billion, with foreign purchases of
 German bonds and shares declining sharply, the Bundesbank said.

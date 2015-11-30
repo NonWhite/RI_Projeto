@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:54:28.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f4321reute
-r f BC-CONSUMERS-CMS>-SELLS   06-18 0109</field>
-	<field name = "TITLE">CONSUMERS CMS> SELLS BONDS IN TWO TRANCHES</field>
+	<field name = "titulo">CONSUMERS CMS> SELLS BONDS IN TWO TRANCHES</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Consumers Power Co is raising 250 mln
+	<field name = "content">Consumers Power Co is raising 250 mln
 dlrs through a two-tranche offering of first mortgage bonds,
 said lead manager Morgan Stanley and Co Inc.
     A 150 mln dlr offering due 1992 was given a nine pct coupon

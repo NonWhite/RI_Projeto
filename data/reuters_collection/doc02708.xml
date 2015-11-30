@@ -4,12 +4,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f0764reute
-u f BC-IMF-URGES-BELGIUM-TO   03-06 0104</field>
-	<field name = "TITLE">IMF URGES BELGIUM TO MAKE FURTHER SPENDING CUTS</field>
+	<field name = "titulo">IMF URGES BELGIUM TO MAKE FURTHER SPENDING CUTS</field>
 	<field name = "DATELINE">BRUSSELS, March 6 -</field>
-	<field name = "BODY">The Belgian government, which
+	<field name = "content">The Belgian government, which
 introduced large-scale public spending reductions last year,
 has been told by an International Monetary Fund team there is
 scope for further cuts in 1988.

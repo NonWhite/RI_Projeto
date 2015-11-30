@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 12:36:11.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1683reute
-r f BC-GRUMMAN-GQ>-WINS-28   04-01 0077</field>
-	<field name = "TITLE">GRUMMAN GQ> WINS 28 MLN DLR CONTRACT</field>
+	<field name = "titulo">GRUMMAN GQ> WINS 28 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">BETHPAGE, N.Y., April 1 -</field>
-	<field name = "BODY">Grumman Corp said it was awarded
+	<field name = "content">Grumman Corp said it was awarded
 a 28 mln dlr contract by McDonnell Douglas Corp MD> to develop
 flight control surfaces for the United States Air Force's new
 C-17 transport aircraft.

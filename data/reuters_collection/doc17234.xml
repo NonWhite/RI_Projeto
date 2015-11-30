@@ -3,12 +3,9 @@
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">china</field>
 	<field name = "ORGS">adb-asia</field>
-	<field name = "UNKNOWN">RM
-f0135reute
-u f BC-TAIWAN-ACCUSES-CHINA   04-27 0098</field>
-	<field name = "TITLE">TAIWAN ACCUSES CHINA OF UNDERMINING ITS ADB STATUS</field>
+	<field name = "titulo">TAIWAN ACCUSES CHINA OF UNDERMINING ITS ADB STATUS</field>
 	<field name = "DATELINE">TAIPEI, April 27 -</field>
-	<field name = "BODY">Taiwan accused China of trying to
+	<field name = "content">Taiwan accused China of trying to
 downgrade its international status by forcing the Asian
 Development Bank (ADB) to change its name in the organisation.
     Taiwan is boycotting the annual meeting of the ADB, which

@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:30:29.12A</field>
-	<field name = "UNKNOWN">f0531reute</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">r f BC-BANK-OF-FRANCE-AGAIN   03-27 0064</field>
-	<field name = "TITLE">BANK OF FRANCE AGAIN BUYING DOLLARS, SOURCES SAY</field>
+	<field name = "titulo">BANK OF FRANCE AGAIN BUYING DOLLARS, SOURCES SAY</field>
 	<field name = "DATELINE">PARIS, March 27 -</field>
-	<field name = "BODY">The Bank of France intervened in the
+	<field name = "content">The Bank of France intervened in the
 Paris foreign exchange market this morning for the third
 successive day, banking sources said.
     Like yesterday, it bought dollars and sold yen in small

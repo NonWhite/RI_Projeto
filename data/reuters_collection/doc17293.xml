@@ -2,13 +2,10 @@
 	<field name = "DATE">27-APR-1987 07:57:49.23</field>
 	<field name = "PLACES">norway</field>
 	<field name = "EXCHANGES">ose</field>
-	<field name = "UNKNOWN">F
-f0683reute
-r f BC-NORWAY-BOURSE-PRICE-B   04-27 0113</field>
-	<field name = "TITLE">NORWAY BOURSE PRICE BOOM WILL NOT LAST - ANALYSTS</field>
+	<field name = "titulo">NORWAY BOURSE PRICE BOOM WILL NOT LAST - ANALYSTS</field>
 	<field name = "AUTHOR">By Nicholas Doughty, Reuters</field>
 	<field name = "DATELINE">OSLO, April 27 -</field>
-	<field name = "BODY">Norway's stock exchange has touched record
+	<field name = "content">Norway's stock exchange has touched record
 levels, propelled by higher oil prices and foreign buying
 interest. But analysts say the bullish trend probably will not
 last. Tight restrictions on foreign ownership of shares have

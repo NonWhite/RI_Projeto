@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 10:40:53.53</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">F
-f1140reute
-d f BC-THERMO-INSTRUMENT-TH   03-23 0070</field>
-	<field name = "TITLE">THERMO INSTRUMENT THIS> GETS SOVIET ORDER</field>
+	<field name = "titulo">THERMO INSTRUMENT THIS> GETS SOVIET ORDER</field>
 	<field name = "DATELINE">WALTHAM, Mass., March 23 -</field>
-	<field name = "BODY">Thermo Instrument Systems Inc
+	<field name = "content">Thermo Instrument Systems Inc
 said it has received a 550,000 dlr order from the Soviet Union
 for plasma spectrometers to be used by the Soviet Bureau of
 Standards to help Soviet industries develop quality control

@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 08:29:24.79</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f0710reute
-u f BC-STUDY-SAYS-OIL-PRICE   03-23 0104</field>
-	<field name = "TITLE">STUDY SAYS OIL PRICE FALL SPURS BANKRUPTCIES</field>
+	<field name = "titulo">STUDY SAYS OIL PRICE FALL SPURS BANKRUPTCIES</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">The sharp drop in world oil prices
+	<field name = "content">The sharp drop in world oil prices
 the past year triggered a 60 pct increase in bankruptcies in
 the country's oil states, according to a study released by the
 American Petroleum Institute (API).

@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">yeutter</field>
-	<field name = "UNKNOWN">F
-f1691reute
-u f BC-U.S.,-JAPAN-CHIP-TALK   04-01 0111</field>
-	<field name = "TITLE">U.S., JAPAN CHIP TALKS TO START NEXT WEEK</field>
+	<field name = "titulo">U.S., JAPAN CHIP TALKS TO START NEXT WEEK</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">U.S. and Japanese negotiators will
+	<field name = "content">U.S. and Japanese negotiators will
 hold emergency meetings next week to try to resolve their row
 over semiconductors, but a U.S. official said it was not likely
 the talks would delay the planned American sanctions.

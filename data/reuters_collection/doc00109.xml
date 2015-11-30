@@ -2,14 +2,10 @@
 	<field name = "DATE">26-FEB-1987 16:43:13.65</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0061
-reute
-u f BC-AMERICAN-EXPRESS-AXP   02-26 0108</field>
-	<field name = "TITLE">AMERICAN EXPRESS AXP> SEEN IN POSSIBLE SPINNOFF</field>
+	<field name = "titulo">AMERICAN EXPRESS AXP> SEEN IN POSSIBLE SPINNOFF</field>
 	<field name = "AUTHOR">By Patti Domm, Reuter</field>
 	<field name = "DATELINE">New York, Feb 26 -</field>
-	<field name = "BODY">American Express Co remained silent on
+	<field name = "content">American Express Co remained silent on
 market rumors it would spinoff all or part of its Shearson
 Lehman Brothers Inc, but some analysts said the company may be
 considering such a move because it is unhappy with the market

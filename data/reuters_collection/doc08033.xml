@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 17:54:04.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2622reute
-d f BC-WISCONSIN-ELECTRIC-W   03-20 0085</field>
-	<field name = "TITLE">WISCONSIN ELECTRIC WTC> OFFERS PREFERRED</field>
+	<field name = "titulo">WISCONSIN ELECTRIC WTC> OFFERS PREFERRED</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Wisconsin Electric Power Co said it
+	<field name = "content">Wisconsin Electric Power Co said it
 began a public offering of 700,000 shares of serial preferred
 stock, 6-3/4 pct series, 100 dlrs par value, at a price of 100
 dlrs per share.

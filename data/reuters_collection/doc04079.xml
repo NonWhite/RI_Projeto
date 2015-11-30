@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 04:39:07.73</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">RM
-f0315reute
-u f BC-MALAYSIA-OPTIMISTIC-O   03-12 0093</field>
-	<field name = "TITLE">MALAYSIA OPTIMISTIC OVER ECONOMIC OUTLOOK FOR 1987</field>
+	<field name = "titulo">MALAYSIA OPTIMISTIC OVER ECONOMIC OUTLOOK FOR 1987</field>
 	<field name = "DATELINE">KUALA LUMPUR, March 12 -</field>
-	<field name = "BODY">Malaysia's Central Bank, Bank
+	<field name = "content">Malaysia's Central Bank, Bank
 Negara, said the economic outlook for 1987 is good in view of a
 marked improvement in commodity and oil prices in the later
 months of last year.

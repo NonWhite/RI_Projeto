@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 10:29:21.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f1273reute
-b f BC-HUTTON-EFH>-REITERAT   10-20 0091</field>
-	<field name = "TITLE">HUTTON EFH> REITERATES STATEMENT OF SOLVENCY</field>
+	<field name = "titulo">HUTTON EFH> REITERATES STATEMENT OF SOLVENCY</field>
 	<field name = "DATELINE">New York,  Oct 20 -</field>
-	<field name = "BODY">An E.F. Hutton Group Inc spokesman said
+	<field name = "content">An E.F. Hutton Group Inc spokesman said
 he stuck by a statement made yesterday that the firm was not
 having liquidity problems.
     The statement was made by Hutton Chief Financial Officer

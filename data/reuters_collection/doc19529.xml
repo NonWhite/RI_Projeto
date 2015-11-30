@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 05:38:10.90</field>
 	<field name = "PLACES">zimbabwe</field>
-	<field name = "UNKNOWN">RM 
-f0359reute
-r f BC-ZIMBABWE-WAGE-FREEZE   06-29 0111</field>
-	<field name = "TITLE">ZIMBABWE WAGE FREEZE SHOWS ECONOMIC MALAISE</field>
+	<field name = "titulo">ZIMBABWE WAGE FREEZE SHOWS ECONOMIC MALAISE</field>
 	<field name = "AUTHOR">By Andrew Rusinga, Reuters</field>
 	<field name = "DATELINE">HARARE, June 29 -</field>
-	<field name = "BODY">Zimbabwe's temporary freeze on salaries,
+	<field name = "content">Zimbabwe's temporary freeze on salaries,
 wages and prices will give the economy a breather, but radical
 economic reforms are needed to resuscitate business and attract
 foreign investment, economists said.

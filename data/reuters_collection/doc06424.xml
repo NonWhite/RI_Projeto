@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 08:35:57.99</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f7646reute
-r f BC-COASTAL-CGP>-SAYS-TR   03-18 0098</field>
-	<field name = "TITLE">COASTAL CGP> SAYS TRANSAMERICAN SUIT FRIVOLOUS</field>
+	<field name = "titulo">COASTAL CGP> SAYS TRANSAMERICAN SUIT FRIVOLOUS</field>
 	<field name = "DATELINE">HOUSTON, March 18 -</field>
-	<field name = "BODY">Coastal Corp said it belives the two
+	<field name = "content">Coastal Corp said it belives the two
 billion dlr suit against it by TransAmerican Natural Gas Corp>
 in Texas state court is frivolous and without merit.
     The company said it intends toi proceed with filing a

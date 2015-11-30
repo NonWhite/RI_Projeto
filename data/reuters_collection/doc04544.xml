@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 16:39:40.33</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">V
-f0545reute
-u f BC-REAGAN-NORTH   03-12 0042</field>
-	<field name = "TITLE">JUDGE DISMISSES NORTH'S LAWSUIT CHALLENGING IRAN</field>
+	<field name = "titulo">JUDGE DISMISSES NORTH'S LAWSUIT CHALLENGING IRAN</field>
 	<field name = "DATELINE">WASHINGTON, March 12, Reuter -</field>
-	<field name = "BODY">A U.S. judge today dismissed
+	<field name = "content">A U.S. judge today dismissed
 a lawsuit by fired White House aide Lt. Col. Oliver North
 seeking to halt a special prosecutor's investigation into the
 Iran arms scandal.

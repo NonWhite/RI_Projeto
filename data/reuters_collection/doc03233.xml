@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:43:49.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0982reute
-d f BC-UNIVERSITY-PATENTS-U   03-09 0066</field>
-	<field name = "TITLE">UNIVERSITY PATENTS UPT> LENS SALES RISE</field>
+	<field name = "titulo">UNIVERSITY PATENTS UPT> LENS SALES RISE</field>
 	<field name = "DATELINE">WESTPORT, Conn., March 9 -</field>
-	<field name = "BODY">University Patents Inc said
+	<field name = "content">University Patents Inc said
 4,344 of its Aleges soft bifocal contract lenses were sold in
 February, after allowances for exchanges and returns, up from
 3,011 in January.

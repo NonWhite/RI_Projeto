@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:25:54.51F</field>
-	<field name = "UNKNOWN">f1274reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">d f BC-SYNERGETICS-SYNG>-EX   03-27 0081</field>
-	<field name = "TITLE">SYNERGETICS SYNG> EXTENDS WARRANT EXPIRATION</field>
+	<field name = "titulo">SYNERGETICS SYNG> EXTENDS WARRANT EXPIRATION</field>
 	<field name = "DATELINE">BOULDER, Colo., March 27 -</field>
-	<field name = "BODY">Synergetics International Inc
+	<field name = "content">Synergetics International Inc
 said it extended the expiration date of its warrants to June 15
 and temporarily reduced the warrant conversion price to 2.25
 dlrs, from 2.50 dlrs.

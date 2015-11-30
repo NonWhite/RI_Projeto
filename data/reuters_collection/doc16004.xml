@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 17:03:06.18</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2669reute
-r f BC-/CRUDE-OIL-NETBACKS-U   04-09 0110</field>
-	<field name = "TITLE">CRUDE OIL NETBACKS UP SHARPLY IN EUROPE, U.S.</field>
+	<field name = "titulo">CRUDE OIL NETBACKS UP SHARPLY IN EUROPE, U.S.</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Crude oil netback values in complex
+	<field name = "content">Crude oil netback values in complex
 refineries rose sharply in Europe and firmed in the U.S. last
 Friday from the previous week but fell sharply in Singapore,
 according to calculations by Reuters Pipeline.

@@ -4,13 +4,9 @@
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "PLACES">uae</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0600
-reute
-b f BC-SAUDI-FEBRUARY-CRUDE   03-02 0095</field>
-	<field name = "TITLE">SAUDI FEBRUARY CRUDE OUTPUT PUT AT 3.5 MLN BPD</field>
+	<field name = "titulo">SAUDI FEBRUARY CRUDE OUTPUT PUT AT 3.5 MLN BPD</field>
 	<field name = "DATELINE">ABU DHABI, March 2 -</field>
-	<field name = "BODY">Saudi crude oil output last month fell
+	<field name = "content">Saudi crude oil output last month fell
 to an average of 3.5 mln barrels per day (bpd) from 3.8 mln bpd
 in January, Gulf oil sources said.
     They said exports from the Ras Tanurah and Ju'aymah

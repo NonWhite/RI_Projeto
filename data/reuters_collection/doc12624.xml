@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 11:48:37.88</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1569reute
-h f BC-GENERAL-AUTOMATION-G   04-02 0066</field>
-	<field name = "TITLE">GENERAL AUTOMATION GENA> COMPLETES PURCHASE</field>
+	<field name = "titulo">GENERAL AUTOMATION GENA> COMPLETES PURCHASE</field>
 	<field name = "DATELINE">AHAHEIM, Calif., April 2 -</field>
-	<field name = "BODY">General Automation Inc said it
+	<field name = "content">General Automation Inc said it
 completed its previously announced acquisition of Parallel
 Computers Inc, of Santa Clara, Calif.
     The company said the purchase price consisted of 615,000

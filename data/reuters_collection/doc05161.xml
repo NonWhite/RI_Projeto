@@ -5,12 +5,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">delors</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0860reute
-r f BC-DELORS-QUOTED-FAVOURI   03-15 0081</field>
-	<field name = "TITLE">DELORS QUOTED FAVOURING FRANCO-GERMAN BID FOR CGCT</field>
+	<field name = "titulo">DELORS QUOTED FAVOURING FRANCO-GERMAN BID FOR CGCT</field>
 	<field name = "DATELINE">PARIS, March 15 -</field>
-	<field name = "BODY">European Commission President Jacques
+	<field name = "content">European Commission President Jacques
 Delors, quoted by Le Monde newspaper, said he favoured a
 Franco-German candidate to take over Cie Generale de
 Constructions Telephoniques>, which has a 16 pct stake in the

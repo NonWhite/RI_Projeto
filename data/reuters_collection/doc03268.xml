@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 13:34:45.82</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0188reute
-u f BC-CANADIAN-PACIFIC-(CP)   03-09 0105</field>
-	<field name = "TITLE">CANADIAN PACIFIC (CP) CONFIRMS EARNINGS</field>
+	<field name = "titulo">CANADIAN PACIFIC (CP) CONFIRMS EARNINGS</field>
 	<field name = "DATELINE">MONTREAL, March 9 -</field>
-	<field name = "BODY">Canadian Pacific Ltd said fourth
+	<field name = "content">Canadian Pacific Ltd said fourth
 quarter 1986 operating profit rose to 91.6 mln dlrs, or 30 cts
 a share, from 50.7 mln dlrs, or 20 cts a share, a year ago.
     The statement confirmed released preliminary earnings

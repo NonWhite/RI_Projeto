@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:41:49.12</field>
-	<field name = "UNKNOWN">G
-f2437reute
-u f BC-ny-oilseeds-report   04-07 0091</field>
-	<field name = "TITLE">N.Y. OILSEEDS REPORT</field>
+	<field name = "titulo">N.Y. OILSEEDS REPORT</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Dealers said very little business was
+	<field name = "content">Dealers said very little business was
 done in local oilseeds markets.
     Coconut oil was nominally 18 cents a lb for April/May
 shipment, CIF, New York/Gulf, brokers said.

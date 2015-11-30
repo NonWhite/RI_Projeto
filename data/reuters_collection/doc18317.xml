@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 17:11:13.86</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2736reute
-u f BC-LILLY-LLY>-TO-PAY-RO   06-02 0110</field>
-	<field name = "TITLE">LILLY LLY> TO PAY ROCHE ROYALTIES ON HUMATROPE</field>
+	<field name = "titulo">LILLY LLY> TO PAY ROCHE ROYALTIES ON HUMATROPE</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Hoffman-LaRoche Inc said Eli Lilly and
+	<field name = "content">Hoffman-LaRoche Inc said Eli Lilly and
 Co Inc will pay it royalties on the sale of Lilly's human
 growth hormone, Humatrope, as part of an earlier-reported
 licensing agreement between the companies.

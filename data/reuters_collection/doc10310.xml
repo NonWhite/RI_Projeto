@@ -1,14 +1,12 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 04:18:28.88F</field>
-	<field name = "UNKNOWN">f0224reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">u f BC-JAPAN-ACTS-TO-COOL-U.   03-27 0105</field>
-	<field name = "TITLE">JAPAN ACTS TO COOL U.S. ANGER ON TELECOMS DISPUTE</field>
+	<field name = "titulo">JAPAN ACTS TO COOL U.S. ANGER ON TELECOMS DISPUTE</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Japan has sought to assure the U.S. It is
+	<field name = "content">Japan has sought to assure the U.S. It is
 not trying to keep foreign equity in a new Japanese
 international telecommunications company below the legal limit
 of 33 pct, a Post and Telecommunications ministry official

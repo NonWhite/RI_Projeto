@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 10:45:36.41</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0768
-reute
-s f BC-BRENCO-INC-BREN>-DEC   03-02 0025</field>
-	<field name = "TITLE">BRENCO INC BREN> DECLARES QTLY DIVIDEND</field>
+	<field name = "titulo">BRENCO INC BREN> DECLARES QTLY DIVIDEND</field>
 	<field name = "DATELINE">PETERSBURG, Va., March 2 -</field>
-	<field name = "BODY">Qtly div three cts vs three cts prior
+	<field name = "content">Qtly div three cts vs three cts prior
     Pay April six
     Record March 20
  Reuter</field>

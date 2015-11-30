@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 17:40:43.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0988reute
-r f BC-GULL-AIR-FILES-TEXAS   03-09 0103</field>
-	<field name = "TITLE">GULL AIR FILES TEXAS AIR TXN> ANTI-TRUST SUIT</field>
+	<field name = "titulo">GULL AIR FILES TEXAS AIR TXN> ANTI-TRUST SUIT</field>
 	<field name = "DATELINE">BOSTON, March 9 -</field>
-	<field name = "BODY">Gull Air Inc> said it filed an
+	<field name = "content">Gull Air Inc> said it filed an
 anti-trust suit against Texas Air Corp, charging the airline
 broke a marketing agreement and undertook predatory business
 practices aimed at shutting down Gull Air.

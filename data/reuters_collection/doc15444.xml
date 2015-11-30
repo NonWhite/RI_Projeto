@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 07:53:14.75</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0522reute
-u f BC-SWEDISH-DRUG-FIRM-AST   04-09 0109</field>
-	<field name = "TITLE">SWEDISH DRUG FIRM ASTRA RISE ON AIDS HOPES</field>
+	<field name = "titulo">SWEDISH DRUG FIRM ASTRA RISE ON AIDS HOPES</field>
 	<field name = "DATELINE">STOCKHOLM, April 9 -</field>
-	<field name = "BODY">Swedish drug firm AB Astra ASTS.ST>
+	<field name = "content">Swedish drug firm AB Astra ASTS.ST>
 shares rose 48 crowns to 690 in the first two hours of trading
 on the Stockholm Bourse, amid hopes its research into
 anti-viral drugs may have promising results in the treatment of

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:08:25.14</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G
-f0913reute
-u f BC-CARGILL-U.K.-STRIKE-E   04-07 0089</field>
-	<field name = "TITLE">CARGILL U.K. STRIKE ENDS</field>
+	<field name = "titulo">CARGILL U.K. STRIKE ENDS</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Cargill U.K. Ltd's oilseed processing
+	<field name = "content">Cargill U.K. Ltd's oilseed processing
 plant in Seaforth, northwest England, will resume operations
 tomorrow morning following settlement of a labour dispute which
 has paralysed production there since December 19, a company

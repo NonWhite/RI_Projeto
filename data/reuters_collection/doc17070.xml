@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 08:22:48.54</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0610reute
-r f BC-JAPAN-DOES-NOT-INTEND   04-24 0107</field>
-	<field name = "TITLE">JAPAN DOES NOT INTEND TO EASE CREDIT - OFFICIALS</field>
+	<field name = "titulo">JAPAN DOES NOT INTEND TO EASE CREDIT - OFFICIALS</field>
 	<field name = "DATELINE">TOKYO, April 24 -</field>
-	<field name = "BODY">The Bank of Japan does not intend to ease
+	<field name = "content">The Bank of Japan does not intend to ease
 credit policy further, bank officials told Reuters.
     They were responding to rumours in the Japanese bond market
 that the central bank was planning to cut its 2.5 pct discount

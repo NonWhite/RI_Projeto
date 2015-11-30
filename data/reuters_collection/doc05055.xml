@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">sudan</field>
-	<field name = "UNKNOWN">C G
-f0394reute
-u f BC-SUDAN-RECEIVES-50-MLN   03-13 0119</field>
-	<field name = "TITLE">SUDAN RECEIVES 50 MLN DLRS IN PL480 AUTHORITY</field>
+	<field name = "titulo">SUDAN RECEIVES 50 MLN DLRS IN PL480 AUTHORITY</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">Authorizations to purchase 50 mln
+	<field name = "content">Authorizations to purchase 50 mln
 dlrs worth of U.S. wheat and wheat flour under Public Law 480
 were issued to Sudan today, the Agriculture Department said.
     The authorization provides for 34 mln dlrs -- about 309,000

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 18:04:17.59</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">M
-f0849reute
-d f BC-INCO-SEES-NO-MAJOR-IM   03-11 0133</field>
-	<field name = "TITLE">INCO SEES NO MAJOR IMPACT FROM DOW REMOVAL</field>
+	<field name = "titulo">INCO SEES NO MAJOR IMPACT FROM DOW REMOVAL</field>
 	<field name = "DATELINE">TORONTO, March 11 -</field>
-	<field name = "BODY">Inco Ltd said it did not expect its
+	<field name = "content">Inco Ltd said it did not expect its
 earlier reported removal from the Dow Jones industrial index to
 make a major impact on the company's stock.
     "We don't think that individuals or institutions buy our

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 08:27:59.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0634reute
-r f BC-TRANSCAPITAL-TFC>-UN   04-09 0113</field>
-	<field name = "TITLE">TRANSCAPITAL TFC> UNIT CLOSING 12 OFFICES</field>
+	<field name = "titulo">TRANSCAPITAL TFC> UNIT CLOSING 12 OFFICES</field>
 	<field name = "DATELINE">CLEVELAND, April 9 -</field>
-	<field name = "BODY">TransCapital Financial Corp's
+	<field name = "content">TransCapital Financial Corp's
 TRANSOHIO Savings Bank subsidiary said it plans to close 11
 offices in the Cleveland area and one in Columbus, Ohio,
 reducing its total number of offices to 81 statewide.

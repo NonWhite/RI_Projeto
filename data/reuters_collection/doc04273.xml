@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 11:11:32.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0357reute
-h f BC-MEDIZONE-INTERNATIONA   03-12 0091</field>
-	<field name = "TITLE">MEDIZONE INTERNATIONAL INC AQUIRES PATENT</field>
+	<field name = "titulo">MEDIZONE INTERNATIONAL INC AQUIRES PATENT</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Medizone International Inc> said it
+	<field name = "content">Medizone International Inc> said it
 acquired a patent that covers procedures for the use of the
 Medizone Therapy in deactivating certain viruses commonly
 associated with AIDS, hepatitis and herpes.

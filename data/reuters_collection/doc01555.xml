@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C M
-f0741reute
-r f BC-JANUARY-CRUDE-OIL-MOV   03-04 0137</field>
-	<field name = "TITLE">JANUARY CRUDE OIL MOVEMENTS FALL SEVEN MLN TONS</field>
+	<field name = "titulo">JANUARY CRUDE OIL MOVEMENTS FALL SEVEN MLN TONS</field>
 	<field name = "DATELINE">LONDON, March 4 -</field>
-	<field name = "BODY">Worldwide spot crude oil movements fell
+	<field name = "content">Worldwide spot crude oil movements fell
 to 30.07 mln long dwt in February from 37.25 mln tons in
 January and 41.44 mln in December, London shipbroker Howard
 Houlder said.

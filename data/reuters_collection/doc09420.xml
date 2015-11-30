@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 12:39:19.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1684reute
-r f BC-UNISYS-UIS>-NEW-MAIN   03-25 0110</field>
-	<field name = "TITLE">UNISYS UIS> NEW MAINFRAME INTRODUCTION NOT SET</field>
+	<field name = "titulo">UNISYS UIS> NEW MAINFRAME INTRODUCTION NOT SET</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Unisys Corp vice chairman Joseph
+	<field name = "content">Unisys Corp vice chairman Joseph
 Kroger said the company's new series 1100 mainframe computer
 products will not be available for at least a year.
     At a press conference introducing new products in the V500

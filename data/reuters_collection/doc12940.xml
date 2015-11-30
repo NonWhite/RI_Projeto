@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 11:33:42.18</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f1392reute
-r f BC-ITALY-SETS-BANK-CAPIT   04-03 0096</field>
-	<field name = "TITLE">ITALY SETS BANK CAPITAL ADEQUACY REQUIREMENTS</field>
+	<field name = "titulo">ITALY SETS BANK CAPITAL ADEQUACY REQUIREMENTS</field>
 	<field name = "DATELINE">ROME, April 3 -</field>
-	<field name = "BODY">The Bank of Italy issued details of new
+	<field name = "content">The Bank of Italy issued details of new
 bank capital adequacy requirements due to come into force in
 June, in a central bank circular.
     The Bank of Italy circular follows an interministerial

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 14:15:05.71</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F 
-f2096reute
-h f BC-JAGUAR-PLANS-ONE-BILL   06-29 0106</field>
-	<field name = "TITLE">JAGUAR PLANS ONE BILLION STG OUTLAY</field>
+	<field name = "titulo">JAGUAR PLANS ONE BILLION STG OUTLAY</field>
 	<field name = "DATELINE">LONDON, June 29 -</field>
-	<field name = "BODY">Jaguar Plc JAGR.L> will spend about one
+	<field name = "content">Jaguar Plc JAGR.L> will spend about one
 billion stg over the next six years on expanded production,
 automation and improved efficiency, Jaguar chairman Sir John
 Egan said.

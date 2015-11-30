@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 14:51:53.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2673reute
-r f BC-TRAVELERS-REAL-ESTATE   10-19 0077</field>
-	<field name = "TITLE">TRAVELERS REAL ESTATE TRAT.O> PAYOUT CUT</field>
+	<field name = "titulo">TRAVELERS REAL ESTATE TRAT.O> PAYOUT CUT</field>
 	<field name = "DATELINE">BOSTON, Oct 19 -</field>
-	<field name = "BODY">Travelers Real Estate Investment Trust
+	<field name = "content">Travelers Real Estate Investment Trust
     Qtly div 17 cts vs 23 cts in prior qtr
     Payable November 25
     Record October 30

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 08:14:53.51</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0606reute
-u f BC-BERLINER-BANK-SUFFERS   03-20 0118</field>
-	<field name = "TITLE">BERLINER BANK SUFFERS LOSSES ON STUTTGART LOANS</field>
+	<field name = "titulo">BERLINER BANK SUFFERS LOSSES ON STUTTGART LOANS</field>
 	<field name = "DATELINE">WEST BERLIN, March 20 -</field>
-	<field name = "BODY">Berliner Bank AG> has suffered
+	<field name = "content">Berliner Bank AG> has suffered
 losses of between 10 and 100 mln marks through credits granted
 by its Stuttgart branch by officials there exceeding their
 powers, a bank spokesman said in answer to queries.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 13:04:11.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1840reute
-r f BC-GENRAD-GEN>-INTRODUC   06-29 0081</field>
-	<field name = "TITLE">GENRAD GEN> INTRODUCES TEST SYSTEM</field>
+	<field name = "titulo">GENRAD GEN> INTRODUCES TEST SYSTEM</field>
 	<field name = "DATELINE">CONCORD, Mass., June 29 -</field>
-	<field name = "BODY">GenRad Inc said it has introduced
+	<field name = "content">GenRad Inc said it has introduced
 the HITEST test generation system.
     The company said HITEST takes a modular approach to test
 generation, using a set of interactive software tools that

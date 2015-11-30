@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 09:34:09.91</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0826reute
-u f BC-MTECH-MTCH>-HAS-33,4   06-19 0052</field>
-	<field name = "TITLE">MTECH MTCH> HAS 33,467 COMMERCIAL SHARES</field>
+	<field name = "titulo">MTECH MTCH> HAS 33,467 COMMERCIAL SHARES</field>
 	<field name = "DATELINE">IRVING, Texas, June 19 -</field>
-	<field name = "BODY">MTech Corp said it has received
+	<field name = "content">MTech Corp said it has received
 33,467 shares of Commercial Resources Corp in response to its
 10.25 dlr per share tender offer for all 150,000 shares.
     The company said it has extended the offer until July 2. It

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 10:52:36.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3354reute
-u f BC-GM-GM>-LAYING-OFF-85   06-18 0101</field>
-	<field name = "TITLE">GM GM> LAYING OFF 850 WORKERS AT TWO PLANTS</field>
+	<field name = "titulo">GM GM> LAYING OFF 850 WORKERS AT TWO PLANTS</field>
 	<field name = "DATELINE">DETROIT, June 18 -</field>
-	<field name = "BODY">General Motors Corp said it will
+	<field name = "content">General Motors Corp said it will
 permanently lay off 850 hourly workers in August at its car
 assembly plants in Janesville, Wisc, and Lordstown, Ohio, due
 to production cutbacks in the slow-selling cars built at both

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 16:15:24.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2589reute
-u f BC-GAO-STUDY-SOUGHT-ON-F   03-31 0098</field>
-	<field name = "TITLE">GAO STUDY SOUGHT ON FSLIC-FDIC MERGER</field>
+	<field name = "titulo">GAO STUDY SOUGHT ON FSLIC-FDIC MERGER</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">House Banking committee chairman
+	<field name = "content">House Banking committee chairman
 Fernand St Germain, D-R.I., said he would ask the General
 Accounting Office to make a study of the feasibility of merging
 the Federal Deposit Insurance Corp and the Federal Savings and

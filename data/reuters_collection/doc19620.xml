@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 10:09:10.76</field>
-	<field name = "UNKNOWN">F 
-f1053reute
-u f BC-CTS-CTS>-HALVES-DIVI   06-29 0087</field>
-	<field name = "TITLE">CTS CTS> HALVES DIVIDEND TO 12-1/2 CTS</field>
+	<field name = "titulo">CTS CTS> HALVES DIVIDEND TO 12-1/2 CTS</field>
 	<field name = "DATELINE">ELKHART, IND., June 29 -</field>
-	<field name = "BODY">CTS Corp said its directors voted
+	<field name = "content">CTS Corp said its directors voted
 to halve the quarterly dividend to 12-1/2 cts from 25 cts,
 payable August five, record July seven.
     CTS said the action was taken to increase cash available

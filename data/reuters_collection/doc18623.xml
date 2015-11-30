@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 09:09:17.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y 
-f2945reute
-d f BC-SAXON-OIL-SAXO.O>-SE   06-18 0103</field>
-	<field name = "TITLE">SAXON OIL SAXO.O> SETS REDUCTION IN STOCK</field>
+	<field name = "titulo">SAXON OIL SAXO.O> SETS REDUCTION IN STOCK</field>
 	<field name = "DATELINE">DALLAS, June 17 -</field>
-	<field name = "BODY">Saxon Oil Co said stockholders at its
+	<field name = "content">Saxon Oil Co said stockholders at its
 recent annual meeting approved, among other things, a 1-for 15
 reduction in the number of outstanding shares of common stock.
     The company said stockholders also approved the reelection

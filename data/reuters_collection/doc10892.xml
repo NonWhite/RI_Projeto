@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 12:07:32.60</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1712reute
-r f BC-CENTRONICS-CEN>-SETS   03-30 0101</field>
-	<field name = "TITLE">CENTRONICS CEN> SETS PREFERRED PURCHASE RIGHTS</field>
+	<field name = "titulo">CENTRONICS CEN> SETS PREFERRED PURCHASE RIGHTS</field>
 	<field name = "DATELINE">NASHUA, N.H., March 30 -</field>
-	<field name = "BODY">Centronics Corp said its board
+	<field name = "content">Centronics Corp said its board
 declared a dividend distribution of one preferred share
 purchase right on each outstanding common share payable to
 holders of record April 9.

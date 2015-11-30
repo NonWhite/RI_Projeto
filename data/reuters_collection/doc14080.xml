@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:24:04.76</field>
-	<field name = "UNKNOWN">M
-f1246reute
-b f BC-SPOT-TIN-SLIGHTLY-LOW   04-07 0087</field>
-	<field name = "TITLE">SPOT TIN SLIGHTLY LOWER ON EUROPEAN FREE MARKET</field>
+	<field name = "titulo">SPOT TIN SLIGHTLY LOWER ON EUROPEAN FREE MARKET</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Spot tin on the European free market was
+	<field name = "content">Spot tin on the European free market was
 indicated in the range 4,200 to 4,230 stg per tonne, for high
 grade metal in warehouse Rotterdam, down 10 stg from yesterday
 afternoon.

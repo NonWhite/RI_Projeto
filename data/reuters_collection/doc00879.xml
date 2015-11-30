@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 00:19:20.55</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0480
-reute
-u f BC-N.Z.-QUARTERLY-CURREN   03-03 0086</field>
-	<field name = "TITLE">N.Z. QUARTERLY CURRENT ACCOUNT DEFICIT NARROWS</field>
+	<field name = "titulo">N.Z. QUARTERLY CURRENT ACCOUNT DEFICIT NARROWS</field>
 	<field name = "DATELINE">WELLINGTON, March 3 -</field>
-	<field name = "BODY">New Zealand's current account deficit
+	<field name = "content">New Zealand's current account deficit
 for the quarter ended December 31, 1986 narrowed to 567 mln
 dlrs from 738 mln, revised down from 742 mln, for the September
 quarter and from 733 mln a year earlier, the statistics

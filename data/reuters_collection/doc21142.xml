@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 13:54:35.22</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2405reute
-d f BC-ALLWASTE-ALWS.O>-TO   10-19 0070</field>
-	<field name = "TITLE">ALLWASTE ALWS.O> TO ACQUIRE FIRM</field>
+	<field name = "titulo">ALLWASTE ALWS.O> TO ACQUIRE FIRM</field>
 	<field name = "DATELINE">HOUSTON, Oct 19 -</field>
-	<field name = "BODY">Allwaste Inc said it entered into an
+	<field name = "content">Allwaste Inc said it entered into an
 agreement in principle to buy Tank Cleaning Co, a
 privately-held company that cleans tank trailers, in exchange
 for about 1.3 mln shares or Allwaste common.

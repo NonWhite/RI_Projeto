@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F Y 
-f1950reute
-u f BC-MURPHY-OIL-MUR>-TO-A   06-19 0089</field>
-	<field name = "TITLE">MURPHY OIL MUR> TO ACQUIRE CANADIAN SUBSIDIARY</field>
+	<field name = "titulo">MURPHY OIL MUR> TO ACQUIRE CANADIAN SUBSIDIARY</field>
 	<field name = "DATELINE">EL DORADO, ARK., June 19 -</field>
-	<field name = "BODY">Murphy Oil Corp said its board
+	<field name = "content">Murphy Oil Corp said its board
 proposed a reorganization in which it would acquire the 23 pct
 of common shares of its Canadian subsidiary not owned by the
 parent.

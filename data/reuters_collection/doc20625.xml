@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 15:24:31.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2926reute
-u f BC-LITTON-LIT>-RAISES-S   10-20 0065</field>
-	<field name = "TITLE">LITTON LIT> RAISES SHARE BUYBACK LIMIT</field>
+	<field name = "titulo">LITTON LIT> RAISES SHARE BUYBACK LIMIT</field>
 	<field name = "DATELINE">BEVERLY HILLS, Calif., Oct 20 -</field>
-	<field name = "BODY">Litton Industries Inc said
+	<field name = "content">Litton Industries Inc said
 its board authorized an increase in the maximum number of
 shares to be repurchased under its stock buyback program to 4.5
 mln from 2.5 mln.

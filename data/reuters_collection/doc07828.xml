@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:52:45.47</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1728reute
-u f BC-WESTPAC-PERPETUAL-FRN   03-20 0113</field>
-	<field name = "TITLE">WESTPAC PERPETUAL FRN NO INSTANT CURE, DEALERS SAY</field>
+	<field name = "titulo">WESTPAC PERPETUAL FRN NO INSTANT CURE, DEALERS SAY</field>
 	<field name = "DATELINE">LONDON, March 20 -</field>
-	<field name = "BODY">Morgan Guaranty Ltd's novel and complex
+	<field name = "content">Morgan Guaranty Ltd's novel and complex
 repackaging of Westpac Banking Corp's perpetual floating rate
 note (FRN) may attract some investors, but is unlikely to aid
 current holders of the Westpac securities or the FRN market,

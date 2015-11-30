@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 14:30:05.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2183reute
-d f BC-HITECH-ENGINEERING-C   04-13 0102</field>
-	<field name = "TITLE">HITECH ENGINEERING CO> WINS JUDGMENT</field>
+	<field name = "titulo">HITECH ENGINEERING CO> WINS JUDGMENT</field>
 	<field name = "DATELINE">MCLEAN, Va., April 13 -</field>
-	<field name = "BODY">Hitech Engineering Co said it won
+	<field name = "content">Hitech Engineering Co said it won
 litigation brought against it by Coldwell Banker Commercial
 Services Group, a unit of Sears, Roebuck and Co S>.
     In the lawsuit, tried in U.S. District Court for the

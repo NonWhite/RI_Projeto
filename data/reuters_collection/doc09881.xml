@@ -3,12 +3,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">chad</field>
 	<field name = "PLACES">libya</field>
-	<field name = "UNKNOWN">V
-f1107reute
-u f AM-CHAD   03-26 0121</field>
-	<field name = "TITLE">LIBYA ABANDONS CHAD STRONGHOLD AFTER DEFEATS</field>
+	<field name = "titulo">LIBYA ABANDONS CHAD STRONGHOLD AFTER DEFEATS</field>
 	<field name = "DATELINE">PARIS, March 26 -</field>
-	<field name = "BODY">Libyan troops are hastily evacuating
+	<field name = "content">Libyan troops are hastily evacuating
 their last important stronghold in northern Chad, leaving the
 key desert oasis undefended against advancing Chad government
 troops, military and diplomatic sources said.

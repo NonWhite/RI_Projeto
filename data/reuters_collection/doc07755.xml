@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 11:37:49.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1366reute
-r f BC-HYPONEX-HYPX>-DEBT-D   03-20 0106</field>
-	<field name = "TITLE">HYPONEX HYPX> DEBT DOWNGRADED BY S/P</field>
+	<field name = "titulo">HYPONEX HYPX> DEBT DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 downgraded to CCC-plus from B-minus Hyponex Corp's 30 mln dlrs
 of subordinated debt.
     It assigned a CCC-plus rating to Hyponex's 150 mln dlrs of

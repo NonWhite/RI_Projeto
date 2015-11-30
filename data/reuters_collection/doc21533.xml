@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 05:54:34.70</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F 
-f0382reute
-u f BC-BPCC-PROPOSES-CANCELL   10-19 0105</field>
-	<field name = "TITLE">BPCC PROPOSES CANCELLATION OF PREFERENCE SHARES</field>
+	<field name = "titulo">BPCC PROPOSES CANCELLATION OF PREFERENCE SHARES</field>
 	<field name = "DATELINE">LONDON, Oct 19 -</field>
-	<field name = "BODY">British Printing and Communication
+	<field name = "content">British Printing and Communication
 Corporation Plc BPCL.L> has proposed the cancellation of all
 its preference shares in return for cash payments totalling
 14.8 mln stg.

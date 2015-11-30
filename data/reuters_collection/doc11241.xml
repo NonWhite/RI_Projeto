@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">hong-kong</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">F
-f0637reute
-d f BC-CHINA'S-CITIC-BUYS-H.   03-31 0108</field>
-	<field name = "TITLE">CHINA'S CITIC BUYS H.K. HOTEL FROM CHEUNG KONG</field>
+	<field name = "titulo">CHINA'S CITIC BUYS H.K. HOTEL FROM CHEUNG KONG</field>
 	<field name = "DATELINE">HONG KONG, March 31 -</field>
-	<field name = "BODY">The Peking-owned China International
+	<field name = "content">The Peking-owned China International
 Trust and Investment Corp (Citic) bought the unfinished City
 Garden Hotel in Hong Kong from a subsidiary of Cheung Kong
 (Holdings) Ltd CKGH.HKG> for 235 mln H.K. Dlrs, Cheung Kong

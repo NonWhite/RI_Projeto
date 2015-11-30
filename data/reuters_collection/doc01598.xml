@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 12:32:50.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0985reute
-b f BC-CHRYSLER-C>-LATE-FEB   03-04 0068</field>
-	<field name = "TITLE">CHRYSLER C> LATE-FEBRUARY SALES RISE 11 PCT</field>
+	<field name = "titulo">CHRYSLER C> LATE-FEBRUARY SALES RISE 11 PCT</field>
 	<field name = "DATELINE">DETROIT, March 4 -</field>
-	<field name = "BODY">Chrysler Corp said sales of its
+	<field name = "content">Chrysler Corp said sales of its
 U.S.-built cars rose 11 pct in the February 20-28 period to
 30,634 units compared to 27,526 in the period a year ago.
     There were seven selling days in both periods.

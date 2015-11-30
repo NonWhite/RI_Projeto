@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 12:00:09.15</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">F
-f1524reute
-r f BC-FIAT-UNIT-FIDIS-REPOR   06-01 0067</field>
-	<field name = "TITLE">FIAT UNIT FIDIS REPORTS SHARPLY HIGHER 1986 PROFIT</field>
+	<field name = "titulo">FIAT UNIT FIDIS REPORTS SHARPLY HIGHER 1986 PROFIT</field>
 	<field name = "DATELINE">TURIN, June 1 -</field>
-	<field name = "BODY">Year 1986
+	<field name = "content">Year 1986
     Net profit 132 billion lire vs 82 billion
     Ordinary share dividend 500 lire vs 400
     Note - Finanziaria Di Sviluppo Spa>, a financial services

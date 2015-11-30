@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 13:48:43.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0273reute
-r f BC-ORIENT-EXPRESS-OEH>   03-05 0114</field>
-	<field name = "TITLE">ORIENT-EXPRESS OEH> TO SELL FIVE PROPERTIES</field>
+	<field name = "titulo">ORIENT-EXPRESS OEH> TO SELL FIVE PROPERTIES</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Orient-Express Hotels Inc said it
+	<field name = "content">Orient-Express Hotels Inc said it
 reached agreement in principle to sell four hotels and the
 SeaCo Business Park near Houston for a total consideration of
 54 mln dlrs, payable 51.8 mln dlrs in cash.

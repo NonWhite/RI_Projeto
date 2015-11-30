@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 18:50:43.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0351
-reute
-r f BC-CALNY-INC-CLNY>-SUES   03-02 0102</field>
-	<field name = "TITLE">CALNY INC CLNY> SUES PEPSICO INC PEP></field>
+	<field name = "titulo">CALNY INC CLNY> SUES PEPSICO INC PEP></field>
 	<field name = "DATELINE">SAN MATAO, Calif., March 2 -</field>
-	<field name = "BODY">Calny Inc said it has filed a
+	<field name = "content">Calny Inc said it has filed a
 multi-million-dlr suit against PepsiCo Inc and its La Petite
 Boulangerie unit.
     Calny, which holds 15 La Petite Boulangerie franchises,

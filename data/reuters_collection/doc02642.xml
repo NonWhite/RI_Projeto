@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:09:10.11</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0459reute
-r f BC-IBM-CANADA-FILES-COPY   03-06 0109</field>
-	<field name = "TITLE">IBM CANADA FILES COPYRIGHT INFRINGEMENT SUIT</field>
+	<field name = "titulo">IBM CANADA FILES COPYRIGHT INFRINGEMENT SUIT</field>
 	<field name = "DATELINE">Toronto, March 6 -</field>
-	<field name = "BODY">IBM Canada Ltd> said it filed a lawsuit
+	<field name = "content">IBM Canada Ltd> said it filed a lawsuit
 in the federal court of Canada against a number of companies
 and individuals operating in Montreal under the names Crazy
 Irving Inc, Irving Le Fou Inc and other names.

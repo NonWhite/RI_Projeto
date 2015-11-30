@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">28-MAR-1987 23:52:05.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2801reute
-r f BC-TENTATIVE-PACT-AGREED   03-28 0095</field>
-	<field name = "TITLE">TENTATIVE PACT AGREED IN GM GM.N> STRIKE</field>
+	<field name = "titulo">TENTATIVE PACT AGREED IN GM GM.N> STRIKE</field>
 	<field name = "DATELINE">PONTIAC, Mich., March 29 -</field>
-	<field name = "BODY">A tentative settlement has been
+	<field name = "content">A tentative settlement has been
 reached in a three-day strike by 9,000 workers at a General
 Motors GM.N> truck and bus complex, a union spokesman said.
     United Auto Workers (UAW) spokesman Don Hooper told Reuters

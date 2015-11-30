@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 17:11:38.35</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">V
-f0016reute
-u f BC-SECURITIES-TAX-WOULD   03-03 0124</field>
-	<field name = "TITLE">SECURITIES TAX WOULD NEED WHITE HOUSE SUPPORT</field>
+	<field name = "titulo">SECURITIES TAX WOULD NEED WHITE HOUSE SUPPORT</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">House Ways and Means Committee
+	<field name = "content">House Ways and Means Committee
 chairman Dan Rostenkowski would want White House support for
 any tax increase, including a tax on securities transactions,
 before considering the issue, a staff member said.

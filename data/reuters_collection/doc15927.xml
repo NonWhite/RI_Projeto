@@ -4,12 +4,9 @@
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">C G
-f2437reute
-r f BC-rice-s/d   04-09 0095</field>
-	<field name = "TITLE">RICE SUPPLY/DEMAND FOR THAILAND -- USDA</field>
+	<field name = "titulo">RICE SUPPLY/DEMAND FOR THAILAND -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 detailed rice supply/demand milled-basis data for Thailand, the
 world's major rice exporter, as follows in mln tonnes --       
         1986/87            1985/86

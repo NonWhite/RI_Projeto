@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">fiji</field>
-	<field name = "UNKNOWN">C G L M T
-f0788reute
-u f PM-FIJI   06-02 0180</field>
-	<field name = "TITLE">BOMB THREATS, STRIKES AS FIJI SEES END TRADE BAN</field>
+	<field name = "titulo">BOMB THREATS, STRIKES AS FIJI SEES END TRADE BAN</field>
 	<field name = "DATELINE">SUVA, June 2 -</field>
-	<field name = "BODY">Fiji today welcomed the ending of a trade
+	<field name = "content">Fiji today welcomed the ending of a trade
 ban imposed by Australian labor unions as supporters of the
 country's ousted prime minister Timoci Bavadra renewed pressure
 for his reinstatement with strikes and shop closures.

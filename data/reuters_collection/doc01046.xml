@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 10:20:45.46</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0494reute
-d f BC-PHARMACIA-FORECASTS-H   03-03 0101</field>
-	<field name = "TITLE">PHARMACIA FORECASTS HIGHER 1987 EARNINGS</field>
+	<field name = "titulo">PHARMACIA FORECASTS HIGHER 1987 EARNINGS</field>
 	<field name = "DATELINE">STOCKHOLM, March 3 -</field>
-	<field name = "BODY">Pharmacia AB PHAB ST> forecast
+	<field name = "content">Pharmacia AB PHAB ST> forecast
 earnings after financial items of one billion crowns in 1987 vs
 821.2 mln last year on condition that exchange rates remained
 at their present parities.

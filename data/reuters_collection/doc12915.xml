@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 10:56:44.30</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-miller</field>
-	<field name = "UNKNOWN">F A
-f1247reute
-r f BC-MISSED-SENATE-DEADLIN   04-03 0115</field>
-	<field name = "TITLE">MISSED SENATE DEADLINE UPSETS U.S. BUDGET CHIEF</field>
+	<field name = "titulo">MISSED SENATE DEADLINE UPSETS U.S. BUDGET CHIEF</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">White House Budget Chief James Miller
+	<field name = "content">White House Budget Chief James Miller
 said he was irritated by the Senate Budget Committee's failure
 to meet an April 1 deadline for completing action on its budget
 blueprint for the coming fiscal year.

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 15:07:34.42</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2201reute
-r f BC-HI-PORT-INDUSTRIES-IN   04-01 0069</field>
-	<field name = "TITLE">HI-PORT INDUSTRIES INC HIPT> 4TH QTR NET</field>
+	<field name = "titulo">HI-PORT INDUSTRIES INC HIPT> 4TH QTR NET</field>
 	<field name = "DATELINE">HOUSTON, April 1 -</field>
-	<field name = "BODY">Oper shr 29 cts vs eight cts
+	<field name = "content">Oper shr 29 cts vs eight cts
     Oper net 222,143 vs 76,605
     Revs 4,872,279 vs 3,276,404
     12 mths

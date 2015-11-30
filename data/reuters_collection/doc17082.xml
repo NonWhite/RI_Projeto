@@ -4,13 +4,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">A RM
-f0766reute
-r f AM-TRADE-ABE   04-24 0083</field>
-	<field name = "TITLE">U.S., JAPAN TRADE TIES REMAIN HOSTILE</field>
+	<field name = "titulo">U.S., JAPAN TRADE TIES REMAIN HOSTILE</field>
 	<field name = "AUTHOR">By Robert Trautman, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, April 24 -</field>
-	<field name = "BODY">The visit this week by a special
+	<field name = "content">The visit this week by a special
 Japanese envoy has done little to defuse Japan's trade
 frictions with the United States, U.S. and congressional
 leaders say.

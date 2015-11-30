@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 08:23:31.25</field>
 	<field name = "TOPICS">instal-debt</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0840reute
-b f BC-U.K.-CREDIT-BUSINESS   03-09 0109</field>
-	<field name = "TITLE">U.K. CREDIT BUSINESS FALLS IN JANUARY</field>
+	<field name = "titulo">U.K. CREDIT BUSINESS FALLS IN JANUARY</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">New credit advanced by finance houses,
+	<field name = "content">New credit advanced by finance houses,
 retailers, bank credit cards and other specialist providers of
 credit slipped to 2.66 billion stg in January from 2.78 billion
 in December - but remained close to the average level for

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 19:05:11.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2917reute
-u f BC-FLOATING-POINT-FLP>   06-02 0105</field>
-	<field name = "TITLE">FLOATING POINT FLP> CUTS WORKFORCE</field>
+	<field name = "titulo">FLOATING POINT FLP> CUTS WORKFORCE</field>
 	<field name = "DATELINE">BEAVERTON, Ore, June 2 -</field>
-	<field name = "BODY">Floating Point Systems INc said it
+	<field name = "content">Floating Point Systems INc said it
 implemented a restructuring, consolidating eight departments
 into four and decreasing its worldwide staff to 800 from 1,200.
     It said cost-cutting measures include a significant

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 20:50:44.04</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0428
-reute
-u f BC-ITALIAN-COALITION-MEE   02-26 0115</field>
-	<field name = "TITLE">ITALIAN COALITION MEETS AS GOVERNMENT CRISIS LOOMS</field>
+	<field name = "titulo">ITALIAN COALITION MEETS AS GOVERNMENT CRISIS LOOMS</field>
 	<field name = "DATELINE">ROME, Feb 27 -</field>
-	<field name = "BODY">Leaders of Italy's five coalition parties
+	<field name = "content">Leaders of Italy's five coalition parties
 have agreed to meet today to try to settle their differences
 which are mainly between Prime Minister Bettino Craxi's
 Socialist Party and the majority Christian Democrats.

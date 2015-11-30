@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 11:24:11.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0959
-reute
-d f BC-ARMCO-AS>-CHANGES-EU   03-02 0068</field>
-	<field name = "TITLE">ARMCO AS> CHANGES EUROPEAN MARKETING UNIT</field>
+	<field name = "titulo">ARMCO AS> CHANGES EUROPEAN MARKETING UNIT</field>
 	<field name = "DATELINE">BUTLER, Pa., March 2 -</field>
-	<field name = "BODY">Armco Inc said its former European
+	<field name = "content">Armco Inc said its former European
 Steel Mill Merchandising department has become a unit of the
 parent's specialty steels division based in Butler.
     The unit, newly named Specialty Steels-Europe is based in

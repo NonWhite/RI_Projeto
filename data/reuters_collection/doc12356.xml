@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 17:25:47.42</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">A
-f2604reute
-r f BC-FEDS-OKAY-WESTERN-CAR   04-01 0078</field>
-	<field name = "TITLE">FEDS OKAY WESTERN CAROLINA SAVINGS CONVERSION</field>
+	<field name = "titulo">FEDS OKAY WESTERN CAROLINA SAVINGS CONVERSION</field>
 	<field name = "DATELINE">VALDESE, N.C., April 1 -</field>
-	<field name = "BODY">Western Carolina Savings and Loan
+	<field name = "content">Western Carolina Savings and Loan
 Association said the Federal Home Loan Bank Board approved the
 completion of its conversion to a state chartered stock savings
 and loan from a state chartered mutual bank.

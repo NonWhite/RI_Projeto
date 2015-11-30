@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:37:48.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1836reute
-d f BC-EXOVIR-XOVR>-TO-GET   03-26 0108</field>
-	<field name = "TITLE">EXOVIR XOVR> TO GET EUROPEAN PATENT</field>
+	<field name = "titulo">EXOVIR XOVR> TO GET EUROPEAN PATENT</field>
 	<field name = "DATELINE">GREAT NECK, N.Y., March 26 -</field>
-	<field name = "BODY">Exovir Inc said the European
+	<field name = "content">Exovir Inc said the European
 Patent Office notified it that its application covering
 combinations of nonionic surfactants and all forms of
 interferon has been approved and a patent will be issued in

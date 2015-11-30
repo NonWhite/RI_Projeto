@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 13:18:38.31</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0185reute
-d f BC-GENOVA-INC-GNVA>-1ST   03-04 0050</field>
-	<field name = "TITLE">GENOVA INC GNVA> 1ST QTR DEC 27 NET</field>
+	<field name = "titulo">GENOVA INC GNVA> 1ST QTR DEC 27 NET</field>
 	<field name = "DATELINE">DAVISON, Mich., March 4 -</field>
-	<field name = "BODY">Oper shr profit four cts vs loss four cts
+	<field name = "content">Oper shr profit four cts vs loss four cts
     Oper net profit 151,448 vs loss 170,709
     Sales 11.5 mln vs 9,581,406
     NOTE: Prior year net includes 123,650 dlr tax credit but

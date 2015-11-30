@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 19:00:08.24</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0855reute
-d f BC-GERBER-GRB>-BUYS-GER   03-12 0064</field>
-	<field name = "TITLE">GERBER GRB> BUYS GERBER SYSTEMS GSTI> SHARES</field>
+	<field name = "titulo">GERBER GRB> BUYS GERBER SYSTEMS GSTI> SHARES</field>
 	<field name = "DATELINE">SOUTH WINDSOR, Conn, March 12 -</field>
-	<field name = "BODY">Gerber Scientific Inc said
+	<field name = "content">Gerber Scientific Inc said
 its GST Acquisition Corp purchased 444,646 shares of its 84 pct
 owned Gerber Systems Technology pursuant to a January 15 tender
 offer.

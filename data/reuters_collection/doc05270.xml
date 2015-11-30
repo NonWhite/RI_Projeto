@@ -4,12 +4,9 @@
 	<field name = "TOPICS">yen</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f1599reute
-r f BC-BANK-OF-JAPAN-SATISFI   03-16 0090</field>
-	<field name = "TITLE">BANK OF JAPAN SATISFIED WITH YEN AT CURRENT RANGE</field>
+	<field name = "titulo">BANK OF JAPAN SATISFIED WITH YEN AT CURRENT RANGE</field>
 	<field name = "DATELINE">TOKYO, March 16 -</field>
-	<field name = "BODY">The Bank of Japan is satisfied with the
+	<field name = "content">The Bank of Japan is satisfied with the
 yen around its current range, a senior central bank official
 told reporters.
     He said the pledge by major industrial nations in Paris

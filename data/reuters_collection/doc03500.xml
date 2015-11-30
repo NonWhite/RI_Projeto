@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 05:59:42.84</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">RM
-f0484reute
-u f BC-BANK-OF-THAILAND-FLOA   03-11 0058</field>
-	<field name = "TITLE">BANK OF THAILAND FLOATS NEW GOVERNMENT BOND</field>
+	<field name = "titulo">BANK OF THAILAND FLOATS NEW GOVERNMENT BOND</field>
 	<field name = "DATELINE">BANGKOK, March 11 -</field>
-	<field name = "BODY">The Bank of Thailand said it has
+	<field name = "content">The Bank of Thailand said it has
 floated 500 mln baht of new five-year loan bonds for public
 sale.
     The bonds will yield 7.25 pct net after tax with interest

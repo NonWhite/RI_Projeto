@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 09:39:04.31</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f7868reute
-d f BC-VOLVO-UNIT-RECEIVES-G   03-18 0092</field>
-	<field name = "TITLE">VOLVO UNIT RECEIVES GENERAL ELECTRIC ORDER</field>
+	<field name = "titulo">VOLVO UNIT RECEIVES GENERAL ELECTRIC ORDER</field>
 	<field name = "DATELINE">STOCKHOLM, March 18 -</field>
-	<field name = "BODY">Sweden's AB Volvo VOLV.ST> said its
+	<field name = "content">Sweden's AB Volvo VOLV.ST> said its
 subsidiary Volvo Flygmotor had won a contract worth 330 mln
 crowns over four years from General Electric Co GE.N> to
 supply flight engine components.

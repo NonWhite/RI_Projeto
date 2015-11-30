@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 18:20:57.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f3855reute
-r f BC-MORGAN-STANLEY-MS>-I   03-16 0117</field>
-	<field name = "TITLE">MORGAN STANLEY MS> ISSUES MORTGAGE BONDS</field>
+	<field name = "titulo">MORGAN STANLEY MS> ISSUES MORTGAGE BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">Morgan Stanley Mortgage Trust, a unit
+	<field name = "content">Morgan Stanley Mortgage Trust, a unit
 of the Morgan Stanley Group, is offering 313.87 mln dlrs of
 collateralized mortgage obligations (CMOs) in seven classes.
     These consist of 79 mln dlrs of adjustable rate class J-1

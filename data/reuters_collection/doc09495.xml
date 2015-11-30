@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 14:04:33.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1999reute
-r f BC-UTAH-POWER-UTP>-PLAN   03-25 0111</field>
-	<field name = "TITLE">UTAH POWER UTP> PLANS TO REDEEM PREFERRED STOCK</field>
+	<field name = "titulo">UTAH POWER UTP> PLANS TO REDEEM PREFERRED STOCK</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Utah Power and Light Co said it filed
+	<field name = "content">Utah Power and Light Co said it filed
 an application with the Idaho Public Utilities Commission to
 refinance preferred stock that was issued when interest rates
 were higher.

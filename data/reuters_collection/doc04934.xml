@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 13:38:10.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0929reute
-d f BC-STATUS-GAME-STGM>-TO   03-13 0087</field>
-	<field name = "TITLE">STATUS GAME STGM> TO PRODUCE CONDOM MACHINES</field>
+	<field name = "titulo">STATUS GAME STGM> TO PRODUCE CONDOM MACHINES</field>
 	<field name = "DATELINE">NEWINGTON, Conn., March 13 -</field>
-	<field name = "BODY">Status Game Corp said it has
+	<field name = "content">Status Game Corp said it has
 started making condom vending machines which it will start
 distributing within the next 30 days.
     It said initially it will place the machines in the 1,200

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 19:33:26.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2942reute
-r f BC-FIRMS-AWARDED-U.S.-PO   06-02 0111</field>
-	<field name = "TITLE">FIRMS AWARDED U.S. POSTAL SERVICE AWARDS</field>
+	<field name = "titulo">FIRMS AWARDED U.S. POSTAL SERVICE AWARDS</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">The U.S. Postal Service said Unisys Corp
+	<field name = "content">The U.S. Postal Service said Unisys Corp
 UIS>, Bell and Howell Co BHW>, Recognition Equipment Inc
 REC>, Toshiba and AEG, were awarded contracts for automating
 the postal services mail sorting system.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1254reute
-u f BC-/U.S.-HOUSE-PANEL-VOT   06-02 0110</field>
-	<field name = "TITLE">U.S. HOUSE PANEL VOTES TO SPEED UP CORN PAYMENTS</field>
+	<field name = "titulo">U.S. HOUSE PANEL VOTES TO SPEED UP CORN PAYMENTS</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">The House Agriculture Committee voted
+	<field name = "content">The House Agriculture Committee voted
 to make approximately 2.8 billion dlrs of feedgrains deficiency
 payments immediately instead of in the late fall.
     A similar measure was decisively defeated on the Senate

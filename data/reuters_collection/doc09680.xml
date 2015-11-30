@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">C G L M T
-f2750reute
-d f BC-EXCHANGE-RATE-BILL-CL   03-25 0109</field>
-	<field name = "TITLE">EXCHANGE RATE BILL CLEARS U.S. HOUSE PANEL</field>
+	<field name = "titulo">EXCHANGE RATE BILL CLEARS U.S. HOUSE PANEL</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The House Banking Committee adopted
+	<field name = "content">The House Banking Committee adopted
 legislation to direct the U.S. Treasury to begin negotiations
 aimed at seeking regular adjustment of exchange rates by  
 countries such as Taiwan and South Korea whose currencies are

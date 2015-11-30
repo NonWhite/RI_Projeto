@@ -4,13 +4,10 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">sarney</field>
-	<field name = "UNKNOWN">C G L M T
-f0247reute
-r f AM-BRAZIL-STRIKES   03-11 0121</field>
-	<field name = "TITLE">BRAZIL'S SARNEY MEETS STRIKES WITH SHOW OF FORCE</field>
+	<field name = "titulo">BRAZIL'S SARNEY MEETS STRIKES WITH SHOW OF FORCE</field>
 	<field name = "AUTHOR">By Stephen Powell, Reuters</field>
 	<field name = "DATELINE">SANTOS, BRAZIL, MARCH 11 -</field>
-	<field name = "BODY">With troops in place in Brazil's
+	<field name = "content">With troops in place in Brazil's
 ports and oil installations, the government of Prersident Jose
 Sarney today sought to end a wave of labour unrest by a show of
 force.

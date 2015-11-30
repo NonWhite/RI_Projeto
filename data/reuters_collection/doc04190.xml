@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 09:31:00.75</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">F
-f0949reute
-r f BC-CME-CONTINUES-DELIBER   03-12 0093</field>
-	<field name = "TITLE">CME CONTINUES DELIBERATION ON DUAL TRADING BAN</field>
+	<field name = "titulo">CME CONTINUES DELIBERATION ON DUAL TRADING BAN</field>
 	<field name = "DATELINE">CHICAGO, March 12 -</field>
-	<field name = "BODY">Directors of the Chicago Mercantile
+	<field name = "content">Directors of the Chicago Mercantile
 Exchange (CME) adjourned a meeting late last night without
 reaching a decision on a petition to ban dual trading in
 Standard and Poor's 500 stock index futures, an exchange

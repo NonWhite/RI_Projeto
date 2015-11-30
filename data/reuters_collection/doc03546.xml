@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 08:30:14.00</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0808reute
-u f BC-NEW-WORLD-PICTURES-N   03-11 0097</field>
-	<field name = "TITLE">NEW WORLD PICTURES NWP> SELLS TAFT TFB> STAKE</field>
+	<field name = "titulo">NEW WORLD PICTURES NWP> SELLS TAFT TFB> STAKE</field>
 	<field name = "DATELINE">LOS ANGELES, March 11 -</field>
-	<field name = "BODY">New World Pictures Ltd said it sold
+	<field name = "content">New World Pictures Ltd said it sold
 456,900 shares or about five pct of Taft Broadcasting Co common
 stock for a gain of 17.8 mln dlrs.
     The company said in a brief statement that it acquired the

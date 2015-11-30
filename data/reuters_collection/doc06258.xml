@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f6470reute
-r f BC-U.S.-CERTIFICATES-TO   03-17 0121</field>
-	<field name = "TITLE">U.S. CERTIFICATES TO PROVIDE WHEAT/CORN SUPPLIES</field>
+	<field name = "titulo">U.S. CERTIFICATES TO PROVIDE WHEAT/CORN SUPPLIES</field>
 	<field name = "DATELINE">Washington, March 16 -</field>
-	<field name = "BODY">From April through December 1986,
+	<field name = "content">From April through December 1986,
 the Commodity Credit Corporation (CCC) issued 3.85 billion dlrs
 worth of generic certificates and about 1.8 billion had not
 been exchanged by January 1, 1987, the U.S. Agriculture

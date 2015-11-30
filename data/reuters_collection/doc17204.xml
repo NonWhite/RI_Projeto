@@ -10,12 +10,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">italy</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0062reute
-u f BC-G-7-OFFICIALS-TO-DECI   04-26 0104</field>
-	<field name = "TITLE">G-7 OFFICIALS TO DECIDE ON SUMMIT AGENDA</field>
+	<field name = "titulo">G-7 OFFICIALS TO DECIDE ON SUMMIT AGENDA</field>
 	<field name = "DATELINE">OSAKA, Japan, April 26 -</field>
-	<field name = "BODY">Senior officials from the Group of
+	<field name = "content">Senior officials from the Group of
 Seven (G-7) countries will meet next week to decide an agenda
 for the body"s June summit scheduled to be held in Venice,
 Japanese officials said.

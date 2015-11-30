@@ -2,12 +2,9 @@
 	<field name = "DATE">15-MAR-1987 22:50:35.41</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">RM
-f1004reute
-u f BC-SOVIET-FIGURES-SHOW-E   03-15 0107</field>
-	<field name = "TITLE">SOVIET FIGURES SHOW ECONOMY STILL SHORT OF TARGETS</field>
+	<field name = "titulo">SOVIET FIGURES SHOW ECONOMY STILL SHORT OF TARGETS</field>
 	<field name = "DATELINE">MOSCOW, March 16 -</field>
-	<field name = "BODY">The Soviet economy recovered slightly
+	<field name = "content">The Soviet economy recovered slightly
 last month after a poor performance in January, but major
 industries, including oil and machinery, are still short of
 production targets, official figures show.

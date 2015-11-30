@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">F
-f2740reute
-u f BC-AMERICAN-INTERNATIONA   03-24 0086</field>
-	<field name = "TITLE">AMERICAN INTERNATIONAL AIG> SELLS AFRICAN UNIT</field>
+	<field name = "titulo">AMERICAN INTERNATIONAL AIG> SELLS AFRICAN UNIT</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">American International Group Inc said
+	<field name = "content">American International Group Inc said
 it sold its South African subsidiary, American International
 Insurance Co Ltd, to Johannesburg Insurance Holdings Ltd, a
 holding company owned by a consortium of shareholders led by

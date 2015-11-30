@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 15:39:41.92</field>
 	<field name = "TOPICS">housing</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0827
-reute
-r f BC-JANUARY-HOUSING-SALES   02-26 0103</field>
-	<field name = "TITLE">JANUARY HOUSING SALES DROP, REALTY GROUP SAYS</field>
+	<field name = "titulo">JANUARY HOUSING SALES DROP, REALTY GROUP SAYS</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">Sales of previously owned homes
+	<field name = "content">Sales of previously owned homes
 dropped 14.5 pct in January to a seasonally adjusted annual
 rate of 3.47 mln units, the National Association of Realtors
 (NAR) said.

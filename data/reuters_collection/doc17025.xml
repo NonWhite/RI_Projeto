@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-APR-1987 12:48:28.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1800reute
-d f BC-ATT-T>-LAUNCHES-SYST   04-21 0091</field>
-	<field name = "TITLE">ATT T> LAUNCHES SYSTEMS FOR SMALL BUSINESSES</field>
+	<field name = "titulo">ATT T> LAUNCHES SYSTEMS FOR SMALL BUSINESSES</field>
 	<field name = "DATELINE">NEW YORK, April 21 -</field>
-	<field name = "BODY">American Telephone and Telegraph Co
+	<field name = "content">American Telephone and Telegraph Co
 introduced two communications systems, Spirit and Merlin, and
 other products, in a bid to strengthen its position with small
 businesses, the company said.

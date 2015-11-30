@@ -3,12 +3,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">F
-f0446reute
-r f BC-KRUPP-TO-BUILD-SOUTH   03-25 0112</field>
-	<field name = "TITLE">KRUPP TO BUILD SOUTH KOREAN STEEL PLANT</field>
+	<field name = "titulo">KRUPP TO BUILD SOUTH KOREAN STEEL PLANT</field>
 	<field name = "DATELINE">ESSEN, West Germany, March 25 -</field>
-	<field name = "BODY">Fried. Krupp GmbH said its
+	<field name = "content">Fried. Krupp GmbH said its
 Krupp Industrietechnik GmbH subsidiary has won a 130 mln marks
 joint order with Samsung Shipbuilding and Heavy Industries Co.
 Ltd of Seoul for a steel works in Pohang, South Korea.

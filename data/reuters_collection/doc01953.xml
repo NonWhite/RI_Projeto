@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 06:02:28.72</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0588reute
-r f BC-JAPAN'S-CHAMBER-OF-CO   03-05 0105</field>
-	<field name = "TITLE">JAPAN'S CHAMBER OF COMMERCE URGES FISCAL SPENDING</field>
+	<field name = "titulo">JAPAN'S CHAMBER OF COMMERCE URGES FISCAL SPENDING</field>
 	<field name = "DATELINE">TOKYO, March 5 -</field>
-	<field name = "BODY">President of the Japan Chamber of Commerce
+	<field name = "content">President of the Japan Chamber of Commerce
 and Industry (JCCI) Noboru Gotoh called on the Government to
 issue additional construction bonds as an emergency measure to
 stimulate domestic demand.

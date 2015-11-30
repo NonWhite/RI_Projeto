@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 16:48:11.89</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0656reute
-r f BC-GENERAL-ELECTRIC-GE>   03-11 0067</field>
-	<field name = "TITLE">GENERAL ELECTRIC GE> TO SELL DATEL UNIT</field>
+	<field name = "titulo">GENERAL ELECTRIC GE> TO SELL DATEL UNIT</field>
 	<field name = "DATELINE">SOMERVILLE, N.J., March 11 -</field>
-	<field name = "BODY">General Electric Co's GE
+	<field name = "content">General Electric Co's GE
 Semiconductor Business said it agreed to sell its Datel unit to
 a group led by the unit's president, Nicolas Tagaris.
     Terms were not disclosed.

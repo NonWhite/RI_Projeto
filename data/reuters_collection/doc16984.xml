@@ -2,12 +2,9 @@
 	<field name = "DATE">21-APR-1987 10:12:44.56</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f1028reute
-u f BC-JAPAN-SEES-NEED-TO-AC   04-21 0112</field>
-	<field name = "TITLE">JAPAN SEES NEED TO ACT QUICKLY ON TRADE CRISIS</field>
+	<field name = "titulo">JAPAN SEES NEED TO ACT QUICKLY ON TRADE CRISIS</field>
 	<field name = "DATELINE">TOKYO, April 21 -</field>
-	<field name = "BODY">Japan is faced with a mounting crisis
+	<field name = "content">Japan is faced with a mounting crisis
 over its huge trade surplus and recognizes that it must act
 more quickly to refocus its export driven economy, a senior
 Foreign Ministry official said.

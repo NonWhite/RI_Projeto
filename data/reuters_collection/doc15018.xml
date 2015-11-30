@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:30:58.28</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1128reute
-b f BC-FEDERAL-REALTY-CONVER   04-08 0102</field>
-	<field name = "TITLE">FEDERAL REALTY CONVERTIBLE INCREASED, PRICED</field>
+	<field name = "titulo">FEDERAL REALTY CONVERTIBLE INCREASED, PRICED</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">Today's dollar convertible eurobond for
+	<field name = "content">Today's dollar convertible eurobond for
 Federal Realty Investment Trust has been increased to 100 mln
 dlrs from the initial 75 mln, lead manager Salomon Brothers
 International said.

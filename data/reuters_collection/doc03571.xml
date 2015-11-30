@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 09:12:28.24</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G T M
-f0961reute
-u f BC-DUTCH-PORT-UNION-TO-M   03-11 0111</field>
-	<field name = "TITLE">DUTCH PORT UNION TO MEET PARLIAMENTARIANS TODAY</field>
+	<field name = "titulo">DUTCH PORT UNION TO MEET PARLIAMENTARIANS TODAY</field>
 	<field name = "DATELINE">ROTTERDAM, March 11 -</field>
-	<field name = "BODY">Dutch port and transport union, FNV,
+	<field name = "content">Dutch port and transport union, FNV,
 is presenting its case against 800 planned redundancies in
 Rotterdam's general cargo sector to parliament's standing
 committee on social affairs today, a union spokesman said.

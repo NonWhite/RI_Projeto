@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 13:09:44.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0360reute
-d f BC-EL-POLLO-ASADO-EPAI.   04-17 0074</field>
-	<field name = "TITLE">EL POLLO ASADO EPAI.O> NAMES PRESIDENT</field>
+	<field name = "titulo">EL POLLO ASADO EPAI.O> NAMES PRESIDENT</field>
 	<field name = "DATELINE">PHOENIX, April 17 -</field>
-	<field name = "BODY">El Pollo Asado Inc said executive vice
+	<field name = "content">El Pollo Asado Inc said executive vice
 president and chief operating officer Richard J. Peterson has
 been named president, succeeding Richard B. Lipson, who remains
 chairman and chief executive.

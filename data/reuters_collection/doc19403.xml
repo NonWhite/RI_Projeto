@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 16:00:13.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2252reute
-h f BC-ENVIRONMENTAL-POWER.   06-19 0048</field>
-	<field name = "TITLE">ENVIRONMENTAL POWER.O> BOARDMEMBER RESIGNS</field>
+	<field name = "titulo">ENVIRONMENTAL POWER.O> BOARDMEMBER RESIGNS</field>
 	<field name = "DATELINE">BOSTON, June 19 -</field>
-	<field name = "BODY">Environmental Power Corp said that Robert
+	<field name = "content">Environmental Power Corp said that Robert
 W. Baldridge has resigned from its board of directors,
 effective June 17.
     Environmental develops, owns and operates small power

@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 00:03:35.68F</field>
-	<field name = "UNKNOWN">f0004reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">b f BC-JARDINE-MATHESON-HOLD   03-27 0092</field>
-	<field name = "TITLE">JARDINE MATHESON HOLDINGS LTD JARD.HKG> YEAR 1986</field>
+	<field name = "titulo">JARDINE MATHESON HOLDINGS LTD JARD.HKG> YEAR 1986</field>
 	<field name = "DATELINE">HONG KONG, March 27 -</field>
-	<field name = "BODY">Shr 126 H.K. Cents vs 42 (adjusted)
+	<field name = "content">Shr 126 H.K. Cents vs 42 (adjusted)
     Final div 30 cents vs 10, making 40 vs 10
     Net 479 mln dlrs vs 157 mln
     Turnover 10.4 billion vs 10.5 billion

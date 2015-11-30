@@ -2,13 +2,9 @@
 	<field name = "DATE">1-MAR-1987 07:05:40.66</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">RM
-f0409
-reute
-u f BC-IRAQ-SAYS-IT-REPELS-I   03-01 0114</field>
-	<field name = "TITLE">IRAQ SAYS IT REPELS IRANIAN ATTACK</field>
+	<field name = "titulo">IRAQ SAYS IT REPELS IRANIAN ATTACK</field>
 	<field name = "DATELINE">BAGHDAD, March 1 -</field>
-	<field name = "BODY">Iraq said its troops repelled an
+	<field name = "content">Iraq said its troops repelled an
 overnight attack by three divisions of Iranian Revolutionary
 Guards near Basra in southern Iraq.
     A military communique said the Iranians in a "perfidious"

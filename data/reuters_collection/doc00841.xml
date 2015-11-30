@@ -3,13 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f0278
-reute
-b f BC-ICO-COUNCIL-ENDS-IN-F   03-02 0128</field>
-	<field name = "TITLE">ICO COUNCIL ENDS IN FAILURE TO AGREE QUOTAS</field>
+	<field name = "titulo">ICO COUNCIL ENDS IN FAILURE TO AGREE QUOTAS</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">A special meeting of the International
+	<field name = "content">A special meeting of the International
 Coffee Organization (ICO) council failed to agree on how to set
 coffee export quotas, ICO delegates said.
     Producers and consumers could not find common ground on the

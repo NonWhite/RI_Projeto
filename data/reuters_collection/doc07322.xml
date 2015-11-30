@@ -3,12 +3,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C M
-f1991reute
-r f BC-EC-MINISTERS-ANNOUNCE   03-19 0110</field>
-	<field name = "TITLE">EC MINISTERS ANNOUNCE PLAN FOR STEEL CLOSURES</field>
+	<field name = "titulo">EC MINISTERS ANNOUNCE PLAN FOR STEEL CLOSURES</field>
 	<field name = "DATELINE">BRUSSELS, March 19 -</field>
-	<field name = "BODY">European Community (EC) industry
+	<field name = "content">European Community (EC) industry
 ministers agreed on a plan for voluntary steel plant closures,
 drawn up by industry lobby group Eurofer, and calculated to
 lead to the loss of about 22,000 jobs.

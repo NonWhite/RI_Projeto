@@ -1,16 +1,14 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:02:52.48C G</field>
-	<field name = "UNKNOWN">f1481reute</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">jamaica</field>
-	<field name = "UNKNOWN">u f BC-JAMAICA-BUYS-U.S.-PL-   03-27 0113</field>
-	<field name = "TITLE">JAMAICA BUYS U.S. PL-480 CORN, WHEAT AND RICE</field>
+	<field name = "titulo">JAMAICA BUYS U.S. PL-480 CORN, WHEAT AND RICE</field>
 	<field name = "DATELINE">CHICAGO, March 27 -</field>
-	<field name = "BODY">Jamaica bought U.S. corn, wheat and
+	<field name = "content">Jamaica bought U.S. corn, wheat and
 rice at its tender earlier this week using PL-480 funds, a U.S.
 Department of Agriculture official said.
     The purchase consisted of the following cargoes -

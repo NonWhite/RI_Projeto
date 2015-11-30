@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 14:46:16.30</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G L M T
-f0308reute
-d f AM-INSIDER   03-11 0124</field>
-	<field name = "TITLE">MERRILL LYNCH U.K. EXECUTIVE CHARGED BY SEC</field>
+	<field name = "titulo">MERRILL LYNCH U.K. EXECUTIVE CHARGED BY SEC</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">The U.S. Securities and Exchange
+	<field name = "content">The U.S. Securities and Exchange
 Commission said it charged a managing director of
 Merrill Lynch, Pierce, Fenner and Smith Ltd in London with
 masterminding "a massive insider trading scheme."

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:45:53.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4290reute
-r f BC-NORTH-HILLS-NOHL.O>   06-18 0074</field>
-	<field name = "TITLE">NORTH HILLS NOHL.O> CLOSES LOAN</field>
+	<field name = "titulo">NORTH HILLS NOHL.O> CLOSES LOAN</field>
 	<field name = "DATELINE">GLEN COVE, N.Y., June 18 -</field>
-	<field name = "BODY">North Hills Electronics Inc said
+	<field name = "content">North Hills Electronics Inc said
 its North Hills Israel Ltd unit closed on a 1,500,000 dlr
 loan from Overseas Private Investment Corporation, an agency of
 the U.S. government.

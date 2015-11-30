@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 01:12:37.45</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0511
-reute
-b f BC-COMALCO-LTD-CMAC.S>   03-03 0017</field>
-	<field name = "TITLE">COMALCO LTD CMAC.S> 1986 NET</field>
+	<field name = "titulo">COMALCO LTD CMAC.S> 1986 NET</field>
 	<field name = "DATELINE">MELBOURNE, March 3 -</field>
-	<field name = "BODY">Net profit 57.1 mln dlrs vs loss 69.1 mln.
+	<field name = "content">Net profit 57.1 mln dlrs vs loss 69.1 mln.
     Net is equity accounted
     Pre-equity accounted net 39.90 mln dlrs vs loss 49.11 mln
     Pre-equity shr profit 7.1 cents vs loss 8.7

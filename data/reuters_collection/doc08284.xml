@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 10:41:02.36</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1141reute
-d f BC-general-systems-resea   03-23 0088</field>
-	<field name = "TITLE">GENERAL SYSTEMS RESEARCH IN PRIVATE PLACEMENT</field>
+	<field name = "titulo">GENERAL SYSTEMS RESEARCH IN PRIVATE PLACEMENT</field>
 	<field name = "DATELINE">Edmonton, Alberta, March 23 -</field>
-	<field name = "BODY">General Systems Research
+	<field name = "content">General Systems Research
 Inc> said it concluded a 15 mln dlr private placement with the
 government of Alberta.
     The provincial government purchased 15 mln dlrs of the

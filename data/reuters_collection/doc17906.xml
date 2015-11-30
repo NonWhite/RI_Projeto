@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 04:43:06.10</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F
-f0268reute
-u f BC-STAD-ROTTERDAM-TAKES   06-02 0109</field>
-	<field name = "TITLE">STAD ROTTERDAM TAKES STAKE IN SWISS-OWNED INSURER</field>
+	<field name = "titulo">STAD ROTTERDAM TAKES STAKE IN SWISS-OWNED INSURER</field>
 	<field name = "DATELINE">ROTTERDAM, June 2 -</field>
-	<field name = "BODY">Dutch insurer Stad Rotterdam Anno 1720
+	<field name = "content">Dutch insurer Stad Rotterdam Anno 1720
 N.V. ASRN.AS> said from July 1 it will own 20 pct of the
 shares of Europeesche Verzekering Maatschappij N.V.>, a
 fully-owned unit of Swiss insurer Union

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 11:55:00.59</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1568reute
-b f BC-GERMAN-EXPERTS-SAY-NO   06-02 0099</field>
-	<field name = "TITLE">GERMAN EXPERTS SAY NO FURTHER ECONOMIC STIMULUS</field>
+	<field name = "titulo">GERMAN EXPERTS SAY NO FURTHER ECONOMIC STIMULUS</field>
 	<field name = "DATELINE">BONN, June 2 -</field>
-	<field name = "BODY">The West German government's independent
+	<field name = "content">The West German government's independent
 council of economic experts believes a further stimulation of
 the economy is inappropriate, government spokesman Friedhelm
 Ost said.

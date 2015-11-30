@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PEOPLE">wilson</field>
-	<field name = "UNKNOWN">E F Y
-f2457reute
-u f BC-CANADA'S-WILSON-HAS-N   04-13 0101</field>
-	<field name = "TITLE">CANADA'S WILSON HAS NO COMMENT ON DOME (DMP)</field>
+	<field name = "titulo">CANADA'S WILSON HAS NO COMMENT ON DOME (DMP)</field>
 	<field name = "DATELINE">OTTAWA, April 13 -</field>
-	<field name = "BODY">Finance Minister Michael Wilson said it
+	<field name = "content">Finance Minister Michael Wilson said it
 was too early to comment on the tax implications of TransCanada
 PipeLines Ltd's 4.3 billion dlr offer for Dome Petroleum Ltd.
     "The specific offer by TransCanada is just in the course of

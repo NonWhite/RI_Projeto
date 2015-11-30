@@ -2,13 +2,10 @@
 	<field name = "DATE">2-JUN-1987 05:38:12.36</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">T
-f0377reute
-u f BC-CHINA-SEEN-UNLIKELY-T   06-02 0112</field>
-	<field name = "TITLE">CHINA SEEN UNLIKELY TO RAISE SUGAR IMPORTS</field>
+	<field name = "titulo">CHINA SEEN UNLIKELY TO RAISE SUGAR IMPORTS</field>
 	<field name = "AUTHOR">By Mark O'Neill, Reuters</field>
 	<field name = "DATELINE">PEKING, June 2 -</field>
-	<field name = "BODY">China will not increase sugar imports
+	<field name = "content">China will not increase sugar imports
 substantially this year because of foreign exchange constraints
 and large stocks, despite falling production and rising
 domestic demand, traders and the official press said.

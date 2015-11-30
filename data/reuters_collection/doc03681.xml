@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">israel</field>
-	<field name = "UNKNOWN">F RM A
-f0434reute
-b f AM-INSIDER   03-11 0110</field>
-	<field name = "TITLE">MERRILL LYNCH U.K. EXECUTIVE CHARGED BY SEC</field>
+	<field name = "titulo">MERRILL LYNCH U.K. EXECUTIVE CHARGED BY SEC</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">The Securities and Exchange Commission
+	<field name = "content">The Securities and Exchange Commission
 said it charged a managing director of
 Merrill Lynch, Pierce, Fenner and Smith Ltd> in London with
 masterminding "a massive insider trading scheme."

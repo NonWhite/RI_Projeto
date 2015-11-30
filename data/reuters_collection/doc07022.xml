@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 07:23:33.05</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">A
-f0474reute
-r f BC-SOME-7,000-SOUTH-AFRI   03-19 0104</field>
-	<field name = "TITLE">SOME 7,000 SOUTH AFRICAN MINERS RETURN TO WORK</field>
+	<field name = "titulo">SOME 7,000 SOUTH AFRICAN MINERS RETURN TO WORK</field>
 	<field name = "DATELINE">JOHANNESBURG, March 19 -</field>
-	<field name = "BODY">Some 7,000 black workers returned
+	<field name = "content">Some 7,000 black workers returned
 to work after staging one-day strikes at two mines on Monday,
 the National Union of Mineworkers and the companies that own
 the mines said.

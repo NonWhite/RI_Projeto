@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 18:53:29.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3392reute
-d f BC-CITFED-CTYF.O>-TO-MA   10-19 0116</field>
-	<field name = "TITLE">CITFED CTYF.O> TO MAKE OPEN MARKET PURCHASES</field>
+	<field name = "titulo">CITFED CTYF.O> TO MAKE OPEN MARKET PURCHASES</field>
 	<field name = "DATELINE">PALM BEACH, Fla, Oct 19 -</field>
-	<field name = "BODY">CityFed Financial Corp said it
+	<field name = "content">CityFed Financial Corp said it
 will from time to time make open market purchases of its common
 stock for an amount not to exceed one mln dlrs.
     The shares will be held by the company as treasury stock.

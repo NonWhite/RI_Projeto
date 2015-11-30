@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 13:17:01.64</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5928reute
-r f BC-VTX-ELECRONICS-VTX>   03-17 0032</field>
-	<field name = "TITLE">VTX ELECRONICS VTX> SETS SDTOCK SPLIT</field>
+	<field name = "titulo">VTX ELECRONICS VTX> SETS SDTOCK SPLIT</field>
 	<field name = "DATELINE">FARMINGDALE, N.Y., March 17 -</field>
-	<field name = "BODY">VTX Electronics Corp said its
+	<field name = "content">VTX Electronics Corp said its
 board declared a five-for-four stock split, payable April Nine
 to holders of record March 27.
  Reuter</field>

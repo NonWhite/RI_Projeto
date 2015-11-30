@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 09:06:01.52</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0873reute
-b f BC-U.S.-FIRST-TIME-JOBLE   04-02 0081</field>
-	<field name = "TITLE">U.S. FIRST TIME JOBLESS CLAIMS ROSE IN WEEK</field>
+	<field name = "titulo">U.S. FIRST TIME JOBLESS CLAIMS ROSE IN WEEK</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">New applications for unemployment
+	<field name = "content">New applications for unemployment
 insurance benefits rose to a seasonally adjusted 355,000 in the
 week ended March 21 from 341,000 in the prior week, the Labor
 Department said.

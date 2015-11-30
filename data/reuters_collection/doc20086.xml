@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">RM V 
-f0599reute
-b f BC-STOLTENBERG-DECLINES   10-20 0105</field>
-	<field name = "TITLE">STOLTENBERG DECLINES COMMENT ON CURRENCY ZONES</field>
+	<field name = "titulo">STOLTENBERG DECLINES COMMENT ON CURRENCY ZONES</field>
 	<field name = "DATELINE">BONN, Oct 20 -</field>
-	<field name = "BODY">West German Finance Minister Gerhard
+	<field name = "content">West German Finance Minister Gerhard
 Stoltenberg declined to comment on whether unpublished target
 zones for currencies agreed at last February's Louvre accord
 had been changed as a result of the meeting on Monday with U.S.

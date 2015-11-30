@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:25:55.30</field>
-	<field name = "UNKNOWN">C G
-f2385reute
-u f BC-gulf-edible-oils   04-07 0096</field>
-	<field name = "TITLE">GULF EDIBLE OIL PRICES - April 7</field>
+	<field name = "titulo">GULF EDIBLE OIL PRICES - April 7</field>
 	<field name = "DATELINE">Fob Gulf edible oils -</field>
-	<field name = "BODY">quoted in cents per lb versus nearby
+	<field name = "content">quoted in cents per lb versus nearby
 CBT soyoil contracts.
     Crude degummed soybean oil NOLA - April offered 0.40 over,
 bid 0.10 over. May offered 0.45 over, bid 0.25 over. June

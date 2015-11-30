@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 13:53:06.02</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0010reute
-w f BC-DESOTO-DSO>-SELLS-IN   03-12 0075</field>
-	<field name = "TITLE">DESOTO DSO> SELLS INDUSTRIAL CHEMICAL ASSETS</field>
+	<field name = "titulo">DESOTO DSO> SELLS INDUSTRIAL CHEMICAL ASSETS</field>
 	<field name = "DATELINE">DES PLAINES, ILL., March 12 -</field>
-	<field name = "BODY">DeSoto Inc said it sold the
+	<field name = "content">DeSoto Inc said it sold the
 plant, inventory and certain other assets of some of its
 industrial chemical operations to Plastic Specialities and
 Technologies Inc, a privately-held company headquartered in

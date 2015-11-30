@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:35:37.83</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1124reute
-u f BC-AUTOSPA-LUBE>-TO-BUY   04-01 0041</field>
-	<field name = "TITLE">AUTOSPA LUBE> TO BUY CONTROL OF CARDIS CDS></field>
+	<field name = "titulo">AUTOSPA LUBE> TO BUY CONTROL OF CARDIS CDS></field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Autospa Corp said it has signed an
+	<field name = "content">Autospa Corp said it has signed an
 agreement to purchase 2,400,000 shares of eight pct convertible
 preferred stock of Cardis Corp -- representing voting control
 -- for 15 mln dlrs.

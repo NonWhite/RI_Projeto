@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">RM
-f0951reute
-r f BC-STOLTENBERG-REAFFIRMS   04-27 0109</field>
-	<field name = "TITLE">STOLTENBERG REAFFIRMS COMMITMENT TO LOUVRE ACCORD</field>
+	<field name = "titulo">STOLTENBERG REAFFIRMS COMMITMENT TO LOUVRE ACCORD</field>
 	<field name = "DATELINE">BONN, April 27 -</field>
-	<field name = "BODY">Finance Minister Gerhard Stoltenberg
+	<field name = "content">Finance Minister Gerhard Stoltenberg
 reaffirmed his commitment to the Louvre accord struck in Paris
 where leading industrialised countries agreed to stabilise the
 dollar around then current levels.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 09:46:11.84</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">C G T M
-f2044reute
-d f BC-UNION-LEADERS-TOUR-YU   03-16 0120</field>
-	<field name = "TITLE">UNION LEADERS TOUR YUGOSLAVIA TO QUELL STRIKE</field>
+	<field name = "titulo">UNION LEADERS TOUR YUGOSLAVIA TO QUELL STRIKE</field>
 	<field name = "DATELINE">BELGRADE, March 16 -</field>
-	<field name = "BODY">Yugoslav trade union leaders are
+	<field name = "content">Yugoslav trade union leaders are
 touring the country in an attempt to quell a wave of strikes
 following a partial wages freeze, official sources said.
     Eyewitnesses in the northern city of Zagreb reported far

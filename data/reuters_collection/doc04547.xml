@@ -4,13 +4,10 @@
 	<field name = "TOPICS">cpi</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">bolivia</field>
-	<field name = "UNKNOWN">A RM
-f0552reute
-r f BC-bolivia-to-offer-to-b   03-12 0103</field>
-	<field name = "TITLE">BOLIVIA TO OFFER TO BUY BACK BANK DEBT</field>
+	<field name = "titulo">BOLIVIA TO OFFER TO BUY BACK BANK DEBT</field>
 	<field name = "AUTHOR">By Paul Iredale, Reuters</field>
 	<field name = "DATELINE">LA PAZ, March 12 -</field>
-	<field name = "BODY">Bolivia is to make a formal offer during
+	<field name = "content">Bolivia is to make a formal offer during
 the next few months to buy back its 900 mln dlrs debt from
 commercial banks at a discount of up to 90 pct, central bank
 president Jier Nogales said.

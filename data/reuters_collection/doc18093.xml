@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 11:54:49.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1567reute
-d f BC-ZIM-ENERGY-ZIMR.O>-R   06-02 0115</field>
-	<field name = "TITLE">ZIM ENERGY ZIMR.O> REVISES LOSS UPWARD</field>
+	<field name = "titulo">ZIM ENERGY ZIMR.O> REVISES LOSS UPWARD</field>
 	<field name = "DATELINE">HOUSTON, June 2 -</field>
-	<field name = "BODY">ZIM Energy Corp said it has revised its
+	<field name = "content">ZIM Energy Corp said it has revised its
 loss for the year ended January 31 to 4.7 mln dlrs from the
 loss of 3.1 mln dlrs reported in March.
     A spokesman said the larger loss, which has been reported

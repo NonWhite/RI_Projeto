@@ -5,12 +5,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f2762reute
-u f BC-/E.C.-OFFICIAL-SAYS-F   03-19 0119</field>
-	<field name = "TITLE">E.C. OFFICIAL SAYS FATE OF VEG OIL TAX UNCERTAIN</field>
+	<field name = "titulo">E.C. OFFICIAL SAYS FATE OF VEG OIL TAX UNCERTAIN</field>
 	<field name = "DATELINE">LOS ANGELES, March 19 -</field>
-	<field name = "BODY">Whether the European Community's
+	<field name = "content">Whether the European Community's
 Council of Ministers will approve a proposed tax on vegetable
 oils that has sparked threats of U.S. retaliation is uncertain,
 an EC official said.

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 02:05:45.88</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">RM AI
-f0092reute
-u f BC-LATIN-DEBTORS-MAKE-NE   06-01 0094</field>
-	<field name = "TITLE">LATIN DEBTORS MAKE NEW PUSH FOR DEBT RELIEF</field>
+	<field name = "titulo">LATIN DEBTORS MAKE NEW PUSH FOR DEBT RELIEF</field>
 	<field name = "AUTHOR">By Keith Grant, Reuters</field>
 	<field name = "DATELINE">GUANAJUATO, Mexico, June 1 -</field>
-	<field name = "BODY">Rising interest rates and
+	<field name = "content">Rising interest rates and
 protectionist trade policies had prompted a new push by Latin
 American nations to win debt relief, regional foreign and
 finance ministry officials said here.

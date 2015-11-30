@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 13:08:39.34</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f0971reute
-b f BC-CANADIAN-MONEY-SUPPLY   03-06 0099</field>
-	<field name = "TITLE">CANADIAN MONEY SUPPLY RISES IN WEEK</field>
+	<field name = "titulo">CANADIAN MONEY SUPPLY RISES IN WEEK</field>
 	<field name = "DATELINE">OTTAWA, March 6 -</field>
-	<field name = "BODY">Canadian narrowly-defined money supply
+	<field name = "content">Canadian narrowly-defined money supply
 M-1 rose 217 mln dlrs to 32.80 billion dlrs in week ended
 February 25, Bank of Canada said.
     M-1-A, which is M-1 plus daily interest chequable and

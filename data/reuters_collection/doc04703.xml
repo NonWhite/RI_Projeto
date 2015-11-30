@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 07:16:22.97</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0475reute
-r f BC-CBS-ISSUES-400-MLN-DL   03-13 0112</field>
-	<field name = "TITLE">CBS ISSUES 400 MLN DLRS IN CONVERTIBLE DEBT</field>
+	<field name = "titulo">CBS ISSUES 400 MLN DLRS IN CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">LONDON, March 13 -</field>
-	<field name = "BODY">CBS Inc CBS.N> is issuing 400 mln dlrs
+	<field name = "content">CBS Inc CBS.N> is issuing 400 mln dlrs
 of convertible debt due April 7, 2002, with a coupon of five
 pct and priced at par, said Morgan Stanley Ltd as lead manager.
     The securities are convertible into shares of CBS at a

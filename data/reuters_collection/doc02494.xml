@@ -3,12 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0943reute
-r f BC-MEATPACKERS-REJECT-OC   03-05 0101</field>
-	<field name = "TITLE">MEATPACKERS REJECT OCCIDENTAL OXY> UNIT OFFER</field>
+	<field name = "titulo">MEATPACKERS REJECT OCCIDENTAL OXY> UNIT OFFER</field>
 	<field name = "DATELINE">CHICAGO, March 5 -</field>
-	<field name = "BODY">United Food and Commercial Workers Union
+	<field name = "content">United Food and Commercial Workers Union
 Local 222 rejected a new contract proposal from Iowa Beef
 Processors Inc and remain out of work, union spokesman Allen
 Zack said.

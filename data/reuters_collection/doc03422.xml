@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 18:35:19.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0050reute
-h f BC-SONO-TEK-OFFERING-CUT   03-09 0045</field>
-	<field name = "TITLE">SONO-TEK OFFERING CUT TO 350,000 SHARES</field>
+	<field name = "titulo">SONO-TEK OFFERING CUT TO 350,000 SHARES</field>
 	<field name = "DATELINE">NEW YORK, MArch 9 -</field>
-	<field name = "BODY">Sono-Tek Corp said it reduced to
+	<field name = "content">Sono-Tek Corp said it reduced to
 350,000 from 400,000 the number of shares it will sell in its
 initial public stock offering.
     The price of the offering remains unchanged at five dlrs

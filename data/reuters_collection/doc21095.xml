@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 14:22:43.28</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM 
-f2537reute
-u f BC-ITALY-SHOWS-SEPTEMBER   10-19 0102</field>
-	<field name = "TITLE">ITALY SHOWS SEPTEMBER OVERALL PAYMENTS SURPLUS</field>
+	<field name = "titulo">ITALY SHOWS SEPTEMBER OVERALL PAYMENTS SURPLUS</field>
 	<field name = "DATELINE">ROME, Oct 19 -</field>
-	<field name = "BODY">Italy's overall balance of payments showed a
+	<field name = "content">Italy's overall balance of payments showed a
 919 billion lire surplus in September against a deficit of
 1,026 billion in August, provisional Bank of Italy figures
 showed.

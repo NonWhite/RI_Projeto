@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:50:18.04</field>
-	<field name = "UNKNOWN">F
-f0584
-reute
-r f BC-NACCO-INDUSTRIES-NC>   03-02 0114</field>
-	<field name = "TITLE">NACCO INDUSTRIES NC> UNIT TO BE SOLD</field>
+	<field name = "titulo">NACCO INDUSTRIES NC> UNIT TO BE SOLD</field>
 	<field name = "DATELINE">CLEVELAND, March 2 -</field>
-	<field name = "BODY">Nacco Industries Inc said a group of
+	<field name = "content">Nacco Industries Inc said a group of
 utilities, called the Capco group, has taken actions to
 exercise its option to acquire the Quarto Mining Co unit of
 Nacco's North American Coal Co.

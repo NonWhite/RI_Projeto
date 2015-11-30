@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 07:17:43.15</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0498reute
-r f BC-FOREIGN-BROKERS-GET-M   03-25 0096</field>
-	<field name = "TITLE">FOREIGN BROKERS GET MORE ACCESS TO JAPANESE BONDS</field>
+	<field name = "titulo">FOREIGN BROKERS GET MORE ACCESS TO JAPANESE BONDS</field>
 	<field name = "DATELINE">TOKYO, March 25 -</field>
-	<field name = "BODY">The Finance Ministry has accepted a
+	<field name = "content">The Finance Ministry has accepted a
 decision by the securities industry to expand the share of
 foreign brokers in the 10-year bond underwriting syndicate to
 5.73 pct from 1.19 pct now, a ministry spokesman said.

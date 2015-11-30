@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 13:22:48.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2251reute
-r f BC-GUILFORD-MILLS-GFD>   10-19 0044</field>
-	<field name = "TITLE">GUILFORD MILLS GFD> TO REPURCHASE SHARES</field>
+	<field name = "titulo">GUILFORD MILLS GFD> TO REPURCHASE SHARES</field>
 	<field name = "DATELINE">GREENSBORO, N.C., Oct 19 -</field>
-	<field name = "BODY">Guilford Mills Inc said its
+	<field name = "content">Guilford Mills Inc said its
 board has authorized the repurchase of up to one mln of its
 common shares from time to time in the open market.
     The company has about 10.5 mln shares outstanding.

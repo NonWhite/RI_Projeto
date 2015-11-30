@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:33:46.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2729reute
-r f BC-BANCTEXAS-BTX>-ELECT   10-20 0096</field>
-	<field name = "TITLE">BANCTEXAS BTX> ELECTS NEW CHAIRMAN</field>
+	<field name = "titulo">BANCTEXAS BTX> ELECTS NEW CHAIRMAN</field>
 	<field name = "DATELINE">DALLAS, Oct 20 -</field>
-	<field name = "BODY">BancTEXAS Group Inc said its board
+	<field name = "content">BancTEXAS Group Inc said its board
 elected Nathan C. Collins chairman of the board, president and
 chief executive officer to replace director and acting chairman
 Tom Stanzel

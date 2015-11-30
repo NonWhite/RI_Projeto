@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 14:18:47.42</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0687
-reute
-u f BC-RENOUF-CORP>-TO-PROC   03-02 0073</field>
-	<field name = "TITLE">RENOUF CORP> TO PROCEED WITH BENEQUITY BH> BID</field>
+	<field name = "titulo">RENOUF CORP> TO PROCEED WITH BENEQUITY BH> BID</field>
 	<field name = "DATELINE">LOS ANGELES, March 2 -</field>
-	<field name = "BODY">Renouf Corp of New Zealand said it
+	<field name = "content">Renouf Corp of New Zealand said it
 has decided to proceed with its offer for all outstanding units
 of Benequity Holdings at 31 dlrs per unit.
     The company had been required to redice by March Two

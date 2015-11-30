@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 18:54:54.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM 
-f2808reute
-r f BC-/SURVEY-SEES-U.S.-MAN   06-29 0105</field>
-	<field name = "TITLE">SURVEY SEES U.S. MANUFACTURERS SHIFTING OUTPUT</field>
+	<field name = "titulo">SURVEY SEES U.S. MANUFACTURERS SHIFTING OUTPUT</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">More leading U.S. manufacturers plan to
+	<field name = "content">More leading U.S. manufacturers plan to
 increase the proportion of their U.S.-based production
 vis-a-vis their overseas output over the next two years,
 according to a Boston University School of Management survey.

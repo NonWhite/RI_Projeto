@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">sweden</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">F
-f2172reute
-r f BC-ERICSSON-ERICY.O>-TO   04-13 0098</field>
-	<field name = "TITLE">ERICSSON ERICY.O> TO BUY REST OF SPANISH UNIT</field>
+	<field name = "titulo">ERICSSON ERICY.O> TO BUY REST OF SPANISH UNIT</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">L.M. Ericsson of Sweden said it agreed
+	<field name = "content">L.M. Ericsson of Sweden said it agreed
 in principle to buy the 49 pct of Intelsa, its Spanish unit,
 that it does not already own from Telefonica>, Spain's
 telecommunications administration.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 19:15:03.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3905reute
-r f BC-LOS-ANGELES-SECURITIE   03-16 0087</field>
-	<field name = "TITLE">LOS ANGELES SECURITIES LSGA> SETS MANAGMENT</field>
+	<field name = "titulo">LOS ANGELES SECURITIES LSGA> SETS MANAGMENT</field>
 	<field name = "DATELINE">LOS ANGELES, March 16 -</field>
-	<field name = "BODY">Los Angeles Securities Group said
+	<field name = "content">Los Angeles Securities Group said
 it has concluded negotiations with Ronald Vannuki under which
 he will become its chief executive officer and buy about
 710,000 shares of its common stock.

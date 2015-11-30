@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 10:53:00.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0493reute
-r f BC-AFG-INDUSTRIES-AFG>   03-04 0104</field>
-	<field name = "TITLE">AFG INDUSTRIES AFG> DEBT AFFIRMED BY S/P</field>
+	<field name = "titulo">AFG INDUSTRIES AFG> DEBT AFFIRMED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 affirmed the BB-plus rating on AFG Industries Inc's 185 mln
 dlrs of subordinated debt.
     S and P said it believed AFG would make acquisitions of

@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 15:28:45.15</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0297reute
-u f BC-ALLEGHNEY-INTERNATION   03-12 0071</field>
-	<field name = "TITLE">ALLEGHNEY INTERNATIONAL AG> FACES ADDED COUNT</field>
+	<field name = "titulo">ALLEGHNEY INTERNATIONAL AG> FACES ADDED COUNT</field>
 	<field name = "DATELINE">PITTSBURGH, March 12 -</field>
-	<field name = "BODY">Alleghney International Inc said the
+	<field name = "content">Alleghney International Inc said the
 plaintiffs in the existing lawsuits opposing its sale requested
 an amendment to their complaint to include a class action
 count.

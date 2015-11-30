@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:07:52.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1611reute
-u f BC-FIRESTONE-FIR>-IN-AG   04-13 0104</field>
-	<field name = "TITLE">FIRESTONE FIR> IN AGREEMENT WITH CHAIRMAN</field>
+	<field name = "titulo">FIRESTONE FIR> IN AGREEMENT WITH CHAIRMAN</field>
 	<field name = "DATELINE">AKRON, Ohio, April 13 -</field>
-	<field name = "BODY">Firestone Tire and Rubber Co said
+	<field name = "content">Firestone Tire and Rubber Co said
 Chairman John Nevin entered into a new employment agreement
 allowing him to continue as an executive or consultant with the
 company until he becomes 65 years old in February 1992.

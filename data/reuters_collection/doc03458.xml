@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 03:31:15.20</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0251reute
-u f BC-KAUFHOF-CONSIDERING-T   03-11 0091</field>
-	<field name = "TITLE">KAUFHOF CONSIDERING TAKING STAKE IN HAPAG-LLOYD</field>
+	<field name = "titulo">KAUFHOF CONSIDERING TAKING STAKE IN HAPAG-LLOYD</field>
 	<field name = "DATELINE">COLOGNE, March 11 -</field>
-	<field name = "BODY">West German retail group Kaufhof AG
+	<field name = "content">West German retail group Kaufhof AG
 KFHG.F> is considering taking a stake in shipping and
 transport group Hapag-Lloyd AG HPLG.F> but has yet to reach a
 final decision, a spokesman said in response to queries.

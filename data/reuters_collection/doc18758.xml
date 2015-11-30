@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 11:46:29.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3614reute
-r f BC-RJR-NABISCO-RJR>-PER   06-18 0093</field>
-	<field name = "TITLE">RJR NABISCO RJR> PERSONNEL CHANGES AT UNITS</field>
+	<field name = "titulo">RJR NABISCO RJR> PERSONNEL CHANGES AT UNITS</field>
 	<field name = "DATELINE">WINSTON-SALEM, N.C., June 18 -</field>
-	<field name = "BODY">RJR Nabisco Inc said it
+	<field name = "content">RJR Nabisco Inc said it
 carried out several personnel and organizational changes in its
 foods and tobacco businesses.
     H. John Greeniaus, executive vice president of Nabisco

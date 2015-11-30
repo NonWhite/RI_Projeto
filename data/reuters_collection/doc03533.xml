@@ -3,13 +3,10 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">A
-f0734reute
-r f BC-U.S.-URGES-BANKS-TO-C   03-11 0098</field>
-	<field name = "TITLE">U.S. URGES BANKS TO WEIGH PHILIPPINE DEBT PLAN</field>
+	<field name = "titulo">U.S. URGES BANKS TO WEIGH PHILIPPINE DEBT PLAN</field>
 	<field name = "AUTHOR">By PETER TORDAY, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">The U.S. is urging reluctant
+	<field name = "content">The U.S. is urging reluctant
 commercial banks to seriously consider accepting a novel
 Philippine proposal for paying its interest bill and believes
 the innovation is fully consistent with its Third World debt

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:03:06.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1026reute
-d f BC-TEXACO-QTX>-SUPPOPTS   06-01 0094</field>
-	<field name = "TITLE">TEXACO QTX> SUPPOPTS BOND AND LIEN RULES STUDY</field>
+	<field name = "titulo">TEXACO QTX> SUPPOPTS BOND AND LIEN RULES STUDY</field>
 	<field name = "DATELINE">AUSTIN, Texas, June 1 -</field>
-	<field name = "BODY">Texaco Inc QTX> said it will
+	<field name = "content">Texaco Inc QTX> said it will
 support the efforts of a Texas legislature joint committee,
 which will study and propose remedies for problems with the
 procedural bond and lien rules of the Texas judiciary.

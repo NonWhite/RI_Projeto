@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 18:36:11.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2837reute
-r f BC-GM'SGM>-HUGHES-AIRCR   04-09 0091</field>
-	<field name = "TITLE">GM'SGM> HUGHES AIRCRAFT HAS BOEINGBA> CONTRACT</field>
+	<field name = "titulo">GM'SGM> HUGHES AIRCRAFT HAS BOEINGBA> CONTRACT</field>
 	<field name = "DATELINE">IRVINE, Calif, April 9 -</field>
-	<field name = "BODY">General Motors' Hughes Aircraft Co
+	<field name = "content">General Motors' Hughes Aircraft Co
 said it was awarded a contract worth more than 20 mln dlrs by
 Boeing's Boeing Commercial Airplane Co to provide an advanced
 cabin entertainment and service system for Boeing's new 747-400

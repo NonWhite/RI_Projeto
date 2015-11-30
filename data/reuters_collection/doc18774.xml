@@ -4,12 +4,9 @@
 	<field name = "EXCHANGES">nyse</field>
 	<field name = "EXCHANGES">amex</field>
 	<field name = "EXCHANGES">cboe</field>
-	<field name = "UNKNOWN">F 
-f3677reute
-b f BC-OPTIONS   06-18 0069</field>
-	<field name = "TITLE">SEC ACTS ON EXCHANGE-LISTED OPTIONS TRADING</field>
+	<field name = "titulo">SEC ACTS ON EXCHANGE-LISTED OPTIONS TRADING</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">The Securities and Exchange
+	<field name = "content">The Securities and Exchange
 Commission began proceedings in which it will consider allowing
 options trading on exchange-listed securities on more than one
 options market.

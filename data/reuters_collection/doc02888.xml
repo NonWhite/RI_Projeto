@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 16:42:51.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0599reute
-u f BC-BENEFICIAL-CORP-BNL>   03-06 0104</field>
-	<field name = "TITLE">BENEFICIAL CORP BNL> DEBT RATINGS CUT BY S/P</field>
+	<field name = "titulo">BENEFICIAL CORP BNL> DEBT RATINGS CUT BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 lowered the ratings on about 3.7 billion dlrs of Beneficial
 Corp's long-term debt.
     S/P said that its action follows the firm's sizeable 186.6

@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 10:09:36.10</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM
-f1020reute
-u f BC-BRAZIL-SEAMEN-SAY-STR   03-25 0092</field>
-	<field name = "TITLE">BRAZIL SEAMEN SAY STRIKE NEAR END</field>
+	<field name = "titulo">BRAZIL SEAMEN SAY STRIKE NEAR END</field>
 	<field name = "DATELINE">SAO PAULO, March 25 -</field>
-	<field name = "BODY">About half of Brazil's 40,000 seamen
+	<field name = "content">About half of Brazil's 40,000 seamen
 have returned to work after accords with 22 companies, and the
 national strike which began on February 27 looks close to
 ending, a union spokesman said.

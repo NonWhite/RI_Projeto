@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 16:08:27.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2455reute
-r f BC-DETROIT-EDISON-DTE>   04-08 0112</field>
-	<field name = "TITLE">DETROIT EDISON DTE> SELLS BONDS IN TWO TRANCHES</field>
+	<field name = "titulo">DETROIT EDISON DTE> SELLS BONDS IN TWO TRANCHES</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Detroit Edison Co is raising 400 mln
+	<field name = "content">Detroit Edison Co is raising 400 mln
 dlrs through a two-tranche offering of general and refunding
 mortgage bonds, said sole manager Morgan Stanley and Co Inc.
     A 175 mln dlr issue of bonds due 1997 was given an 8-3/4

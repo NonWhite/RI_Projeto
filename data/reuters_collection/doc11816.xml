@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 05:24:03.36</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0345reute
-u f BC-H.K.-BANKS-TO-RAISE-P   04-01 0098</field>
-	<field name = "TITLE">H.K. BANKS TO RAISE PRIME RATES SOON, DEALERS SAY</field>
+	<field name = "titulo">H.K. BANKS TO RAISE PRIME RATES SOON, DEALERS SAY</field>
 	<field name = "DATELINE">HONG KONG, April 1 -</field>
-	<field name = "BODY">Banks in Hong Kong are likely to raise
+	<field name = "content">Banks in Hong Kong are likely to raise
 prime rates by half a percentage point to 6-1/2 pct following a
 one-quarter point prime rate increase by two major U.S. Banks
 yesterday, dealers said.

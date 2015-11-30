@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 13:55:45.96</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">lyng</field>
-	<field name = "UNKNOWN">F A RM 
-f2544reute
-r f BC-LYNG-OPTIMISTIC-U.S.   10-20 0093</field>
-	<field name = "TITLE">LYNG OPTIMISTIC U.S. FUTURES MARKETS HEALTHY</field>
+	<field name = "titulo">LYNG OPTIMISTIC U.S. FUTURES MARKETS HEALTHY</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">U.S. commodity markets should not
+	<field name = "content">U.S. commodity markets should not
 suffer any long-term ill effects from Monday's financial
 turmoil, Agriculture Secretary Richard Lyng said.
     "I think traditionally that commodity markets have moved

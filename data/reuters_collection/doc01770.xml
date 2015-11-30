@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 15:46:21.39</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0655reute
-u f BC-USAIR-U>-HAS-NO-COMM   03-04 0108</field>
-	<field name = "TITLE">USAIR U> HAS NO COMMENT ON TWA TWA> OFFER</field>
+	<field name = "titulo">USAIR U> HAS NO COMMENT ON TWA TWA> OFFER</field>
 	<field name = "DATELINE">New York, March 4 -</field>
-	<field name = "BODY">USAir Group Inc said it had no comment
+	<field name = "content">USAir Group Inc said it had no comment
 on an offer it received from Trans World Airlines to buy USAir
 for 52 dlrs cash per share.
     USAir spokesman David Shipley also declined comment on

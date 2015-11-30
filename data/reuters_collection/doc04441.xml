@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 14:57:54.11</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0177reute
-u f BC-AMERICAN-CYANAMID-TO   03-12 0103</field>
-	<field name = "TITLE">AMERICAN CYANAMID TO SET UP PLANT IN DUNKIRK</field>
+	<field name = "titulo">AMERICAN CYANAMID TO SET UP PLANT IN DUNKIRK</field>
 	<field name = "DATELINE">PARIS, March 12 -</field>
-	<field name = "BODY">American Cyanamid Corp> is to set up a
+	<field name = "content">American Cyanamid Corp> is to set up a
 herbicide production plant in the recently-created Dunkirk
 enterprise zone, an official for the Dunkirk port authority
 said.

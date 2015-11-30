@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 15:43:13.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2425reute
-u f BC-MORTON-THIOKOL-MTI>   04-13 0106</field>
-	<field name = "TITLE">MORTON THIOKOL MTI> WANTS PAPERS MADE PUBLIC</field>
+	<field name = "titulo">MORTON THIOKOL MTI> WANTS PAPERS MADE PUBLIC</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">Lawyers for Morton Thiokol Inc asked
+	<field name = "content">Lawyers for Morton Thiokol Inc asked
 a federal judge to unseal all papers filed in court here in
 connection with a lawsuit against it by a former employee.
     U.S. District Judge Harold Greene held a hearing this

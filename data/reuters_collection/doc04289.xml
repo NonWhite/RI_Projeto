@@ -2,13 +2,10 @@
 	<field name = "DATE">12-MAR-1987 11:36:21.85</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0465reute
-u f BC-/U.S.-RETAIL-SALES-RI   03-12 0097</field>
-	<field name = "TITLE">U.S. RETAIL SALES RISE MASKS WEAK TREND - ANALYSTS</field>
+	<field name = "titulo">U.S. RETAIL SALES RISE MASKS WEAK TREND - ANALYSTS</field>
 	<field name = "AUTHOR">By Kathleen Hays, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">U.S. retail sales rose sharply in
+	<field name = "content">U.S. retail sales rose sharply in
 February but many economists said the underlying consumer
 spending trend remains weak.
     February retail sales jumped 4.1 pct, more than the 2.5-3.0

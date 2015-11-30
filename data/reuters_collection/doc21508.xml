@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 07:24:56.01</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">F 
-f0572reute
-d f BC-FLETCHER-CHALLENGE-SE   10-19 0087</field>
-	<field name = "TITLE">FLETCHER CHALLENGE SETS PRICE FOR BONUS SHARES</field>
+	<field name = "titulo">FLETCHER CHALLENGE SETS PRICE FOR BONUS SHARES</field>
 	<field name = "DATELINE">WELLINGTON, Oct 19 -</field>
-	<field name = "BODY">Fletcher Challenge Ltd FLTC.WE> (FCL)
+	<field name = "content">Fletcher Challenge Ltd FLTC.WE> (FCL)
 announced a striking price of 5.89 N.Z. Dlrs a share for
 shareholders who have elected to receive bonus shares under its
 dividend reinvestment plan.

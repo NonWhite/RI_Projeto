@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 18:10:33.15</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f0080reute
-r f BC-ENFIELD-CORP-PLANS-NO   03-05 0111</field>
-	<field name = "TITLE">ENFIELD CORP PLANS NOTES, PREFERRED ISSUE</field>
+	<field name = "titulo">ENFIELD CORP PLANS NOTES, PREFERRED ISSUE</field>
 	<field name = "DATELINE">TORONTO, March 5 -</field>
-	<field name = "BODY">Enfield Corp Ltd> said it planned to
+	<field name = "content">Enfield Corp Ltd> said it planned to
 issue 60 mln dlrs principal amount of notes and 1.6 mln class E
 preferred shares at 25 dlrs a share.
     The notes would bear 8 pct yearly interest, mature March

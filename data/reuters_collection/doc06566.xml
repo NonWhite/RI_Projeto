@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 11:40:04.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8367reute
-d f BC-IRVING-BANK-V>-UNIT   03-18 0097</field>
-	<field name = "TITLE">IRVING BANK V> UNIT TO OPEN IN CALIFORNIA</field>
+	<field name = "titulo">IRVING BANK V> UNIT TO OPEN IN CALIFORNIA</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 18 -</field>
-	<field name = "BODY">Irving Bank Corp said a new
+	<field name = "content">Irving Bank Corp said a new
 subsidiary, called Irving Trust Co California, will begin
 operations tomorrow.
     The unit, which will be headquartered here and have a

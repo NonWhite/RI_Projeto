@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 09:34:23.40</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1031reute
-d f BC-HUNTINGDON-HRCLY.O>   04-27 0062</field>
-	<field name = "TITLE">HUNTINGDON HRCLY.O> IN ACQUISITION TALKS</field>
+	<field name = "titulo">HUNTINGDON HRCLY.O> IN ACQUISITION TALKS</field>
 	<field name = "DATELINE">NEW YORK, April 27 -</field>
-	<field name = "BODY">Huntingdon International Holdings plc
+	<field name = "content">Huntingdon International Holdings plc
 said it has entered into discussions with a view to acquiring
 Northern Engineering and Testing Inc, a company based mainly in
 the northwestern United States.

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 12:56:00.87</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f1726reute
-r f BC-INTELLICARD-ICRDC>-G   03-19 0078</field>
-	<field name = "TITLE">INTELLICARD ICRDC> GETS NASDAQ EXCEPTION</field>
+	<field name = "titulo">INTELLICARD ICRDC> GETS NASDAQ EXCEPTION</field>
 	<field name = "DATELINE">COLORADO SPRINGS, Colo., March 19 -</field>
-	<field name = "BODY">IntelliCARD
+	<field name = "content">IntelliCARD
 International Inc said its common stock will continue to be
 quoted on NASDAQ due to an exception from capital asset
 requirements of the National Association of Securities Dealers,

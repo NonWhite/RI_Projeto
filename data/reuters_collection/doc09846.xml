@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C G T M
-f0930reute
-d f PM-BRITAIN-JAPAN   03-26 0122</field>
-	<field name = "TITLE">BRITISH POLITICIANS URGE JAPAN TRADE SANCTIONS</field>
+	<field name = "titulo">BRITISH POLITICIANS URGE JAPAN TRADE SANCTIONS</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">One hundred members of Britain's ruling
+	<field name = "content">One hundred members of Britain's ruling
 Conservative Party have signed a motion calling for trade
 sanctions against Japan to force Tokyo to open its domestic
 market to British goods.

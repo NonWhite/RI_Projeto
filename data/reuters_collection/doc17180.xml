@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 17:10:11.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2587reute
-u f BC-ANALYST-UPGRADES-OPIN   04-24 0107</field>
-	<field name = "TITLE">ANALYST UPGRADES OPINION ON U.S. BANK STOCKS</field>
+	<field name = "titulo">ANALYST UPGRADES OPINION ON U.S. BANK STOCKS</field>
 	<field name = "DATELINE">NEW YORK, April 24 -</field>
-	<field name = "BODY">Analyst George Salem of Donaldson,
+	<field name = "content">Analyst George Salem of Donaldson,
 Lufkin and Jenrette Securities Corp upgraded his recommendation
 on most U.S. money center banks following comments from a
 Japanese official that Japan plans to provide developing

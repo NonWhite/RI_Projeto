@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:42:32.99</field>
-	<field name = "UNKNOWN">GQ
-f1641reute
-u f BC-cash-sorghum   04-07 0067</field>
-	<field name = "TITLE">CASH GRAIN SORGHUM PRICES</field>
+	<field name = "titulo">CASH GRAIN SORGHUM PRICES</field>
 	<field name = "DATELINE">Kansas City, April 7 -</field>
-	<field name = "BODY">The following cash sorghum prices
+	<field name = "content">The following cash sorghum prices
 were reported by trade sources this morning in dlrs per cwt-
     LOCATION         TODAY      PREVIOUS
  Delivered

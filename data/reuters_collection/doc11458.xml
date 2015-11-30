@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 12:22:34.79</field>
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C T
-f1765reute
-u f BC-TRADERS-CUT-ESTIMATE   03-31 0113</field>
-	<field name = "TITLE">TRADERS CUT BAHIA TEMPORAO COCOA CROP ESTIMATE</field>
+	<field name = "titulo">TRADERS CUT BAHIA TEMPORAO COCOA CROP ESTIMATE</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 31 -</field>
-	<field name = "BODY">Trade estimates of the coming
+	<field name = "content">Trade estimates of the coming
 May/September temporao harvest in Brazil's main cocoa growing
 state of Bahia are now in the 1.5 mln to 2.0 mln 60-kilo bag
 range against 2.0 mln to 2.5 mln two weeks ago.

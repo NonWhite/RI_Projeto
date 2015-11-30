@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 17:02:10.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0868reute
-h f BC-CENTRAL-BANCSHARES-C   03-04 0108</field>
-	<field name = "TITLE">CENTRAL BANCSHARES CBSS> UNIT UNVEILS SYSTEM</field>
+	<field name = "titulo">CENTRAL BANCSHARES CBSS> UNIT UNVEILS SYSTEM</field>
 	<field name = "DATELINE">BIRMINGHAM, March 4 -</field>
-	<field name = "BODY">Central Bancshares of the South's
+	<field name = "content">Central Bancshares of the South's
 Central Bank of the South said it unveiled a realtime trading
 floor providing the staff with instant access to U.S. financial
 markets.

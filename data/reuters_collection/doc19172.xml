@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 10:30:11.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1003reute
-u f BC-HEALTHCARE-SERVICES-   06-19 0090</field>
-	<field name = "TITLE">HEALTHCARE SERVICES HSAI.O> NAMES EXECUTIVES</field>
+	<field name = "titulo">HEALTHCARE SERVICES HSAI.O> NAMES EXECUTIVES</field>
 	<field name = "DATELINE">BIRMINGHAM, Ala., June 19 -</field>
-	<field name = "BODY">Healthcare Services of America
+	<field name = "content">Healthcare Services of America
 Inc said its chairman and chief executive officer, Charles
 Speir, resigned and its president and chief operating officer,
 Thomas Rodgaers Jr, was relieved of his duties.

@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:10:00.80RM</field>
-	<field name = "UNKNOWN">f1532reute</field>
 	<field name = "PLACES">cyprus</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">u f BC-CYPRUS-ACCUSES-TURKEY   03-27 0102</field>
-	<field name = "TITLE">CYPRUS ACCUSES TURKEY OF AIRSPACE VIOLATIONS</field>
+	<field name = "titulo">CYPRUS ACCUSES TURKEY OF AIRSPACE VIOLATIONS</field>
 	<field name = "DATELINE">NICOSIA, March 27 -</field>
-	<field name = "BODY">Cyprus has protested to the United
+	<field name = "content">Cyprus has protested to the United
 Nations over alleged airspace violations by the Turkish air
 force, an official statement said.
     "On behalf of my government I wish to protest strongly the

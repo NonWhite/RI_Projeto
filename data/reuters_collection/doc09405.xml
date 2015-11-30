@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1568reute
-r f BC-U.S.-SENATE-PANEL-APP   03-25 0144</field>
-	<field name = "TITLE">U.S. SENATE PANEL APPROVES TRADE MISSION BILL</field>
+	<field name = "titulo">U.S. SENATE PANEL APPROVES TRADE MISSION BILL</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The U.S. Senate Agriculture
+	<field name = "content">The U.S. Senate Agriculture
 Committee approved a bill that would establish farm trade and
 aid missions to promote the use of U.S. food aid, donation,
 credit and export subsidy programs by overseas customers.

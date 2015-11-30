@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:38:22.92E F</field>
-	<field name = "UNKNOWN">f0731reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">r f BC-macbloedel   03-27 0057</field>
-	<field name = "TITLE">MACMILLAN BLOEDEL MMB> STOCK SPLIT APPROVED</field>
+	<field name = "titulo">MACMILLAN BLOEDEL MMB> STOCK SPLIT APPROVED</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, March 27 -</field>
-	<field name = "BODY">MacMillan Bloedel
+	<field name = "content">MacMillan Bloedel
 Ltd said shareholders authorized a previously announced
 three-for-one stock split, applicable to holders of record
 April nine.

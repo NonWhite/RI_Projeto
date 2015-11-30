@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:02:41.20F</field>
-	<field name = "UNKNOWN">f1480reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">d f BC-FIRST-SARASOTA-HOLDER   03-27 0102</field>
-	<field name = "TITLE">FIRST SARASOTA HOLDERS APPROVE ACQUISITIONS</field>
+	<field name = "titulo">FIRST SARASOTA HOLDERS APPROVE ACQUISITIONS</field>
 	<field name = "DATELINE">JACKSONVILLE, Fla, March 27 -</field>
-	<field name = "BODY">First Sarasota Bancorp said
+	<field name = "content">First Sarasota Bancorp said
 its shareholders approved the acquisition of its City
 Commercial Bank subsidiary by First Union Corp's FUNC> First
 Union National Bank of Florida.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 17:00:58.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2595reute
-d f BC-PHOENIX-FINANCIAL-PH   04-08 0089</field>
-	<field name = "TITLE">PHOENIX FINANCIAL PHFC> BOARD RESIGNS</field>
+	<field name = "titulo">PHOENIX FINANCIAL PHFC> BOARD RESIGNS</field>
 	<field name = "DATELINE">MEDFORD, N.J., April 8 -</field>
-	<field name = "BODY">Phoenix Financial Corp said that,
+	<field name = "content">Phoenix Financial Corp said that,
 in connection with its previously announced reorganization, 
 its board of directors resigned.
     Resigning as directors, officers and employees of the

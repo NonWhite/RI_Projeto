@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 20:19:03.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2700reute
-b f BC-TEXACO-TX>-GETS-TEMP   04-07 0085</field>
-	<field name = "TITLE">TEXACO TX> GETS TEMPORARY RESTRAINING ORDER</field>
+	<field name = "titulo">TEXACO TX> GETS TEMPORARY RESTRAINING ORDER</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Texaco Inc said it obtained a temporary
+	<field name = "content">Texaco Inc said it obtained a temporary
 restraining order from the Texas court of appeals against
 Pennzoil Co PZL> taking action to enforce a multi-billion dlr
 judgment against Texaco.

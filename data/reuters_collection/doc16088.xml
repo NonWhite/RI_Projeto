@@ -2,12 +2,9 @@
 	<field name = "DATE">11-APR-1987 02:00:34.27</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0022reute
-r f BC-JUDGE-KEEPS-JAL-JAPN   04-11 0107</field>
-	<field name = "TITLE">JUDGE KEEPS JAL JAPN.T> CRASH SUIT ALIVE IN U.S.</field>
+	<field name = "titulo">JUDGE KEEPS JAL JAPN.T> CRASH SUIT ALIVE IN U.S.</field>
 	<field name = "DATELINE">SEATTLE, Wash., April 10 -</field>
-	<field name = "BODY">A judge ruled that questions of
+	<field name = "content">A judge ruled that questions of
 liability in the 1985 crash of a Japan Air Lines Boeing 747
 which killed 520 people near Tokyo will be decided in Seattle.
     But he left open the possibility that monetary damages

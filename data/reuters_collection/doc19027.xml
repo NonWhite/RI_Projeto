@@ -4,13 +4,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM AI 
-f5141reute
-u f BC-FED-DATA-SUGGEST-NO-C   06-18 0086</field>
-	<field name = "TITLE">FED DATA SUGGEST NO CHANGE IN MONETARY POLICY</field>
+	<field name = "titulo">FED DATA SUGGEST NO CHANGE IN MONETARY POLICY</field>
 	<field name = "AUTHOR">By Kathleen Hays, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">New U.S. Banking data suggest the
+	<field name = "content">New U.S. Banking data suggest the
 Federal Reserve is guiding monetary policy along a steady path
 and is not signalling any imminent change of course, economists
 said.

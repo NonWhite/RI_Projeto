@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 13:21:34.86</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">F
-f0186reute
-u f BC-ITALY'S-SME-IN-VENTUR   03-05 0101</field>
-	<field name = "TITLE">ITALY'S SME IN VENTURE TALKS WITH FOREIGN FIRMS</field>
+	<field name = "titulo">ITALY'S SME IN VENTURE TALKS WITH FOREIGN FIRMS</field>
 	<field name = "DATELINE">ROME, March 5 -</field>
-	<field name = "BODY">State-owned food company Societa
+	<field name = "content">State-owned food company Societa
 Meridionale Finanziaria Spa - SME> is discussing possible share
 exchanges and joint ventures with Unilever PLC-NV UN.A> and
 Swiss firm Jacobs Suchard AG JACZ.Z>, a SME parent company

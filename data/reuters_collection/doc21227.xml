@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 12:44:59.48</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2036reute
-r f BC-CAESARS-WORLD   10-19 0109</field>
-	<field name = "TITLE">SOSNOFF REDUCES CAESARS WORLD CAW> STAKE</field>
+	<field name = "titulo">SOSNOFF REDUCES CAESARS WORLD CAW> STAKE</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">New York investor Martin Sosnoff said
+	<field name = "content">New York investor Martin Sosnoff said
 he reduced his stake in Caesars World Inc common stock to
 3,878,700 shares, or 16 pct of the company's common stock
 outstanding, from about 17.4 pct.

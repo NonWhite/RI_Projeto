@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 14:30:28.10</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f6184reute
-u f BC-NEW-ITALIAN-TREASURY   03-17 0113</field>
-	<field name = "TITLE">NEW ITALIAN TREASURY OFFER UNDERSUBSCRIBED</field>
+	<field name = "titulo">NEW ITALIAN TREASURY OFFER UNDERSUBSCRIBED</field>
 	<field name = "DATELINE">ROME, March 17 -</field>
-	<field name = "BODY">Market operators subscribed to less than
+	<field name = "content">Market operators subscribed to less than
 half of the 3,000 billion lire offer of a new type of indexed
 government paper, figures from the Bank of Italy show.
     Operators subscribed to 1,427 billion lire of the 3,000

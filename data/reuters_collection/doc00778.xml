@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 16:28:21.53</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F
-f0062
-reute
-d f BC-STAR-TECHNOLOGIES-TO   03-02 0079</field>
-	<field name = "TITLE">STAR TECHNOLOGIES TO TRADE ON NASDAQ</field>
+	<field name = "titulo">STAR TECHNOLOGIES TO TRADE ON NASDAQ</field>
 	<field name = "DATELINE">STERLING, Va., March 2 -</field>
-	<field name = "BODY">Star Technologies Inc said its
+	<field name = "content">Star Technologies Inc said its
 shares will begin trading on the Nasdaq national market system
 tomorrow.
     The company, a manufacturer of very high-speed computers

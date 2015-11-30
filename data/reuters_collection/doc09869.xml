@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 09:47:46.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1030reute
-r f BC-COMMODORE-CBU>-IN-PA   03-26 0113</field>
-	<field name = "TITLE">COMMODORE CBU> IN PACT FOR COMPUTER GRAPHICS</field>
+	<field name = "titulo">COMMODORE CBU> IN PACT FOR COMPUTER GRAPHICS</field>
 	<field name = "DATELINE">WEST CHESTER, Pa., March 26 -</field>
-	<field name = "BODY">Commodore International Corp
+	<field name = "content">Commodore International Corp
 said it entered into two agreements to provide Amiga computer
 graphics technology to the coin-operated amusement industry.
     The agreements are with London-based Mastertronic Ltd> and

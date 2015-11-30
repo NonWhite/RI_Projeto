@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 12:30:21.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1678reute
-r f BC-NORTH-AMERICAN-NAHL.   06-01 0091</field>
-	<field name = "TITLE">NORTH AMERICAN NAHL.O> COMPLETES PLACEMENT</field>
+	<field name = "titulo">NORTH AMERICAN NAHL.O> COMPLETES PLACEMENT</field>
 	<field name = "DATELINE">EAST HARTFORD, Conn., June 1 -</field>
-	<field name = "BODY">North American Holding Corp
+	<field name = "content">North American Holding Corp
 said it completed a three mln dlr private placement of
 restricted Class A non-voting common stock to two private
 investors.

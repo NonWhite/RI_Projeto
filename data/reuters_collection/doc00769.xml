@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:25:16.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f0047
-reute
-d f BC-ANNUAL-MAILING-TO-DEL   03-02 0106</field>
-	<field name = "TITLE">ANNUAL MAILING TO DELINQUENT FARMERS -- USDA</field>
+	<field name = "titulo">ANNUAL MAILING TO DELINQUENT FARMERS -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">The Farmers Home Admininstration
+	<field name = "content">The Farmers Home Admininstration
 (FmHA) is undertaking its annual mailing of notices to
 delinquent farm borrowers, the U.S. Agriculture Department
 said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 17:16:21.87</field>
 	<field name = "TOPICS">tin</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C M
-f2434reute
-u f BC-/U.S.-DEFENDS-STOCKPI   04-03 0126</field>
-	<field name = "TITLE">U.S. DEFENDS STOCKPILED TIN SALES IN 1986</field>
+	<field name = "titulo">U.S. DEFENDS STOCKPILED TIN SALES IN 1986</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The United States defended its sales
+	<field name = "content">The United States defended its sales
 of stockpiled tin in 1986 in reaction to criticism from
 Malaysian miners who have said it violated an agreement with
 southeast Asian producers.

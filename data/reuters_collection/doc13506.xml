@@ -3,12 +3,9 @@
 	<field name = "TOPICS">alum</field>
 	<field name = "PLACES">greece</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">M C
-f0398reute
-b f BC-AGREEMENT-REACHED-IN   04-07 0113</field>
-	<field name = "TITLE">AGREEMENT REACHED IN GREEK ALUMINA DEAL WITH MOSCOW</field>
+	<field name = "titulo">AGREEMENT REACHED IN GREEK ALUMINA DEAL WITH MOSCOW</field>
 	<field name = "DATELINE">ATHENS, April 7 -</field>
-	<field name = "BODY">Greece and the Soviet Union have reached
+	<field name = "content">Greece and the Soviet Union have reached
 agreement in Moscow on a joint venture for a 450 mln dlr
 alumina plant in Greece, government spokesman Yannis Roubatis
 said.

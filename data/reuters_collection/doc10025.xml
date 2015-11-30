@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:40:52.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1859reute
-r f BC-IMRE-IMRE>-COMPLETES   03-26 0107</field>
-	<field name = "TITLE">IMRE IMRE> COMPLETES PRIVATE STOCK PLACEMENT</field>
+	<field name = "titulo">IMRE IMRE> COMPLETES PRIVATE STOCK PLACEMENT</field>
 	<field name = "DATELINE">SEATTLE, March 26 -</field>
-	<field name = "BODY">IMRE Corp said it completed a private
+	<field name = "content">IMRE Corp said it completed a private
 placement of about 400,000 shares of its securities with a
 group of European institutions for 2.5 mln dlrs.
     The company said proceeds will be used for working capital

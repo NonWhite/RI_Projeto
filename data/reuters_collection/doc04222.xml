@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 10:04:29.48</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0077reute
-b f BC-K-MART-KM>-SAYS-RECO   03-12 0112</field>
-	<field name = "TITLE">K MART KM> SAYS RECORD 1986 NET "TURNING POINT"</field>
+	<field name = "titulo">K MART KM> SAYS RECORD 1986 NET "TURNING POINT"</field>
 	<field name = "DATELINE">TROY, Mich., March 12 -</field>
-	<field name = "BODY">K Mart Corp said its record fiscal
+	<field name = "content">K Mart Corp said its record fiscal
 1986 net earnings of 582.3 mln dlrs, a rise from 221.2 mln dlrs
 a year ago, marked a "major turning point" for the world's
 second biggest retailer.

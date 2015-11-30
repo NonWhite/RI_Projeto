@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 11:13:04.91</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f1336reute
-u f BC-MERRILL-LYNCH-MER>-I   04-13 0076</field>
-	<field name = "TITLE">MERRILL LYNCH MER> INVESTMENT REVENUES UP</field>
+	<field name = "titulo">MERRILL LYNCH MER> INVESTMENT REVENUES UP</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Merrill Lynch and Co said investment
+	<field name = "content">Merrill Lynch and Co said investment
 banking revenues were strong in the first quarter, rising to
 257.4 mln dlrs from 152.9 mln in the first quarter 1986.
     "We have made steady progress in a period of market

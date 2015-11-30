@@ -10,12 +10,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM
-f2201reute
-u f AM-SUMMIT-REAGAN***URGEN T-(EMBARGOED)  06-01 0082</field>
-	<field name = "TITLE">REAGAN HINTS U.S. WANTS HELP IN PATROLLING GULF</field>
+	<field name = "titulo">REAGAN HINTS U.S. WANTS HELP IN PATROLLING GULF</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">President Reagan said he would discuss
+	<field name = "content">President Reagan said he would discuss
 the Mideast Gulf situation with allied leaders at next week's
 Venice economic summit and hinted he would seek their help in
 preserving free navigation.

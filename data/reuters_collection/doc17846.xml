@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 17:38:20.01</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2638reute
-h f BC-FIRST-UNION-FUNC.O>   06-01 0039</field>
-	<field name = "TITLE">FIRST UNION FUNC.O> COMPLETES ACQUISITIONS</field>
+	<field name = "titulo">FIRST UNION FUNC.O> COMPLETES ACQUISITIONS</field>
 	<field name = "DATELINE">JACKSONVILLE, Fla., June 1 -</field>
-	<field name = "BODY">First Union Corp said it
+	<field name = "content">First Union Corp said it
 completed the acquisition of two Florida-based banks, North
 Port Bank, based in North Port, and City Commerical Bank, based
 in Sarasota.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 09:00:04.16</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0794reute
-r f BC-DEUTSCHE-TEXACO-NOT-A   04-13 0109</field>
-	<field name = "TITLE">DEUTSCHE TEXACO NOT AFFECTED BY LEGAL DISPUTE</field>
+	<field name = "titulo">DEUTSCHE TEXACO NOT AFFECTED BY LEGAL DISPUTE</field>
 	<field name = "DATELINE">HAMBURG, April 13 -</field>
-	<field name = "BODY">Deutsche Texaco AG, Texaco Inc's TX.N>
+	<field name = "content">Deutsche Texaco AG, Texaco Inc's TX.N>
 99.15 pct-owned West German subsidiary, will not be affected by
 the legal dispute with the Pennzoil Company PZL.N>, managing
 board chairman Armin Schram said.

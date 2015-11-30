@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f1370reute
-b f BC-/-FED-EXPECTED-TO-ADD   10-20 0098</field>
-	<field name = "TITLE">FED EXPECTED TO ADD RESERVES VIA CUSTOMER RPS</field>
+	<field name = "titulo">FED EXPECTED TO ADD RESERVES VIA CUSTOMER RPS</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">The Federal Reserve is expected to enter
+	<field name = "content">The Federal Reserve is expected to enter
 the government securities market to add reserves via customer
 repurchase agreements, economists said.
     They expected the amount to total around 1.5 billion to two

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 14:05:28.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6114reute
-h f BC-CENTRAL-BANCORPORATIO   03-17 0092</field>
-	<field name = "TITLE">CENTRAL BANCORPORATION CBAN> CHIEF TO RETIRE</field>
+	<field name = "titulo">CENTRAL BANCORPORATION CBAN> CHIEF TO RETIRE</field>
 	<field name = "DATELINE">CINCINNATI, March 17 -</field>
-	<field name = "BODY">Central Bancorporation Inc said
+	<field name = "content">Central Bancorporation Inc said
 Oliver W. Birckhead, 64, president and chief executive officer
 of the company and chairman and CEO of its Central Trust Co NA
 Cincinnati unit, will retire on December 31.

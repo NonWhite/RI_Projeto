@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">fuel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f3586reute
-u f BC-SENATE-COMMITTEE-MAY   03-16 0093</field>
-	<field name = "TITLE">SENATE COMMITTEE MAY LOOK AT FUEL TAX PROPOSALS</field>
+	<field name = "titulo">SENATE COMMITTEE MAY LOOK AT FUEL TAX PROPOSALS</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">The Senate budget committee sits
+	<field name = "content">The Senate budget committee sits
 down tomorrow to start drafting a fiscal 1988 budget, with the
 budget writers expected to look at several proposals for fuel
 taxes and other tax options to cut the budget.

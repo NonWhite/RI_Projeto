@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 13:05:13.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0806reute
-u f BC-MOBIL-MOB>-LONG-TERM   03-13 0099</field>
-	<field name = "TITLE">MOBIL MOB> LONG TERM DEBT DOWN IN 1986</field>
+	<field name = "titulo">MOBIL MOB> LONG TERM DEBT DOWN IN 1986</field>
 	<field name = "DATELINE">NEW YORK, MARCH 13 -</field>
-	<field name = "BODY">Mobil Corp made a 15 pct reduction in
+	<field name = "content">Mobil Corp made a 15 pct reduction in
 its long term debt in 1986 from the previous year according to
 data in its 1986 annual report.
     Mobil chairman, Allen E. Murray said in his report to

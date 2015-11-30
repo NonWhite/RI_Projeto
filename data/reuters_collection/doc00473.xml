@@ -3,13 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0833
-reute
-r f BC-ESSELTE-BUSINESS-ESB   03-02 0097</field>
-	<field name = "TITLE">ESSELTE BUSINESS ESB> UNIT BUYS ANTONSON UNIT</field>
+	<field name = "titulo">ESSELTE BUSINESS ESB> UNIT BUYS ANTONSON UNIT</field>
 	<field name = "DATELINE">GARDEN CITY, N.Y., March 2 -</field>
-	<field name = "BODY">Esselte Business Systems Inc's
+	<field name = "content">Esselte Business Systems Inc's
 Esselte Meto division said it has acquired the Antonson America
 Co, a subsidiary of Antonson Machines AB>, of Sweden.
     Esselte said the Antonson unit, based in LaPorte, Indiana,

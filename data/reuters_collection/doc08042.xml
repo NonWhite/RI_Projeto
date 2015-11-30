@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 18:16:46.86</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A
-f2653reute
-r f BC-macmillan-bloedel-to   03-20 0063</field>
-	<field name = "TITLE">MACMILLAN BLOEDEL MMBLF> TO REDEEM DEBENTURES</field>
+	<field name = "titulo">MACMILLAN BLOEDEL MMBLF> TO REDEEM DEBENTURES</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, March 20 -</field>
-	<field name = "BODY">MacMillan Bloedel
+	<field name = "content">MacMillan Bloedel
 Ltd said it will redeem all outstanding nine pct series J
 debentures on April 27, 1987 for 34.9 mln U.S. dlrs, plus a
 premium of one pct and accrued and unpaid interest.

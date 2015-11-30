@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 14:07:18.47</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0271reute
-u f BC-AIRBUS-HAS-NO-COMMENT   03-09 0108</field>
-	<field name = "TITLE">AIRBUS HAS NO COMMENT ON MCDONNELL TALKS</field>
+	<field name = "titulo">AIRBUS HAS NO COMMENT ON MCDONNELL TALKS</field>
 	<field name = "DATELINE">PARIS, March 9 -</field>
-	<field name = "BODY">European consortium Airbus Industrie>
+	<field name = "content">European consortium Airbus Industrie>
 said it had no comment on press reports that it had resumed
 talks with U.S. McDonnell Douglas Corp.> over a possible joint
 development and production of airliners.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 13:07:04.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1826reute
-r f BC-GOLDMAN-SACHS-SELLS-'   04-09 0107</field>
-	<field name = "TITLE">GOLDMAN SACHS SELLS 'PERLS' AT 13-1/4 PCT RATE</field>
+	<field name = "titulo">GOLDMAN SACHS SELLS 'PERLS' AT 13-1/4 PCT RATE</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">Sole underwriter Goldman, Sachs and Co
+	<field name = "content">Sole underwriter Goldman, Sachs and Co
 said it is publicly offering 40.05 mln dlrs of principal
 exchange rate linked securities, or "PERLS," due 1991 that it
 purchased from Westinghouse Electric Corp WX>.

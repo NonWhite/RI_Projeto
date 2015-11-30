@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 16:47:24.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2616reute
-d f BC-FDIC-SAYS-BANKS-IN-TE   04-09 0111</field>
-	<field name = "TITLE">FDIC SAYS BANKS IN TEXAS, OKLAHOMA CLOSED</field>
+	<field name = "titulo">FDIC SAYS BANKS IN TEXAS, OKLAHOMA CLOSED</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The Federal Deposit Insurance Corp
+	<field name = "content">The Federal Deposit Insurance Corp
 said a bank in Texas and one in Oklahoma were closed and their
 deposits transferred to other banks for the 54th and 55th bank
 failures in the nation this year.

@@ -2,12 +2,9 @@
 	<field name = "DATE">29-APR-1987 16:29:16.98</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f2583reute
-u f BC-GENRAD-GEN>-DECLINES   04-29 0089</field>
-	<field name = "TITLE">GENRAD GEN> DECLINES COMMENT ON ACTIVITY - NYSE</field>
+	<field name = "titulo">GENRAD GEN> DECLINES COMMENT ON ACTIVITY - NYSE</field>
 	<field name = "DATELINE">NEW YORK -</field>
-	<field name = "BODY">The New York Stock Exchange said Genrad Inc
+	<field name = "content">The New York Stock Exchange said Genrad Inc
 declined to comment on what the exchange called unusual
 activity in its stock today.
     The exchange said that in view of the unusual market

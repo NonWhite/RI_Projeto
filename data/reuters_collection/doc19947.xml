@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 17:37:37.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM A 
-f2687reute
-u f BC-FIRST-REPUBLIC-FRB>   06-29 0057</field>
-	<field name = "TITLE">FIRST REPUBLIC FRB> ADDS TO LOAN LOSS RESERVE</field>
+	<field name = "titulo">FIRST REPUBLIC FRB> ADDS TO LOAN LOSS RESERVE</field>
 	<field name = "DATELINE">DALLAS, June 29 -</field>
-	<field name = "BODY">First RepublicBank Corp said it will add
+	<field name = "content">First RepublicBank Corp said it will add
 325 mln dlrs to its loan loss reserve for the second quarter.
      The company said the move, which is being made to cover
 loans to developed countries, will result in a loss of around

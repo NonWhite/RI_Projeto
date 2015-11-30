@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 10:27:12.33</field>
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">madagascar</field>
-	<field name = "UNKNOWN">C T
-f1210reute
-d f BC-MADAGASCAR-COCOA-PROD   03-26 0101</field>
-	<field name = "TITLE">MADAGASCAR COCOA PRODUCTION ESTIMATED HIGHER</field>
+	<field name = "titulo">MADAGASCAR COCOA PRODUCTION ESTIMATED HIGHER</field>
 	<field name = "DATELINE">ANTANANARIVO, March 26 -</field>
-	<field name = "BODY">Madagascar's cocoa production is
+	<field name = "content">Madagascar's cocoa production is
 estimated 13 pct higher this year at 2,720 tonnes, up from
 2,400 in 1986, Agriculture Ministry officials said.
     This improvement reflects the government's efforts over the

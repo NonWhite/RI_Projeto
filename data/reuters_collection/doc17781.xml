@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 16:14:08.68</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2370reute
-u f BC-ALLIED-SIGNAL-ALD>-C   06-01 0088</field>
-	<field name = "TITLE">ALLIED-SIGNAL ALD> COMPLETES SALE OF MPB CORP</field>
+	<field name = "titulo">ALLIED-SIGNAL ALD> COMPLETES SALE OF MPB CORP</field>
 	<field name = "DATELINE">MORRIS TOWNSHIP, N.J., June 1 -</field>
-	<field name = "BODY">Allied-Signal Inc said it 
+	<field name = "content">Allied-Signal Inc said it 
 completed the sale of its MPB Corp unit to Bearing Acquisition
 Corp for 145 mln dlrs plus assumption of certain MPB
 liabilities.

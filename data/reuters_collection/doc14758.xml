@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 18:49:13.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2671reute
-d f BC-COMSAT-CQ>-CHANGES-N   04-07 0088</field>
-	<field name = "TITLE">COMSAT CQ> CHANGES NAME OF HI-NET UNIT</field>
+	<field name = "titulo">COMSAT CQ> CHANGES NAME OF HI-NET UNIT</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Communications Satellite Corp said it
+	<field name = "content">Communications Satellite Corp said it
 changed the name of its Hi-Net Communications unit to Comsat
 Video Enterprises to better reflect the nature of the unit's
 operations.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 17:42:10.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0017reute
-r f BC-TCW-CONVERTIBLE-SECUR   03-05 0079</field>
-	<field name = "TITLE">TCW CONVERTIBLE SECURITIES CVT> SOLD STOCK</field>
+	<field name = "titulo">TCW CONVERTIBLE SECURITIES CVT> SOLD STOCK</field>
 	<field name = "DATELINE">LOS ANGELES, March 5 -</field>
-	<field name = "BODY">TCW Convertible Securities Fund Inc
+	<field name = "content">TCW Convertible Securities Fund Inc
 said it has sold 20 mln shares of its common stock to a group
 of underwriters led by Bear Stearns and Co Inc, E.F. Hutton and
 Co, Advest Inc, Blunt Ellis and Loewi Inc, Piper, Jaffray and

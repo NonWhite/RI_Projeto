@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F E
-f1493reute
-b f BC-/ALLEGIS-AEG>-TO-SEL   06-02 0090</field>
-	<field name = "TITLE">ALLEGIS AEG> TO SELL CANADIAN HOTELS</field>
+	<field name = "titulo">ALLEGIS AEG> TO SELL CANADIAN HOTELS</field>
 	<field name = "DATELINE">CHICAGO, June 2 -</field>
-	<field name = "BODY">Allegis Corp said it has created a
+	<field name = "content">Allegis Corp said it has created a
 limited partnership to sell selected hotels in Canada to the
 public.
     It said the offering is expected to raise in excess of 350

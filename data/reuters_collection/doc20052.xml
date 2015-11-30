@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 05:46:54.39</field>
 	<field name = "EXCHANGES">mise</field>
-	<field name = "UNKNOWN">F 
-f0392reute
-b f BC-CONSOB-DELAYS-MILAN-B   10-20 0089</field>
-	<field name = "TITLE">CONSOB DELAYS MILAN BOURSE OPENING ONE HOUR</field>
+	<field name = "titulo">CONSOB DELAYS MILAN BOURSE OPENING ONE HOUR</field>
 	<field name = "DATELINE">MILAN, Oct 20 -</field>
-	<field name = "BODY">The opening of the Milan bourse and Italy's
+	<field name = "content">The opening of the Milan bourse and Italy's
 nine other stock exchanges has been delayed one hour to 1000
 GMT by stock market regulatory agency Consob.
     A Consob spokesman told Reuters the action was taken "to

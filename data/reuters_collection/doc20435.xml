@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:18:17.42</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">RM 
-f2310reute
-u f BC-HANDELSBANKEN-STAFF-L   10-20 0097</field>
-	<field name = "TITLE">HANDELSBANKEN STAFF LOSE 100 MLN CROWNS IN DEALS</field>
+	<field name = "titulo">HANDELSBANKEN STAFF LOSE 100 MLN CROWNS IN DEALS</field>
 	<field name = "DATELINE">STOCKHOLM, Oct 20 -</field>
-	<field name = "BODY">A share options dealer with Svenska
+	<field name = "content">A share options dealer with Svenska
 Handelsbanken SHBS.ST> and his office manager have lost the
 bank more than 100 mln crowns in unauthorised dealing, the bank
 said in a statement.

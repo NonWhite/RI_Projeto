@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 14:13:37.89</field>
-	<field name = "UNKNOWN">F
-f0674
-reute
-u f BC-/SEARS-S>-TO-RESTRUC   03-02 0096</field>
-	<field name = "TITLE">SEARS S> TO RESTRUCTURE DISTRIBUTION</field>
+	<field name = "titulo">SEARS S> TO RESTRUCTURE DISTRIBUTION</field>
 	<field name = "DATELINE">CHICAGO, March 2 -</field>
-	<field name = "BODY">Sears, Roebuck and Co said it will
+	<field name = "content">Sears, Roebuck and Co said it will
 restructure its distribution operations, resulting in a 20 mln
 dlr after-tax charge against earnings in its first quarter.
     The retailer on April 30 will close its major Chicago

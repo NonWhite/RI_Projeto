@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 10:49:33.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM 
-f1408reute
-r f BC-MELLON-MEL>-EXPECTS   10-20 0106</field>
-	<field name = "TITLE">MELLON MEL> EXPECTS EARNINGS POWER TO IMPROVE</field>
+	<field name = "titulo">MELLON MEL> EXPECTS EARNINGS POWER TO IMPROVE</field>
 	<field name = "DATELINE">PITTSBURGH, Oct 20 -</field>
-	<field name = "BODY">Mellon Bank Corp said a number of
+	<field name = "content">Mellon Bank Corp said a number of
 actions taken in the third quarter including an eight pct
 reduction in its staff, are expected to improve its earnings
 potential.

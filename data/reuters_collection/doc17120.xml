@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 12:09:23.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f1546reute
-r f BC-FARM-CREDIT-SEEN-NEED   04-24 0078</field>
-	<field name = "TITLE">FARM CREDIT SEEN NEEDING UP TO 4.5 BILLION DLRS</field>
+	<field name = "titulo">FARM CREDIT SEEN NEEDING UP TO 4.5 BILLION DLRS</field>
 	<field name = "DATELINE">WASHINGTON, April 24 -</field>
-	<field name = "BODY">The Farm Credit System will need
+	<field name = "content">The Farm Credit System will need
 3-4.5 billion dlrs in federal assistance to cover losses over
 the next three years, a member of the board of the System's
 regulatory agency said.

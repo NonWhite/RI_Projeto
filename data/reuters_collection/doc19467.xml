@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 17:44:52.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2529reute
-d f BC-MAGNOLIA-FOODS-CAFE.   06-19 0085</field>
-	<field name = "TITLE">MAGNOLIA FOODS CAFE.O> COMPLETES OFFERING</field>
+	<field name = "titulo">MAGNOLIA FOODS CAFE.O> COMPLETES OFFERING</field>
 	<field name = "DATELINE">OKLAHOMA CITY, Okla., June 19 -</field>
-	<field name = "BODY">Magnolia Foods Inc said it
+	<field name = "content">Magnolia Foods Inc said it
 completed a 250,000 dlr private offering of convertible
 preferred and common purchase warrants.
     Magnolia also said it signed a license agreement and

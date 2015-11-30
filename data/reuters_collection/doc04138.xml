@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">A
-f0714reute
-u f BC-TREASURY-SECRETARY-BA   03-12 0094</field>
-	<field name = "TITLE">TREASURY SECRETARY BAKER DECLINES COMMENT ON G-6</field>
+	<field name = "titulo">TREASURY SECRETARY BAKER DECLINES COMMENT ON G-6</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">U.S. Treasury Secretary James Baker
+	<field name = "content">U.S. Treasury Secretary James Baker
 declined comment on the February 22 Paris accord between the
 six major industrial nations under which they agreed to foster
 exchange rate stability.

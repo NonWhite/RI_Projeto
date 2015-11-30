@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:09:06.03</field>
-	<field name = "UNKNOWN">C M RM F
-f1473reute
-u f BC-LONDON-GOLD-CLOSES-OF   04-07 0103</field>
-	<field name = "TITLE">LONDON GOLD CLOSES OFF LOWS</field>
+	<field name = "titulo">LONDON GOLD CLOSES OFF LOWS</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Gold bullion ended the day easier but off
+	<field name = "content">Gold bullion ended the day easier but off
 lows after strengthening during late afternoon trading in
 sympathy with firmer values on Comex, dealers said.
     The metal closed at 420.00/420.50 dlrs an ounce, up on the

@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 09:06:37.77</field>
 	<field name = "PLACES">sweden</field>
 	<field name = "EXCHANGES">stse</field>
-	<field name = "UNKNOWN">F
-f0857reute
-d f BC-JM-BYGGNADS-SHARES-SU   03-12 0084</field>
-	<field name = "TITLE">JM BYGGNADS SHARES SUSPENDED ON STOCKHOLM BOURSE</field>
+	<field name = "titulo">JM BYGGNADS SHARES SUSPENDED ON STOCKHOLM BOURSE</field>
 	<field name = "DATELINE">STOCKHOLM, March 12 -</field>
-	<field name = "BODY">Shares in building firm JM Byggnads
+	<field name = "content">Shares in building firm JM Byggnads
 och Fastighets AB> were suspended on the Stockholm bourse at
 the company's own request, the bourse said.
     The suspension will last until the end of trading on

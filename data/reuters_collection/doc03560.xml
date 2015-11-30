@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 08:44:41.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0874reute
-u f BC-FLOOD-THREAT-IN-TEXAS   03-11 0083</field>
-	<field name = "TITLE">FLOOD THREAT IN TEXAS</field>
+	<field name = "titulo">FLOOD THREAT IN TEXAS</field>
 	<field name = "DATELINE">Kansas City, March 11 -</field>
-	<field name = "BODY">The National Weather Service said
+	<field name = "content">The National Weather Service said
 heavy afternoon and evening rainfall caused a threat of
 flooding over portions of Texas. There were reports of more
 than two inches of rain falling across Terrall and Val Verde

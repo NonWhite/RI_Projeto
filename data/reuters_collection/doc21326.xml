@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:20:24.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1541reute
-r f BC-PHELPS-DODGE-PD>-NET   10-19 0101</field>
-	<field name = "TITLE">PHELPS DODGE PD> NET RISES ON COPPER STRENGTH</field>
+	<field name = "titulo">PHELPS DODGE PD> NET RISES ON COPPER STRENGTH</field>
 	<field name = "DATELINE">PHOENIX, Oct 19 -</field>
-	<field name = "BODY">Phelps Dodge Corp said net earnings
+	<field name = "content">Phelps Dodge Corp said net earnings
 nearly tripled in the third quarter on sharply higher copper
 prices, increased sales and strong earnings from a new
 chemicals business.

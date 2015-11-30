@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 11:25:42.24</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PEOPLE">martens</field>
-	<field name = "UNKNOWN">RM
-f1343reute
-u f BC-BELGIAN-PRIME-MINISTE   03-23 0078</field>
-	<field name = "TITLE">BELGIAN PRIME MINISTER DEFENDS AUSTERITY PROGRAM</field>
+	<field name = "titulo">BELGIAN PRIME MINISTER DEFENDS AUSTERITY PROGRAM</field>
 	<field name = "DATELINE">BRUSSELS, March 23 -</field>
-	<field name = "BODY">Belgian Prime Minister Wilfried
+	<field name = "content">Belgian Prime Minister Wilfried
 Martens said government austerity programs adopted in the last
 six years had resolved some of the economy's urgent problems,
 but that unemployment remained a major obstacle.

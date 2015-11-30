@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 14:15:32.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0190reute
-d f BC-IBM-IBM>-NAMES-NEW-P   03-06 0102</field>
-	<field name = "TITLE">IBM IBM> NAMES NEW PRESIDENT FOR DIVISION</field>
+	<field name = "titulo">IBM IBM> NAMES NEW PRESIDENT FOR DIVISION</field>
 	<field name = "DATELINE">ARMONK, N.Y., March 6 -</field>
-	<field name = "BODY">International Business Machines
+	<field name = "content">International Business Machines
 Corp said it has named James A. Cannavino president of its Data
 Systems Division, succeeding IBM vice president, Edward M.
 Davis, who is retiring June 30 and until then will be IBM vice

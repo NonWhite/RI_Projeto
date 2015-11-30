@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 05:42:45.94</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM
-f0450reute
-u f BC-CHUAN-HUP-ISSUES-28-M   03-31 0115</field>
-	<field name = "TITLE">CHUAN HUP ISSUES 28 MLN DLR FRN</field>
+	<field name = "titulo">CHUAN HUP ISSUES 28 MLN DLR FRN</field>
 	<field name = "DATELINE">SINGAPORE, March 31 -</field>
-	<field name = "BODY">Chuan Hup Holdings Ltd> said it has
+	<field name = "content">Chuan Hup Holdings Ltd> said it has
 signed a 28 mln U.S. Dlr guaranteed floating rate note due 1990
 with a group of banks to refinance the company's existing
 borrowings and to provide medium term funds.

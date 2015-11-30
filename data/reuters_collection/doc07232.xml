@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 12:24:28.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f1586reute
-u f AM-REAGAN-PROSECUTOR   03-19 0116</field>
-	<field name = "TITLE">ADMINISTRATION OPPOSES SPECIAL PROSECUTOR LAW</field>
+	<field name = "titulo">ADMINISTRATION OPPOSES SPECIAL PROSECUTOR LAW</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">The Reagan administration protested
+	<field name = "content">The Reagan administration protested
 for the first time the constitutionality of the 1978 special
 prosecutor law that led to a current investigation of the
 Iran-contra scandal.

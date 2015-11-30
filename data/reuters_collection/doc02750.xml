@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 13:22:12.99</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0016reute
-d f BC-RICHTON-INTERNATIONAL   03-06 0054</field>
-	<field name = "TITLE">RICHTON INTERNATIONAL CORP RIHL> 3RD QTR JAN 31</field>
+	<field name = "titulo">RICHTON INTERNATIONAL CORP RIHL> 3RD QTR JAN 31</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Shr 18 cts vs 39 cts
+	<field name = "content">Shr 18 cts vs 39 cts
     Net 507,000 vs 762,000
     Sales 11.3 mln vs 11.7 mln
     Avg shrs 2,789,000 vs 1,961,000

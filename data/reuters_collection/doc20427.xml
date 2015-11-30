@@ -1,8 +1,5 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:11:42.53</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">V RM 
-f2275reute
-f f BC-NYSE-SAYS-NEW-Y   10-20 0011</field>
-	<field name = "TITLE">NYSE SAYS NEW YORK FUTURES EXCHANGE WILL REOPEN AT 1315 EDT</field>
+	<field name = "titulo">NYSE SAYS NEW YORK FUTURES EXCHANGE WILL REOPEN AT 1315 EDT</field>
 </doc></add>

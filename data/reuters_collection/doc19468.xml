@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 17:45:47.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2530reute
-r f BC-WAREHOUSE-CLUB-WCLB.   06-19 0103</field>
-	<field name = "TITLE">WAREHOUSE CLUB WCLB.O> MAY LOWER RESERVES</field>
+	<field name = "titulo">WAREHOUSE CLUB WCLB.O> MAY LOWER RESERVES</field>
 	<field name = "DATELINE">CHICAGO, June 19 -</field>
-	<field name = "BODY">Warehouse Club Inc said it subleased two
+	<field name = "content">Warehouse Club Inc said it subleased two
 Chicago locations closed in April and is reviewing the five mln
 dlr second quarter reserve established to cover the cost of the
 closures.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 16:54:20.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2600reute
-d f BC-BASIC-AMERICAN-BAMI>   03-30 0116</field>
-	<field name = "TITLE">BASIC AMERICAN BAMI> NOTE ISSUE CANCELED</field>
+	<field name = "titulo">BASIC AMERICAN BAMI> NOTE ISSUE CANCELED</field>
 	<field name = "DATELINE">INDIANAPOLIS, March 30 -</field>
-	<field name = "BODY">Basic American Medical Inc said a
+	<field name = "content">Basic American Medical Inc said a
 proposed 82 mln dlr note issue will not take place "at this
 time."
     The company announced on Jan 5, 1987 that it received a

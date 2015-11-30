@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 13:02:32.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f8753reute
-r f BC-HECHINGER-HECHA>-BON   03-18 0090</field>
-	<field name = "TITLE">HECHINGER HECHA> BONDS UPGRADED BY S/P</field>
+	<field name = "titulo">HECHINGER HECHA> BONDS UPGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 raised to A-minus from BBB-plus Hechinger Co's 19.9 mln dlrs of
 industrial revenue bonds.
     Yesterday, S and P upgraded to BBB-plus from BBB the

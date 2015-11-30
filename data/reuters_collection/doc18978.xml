@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 15:52:37.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f4510reute
-r f BC-GILLETTE-GS>-PAPER-M   06-18 0101</field>
-	<field name = "TITLE">GILLETTE GS> PAPER MAY BE CUT BY S/P</field>
+	<field name = "titulo">GILLETTE GS> PAPER MAY BE CUT BY S/P</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it placed
+	<field name = "content">Standard and Poor's Corp said it placed
 on creditwatch with negative implications Gillette Co's A-2
 commercial paper pending the outcome of a possible takeover by
 Revlon Group Inc REV>.

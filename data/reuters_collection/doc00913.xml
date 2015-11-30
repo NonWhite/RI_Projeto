@@ -2,14 +2,10 @@
 	<field name = "DATE">3-MAR-1987 05:05:45.88</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0747
-reute
-u f BC-JAPAN-LIKELY-TO-LET-U   03-03 0108</field>
-	<field name = "TITLE">JAPAN LIKELY TO LET U.S. BANKS DEAL SECURITIES</field>
+	<field name = "titulo">JAPAN LIKELY TO LET U.S. BANKS DEAL SECURITIES</field>
 	<field name = "AUTHOR">By Tsukasa Maekawa, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 3 -</field>
-	<field name = "BODY">Japan looks likely to allow U.S. Banks to
+	<field name = "content">Japan looks likely to allow U.S. Banks to
 conduct securities business here, a move that will probably
 cause the barriers separating Japanese commercial banks from
 brokerage houses to break down, financial analysts said.

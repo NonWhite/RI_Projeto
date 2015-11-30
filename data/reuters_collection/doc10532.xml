@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:18:13.90F</field>
-	<field name = "UNKNOWN">f1571reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-GENCORP-GY>-CHANGES   03-27 0068</field>
-	<field name = "TITLE">GENCORP GY> CHANGES SITE OF ANNUAL MEETING</field>
+	<field name = "titulo">GENCORP GY> CHANGES SITE OF ANNUAL MEETING</field>
 	<field name = "DATELINE">AKRON, Ohio, March 27 -</field>
-	<field name = "BODY">GenCorp Inc said it changed the
+	<field name = "content">GenCorp Inc said it changed the
 location for its March 31 annual meeting to the Quaker Sqaure
 Hilton, Akron.
     The company said it changed the location of the meeting

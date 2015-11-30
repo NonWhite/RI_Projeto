@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 10:26:41.59</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f8027reute
-r f BC-GELCO-GEL>-TO-SELL-C   03-18 0083</field>
-	<field name = "TITLE">GELCO GEL> TO SELL CANADIAN COURIER UNIT</field>
+	<field name = "titulo">GELCO GEL> TO SELL CANADIAN COURIER UNIT</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 18 -</field>
-	<field name = "BODY">Gelco Corp said it signed a letter
+	<field name = "content">Gelco Corp said it signed a letter
 of intent to sell its Canadian courier unit, Gelco Express Ltd,
 to Air Canada for about 54 mln dlrs (U.S.).
     It said consummation of the transaction depends on

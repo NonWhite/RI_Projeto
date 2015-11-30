@@ -7,12 +7,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">delors</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0065reute
-u f BC-EC-MINISTERS-LIKELY-T   04-26 0110</field>
-	<field name = "TITLE">EC MINISTERS LIKELY TO CRITICISE FINANCE IDEAS</field>
+	<field name = "titulo">EC MINISTERS LIKELY TO CRITICISE FINANCE IDEAS</field>
 	<field name = "DATELINE">LUXEMBOURG, April 26 -</field>
-	<field name = "BODY">Plans for a new-style European
+	<field name = "content">Plans for a new-style European
 Community (EC) free of damaging budget wrangles receive their
 first full review from EC foreign ministers today, but are
 unlikely to gather much support.

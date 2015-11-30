@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 13:06:16.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0815reute
-r f BC-UNION,-PHOENIX-STEEL   03-13 0091</field>
-	<field name = "TITLE">UNION, PHOENIX STEEL UNABLE TO REACH AGREEMENT</field>
+	<field name = "titulo">UNION, PHOENIX STEEL UNABLE TO REACH AGREEMENT</field>
 	<field name = "DATELINE">CLAYMONT, Del., March 13 -</field>
-	<field name = "BODY">Phoenix Steel Corp> said it and
+	<field name = "content">Phoenix Steel Corp> said it and
 the union representing workers at its seamless tubing mill in
 Phoenixville, Penn., were unable to reach agreement to extend
 the union contract that expires March 31.

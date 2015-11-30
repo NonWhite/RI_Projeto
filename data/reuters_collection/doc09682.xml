@@ -3,12 +3,9 @@
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">sarney</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM F A
-f2755reute
-u f AM-DEBT-BRAZIL   03-25 0090</field>
-	<field name = "TITLE">SARNEY REITERATES THAT BRAZIL WILL NOT GO TO IMF</field>
+	<field name = "titulo">SARNEY REITERATES THAT BRAZIL WILL NOT GO TO IMF</field>
 	<field name = "DATELINE">BRASILIA, March 25 -</field>
-	<field name = "BODY">President Jose Sarney rejected calls
+	<field name = "content">President Jose Sarney rejected calls
 from foreign creditors and from some Brazilian businessmen that
 the government talk to the International Monetary Fund.
     In a speech to about 3,000 mayors and local officials,

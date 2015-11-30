@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:13:06.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3736reute
-b f BC-STORAGE-STK>-SAYS-CO   06-18 0109</field>
-	<field name = "TITLE">STORAGE STK> SAYS COURT CLEARS REORGANIZATION</field>
+	<field name = "titulo">STORAGE STK> SAYS COURT CLEARS REORGANIZATION</field>
 	<field name = "DATELINE">LOUISVILLE, Colo., June 18 -</field>
-	<field name = "BODY">Storage Technology Corp said
+	<field name = "content">Storage Technology Corp said
 the U.S. Bankruptcy Court has approved its plan of
 reorganization and its emergence from Chapter 11 bankruptcy.
     Under the terms of the plan, the company said all approved

@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 16:10:21.67</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f6483reute
-r f BC-DOMENICI-SAYS-ENERGY   03-17 0109</field>
-	<field name = "TITLE">SENATOR SAYS ENERGY REPORT ASSUMPTIONS FLAWED</field>
+	<field name = "titulo">SENATOR SAYS ENERGY REPORT ASSUMPTIONS FLAWED</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Sen. Pete Domenici, a main sponsor
+	<field name = "content">Sen. Pete Domenici, a main sponsor
 of legislation to set an oil import fee, said the
 administration's energy security report was based on flawed
 economic assumptions.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 11:32:56.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1380reute
-b f BC-/MITSUBISHI-NY-BRANCH   03-23 0111</field>
-	<field name = "TITLE">MITSUBISHI NY BRANCH SETS U.S. CD NOTE PROGRAM</field>
+	<field name = "titulo">MITSUBISHI NY BRANCH SETS U.S. CD NOTE PROGRAM</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">The New York branch of Mitsubishi Bank
+	<field name = "content">The New York branch of Mitsubishi Bank
 Ltd said it set a one billion dlr U.S. medium-term certificate
 of deposit note program.
     The bank said this will be the largest such program ever

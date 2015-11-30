@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 10:42:59.69</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5189reute
-d f BC-TM-COMMUNICATIONS-TM   03-17 0033</field>
-	<field name = "TITLE">TM COMMUNICATIONS TMCI> COMPLETES PURCHASE</field>
+	<field name = "titulo">TM COMMUNICATIONS TMCI> COMPLETES PURCHASE</field>
 	<field name = "DATELINE">DALLAS, March 17 -</field>
-	<field name = "BODY">TM Communications Inc said it has
+	<field name = "content">TM Communications Inc said it has
 completed the acquisition of radio station KNSS-FM of Reno,
 Nev., for about 2,500,000 dlrs in cash.
  Reuter</field>

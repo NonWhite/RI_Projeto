@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 16:46:50.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2543reute
-u f BC-REVCO>-SEES-4TH-QTR   06-29 0092</field>
-	<field name = "TITLE">REVCO> SEES 4TH QTR LOSS</field>
+	<field name = "titulo">REVCO> SEES 4TH QTR LOSS</field>
 	<field name = "DATELINE">TWINSBURG, Ohio, June 29 -</field>
-	<field name = "BODY">Revco D.S. Inc said it expects a
+	<field name = "content">Revco D.S. Inc said it expects a
 loss of 14 mln dlrs for the fourth quarter ended May 30. The
 company said it expects sales of 703 mln dlrs with operating
 profit at 52 mln dlrs.

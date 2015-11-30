@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 18:19:35.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f2845reute
-u f BC-PIK-CERTIFICATES-IN-E   03-26 0096</field>
-	<field name = "TITLE">PIK CERTIFICATES IN EYE OF U.S. BUDGET STORM</field>
+	<field name = "titulo">PIK CERTIFICATES IN EYE OF U.S. BUDGET STORM</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">Senate Agriculture Committee
+	<field name = "content">Senate Agriculture Committee
 Chairman Patrick Leahy (D-Vt.) said Congress would consider
 limiting the use of generic commodity certificates as a means
 of cutting government spending.

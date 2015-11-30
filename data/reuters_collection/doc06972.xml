@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 04:31:58.77</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">F
-f0212reute
-u f BC-S.-KOREA-PLANS-TO-HEL   03-19 0096</field>
-	<field name = "TITLE">S. KOREA PLANS TO HELP AILING CONSTRUCTION FIRMS</field>
+	<field name = "titulo">S. KOREA PLANS TO HELP AILING CONSTRUCTION FIRMS</field>
 	<field name = "DATELINE">SEOUL, March 19 -</field>
-	<field name = "BODY">South Korea is considering providing
+	<field name = "content">South Korea is considering providing
 special loans and tax benefits to ailing construction firms on
 condition they stop competing with each other for overseas
 contracts, government officials said.

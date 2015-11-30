@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 15:33:20.39</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A
-f2264reute
-d f BC-CANADA-COMMITTEE-SEEK   03-20 0099</field>
-	<field name = "TITLE">CANADA COMMITTEE SEEKS LOWER CREDIT CARD RATES</field>
+	<field name = "titulo">CANADA COMMITTEE SEEKS LOWER CREDIT CARD RATES</field>
 	<field name = "DATELINE">OTTAWA, March 20 -</field>
-	<field name = "BODY">The all-party House of Commons Finance
+	<field name = "content">The all-party House of Commons Finance
 Committee has unanimously called for a "substantial" cut in
 credit card interest rates charged by banks and other financial
 institutions.

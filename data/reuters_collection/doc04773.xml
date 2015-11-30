@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 09:18:52.18</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0806reute
-u f BC-CONSECO-CNC>-TO-BUY   03-13 0107</field>
-	<field name = "TITLE">CONSECO CNC> TO BUY BENEFICIAL BNL> UNIT</field>
+	<field name = "titulo">CONSECO CNC> TO BUY BENEFICIAL BNL> UNIT</field>
 	<field name = "DATELINE">PEAPACK, N.J., March 13 -</field>
-	<field name = "BODY">Conseco Inc said it has signed a
+	<field name = "content">Conseco Inc said it has signed a
 definitive agreement to acquire Western National Life Insurance
 Co from Beneficial Corp for 275 mln dlrs in cash.
     Western National had assets of 1.9 billion dlrs at the end

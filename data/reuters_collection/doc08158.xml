@@ -6,12 +6,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">C G
-f0314reute
-b f BC-INDIA-BOUGHT-24,000-T   03-23 0091</field>
-	<field name = "TITLE">INDIA BOUGHT 24,000 TONNES OF RBD OLEIN AT TENDER</field>
+	<field name = "titulo">INDIA BOUGHT 24,000 TONNES OF RBD OLEIN AT TENDER</field>
 	<field name = "DATELINE">LONDON, March 23 -</field>
-	<field name = "BODY">The Indian State Trading Corporation
+	<field name = "content">The Indian State Trading Corporation
 (STC) bought four cargoes of rbd palm olein totalling 24,000
 tonnes at its vegetable oil import tender last week, traders
 said. Market reports on Friday said the STC had booked two

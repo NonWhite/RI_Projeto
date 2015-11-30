@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 12:03:29.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1783reute
-r f BC-MONSANTO-MTC>-NUTRAS   10-19 0092</field>
-	<field name = "TITLE">MONSANTO MTC> NUTRASWEET SALES SHOW SMALL DROP</field>
+	<field name = "titulo">MONSANTO MTC> NUTRASWEET SALES SHOW SMALL DROP</field>
 	<field name = "DATELINE">ST. LOUIS, Oct 19 -</field>
-	<field name = "BODY">Monsanto Co said sales of its
+	<field name = "content">Monsanto Co said sales of its
 Nutrasweet artificial sweetener fell slightly in the third
 quarter due to a continuing decline in usage by the powdered
 soft drink market.

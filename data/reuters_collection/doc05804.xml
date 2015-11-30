@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 03:00:43.54</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f4155reute
-f f BC-JAPAN-OCTOBER/DECEMBE   03-17 0115</field>
-	<field name = "TITLE">JAPAN OCTOBER/DECEMBER GNP RISES 0.8 PCT</field>
+	<field name = "titulo">JAPAN OCTOBER/DECEMBER GNP RISES 0.8 PCT</field>
 	<field name = "DATELINE">TOKYO, March 17 -</field>
-	<field name = "BODY">Japan's gross national product (GNP) rose
+	<field name = "content">Japan's gross national product (GNP) rose
 a real 0.8 pct in the October/December quarter after an
 upwardly revised 0.7 pct increase the previous three months,
 the Economic Planning Agency (EPA) said.

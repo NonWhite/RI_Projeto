@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0253reute
-d f BC-ROYAL-DUTCH/SHELL-U.S   03-05 0111</field>
-	<field name = "TITLE">ROYAL DUTCH/SHELL U.S. EARNINGS SHARPLY LOWER</field>
+	<field name = "titulo">ROYAL DUTCH/SHELL U.S. EARNINGS SHARPLY LOWER</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">Royal Dutch/Shell Group RD.AS> earnings
+	<field name = "content">Royal Dutch/Shell Group RD.AS> earnings
 for 1986 from the U.S. Fell sharply because of difficult market
 conditions, lower crude and gas prices and also due to
 different accounting methods, Shell chairman Peter Holmes said.

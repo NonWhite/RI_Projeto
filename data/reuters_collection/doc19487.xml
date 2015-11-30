@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 00:08:35.14</field>
 	<field name = "PLACES">qatar</field>
-	<field name = "UNKNOWN">F 
-f0016reute
-u f BC-QATAR-TAKES-OVER-CABL   06-29 0109</field>
-	<field name = "TITLE">QATAR TAKES OVER CABLE AND WIRELESS FRANCHISE</field>
+	<field name = "titulo">QATAR TAKES OVER CABLE AND WIRELESS FRANCHISE</field>
 	<field name = "DATELINE">DOHA, June 29 -</field>
-	<field name = "BODY">Qatar will today take over the franchise of
+	<field name = "content">Qatar will today take over the franchise of
 Cable and Wireless Plc (CAWL.L) in the emirate through the
 newly-created Qatar General Telecommunications Corporation
 (QTELC).

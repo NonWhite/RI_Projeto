@@ -3,12 +3,9 @@
 	<field name = "PLACES">brazil</field>
 	<field name = "PEOPLE">bresser-pereira</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM A 
-f4087reute
-r f AM-BRAZIL-BANK   06-18 0085</field>
-	<field name = "TITLE">WORLD BANK MISSION HOLDS LOAN TALKS WITH BRAZIL</field>
+	<field name = "titulo">WORLD BANK MISSION HOLDS LOAN TALKS WITH BRAZIL</field>
 	<field name = "DATELINE">BRASILIA, June 18 -</field>
-	<field name = "BODY">A World Bank mission today held talks
+	<field name = "content">A World Bank mission today held talks
 with a senior Finance Ministry official to discuss Brazil's
 requests for loans, ministry officials said.
     They said Brazil, the bank's biggest customer, was asking

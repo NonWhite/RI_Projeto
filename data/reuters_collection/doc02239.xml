@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 12:23:36.14</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0930reute
-h f BC-COMMUNITY-BANK-SYSTEM   03-05 0066</field>
-	<field name = "TITLE">COMMUNITY BANK SYSTEM CBSI> BUYS NICHOLS BANK</field>
+	<field name = "titulo">COMMUNITY BANK SYSTEM CBSI> BUYS NICHOLS BANK</field>
 	<field name = "DATELINE">SYRACUSE, N.Y., March 5 -</field>
-	<field name = "BODY">Community Bank Systems Inc and
+	<field name = "content">Community Bank Systems Inc and
 the Nichols National Bank> said they have signed a definitive
 agreement for Nichols to become a member of the CBSI Group of
 banks for an exchange of stock worth 2.8 mln dlrs.

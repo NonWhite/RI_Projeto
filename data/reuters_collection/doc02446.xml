@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 16:20:44.20</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0774reute
-r f BC-FINANCIAL-CORP-FIN>   03-05 0091</field>
-	<field name = "TITLE">FINANCIAL CORP FIN> UNIT BUYS BRANCHES</field>
+	<field name = "titulo">FINANCIAL CORP FIN> UNIT BUYS BRANCHES</field>
 	<field name = "DATELINE">IRVINE, Calif., March 5 -</field>
-	<field name = "BODY">Financial Corporation of
+	<field name = "content">Financial Corporation of
 America's American Savings and Loan Association unit said it
 signed a definitive agreement to buy three retail savings
 branches from Gibraltar Financial Corp's GFC> Gibraltar

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 16:24:57.46</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2327reute
-u f BC-ARCHER-DANIELS-ADM>   06-19 0073</field>
-	<field name = "TITLE">ARCHER-DANIELS ADM> DENIES RUMOR</field>
+	<field name = "titulo">ARCHER-DANIELS ADM> DENIES RUMOR</field>
 	<field name = "DATELINE">CHICAGO, June 19 -</field>
-	<field name = "BODY">Archer-Daniels-Midland Co denied a
+	<field name = "content">Archer-Daniels-Midland Co denied a
 report that it is interested in acquiring International
 Minerals and Chemical Corp (IGL).
     "We have no interest in International Minerals or any of

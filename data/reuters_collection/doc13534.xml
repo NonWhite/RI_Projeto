@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 07:23:06.68</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM
-f0437reute
-r f BC-FRANC-ZONE-MINISTERS   04-07 0109</field>
-	<field name = "TITLE">FRANC ZONE MINISTERS CALL FOR MORE AID</field>
+	<field name = "titulo">FRANC ZONE MINISTERS CALL FOR MORE AID</field>
 	<field name = "DATELINE">PARIS, April 7 -</field>
-	<field name = "BODY">Finance ministers from African countries
+	<field name = "content">Finance ministers from African countries
 in the French franc currency zone called for more aid from the
 international banking community at a meeting here last Friday,
 the French finance ministry said in a statement.

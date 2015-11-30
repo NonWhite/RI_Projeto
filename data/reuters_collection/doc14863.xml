@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 05:11:20.63</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0304reute
-u f BC-GERMAN-ENGINEERING-WA   04-08 0104</field>
-	<field name = "TITLE">GERMAN ENGINEERING WAGE-ROUND TALKS BREAK DOWN</field>
+	<field name = "titulo">GERMAN ENGINEERING WAGE-ROUND TALKS BREAK DOWN</field>
 	<field name = "DATELINE">NECKARWESTHEIM, West Germany, April 8 -</field>
-	<field name = "BODY">Talks between
+	<field name = "content">Talks between
 employers and unions in the West German engineering industry
 over pay and working hours broke down without result late last
 night, an official from the IG-Metall union said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 18:18:34.53</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2686reute
-u f BC-NEWMONT-MINING-CORP-R   04-01 0075</field>
-	<field name = "TITLE">NEWMONT MINING CORP REDUCES STAKE IN PEABODY</field>
+	<field name = "titulo">NEWMONT MINING CORP REDUCES STAKE IN PEABODY</field>
 	<field name = "DATELINE">NEW YORK, APril 1 -</field>
-	<field name = "BODY">Newmont Mining Corp said it completed
+	<field name = "content">Newmont Mining Corp said it completed
 the previously announced reduction of its share in Peabody
 Holding Co Inc> to 49.97 pct from 61.47 pct.
     Newmont realized 116.8 mln dlrs in the transaction.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gas</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f1956reute
-r f BC-SMALL-RISE-SEEN-IN-U.   06-02 0106</field>
-	<field name = "TITLE">SMALL RISE SEEN IN U.S. GASOLINE INVENTORIES</field>
+	<field name = "titulo">SMALL RISE SEEN IN U.S. GASOLINE INVENTORIES</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">U.S. analysts expect the American
+	<field name = "content">U.S. analysts expect the American
 Petroleum Institute's weekly report on oil inventories to show
 a slight build in U.S. stocks of gasoline for the week ended
 May 29, oil traders and analysts said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 07:12:10.44</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">E A
-f0517reute
-r f BC-MONTREAL-TRUSTCO-ISSU   03-26 0082</field>
-	<field name = "TITLE">MONTREAL TRUSTCO ISSUES CANADIAN DOLLAR EUROBOND</field>
+	<field name = "titulo">MONTREAL TRUSTCO ISSUES CANADIAN DOLLAR EUROBOND</field>
 	<field name = "DATELINE">PARIS, March 26 -</field>
-	<field name = "BODY">Montreal Trustco Inc is issuing a 100 mln
+	<field name = "content">Montreal Trustco Inc is issuing a 100 mln
 Canadian dlr, 8-1/2 pct bond due May 6, 1992 at 101 pct, lead
 manager Societe Generale said.
     The non-callable issue is of unsecured, unsubordinated

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 13:19:12.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2225reute
-r f BC-ALLIED-SIGNAL-ALD>-A   10-19 0104</field>
-	<field name = "TITLE">ALLIED-SIGNAL ALD> AEROSPACE PROFITS DROP</field>
+	<field name = "titulo">ALLIED-SIGNAL ALD> AEROSPACE PROFITS DROP</field>
 	<field name = "DATELINE">MORRIS TOWNSHIP, N.J., Oct 19 -</field>
-	<field name = "BODY">Allied-Signal Inc said
+	<field name = "content">Allied-Signal Inc said
 profits in its aerospace division fell 46 pct in the third
 quarter due to lower margins and significantly higher
 development costs for several aircraft, including the MD-80.

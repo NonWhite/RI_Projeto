@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:40:32.18</field>
-	<field name = "UNKNOWN">M
-f1632reute
-u f BC-LME-ZINC-CLOSES-STEAD   04-07 0090</field>
-	<field name = "TITLE">LME ZINC CLOSES STEADY AT LOWER LEVELS</field>
+	<field name = "titulo">LME ZINC CLOSES STEADY AT LOWER LEVELS</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">LME zinc after lunch held steady around
+	<field name = "content">LME zinc after lunch held steady around
 lower morning levels as some light buying emerged around the
 730 dlrs equivalent level, dealers said. This saw three months
 delivery end afternoon ring dealings at 456 stg, down one stg a

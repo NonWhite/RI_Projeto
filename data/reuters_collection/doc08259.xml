@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 09:57:51.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0961reute
-d f BC-JAMESWAY-JMY>-OPENS   03-23 0026</field>
-	<field name = "TITLE">JAMESWAY JMY> OPENS NEW JERSEY STORE</field>
+	<field name = "titulo">JAMESWAY JMY> OPENS NEW JERSEY STORE</field>
 	<field name = "DATELINE">BERLIN, N.J., March 23 -</field>
-	<field name = "BODY">Jamesway Corp said it has opened
+	<field name = "content">Jamesway Corp said it has opened
 its 102nd store, a 60,000 square foot unit in Berlin, N.J.
  Reuter</field>
 </doc></add>

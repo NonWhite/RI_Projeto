@@ -5,12 +5,9 @@
 	<field name = "TOPICS">rubber</field>
 	<field name = "TOPICS">palm-oil</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">RM C G M T
-f0259reute
-u f BC-INDONESIA'S-NON-OIL-E   03-23 0115</field>
-	<field name = "TITLE">INDONESIA'S NON-OIL EXPORTS DECLINE IN 1986</field>
+	<field name = "titulo">INDONESIA'S NON-OIL EXPORTS DECLINE IN 1986</field>
 	<field name = "DATELINE">JAKARTA, March 23 -</field>
-	<field name = "BODY">Indonesia's non-oil and gas exports
+	<field name = "content">Indonesia's non-oil and gas exports
 fell to 5.79 billion dlrs in calendar 1986 from 5.98 billion in
 1985, according to Bank Indonesia figures.
     Coffee exports rose to 753 mln dlrs from 580 mln in 1985,

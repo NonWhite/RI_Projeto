@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 16:18:33.15</field>
-	<field name = "UNKNOWN">A C RM
-f2364reute
-u f BC-int-rate-fut-report   04-07 0091</field>
-	<field name = "TITLE">U.S. DEBT FUTURES CLOSE DOWN, NEAR DAILY LOWS</field>
+	<field name = "titulo">U.S. DEBT FUTURES CLOSE DOWN, NEAR DAILY LOWS</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">U.S. debt futures closed down and near
+	<field name = "content">U.S. debt futures closed down and near
 daily lows after a choppy session.
     Continued weakness in the dollar pressured the market.
 Bearish sentiment prevailed despite remarks made by Federal

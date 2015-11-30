@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">15-MAR-1987 23:28:27.43</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f1032reute
-u f BC-TAIWAN-CABINET-APPROV   03-15 0117</field>
-	<field name = "TITLE">TAIWAN CABINET APPROVES INCREASE IN BOND ISSUES</field>
+	<field name = "titulo">TAIWAN CABINET APPROVES INCREASE IN BOND ISSUES</field>
 	<field name = "DATELINE">TAIPEI, March 16 -</field>
-	<field name = "BODY">The cabinet has approved a finance
+	<field name = "content">The cabinet has approved a finance
 ministry plan to raise the amount of outstanding government
 bonds as a percentage of the total budget in financial year
 1987/88 starting July 1, to meet growing demand for funds for

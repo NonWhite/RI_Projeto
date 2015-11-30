@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:16:01.11</field>
-	<field name = "UNKNOWN">C L
-f0949reute
-u f BC-PEORIA-HOGS-UP-1.00/1   04-07 0058</field>
-	<field name = "TITLE">PEORIA HOGS UP 1.00/1.50 DLR - USDA</field>
+	<field name = "titulo">PEORIA HOGS UP 1.00/1.50 DLR - USDA</field>
 	<field name = "DATELINE">peoria, april 7 -</field>
-	<field name = "BODY">barrow and gilt prices rose 1.00 to 1.50
+	<field name = "content">barrow and gilt prices rose 1.00 to 1.50
 dlrs in active trade, the usda said. Bulk supply us 1-3 200-260
 lbs. top 52.50 dlrs per cwt.
     us 1-2 200-250 lbs 51.50-52.00 and 200 head 52.25-52.50.

@@ -5,12 +5,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f0933reute
-u f BC-/U.S.-WHEAT-GROWERS-W   03-06 0133</field>
-	<field name = "TITLE">U.S. WHEAT GROWERS WANT EEP TO SOVIET UNION</field>
+	<field name = "titulo">U.S. WHEAT GROWERS WANT EEP TO SOVIET UNION</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">The U.S. National Association of
+	<field name = "content">The U.S. National Association of
 Wheat Growers (NAWG) urged the Reagan administration offer the
 Soviet Union wheat under the export enhancement program (eep).
     In a letter to Agriculture Secretary Richard Lyng, NAWG

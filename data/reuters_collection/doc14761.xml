@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 18:52:17.05</field>
-	<field name = "UNKNOWN">RM
-f2675reute
-u f BC-AUSTRALIAN-DOLLAR-OPE   04-07 0092</field>
-	<field name = "TITLE">AUSTRALIAN DOLLAR OPENS EASIER</field>
+	<field name = "titulo">AUSTRALIAN DOLLAR OPENS EASIER</field>
 	<field name = "DATELINE">SYDNEY, April 8 -</field>
-	<field name = "BODY">The Australian dollar opened easier at
+	<field name = "content">The Australian dollar opened easier at
 0.7085/90 U.S. Dlrs but quickly breached the 0.7100 barrier in
 early trade.
     Dealers said there was still strong support for the unit

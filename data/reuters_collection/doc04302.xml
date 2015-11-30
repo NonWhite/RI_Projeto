@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 11:57:31.53</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0539reute
-u f BC-INVESTORS-TO-RAISE-CY   03-12 0103</field>
-	<field name = "TITLE">INVESTORS TO RAISE CYCLOPS CYL> TENDER PRICE</field>
+	<field name = "titulo">INVESTORS TO RAISE CYCLOPS CYL> TENDER PRICE</field>
 	<field name = "DATELINE">DAYTON, Ohio, March 12 -</field>
-	<field name = "BODY">Cyacq Corp, an investor group
+	<field name = "content">Cyacq Corp, an investor group
 bidding for Cyclops Corp, said it would raise its outstanding
 tender offer price for Cyclops common to 92.50 dlrs a share
 from 80 dlrs, if certain conditions were met.

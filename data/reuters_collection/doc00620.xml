@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:26:59.61</field>
-	<field name = "UNKNOWN">F
-f0509
-reute
-w f BC-TECHNOLOGY-DEVELOPMEN   03-02 0065</field>
-	<field name = "TITLE">TECHNOLOGY DEVELOPMENT CORP TDCK> 4TH QTR NET</field>
+	<field name = "titulo">TECHNOLOGY DEVELOPMENT CORP TDCK> 4TH QTR NET</field>
 	<field name = "DATELINE">ARLINGTON, Texas, March 2 -</field>
-	<field name = "BODY">Shr profit six cts vs profit eight cts
+	<field name = "content">Shr profit six cts vs profit eight cts
     Net profit 102,000 vs profit 151,000
     Revs 4,846,000 vs 5,041,000
     Avg shrs 1,725,744 vs 1,806,323

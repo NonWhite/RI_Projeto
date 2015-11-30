@@ -3,12 +3,9 @@
 	<field name = "TOPICS">reserves</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f4440reute
-u f BC-TAIWAN-SAID-CONSIDERI   03-17 0102</field>
-	<field name = "TITLE">TAIWAN SAID CONSIDERING CURRENCY LIBERALISATION</field>
+	<field name = "titulo">TAIWAN SAID CONSIDERING CURRENCY LIBERALISATION</field>
 	<field name = "DATELINE">TAIPEI, March 17 -</field>
-	<field name = "BODY">Taiwan's central bank is considering
+	<field name = "content">Taiwan's central bank is considering
 proposals to ease currency restrictions to reduce foreign
 exchange reserves of 51 billion U.S. Dlrs, a local newspaper
 reported today.

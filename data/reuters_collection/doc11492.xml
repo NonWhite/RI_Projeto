@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 13:04:34.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1924reute
-r f BC-COMPUTER-PRODUCTS-CP   03-31 0092</field>
-	<field name = "TITLE">COMPUTER PRODUCTS CPRD> TO SELL CONVERTIBLES</field>
+	<field name = "titulo">COMPUTER PRODUCTS CPRD> TO SELL CONVERTIBLES</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Computer Products Inc said it signed a
+	<field name = "content">Computer Products Inc said it signed a
 letter of intent for an underwritten public offering of 30 mln
 dlrs of convertible subordinated debentures.
     It plans to file by mid-May with the Securities and

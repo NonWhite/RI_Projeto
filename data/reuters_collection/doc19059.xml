@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 05:12:20.66</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0290reute
-u f BC-BOEING-HAS-NOT-YET-SE   06-19 0104</field>
-	<field name = "TITLE">BOEING HAS NOT YET SEEN FINAL JAL CRASH REPORT</field>
+	<field name = "titulo">BOEING HAS NOT YET SEEN FINAL JAL CRASH REPORT</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">Boeing Co BA> said in a statement it has
+	<field name = "content">Boeing Co BA> said in a statement it has
 yet to see the official Japanese government report on the crash
 of a Japan Air Lines (JAL) Boeing 747 in which 520 died.
     However, it said it had agreed with an earlier draft report

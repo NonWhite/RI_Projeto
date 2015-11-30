@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "TOPICS">money-supply</field>
-	<field name = "UNKNOWN">RM
-f0401reute
-u f BC-BANK-OF-SPAIN-SUSPEND   03-20 0110</field>
-	<field name = "TITLE">BANK OF SPAIN SUSPENDS ASSISTANCE, DRAINS FUNDS</field>
+	<field name = "titulo">BANK OF SPAIN SUSPENDS ASSISTANCE, DRAINS FUNDS</field>
 	<field name = "DATELINE">MADRID, March 20 -</field>
-	<field name = "BODY">The Bank of Spain suspended its daily
+	<field name = "content">The Bank of Spain suspended its daily
 money market assistance and offered to drain funds with three-
 and seven-day repurchase agreements at 12-1/2 pct, money market
 sources said.

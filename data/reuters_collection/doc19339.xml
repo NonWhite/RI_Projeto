@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:16:14.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1944reute
-r f BC-ROCKWELL-ROK>-BUYS-S   06-19 0067</field>
-	<field name = "TITLE">ROCKWELL ROK> BUYS SOFTECH SOFT.O> PRODUCTS</field>
+	<field name = "titulo">ROCKWELL ROK> BUYS SOFTECH SOFT.O> PRODUCTS</field>
 	<field name = "DATELINE">WALTHAM, Mass, June 19 -</field>
-	<field name = "BODY">Rockwell International purchased
+	<field name = "content">Rockwell International purchased
 SofTech Inc's newest line of Ada-86 tools to use in building a
 digital autopilot for the anti-tank missle, Hellfire, SofTech
 said.

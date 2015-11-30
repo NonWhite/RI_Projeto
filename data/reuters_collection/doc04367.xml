@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 13:19:50.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0904reute
-r f BC-SCOTT-INSTRUMENTS-SC   03-12 0107</field>
-	<field name = "TITLE">SCOTT INSTRUMENTS SCTI> TO STRESS MARKETING</field>
+	<field name = "titulo">SCOTT INSTRUMENTS SCTI> TO STRESS MARKETING</field>
 	<field name = "DATELINE">DENTON, Texas, March 12 -</field>
-	<field name = "BODY">Scott Instruments Corp said it
+	<field name = "content">Scott Instruments Corp said it
 has decided to concentrate on marketing new applications of its
 existing research.
     It said it will realize cost savings from the reduction of

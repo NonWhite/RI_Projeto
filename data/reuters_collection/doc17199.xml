@@ -6,12 +6,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">corrigan</field>
-	<field name = "UNKNOWN">RM
-f0041reute
-u f BC-U.S.-CENTRAL-BANKER-O   04-26 0112</field>
-	<field name = "TITLE">U.S. CENTRAL BANKER OPPOSES FURTHER DOLLAR FALL</field>
+	<field name = "titulo">U.S. CENTRAL BANKER OPPOSES FURTHER DOLLAR FALL</field>
 	<field name = "DATELINE">OSAKA, JAPAN, April 26 -</field>
-	<field name = "BODY">New York Federal Reserve Bank
+	<field name = "content">New York Federal Reserve Bank
 President Gerald Corrigan opposed a further fall in the value
 of the dollar but refused to say whether U.S. Interest rates
 would be raised to protect the currency.

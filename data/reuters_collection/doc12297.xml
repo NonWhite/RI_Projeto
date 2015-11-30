@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 16:16:32.15</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2412reute
-r f BC-CENTURY-BUSINESS-CRED   04-01 0073</field>
-	<field name = "TITLE">CENTURY BUSINESS CREDIT CTY> GETS OFFER</field>
+	<field name = "titulo">CENTURY BUSINESS CREDIT CTY> GETS OFFER</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Century Business Credit Corp said it
+	<field name = "content">Century Business Credit Corp said it
 received an offer from Stanley Tananbaum, chairman and chief
 executive officer, to take the company private in a transaction
 giveing shareholders 24.40 dlrs per share in cash.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">15-MAR-1987 00:05:34.82</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0852reute
-r f BC-BANK-OF-CHINA-INCREAS   03-15 0080</field>
-	<field name = "TITLE">BANK OF CHINA INCREASES AUTHORISED CAPITAL</field>
+	<field name = "titulo">BANK OF CHINA INCREASES AUTHORISED CAPITAL</field>
 	<field name = "DATELINE">PEKING, March 15 -</field>
-	<field name = "BODY">Bank of China has increased authorised
+	<field name = "content">Bank of China has increased authorised
 capital to five billion yuan from three billion to help meet
 expanding business needs, the official People's Daily reported.
     The state-owned bank's total assets reached 345 billion

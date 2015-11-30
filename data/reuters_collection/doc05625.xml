@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 15:02:43.91</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">A F RM
-f3374reute
-u f BC-MORGAN-JPM>-SAYS-BRA   03-16 0113</field>
-	<field name = "TITLE">MORGAN JPM> SAYS BRAZIL NONACCRUALS MAY RISE</field>
+	<field name = "titulo">MORGAN JPM> SAYS BRAZIL NONACCRUALS MAY RISE</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">J.P. Morgan and Co Inc said that
+	<field name = "content">J.P. Morgan and Co Inc said that
 Brazil's recent suspension of interest payments on part of its
 commercial bank debt may lift its nonaccrual loans this year.
     Morgan, which has over 1.9 billion dlrs of Brazilian debt,

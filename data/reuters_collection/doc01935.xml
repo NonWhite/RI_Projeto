@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 05:06:00.88</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0498reute
-u f BC-JAPANESE-MINISTRY-DEN   03-05 0091</field>
-	<field name = "TITLE">JAPANESE MINISTRY DENIES EXPORT QUOTA FOR DAIHATSU</field>
+	<field name = "titulo">JAPANESE MINISTRY DENIES EXPORT QUOTA FOR DAIHATSU</field>
 	<field name = "DATELINE">TOKYO, March 5 -</field>
-	<field name = "BODY">The Ministry of International Trade and
+	<field name = "content">The Ministry of International Trade and
 Industry has not yet set a car export quota for Daihatsu Motor
 Co Ltd> which is scheduled to start exports to the U.S. Later
 this year, a ministry official said.

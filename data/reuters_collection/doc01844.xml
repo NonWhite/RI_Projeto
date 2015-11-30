@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G
-f0928reute
-r f BC-U.S.-CABINET-COUNCIL   03-04 0137</field>
-	<field name = "TITLE">U.S. CABINET COUNCIL SET TO MULL FARM ISSUES</field>
+	<field name = "titulo">U.S. CABINET COUNCIL SET TO MULL FARM ISSUES</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">The Reagan administration's
+	<field name = "content">The Reagan administration's
 cabinet-level Economic Policy Council is scheduled to meet
 Friday to discuss, among other issues, the status of
 agricultural legislation, administration officials said.

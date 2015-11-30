@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 00:58:20.16F</field>
-	<field name = "UNKNOWN">f0046reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">u f BC-JARDINE-MATHESON-PLAN   03-27 0091</field>
-	<field name = "TITLE">JARDINE MATHESON PLANS FOUR-FOR-ONE BONUS ISSUE</field>
+	<field name = "titulo">JARDINE MATHESON PLANS FOUR-FOR-ONE BONUS ISSUE</field>
 	<field name = "DATELINE">HONG KONG, March 27 -</field>
-	<field name = "BODY">Jardine Matheson Holdings Ltd
+	<field name = "content">Jardine Matheson Holdings Ltd
 JARD.HKG> said it planned a bonus issue of four new "B" shares
 of 20 H.K. Cents each for every ordinary share of par value two
 dlrs.

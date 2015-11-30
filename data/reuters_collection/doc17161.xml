@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 14:37:55.90</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">A RM
-f2113reute
-r f BC-INTERSTATE-(I)-CHIEF   04-24 0089</field>
-	<field name = "TITLE">INTERSTATE (I) CHIEF DOUBTFUL ON BRAZIL DEBT</field>
+	<field name = "titulo">INTERSTATE (I) CHIEF DOUBTFUL ON BRAZIL DEBT</field>
 	<field name = "DATELINE">LOS ANGELES, April 24 -</field>
-	<field name = "BODY">First Interstate Bank Corp Chairman
+	<field name = "content">First Interstate Bank Corp Chairman
 Joseph Pinola said he was not optimistic about the prospects
 for a resolution of the Brazilian debt situation during the
 current year.

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 08:16:08.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0260
-reute
-r f BC-AMERICAN-MOTORS-BREAK   03-02 0106</field>
-	<field name = "TITLE">AMERICAN MOTORS AMO> BREAKS OFF TALKS ON PLANT</field>
+	<field name = "titulo">AMERICAN MOTORS AMO> BREAKS OFF TALKS ON PLANT</field>
 	<field name = "DATELINE">DETROIT, March 2 -</field>
-	<field name = "BODY">American Motors Corp said that it broke
+	<field name = "content">American Motors Corp said that it broke
 off talks aimed at extending the life of its only U.S. car
 assembly plant after the union rejected its final proposal for
 wage concessions.

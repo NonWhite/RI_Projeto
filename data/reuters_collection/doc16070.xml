@@ -6,12 +6,9 @@
 	<field name = "TOPICS">sorghum</field>
 	<field name = "TOPICS">oat</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">G C
-f2903reute
-u f BC-ARGENTINE-GRAIN-MARKE   04-09 0097</field>
-	<field name = "TITLE">ARGENTINE GRAIN MARKET REVIEW</field>
+	<field name = "titulo">ARGENTINE GRAIN MARKET REVIEW</field>
 	<field name = "DATELINE">BUENOS AIRES, April 9 -</field>
-	<field name = "BODY">The Argentine grain market was
+	<field name = "content">The Argentine grain market was
 quiet in the week to Wednesday, with prices rising slightly on
 increased interest in wheat, millet and birdseed.
     Wheat for domestic consumption rose six Australs per tonne

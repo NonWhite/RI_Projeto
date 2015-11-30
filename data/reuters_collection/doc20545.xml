@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 14:25:37.29</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2688reute
-r f BC-BANCTEXAS-GROUP-INC-(   10-20 0076</field>
-	<field name = "TITLE">BANCTEXAS GROUP INC BTX> 3RD QTR OPER LOSS</field>
+	<field name = "titulo">BANCTEXAS GROUP INC BTX> 3RD QTR OPER LOSS</field>
 	<field name = "DATELINE">DALLAS, Oct 20 -</field>
-	<field name = "BODY">Oper shr loss 1.23 dlrs vs loss 57.50 dlrs
+	<field name = "content">Oper shr loss 1.23 dlrs vs loss 57.50 dlrs
      Oper net loss 17,154,000 vs loss 26,953,000
      Avg shrs 13,914,000 vs 476,000
      Nine mths

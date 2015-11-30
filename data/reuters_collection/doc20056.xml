@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 06:18:31.24</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">RM 
-f0462reute
-u f BC-SAMSUNG-BOND-GOES-CON   10-20 0118</field>
-	<field name = "TITLE">SAMSUNG BOND GOES CONVERTIBLE BUT NO SHARE DEMAND</field>
+	<field name = "titulo">SAMSUNG BOND GOES CONVERTIBLE BUT NO SHARE DEMAND</field>
 	<field name = "DATELINE">SEOUL, Oct 20 -</field>
-	<field name = "BODY">The first convertible bond issued by a
+	<field name = "content">The first convertible bond issued by a
 South Korean firm overseas -- by Samsung Electronics Co Ltd
 SAMS.SE> -- became eligible for conversion but there was no
 demand for shares as the government still bans direct share

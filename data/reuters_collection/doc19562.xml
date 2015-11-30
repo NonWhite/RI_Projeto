@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 07:20:19.71</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F 
-f0559reute
-d f BC-FRENCH-CHANNEL-TF-1-P   06-29 0098</field>
-	<field name = "TITLE">FRENCH CHANNEL TF-1 PRESIDENT SEES PROFIT IN 1988</field>
+	<field name = "titulo">FRENCH CHANNEL TF-1 PRESIDENT SEES PROFIT IN 1988</field>
 	<field name = "DATELINE">PARIS, June 28 -</field>
-	<field name = "BODY">France's state-run television channel
+	<field name = "content">France's state-run television channel
 TF-1, which is in the process of being privatised, should
 achieve a profit of around 25 francs per share next year after
 several years of losses, but will not make a profit this year,

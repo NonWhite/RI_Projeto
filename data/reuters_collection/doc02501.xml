@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 17:28:13.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0979reute
-r f BC-GARN-FEARS-RUN-ON-SAV   03-05 0104</field>
-	<field name = "TITLE">GARN FEARS RUN ON SAVINGS AND LOAN DEPOSITS</field>
+	<field name = "titulo">GARN FEARS RUN ON SAVINGS AND LOAN DEPOSITS</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Sen. Jake Garn (R-Utah) said a delay
+	<field name = "content">Sen. Jake Garn (R-Utah) said a delay
 in rescuing the Federal Savings and Loan Insurance Corp risked
 a run on thrift deposits by nervous customers.
     Garn told a Georgetown University conference on financial

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 11:44:01.78</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1401reute
-u f BC-GERMAN-MONEY-SUPPLY-G   03-20 0113</field>
-	<field name = "TITLE">GERMAN MONEY SUPPLY GROWTH SLOWS IN FEBRUARY</field>
+	<field name = "titulo">GERMAN MONEY SUPPLY GROWTH SLOWS IN FEBRUARY</field>
 	<field name = "DATELINE">FRANKFURT, March 20 -</field>
-	<field name = "BODY">West Germany's money supply growth
+	<field name = "content">West Germany's money supply growth
 slowed in February after January's sharp rise but the trend is
 still definitely upward, the Bundesbank said in a statement.
     Growth in the traditionally broad M3 aggregate was only

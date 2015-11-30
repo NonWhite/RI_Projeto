@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:07:45.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y F 
-f1923reute
-d f BC-BROOKLYN-UNION-SAYS-A   06-19 0122</field>
-	<field name = "TITLE">BROOKLYN UNION SAYS A RATE HIKE WOULD BE MODEST</field>
+	<field name = "titulo">BROOKLYN UNION SAYS A RATE HIKE WOULD BE MODEST</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Brooklyn Union Gas BU>, a New York gas
+	<field name = "content">Brooklyn Union Gas BU>, a New York gas
 utility company, said it will try to limit any rate hikes to
 customers by arranging alternative supplies to replace the spot
 natural gas that Transco Energy Co E> no longer delivers, a

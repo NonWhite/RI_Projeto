@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 17:11:00.17</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f2671reute
-r f BC-dupont's-dd>-conoco   04-13 0095</field>
-	<field name = "TITLE">DUPONT'S DD> CONOCO SAYS NO INTEREST IN DOME</field>
+	<field name = "titulo">DUPONT'S DD> CONOCO SAYS NO INTEREST IN DOME</field>
 	<field name = "DATELINE">Toronto, April 13 -</field>
-	<field name = "BODY">Conoco, a unit of DuPont Co, said it is
+	<field name = "content">Conoco, a unit of DuPont Co, said it is
 not interested in buying Dome Petroleum Ltd DMP>, the Canadian
 oil company which has said it is in discussions with two
 unidentified companies.

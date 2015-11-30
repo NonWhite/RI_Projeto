@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:16:38.93</field>
-	<field name = "UNKNOWN">C L
-f0724reute
-u f BC-U.S.-FEEDER-STEER-PRI   04-07 0095</field>
-	<field name = "TITLE">U.S. FEEDER STEER PRICE</field>
+	<field name = "titulo">U.S. FEEDER STEER PRICE</field>
 	<field name = "DATELINE">Chicago, April 7 -</field>
-	<field name = "BODY">The U.S. Feeder Steer Price, or USFSP,
+	<field name = "content">The U.S. Feeder Steer Price, or USFSP,
 as posted by the CME is calculated by Cattle Fax and represents
 the price used for cash settlement of the CME Feeder Cattle
 contract.

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 09:59:16.72</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F
-f0952reute
-d f BC-KLM-SEEKS-STAKE-IN-BR   03-13 0111</field>
-	<field name = "TITLE">KLM SEEKS STAKE IN BRITISH COURIER SERVICE</field>
+	<field name = "titulo">KLM SEEKS STAKE IN BRITISH COURIER SERVICE</field>
 	<field name = "DATELINE">AMSTERDAM, March 13 -</field>
-	<field name = "BODY">KLM Royal Dutch Airlines KLM.AS>
+	<field name = "content">KLM Royal Dutch Airlines KLM.AS>
 said it is negotiating for a minority stake in a British and
 Commonwealth Shipping Plc BCOM.L> courier service in a
 transaction which might include a convertible loan issue.

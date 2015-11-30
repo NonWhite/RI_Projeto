@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 16:41:14.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3106reute
-r f BC-TEXACO-TX>,-U.S.-TO   10-19 0102</field>
-	<field name = "TITLE">TEXACO TX>, U.S. TO STUDY SULPHUR REMOVAL</field>
+	<field name = "titulo">TEXACO TX>, U.S. TO STUDY SULPHUR REMOVAL</field>
 	<field name = "DATELINE">WHITE PLAINS, N.Y., Oct 19 -</field>
-	<field name = "BODY">Texaco Inc said removal of
+	<field name = "content">Texaco Inc said removal of
 sulphur emissions from the hot coal gases inside Texaco's coal
 gasifier will be studied under a two-phase, five-year program
 agreed to with the U.S. Energy Department.

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 18:28:03.70</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2711reute
-d f BC-CANADA SCHEDULED-WEEKLY-COLUMN  06-01 0091</field>
-	<field name = "TITLE">BOEING BA> RESHAPING DE HAVILLAND IN OWN IMAGE</field>
+	<field name = "titulo">BOEING BA> RESHAPING DE HAVILLAND IN OWN IMAGE</field>
 	<field name = "AUTHOR">By Russ Blinch, Reuters</field>
 	<field name = "DATELINE">OTTAWA, June 1 -</field>
-	<field name = "BODY">Boeing Co is attempting to recreate
+	<field name = "content">Boeing Co is attempting to recreate
 money-losing de Havilland Aircraft of Canada Ltd in its own
 image.
     But it is a process that will be complex and, because the

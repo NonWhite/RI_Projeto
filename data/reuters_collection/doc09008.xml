@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 16:05:42.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2435reute
-r f BC-SOUTHMARK-SM>-UNIT-I   03-24 0108</field>
-	<field name = "TITLE">SOUTHMARK SM> UNIT IN PUBLIC OFFERING OF STOCK</field>
+	<field name = "titulo">SOUTHMARK SM> UNIT IN PUBLIC OFFERING OF STOCK</field>
 	<field name = "DATELINE">DALLAS, March 24 -</field>
-	<field name = "BODY">Southmark Corp's National Heritage Inc
+	<field name = "content">Southmark Corp's National Heritage Inc
 said it has started the initial public offering of 2,000,000
 shares of common stock at 9.50 dlrs per share.
     It said all shares are being traded though  NASDAQ under

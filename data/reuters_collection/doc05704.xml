@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 16:45:49.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3648reute
-u f BC-CONSUL-CNSL>-SEES-IM   03-16 0086</field>
-	<field name = "TITLE">CONSUL CNSL> SEES IMPROVED LIQUIDITY</field>
+	<field name = "titulo">CONSUL CNSL> SEES IMPROVED LIQUIDITY</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">Consul Restaurant Corp chief financial
+	<field name = "content">Consul Restaurant Corp chief financial
 officer Robert Lamp told analysts a previously announced
 conversion offer will reduce its debt-to-equity ratio to 55 pct
 from 380 pct, assuming full acceptance of the offer.

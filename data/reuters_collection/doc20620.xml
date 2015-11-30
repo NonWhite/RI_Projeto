@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 15:21:23.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V 
-f2913reute
-u f BC-HOUSE-BUDGET-COMMITTE   10-20 0099</field>
-	<field name = "TITLE">HOUSE BUDGET COMMITTEE APPROVES U.S. BUDGET CUTS</field>
+	<field name = "titulo">HOUSE BUDGET COMMITTEE APPROVES U.S. BUDGET CUTS</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">The House Budget Committee approved a
+	<field name = "content">The House Budget Committee approved a
 package of 23 billion dlrs in taxes and budget cuts to reduce
 the 1988 budget deficit.
     The 20-14 party-line vote by the Democratic-controlled

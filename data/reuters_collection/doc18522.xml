@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">indonesia</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">Y 
-f2480reute
-u f BC-INDONESIA-CUTS-JULY-C   06-18 0113</field>
-	<field name = "TITLE">INDONESIA CUTS JULY CRUDE SUPPLIES TO JAPAN</field>
+	<field name = "titulo">INDONESIA CUTS JULY CRUDE SUPPLIES TO JAPAN</field>
 	<field name = "DATELINE">TOKYO, June 18 -</field>
-	<field name = "BODY">Indonesia's state oil company, Pertamina,
+	<field name = "content">Indonesia's state oil company, Pertamina,
 has informed its affiliated Japanese companies that crude oil
 supplies will be 40 pct less than contractual volumes in July,
 a spokesman for an affiliated company said.

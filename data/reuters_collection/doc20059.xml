@@ -5,12 +5,9 @@
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">Y 
-f0483reute
-u f BC-EAST,-WEST-APPROVE-NU   10-20 0118</field>
-	<field name = "TITLE">EAST, WEST APPROVE NUCLEAR FUSION ENERGY PROJECT</field>
+	<field name = "titulo">EAST, WEST APPROVE NUCLEAR FUSION ENERGY PROJECT</field>
 	<field name = "DATELINE">VIENNA, Oct 20 -</field>
-	<field name = "BODY">East and West on Monday decided to go
+	<field name = "content">East and West on Monday decided to go
 ahead with an ambitious nuclear fusion project billed as
 possibly providing an inexhaustible source of energy, the
 International Atomic Energy Agency (IAEA) said.

@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C G T
-f2043reute
-u f BC-GATT-OFFICIAL-MEETS-W   04-08 0129</field>
-	<field name = "TITLE">GATT OFFICIAL MEETS WITH U.S. FARM LEADERS</field>
+	<field name = "titulo">GATT OFFICIAL MEETS WITH U.S. FARM LEADERS</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">The official in charge of
+	<field name = "content">The official in charge of
 agricultural matters in the new round of global trade talks is
 in Washington today and tomorrow to meet with congressional and
 Reagan administration officials.

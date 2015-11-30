@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 16:07:27.81</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0945
-reute
-r f BC-POTOMAC-ELECTRIC-POWE   02-26 0057</field>
-	<field name = "TITLE">POTOMAC ELECTRIC POWER CO POM> JAN NET</field>
+	<field name = "titulo">POTOMAC ELECTRIC POWER CO POM> JAN NET</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">Shr 27 cts vs 29 cts
+	<field name = "content">Shr 27 cts vs 29 cts
     Net 13,555,000 vs 14,635,000
     Revs 104,606,000 vs 110,311,000
     Avg shrs 47.2 mln vs 47.1 mln

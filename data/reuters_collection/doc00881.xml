@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 00:34:48.52</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0488
-reute
-u f BC-TRANSAMERICA-SELLS-OC   03-03 0111</field>
-	<field name = "TITLE">TRANSAMERICA SELLS OCCIDENTAL LIFE AUSTRALIA</field>
+	<field name = "titulo">TRANSAMERICA SELLS OCCIDENTAL LIFE AUSTRALIA</field>
 	<field name = "DATELINE">MELBOURNE, March 3 -</field>
-	<field name = "BODY">Equity investment company Battery
+	<field name = "content">Equity investment company Battery
 Group Ltd> said it had agreed to buy Occidental Life Insurance
 Co of Australia Ltd> from TransAmerica Corp TA> of the U.S.
 For 105 mln Australian dlrs.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f1785reute
-r f BC-DRAWDOWN-SEEN-IN-U.S.   03-24 0111</field>
-	<field name = "TITLE">DRAWDOWN SEEN IN U.S. DISTILLATE STOCKS</field>
+	<field name = "titulo">DRAWDOWN SEEN IN U.S. DISTILLATE STOCKS</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Tonight's American Petroleum Institute
+	<field name = "content">Tonight's American Petroleum Institute
 oil inventory report is expected to show another drawdown in
 distillate stocks of between two and 7.5 mln barrels for the
 week ending March 20, oil analysts and traders said.

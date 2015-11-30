@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:27:23.14</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1779reute
-u f BC-LLOYD'S-APPOINTS-NEW   03-26 0117</field>
-	<field name = "TITLE">LLOYD'S APPOINTS NEW OUTSIDE COUNCIL MEMBERS</field>
+	<field name = "titulo">LLOYD'S APPOINTS NEW OUTSIDE COUNCIL MEMBERS</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">Four new outsiders were appointed to the
+	<field name = "content">Four new outsiders were appointed to the
 policy-making Council of the Lloyd's of London insurance
 market, shifting the voting balance on the Council away from
 Lloyd's professionals, Lloyd's said.

@@ -1,14 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 04:15:24.58</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0766
-reute
-u f BC-JAPAN-PLANS-MORE-FLEX   03-02 0100</field>
-	<field name = "TITLE">JAPAN PLANS MORE FLEXIBLE CORPORATE BOND ISSUES</field>
+	<field name = "titulo">JAPAN PLANS MORE FLEXIBLE CORPORATE BOND ISSUES</field>
 	<field name = "AUTHOR">By Yoshiko Mori, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 2 -</field>
-	<field name = "BODY">Japanese securities houses will issue new
+	<field name = "content">Japanese securities houses will issue new
 corporate bonds more quickly, accept issue requests throughout
 the month instead of at month-end and introduce a competitive
 underwriting method from April 1, to bring Japanese firms back

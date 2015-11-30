@@ -3,13 +3,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "TOPICS">hog</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L
-f0115
-reute
-r f BC-AMERICAN-PORK-CONGRES   03-02 0133</field>
-	<field name = "TITLE">AMERICAN PORK CONGRESS KICKS OFF TOMORROW</field>
+	<field name = "titulo">AMERICAN PORK CONGRESS KICKS OFF TOMORROW</field>
 	<field name = "DATELINE">CHICAGO, March 2 -</field>
-	<field name = "BODY">The American Pork Congress kicks off
+	<field name = "content">The American Pork Congress kicks off
 tomorrow, March 3, in Indianapolis with 160 of the nations pork
 producers from 44 member states determining industry positions
 on a number of issues, according to the National Pork Producers

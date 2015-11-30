@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:00:44.34</field>
-	<field name = "UNKNOWN">M
-f0690reute
-b f BC-ny-copper-pre-opg   04-07 0027</field>
-	<field name = "TITLE">COMEX COPPER FUTURES EXPECTED TO OPEN HIGHER</field>
+	<field name = "titulo">COMEX COPPER FUTURES EXPECTED TO OPEN HIGHER</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Comex copper futures are expected to
+	<field name = "content">Comex copper futures are expected to
 open 0.20 to 0.30 cent higher based on London copper prices.
  Reuter</field>
 </doc></add>

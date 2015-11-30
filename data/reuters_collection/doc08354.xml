@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 11:54:11.28</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1485reute
-r f BC-ALLIED-ASU>-SELLING   03-23 0095</field>
-	<field name = "TITLE">ALLIED ASU> SELLING MICHIGAN UNITS</field>
+	<field name = "titulo">ALLIED ASU> SELLING MICHIGAN UNITS</field>
 	<field name = "DATELINE">DETROIT, March 23 -</field>
-	<field name = "BODY">Allied Supermarkets Inc said it entered
+	<field name = "content">Allied Supermarkets Inc said it entered
 into a definitive agreement to sell its Michigan operations for
 about 46 mln dlrs in cash and debt plus assumption of
 substantially all of Allied's liabilities other than senior

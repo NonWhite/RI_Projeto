@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">sumita</field>
-	<field name = "UNKNOWN">A
-f0491reute
-r f BC-SUMITA-SAYS-BANK-WILL   03-24 0115</field>
-	<field name = "TITLE">SUMITA SAYS BANK WILL INTERVENE IF NECESSARY</field>
+	<field name = "titulo">SUMITA SAYS BANK WILL INTERVENE IF NECESSARY</field>
 	<field name = "DATELINE">TOKYO, March 24 -</field>
-	<field name = "BODY">Bank of Japan Governor Satoshi Sumita
+	<field name = "content">Bank of Japan Governor Satoshi Sumita
 said in a statement the central bank will intervene in foreign
 exchange markets to stabilise exchange rates if necessary in
 close cooperation with other major industrial nations.

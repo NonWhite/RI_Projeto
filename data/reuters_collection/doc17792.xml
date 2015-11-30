@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 16:22:42.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2397reute
-h f BC-SEABROOK-NUCLEAR-STAT   06-01 0112</field>
-	<field name = "TITLE">SEABROOK NUCLEAR STATION OWNERS SET ADVERTISING</field>
+	<field name = "titulo">SEABROOK NUCLEAR STATION OWNERS SET ADVERTISING</field>
 	<field name = "DATELINE">SEABROOK, N.H., June 1 -</field>
-	<field name = "BODY">Public Service Co of New Hampshire
+	<field name = "content">Public Service Co of New Hampshire
 PNH> said the owners of the Seabrook nuclear power plant
 approved a 1.2 mln dlr advertising campaign to inform the
 public about the plant's safe construction.

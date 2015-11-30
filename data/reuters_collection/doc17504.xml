@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 09:17:04.26</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0889reute
-u f BC-ITALIAN-TREASURY-DETA   06-01 0083</field>
-	<field name = "TITLE">ITALIAN TREASURY DETAILS BORROWING REQUIREMENT</field>
+	<field name = "titulo">ITALIAN TREASURY DETAILS BORROWING REQUIREMENT</field>
 	<field name = "DATELINE">Rome, June 1 -</field>
-	<field name = "BODY">The Italian Treasury said the public sector
+	<field name = "content">The Italian Treasury said the public sector
 borrowing requirement in the first four months totalled a
 provisional 40,100 billion lire compared with 40,380 billion in
 the comparable 1986 period.

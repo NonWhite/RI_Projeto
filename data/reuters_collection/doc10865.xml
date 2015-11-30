@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 11:46:27.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f1624reute
-r f BC-PHILADELPHIA-EXCHANGE   03-30 0069</field>
-	<field name = "TITLE">PHILADELPHIA EXCHANGE SETS FAR EAST MARKETING</field>
+	<field name = "titulo">PHILADELPHIA EXCHANGE SETS FAR EAST MARKETING</field>
 	<field name = "DATELINE">PHILADELPHIA, March 30 -</field>
-	<field name = "BODY">The Philadelphia Stock Exchange>
+	<field name = "content">The Philadelphia Stock Exchange>
 said it has established a Far East marketing division based in
 Hong Kong to try to broaden participation among international
 banks, multinational corporations and trading firms in its

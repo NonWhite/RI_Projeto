@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 18:37:16.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2886reute
-u f BC-U.S.-HOUSE-DEMOCRATS   03-31 0108</field>
-	<field name = "TITLE">U.S. HOUSE DEMOCRATS SET 36 BILLION DLR CUT</field>
+	<field name = "titulo">U.S. HOUSE DEMOCRATS SET 36 BILLION DLR CUT</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">House Democratic budget writers hope
+	<field name = "content">House Democratic budget writers hope
 to win budget committee approval of a budget package to cut the
 deficit more than 36 billion dlrs perhaps as early as tomorrow,
 committee sources said.

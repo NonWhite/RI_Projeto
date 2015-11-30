@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C T
-f0807reute
-u f BC-CHINA-SUGAR-OUTPUT-SE   03-04 0125</field>
-	<field name = "TITLE">CHINA SUGAR OUTPUT SEEN LOWER -- USDA</field>
+	<field name = "titulo">CHINA SUGAR OUTPUT SEEN LOWER -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">China's 1986/87 sugar crop has been
+	<field name = "content">China's 1986/87 sugar crop has been
 revised to 5.26 mln tonnes (raw value), down four pct from the
 previous forecast and five pct below the previous season, the
 U.S. Agriculture Department said.

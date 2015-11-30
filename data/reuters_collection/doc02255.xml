@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 12:43:01.17</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0021reute
-r f BC-SPANISH-METAL-WORKERS   03-05 0088</field>
-	<field name = "TITLE">SPANISH METAL WORKERS REJECT 1987 WAGE OFFER</field>
+	<field name = "titulo">SPANISH METAL WORKERS REJECT 1987 WAGE OFFER</field>
 	<field name = "DATELINE">MADRID, March 6 -</field>
-	<field name = "BODY">Spain's metal workers, the biggest
+	<field name = "content">Spain's metal workers, the biggest
 organised labour force, broke off talks with employers over
 1987 wages, union sources said.
     The main Socialist and Communist unions rejected an offer

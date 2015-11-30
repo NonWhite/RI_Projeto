@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:25:38.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0558reute
-r f BC-ACTON-AUTO-RENTAL-INI   03-11 0067</field>
-	<field name = "TITLE">ACTON AUTO RENTAL INITIAL OFFERING STARTS</field>
+	<field name = "titulo">ACTON AUTO RENTAL INITIAL OFFERING STARTS</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Lead underwriter McDonald and Co
+	<field name = "content">Lead underwriter McDonald and Co
 Investments Inc MDD> said an offering of 900,000 shares of
 Action Auto Rental Inc is underway, priced at 12 dlrs per
 share.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 13:08:10.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0145reute
-d f BC-AVX-AVX>-REACHES-POL   03-04 0093</field>
-	<field name = "TITLE">AVX AVX> REACHES POLLUTION SETTLEMENT</field>
+	<field name = "titulo">AVX AVX> REACHES POLLUTION SETTLEMENT</field>
 	<field name = "DATELINE">GREAT NECK, N.Y., March 4 -</field>
-	<field name = "BODY">AVX Corp said it has entered a
+	<field name = "content">AVX Corp said it has entered a
 two mln dlr settlement with the U.S. government and the
 Commonwealth of Massachusetts to pay for damage claims against
 the company for contaminating the New Bedford, Mass., harbor

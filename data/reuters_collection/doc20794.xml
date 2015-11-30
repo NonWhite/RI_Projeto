@@ -7,12 +7,9 @@
 	<field name = "PEOPLE">reagan</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "PEOPLE">takeshita</field>
-	<field name = "UNKNOWN">V RM 
-f3485reute
-u f BC-REAGAN-SAYS-U.S.-COMM   10-20 0085</field>
-	<field name = "TITLE">REAGAN SAYS U.S. COMMITTED TO LOUVRE ACCORD</field>
+	<field name = "titulo">REAGAN SAYS U.S. COMMITTED TO LOUVRE ACCORD</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">President Reagan said the United
+	<field name = "content">President Reagan said the United
 States remains committed to the Louvre accord in which the
 seven major industrial nations agreed to stabilize currency
 exchange rates.

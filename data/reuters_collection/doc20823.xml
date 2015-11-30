@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 18:42:41.48</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3555reute
-r f BC-EDELMAN-GROUP-COMMITT   10-20 0105</field>
-	<field name = "TITLE">EDELMAN GROUP COMMITTED TO TELEX TC> BID</field>
+	<field name = "titulo">EDELMAN GROUP COMMITTED TO TELEX TC> BID</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">TLX Partners, a group led by Asher
+	<field name = "content">TLX Partners, a group led by Asher
 Edelman, does not see any problems with its 65 dlr per share
 bid for Telex Corp, a Shearson Lehman official advising the
 group said.

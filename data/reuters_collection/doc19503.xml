@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 03:49:04.80</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F 
-f0196reute
-u f BC-WPP-GROUP-RAISES-PROP   06-29 0093</field>
-	<field name = "TITLE">WPP GROUP RAISES PROPOSED RIGHTS ISSUE</field>
+	<field name = "titulo">WPP GROUP RAISES PROPOSED RIGHTS ISSUE</field>
 	<field name = "DATELINE">LONDON, June 29 -</field>
-	<field name = "BODY">WPP Group Plc>, which on Friday secured
+	<field name = "content">WPP Group Plc>, which on Friday secured
 agreement for its bid for JWT Group Inc> by increasing its
 offer, said it would raise its planned rights issue to raise
 213 mln stg instead of 177 mln to finance the deal.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:34:23.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3844reute
-r f BC-PAN-AM-PN>-RECEIVES   06-18 0096</field>
-	<field name = "TITLE">PAN AM PN> RECEIVES AIRBUS AIRCRAFT</field>
+	<field name = "titulo">PAN AM PN> RECEIVES AIRBUS AIRCRAFT</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">Pan American World Airways said it
+	<field name = "content">Pan American World Airways said it
 took delivery of the first of 12 A310-300 aircraft on June 17,
 becoming the first U.S. airline to receive the engines
 developed by the European consortium Airbus Industrie.

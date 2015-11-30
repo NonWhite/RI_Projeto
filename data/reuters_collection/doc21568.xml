@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 01:45:38.39</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM 
-f0081reute
-u f BC-NEW-ZEALAND-NON-FUEL   10-19 0111</field>
-	<field name = "TITLE">NEW ZEALAND NON-FUEL IMPORT ORDERS RISE IN AUGUST</field>
+	<field name = "titulo">NEW ZEALAND NON-FUEL IMPORT ORDERS RISE IN AUGUST</field>
 	<field name = "DATELINE">WELLINGTON, Oct 19 -</field>
-	<field name = "BODY">Orders for non-fuel imports placed in
+	<field name = "content">Orders for non-fuel imports placed in
 August rose a seasonally adjusted 14.9 pct, compared with a 1.0
 pct rise in July and a 3.1 pct rise in August 1986, according
 to a regular monthly restricted survey of private importers,

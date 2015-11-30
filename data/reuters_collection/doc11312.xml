@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 09:31:50.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0983reute
-r f BC-DIAPULSE-OF-AMERICA-C   03-31 0108</field>
-	<field name = "TITLE">DIAPULSE OF AMERICA CLEARED TO MARKET DEVICE</field>
+	<field name = "titulo">DIAPULSE OF AMERICA CLEARED TO MARKET DEVICE</field>
 	<field name = "DATELINE">GREAT NECK, N.Y., March 31 -</field>
-	<field name = "BODY">Diapulse Corp of America>
+	<field name = "content">Diapulse Corp of America>
 said it has received permission to resume marketing its
 Diapulse pulsed high peak power electromagnetic energy medical
 device for treatment of postoperative edema and pain in

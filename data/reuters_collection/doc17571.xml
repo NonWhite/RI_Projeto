@@ -9,12 +9,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f1290reute
-r f BC-EC-EUROBOND-ISSUE-REM   06-01 0113</field>
-	<field name = "TITLE">EC EUROBOND ISSUE REMAINS UNRESOLVED - DIPLOMATS</field>
+	<field name = "titulo">EC EUROBOND ISSUE REMAINS UNRESOLVED - DIPLOMATS</field>
 	<field name = "DATELINE">BRUSSELS, June 1 -</field>
-	<field name = "BODY">European Community diplomats said the
+	<field name = "content">European Community diplomats said the
 question of whether Eurobonds will fall under proposed EC rules
 requiring new securities issues in Community countries to be
 preceded by a prospectus has yet to be resolved.

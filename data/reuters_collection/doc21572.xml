@@ -7,13 +7,10 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">RM AI 
-f0053reute
-u f BC-TOKYO-DEALERS-SEE-DOL   10-19 0106</field>
-	<field name = "TITLE">TOKYO DEALERS SEE DOLLAR POISED TO BREACH 140 YEN</field>
+	<field name = "titulo">TOKYO DEALERS SEE DOLLAR POISED TO BREACH 140 YEN</field>
 	<field name = "AUTHOR">By Rie Sagawa</field>
 	<field name = "DATELINE">TOKYO, Oct 19 -</field>
-	<field name = "BODY">Tokyo's foreign exchange market is watching
+	<field name = "content">Tokyo's foreign exchange market is watching
 nervously to see if the U.S. Dollar will drop below the
 significant 140.00 yen level, dealers said.
     "The 140 yen level is key for the dollar because it is

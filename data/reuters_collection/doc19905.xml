@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 16:32:57.60</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2498reute
-r f BC-FORTUNE-SYSTEMS-FSYS   06-29 0065</field>
-	<field name = "TITLE">FORTUNE SYSTEMS FSYS.O> APPROVES UNIT SALE</field>
+	<field name = "titulo">FORTUNE SYSTEMS FSYS.O> APPROVES UNIT SALE</field>
 	<field name = "DATELINE">BELMONT, Calif., June 29 -</field>
-	<field name = "BODY">Fortune Systems Corp said its
+	<field name = "content">Fortune Systems Corp said its
 shareholders approved the sale of its computer hardware
 business to SCI Technologies Inc.
     The transaction is expected to close this week.

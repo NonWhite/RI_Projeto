@@ -1,8 +1,5 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 13:00:46.28</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">V RM 
-f2122reute
-f f BC-NEW-YORK-STOCK   10-19 0014</field>
-	<field name = "TITLE">NEW YORK STOCK EXCHANGE VOLUME JUMPS TO OVER 340 MLN SHARES, PASSING DAILY RECORD</field>
+	<field name = "titulo">NEW YORK STOCK EXCHANGE VOLUME JUMPS TO OVER 340 MLN SHARES, PASSING DAILY RECORD</field>
 </doc></add>

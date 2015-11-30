@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 11:24:59.93</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f3518reute
-r f BC-BOARD-REJECTS-HYDRO-Q   06-18 0099</field>
-	<field name = "TITLE">BOARD REJECTS HYDRO-QUEBEC SALES TO NEW ENGLAND</field>
+	<field name = "titulo">BOARD REJECTS HYDRO-QUEBEC SALES TO NEW ENGLAND</field>
 	<field name = "DATELINE">MONTREAL, June 18 -</field>
-	<field name = "BODY">Canada's National Energy Board has
+	<field name = "content">Canada's National Energy Board has
 denied an application by Quebec-owned Hydro-Quebec to export
 about three billion Canadian dlrs worth of electricity to the
 New England states, a board spokeswoman told Reuters.

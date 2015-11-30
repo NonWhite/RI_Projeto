@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 16:08:12.97</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A Y RM
-f2360reute
-u f AM-GULF-STUDY   06-01 0109</field>
-	<field name = "TITLE">CONGRESSMAN SAYS U.S. UNPREPARED FOR OIL CUTOFF</field>
+	<field name = "titulo">CONGRESSMAN SAYS U.S. UNPREPARED FOR OIL CUTOFF</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">Rep. Mike Synar said today that while
+	<field name = "content">Rep. Mike Synar said today that while
 President Reagan is ready to use military force to protect
 Kuwait tankers in the Gulf, the United States is ill-prepared
 at home to deal with a new energy crisis.

@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 04:40:20.02</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0260reute
-u f BC-AUSTRALIAN-OIL-INDUST   03-24 0109</field>
-	<field name = "TITLE">AUSTRALIAN OIL INDUSTRY TO CONTINUE TAX CAMPAIGN</field>
+	<field name = "titulo">AUSTRALIAN OIL INDUSTRY TO CONTINUE TAX CAMPAIGN</field>
 	<field name = "DATELINE">SURFERS PARADISE, Australia, March 24 -</field>
-	<field name = "BODY">The council of the
+	<field name = "content">The council of the
 Australian Petroleum Exploration Association (APEA) said it
 will press on with its campaign for major improvements to
 Australia's petroleum taxation structure.

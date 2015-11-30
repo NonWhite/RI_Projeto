@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 14:12:47.65</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0371reute
-r f BC-U.S.-SEMICONDUCTOR-IN   03-04 0092</field>
-	<field name = "TITLE">U.S. SEMICONDUCTOR INDUSTRY FORM CONSORTIUM</field>
+	<field name = "titulo">U.S. SEMICONDUCTOR INDUSTRY FORM CONSORTIUM</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">A consortium of electrics industry
+	<field name = "content">A consortium of electrics industry
 firms to challenge Japan's presence in the global semiconductor
 market was announced by the Semiconductor Industry Association.
     The initiative will be funded by U.S. manufacturers to

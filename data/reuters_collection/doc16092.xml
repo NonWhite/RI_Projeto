@@ -2,12 +2,9 @@
 	<field name = "DATE">11-APR-1987 04:25:40.51</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">haiti</field>
-	<field name = "UNKNOWN">T C
-f0036reute
-r f BC-SMUGGLING-BLAMED-FOR   04-11 0112</field>
-	<field name = "TITLE">SMUGGLING BLAMED FOR CLOSURE OF HAITIAN SUGAR FIRM</field>
+	<field name = "titulo">SMUGGLING BLAMED FOR CLOSURE OF HAITIAN SUGAR FIRM</field>
 	<field name = "DATELINE">PORT-AU-PRINCE, April 11 -</field>
-	<field name = "BODY">A sugar mill which was this
+	<field name = "content">A sugar mill which was this
 nation's second largest employer closed its doors yesterday,
 saying it had been run out of business by sugar smuggled from
 Miami and the neighbouring Dominican Republic.

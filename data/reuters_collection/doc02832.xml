@@ -2,13 +2,10 @@
 	<field name = "DATE">6-MAR-1987 15:38:08.64</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F RM A
-f0430reute
-r f BC-dome-pete-pressed   03-06 0085</field>
-	<field name = "TITLE">DOME PETEDMP> SAID TO BE PRESSED TO SELL ENCOR</field>
+	<field name = "titulo">DOME PETEDMP> SAID TO BE PRESSED TO SELL ENCOR</field>
 	<field name = "AUTHOR">By Larry Welsh, Reuters</field>
 	<field name = "DATELINE">TORONTO, March 6 -</field>
-	<field name = "BODY">Dome Petroleum Ltd is under pressure
+	<field name = "content">Dome Petroleum Ltd is under pressure
 from one of its largest creditors, Canadian Imperial Bank of
 Commerce>, to sell its 42 pct stake in Encor Energy Corp Ltd>,
 energy industry analysts said.

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 18:52:50.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0353
-reute
-r f BC-BRANIFF-BAIR>-FEBRUA   03-02 0116</field>
-	<field name = "TITLE">BRANIFF BAIR> FEBRUARY LOAD FACTOR UP SLIGHTLY</field>
+	<field name = "titulo">BRANIFF BAIR> FEBRUARY LOAD FACTOR UP SLIGHTLY</field>
 	<field name = "DATELINE">DALLAS, March 2 -</field>
-	<field name = "BODY">Braniff Inc said its load factor, or
+	<field name = "content">Braniff Inc said its load factor, or
 precentage of seats filled, was 50.5 pct in February, up
 slightly from 50.2 pct for the same month last year.
     Braniff said traffic for the month rose 44 pct, to 210.5

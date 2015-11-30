@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:12:49.25</field>
-	<field name = "UNKNOWN">CQ MQ
-f1505reute
-u f BC-scrap-copper   04-07 0042</field>
-	<field name = "TITLE">SCRAP COPPER QUOTED AT NOMINAL 51.50 CENTS</field>
+	<field name = "titulo">SCRAP COPPER QUOTED AT NOMINAL 51.50 CENTS</field>
 	<field name = "DATELINE">New York, April 7 -</field>
-	<field name = "BODY">Dealers quoted No.2 scrap copper at a
+	<field name = "content">Dealers quoted No.2 scrap copper at a
 nominal 51.50 cents up        0.50 cents from Monday.
     Refiners were willing to pay some 2.00 cents above that
 level for premium lots    of scrap.

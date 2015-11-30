@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 10:49:21.55</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1204reute
-u f BC-CYCLOPS-CYL>-SAYS-DI   03-24 0100</field>
-	<field name = "TITLE">CYCLOPS CYL> SAYS DIXONS AGREEMENTS BINDING</field>
+	<field name = "titulo">CYCLOPS CYL> SAYS DIXONS AGREEMENTS BINDING</field>
 	<field name = "DATELINE">PITTSBURGH, March 24 -</field>
-	<field name = "BODY">Cyclops Corp said that as it has
+	<field name = "content">Cyclops Corp said that as it has
 already stated, its agreements with Dixons Group PLC> are
 binding and Dixons will not rescind or waive any provisions of
 the agreements.

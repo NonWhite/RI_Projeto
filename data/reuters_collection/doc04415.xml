@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 14:12:54.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0061reute
-r f BC-HOME-SHOPPINGHSN>-MA   03-12 0110</field>
-	<field name = "TITLE">HOME SHOPPINGHSN> MAKES OFFER FIT EURO DEMAND</field>
+	<field name = "titulo">HOME SHOPPINGHSN> MAKES OFFER FIT EURO DEMAND</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Home Shopping Network Inc announced it
+	<field name = "content">Home Shopping Network Inc announced it
 agreed with underwriter Drexel Burnham Lambert Inc to amend its
 recent filing for an offering of 400 mln dlrs of 15-year
 convertible subordinated debentures in order to accommodate

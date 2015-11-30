@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 15:19:45.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2229reute
-r f BC-NORTH-AMERICAN-PHILIP   03-19 0072</field>
-	<field name = "TITLE">NORTH AMERICAN PHILIPS NPH> UNIT NAMES EXECUTIVE</field>
+	<field name = "titulo">NORTH AMERICAN PHILIPS NPH> UNIT NAMES EXECUTIVE</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">North American Philips Corp said Lyman
+	<field name = "content">North American Philips Corp said Lyman
 Beggs has been named president of its Consumer Products
 Divisions.
     The company said Beggs, formerly executive vice president

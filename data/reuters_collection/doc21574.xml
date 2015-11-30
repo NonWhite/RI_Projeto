@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 00:18:22.79</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">RM V 
-f0022reute
-u f BC-SOVIET-INDUSTRIAL-GRO   10-19 0087</field>
-	<field name = "TITLE">SOVIET INDUSTRIAL GROWTH/TRADE SLOWER IN 1987</field>
+	<field name = "titulo">SOVIET INDUSTRIAL GROWTH/TRADE SLOWER IN 1987</field>
 	<field name = "DATELINE">MOSCOW, Oct 19 -</field>
-	<field name = "BODY">The Soviet Union's industrial output is
+	<field name = "content">The Soviet Union's industrial output is
 growing at a slower pace in 1987 than in 1986 and foreign trade
 has fallen, Central Statistical Office figures show.
     Figures in the Communist Party newspaper Pravda show

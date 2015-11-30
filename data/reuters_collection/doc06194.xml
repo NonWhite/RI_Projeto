@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 14:31:19.73</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f6186reute
-r f BC-macmillan-bloedel   03-17 0108</field>
-	<field name = "TITLE">MACMILLAN BLOEDELMMBLF> RAISES NEWSPRINT PRICE</field>
+	<field name = "titulo">MACMILLAN BLOEDELMMBLF> RAISES NEWSPRINT PRICE</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, March 17 -</field>
-	<field name = "BODY">MacMillan Bloedel
+	<field name = "content">MacMillan Bloedel
 Ltd said it increased its current newsprint list price for
 customers in the United States by 30 U.S. dlrs a tonne,
 effective July 1, 1987.

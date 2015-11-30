@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 13:34:55.55</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f2033reute
-u f BC-STERLING-BANCORP-STL   06-02 0063</field>
-	<field name = "TITLE">STERLING BANCORP STL>HAS NO COMMENT ON ACTIVITY</field>
+	<field name = "titulo">STERLING BANCORP STL>HAS NO COMMENT ON ACTIVITY</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">The New York Stock Exchange said
+	<field name = "content">The New York Stock Exchange said
 Sterling Bancorp declined to comment on whether there are any
 corporate developments that would explain the unusual activity
 in its stock.

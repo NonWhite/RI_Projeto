@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 09:02:05.94</field>
 	<field name = "PLACES">china</field>
 	<field name = "PEOPLE">zhao-ziyang</field>
-	<field name = "UNKNOWN">C G T M
-f0800reute
-d f BC-CHINA-MUST-CUT-DEMAND   03-25 0121</field>
-	<field name = "TITLE">CHINA MUST CUT DEMAND, CONTINUE REFORMS: ZHAO</field>
+	<field name = "titulo">CHINA MUST CUT DEMAND, CONTINUE REFORMS: ZHAO</field>
 	<field name = "DATELINE">PEKING, March 25 -</field>
-	<field name = "BODY">China must cut excess demand and capital
+	<field name = "content">China must cut excess demand and capital
 investment in the face of budget and foreign exchange deficits
 but will press ahead with wide-ranging economic reforms in
 1987, Premier Zhao Ziyang told parliament.

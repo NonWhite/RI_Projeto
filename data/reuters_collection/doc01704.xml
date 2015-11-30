@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 14:21:41.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0387reute
-u f BC-ANALYST-REITERATES-BU   03-04 0096</field>
-	<field name = "TITLE">ANALYST REITERATES BUY ON SOME DRUG STOCKS</field>
+	<field name = "titulo">ANALYST REITERATES BUY ON SOME DRUG STOCKS</field>
 	<field name = "DATELINE">New York, March 4 -</field>
-	<field name = "BODY">Merrill Lynch and Co analyst Richard
+	<field name = "content">Merrill Lynch and Co analyst Richard
 Vietor said he reiterated a buy recommendation on several drug
 stocks today.
     The stocks were Bristol-Myers Co BMY>, which rose 2-1/4 to

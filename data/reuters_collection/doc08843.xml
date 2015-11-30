@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 12:04:11.50</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1535reute
-b f BC-BANCO-DI-SICILIA-INTE   03-24 0107</field>
-	<field name = "TITLE">BANCO DI SICILIA INTERNATIONAL ISSUES EUROBOND</field>
+	<field name = "titulo">BANCO DI SICILIA INTERNATIONAL ISSUES EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 24 -</field>
-	<field name = "BODY">Banco di Sicilia International SA is
+	<field name = "content">Banco di Sicilia International SA is
 issuing a 30 mln U.S. Dlr, zero coupon eurobond due April 15,
 1992 and priced at 70.40, Nomura International Ltd said as
 joint bookrunner.

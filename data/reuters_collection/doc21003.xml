@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 15:32:25.38</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f2855reute
-b f BC-GM-GM>-CANADA-UNIT-M   10-19 0096</field>
-	<field name = "TITLE">GM GM> CANADA UNIT MAJOR OFFER ACCEPTED BY UNION</field>
+	<field name = "titulo">GM GM> CANADA UNIT MAJOR OFFER ACCEPTED BY UNION</field>
 	<field name = "DATELINE">TORONTO, Oct 19 -</field>
-	<field name = "BODY">The Canadian Auto Workers' Union said it
+	<field name = "content">The Canadian Auto Workers' Union said it
 accepted an economic offer from the Canadian division of
 General Motors Corp GM> in contract negotiations.
     But union president Bob White said many local issues at the

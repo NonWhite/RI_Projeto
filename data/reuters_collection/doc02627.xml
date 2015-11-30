@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 10:53:31.24</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0383reute
-u f BC-BOFORS-MANAGING-DIREC   03-06 0120</field>
-	<field name = "TITLE">BOFORS MANAGING DIRECTOR RESIGNS</field>
+	<field name = "titulo">BOFORS MANAGING DIRECTOR RESIGNS</field>
 	<field name = "DATELINE">STOCKHOLM, March 6 -</field>
-	<field name = "BODY">Martin Ardbo, managing director of AB
+	<field name = "content">Martin Ardbo, managing director of AB
 Bofors>, which is at the centre of a police inquiry into
 illegal arms shipments to Iran, has resigned, the company said.
     Ardbo was Bofors marketing head at the time peace groups

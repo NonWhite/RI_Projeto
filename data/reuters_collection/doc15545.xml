@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 10:07:37.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0968reute
-b f BC-/SEARS,-ROEBUCK-S>-M   04-09 0060</field>
-	<field name = "TITLE">SEARS, ROEBUCK S> MARCH RETAIL SALES UP</field>
+	<field name = "titulo">SEARS, ROEBUCK S> MARCH RETAIL SALES UP</field>
 	<field name = "DATELINE">CHICAGO, April 9 -</field>
-	<field name = "BODY">Sears, Roebuck and Co said retail sales
+	<field name = "content">Sears, Roebuck and Co said retail sales
 of its Merchandise Group in March rose 4.2 pct to 2.62 billion
 dlrs from 2.51 billion dlrs a year ago.
     For the nine weeks ended April Four, Sears Merchandise

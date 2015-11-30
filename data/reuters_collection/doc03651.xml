@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 10:41:54.22</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0334reute
-d f BC-PACER-SYSTEMS>-TO-MA   03-11 0050</field>
-	<field name = "TITLE">PACER SYSTEMS> TO MAKE ACQUISITION</field>
+	<field name = "titulo">PACER SYSTEMS> TO MAKE ACQUISITION</field>
 	<field name = "DATELINE">BILLERICA, Mass., March 11 -</field>
-	<field name = "BODY">Pacer Systems said it has
+	<field name = "content">Pacer Systems said it has
 agreed in principle to acquire the assets of Sea Data Corp, a
 maker of low-powered electronic systems including undersea
 intelligent recording sensors and high-density digital data

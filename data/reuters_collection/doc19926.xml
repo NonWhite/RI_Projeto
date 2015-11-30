@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 17:03:00.42</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">A Y RM 
-f2591reute
-u f BC-venezuela-budget-fors   06-29 0125</field>
-	<field name = "TITLE">VENEZUELA BUDGET SEES 16.35 DLRS OIL PRICE</field>
+	<field name = "titulo">VENEZUELA BUDGET SEES 16.35 DLRS OIL PRICE</field>
 	<field name = "DATELINE">CARACAS, June 29 -</field>
-	<field name = "BODY">Venezuela's government tomorrow presents
+	<field name = "content">Venezuela's government tomorrow presents
 a 1988 budget proposal for 183.432 billion bolivars, based upon
 an oil price of 16.35 dlrs per barrel, finance minister Manuel
 Azpurua said.

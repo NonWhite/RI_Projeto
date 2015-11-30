@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 10:43:50.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1109reute
-r f BC-HECHINGER-HECHA>-SEL   03-20 0114</field>
-	<field name = "TITLE">HECHINGER HECHA> SELLS CONVERTIBLE DEBENTURES</field>
+	<field name = "titulo">HECHINGER HECHA> SELLS CONVERTIBLE DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Hechinger Co is raising 125 mln dlrs
+	<field name = "content">Hechinger Co is raising 125 mln dlrs
 through an offering of convertible subordinated debentures due
 2012 with a 5-1/2 pct coupon and par pricing, said sole
 underwriter Morgan Stanley and Co Inc.

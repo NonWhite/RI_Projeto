@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-supply</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f1180reute
-u f BC-BANK-OF-SPAIN-GOVERNO   04-02 0114</field>
-	<field name = "TITLE">BANK OF SPAIN GOVERNOR SAYS MONEY GROWTH TOO FAST</field>
+	<field name = "titulo">BANK OF SPAIN GOVERNOR SAYS MONEY GROWTH TOO FAST</field>
 	<field name = "DATELINE">MADRID, April 2 -</field>
-	<field name = "BODY">Bank of Spain governor Mariano Rubio said
+	<field name = "content">Bank of Spain governor Mariano Rubio said
 the central bank was worried that money supply was growing too
 fast, reflecting excessive internal demand in the Spanish
 economy, but added that he was confident recent measures would

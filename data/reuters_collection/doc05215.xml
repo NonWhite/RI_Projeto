@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 04:44:55.80</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">RM
-f1297reute
-u f BC-MALAYSIA'S-GOLD-AND-F   03-16 0100</field>
-	<field name = "TITLE">MALAYSIA'S GOLD AND FOREIGN EXCHANGE RESERVES RISE</field>
+	<field name = "titulo">MALAYSIA'S GOLD AND FOREIGN EXCHANGE RESERVES RISE</field>
 	<field name = "DATELINE">KUALA LUMPUR, March 16 -</field>
-	<field name = "BODY">Malaysia's gold and foreign
+	<field name = "content">Malaysia's gold and foreign
 exchange reserves rose to 16.07 billion ringgit in February
 from 15.73 billion in January and 12.23 billion in February
 1986, Bank Negara Malaysia said.

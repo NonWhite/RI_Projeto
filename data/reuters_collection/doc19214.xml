@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 11:19:38.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1224reute
-h f BC-VIRTUSONICS-CORP>-EX   06-19 0054</field>
-	<field name = "TITLE">VIRTUSONICS CORP> EXTENDS EXERCISE PERIOD</field>
+	<field name = "titulo">VIRTUSONICS CORP> EXTENDS EXERCISE PERIOD</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Virtusonics Corp said it extended to
+	<field name = "content">Virtusonics Corp said it extended to
 July 31 the period to exercise its outstanding warrants at 1.5
 cts a share.
     The company on June 18 said it had reduced the exercise

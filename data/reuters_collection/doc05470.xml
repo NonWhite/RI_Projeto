@@ -3,13 +3,10 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">colombia</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f2733reute
-u f BC-COLOMBIA-COFFEE-EXPOR   03-16 0106</field>
-	<field name = "TITLE">COLOMBIA COFFEE EXPORTERS BELIEVE IN PRAGMATISM</field>
+	<field name = "titulo">COLOMBIA COFFEE EXPORTERS BELIEVE IN PRAGMATISM</field>
 	<field name = "AUTHOR">By Gilles Trequesser, Reuters</field>
 	<field name = "DATELINE">BOGOTA, March 16 -</field>
-	<field name = "BODY">Private coffee exporters say Colombia's
+	<field name = "content">Private coffee exporters say Colombia's
 more pragmatic coffee marketing policy will ensure that the
 country does not suffer excessively from current depressed
 prices and erratic market conditions.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">groundnut</field>
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G
-f2344reute
-r f BC-CCC-SELLS-FARMERS-STO   04-01 0080</field>
-	<field name = "TITLE">CCC SELLS FARMERS STOCK PEANUTS, OFFERS MORE</field>
+	<field name = "titulo">CCC SELLS FARMERS STOCK PEANUTS, OFFERS MORE</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">The U.S. Commodity Credit Corporation
+	<field name = "content">The U.S. Commodity Credit Corporation
 (CCC) sold 6,034 short tons of 1986-crop farmers stock peanuts
 for domestic crushing, the U.S. Agriculture Department said.
     The peanuts were from the Southwest area and were sold at

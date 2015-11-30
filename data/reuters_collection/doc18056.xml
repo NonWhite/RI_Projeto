@@ -3,12 +3,9 @@
 	<field name = "PLACES">switzerland</field>
 	<field name = "PEOPLE">volcker</field>
 	<field name = "PEOPLE">greenspan</field>
-	<field name = "UNKNOWN">RM
-f1415reute
-u f BC-CSFB-ECONOMIST-SAYS-V   06-02 0104</field>
-	<field name = "TITLE">CSFB ECONOMIST SAYS VOCLKER'S RESIGNATION A SHOCK</field>
+	<field name = "titulo">CSFB ECONOMIST SAYS VOCLKER'S RESIGNATION A SHOCK</field>
 	<field name = "DATELINE">ZURICH, June 2 -</field>
-	<field name = "BODY">The decision by Paul Volcker not to serve
+	<field name = "content">The decision by Paul Volcker not to serve
 a third term as chairman of the U.S. Federal Reserve Board is a
 shock for financial markets and the world economy, Hans Mast,
 senior economic adviser to Credit Suisse First Boston, said.

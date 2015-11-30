@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 16:56:42.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2526reute
-r f BC-P.S.-INDIANA-PIN>-TO   03-19 0111</field>
-	<field name = "TITLE">P.S. INDIANA PIN> TO REDEEM DOUBLE-DIGIT DEBT</field>
+	<field name = "titulo">P.S. INDIANA PIN> TO REDEEM DOUBLE-DIGIT DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Public Service Co of Indiana Inc said
+	<field name = "content">Public Service Co of Indiana Inc said
 it acted today to replace 35 mln dlrs in existing debt,
 estimating that would save it about 1.8 mln dlrs a year.
     The utility said it plans to issue a 35 mln dlr, 7.6 pct

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 14:02:16.96</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0328reute
-d f BC-ECONOMIC-SPOTLIGHT--   03-04 0105</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - JAPAN LOW GROWTH MODEL</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - JAPAN LOW GROWTH MODEL</field>
 	<field name = "AUTHOR">By Eric Hall, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 4 -</field>
-	<field name = "BODY">Healthy growth in corporate profits and in
+	<field name = "content">Healthy growth in corporate profits and in
 consumer spending, the two pillars on which Japan rests its
 hopes of sustained economic growth, both look rotten at the
 core, economists polled by Reuters said.

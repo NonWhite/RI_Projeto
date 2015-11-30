@@ -3,13 +3,10 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0524reute
-r f BC-NIPPON-LIFE,-SHEARSON   03-24 0109</field>
-	<field name = "TITLE">NIPPON LIFE, SHEARSON TIE-UP SEEN SETTING TREND</field>
+	<field name = "titulo">NIPPON LIFE, SHEARSON TIE-UP SEEN SETTING TREND</field>
 	<field name = "AUTHOR">By Steven Brull, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 24 -</field>
-	<field name = "BODY">Nippon Life Insurance Co's 538 mln dlr
+	<field name = "content">Nippon Life Insurance Co's 538 mln dlr
 purchase of a 13 pct stake in Shearson Lehman Brothers Inc
 brokerage unit is a shrewd move that other Japanese insurers
 are likely to follow, securities analysts said.

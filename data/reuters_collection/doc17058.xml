@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">cuba</field>
-	<field name = "UNKNOWN">C T
-f0409reute
-u f BC-JAPANESE-BUYERS-ACCEP   04-24 0103</field>
-	<field name = "TITLE">JAPANESE BUYERS ACCEPT CUBA SUGAR DELAY - TRADERS</field>
+	<field name = "titulo">JAPANESE BUYERS ACCEPT CUBA SUGAR DELAY - TRADERS</field>
 	<field name = "DATELINE">TOKYO, April 24 -</field>
-	<field name = "BODY">Several Japanese buyers have accepted
+	<field name = "content">Several Japanese buyers have accepted
 postponement of between 150,000 and 200,000 tonnes of Cuban raw
 sugar scheduled for delivery in calendar 1987 until next year
 following a request from Cuba, trade sources said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 12:44:08.23</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1858reute
-d f BC-TRADESTAR-TIRR>-ACQU   03-31 0050</field>
-	<field name = "TITLE">TRADESTAR TIRR> ACQUIRES IMAGE VIDEO</field>
+	<field name = "titulo">TRADESTAR TIRR> ACQUIRES IMAGE VIDEO</field>
 	<field name = "DATELINE">TULSA, Okla., March 31 -</field>
-	<field name = "BODY">Tradestar Corp said it acquired
+	<field name = "content">Tradestar Corp said it acquired
 Image Video Inc> for an undisclosed sum.
     The company said Image Video produces and distributes
 videos for the home market.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:51:02.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2329reute
-r f BC-AMR-AMR>-COMPLETES-P   06-02 0101</field>
-	<field name = "TITLE">AMR AMR> COMPLETES PREFERRED STOCK PLACEMENT</field>
+	<field name = "titulo">AMR AMR> COMPLETES PREFERRED STOCK PLACEMENT</field>
 	<field name = "DATELINE">DALLAS, June 2 -</field>
-	<field name = "BODY">AMR Corp, parent company of American
+	<field name = "content">AMR Corp, parent company of American
 Airlines, said it has completed a private placement of 150 mln
 dlrs of preferred auction rate stock through Bankers Trust Co
 NY BT>.

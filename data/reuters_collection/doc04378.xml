@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 13:30:06.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0943reute
-w f BC-MELVILLE-MES>-NAMES   03-12 0062</field>
-	<field name = "TITLE">MELVILLE MES> NAMES CHIEF FINANCIAL OFFICER</field>
+	<field name = "titulo">MELVILLE MES> NAMES CHIEF FINANCIAL OFFICER</field>
 	<field name = "DATELINE">HARRISON, N.Y., March 12 -</field>
-	<field name = "BODY">Melville Corp said it elected
+	<field name = "content">Melville Corp said it elected
 Robert Huth as executive vice president and chief financial
 officer, succeeding Kenneth Berland on April six.
     Berland will continue as vice chairman and chief

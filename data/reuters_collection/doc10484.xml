@@ -1,15 +1,13 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:27:45.88E F</field>
-	<field name = "UNKNOWN">f1284reute</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "TOPICS">silver</field>
 	<field name = "TOPICS">zinc</field>
 	<field name = "TOPICS">lead</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-PEGASUS-GOLD-PGULF>   03-27 0106</field>
-	<field name = "TITLE">PEGASUS GOLD PGULF> STARTS MILLING IN MONTANA</field>
+	<field name = "titulo">PEGASUS GOLD PGULF> STARTS MILLING IN MONTANA</field>
 	<field name = "DATELINE">JEFFERSON CITY, Mont., March 27 -</field>
-	<field name = "BODY">Pegasus Gold Inc said
+	<field name = "content">Pegasus Gold Inc said
 milling operations have started at its Montana Tunnels open-pit
 gold, silver, zinc and lead mine near Helena.
     The start-up is three months ahead of schedule and six mln

@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 13:01:49.44</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1914reute
-d f BC-AZTEC-MANUFACTURING-C   03-30 0094</field>
-	<field name = "TITLE">AZTEC MANUFACTURING CO AZTC> 4TH QTR LOSS</field>
+	<field name = "titulo">AZTEC MANUFACTURING CO AZTC> 4TH QTR LOSS</field>
 	<field name = "DATELINE">CROWLEY, Texas, March 30 -</field>
-	<field name = "BODY">Shr loss 77 cts vs loss 1.49 dlrs
+	<field name = "content">Shr loss 77 cts vs loss 1.49 dlrs
     Qtly div two cts vs two cts prior
     Net loss 3,860,000 vs loss 7,541,000
     Sales 2,538,000 vs 3,648,000

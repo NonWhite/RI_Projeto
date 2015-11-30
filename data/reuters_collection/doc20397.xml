@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 11:55:15.13</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1800reute
-r f BC-TRANSAMERICA-TA>-TO   10-20 0103</field>
-	<field name = "TITLE">TRANSAMERICA TA> TO BUY SEDGWICK SDWK.L> UNIT</field>
+	<field name = "titulo">TRANSAMERICA TA> TO BUY SEDGWICK SDWK.L> UNIT</field>
 	<field name = "DATELINE">LOS ANGELES, Oct 20 -</field>
-	<field name = "BODY">Transamerica Corp's Transamerica
+	<field name = "content">Transamerica Corp's Transamerica
 Insurance Co said it signed a definitive pact to buy a 51 pct
 interest in Sedgwick Group PLC's River Thames Insurance Co.
     Transamerica will buy 11 mln newly issued Class A shares of

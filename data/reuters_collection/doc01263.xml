@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 15:24:51.90</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0707reute
-h f BC-CCR-VIDEO-1ST-QTR-NOV   03-03 0023</field>
-	<field name = "TITLE">CCR VIDEO 1ST QTR NOV 30 NET</field>
+	<field name = "titulo">CCR VIDEO 1ST QTR NOV 30 NET</field>
 	<field name = "DATELINE">LOS ANGELES, March 3 -</field>
-	<field name = "BODY">Shr 2-1/5 cts vs nil
+	<field name = "content">Shr 2-1/5 cts vs nil
     Net 156,726 vs 11,989
     Sales 1,157,883 vs 890,138
 

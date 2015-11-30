@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 16:45:26.21</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2453reute
-d f BC-COMMONWEALTH-EDISON-C   03-20 0052</field>
-	<field name = "TITLE">COMMONWEALTH EDISON CO CWE> 12 MONTHS NET</field>
+	<field name = "titulo">COMMONWEALTH EDISON CO CWE> 12 MONTHS NET</field>
 	<field name = "DATELINE">CHICAGO, March 20 -</field>
-	<field name = "BODY">Period ended Feb 28
+	<field name = "content">Period ended Feb 28
     Shr 4.66 dlrs vs 4.40 dlrs
     Net 1,048,884,000 vs 959,626,000
     Revs 5.43 billion vs 5.04 billion

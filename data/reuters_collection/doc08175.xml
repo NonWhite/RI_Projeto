@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C T
-f0439reute
-b f BC-BEGHIN-SAY-SEES-SOLUT   03-23 0097</field>
-	<field name = "TITLE">BEGHIN-SAY SEES SOLUTION TO EC SUGAR DISPUTE</field>
+	<field name = "titulo">BEGHIN-SAY SEES SOLUTION TO EC SUGAR DISPUTE</field>
 	<field name = "DATELINE">PARIS, March 23 -</field>
-	<field name = "BODY">A settlement could soon be reached in the
+	<field name = "content">A settlement could soon be reached in the
 dispute between European sugar producers and the European
 Community over EC export licencing policies, Jean-Marc Vernes,
 president of French sugar producer Beghin-Say, which is leading

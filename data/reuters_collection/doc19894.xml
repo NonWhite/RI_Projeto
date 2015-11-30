@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 16:20:55.83</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2462reute
-r f BC-AUSTEC-AIL.S>-COMPLE   06-29 0095</field>
-	<field name = "TITLE">AUSTEC AIL.S> COMPLETE PURCHASE OF PRIVATE FIRM</field>
+	<field name = "titulo">AUSTEC AIL.S> COMPLETE PURCHASE OF PRIVATE FIRM</field>
 	<field name = "DATELINE">SAN JOSE, Calif, June 29 -</field>
-	<field name = "BODY">Austec International Ltd said
+	<field name = "content">Austec International Ltd said
 its North American unit, Austec Inc, completed the purchase of
 privately-held Ryan-McFarland Corp for an undisclosed sum.
     The company said the two units combined are expected to

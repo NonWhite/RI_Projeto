@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 18:22:03.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0700reute
-r f BC-MANVILLE-QMAN>-NAMES   03-13 0075</field>
-	<field name = "TITLE">MANVILLE QMAN> NAMES FINANCIAL OFFICER</field>
+	<field name = "titulo">MANVILLE QMAN> NAMES FINANCIAL OFFICER</field>
 	<field name = "DATELINE">DENVER, March 13 -</field>
-	<field name = "BODY">Manville Corp said it named John Roach
+	<field name = "content">Manville Corp said it named John Roach
 senior vice president and chief financial officer.
     The post of chief financial officer has been vacant since
 W.T. Stephens was appointed president of the company last

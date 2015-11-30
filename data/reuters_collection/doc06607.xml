@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 12:28:43.73</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f8601reute
-r f BC-WELLCOME-FALLS-ON-BRI   03-18 0118</field>
-	<field name = "TITLE">WELLCOME FALLS ON BRISTOL-MYERS AIDS DRUG REPORT</field>
+	<field name = "titulo">WELLCOME FALLS ON BRISTOL-MYERS AIDS DRUG REPORT</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">Shares of Wellcome Plc WELL.L> fell
+	<field name = "content">Shares of Wellcome Plc WELL.L> fell
 sharply following a report that Bristol-Myers Co BMY> would
 seek U.S. Food and Drug Administration permission to test its
 aids vaccine in humans by the end of March, dealers said.

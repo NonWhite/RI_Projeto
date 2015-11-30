@@ -2,12 +2,9 @@
 	<field name = "DATE">29-APR-1987 10:25:40.86</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
-	<field name = "UNKNOWN">C G T
-f1102reute
-b f BC-SOVIET-SPRING-CROPS-S   04-29 0122</field>
-	<field name = "TITLE">SOVIET SPRING CROPS SOWN ON ONLY 11 PCT OF LAND</field>
+	<field name = "titulo">SOVIET SPRING CROPS SOWN ON ONLY 11 PCT OF LAND</field>
 	<field name = "DATELINE">****MOSCOW, April 29 -</field>
-	<field name = "BODY">Soviet farmers had sown spring crops
+	<field name = "content">Soviet farmers had sown spring crops
 on only 15.8 mln hectares or 11 pct of cultivated land by April
 27, compared with 26.2 mln ha by April 21, 1986, Izvestia said.
     Grains and pulses (except maize) were sown on 6.7 mln ha,

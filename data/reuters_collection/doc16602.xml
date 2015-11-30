@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 15:11:00.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2320reute
-d f BC-SPENCER-COS>-SUES-CH   04-13 0112</field>
-	<field name = "TITLE">SPENCER COS> SUES CHASE MANHATTAN CMB></field>
+	<field name = "titulo">SPENCER COS> SUES CHASE MANHATTAN CMB></field>
 	<field name = "DATELINE">BOSTON, April 13 -</field>
-	<field name = "BODY">Spencer Cos Inc said it sued two Chase
+	<field name = "content">Spencer Cos Inc said it sued two Chase
 Manhattan Corp units for forcing Spencer and its subsidiaries
 to seek protection from creditors under Chapter 11 of the U.S.
 Bankruptcy Code.

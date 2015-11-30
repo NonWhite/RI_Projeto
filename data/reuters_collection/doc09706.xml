@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 01:02:07.02</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0028reute
-u f BC-LINDE-AG-LING.F>-198   03-26 0104</field>
-	<field name = "TITLE">LINDE AG LING.F> 1986 YEAR</field>
+	<field name = "titulo">LINDE AG LING.F> 1986 YEAR</field>
 	<field name = "DATELINE">WIESBADEN, West Germany, March 26 -</field>
-	<field name = "BODY">Domestic group net profit 105.79 mln marks vs 80.71 mln
+	<field name = "content">Domestic group net profit 105.79 mln marks vs 80.71 mln
     Turnover 2.93 billion marks vs 2.71 billion
     Incoming orders 2.92 billion marks vs 2.86 billion
     Order book at end December 2.28 billion vs 2.37 billion

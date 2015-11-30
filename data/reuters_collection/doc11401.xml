@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 11:26:02.51</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1520reute
-u f BC-LAROCHE-DROPS-CONDITI   03-31 0096</field>
-	<field name = "TITLE">LAROCHE DROPS CONDITION TO NECO NPT> OFFER</field>
+	<field name = "titulo">LAROCHE DROPS CONDITION TO NECO NPT> OFFER</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Investor David F. Laroche said he has
+	<field name = "content">Investor David F. Laroche said he has
 decided to drop the condition to his tender offer for 170,000
 shares of NECO Enterprises Inc at 26 dlrs each that at least
 170,000 shares be tendered.

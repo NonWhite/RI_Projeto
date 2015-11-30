@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 09:03:08.11</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0413
-reute
-r f BC-sdc-sydney-developm't   03-02 0064</field>
-	<field name = "TITLE">SDC SYDNEY DEVELOPMENT CORP> NINE MTHS LOSS</field>
+	<field name = "titulo">SDC SYDNEY DEVELOPMENT CORP> NINE MTHS LOSS</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, March 2 -</field>
-	<field name = "BODY">Period ended December 31, 1986
+	<field name = "content">Period ended December 31, 1986
     Oper shr loss 1.08 dlrs vs loss 84 cts
     Oper loss 7,700,000 vs loss 1,700,000
     Revs 11,800,000 vs 9,800,000

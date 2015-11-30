@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 12:00:26.57</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1461reute
-d f BC-FED-APPROVES-AMSOUTH   03-19 0079</field>
-	<field name = "TITLE">FED APPROVES AMSOUTH ASO> AFFILIATION</field>
+	<field name = "titulo">FED APPROVES AMSOUTH ASO> AFFILIATION</field>
 	<field name = "DATELINE">BIRMINGHAM, Ala, March 19 -</field>
-	<field name = "BODY">AmSouth Corp said the Federal
+	<field name = "content">AmSouth Corp said the Federal
 Reserve Board approved the affiliation of First Tuskaloosa Corp
 with Amsouth.
     The approval was the final regulatory step in the

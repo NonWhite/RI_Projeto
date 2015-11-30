@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0004reute
-b f BC-BANK-OF-JAPAN-STEPS-U   03-24 0095</field>
-	<field name = "TITLE">BANK OF JAPAN STEPS UP DOLLAR BUYING</field>
+	<field name = "titulo">BANK OF JAPAN STEPS UP DOLLAR BUYING</field>
 	<field name = "DATELINE">TOKYO, March 24 -</field>
-	<field name = "BODY">The Bank of Japan stepped up its dollar
+	<field name = "content">The Bank of Japan stepped up its dollar
 buying as it re-entered the market after the midday Tokyo lunch
 break, dealers said.
     They said the bank seemed more determined to support the

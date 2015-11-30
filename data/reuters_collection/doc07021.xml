@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 07:21:25.03</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">A
-f0462reute
-r f BC-DEBT-ECUADOR   03-19 0085</field>
-	<field name = "TITLE">ECUADOR SEEKS 450 MLN DLRS IN EMERGENCY CREDIT</field>
+	<field name = "titulo">ECUADOR SEEKS 450 MLN DLRS IN EMERGENCY CREDIT</field>
 	<field name = "AUTHOR">By Jorge Aguirre, Reuters</field>
 	<field name = "DATELINE">QUITO, March 18 -</field>
-	<field name = "BODY">Ecuador is seeking between 437 and 450
+	<field name = "content">Ecuador is seeking between 437 and 450
 mln dlrs in loans this year from multilateral organisations and
 foreign governments to grapple with economic losses from a
 devastating earthquake 13 days ago, a presidential economic

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 07:13:42.55</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM 
-f2621reute
-u f BC-1988-FRENCH-MINISTERI   06-18 0098</field>
-	<field name = "TITLE">1988 FRENCH MINISTERIAL BUDGETS FROZEN - SOURCES</field>
+	<field name = "titulo">1988 FRENCH MINISTERIAL BUDGETS FROZEN - SOURCES</field>
 	<field name = "DATELINE">PARIS, June 18 -</field>
-	<field name = "BODY">Average spending by French ministries will
+	<field name = "content">Average spending by French ministries will
 be virtually frozen next year within the framework of a one pct
 real increase in the overall state budget, sources close to
 French Finance Minister Edouard Balladur said.

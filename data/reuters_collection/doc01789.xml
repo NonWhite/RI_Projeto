@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 16:05:23.71</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0717reute
-d f BC-TANDY-BRANDS-TAB>-SE   03-04 0064</field>
-	<field name = "TITLE">TANDY BRANDS TAB> SELLS UNIT</field>
+	<field name = "titulo">TANDY BRANDS TAB> SELLS UNIT</field>
 	<field name = "DATELINE">FORT WORTH, Texas, March 4 -</field>
-	<field name = "BODY">Tandy Brands Inc said it sold
+	<field name = "content">Tandy Brands Inc said it sold
 its Grate Home and Fireplace division to an investor group that
 includes some members of Grate's management for 1,600,000 dlrs
 in cash and secured notes.

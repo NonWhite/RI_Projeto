@@ -4,12 +4,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">G C
-f0222reute
-u f BC-JAPAN-BUYS-LARGE-AMOU   03-30 0102</field>
-	<field name = "TITLE">JAPAN BUYS LARGE AMOUNT OF BRAZILIAN SOYBEANS</field>
+	<field name = "titulo">JAPAN BUYS LARGE AMOUNT OF BRAZILIAN SOYBEANS</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">Japanese crushers have bought some
+	<field name = "content">Japanese crushers have bought some
 214,000 tonnes of Brazilian soybeans for late April/early July
 shipment and may buy up to 140,000 to 190,000 tonnes more for
 June to August shipment, trade sources said.

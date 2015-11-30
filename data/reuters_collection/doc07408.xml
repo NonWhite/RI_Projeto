@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 16:05:26.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2359reute
-r f BC-PACIFICORP-PPW>-OFFE   03-19 0109</field>
-	<field name = "TITLE">PACIFICORP PPW> OFFERING OF DARTS UNDER WAY</field>
+	<field name = "titulo">PACIFICORP PPW> OFFERING OF DARTS UNDER WAY</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Pacificorp is offering 500 shares each
+	<field name = "content">Pacificorp is offering 500 shares each
 of series A and series B Dutch Auction Rate Transferable
 Securities, or DARTS, said underwriting group co-managers
 Salomon Bros Inc and Goldman Sachs and Co.

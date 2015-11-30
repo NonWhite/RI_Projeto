@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 08:23:50.52</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0768reute
-r f BC-NEWS-CORP-NWS>-START   04-02 0109</field>
-	<field name = "TITLE">NEWS CORP NWS> STARTS HARPER/ROW HPR> BID</field>
+	<field name = "titulo">NEWS CORP NWS> STARTS HARPER/ROW HPR> BID</field>
 	<field name = "DATELINE">NEW YORK, April 2 -</field>
-	<field name = "BODY">News Corp Ltd of Australia said it has
+	<field name = "content">News Corp Ltd of Australia said it has
 started its previously announced tender offer for all shares of
 Harper and Row Publishers Inc at 65 dlrs per share.
     In a newspaper advertisement, the company said the offer is

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 05:49:23.68</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">F
-f0467reute
-u f BC-COMPROMISE-CITED-ON-S   04-02 0108</field>
-	<field name = "TITLE">COMPROMISE CITED ON SAN MIGUEL SHARES</field>
+	<field name = "titulo">COMPROMISE CITED ON SAN MIGUEL SHARES</field>
 	<field name = "DATELINE">MANILA, April 2 -</field>
-	<field name = "BODY">San Miguel Corp>, SMC, and United
+	<field name = "content">San Miguel Corp>, SMC, and United
 Coconut Planters Bank>, UCPB, have reached a compromise on a
 disputed block of 38.1 mln shares of SMC, the head of a
 government panel that controls the sequestered shares said.

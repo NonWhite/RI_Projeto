@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:14:56.73</field>
-	<field name = "UNKNOWN">E
-f0158reute
-u f BC-STOCKS-CLOSE-WEAKER-I   04-07 0107</field>
-	<field name = "TITLE">STOCKS CLOSE WEAKER IN HONG KONG</field>
+	<field name = "titulo">STOCKS CLOSE WEAKER IN HONG KONG</field>
 	<field name = "DATELINE">HONG KONG, April 7 -</field>
-	<field name = "BODY">Share prices closed weaker but well
+	<field name = "content">Share prices closed weaker but well
 above their lows on late bargain hunting in fairly quiet
 trading, brokers said.
     The Hang Seng Index lost 15.29 points to end the day at

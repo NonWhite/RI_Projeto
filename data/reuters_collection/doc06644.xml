@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">E F
-f8789reute
-r f AM-RAIN   03-18 0104</field>
-	<field name = "TITLE">REAGAN PLEDGES TO INCREASE SPENDING ON ACID RAIN</field>
+	<field name = "titulo">REAGAN PLEDGES TO INCREASE SPENDING ON ACID RAIN</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">President Reagan, reacting to
+	<field name = "content">President Reagan, reacting to
 Canadian concerns, today announced he will seek 2.5 billion
 dlrs over five years to combat acid rain.
     The announcement said the administration will request from

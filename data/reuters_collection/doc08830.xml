@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 11:49:52.09</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1479reute
-u f BC-LB-RHEINLAND-PFALZ-IS   03-24 0116</field>
-	<field name = "TITLE">LB RHEINLAND-PFALZ ISSUES AUSTRALIA DLR BOND</field>
+	<field name = "titulo">LB RHEINLAND-PFALZ ISSUES AUSTRALIA DLR BOND</field>
 	<field name = "DATELINE">London, March 24 -</field>
-	<field name = "BODY">Landesbank Rheinland-Pfalz Finance BV is
+	<field name = "content">Landesbank Rheinland-Pfalz Finance BV is
 issuing a zero coupon 75 mln Australia dlr bond due May 7, 1992
 priced at 52-3/4 pct for an effective yield to maturity of
 14-1/4 pct, said Orion Royal Bank as lead manager.

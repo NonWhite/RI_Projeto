@@ -5,12 +5,9 @@
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">sumita</field>
-	<field name = "UNKNOWN">RM
-f0133reute
-b f BC-SUMITA-SAYS-FURTHER-Y   04-26 0118</field>
-	<field name = "TITLE">SUMITA SAYS FURTHER YEN RISE UNLIKELY - JIJI PRESS</field>
+	<field name = "titulo">SUMITA SAYS FURTHER YEN RISE UNLIKELY - JIJI PRESS</field>
 	<field name = "DATELINE">OSAKA, April 27 -</field>
-	<field name = "BODY">Japan's Jiji Press quoted Bank of Japan
+	<field name = "content">Japan's Jiji Press quoted Bank of Japan
 Governor Satoshi Sumita as telling Japanese reporters the
 central bank will continue determined market intervention to
 prevent a further rise in the value of the yen.

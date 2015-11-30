@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:44:07.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f1504reute
-u f BC-GULF-OF-MEXICO-RIG-CO   04-13 0098</field>
-	<field name = "TITLE">GULF OF MEXICO RIG COUNT DOWN SLIGHTLY THIS WEEK</field>
+	<field name = "titulo">GULF OF MEXICO RIG COUNT DOWN SLIGHTLY THIS WEEK</field>
 	<field name = "DATELINE">Houston, April 13 -</field>
-	<field name = "BODY">Utilization of offshore mobile rigs in
+	<field name = "content">Utilization of offshore mobile rigs in
 the Gulf of Mexico fell about 0.5 percentage point to 35.0 pct
 this week, with a total of 82 working and 152 idled, Offshore
 Data Services said.

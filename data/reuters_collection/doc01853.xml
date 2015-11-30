@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 17:35:25.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f0962reute
-u f BC-U.S.-CAR-SALES-UP-6.7   03-04 0082</field>
-	<field name = "TITLE">U.S. CAR SALES UP 6.7 PCT IN LATE FEBRUARY</field>
+	<field name = "titulo">U.S. CAR SALES UP 6.7 PCT IN LATE FEBRUARY</field>
 	<field name = "AUTHOR">By Richard Walker, Reuters</field>
 	<field name = "DATELINE">DETROIT, March 4 -</field>
-	<field name = "BODY">Sales of new cars by the U.S. auto
+	<field name = "content">Sales of new cars by the U.S. auto
 industry rose 6.7 pct in late February from the weak levels of
 a year ago, but industry giant General Motors Corp GM> was an
 exception with an eight pct drop.

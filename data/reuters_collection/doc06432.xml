@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 08:55:50.84</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f7719reute
-u f BC-INTERCARE-CARE>-SAYS   03-18 0114</field>
-	<field name = "TITLE">INTERCARE CARE> SAYS ACQUISITION TERMINATED</field>
+	<field name = "titulo">INTERCARE CARE> SAYS ACQUISITION TERMINATED</field>
 	<field name = "DATELINE">CULVER CITY, Calif., March 18 -</field>
-	<field name = "BODY">InterCare Inc said it has
+	<field name = "content">InterCare Inc said it has
 agreed to terminate the proposed acquisition of Universal
 Care> because First Jersey Securities> has withdrawn as
 underwriter for a proposed offering of InterCare securities.

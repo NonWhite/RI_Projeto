@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 16:17:21.61</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2300reute
-r f BC-K.G.-SAUR>-SELLS-ASS   06-19 0072</field>
-	<field name = "TITLE">K.G. SAUR> SELLS ASSETS TO REED INTERNATIONAL</field>
+	<field name = "titulo">K.G. SAUR> SELLS ASSETS TO REED INTERNATIONAL</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">K.G. Saur, the German-based publisher
+	<field name = "content">K.G. Saur, the German-based publisher
 of databases and legal and bilbiographic reference material,
 said it has sold all of its assets to The Butterworth Group, a
 division of Reed International PLC REED.L>, for under 15 mln

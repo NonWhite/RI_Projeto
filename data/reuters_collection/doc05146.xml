@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">14-MAR-1987 09:43:09.83</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0821reute
-r f BC-BANK-OF-CHINA-INCREAS   03-14 0085</field>
-	<field name = "TITLE">BANK OF CHINA INCREASES CAPITAL</field>
+	<field name = "titulo">BANK OF CHINA INCREASES CAPITAL</field>
 	<field name = "DATELINE">PEKING, March 14 -</field>
-	<field name = "BODY">The Bank of China, the state foreign
+	<field name = "content">The Bank of China, the state foreign
 exchange and foreign trade bank, has increased its capital to
 five billion yuan from three billion yuan, the New China News
 Agency said.

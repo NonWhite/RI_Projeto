@@ -3,12 +3,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">G C
-f0919reute
-r f BC-BRAZILIAN-SOY-RAINFAL   04-09 0056</field>
-	<field name = "TITLE">BRAZILIAN SOY RAINFALL</field>
+	<field name = "titulo">BRAZILIAN SOY RAINFALL</field>
 	<field name = "DATELINE">SAOPAULO, APRIL 9 -</field>
-	<field name = "BODY">THE FOLLOWING RAINFALL WAS RECORDED IN
+	<field name = "content">THE FOLLOWING RAINFALL WAS RECORDED IN
 THE 24 HOURS UP TO (1200) GMT TODAY
     PARANA STATE: CASCAVEL NIL, PONTA GROSSA NIL,CAMPO MOURAO
 NIL, LONDRINA NIL, MARINGA NIL.

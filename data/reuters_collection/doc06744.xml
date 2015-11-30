@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 15:10:35.15</field>
 	<field name = "PLACES">italy</field>
 	<field name = "ORGS">fao</field>
-	<field name = "UNKNOWN">C G T
-f9194reute
-r f AM-FAO   03-18 0129</field>
-	<field name = "TITLE">WORLD FOOD PRODUCTION OUTSTRIPS POPULATION</field>
+	<field name = "titulo">WORLD FOOD PRODUCTION OUTSTRIPS POPULATION</field>
 	<field name = "DATELINE">ROME, March 18 -</field>
-	<field name = "BODY">World food production over the next decade
+	<field name = "content">World food production over the next decade
 will exceed population growth, but because of unequal
 distribution, many parts of the world will go hungry, the U.N.
 Food and Agriculture Organisation (FAO) said.

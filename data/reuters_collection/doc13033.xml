@@ -4,13 +4,10 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
 	<field name = "PEOPLE">thatcher</field>
-	<field name = "UNKNOWN">RM
-f1815reute
-u f BC-UK-MINISTER-LOOKS-TO   04-03 0112</field>
-	<field name = "TITLE">UK MINISTER LOOKS TO EASE TENSION ON TOKYO TRIP</field>
+	<field name = "titulo">UK MINISTER LOOKS TO EASE TENSION ON TOKYO TRIP</field>
 	<field name = "AUTHOR">By Sten Stovall, Reuters</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">The U.K. Government hopes for a
+	<field name = "content">The U.K. Government hopes for a
 breakthrough on the deadlock with Japan over trade policies
 during next week's visit to Tokyo by Corporate Affairs Minister
 Michael Howard, political sources said.

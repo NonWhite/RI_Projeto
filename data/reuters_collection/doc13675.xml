@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:01:43.55</field>
-	<field name = "UNKNOWN">M
-f0692reute
-u f BC-LME-LEAD-MIDSESSION-F   04-07 0103</field>
-	<field name = "TITLE">LME LEAD MIDSESSION FIRMER ON CASH METAL DEMAND</field>
+	<field name = "titulo">LME LEAD MIDSESSION FIRMER ON CASH METAL DEMAND</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Trade house pricing purchases of cash
+	<field name = "content">Trade house pricing purchases of cash
 metal at the end of the official ring gave the LME lead market
 a firmer tone this morning, dealers said.
     The cash metal price rose from 805.50 up to 807 stg before

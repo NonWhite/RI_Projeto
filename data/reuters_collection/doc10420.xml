@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:56:30.03F A</field>
-	<field name = "UNKNOWN">f0919reute</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">r f BC-BYRD-SAYS-REAGAN-MAY   03-27 0113</field>
-	<field name = "TITLE">BYRD SAYS REAGAN MAY WIN HIGHWAY VETO FIGHT</field>
+	<field name = "titulo">BYRD SAYS REAGAN MAY WIN HIGHWAY VETO FIGHT</field>
 	<field name = "DATELINE">WASHINGTON, March 27 -</field>
-	<field name = "BODY">Senate majority leader Robert Byrd
+	<field name = "content">Senate majority leader Robert Byrd
 said President Reagan may win his latest veto battle with
 Congress over a nearly 88 billion highway construction bill.
     The West Virginia Democrat said it would be "tough" for the

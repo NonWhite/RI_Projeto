@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 13:51:35.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0131reute
-d f BC-CONCORDE-CAPITAL-LTD   03-06 0103</field>
-	<field name = "TITLE">CONCORDE CAPITAL LTD INC> IN FRANCHISE PACT</field>
+	<field name = "titulo">CONCORDE CAPITAL LTD INC> IN FRANCHISE PACT</field>
 	<field name = "DATELINE">MIAMI, March 6 -</field>
-	<field name = "BODY">Concorde Capital Ltd Inc said it has
+	<field name = "content">Concorde Capital Ltd Inc said it has
 signed an agreement to establish a minimum of 40 Heidi's Frozen
 Yogurt Shoppes in South Florida over the next 48 months.
     It said it signed the agreement with Zenith Capital Inc>,

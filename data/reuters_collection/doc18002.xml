@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 10:05:19.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1034reute
-b f BC-/U.S.-HOME-SALES-ROSE   06-02 0079</field>
-	<field name = "TITLE">U.S. HOME SALES ROSE 7.6 PCT IN APRIL</field>
+	<field name = "titulo">U.S. HOME SALES ROSE 7.6 PCT IN APRIL</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">Sales of new, single-family homes rose
+	<field name = "content">Sales of new, single-family homes rose
 7.6 pct in April from March to a seasonally adjusted annual
 rate of 777,000 units, the Commerce Department said.
     The department revised March sales to show a 2.7 pct

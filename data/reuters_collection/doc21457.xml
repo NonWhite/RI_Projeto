@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 09:14:54.73</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F 
-f0937reute
-d f BC-VW-SAYS-AUTOLATINA-TO   10-19 0115</field>
-	<field name = "TITLE">VW SAYS AUTOLATINA TO LOSE 500 MLN MARKS IN 1987</field>
+	<field name = "titulo">VW SAYS AUTOLATINA TO LOSE 500 MLN MARKS IN 1987</field>
 	<field name = "DATELINE">WOLFSBURG, West Germany, Oct 19 -</field>
-	<field name = "BODY">Autolatina, Volkswagen AG
+	<field name = "content">Autolatina, Volkswagen AG
 VOWG.F> and Ford Motor Co's F> Latin American joint venture,
 was expected to make losses of 500 mln marks from Brazilian
 operations in 1987, VW spokesman Ortwin Witzel said.

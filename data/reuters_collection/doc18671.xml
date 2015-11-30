@@ -5,13 +5,10 @@
 	<field name = "TOPICS">jobs</field>
 	<field name = "TOPICS">income</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM 
-f3166reute
-u f BC-U.K.-DATA-DEPRESS-RAT   06-18 0106</field>
-	<field name = "TITLE">U.K. DATA DEPRESS RATE CUT OUTLOOK - ANALYSTS</field>
+	<field name = "titulo">U.K. DATA DEPRESS RATE CUT OUTLOOK - ANALYSTS</field>
 	<field name = "AUTHOR">By Rowena Whelan, Reuters</field>
 	<field name = "DATELINE">LONDON, June 18 -</field>
-	<field name = "BODY">Today's U.K. Economic data have pushed
+	<field name = "content">Today's U.K. Economic data have pushed
 the chances of another base lending rate cut from the current
 nine pct further into the distance, analysts said.
     A record fall in unemployment and good manufacturing

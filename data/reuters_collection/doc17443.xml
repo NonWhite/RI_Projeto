@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 00:52:31.57</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F AI
-f0049reute
-u f BC-EC-URGED-TO-ACT-QUICK   06-01 0109</field>
-	<field name = "TITLE">EC URGED TO ACT QUICKLY ON EUROPEAN AIRFARE CUTS</field>
+	<field name = "titulo">EC URGED TO ACT QUICKLY ON EUROPEAN AIRFARE CUTS</field>
 	<field name = "DATELINE">LONDON, June 1 -</field>
-	<field name = "BODY">The European Commission should make urgent
+	<field name = "content">The European Commission should make urgent
 and concrete proposals to break the deadlock over moves to cut
 sky-high European airfares, an independent report said.
     The report by the Institute of Economic Affairs (IEA) said

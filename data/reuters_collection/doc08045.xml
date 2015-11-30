@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 18:25:06.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2670reute
-d f BC-WIEBOLDT'S-TO-CLOSE-E   03-20 0110</field>
-	<field name = "TITLE">WIEBOLDT'S TO CLOSE EIGHT STORES</field>
+	<field name = "titulo">WIEBOLDT'S TO CLOSE EIGHT STORES</field>
 	<field name = "DATELINE">CHICAGO, March 20 -</field>
-	<field name = "BODY">Wieboldt's Department Stores, in
+	<field name = "content">Wieboldt's Department Stores, in
 Chapter 11 bankruptcy since September 1986, said as part of an
 agreement with creditors it will operate its four largest and
 most productive stores but close the remaining eight stores.

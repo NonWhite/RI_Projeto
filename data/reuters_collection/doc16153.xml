@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 05:52:26.73</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0349reute
-u f BC-EURO-MEDIUM-TERM-NOTE   04-13 0112</field>
-	<field name = "TITLE">EURO-MEDIUM TERM NOTES POISED FOR GROWTH</field>
+	<field name = "titulo">EURO-MEDIUM TERM NOTES POISED FOR GROWTH</field>
 	<field name = "AUTHOR">By Marguerite Nugent, Reuters</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">Euro-medium term notes, a recent
+	<field name = "content">Euro-medium term notes, a recent
 phenomenon in the international capital markets, are hardly
 attracting a flood of issuers but investment bankers are doing
 their best to breath life into the market.

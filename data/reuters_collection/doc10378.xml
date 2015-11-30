@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:24:53.94A</field>
-	<field name = "UNKNOWN">f0694reute</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">h f BC-JAPAN-DRAFT-ECONOMIC   03-27 0097</field>
-	<field name = "TITLE">JAPAN DRAFT ECONOMIC PACKAGE DUE IN EARLY APRIL</field>
+	<field name = "titulo">JAPAN DRAFT ECONOMIC PACKAGE DUE IN EARLY APRIL</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Prime Minister Yasuhiro Nakasone has told
+	<field name = "content">Prime Minister Yasuhiro Nakasone has told
 his ruling Liberal Democratic Party (LDP) to come up with a
 draft economic package in early April in time for his visit to
 Washington starting on April 29, government officials said.

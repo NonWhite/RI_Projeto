@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 13:41:45.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f8930reute
-r f BC-CONTINENTAL-MEDICAL-   03-18 0058</field>
-	<field name = "TITLE">CONTINENTAL MEDICAL CONT> PLANS DEBT FILING</field>
+	<field name = "titulo">CONTINENTAL MEDICAL CONT> PLANS DEBT FILING</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">Continental Medical Systems Inc said
+	<field name = "content">Continental Medical Systems Inc said
 it plans to file with the Securities and Exchange Commission a
 registration statement covering about 25 mln dlrs of
 convertible subordinated debentures.

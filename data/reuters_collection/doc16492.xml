@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 12:59:55.29</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1876reute
-d f BC-NOR-QUEST-NQRLF>-MAK   04-13 0077</field>
-	<field name = "TITLE">NOR-QUEST NQRLF> MAKES BID FOR NORTHAIR NRM.TO></field>
+	<field name = "titulo">NOR-QUEST NQRLF> MAKES BID FOR NORTHAIR NRM.TO></field>
 	<field name = "DATELINE">NANAIMO, British Columbia, April 13 -</field>
-	<field name = "BODY">Nor-Quest Resources
+	<field name = "content">Nor-Quest Resources
 Inc said it will make a takeover offer to acquire all shares of
 Northair Mines Ltd on the basis of one Nor-Quest share plus one
 dlr for two shares of Northair.

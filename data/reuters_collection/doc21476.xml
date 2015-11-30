@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">RM 
-f0868reute
-u f BC-DEUTSCHE-BANK-CHIEF-S   10-19 0115</field>
-	<field name = "TITLE">DEUTSCHE BANK CHIEF SAYS LOUVRE PACT STILL INTACT</field>
+	<field name = "titulo">DEUTSCHE BANK CHIEF SAYS LOUVRE PACT STILL INTACT</field>
 	<field name = "DATELINE">FRANKFURT, Oct 19 -</field>
-	<field name = "BODY">Deutsche Bank AG joint chief executive
+	<field name = "content">Deutsche Bank AG joint chief executive
 Friedrich Wilhelm Christians said he believed the Louvre accord
 on currency stability was still intact.
     Christians told a news conference he met U.S. Treasury

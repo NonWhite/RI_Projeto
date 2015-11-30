@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 16:53:00.46</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A RM
-f0617reute
-r f BC-HELLER-SEES-GLOBAL-TR   03-06 0096</field>
-	<field name = "TITLE">HELLER SEES GLOBAL TREND FOR BANK RULES</field>
+	<field name = "titulo">HELLER SEES GLOBAL TREND FOR BANK RULES</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">Federal Reserve Board member Robert
+	<field name = "content">Federal Reserve Board member Robert
 Heller said the trend toward global financial markets required
 that all participants be treated even-handedly on such matters
 as bank capital requirements.

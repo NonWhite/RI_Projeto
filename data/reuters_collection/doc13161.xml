@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">G C
-f2347reute
-r f BC-ARGENTINE-GRAIN-SHIPM   04-03 0090</field>
-	<field name = "TITLE">ARGENTINE GRAIN SHIPMENTS IN THE WEEK TO APRIL 1</field>
+	<field name = "titulo">ARGENTINE GRAIN SHIPMENTS IN THE WEEK TO APRIL 1</field>
 	<field name = "DATELINE">BUENOS AIRES, April 3 -</field>
-	<field name = "BODY">The Argentine Grain Board issued
+	<field name = "content">The Argentine Grain Board issued
 the following figures covering shipments of major export grains
 in the week to April 1, in tonnes, with comparisons for the
 previous week and the same week in 1986.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">l-cattle</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L M T
-f0622reute
-d f BC-media-summary   03-12 0120</field>
-	<field name = "TITLE">LIVE CATTLE RALLY AS LOCKOUT AT MEAT PLANT ENDS</field>
+	<field name = "titulo">LIVE CATTLE RALLY AS LOCKOUT AT MEAT PLANT ENDS</field>
 	<field name = "DATELINE">CHICAGO, March 12 -</field>
-	<field name = "BODY">Live cattle futures posted a robust
+	<field name = "content">Live cattle futures posted a robust
 rally today after a major beef packing company said it would
 end a lockout at its slaughtering plant in Dakota City, Neb.
     April delivery cattle on the Chicago Mercantile Exchange

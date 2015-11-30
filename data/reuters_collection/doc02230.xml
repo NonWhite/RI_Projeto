@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">egypt</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0896reute
-u f BC-EGYPTIAN-1986-CRUDE-O   03-05 0116</field>
-	<field name = "TITLE">EGYPTIAN 1986 CRUDE OIL OUTPUT DOWN ON 1985</field>
+	<field name = "titulo">EGYPTIAN 1986 CRUDE OIL OUTPUT DOWN ON 1985</field>
 	<field name = "DATELINE">CAIRO, March 5 -</field>
-	<field name = "BODY">Non-Opec Egypt produced 40.3 mln tonnes
+	<field name = "content">Non-Opec Egypt produced 40.3 mln tonnes
 (about 295 mln barrels) of crude in 1986 against 44.3 mln
 tonnes (about 323 mln barrels) in 1985, according to official
 figures released today by the Egyptian General Petroleum Corp.

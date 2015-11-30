@@ -2,13 +2,10 @@
 	<field name = "DATE">1-JUN-1987 14:06:52.55</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1993reute
-u f BC-COMPUTER-ASSOC.-CA>   06-01 0095</field>
-	<field name = "TITLE">COMPUTER ASSOC. CA> BOLSTERS HAND AGAINST IBM</field>
+	<field name = "titulo">COMPUTER ASSOC. CA> BOLSTERS HAND AGAINST IBM</field>
 	<field name = "AUTHOR">BY LAWRENCE EDELMAN, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Computer Associates International Inc's
+	<field name = "content">Computer Associates International Inc's
 800 mln dlr merger with Uccel Corp UCE> will eliminate its
 strongest rival, but the company still faces stiff competition
 from International Business Machines Corp IBM>, Wall Street

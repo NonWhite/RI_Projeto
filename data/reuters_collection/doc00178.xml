@@ -4,13 +4,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">switzerland</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM
-f0267
-reute
-r f BC-SWISS-ECONOMY-IN-EXCE   02-26 0104</field>
-	<field name = "TITLE">SWISS ECONOMY IN EXCELLENT CONDITION, OECD SAYS</field>
+	<field name = "titulo">SWISS ECONOMY IN EXCELLENT CONDITION, OECD SAYS</field>
 	<field name = "DATELINE">PARIS, Feb 26 -</field>
-	<field name = "BODY">Switzerland's economy, combining low
+	<field name = "content">Switzerland's economy, combining low
 unemployment, financial stability and a large external payments
 surplus, is in excellent condition and faces a satisfactory
 future, the Organisation for Economic Cooperation and

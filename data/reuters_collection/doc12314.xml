@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 16:33:41.37</field>
 	<field name = "TOPICS">fuel</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2469reute
-r f BC-ATLANTIC-TO-RAISE-HIG   04-01 0093</field>
-	<field name = "TITLE">ATLANTIC TO RAISE HIGH SULPHUR FUEL PRICES</field>
+	<field name = "titulo">ATLANTIC TO RAISE HIGH SULPHUR FUEL PRICES</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Atlantic Fuels Marketing Corp said
+	<field name = "content">Atlantic Fuels Marketing Corp said
 today it will raise the posted cargo prices for high sulphur
 fuels in New York Harbor 50 to 75 cts per barrel, effective
 April two.

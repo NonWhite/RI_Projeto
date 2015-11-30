@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:41:58.06</field>
-	<field name = "UNKNOWN">RM M F C
-f0805reute
-u f BC-ny-gold-mids-report   04-07 0111</field>
-	<field name = "TITLE">U.S. GOLD FUTURES OPEN FIRMER ON WEAK DOLLAR</field>
+	<field name = "titulo">U.S. GOLD FUTURES OPEN FIRMER ON WEAK DOLLAR</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Comex gold futures opened firmer on the
+	<field name = "content">Comex gold futures opened firmer on the
 back of a weak dollar and firm silver values.
     The pacesetting June delivery was up 90 cts at 423.50 dlrs
 an ounce, recouping some of yesterday's light losses of 1.50

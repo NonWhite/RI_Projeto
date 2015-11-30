@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:55:08.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2676reute
-r f BC-ACME-CLEVELAND-AMT>   03-26 0054</field>
-	<field name = "TITLE">ACME-CLEVELAND AMT> CEO TO STEP DOWN</field>
+	<field name = "titulo">ACME-CLEVELAND AMT> CEO TO STEP DOWN</field>
 	<field name = "DATELINE">CLEVELAND, March 26 -</field>
-	<field name = "BODY">B. Charles Ames, chairman of
+	<field name = "content">B. Charles Ames, chairman of
 Acme-Cleveland Corp, said he will step down as chief executive
 officer of the company.
     He will be replaced by David Swift, who was elected to

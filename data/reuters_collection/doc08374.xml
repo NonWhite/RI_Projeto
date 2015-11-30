@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 12:27:00.48</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1630reute
-b f BC-COMMUNAUTE-URBAINE-DE   03-23 0099</field>
-	<field name = "TITLE">COMMUNAUTE URBAINE DE MONTREAL ISSUES NOTES</field>
+	<field name = "titulo">COMMUNAUTE URBAINE DE MONTREAL ISSUES NOTES</field>
 	<field name = "DATELINE">LONDON, March 23 -</field>
-	<field name = "BODY">Communaute Urbaine de Montreal is
+	<field name = "content">Communaute Urbaine de Montreal is
 issuing a 75 mln Canadian dlr bond due April 22, 1997 carrying
 a coupon of 8-7/8 pct and priced at 101-5/8, Banque Nationale
 de Paris said as lead manager.

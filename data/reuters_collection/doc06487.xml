@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 10:10:06.30</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f7975reute
-u f BC-ANACOMP-AAC>-ACQUIRE   03-18 0062</field>
-	<field name = "TITLE">ANACOMP AAC> ACQUIRES DATAGRAPHIX</field>
+	<field name = "titulo">ANACOMP AAC> ACQUIRES DATAGRAPHIX</field>
 	<field name = "DATELINE">INDIANAPOLIS, IND., March 18 -</field>
-	<field name = "BODY">Anacomp Inc said it acquired
+	<field name = "content">Anacomp Inc said it acquired
 the common stock of DatagraphiX Inc from General Dynamics Corp
 GD> for about 128 mln dlrs.
     It said the purchase will be financed with a combination of

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 09:42:05.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0202reute
-r f BC-PITNEY-BOWES-PBI>-UN   03-04 0081</field>
-	<field name = "TITLE">PITNEY BOWES PBI> UNIT SELLS FIVE-YEAR NOTES</field>
+	<field name = "titulo">PITNEY BOWES PBI> UNIT SELLS FIVE-YEAR NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Pitney Bowes Credit Corp, a unit of
+	<field name = "content">Pitney Bowes Credit Corp, a unit of
 Pitney Bowes Inc, is raising 100 mln dlrs through an offering
 of notes due 1992 with a 7-1/4 pct coupon and par pricing, said
 lead manager Goldman, Sachs and Co.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 10:26:31.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1041reute
-r f BC-ATARI-ATC>-TO-SELL-C   03-20 0077</field>
-	<field name = "TITLE">ATARI ATC> TO SELL CONVERTIBLE DEBENTURES</field>
+	<field name = "titulo">ATARI ATC> TO SELL CONVERTIBLE DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Atari Corp said it filed with the
+	<field name = "content">Atari Corp said it filed with the
 Securities and Exchange Commission a registration statement
 covering a 75 mln dlr issue of convertible subordinated
 debentures due 2012.

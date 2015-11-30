@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 09:27:09.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0844reute
-d f BC-SUN-MICROSYSTEMS-SUN   03-23 0044</field>
-	<field name = "TITLE">SUN MICROSYSTEMS SUNW> CONTRACT EXTENDED</field>
+	<field name = "titulo">SUN MICROSYSTEMS SUNW> CONTRACT EXTENDED</field>
 	<field name = "DATELINE">MOUNTAIN VIEW, Calif., March 23 -</field>
-	<field name = "BODY">Sun Microsystems Inc said
+	<field name = "content">Sun Microsystems Inc said
 it has received a one-year 15 mln dlr renewal of its agreement
 to provide Interleaf Inc LEAF> with Sun-3 technical
 workstations on an original equipment basis.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 21:56:19.50</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM
-f0470reute
-b f BC-RADIO-REPORTS-SHOOTIN   04-17 0085</field>
-	<field name = "TITLE">RADIO REPORTS SHOOTING AT MANILA ARMY HEADQUARTERS</field>
+	<field name = "titulo">RADIO REPORTS SHOOTING AT MANILA ARMY HEADQUARTERS</field>
 	<field name = "DATELINE">MANILA, April 18 -</field>
-	<field name = "BODY">Shooting erupted at Philippine army
+	<field name = "content">Shooting erupted at Philippine army
 headquarters early this morning, an independent Manila radio
 station said.
     Radio DZRH said it was checking unconfirmed reports that

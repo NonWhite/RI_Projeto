@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:19:36.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1656reute
-r f BC-EPITOPE-EPTO.O>-SETS   06-29 0088</field>
-	<field name = "TITLE">EPITOPE EPTO.O> SETS AIDS TEST CONTROL SERUM</field>
+	<field name = "titulo">EPITOPE EPTO.O> SETS AIDS TEST CONTROL SERUM</field>
 	<field name = "DATELINE">BEAVERTON, Ore., June 29 -</field>
-	<field name = "BODY">Epitope Inc said it has
+	<field name = "content">Epitope Inc said it has
 developed a set of independent control reagents for
 laboratories performing AIDS testing.
     The control set consists of human blood serum free of AIDS

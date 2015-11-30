@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 13:30:59.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0345reute
-r f BC-FRUIT-OF-THE-LOOM-OFF   03-03 0106</field>
-	<field name = "TITLE">FRUIT OF THE LOOM OFFERS DEBENTURES, NOTES</field>
+	<field name = "titulo">FRUIT OF THE LOOM OFFERS DEBENTURES, NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">Fruit of the Loom Inc said it is
+	<field name = "content">Fruit of the Loom Inc said it is
 offering 60 mln dlrs of 6-3/4 pct convertible subordinated
 debentures due March 2002 and 250 mln dlrs of 10-3/4 pct senior
 subordinated notes due July 1995.

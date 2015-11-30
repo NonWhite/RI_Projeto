@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:40:45.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0635reute
-r f BC-GRAND-MET'S-HEUBLEIN   03-11 0105</field>
-	<field name = "TITLE">GRAND MET'S HEUBLEIN TO CLOSE ALMADINE WINERY</field>
+	<field name = "titulo">GRAND MET'S HEUBLEIN TO CLOSE ALMADINE WINERY</field>
 	<field name = "DATELINE">SAN JOSE, Calif., March 11 -</field>
-	<field name = "BODY">Grand Metropolitan PLC>'s
+	<field name = "content">Grand Metropolitan PLC>'s
 Heublein Inc subsidiary said it will phase out operations at
 Almaden's San Jose winery and transfer production of the wines
 to the company's Madera, Calif., winery.

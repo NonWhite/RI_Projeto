@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 14:51:19.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2155reute
-d f BC-GULL-GLL>-GETS-MCDON   06-01 0079</field>
-	<field name = "TITLE">GULL GLL> GETS MCDONELL DOUGLAS MD> CONTRACT</field>
+	<field name = "titulo">GULL GLL> GETS MCDONELL DOUGLAS MD> CONTRACT</field>
 	<field name = "DATELINE">SMITHTOWN, N.Y., June 1 -</field>
-	<field name = "BODY">Gull Inc said it has received a
+	<field name = "content">Gull Inc said it has received a
 contract initially worth about 1,500,000 dslrs to supply
 McDonnell Douglas Corp with the control system for an On-Board
 Inert Gas Generating System to be used in the new C-17A

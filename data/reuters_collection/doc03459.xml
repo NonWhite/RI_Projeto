@@ -3,12 +3,9 @@
 	<field name = "TOPICS">strategic-metal</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">M C
-f0255reute
-u f BC-JAPAN-AND-THAILAND-TO   03-11 0103</field>
-	<field name = "TITLE">JAPAN AND THAILAND TO JOINTLY EXTRACT RARE METALS</field>
+	<field name = "titulo">JAPAN AND THAILAND TO JOINTLY EXTRACT RARE METALS</field>
 	<field name = "DATELINE">TOKYO, March 11 -</field>
-	<field name = "BODY">Japan's Agency of Natural Resources and
+	<field name = "content">Japan's Agency of Natural Resources and
 Energy said it will begin experiments with Thailand at the end
 of March to start commercial production of rare metals in 1989
 under a joint project.

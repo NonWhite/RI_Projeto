@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0005reute
-b f BC-JAPAN-INTERVENING-TO   03-25 0062</field>
-	<field name = "TITLE">JAPAN INTERVENING TO KEEP DOLLAR UP, BROKERS</field>
+	<field name = "titulo">JAPAN INTERVENING TO KEEP DOLLAR UP, BROKERS</field>
 	<field name = "DATELINE">TOKYO, Mar 25 -</field>
-	<field name = "BODY">The Bank of Japan is continuing to
+	<field name = "content">The Bank of Japan is continuing to
 intervene in the Tokyo market, buying small amounts of dollars
 to hold the unit above 149 yen, brokers said.
     They said the Bank is coming in when the dollar is around

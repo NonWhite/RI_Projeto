@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">F
-f0357reute
-r f BC-AETNA-AET>-REACHES-A   03-06 0080</field>
-	<field name = "TITLE">AETNA AET> REACHES AGREEMENT TO BUY COMPANY</field>
+	<field name = "titulo">AETNA AET> REACHES AGREEMENT TO BUY COMPANY</field>
 	<field name = "DATELINE">HARTFORD, Conn., March 6 -</field>
-	<field name = "BODY">Aetna Life and Casualty Co said
+	<field name = "content">Aetna Life and Casualty Co said
 it reached an agreement to acquire a 49 pct interest in
 Universal Life and General Insurance Sdn Bhd ULG>, a Malaysian
 composite insurance company.

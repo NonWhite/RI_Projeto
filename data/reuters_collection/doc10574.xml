@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:14:19.81V RM Y</field>
-	<field name = "UNKNOWN">f1813reute</field>
 	<field name = "PLACES">chad</field>
-	<field name = "UNKNOWN">u f BC-FAYA-REPORTED-CAPTURE   03-27 0057</field>
-	<field name = "TITLE">CHADIAN TROOPS REPORTEDLY RECAPTURE FAYA</field>
+	<field name = "titulo">CHADIAN TROOPS REPORTEDLY RECAPTURE FAYA</field>
 	<field name = "DATELINE">N'DJAMENA, March 27 -</field>
-	<field name = "BODY">Chadian troops have recaptured the
+	<field name = "content">Chadian troops have recaptured the
 northern oasis of Faya Largeau, which was the main base of
 Libyan troops in northern Chad, sources close to the government
 said.

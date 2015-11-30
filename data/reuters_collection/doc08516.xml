@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 16:31:27.74</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cboe</field>
-	<field name = "UNKNOWN">F RM
-f2394reute
-u f BC-COMMUNICATION-PROBLEM   03-23 0062</field>
-	<field name = "TITLE">COMMUNICATION PROBLEMS AFFECTING CBOE QUOTES</field>
+	<field name = "titulo">COMMUNICATION PROBLEMS AFFECTING CBOE QUOTES</field>
 	<field name = "DATELINE">CHICAGO, March 23 -</field>
-	<field name = "BODY">The Chicago Board Options Exchange,
+	<field name = "content">The Chicago Board Options Exchange,
 CBOE, said that due to telecommunications problems, last sale
 prices, market quotes and index values are updating
 intermittently.

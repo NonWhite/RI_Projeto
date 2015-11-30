@@ -4,12 +4,9 @@
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F Y
-f0523reute
-r f BC-RANGER-RGO>-COMPLETE   03-09 0099</field>
-	<field name = "TITLE">RANGER RGO> COMPLETES U.S. PROPERTY SALE</field>
+	<field name = "titulo">RANGER RGO> COMPLETES U.S. PROPERTY SALE</field>
 	<field name = "DATELINE">CALGARY, Alberta, March 9 -</field>
-	<field name = "BODY">Ranger Oil Ltd said it
+	<field name = "content">Ranger Oil Ltd said it
 completed on March 2 the previously announced sale of its U.S.
 oil and gas properties held by subsidiaries Ranger Oil Co and
 Ranger Inc to Ampol Exploration Ltd, of Australia, for 18.5 mln

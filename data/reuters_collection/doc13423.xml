@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:38:37.05</field>
-	<field name = "UNKNOWN">RM
-f0184reute
-u f BC-AUSTRALIAN-DOLLAR-CLO   04-07 0106</field>
-	<field name = "TITLE">AUSTRALIAN DOLLAR CLOSES ABOVE LOWER OPENING LEVEL</field>
+	<field name = "titulo">AUSTRALIAN DOLLAR CLOSES ABOVE LOWER OPENING LEVEL</field>
 	<field name = "DATELINE">SYDNEY, April 7 -</field>
-	<field name = "BODY">The Australian dollar staged a strong
+	<field name = "content">The Australian dollar staged a strong
 recovery on the local market after sharp overnight falls
 offshore, as a weak U.S. Dollar and capital inflow into local
 gold stocks and securities boosted demand, dealers said.

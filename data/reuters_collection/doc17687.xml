@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F E
-f1963reute
-r f BC-SAFETY-KLEEN-SK>-COM   06-01 0065</field>
-	<field name = "TITLE">SAFETY-KLEEN SK> COMPLETES ACQUISITION</field>
+	<field name = "titulo">SAFETY-KLEEN SK> COMPLETES ACQUISITION</field>
 	<field name = "DATELINE">ELGIN, ILL., June 1 -</field>
-	<field name = "BODY">Safety-Kleen Corp said it completed
+	<field name = "content">Safety-Kleen Corp said it completed
 the acquisition of an 80 pct interest in BresLube Enterprises,
 for about 12 mln dlrs in stock and cash.
      BresLube, based in Toronto, collects used lubricating oils

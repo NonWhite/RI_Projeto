@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 16:53:32.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2595reute
-r f BC-MARRIOTT-MHS>-FRANCH   03-30 0072</field>
-	<field name = "TITLE">MARRIOTT MHS> FRANCHISEES FORM MANAGEMENT CO</field>
+	<field name = "titulo">MARRIOTT MHS> FRANCHISEES FORM MANAGEMENT CO</field>
 	<field name = "DATELINE">DUBLIN, Calif., March 30 -</field>
-	<field name = "BODY">The 102 owners of Straw Hat
+	<field name = "content">The 102 owners of Straw Hat
 Pizza Restaurant franchises said in a joint statement that they
 are forming a management corporation to assume complete control
 of their own operations.

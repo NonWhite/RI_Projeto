@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 08:05:48.50F</field>
-	<field name = "UNKNOWN">f0621reute</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">r f BC-DUTCH-IBM-UNIT-CHARGE   03-27 0117</field>
-	<field name = "TITLE">DUTCH IBM UNIT CHARGED WITH PRICE UNDERCUTTING</field>
+	<field name = "titulo">DUTCH IBM UNIT CHARGED WITH PRICE UNDERCUTTING</field>
 	<field name = "DATELINE">AMSTERDAM, March 27 -</field>
-	<field name = "BODY">Three Dutch computer leasing firms
+	<field name = "content">Three Dutch computer leasing firms
 are charging the Dutch unit of International Business Machines
 Corp IBM.N> with unfair trading practices, saying its prices
 undercut the leasing market, a court spokesman said.

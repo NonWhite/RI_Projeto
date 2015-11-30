@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">RM
-f2929reute
-u f BC-WHITE-HOUSE-PANEL-SAI   03-26 0106</field>
-	<field name = "TITLE">WHITE HOUSE PANEL SAID URGING JAPAN RETALIATION</field>
+	<field name = "titulo">WHITE HOUSE PANEL SAID URGING JAPAN RETALIATION</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">The White House Economic Policy
+	<field name = "content">The White House Economic Policy
 Council decided to recommend trade sanctions against Japan for
 violations of the U.S.-Japanese semiconductor agreement,
 industry sources said.

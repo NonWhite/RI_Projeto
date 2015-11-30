@@ -3,12 +3,9 @@
 	<field name = "PLACES">bolivia</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">von-weizsaecker</field>
-	<field name = "UNKNOWN">C G L M T
-f2346reute
-d f AM-weizsaecker   03-23 0125</field>
-	<field name = "TITLE">W. GERMANY, BOLIVIA SIGN TWO COOPERATION PACTS</field>
+	<field name = "titulo">W. GERMANY, BOLIVIA SIGN TWO COOPERATION PACTS</field>
 	<field name = "DATELINE">LA PAZ, March 23 -</field>
-	<field name = "BODY">West Germany and Bolivia signed two
+	<field name = "content">West Germany and Bolivia signed two
 cooperation treaties today expected to nearly double the amount
 of overall aid the south american country receives from its
 european trade partner, german officials said.

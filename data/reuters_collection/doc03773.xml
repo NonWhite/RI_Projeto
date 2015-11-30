@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 12:38:56.81</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0896reute
-s f BC-QUAKER-OATS-CO-OAT>   03-11 0023</field>
-	<field name = "TITLE">QUAKER OATS CO OAT> REGULAR DIVIDEND</field>
+	<field name = "titulo">QUAKER OATS CO OAT> REGULAR DIVIDEND</field>
 	<field name = "DATELINE">CHICAGO, March 11 -</field>
-	<field name = "BODY">Qtly div 20 cts vs 20 cts previously
+	<field name = "content">Qtly div 20 cts vs 20 cts previously
     Pay April 15
     Record March 23
  Reuter</field>

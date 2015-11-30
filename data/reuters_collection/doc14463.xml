@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:18:56.07</field>
-	<field name = "UNKNOWN">GQ
-f2204reute
-r f BC-st-louis-del-corn-stk   04-07 0084</field>
-	<field name = "TITLE">ST LOUIS DELIVERABLE CORN STOCKS</field>
+	<field name = "titulo">ST LOUIS DELIVERABLE CORN STOCKS</field>
 	<field name = "DATELINE">ST LOUIS, April 7  -</field>
-	<field name = "BODY">The CFTC reported the following stocks
+	<field name = "content">The CFTC reported the following stocks
 of corn in St Louis as of Friday, april 3 , deliverable against
 Chicago Board of Trade futures in 000's bushels -
                          CURRENT  WEEK   YEAR

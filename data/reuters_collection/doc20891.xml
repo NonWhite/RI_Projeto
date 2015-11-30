@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 18:07:35.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3332reute
-u f BC-U.S.-FDA-LETS-ICN-IC   10-19 0118</field>
-	<field name = "TITLE">U.S. FDA LETS ICN ICN> RESUME TESTING AIDS DRUG</field>
+	<field name = "titulo">U.S. FDA LETS ICN ICN> RESUME TESTING AIDS DRUG</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">The U.S. Food and Drug Administration
+	<field name = "content">The U.S. Food and Drug Administration
 has allowed ICN Pharmaceuticals Inc to resume testing its
 ribavirin experimental AIDS drug, according to ICN.
     "Our safety concerns are not of sufficient magnitude to

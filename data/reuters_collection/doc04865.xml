@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 12:14:33.69</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">C
-f0561reute
-r f BC-NYSE,-NYFE-MOVE-INDEX   03-13 0123</field>
-	<field name = "TITLE">NYSE, NYFE MOVE INDEX FUTURES/OPTIONS EXPIRATION</field>
+	<field name = "titulo">NYSE, NYFE MOVE INDEX FUTURES/OPTIONS EXPIRATION</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">The New York Stock Exchange said it
+	<field name = "content">The New York Stock Exchange said it
 and its New York Futures Exchange affiliate will move the
 expiration of their respective index options and index futures
 contracts to the opening of trading in the underlying stock on

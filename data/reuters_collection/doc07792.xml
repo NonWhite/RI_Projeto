@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 12:09:27.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f1528reute
-u f BC-DUFF/PHELPS-LOWERS-AT   03-20 0110</field>
-	<field name = "TITLE">DUFF/PHELPS LOWERS ATLANTIC CITY ELECTRIC ATE></field>
+	<field name = "titulo">DUFF/PHELPS LOWERS ATLANTIC CITY ELECTRIC ATE></field>
 	<field name = "DATELINE">CHICAGO, March 20 -</field>
-	<field name = "BODY">Duff and Phelps said it lowered the
+	<field name = "content">Duff and Phelps said it lowered the
 ratings on Atlantic City Electric Co first mortgage bonds,
 collateralized pollution control revenue bonds and debentures
 to DP-5 (high A) from DP-4 (low AA) and preferred stock to DP-6

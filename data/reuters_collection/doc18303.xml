@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 16:47:34.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2660reute
-s f BC-FGIC-CORP-FGC>-QTLY   06-02 0021</field>
-	<field name = "TITLE">FGIC CORP FGC> QTLY DIVIDEND</field>
+	<field name = "titulo">FGIC CORP FGC> QTLY DIVIDEND</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Qtly div one cts vs one cts prior
+	<field name = "content">Qtly div one cts vs one cts prior
     Payable July 1
     Record June 10
  Reuter</field>

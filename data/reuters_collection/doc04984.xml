@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 14:40:37.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0146reute
-u f BC-DREXEL-BURNHAM-REPORT   03-13 0070</field>
-	<field name = "TITLE">DREXEL BURNHAM REPORTS UNDERWRITING RESULTS</field>
+	<field name = "titulo">DREXEL BURNHAM REPORTS UNDERWRITING RESULTS</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">Drexel Burnham Lambert Inc> said
+	<field name = "content">Drexel Burnham Lambert Inc> said
 during  the first nine weeks of 1987 ended March six it managed
 or co-managed 57 transactions representing 8.6 billion dlrs in
 the public and private corporate markets.

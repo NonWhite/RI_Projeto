@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 08:45:16.26</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">A
-f0830reute
-u f PM-HIGHWAY--(SCHEDULED)   04-02 0131</field>
-	<field name = "TITLE">SENATE VOTE ON REAGAN'S VETO REMAINS IN DOUBT</field>
+	<field name = "titulo">SENATE VOTE ON REAGAN'S VETO REMAINS IN DOUBT</field>
 	<field name = "DATELINE">WASHINGTON, April 2 -</field>
-	<field name = "BODY">A partisan battle over President
+	<field name = "content">A partisan battle over President
 Reagan's veto of an 88-billion dlr highway bill resumes in the
 Senate today after an apparent victory for the White House was
 left in doubt when a key Democrat switched his vote 

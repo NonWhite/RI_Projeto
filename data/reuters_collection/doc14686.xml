@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:03:11.63</field>
-	<field name = "UNKNOWN">RM F C G L M T
-f2509reute
-u f BC-REUTER-COMMODITY-HIGH   04-07 0097</field>
-	<field name = "TITLE">REUTER COMMODITY HIGHLIGHTS 2100 GMT APRIL 7</field>
+	<field name = "titulo">REUTER COMMODITY HIGHLIGHTS 2100 GMT APRIL 7</field>
 	<field name = "DATELINE">CHICAGO -</field>
-	<field name = "BODY">U.S. trade reprepresentative Clayton Yeutter said
+	<field name = "content">U.S. trade reprepresentative Clayton Yeutter said
 that if Congress were to require trade retaliation, it would
 only close markets and would result in less trade.
     Many Congressional proposals do not appear to be overtly

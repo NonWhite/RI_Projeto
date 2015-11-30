@@ -5,12 +5,9 @@
 	<field name = "PEOPLE">suharto</field>
 	<field name = "PEOPLE">subroto</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y 
-f0706reute
-u f BC-INDONESIA-SAYS-IT-WIL   10-20 0105</field>
-	<field name = "TITLE">INDONESIA SAYS IT WILL EXTEND OIL CONTRACTS</field>
+	<field name = "titulo">INDONESIA SAYS IT WILL EXTEND OIL CONTRACTS</field>
 	<field name = "DATELINE">JAKARTA, Oct 20 -</field>
-	<field name = "BODY">Indonesia told the oil industry on
+	<field name = "content">Indonesia told the oil industry on
 Tuesday it will extend contracts on producing blocks and
 improve the investment climate, but wants to see increased
 expenditure on exploration in return.

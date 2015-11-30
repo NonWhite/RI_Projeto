@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 08:51:25.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0778reute
-d f BC-JANUARY-NEWPAPER-ADVE   04-13 0076</field>
-	<field name = "TITLE">JANUARY NEWPAPER ADVERTISING INCOME UP 10.5 PCT</field>
+	<field name = "titulo">JANUARY NEWPAPER ADVERTISING INCOME UP 10.5 PCT</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">The Newspaper Advertising Bureau said
+	<field name = "content">The Newspaper Advertising Bureau said
 its preliminary estimates show spending for newspaper
 advertising in January totaled 2.06 billion dlrs, an increase
 of 10.5 pct from the year earlier month.

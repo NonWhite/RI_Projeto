@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 12:13:04.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1597reute
-b f BC-CHRYSLER-C>-MID-MARC   03-24 0080</field>
-	<field name = "TITLE">CHRYSLER C> MID-MARCH U.S. CAR SALES DOWN</field>
+	<field name = "titulo">CHRYSLER C> MID-MARCH U.S. CAR SALES DOWN</field>
 	<field name = "DATELINE">DETROIT, March 24 -</field>
-	<field name = "BODY">Chrysler Corp said its U.S. car sales
+	<field name = "content">Chrysler Corp said its U.S. car sales
 dipped 3.6 pct in the mid-March sales period.
     Chrysler said it sold 30,909 U.S. cars in the March 11-20
 period, down from 32,085 in the same period last year.

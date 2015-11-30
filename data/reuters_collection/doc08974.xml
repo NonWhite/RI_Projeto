@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 15:12:29.77</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2250reute
-r f BC-MOBEX-COMPLETES-GRANT   03-24 0080</field>
-	<field name = "TITLE">MOBEX COMPLETES GRANT INDUSTRIES GTX> TENDER</field>
+	<field name = "titulo">MOBEX COMPLETES GRANT INDUSTRIES GTX> TENDER</field>
 	<field name = "DATELINE">LOS ANGELES, March 24 -</field>
-	<field name = "BODY">Mobex Corp, a private building
+	<field name = "content">Mobex Corp, a private building
 product concern, said as of late yesterday it had accepted
 about 2.3 mln shares or 98 pct of Grant Industries Inc under a
 tender offer.

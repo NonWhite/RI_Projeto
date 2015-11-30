@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 15:22:33.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2385reute
-d f AM-COURT-CARS   03-30 0099</field>
-	<field name = "TITLE">HIGH COURT DECLINES TO REVIEW AIR BAG RULE</field>
+	<field name = "titulo">HIGH COURT DECLINES TO REVIEW AIR BAG RULE</field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">The Supreme Court declined to review
+	<field name = "content">The Supreme Court declined to review
 a federal regulation requiring automobile manufacturers to
 phase in automatic seat belts or air bags for new cars sold in
 the United States.

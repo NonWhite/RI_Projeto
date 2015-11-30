@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 12:39:26.34</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1673reute
-r f BC-CELINA-CELNA>-SHAREH   03-20 0100</field>
-	<field name = "TITLE">CELINA CELNA> SHAREHOLDERS APPROVE SALE</field>
+	<field name = "titulo">CELINA CELNA> SHAREHOLDERS APPROVE SALE</field>
 	<field name = "DATELINE">CELINA, OHIO, March 20 -</field>
-	<field name = "BODY">Celina Financial Corp said
+	<field name = "content">Celina Financial Corp said
 shareholders at a special meeting approved a transaction in
 which the company transferred its interest in three insurance
 companies to a wholly owned subsidiary which then sold the

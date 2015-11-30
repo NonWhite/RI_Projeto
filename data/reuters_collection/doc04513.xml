@@ -3,12 +3,9 @@
 	<field name = "TOPICS">carcass</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C L
-f0456reute
-u f BC-IOWA-BEEF-LIFTS-LOCKO   03-12 0131</field>
-	<field name = "TITLE">IOWA BEEF LIFTS LOCKOUT AT DAKOTA CITY</field>
+	<field name = "titulo">IOWA BEEF LIFTS LOCKOUT AT DAKOTA CITY</field>
 	<field name = "DATELINE">CHICAGO, March 12 -</field>
-	<field name = "BODY">Iowa Beef Processors Inc is lifting a
+	<field name = "content">Iowa Beef Processors Inc is lifting a
 lockout at its Dakota City, Nebraska, processing plant and
 plans to resume operations March 16, United Food and Commercial
 Workers (UFCW) Union spokesman Allen Zack said.

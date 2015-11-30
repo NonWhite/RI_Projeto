@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 12:56:30.92</field>
 	<field name = "PLACES">finland</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0186reute
-b f BC-WORLD-BANK-LAUNCHES-3   03-03 0087</field>
-	<field name = "TITLE">WORLD BANK LAUNCHES 300 MLN MARKKA BOND ISSUE</field>
+	<field name = "titulo">WORLD BANK LAUNCHES 300 MLN MARKKA BOND ISSUE</field>
 	<field name = "DATELINE">HELSINKI, March 3 -</field>
-	<field name = "BODY">The World Bank is launching a 300 mln
+	<field name = "content">The World Bank is launching a 300 mln
 markka seven-year straight issue, due March 11, 1994 with a
 coupon of 10 pct payable semi-annually and an issue price of
 101-1/8, lead manager Postipankki said.

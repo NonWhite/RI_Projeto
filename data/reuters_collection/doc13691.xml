@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:12:02.62</field>
-	<field name = "UNKNOWN">C G L M T
-f0715reute
-r f BC-WORLD-HIGHLIGHTS   04-07 0466</field>
-	<field name = "TITLE">BC-WORLD-HIGHLIGHTS</field>
+	<field name = "titulo">BC-WORLD-HIGHLIGHTS</field>
 	<field name = "DATELINE">BAHRAIN -</field>
-	<field name = "BODY">Iran reported launching a new offensive east of
+	<field name = "content">Iran reported launching a new offensive east of
 Iraq's southern city of Basra, while Baghdad said its forces
 had repulsed the attack, killing thousands of Iranians.
     - - - -

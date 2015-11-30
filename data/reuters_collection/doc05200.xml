@@ -4,13 +4,10 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1162reute
-u f BC-GERMAN-BANKING-AUTHOR   03-16 0111</field>
-	<field name = "TITLE">GERMAN BANKING AUTHORITIES WEIGH SWAP REGULATIONS</field>
+	<field name = "titulo">GERMAN BANKING AUTHORITIES WEIGH SWAP REGULATIONS</field>
 	<field name = "AUTHOR">By Alice Ratcliffe, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 16 -</field>
-	<field name = "BODY">German banking authorities are
+	<field name = "content">German banking authorities are
 weighing rules for banks' off-balance sheet activities in an
 attempt to cope with the growing volume of sophisticated
 capital market instruments, banking sources said.

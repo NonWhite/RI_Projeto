@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 08:24:45.47</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0773reute
-u f BC-WESTLB-LUXEMBOURG-REP   04-02 0110</field>
-	<field name = "TITLE">WESTLB LUXEMBOURG REPORTS LOWER 1986 NET PROFIT</field>
+	<field name = "titulo">WESTLB LUXEMBOURG REPORTS LOWER 1986 NET PROFIT</field>
 	<field name = "DATELINE">DUESSELDORF, April 2 -</field>
-	<field name = "BODY">Westdeutsche Landesbank Girozentrale
+	<field name = "content">Westdeutsche Landesbank Girozentrale
 WELG.F> said its wholly-owned Luxembourg subsidiary WestLB
 International SA posted a decline in 1986 net profit to 12.6
 mln marks from 48.5 mln a year earlier.

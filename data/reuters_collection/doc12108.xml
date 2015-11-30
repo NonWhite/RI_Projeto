@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 12:51:47.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1733reute
-u f BC-AMERICAN-MOTORSAMO>   04-01 0100</field>
-	<field name = "TITLE">AMERICAN MOTORSAMO> EXTENDS INCENTIVE PROGRAM</field>
+	<field name = "titulo">AMERICAN MOTORSAMO> EXTENDS INCENTIVE PROGRAM</field>
 	<field name = "DATELINE">SOUTHFIELD, MICH., April 1 -</field>
-	<field name = "BODY">American Motors Corp said it
+	<field name = "content">American Motors Corp said it
 is extending and enhancing its buyer-incentive programs on
 Renault Alliance, Encore and GTA models and Jeep Comanche,
 Cherokee and Wagoneer to April 10. The incentives were to have

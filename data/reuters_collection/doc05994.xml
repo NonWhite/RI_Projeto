@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 10:57:04.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5256reute
-d f BC-SYSTEMED-CHANGES-NAME   03-17 0038</field>
-	<field name = "TITLE">SYSTEMED CHANGES NAME TO KNOWLEDGE DATA KDSI></field>
+	<field name = "titulo">SYSTEMED CHANGES NAME TO KNOWLEDGE DATA KDSI></field>
 	<field name = "DATELINE">SALT LAKE CITY, March 17 -</field>
-	<field name = "BODY">Systemed Inc said it changed its
+	<field name = "content">Systemed Inc said it changed its
 name to Knowledge Data Systems Inc.
     It will now trade under the NASDAQ symbol KDSI. Its
 previous symbol was SYMD>.

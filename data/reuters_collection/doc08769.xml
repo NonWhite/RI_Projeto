@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 10:43:45.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F
-f1177reute
-r f BC-consolidated-bathurst   03-24 0114</field>
-	<field name = "TITLE">CONSOLIDATED-BATHURST TO BUY BACK SOME SHARES</field>
+	<field name = "titulo">CONSOLIDATED-BATHURST TO BUY BACK SOME SHARES</field>
 	<field name = "DATELINE">MONTREAL, March 24 -</field>
-	<field name = "BODY">Consolidated-Bathurst Inc> said it
+	<field name = "content">Consolidated-Bathurst Inc> said it
 proposes to acquire up to five mln of its common shares, or
 five pct of the total outstanding on March 2, at prevailing
 market prices on the Toronto and Montreal Stock Exchanges

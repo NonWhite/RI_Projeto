@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 22:56:46.50</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0965reute
-u f BC-IEL'S-ACMEX-UNIT-TO-B   03-12 0111</field>
-	<field name = "TITLE">IEL'S ACMEX UNIT TO BID FOR CHEETHAM</field>
+	<field name = "titulo">IEL'S ACMEX UNIT TO BID FOR CHEETHAM</field>
 	<field name = "DATELINE">SYDNEY, March 13 -</field>
-	<field name = "BODY">Industrial Equity Ltd> (IEL) unit
+	<field name = "content">Industrial Equity Ltd> (IEL) unit
 Acmex Holdings Ltd> said it proposed to make a formal takeover
 offer for all the issued capital of Cheetham Ltd>, a producer
 of salt, animal feed and seeds.

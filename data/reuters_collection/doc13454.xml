@@ -2,13 +2,10 @@
 	<field name = "DATE">7-APR-1987 06:12:33.46</field>
 	<field name = "PLACES">singapore</field>
 	<field name = "EXCHANGES">sse</field>
-	<field name = "UNKNOWN">F
-f0319reute
-u f BC-SINGAPORE-STOCKS-EXPE   04-07 0111</field>
-	<field name = "TITLE">SINGAPORE STOCKS EXPECTED TO CONTINUE STRONG TREND</field>
+	<field name = "titulo">SINGAPORE STOCKS EXPECTED TO CONTINUE STRONG TREND</field>
 	<field name = "AUTHOR">By Tay Liam Hwee, Reuters</field>
 	<field name = "DATELINE">SINGAPORE, April 7 -</field>
-	<field name = "BODY">The Stock Exchange of Singapore (SES)
+	<field name = "content">The Stock Exchange of Singapore (SES)
 will likely be used to raise more than 1.5 billion dlrs in
 1987, continuing a long-term bullish trend that began last year
 when about the same amount was tapped.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 15:07:14.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2111reute
-s f BC-ENTEX-ENERGY-DEVELOPM   06-19 0024</field>
-	<field name = "TITLE">ENTEX ENERGY DEVELOPMENT LTD EED> QTLY DIV</field>
+	<field name = "titulo">ENTEX ENERGY DEVELOPMENT LTD EED> QTLY DIV</field>
 	<field name = "DATELINE">HOUSTON, June 19 -</field>
-	<field name = "BODY">Qtly div 15 cts vs 15 cts prior
+	<field name = "content">Qtly div 15 cts vs 15 cts prior
     Payable August 31
     Record June 30
  Reuter</field>

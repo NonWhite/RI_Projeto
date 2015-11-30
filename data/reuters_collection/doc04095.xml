@@ -6,12 +6,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C T
-f0431reute
-u f BC-DUTCH-SUGAR-TRADE-DEN   03-12 0099</field>
-	<field name = "TITLE">DUTCH SUGAR TRADE DENY INVOLVEMENT IN OFFER</field>
+	<field name = "titulo">DUTCH SUGAR TRADE DENY INVOLVEMENT IN OFFER</field>
 	<field name = "DATELINE">ROTTERDAM, March 12 -</field>
-	<field name = "BODY">Dutch sugar traders deny involvement
+	<field name = "content">Dutch sugar traders deny involvement
 in a plan to offer more than 850,000 tonnes of sugar to
 intervention in protest at EC export policy and prices, traders
 told Reuters.

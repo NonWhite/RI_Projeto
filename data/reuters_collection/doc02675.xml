@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:40:09.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0590reute
-r f BC-MERIDIAN-KITS>-LICEN   03-06 0098</field>
-	<field name = "TITLE">MERIDIAN KITS> LICENSES PARASITE TEST KIT</field>
+	<field name = "titulo">MERIDIAN KITS> LICENSES PARASITE TEST KIT</field>
 	<field name = "DATELINE">CINCINNATI, March 6 -</field>
-	<field name = "BODY">Meridian Diagnostics Inc said it
+	<field name = "content">Meridian Diagnostics Inc said it
 finalized a licensing agreement with the University of Arizona
 for the production of a test kit that detects Giardia lamblia,
 a major cause of traveler's diarrhea.

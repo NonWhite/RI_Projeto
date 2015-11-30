@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 12:55:22.54</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0177reute
-r f BC-RAYTECH-CORP-RAY>-4T   03-03 0069</field>
-	<field name = "TITLE">RAYTECH CORP RAY> 4TH QTR DEC 28 NET</field>
+	<field name = "titulo">RAYTECH CORP RAY> 4TH QTR DEC 28 NET</field>
 	<field name = "DATELINE">TRUMBULL, Conn., March 3 -</field>
-	<field name = "BODY">Shr profit 78 cts vs loss 1.05 dlrs
+	<field name = "content">Shr profit 78 cts vs loss 1.05 dlrs
     Net profit 2,336,000 vs loss 3,002,000
     Revs 26.0 mln vs 26.7 mln
     Year

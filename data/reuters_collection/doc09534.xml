@@ -5,12 +5,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">V RM
-f2177reute
-b f BC-/BAKER-SAYS-U.S.-WANT   03-25 0083</field>
-	<field name = "TITLE">BAKER SAYS U.S. WANTS TO STABILIZE EXCHANGE RATES</field>
+	<field name = "titulo">BAKER SAYS U.S. WANTS TO STABILIZE EXCHANGE RATES</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 the United States and other nations were willing to cooperate
 to stabilize foreign exchange rates at the levels that existed
 at the time of an international agreement last month.

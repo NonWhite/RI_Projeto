@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 03:23:57.27</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM AI
-f0145reute
-u f BC-SINGAPORE-GOVERNMENT   06-02 0102</field>
-	<field name = "TITLE">SINGAPORE GOVERNMENT SECURITIES MARKET STARTS WELL</field>
+	<field name = "titulo">SINGAPORE GOVERNMENT SECURITIES MARKET STARTS WELL</field>
 	<field name = "AUTHOR">By Tay Liam Hwee, Reuters</field>
 	<field name = "DATELINE">SINGAPORE, June 2 -</field>
-	<field name = "BODY">Singapore's government securities
+	<field name = "content">Singapore's government securities
 market had performed well in volume terms since its launch on
 May 7 but there were constraints to further growth, bankers and
 dealers said.

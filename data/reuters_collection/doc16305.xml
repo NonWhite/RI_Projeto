@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 10:36:11.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM Y V
-f1141reute
-b f BC-/PENNZOILPZL>-TO-CON   04-13 0094</field>
-	<field name = "TITLE">PENNZOILPZL> TO CONTEST TEXACO QTX> BANKRUPTCY</field>
+	<field name = "titulo">PENNZOILPZL> TO CONTEST TEXACO QTX> BANKRUPTCY</field>
 	<field name = "DATELINE">HOUSTON, April 13 -</field>
-	<field name = "BODY">Pennzoil Co lawyers said they plan to
+	<field name = "content">Pennzoil Co lawyers said they plan to
 file documents challenging Texaco Inc's Chapter 11 bankruptcy
 proceedings in the Southern District of New York.
     John Jeffers, a Houston lawyer representing Pennzoil in its

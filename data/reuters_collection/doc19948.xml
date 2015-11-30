@@ -2,13 +2,10 @@
 	<field name = "DATE">29-JUN-1987 17:46:17.66</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F RM A 
-f2707reute
-u f BC-LIMITED-IMPACT-SEEN-F   06-29 0105</field>
-	<field name = "TITLE">LIMITED IMPACT SEEN FROM U.S. TAX ACCORD ACTION</field>
+	<field name = "titulo">LIMITED IMPACT SEEN FROM U.S. TAX ACCORD ACTION</field>
 	<field name = "AUTHOR">By Kenneth Barry, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">A U.S. decision ending a forty-year
+	<field name = "content">A U.S. decision ending a forty-year
 tax treaty covering the Netherlands Antilles was unlikely to
 have a major impact on the Eurobond market, tax experts said.
     Most U.S. firms stopped using financial subsidiaries

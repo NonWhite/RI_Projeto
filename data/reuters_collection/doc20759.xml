@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 17:08:15.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3326reute
-r f BC-FLORIDA-POWER-FPL>-N   10-20 0081</field>
-	<field name = "TITLE">FLORIDA POWER FPL> NUCLEAR FE PROPOSED</field>
+	<field name = "titulo">FLORIDA POWER FPL> NUCLEAR FE PROPOSED</field>
 	<field name = "DATELINE">MIAMI, Oct 20 -</field>
-	<field name = "BODY">FPL Group Inc's Florida Power and Light Co
+	<field name = "content">FPL Group Inc's Florida Power and Light Co
 subsidiary said the staff of the Nuclear Regulatory Commission
 has proposed a 225,000 dlr fine against the utility's Turkey
 Point nuclear power plant based on three previously identified

@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 08:38:33.70</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0850reute
-b f BC-SWISS-SIGHT-DEPOSITS   03-11 0066</field>
-	<field name = "TITLE">SWISS SIGHT DEPOSITS FALL 2.88 BILLION FRANCS</field>
+	<field name = "titulo">SWISS SIGHT DEPOSITS FALL 2.88 BILLION FRANCS</field>
 	<field name = "DATELINE">ZURICH, March 11 -</field>
-	<field name = "BODY">Sight deposits of commercial banks at
+	<field name = "content">Sight deposits of commercial banks at
 the Swiss National Bank fell 2.88 billion Swiss francs in the
 first 10 days of March to 7.65 billion, the National Bank said.
     Foreign exchange reserves rose 3.30 billion francs to 33.94

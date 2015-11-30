@@ -26,12 +26,9 @@
 	<field name = "PLACES">sudan</field>
 	<field name = "PLACES">egypt</field>
 	<field name = "PLACES">mauritania</field>
-	<field name = "UNKNOWN">C G
-f0731reute
-u f BC-FRENCH-CEREAL-EXPORTS   04-01 0102</field>
-	<field name = "TITLE">FRENCH CEREAL EXPORTS THROUGH ROUEN UP IN MARCH</field>
+	<field name = "titulo">FRENCH CEREAL EXPORTS THROUGH ROUEN UP IN MARCH</field>
 	<field name = "DATELINE">PARIS, April 1 -</field>
-	<field name = "BODY">French cereals exports through Rouen port
+	<field name = "content">French cereals exports through Rouen port
 rose to 751,563 tonnes between March 1 and March 25 from
 603,413 tonnes in the same 1986 period, freight sources said.
     The Soviet Union took 263,051 tonnes of wheat and barley,

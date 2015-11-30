@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 15:02:46.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f0308reute
-b f BC-/FED'S-HELLER-URGES-O   03-06 0099</field>
-	<field name = "TITLE">FED'S HELLER URGES OVERHAUL OF FINANCIAL SYSTEM</field>
+	<field name = "titulo">FED'S HELLER URGES OVERHAUL OF FINANCIAL SYSTEM</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">Federal Reserve Board Governor Robert
+	<field name = "content">Federal Reserve Board Governor Robert
 Heller said the U.S. legal and regulatory framework of the U.S
 financial system needs a complete overhaul so American banks
 can be more competitive in international markets.

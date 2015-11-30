@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-APR-1987 07:29:05.25</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">V
-f0517reute
-u f PM-SAFRICA-PARADE ***  04-21 0108</field>
-	<field name = "TITLE">BLACK POLICEMAN KILLED, 70 HURT IN SOWETO ATTACK</field>
+	<field name = "titulo">BLACK POLICEMAN KILLED, 70 HURT IN SOWETO ATTACK</field>
 	<field name = "DATELINE">JOHANNESBURG, April 21 -</field>
-	<field name = "BODY">A black policeman was killed and
+	<field name = "content">A black policeman was killed and
 70 were injured when a bomb was lobbed onto a parade ground in
 South Africa's biggest black township of Soweto this morning,
 the government said.

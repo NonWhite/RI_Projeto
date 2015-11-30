@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 16:06:53.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2481reute
-d f BC-FOREIGN-OWNERSHIP-OF   03-30 0127</field>
-	<field name = "TITLE">FOREIGN OWNERSHIP OF U.S. FARMLAND UP -- USDA</field>
+	<field name = "titulo">FOREIGN OWNERSHIP OF U.S. FARMLAND UP -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">Non-U.S. citizens held 12.4 mln
+	<field name = "content">Non-U.S. citizens held 12.4 mln
 acres of privately owned U.S. agricultural land as of December
 31, slightly less than one pct of the total agricultural land,
 but 369,000 acres above the foreign ownership at the end of

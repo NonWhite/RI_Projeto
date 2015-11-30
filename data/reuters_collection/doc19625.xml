@@ -4,12 +4,9 @@
 	<field name = "PLACES">canada</field>
 	<field name = "EXCHANGES">nyse</field>
 	<field name = "EXCHANGES">tose</field>
-	<field name = "UNKNOWN">F 
-f1101reute
-r f BC-BET-TO-APPLY-FOR-LIST   06-29 0094</field>
-	<field name = "TITLE">BET TO APPLY FOR LISTINGS IN NEW YORK, TORONTO</field>
+	<field name = "titulo">BET TO APPLY FOR LISTINGS IN NEW YORK, TORONTO</field>
 	<field name = "DATELINE">LONDON, June 29 -</field>
-	<field name = "BODY">BET Plc BETL.L> said it will apply for
+	<field name = "content">BET Plc BETL.L> said it will apply for
 listings on the New York and Toronto stock exchanges.
     BET said it filed its registration statement with the
 authorities in North America for the share issue cleared by its

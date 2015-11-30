@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0237reute
-b f BC-GERMAN-CURRENT-ACCOUN   04-29 0090</field>
-	<field name = "TITLE">GERMAN CURRENT ACCOUNT SURPLUS WIDENS IN MARCH</field>
+	<field name = "titulo">GERMAN CURRENT ACCOUNT SURPLUS WIDENS IN MARCH</field>
 	<field name = "DATELINE">WIESBADEN, April 29 -</field>
-	<field name = "BODY">West Germany's current account
+	<field name = "content">West Germany's current account
 surplus widened to a provisional 8.8 billion marks in March
 from a slightly downwards revised 6.5 billion in February, a
 spokesman for the Federal Statistics Office said.

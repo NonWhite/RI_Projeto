@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 09:00:25.08</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0895reute
-r f BC-GAF-GAF>-TO-REPURCHA   10-20 0106</field>
-	<field name = "TITLE">GAF GAF> TO PURCHASE UP TO 21 PCT OF STOCK</field>
+	<field name = "titulo">GAF GAF> TO PURCHASE UP TO 21 PCT OF STOCK</field>
 	<field name = "DATELINE">WAYNE, N.J., Oct 20 -</field>
-	<field name = "BODY">GAF Corp said its board has
+	<field name = "content">GAF Corp said its board has
 authorized the repurchase from time to time of up to seven mln
 of its common shares, or about 21 pct, for cash in open market
 purchases or private transactions.

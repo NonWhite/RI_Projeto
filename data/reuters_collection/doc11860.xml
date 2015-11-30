@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 08:06:48.55</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0641reute
-u f BC--U.S.-CREDIT-MARKET-O   04-01 0101</field>
-	<field name = "TITLE">U.S. CREDIT MARKET OUTLOOK - PRIME RATE</field>
+	<field name = "titulo">U.S. CREDIT MARKET OUTLOOK - PRIME RATE</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">The prospect that other banks will
+	<field name = "content">The prospect that other banks will
 follow industry leaders Citibank and Chase Manhattan in raising
 their prime rate is likely to cast a pall over the credit
 markets today, economists said.

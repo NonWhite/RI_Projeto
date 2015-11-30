@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 15:00:55.67</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0488reute
-u f BC-DYNAMICS-CORP-DYA>-I   03-04 0056</field>
-	<field name = "TITLE">DYNAMICS CORP DYA> IN SETTLEMENT WITH CTS CTS></field>
+	<field name = "titulo">DYNAMICS CORP DYA> IN SETTLEMENT WITH CTS CTS></field>
 	<field name = "DATELINE">GREENWICH, Conn., March 4 -</field>
-	<field name = "BODY">Dynamics Corp of America said
+	<field name = "content">Dynamics Corp of America said
 it has reached an agreement with CTS Corp resolving all
 differences between the two companies.
     It said as a result of the settlement, CTS's special board

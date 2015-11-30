@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 13:42:46.99</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1914reute
-r f BC-MOORE-HANDLEY   03-19 0091</field>
-	<field name = "TITLE">INVESTMENT GROUP HAS MOORE-HANDLEY MHCO> STAKE</field>
+	<field name = "titulo">INVESTMENT GROUP HAS MOORE-HANDLEY MHCO> STAKE</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">A group of New York investment
+	<field name = "content">A group of New York investment
 companies told the Securities and Exchange Commission they have
 acquired 173,000 shares of Moore-Handley Inc, or 6.9 pct of the
 total outstanding common stock.

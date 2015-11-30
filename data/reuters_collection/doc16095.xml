@@ -3,12 +3,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">bahrain</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">RM
-f0057reute
-r f BC-YIELD-RISES-ON-30-DAY   04-11 0097</field>
-	<field name = "TITLE">YIELD RISES ON 30-DAY SAMA DEPOSITS</field>
+	<field name = "titulo">YIELD RISES ON 30-DAY SAMA DEPOSITS</field>
 	<field name = "DATELINE">BAHRAIN, April 11 -</field>
-	<field name = "BODY">The yield on 30-day Bankers Security
+	<field name = "content">The yield on 30-day Bankers Security
 Deposit Accounts issued this week by the Saudi Arabian Monetary
 Agency (SAMA) rose by more than 1/8 point to 5.95913 pct from
 5.79348 a week ago, bankers said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 14:23:25.56</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2194reute
-w f BC-LOUISVILLE-GASLOU>-T   03-30 0084</field>
-	<field name = "TITLE">LOUISVILLE GASLOU> TO ASK PROTECTIVE MEASURES</field>
+	<field name = "titulo">LOUISVILLE GASLOU> TO ASK PROTECTIVE MEASURES</field>
 	<field name = "DATELINE">LOUISVILLE, KY., March 30 -</field>
-	<field name = "BODY">Louisville Gas and Electric Co
+	<field name = "content">Louisville Gas and Electric Co
 said it will ask stockholders at its May 12 annual meeting to
 approve several anti-takeover proposals.
     It said the measures include staggered terms for directors

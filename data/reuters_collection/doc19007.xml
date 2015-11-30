@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 19:50:03.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f5025reute
-u f BC-FORMER-SHEARSON-SHE>   06-18 0099</field>
-	<field name = "TITLE">FORMER SHEARSON SHE> OFFICIAL PLEADS GUILTY</field>
+	<field name = "titulo">FORMER SHEARSON SHE> OFFICIAL PLEADS GUILTY</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Mark Stahl, 45, who was a former senior
+	<field name = "content">Mark Stahl, 45, who was a former senior
 vice president of Shearson Lehman Brothers, until his
 suspension on April 16, today admitted in U.S. District court
 here, embezzling almost 19 mln dlrs from his firm over the past

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 10:48:41.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0788
-reute
-d f BC-PRIME-COMPUTER-PRM>   03-02 0106</field>
-	<field name = "TITLE">PRIME COMPUTER PRM> UNVEILS PC SOFTWARE</field>
+	<field name = "titulo">PRIME COMPUTER PRM> UNVEILS PC SOFTWARE</field>
 	<field name = "DATELINE">NATICK, Mass., March 2 -</field>
-	<field name = "BODY">Prime Computer Inc said it has
+	<field name = "content">Prime Computer Inc said it has
 introduced the Prime Medusa/pc software, a two dimensional
 version of its Prime Medusa computer-aided-design software.
     Prime said Prime Medusa/pc is for use on an International

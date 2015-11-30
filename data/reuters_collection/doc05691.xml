@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 16:31:47.95</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f3611reute
-u f BC-BRAZIL-TRADE-SURPLUS   03-16 0113</field>
-	<field name = "TITLE">BRAZIL'S TRADE SURPLUS DOUBLED IN FEBRUARY</field>
+	<field name = "titulo">BRAZIL'S TRADE SURPLUS DOUBLED IN FEBRUARY</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 16 -</field>
-	<field name = "BODY">Brazil's trade surplus doubled
+	<field name = "content">Brazil's trade surplus doubled
 in February to 261 mln dlrs from January's 129 mln but was well
 below the 628 mln dlrs of February last year, official figures
 show.

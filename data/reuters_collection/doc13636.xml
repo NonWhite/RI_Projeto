@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:31:26.25</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">C G T M
-f0612reute
-u f BC-JAPAN-RULING-PARTY-SE   04-07 0134</field>
-	<field name = "TITLE">JAPAN RULING PARTY SEEKS BIG SUPPLEMENT BUDGET</field>
+	<field name = "titulo">JAPAN RULING PARTY SEEKS BIG SUPPLEMENT BUDGET</field>
 	<field name = "DATELINE">TOKYO, April 7 -</field>
-	<field name = "BODY">The ruling Liberal Democratic Party has
+	<field name = "content">The ruling Liberal Democratic Party has
 drawn up the guidelines of an economic package including a
 supplementary budget of more than 5,000 billion yen, a senior
 party official said.

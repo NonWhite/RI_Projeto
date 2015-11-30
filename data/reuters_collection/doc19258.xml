@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 12:32:22.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1553reute
-u f BC-MAY-DEPT-STORES-MA>   06-19 0081</field>
-	<field name = "TITLE">MAY DEPT STORES MA> SEES RECORD FISCAL 1988</field>
+	<field name = "titulo">MAY DEPT STORES MA> SEES RECORD FISCAL 1988</field>
 	<field name = "DATELINE">ST LOUIS, June 19 -</field>
-	<field name = "BODY">May Department Stores Co said it
+	<field name = "content">May Department Stores Co said it
 expects record profits and sales in the fiscal 1988 and also
 set a five-year 3.3 billion dlr capital expenditure plan.
     "Our sights are set on achieving our 13th consecutive year

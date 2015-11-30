@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:48:53.90</field>
 	<field name = "PLACES">uruguay</field>
-	<field name = "UNKNOWN">RM 
-f1788reute
-r f BC-LAST-PRIVATE-URUGUAYA   06-29 0107</field>
-	<field name = "TITLE">LAST PRIVATE URUGUAYAN BANK MERGES WITH STATE BANK</field>
+	<field name = "titulo">LAST PRIVATE URUGUAYAN BANK MERGES WITH STATE BANK</field>
 	<field name = "DATELINE">MONTEVIDEO, June 29 -</field>
-	<field name = "BODY">The board of directors of the last
+	<field name = "content">The board of directors of the last
 entirely private Uruguayan bank, La Caja Obrera, has approved
 its merger with a state-owned bank due to a severe financial
 crisis, a bank statement said.

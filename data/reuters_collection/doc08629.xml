@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0312reute
-u f BC-SANTOS-SAYS-PROFITS-H   03-24 0108</field>
-	<field name = "TITLE">SANTOS SAYS PROFITS HIT BY OIL PRICE FALL</field>
+	<field name = "titulo">SANTOS SAYS PROFITS HIT BY OIL PRICE FALL</field>
 	<field name = "DATELINE">ADELAIDE, March 24 -</field>
-	<field name = "BODY">Leading Australian onshore oil and gas
+	<field name = "content">Leading Australian onshore oil and gas
 producer, Santos Ltd STOS.S>, said its 1986 results were hit
 by sharp reductions in prices for crude oil, condensate and
 liquefied petroleum gas (LPG).

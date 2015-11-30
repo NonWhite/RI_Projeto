@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 09:16:48.83</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">RM
-f0903reute
-u f BC-LABOUR-GROUP-URGES-SU   04-02 0112</field>
-	<field name = "TITLE">LABOUR GROUP URGES SUPPORT FOR RAILWAY STRIKERS</field>
+	<field name = "titulo">LABOUR GROUP URGES SUPPORT FOR RAILWAY STRIKERS</field>
 	<field name = "DATELINE">JOHANNESBURG, April 2 -</field>
-	<field name = "BODY">South Africa's largest labour
+	<field name = "content">South Africa's largest labour
 federation has issued a broad call to the country's trade union
 movement to support thousands of striking black railway workers
 and criticised the state-owned rail company for threatening to

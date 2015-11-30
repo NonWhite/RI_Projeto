@@ -3,12 +3,9 @@
 	<field name = "TOPICS">carcass</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">LQ
-f2283reute
-r f BC-poultry-sltr   04-01 0068</field>
-	<field name = "TITLE">ESTIMATED U.S. POULTRY SLAUGHTER</field>
+	<field name = "titulo">ESTIMATED U.S. POULTRY SLAUGHTER</field>
 	<field name = "DATELINE">KANSAS CITY, April 1  -</field>
-	<field name = "BODY">The United States department of
+	<field name = "content">The United States department of
 agriculture estimated live poultry slaughter for the week
 ending April 1  as follows, in thousands -
             Current      Previous

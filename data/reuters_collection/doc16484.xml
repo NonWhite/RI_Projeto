@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:53:02.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f1842reute
-r f BC-BANKAMERICA-BAC>-NAM   04-13 0101</field>
-	<field name = "TITLE">BANKAMERICA BAC> NAMES NEW GROUP VICE CHAIRMAN</field>
+	<field name = "titulo">BANKAMERICA BAC> NAMES NEW GROUP VICE CHAIRMAN</field>
 	<field name = "DATELINE">SAN FRANCISCO, April 13 -</field>
-	<field name = "BODY">BankAmerica Corp said it named
+	<field name = "content">BankAmerica Corp said it named
 Richard Rosenberg as vice chairman and head of a newly
 designated California Banking Group.
     Rosenberg had been president and chief operating officer of

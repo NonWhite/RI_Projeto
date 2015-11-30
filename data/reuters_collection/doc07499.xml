@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">Y RM F
-f2710reute
-r f AM-SHIPS   03-19 0095</field>
-	<field name = "TITLE">U.S. SAYS NO SIGNAL BEING SENT BY SHIP MOVEMENTS</field>
+	<field name = "titulo">U.S. SAYS NO SIGNAL BEING SENT BY SHIP MOVEMENTS</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">A U.S. Navy battle group led by the
+	<field name = "content">A U.S. Navy battle group led by the
 U.S. aircraft carrier Kitty Hawk is in the northern Arabian Sea
 amid renewed concern about the safety of shipping off the coast
 of Iran, U.S. officials said today.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">C G
-f0456reute
-u f BC-AUSTRALIAN-WHEAT-AREA   03-23 0115</field>
-	<field name = "TITLE">AUSTRALIAN WHEAT AREA TO FALL, FORECASTER SAYS</field>
+	<field name = "titulo">AUSTRALIAN WHEAT AREA TO FALL, FORECASTER SAYS</field>
 	<field name = "DATELINE">MELBOURNE, March 23 -</field>
-	<field name = "BODY">Australian wheat plantings are
+	<field name = "content">Australian wheat plantings are
 forecast to fall to 10.40 mln hectares in 1987/88 from 11.72
 mln sown in 1986/87, Australian Wheat Forecasters Pty Ltd (AWF)
 said in its first preliminary crop forecast.

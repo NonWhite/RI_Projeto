@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 11:20:35.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0507reute
-r f BC-COMPUTER-FACTORY-CFA   03-06 0069</field>
-	<field name = "TITLE">COMPUTER FACTORY CFA> SHARE OFFERING STARTS</field>
+	<field name = "titulo">COMPUTER FACTORY CFA> SHARE OFFERING STARTS</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">Sole underwriter E.F. Hutton Group Inc
+	<field name = "content">Sole underwriter E.F. Hutton Group Inc
 EFH> said an offering of 2,100,000 common shares of Computer
 Factory Inc is under way at 24.50 dlrs per share.
     The company is selling 1,800,000 shares and a shareholder

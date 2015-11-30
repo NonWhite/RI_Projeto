@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 11:09:14.74</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1446reute
-r f BC-ACTON-ATN>-TO-SELL-U   03-31 0101</field>
-	<field name = "TITLE">ACTON ATN> TO SELL UNIT FOR GAIN</field>
+	<field name = "titulo">ACTON ATN> TO SELL UNIT FOR GAIN</field>
 	<field name = "DATELINE">ACTON, Mass., March 31 -</field>
-	<field name = "BODY">Acton Corp said it has agreed to
+	<field name = "content">Acton Corp said it has agreed to
 sell its five Michigan cable television systems to Wisconsin
 Cablevision Inc for about 9,500,000 dlrs, resulting in a gain
 of about six mln dlrs.

@@ -3,13 +3,10 @@
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">zambia</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">M C 
-f4039reute
-d f BC-ZAMBIAN-COPPER-INDUST   06-18 0095</field>
-	<field name = "TITLE">ZAMBIAN COPPER INDUSTRY HOPES FOR STEADY OUTPUT</field>
+	<field name = "titulo">ZAMBIAN COPPER INDUSTRY HOPES FOR STEADY OUTPUT</field>
 	<field name = "AUTHOR">By Buchizya Mseteka, Reuters</field>
 	<field name = "DATELINE">LUSAKA, June 18 -</field>
-	<field name = "BODY">Zambia's copper mining industry is hoping
+	<field name = "content">Zambia's copper mining industry is hoping
 to achieve and maintain production at over 500,000 tonnes a
 year in the next few years despite low world prices,
 deteriorating ores and shortages of mine inputs, industry

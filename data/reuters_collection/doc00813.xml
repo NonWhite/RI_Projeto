@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 17:13:00.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0181
-reute
-r f BC-AMC-AMO>-EXTENDS-INC   03-02 0070</field>
-	<field name = "TITLE">AMC AMO> EXTENDS INCENTIVE PROGRAM</field>
+	<field name = "titulo">AMC AMO> EXTENDS INCENTIVE PROGRAM</field>
 	<field name = "DATELINE">SOUTHFIELD, Mich., March 2 -</field>
-	<field name = "BODY">American Motors Corp said it
+	<field name = "content">American Motors Corp said it
 is offering up to 700 dlrs on 1986 and 1987 Jeep Cherokee and
 Wagoneer vehicles bought until March 31.
     Rebates are 700 dlrs for two-door vehicles and 500 dlrs on

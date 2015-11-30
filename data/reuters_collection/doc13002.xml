@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 12:43:33.42</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1686reute
-r f BC-noranda-sets-temporar   04-03 0090</field>
-	<field name = "TITLE">NORANDA SETS TEMPORARY MINE SHUTDOWN</field>
+	<field name = "titulo">NORANDA SETS TEMPORARY MINE SHUTDOWN</field>
 	<field name = "DATELINE">Murdochville, Quebec, April 3 -</field>
-	<field name = "BODY">Noranda Inc> said
+	<field name = "content">Noranda Inc> said
 production will remain shut down at its fire-damaged copper
 mine here until it can completely examine the mine.
     The fire, which started Wednesday and burned itself out

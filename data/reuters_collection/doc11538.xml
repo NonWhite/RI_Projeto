@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 13:52:29.63</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2078reute
-d f BC-WILSON-BROTHERS-COMPL   03-31 0078</field>
-	<field name = "TITLE">WILSON BROTHERS COMPLETES SALE</field>
+	<field name = "titulo">WILSON BROTHERS COMPLETES SALE</field>
 	<field name = "DATELINE">MIAMI, Fla., March 31 -</field>
-	<field name = "BODY">Wilson Brothers said it completed
+	<field name = "content">Wilson Brothers said it completed
 the sale of most of the assets of its Enro Shirt Co Inc,
 Enro-At-Ease Inc and Foxcroft Shirt Ltd subsidiaries to Enro
 Acquisition Corp for about 24.2 mln dlrs, half in cash and half

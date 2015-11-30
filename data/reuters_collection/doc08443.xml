@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 14:33:40.99</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f2051reute
-u f BC-GERMAN-BANKING-AUTHOR   03-23 0112</field>
-	<field name = "TITLE">GERMAN BANKING AUTHORITIES DRAWN INTO VW CASE</field>
+	<field name = "titulo">GERMAN BANKING AUTHORITIES DRAWN INTO VW CASE</field>
 	<field name = "AUTHOR">By Jonathan Lynn, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 23 -</field>
-	<field name = "BODY">West Germany's banking authorities
+	<field name = "content">West Germany's banking authorities
 are being drawn into the currency scandal surrounding
 Volkswagen AG VOWG.F> as the repercussions and allegations in
 the financial community widen, banking sources said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 11:50:01.21</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">RM
-f1542reute
-u f BC-BUNDESBANK-SOURCES-SA   06-02 0084</field>
-	<field name = "TITLE">BUNDESBANK SOURCES SAY VOLCKER MOVE REGRETTED</field>
+	<field name = "titulo">BUNDESBANK SOURCES SAY VOLCKER MOVE REGRETTED</field>
 	<field name = "DATELINE">FRANKFURT, June 2 -</field>
-	<field name = "BODY">The Bundesbank noted with regret that
+	<field name = "content">The Bundesbank noted with regret that
 Paul Volcker will not be available for a further term as
 Federal Reserve chairman, Bundesbank sources said.
     Cooperation with Volcker was always trusting and successful

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 12:11:40.73</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1558reute
-r f BC-hees-international   03-25 0111</field>
-	<field name = "TITLE">HEES INTERNATIONAL SETS 100 MLN DLR SHARE ISSUE</field>
+	<field name = "titulo">HEES INTERNATIONAL SETS 100 MLN DLR SHARE ISSUE</field>
 	<field name = "DATELINE">TORONTO, March 25 -</field>
-	<field name = "BODY">Hees International Corp> said it filed
+	<field name = "content">Hees International Corp> said it filed
 a preliminary prospectus in Canada for a 100 mln dlr issue of
 1,000 class A preference shares, series G, priced at 100,000
 dlrs a share.

@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 11:15:00.06</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0374reute
-u f BC-INSTINET-INET>-SETS   03-12 0095</field>
-	<field name = "TITLE">INSTINET INET> SETS MEETING ON MERGER</field>
+	<field name = "titulo">INSTINET INET> SETS MEETING ON MERGER</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Instinet Corp said its board has
+	<field name = "content">Instinet Corp said its board has
 scheduled a special shareholders' meeting for May 21 to vote on
 its proposed merger into Reuters Holdings PLC RTRSY>.
     It said shareholders of record as of April 10 will be

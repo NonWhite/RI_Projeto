@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 15:43:11.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0454reute
-r f BC-FAA-SEES-COMMERICAL-A   03-06 0100</field>
-	<field name = "TITLE">FAA SEES COMMERICAL AVIATION GROWTH CONTINUING</field>
+	<field name = "titulo">FAA SEES COMMERICAL AVIATION GROWTH CONTINUING</field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">The Federal Aviation Administration
+	<field name = "content">The Federal Aviation Administration
 said it expected continued growth for commercial aviation in
 the next 12 years, with passenger traffic increasing at an
 annual rate of 4.5 pct on major scheduled airlines and 6.7 pct

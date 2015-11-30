@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">lebanon</field>
-	<field name = "UNKNOWN">RM
-f7060reute
-u f BC-NY-TIMES-SAYS-IRAN-AR   03-18 0117</field>
-	<field name = "TITLE">NY TIMES SAYS IRAN ARMS MONEY WENT TO KIDNAPPERS</field>
+	<field name = "titulo">NY TIMES SAYS IRAN ARMS MONEY WENT TO KIDNAPPERS</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">Millions of dollars in proceeds from
+	<field name = "content">Millions of dollars in proceeds from
 the sale of U.S. Arms to Iran were funneled to groups holding
 American hostages in Lebanon, the New York Times said.
     The newspaper, quoting U.S. Officials and others, said

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 19:29:13.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2775reute
-r f BC-U.S.-SENATE-FARM-PANE   03-25 0110</field>
-	<field name = "TITLE">U.S. SENATE FARM PANEL MAKEUP STILL IN DOUBT</field>
+	<field name = "titulo">U.S. SENATE FARM PANEL MAKEUP STILL IN DOUBT</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">The composition of the Senate
+	<field name = "content">The composition of the Senate
 Agriculture Committee, in question since the death of Nebraskan
 Democratic Sen. Edward Zorinsky, remains in doubt.
     Zorinsky's death earlier this month cut the Democrats'

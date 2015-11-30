@@ -3,12 +3,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">RM
-f1389reute
-b f BC-IRAN-SAYS-IT-OPENS-NE   04-09 0112</field>
-	<field name = "TITLE">IRAN SAYS IT OPENS NEW OFFENSIVE NORTH OF BAGHDAD</field>
+	<field name = "titulo">IRAN SAYS IT OPENS NEW OFFENSIVE NORTH OF BAGHDAD</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Iran said it launched a fresh offensive
+	<field name = "content">Iran said it launched a fresh offensive
 today north of Baghdad, three days after it began a new thrust
 against Iraq on the southern Gulf war front.
     The Iranian news agency IRNA, received in London, said the

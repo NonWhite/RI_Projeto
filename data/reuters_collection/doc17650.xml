@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 13:09:31.47</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1803reute
-u f BC-PIEZO   06-01 0070</field>
-	<field name = "TITLE">INSURANCE FIRM AS PIEZO PEPI.O> PREFERRED STAKE</field>
+	<field name = "titulo">INSURANCE FIRM AS PIEZO PEPI.O> PREFERRED STAKE</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">Corporate Life Insurance Co, a West
+	<field name = "content">Corporate Life Insurance Co, a West
 Chester, Pa., insurance firm, told the Securities and Exchange
 Commission it has acquired 44,600 shares of preferred stock in
 Piezo Electric Products Inc, or 10.8 pct of the total.

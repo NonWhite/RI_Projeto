@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:37:06.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2582reute
-r f BC-RED-LION-INNS-L.P.-BE   04-07 0048</field>
-	<field name = "TITLE">RED LION INNS L.P. BEGINS OFFERING</field>
+	<field name = "titulo">RED LION INNS L.P. BEGINS OFFERING</field>
 	<field name = "DATELINE">NEW YORK, APril 7 -</field>
-	<field name = "BODY">Red Lion Inns L.P. said it began an
+	<field name = "content">Red Lion Inns L.P. said it began an
 initial public offering of 4.9 mln units priced at 20 dlrs a
 unit.
     Proceeds and a 105.87 mln dlrs mortgage loan will be used

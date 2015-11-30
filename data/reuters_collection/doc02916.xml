@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 17:36:51.54</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0730reute
-u f BC-USAIR-U>-SEEKS-ORDER   03-06 0101</field>
-	<field name = "TITLE">USAIR U> SEEKS ORDER AGAINST TWA TWA></field>
+	<field name = "titulo">USAIR U> SEEKS ORDER AGAINST TWA TWA></field>
 	<field name = "DATELINE">WASHINGTON, March 6 -</field>
-	<field name = "BODY">USAir Group said it sought the help
+	<field name = "content">USAir Group said it sought the help
 of the U.S. Department of Transportation in its takeover fight
 with Trans World Airlines Inc, asking the Department to order
 TWA to sell its USAir shares.

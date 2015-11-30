@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:37:46.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0321
-reute
-u f BC-SEC-STAFF-ADVISES-FRA   03-02 0110</field>
-	<field name = "TITLE">SEC STAFF ADVISES FRAUD CHARGES AGAINST WPPSS</field>
+	<field name = "titulo">SEC STAFF ADVISES FRAUD CHARGES AGAINST WPPSS</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">The staff of the federal Securities
+	<field name = "content">The staff of the federal Securities
 and Exchange Commission (SEC) plans to recommend that the
 Washington Public Power Supply System (WPPSS) be charged with
 securities fraud in connection with its July 1983 default on

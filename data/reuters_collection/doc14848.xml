@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 04:03:27.14</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
-	<field name = "UNKNOWN">RM
-f0199reute
-b f BC-BUNDESBANK-ALLOCATES   04-08 0067</field>
-	<field name = "TITLE">BUNDESBANK ALLOCATES 6.1 BILLION MARKS IN TENDER</field>
+	<field name = "titulo">BUNDESBANK ALLOCATES 6.1 BILLION MARKS IN TENDER</field>
 	<field name = "DATELINE">FRANKFURT, April 8 -</field>
-	<field name = "BODY">The Bundesbank accepted bids for 6.1
+	<field name = "content">The Bundesbank accepted bids for 6.1
 billion marks at today's tender for a 28-day securities
 repurchase pact at a fixed rate of 3.80 pct, a central bank
 spokesman said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 08:17:05.88</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0674reute
-r f BC-COMPUTER-ASSOCIATES-   04-13 0113</field>
-	<field name = "TITLE">COMPUTER ASSOCIATES CA> STARTS BPI BPII> BID</field>
+	<field name = "titulo">COMPUTER ASSOCIATES CA> STARTS BPI BPII> BID</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Computer Associates International Inc
+	<field name = "content">Computer Associates International Inc
 said it has started its previously-announced 1.92 dlr per share
 tender offer for all shares of BPI Systems Inc.
     In a newspaper advertisement, the company said the offer,

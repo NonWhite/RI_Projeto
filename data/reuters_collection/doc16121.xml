@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 03:16:30.50</field>
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">M C
-f0117reute
-u f BC-CHINA-SULPHUR-IRON-MI   04-13 0060</field>
-	<field name = "TITLE">CHINA SULPHUR-IRON MINE STARTS PRODUCTION</field>
+	<field name = "titulo">CHINA SULPHUR-IRON MINE STARTS PRODUCTION</field>
 	<field name = "DATELINE">PEKING, April 13 -</field>
-	<field name = "BODY">China's largest sulphur-iron mine has
+	<field name = "content">China's largest sulphur-iron mine has
 started trial production at Yunfu in the southern province of
 Guangdong, the China Daily said.
     It said the mine has an annual output capacity of three mln

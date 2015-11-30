@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 14:15:39.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f4206reute
-r f BC-COLGATE-PALMOLIVE-CL   06-18 0075</field>
-	<field name = "TITLE">COLGATE-PALMOLIVE CL> PLANS TO FILE DEBT</field>
+	<field name = "titulo">COLGATE-PALMOLIVE CL> PLANS TO FILE DEBT</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Colgate-Palmolive Co said it plans to
+	<field name = "content">Colgate-Palmolive Co said it plans to
 file with the Securities and Exchange Commission a shelf
 registration covering up to 300 mln dlrs of unsecured debt
 securities.

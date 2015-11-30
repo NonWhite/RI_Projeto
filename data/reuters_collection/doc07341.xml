@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 14:43:25.91</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2100reute
-b f BC-FIRST-FINANCIAL-FFMC   03-19 0038</field>
-	<field name = "TITLE">FIRST FINANCIAL FFMC> BIDS FOR COMDATA CDN></field>
+	<field name = "titulo">FIRST FINANCIAL FFMC> BIDS FOR COMDATA CDN></field>
 	<field name = "DATELINE">ATLANTA, March 19 -</field>
-	<field name = "BODY">First Financial Management corp said it
+	<field name = "content">First Financial Management corp said it
 has offered to acquire Comdata Network Inc for 18 dlrs per
 share in cash and stock, or a total of about 342.7 mln dlrs.
     The company said for each Comdata share it would exchange

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 09:53:36.72</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0241reute
-u f BC-ITALIAN-TREASURY-TO-I   03-04 0089</field>
-	<field name = "TITLE">ITALIAN TREASURY TO ISSUE NEW CERTIFICATES</field>
+	<field name = "titulo">ITALIAN TREASURY TO ISSUE NEW CERTIFICATES</field>
 	<field name = "DATELINE">ROME, March 4 -</field>
-	<field name = "BODY">The Italian treasury said it will issue
+	<field name = "content">The Italian treasury said it will issue
 3,000 billion lire of a new type of indexed government paper,
 discount certificates (CTS), on March 18.
     Treasury Minister Giovanni Goria said at a news conference

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 17:16:49.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2514reute
-r f BC-UAL-UAL>-UNIT-LINKS   03-25 0089</field>
-	<field name = "TITLE">UAL UAL> UNIT LINKS RESERVATION SERVICE</field>
+	<field name = "titulo">UAL UAL> UNIT LINKS RESERVATION SERVICE</field>
 	<field name = "DATELINE">CHICAGO, March 25 -</field>
-	<field name = "BODY">UAL Inc, which on May 1 becomes Allegis
+	<field name = "content">UAL Inc, which on May 1 becomes Allegis
 Corp, said it established a direct communications link between
 its Apollo Services reservations system and Budget Rent a Car,
 Hilton Hotels and Hilton International Hotels.

@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:53:55.25</field>
-	<field name = "UNKNOWN">F
-f0382
-reute
-d f BC-AOI-COAL-CO-AOI>-4TH   03-02 0082</field>
-	<field name = "TITLE">AOI COAL CO AOI> 4TH QTR NET</field>
+	<field name = "titulo">AOI COAL CO AOI> 4TH QTR NET</field>
 	<field name = "DATELINE">MIDLAND, Texas, March 2 -</field>
-	<field name = "BODY">Oper shr one ct vs one ct
+	<field name = "content">Oper shr one ct vs one ct
     Oper net 147,000 vs 40,000
     Revs 13.5 mln vs 14.1 mln
     Year

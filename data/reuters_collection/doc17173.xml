@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 16:27:06.81</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2462reute
-r f BC-BECOR-WESTERN-BCW>-S   04-24 0092</field>
-	<field name = "TITLE">BECOR WESTERN BCW> SETS SPECIAL MEETING DATE</field>
+	<field name = "titulo">BECOR WESTERN BCW> SETS SPECIAL MEETING DATE</field>
 	<field name = "DATELINE">MILWAUKEE, April 24 -</field>
-	<field name = "BODY">Becor Western Inc said it set June 4
+	<field name = "content">Becor Western Inc said it set June 4
 as the date for a special meeting at which stockholders will
 vote on two proposals involving the sale of its subsidiary and
 the acquisition of the company.

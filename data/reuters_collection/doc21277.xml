@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 11:59:27.61</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1767reute
-r f BC-NORTHVIEW-NOVC.O>-PL   10-19 0077</field>
-	<field name = "TITLE">NORTHVIEW NOVC.O> PLANS TO SELL COMPANY</field>
+	<field name = "titulo">NORTHVIEW NOVC.O> PLANS TO SELL COMPANY</field>
 	<field name = "DATELINE">SAN DIEGO, Calif., Oct 19 -</field>
-	<field name = "BODY">Northview Corp said it reached
+	<field name = "content">Northview Corp said it reached
 an agreement in principal covering the acquisition of the
 company by privately-held Calmark Financial Corp.
     The agreement calls for Northview to make a self-tender

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 17:15:47.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f6668reute
-r f BC-OAKWOOD-HOMES-OH>-TO   03-17 0091</field>
-	<field name = "TITLE">OAKWOOD HOMES OH> TO SELL CONVERTIBLE DEBT</field>
+	<field name = "titulo">OAKWOOD HOMES OH> TO SELL CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Oakwood Homes Corp said it filed with
+	<field name = "content">Oakwood Homes Corp said it filed with
 the Securities and Exchange Commission a registration statement
 covering a 25 mln dlr issue of convertible subordinated
 debentures due 2012.

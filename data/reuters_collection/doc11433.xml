@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 11:50:35.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1630reute
-r f BC-LYPHOMED-LMED>-FORMS   03-31 0090</field>
-	<field name = "TITLE">LYPHOMED LMED> FORMS NEW DIVISION</field>
+	<field name = "titulo">LYPHOMED LMED> FORMS NEW DIVISION</field>
 	<field name = "DATELINE">ROSEMONT, Ill., Macrh 31 -</field>
-	<field name = "BODY">LyphoMed Inc said it is forming
+	<field name = "content">LyphoMed Inc said it is forming
 a new division, called IPHARM, to develop a full line of
 generic and proprietary ophthalmic pharmaceuticals.
     Lyphomed said in its initial phase the division will

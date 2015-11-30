@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 13:55:55.25</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">greece</field>
-	<field name = "UNKNOWN">RM 
-f2031reute
-u f BC-JAPANESE-BANKS-LEND-2   06-29 0087</field>
-	<field name = "TITLE">JAPANESE BANKS LEND 20 BILLION YEN TO GREECE</field>
+	<field name = "titulo">JAPANESE BANKS LEND 20 BILLION YEN TO GREECE</field>
 	<field name = "DATELINE">ATHENS, June 29 -</field>
-	<field name = "BODY">The central state owned Bank of Greece
+	<field name = "content">The central state owned Bank of Greece
 said a consortium of Japanese banks will lend it 20 billion yen
 for use in the public sector.
     The Bank said in a statement the loan will be for 10 years

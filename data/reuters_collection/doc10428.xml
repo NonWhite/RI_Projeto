@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:17:42.22F</field>
-	<field name = "UNKNOWN">f0985reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-MULTIVEST-MVST>-ENDS   03-27 0058</field>
-	<field name = "TITLE">MULTIVEST MVST> ENDS MERGER TALKS,SETS PURCHASE</field>
+	<field name = "titulo">MULTIVEST MVST> ENDS MERGER TALKS,SETS PURCHASE</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">Multivest Corp said it has ended talks
+	<field name = "content">Multivest Corp said it has ended talks
 on Oryx Capital Corp>'s possible acqusition of Multivest and
 is starting an offer of 1.51 dlrs a share for all the
 oustanding shares of T.B.C. Industries Inc>.

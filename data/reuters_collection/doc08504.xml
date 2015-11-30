@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 16:17:02.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2354reute
-r f BC-UNOCAL-UCL>-SELLS-SE   03-23 0106</field>
-	<field name = "TITLE">UNOCAL UCL> SELLS SEVEN AND 10-YEAR NOTES</field>
+	<field name = "titulo">UNOCAL UCL> SELLS SEVEN AND 10-YEAR NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Unocal Corp is raising 450 mln dlrs
+	<field name = "content">Unocal Corp is raising 450 mln dlrs
 through a two-tranche offering of notes, said lead manager
 Merrill Lynch Capital Markets.
     A 150 mln issue of seven-year notes was given an 8-1/2 pct

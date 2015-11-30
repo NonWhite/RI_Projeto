@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 11:14:08.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1289reute
-r f BC-K-MART-KM>-OPENS-BAN   04-09 0062</field>
-	<field name = "TITLE">K MART KM> OPENS BANK BRANCHES IN STORES</field>
+	<field name = "titulo">K MART KM> OPENS BANK BRANCHES IN STORES</field>
 	<field name = "DATELINE">TAMPA, Fla., April 9 -</field>
-	<field name = "BODY">K Mart Corp said it was opening
+	<field name = "content">K Mart Corp said it was opening
 branch offices of First Nationwide Bank> in 21 of its stores
 in Florida.
     The company said this brings to 57 the number of bank

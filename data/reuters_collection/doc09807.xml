@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 08:25:30.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0765reute
-r f BC-HOLIDAY-HIA>-SEES-RU   03-26 0104</field>
-	<field name = "TITLE">HOLIDAY HIA> SEES RULING NEXT WEEK ON PLAN</field>
+	<field name = "titulo">HOLIDAY HIA> SEES RULING NEXT WEEK ON PLAN</field>
 	<field name = "DATELINE">MEMPHIS, Tenn., March 26 -</field>
-	<field name = "BODY">Holiday Corp said the New Jersey
+	<field name = "content">Holiday Corp said the New Jersey
 Casino Control Commission will rule April One on the company's
 request for approval to proceed with its plan of
 recapitalization.

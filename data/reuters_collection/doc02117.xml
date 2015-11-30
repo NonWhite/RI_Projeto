@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">boesky</field>
-	<field name = "UNKNOWN">F
-f0451reute
-r f BC-SHAD-SEES-PROGRESS-ON   03-05 0133</field>
-	<field name = "TITLE">SHAD SEES PROGRESS ON INSIDER TRADING</field>
+	<field name = "titulo">SHAD SEES PROGRESS ON INSIDER TRADING</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">Securities and Exchange Commission
+	<field name = "content">Securities and Exchange Commission
 chairman John Shad said progress was being made in stopping
 insider trading, but the chairman of a House subcommittee with
 jurisdiction over securities laws said he was concerned about

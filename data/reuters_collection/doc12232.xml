@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 14:51:59.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2164reute
-d f BC-POLL-FINDS-MOST-THINK   04-01 0095</field>
-	<field name = "TITLE">POLL FINDS MOST THINK HOSTILE TAKEOVERS HARMFUL</field>
+	<field name = "titulo">POLL FINDS MOST THINK HOSTILE TAKEOVERS HARMFUL</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Most Americans feel that hostile
+	<field name = "content">Most Americans feel that hostile
 corporate takeovers do more harm than good, according to a
 public opinion poll by Louis Harris and Assoc Inc.
     The poll of 1,751 U.S. adults and 682 top business

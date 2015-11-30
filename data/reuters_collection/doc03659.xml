@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 10:45:58.16</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0354reute
-u f BC-SPAIN-QUALIFIES-RESER   03-11 0111</field>
-	<field name = "TITLE">SPAIN QUALIFIES RESERVE REQUIREMENTS STATEMENT</field>
+	<field name = "titulo">SPAIN QUALIFIES RESERVE REQUIREMENTS STATEMENT</field>
 	<field name = "DATELINE">MADRID, March 11 -</field>
-	<field name = "BODY">A Bank of Spain spokesman qualified a
+	<field name = "content">A Bank of Spain spokesman qualified a
 bank statement announcing an extension of reserve requirements
 to convertible peseta funds held by banks, saying the move
 applied only to future rises above current balances.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">alum</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">suriname</field>
-	<field name = "UNKNOWN">C M
-f8266reute
-u f BC-SURALCO-BAUXITE-REFIN   03-18 0107</field>
-	<field name = "TITLE">SURALCO BAUXITE REFINERY REOPENED</field>
+	<field name = "titulo">SURALCO BAUXITE REFINERY REOPENED</field>
 	<field name = "DATELINE">ROTTERDAM, March 18 -</field>
-	<field name = "BODY">The 1.4 mln tonnes capacity bauxite
+	<field name = "content">The 1.4 mln tonnes capacity bauxite
 refinery at Paranam in Surinam, which closed at the end of
 January after being sabotaged by anti-government rebels, has
 now reopened, a spokesman for Dutch metals company Billiton

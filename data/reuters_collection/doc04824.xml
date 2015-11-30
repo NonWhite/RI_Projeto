@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0010reute
-b f BC-SOVIETS-RUMORED-TO-HA   03-13 0124</field>
-	<field name = "TITLE">SOVIETS RUMORED TO HAVE BOUGHT MORE U.S. CORN</field>
+	<field name = "titulo">SOVIETS RUMORED TO HAVE BOUGHT MORE U.S. CORN</field>
 	<field name = "DATELINE">KANSAS CITY, March 13 -</field>
-	<field name = "BODY">The Soviet Union is rumored
+	<field name = "content">The Soviet Union is rumored
 this morning to have bought up to 1.5 mln tonnes of U.S. corn,
 export trade sources said.
     The amount was not confirmed, but the talk was widespread

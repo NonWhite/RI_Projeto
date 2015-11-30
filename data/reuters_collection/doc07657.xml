@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 09:37:30.02</field>
 	<field name = "PLACES">zambia</field>
-	<field name = "UNKNOWN">C M
-f0860reute
-u f PM-STRIKES   03-20 0132</field>
-	<field name = "TITLE">ZAMBIAN SCHOOL AND HOSPITAL STRIKES SPREAD</field>
+	<field name = "titulo">ZAMBIAN SCHOOL AND HOSPITAL STRIKES SPREAD</field>
 	<field name = "DATELINE">LUSAKA, Zambia, March 20 -</field>
-	<field name = "BODY">A  teachers' strike has spread
+	<field name = "content">A  teachers' strike has spread
 from Lusaka to the whole of Zambia, and a walkout by nurses has
 virtually paralyzed hospitals in the northern Copperbelt, the
 state-owned Zambia Daily Mail newspaper said today.

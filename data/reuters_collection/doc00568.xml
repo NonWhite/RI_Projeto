@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:45:15.72</field>
-	<field name = "UNKNOWN">F
-f0355
-reute
-u f BC-HARNISCHFEGER-INDUSTR   03-02 0070</field>
-	<field name = "TITLE">HARNISCHFEGER INDUSTRIES INC HPH> 1ST QTR NET</field>
+	<field name = "titulo">HARNISCHFEGER INDUSTRIES INC HPH> 1ST QTR NET</field>
 	<field name = "DATELINE">MILWAUKEE, WIS., March 2 -</field>
-	<field name = "BODY">Shr 24 cts vs 1.20 dlrs
+	<field name = "content">Shr 24 cts vs 1.20 dlrs
     Net 5.8 mln vs 20.2 mln
     Revs 193.5 mln vs 107.0 mln
     Avg shrs 16.4 mln vs 12.3 mln

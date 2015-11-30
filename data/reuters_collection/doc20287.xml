@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 10:57:54.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V 
-f1458reute
-u f BC-SALOMON-SB>-OFFERS-F   10-20 0114</field>
-	<field name = "TITLE">SALOMON SB> OFFERS FASTER MUTUAL FUND CLEARING</field>
+	<field name = "titulo">SALOMON SB> OFFERS FASTER MUTUAL FUND CLEARING</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Salomon Inc said it offered to clear
+	<field name = "content">Salomon Inc said it offered to clear
 transactions faster than normal for its mutual fund clients.
     Robert Salomon, managing director, in response to a
 question, would not say whether the firm has committed to lend

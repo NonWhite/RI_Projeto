@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 14:20:32.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2173reute
-u f BC-PIK-CERTIFICATES-COST   03-26 0123</field>
-	<field name = "TITLE">PIK CERTIFICATES COST MORE THAN CASH -- GAO</field>
+	<field name = "titulo">PIK CERTIFICATES COST MORE THAN CASH -- GAO</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">The U.S. General Accounting Office
+	<field name = "content">The U.S. General Accounting Office
 said generic commodities certificates cost the U.S. government
 in total Commodity Credit Corp outlays 107 mln to 653 mln dlrs
 more than cash payments through February, 1987.

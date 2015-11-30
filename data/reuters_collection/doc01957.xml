@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 06:16:57.50</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0605reute
-b f BC-BANK-OF-FRANCE-SELLS   03-05 0071</field>
-	<field name = "TITLE">BANK OF FRANCE SELLS TAP STOCK</field>
+	<field name = "titulo">BANK OF FRANCE SELLS TAP STOCK</field>
 	<field name = "DATELINE">PARIS, March 4 -</field>
-	<field name = "BODY">The Bank of France said it sold a total of
+	<field name = "content">The Bank of France said it sold a total of
 11.05 billion francs of Treasury tap stock in an issue of two
 fixed-rate tranches and one variable rate tranche.
     It sold 8.25 billion francs of 8.50 pct June 1997 tap stock

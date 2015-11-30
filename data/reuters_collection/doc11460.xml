@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">yeutter</field>
-	<field name = "UNKNOWN">RM F A
-f1783reute
-u f BC-U.S.-JAPAN-NOT-IN-TRA   03-31 0106</field>
-	<field name = "TITLE">U.S.-JAPAN NOT IN TRADE WAR, YEUTTER SAYS</field>
+	<field name = "titulo">U.S.-JAPAN NOT IN TRADE WAR, YEUTTER SAYS</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">The United States and Japan are not
+	<field name = "content">The United States and Japan are not
 involved in a trade war, despite U.S. sanctions announced last
 week against Japanese semiconductors, U.S. Trade Representative
 Clayton Yeutter said.

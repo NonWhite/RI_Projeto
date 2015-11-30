@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 18:40:43.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2774reute
-r f BC-ALZA-CORP-AZA>-SETS   06-29 0096</field>
-	<field name = "TITLE">ALZA CORP AZA> SETS CONTAMINATION PLAN</field>
+	<field name = "titulo">ALZA CORP AZA> SETS CONTAMINATION PLAN</field>
 	<field name = "DATELINE">PALO ALTO, Calif, June 29 -</field>
-	<field name = "BODY">ALZA Corp said it has notified
+	<field name = "content">ALZA Corp said it has notified
 the State of California Regional Water Quality Control Board of
 a plan to remedy groundwater and soil contamination it detected
 at a site in Stanford Research Park.

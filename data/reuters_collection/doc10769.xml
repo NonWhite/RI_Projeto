@@ -5,12 +5,9 @@
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">A
-f0631reute
-r f BC-DLR-FALLS-ON-FEAR-TOK   03-30 0098</field>
-	<field name = "TITLE">DLR FALLS ON FEARS, MIYAZAWA SAYS</field>
+	<field name = "titulo">DLR FALLS ON FEARS, MIYAZAWA SAYS</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">Finance Minister Kiichi Miyazawa said
+	<field name = "content">Finance Minister Kiichi Miyazawa said
 that the dollar's drop today to 145 yen is partly attributable
 to the perception inside and outside Japan that the country has
 failed to fulfill its promise to expand domestic demand.

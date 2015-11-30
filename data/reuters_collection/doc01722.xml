@@ -4,12 +4,9 @@
 	<field name = "PLACES">kenya</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">T
-f0465reute
-d f BC-KENYA-SIGNS-AGREEMENT   03-04 0137</field>
-	<field name = "TITLE">KENYA SIGNS PACT TO ESTABLISH OWN SHIPPING LINE</field>
+	<field name = "titulo">KENYA SIGNS PACT TO ESTABLISH OWN SHIPPING LINE</field>
 	<field name = "DATELINE">NAIROBI, March 4 -</field>
-	<field name = "BODY">Kenya has signed an agreement with
+	<field name = "content">Kenya has signed an agreement with
 British and German interests to establish a shipping line that
 will handle 40 pct of the country's external trade, sources
 close to the deal said.

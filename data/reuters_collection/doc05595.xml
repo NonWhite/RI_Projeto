@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 14:19:15.91</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3248reute
-u f BC-CHEYENNE-SOFTWARE-CH   03-16 0041</field>
-	<field name = "TITLE">CHEYENNE SOFTWARE CHEY> IN ACQUISITION TALKS</field>
+	<field name = "titulo">CHEYENNE SOFTWARE CHEY> IN ACQUISITION TALKS</field>
 	<field name = "DATELINE">ROSLYN, N.Y., March 16 -</field>
-	<field name = "BODY">Cheyenne Software Inc said it is
+	<field name = "content">Cheyenne Software Inc said it is
 in preliminary talks on the acquisition of compouter hardware
 distribution firm F.A. Components Inc and its Freeman-Owings
 Inc subsidiary.

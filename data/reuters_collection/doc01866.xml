@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 18:02:15.51</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM A
-f0011reute
-r f BC-RECORD-HIGH-VOLUME-ON   03-04 0091</field>
-	<field name = "TITLE">INTERNATIONAL BORROWING REACHES RECORD IN 1986</field>
+	<field name = "titulo">INTERNATIONAL BORROWING REACHES RECORD IN 1986</field>
 	<field name = "DATELINE">PARIS, March 5 -</field>
-	<field name = "BODY">Record high borrowing of 376 billion dlrs
+	<field name = "content">Record high borrowing of 376 billion dlrs
 in 1986 on international capital markets was supported by a
 large volume of debt refinancing and growing integration
 between national and international markets, the OECD said.

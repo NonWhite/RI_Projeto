@@ -6,12 +6,9 @@
 	<field name = "PLACES">spain</field>
 	<field name = "PLACES">portugal</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">M C
-f0406reute
-b f BC-EC-MAINLY-FOR-TIN-EXT   04-08 0111</field>
-	<field name = "TITLE">EC MAINLY FOR TIN EXTENSION, NO U.K. STAND TAKEN</field>
+	<field name = "titulo">EC MAINLY FOR TIN EXTENSION, NO U.K. STAND TAKEN</field>
 	<field name = "DATELINE">BRUSSELS, April 8 -</field>
-	<field name = "BODY">European Community (EC) members of the
+	<field name = "content">European Community (EC) members of the
 International Tin Council, except Britain, have said they are
 prepared to back an extension of the International Tin
 Agreement, an EC spokesman said.

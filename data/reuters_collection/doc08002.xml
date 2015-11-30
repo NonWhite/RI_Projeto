@@ -6,12 +6,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2485reute
-r f BC-LDC-FOOD-AID-NEEDS-DE   03-20 0124</field>
-	<field name = "TITLE">LDC FOOD AID NEEDS DECLINE IN 1986/87 - USDA</field>
+	<field name = "titulo">LDC FOOD AID NEEDS DECLINE IN 1986/87 - USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">Total food aid needs in 69 of the
+	<field name = "content">Total food aid needs in 69 of the
 least developed countries declined in 1986/87, as requirments
 fell in many countries in Africa, the Middle East and Asia, the
 U.S. Agriculture Department said.

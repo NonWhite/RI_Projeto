@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 16:40:21.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0480reute
-r f BC-GENERAL-ELECTRIC-GE>   03-13 0072</field>
-	<field name = "TITLE">GENERAL ELECTRIC GE> TO REDEEM RCA CORP NOTES</field>
+	<field name = "titulo">GENERAL ELECTRIC GE> TO REDEEM RCA CORP NOTES</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">General Electric Co said it will
+	<field name = "content">General Electric Co said it will
 redeem on May 1 RCA Corp's 75 mln dlrs of 11-1/2 pct notes due
 1990.
     General Electric is the successor obligator to RCA.

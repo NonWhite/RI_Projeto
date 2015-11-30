@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 13:55:52.47</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">hungary</field>
-	<field name = "UNKNOWN">A RM 
-f1888reute
-r f BC-WORLD-BANK-LOANS-HUNG   06-19 0092</field>
-	<field name = "TITLE">WORLD BANK LOANS HUNGARY 70 MLN DLRS</field>
+	<field name = "titulo">WORLD BANK LOANS HUNGARY 70 MLN DLRS</field>
 	<field name = "DATELINE">WASHINGTON, June 19 -</field>
-	<field name = "BODY">The World Bank said it approved a 70
+	<field name = "content">The World Bank said it approved a 70
 mln dlr loan to Hungary to help finance a 833.1 mln dlr
 telecommunications project.
     The Bank noted that Hungary, which until recently had given

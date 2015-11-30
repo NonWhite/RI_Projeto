@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 12:24:31.87</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">leigh-pemberton</field>
-	<field name = "UNKNOWN">RM
-f2787reute
-u f BC-U.K.-BANKING-HEAD-RES   03-16 0110</field>
-	<field name = "TITLE">U.K. BANKING HEAD RESUMES ATTACK ON CITY PREDATORS</field>
+	<field name = "titulo">U.K. BANKING HEAD RESUMES ATTACK ON CITY PREDATORS</field>
 	<field name = "DATELINE">LONDON, March 16 -</field>
-	<field name = "BODY">The Governor of the Bank of England,
+	<field name = "content">The Governor of the Bank of England,
 Robin Leigh-Pemberton, repeated his criticism of City
 predators, describing them as "thoroughly irresponsible."
     "I have been concerned when predators have sought to use a

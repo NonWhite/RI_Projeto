@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f6266reute
-u f BC-/U.S.-HOUSE-APPROVES   03-17 0136</field>
-	<field name = "TITLE">U.S. HOUSE APPROVES PILOT 0/92 DISASTER PROGRAM</field>
+	<field name = "titulo">U.S. HOUSE APPROVES PILOT 0/92 DISASTER PROGRAM</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">The House of Representatives
+	<field name = "content">The House of Representatives
 approved a bill to enable 1987 winter wheat and feedgrains
 farmers hit by midwestern flooding last year to receive at
 least 92 pct of their federal income support payments even if

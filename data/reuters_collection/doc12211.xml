@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 14:41:37.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2121reute
-r f BC-RIO-GRAND-RGDC>-UNIT   04-01 0099</field>
-	<field name = "TITLE">RIO GRAND RGDC> UNIT IN PARTNERSHIP AGREEMENT</field>
+	<field name = "titulo">RIO GRAND RGDC> UNIT IN PARTNERSHIP AGREEMENT</field>
 	<field name = "DATELINE">SAN ANTONIO, Texas, April 1 -</field>
-	<field name = "BODY">Rio Grande Drilling Co said
+	<field name = "content">Rio Grande Drilling Co said
 its subsidiary, Rio Grande Video, entered into a limited
 partnership agreement with a group of private investors to
 develop and operate five Blockbuster Video Superstores in

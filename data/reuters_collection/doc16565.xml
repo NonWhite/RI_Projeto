@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 14:25:07.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2165reute
-d f BC-BANKAMERICA-BAC>-SET   04-13 0111</field>
-	<field name = "TITLE">BANKAMERICA BAC> SETS NEW BANKING SERVICE</field>
+	<field name = "titulo">BANKAMERICA BAC> SETS NEW BANKING SERVICE</field>
 	<field name = "DATELINE">SAN FRANCISCO, April 13 -</field>
-	<field name = "BODY">BankAmerica Corp said it has
+	<field name = "content">BankAmerica Corp said it has
 introduced an electronic information and transaction service
 for small businesses in California.
     The bank holding company said the service, called Business

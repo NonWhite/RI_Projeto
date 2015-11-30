@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 11:10:08.59</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1433reute
-b f BC-FEDERATED-FDS>-TO-BU   04-27 0102</field>
-	<field name = "TITLE">FEDERATED FDS> TO BUY ALLIED STORES CORP> UNIT</field>
+	<field name = "titulo">FEDERATED FDS> TO BUY ALLIED STORES CORP> UNIT</field>
 	<field name = "DATELINE">CINCINNATI, Ohio, April 27 -</field>
-	<field name = "BODY">Federated Department Stores
+	<field name = "content">Federated Department Stores
 Inc and Allied Stores, currently wholly owned by Robert
 Campeau, said they have entered into a definitive stock
 purchase agreement for the sale of Allied's Blocks Inc unit to

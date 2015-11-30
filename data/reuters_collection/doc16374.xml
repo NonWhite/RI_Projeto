@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:39:33.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1480reute
-r f BC-AMERITECH-AIT>-MICHI   04-13 0107</field>
-	<field name = "TITLE">AMERITECH AIT> MICHIGAN UNIT TO LOWER RATES</field>
+	<field name = "titulo">AMERITECH AIT> MICHIGAN UNIT TO LOWER RATES</field>
 	<field name = "DATELINE">LANSING, MICH., April 13 -</field>
-	<field name = "BODY">The Michigan Attorney General
+	<field name = "content">The Michigan Attorney General
 said it reached a settlement with Michigan Bell Telephone Co, a
 subsidiary of American Information Technologies Corp, which
 will reduce rates, resulting in 79.6 mln dlrs lower revenues to

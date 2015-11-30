@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:08:18.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1229reute
-r f BC-PARLEX-PRLX>-APPOINT   03-19 0041</field>
-	<field name = "TITLE">PARLEX PRLX> APPOINTS CHIEF OPERATING OFFICER</field>
+	<field name = "titulo">PARLEX PRLX> APPOINTS CHIEF OPERATING OFFICER</field>
 	<field name = "DATELINE">METHUEN, Mass., March 19 -</field>
-	<field name = "BODY">Parlex Corp said it named Robert
+	<field name = "content">Parlex Corp said it named Robert
 Cyr to its newly-created post of chief operating officer.
     Cyr, 44, has been the company's senior vice president, the
 company said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 15:24:32.35</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">C G L M T
-f0385reute
-r f BC-DEBT-COUNTER-PROPOSAL   03-06 0132</field>
-	<field name = "TITLE">ARGENTINE OBSERVER CRITICAL OF DEBT STANCE</field>
+	<field name = "titulo">ARGENTINE OBSERVER CRITICAL OF DEBT STANCE</field>
 	<field name = "DATELINE">BUENOS AIRES, March 6 -</field>
-	<field name = "BODY">A counter-proposal from creditor
+	<field name = "content">A counter-proposal from creditor
 banks to Argentina's request for rescheduling its 50 billion
 dlr foreign debt was full of holes, an Argentine observer at
 negotiations said.

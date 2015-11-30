@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:52:03.13</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "EXCHANGES">fse</field>
-	<field name = "UNKNOWN">RM
-f1217reute
-u f BC-GERMAN-BOURSE-TURNOVE   04-01 0098</field>
-	<field name = "TITLE">GERMAN BOURSE TURNOVER FOR FIRST QUARTER DETAILED</field>
+	<field name = "titulo">GERMAN BOURSE TURNOVER FOR FIRST QUARTER DETAILED</field>
 	<field name = "DATELINE">FRANKFURT, April 1 -</field>
-	<field name = "BODY">Share and bond turnover on all eight
+	<field name = "content">Share and bond turnover on all eight
 West German bourses in the first 1987 quarter was valued at
 483.4 billion marks, according to the new method of calculating
 turnover, the Association of German bourses said in a

@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 13:30:47.29</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0120reute
-r f BC-AMERICAN-PRESIDENT-A   03-11 0110</field>
-	<field name = "TITLE">AMERICAN PRESIDENT APS> TO LEASE MORE SHIPS</field>
+	<field name = "titulo">AMERICAN PRESIDENT APS> TO LEASE MORE SHIPS</field>
 	<field name = "DATELINE">OAKLAND, Calif., March 11 -</field>
-	<field name = "BODY">American President Cos Ltd said
+	<field name = "content">American President Cos Ltd said
 its American President Lines shipping subsidiary  obtained
 final approval from U.S. and Japanese authorities to lease four
 new ships from Lykes Bros Co.

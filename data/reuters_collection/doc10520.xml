@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:09:29.70F Y</field>
-	<field name = "UNKNOWN">f1528reute</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">d f BC-NOBLE-AFFILIATES-NBL   03-27 0102</field>
-	<field name = "TITLE">NOBLE AFFILIATES NBL> FINDS NATURAL GAS</field>
+	<field name = "titulo">NOBLE AFFILIATES NBL> FINDS NATURAL GAS</field>
 	<field name = "DATELINE">ARDMORE, Okla., March 27 -</field>
-	<field name = "BODY">Noble Affiliates Inc said it
+	<field name = "content">Noble Affiliates Inc said it
 found natural gas on Ship Shoal 80, located about 10 miles
 offshore Louisiana in the Gulf of Mexico.
     The discovery well, Samedan Oil Corp's OCS-G 5537 Well

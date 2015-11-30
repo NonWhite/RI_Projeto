@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 14:12:05.24</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2493reute
-r f BC-RTE-CORP-RTE>-3RD-QT   10-19 0080</field>
-	<field name = "TITLE">RTE CORP RTE> 3RD QTR NET</field>
+	<field name = "titulo">RTE CORP RTE> 3RD QTR NET</field>
 	<field name = "DATELINE">BROOKFILED, Wis., Oct 19 -</field>
-	<field name = "BODY">Shr profit 55 cts vs loss 12 cts
+	<field name = "content">Shr profit 55 cts vs loss 12 cts
     Net profit 3,998,000 vs loss 915,000
     Sales 93.8 mln vs 80.9 mln
     Nine mths

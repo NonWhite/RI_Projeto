@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 07:27:18.76</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0527reute
-b f BC-U.K.-MONEY-MARKET-FOR   03-25 0045</field>
-	<field name = "TITLE">U.K. MONEY MARKET FORECAST REVISED TO SHOW SURPLUS</field>
+	<field name = "titulo">U.K. MONEY MARKET FORECAST REVISED TO SHOW SURPLUS</field>
 	<field name = "DATELINE">LONDON, March 25 -</field>
-	<field name = "BODY">The Bank of England said it had revised
+	<field name = "content">The Bank of England said it had revised
 its forecast of the liquidity position in the money market
 today to a surplus of 150 mln stg after it estimated a flat
 position earlier this morning.

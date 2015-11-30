@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 16:50:11.59</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9508reute
-d f BC-NORTH-WEST-TELECOM-N   03-18 0056</field>
-	<field name = "TITLE">NORTH-WEST TELECOM NOWT> 4TH QTR OPER NET</field>
+	<field name = "titulo">NORTH-WEST TELECOM NOWT> 4TH QTR OPER NET</field>
 	<field name = "DATELINE">LA CROSSE, WIS., March 18 -</field>
-	<field name = "BODY">Oper shr 64 cts vs 52 cts
+	<field name = "content">Oper shr 64 cts vs 52 cts
     Oper net 872,272 vs 706,836
     Revs 9,271,541 vs 7,744,466
     Year

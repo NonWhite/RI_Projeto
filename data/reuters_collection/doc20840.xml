@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 19:22:44.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3612reute
-r f BC-GRACE-GRA>-PLANS-TO   10-20 0114</field>
-	<field name = "TITLE">GRACE GRA> PLANS TO APPEAL 100 MLN DLR JUDGMENT</field>
+	<field name = "titulo">GRACE GRA> PLANS TO APPEAL 100 MLN DLR JUDGMENT</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">W.R. Grace and Co said a federal
+	<field name = "content">W.R. Grace and Co said a federal
 district court jury in Chicago has ordered it to pay 100 mln
 dlrs in damages, based on a judgment involving a loan agreement
 with Continental Illinois National Bank CIL>.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">sumita</field>
-	<field name = "UNKNOWN">RM
-f0041reute
-u f BC-TRADE-SURPLUS-CUT-WOU   03-26 0112</field>
-	<field name = "TITLE">TRADE SURPLUS CUT WOULD BENEFIT JAPAN - SUMITA</field>
+	<field name = "titulo">TRADE SURPLUS CUT WOULD BENEFIT JAPAN - SUMITA</field>
 	<field name = "DATELINE">TOKYO, March 26 -</field>
-	<field name = "BODY">Bank of Japan Governor Satoshi Sumita
+	<field name = "content">Bank of Japan Governor Satoshi Sumita
 said it is in Japan's national interest to make greater efforts
 to reduce its trade surplus.
     He told business executives the most important issues for

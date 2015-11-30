@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 10:12:12.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0635
-reute
-r f BC-STANSBURY-MINING-STB   03-02 0105</field>
-	<field name = "TITLE">STANSBURY MINING STBY> GETS FUNDING FOR MINE</field>
+	<field name = "titulo">STANSBURY MINING STBY> GETS FUNDING FOR MINE</field>
 	<field name = "DATELINE">ALPINE, Utah, March 2 -</field>
-	<field name = "BODY">Stansbury Mining Corp said it has
+	<field name = "content">Stansbury Mining Corp said it has
 arranged the financing it needs to bring its vermiculite mine
 into operation later this year.
     The company said New York investment banking firm Matthews

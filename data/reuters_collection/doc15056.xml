@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:16:31.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1362reute
-r f BC-FORD-F>-EXTENDS-INCE   04-08 0119</field>
-	<field name = "TITLE">FORD F> EXTENDS INCENTIVES ON LIGHT TRUCKS</field>
+	<field name = "titulo">FORD F> EXTENDS INCENTIVES ON LIGHT TRUCKS</field>
 	<field name = "DATELINE">DEARBORN, Mich., April 8 -</field>
-	<field name = "BODY">Ford Motor Co said it extended
+	<field name = "content">Ford Motor Co said it extended
 its buyer incentive program on light trucks to April 30 from
 April 6, the program's previous expiration date.
     Ford, which saw a 23 pct rise in its March truck sales over

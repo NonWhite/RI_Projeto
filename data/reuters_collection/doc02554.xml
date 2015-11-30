@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 20:45:15.41</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">RM
-f0190reute
-u f BC-ECUADOR'S-CONSUMER-PR   03-05 0096</field>
-	<field name = "TITLE">ECUADOR'S CONSUMER PRICES RISE 2.5 PCT IN FEBRUARY</field>
+	<field name = "titulo">ECUADOR'S CONSUMER PRICES RISE 2.5 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">QUITO, March 5 -</field>
-	<field name = "BODY">Ecuador's consumer price index rose 2.5
+	<field name = "content">Ecuador's consumer price index rose 2.5
 pct in February to 562.4 (base 1978), the National Statistics
 and Census Institute said.
     The rise compared to a 1.8 pct rise in January and a 2.5

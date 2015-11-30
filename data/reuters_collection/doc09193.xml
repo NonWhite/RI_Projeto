@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">china</field>
 	<field name = "PEOPLE">zhao-ziyang</field>
-	<field name = "UNKNOWN">RM
-f0401reute
-u f BC-CHINA-TO-TIGHTEN-IMPO   03-25 0105</field>
-	<field name = "TITLE">CHINA TO TIGHTEN IMPORT CONTROL, CUT EXPORT COSTS</field>
+	<field name = "titulo">CHINA TO TIGHTEN IMPORT CONTROL, CUT EXPORT COSTS</field>
 	<field name = "DATELINE">PEKING, March 25 -</field>
-	<field name = "BODY">China should tighten imports of ordinary
+	<field name = "content">China should tighten imports of ordinary
 goods and restrict or even forbid import of goods which can be
 made domestically, Premier Zhao Ziyang said.
     He told the National People's Congress, China's parliament,

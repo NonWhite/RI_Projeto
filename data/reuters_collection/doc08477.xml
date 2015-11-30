@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 15:30:10.93</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E Y
-f2231reute
-d f BC-ENERGY-ANALYST-PROPOS   03-23 0109</field>
-	<field name = "TITLE">ENERGY ANALYST PROPOSES U.S. OIL TARIFF</field>
+	<field name = "titulo">ENERGY ANALYST PROPOSES U.S. OIL TARIFF</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">Energy analyst Edward Krapels said
+	<field name = "content">Energy analyst Edward Krapels said
 the United States should consider an oil tariff to keep U.S.
 dependence on imports below 50 pct.
     "On the supply side, the argument in favor of a contingent,

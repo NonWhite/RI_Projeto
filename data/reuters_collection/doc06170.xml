@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 14:05:04.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6111reute
-d f BC-CSX-CSX>,-CONRAIL-RE   03-17 0120</field>
-	<field name = "TITLE">CSX CSX>, CONRAIL REDUCE SOUTH TO NORTH RATES</field>
+	<field name = "titulo">CSX CSX>, CONRAIL REDUCE SOUTH TO NORTH RATES</field>
 	<field name = "DATELINE">PHILADELPHIA, March 17 -</field>
-	<field name = "BODY">Consolidated Rail Corp said it and
+	<field name = "content">Consolidated Rail Corp said it and
 CSX Corp's CSX Transportation Corp subsidiary have reduced
 rates on boxcar shipments of manufactured products moving
 between CSX points in the South and Conrail points in the

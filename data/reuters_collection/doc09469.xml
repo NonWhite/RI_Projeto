@@ -4,13 +4,10 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G T
-f1902reute
-d f BC-U.S.-SUGAR-POLICY-MAY   03-25 0136</field>
-	<field name = "TITLE">U.S. SUGAR POLICY MAY SELF-DESTRUCT, CONGRESSMAN</field>
+	<field name = "titulo">U.S. SUGAR POLICY MAY SELF-DESTRUCT, CONGRESSMAN</field>
 	<field name = "AUTHOR">By Greg McCune, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">A leading U.S. farm-state
+	<field name = "content">A leading U.S. farm-state
 Congressman, Jerry Huckaby, D-La., warned he will press next
 year for legislation to control domestic production of
 sweeteners, perhaps including corn sweeteners, if the industry

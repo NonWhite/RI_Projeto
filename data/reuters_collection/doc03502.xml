@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 06:05:50.77</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0494reute
-b f BC-CREDIT-FONCIER-DE-FRA   03-11 0095</field>
-	<field name = "TITLE">CREDIT FONCIER DE FRANCE ISSUES 150 MLN ECU BOND</field>
+	<field name = "titulo">CREDIT FONCIER DE FRANCE ISSUES 150 MLN ECU BOND</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Credit Foncier de France is issuing a
+	<field name = "content">Credit Foncier de France is issuing a
 150 mln ECU eurobond due April 14, 1994 at 7-5/8 pct and priced
 at 101-5/8 pct, lead manager Banque Paribas Capital Markets
 said.

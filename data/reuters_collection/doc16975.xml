@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f0841reute
-b f BC-SWISS-NATIONAL-BANK-S   04-21 0096</field>
-	<field name = "TITLE">SWISS NATIONAL BANK SELLS YEN AGAINST DOLLAR</field>
+	<field name = "titulo">SWISS NATIONAL BANK SELLS YEN AGAINST DOLLAR</field>
 	<field name = "DATELINE">ZURICH, April 21 -</field>
-	<field name = "BODY">The Swiss National Bank sold yen against
+	<field name = "content">The Swiss National Bank sold yen against
 dollars, joining in concerted intervention by central banks, a
 spokesman for the National Bank said.
     He declined to say which central banks had been active in

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 13:06:41.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1777reute
-r f BC-GERMANTOWN-SAVINGS-B   03-19 0096</field>
-	<field name = "TITLE">GERMANTOWN SAVINGS BANK> IN SUBSCRIPTION OFFER</field>
+	<field name = "titulo">GERMANTOWN SAVINGS BANK> IN SUBSCRIPTION OFFER</field>
 	<field name = "DATELINE">BALA CYNWYD, Pa., March 19 -</field>
-	<field name = "BODY">Germantown Savings Bank said
+	<field name = "content">Germantown Savings Bank said
 it has started a subscription offering of 3,500,000 shares at a
 maximum price of 11.50 dlrs each to customers and community
 residents.

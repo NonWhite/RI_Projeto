@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 13:53:43.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f8981reute
-h f BC-EAGLE-ENTERTAINMENT-   03-18 0067</field>
-	<field name = "TITLE">EAGLE ENTERTAINMENT EEGL> ISSUES BONDS</field>
+	<field name = "titulo">EAGLE ENTERTAINMENT EEGL> ISSUES BONDS</field>
 	<field name = "DATELINE">LOS ANGELES, March 18 -</field>
-	<field name = "BODY">Eagle Entertainment Inc said its
+	<field name = "content">Eagle Entertainment Inc said its
 subsidiary, Performance Guarantees Inc, issued completion bonds
 for two films with a production value of five mln dlrs.
     The company said the it would receive 250,000 dlrs in fees

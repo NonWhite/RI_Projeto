@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 17:22:37.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2603reute
-r f BC-HOME-HME>-SAYS-IT-IS   06-01 0103</field>
-	<field name = "TITLE">HOME HME> SAYS IT IS NOT AFFECTED BY RULING</field>
+	<field name = "titulo">HOME HME> SAYS IT IS NOT AFFECTED BY RULING</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">The Home Insurance Co, a unit of the
+	<field name = "content">The Home Insurance Co, a unit of the
 Home Group Inc, said it is not affected by a May 29 California
 court ruling that says 20 insurance companies must bear the
 costs of asbestos-injury claims.

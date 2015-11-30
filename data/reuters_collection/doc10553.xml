@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:53:59.16F</field>
-	<field name = "UNKNOWN">f1723reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-SECOND-FDA-PANEL-REVI   03-27 0096</field>
-	<field name = "TITLE">SECOND FDA PANEL REVIEWS GENENTECH'S GENE> TPA</field>
+	<field name = "titulo">SECOND FDA PANEL REVIEWS GENENTECH'S GENE> TPA</field>
 	<field name = "DATELINE">WASHINGTON, March 27 -</field>
-	<field name = "BODY">The federal Food and Drug
+	<field name = "content">The federal Food and Drug
 Administration (FDA) is expected to announce soon that it will
 require an additional review of Genentech Inc's TPA heart drug,
 a move that likely will delay the company's plans to

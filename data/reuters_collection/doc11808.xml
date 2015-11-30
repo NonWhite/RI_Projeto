@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 04:58:21.31</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0302reute
-b f BC-RURAL-BANKING-AND-FIN   04-01 0095</field>
-	<field name = "TITLE">RURAL BANKING AND FINANCE ISSUES ZERO COUPON BOND</field>
+	<field name = "titulo">RURAL BANKING AND FINANCE ISSUES ZERO COUPON BOND</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">The Rural Banking and Finance Corporation
+	<field name = "content">The Rural Banking and Finance Corporation
 of New Zealand is issuing a zero coupon eurobond with a total
 redemption amount of 19 billion yen, lead manager Nomura
 International Ltd said.

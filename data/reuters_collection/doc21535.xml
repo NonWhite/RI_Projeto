@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 05:48:23.29</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">T 
-f0368reute
-u f BC-SOVIET-SUGAR-CONSUMPT   10-19 0108</field>
-	<field name = "TITLE">SOVIET SUGAR CONSUMPTION UP AS HOME BREWING GROWS</field>
+	<field name = "titulo">SOVIET SUGAR CONSUMPTION UP AS HOME BREWING GROWS</field>
 	<field name = "DATELINE">MOSCOW, Oct 19 -</field>
-	<field name = "BODY">A sharp rise in Soviet sugar consumption
+	<field name = "content">A sharp rise in Soviet sugar consumption
 since the start of the Kremlin's anti-alcohol drive indicates
 home brewing is costing the state 20 billion roubles in lost
 vodka sales, Pravda said.

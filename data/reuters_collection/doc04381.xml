@@ -6,12 +6,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PEOPLE">lyng</field>
-	<field name = "UNKNOWN">C G
-f0950reute
-u f BC-/U.S.-SOVIET-GRAIN-AC   03-12 0132</field>
-	<field name = "TITLE">U.S.-SOVIET GRAIN ACCORD QUESTIONED BY LYNG</field>
+	<field name = "titulo">U.S.-SOVIET GRAIN ACCORD QUESTIONED BY LYNG</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">U.S. Agriculture Secretary Richard
+	<field name = "content">U.S. Agriculture Secretary Richard
 Lyng said he was not sure a long-term U.S.-Soviet grain
 agreement would be worth extending when it expires next year.
     "It hasn't been worth much in the last two years....They

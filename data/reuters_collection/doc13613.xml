@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:13:54.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0561reute
-r f BC-CBS-CBS>-TO-PAY-WYMA   04-07 0099</field>
-	<field name = "TITLE">CBS CBS> TO PAY WYMAN 400,000 DLRS EVERY YEAR</field>
+	<field name = "titulo">CBS CBS> TO PAY WYMAN 400,000 DLRS EVERY YEAR</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">CBS Inc said under its settlement with
+	<field name = "content">CBS Inc said under its settlement with
 former chairman and chief executive officer Thomas Wyman, it
 will pay him 400,000 dlrs a year for life.
     CBS, in a proxy statement, said Wyman can also elect to

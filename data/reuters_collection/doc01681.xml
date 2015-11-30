@@ -2,13 +2,10 @@
 	<field name = "DATE">4-MAR-1987 14:00:34.90</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0320reute
-u f BC-TALKING-POINT/GENERAL   03-04 0102</field>
-	<field name = "TITLE">TALKING POINT/GENERAL MOTORS GM></field>
+	<field name = "titulo">TALKING POINT/GENERAL MOTORS GM></field>
 	<field name = "AUTHOR">By Steven Radwell, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">General Motors Corp staged an explosive
+	<field name = "content">General Motors Corp staged an explosive
 rally on Wall Street after a share buyback program announced
 yesterday, but analysts said GM's future remains clouded by
 stiff competition and erosion of market share.

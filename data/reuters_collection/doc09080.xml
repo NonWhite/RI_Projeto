@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 17:50:21.61</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2723reute
-r f BC-RB-INDUSTRIES-RBI>-C   03-24 0106</field>
-	<field name = "TITLE">RB INDUSTRIES RBI> COMPLETES STORE SALES</field>
+	<field name = "titulo">RB INDUSTRIES RBI> COMPLETES STORE SALES</field>
 	<field name = "DATELINE">LOS ANGELES, March 24 -</field>
-	<field name = "BODY">RB Industries Inc said it completed
+	<field name = "content">RB Industries Inc said it completed
 the sale of its W and J SLoane Division to Laurence Crink Jr
 and a group of investors.
     The definitive agreement provides for a closing on April 1,

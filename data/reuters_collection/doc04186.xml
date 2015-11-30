@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 09:29:21.56</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0939reute
-r f BC-fivestar   03-12 0119</field>
-	<field name = "TITLE">CONSOLIDATED FIVE STAR RESOURCES ISSUES STOCK</field>
+	<field name = "titulo">CONSOLIDATED FIVE STAR RESOURCES ISSUES STOCK</field>
 	<field name = "DATELINE">EDMONTON, Alberta, March 11 -</field>
-	<field name = "BODY">Consolidated Five Star
+	<field name = "content">Consolidated Five Star
 Resources Ltd> said it agreed to issue 1.25 mln dlrs of common
 stock and 10.75 mln dlrs of convertible preferred stock in a
 private placement.

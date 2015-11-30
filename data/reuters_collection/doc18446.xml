@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-JUN-1987 06:03:08.45</field>
 	<field name = "PLACES">nigeria</field>
-	<field name = "UNKNOWN">RM
-f0411reute
-u f BC-AFRICA-UNABLE-TO-PAY   06-16 0101</field>
-	<field name = "TITLE">AFRICA UNABLE TO PAY ITS DEBTS, OAU CHIEF SAYS</field>
+	<field name = "titulo">AFRICA UNABLE TO PAY ITS DEBTS, OAU CHIEF SAYS</field>
 	<field name = "DATELINE">ABUJA, Nigeria, June 16 -</field>
-	<field name = "BODY">Organisation of African Unity
+	<field name = "content">Organisation of African Unity
 Chairman Denis Sassou-Nguesso said Africa was unable to pay its
 debts due to falling export prices.
     "Even if African countries want to pay their debts they will

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">palm-oil</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">C G
-f1379reute
-u f BC-SAUDI-ARABIA-BUYS-RBD   04-13 0038</field>
-	<field name = "TITLE">SAUDI ARABIA BUYS RBD PALM OLEIN</field>
+	<field name = "titulo">SAUDI ARABIA BUYS RBD PALM OLEIN</field>
 	<field name = "DATELINE">LONDON, April 13 -</field>
-	<field name = "BODY">Saudi Arabia bought 4,000 tonnes of
+	<field name = "content">Saudi Arabia bought 4,000 tonnes of
 Malaysian refined bleached deodorised palm olein for June 1/10
 shipment at around 356 dlrs per tonne cost and freight Jeddah,
 traders said.

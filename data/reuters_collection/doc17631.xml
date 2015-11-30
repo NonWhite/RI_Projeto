@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 12:17:35.79</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1633reute
-r f BC-NORTHGATE-NGX>-QUEBE   06-01 0113</field>
-	<field name = "TITLE">NORTHGATE NGX> QUEBEC WORKERS END STRIKE</field>
+	<field name = "titulo">NORTHGATE NGX> QUEBEC WORKERS END STRIKE</field>
 	<field name = "DATELINE">TORONTO, June 1 -</field>
-	<field name = "BODY">Northgate Exploration Ltd said
+	<field name = "content">Northgate Exploration Ltd said
 hourly-paid workers at its two Chibougamau, Quebec, mines voted
 on the weekend to accept a three-year contract offer and
 returned to work today after a one-month strike.

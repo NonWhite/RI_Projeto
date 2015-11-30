@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 13:51:03.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2093reute
-d f BC-ELECTROSOUND-ESG>-SA   06-02 0083</field>
-	<field name = "TITLE">ELECTROSOUND ESG> SAYS OFFICIAL HAS RESIGNED</field>
+	<field name = "titulo">ELECTROSOUND ESG> SAYS OFFICIAL HAS RESIGNED</field>
 	<field name = "DATELINE">HAUPPAUGE, N.Y., June 2 -</field>
-	<field name = "BODY">ElectroSound Group Inc said
+	<field name = "content">ElectroSound Group Inc said
 Richard Meixner has resigned as senior vice president of the
 company.
     The company said they expect the board to appoint Robert

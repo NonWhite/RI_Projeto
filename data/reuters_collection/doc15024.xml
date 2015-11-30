@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 10:38:13.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1175reute
-r f BC-HELEN-OF-TROY-HELE>   04-08 0084</field>
-	<field name = "TITLE">HELEN OF TROY HELE> FILES CONVERTIBLE OFFERING</field>
+	<field name = "titulo">HELEN OF TROY HELE> FILES CONVERTIBLE OFFERING</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Helen of Troy Corp said it filed with
+	<field name = "content">Helen of Troy Corp said it filed with
 the Securities and Exchange Commission a registration statement
 covering a 20 mln dlr issue of covertible subordinated
 debentures due 2007.

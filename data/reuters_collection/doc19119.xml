@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 09:02:45.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0731reute
-u f BC-PHILIPPINE-LONG-DISTA   06-19 0038</field>
-	<field name = "TITLE">PHILIPPINE LONG DISTANCE PHI> PLANS SPLIT</field>
+	<field name = "titulo">PHILIPPINE LONG DISTANCE PHI> PLANS SPLIT</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Philippine Long Distance Telephone Co
+	<field name = "content">Philippine Long Distance Telephone Co
 said it has called a special shareholder meeting to approve a
 proposed two-for-one stock split and a 20 pct stock dividend.
     The company said the meeting will be held July 15 and

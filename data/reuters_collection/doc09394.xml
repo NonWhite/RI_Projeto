@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 11:56:10.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1462reute
-r f BC-APOLLO-COMPUTER-APCI   03-25 0083</field>
-	<field name = "TITLE">APOLLO COMPUTER APCI> IN JOINT MARKETING PACT</field>
+	<field name = "titulo">APOLLO COMPUTER APCI> IN JOINT MARKETING PACT</field>
 	<field name = "DATELINE">CAMBRIDGE, Mass., March 25 -</field>
-	<field name = "BODY">Apollo Computer Inc said it
+	<field name = "content">Apollo Computer Inc said it
 entered into a joint marketing agreement with Palladian
 Software Inc> to distribute an artificial intelligence software
 package.

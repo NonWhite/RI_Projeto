@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 15:35:02.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2407reute
-a f BC-TRIBUNE-TRB>-TO-BUY   04-13 0080</field>
-	<field name = "TITLE">TRIBUNE TRB> TO BUY HOLLYWOOD PROPERTY</field>
+	<field name = "titulo">TRIBUNE TRB> TO BUY HOLLYWOOD PROPERTY</field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">Tribune Co said it agreed to buy from
+	<field name = "content">Tribune Co said it agreed to buy from
 Gene Autry and the Autry Foundation certain properties located
 in Hollywood, California. Terms were not disclosed.
     The properties include broadcast and studio facilities on

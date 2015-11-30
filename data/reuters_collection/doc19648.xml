@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 10:53:23.35</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1247reute
-b f BC-MARTIN-PROCESSING-MP   06-29 0104</field>
-	<field name = "TITLE">MARTIN PROCESSING MPI> ACCEPTS COURTAULDS BID</field>
+	<field name = "titulo">MARTIN PROCESSING MPI> ACCEPTS COURTAULDS BID</field>
 	<field name = "DATELINE">MARTINSVILLE, Va., June 29 -</field>
-	<field name = "BODY">Martin Processing Inc said its
+	<field name = "content">Martin Processing Inc said its
 board approved an agreement to be acquired by Courtaulds Plc
 COU.L> for 20 dlrs a share.
     The company said the transaction is valued at more than 99

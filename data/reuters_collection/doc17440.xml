@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gas</field>
 	<field name = "TOPICS">fuel</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">Y
-f0033reute
-u f BC-SINGAPORE-OIL-COMPANI   06-01 0110</field>
-	<field name = "TITLE">SINGAPORE OIL COMPANIES TO SET OWN PUMP PRICES</field>
+	<field name = "titulo">SINGAPORE OIL COMPANIES TO SET OWN PUMP PRICES</field>
 	<field name = "DATELINE">SINGAPORE, June 1 -</field>
-	<field name = "BODY">Singapore oil companies can set their
+	<field name = "content">Singapore oil companies can set their
 own petrol and diesel prices at the pump from today subject to
 ceilings determined by their individual wholesale prices, The
 Ministry of Trade and Industry said.

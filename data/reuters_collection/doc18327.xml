@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 17:46:59.12</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y A RM
-f2806reute
-r f AM-GULF-CONGRESS   06-02 0094</field>
-	<field name = "TITLE">U.S. HOUSE PASSES GULF BILL DESPITE OPPOSITION</field>
+	<field name = "titulo">U.S. HOUSE PASSES GULF BILL DESPITE OPPOSITION</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">The U.S. House of Representatives 
+	<field name = "content">The U.S. House of Representatives 
 approved a bill that requires the Reagan administration to
 provide Congress with a report on its Gulf policy but does not
 place any restrictions on its actions.

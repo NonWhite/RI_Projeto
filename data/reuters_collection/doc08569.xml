@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 18:19:05.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2641reute
-r f BC-GEODYNE-GEOD>-TO-OFF   03-23 0077</field>
-	<field name = "TITLE">GEODYNE GEOD> TO OFFER PARTNERSHIP UNITS</field>
+	<field name = "titulo">GEODYNE GEOD> TO OFFER PARTNERSHIP UNITS</field>
 	<field name = "DATELINE">TULSA, Okla., March 23 -</field>
-	<field name = "BODY">Geodyne Resources Inc said it will
+	<field name = "content">Geodyne Resources Inc said it will
 begin selling immediately 300 mln dlrs worth of limited
 partnership interests in PaineWebber/Geodyne Energy Income
 Program II.

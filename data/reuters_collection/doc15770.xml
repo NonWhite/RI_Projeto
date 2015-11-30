@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 13:22:29.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1877reute
-d f BC-GENERAL-PHYSICS-GPHY   04-09 0050</field>
-	<field name = "TITLE">GENERAL PHYSICS GPHY> FORMS NEW UNIT</field>
+	<field name = "titulo">GENERAL PHYSICS GPHY> FORMS NEW UNIT</field>
 	<field name = "DATELINE">MONROEVILLE, Pa., April 9 -</field>
-	<field name = "BODY">General Physics Corp said it
+	<field name = "content">General Physics Corp said it
 has formed a new business unit called HP Technical Services to
 furnish health physics technicians and radiological engineers
 and scientists to the electric utility industry for use in

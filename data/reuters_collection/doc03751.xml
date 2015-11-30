@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 12:14:00.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0788reute
-d f BC-CONSUMERS-POWER-CMS>   03-11 0091</field>
-	<field name = "TITLE">CONSUMERS POWER CMS> COGENERATION QUALIFIED</field>
+	<field name = "titulo">CONSUMERS POWER CMS> COGENERATION QUALIFIED</field>
 	<field name = "DATELINE">DETROIT, March 11 -</field>
-	<field name = "BODY">Consumers Power Co said the Federal
+	<field name = "content">Consumers Power Co said the Federal
 Energy Regulatory Commission approved the company's Midland
 cogeneration venture as a "qualifying" facility under the
 Public Utility Regulatory Policies Act.

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 10:13:44.37</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">pakistan</field>
-	<field name = "UNKNOWN">RM
-f1062reute
-r f BC-PAKISTAN-SAYS-GOOD-EC   06-02 0107</field>
-	<field name = "TITLE">PAKISTAN SAYS GOOD ECONOMIC GROWTH CONTINUES</field>
+	<field name = "titulo">PAKISTAN SAYS GOOD ECONOMIC GROWTH CONTINUES</field>
 	<field name = "DATELINE">ISLAMABAD, June 2 -</field>
-	<field name = "BODY">Pakistan says its economy has continued
+	<field name = "content">Pakistan says its economy has continued
 its recent outstanding performance during the financial year
 1986/87 ending on June 30 but areas like balance of payments,
 investments and energy were causing concern.

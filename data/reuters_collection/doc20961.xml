@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 16:14:48.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F 
-f3018reute
-d f BC-MERITOR-SAVINGS-MTOR   10-19 0113</field>
-	<field name = "TITLE">MERITOR SAVINGS MTOR.O> DEBT AFFIRMED BY S/P</field>
+	<field name = "titulo">MERITOR SAVINGS MTOR.O> DEBT AFFIRMED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 affirmed at 100 mln dlrs of subordinated debt at B-plus and
 certificates of deposit at BB/B.
     S and P cited the firm's restructuring which resulted in a

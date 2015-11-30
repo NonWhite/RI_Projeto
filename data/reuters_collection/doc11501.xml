@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 13:18:19.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1970reute
-u f BC-WHITE-HOUSE-SAYS-STOC   03-31 0104</field>
-	<field name = "TITLE">WHITE HOUSE SAYS STOCK MARKET SOUND AND STRONG</field>
+	<field name = "titulo">WHITE HOUSE SAYS STOCK MARKET SOUND AND STRONG</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Presidential spokesman Marlin
+	<field name = "content">Presidential spokesman Marlin
 Fitzwater shrugged off yesterday's sharp decline on Wall
 Street, saying the administration believes the stock market is
 "fundamentally sound."

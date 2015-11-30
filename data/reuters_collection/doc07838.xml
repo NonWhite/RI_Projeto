@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 13:06:07.85</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1780reute
-r f BC-ALLIED-SIGNAL   03-20 0102</field>
-	<field name = "TITLE">FTC EASES ALLIED-SIGNAL ALD> UNIT RESTRICTIONS</field>
+	<field name = "titulo">FTC EASES ALLIED-SIGNAL ALD> UNIT RESTRICTIONS</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">The Federal Trade Commission said it
+	<field name = "content">The Federal Trade Commission said it
 eased a requirement that Allied-Signal Inc's Allied Corp
 subsidiary get prior FTC approval before making certain
 acquisitions in the high-purity acid market.

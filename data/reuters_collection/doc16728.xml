@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 18:27:25.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2790reute
-r f BC-PARADYNE-PDN>-IN-PAC   04-13 0062</field>
-	<field name = "TITLE">PARADYNE PDN> IN PACT WITH UNIVAR UVX> UNIT</field>
+	<field name = "titulo">PARADYNE PDN> IN PACT WITH UNIVAR UVX> UNIT</field>
 	<field name = "DATELINE">LARGO, FLA, April 13 -</field>
-	<field name = "BODY">Paradyne Corp said it signed a
+	<field name = "content">Paradyne Corp said it signed a
 contract with Van Waters and Rogers Inc, a subsidiary of UNIVAR
 Corp, to supply a data communications network.
     The contract, valued at 1.5 mln dlrs, will include Paradyne

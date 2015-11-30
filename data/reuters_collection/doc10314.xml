@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 04:38:47.18M C F</field>
-	<field name = "UNKNOWN">f0247reute</field>
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">u f BC-TWO-JAPANESE-STEELMAK   03-27 0091</field>
-	<field name = "TITLE">TWO JAPANESE STEELMAKERS' CAPITAL SPENDING FALLS</field>
+	<field name = "titulo">TWO JAPANESE STEELMAKERS' CAPITAL SPENDING FALLS</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Kawasaki Steel Corp KAWS.T> said its
+	<field name = "content">Kawasaki Steel Corp KAWS.T> said its
 parent company's capital spending in the year from April 1 will
 fall to 75 billion yen from 110 billion in the current year,
 and Sumitomo Metal Industries Ltd SMIT.T> said its capital

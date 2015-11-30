@@ -3,13 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">RM
-f0912
-reute
-u f BC-SOUTH-KOREA-TO-HOLD-C   03-02 0108</field>
-	<field name = "TITLE">SOUTH KOREA TO HOLD CURRENT ACCOUNT SURPLUS DOWN</field>
+	<field name = "titulo">SOUTH KOREA TO HOLD CURRENT ACCOUNT SURPLUS DOWN</field>
 	<field name = "DATELINE">SEOUL, March 2 -</field>
-	<field name = "BODY">South Korea plans to take steps to keep
+	<field name = "content">South Korea plans to take steps to keep
 its 1987 current account surplus below five billion dlrs,
 Economic Planning Board Minister Kim Mahn-je said.
     Kim told reporters the government would repay loans ahead

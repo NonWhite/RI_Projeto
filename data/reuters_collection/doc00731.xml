@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 15:40:35.96</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0917
-reute
-r f BC-ALBERTSON'S-ABS>-ADO   03-02 0108</field>
-	<field name = "TITLE">ALBERTSON'S ABS> ADOPTS STOCKHOLDER RIGHTS PLAN</field>
+	<field name = "titulo">ALBERTSON'S ABS> ADOPTS STOCKHOLDER RIGHTS PLAN</field>
 	<field name = "DATELINE">BOISE, Idaho, March 2 -</field>
-	<field name = "BODY">Albertson's Inc said its board has
+	<field name = "content">Albertson's Inc said its board has
 adopted a stockholder rights plan intended to protect them in
 the event of any proposed takeover of the company.
     Under the plan, stockholders will receive a dividend

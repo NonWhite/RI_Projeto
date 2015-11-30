@@ -6,12 +6,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">V RM
-f1651reute
-b f BC-/BAKER-SAYS-G-7-WANTS   04-24 0096</field>
-	<field name = "TITLE">BAKER SAYS G-7 WANTS TO HALT DOLLAR FALL</field>
+	<field name = "titulo">BAKER SAYS G-7 WANTS TO HALT DOLLAR FALL</field>
 	<field name = "DATELINE">WASHINGTON, April 24 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 the Group of Seven leading industrial nations is fully
 committed to halting a further decline in the dollar.
     "Let me emphasize that all seven major industrial nations

@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 09:30:42.87</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0146reute
-s f BC-MICKELBERRY-CORP-MBC   03-04 0023</field>
-	<field name = "TITLE">MICKELBERRY CORP MBC> SETS QTLY PAYOUT</field>
+	<field name = "titulo">MICKELBERRY CORP MBC> SETS QTLY PAYOUT</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Qtly div 1-1/2 cts vs 1-1/2 cts prior
+	<field name = "content">Qtly div 1-1/2 cts vs 1-1/2 cts prior
     Pay March 31
     Record March 13
  Reuter</field>

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 07:29:42.64</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0576reute
-b f BC-GUARDIAN-ROYAL-PROFIT   04-01 0058</field>
-	<field name = "TITLE">GUARDIAN ROYAL PROFIT UP SHARPLY AT 143.8 MLN STG</field>
+	<field name = "titulo">GUARDIAN ROYAL PROFIT UP SHARPLY AT 143.8 MLN STG</field>
 	<field name = "DATELINE">LONDON, April 1 -</field>
-	<field name = "BODY">Year to Dec 31
+	<field name = "content">Year to Dec 31
     Shr profit 63.6p vs loss 8.7p
     Final div 24p making 34p vs total 28.75p
     Pretax profit 143.8 mln stg vs 3.5 mln

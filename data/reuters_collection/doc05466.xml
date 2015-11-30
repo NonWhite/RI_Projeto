@@ -8,12 +8,9 @@
 	<field name = "TOPICS">barley</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2711reute
-u f BC-AROUND-3.5-MLN-ACRES   03-16 0141</field>
-	<field name = "TITLE">AROUND 3.5 MLN ACRES SAID TO BE IDLED BY 0/92</field>
+	<field name = "titulo">AROUND 3.5 MLN ACRES SAID TO BE IDLED BY 0/92</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">A 0/92 program would have very
+	<field name = "content">A 0/92 program would have very
 little impact on U.S. acreage, prompting farmers to idle only
 an additional 3.5 mln acres of cropland every year, according
 to a report from the Agriculture Department.

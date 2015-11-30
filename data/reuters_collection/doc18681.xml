@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 10:30:27.38</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3239reute
-u f BC-USAIR-U>-SAYS-DOT-PU   06-18 0101</field>
-	<field name = "TITLE">USAIR U> SAYS DOT PUBLIC COUNSEL BACKS MERGER</field>
+	<field name = "titulo">USAIR U> SAYS DOT PUBLIC COUNSEL BACKS MERGER</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">USAir Group Inc said the U.S.
+	<field name = "content">USAir Group Inc said the U.S.
 Department of Transportation's Office of Public Counsel has
 urged that expedited non-hearing procedures be used in its
 proposed acquisition of Piedmont Aviation Inc PIE>.

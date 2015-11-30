@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 18:46:50.23</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0358
-reute
-d f BC-JAPAN-TO-TRY-TO-OPEN   02-26 0103</field>
-	<field name = "TITLE">JAPAN TO TRY TO OPEN MARKET TO U.S. CAR PARTS</field>
+	<field name = "titulo">JAPAN TO TRY TO OPEN MARKET TO U.S. CAR PARTS</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">Japan has pledged to try to increase
+	<field name = "content">Japan has pledged to try to increase
 its purchase of U.S. car parts and also to exchange data to
 monitor the purchases, the Commerce Department said.
     U.S. negotiators opened talks last August with Japanese

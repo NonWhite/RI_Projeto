@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 21:58:03.49</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM V 
-f3576reute
-b f BC-EXPLOSION-IN-PHILIPPI   10-19 0093</field>
-	<field name = "TITLE">EXPLOSION IN PHILIPPINE CONGRESS, NO INJURIES</field>
+	<field name = "titulo">EXPLOSION IN PHILIPPINE CONGRESS, NO INJURIES</field>
 	<field name = "DATELINE">MANILA, Oct 20 -</field>
-	<field name = "BODY">An explosive device blew up in the
+	<field name = "content">An explosive device blew up in the
 Philippine Congress building early on Tuesday, a congressional
 security official said.
     He said no-one was injured in the blast which damaged a

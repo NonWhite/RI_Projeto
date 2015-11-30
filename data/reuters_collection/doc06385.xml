@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">C G
-f7384reute
-u f BC-TAIWAN-BUYS-462,000-T   03-18 0105</field>
-	<field name = "TITLE">TAIWAN BUYS 462,000 TONNES OF U.S. MAIZE</field>
+	<field name = "titulo">TAIWAN BUYS 462,000 TONNES OF U.S. MAIZE</field>
 	<field name = "DATELINE">TAIPEI, March 18 -</field>
-	<field name = "BODY">The joint committee of Taiwan's maize
+	<field name = "content">The joint committee of Taiwan's maize
 importers awarded contracts to five U.S. Companies to supply a
 total of 462,000 tonnes of maize for delivery between May 10
 and October 10, a committee spokesman said.

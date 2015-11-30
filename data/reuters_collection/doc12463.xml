@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 07:02:14.73</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0591reute
-u f BC-GERMAN-MARCH-COST-OF   04-02 0071</field>
-	<field name = "TITLE">GERMAN MARCH COST OF LIVING DATA CONFIRMED</field>
+	<field name = "titulo">GERMAN MARCH COST OF LIVING DATA CONFIRMED</field>
 	<field name = "DATELINE">WIESBADEN, April 2 -</field>
-	<field name = "BODY">The cost of living was unchanged in
+	<field name = "content">The cost of living was unchanged in
 March compared with February but stood 0.2 pct lower than in
 the same month in 1986, the Federal Statistics Office said.
     This confirms provisional figures released at the end of

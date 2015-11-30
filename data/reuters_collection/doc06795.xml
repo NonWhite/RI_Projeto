@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 16:06:25.11</field>
 	<field name = "PLACES">costa-rica</field>
-	<field name = "UNKNOWN">RM A
-f9382reute
-r f AM-centam-debt   03-18 0108</field>
-	<field name = "TITLE">LATIN AMERICA SEEKS NEW APPROACH TO DEBT</field>
+	<field name = "titulo">LATIN AMERICA SEEKS NEW APPROACH TO DEBT</field>
 	<field name = "DATELINE">San jose, march 18 -</field>
-	<field name = "BODY">The 25-nation Latin American Economic
+	<field name = "content">The 25-nation Latin American Economic
 System (SELA) has presented a document calling for a new
 strategy to cope with Latin America's crushing debt and
 faltering growth.

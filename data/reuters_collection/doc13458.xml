@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:16:20.19</field>
-	<field name = "UNKNOWN">RM C M F
-f0327reute
-b f BC-LONDON-GOLD-FIXED-AT   04-07 0091</field>
-	<field name = "TITLE">LONDON GOLD FIXED AT 419.80 DLRS THIS MORNING</field>
+	<field name = "titulo">LONDON GOLD FIXED AT 419.80 DLRS THIS MORNING</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Gold bullion was fixed this morning at
+	<field name = "content">Gold bullion was fixed this morning at
 419.80 dlrs an ounce, down on last night's close of
 421.50/422.00, dealers said.
     The market opened little changed at 421.90/422.40 but eased

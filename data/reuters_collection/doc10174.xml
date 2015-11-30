@@ -29,12 +29,9 @@
 	<field name = "PLACES">israel</field>
 	<field name = "PLACES">cyprus</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">C G
-f2588reute
-u f BC-USDA-COMMENTS-ON-EXPO   03-26 0123</field>
-	<field name = "TITLE">USDA COMMENTS ON EXPORT SALES REPORT</field>
+	<field name = "titulo">USDA COMMENTS ON EXPORT SALES REPORT</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">Corn sales of 2,806,300 tonnes in
+	<field name = "content">Corn sales of 2,806,300 tonnes in
 the week ended March 19 were the highest level since
 mid-November, 1979, the U.S. Agriculture Department said.
     The department said the USSR dominated the week's activity

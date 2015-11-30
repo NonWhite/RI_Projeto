@@ -6,12 +6,9 @@
 	<field name = "PLACES">singapore</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM V 
-f0107reute
-u f BC-OIL-MARKETS-SHOW-RESP   06-29 0110</field>
-	<field name = "TITLE">OIL MARKETS SHOW RESPECT FOR NEW OPEC ACCORD</field>
+	<field name = "titulo">OIL MARKETS SHOW RESPECT FOR NEW OPEC ACCORD</field>
 	<field name = "DATELINE">SINGAPORE, June 29 -</field>
-	<field name = "BODY">OPEC has shown itself to be in control
+	<field name = "content">OPEC has shown itself to be in control
 of the world oil situation with its speed in hammering out a
 pact to limit crude oil output to 16.6 mln barrels per day
 (bpd) for the rest of 1987, oil traders said.

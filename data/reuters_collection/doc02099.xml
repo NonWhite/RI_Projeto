@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:45:09.95</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F
-f0390reute
-r f BC-PHILIPS-TO-JOINTLY-PR   03-05 0103</field>
-	<field name = "TITLE">PHILIPS TO JOINTLY PRODUCE NEW LASER VIDEO PLAYER</field>
+	<field name = "titulo">PHILIPS TO JOINTLY PRODUCE NEW LASER VIDEO PLAYER</field>
 	<field name = "DATELINE">EINDHOVEN, Netherlands, March 5 -</field>
-	<field name = "BODY">NV Philips
+	<field name = "content">NV Philips
 Gloeilampenfabrieken PGLO.AS> said it had agreed with
 Matsushita Electric Industrial Co Ltd MC.T> and Nippon Gakki
 Co Ltd NGAK.T> of Japan to jointly produce the components of

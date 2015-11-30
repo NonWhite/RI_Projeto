@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 15:53:55.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2459reute
-h f BC-INTERNATIONAL-TELECHA   04-13 0107</field>
-	<field name = "TITLE">INTERNATIONAL TELECHARGE LAUNCHES SERVICE</field>
+	<field name = "titulo">INTERNATIONAL TELECHARGE LAUNCHES SERVICE</field>
 	<field name = "DATELINE">DALLAS, APril 13 -</field>
-	<field name = "BODY">International Telecharge Inc said it
+	<field name = "content">International Telecharge Inc said it
 introduced a new international inbound long-distance service
 from Europe called "Quick Call USA."
     The three-minute call will be available from seven European

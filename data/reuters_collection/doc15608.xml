@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 10:59:58.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1209reute
-r f BC-KAPOK-CORP-KPK>-CURE   04-09 0077</field>
-	<field name = "TITLE">KAPOK CORP KPK> CURES TECHNICAL DEFAULTS</field>
+	<field name = "titulo">KAPOK CORP KPK> CURES TECHNICAL DEFAULTS</field>
 	<field name = "DATELINE">CLEARWATER, Fla., April 9 -</field>
-	<field name = "BODY">Kapok Corp said it has cured
+	<field name = "content">Kapok Corp said it has cured
 technical defaults on laons from Southeast Banking Corp STB>
 and Murray Steinfeld and has negotiated extensions of both
 loans.

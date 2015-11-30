@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 15:23:41.70</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2821reute
-d f BC-CONSOLIDATED-FREIGHTW   10-19 0045</field>
-	<field name = "TITLE">CONSOLIDATED FREIGHTWAYS INC CNF> 3RD QTR NET</field>
+	<field name = "titulo">CONSOLIDATED FREIGHTWAYS INC CNF> 3RD QTR NET</field>
 	<field name = "DATELINE">PALO ALTO, Calif., Oct 19 -</field>
-	<field name = "BODY">Shr 43 cts vs 63 cts
+	<field name = "content">Shr 43 cts vs 63 cts
     Net 16,362,000 vs 24,325,000
     Revs 589.3 mln vs 549.1 mln
     Nine Mths

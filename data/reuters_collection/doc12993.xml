@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 12:35:43.21</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "EXCHANGES">cboe</field>
-	<field name = "UNKNOWN">RM
-f1655reute
-r f BC-LARGER-VOLUME-SEEN-ON   04-03 0117</field>
-	<field name = "TITLE">LARGER VOLUME SEEN ON EUROPEAN OPTIONS EXCHANGES</field>
+	<field name = "titulo">LARGER VOLUME SEEN ON EUROPEAN OPTIONS EXCHANGES</field>
 	<field name = "DATELINE">AMSTERDAM, April 3 -</field>
-	<field name = "BODY">European options exchanges will see
+	<field name = "content">European options exchanges will see
 spectacular growth over the next five years as more and more
 professional investors discover the options markets, Bernard
 Reed, manager of the London options exchange said.

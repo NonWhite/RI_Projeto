@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 14:19:38.21</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0237reute
-u f BC-WALL-STREET-STOCKS/TE   03-11 0094</field>
-	<field name = "TITLE">WALL STREET STOCKS/TENNECO INC TGT></field>
+	<field name = "titulo">WALL STREET STOCKS/TENNECO INC TGT></field>
 	<field name = "DATELINE">NEW YORK, MARCH 11 -</field>
-	<field name = "BODY">Tenneco Inc, a company that has long
+	<field name = "content">Tenneco Inc, a company that has long
 been rumored to be a takeover candidate, rose sharply today
 when speculation surfaced that investor T. Boone Pickens may be
 targeting the company for an acquisition, traders and analysts

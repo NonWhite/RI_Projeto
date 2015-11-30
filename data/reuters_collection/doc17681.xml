@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 13:48:33.20</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1935reute
-r f BC-PEERLESS-MANUFACTURIN   06-01 0103</field>
-	<field name = "TITLE">PEERLESS MANUFACTURING PMFG.O> SELLS UNIT</field>
+	<field name = "titulo">PEERLESS MANUFACTURING PMFG.O> SELLS UNIT</field>
 	<field name = "DATELINE">DALLAS, June 1 -</field>
-	<field name = "BODY">Peerless Manufacturing Co said it has sold
+	<field name = "content">Peerless Manufacturing Co said it has sold
 its Industrial Sensors and Instruments Division and Panhandle
 Equipment Co subsidiaries for a total of 635,000 dlrs in cash.
     It said the transaction will result in a loss of about

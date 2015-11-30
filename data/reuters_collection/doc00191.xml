@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 18:19:17.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0309
-reute
-d f BC-JURY-FINDS-FOR-DOW-D   02-26 0090</field>
-	<field name = "TITLE">JURY FINDS FOR DOW DOW> IN BIRTH DEFECT CASE</field>
+	<field name = "titulo">JURY FINDS FOR DOW DOW> IN BIRTH DEFECT CASE</field>
 	<field name = "DATELINE">PHILADELPHIA, Feb 26 -</field>
-	<field name = "BODY">Dow Chemical Co's DOW> Merrell Dow
+	<field name = "content">Dow Chemical Co's DOW> Merrell Dow
 Pharmaceuticals Inc unit said a jury found that Bendectin did
 not cause the birth defects of a seven-year old boy whose
 mother took the drug during pregnancy.

@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 11:23:31.27</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0955
-reute
-u f BC-VIACOM   03-02 0104</field>
-	<field name = "TITLE">REDSTONE DETAILS SWEETENED VIACOM VIA> OFFER</field>
+	<field name = "titulo">REDSTONE DETAILS SWEETENED VIACOM VIA> OFFER</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">Investor Sumner Redstone, who leads
+	<field name = "content">Investor Sumner Redstone, who leads
 one of the two groups vying for control of Viacom International
 Inc, offered to sweeten his bid for the company by 1.50 dlrs a
 share cash and 1.50 dlrs in securities.

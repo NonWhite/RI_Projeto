@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 11:10:12.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1242reute
-d f BC-ACCOUNTING-GROUP-SETS   03-19 0102</field>
-	<field name = "TITLE">ACCOUNTING GROUP SETS COMPUTER COST GUIDELINES</field>
+	<field name = "titulo">ACCOUNTING GROUP SETS COMPUTER COST GUIDELINES</field>
 	<field name = "DATELINE">MONTVALE, N.J., March 19 -</field>
-	<field name = "BODY">The National Association of
+	<field name = "content">The National Association of
 Accountants said it has a set of guidelines to account for
 costs from internal use of computers.
     The Association said Statement No. 4F, written by the

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 10:17:33.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1142reute
-b f BC-FARM-CREDIT-SYSTEM-RE   03-26 0110</field>
-	<field name = "TITLE">FARM CREDIT SYSTEM REQUESTS U.S. CREDIT LINE</field>
+	<field name = "titulo">FARM CREDIT SYSTEM REQUESTS U.S. CREDIT LINE</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">The financially-troubled Farm Credit
+	<field name = "content">The financially-troubled Farm Credit
 System today formally asked that the Treasury Department
 provide a line of credit to the system and that Congress take
 steps to guarantee stock held by borrowers.

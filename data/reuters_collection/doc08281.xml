@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 10:40:23.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1136reute
-d f BC-FLORIDA-FEDERAL-FLFE   03-23 0123</field>
-	<field name = "TITLE">FLORIDA FEDERAL FLFE> SEES NO NEED FOR ACTION</field>
+	<field name = "titulo">FLORIDA FEDERAL FLFE> SEES NO NEED FOR ACTION</field>
 	<field name = "DATELINE">ST. PETERSBURG, Fla., March 23 -</field>
-	<field name = "BODY">Florida Federal Savings
+	<field name = "content">Florida Federal Savings
 and Loan Association a special review committee has determined
 has determined there is no justification for legal action
 against the persons responsible for the association's loan an

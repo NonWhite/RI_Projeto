@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 17:24:11.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3761reute
-u f BC-WANG-(WANB)-SEES-GROW   03-16 0088</field>
-	<field name = "TITLE">WANG (WANB) SEES GROWTH IN OFFICE AUTOMATION</field>
+	<field name = "titulo">WANG (WANB) SEES GROWTH IN OFFICE AUTOMATION</field>
 	<field name = "DATELINE">DALLAS, March 16 -</field>
-	<field name = "BODY">Wang Laboratories Inc expects the
+	<field name = "content">Wang Laboratories Inc expects the
 office automation industry to grow at 10 to 15 pct a year over
 the next two years, according to Chairman An Wang.
      However, Wang, who was in Dallas to open the company's new

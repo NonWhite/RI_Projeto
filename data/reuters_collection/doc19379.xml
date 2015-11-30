@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 15:17:15.65</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2134reute
-u f BC-GULF-AND-WESTERN-GW>   06-19 0094</field>
-	<field name = "TITLE">GULF AND WESTERN GW> UPS INTEREST IN NETWORK</field>
+	<field name = "titulo">GULF AND WESTERN GW> UPS INTEREST IN NETWORK</field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">USA Network, today said it has acquired
+	<field name = "content">USA Network, today said it has acquired
 Time Inc's TL> one-third interest in the network.
     The network, formerly a joint venture between Time, Gulf
 and Western Inc and MCA Inc MCA>, said that Gulf and Western

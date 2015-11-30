@@ -3,13 +3,10 @@
 	<field name = "TOPICS">nzdlr</field>
 	<field name = "TOPICS">austdlr</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f1939reute
-r f BC-U.S.-CORPORATE-FINANC   03-30 0109</field>
-	<field name = "TITLE">U.S. CORPORATE FINANCE - NEW ZEALAND DLR FRNS</field>
+	<field name = "titulo">U.S. CORPORATE FINANCE - NEW ZEALAND DLR FRNS</field>
 	<field name = "AUTHOR">By John Picinich, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">Floating-rate notes denominated in a
+	<field name = "content">Floating-rate notes denominated in a
 foreign currency, a relatively new wrinkle on Wall Street, will
 probably be issued infrequently because the so-called "window
 of opportunity" opens and closes quickly, traders say.

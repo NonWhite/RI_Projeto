@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 12:55:32.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1763reute
-u f BC-LOWER-U.S.-FARM-PAYME   04-09 0143</field>
-	<field name = "TITLE">LOWER U.S. FARM PAYMENT BASE EYED FOR SAVINGS</field>
+	<field name = "titulo">LOWER U.S. FARM PAYMENT BASE EYED FOR SAVINGS</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">Reducing the amount of crop base a
+	<field name = "content">Reducing the amount of crop base a
 farmer can receive deficiency payments on is being looked at as
 one way to cut the U.S. agriculture budget for fiscal year
 1988, congressional aides and lobbyists said.

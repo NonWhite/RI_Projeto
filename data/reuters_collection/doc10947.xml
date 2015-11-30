@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 13:29:47.37</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">A
-f2013reute
-r f BC-BANKS-FILE-SUIT-AGAIN   03-30 0108</field>
-	<field name = "TITLE">BANKS FILE SUIT AGAINST SAUDI COMPANY</field>
+	<field name = "titulo">BANKS FILE SUIT AGAINST SAUDI COMPANY</field>
 	<field name = "DATELINE">BAHRAIN, March 30 -</field>
-	<field name = "BODY">Four international banks have filed
+	<field name = "content">Four international banks have filed
 claims for 131.2 mln riyals against the owners of Saudi
 construction and trading group Abdulla Fouad and Sons Co,
 bankers and lawyers in the Kingdom said.

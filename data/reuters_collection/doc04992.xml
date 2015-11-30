@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 14:58:27.75</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G T M
-f0188reute
-r f BC-BRAZIL-INDUSTRIAL-GRO   03-13 0112</field>
-	<field name = "TITLE">BRAZIL INDUSTRIAL GROWTH RATE SLOWED IN JANUARY</field>
+	<field name = "titulo">BRAZIL INDUSTRIAL GROWTH RATE SLOWED IN JANUARY</field>
 	<field name = "DATELINE">RIO DE JANEIRO, March 13 -</field>
-	<field name = "BODY">The growth rate of Brazilian
+	<field name = "content">The growth rate of Brazilian
 industrial output slowed in January to 6.09 pct above the same
 1986 month after rising 6.71 pct in December, Brazilian
 Geography and Statistics Institute figures show.

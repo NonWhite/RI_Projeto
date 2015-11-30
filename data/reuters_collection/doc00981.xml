@@ -3,13 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">ireland</field>
-	<field name = "UNKNOWN">F
-f0229
-reute
-r f BC-HEINZ-INTERESTED-IN-B   03-03 0113</field>
-	<field name = "TITLE">HEINZ INTERESTED IN BUYING GUINNESS BREWING</field>
+	<field name = "titulo">HEINZ INTERESTED IN BUYING GUINNESS BREWING</field>
 	<field name = "DATELINE">DUBLIN, March 3 -</field>
-	<field name = "BODY">H.J. Heinz HNZ.N> chairman Tony O'Reilly
+	<field name = "content">H.J. Heinz HNZ.N> chairman Tony O'Reilly
 would be interested in buying Guinness PLC GUIN.L>'s brewery
 division if it were for sale, a spokesman said.
     The spokesman, reacting to Irish and British press reports,

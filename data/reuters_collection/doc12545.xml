@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 09:45:50.72</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">zimbabwe</field>
-	<field name = "UNKNOWN">F
-f1008reute
-w f BC-ZIMBABWE-GOVERNMENT-B   04-02 0107</field>
-	<field name = "TITLE">ZIMBABWE GOVERNMENT BUYS INTO ASTRA</field>
+	<field name = "titulo">ZIMBABWE GOVERNMENT BUYS INTO ASTRA</field>
 	<field name = "DATELINE">HARARE, April 2 -</field>
-	<field name = "BODY">The Zimbabwe government has bought 85 pct
+	<field name = "content">The Zimbabwe government has bought 85 pct
 of the equity in Astra Corporation> for 25.5 mln dlrs from
 Netherlands-based Bommenede Houdstermaatschappij (Nederland
 BV)>, Astra announced.

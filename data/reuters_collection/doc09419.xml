@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 12:36:58.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1673reute
-r f BC-J.A.M.-JAMY>-WINS-1.   03-25 0097</field>
-	<field name = "TITLE">J.A.M. JAMY> WINS 1.5 MLN DLR CONTRACT</field>
+	<field name = "titulo">J.A.M. JAMY> WINS 1.5 MLN DLR CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">J.A.M. Inc said it won a 1.5 mln dlr
+	<field name = "content">J.A.M. Inc said it won a 1.5 mln dlr
 contract to produce and develop a series of courses on computer
 and data processing systems for use by colleges and 
 businesses.

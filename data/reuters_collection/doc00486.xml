@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 11:19:06.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0929
-reute
-u f BC-LOTUS-LOTS>-INTRODUC   03-02 0051</field>
-	<field name = "TITLE">LOTUS LOTS> INTRODUCES NEW SOFTWARE</field>
+	<field name = "titulo">LOTUS LOTS> INTRODUCES NEW SOFTWARE</field>
 	<field name = "DATELINE">CAMBRIDGE, Mass., March 2 -</field>
-	<field name = "BODY">Lotus Development Corp said it
+	<field name = "content">Lotus Development Corp said it
 has unveiled a new software product, named Galaxy, to
 complement the newly introduced Apple Computer Inc AAPL>
 Macintosh II and Macintosh SE.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 10:18:25.86</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0337reute
-d f BC-EASTERN-EML>-ACQUIRE   03-04 0039</field>
-	<field name = "TITLE">EASTERN EML> ACQUIRES EMHART EMH> PRODUCT LINE</field>
+	<field name = "titulo">EASTERN EML> ACQUIRES EMHART EMH> PRODUCT LINE</field>
 	<field name = "DATELINE">NAUGATUK, Conn., March 4 -</field>
-	<field name = "BODY">Eastern Co said it purchased the
+	<field name = "content">Eastern Co said it purchased the
 tooling, equipment and inventory used to produce the Corbin
 Cabinet Lock product line from Emhart Corp for undisclosed
 terms.

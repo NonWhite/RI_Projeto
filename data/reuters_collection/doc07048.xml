@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 08:27:00.64</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0659reute
-b f BC-ITALIAN-NET-RESERVES   03-19 0081</field>
-	<field name = "TITLE">ITALIAN NET RESERVES RISE IN FEBRUARY</field>
+	<field name = "titulo">ITALIAN NET RESERVES RISE IN FEBRUARY</field>
 	<field name = "DATELINE">ROME, March 19 -</field>
-	<field name = "BODY">Italy's net official reserves rose to
+	<field name = "content">Italy's net official reserves rose to
 66,172 billion lire in February 1987 from a previously reported
 62,174 billion in January, the Bank of Italy said.
     Gold holdings at end-February totalled 35,203 billion lire,

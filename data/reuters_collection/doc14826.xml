@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 01:12:53.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0051reute
-u f BC-UAL-UAL.N>-PILOTS-PR   04-08 0106</field>
-	<field name = "TITLE">UAL UAL.N> PILOTS PROPOSE WAGE CUT TO FUND BUYOUT</field>
+	<field name = "titulo">UAL UAL.N> PILOTS PROPOSE WAGE CUT TO FUND BUYOUT</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">The union representing 7,000 pilots at
+	<field name = "content">The union representing 7,000 pilots at
 United Airlines is proposing wage cuts of up to 25 pct to help
 finance a 4.5 billion dlr employee buyout of the nation's
 second largest air carrier.

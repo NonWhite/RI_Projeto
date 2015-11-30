@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2700reute
-u f BC-/RECENT-U.S.-OIL-DEMA   04-08 0107</field>
-	<field name = "TITLE">RECENT U.S. OIL DEMAND OFF 2.6 PCT FROM YEAR AGO</field>
+	<field name = "titulo">RECENT U.S. OIL DEMAND OFF 2.6 PCT FROM YEAR AGO</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">U.S. oil demand as measured by
+	<field name = "content">U.S. oil demand as measured by
 products supplied fell 2.6 pct in the four weeks ended April
 three to 15.73 mln barrels per day (bpd) from 16.16 mln in the
 same period a year ago, the Energy Information Administration

@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 15:39:38.61</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2170reute
-h f BC-ENEX-RESOURCES-CORP-   04-03 0044</field>
-	<field name = "TITLE">ENEX RESOURCES CORP ENEX> 4TH QTR LOSS</field>
+	<field name = "titulo">ENEX RESOURCES CORP ENEX> 4TH QTR LOSS</field>
 	<field name = "DATELINE">KINGWOOD, Texas, April 3 -</field>
-	<field name = "BODY">Shr not given
+	<field name = "content">Shr not given
     Net loss 330,613 vs profit
     Revs 2,170,628 vs 614,511
     Year

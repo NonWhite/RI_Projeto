@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 10:18:27.09F</field>
-	<field name = "UNKNOWN">f0987reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-MOBILE-COMMUNICATIONS   03-27 0081</field>
-	<field name = "TITLE">MOBILE COMMUNICATIONS CORP MCCAA> YR NET</field>
+	<field name = "titulo">MOBILE COMMUNICATIONS CORP MCCAA> YR NET</field>
 	<field name = "DATELINE">JACKSON, Miss., March 27 -</field>
-	<field name = "BODY">Shr 77 cts vs 37 cts
+	<field name = "content">Shr 77 cts vs 37 cts
     Net 13.5 mln vs 4.8 mln
     Revs 70.8 mln vs 60.8 mln
     Avg shrs 17.5 mln vs 12.9 mln

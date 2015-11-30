@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 10:31:04.89</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f1079reute
-r f BC-SPAIN-HAS-35-MLN-DLR   04-09 0107</field>
-	<field name = "TITLE">SPAIN HAS 35 MLN DLR CURRENT SURPLUS FEBRUARY</field>
+	<field name = "titulo">SPAIN HAS 35 MLN DLR CURRENT SURPLUS FEBRUARY</field>
 	<field name = "DATELINE">MADRID, April 9 -</field>
-	<field name = "BODY">Spain had a 35 mln dlr current account
+	<field name = "content">Spain had a 35 mln dlr current account
 surplus in February compared with a 68 mln dlr surplus in
 January and a 355 mln dlr surplus in February last year, Bank
 of Spain figures show.

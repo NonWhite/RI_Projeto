@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 16:13:51.71</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nasdaq</field>
-	<field name = "UNKNOWN">F 
-f2438reute
-r f BC-SECURITY-SFGI.O>-COM   06-29 0107</field>
-	<field name = "TITLE">SECURITY SFGI.O> COMPLETES INITIAL OFFERING</field>
+	<field name = "titulo">SECURITY SFGI.O> COMPLETES INITIAL OFFERING</field>
 	<field name = "DATELINE">ST CLOUD, Minn., June 29 -</field>
-	<field name = "BODY">Security Federal Savings and
+	<field name = "content">Security Federal Savings and
 Loan Association said the initial public offering of its
 holding company Security Financial Group Inc has been
 completed.

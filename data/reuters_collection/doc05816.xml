@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 04:48:44.51</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f4306reute
-b f BC-TAIWAN-CABINET-APPROV   03-17 0109</field>
-	<field name = "TITLE">TAIWAN CABINET APPROVES RECORD DEFICIT BUDGET</field>
+	<field name = "titulo">TAIWAN CABINET APPROVES RECORD DEFICIT BUDGET</field>
 	<field name = "DATELINE">TAIPEI, March 17 -</field>
-	<field name = "BODY">The Taiwan cabinet approved a record
+	<field name = "content">The Taiwan cabinet approved a record
 deficit budget calling for government spending of 479.67
 billion Taiwan dlrs in fiscal 1987/88 starting July 1, a
 cabinet statement said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 06:20:25.78</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f2503reute
-u f BC-MAZDA-SEES-50.8-PCT-D   06-18 0099</field>
-	<field name = "TITLE">MAZDA SEES 50.8 PCT DROP IN 1986/87 CURRENT PROFIT</field>
+	<field name = "titulo">MAZDA SEES 50.8 PCT DROP IN 1986/87 CURRENT PROFIT</field>
 	<field name = "DATELINE">TOKYO, June 18 -</field>
-	<field name = "BODY">Mazda Motor Corp MAZT.T> predicted a
+	<field name = "content">Mazda Motor Corp MAZT.T> predicted a
 parent company current profit of 10 billion yen in the year
 ending October 31, 1987, down 50.8 pct from a year earlier,
 assuming a yen/dollar value at 147 yen, vice president

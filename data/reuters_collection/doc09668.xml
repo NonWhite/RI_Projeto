@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 18:46:18.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2708reute
-d f BC-USACAFES-USF>-UNIT-P   03-25 0096</field>
-	<field name = "TITLE">USACAFES USF> UNIT POSTS RECORD WEEKLY SALES</field>
+	<field name = "titulo">USACAFES USF> UNIT POSTS RECORD WEEKLY SALES</field>
 	<field name = "DATELINE">DALLAS, March 25 -</field>
-	<field name = "BODY">USACafes LP said sales at its Bonanza
+	<field name = "content">USACafes LP said sales at its Bonanza
 Restaurant unit rose 16.6 pct to a record 10.4 mln dlrs for the
 week ended March 22.
     That compares with sales of 8,909,000 dlrs for the

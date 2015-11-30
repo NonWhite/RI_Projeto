@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:05:58.77</field>
-	<field name = "UNKNOWN">C G
-f0902reute
-u f BC-cbt-corn-pre-opg   04-07 0134</field>
-	<field name = "TITLE">CBT CORN FUTURES EXPECTED STEADY TO FIRMER</field>
+	<field name = "titulo">CBT CORN FUTURES EXPECTED STEADY TO FIRMER</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">CBT corn futures were expected to open
+	<field name = "content">CBT corn futures were expected to open
 steady to firmer, supported by a much larger than expected
 weekly corn export inspection figure yesterday, traders said.
     Modest country movement will allow an initial advance.

@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 17:54:07.33</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0267
-reute
-r f BC-BASIX-CORP-BAS>-4TH   03-02 0080</field>
-	<field name = "TITLE">BASIX CORP BAS> 4TH QTR LOSS</field>
+	<field name = "titulo">BASIX CORP BAS> 4TH QTR LOSS</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Oper shr loss eight cts vs profit 20 cts
+	<field name = "content">Oper shr loss eight cts vs profit 20 cts
     Oper net loss 768,000 vs profit 1,962,000
     Revs 49.0 mln vs 43.6 mln
     12 mths

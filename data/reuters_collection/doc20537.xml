@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:21:02.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM 
-f2670reute
-r f BC-MANUFACTURERS-HANOVER   10-20 0096</field>
-	<field name = "TITLE">MANUFACTURERS HANOVER MHC> 3RD QTR NET UP</field>
+	<field name = "titulo">MANUFACTURERS HANOVER MHC> 3RD QTR NET UP</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Manufacturers Hanover Corp said it
+	<field name = "content">Manufacturers Hanover Corp said it
 earned 129.1 mln dlrs for the third quarter, up from 105.8 mln
 a year earlier.
     Net income per common share rose to 2.73 dlrs from 2.29

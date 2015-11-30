@@ -2,12 +2,9 @@
 	<field name = "DATE">4-APR-1987 06:48:23.18</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">uae</field>
-	<field name = "UNKNOWN">RM
-f0042reute
-r f BC-UAE-OIL-PRODUCTION-DR   04-04 0118</field>
-	<field name = "TITLE">UAE OIL PRODUCTION DROPS TEN PCT IN MARCH</field>
+	<field name = "titulo">UAE OIL PRODUCTION DROPS TEN PCT IN MARCH</field>
 	<field name = "DATELINE">ABU DHABI, April 4 -</field>
-	<field name = "BODY">Oil output in the United Arab Emirates
+	<field name = "content">Oil output in the United Arab Emirates
 (UAE) dropped ten pct in March from February to an average 1.05
 mln barrels per day (bpd), mainly because of customer
 resistance to fixed prices of Abu Dhabi oil, industry sources

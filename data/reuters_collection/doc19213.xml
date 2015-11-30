@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 11:19:33.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1223reute
-r f BC-MEDFORD-SAVINGS-APPRO   06-19 0075</field>
-	<field name = "TITLE">MEDFORD SAVINGS APPROVED TO FORM HOLDING CO</field>
+	<field name = "titulo">MEDFORD SAVINGS APPROVED TO FORM HOLDING CO</field>
 	<field name = "DATELINE">MEDFORD, Mass., June 19 -</field>
-	<field name = "BODY">Medford Savings Bank> said it
+	<field name = "content">Medford Savings Bank> said it
 received Federal Reserve Board approval to form a bank holding
 company.
     It said the holding company, to be known as Regional

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 04:52:17.50</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM
-f0348reute
-u f BC-PHILIPPINE-DEBT-PACT   03-30 0109</field>
-	<field name = "TITLE">PHILIPPINE DEBT PACT SEEN AS GOOD FOR ECONOMY</field>
+	<field name = "titulo">PHILIPPINE DEBT PACT SEEN AS GOOD FOR ECONOMY</field>
 	<field name = "AUTHOR">By Chaitanya Kalbag, Reuters</field>
 	<field name = "DATELINE">MANILA, March 30 -</field>
-	<field name = "BODY">The Philippines' restructuring of 13.2
+	<field name = "content">The Philippines' restructuring of 13.2
 billion dlrs of foreign debt will provide a welcome boost for
 the economy, but last Friday's accord with the country's
 12-bank advisory committee does not imply an overnight boom,

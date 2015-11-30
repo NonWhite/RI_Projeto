@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 09:20:28.18</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0802reute
-b f BC-OHIO-EDISON-OEC>-SEL   03-20 0112</field>
-	<field name = "TITLE">OHIO EDISON OEC> SELLS 30 PCT OF NUCLEAR INTEREST</field>
+	<field name = "titulo">OHIO EDISON OEC> SELLS 30 PCT OF NUCLEAR INTEREST</field>
 	<field name = "DATELINE">AKRON, Ohio, March 20 -</field>
-	<field name = "BODY">Ohio Edison Co said it has
+	<field name = "content">Ohio Edison Co said it has
 completed the sale and leaseback of 30 pct of its 30 pct
 interest in Unit One of the Perry Nuclear Power Plant,
 receiving 509 mln dlrs for the interest.

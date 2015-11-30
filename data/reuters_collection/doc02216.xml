@@ -6,12 +6,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0804reute
-b f BC-PARIS-TRADE-DETAILS-E   03-05 0090</field>
-	<field name = "TITLE">PARIS TRADE DETAILS EC GRAIN TENDER RESULT</field>
+	<field name = "titulo">PARIS TRADE DETAILS EC GRAIN TENDER RESULT</field>
 	<field name = "DATELINE">PARIS, March 5 -</field>
-	<field name = "BODY">The EC Commission rejected all bids for
+	<field name = "content">The EC Commission rejected all bids for
 free market bread-making and feed wheat and all bids for the
 special West German tender at today's weekly EC cereals tender,
 trade sources said here.

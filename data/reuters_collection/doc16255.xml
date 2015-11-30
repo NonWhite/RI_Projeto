@@ -4,12 +4,9 @@
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G L M T
-f0918reute
-d f BC-TRADE-ISSUES-STRAININ   04-13 0107</field>
-	<field name = "TITLE">TRADE ISSUES STRAINING EC'S PATIENCE WITH JAPAN</field>
+	<field name = "titulo">TRADE ISSUES STRAINING EC'S PATIENCE WITH JAPAN</field>
 	<field name = "DATELINE">BRUSSELS, April 13 -</field>
-	<field name = "BODY">Member states of the European
+	<field name = "content">Member states of the European
 Community are starting to run out of patience with Japan which
 they believe has repeatedly promised major initiatives to open
 its market to imports, but as often made only minor moves.

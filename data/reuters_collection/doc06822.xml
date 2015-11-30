@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 16:24:42.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f9435reute
-r f BC-TRIPLE-WITCHING-OVERH   03-18 0092</field>
-	<field name = "TITLE">TRIPLE WITCHING ISSUE OVERHANGS FUTURES MEETING</field>
+	<field name = "titulo">TRIPLE WITCHING ISSUE OVERHANGS FUTURES MEETING</field>
 	<field name = "AUTHOR">By Nelson Graves, Reuters</field>
 	<field name = "DATELINE">BOCA RATON, Florida, March 18 -</field>
-	<field name = "BODY">Leaders of the major U.S.
+	<field name = "content">Leaders of the major U.S.
 commodity exchanges and their federal regulators begin a
 three-day meeting here tomorrow satisfied with the industry's
 growth but uncertain about their futures.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 16:16:06.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6497reute
-d f BC-DAVOX-REGISTERS-1.6-M   03-17 0096</field>
-	<field name = "TITLE">DAVOX REGISTERS 1.6 MLN SHARE INITIAL OFFERING</field>
+	<field name = "titulo">DAVOX REGISTERS 1.6 MLN SHARE INITIAL OFFERING</field>
 	<field name = "DATELINE">BILLERICA, Mass., March 17 -</field>
-	<field name = "BODY">Davox Corp> said it filed a
+	<field name = "content">Davox Corp> said it filed a
 registration statement with the Securities and Exchange
 Commission covering a proposed initial offering of 1.6 mln
 common shares.

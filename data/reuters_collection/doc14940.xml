@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0736reute
-r f BC-UNILEVER-SEEKS-BUYER   04-08 0096</field>
-	<field name = "TITLE">UNILEVER SEEKS BUYER FOR STAUFFER CHEMICAL</field>
+	<field name = "titulo">UNILEVER SEEKS BUYER FOR STAUFFER CHEMICAL</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">Unilever Plc and NV UN.AS> has issued a
+	<field name = "content">Unilever Plc and NV UN.AS> has issued a
 prospectus through investment bankers Goldman Sachs and Co
 seeking a buyer for Stauffer Chemical Co> of the U.S., Which
 it acquired with the recent takeover of Chesebrough-Pond's

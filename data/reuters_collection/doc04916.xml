@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 13:14:33.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0841reute
-u f BC-FDA-RECALL-MONSANTOM   03-13 0091</field>
-	<field name = "TITLE">FDA RECALL MONSANTOMCT> UNIT ORAL CONTRACEPTIVE</field>
+	<field name = "titulo">FDA RECALL MONSANTOMCT> UNIT ORAL CONTRACEPTIVE</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">The Food and Drug Administration said
+	<field name = "content">The Food and Drug Administration said
 Monsanto Co's MCT> G.D. Searle and Co unit is voluntarily
 recalling all lots of its Gynex oral contraceptives.
     The FDA said some of the blister-pack cards that house the

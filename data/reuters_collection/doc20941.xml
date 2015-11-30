@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 16:34:49.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3082reute
-u f BC-MERRILL-LYNCH-MER>-C   10-19 0098</field>
-	<field name = "TITLE">MERRILL LYNCH MER> CONFIDENT IN MARKETS</field>
+	<field name = "titulo">MERRILL LYNCH MER> CONFIDENT IN MARKETS</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Merrill Lynch and Co Inc said it was
+	<field name = "content">Merrill Lynch and Co Inc said it was
 confident in the financial markets despite the unprecedented
 decline in the stock market.
     "America's economic system is the strongest in the world,

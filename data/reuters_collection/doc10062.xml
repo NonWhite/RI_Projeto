@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 13:48:02.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f2087reute
-d f AM-ANDERSON   03-26 0119</field>
-	<field name = "TITLE">FORMER TREASURY SECRETARY PLEADS GUILTY TO TAX EVASION</field>
+	<field name = "titulo">FORMER TREASURY SECRETARY PLEADS GUILTY TO TAX EVASION</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Former Secretary of the Treasury
+	<field name = "content">Former Secretary of the Treasury
 Robert Anderson, whom Dwight Eisenhower once said deserved to
 be president, pleaded guilty to income tax evason charges and
 illegally running an offshore bank.

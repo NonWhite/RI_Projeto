@@ -5,12 +5,9 @@
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
-	<field name = "UNKNOWN">RM AI
-f3080reute
-b f BC-NAKASONE-SAYS-DOLLAR   06-02 0066</field>
-	<field name = "TITLE">NAKASONE SAYS DOLLAR FALL ONLY TEMPORARY</field>
+	<field name = "titulo">NAKASONE SAYS DOLLAR FALL ONLY TEMPORARY</field>
 	<field name = "DATELINE">TOKYO, June 3 -</field>
-	<field name = "BODY">Prime Minister Yasuhiro Nakasone said the
+	<field name = "content">Prime Minister Yasuhiro Nakasone said the
 dollar's sharp fall against the yen overnight was only
 temporary.
     The dollar dropped sharply in New York after news that Paul

@@ -3,13 +3,10 @@
 	<field name = "TOPICS">lead</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lme</field>
-	<field name = "UNKNOWN">M
-f1024reute
-u f BC-LEAD-PRICES-RISE-ON-F   04-09 0112</field>
-	<field name = "TITLE">LEAD PRICES RISE ON FINELY BALANCED PHYSICALS</field>
+	<field name = "titulo">LEAD PRICES RISE ON FINELY BALANCED PHYSICALS</field>
 	<field name = "AUTHOR">By Donald Bradshaw, Reuters</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Lead prices have risen this week against
+	<field name = "content">Lead prices have risen this week against
 a background of a finely balanced physical sector, traders
 said.
     Further gains are possible if the USSR steps up its buying

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 12:05:01.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1693reute
-r f BC-PUNTA-GORDA-ISLES-PG   03-30 0093</field>
-	<field name = "TITLE">PUNTA GORDA ISLES PGI> SELLS PREFERRED STOCK</field>
+	<field name = "titulo">PUNTA GORDA ISLES PGI> SELLS PREFERRED STOCK</field>
 	<field name = "DATELINE">PUNTA GORDA, Fla., March 30 -</field>
-	<field name = "BODY">Punta Gorda Isles Inc PGA
+	<field name = "content">Punta Gorda Isles Inc PGA
 said it completed the sale of 1,875,000 shares of its Class A
 cumulative convertible preferred stock for 7,500,000 dlrs in
 cash at four dlrs per share.

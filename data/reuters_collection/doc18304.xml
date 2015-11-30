@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 16:48:59.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2665reute
-h f BC-DI-INDUSTRIES-FLORIDA   06-02 0101</field>
-	<field name = "TITLE">DI INDUSTRIES FLORIDA UNIT GETS WATER CONTRACT</field>
+	<field name = "titulo">DI INDUSTRIES FLORIDA UNIT GETS WATER CONTRACT</field>
 	<field name = "DATELINE">HOUSTON, June 2 -</field>
-	<field name = "BODY">Drillers Inc of Florida, a unit of DI
+	<field name = "content">Drillers Inc of Florida, a unit of DI
 Industries Inc>, formerly Drillers Inc DRL>, said it has
 received two separate contracts for water injection projects
 valued at 408,500 dlrs and 850,000 dlrs respectively.

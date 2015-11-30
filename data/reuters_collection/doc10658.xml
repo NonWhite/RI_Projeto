@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">sumita</field>
-	<field name = "UNKNOWN">RM
-f0120reute
-b f BC-SUMITA-SAYS-HE-DOES-N   03-29 0098</field>
-	<field name = "TITLE">SUMITA SAYS HE DOES NOT EXPECT FURTHER DOLLAR FALL</field>
+	<field name = "titulo">SUMITA SAYS HE DOES NOT EXPECT FURTHER DOLLAR FALL</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">Bank of Japan governor Satoshi Sumita
+	<field name = "content">Bank of Japan governor Satoshi Sumita
 said he does not expect the dollar to remain unstable and fall
 further.
     He told a Lower House Budget Committee in Parliament that

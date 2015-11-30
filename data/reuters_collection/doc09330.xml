@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 10:37:00.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1136reute
-d f BC-MINNTECH-MNTX>-GETS   03-25 0135</field>
-	<field name = "TITLE">MINNTECH MNTX> GETS MORE CASH FOR DEVELOPMENT</field>
+	<field name = "titulo">MINNTECH MNTX> GETS MORE CASH FOR DEVELOPMENT</field>
 	<field name = "DATELINE">MINNEAPOLIS, Minn., March 25 -</field>
-	<field name = "BODY">Minntech Corp, a medical
+	<field name = "content">Minntech Corp, a medical
 device manufacturer, said it has received an additional 175,000
 dlrs from C.R. Bard BCR> to develop and market an advanced
 membrane oxygenator for use in open heart surgery.

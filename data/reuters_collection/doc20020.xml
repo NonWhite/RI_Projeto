@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 03:26:57.39</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM 
-f0166reute
-u f BC-AQUINO-SAYS-MANILA-WA   10-20 0111</field>
-	<field name = "TITLE">AQUINO SAYS MANILA WATCHING INTEREST RATES CLOSELY</field>
+	<field name = "titulo">AQUINO SAYS MANILA WATCHING INTEREST RATES CLOSELY</field>
 	<field name = "DATELINE">MANILA, Oct 20 -</field>
-	<field name = "BODY">President Corazon Aquino said the
+	<field name = "content">President Corazon Aquino said the
 Philippines was closely monitoring interest rates in the wake
 of Monday's record drop on Wall Street and steep declines in
 Manila and other Asian stock markets.

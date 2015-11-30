@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:55:50.80</field>
-	<field name = "UNKNOWN">C G
-f0856reute
-u f BC-average-prices   04-07 0093</field>
-	<field name = "TITLE">NATIONAL AVERAGE PRICES FOR FARMER-OWNED RESERVE</field>
+	<field name = "titulo">NATIONAL AVERAGE PRICES FOR FARMER-OWNED RESERVE</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 reported the farmer-owned reserve national five-day average
 price through April 6 as follows (Dlrs/Bu-Sorghum Cwt) -
          Natl   Loan           Release   Call

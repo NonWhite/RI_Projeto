@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 04:48:27.24</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">kuwait</field>
-	<field name = "UNKNOWN">RM
-f0277reute
-u f BC-WINDOW-FOR-BANK-AID-I   06-01 0103</field>
-	<field name = "TITLE">WINDOW FOR BANK AID IN KUWAIT REMAINS SHUT</field>
+	<field name = "titulo">WINDOW FOR BANK AID IN KUWAIT REMAINS SHUT</field>
 	<field name = "DATELINE">KUWAIT, June 1 -</field>
-	<field name = "BODY">The Kuwait Central Bank kept its window
+	<field name = "content">The Kuwait Central Bank kept its window
 for funds to the domestic interbank deposit market shut as
 banks returned from a four day holiday, dealers said.
     The move drove short-term interest rates sharply higher,

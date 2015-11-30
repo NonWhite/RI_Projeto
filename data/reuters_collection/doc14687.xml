@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">GQ
-f2510reute
-r f BC-portland-grain-ships   04-07 0031</field>
-	<field name = "TITLE">GRAIN SHIPS LOADING AT PORTLAND</field>
+	<field name = "titulo">GRAIN SHIPS LOADING AT PORTLAND</field>
 	<field name = "DATELINE">PORTLAND, April 7 -</field>
-	<field name = "BODY">There were six grain ships loading and
+	<field name = "content">There were six grain ships loading and
 six ships were waiting to load at Portland, according to the
 Portland Merchants Exchange.
   

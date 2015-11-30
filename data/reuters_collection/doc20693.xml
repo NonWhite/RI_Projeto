@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 16:08:53.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3123reute
-r f BC-BURLINGTON-NORTHERN-   10-20 0084</field>
-	<field name = "TITLE">BURLINGTON NORTHERN BNI> TO REPURCHASE STOCK</field>
+	<field name = "titulo">BURLINGTON NORTHERN BNI> TO REPURCHASE STOCK</field>
 	<field name = "DATELINE">SEATTLE, Oct 20 -</field>
-	<field name = "BODY">Burlington Northern Inc said it plans to
+	<field name = "content">Burlington Northern Inc said it plans to
 repurchase up to five mln shares, or about seven pct of its
 common stock.
     The company, joining a number of others buying back their

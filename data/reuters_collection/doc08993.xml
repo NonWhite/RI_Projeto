@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 15:52:25.54</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2385reute
-r f BC-CANADIAN-AIRLINE-IN-B   03-24 0114</field>
-	<field name = "TITLE">CANADIAN AIRLINE IN BUY FROM BRITISH AEROSPACE</field>
+	<field name = "titulo">CANADIAN AIRLINE IN BUY FROM BRITISH AEROSPACE</field>
 	<field name = "DATELINE">TORONTO, March 24 -</field>
-	<field name = "BODY">Pacific Western Airlines Corp>'s new
+	<field name = "content">Pacific Western Airlines Corp>'s new
 Canadian Airlines International Ltd unit said it ordered six
 new Jetstream 31 airplanes and took options on six more from
 British Aerospace Inc, with delivery starting May 1.

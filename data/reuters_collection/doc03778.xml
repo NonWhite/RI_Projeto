@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 12:46:36.41</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0921reute
-r f BC-BELGIAN-MINISTER-UNVE   03-11 0120</field>
-	<field name = "TITLE">BELGIAN MINISTER UNVEILS PRIVATISATION PLAN</field>
+	<field name = "titulo">BELGIAN MINISTER UNVEILS PRIVATISATION PLAN</field>
 	<field name = "DATELINE">BRUSSELS, March 11 -</field>
-	<field name = "BODY">Belgian Budget Minister Guy
+	<field name = "content">Belgian Budget Minister Guy
 Verhofstadt has proposed a plan to sell off shares in several
 state-owned enterprises, including national airline Sabena and
 the postal and telecommunications authority, government sources

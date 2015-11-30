@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 17:03:03.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2699reute
-h f BC-MOBIL-MOB>-POSTPONES   03-26 0061</field>
-	<field name = "TITLE">MOBIL MOB> POSTPONES HIGHRISE DEVELOPMENT</field>
+	<field name = "titulo">MOBIL MOB> POSTPONES HIGHRISE DEVELOPMENT</field>
 	<field name = "DATELINE">CHICAGO, March 26 -</field>
-	<field name = "BODY">Mobil Corp said its plans to erect a
+	<field name = "content">Mobil Corp said its plans to erect a
 72-story office building in downtown Chicago at the site once
 occupied by a Montgomery Ward department store have been
 postponed.

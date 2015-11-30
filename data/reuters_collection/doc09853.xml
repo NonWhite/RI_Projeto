@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 09:34:39.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0983reute
-r f BC-ESSEX-CHEMICAL-ESX>   03-26 0100</field>
-	<field name = "TITLE">ESSEX CHEMICAL ESX> SELLS CONVERTIBLE DEBT</field>
+	<field name = "titulo">ESSEX CHEMICAL ESX> SELLS CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Essex Chemical Corp is raising 60 mln
+	<field name = "content">Essex Chemical Corp is raising 60 mln
 dlrs via an offering of convertible subordinated debentures due
 2012 with a six pct coupon and par pricing, said lead manager
 Thomson McKinnon Securities Inc.

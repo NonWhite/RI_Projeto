@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 14:12:32.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2169reute
-r f BC-CUMMIN-NAMED-CHAIRMAN   03-30 0100</field>
-	<field name = "TITLE">CUMMIN NAMED CHAIRMAN OF PHLCORP PHX></field>
+	<field name = "titulo">CUMMIN NAMED CHAIRMAN OF PHLCORP PHX></field>
 	<field name = "DATELINE">PHILADELPHIA, March 30 -</field>
-	<field name = "BODY">PHLCorp said its shareholders
+	<field name = "content">PHLCorp said its shareholders
 elected Ian M. Cumming as chairman, succeeding Victor H.
 Palmieri, and Joseph S. Steinberg as president, succeeding
 Peter A. Martosella.

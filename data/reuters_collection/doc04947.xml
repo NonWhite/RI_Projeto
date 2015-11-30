@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 14:00:27.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0022reute
-d f BC-FORMER-SANTA-FE-EXEC   03-13 0083</field>
-	<field name = "TITLE">FORMER SANTA FE EXEC ADMITS INSIDER TRADING</field>
+	<field name = "titulo">FORMER SANTA FE EXEC ADMITS INSIDER TRADING</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">Darius N. Keaton, former member of the
+	<field name = "content">Darius N. Keaton, former member of the
 board of Santa Fe International Corp>, pleaded guilty to an
 insider trading scheme that netted him 274,800 dlrs in profit.
     In Manhattan Federal Court, Keaton pleaded guilty to

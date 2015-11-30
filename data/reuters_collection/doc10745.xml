@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 06:08:09.95</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM
-f0478reute
-r f BC-SINGAPORE-M-1-MONEY-S   03-30 0097</field>
-	<field name = "TITLE">SINGAPORE M-1 MONEY SUPPLY 2.7 PCT UP IN JANUARY</field>
+	<field name = "titulo">SINGAPORE M-1 MONEY SUPPLY 2.7 PCT UP IN JANUARY</field>
 	<field name = "DATELINE">SINGAPORE, March 30 -</field>
-	<field name = "BODY">Singapore's M-1 money supply  rose
+	<field name = "content">Singapore's M-1 money supply  rose
 2.7 pct in January to 10.09 billion Singapore dlrs after a 3.7
 pct increase in December, the Monetary Authority of Singapore
 said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 17:55:02.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2623reute
-r f BC-TEXAS-AIR-TEX>-UNIT   03-20 0116</field>
-	<field name = "TITLE">TEXAS AIR TEX> UNIT SELLS EQUIPMENT-BACKED DEBT</field>
+	<field name = "titulo">TEXAS AIR TEX> UNIT SELLS EQUIPMENT-BACKED DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Continental Airlines Inc, a unit of
+	<field name = "content">Continental Airlines Inc, a unit of
 Texas Air Corp, is offering 350 mln dlrs of equipment-backed
 debt securities in three tranches and another 150 mln dlrs of
 senior notes due 1997, said lead manager Drexel Burnham.

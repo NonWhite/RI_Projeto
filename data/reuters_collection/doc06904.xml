@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">Y
-f9680reute
-u f BC-ARGENTINE-OIL,-GAS-PR   03-18 0113</field>
-	<field name = "TITLE">ARGENTINE OIL, GAS PRODUCTION FALL IN FEBRUARY</field>
+	<field name = "titulo">ARGENTINE OIL, GAS PRODUCTION FALL IN FEBRUARY</field>
 	<field name = "DATELINE">BUENOS AIRES, March 18 -</field>
-	<field name = "BODY">Argentina's total oil and gas
+	<field name = "content">Argentina's total oil and gas
 production fell 9.4 pct in February to 2.78 mln cubic metres
 from January's total of 3.11 mln cubic metres, the state oil
 company Yacimientos Petroliferos Fiscales (YPF) reported.

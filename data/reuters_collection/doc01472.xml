@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 10:22:28.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0353reute
-r f BC-POPE-AND-TALBOT-POP>   03-04 0099</field>
-	<field name = "TITLE">POPE AND TALBOT POP> SELLS CONVERTIBLE DEBT</field>
+	<field name = "titulo">POPE AND TALBOT POP> SELLS CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 4 -</field>
-	<field name = "BODY">Pope and Talbot Inc is raising 40 mln
+	<field name = "content">Pope and Talbot Inc is raising 40 mln
 dlrs via an offering of convertible subordinated debentures due
 2012 with a six pct coupon and par pricing, said sole manager
 Bear, Stearns and Co.

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 15:09:41.16</field>
 	<field name = "TOPICS">potato</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2196reute
-u f BC-USDA-SPRING-POTATO-ES   04-09 0082</field>
-	<field name = "TITLE">USDA SPRING POTATO ESTIMATES</field>
+	<field name = "titulo">USDA SPRING POTATO ESTIMATES</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 estimated 1987 spring potato production, based on April 1
 conditions, at 19,267,000 cwts (100 lbs), vs 19,822,000 cwts
 indicated last year.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:19:25.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2550reute
-d f BC-BANCTEC-BTEC>-GETS-L   03-26 0055</field>
-	<field name = "TITLE">BANCTEC BTEC> GETS LARGEST ORDER EVER</field>
+	<field name = "titulo">BANCTEC BTEC> GETS LARGEST ORDER EVER</field>
 	<field name = "DATELINE">DALLAS, March 26 -</field>
-	<field name = "BODY">BancTec Inc said it received an order
+	<field name = "content">BancTec Inc said it received an order
 for image processing equipment valued at six mln dlrs, its
 largest order ever.
     BancTec said the order, expected to be shipped during the

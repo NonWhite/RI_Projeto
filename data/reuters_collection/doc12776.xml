@@ -2,13 +2,10 @@
 	<field name = "DATE">3-APR-1987 05:52:39.89</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "EXCHANGES">bse</field>
-	<field name = "UNKNOWN">F
-f0386reute
-u f BC-BELGIAN-BOURSE-PREPAR   04-03 0116</field>
-	<field name = "TITLE">BELGIAN BOURSE PREPARES FOR SECOND BIG FLOTATION</field>
+	<field name = "titulo">BELGIAN BOURSE PREPARES FOR SECOND BIG FLOTATION</field>
 	<field name = "AUTHOR">By Gerrard Raven, Reuters</field>
 	<field name = "DATELINE">BRUSSELS, April 3 -</field>
-	<field name = "BODY">Investors on the Brussels bourse who
+	<field name = "content">Investors on the Brussels bourse who
 flocked to participate in the flotation of shares in glassmaker
 Glaverbel SA> may be rather more cautious when the offer of
 three million new shares in Belgian sugar refiner La

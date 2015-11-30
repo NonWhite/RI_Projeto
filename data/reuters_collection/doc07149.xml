@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">herrington</field>
-	<field name = "UNKNOWN">C
-f1174reute
-r f BC-U.S.-ENERGY-SECRETARY   03-19 0093</field>
-	<field name = "TITLE">U.S. ENERGY SECRETARY RULES OUT GASOLINE TAX</field>
+	<field name = "titulo">U.S. ENERGY SECRETARY RULES OUT GASOLINE TAX</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">Energy Secretary John Herrington
+	<field name = "content">Energy Secretary John Herrington
 said he would rule out a tax on gasoline as one option to help
 avert what his departmet has called the threat of increased
 reliance on foreign oil in the coming years.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:45:04.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f1924reute
-r f BC-AIM-TELEPHONES-AIMT>   03-25 0055</field>
-	<field name = "TITLE">AIM TELEPHONES AIMT> SELLS DEBT TO SHAREHOLDER</field>
+	<field name = "titulo">AIM TELEPHONES AIMT> SELLS DEBT TO SHAREHOLDER</field>
 	<field name = "DATELINE">FAIRFIELD, N.J., March 25 -</field>
-	<field name = "BODY">AIM Telephones Inc said it has
+	<field name = "content">AIM Telephones Inc said it has
 sold three mln dlrs of nine pct seven-year subordinated notes
 to principal shareholder Quince Associates>.
     The company said it has also issued Quince seven-year

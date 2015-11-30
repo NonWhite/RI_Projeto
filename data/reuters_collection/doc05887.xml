@@ -2,13 +2,10 @@
 	<field name = "DATE">17-MAR-1987 08:47:38.36</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f4779reute
-r f BC-TALKING-POINT/COPPER   03-17 0101</field>
-	<field name = "TITLE">TALKING POINT/COPPER STOCKS</field>
+	<field name = "titulo">TALKING POINT/COPPER STOCKS</field>
 	<field name = "AUTHOR">By Steven Radwell, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Copper shares, which have lagged
+	<field name = "content">Copper shares, which have lagged
 behind the market, should pick up steam this year on stronger
 demand and improving prices for the metal, analysts said.
     "Copper prices should move up over the next four to six

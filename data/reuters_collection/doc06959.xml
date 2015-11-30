@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">G C
-f0065reute
-u f BC-AUSTRALIAN-WHEAT-BOAR   03-19 0084</field>
-	<field name = "TITLE">AUSTRALIAN WHEAT BOARD RENEWS JAPAN SUPPLY PACT</field>
+	<field name = "titulo">AUSTRALIAN WHEAT BOARD RENEWS JAPAN SUPPLY PACT</field>
 	<field name = "DATELINE">MELBOURNE, March 19 -</field>
-	<field name = "BODY">The Australian Wheat Board (AWB)
+	<field name = "content">The Australian Wheat Board (AWB)
 expects to sell about 900,000 tonnes of wheat to the Japanese
 Food Agency this year after renewing its annual supply
 agreement, AWB general manager Ron Paice said.

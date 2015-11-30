@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 16:29:49.36</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0781reute
-r f BC-omnibus-computer-loan   03-04 0061</field>
-	<field name = "TITLE">OMNIBUS COMPUTER LOAN NOT CALLED</field>
+	<field name = "titulo">OMNIBUS COMPUTER LOAN NOT CALLED</field>
 	<field name = "DATELINE">TORONTO, March 4 -</field>
-	<field name = "BODY">Omnibus Computer Graphics Inc>, which
+	<field name = "content">Omnibus Computer Graphics Inc>, which
 earlier said it is in default of certain provisions of its line
 of credit, said its Canadian banker has indicated a willingness
 to work with the company and has not called Omnibus' loan.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 10:35:10.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1073reute
-u f BC-AMAX-AMX>-FILES-TO-O   03-20 0034</field>
-	<field name = "TITLE">AMAX AMX> FILES TO OFFER 15.8 MLN SHARES</field>
+	<field name = "titulo">AMAX AMX> FILES TO OFFER 15.8 MLN SHARES</field>
 	<field name = "DATELINE">GREENWICH, Conn., March 20 -</field>
-	<field name = "BODY">AMAX Inc said it has filed for
+	<field name = "content">AMAX Inc said it has filed for
 an offering of 15,757,350 common shares, including 757,300 to
 be sold by Mitsui and Co Ltd MITSY>.
     AMAX said it will offer 12,607,350 shares in the U.S.

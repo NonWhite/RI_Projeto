@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 11:27:03.68</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0640reute
-r f BC-UNITRODE-CORP-UTR>-4   03-04 0051</field>
-	<field name = "TITLE">UNITRODE CORP UTR> 4TH QTR JAN 31 LOSS</field>
+	<field name = "titulo">UNITRODE CORP UTR> 4TH QTR JAN 31 LOSS</field>
 	<field name = "DATELINE">LEXINGTON, Mass., March 4 -</field>
-	<field name = "BODY">Shr loss 13 cts vs profit 10 cts
+	<field name = "content">Shr loss 13 cts vs profit 10 cts
     Net loss 1,804,062 vs profit 1,370,063
     Revs 33.5 mln vs 40.4 mln
     12 mths

@@ -6,12 +6,9 @@
 	<field name = "TOPICS">heat</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">ipe</field>
-	<field name = "UNKNOWN">C G L M T
-f0409reute
-d f BC-LCE-AND-IPE-ELECT-FIR   03-09 0113</field>
-	<field name = "TITLE">LCE AND IPE ELECT FIRST TRADED OPTIONS MEMBERS</field>
+	<field name = "titulo">LCE AND IPE ELECT FIRST TRADED OPTIONS MEMBERS</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">The first 23 members have been elected to
+	<field name = "content">The first 23 members have been elected to
 the joint traded options facility of the London Commodity
 Exchange (LCE) and the International Petroleum exchange (IPE),
 the exchanges said in a statement.

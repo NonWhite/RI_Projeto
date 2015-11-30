@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 10:06:18.99</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5034reute
-r f BC-MEMORY-PROTECTION-MP   03-17 0086</field>
-	<field name = "TITLE">MEMORY PROTECTION MPDI> SEES BOGEN CLOSING</field>
+	<field name = "titulo">MEMORY PROTECTION MPDI> SEES BOGEN CLOSING</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Memory Protection Devices Inc said it
+	<field name = "content">Memory Protection Devices Inc said it
 expects to close the previously announced acquisition of the
 assets and liabilities of Bogen, a division of Lear Siegler
 Inc>, on April one.

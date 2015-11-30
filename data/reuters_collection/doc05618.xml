@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 14:51:17.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3344reute
-r f BC-SYSTEMHOUSE-INC-SHKI   03-16 0055</field>
-	<field name = "TITLE">SYSTEMHOUSE INC SHKIF> WINS CONTRACT</field>
+	<field name = "titulo">SYSTEMHOUSE INC SHKIF> WINS CONTRACT</field>
 	<field name = "DATELINE">LOS ANGELES, March 16 -</field>
-	<field name = "BODY">Systemhouse Inc said it has been
+	<field name = "content">Systemhouse Inc said it has been
 awarded a 12 mln dlr contract by the County of Los Angeles to
 design and develop its integrated County Justice Information
 System.

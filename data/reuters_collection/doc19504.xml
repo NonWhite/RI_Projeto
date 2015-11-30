@@ -4,12 +4,9 @@
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "PEOPLE">hisham-nazer</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y 
-f0199reute
-u f BC-SAUDI-OIL-COMPANY-GET   06-29 0089</field>
-	<field name = "TITLE">SAUDI OIL COMPANY GETS NEW ACTING GOVERNOR</field>
+	<field name = "titulo">SAUDI OIL COMPANY GETS NEW ACTING GOVERNOR</field>
 	<field name = "DATELINE">RIYADH, June 29 -</field>
-	<field name = "BODY">The acting governor of Saudi Arabia's
+	<field name = "content">The acting governor of Saudi Arabia's
 state-owned oil company, Petromin, Jamal Hassan Jawa, has
 retired at his own request, oil industry sources said.
     They said Ali Ibrahim Rubaishi, head of organisation

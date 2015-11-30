@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 11:45:29.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f1408reute
-u f BC-DUFF/PHELPS-LOWERS-DE   03-20 0108</field>
-	<field name = "TITLE">DUFF/PHELPS LOWERS DELMARVA POWER AND LIGHTDEW></field>
+	<field name = "titulo">DUFF/PHELPS LOWERS DELMARVA POWER AND LIGHTDEW></field>
 	<field name = "DATELINE">CHICAGO, March 20 -</field>
-	<field name = "BODY">Duff and Phelps said it lowered its
+	<field name = "content">Duff and Phelps said it lowered its
 rating on Delmarva Power and Light Co first mortgage bonds to
 DP-3 (middle AA) from DP-2 (high AA) and on preferred stock to
 DP-4 (low AA) from DP-3, affecting approximately 646 mln dlrs

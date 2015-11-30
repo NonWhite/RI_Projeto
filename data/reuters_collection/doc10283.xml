@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 00:09:53.77F</field>
-	<field name = "UNKNOWN">f0012reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">b f BC-THE-BROKEN-HILL-PTY-C   03-27 0048</field>
-	<field name = "TITLE">THE BROKEN HILL PTY CO LTD BRKN.S> NINE MONTHS</field>
+	<field name = "titulo">THE BROKEN HILL PTY CO LTD BRKN.S> NINE MONTHS</field>
 	<field name = "DATELINE">MELBOURNE, March 27 -</field>
-	<field name = "BODY">First nine months ended Feb 28
+	<field name = "content">First nine months ended Feb 28
     Shr 47.4 cents vs 65.2
     Net 603.0 mln dlrs vs 813.0 mln
     Sales 6.52 billion vs 6.53 billion

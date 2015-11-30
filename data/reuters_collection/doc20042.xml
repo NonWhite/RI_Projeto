@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 05:06:25.13</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI 
-f0308reute
-u f BC-BANK-OF-JAPAN-SEES-ST   10-20 0114</field>
-	<field name = "TITLE">BANK OF JAPAN SEES STEADY ECONOMIC RECOVERY</field>
+	<field name = "titulo">BANK OF JAPAN SEES STEADY ECONOMIC RECOVERY</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">The Japanese economy is firmly on the
+	<field name = "content">The Japanese economy is firmly on the
 recovery path, supported by robust domestic demand, the Bank of
 Japan said in a regular monthly report.
     The report said industrial production is strengthening as

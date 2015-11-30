@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:23:46.79</field>
-	<field name = "UNKNOWN">RM
-f1556reute
-b f BC-LONDON-EXCHANGES---SD   04-07 0050</field>
-	<field name = "TITLE">LONDON EXCHANGES - SDR CALCULATION</field>
+	<field name = "titulo">LONDON EXCHANGES - SDR CALCULATION</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">The following information
+	<field name = "content">The following information
  has been advised by the Bank of England to the
  International Monetary Fund in Washington to
  enable calculation of the value of the SDR -

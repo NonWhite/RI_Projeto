@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 08:20:25.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0134
-reute
-r f BC-PRE-PAID-LEGAL-PPD>   03-03 0102</field>
-	<field name = "TITLE">PRE-PAID LEGAL PPD> GETS I.C.H. ICH> FINANCING</field>
+	<field name = "titulo">PRE-PAID LEGAL PPD> GETS I.C.H. ICH> FINANCING</field>
 	<field name = "DATELINE">ADA, Okla., March 3 -</field>
-	<field name = "BODY">Pre-Paid Legal Services Inc said it
+	<field name = "content">Pre-Paid Legal Services Inc said it
 has signed a letter of intent under which it would receive
 financing from I.C.H. Corp.
     The company said under the proposed transaction I.C.H.

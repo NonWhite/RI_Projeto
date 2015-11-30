@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 08:26:32.47</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0656reute
-b f BC-ITALY'S-FEBRUARY-PAYM   03-19 0085</field>
-	<field name = "TITLE">ITALY'S FEBRUARY PAYMENTS BALANCE IN SURPLUS</field>
+	<field name = "titulo">ITALY'S FEBRUARY PAYMENTS BALANCE IN SURPLUS</field>
 	<field name = "DATELINE">ROME, March 19 -</field>
-	<field name = "BODY">Italy's overall balance of payments showed
+	<field name = "content">Italy's overall balance of payments showed
 a surplus of 1,461 billion lire in February 1987 compared with
 a deficit of 1,145 billion in January, provisional Bank of
 Italy figures show.

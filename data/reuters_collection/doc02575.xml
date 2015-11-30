@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0133reute
-b f BC-U.K.-MONEY-MARKET-GET   03-06 0092</field>
-	<field name = "TITLE">U.K. MONEY MARKET GETS 350 MLN STG AFTERNOON HELP</field>
+	<field name = "titulo">U.K. MONEY MARKET GETS 350 MLN STG AFTERNOON HELP</field>
 	<field name = "DATELINE">LONDON, March 6 -</field>
-	<field name = "BODY">The Bank of England said it provided
+	<field name = "content">The Bank of England said it provided
 assistance worth 350 mln stg during the afternoon session which
 takes total help so far today to 446 mln stg against a shortage
 estimated at around 550 mln stg.

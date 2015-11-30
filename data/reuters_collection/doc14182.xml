@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:48:24.77</field>
-	<field name = "UNKNOWN">G
-f1381reute
-u f BC-LONDON-OILS/SEEDS-CLO   04-07 0095</field>
-	<field name = "TITLE">LONDON OILS/SEEDS CLOSE QUIETLY MIXED</field>
+	<field name = "titulo">LONDON OILS/SEEDS CLOSE QUIETLY MIXED</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Oils and oilseeds traded quietly this
+	<field name = "content">Oils and oilseeds traded quietly this
 afternoon and price movements were marginally mixed.
     Dutch soyoil showed small gains with support coming from
 early mark-ups in Chicago soyoil futures.

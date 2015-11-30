@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 13:19:38.07</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L M T
-f1959reute
-u f BC-U.S.-FEBRUARY-TRADE-T   04-13 0072</field>
-	<field name = "TITLE">U.S. FEBRUARY TRADE TO BE REPORTED ON NEW BASIS</field>
+	<field name = "titulo">U.S. FEBRUARY TRADE TO BE REPORTED ON NEW BASIS</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">The February monthly merchandise
+	<field name = "content">The February monthly merchandise
 trade figures to be reported Tuesday by the Commerce Department
 will be on a new basis reflecting more recent data, so avoiding
 future revisions of the monthly figure, Commerce officials

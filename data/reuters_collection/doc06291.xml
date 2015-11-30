@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 16:41:21.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6578reute
-w f BC-CONTINENTAL,-EASTERN   03-17 0091</field>
-	<field name = "TITLE">CONTINENTAL, EASTERN EAL> COMBINE PROGRAMS</field>
+	<field name = "titulo">CONTINENTAL, EASTERN EAL> COMBINE PROGRAMS</field>
 	<field name = "DATELINE">HOUSTON, March 17 -</field>
-	<field name = "BODY">Texas Air Corp's Continental Airlines
+	<field name = "content">Texas Air Corp's Continental Airlines
 and Eastern Air Lines said they will combine their frequent
 flyer programs in late April.
     Frequent flyer members will begin receiving one monthly

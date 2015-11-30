@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 16:50:10.88</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0837reute
-s f BC-LOUISVILLE-GAS-AND-EL   03-04 0024</field>
-	<field name = "TITLE">LOUISVILLE GAS AND ELECTRIC CO LOU> DIVIDEND</field>
+	<field name = "titulo">LOUISVILLE GAS AND ELECTRIC CO LOU> DIVIDEND</field>
 	<field name = "DATELINE">LOUISVILLE, Ky., March 4 -</field>
-	<field name = "BODY">Qtly dividend 65 cts vs 65 cts
+	<field name = "content">Qtly dividend 65 cts vs 65 cts
     Pay April 15
     Record March 31
  Reuter</field>

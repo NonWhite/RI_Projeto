@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 16:20:42.10</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2428reute
-u f BC-PUROLATOR   04-01 0101</field>
-	<field name = "TITLE">EMERY EAF> PLANS PUROLATOR PCC> ASSET SALES</field>
+	<field name = "titulo">EMERY EAF> PLANS PUROLATOR PCC> ASSET SALES</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">Emery Air Frieght Corp, which has
+	<field name = "content">Emery Air Frieght Corp, which has
 launched a 40 dlr a share tender offer for 83 pct of Purolator
 Courier Corp, said it would sell some Purolator assets to help
 pay the estimated 265 mln dlr cost of the stock purchase deal.

@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 04:05:25.22F</field>
-	<field name = "UNKNOWN">f0214reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">u f BC-MITSUBISHI-BUYS-INTO   03-27 0106</field>
-	<field name = "TITLE">MITSUBISHI BUYS INTO DANISH DAIRY PRODUCT FIRM</field>
+	<field name = "titulo">MITSUBISHI BUYS INTO DANISH DAIRY PRODUCT FIRM</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Mitsubishi Corp MITT.TOK> said it has
+	<field name = "content">Mitsubishi Corp MITT.TOK> said it has
 taken a 25 pct stake worth five mln krone in Danish Dairy
 Farms Ltd> and will jointly market its produce from April.
     The company was set up last year by three major Danish

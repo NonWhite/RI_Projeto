@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 11:50:55.18</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1491reute
-b f BC-MACANDREWS/FORBES-UNI   04-01 0110</field>
-	<field name = "TITLE">MACANDREWS/FORBES BEGINS REVLON REV> OFFER</field>
+	<field name = "titulo">MACANDREWS/FORBES BEGINS REVLON REV> OFFER</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">MacAndrews and Forbes Group Inc said it
+	<field name = "content">MacAndrews and Forbes Group Inc said it
 began an 18.50-dlr-a-share cash offer for all common stock of
 Revlon Group Inc it does not already own.
     The offer, which is being made by a wholly owned

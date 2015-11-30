@@ -5,12 +5,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">rapeseed</field>
 	<field name = "PLACES">poland</field>
-	<field name = "UNKNOWN">G 
-f0478reute
-r f BC-POLISH-FARM-PRICES-AN   06-29 0114</field>
-	<field name = "TITLE">POLISH FARM PRICES AND COSTS TO RISE FROM JULY</field>
+	<field name = "titulo">POLISH FARM PRICES AND COSTS TO RISE FROM JULY</field>
 	<field name = "DATELINE">WARSAW, June 29 -</field>
-	<field name = "BODY">Polish farmers will receive price rises
+	<field name = "content">Polish farmers will receive price rises
 ranging from 13.4 pct for some crops to 23.3 pct for meat from
 July 1, the Finance and Agriculture ministries said.
     The state procurement price for rape will rise 13.4 pct to

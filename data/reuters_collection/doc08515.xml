@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">iraq</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">C M
-f2393reute
-r f AM-GULF-IRAQ 1STLD  03-23 0124</field>
-	<field name = "TITLE">IRAQ REPORTS ATTACKS ON SUPERTANKER, OIL TARGETS</field>
+	<field name = "titulo">IRAQ REPORTS ATTACKS ON SUPERTANKER, OIL TARGETS</field>
 	<field name = "DATELINE">BAGHDAD, March 23 -</field>
-	<field name = "BODY">Iraq said its warplanes had attacked a
+	<field name = "content">Iraq said its warplanes had attacked a
 supertanker and four Iranian oil sites and vowed to keep up
 such raids until the Gulf war ends.
     The surprise escalation of attacks on oil installations

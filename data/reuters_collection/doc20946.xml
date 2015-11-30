@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 16:30:05.31</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3072reute
-r f BC-CTS-CORP-CTS>-3RD-QT   10-19 0054</field>
-	<field name = "TITLE">CTS CORP CTS> 3RD QTR OPER NET</field>
+	<field name = "titulo">CTS CORP CTS> 3RD QTR OPER NET</field>
 	<field name = "DATELINE">ELKHART, Ind., Oct 19 -</field>
-	<field name = "BODY">Oper shr profit 62 cts vs profit seven cts
+	<field name = "content">Oper shr profit 62 cts vs profit seven cts
     Oper net profit 3,492,000 vs profit 401,000
     Revs 62.8 mln vs 62.0 mln
     Nine mths

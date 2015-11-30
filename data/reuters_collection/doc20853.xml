@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 22:38:24.51</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI 
-f3731reute
-b f BC-BANK-OF-JAPAN-BUYS-20   10-20 0105</field>
-	<field name = "TITLE">BANK OF JAPAN BUYS 200 BILLION YEN OF BILLS</field>
+	<field name = "titulo">BANK OF JAPAN BUYS 200 BILLION YEN OF BILLS</field>
 	<field name = "DATELINE">TOKYO, Oct 21 -</field>
-	<field name = "BODY">The Bank of Japan reassured a nervous money
+	<field name = "content">The Bank of Japan reassured a nervous money
 market after the sharp fall in Tokyo stock prices yesterday by
 conducting a 200 billion yen commercial bill purchase
 operation, money traders said.

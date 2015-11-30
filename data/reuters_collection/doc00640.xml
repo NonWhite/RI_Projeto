@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:43:40.15</field>
-	<field name = "UNKNOWN">F
-f0571
-reute
-d f BC-MOLECULAR-BIOSYSTEMS   03-02 0073</field>
-	<field name = "TITLE">MOLECULAR BIOSYSTEMS MOBI> OFFERS NEW PRODUCTS</field>
+	<field name = "titulo">MOLECULAR BIOSYSTEMS MOBI> OFFERS NEW PRODUCTS</field>
 	<field name = "DATELINE">ATLANTA, March 2 -</field>
-	<field name = "BODY">Molecular Biosystems Inc said it
+	<field name = "content">Molecular Biosystems Inc said it
 announced new SNAP DNA Probe Kits for the detection of
 rotavirus and malaria.
     The company said it also introduced the Extractor, a new

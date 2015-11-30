@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:36:49.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1477reute
-d f BC-DATA-I/O-DAIO>-HAS-S   04-08 0070</field>
-	<field name = "TITLE">DATA I/O DAIO> HAS SOFTWARE FOR MOSAIC SYSTEMS</field>
+	<field name = "titulo">DATA I/O DAIO> HAS SOFTWARE FOR MOSAIC SYSTEMS</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Data I/O Corp said it unveiled a
+	<field name = "content">Data I/O Corp said it unveiled a
 software package that helps engineers design complex integrated
 circuits that fit on circuit boards built by Mosaic Systems
 Inc>.

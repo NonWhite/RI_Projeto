@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 09:12:14.20</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0844reute
-u f BC-GREAT-WESTERN-GWF>-S   03-24 0090</field>
-	<field name = "TITLE">GREAT WESTERN GWF> SELLS INSURANCE UNIT</field>
+	<field name = "titulo">GREAT WESTERN GWF> SELLS INSURANCE UNIT</field>
 	<field name = "DATELINE">BEVERLY HILLS, Calif., March 24 -</field>
-	<field name = "BODY">Great Western Financial
+	<field name = "content">Great Western Financial
 Corp said it agreed to sell its John Alden Life Insurance Co
 and its affiliated operations for 280 mln dlrs to a
 newly-formed company onwed by the John Alden Management Group.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 10:45:48.11</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">E F
-f2289reute
-h f BC-AC-TELECONNECT-ACCC>   03-16 0059</field>
-	<field name = "TITLE">AC TELECONNECT ACCC> ADDS CANADA PHONE SERVICE</field>
+	<field name = "titulo">AC TELECONNECT ACCC> ADDS CANADA PHONE SERVICE</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., March 16 -</field>
-	<field name = "BODY">AC Teleconnect Corp's unit, ACC
+	<field name = "content">AC Teleconnect Corp's unit, ACC
 Long Distance Corp, said customers in Binghamton, Buffalo,
 Rochester and Syracuse, N.Y., will be able to place calls to
 Canada.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 18:06:45.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2620reute
-r f BC-CHEVRON-CHV>-LAUNCHE   04-07 0094</field>
-	<field name = "TITLE">CHEVRON CHV> LAUNCHES PLATFORM OFF CALIFORNIA</field>
+	<field name = "titulo">CHEVRON CHV> LAUNCHES PLATFORM OFF CALIFORNIA</field>
 	<field name = "DATELINE">VENTURA, Calif., April 7 -</field>
-	<field name = "BODY">Chevron Corp's Chevron U.S.A.
+	<field name = "content">Chevron Corp's Chevron U.S.A.
 Inc said it has begun the installation of an oil drilling
 platform, called Platform Gail, in the Sockeye field, located
 in federal waters in the Santa Barbara Channel offshore

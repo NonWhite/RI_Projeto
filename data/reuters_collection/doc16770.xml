@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 05:14:06.70</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0088reute
-u f BC-FRENCH-CORPORATE-BANK   04-17 0086</field>
-	<field name = "TITLE">FRENCH CORPORATE BANKRUPTCIES RISE IN MARCH</field>
+	<field name = "titulo">FRENCH CORPORATE BANKRUPTCIES RISE IN MARCH</field>
 	<field name = "DATELINE">PARIS, April 17 -</field>
-	<field name = "BODY">French corporate bankruptcies rose to a
+	<field name = "content">French corporate bankruptcies rose to a
 seasonally-adjusted 2,857 last month from 2,631 in February and
 2,572 in March 1986, the National Statistics Institute (INSEE)
 said.

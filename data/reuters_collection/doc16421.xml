@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 12:12:36.40</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1650reute
-d f BC-MICRO-GENERAL-CORP-M   04-13 0061</field>
-	<field name = "TITLE">MICRO GENERAL CORP MGEN.O> 4TH QTR LOSS</field>
+	<field name = "titulo">MICRO GENERAL CORP MGEN.O> 4TH QTR LOSS</field>
 	<field name = "DATELINE">IRVINE, Calif., April 13 -</field>
-	<field name = "BODY">Period ended December 28.
+	<field name = "content">Period ended December 28.
     Shr nil vs loss six cts
     Net loss 6,319 vs loss 265,651
     Revs 1,117,778 vs 1,090,001

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 10:23:55.36</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f1024reute
-b f BC-ACCORD-SAID-IN-SIGHT   03-19 0094</field>
-	<field name = "TITLE">ACCORD SAID IN SIGHT IN BRAZIL SEAMEN'S STRIKE</field>
+	<field name = "titulo">ACCORD SAID IN SIGHT IN BRAZIL SEAMEN'S STRIKE</field>
 	<field name = "DATELINE">SAO PAULO, March 19 -</field>
-	<field name = "BODY">An accord is in sight in Brazil's
+	<field name = "content">An accord is in sight in Brazil's
 20-day-old national seamen's strike, which has seriously
 delayed exports, a union official said.
     The official, speaking from strike headquarters in Rio de

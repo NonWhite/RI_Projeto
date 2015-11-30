@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 18:48:35.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2693reute
-u f AM-ARMS-KAMPELMAN   03-20 0112</field>
-	<field name = "TITLE">U.S. ARMS NEGOTIATOR SAID TO HAVE HEART ATTACK</field>
+	<field name = "titulo">U.S. ARMS NEGOTIATOR SAID TO HAVE HEART ATTACK</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">U.S. arms negotiator Max Kampelman
+	<field name = "content">U.S. arms negotiator Max Kampelman
 suffered a mild heart attack, an aide said.
     Nancy Tackett, Kampleman's staff assistant, told Reuters
 Kampelman was doing well and was expected to leave George

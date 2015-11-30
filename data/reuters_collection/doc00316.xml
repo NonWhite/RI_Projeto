@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 05:57:58.95</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0949
-reute
-u f BC-ESTIMATED-DROP-IN-JAP   03-02 0112</field>
-	<field name = "TITLE">ESTIMATED DROP IN JAPAN CORPORATE PROFITS TRIMMED</field>
+	<field name = "titulo">ESTIMATED DROP IN JAPAN CORPORATE PROFITS TRIMMED</field>
 	<field name = "DATELINE">TOKYO, March 2 -</field>
-	<field name = "BODY">The combined profits of Japan's major
+	<field name = "content">The combined profits of Japan's major
 corporations, excluding financial institutions, are forecast to
 fall 19.2 pct in the 1986/87 year ending March 31, compared to
 the 19.9 pct decline projected in late November, Wako Research

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:42:40.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0772reute
-u f BC-AMERICAN-ADVENTURE-G   03-03 0072</field>
-	<field name = "TITLE">AMERICAN ADVENTURE GOAA> PLAN GET APPROVAL</field>
+	<field name = "titulo">AMERICAN ADVENTURE GOAA> PLAN GET APPROVAL</field>
 	<field name = "DATELINE">KIRKLAND, Wash., March 3 -</field>
-	<field name = "BODY">American Adventure Inc said its
+	<field name = "content">American Adventure Inc said its
 reorganization plan was approved by the United States
 Bankruptcy Court for the Western District of the State of
 Washington.

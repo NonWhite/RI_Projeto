@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 10:30:53.56</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0281reute
-b f BC-USAIR-U>-WINS-COURT   03-09 0088</field>
-	<field name = "TITLE">USAIR U> WINS COURT ORDER AGAINST TWA TWA></field>
+	<field name = "titulo">USAIR U> WINS COURT ORDER AGAINST TWA TWA></field>
 	<field name = "DATELINE">PITTSBURGH, March 9 -</field>
-	<field name = "BODY">USAir Group Inc said a U.S. District
+	<field name = "content">USAir Group Inc said a U.S. District
 Court in Pittsburgh issued a temporary restraining order to
 prevent Trans World Airlines Inc from buying additional USAir
 shares.

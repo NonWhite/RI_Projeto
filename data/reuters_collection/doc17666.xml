@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 13:31:13.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1871reute
-r f BC-CHI-CHI'S-CHIC>-DEBT   06-01 0104</field>
-	<field name = "TITLE">CHI-CHI'S CHIC> DEBT DOWNGRADED BY S/P</field>
+	<field name = "titulo">CHI-CHI'S CHIC> DEBT DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it cut to
+	<field name = "content">Standard and Poor's Corp said it cut to
 B from B-plus 50 mln dlrs of convertible subordinated
 debentures of Chi-Chi's Inc.
     The company's senior debt rating is BB-minus.

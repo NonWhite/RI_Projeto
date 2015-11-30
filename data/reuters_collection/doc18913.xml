@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 14:29:56.85</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">portugal</field>
-	<field name = "UNKNOWN">RM 
-f4237reute
-r f BC-WORLD-BANK-LOANS-PORT   06-18 0103</field>
-	<field name = "TITLE">WORLD BANK LOANS PORTUGAL 50 MLN DLRS</field>
+	<field name = "titulo">WORLD BANK LOANS PORTUGAL 50 MLN DLRS</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">World Bank said it has loaned
+	<field name = "content">World Bank said it has loaned
 Portugal 50 mln dlrs to help improve its highway system.
     The bank loan is part of a 400.4 mln dlr, three-year
 government financed project to rehabilitate or improve about

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 16:41:36.49</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2450reute
-r f BC-TOTAL-PETROLEUM-TPN>   06-01 0109</field>
-	<field name = "TITLE">TOTAL PETROLEUM TPN> SHUTS TEXAS PIPELINES</field>
+	<field name = "titulo">TOTAL PETROLEUM TPN> SHUTS TEXAS PIPELINES</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Total Petroleum NA TPN> shut down
+	<field name = "content">Total Petroleum NA TPN> shut down
 several small crude oil pipelines operating near the
 Texas/Oklahoma border last Friday as a precaution against
 damage from local flooding, according to Gary Zollinger,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 16:31:04.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0769reute
-d f BC-CULLINET-SOFTWARE-CU   03-09 0113</field>
-	<field name = "TITLE">CULLINET SOFTWARE CUL> SETS MARKETING PACT</field>
+	<field name = "titulo">CULLINET SOFTWARE CUL> SETS MARKETING PACT</field>
 	<field name = "DATELINE">WESTWOOD, Mass., March 9 -</field>
-	<field name = "BODY">Cullinet Software Inc said it
+	<field name = "content">Cullinet Software Inc said it
 reached a marketing agreement with Epic Data Corp> under which
 both companies will sell data collection and software products
 for inventory management.

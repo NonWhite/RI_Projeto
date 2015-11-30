@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 12:41:43.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1680reute
-b f BC-CHRYSLER-C>-LATE-MAR   04-03 0085</field>
-	<field name = "TITLE">CHRYSLER C> LATE MARCH U.S. CAR SALES UP</field>
+	<field name = "titulo">CHRYSLER C> LATE MARCH U.S. CAR SALES UP</field>
 	<field name = "DATELINE">DETROIT, April 3 -</field>
-	<field name = "BODY">Chrysler Corp said car sales for the
+	<field name = "content">Chrysler Corp said car sales for the
 March 21-31 period rose 20.2 pct to 40,454 from 33,669 a year
 earlier.
     For the month of March, it said auto sales increased 6.3

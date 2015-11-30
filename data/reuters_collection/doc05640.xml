@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 15:35:42.19</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3464reute
-u f BC-LYNCH-CORP-LGL>-UNIT   03-16 0104</field>
-	<field name = "TITLE">LYNCH CORP LGL> UNIT BUYS TELEVISION STATION</field>
+	<field name = "titulo">LYNCH CORP LGL> UNIT BUYS TELEVISION STATION</field>
 	<field name = "DATELINE">FAIRFIELD, N.J., March 16 -</field>
-	<field name = "BODY">Lynch Corp subisidiary Lynch
+	<field name = "content">Lynch Corp subisidiary Lynch
 Entertainment Corp said it formed a general partnership called
 Coronet Communications Co, which has acquired WHBF-TV station,
 in Rock Island, Ill.

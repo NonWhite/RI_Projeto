@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">RM V 
-f0620reute
-b f BC-STOLTENBERG-DOES-NOT   10-20 0081</field>
-	<field name = "TITLE">STOLTENBERG DOES NOT RULE OUT INTERVENTION</field>
+	<field name = "titulo">STOLTENBERG DOES NOT RULE OUT INTERVENTION</field>
 	<field name = "DATELINE">BONN, Oct 20 -</field>
-	<field name = "BODY">West German Finance Minister Gerhard
+	<field name = "content">West German Finance Minister Gerhard
 Stoltenberg said he could not rule out the possibility of
 central bank intervention to support currencies.
     Asked at a news conference whether central banks were

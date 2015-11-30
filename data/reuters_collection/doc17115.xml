@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 11:57:12.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1476reute
-r f BC-GM-GM>,-TOYOTA-JOINT   04-24 0094</field>
-	<field name = "TITLE">GM GM>, TOYOTA JOINT VENTURE CUTS PRODUCTION</field>
+	<field name = "titulo">GM GM>, TOYOTA JOINT VENTURE CUTS PRODUCTION</field>
 	<field name = "DATELINE">FREMONT, Calif., April 24 -</field>
-	<field name = "BODY">New United Motor Manufacturing
+	<field name = "content">New United Motor Manufacturing
 Inc, a joint venture formed by General Motors Corp and Toyota
 Motor Corp, said it plans to cut production at its automaking
 facility here because of lower than anticipated sales.

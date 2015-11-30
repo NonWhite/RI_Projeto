@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 15:33:32.72</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2244reute
-r f BC-sico-sets-name-change   03-23 0094</field>
-	<field name = "TITLE">SICO SETS NAME CHANGE, REORGANIZATION</field>
+	<field name = "titulo">SICO SETS NAME CHANGE, REORGANIZATION</field>
 	<field name = "DATELINE">LONGEUEIL, Quebec, March 23 -</field>
-	<field name = "BODY">Sico Inc> said it changed
+	<field name = "content">Sico Inc> said it changed
 its name to Sico Group as part of an administrative
 reorganization to decentralize responsibilities based on the
 nature of the paint manufacturer's various markets.

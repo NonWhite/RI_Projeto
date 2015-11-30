@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 12:38:05.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8654reute
-r f BC-DATAPRODUCTS-DPC>,PA   03-18 0039</field>
-	<field name = "TITLE">DATAPRODUCTS DPC>,PACKARD HWP> IN AGREEMENT</field>
+	<field name = "titulo">DATAPRODUCTS DPC>,PACKARD HWP> IN AGREEMENT</field>
 	<field name = "DATELINE">WOODLAND HILLS, Calif., March 18 -</field>
-	<field name = "BODY">Dataproducts Corp said
+	<field name = "content">Dataproducts Corp said
 it agreed to market Hewlett-Packard's line of matrix printers
 through its domestic and international distribution network.
     

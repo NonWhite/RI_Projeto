@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 13:49:18.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2080reute
-s f BC-TELERATE-INC-TLR>-SE   06-02 0021</field>
-	<field name = "TITLE">TELERATE INC TLR> SETS QUARTERLY</field>
+	<field name = "titulo">TELERATE INC TLR> SETS QUARTERLY</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Qtly div 12 cts vs 12 cts prior
+	<field name = "content">Qtly div 12 cts vs 12 cts prior
     Pay June 26
     Record June Five
  Reuter</field>

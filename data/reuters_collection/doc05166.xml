@@ -4,13 +4,10 @@
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "PEOPLE">hisham-nazer</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0877reute
-b f BC-SAUDI-OIL-MINISTER-SE   03-15 0083</field>
-	<field name = "TITLE">SAUDI OIL MINISTER SEES NO NEED TO ALTER OPEC PACT</field>
+	<field name = "titulo">SAUDI OIL MINISTER SEES NO NEED TO ALTER OPEC PACT</field>
 	<field name = "AUTHOR">By Philip Shehadi, Reuters</field>
 	<field name = "DATELINE">RIYADH, March 15 -</field>
-	<field name = "BODY">Saudi Arabian Oil Minister Hisham Nazer
+	<field name = "content">Saudi Arabian Oil Minister Hisham Nazer
 said OPEC's December agreement to stabilise oil prices at 18
 dlrs a barrel was being implemented satisfactorily and there
 was no immediate need to change it.

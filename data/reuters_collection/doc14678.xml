@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 17:00:29.92</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2496reute
-r f BC-AMERICAN-DYNAMICS-AM   04-07 0103</field>
-	<field name = "TITLE">AMERICAN DYNAMICS AMDC> TO SELL 51 PCT STAKE</field>
+	<field name = "titulo">AMERICAN DYNAMICS AMDC> TO SELL 51 PCT STAKE</field>
 	<field name = "DATELINE">COLUMBUS, Ohio, April 7 -</field>
-	<field name = "BODY">American Dynamics Corp and
+	<field name = "content">American Dynamics Corp and
 Meridian Reserve Inc> said they signed a definitive agreement
 under which Meridian will buy 81.9 mln shares, or 51 pct, of
 American Dynamics' common stock.

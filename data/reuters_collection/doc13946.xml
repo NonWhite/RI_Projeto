@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:40:40.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1057reute
-u f BC-UNISYS-UIS>-OFFERS-N   04-07 0060</field>
-	<field name = "TITLE">UNISYS UIS> OFFERS NEW MAINFRAME MODELS</field>
+	<field name = "titulo">UNISYS UIS> OFFERS NEW MAINFRAME MODELS</field>
 	<field name = "DATELINE">DETROIT, April 7 -</field>
-	<field name = "BODY">Unisys Corp said it is offering eight
+	<field name = "content">Unisys Corp said it is offering eight
 new models of its A15 large-scale mainframe computer.
     The new models improve the overall system performance by an
 average 20 pct, the computer maker said.

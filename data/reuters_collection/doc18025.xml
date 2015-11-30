@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 10:38:09.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1191reute
-r f BC-DATA-GENERAL-DGN>-OF   06-02 0095</field>
-	<field name = "TITLE">DATA GENERAL DGN> OFFERS NEW NETWORK PRODUCTS</field>
+	<field name = "titulo">DATA GENERAL DGN> OFFERS NEW NETWORK PRODUCTS</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Data General Corp said it introduced
+	<field name = "content">Data General Corp said it introduced
 several new hardware and software products that link
 International Business Machines Corp IBM> and IBM-compatible
 personal computers into mainframe and minicomputer systems.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PEOPLE">murdoch</field>
-	<field name = "UNKNOWN">F
-f0431reute
-u f BC-QUEENSLAND-PRESS-BOAR   03-11 0113</field>
-	<field name = "TITLE">QUEENSLAND PRESS BOARD RECOMMENDS MURDOCH OFFER</field>
+	<field name = "titulo">QUEENSLAND PRESS BOARD RECOMMENDS MURDOCH OFFER</field>
 	<field name = "DATELINE">BRISBANE, March 11 -</field>
-	<field name = "BODY">The Queensland Press Ltd> (QPL) board
+	<field name = "content">The Queensland Press Ltd> (QPL) board
 said it unanimously recommended the one billion dlr takeover
 bid by Cruden Investments Pty Ltd>, a family company of News
 Corp Ltd NCPA.S> chief executive Rupert Murdoch.

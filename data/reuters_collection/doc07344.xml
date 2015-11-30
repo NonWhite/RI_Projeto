@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 14:44:13.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2105reute
-d f BC-BIOSENSOR-BSNR>-SIGN   03-19 0075</field>
-	<field name = "TITLE">BIOSENSOR BSNR> SIGNS MARKETING AGREEMENT</field>
+	<field name = "titulo">BIOSENSOR BSNR> SIGNS MARKETING AGREEMENT</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 19 -</field>
-	<field name = "BODY">Biosensor Corp said it signed an
+	<field name = "content">Biosensor Corp said it signed an
 agreement with Del Mar Avionics, Irvine, Calif., to market the
 Biosensor Multiday system.
     Multiday monitoring products can analyze patient heart

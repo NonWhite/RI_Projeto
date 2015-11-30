@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 09:11:32.01</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0887reute
-u f BC-TOSHIBA-PRODUCES-SUPE   04-02 0072</field>
-	<field name = "TITLE">TOSHIBA PRODUCES SUPERCONDUCTIVE WIRE</field>
+	<field name = "titulo">TOSHIBA PRODUCES SUPERCONDUCTIVE WIRE</field>
 	<field name = "AUTHOR">By James Kynge, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 2 -</field>
-	<field name = "BODY">Officials at Toshiba TSBA.T> told
+	<field name = "content">Officials at Toshiba TSBA.T> told
 reporters they have developed a kind of wire which can conduct
 electricity with no resistance and therefore no loss of power.
     Although other firms have developed such superconductive

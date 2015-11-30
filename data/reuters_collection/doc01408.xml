@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0173reute
-r f BC-NIPPON-STEEL-INVESTS   03-03 0109</field>
-	<field name = "TITLE">NIPPON STEEL INVESTS 8 MLN DLRS IN GTX CORP</field>
+	<field name = "titulo">NIPPON STEEL INVESTS 8 MLN DLRS IN GTX CORP</field>
 	<field name = "DATELINE">CHICAGO, March 3 -</field>
-	<field name = "BODY">GTX Corp said Nippon Steel Co of Japan,
+	<field name = "content">GTX Corp said Nippon Steel Co of Japan,
 in a move to diversify into high technology, invested eight mln
 dlrs in GTX.
     Nippon's move was the result of current exchange rates and

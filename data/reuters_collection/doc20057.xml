@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">cuba</field>
-	<field name = "UNKNOWN">M 
-f0470reute
-r f BC-GROUNDED-BRITISH-BAUX   10-20 0060</field>
-	<field name = "TITLE">GROUNDED BRITISH BAUXITE VESSEL REFLOATED IN ORINOCO</field>
+	<field name = "titulo">GROUNDED BRITISH BAUXITE VESSEL REFLOATED IN ORINOCO</field>
 	<field name = "DATELINE">LONDON, Oct 20 -</field>
-	<field name = "BODY">The British bulk carrier Envoy, which ran
+	<field name = "content">The British bulk carrier Envoy, which ran
 aground in the Orinoco river on October 16, was refloated
 without lightening on October 19, Lloyds Shipping Intelligence
 service said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:07:35.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1598reute
-d f BC-FRANKLIN-OPTION-FUND   06-29 0046</field>
-	<field name = "TITLE">FRANKLIN OPTION FUND> SETS DIVIDEND</field>
+	<field name = "titulo">FRANKLIN OPTION FUND> SETS DIVIDEND</field>
 	<field name = "DATELINE">SAN METEO, Calif., June 29 -</field>
-	<field name = "BODY">Qtly dividend 23 cts vs 21.6 cts in prior qtr
+	<field name = "content">Qtly dividend 23 cts vs 21.6 cts in prior qtr
     Payable July 14
     Record July one
     Dividend includes short-term capital gain of 20 cts vs 16

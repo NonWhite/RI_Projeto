@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 15:08:04.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM Y 
-f2858reute
-u f BC-/TEXACO-TX>-SAYS-MAR   10-20 0100</field>
-	<field name = "TITLE">TEXACO TX> SAYS MARKET DROP MAY AFFECT TALKS</field>
+	<field name = "titulo">TEXACO TX> SAYS MARKET DROP MAY AFFECT TALKS</field>
 	<field name = "DATELINE">HOUSTON, Oct 20 -</field>
-	<field name = "BODY">Texaco Inc chairman Alfred DeCrane said
+	<field name = "content">Texaco Inc chairman Alfred DeCrane said
 the massive stock market correction could affect any out of
 court settlement of the company's 10.3 billion dlr legal
 dispute with Pennzoil Co PZL>.

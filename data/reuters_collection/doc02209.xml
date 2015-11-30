@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:58:20.18</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0782reute
-r f BC-TOKHEIM-CORP-TOK>-EN   03-05 0107</field>
-	<field name = "TITLE">TOKHEIM CORP TOK> ENTERS JOINT VENTURE</field>
+	<field name = "titulo">TOKHEIM CORP TOK> ENTERS JOINT VENTURE</field>
 	<field name = "DATELINE">FORT WAYNE, Ind., March 5 -</field>
-	<field name = "BODY">Tokheim Corp said its advanced
+	<field name = "content">Tokheim Corp said its advanced
 products and electronics division has reached a four-year
 manufacturing and marketing agreement with TechVend>, a New
 Jersey-based corporation which had developed a credit card

@@ -3,12 +3,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PEOPLE">delors</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM C T G
-f0754reute
-u f BC-DELORS-REPORTS-STRONG   03-11 0103</field>
-	<field name = "TITLE">DELORS REPORTS STRONG OBJECTIONS TO EC CASH PLAN</field>
+	<field name = "titulo">DELORS REPORTS STRONG OBJECTIONS TO EC CASH PLAN</field>
 	<field name = "DATELINE">STRASBOURG, France, March 11 -</field>
-	<field name = "BODY">European Community
+	<field name = "content">European Community
 Commission President Jacques Delors said he met with strong
 objections from some EC government heads to his radical plan
 for changes to Community financing.

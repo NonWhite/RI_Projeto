@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f3460reute
-b f BC-/-FED-EXPECTED-TO-ADD   06-18 0092</field>
-	<field name = "TITLE">FED EXPECTED TO ADD RESERVES</field>
+	<field name = "titulo">FED EXPECTED TO ADD RESERVES</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">The Federal Reserve will enter the
+	<field name = "content">The Federal Reserve will enter the
 government securities market to supply reserves via either a
 large round of customer repurchase agreements or by overnight
 or possibly four-day system repurchases, economists said.

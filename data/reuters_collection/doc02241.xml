@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 12:26:42.92</field>
 	<field name = "PLACES">poland</field>
-	<field name = "UNKNOWN">RM
-f0939reute
-r f BC-POLISH-TRADE-OFFICIAL   03-05 0088</field>
-	<field name = "TITLE">POLISH TRADE OFFICIAL CALLS FOR FREER MARKET</field>
+	<field name = "titulo">POLISH TRADE OFFICIAL CALLS FOR FREER MARKET</field>
 	<field name = "AUTHOR">By Irena Czekierska</field>
 	<field name = "DATELINE">WARSAW, March 5 -</field>
-	<field name = "BODY">Deputy Foreign Trade Minister Janusz
+	<field name = "content">Deputy Foreign Trade Minister Janusz
 Kaczurba told Reuters that Poland would have to diverge from
 traditional Communist bloc centrally-planned economic policies
 if it wanted to bring about economic renewal and compete in

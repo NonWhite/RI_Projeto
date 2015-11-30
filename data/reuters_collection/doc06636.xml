@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">A
-f8746reute
-d f BC-PERU-HAS-FIRST-TRADE   03-18 0086</field>
-	<field name = "TITLE">PERU HAS FIRST TRADE DEFICIT IN FOUR YEARS</field>
+	<field name = "titulo">PERU HAS FIRST TRADE DEFICIT IN FOUR YEARS</field>
 	<field name = "DATELINE">LIMA, March 18 -</field>
-	<field name = "BODY">Peru registered a 16 mln dlr trade deficit
+	<field name = "content">Peru registered a 16 mln dlr trade deficit
 in 1986, its first trade shortfall in four years, a central
 bank statement said.
     The figure compared with a surpluses of 1.17 billion dlrs

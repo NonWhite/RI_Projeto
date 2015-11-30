@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 18:47:09.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2797reute
-h f BC-SANTA-ANITA-SAR>-TO   03-30 0070</field>
-	<field name = "TITLE">SANTA ANITA SAR> TO BUILD IN COMMERCIAL PARK</field>
+	<field name = "titulo">SANTA ANITA SAR> TO BUILD IN COMMERCIAL PARK</field>
 	<field name = "DATELINE">BALDWIN Park, Calif, March 30 -</field>
-	<field name = "BODY">Baldwin INdustrial
+	<field name = "content">Baldwin INdustrial
 Properties Ltd said five new buildings valued at 9.5 mln dlrs
 will be built as Phase IV of the Baldwin Commerce Center in
 baldwin Park, calif.

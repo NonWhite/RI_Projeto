@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 08:23:23.94</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G L M T
-f0144
-reute
-u f BC-NEITHER-SIDE-OPTIMIST   03-03 0101</field>
-	<field name = "TITLE">NEITHER SIDE OPTIMISTIC ON ROTTERDAM PORT ISSUES</field>
+	<field name = "titulo">NEITHER SIDE OPTIMISTIC ON ROTTERDAM PORT ISSUES</field>
 	<field name = "DATELINE">ROTTERDAM, March 3 -</field>
-	<field name = "BODY">Employers and the port union, FNV, are
+	<field name = "content">Employers and the port union, FNV, are
 to meet again this afternoon to attempt a settlement of the
 six-week-old dispute in Rotterdam's general cargo sector, but
 neither side is optimistic, spokesmen for both sides told

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">icco</field>
-	<field name = "UNKNOWN">C T
-f1937reute
-b f BC-ICCO-TO-EXAMINE-BUFFE   03-19 0117</field>
-	<field name = "TITLE">ICCO TO EXAMINE BUFFER STOCK DETAILS TOMORROW</field>
+	<field name = "titulo">ICCO TO EXAMINE BUFFER STOCK DETAILS TOMORROW</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">The International Cocoa Council, ICCO,
+	<field name = "content">The International Cocoa Council, ICCO,
 adjourned for the day after a detailed proposal on buffer stock
 rules was distributed and executive committee officials were
 elected, delegates said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 06:09:57.32</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">F
-f0397reute
-u f BC-VIEILLE-MONTAGNE-SAYS   04-08 0110</field>
-	<field name = "TITLE">VIEILLE MONTAGNE SAYS 1986 CONDITIONS UNFAVOURABLE</field>
+	<field name = "titulo">VIEILLE MONTAGNE SAYS 1986 CONDITIONS UNFAVOURABLE</field>
 	<field name = "DATELINE">BRUSSELS, April 8 -</field>
-	<field name = "BODY">A sharp fall in the dollar price of
+	<field name = "content">A sharp fall in the dollar price of
 zinc and the depreciation of the U.S. Currency created
 unfavourable economic conditions for Vieille Montagne SA
 VMNB.BR> in 1986.

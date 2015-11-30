@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 14:13:55.52</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F Y
-f9037reute
-r f BC-shell-canada-to-sell   03-18 0090</field>
-	<field name = "TITLE">SHELL CANADA SHC> TO SELL TANKERS TO SOCANAV</field>
+	<field name = "titulo">SHELL CANADA SHC> TO SELL TANKERS TO SOCANAV</field>
 	<field name = "DATELINE">MONTREAL, March 18 -</field>
-	<field name = "BODY">Shell Canada Ltd said its Shell Canada
+	<field name = "content">Shell Canada Ltd said its Shell Canada
 Products Ltd unit will sell three tankers, effective April one,
 1987, to Socanav Inc>.
     Terms were not disclosed.

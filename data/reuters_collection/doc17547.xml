@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:27:12.52</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f1128reute
-u f BC-METRO-AIRLINES-TO-BUY   06-01 0104</field>
-	<field name = "TITLE">METRO AIRLINES TO BUY 16 SAAB COMMUTER PLANES</field>
+	<field name = "titulo">METRO AIRLINES TO BUY 16 SAAB COMMUTER PLANES</field>
 	<field name = "DATELINE">STOCKHOLM, June 1 -</field>
-	<field name = "BODY">The U.S. Regional carrier Metro
+	<field name = "content">The U.S. Regional carrier Metro
 Airlines> has signed an agreement with Saab Scania AB SABS ST>
 to buy 16 34-seater Saab SF340 aircraft worth a total 650 mln
 crowns, the Swedish group's largest single order yet, Saab

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 17:55:23.33</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2613reute
-d f BC-CONNECTICUT-ENERGY-C   03-25 0101</field>
-	<field name = "TITLE">CONNECTICUT ENERGY CNE>UNIT SEEKS HIGHER RATES</field>
+	<field name = "titulo">CONNECTICUT ENERGY CNE>UNIT SEEKS HIGHER RATES</field>
 	<field name = "DATELINE">BRIDGEPORT, Conn., March 25 -</field>
-	<field name = "BODY">Connecticut Energy Corp said
+	<field name = "content">Connecticut Energy Corp said
 its Southern Connecticut Gas Co unit filed with state
 regulators a letter of intent to raise its rates by 2.7 pct, or
 about 4.2 mln dlrs, beginning in late 1987.

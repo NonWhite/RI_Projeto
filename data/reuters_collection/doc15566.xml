@@ -5,12 +5,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">sorghum</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">C G
-f1065reute
-u f BC-INDIA-FOODGRAIN-TARGE   04-09 0108</field>
-	<field name = "TITLE">INDIA FOODGRAIN TARGET 160 MLN TONNES IN 1987/88</field>
+	<field name = "titulo">INDIA FOODGRAIN TARGET 160 MLN TONNES IN 1987/88</field>
 	<field name = "DATELINE">NEW DELHI, April 9 -</field>
-	<field name = "BODY">India's national foodgrain target has
+	<field name = "content">India's national foodgrain target has
 been fixed at 160 mln tonnes in 1987/88 (Apr-Mar), unchanged
 from the 1986/87 target, the Agriculture Ministry said in its
 annual report for 1986/87.

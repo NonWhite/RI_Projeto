@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 12:21:38.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1735reute
-s f BC-MFS-MULTIMARKET-INCOM   06-02 0023</field>
-	<field name = "TITLE">MFS MULTIMARKET INCOME TRUST SETS DIVIDEND</field>
+	<field name = "titulo">MFS MULTIMARKET INCOME TRUST SETS DIVIDEND</field>
 	<field name = "DATELINE">BOSTON, June 2 -</field>
-	<field name = "BODY">Mthly div 10-1/4 cts vs 10-1/4 cts prior
+	<field name = "content">Mthly div 10-1/4 cts vs 10-1/4 cts prior
     Pay June 26
     Record June 12
  Reuter</field>

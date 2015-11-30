@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:18:32.60RM</field>
-	<field name = "UNKNOWN">f0508reute</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">r f BC-BANK-OF-SPAIN-SUSPEND   03-27 0109</field>
-	<field name = "TITLE">BANK OF SPAIN SUSPENDS ASSISTANCE</field>
+	<field name = "titulo">BANK OF SPAIN SUSPENDS ASSISTANCE</field>
 	<field name = "DATELINE">MADRID, March 27 -</field>
-	<field name = "BODY">The Bank of Spain suspended its daily
+	<field name = "content">The Bank of Spain suspended its daily
 money market assistance obliging borrowers to take funds from
 the second window, where on Wednesday rates were raised to 16
 pct compared with 14 pct for normal overnight funds.

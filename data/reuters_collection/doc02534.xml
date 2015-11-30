@@ -5,12 +5,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">argentina</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f0112reute
-d f BC-ARGENTINE-BRAZILIAN-T   03-05 0119</field>
-	<field name = "TITLE">ARGENTINA-BRAZIL TRADE JUMPED 90 PCT IN 1986</field>
+	<field name = "titulo">ARGENTINA-BRAZIL TRADE JUMPED 90 PCT IN 1986</field>
 	<field name = "DATELINE">BUENOS AIRES, March 5 -</field>
-	<field name = "BODY">Trade between Argentina and Brazil
+	<field name = "content">Trade between Argentina and Brazil
 jumped 90 pct in 1986 versus 1985, Foreign Minister Dante
 Caputo said.
     Speaking to reporters, Caputo said the near doubling in

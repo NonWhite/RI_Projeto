@@ -3,12 +3,9 @@
 	<field name = "TOPICS">tea</field>
 	<field name = "PLACES">pakistan</field>
 	<field name = "PLACES">kenya</field>
-	<field name = "UNKNOWN">T
-f0800reute
-d f BC-PAKISTAN-CONFIRMS-TEA   04-13 0119</field>
-	<field name = "TITLE">PAKISTAN CONFIRMS KENYA TEA IMPORT INVESTIGATION</field>
+	<field name = "titulo">PAKISTAN CONFIRMS KENYA TEA IMPORT INVESTIGATION</field>
 	<field name = "DATELINE">ISLAMABAD, April 13 -</field>
-	<field name = "BODY">Pakistan's Corporate Law Authority,
+	<field name = "content">Pakistan's Corporate Law Authority,
 CLA, has begun an enquiry into imports of tea from Kenya and
 the trade imbalance between the two countries, CLA chairman
 Irtiza Husain confirmed.

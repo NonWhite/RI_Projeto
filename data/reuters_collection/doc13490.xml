@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:49:50.98</field>
-	<field name = "UNKNOWN">G C
-f0375reute
-r f BC-LITTLE-DEMAND-ON-HAMB   04-07 0108</field>
-	<field name = "TITLE">LITTLE DEMAND ON HAMBURG FISHMEAL MARKET</field>
+	<field name = "titulo">LITTLE DEMAND ON HAMBURG FISHMEAL MARKET</field>
 	<field name = "DATELINE">HAMBURG, April 7 -</field>
-	<field name = "BODY">The Hamburg fishmeal market attracted
+	<field name = "content">The Hamburg fishmeal market attracted
 little interest in the past week, with prices about unchanged
 on stable supplies, trade sources said.
     Sellers offered 64 pct meal at between 665 and 670 marks

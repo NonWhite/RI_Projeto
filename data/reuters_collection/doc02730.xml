@@ -3,12 +3,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">gatt</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">C G T
-f0887reute
-u f BC-GATT-STUDYING-AGRICUL   03-06 0091</field>
-	<field name = "TITLE">GATT STUDYING AGRICULTURAL SUBSIDIES CEILING</field>
+	<field name = "titulo">GATT STUDYING AGRICULTURAL SUBSIDIES CEILING</field>
 	<field name = "DATELINE">PARIS, March 6 -</field>
-	<field name = "BODY">The world trade body GATT said its
+	<field name = "content">The world trade body GATT said its
 negotiators in Geneva are discussing a possible agreement for a
 ceiling on agricultural subsidies.
     GATT director-general for agriculture Jean-Marc Lucq told

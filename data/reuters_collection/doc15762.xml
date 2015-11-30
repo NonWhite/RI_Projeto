@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 13:10:00.69</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1833reute
-u f BC-GERMAN-BANKER-CALLS-F   04-09 0110</field>
-	<field name = "TITLE">GERMAN BANKER CALLS FOR MORE TAX CUTS</field>
+	<field name = "titulo">GERMAN BANKER CALLS FOR MORE TAX CUTS</field>
 	<field name = "DATELINE">BONN, April 9 -</field>
-	<field name = "BODY">A further cut in West German taxes to
+	<field name = "content">A further cut in West German taxes to
 overcome the current weakness of the domestic economy has been
 called for by Thomas Wegscheider, management board chairman of
 Bank fuer Gemeinwirtschaft AG.

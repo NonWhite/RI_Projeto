@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 03:59:15.80</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">RM
-f0200reute
-r f BC-TURKEY-ESTIMATES-1986   04-01 0087</field>
-	<field name = "TITLE">TURKEY ESTIMATES 1986 GROWTH AT EIGHT PCT</field>
+	<field name = "titulo">TURKEY ESTIMATES 1986 GROWTH AT EIGHT PCT</field>
 	<field name = "DATELINE">ANKARA, April 1 -</field>
-	<field name = "BODY">Turkey's Gross National Product grew an
+	<field name = "content">Turkey's Gross National Product grew an
 estimated 8.0 pct in 1986 at fixed 1968 prices, compared with
 5.1 pct in 1985, the State Statistics Institute said.
     Reporting full-year data, it also said Gross Domestic

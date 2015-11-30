@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 18:56:13.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2749reute
-r f BC-FORMER-SANTA-FE-DIREC   06-01 0115</field>
-	<field name = "TITLE">FORMER SANTA FE DIRECTOR SENTENCED AND FINED</field>
+	<field name = "titulo">FORMER SANTA FE DIRECTOR SENTENCED AND FINED</field>
 	<field name = "DATELINE">NEW YORK, June 1 -</field>
-	<field name = "BODY">Darius Keaton, 63, former director of
+	<field name = "content">Darius Keaton, 63, former director of
 Santa Fe International Corp, was sentenced to two months in
 jail and fined 11,000 dlrs for trading the company's stock on
 insider knowledge of its 1981 two-billion-dlr takeover.

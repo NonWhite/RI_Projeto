@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 16:37:24.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F RM
-f0789reute
-u f BC-TOP-U.S.-OFFICIAL-SEE   03-09 0106</field>
-	<field name = "TITLE">TOP U.S. OFFICIAL SEES DELAY IN BANK REFORM</field>
+	<field name = "titulo">TOP U.S. OFFICIAL SEES DELAY IN BANK REFORM</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">A top Treasury official said he does
+	<field name = "content">A top Treasury official said he does
 not expect any comprehensive Congressional reform of the U.S.
 banking industry until after the 1988 presidential election due
 to political pressures and, to a lesser extent, the insider

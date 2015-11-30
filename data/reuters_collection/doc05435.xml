@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 11:43:48.84</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2562reute
-r f BC-magna-creates-new   03-16 0104</field>
-	<field name = "TITLE">MAGNA MAGAF> CREATES NEW COSMA UNIT</field>
+	<field name = "titulo">MAGNA MAGAF> CREATES NEW COSMA UNIT</field>
 	<field name = "DATELINE">TORONTO, March 16 -</field>
-	<field name = "BODY">Magna International Inc said it created
+	<field name = "content">Magna International Inc said it created
 a new wholly owned unit, Cosma International Inc, to design,
 develop and coordinate production from Magna's 27 auto part
 stamping and related facilities in Canada and the United

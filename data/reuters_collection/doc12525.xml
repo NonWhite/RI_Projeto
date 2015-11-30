@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 09:26:20.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0932reute
-r f BC-PIER-ONE-ACCELERATES   04-02 0086</field>
-	<field name = "TITLE">PIER ONE ACCELERATES WARRANT PIRWS> EXPIRATION</field>
+	<field name = "titulo">PIER ONE ACCELERATES WARRANT PIRWS> EXPIRATION</field>
 	<field name = "DATELINE">FORT WORTH, Texas, April 2 -</field>
-	<field name = "BODY">Pier One Imports Inc PIR>
+	<field name = "content">Pier One Imports Inc PIR>
 said its board has accelerated the expiration date of the
 company's warrants to May 11, 1987, from July 15, 1988.
     To the extent any warrants remain outstanding after May 11,

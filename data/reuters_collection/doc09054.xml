@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">A RM
-f2612reute
-r f BC-FED-CHAIRMAN-VOLCKER   03-24 0108</field>
-	<field name = "TITLE">FED CHAIRMAN VOLCKER SAYS BANK PROPOSALS A WORRY</field>
+	<field name = "titulo">FED CHAIRMAN VOLCKER SAYS BANK PROPOSALS A WORRY</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">The chairman of the Federal Reserve
+	<field name = "content">The chairman of the Federal Reserve
 Board, Paul Volcker, has written to the chairman of the House
 Banking Committee to raise concerns about legislative proposals
 scheduled for consideration Wednesday.

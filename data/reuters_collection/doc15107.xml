@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 11:54:03.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1552reute
-r f BC-GM-GM>-UNIT-OFFERS-5   04-08 0111</field>
-	<field name = "TITLE">GM GM> UNIT OFFERS 500 MLN DLRS OF NOTES</field>
+	<field name = "titulo">GM GM> UNIT OFFERS 500 MLN DLRS OF NOTES</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">General Motors Acceptance Corp, a unit
+	<field name = "content">General Motors Acceptance Corp, a unit
 of General Motors Corp, is raising 500 mln dlrs via offerings 
 of 300 mln dlrs of notes due 1990 and 200 mln dlrs of notes due
 1994, said lead manager Merrill Lynch Captial Markets.

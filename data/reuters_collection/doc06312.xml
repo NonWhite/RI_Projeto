@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 17:08:54.43</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6648reute
-d f BC-AMERICAN-ELECTROMEDIC   03-17 0071</field>
-	<field name = "TITLE">AMERICAN ELECTROMEDICS CORP AECO> 2ND QTR LOSS</field>
+	<field name = "titulo">AMERICAN ELECTROMEDICS CORP AECO> 2ND QTR LOSS</field>
 	<field name = "DATELINE">GREAT NECK, N.Y., March 17 -</field>
-	<field name = "BODY">Qtr ends Jan 31
+	<field name = "content">Qtr ends Jan 31
     Shr loss three cts vs loss six cts
     Net loss 93,000 vs loss 191,000
     Revs 338,000 vs 554,000

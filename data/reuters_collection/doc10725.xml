@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 05:00:41.39</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0368reute
-r f BC-TORAY-INDUSTRIES-NAME   03-30 0044</field>
-	<field name = "TITLE">TORAY INDUSTRIES NAMES NEW PRESIDENT</field>
+	<field name = "titulo">TORAY INDUSTRIES NAMES NEW PRESIDENT</field>
 	<field name = "DATELINE">TOKYO, March 30 -</field>
-	<field name = "BODY">Toray Industries Inc TORT.T>, Japan's
+	<field name = "content">Toray Industries Inc TORT.T>, Japan's
 top synthetic fibre maker, named managing director Katsunosuke
 Maeda as president, effective April 16.
     Current president Yoshikazu Ito will become chairman.

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 16:48:31.63</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2611reute
-r f BC-NORTHAIR-NRM.TO>-OPP   04-13 0119</field>
-	<field name = "TITLE">NORTHAIR NRM.TO> OPPOSING NORQUEST NQRLF> BID</field>
+	<field name = "titulo">NORTHAIR NRM.TO> OPPOSING NORQUEST NQRLF> BID</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, April 13 -</field>
-	<field name = "BODY">Northair Mines Ltd
+	<field name = "content">Northair Mines Ltd
 said it would oppose Nor-Quest Resources Inc's earlier reported
 proposed takeover bid "with every means at its disposal,"
 saying "this attempt at a property grab is an insult to the

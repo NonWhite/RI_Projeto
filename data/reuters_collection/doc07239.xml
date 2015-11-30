@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">F
-f1630reute
-u f BC-BENETTON-OF-ITALY-SEE   03-19 0087</field>
-	<field name = "TITLE">BENETTON OF ITALY SEES EXPANSION, ACQUISITIONS</field>
+	<field name = "titulo">BENETTON OF ITALY SEES EXPANSION, ACQUISITIONS</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Benetton SpA> of Italy expects to
+	<field name = "content">Benetton SpA> of Italy expects to
 further diversify into financial services and is weighing 
 possible acquisitions, a Benetton spokeswoman here said.
     "We are thinking of diversification outside of the retail

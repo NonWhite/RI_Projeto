@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 07:25:52.37</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">F A 
-f0616reute
-r f BC-MEXICAN-STOCKMARKET-H   10-20 0111</field>
-	<field name = "TITLE">MEXICAN STOCKMARKET HEAD SEES NO CRISIS AFTER FALL</field>
+	<field name = "titulo">MEXICAN STOCKMARKET HEAD SEES NO CRISIS AFTER FALL</field>
 	<field name = "DATELINE">MEXICO CITY, Oct 19 -</field>
-	<field name = "BODY">The outlook for Mexico's economy and
+	<field name = "content">The outlook for Mexico's economy and
 stockmarket remains optimistic despite the market's worst-ever
 fall of 52,671.56 points on Monday, the president of the
 Mexican stock exchange, Manuel Somoza, said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM
-f5169reute
-u f BC-OECD-AGREES-EXPORT-CR   03-17 0107</field>
-	<field name = "TITLE">OECD AGREES EXPORT CREDIT REFORMS</field>
+	<field name = "titulo">OECD AGREES EXPORT CREDIT REFORMS</field>
 	<field name = "DATELINE">PARIS, March 17 -</field>
-	<field name = "BODY">The western industrialised nations have
+	<field name = "content">The western industrialised nations have
 agreed reforms in rules by which they provide credit for
 exports to developing countries, the Organisation for Economic
 Cooperation and Development said.

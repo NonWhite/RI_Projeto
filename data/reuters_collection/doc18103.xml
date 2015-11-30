@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V RM
-f1626reute
-u f AM-SANCTIONS   06-02 0113</field>
-	<field name = "TITLE">U.S. WEIGHS LIFTING JAPANESE TRADE CURBS</field>
+	<field name = "titulo">U.S. WEIGHS LIFTING JAPANESE TRADE CURBS</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">The White House has completed a new
+	<field name = "content">The White House has completed a new
 review of Japanese semiconductor trading practices but has not
 yet decided whether trade sanctions levied against Japan last
 April should be lifted, U.S. officials said.

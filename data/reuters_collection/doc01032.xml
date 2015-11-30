@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 10:00:57.16</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0409reute
-d f BC-INTEK-DIVERSIFIED-COR   03-03 0041</field>
-	<field name = "TITLE">INTEK DIVERSIFIED CORP IDCC> 4TH QTR NET</field>
+	<field name = "titulo">INTEK DIVERSIFIED CORP IDCC> 4TH QTR NET</field>
 	<field name = "DATELINE">LOS ANGELES, March 3 -</field>
-	<field name = "BODY">Shr three cts vs three cts
+	<field name = "content">Shr three cts vs three cts
     Net 98,20000 vs 91,898
     Revs 2,843,520 vs 2,372,457
     Year

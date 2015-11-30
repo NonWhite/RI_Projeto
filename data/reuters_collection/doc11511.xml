@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 13:31:41.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G T
-f2017reute
-d f BC-USDA-FOREIGN-POSTS-TH   03-31 0116</field>
-	<field name = "TITLE">USDA FOREIGN POSTS THREATENED BY TIGHT BUDGET</field>
+	<field name = "titulo">USDA FOREIGN POSTS THREATENED BY TIGHT BUDGET</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">The U.S. Agriculture Department will
+	<field name = "content">The U.S. Agriculture Department will
 be forced to close 13 foreign posts and reduce personnel in
 five others unless Congress approves two mln dlrs in
 supplemental appropriations for fiscal 1987 to cover increased

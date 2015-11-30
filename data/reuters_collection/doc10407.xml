@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:23:53.56RM</field>
-	<field name = "UNKNOWN">f0835reute</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">u f BC-VENEZUELA-PREPARES-DE   03-27 0092</field>
-	<field name = "TITLE">VENEZUELA PREPARES DEBT TERM SHEET FOR BANKS</field>
+	<field name = "titulo">VENEZUELA PREPARES DEBT TERM SHEET FOR BANKS</field>
 	<field name = "DATELINE">CARACAS, MARCH 27 -</field>
-	<field name = "BODY">Venezuela will shortly send creditor
+	<field name = "content">Venezuela will shortly send creditor
 banks a term sheet specifying the changes agreed last month in
 the country's 20.3 billion dlr public sector debt rescheduling,
 finance minister Manuel Azpurua said.

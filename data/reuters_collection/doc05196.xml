@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 01:00:02.36</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f1095reute
-u f BC-JAPAN-FIRMS-SELL-GENE   03-16 0098</field>
-	<field name = "TITLE">JAPAN FIRMS SELL GENERATORS FOR SOUTH AMERICAN DAM</field>
+	<field name = "titulo">JAPAN FIRMS SELL GENERATORS FOR SOUTH AMERICAN DAM</field>
 	<field name = "DATELINE">TOKYO, March 16 -</field>
-	<field name = "BODY">A Japanese consortium will supply 10
+	<field name = "content">A Japanese consortium will supply 10
 generators worth some 10 billion yen to a joint
 Argentine/Paraguay hydroelectric project, a Mitsubishi Electric
 Corp MIET.T> official said.

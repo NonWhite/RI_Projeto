@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:49:44.55</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0495reute
-u f BC-ITALIAN-CERTIFICATE-O   04-07 0111</field>
-	<field name = "TITLE">ITALIAN CERTIFICATE OFFER HAS HIGHER YIELDS</field>
+	<field name = "titulo">ITALIAN CERTIFICATE OFFER HAS HIGHER YIELDS</field>
 	<field name = "DATELINE">ROME, April 7 -</field>
-	<field name = "BODY">The Italian Treasury said it would offer
+	<field name = "content">The Italian Treasury said it would offer
 2,500 billion lire of indexed government discount certificates
 at rates slightly higher than on the preceding issue.
     The seven-year certificates carry a first-year coupon,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 13:17:10.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">M
-f1885reute
-d f BC-GM-MID-MARCH-CAR-SALE   03-24 0072</field>
-	<field name = "TITLE">GM MID-MARCH CAR SALES OFF 15.5 PCT</field>
+	<field name = "titulo">GM MID-MARCH CAR SALES OFF 15.5 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">General Motors Corp said car sales for
+	<field name = "content">General Motors Corp said car sales for
 March 11 through 20 were off 15.5 pct to 109,174 from 129,242 a
 year earlier.
     The company said truck sales were off 8.8 pct to 45,015

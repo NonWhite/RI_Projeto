@@ -4,12 +4,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C T G
-f0215reute
-r f BC-DOLE-MULLS-BILL-TO-EX   03-11 0143</field>
-	<field name = "TITLE">DOLE MULLS BILL TO EXTEND ETHANOL TAX EXEMPTION</field>
+	<field name = "titulo">DOLE MULLS BILL TO EXTEND ETHANOL TAX EXEMPTION</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">U.S. Senate Republican leader Robert
+	<field name = "content">U.S. Senate Republican leader Robert
 Dole (R-Kan.) said he and a group of Republican lawmakers are
 considering introducing legislation to extend the ethanol tax
 exemption through the year 2000.

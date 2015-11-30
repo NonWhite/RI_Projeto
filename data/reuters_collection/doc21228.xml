@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 12:42:55.68</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2025reute
-d f BC-GRACO-GGG>-SEES-LOWE   10-19 0096</field>
-	<field name = "TITLE">GRACO GGG> SEES LOWER EARNINGS FOR YEAR</field>
+	<field name = "titulo">GRACO GGG> SEES LOWER EARNINGS FOR YEAR</field>
 	<field name = "DATELINE">MINNEAPOLIS, Oct 19 -</field>
-	<field name = "BODY">Graco Inc said it expects 1987
+	<field name = "content">Graco Inc said it expects 1987
 earnings to be below last year's record level, despite higher
 sales.
     The company last year earned 14.3 mln dlrs, or 2.38 dlrs a

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 09:18:20.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2984reute
-r f BC-ENVIRONMENTAL-POWER-   06-18 0070</field>
-	<field name = "TITLE">ENVIRONMENTAL POWER POWR.O> TO OFFER SHARES</field>
+	<field name = "titulo">ENVIRONMENTAL POWER POWR.O> TO OFFER SHARES</field>
 	<field name = "DATELINE">BOSTON, June 18 -</field>
-	<field name = "BODY">Environmental Power Corp said it has
+	<field name = "content">Environmental Power Corp said it has
 filed for an offering of two mln common shares through
 underwriters led by Drexel Burnham Lambert Inc.
     The company said it will use 400,000 dlrs of the proceeds

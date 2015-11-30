@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 17:07:15.63</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">F
-f0879reute
-h f BC-U.S./USSR-TRADE-IMBAL   03-04 0112</field>
-	<field name = "TITLE">U.S./USSR TRADE IMBALANCE CITED AS PROBLEM</field>
+	<field name = "titulo">U.S./USSR TRADE IMBALANCE CITED AS PROBLEM</field>
 	<field name = "DATELINE">WASHINGTON, Mar 4 -</field>
-	<field name = "BODY">U.S. purchases of Soviet products must
+	<field name = "content">U.S. purchases of Soviet products must
 increase before the Soviet Union will buy more U.S. goods, a
 Soviet trade official told Reuters.
     "American exports (to the Soviet Union) depend on Soviet

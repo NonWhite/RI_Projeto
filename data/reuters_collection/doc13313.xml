@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 01:13:33.18</field>
-	<field name = "UNKNOWN">C M
-f0031reute
-u f BC-KUALA-LUMPUR-TIN-PRIC   04-07 0097</field>
-	<field name = "TITLE">KUALA LUMPUR TIN PRICE CLOSES UNCHANGED</field>
+	<field name = "titulo">KUALA LUMPUR TIN PRICE CLOSES UNCHANGED</field>
 	<field name = "DATELINE">KUALA LUMPUR, April 7 -</field>
-	<field name = "BODY">The Kuala Lumpur tin price closed
+	<field name = "content">The Kuala Lumpur tin price closed
 unchanged from yesterday's 16.65 ringgit per kilo close after a
 very brief trading session, dealers said.
     Buyers and sellers were evenly matched at the opening level

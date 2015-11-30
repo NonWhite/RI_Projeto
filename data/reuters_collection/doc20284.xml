@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 10:53:21.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1434reute
-d f BC-TRIBUNE-TRB>-SAYS-LA   10-20 0115</field>
-	<field name = "TITLE">TRIBUNE TRB> SAYS LAYOFF COSTS HURT EARNINGS</field>
+	<field name = "titulo">TRIBUNE TRB> SAYS LAYOFF COSTS HURT EARNINGS</field>
 	<field name = "DATELINE">CHICAGO, Oct 20 -</field>
-	<field name = "BODY">Tribune Co said a pre-tax charge of 16.7
+	<field name = "content">Tribune Co said a pre-tax charge of 16.7
 mln dlrs or 11 cts a share in employee severance costs at the
 New York Daily News led to a 73 pct decline in the company's
 1987 third-quarter earnings.

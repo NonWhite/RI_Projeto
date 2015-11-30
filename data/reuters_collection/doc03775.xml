@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 12:42:15.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0911reute
-r f BC-VIRAGEN-VRGN>-STARTS   03-11 0060</field>
-	<field name = "TITLE">VIRAGEN VRGN> STARTS HUMAN TRIALS</field>
+	<field name = "titulo">VIRAGEN VRGN> STARTS HUMAN TRIALS</field>
 	<field name = "DATELINE">HIALEAH, Fla, March 11 -</field>
-	<field name = "BODY">Viragen Inc said it is sponsoring
+	<field name = "content">Viragen Inc said it is sponsoring
 clinical studies of Human Leukocyte Interferon, Alpha, in the
 treatment of renal cell carcinoma and bladder cell carcinoma.
     The Food and Drug Administration approved human trials 

@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 04:31:35.30</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">RM
-f0376reute
-b f BC-UNION-BANK-OF-FINLAND   03-09 0075</field>
-	<field name = "TITLE">UNION BANK OF FINLAND ISSUES EUROYEN BOND</field>
+	<field name = "titulo">UNION BANK OF FINLAND ISSUES EUROYEN BOND</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">Union Bank of Finland is issuing a 10
+	<field name = "content">Union Bank of Finland is issuing a 10
 billion yen eurobond due March 30, 1992 paying five pct and
 priced at 102-3/8 pct, lead manager LTCB International Ltd
 said.

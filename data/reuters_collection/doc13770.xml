@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:45:44.23</field>
-	<field name = "UNKNOWN">C
-f0819reute
-u f BC-U.S.-CREDIT-MARKETS-O   04-07 0107</field>
-	<field name = "TITLE">U.S. CREDIT MARKETS OPEN LOWER</field>
+	<field name = "titulo">U.S. CREDIT MARKETS OPEN LOWER</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">U.S. credit markets opened lower,
+	<field name = "content">U.S. credit markets opened lower,
 undercut by a weaker dollar, dealers said.
     The impetus for the opening declines came from overseas
 trading, where a lack of retail buying led to profit-taking

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 16:35:12.79</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f2529reute
-b f BC-CANADA-PLANS-NEW-BOND   04-08 0075</field>
-	<field name = "TITLE">CANADA PLANS NEW BOND ISSUE APRIL 14</field>
+	<field name = "titulo">CANADA PLANS NEW BOND ISSUE APRIL 14</field>
 	<field name = "DATELINE">OTTAWA, April 8 -</field>
-	<field name = "BODY">Canada plans to offer a three-part bond
+	<field name = "content">Canada plans to offer a three-part bond
 issue Tuesday, April 14, which will be dated and delivered May
 1, the finance department said.
     The issue will have a mid-term bond, a bond due in about 10

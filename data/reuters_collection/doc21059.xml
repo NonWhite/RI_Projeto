@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 14:44:27.84</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2634reute
-d f BC-DYNASCAN-DYNA.O>-COM   10-19 0109</field>
-	<field name = "TITLE">DYNASCAN DYNA.O> COMPLETES MANAGEMENT BUYOUT</field>
+	<field name = "titulo">DYNASCAN DYNA.O> COMPLETES MANAGEMENT BUYOUT</field>
 	<field name = "DATELINE">CHICAGO, Oct 19 -</field>
-	<field name = "BODY">Dynascan Corp said it completed the sale
+	<field name = "content">Dynascan Corp said it completed the sale
 of its industrial electronic products group and expects to 
 recognize about a 3.0 mln dlr pretax gain on the transaction in
 the fourth quarter.

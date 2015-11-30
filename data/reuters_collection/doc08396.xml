@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 13:03:44.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1781reute
-d f BC-AMALGAMATED-OFFERS-UN   03-23 0117</field>
-	<field name = "TITLE">AMALGAMATED OFFERS UNIONS BELOW-MARKET MORTGAGES</field>
+	<field name = "titulo">AMALGAMATED OFFERS UNIONS BELOW-MARKET MORTGAGES</field>
 	<field name = "DATELINE">NEDW YORK, March 23 -</field>
-	<field name = "BODY">Amalgamated Bank of New York said
+	<field name = "content">Amalgamated Bank of New York said
 three locals of the Iron Workers Union will invest a portion of
 their pension funds in below-market, no-points
 Amalgamated-written home mortgages for members.

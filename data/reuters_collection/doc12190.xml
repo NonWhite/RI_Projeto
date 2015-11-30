@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 14:13:03.73</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2039reute
-d f BC-DYNALECTRON-DYN>-BUY   04-01 0079</field>
-	<field name = "TITLE">DYNALECTRON DYN> BUYS AVIATION FACILITY</field>
+	<field name = "titulo">DYNALECTRON DYN> BUYS AVIATION FACILITY</field>
 	<field name = "DATELINE">MCLEAN, Va, April 1 -</field>
-	<field name = "BODY">Dynalectron Corp said it purchased
+	<field name = "content">Dynalectron Corp said it purchased
 certain assets of Standard Aero Inc including leasehold rights
 to its aircraft modification and maintenance facility in
 Phoenix, Ariz.

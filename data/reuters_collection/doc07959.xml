@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 16:05:45.37</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2355reute
-u f BC-CANADIAN-MANUFACTURIN   03-20 0082</field>
-	<field name = "TITLE">CANADIAN MANUFACTURING SHIPMENTS FALL IN MONTH</field>
+	<field name = "titulo">CANADIAN MANUFACTURING SHIPMENTS FALL IN MONTH</field>
 	<field name = "DATELINE">OTTAWA, March 20 -</field>
-	<field name = "BODY">Shipments of products by Canadian
+	<field name = "content">Shipments of products by Canadian
 manufacturers declined by 1.5 pct in January to 21.08 billion
 dlrs, seasonally adjusted, led by a slowdown in transportation
 equipment, Statistics Canada said.

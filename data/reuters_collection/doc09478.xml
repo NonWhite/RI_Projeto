@@ -2,13 +2,10 @@
 	<field name = "DATE">25-MAR-1987 13:46:29.95</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G T M
-f1932reute
-d f BC-BRAZILIAN-LABOUR-UNRE   03-25 0116</field>
-	<field name = "TITLE">BRAZILIAN LABOUR UNREST SPREADS, MANY BANKS SHUT</field>
+	<field name = "titulo">BRAZILIAN LABOUR UNREST SPREADS, MANY BANKS SHUT</field>
 	<field name = "AUTHOR">By Stephen Powell, Reuters</field>
 	<field name = "DATELINE">SAO PAULO, March 25 -</field>
-	<field name = "BODY">Brazil's labour unrest is spreading,
+	<field name = "content">Brazil's labour unrest is spreading,
 with many banks, universities and government statistical
 offices on strike and more pay disputes looming.
     Bankworkers' leaders said that a national strike launched

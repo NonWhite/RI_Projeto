@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 08:16:36.57</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0670reute
-u f BC-INSTITUTES-SEE-NO-WES   04-13 0112</field>
-	<field name = "TITLE">INSTITUTES SEE NO WEST GERMAN RECESSION</field>
+	<field name = "titulo">INSTITUTES SEE NO WEST GERMAN RECESSION</field>
 	<field name = "DATELINE">BONN, April 13 -</field>
-	<field name = "BODY">The five leading West German economic
+	<field name = "content">The five leading West German economic
 research institutes, which have revised down their forecasts
 for 1987 growth, do not predict a recession in West Germany,
 their spokesman, Hans-Juergen Schmahl said.

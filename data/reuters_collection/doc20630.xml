@@ -5,12 +5,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">RM V 
-f2945reute
-u f BC-STOLTENBERG-SAYS-CRIT   10-20 0103</field>
-	<field name = "TITLE">STOLTENBERG SAYS CRITICISM NOT "ONE-WAY STREET"</field>
+	<field name = "titulo">STOLTENBERG SAYS CRITICISM NOT "ONE-WAY STREET"</field>
 	<field name = "DATELINE">BONN, Oct 20 -</field>
-	<field name = "BODY">Finance Minister Gerhard Stoltenberg said he
+	<field name = "content">Finance Minister Gerhard Stoltenberg said he
 was surprised by recent criticism of West German economic
 policies voiced by U.S. Treasury Secretary James Baker but
 added that the criticism was not purely one-sided.

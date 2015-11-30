@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 15:19:43.53</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f2241reute
-u f BC-gulf-grain-barge-frgt   04-01 0129</field>
-	<field name = "TITLE">GULF BARGE FREIGHT HIGHER IN NEARBYS ON CALL</field>
+	<field name = "titulo">GULF BARGE FREIGHT HIGHER IN NEARBYS ON CALL</field>
 	<field name = "DATELINE">ST LOUIS, April 1 -</field>
-	<field name = "BODY">Gulf barge freight rates continued to
+	<field name = "content">Gulf barge freight rates continued to
 show a firmer tone in the nearbys on the assumption that
 changes in the Gulf posted prices will encourage increases in
 both PIK-and-roll activity and barges shipments, with a total

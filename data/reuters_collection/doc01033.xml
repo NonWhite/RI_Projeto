@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 10:01:14.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0410reute
-d f BC-BERYLLIUM-INT'L-SIGNS   03-03 0122</field>
-	<field name = "TITLE">BERYLLIUM INT'L SIGNS JOINT VENTURE PACT</field>
+	<field name = "titulo">BERYLLIUM INT'L SIGNS JOINT VENTURE PACT</field>
 	<field name = "DATELINE">SALT LAKE CITY, Utah, March 3 -</field>
-	<field name = "BODY">Beryllium International
+	<field name = "content">Beryllium International
 Corp> said it has signed a joint venture agreement with Cominco
 American Inc, a unit of Cominco Ltd CLT>, to develop a
 beryllium mine and processing plant on Beryllium

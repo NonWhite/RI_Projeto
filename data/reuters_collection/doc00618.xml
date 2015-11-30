@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:26:12.37</field>
-	<field name = "UNKNOWN">F
-f0505
-reute
-r f BC-JOHN-WILEY-AND-SONS-I   03-02 0063</field>
-	<field name = "TITLE">JOHN WILEY AND SONS INC WILLB> 3RD QTR NET</field>
+	<field name = "titulo">JOHN WILEY AND SONS INC WILLB> 3RD QTR NET</field>
 	<field name = "DATELINE">NEW YORK, Narch 2 -</field>
-	<field name = "BODY">Qtr ended Jan 31
+	<field name = "content">Qtr ended Jan 31
     Shr 72 cts vs 71 cts
     Net 3,062,000 vs 3,023,000
     Revs 58.5 mln vs 56.4 mln

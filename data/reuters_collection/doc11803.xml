@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 04:53:48.94</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">RM
-f0295reute
-r f BC-YUGOSLAV-POWER-INDUST   04-01 0117</field>
-	<field name = "TITLE">YUGOSLAV POWER INDUSTRY MAKES NEW BOND ISSUE</field>
+	<field name = "titulo">YUGOSLAV POWER INDUSTRY MAKES NEW BOND ISSUE</field>
 	<field name = "DATELINE">BELGRADE, April 1 -</field>
-	<field name = "BODY">The Yugoslav power industry yesterday
+	<field name = "content">The Yugoslav power industry yesterday
 floated its second issue of domestic bonds in three months,
 after an experimental issue in January, official sources said.
     Associated Electric Power Enterprises in the Yugoslav

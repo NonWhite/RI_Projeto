@@ -3,13 +3,10 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0197reute
-u f BC-TAIWAN-SHIPBUILDER-LO   03-04 0106</field>
-	<field name = "TITLE">TAIWAN SHIPBUILDER LOOKS FOR JAPANESE VENTURES</field>
+	<field name = "titulo">TAIWAN SHIPBUILDER LOOKS FOR JAPANESE VENTURES</field>
 	<field name = "AUTHOR">By Chen Chien-kuo, Reuters</field>
 	<field name = "DATELINE">TAIPEI, March 5 -</field>
-	<field name = "BODY">Taiwan's state-owned China Shipbuilding
+	<field name = "content">Taiwan's state-owned China Shipbuilding
 Corp (CSBC) plans to seek joint production agreements with
 Japan and further diversify into ship repairing to try to trim
 its debts, chairman Louis Lo said.

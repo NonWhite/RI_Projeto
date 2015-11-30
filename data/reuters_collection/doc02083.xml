@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:35:30.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0341reute
-u f BC-MORTON-THIOKOL-MTI>   03-05 0089</field>
-	<field name = "TITLE">MORTON-THIOKOL MTI> LISTS ON S AND P 500</field>
+	<field name = "titulo">MORTON-THIOKOL MTI> LISTS ON S AND P 500</field>
 	<field name = "DATELINE">CHICAGO, March 5 -</field>
-	<field name = "BODY">Morton-Thiokol Corp will be included in
+	<field name = "content">Morton-Thiokol Corp will be included in
 Standard and Poor's 500 Stock index, effective today, Standard
 and Poor's Corp said.
     Trading in Morton-Thiokol stock opened up 4-1/4 at 50 on

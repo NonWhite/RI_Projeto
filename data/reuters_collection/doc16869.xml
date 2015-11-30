@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 12:30:29.47</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0317reute
-u f BC-ITALIAN-DISCOUNT-CERT   04-17 0116</field>
-	<field name = "TITLE">ITALIAN DISCOUNT CERTIFICATE ISSUE UNDERSUBSCRIBED</field>
+	<field name = "titulo">ITALIAN DISCOUNT CERTIFICATE ISSUE UNDERSUBSCRIBED</field>
 	<field name = "DATELINE">ROME, April 17 -</field>
-	<field name = "BODY">The Bank of Italy said market operators
+	<field name = "content">The Bank of Italy said market operators
 had taken up 1,111 billion lire of indexed government discount
 certificates (CTs) out of an offer of 2,500 billion lire.
     The Bank took up 600 billion lire and 789 billion were

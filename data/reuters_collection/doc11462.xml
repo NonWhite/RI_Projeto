@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 12:30:35.59</field>
 	<field name = "PLACES">ireland</field>
-	<field name = "UNKNOWN">RM
-f1785reute
-u f BC-IRISH-BUDGET-CUTS-DEF   03-31 0101</field>
-	<field name = "TITLE">IRISH BUDGET CUTS DEFICIT TARGET</field>
+	<field name = "titulo">IRISH BUDGET CUTS DEFICIT TARGET</field>
 	<field name = "DATELINE">DUBLIN, March 31 -</field>
-	<field name = "BODY">Ireland's new minority government
+	<field name = "content">Ireland's new minority government
 presented a tough budget that trimmed public spending across
 the board. The current budget deficit target was set at 1.20
 billion punts, which is 6.9 pct of GNP. This compared with the

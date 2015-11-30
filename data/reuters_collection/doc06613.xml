@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 12:37:28.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8649reute
-u f BC-CORRECTED-AMEX-HALT--   03-18 0117</field>
-	<field name = "TITLE">INTEGRATED GENERICS IGN> TO MAKE STATEMENT</field>
+	<field name = "titulo">INTEGRATED GENERICS IGN> TO MAKE STATEMENT</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">Integrated Generics Inc president
+	<field name = "content">Integrated Generics Inc president
 Elliot Friedman told Reuters the company plans to make a
 statement late Thursday or early Friday.
     Trading in the generic drug company's stock was halted

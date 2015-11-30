@@ -4,12 +4,9 @@
 	<field name = "TOPICS">gas</field>
 	<field name = "TOPICS">heat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f1899reute
-u f BC-U.S.-DISTILLATE,-GASO   03-31 0107</field>
-	<field name = "TITLE">U.S. DISTILLATE, GASOLINE INVENTORIES SEEN LOWER</field>
+	<field name = "titulo">U.S. DISTILLATE, GASOLINE INVENTORIES SEEN LOWER</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Tonight's American Petroleum Institute
+	<field name = "content">Tonight's American Petroleum Institute
 weekly inventory report is expected to show moderate drawdowns
 in distillates and gasoline stocks for the week ended March 27,
 analysts and traders said.

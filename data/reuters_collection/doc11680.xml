@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 16:28:52.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2631reute
-r f BC-FDIC-OFFERS-RISKED-BA   03-31 0101</field>
-	<field name = "TITLE">FDIC OFFERS RISKED-BASED CAPITAL RULE FOR BANKS</field>
+	<field name = "titulo">FDIC OFFERS RISKED-BASED CAPITAL RULE FOR BANKS</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">The Federal Deposit Insurance Corp.
+	<field name = "content">The Federal Deposit Insurance Corp.
 proposed for comment a rule setting minimum capital
 requirements for banks based on assessment of the risks of
 their assets.

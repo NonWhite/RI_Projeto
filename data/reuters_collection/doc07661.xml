@@ -4,12 +4,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PEOPLE">keating</field>
-	<field name = "UNKNOWN">RM
-f0884reute
-u f BC-KEATING-SEES-LOWER-AU   03-20 0116</field>
-	<field name = "TITLE">KEATING SEES LOWER AUSTRALIAN CURRENT DEFICIT</field>
+	<field name = "titulo">KEATING SEES LOWER AUSTRALIAN CURRENT DEFICIT</field>
 	<field name = "DATELINE">SYDNEY, March 20 -</field>
-	<field name = "BODY">Australian Treasurer Paul Keating said
+	<field name = "content">Australian Treasurer Paul Keating said
 he expects the country's 1986/87 current account deficit to be
 one billion dlrs lower than the 14.7 billion forecast in the
 August budget. Keating told a financiers' dinner that

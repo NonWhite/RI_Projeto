@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 10:04:51.74</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">RM A
-f5027reute
-b f BC-BAKER-URGES-SUPPORT-F   03-17 0108</field>
-	<field name = "TITLE">BAKER URGES SUPPORT FOR DEVELOPMENT BANKS</field>
+	<field name = "titulo">BAKER URGES SUPPORT FOR DEVELOPMENT BANKS</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Treasury Secretary James Baker urged
+	<field name = "content">Treasury Secretary James Baker urged
 Congress to support the administration's financing requests for
 the multilateral development banks in the next two fiscal
 years.

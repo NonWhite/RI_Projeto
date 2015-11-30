@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 03:05:46.36</field>
-	<field name = "UNKNOWN">RM
-f0082reute
-u f BC-DOLLAR-CLOSES-LOWER-I   04-07 0101</field>
-	<field name = "TITLE">DOLLAR CLOSES LOWER IN TOKYO</field>
+	<field name = "titulo">DOLLAR CLOSES LOWER IN TOKYO</field>
 	<field name = "DATELINE">TOKYO, April 7 -</field>
-	<field name = "BODY">The dollar closed lower on selling by
+	<field name = "content">The dollar closed lower on selling by
 speculators and by institutional investors hedging currency
 risks, dealers said.
     But the dollar's downward potential was limited by

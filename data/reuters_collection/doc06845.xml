@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">iwcc</field>
 	<field name = "EXCHANGES">lme</field>
-	<field name = "UNKNOWN">C M
-f9501reute
-r f BC-COPPER-INDUSTRY-ASKS   03-18 0111</field>
-	<field name = "TITLE">COPPER INDUSTRY ASKS LME FOR STRATEGY STATEMENT</field>
+	<field name = "titulo">COPPER INDUSTRY ASKS LME FOR STRATEGY STATEMENT</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">Representatives of the International
+	<field name = "content">Representatives of the International
 Wrought Copper Council (IWCC) and major copper producers have
 told the London Metal Exchange (LME) a clear statement of its
 forward strategy would lead to a better understanding between

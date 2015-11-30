@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 15:20:23.30</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">E A RM
-f2359reute
-u f BC-CANADIAN-IMPERIAL-CON   04-13 0112</field>
-	<field name = "TITLE">CANADIAN IMPERIAL CONSIDERS BRAZIL LOAN STATUS</field>
+	<field name = "titulo">CANADIAN IMPERIAL CONSIDERS BRAZIL LOAN STATUS</field>
 	<field name = "DATELINE">MONTREAL, April 13 -</field>
-	<field name = "BODY">(Canadian Imperial Bank of Commerce)
+	<field name = "content">(Canadian Imperial Bank of Commerce)
 is considering classifying its 1.2 Canadian billion dlrs in
 loans to Brazil as non-accrual and will decide whether it will
 do so in June, bank chairman R. Donald Fullerton told reporters

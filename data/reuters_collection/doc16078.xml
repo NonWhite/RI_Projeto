@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">thailand</field>
-	<field name = "UNKNOWN">G C
-f2976reute
-u f BC-THAI-RICE-EXPORTS-FAL   04-09 0098</field>
-	<field name = "TITLE">THAI RICE EXPORTS FALL IN WEEK TO APRIL 7</field>
+	<field name = "titulo">THAI RICE EXPORTS FALL IN WEEK TO APRIL 7</field>
 	<field name = "DATELINE">BANGKOK, April 10 -</field>
-	<field name = "BODY">Thailand exported 56,652 tonnes of rice
+	<field name = "content">Thailand exported 56,652 tonnes of rice
 in the week ended April 7, down from 75,160 tonnes the previous
 week, the Commerce Ministry said.
     It said the government and private exporters shipped 41,607

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G
-f0385reute
-u f BC-U.K.-GRAIN-EXPORTS-CO   04-02 0098</field>
-	<field name = "TITLE">U.K. GRAIN EXPORTS CONTINUE TO RISE SHARPLY</field>
+	<field name = "titulo">U.K. GRAIN EXPORTS CONTINUE TO RISE SHARPLY</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">The U.K. Exported 517,600 tonnes of wheat
+	<field name = "content">The U.K. Exported 517,600 tonnes of wheat
 and 315,800 tonnes of barley in the first 25 days of March, the
 Home Grown Cereals Authority (HGCA) said, quoting provisional
 Customs and Excise figures.

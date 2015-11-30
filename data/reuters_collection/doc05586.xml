@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 14:09:26.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3216reute
-r f BC-ATT-T>-MAY-FACE-STRU   03-16 0094</field>
-	<field name = "TITLE">ATT T> MAY FACE STRUGGLE OVER DEREGULATION</field>
+	<field name = "titulo">ATT T> MAY FACE STRUGGLE OVER DEREGULATION</field>
 	<field name = "AUTHOR">By David Brough, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">American Telephone and Telegraph Co
+	<field name = "content">American Telephone and Telegraph Co
 may have a hard time convincing U.S. regulatory authorities
 that lifting controls on its long-distance business will
 benefit consumers, industry and congressional analysts say.

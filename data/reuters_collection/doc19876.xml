@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 15:51:10.06</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G T 
-f2385reute
-d f BC-BRAZIL-LAND-REFORM-PR   06-29 0114</field>
-	<field name = "TITLE">BRAZIL LAND REFORM PROGRAM FALTERS, TENSIONS RISE</field>
+	<field name = "titulo">BRAZIL LAND REFORM PROGRAM FALTERS, TENSIONS RISE</field>
 	<field name = "AUTHOR">By Stephen Powell, Reuters</field>
 	<field name = "DATELINE">SAO PAULO, June 29 -</field>
-	<field name = "BODY">Brazil's land reform program, long
+	<field name = "content">Brazil's land reform program, long
 trumpeted by the government as one of its absolute priorities,
 is mired in bureaucracy after achieving very few of its aims.
     Officials acknowledge that progress is now minimal. Land

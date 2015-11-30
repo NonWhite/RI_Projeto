@@ -16,12 +16,9 @@
 	<field name = "PLACES">thailand</field>
 	<field name = "PLACES">algeria</field>
 	<field name = "PLACES">tunisia</field>
-	<field name = "UNKNOWN">C G
-f6036reute
-u f BC-world-crop-weather   03-17 0101</field>
-	<field name = "TITLE">WORLD CROP WEATHER SUMMARY -- USDA/NOAA</field>
+	<field name = "titulo">WORLD CROP WEATHER SUMMARY -- USDA/NOAA</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Dry weather covered most European
+	<field name = "content">Dry weather covered most European
 crop areas in the week ended March 14, except for those in
 southwestern France, southern Italy, and Greece, the Joint
 Agricultural Weather Facility of the U.S. Agriculture and

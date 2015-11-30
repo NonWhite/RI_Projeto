@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 15:28:30.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0595reute
-d f BC-NORFOLK-SOUTHERN-NSC   03-05 0066</field>
-	<field name = "TITLE">NORFOLK SOUTHERN NSC> COMPLETES COAL PURCHASE</field>
+	<field name = "titulo">NORFOLK SOUTHERN NSC> COMPLETES COAL PURCHASE</field>
 	<field name = "DATELINE">NORFOLK, Va., March 5 -</field>
-	<field name = "BODY">Norfolk Southern Corp said it
+	<field name = "content">Norfolk Southern Corp said it
 completed the purchase of 112 mln tons of recoverable coal
 reserves in Pike County, Ky., from Rouge Steel, a unit of Ford
 Motor Co F>.

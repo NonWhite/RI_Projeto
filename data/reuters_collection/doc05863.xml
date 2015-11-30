@@ -3,12 +3,9 @@
 	<field name = "PLACES">argentina</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">von-weizsaecker</field>
-	<field name = "UNKNOWN">A
-f4577reute
-r f BC-CREDITORS/DEBTORS-SHA   03-17 0110</field>
-	<field name = "TITLE">CREDITORS/DEBTORS SHARE RESPONSIBILITY-WEIZSAECKER</field>
+	<field name = "titulo">CREDITORS/DEBTORS SHARE RESPONSIBILITY-WEIZSAECKER</field>
 	<field name = "DATELINE">BUENOS AIRES, March 17 -</field>
-	<field name = "BODY">West German President Richard von
+	<field name = "content">West German President Richard von
 Weizsaecker said both debtor and creditor nations share
 responsibility for the Third World's foreign debt crisis.
     Weizsaecker, in a speech on the first day of an official

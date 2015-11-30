@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 02:25:17.02</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">RM V Y 
-f0109reute
-u f BC-IRAN-PRESIDENT-DOUBTS   10-19 0113</field>
-	<field name = "TITLE">IRAN PRESIDENT DOUBTS U.S. ACTION AGAINST IRAN</field>
+	<field name = "titulo">IRAN PRESIDENT DOUBTS U.S. ACTION AGAINST IRAN</field>
 	<field name = "DATELINE">NICOSIA, Oct 19 -</field>
-	<field name = "BODY">Iranian President Ali Khamenei said he
+	<field name = "content">Iranian President Ali Khamenei said he
 doubted the U.S. Was in position to take violent action against
 Iran in the Gulf, Tehran Radio reported.
     The U.S. Government "is in a very difficult situation now

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 15:27:23.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2832reute
-h f BC-LANE-TELECOMMUNICATIO   10-19 0080</field>
-	<field name = "TITLE">LANE TELECOMMUNICATIONS PRESIDENT RESIGNS</field>
+	<field name = "titulo">LANE TELECOMMUNICATIONS PRESIDENT RESIGNS</field>
 	<field name = "DATELINE">HOUSTON, Oct 19 -</field>
-	<field name = "BODY">Lane Telecommunications Inc LNTL.O> said
+	<field name = "content">Lane Telecommunications Inc LNTL.O> said
 Richard Lane, its president and chief operating officer,
 resigned effective Oct 23.
     Lane founded the company in 1976 and has been its president

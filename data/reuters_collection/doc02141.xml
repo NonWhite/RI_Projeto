@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:12:24.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0538reute
-u f BC-BEST-PRODUCTS-BES>-F   03-05 0096</field>
-	<field name = "TITLE">BEST PRODUCTS BES> FEBRUARY SALES OFF 12.7 PCT</field>
+	<field name = "titulo">BEST PRODUCTS BES> FEBRUARY SALES OFF 12.7 PCT</field>
 	<field name = "DATELINE">RICHMOND, Va., March 5 -</field>
-	<field name = "BODY">Best Products Inc said sales for
+	<field name = "content">Best Products Inc said sales for
 the four weeks ended February 28 were off 12.7 pct to 111.3 mln
 dlrs from 127.6 mln dlrs a year before, excluding sales from
 catalog stores and Ashby's Ltd outlets that were closed or sold

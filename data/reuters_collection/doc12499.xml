@@ -5,12 +5,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0842reute
-u f BC-FRENCH-FREE-MARKET-CE   04-02 0072</field>
-	<field name = "TITLE">FRENCH FREE MARKET CEREAL EXPORT BIDS DETAILED</field>
+	<field name = "titulo">FRENCH FREE MARKET CEREAL EXPORT BIDS DETAILED</field>
 	<field name = "DATELINE">PARIS, April 2 -</field>
-	<field name = "BODY">French operators have requested licences
+	<field name = "content">French operators have requested licences
 to export 422,000 tonnes of free market maize, 212,000 tonnes
 of barley and 20,000 tonnes of feed wheat at today's EC tender,
 trade sources said.

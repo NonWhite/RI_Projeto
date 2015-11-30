@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 13:38:05.01</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1900reute
-d f BC-LADD-FURNITURE-LADF.   06-01 0040</field>
-	<field name = "TITLE">LADD FURNITURE LADF.O> COMPLETES ACQUISITION</field>
+	<field name = "titulo">LADD FURNITURE LADF.O> COMPLETES ACQUISITION</field>
 	<field name = "DATELINE">HICKORY, N.C., June 1 -</field>
-	<field name = "BODY">LADD Furniture Inc said it has
+	<field name = "content">LADD Furniture Inc said it has
 completed the previously-announced acquisition of
 privately-held Colony House Furniture Inc for an undisclosed
 amount of cash and notes.

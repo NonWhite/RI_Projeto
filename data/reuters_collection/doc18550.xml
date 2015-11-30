@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 07:11:46.87</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F 
-f2613reute
-r f BC-J.-HARDIE-SAYS-HIGHER   06-18 0113</field>
-	<field name = "TITLE">J. HARDIE SAYS HIGHER NET REFLECTS RATIONALISATION</field>
+	<field name = "titulo">J. HARDIE SAYS HIGHER NET REFLECTS RATIONALISATION</field>
 	<field name = "DATELINE">SYDNEY, June 18 -</field>
-	<field name = "BODY">James Hardie Industries Ltd HAHA.S> said
+	<field name = "content">James Hardie Industries Ltd HAHA.S> said
 the 28 pct increase in its 1986/87 net profit reflected the
 benefits of continuing rationalisation and consolidation of
 Australian activities and expansion in the U.S.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 08:32:52.43</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0817reute
-u f BC-HONG-KONG-RAISES-EXCH   03-11 0113</field>
-	<field name = "TITLE">HONG KONG RAISES EXCHANGE FUND BORROWING LIMIT</field>
+	<field name = "titulo">HONG KONG RAISES EXCHANGE FUND BORROWING LIMIT</field>
 	<field name = "DATELINE">HONG KONG, March 11 -</field>
-	<field name = "BODY">The borrowing limit of the Hong Kong
+	<field name = "content">The borrowing limit of the Hong Kong
 Exchange Fund, set up to regulate the value of the Hong Kong
 dollar, has been raised to 50 billion H.K. Dlrs from 30 billion
 by the legislature, an official statement said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 17:53:11.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2730reute
-r f BC-TRAVELERS-TIC>-UNIT   03-24 0102</field>
-	<field name = "TITLE">TRAVELERS TIC> UNIT SELLS MORTGAGE CERTIFICATES</field>
+	<field name = "titulo">TRAVELERS TIC> UNIT SELLS MORTGAGE CERTIFICATES</field>
 	<field name = "DATELINE">New York, March 24 -</field>
-	<field name = "BODY">Travelers Mortgage Services Inc, a
+	<field name = "content">Travelers Mortgage Services Inc, a
 unit of Travelers Corp, is issuing nearly 75.2 mln dlrs of
 mortgage pass-through certificates, said sole manager Morgan
 Stanely and Co Inc.

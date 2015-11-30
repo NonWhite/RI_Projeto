@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 12:15:05.27</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0794reute
-d f BC-NEWPORT-PHARMACEUTICA   03-11 0079</field>
-	<field name = "TITLE">NEWPORT PHARMACEUTICALS NWPH> 3RD QTR LOSS</field>
+	<field name = "titulo">NEWPORT PHARMACEUTICALS NWPH> 3RD QTR LOSS</field>
 	<field name = "DATELINE">NEWPORT BEACH, Calif., March 11 -</field>
-	<field name = "BODY">Period ended January 31.
+	<field name = "content">Period ended January 31.
     Shr loss six cts vs profit one ct
     Net loss 536,000 vs profit 166,000
     Revs 2,099,000 vs 3,149,000

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 05:27:06.20</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0273reute
-u f BC-CHINESE-BANK-TO-MAKE   04-09 0086</field>
-	<field name = "TITLE">CHINESE BANK TO MAKE FIRST FOREIGN BORROWING</field>
+	<field name = "titulo">CHINESE BANK TO MAKE FIRST FOREIGN BORROWING</field>
 	<field name = "DATELINE">PEKING, April 9 -</field>
-	<field name = "BODY">The state-owned People's Construction
+	<field name = "content">The state-owned People's Construction
 Bank of China is making its first foreign borrowing, 300 mln
 dlrs to finance a large ethylene plant in Shanghai, the
 People's Daily said.

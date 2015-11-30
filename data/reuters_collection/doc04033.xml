@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 19:23:42.46</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">C G L M T
-f0967reute
-d f AM-ecuador-tremor 1stld  03-11 0120</field>
-	<field name = "TITLE">ECUADOR DEBT TO BE HONOURED AFTER QUAKE SURVIVAL</field>
+	<field name = "titulo">ECUADOR DEBT TO BE HONOURED AFTER QUAKE SURVIVAL</field>
 	<field name = "DATELINE">QUITO, March 11 -</field>
-	<field name = "BODY">Ecuador, stricken by a severe earthquake,
+	<field name = "content">Ecuador, stricken by a severe earthquake,
 will honour its 8.16 billion dlr foreign debt but only after
 ensuring the survival of the country after the tremor which
 claimed at least 300 lives and caused 4,000 persons to

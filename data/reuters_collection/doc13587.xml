@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:02:13.85</field>
-	<field name = "UNKNOWN">E
-f0517reute
-u f BC-FRANKFURT-BOURSE-CLOS   04-07 0106</field>
-	<field name = "TITLE">FRANKFURT BOURSE CLOSES QUIETLY EASIER</field>
+	<field name = "titulo">FRANKFURT BOURSE CLOSES QUIETLY EASIER</field>
 	<field name = "DATELINE">FRANKFURT, April 7 -</field>
-	<field name = "BODY">A technical reaction to yesterday's
+	<field name = "content">A technical reaction to yesterday's
 strong gains saw leading German share prices fall across the
 board in quiet trading, dealers said.
     Shares gained strongly yesterday after the centre-right CDU

@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 05:57:17.99</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">RM
-f0840
-reute
-r f BC-TAIWAN-BANKS-ASKED-TO   03-03 0102</field>
-	<field name = "TITLE">TAIWAN BANKS ASKED TO TAKE PART IN INDONESIA LOAN</field>
+	<field name = "titulo">TAIWAN BANKS ASKED TO TAKE PART IN INDONESIA LOAN</field>
 	<field name = "DATELINE">TAIPEI, Mar 3 -</field>
-	<field name = "BODY">Chase Manhattan Asia Ltd of Hong Kong has
+	<field name = "content">Chase Manhattan Asia Ltd of Hong Kong has
 approached Taiwan banks to take part in a syndicated loan of
 300 mln U.S. Dlrs to finance a liquefied natural gas (LNG)
 project in Indonesia, local banking sources said.

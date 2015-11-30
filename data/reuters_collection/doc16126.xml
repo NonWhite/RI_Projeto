@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 03:49:40.58</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM
-f0165reute
-u f BC-SLIGHT-DROP-IN-PHILIP   04-13 0113</field>
-	<field name = "TITLE">SLIGHT DROP IN PHILIPPINE TREASURY BILL RATES</field>
+	<field name = "titulo">SLIGHT DROP IN PHILIPPINE TREASURY BILL RATES</field>
 	<field name = "DATELINE">MANILA, April 13 -</field>
-	<field name = "BODY">Rates for five billion pesos worth of
+	<field name = "content">Rates for five billion pesos worth of
 Philippine Treasury bills eased slightly at Friday's auction,
 with tenders totaling 13.94 billion, the Central Bank said.
     It said 1.3 billion pesos of 91-day bills averaged 11.249

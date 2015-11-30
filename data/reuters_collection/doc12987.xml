@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 12:29:08.38</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1620reute
-r f BC-OCCIDENTAL-OXY>-UNIT   04-03 0063</field>
-	<field name = "TITLE">OCCIDENTAL OXY> UNIT SELLS DIVISION</field>
+	<field name = "titulo">OCCIDENTAL OXY> UNIT SELLS DIVISION</field>
 	<field name = "DATELINE">DARIEN, Conn, APril 3 -</field>
-	<field name = "BODY">Occidental Petroleum Corp's
+	<field name = "content">Occidental Petroleum Corp's
 Occidental Chemcial Corp said it sold the Process chemicals
 division it acquired as part of the September 1986  purchase of
 Diamond Shamrock Chemicals to Henkel KGAA of Dusseldorf, West

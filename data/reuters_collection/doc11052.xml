@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 15:59:18.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2459reute
-u f BC-NEWMONT-MINING-NEM>   03-30 0107</field>
-	<field name = "TITLE">NEWMONT MINING NEM> SETS HIGHER SPENDING IN 1987</field>
+	<field name = "titulo">NEWMONT MINING NEM> SETS HIGHER SPENDING IN 1987</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">Newmont Mining Corp estimates its 1987
+	<field name = "content">Newmont Mining Corp estimates its 1987
 capital spending at 137 mln dlrs, its annual report said.
     A company spokesman said this figure excludes Magma Copper
 Co> and compares to spending of about 80 mln dlrs in 1986

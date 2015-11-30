@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:32:22.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0522reute
-d f BC-PHOENIX-STEEL-CORP>   03-12 0104</field>
-	<field name = "TITLE">PHOENIX STEEL CORP> IN NEW DEBT AGREEMENT</field>
+	<field name = "titulo">PHOENIX STEEL CORP> IN NEW DEBT AGREEMENT</field>
 	<field name = "DATELINE">CLAYMONT, Del., March 12 -</field>
-	<field name = "BODY">Phoenix Steel Corp said it
+	<field name = "content">Phoenix Steel Corp said it
 reached a revised debt reorganization agreement under which its
 unsecured trade creditors would receive up to 50 cts on the dlr
 as well as a share in future profits or sale proceeds.

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 06:52:21.21</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0451reute
-u f BC-WEST-GERMAN-INSTITUTE   04-13 0103</field>
-	<field name = "TITLE">WEST GERMAN INSTITUTES CALL FOR EARLY TAX CUTS</field>
+	<field name = "titulo">WEST GERMAN INSTITUTES CALL FOR EARLY TAX CUTS</field>
 	<field name = "DATELINE">BONN, April 13 -</field>
-	<field name = "BODY">The five leading West German economic
+	<field name = "content">The five leading West German economic
 research institutes said the government should do more to
 stimulate economic growth and called for early introduction of
 tax cuts planned for 1990.

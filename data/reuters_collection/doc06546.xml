@@ -3,12 +3,9 @@
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">F A RM
-f8267reute
-b f BC-/CONT'L-ILLINOISCIL>   03-18 0077</field>
-	<field name = "TITLE">CONT'L ILLINOISCIL> SAYS MORATORIUM MAY CUT NET</field>
+	<field name = "titulo">CONT'L ILLINOISCIL> SAYS MORATORIUM MAY CUT NET</field>
 	<field name = "DATELINE">CHICAGO, March 18 -</field>
-	<field name = "BODY">Continental Illinois Corp said if the
+	<field name = "content">Continental Illinois Corp said if the
 Brazilian debt moratorium remains in effect, it may place its
 medium and long term loans to Brazil on a cash basis.
     This would increase non-performing loans by about 380 mln

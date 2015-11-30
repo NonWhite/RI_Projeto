@@ -12,12 +12,9 @@
 	<field name = "TOPICS">cotton</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2349reute
-r f BC-world-s/d   04-09 0103</field>
-	<field name = "TITLE">WORLD SUPPLY/DEMAND ESTIMATES ISSUED BY USDA</field>
+	<field name = "titulo">WORLD SUPPLY/DEMAND ESTIMATES ISSUED BY USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department made
+	<field name = "content">The U.S. Agriculture Department made
 the following 1986/87 projections in its world Supply/Demand
 report, with comparisons, in mln tonnes, except where noted --
     Total World Grain

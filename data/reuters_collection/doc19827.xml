@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 14:36:03.84</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2152reute
-h f BC-SAN-FRANCISCO,-NOT-RE   06-29 0117</field>
-	<field name = "TITLE">SAN FRANCISCO, NOT REGION, HURT BY RESTRUCTURING</field>
+	<field name = "titulo">SAN FRANCISCO, NOT REGION, HURT BY RESTRUCTURING</field>
 	<field name = "DATELINE">SAN FRANCISCO, June 25 -</field>
-	<field name = "BODY">Corporate mergers and acquisitions
+	<field name = "content">Corporate mergers and acquisitions
 in and around San Francisco over the past seven years have had
 only a modest effect on the metropolitan area's economy, a
 leading business-backed organization said.

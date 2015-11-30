@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 02:53:10.22</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f7046reute
-u f BC-JAPAN-EARTHQUAKE-KILL   03-18 0109</field>
-	<field name = "TITLE">JAPAN EARTHQUAKE KILLS ONE, CUTS PHONE LINES</field>
+	<field name = "titulo">JAPAN EARTHQUAKE KILLS ONE, CUTS PHONE LINES</field>
 	<field name = "DATELINE">TOKYO, May 18 -</field>
-	<field name = "BODY">A very strong earthquake which struck
+	<field name = "content">A very strong earthquake which struck
 southwest Japan killed one person and injured at least three,
 cracked walls and cut telephone lines, authorities said.
     The quake, at 0336 GMT, registered 6.9 on the Richter

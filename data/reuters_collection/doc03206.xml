@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 12:23:36.79</field>
 	<field name = "TOPICS">zinc</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">M
-f0865reute
-u f BC-abms-zinc-stocks   03-09 0078</field>
-	<field name = "TITLE">ABMS SAYS U.S. ZINC STOCKS HIGHER IN FEBRUARY</field>
+	<field name = "titulo">ABMS SAYS U.S. ZINC STOCKS HIGHER IN FEBRUARY</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Total U.S. slab zinc stocks held by
+	<field name = "content">Total U.S. slab zinc stocks held by
 smelters rose to 24,735 short tons at the end of February  from
 22,120 short tons at the end of January, the American Bureau of
 Metal Statistics reported.

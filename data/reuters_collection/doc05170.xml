@@ -2,13 +2,10 @@
 	<field name = "DATE">15-MAR-1987 07:12:06.18</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">RM
-f0898reute
-r f BC-SAUDI-BUSINESSMEN-TO   03-15 0105</field>
-	<field name = "TITLE">SAUDI BUSINESSMEN TO DISCUSS PRIVATE SECTOR</field>
+	<field name = "titulo">SAUDI BUSINESSMEN TO DISCUSS PRIVATE SECTOR</field>
 	<field name = "AUTHOR">By Stephen Jukes, Reuters</field>
 	<field name = "DATELINE">ABHA, Saudi Arabia, March 15 -</field>
-	<field name = "BODY">Saudi Arabian business
+	<field name = "content">Saudi Arabian business
 leaders assembled for a conference aimed at thrashing out
 problems facing the private sector of the kingdom's
 oil-dependent economy.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">tunisia</field>
-	<field name = "UNKNOWN">C G
-f2014reute
-u f BC-TUNISIA-SETS-SOFT-WHE   06-15 0058</field>
-	<field name = "TITLE">TUNISIA SETS SOFT WHEAT BUYING TENDER ON JUNE 16</field>
+	<field name = "titulo">TUNISIA SETS SOFT WHEAT BUYING TENDER ON JUNE 16</field>
 	<field name = "DATELINE">PARIS, June 15 -</field>
-	<field name = "BODY">Tunisia has launched a fresh buying tender
+	<field name = "content">Tunisia has launched a fresh buying tender
 for 200,000 tonnes of French soft wheat for tomorrow for
 shipping between July and September, trade sources said.
     Tunisia has in recent weeks cancelled several tenders,

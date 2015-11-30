@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 14:27:43.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2176reute
-d f BC-PICTEL-CORP-PCTL.O>   04-13 0079</field>
-	<field name = "TITLE">PICTEL CORP PCTL.O> CHANGES NAME</field>
+	<field name = "titulo">PICTEL CORP PCTL.O> CHANGES NAME</field>
 	<field name = "DATELINE">PEABODY, Mass., April 13 -</field>
-	<field name = "BODY">PicTel Corp said it has changed
+	<field name = "content">PicTel Corp said it has changed
 its name to PictureTel Corp, effective immediately.
     It said Pacific Telesis Grouyp PAC> had threatened legal
 action if it did not cease the use of the name PicTel, alleging

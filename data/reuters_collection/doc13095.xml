@@ -4,12 +4,9 @@
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">kuwait</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">Y
-f2132reute
-u f BC-BRAZIL-TO-BUY-30,000   04-03 0100</field>
-	<field name = "TITLE">BRAZIL TO BUY 30,000 BPD OF KUWAITI OIL</field>
+	<field name = "titulo">BRAZIL TO BUY 30,000 BPD OF KUWAITI OIL</field>
 	<field name = "DATELINE">RIO DE JANEIRO, April 3 -</field>
-	<field name = "BODY">Brazil will import 30,000 barrels
+	<field name = "content">Brazil will import 30,000 barrels
 per day of crude oil from Kuwait, a spokesman for the state oil
 company Petrobras said.
     He said that, unlike Saudi Arabia, Kuwait did not impose

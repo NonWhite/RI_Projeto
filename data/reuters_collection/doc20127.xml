@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 08:53:35.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0868reute
-r f BC-AMERICAN-MEDICAL-AMI   10-20 0082</field>
-	<field name = "TITLE">AMERICAN MEDICAL AMI> REPURCHASING COMMON</field>
+	<field name = "titulo">AMERICAN MEDICAL AMI> REPURCHASING COMMON</field>
 	<field name = "DATELINE">BEVERLY HILLS, Calif., Oct 20 -</field>
-	<field name = "BODY">American Medical
+	<field name = "content">American Medical
 International said it intends to repurchase from time to time
 on the open market up to 150 mln dlrs of its common stock and
 plans to spend another 250 mln dlrs in reducing long-term debt.

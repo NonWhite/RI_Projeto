@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 15:17:58.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3427reute
-d f BC-BELLSOUTH-BLS>-EXPAN   03-16 0052</field>
-	<field name = "TITLE">BELLSOUTH BLS> EXPANDS MOBILE PHONE SERVICE</field>
+	<field name = "titulo">BELLSOUTH BLS> EXPANDS MOBILE PHONE SERVICE</field>
 	<field name = "DATELINE">JACKSONVILLE, Fla., March 16 -</field>
-	<field name = "BODY">BellSouth Corp's BellSouth
+	<field name = "content">BellSouth Corp's BellSouth
 Mobility Inc unit said its mobile phone customers can now
 choose their long-distance carrier.
     Previously, all mobile calls were routed through American

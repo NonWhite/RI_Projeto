@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 09:17:18.80</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0919reute
-r f BC-ETHYL-CORP-EY>-UNITS   03-26 0078</field>
-	<field name = "TITLE">ETHYL CORP EY> UNITS COMPLETE ACQUISITON</field>
+	<field name = "titulo">ETHYL CORP EY> UNITS COMPLETE ACQUISITON</field>
 	<field name = "DATELINE">RICHMOND, Va., March 26 -</field>
-	<field name = "BODY">Ethyl Corp said its subsidiaries
+	<field name = "content">Ethyl Corp said its subsidiaries
 completed the acquisiton of Nelson Research and Development Co
 NELR>.
     The merger was approved following completion on Jan 27 of a

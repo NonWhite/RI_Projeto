@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">miyazawa</field>
-	<field name = "UNKNOWN">RM
-f0100reute
-b f BC-MIYAZAWA-SAYS-PARIS-A   03-09 0111</field>
-	<field name = "TITLE">MIYAZAWA SAYS PARIS ACCORD HELPING STABILISE RATES</field>
+	<field name = "titulo">MIYAZAWA SAYS PARIS ACCORD HELPING STABILISE RATES</field>
 	<field name = "DATELINE">TOKYO, March 10 -</field>
-	<field name = "BODY">Finance Minister Kiichi Miyazawa said the
+	<field name = "content">Finance Minister Kiichi Miyazawa said the
 Paris currency accord has contributed to the stability of
 exchange rates.
     Miyazawa told a press conference the agreement reached last

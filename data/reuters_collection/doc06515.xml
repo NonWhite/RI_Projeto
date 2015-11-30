@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 10:41:10.23</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f8116reute
-u f BC-DUFF/PHELPS-LOWERS-DU   03-18 0100</field>
-	<field name = "TITLE">DUFF/PHELPS LOWERS DUQUESNE LIGHT DQU> DEBT</field>
+	<field name = "titulo">DUFF/PHELPS LOWERS DUQUESNE LIGHT DQU> DEBT</field>
 	<field name = "DATELINE">CHICAGO, March 18 -</field>
-	<field name = "BODY">Duff and Phelps said it lowered the
+	<field name = "content">Duff and Phelps said it lowered the
 ratings on Duquesne Light Company fixed income securities,
 affecting approximately 1.8 billion dlrs in debt.
     Duquesne first mortgage bonds and debentures were lowered

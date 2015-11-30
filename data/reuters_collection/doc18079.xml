@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 11:43:10.74</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1513reute
-r f BC-3M-MMM>-ACQUIRES-CON   06-02 0082</field>
-	<field name = "TITLE">3M MMM> ACQUIRES CONTROL DATA CDA> UNIT</field>
+	<field name = "titulo">3M MMM> ACQUIRES CONTROL DATA CDA> UNIT</field>
 	<field name = "DATELINE">ST PAUL, Minn., June 2 -</field>
-	<field name = "BODY">Minnesota Mining and Manufacturing
+	<field name = "content">Minnesota Mining and Manufacturing
 said it acquired a computerized hospital information systems
 business from Control Data Corp.
     Terms were not disclosed.

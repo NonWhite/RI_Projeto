@@ -1,15 +1,13 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 02:38:09.32G C</field>
-	<field name = "UNKNOWN">f0108reute</field>
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "TOPICS">castorseed</field>
 	<field name = "TOPICS">castor-oil</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">u f BC-INDIA'S-1986/87-CASTO   03-27 0088</field>
-	<field name = "TITLE">INDIA'S 1986/87 CASTOR OIL EXPORTS FALL - TRADERS</field>
+	<field name = "titulo">INDIA'S 1986/87 CASTOR OIL EXPORTS FALL - TRADERS</field>
 	<field name = "DATELINE">NEW DELHI, March 27 -</field>
-	<field name = "BODY">India's castor oil exports are
+	<field name = "content">India's castor oil exports are
 provisionally estimated at 30,000 tonnes in fiscal 1986/87,
 ending March 31, against 54,000 tonnes in 1985/86 due to a
 shortfall in the domestic castorseed crop, private traders

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 09:36:10.14</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L M T
-f0905reute
-d f BC-TAIWAN-ANNOUNCES-NEW   04-13 0136</field>
-	<field name = "TITLE">TAIWAN ANNOUNCES NEW ROUND OF IMPORT TARIFF CUTS</field>
+	<field name = "titulo">TAIWAN ANNOUNCES NEW ROUND OF IMPORT TARIFF CUTS</field>
 	<field name = "DATELINE">TAIPEI, April 13 -</field>
-	<field name = "BODY">Taiwan announced plans for another round
+	<field name = "content">Taiwan announced plans for another round
 of import tariff cuts on 862 foreign goods shortly before trade
 talks with Washington which officials described as a move to
 help balance trade with the United States.

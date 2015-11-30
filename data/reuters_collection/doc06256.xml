@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 16:04:10.99</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6466reute
-w f BC-HANOVER-COS-INC>-3RD   03-17 0072</field>
-	<field name = "TITLE">HANOVER COS INC> 3RD QTR JAN 31 LOSS</field>
+	<field name = "titulo">HANOVER COS INC> 3RD QTR JAN 31 LOSS</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Oper shr loss 26 cts vs profit 22 cts
+	<field name = "content">Oper shr loss 26 cts vs profit 22 cts
     Oper net loss 672,879 vs profit 596,760
     Revs 2,188,678 vs 2,364,280
     Nine mths

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 14:34:39.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2070reute
-r f BC-MARKITSTAR-MARK>-FIL   03-19 0070</field>
-	<field name = "TITLE">MARKITSTAR MARK> FILES TO OFFER SHARES</field>
+	<field name = "titulo">MARKITSTAR MARK> FILES TO OFFER SHARES</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">MarkitStar Inc said it has filed for
+	<field name = "content">MarkitStar Inc said it has filed for
 an offering of 1,700,000 common shares through underwriters led
 by Woolcott and Co Inc.
     The company said it will sell 1,500,000 shares and

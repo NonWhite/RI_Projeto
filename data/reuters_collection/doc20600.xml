@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 15:00:22.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2828reute
-h f BC-DEERFIELD-FEDERAL-SAV   10-20 0051</field>
-	<field name = "TITLE">DEERFIELD FEDERAL SAVINGS DEER.O> 4TH QTR NET</field>
+	<field name = "titulo">DEERFIELD FEDERAL SAVINGS DEER.O> 4TH QTR NET</field>
 	<field name = "DATELINE">DEERFIELD, Ill., Oct. 20 -</field>
-	<field name = "BODY">Period ended Sept 30
+	<field name = "content">Period ended Sept 30
     Shr 73 cts
     Net 845,000 vs 454,000
     Year

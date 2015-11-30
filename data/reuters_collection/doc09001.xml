@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 15:59:39.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2414reute
-d f BC-HEALTH-RESEARCH-FILES   03-24 0108</field>
-	<field name = "TITLE">HEALTH RESEARCH FILES FOR BANKRUPTCY</field>
+	<field name = "titulo">HEALTH RESEARCH FILES FOR BANKRUPTCY</field>
 	<field name = "DATELINE">MINNEAPOLIS, Minn., March 24 -</field>
-	<field name = "BODY">Health Research and
+	<field name = "content">Health Research and
 Management Group> said it has filed for protection under
 Chapter 11 of the federal bankruptcy law.
     The company said it filed the petitions to reorganize debt

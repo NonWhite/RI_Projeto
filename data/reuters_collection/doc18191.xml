@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:09:48.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2146reute
-r f BC-ALTERNACARE-ALTN.O>   06-02 0073</field>
-	<field name = "TITLE">ALTERNACARE ALTN.O> CHAIRMAN STEPS DOWN</field>
+	<field name = "titulo">ALTERNACARE ALTN.O> CHAIRMAN STEPS DOWN</field>
 	<field name = "DATELINE">LOS ANGELES, June 2 -</field>
-	<field name = "BODY">Alternacare Corp said Wallace Reed
+	<field name = "content">Alternacare Corp said Wallace Reed
 has stepped down from his duties as chairman of the board and
 has been named chairman emeritus.
     Reed will continue to serve on its board, Alternacare said,

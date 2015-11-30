@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 07:24:02.04</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "TOPICS">interest</field>
-	<field name = "UNKNOWN">RM
-f0625reute
-u f BC-SPAIN-EXTENDS-RESERVE   03-11 0095</field>
-	<field name = "TITLE">SPAIN EXTENDS RESERVE REQUIREMENT</field>
+	<field name = "titulo">SPAIN EXTENDS RESERVE REQUIREMENT</field>
 	<field name = "DATELINE">MADRID, March 11 -</field>
-	<field name = "BODY">The Bank of Spain has extended the
+	<field name = "content">The Bank of Spain has extended the
 reserve requirement for banks to their convertible peseta funds
 in an attempt to curb speculation in short-term capital which
 is currently fuelling money supply growth.

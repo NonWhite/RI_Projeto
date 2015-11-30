@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 15:18:08.67</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0242reute
-d f BC-U.K.-GOVERNMENT-ISSUE   03-12 0108</field>
-	<field name = "TITLE">U.K. GOVERNMENT ISSUES INSIDER DEALING SUMMONS</field>
+	<field name = "titulo">U.K. GOVERNMENT ISSUES INSIDER DEALING SUMMONS</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">The Department of Trade and Industry,
+	<field name = "content">The Department of Trade and Industry,
 DTI, has issued insider dealing charges against a former
 employee of British and Commonwealth Shipping Co Plc BCOM.L>,
 a DTI statement said.

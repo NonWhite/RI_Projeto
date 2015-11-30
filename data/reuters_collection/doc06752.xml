@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 15:20:39.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f9233reute
-r f BC-HYPONEX-HYPX>-SELLS   03-18 0098</field>
-	<field name = "TITLE">HYPONEX HYPX> SELLS DEBENTURES AT 11.828 PCT</field>
+	<field name = "titulo">HYPONEX HYPX> SELLS DEBENTURES AT 11.828 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">Hyponex Corp is raising 150 mln dlrs
+	<field name = "content">Hyponex Corp is raising 150 mln dlrs
 through an offering of senior subordinated debentures due 1999
 yielding 11.828 pct, said sole underwriter Drexel Burnham
 Lambert Inc.

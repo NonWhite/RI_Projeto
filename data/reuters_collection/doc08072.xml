@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">21-MAR-1987 23:51:41.93</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0063reute
-u f BC-POLL-PUTS-BRITISH-ALL   03-21 0086</field>
-	<field name = "TITLE">POLL PUTS BRITISH ALLIANCE IN SECOND PLACE</field>
+	<field name = "titulo">POLL PUTS BRITISH ALLIANCE IN SECOND PLACE</field>
 	<field name = "DATELINE">LONDON, March 22 -</field>
-	<field name = "BODY">Britain's centrist Liberal-Social
+	<field name = "content">Britain's centrist Liberal-Social
 Democratic Alliance has crept ahead of the opposition Labour
 party to become the country's second political force, according
 to a Gallup opinion poll.

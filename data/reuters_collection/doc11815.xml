@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">F T C
-f0332reute
-u f BC-SINGAPORE'S-UIC-TO-BU   04-01 0108</field>
-	<field name = "TITLE">SINGAPORE'S UIC TO BUY INTO TECK HOCK COFFEE FIRM</field>
+	<field name = "titulo">SINGAPORE'S UIC TO BUY INTO TECK HOCK COFFEE FIRM</field>
 	<field name = "DATELINE">SINGAPORE, April 1 -</field>
-	<field name = "BODY">Singapore's United Industrial Corp Ltd
+	<field name = "content">Singapore's United Industrial Corp Ltd
 (UIC) has agreed in principle to inject 16 mln dlrs in
 convertible loan stock into Teck Hock and Co (Pte) Ltd>, a
 creditor bank official said.

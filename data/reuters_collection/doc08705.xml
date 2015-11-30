@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 08:41:06.12</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0773reute
-b f BC-/U.S.-FEB-DURABLE-GOO   03-24 0084</field>
-	<field name = "TITLE">U.S. FEB DURABLE GOODS ROSE 6.0 PCT</field>
+	<field name = "titulo">U.S. FEB DURABLE GOODS ROSE 6.0 PCT</field>
 	<field name = "DATELINE">WASHINGTON, March 24 -</field>
-	<field name = "BODY">New orders for durable goods
+	<field name = "content">New orders for durable goods
 received by U.S. manufacturers rose 5.7 billion dlrs, or 6.0
 pct, in February to 101.2 billion dlrs, the Commerce Department
 said.

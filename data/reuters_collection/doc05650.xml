@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 15:43:29.13</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3487reute
-h f BC-LYPHOMED-LMED>,-VEST   03-16 0094</field>
-	<field name = "TITLE">LYPHOMED LMED>, VESTAR VSTR> JOINT VENTURE</field>
+	<field name = "titulo">LYPHOMED LMED>, VESTAR VSTR> JOINT VENTURE</field>
 	<field name = "DATELINE">ROSEMONT, ILL., March 16 -</field>
-	<field name = "BODY">LyphoMed Inc said it and Vestar
+	<field name = "content">LyphoMed Inc said it and Vestar
 Inc entered into a joint venture to develop and market liposome
 formulations of selected drugs.
     Liposomes are spheres of subcellular size which are

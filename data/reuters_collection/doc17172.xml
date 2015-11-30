@@ -2,13 +2,10 @@
 	<field name = "DATE">24-APR-1987 16:22:19.48</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2446reute
-d f BC-U.S.-GASOLINE-SURPLUS   04-24 0104</field>
-	<field name = "TITLE">U.S. GASOLINE SURPLUS SEEN OVER NEAR TERM</field>
+	<field name = "titulo">U.S. GASOLINE SURPLUS SEEN OVER NEAR TERM</field>
 	<field name = "AUTHOR">By SUZANNA SANBORN, Reuters</field>
 	<field name = "DATELINE">NEW YORK, April 24 -</field>
-	<field name = "BODY">Unless U.S. refiners reduce the amount
+	<field name = "content">Unless U.S. refiners reduce the amount
 of gasoline they now produce, the oil industry will enter the
 coming summer driving season with the largest surplus of motor
 fuel since 1984, oil analysts and traders said.

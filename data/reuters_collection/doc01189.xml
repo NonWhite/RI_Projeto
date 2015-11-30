@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 12:55:12.85</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lse</field>
-	<field name = "UNKNOWN">RM
-f0176reute
-r f BC-LONDON-OPTIONS-MARKET   03-03 0105</field>
-	<field name = "TITLE">LONDON OPTIONS MARKET SEES CONTINUED HIGH GROWTH</field>
+	<field name = "titulo">LONDON OPTIONS MARKET SEES CONTINUED HIGH GROWTH</field>
 	<field name = "DATELINE">LONDON, March 3 -</field>
-	<field name = "BODY">The London Stock Exchange's traded
+	<field name = "content">The London Stock Exchange's traded
 options market plans volume growth of at least 80 pct a year,
 and will more than double the range of options available by the
 end of 1988, options committee chairman Geoffrey Chamberlain

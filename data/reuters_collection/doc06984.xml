@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">north-korea</field>
-	<field name = "UNKNOWN">RM M C
-f0277reute
-u f BC-NORTH-KOREA-TO-RESURR   03-19 0103</field>
-	<field name = "TITLE">NORTH KOREA TO RESURRECT GOLD MINE TO REPAY DEBT</field>
+	<field name = "titulo">NORTH KOREA TO RESURRECT GOLD MINE TO REPAY DEBT</field>
 	<field name = "DATELINE">TOKYO, March 19 -</field>
-	<field name = "BODY">Pyongyang and a group of Tokyo-based
+	<field name = "content">Pyongyang and a group of Tokyo-based
 North Korean businessmen plan to resurrect a North Korean
 goldmine and boost annual output to almost one tonne within two
 years from 600 pounds at present, said Li Sangsu, a spokesman

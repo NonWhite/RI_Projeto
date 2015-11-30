@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 18:15:28.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3520reute
-u f BC-FIRST-MISSISSIPPI-FR   10-20 0086</field>
-	<field name = "TITLE">FIRST MISSISSIPPI FRM> MAY REPURCHASE STOCK</field>
+	<field name = "titulo">FIRST MISSISSIPPI FRM> MAY REPURCHASE STOCK</field>
 	<field name = "DATELINE">JACKSON, Miss., Oct 20 -</field>
-	<field name = "BODY">First Mississippi Corp said in
+	<field name = "content">First Mississippi Corp said in
 view of the recent decline in its stock price due to the drop
 in the stock market, it is considering a repurchase of its
 common stock.

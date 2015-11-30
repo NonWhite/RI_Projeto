@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 09:05:28.54</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0881reute
-u f BC-INTERLINK-SAYS-NOT-PL   03-31 0108</field>
-	<field name = "TITLE">INTERLINK SAYS NOT PLANNING BID FOR PUROLATOR</field>
+	<field name = "titulo">INTERLINK SAYS NOT PLANNING BID FOR PUROLATOR</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">British package courier Interlink
+	<field name = "content">British package courier Interlink
 Express Plc> does not plan to bid for the whole or part of  
 Purolator Courier Corp PCC.N>, a spokesman said.
     "There is no intention of making any sort of approach to

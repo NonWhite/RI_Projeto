@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 04:48:52.24</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0397reute
-b f BC-UNILEVER-UNIT-ISSUES   03-09 0102</field>
-	<field name = "TITLE">UNILEVER UNIT ISSUES 40 MLN AUSTRALIAN DLR BOND</field>
+	<field name = "titulo">UNILEVER UNIT ISSUES 40 MLN AUSTRALIAN DLR BOND</field>
 	<field name = "DATELINE">London, March 9 -</field>
-	<field name = "BODY">Unilever Australia Ltd is issuing 40 mln
+	<field name = "content">Unilever Australia Ltd is issuing 40 mln
 Australian dlrs of bonds due April 14, 1990 carrying a coupon
 of 14-3/4 pct and priced at 101-1/2, said County NatWest
 Capital Markets as lead manager.

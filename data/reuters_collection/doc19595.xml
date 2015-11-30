@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:20:48.89</field>
-	<field name = "UNKNOWN">F 
-f0876reute
-b f BC-/ALLIS-CHALMERS-AH>   06-29 0066</field>
-	<field name = "TITLE">ALLIS-CHALMERS AH> FILES FOR CHAPTER 11</field>
+	<field name = "titulo">ALLIS-CHALMERS AH> FILES FOR CHAPTER 11</field>
 	<field name = "DATELINE">MILWAUKEE, Wis., June 29 -</field>
-	<field name = "BODY">Allis-Chalmers Corp said the
+	<field name = "content">Allis-Chalmers Corp said the
 company and its domestic affiliates filed voluntary petitions
 for reorganization under Chapter 11 of the Federal Bankruptcy
 Code in the U.S. Bankruptcy Court for the Southern District of

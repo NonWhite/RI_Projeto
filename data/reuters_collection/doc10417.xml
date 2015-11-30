@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:51:34.43RM</field>
-	<field name = "UNKNOWN">f0911reute</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">austria</field>
-	<field name = "UNKNOWN">u f BC-AUSTRIA-DOES-NOT-INTE   03-27 0101</field>
-	<field name = "TITLE">AUSTRIA DOES NOT INTERVENE TO SUPPORT DOLLAR</field>
+	<field name = "titulo">AUSTRIA DOES NOT INTERVENE TO SUPPORT DOLLAR</field>
 	<field name = "DATELINE">VIENNA, March 27 -</field>
-	<field name = "BODY">The Austrian National Bank did not
+	<field name = "content">The Austrian National Bank did not
 intervene on the foreign exchange markets today to support the
 dollar, deputy banking department chief Herbert Danzinger told
 Reuters.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 08:22:13.74</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0705reute
-u f BC-JAPAN-DIVISION-OF-LAB   04-08 0114</field>
-	<field name = "TITLE">JAPAN DIVISION OF LABOUR WITH ASIA URGED</field>
+	<field name = "titulo">JAPAN DIVISION OF LABOUR WITH ASIA URGED</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">Japan should promote division of labour
+	<field name = "content">Japan should promote division of labour
 with its Asian neighbours, especially the newly industrialized
 countries, to help achieve more balanced world economic growth,
 the Bank of Japan said in a report.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0183reute
-b f BC-/U.S.-TRADE-DEFICIT-3   03-11 0095</field>
-	<field name = "TITLE">U.S. TRADE DEFICIT 38.37 BILLION DLRS IN 4TH QTR</field>
+	<field name = "titulo">U.S. TRADE DEFICIT 38.37 BILLION DLRS IN 4TH QTR</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">The U.S. merchandise trade deficit
+	<field name = "content">The U.S. merchandise trade deficit
 on a balance of payments basis was a record 38.37 billion dlrs
 in the October to December fourth quarter, the Commerce
 Department said.

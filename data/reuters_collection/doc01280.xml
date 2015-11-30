@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 15:40:45.10</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0759reute
-d f BC-AST-RESEARCH-INC-AST   03-03 0087</field>
-	<field name = "TITLE">AST RESEARCH INC ASTA> NOMINATES BOARD MEMBERS</field>
+	<field name = "titulo">AST RESEARCH INC ASTA> NOMINATES BOARD MEMBERS</field>
 	<field name = "DATELINE">IRVINE, Calif., March 3 -</field>
-	<field name = "BODY">AST Research Inc said it
+	<field name = "content">AST Research Inc said it
 nominated Richard Goeglein, president and chief operating
 officer for Holiday Corp, and Phillip Matthews, chairman and
 chief executive officer for Echelon Sports Corp, for election

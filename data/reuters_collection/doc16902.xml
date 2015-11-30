@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 15:22:40.82</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0405reute
-b f BC-/WHITE-HOUSE-SAYS-U.S   04-17 0103</field>
-	<field name = "TITLE">WHITE HOUSE SAYS U.S. MONETARY POLICY CORRECT</field>
+	<field name = "titulo">WHITE HOUSE SAYS U.S. MONETARY POLICY CORRECT</field>
 	<field name = "DATELINE">SANTA BARBARA, Calif, April 17 -</field>
-	<field name = "BODY">The White House,
+	<field name = "content">The White House,
 distancing itself from remarks by the administration's budget
 chief, said the Federal Reserve's current course of monetary
 policy was appropriate.

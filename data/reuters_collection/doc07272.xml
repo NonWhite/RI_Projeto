@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 13:07:24.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f1783reute
-d f BC-TRIPLE-EXPIRATION-MAY   03-19 0111</field>
-	<field name = "TITLE">TRIPLE-EXPIRATION MAY JOLT STOCK MARKET</field>
+	<field name = "titulo">TRIPLE-EXPIRATION MAY JOLT STOCK MARKET</field>
 	<field name = "AUTHOR">By Andrew Stern, Reuters</field>
 	<field name = "DATELINE">CHICAGO, March 19 -</field>
-	<field name = "BODY">The stock market could be jolted one
+	<field name = "content">The stock market could be jolted one
 way or another on Friday as the so-called triple witching
 expiration raises the specter of volatile movement.
     The Dow Jones Industrial Average could soar or plunge as

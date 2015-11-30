@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1215reute
-r f BC-ASCS-SEEKS-OFFERS-TO   03-19 0073</field>
-	<field name = "TITLE">ASCS SEEKS OFFERS TO PROCESS CCC ROUGH RICE</field>
+	<field name = "titulo">ASCS SEEKS OFFERS TO PROCESS CCC ROUGH RICE</field>
 	<field name = "DATELINE">KANSAS CITY, March 19 -</field>
-	<field name = "BODY">The Agricultural Stabilization and
+	<field name = "content">The Agricultural Stabilization and
 Conservation Service (ASCS) is seeking offers to process rough
 rice owned by the Commodity Credit Corporation (CCC) and
 deliver about 27.0 mln pounds of milled rice for export

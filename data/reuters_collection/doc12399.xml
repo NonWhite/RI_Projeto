@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 02:37:24.43</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0153reute
-u f BC-SANWA-BANK-LOOKS-TO-S   04-02 0096</field>
-	<field name = "TITLE">SANWA BANK LOOKS TO SECURITIES, WORLD OPERATIONS</field>
+	<field name = "titulo">SANWA BANK LOOKS TO SECURITIES, WORLD OPERATIONS</field>
 	<field name = "DATELINE">TOKYO, April 2 -</field>
-	<field name = "BODY">The Sanwa Bank Ltd's> three-year business
+	<field name = "content">The Sanwa Bank Ltd's> three-year business
 plan foresees securities and international operations making a
 greater contribution to operating profits, a bank official
 said.

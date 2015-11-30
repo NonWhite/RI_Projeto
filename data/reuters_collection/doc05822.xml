@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 05:21:48.19</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f4368reute
-b f BC-SWEDISH-EXPORT-CREDIT   03-17 0122</field>
-	<field name = "TITLE">SWEDISH EXPORT CREDIT LAUNCHES AUSTRALIAN DLR BOND</field>
+	<field name = "titulo">SWEDISH EXPORT CREDIT LAUNCHES AUSTRALIAN DLR BOND</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">Swedish Export Credit (SEK) has launched
+	<field name = "content">Swedish Export Credit (SEK) has launched
 a novel 220 mln Australian dlr bond which will give the
 investor the option of receiving interest and principal in
 Australian dollars or marks, Warburg Securities said as lead

@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">singapore</field>
 	<field name = "EXCHANGES">simex</field>
-	<field name = "UNKNOWN">A RM
-f2585reute
-u f BC-SINGAPORE-EXCHANGE-PL   03-19 0107</field>
-	<field name = "TITLE">SINGAPORE EXCHANGE PLANS OPTIONS CONTRACTS</field>
+	<field name = "titulo">SINGAPORE EXCHANGE PLANS OPTIONS CONTRACTS</field>
 	<field name = "DATELINE">BOCA RATON, Fla, March 19 -</field>
-	<field name = "BODY">The Singapore International
+	<field name = "content">The Singapore International
 Monetary Exchange Ltd, SIMEX, said it would launch at least two
 options on futures contracts this year.
     SIMEX said in a press release that the options contracts

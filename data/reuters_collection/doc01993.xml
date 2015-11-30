@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 08:48:26.52</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0933reute
-u f BC-BAKER-BKO>-SUES-TO-F   03-05 0083</field>
-	<field name = "TITLE">BAKER BKO> SUES TO FORCE HUGHES HT> MERGER</field>
+	<field name = "titulo">BAKER BKO> SUES TO FORCE HUGHES HT> MERGER</field>
 	<field name = "DATELINE">HOUSTON, March 5 -</field>
-	<field name = "BODY">Baker International corp said it has
+	<field name = "content">Baker International corp said it has
 filed suit in state court in Houston to compel Hughes Tool Co
 to complete its proposed merger with Baker.
     Late yesterday, Hughes said it had terminated the merger

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:11:23.24</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f2716reute
-u f BC-IFC-PLANS-TO-LEAD-THI   03-16 0098</field>
-	<field name = "TITLE">IFC PLANS TO LEAD THIRD WORLD TO CAPITAL MARKETS</field>
+	<field name = "titulo">IFC PLANS TO LEAD THIRD WORLD TO CAPITAL MARKETS</field>
 	<field name = "DATELINE">BRUSSELS, March 16 -</field>
-	<field name = "BODY">The International Finance Corporation
+	<field name = "content">The International Finance Corporation
 is planning to intervene to help certain developing country
 companies to borrow on world capital markets, IFC chief
 executive Sir William Ryrie told a news conference.

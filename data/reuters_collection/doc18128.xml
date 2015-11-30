@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 12:32:25.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1779reute
-u f AM-AIDS   06-02 0089</field>
-	<field name = "TITLE">AZT SUPRESSES DISEASES BESIDES AIDS, RESEARCHERS</field>
+	<field name = "titulo">AZT SUPRESSES DISEASES BESIDES AIDS, RESEARCHERS</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">Scientists reported that AZT, a
+	<field name = "content">Scientists reported that AZT, a
 compound found useful in fighting AIDS, can also suppress a
 wide range of diseases, including certain types of leukemia.
       A paper on AZT, presented at the Third International

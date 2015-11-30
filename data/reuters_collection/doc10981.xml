@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 14:07:36.52</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">E F
-f2153reute
-r f BC-sabena-begins-brussel   03-30 0053</field>
-	<field name = "TITLE">SABENA BEGINS BRUSSELS-TORONTO SERVICE</field>
+	<field name = "titulo">SABENA BEGINS BRUSSELS-TORONTO SERVICE</field>
 	<field name = "DATELINE">Toronto, March 30 -</field>
-	<field name = "BODY">Sabena Belgian World Airlines said it
+	<field name = "content">Sabena Belgian World Airlines said it
 began today three-times-weekly service between Brussels and
 Toronto.
     Sabena said it will fly combined passenger-freight flights

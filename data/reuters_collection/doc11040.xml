@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 15:27:02.85</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2404reute
-b f BC-SANTA-FE-SFX>-AWARE   03-30 0121</field>
-	<field name = "TITLE">SANTA FE SFX> AWARE OF HENLEY HENG> STAKE</field>
+	<field name = "titulo">SANTA FE SFX> AWARE OF HENLEY HENG> STAKE</field>
 	<field name = "DATELINE">CHICAGO, March 30 -</field>
-	<field name = "BODY">Santa Fe Southern Pacific Corp said it
+	<field name = "content">Santa Fe Southern Pacific Corp said it
 has discussed with Henley Group that company's almost five pct
 stake and was told the holdings are for investment purposes.
     "We have confirmed with the Henley Group that they own

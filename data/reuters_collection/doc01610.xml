@@ -5,12 +5,9 @@
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">turkey</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM
-f0039reute
-u f BC-TURKEY-SEES-1.5-BILLI   03-04 0108</field>
-	<field name = "TITLE">TURKEY SEES 1.5 BILLION DLR DEFICIT IN 1986</field>
+	<field name = "titulo">TURKEY SEES 1.5 BILLION DLR DEFICIT IN 1986</field>
 	<field name = "DATELINE">ANKARA, March 4 -</field>
-	<field name = "BODY">Turkey expects a 1986 balance of payments
+	<field name = "content">Turkey expects a 1986 balance of payments
 deficit of 1.5 billion dlrs, well over target, but is taking
 steps to improve its performance in this and other fields, Ali
 Tigrel, director of economic planning at the State Planning

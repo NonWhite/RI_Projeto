@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 12:14:30.82</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0209
-reute
-r f BC-PANHANDLE'S-PEL>-TRU   03-02 0108</field>
-	<field name = "TITLE">PANHANDLE'S PEL> TRUNKLINE REDUCES GAS RATES</field>
+	<field name = "titulo">PANHANDLE'S PEL> TRUNKLINE REDUCES GAS RATES</field>
 	<field name = "DATELINE">HOUSTON, March 2 -</field>
-	<field name = "BODY">Panhandle Eastern Corp's Trunkline Gas
+	<field name = "content">Panhandle Eastern Corp's Trunkline Gas
 Co pipeline subsidiary said it is reducing the commodity
 component of its wholesale natural gas rate four pct, effective
 immediately.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 13:31:49.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1820reute
-r f BC-TRAMMEL-CROW>-TO-BUY   06-19 0083</field>
-	<field name = "TITLE">TRAMMEL CROW> TO BUY WISCONSIN FWB> BUILDING</field>
+	<field name = "titulo">TRAMMEL CROW> TO BUY WISCONSIN FWB> BUILDING</field>
 	<field name = "DATELINE">CHICAGO, June 19 -</field>
-	<field name = "BODY">Trammel Crow Co said it agreed to buy
+	<field name = "content">Trammel Crow Co said it agreed to buy
 the 42-story headquarters building of First Wisconsin Corp, for
 undisclosed terms.
     The privately held real estate development and investment

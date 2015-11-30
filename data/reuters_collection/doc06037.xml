@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 11:39:54.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5452reute
-r f BC-BUTLER-BTLR>-TO-BUY   03-17 0061</field>
-	<field name = "TITLE">BUTLER BTLR> TO BUY BACK 600,000 SHARES</field>
+	<field name = "titulo">BUTLER BTLR> TO BUY BACK 600,000 SHARES</field>
 	<field name = "DATELINE">KANSAS CITY, MO., March 17 -</field>
-	<field name = "BODY">Butler Manufacturing Co said
+	<field name = "content">Butler Manufacturing Co said
 its board authorized the repurchase of up to 600,000 shares, or
 12 pct of its outstanding common stock.
     It said purchases will be made in open market and private

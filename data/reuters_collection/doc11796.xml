@@ -2,13 +2,10 @@
 	<field name = "DATE">1-APR-1987 04:04:17.47</field>
 	<field name = "PLACES">australia</field>
 	<field name = "EXCHANGES">asx</field>
-	<field name = "UNKNOWN">RM
-f0207reute
-u f BC-AUSTRALIA-STOCK-EXCHA   04-01 0085</field>
-	<field name = "TITLE">AUSTRALIA STOCK EXCHANGES ENTER NEW ERA</field>
+	<field name = "titulo">AUSTRALIA STOCK EXCHANGES ENTER NEW ERA</field>
 	<field name = "AUTHOR">By Peter Bale, Reuters</field>
 	<field name = "DATELINE">SYDNEY, April 1 -</field>
-	<field name = "BODY">The Australian Stock
+	<field name = "content">The Australian Stock
  Exchange Ltd (ASX)
 today took up the responsibility for administering a new
 coordinated market made up of Australia's six former exchanges,

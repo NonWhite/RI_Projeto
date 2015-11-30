@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">F
-f0176reute
-u f BC-DOW-CHEMICAL-DOW>-TO   03-04 0057</field>
-	<field name = "TITLE">DOW CHEMICAL DOW> TO SELL SOUTH AFRICAN UNIT</field>
+	<field name = "titulo">DOW CHEMICAL DOW> TO SELL SOUTH AFRICAN UNIT</field>
 	<field name = "DATELINE">MIDLAND, Mich., March 4 -</field>
-	<field name = "BODY">Dow Chemical Co said it has
+	<field name = "content">Dow Chemical Co said it has
 agreed in principle to sell its industrial chemicals and
 plastics business interests in South Africa and related assets
 to a group of South African investors for undisclosed terms,

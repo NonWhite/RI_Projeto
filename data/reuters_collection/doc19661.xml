@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 11:05:49.19</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">C G L M T 
-f1315reute
-r f BC-BANGLADESH-GOVERNMENT   06-29 0186</field>
-	<field name = "TITLE">BANGLADESH GOVERNMENT DROPS BUDGET TAX PROPOSALS</field>
+	<field name = "titulo">BANGLADESH GOVERNMENT DROPS BUDGET TAX PROPOSALS</field>
 	<field name = "DATELINE">DHAKA, June 29 -</field>
-	<field name = "BODY">The Bangladesh government dropped from its
+	<field name = "content">The Bangladesh government dropped from its
 proposed budget some tax increases that had provoked opposition
 parties to call a national strike for tomorrow.
     Prime Minister Mizanur Rahman Choudhury told Parliament

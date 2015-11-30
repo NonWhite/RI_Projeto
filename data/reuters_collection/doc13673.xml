@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:00:21.66</field>
-	<field name = "UNKNOWN">C L
-f0689reute
-u f BC-SIOUX-CITY-HOGS-SEEN   04-07 0045</field>
-	<field name = "TITLE">SIOUX CITY HOGS SEEN UP 0.50 DLR - PRIVATE</field>
+	<field name = "titulo">SIOUX CITY HOGS SEEN UP 0.50 DLR - PRIVATE</field>
 	<field name = "DATELINE">Sioux City, April 7 - Sunny/34 degrees -</field>
-	<field name = "BODY">Hog prices
+	<field name = "content">Hog prices
 expected 0.50 dlr higher on estimated receipts of 3,200 head,
 private sources said. Top seen at 51.00 dlrs per cwt.
     Sources cited higher cut-out values late yesterday.

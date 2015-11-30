@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 18:39:14.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3550reute
-d f BC-FIRST-FEDERAL-WOOSTER   10-20 0060</field>
-	<field name = "TITLE">FIRST FEDERAL WOOSTER SETS FIRST PAYOUT</field>
+	<field name = "titulo">FIRST FEDERAL WOOSTER SETS FIRST PAYOUT</field>
 	<field name = "DATELINE">WOOSTER, N.H., Oct 20 -</field>
-	<field name = "BODY">First Federal Savings and Loan
+	<field name = "content">First Federal Savings and Loan
 Association of Wooster> said it declared its first quarterly
 dividend of seven cts per share.
     The dividend is payable November 20 to stockholders of

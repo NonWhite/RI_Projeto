@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 12:15:26.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1611reute
-r f BC-BROWN-GROUP-BG>-DEBT   04-01 0110</field>
-	<field name = "TITLE">BROWN GROUP BG> DEBT DOWNGRADED BY S/P</field>
+	<field name = "titulo">BROWN GROUP BG> DEBT DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 lowered 128 mln dlrs of Brown Group Inc's senior debt to
 A-minus from A and commercial paper to A-2 from A-1.
     The agency said a decline in sales and profits were little

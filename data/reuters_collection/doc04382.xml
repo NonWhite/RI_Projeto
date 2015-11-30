@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 13:33:12.59</field>
 	<field name = "PLACES">morocco</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f0957reute
-u f BC-MOROCCO-SECURES-BULK   03-12 0092</field>
-	<field name = "TITLE">MOROCCO SECURES BULK OF EXTRA AID SOUGHT</field>
+	<field name = "titulo">MOROCCO SECURES BULK OF EXTRA AID SOUGHT</field>
 	<field name = "DATELINE">PARIS, March 12 -</field>
-	<field name = "BODY">Morocco is likely to get an extra aid
+	<field name = "content">Morocco is likely to get an extra aid
 package exceeding 100 mln Special Drawing Rights (126 mln dlrs)
 in 1987 following a three-day Consultative Group meeting of
 donors chaired by the World Bank, Moroccan Finance Minister

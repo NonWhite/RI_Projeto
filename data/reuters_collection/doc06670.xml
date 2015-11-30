@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 13:37:45.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8920reute
-d f BC-PUBLICKER-PUL>-TO-GE   03-18 0119</field>
-	<field name = "TITLE">PUBLICKER PUL> TO GET CLEAN 1986 AUDIT OPINION</field>
+	<field name = "titulo">PUBLICKER PUL> TO GET CLEAN 1986 AUDIT OPINION</field>
 	<field name = "DATELINE">GREENWICH, Conn., March 18 -</field>
-	<field name = "BODY">Publicker Industries Inc said
+	<field name = "content">Publicker Industries Inc said
 its will receive an unqualified opinion on 1986 financial
 statements from auditor Arthur Andersen and Co and the opinion
 on its 1985 statements will be changed to unqualified from

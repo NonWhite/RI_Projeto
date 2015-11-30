@@ -3,12 +3,9 @@
 	<field name = "TOPICS">zinc</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">M
-f1237reute
-u f BC-ZINC-PRODUCERS-APPROA   03-23 0102</field>
-	<field name = "TITLE">ZINC PRODUCERS APPROACH EC ON VOLUNTARY CLOSURES</field>
+	<field name = "titulo">ZINC PRODUCERS APPROACH EC ON VOLUNTARY CLOSURES</field>
 	<field name = "DATELINE">BRUSSELS, March 23 -</field>
-	<field name = "BODY">A number of individual zinc producing
+	<field name = "content">A number of individual zinc producing
 companies have approached the European Commission to sound out
 its reaction to a possible industry plan for a voluntary
 reduction of smelting capacity, Commission sources said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 01:04:08.57</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0036reute
-u f BC-DEUTSCHE-BANK-SEES-SL   04-02 0114</field>
-	<field name = "TITLE">DEUTSCHE BANK SEES SLOW START TO 1987</field>
+	<field name = "titulo">DEUTSCHE BANK SEES SLOW START TO 1987</field>
 	<field name = "DATELINE">FRANKFURT, April 2 -</field>
-	<field name = "BODY">Deutsche Bank AG DBKG.F> has seen a
+	<field name = "content">Deutsche Bank AG DBKG.F> has seen a
 slow start to 1987 after posting record profits in 1986,
 management board joint spokesman F. Wilhelm Christians said.
     Credit business declined in the first few weeks of the

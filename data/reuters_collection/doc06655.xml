@@ -3,13 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f8844reute
-r f BC-drilling   03-18 0086</field>
-	<field name = "TITLE">ENERGY/DRILLING INDUSTRY</field>
+	<field name = "titulo">ENERGY/DRILLING INDUSTRY</field>
 	<field name = "AUTHOR">BY JULIE VORMAN, Reuters</field>
 	<field name = "DATELINE">HOUSTON, March 18 -</field>
-	<field name = "BODY">The drastic cutbacks in U.S. drilling
+	<field name = "content">The drastic cutbacks in U.S. drilling
 last year are rapidly deflating the United State's natural gas
 bubble, which could bring spot shortages in gas supplies next
 winter and a modest recovery in the oilpatch, industry analysts

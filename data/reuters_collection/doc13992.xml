@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:00:07.87</field>
-	<field name = "UNKNOWN">RM F
-f1126reute
-u f BC-EQUITIES-DRIFT-LOWER   04-07 0110</field>
-	<field name = "TITLE">EQUITIES DRIFT LOWER ON EASIER WALL STREET OPENING</field>
+	<field name = "titulo">EQUITIES DRIFT LOWER ON EASIER WALL STREET OPENING</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Equities drifted lower after the easier
+	<field name = "content">Equities drifted lower after the easier
 opening on Wall Street, but the London market was depressed
 from the outset on lack of interest and a feeling that
 yesterday's gains were overdone, dealers said.

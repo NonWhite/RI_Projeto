@@ -8,12 +8,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1070reute
-u f BC-ITALY-SAYS-G-7-GIVES   04-07 0091</field>
-	<field name = "TITLE">ITALY SAYS G-7 GIVES CHANCE TO VERIFY TOKYO ACCORD</field>
+	<field name = "titulo">ITALY SAYS G-7 GIVES CHANCE TO VERIFY TOKYO ACCORD</field>
 	<field name = "DATELINE">ROME, April 7 -</field>
-	<field name = "BODY">This week's Group of Seven (G-7) meeting in
+	<field name = "content">This week's Group of Seven (G-7) meeting in
 Washington provides an opportunity to verify an accord reached
 at the Tokyo summit last May to include Italy and Canada in
 Group of Five (G-5) talks on management of the international

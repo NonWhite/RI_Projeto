@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 15:31:18.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2967reute
-r f BC-ALASKA-AIR-ALK>-TO-B   10-20 0045</field>
-	<field name = "TITLE">ALASKA AIR ALK> TO BUY BACK STOCK</field>
+	<field name = "titulo">ALASKA AIR ALK> TO BUY BACK STOCK</field>
 	<field name = "DATELINE">SEATTLE, Oct 20 -</field>
-	<field name = "BODY">Alaska Air Group Inc said its board
+	<field name = "content">Alaska Air Group Inc said its board
 authorized management to repurchase up to 320,000 common shares
 in the open market from time to time.
     The company said its current stock price does not reflect

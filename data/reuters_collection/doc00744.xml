@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 15:54:16.76</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0963
-reute
-r f BC-UTILICORP-UCU>-ACQUI   03-02 0038</field>
-	<field name = "TITLE">UTILICORP UCU> ACQUIRES DOMINION D> SUBSIDIARY</field>
+	<field name = "titulo">UTILICORP UCU> ACQUIRES DOMINION D> SUBSIDIARY</field>
 	<field name = "DATELINE">KANSAS CITY, Mo., March 2 -</field>
-	<field name = "BODY">UtiliCorp United Inc said it
+	<field name = "content">UtiliCorp United Inc said it
 has closed the previously announced acquisition of West
 Virginia Power from Dominion Resources Inc for about 21 mln
 dlrs.

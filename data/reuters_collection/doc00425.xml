@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 09:52:48.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0573
-reute
-h f BC-AIR-FORCE-EXERCISES-O   03-02 0048</field>
-	<field name = "TITLE">AIR FORCE EXERCISES OPTION FOR AAR AIR> ORDER</field>
+	<field name = "titulo">AIR FORCE EXERCISES OPTION FOR AAR AIR> ORDER</field>
 	<field name = "DATELINE">ELK GROVE VILLAGE, ILL., Mar 2 -</field>
-	<field name = "BODY">AAR Corp said that the
+	<field name = "content">AAR Corp said that the
 U.S. Air force exercised an option valued at about eight mln
 dlrs with its Brooks and Perkins Cadillac manufacturing
 subsidiary in Michigan, for cargo pallet maintenence and

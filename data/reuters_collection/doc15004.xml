@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 10:11:16.60</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1055reute
-d f BC-ENTOURAGE-ENTG>-HAS   04-08 0097</field>
-	<field name = "TITLE">ENTOURAGE ENTG> HAS FIRST QUARTER LOSS</field>
+	<field name = "titulo">ENTOURAGE ENTG> HAS FIRST QUARTER LOSS</field>
 	<field name = "DATELINE">HOUSTON, April 8 -</field>
-	<field name = "BODY">Entourage International Inc said it had
+	<field name = "content">Entourage International Inc said it had
 a first quarter loss of 104,357 dlrs, after incurring 70,000
 dlrs in costs for an internal audit, a report for shareholders
 and proxy soliciation and 24,000 dlrs in startup expenses for

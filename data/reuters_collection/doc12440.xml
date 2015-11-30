@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 05:42:17.92</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0455reute
-u f BC-GUINNESS-TO-SELL-RETA   04-02 0094</field>
-	<field name = "TITLE">GUINNESS TO SELL RETAIL INTERESTS</field>
+	<field name = "titulo">GUINNESS TO SELL RETAIL INTERESTS</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">Guinness Plc GUIN.L> said that as part
+	<field name = "content">Guinness Plc GUIN.L> said that as part
 of a new strategy for the company it will be selling its retail
 interests to concentrate resources on developing its
 international beverage businesses.

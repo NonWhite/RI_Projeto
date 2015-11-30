@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:42:03.84A</field>
-	<field name = "UNKNOWN">f1675reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-MOODY'S-DOWNGRADES-GE   03-27 0104</field>
-	<field name = "TITLE">MOODY'S DOWNGRADES GELCO GEL> AND UNIT'S DEBT</field>
+	<field name = "titulo">MOODY'S DOWNGRADES GELCO GEL> AND UNIT'S DEBT</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said
+	<field name = "content">Moody's Investors Service Inc said
 that it downgraded Gelco Corp's variable rate notes and
 convertible debentures to Ba-3 from Ba-2.
     It also lowered the ratings of Gelco unit CTI International

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 06:05:03.48</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0362reute
-u f BC-MANNESMANN-CONSIDERIN   03-13 0113</field>
-	<field name = "TITLE">MANNESMANN CONSIDERING MAJORITY STAKE IN FICHTEL</field>
+	<field name = "titulo">MANNESMANN CONSIDERING MAJORITY STAKE IN FICHTEL</field>
 	<field name = "DATELINE">DUESSELDORF, March 13 -</field>
-	<field name = "BODY">A Mannesmann AG MMWG.F> spokesman
+	<field name = "content">A Mannesmann AG MMWG.F> spokesman
 said the company has lodged an application with the Federal
 Cartel Office for approval of a possible majority stake in car
 parts company Fichtel und Sachs AG>.

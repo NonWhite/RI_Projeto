@@ -2,14 +2,10 @@
 	<field name = "DATE">26-FEB-1987 15:07:13.72</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">F
-f0725
-reute
-u f BC-TALKING-POINT/BANKAME   02-26 0105</field>
-	<field name = "TITLE">TALKING POINT/BANKAMERICA BAC> EQUITY OFFER</field>
+	<field name = "titulo">TALKING POINT/BANKAMERICA BAC> EQUITY OFFER</field>
 	<field name = "AUTHOR">by Janie Gabbett, Reuters</field>
 	<field name = "DATELINE">LOS ANGELES, Feb 26 -</field>
-	<field name = "BODY">BankAmerica Corp is not under
+	<field name = "content">BankAmerica Corp is not under
 pressure to act quickly on its proposed equity offering and
 would do well to delay it because of the stock's recent poor
 performance, banking analysts said.

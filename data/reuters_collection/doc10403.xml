@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 09:17:00.15F</field>
-	<field name = "UNKNOWN">f0815reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">b f BC-DIXONS-BOOSTS-CYCLOPS   03-27 0106</field>
-	<field name = "TITLE">DIXONS BOOSTS CYCLOPS CYL> OWNERSHIP TO 83 PCT</field>
+	<field name = "titulo">DIXONS BOOSTS CYCLOPS CYL> OWNERSHIP TO 83 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">Dixons Group Plc> said it bought
+	<field name = "content">Dixons Group Plc> said it bought
 about 2,445,000 Cyclops Corp common shares, boosting its
 holdings of the company's stock to about 83 pct of those now
 outstanding and 79 pct on a fully diluted basis.

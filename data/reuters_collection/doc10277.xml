@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 23:52:19.47</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f3039reute
-u f BC-NEC-CORP-TARGETS-HOME   03-26 0095</field>
-	<field name = "TITLE">NEC CORP TARGETS HOME ELECTRONICS BUSINESS</field>
+	<field name = "titulo">NEC CORP TARGETS HOME ELECTRONICS BUSINESS</field>
 	<field name = "AUTHOR">By Linda Sieg, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">The president of Japan's biggest high
+	<field name = "content">The president of Japan's biggest high
 technology firm, NEC Corp NIPN.T>, is anything but worried,
 despite growing anti-Japanese protectionism, a soaring yen, and
 a stagnant world electronics market.

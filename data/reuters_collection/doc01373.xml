@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 17:26:15.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0054reute
-r f BC-MORTON-THIOKOL-MTI>   03-03 0101</field>
-	<field name = "TITLE">MORTON THIOKOL MTI> SELLING HEADQUARTERS</field>
+	<field name = "titulo">MORTON THIOKOL MTI> SELLING HEADQUARTERS</field>
 	<field name = "DATELINE">CHICAGO, March 3 -</field>
-	<field name = "BODY">Morton Thiokol Inc said it has a
+	<field name = "content">Morton Thiokol Inc said it has a
 tentative agreement to sell its downtown headquarters to
 Tishman Midwest Management Corp for undisclosed terms.
     Thomas Russell, company spokesman, said the proceeds,

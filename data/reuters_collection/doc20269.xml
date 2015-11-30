@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">norway</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y 
-f1393reute
-u f BC-NORWAY-BOOSTS-OIL-OUT   10-20 0112</field>
-	<field name = "TITLE">NORWAY BOOSTS OIL OUTPUT BY 22 PCT IN SEPTEMBER</field>
+	<field name = "titulo">NORWAY BOOSTS OIL OUTPUT BY 22 PCT IN SEPTEMBER</field>
 	<field name = "DATELINE">OSLO, Oct 20 -</field>
-	<field name = "BODY">Norway's September oil output rose by 22.2
+	<field name = "content">Norway's September oil output rose by 22.2
 pct to 1.07 mln barrels per day (bpd) from 830,492 bpd in
 August, according to a Reuter survey of firms operating here.
     Operators said the sharp rise reflected higher output at

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 14:59:32.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2155reute
-u f BC-COKE   03-19 0103</field>
-	<field name = "TITLE">COKECCE> SAYS ITS UNIT ITS PRICING PROBE TARGET</field>
+	<field name = "titulo">COKECCE> SAYS ITS UNIT ITS PRICING PROBE TARGET</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">Coca-Cola Enterprises Inc said one
+	<field name = "content">Coca-Cola Enterprises Inc said one
 of its key bottling subsidiaries is being investigated by a
 grand jury for possible price fixing violations of its soft
 drinks.

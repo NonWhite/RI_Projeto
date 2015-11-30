@@ -3,12 +3,9 @@
 	<field name = "TOPICS">gold</field>
 	<field name = "TOPICS">copper</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0025reute
-d f BC-NORTHGATE-NGX>-QUEBE   03-04 0106</field>
-	<field name = "TITLE">NORTHGATE NGX> QUEBEC ORE RESERVES DECLINE</field>
+	<field name = "titulo">NORTHGATE NGX> QUEBEC ORE RESERVES DECLINE</field>
 	<field name = "DATELINE">TORONTO, March 4 -</field>
-	<field name = "BODY">Northgate Exploration Ltd said year-end
+	<field name = "content">Northgate Exploration Ltd said year-end
 1986 ore reserves at its two Chibougamau mines in Quebec fell
 to 8,141,150 short tons grading 0.077 ounce gold a ton and 1.63
 pct copper from year-earlier 8,462,000 tons grading 0.077 ounce

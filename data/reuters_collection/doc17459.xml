@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 03:52:51.55</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0210reute
-u f BC-TOSHIBA-FORECASTS-11   06-01 0097</field>
-	<field name = "TITLE">TOSHIBA FORECASTS 11 PCT RISE IN 1987/88 GROUP NET</field>
+	<field name = "titulo">TOSHIBA FORECASTS 11 PCT RISE IN 1987/88 GROUP NET</field>
 	<field name = "DATELINE">TOKYO, June 1 -</field>
-	<field name = "BODY">Toshiba Corp TSBA.T> expects to report a
+	<field name = "content">Toshiba Corp TSBA.T> expects to report a
 group net profit of 38 billion yen for the year ending March
 31, 1988, up 11.2 pct from a year earlier, assuming an exchange
 rate of 140 yen to the dollar, a company official said.

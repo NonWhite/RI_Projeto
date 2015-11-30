@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 09:53:43.34</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f7910reute
-b f BC-AUSTRIA-ISSUES-50-MLN   03-18 0100</field>
-	<field name = "TITLE">AUSTRIA ISSUES 50 MLN AUSTRALIAN DLR BOND</field>
+	<field name = "titulo">AUSTRIA ISSUES 50 MLN AUSTRALIAN DLR BOND</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">Austria is issuing a 50 mln Australian
+	<field name = "content">Austria is issuing a 50 mln Australian
 dlr eurobond due April 22, 1992 with a 14-1/4 pct coupon and
 priced at 101-3/4 pct, lead manager Credit Suisse First Boston
 Ltd said.

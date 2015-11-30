@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 12:39:28.51</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1783reute
-d f BC-HADSON-CORP-HADS.O>   04-13 0056</field>
-	<field name = "TITLE">HADSON CORP HADS.O> COMPLETES ACQUISITION</field>
+	<field name = "titulo">HADSON CORP HADS.O> COMPLETES ACQUISITION</field>
 	<field name = "DATELINE">OKLAHOMA CITY, Okla., April 13 -</field>
-	<field name = "BODY">Hadson Corp said it
+	<field name = "content">Hadson Corp said it
 completed the acquisition of 85 pct of the Seaxe Energy Corp's
 SEAX.O> common stock for 182,415 shares of Hadson's stock.
     Seaxe is engaged in international oil and gas exploration

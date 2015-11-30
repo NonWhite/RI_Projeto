@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 16:15:26.31</field>
 	<field name = "PLACES">ecuador</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y RM
-f2395reute
-r f AM-ECUADOR-OPEC   03-19 0100</field>
-	<field name = "TITLE">OPEC FUND APPROVES 100,000 DLR AID FOR ECUADOR</field>
+	<field name = "titulo">OPEC FUND APPROVES 100,000 DLR AID FOR ECUADOR</field>
 	<field name = "DATELINE">VIENNA, March 19 -</field>
-	<field name = "BODY">The OPEC Fund for International
+	<field name = "content">The OPEC Fund for International
 Development approved 100,000 dlrs in aid for Ecuador, which was
 struck recently by an earthquake.
     The Fund, which was set up by the 13 OPEC (Organization of

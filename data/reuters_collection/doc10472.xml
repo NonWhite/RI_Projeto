@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:14:18.71F</field>
-	<field name = "UNKNOWN">f1196reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-HONEYWELL-HON>-COMPL   03-27 0095</field>
-	<field name = "TITLE">HONEYWELL HON> COMPLETES COMPUTER BUSINESS SALE</field>
+	<field name = "titulo">HONEYWELL HON> COMPLETES COMPUTER BUSINESS SALE</field>
 	<field name = "DATELINE">MINNEAPOLIS, Minn., March 27 -</field>
-	<field name = "BODY">Honeywell Inc said it has
+	<field name = "content">Honeywell Inc said it has
 completed the sale of 57.5 pct of its Honeywell Information
 Systems HIS> computer business to Compagnie des Machines
 Bull> of France and NEC Corp> of Japan for 527 mln dlrs in

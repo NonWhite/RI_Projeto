@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 05:24:25.05</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0400reute
-r f BC-PHILADELPHIA-EXCHANGE   03-30 0098</field>
-	<field name = "TITLE">PHILADELPHIA EXCHANGE TO EXTEND HOURS FOR ASIA</field>
+	<field name = "titulo">PHILADELPHIA EXCHANGE TO EXTEND HOURS FOR ASIA</field>
 	<field name = "DATELINE">SYDNEY, March 30 -</field>
-	<field name = "BODY">The Philadelphia Stock Exchange (PHLX),
+	<field name = "content">The Philadelphia Stock Exchange (PHLX),
 a leading trader of currency options, plans to extend its
 trading hours to serve Australasian and Far Eastern markets,
 exchange president Nicholas Giordano said.

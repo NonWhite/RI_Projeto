@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 17:53:19.21</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f0755reute
-r f BC-STEINBERG-SIGNS-UP-IN   03-06 0042</field>
-	<field name = "TITLE">STEINBERG SIGNS UP INDEPENDENT GROCERS</field>
+	<field name = "titulo">STEINBERG SIGNS UP INDEPENDENT GROCERS</field>
 	<field name = "DATELINE">MONTREAL, March 6 -</field>
-	<field name = "BODY">Steinberg Inc> said it has affiliated
+	<field name = "content">Steinberg Inc> said it has affiliated
 the first two independent grocers in the Montreal area to the
 Steinberg banner. It said it plans to announce shortly
 affiliations with independent grocers.

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:52:11.97</field>
-	<field name = "UNKNOWN">C G
-f1391reute
-u f BC-soyprods-cash-mkt   04-07 0114</field>
-	<field name = "TITLE">CASH SOYMEAL BASIS STEADY IN INCREASED TRADE</field>
+	<field name = "titulo">CASH SOYMEAL BASIS STEADY IN INCREASED TRADE</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">Midwest cash soybean meal basis values
+	<field name = "content">Midwest cash soybean meal basis values
 were steady, with more active trade beginning to emerge, soy
 product dealers said.
     With crush margins at unfavorable levels, processors in

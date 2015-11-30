@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 13:27:17.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1845reute
-r f BC-EASED-RESTRICTIONS-TO   03-19 0112</field>
-	<field name = "TITLE">EASED RESTRICTIONS TO CREATE NEW PHONE SERVICES</field>
+	<field name = "titulo">EASED RESTRICTIONS TO CREATE NEW PHONE SERVICES</field>
 	<field name = "AUTHOR">By David Brough, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">Consumers may benefit from new
+	<field name = "content">Consumers may benefit from new
 telephone services if business restrictions against the
 regional Bell companies are eased, but safeguards against rate
 hikes may be needed, congressional and industry analysts say.

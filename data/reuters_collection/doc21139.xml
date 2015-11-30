@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 13:55:41.10</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2414reute
-d f BC-BANCTEXAS-BTX>-TO-SE   10-19 0075</field>
-	<field name = "TITLE">BANCTEXAS BTX> TO SELL AFFILIATE</field>
+	<field name = "titulo">BANCTEXAS BTX> TO SELL AFFILIATE</field>
 	<field name = "DATELINE">DALLAS, Oct 19 -</field>
-	<field name = "BODY">BancTEXAS Group Inc said it has signed a
+	<field name = "content">BancTEXAS Group Inc said it has signed a
 definitive agreement to sell its BancTEXAS Sulphur Springs
 affiliate to a group of local investors led by Gene Watson for
 a cash amount equal to book value at the time of the sale,

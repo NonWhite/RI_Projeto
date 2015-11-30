@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 15:43:43.74</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6418reute
-r f BC-HRE-PROPERTIES-HRE>   03-17 0053</field>
-	<field name = "TITLE">HRE PROPERTIES HRE> 1ST QTR ENDS JAN 31 NET</field>
+	<field name = "titulo">HRE PROPERTIES HRE> 1ST QTR ENDS JAN 31 NET</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Shr 38 cts vs 47 cts
+	<field name = "content">Shr 38 cts vs 47 cts
     Net 2,253,664 vs 2,806,820
     Revs 5,173,318 vs 5,873,904
     NOTE: 1987 qtr includes 126,117 dlrs, or two cts per share,

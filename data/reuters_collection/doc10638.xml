@@ -2,12 +2,9 @@
 	<field name = "DATE">29-MAR-1987 00:54:46.64</field>
 	<field name = "PLACES">libya</field>
 	<field name = "PLACES">chad</field>
-	<field name = "UNKNOWN">RM
-f0019reute
-r f BC-LIBYA-SAYS-CHAD-FIGHT   03-29 0074</field>
-	<field name = "TITLE">LIBYA SAYS CHAD FIGHTING TO CONTINUE</field>
+	<field name = "titulo">LIBYA SAYS CHAD FIGHTING TO CONTINUE</field>
 	<field name = "DATELINE">LONDON, March 29 -</field>
-	<field name = "BODY">Libyan leader Muammar Gaddafi said
+	<field name = "content">Libyan leader Muammar Gaddafi said
 confrontation would continue in Chad unless French forces leave
 the country and rebel leaders share political power there.
     "Any anti-Libyan regime in N'djamena can rest assured that

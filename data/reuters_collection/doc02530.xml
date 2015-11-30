@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 18:16:23.92</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0091reute
-u f BC-N.Z.-DECEMBER-QUARTER   03-05 0116</field>
-	<field name = "TITLE">N.Z. DECEMBER QUARTER RETAIL SALES FALL 13.2 PCT</field>
+	<field name = "titulo">N.Z. DECEMBER QUARTER RETAIL SALES FALL 13.2 PCT</field>
 	<field name = "DATELINE">WELLINGTON, March 6 -</field>
-	<field name = "BODY">Retail sales in the quarter ended
+	<field name = "content">Retail sales in the quarter ended
 December 31 fell a seasonally adjusted 13.2 pct compared with a
 7.8 pct rise in the September quarter and a 1.3 pct fall a year
 ago period, the Statistics Department said.

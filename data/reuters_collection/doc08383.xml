@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 12:42:33.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1698reute
-u f BC-WELLCOME-SETS-UP-RETR   03-23 0095</field>
-	<field name = "TITLE">WELLCOME SETS UP RETROVIR DISTRIBUTION SYSTEM</field>
+	<field name = "titulo">WELLCOME SETS UP RETROVIR DISTRIBUTION SYSTEM</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Burroughs Wellcome Co> said it has
+	<field name = "content">Burroughs Wellcome Co> said it has
 set up a distribution system to ensure the people in most need
 can get Retrovir, the first drug shown to have activity against
 AIDS, during an initial period while supplies of the drug are

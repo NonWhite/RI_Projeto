@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ipi</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0543reute
-d f BC-JAPAN-ECONOMY-MAY-STA   03-24 0098</field>
-	<field name = "TITLE">JAPAN ECONOMY MAY START BOTTOMING OUT SOON -AGENCY</field>
+	<field name = "titulo">JAPAN ECONOMY MAY START BOTTOMING OUT SOON -AGENCY</field>
 	<field name = "DATELINE">TOKYO, March 24 -</field>
-	<field name = "BODY">Japan's economy remains sluggish but is
+	<field name = "content">Japan's economy remains sluggish but is
 beginning to show signs it may bottom out soon, the Economic
 Planning Agency said in a monthly report submitted to Cabinet
 ministers.

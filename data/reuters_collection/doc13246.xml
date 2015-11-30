@@ -2,12 +2,9 @@
 	<field name = "DATE">5-APR-1987 03:42:01.74</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0033reute
-u f BC-U.S.-NAVY-SAID-INCREA   04-05 0112</field>
-	<field name = "TITLE">U.S. NAVY SAID INCREASING PRESENCE NEAR GULF</field>
+	<field name = "titulo">U.S. NAVY SAID INCREASING PRESENCE NEAR GULF</field>
 	<field name = "DATELINE">NEW YORK, April 5 -</field>
-	<field name = "BODY">Defence Secretary Caspar Weinberger has
+	<field name = "content">Defence Secretary Caspar Weinberger has
 ordered the U.S. Navy to increase its presence near the Gulf in
 an effort to fulfil President Reagan's pledge to keep oil
 flowing to Europe and Japan, The New York Times reported.

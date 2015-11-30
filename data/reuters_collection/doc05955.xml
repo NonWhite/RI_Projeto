@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 10:18:47.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5078reute
-r f BC-LUKENS-LUC>-SAYS-BAC   03-17 0105</field>
-	<field name = "TITLE">LUKENS LUC> SAYS BACKLOG HIGHER</field>
+	<field name = "titulo">LUKENS LUC> SAYS BACKLOG HIGHER</field>
 	<field name = "DATELINE">COATESVILLE, Pa., March 17 -</field>
-	<field name = "BODY">Lukens Inc said its backlog at
+	<field name = "content">Lukens Inc said its backlog at
 the end of February was about 140 mln dlrs, up from 104 mln
 dlrs at the end of 1986 and more than 50 pct above the February
 1986 level.

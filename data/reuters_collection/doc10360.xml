@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:31:59.58F</field>
-	<field name = "UNKNOWN">f0540reute</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">r f BC-BRIERLEY-BIDS-4.35-DO   03-27 0107</field>
-	<field name = "TITLE">BRIERLEY BIDS 4.35 DOLLARS/SHARE FOR PROGRESSIVE</field>
+	<field name = "titulo">BRIERLEY BIDS 4.35 DOLLARS/SHARE FOR PROGRESSIVE</field>
 	<field name = "DATELINE">WELLINGTON, March 27 -</field>
-	<field name = "BODY">Brierley Investments Ltd> (BIL)
+	<field name = "content">Brierley Investments Ltd> (BIL)
 launched a full takeover bid for the supermarket group
 Progressive Enterprises Ltd> at 4.35 dlrs a share.
     BIL said in a statement the offer is conditional on minimum

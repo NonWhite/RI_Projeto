@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 14:40:08.05</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0434reute
-s f BC-LIBERTY-FINANCIAL-GRO   03-04 0027</field>
-	<field name = "TITLE">LIBERTY FINANCIAL GROUP LFG> REGULAR DIVIDEND</field>
+	<field name = "titulo">LIBERTY FINANCIAL GROUP LFG> REGULAR DIVIDEND</field>
 	<field name = "DATELINE">HORSHAM, Pa., March 4 -</field>
-	<field name = "BODY">Qtly div 12.5 cts vs 12.5 cts in prior qtr
+	<field name = "content">Qtly div 12.5 cts vs 12.5 cts in prior qtr
     Payable March 13
     Record February 27
  Reuter</field>

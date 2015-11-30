@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:36:37.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0680reute
-u f BC-CONTINENTAL-AIR-FEBRU   03-05 0103</field>
-	<field name = "TITLE">CONTINENTAL AIR FEBRUARY LOAD FACTOR FALLS</field>
+	<field name = "titulo">CONTINENTAL AIR FEBRUARY LOAD FACTOR FALLS</field>
 	<field name = "DATELINE">HOUSTON, March 5 -</field>
-	<field name = "BODY">Texas Air Corp's TEX> Continental
+	<field name = "content">Texas Air Corp's TEX> Continental
 Airlines said its February load factor fell to 60.3 pct from
 62.3 pct in February 1986.
     Revenue passenger miles grew 95.8 pct in February to 2.75

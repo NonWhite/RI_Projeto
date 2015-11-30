@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 03:49:57.10</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0320reute
-u f BC-FOREIGN-BROKERS-MAY-G   03-09 0117</field>
-	<field name = "TITLE">FOREIGN BROKERS MAY GET MORE ACCESS TO JAPAN BONDS</field>
+	<field name = "titulo">FOREIGN BROKERS MAY GET MORE ACCESS TO JAPAN BONDS</field>
 	<field name = "DATELINE">TOKYO, March 9 -</field>
-	<field name = "BODY">Japanese securities houses are thinking of
+	<field name = "content">Japanese securities houses are thinking of
 allowing foreign brokerages to underwrite more Japanese
 government bonds from April, securities managers said.
     The average foreign brokerage now underwrites only around

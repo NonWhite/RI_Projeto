@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:52:35.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2800reute
-r f BC-RESORTS-RTA>-TO-CONS   10-20 0109</field>
-	<field name = "TITLE">RESORTS RTA> TO CONSOLIDATE NJ OPERATIONS</field>
+	<field name = "titulo">RESORTS RTA> TO CONSOLIDATE NJ OPERATIONS</field>
 	<field name = "DATELINE">ATLANTIC CITY, N.J., Oct 20 -</field>
-	<field name = "BODY">Resorts International Inc
+	<field name = "content">Resorts International Inc
 said it filed with the New Jersey Casino Control Commission to
 consolidate the hotel and related operation of the Resorts
 International Casino with the company's Taj Mahal casino/hotel,

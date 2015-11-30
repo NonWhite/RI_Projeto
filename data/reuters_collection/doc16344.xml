@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 11:13:44.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1341reute
-d f BC-woodward-and-lothrop   04-13 0079</field>
-	<field name = "TITLE">WOODWARD AND LOTHROP PRESIDENT RESIGNS</field>
+	<field name = "titulo">WOODWARD AND LOTHROP PRESIDENT RESIGNS</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">Woodward and Lothrop Inc said
+	<field name = "content">Woodward and Lothrop Inc said
 president David Mullen resigned, and will be replaced by Tom
 Roach effective April 20, 1987.
     Woodward and Lothrop, a privately held retailer, said

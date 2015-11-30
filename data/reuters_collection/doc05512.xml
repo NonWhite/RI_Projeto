@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:49:43.55</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f2916reute
-u f BC-FIAT-CONVERTIBLE-BOND   03-16 0099</field>
-	<field name = "TITLE">FIAT CONVERTIBLE BOND OPTION UNDER STUDY</field>
+	<field name = "titulo">FIAT CONVERTIBLE BOND OPTION UNDER STUDY</field>
 	<field name = "DATELINE">ROME, March 16 -</field>
-	<field name = "BODY">Sources close to the Italian state credit
+	<field name = "content">Sources close to the Italian state credit
 institution (Istituto Mobiliare Italiano - IMI) said a
 convertible bond issue was one of the possibilities being
 studied to facilitate market absorption of Fiat shares sold

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 12:17:51.33</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1630reute
-h f BC-BROKERS-SECURITIES-IN   04-01 0060</field>
-	<field name = "TITLE">BROKERS SECURITIES INC BKRS> 4TH QTR LOSS</field>
+	<field name = "titulo">BROKERS SECURITIES INC BKRS> 4TH QTR LOSS</field>
 	<field name = "DATELINE">NORFOLK, Va., April 1 -</field>
-	<field name = "BODY">Shr loss 16 cts vs profit 23 cts
+	<field name = "content">Shr loss 16 cts vs profit 23 cts
     Net loss 97,600 vs profit 91,980
     Revs 302,745 vs 359,699
     Avg shrs 621,036 vs 388,536

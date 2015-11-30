@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 11:33:48.31</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">denmark</field>
-	<field name = "UNKNOWN">A RM
-f2508reute
-u f BC-/S/P-DOWNGRADES-KINGD   03-16 0093</field>
-	<field name = "TITLE">S/P DOWNGRADES KINGDOM OF DENMARK</field>
+	<field name = "titulo">S/P DOWNGRADES KINGDOM OF DENMARK</field>
 	<field name = "DATELINE">NEW YORK, March 16 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 downgraded to AA from AA-plus the Kingdom of Denmark's
 long-term external debt.
     The action affects the equivalent of 17.6 billion U.S. dlrs

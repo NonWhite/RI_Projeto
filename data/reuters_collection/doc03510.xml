@@ -4,12 +4,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C T
-f0553reute
-b f BC-TRADE-SAYS-EC-SUGAR-T   03-11 0101</field>
-	<field name = "TITLE">TRADE SAYS EC SUGAR TENDER HARD TO FORECAST</field>
+	<field name = "titulo">TRADE SAYS EC SUGAR TENDER HARD TO FORECAST</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Traders here and in Paris said the
+	<field name = "content">Traders here and in Paris said the
 results of today's EC white sugar tender are hard to forecast
 because of plans by a group of French, West German, Dutch and
 Belgian operators to sell one mln tonnes of sugar into

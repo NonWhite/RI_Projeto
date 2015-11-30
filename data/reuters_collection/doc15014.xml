@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 10:25:01.82</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f1109reute
-r f BC-NV-PHILIPS-SHARES-GET   04-08 0097</field>
-	<field name = "TITLE">NV PHILIPS SHARES GET NYSE QUOTE FROM APRIL 14</field>
+	<field name = "titulo">NV PHILIPS SHARES GET NYSE QUOTE FROM APRIL 14</field>
 	<field name = "DATELINE">EINDHOVEN, NETHERLANDS, APRIL 8 -</field>
-	<field name = "BODY">NV Philips
+	<field name = "content">NV Philips
 Gloeilampenfabrieken PGLO.AS> shares are due to start trading
 on the New York Stock Exchange on April 14, Philips chairman
 Cor van der Klugt told the annual shareholders meeting.

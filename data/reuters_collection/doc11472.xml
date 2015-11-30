@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 12:37:58.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1832reute
-r f BC-CALIFORNIA-ENERGY-CE   03-31 0105</field>
-	<field name = "TITLE">CALIFORNIA ENERGY CECI> GETS PRIVATE FUNDING</field>
+	<field name = "titulo">CALIFORNIA ENERGY CECI> GETS PRIVATE FUNDING</field>
 	<field name = "DATELINE">SANTA ROSA, Calif., March 31 -</field>
-	<field name = "BODY">California Energy Co Inc
+	<field name = "content">California Energy Co Inc
 said Drexel Burnham Lambert Inc is highly confident it can
 provide the company with 160 mln dlrs of private financing,
 subject to certain conditions.

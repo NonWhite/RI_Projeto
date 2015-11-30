@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 09:02:50.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0970reute
-b f BC-ECONOMY(EMBARGOED)   03-05 0108</field>
-	<field name = "TITLE">U.S. EXPANSION THREATENED - CONGRESSIONAL REPORT</field>
+	<field name = "titulo">U.S. EXPANSION THREATENED - CONGRESSIONAL REPORT</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">The U.S. economy is facing several
+	<field name = "content">The U.S. economy is facing several
 serious problems which threaten its continued expansion,
 according to a Congressional report released today.
     The report by the Democratic majority of the Congressional

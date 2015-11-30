@@ -3,13 +3,10 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f7659reute
-u f BC-BUNDESBANK-SEEN-STEER   03-18 0115</field>
-	<field name = "TITLE">BUNDESBANK SEEN STEERING STEADY MONETARY COURSE</field>
+	<field name = "titulo">BUNDESBANK SEEN STEERING STEADY MONETARY COURSE</field>
 	<field name = "AUTHOR">By Franz-Josef Ebel, Reuters</field>
 	<field name = "DATELINE">FRANKFURT, March 18 -</field>
-	<field name = "BODY">The Bundesbank is likely to steer a
+	<field name = "content">The Bundesbank is likely to steer a
 steady monetary course over the next few weeks and a change in
 credit policies is not expected at tomorrow's regular central
 bank council meeting, bank economists and dealers said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 09:06:20.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0915reute
-b f BC-TEXACO-TX>-HOLDERS-S   10-19 0084</field>
-	<field name = "TITLE">TEXACO TX> HOLDERS SEEK PREFERRED DIVIDEND</field>
+	<field name = "titulo">TEXACO TX> HOLDERS SEEK PREFERRED DIVIDEND</field>
 	<field name = "DATELINE">WHITE PLAINS, Oct 19 -</field>
-	<field name = "BODY">Texaco Inc said it has been asked by
+	<field name = "content">Texaco Inc said it has been asked by
 a committee of shareholders about the possibility of the
 company paying a preferred stock dividend to shareholders.
     The company said the inquiry, from the Equity Security

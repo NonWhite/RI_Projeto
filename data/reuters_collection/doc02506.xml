@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 17:34:34.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f0999reute
-r f BC-ROSTENKOWSKI-SAYS-TAX   03-05 0112</field>
-	<field name = "TITLE">ROSTENKOWSKI SAYS TAX HIKE TOUGH WITHOUT REAGAN</field>
+	<field name = "titulo">ROSTENKOWSKI SAYS TAX HIKE TOUGH WITHOUT REAGAN</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">House Ways and Means Committee
+	<field name = "content">House Ways and Means Committee
 chairman Dan Rostenkowski, an Illinois Democrat, said his
 committee would raise taxes if the idea were approved by
 Democrats as part of the 1988 budget, but the committee would

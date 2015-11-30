@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 12:28:49.13</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0703reute
-r f BC-REUTER-INC-REUT>-4TH   03-12 0062</field>
-	<field name = "TITLE">REUTER INC REUT> 4TH QTR</field>
+	<field name = "titulo">REUTER INC REUT> 4TH QTR</field>
 	<field name = "DATELINE">HOPKINS, Minn., March 12 -</field>
-	<field name = "BODY">Shr 67 cts vs six cts
+	<field name = "content">Shr 67 cts vs six cts
     Net 1.6 mln vs 131,630
     Revs 6.5 mln vs 4.5 mln
     Year

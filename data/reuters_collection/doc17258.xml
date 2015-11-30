@@ -3,12 +3,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">poehl</field>
 	<field name = "PEOPLE">kohl</field>
-	<field name = "UNKNOWN">RM
-f0480reute
-u f BC-FURTHER-TERM-FOR-POEH   04-27 0115</field>
-	<field name = "TITLE">FURTHER TERM FOR POEHL LIKELY, BONN SOURCES SAY</field>
+	<field name = "titulo">FURTHER TERM FOR POEHL LIKELY, BONN SOURCES SAY</field>
 	<field name = "DATELINE">BONN, April 27 -</field>
-	<field name = "BODY">Karl Otto Poehl is likely to be re-elected
+	<field name = "content">Karl Otto Poehl is likely to be re-elected
 President of the Bundesbank when his current term in office
 expires at the end of this year, government sources said.
     They were commenting on a report in Der Spiegel news

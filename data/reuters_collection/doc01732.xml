@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 15:09:15.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0519reute
-u f BC-CHRYSLER-C>-TO-MODER   03-04 0095</field>
-	<field name = "TITLE">CHRYSLER C> TO MODERNIZE ILLINOIS PLANT</field>
+	<field name = "titulo">CHRYSLER C> TO MODERNIZE ILLINOIS PLANT</field>
 	<field name = "DATELINE">DETROIT, March 4 -</field>
-	<field name = "BODY">Chrysler Corp's Chrysler Motors Corp
+	<field name = "content">Chrysler Corp's Chrysler Motors Corp
 said it will spend 367 mln dlrs at its Belvidere, Ill.,
 assembly plant to modernize the facility.
     Chrysler said the plant, its sixth to undergo extensive

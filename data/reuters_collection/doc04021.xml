@@ -3,12 +3,9 @@
 	<field name = "TOPICS">carcass</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">L
-f0925reute
-r f BC-ARGENTINE-MEAT-EXPORT   03-11 0117</field>
-	<field name = "TITLE">ARGENTINE MEAT EXPORTS HIGHER IN JAN/FEB 1987</field>
+	<field name = "titulo">ARGENTINE MEAT EXPORTS HIGHER IN JAN/FEB 1987</field>
 	<field name = "DATELINE">BUENOS AIRES, March 11 -</field>
-	<field name = "BODY">Argentine meat exports during
+	<field name = "content">Argentine meat exports during
 Jan/Feb 1987 totalled 39,714 tonnes, against 36,594 tonnes
 shipped in the same 1986 period, National Meat board said.
     Shipments in tonnes with comparative figures for the 1986

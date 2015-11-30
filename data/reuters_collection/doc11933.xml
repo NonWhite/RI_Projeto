@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:07:53.08</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0990reute
-b f BC-/CHEMICAL-CHL>-RAISE   04-01 0038</field>
-	<field name = "TITLE">CHEMICAL CHL> RAISES PRIME RATE TO 7-3/4 PCT</field>
+	<field name = "titulo">CHEMICAL CHL> RAISES PRIME RATE TO 7-3/4 PCT</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Chemical Bank, the main bank subsidiary
+	<field name = "content">Chemical Bank, the main bank subsidiary
 of Chemical New York Corp, said it is raising its prime lending
 rate to 7-3/4 pct from 7-1/2 pct, effective immediately.
  Reuter</field>

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:04:10.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1442reute
-r f BC-RORER-ROR>-UNIT-CLOT   10-19 0082</field>
-	<field name = "TITLE">RORER ROR> UNIT CLOTTING DRUG APPROVED</field>
+	<field name = "titulo">RORER ROR> UNIT CLOTTING DRUG APPROVED</field>
 	<field name = "DATELINE">BLUE BELL, Pa., Oct 19 -</field>
-	<field name = "BODY">Rorer Group Inc's Armour
+	<field name = "content">Rorer Group Inc's Armour
 Pharmaceutical Co said it received Food and Drug Administration
 approval for a blood clotting drug for hemophiliacs.
     The company said the drug, monoclate antihemophilic factor,

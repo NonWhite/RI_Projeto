@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">colombia</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f1038reute
-b f BC-COLOMBIA-WILL-NOT-ATT   03-19 0085</field>
-	<field name = "TITLE">COLOMBIA WILL NOT ATTEND MANAGUA COFFEE MEETING</field>
+	<field name = "titulo">COLOMBIA WILL NOT ATTEND MANAGUA COFFEE MEETING</field>
 	<field name = "DATELINE">BOGOTA, March 19 -</field>
-	<field name = "BODY">Colombia will not attend a meeting of
+	<field name = "content">Colombia will not attend a meeting of
 coffee producing countries scheduled for this weekend in
 Nicaragua, Jorge Cadenas, manager of the National Coffee
 Growers' Federation, said.

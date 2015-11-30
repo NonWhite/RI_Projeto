@@ -3,12 +3,9 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0255reute
-r f BC-BRITISH-AIRWAYS-BAB>   03-13 0081</field>
-	<field name = "TITLE">BRITISH AIRWAYS BAB> TO FLY TO TOKYO NON-STOP</field>
+	<field name = "titulo">BRITISH AIRWAYS BAB> TO FLY TO TOKYO NON-STOP</field>
 	<field name = "DATELINE">NEW YORK, March 13 -</field>
-	<field name = "BODY">British Airways said the British
+	<field name = "content">British Airways said the British
 government reached an agreement on new traffic rights with the
 Japanese government which clears the way for non-stop flights
 between London and Tokyo.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 14:45:36.46</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2248reute
-d f BC-STERLING-DRUG-STY>-S   03-31 0068</field>
-	<field name = "TITLE">STERLING DRUG STY> SELLS X-RAY PRODUCTS UNIT</field>
+	<field name = "titulo">STERLING DRUG STY> SELLS X-RAY PRODUCTS UNIT</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Sterling Drug Inc said it sold the
+	<field name = "content">Sterling Drug Inc said it sold the
 assets of its Greene Dental Products Inc subsidiary to Rinn
 Corp, an Elgin, Ill., maker of dental x-ray film, supplies and
 equipment.

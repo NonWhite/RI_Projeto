@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 08:54:05.07</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0902reute
-u f BC-CPC-CPC>-TO-SELL-UNI   03-11 0034</field>
-	<field name = "TITLE">CPC CPC> TO SELL UNIT TO HI-PORT HIPT></field>
+	<field name = "titulo">CPC CPC> TO SELL UNIT TO HI-PORT HIPT></field>
 	<field name = "DATELINE">ENGLEWOOD CLIFFS, N.J., March 11 -</field>
-	<field name = "BODY">CPC International Inc
+	<field name = "content">CPC International Inc
 said it has agreed in principle to sell its Peterson/Puritain
 Inc subsidiary to Hi-Port Industries Inc.
     CPC said the sale is not expected to have a significant

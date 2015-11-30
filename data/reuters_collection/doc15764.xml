@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 13:14:05.13</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM
-f1848reute
-u f BC-SWISS-AGREE-ON-NEW-PR   04-09 0109</field>
-	<field name = "TITLE">SWISS AGREE ON NEW PROSPECTUS RULES FOR NOTES</field>
+	<field name = "titulo">SWISS AGREE ON NEW PROSPECTUS RULES FOR NOTES</field>
 	<field name = "AUTHOR">By Peter Conradi</field>
 	<field name = "DATELINE">ZURICH, April 9 -</field>
-	<field name = "BODY">Swiss franc notes issued after May 1 must
+	<field name = "content">Swiss franc notes issued after May 1 must
 be provided with a prospectus, virtually erasing the difference
 in information requirements between notes and public bonds,
 according to a convention drafted by the Bankers' Federation.

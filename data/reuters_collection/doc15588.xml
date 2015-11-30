@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 10:50:22.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1168reute
-u f BC-AMR-AMR>-UP-ON-SMITH   04-09 0088</field>
-	<field name = "TITLE">AMR AMR> UP ON SMITH BARNEY OPINION</field>
+	<field name = "titulo">AMR AMR> UP ON SMITH BARNEY OPINION</field>
 	<field name = "DATELINE">NEW YORK, April 9 -</field>
-	<field name = "BODY">AMR Corp, the parent of American
+	<field name = "content">AMR Corp, the parent of American
 Airlines, rose sharply in active trading after analyst Roland
 Moreno of Smith Barney upgraded his opinion of the stock to buy
 from accumulate and added it to the brokerage house's

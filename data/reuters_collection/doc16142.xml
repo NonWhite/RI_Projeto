@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 05:29:48.83</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">kenya</field>
-	<field name = "UNKNOWN">RM C G L M T
-f0307reute
-u f BC-KENYA-DEVALUES-SHILLI   04-13 0091</field>
-	<field name = "TITLE">KENYA DEVALUES SHILLING BY 0.6 PCT AGAINST SDR</field>
+	<field name = "titulo">KENYA DEVALUES SHILLING BY 0.6 PCT AGAINST SDR</field>
 	<field name = "DATELINE">NAIROBI, April 13 -</field>
-	<field name = "BODY">Kenya devalued the shilling by 0.6 pct
+	<field name = "content">Kenya devalued the shilling by 0.6 pct
 against the special drawing right (SDR) in response to the
 decline of the dollar last last week, bankers said.
     The Central Bank of Kenya set the shilling at 20.7449 to

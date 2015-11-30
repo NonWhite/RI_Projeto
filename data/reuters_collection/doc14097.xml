@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 11:26:46.45</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1267reute
-b f BC-AIDC-ISSUES-AUSTRALIA   04-07 0102</field>
-	<field name = "TITLE">AIDC ISSUES AUSTRALIAN DOLLAR ZERO COUPON EUROBOND</field>
+	<field name = "titulo">AIDC ISSUES AUSTRALIAN DOLLAR ZERO COUPON EUROBOND</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Australian Industry Development Corp is
+	<field name = "content">Australian Industry Development Corp is
 issuing a zero coupon eurobond with total redemption amount 30
 mln Australian dlrs, lead manager Orion Royal Bank Ltd said.
     The issue matures on May 12, 1992 and is priced at 53-1/2

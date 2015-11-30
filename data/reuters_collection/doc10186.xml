@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:40:12.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F
-f2634reute
-b f BC-CHRYSLER-C>-AND-UNIT   03-26 0098</field>
-	<field name = "TITLE">CHRYSLER C> AND UNITS AFFIRMED BY S/P</field>
+	<field name = "titulo">CHRYSLER C> AND UNITS AFFIRMED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 affirmed the ratings on 19 billion dlrs of debt of Chrysler
 Corp and related entities.
     S and P cited the acquisition of AMC as strongly negative.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 10:43:10.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1181reute
-h f BC-WESTON-GETS-U.S.-AIR   04-03 0083</field>
-	<field name = "TITLE">WESTON GETS U.S. AIR FORCE CONTRACT</field>
+	<field name = "titulo">WESTON GETS U.S. AIR FORCE CONTRACT</field>
 	<field name = "DATELINE">WEST CHESTER, Pa., April 3 -</field>
-	<field name = "BODY">Roy F. Weston Inc> said it
+	<field name = "content">Roy F. Weston Inc> said it
 received a 9.9 mln dlr contract from the U.S. Air Force for
 assistance with site investigations and remedial studies at Air
 Force bases throughout the nation.

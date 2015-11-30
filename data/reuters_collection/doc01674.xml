@@ -5,12 +5,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">gatt</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">F
-f0306reute
-u f AM-SEMICONDUCTORS   03-04 0113</field>
-	<field name = "TITLE">GATT COUNCIL DEFERS DECISION ON SEMICONDUCTORS</field>
+	<field name = "titulo">GATT COUNCIL DEFERS DECISION ON SEMICONDUCTORS</field>
 	<field name = "DATELINE">GENEVA, March 4 -</field>
-	<field name = "BODY">The ruling GATT Council deferred a
+	<field name = "content">The ruling GATT Council deferred a
 decision on whether to set up a dispute panel on the basis of a
 European Community complaint against the U.S.- Japanese
 agreement on exports of computer semiconductors.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">G 
-f2563reute
-u f BC-TAIWAN-TO-REOPEN-TEND   06-18 0091</field>
-	<field name = "TITLE">TAIWAN TO REOPEN TENDER FOR U.S. SOYBEANS</field>
+	<field name = "titulo">TAIWAN TO REOPEN TENDER FOR U.S. SOYBEANS</field>
 	<field name = "DATELINE">TAIPEI, June 18 -</field>
-	<field name = "BODY">The joint committee of Taiwan's soybean
+	<field name = "content">The joint committee of Taiwan's soybean
 importers will reopen a tender tomorrow for two shipments of
 54,000 to 66,000 tonnes of U.S. Soybeans, a committee spokesman
 told Reuters.

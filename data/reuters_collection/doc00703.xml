@@ -3,14 +3,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nymex</field>
-	<field name = "UNKNOWN">Y
-f0753
-reute
-r f BC-NYMEX-WILL-EXPAND-OFF   03-02 0103</field>
-	<field name = "TITLE">NYMEX WILL EXPAND OFF-HOUR TRADING APRIL ONE</field>
+	<field name = "titulo">NYMEX WILL EXPAND OFF-HOUR TRADING APRIL ONE</field>
 	<field name = "AUTHOR">By BERNICE NAPACH, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">The New York Mercantile Exchange set
+	<field name = "content">The New York Mercantile Exchange set
 April one for the debut of a new procedure in the energy
 complex that will increase the use of energy futures worldwide.
      On April one, NYMEX will allow oil traders that do not

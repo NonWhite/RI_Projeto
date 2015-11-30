@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:11:12.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f1478reute
-h f BC-U.S.-CORPORATE-FINANC   10-19 0100</field>
-	<field name = "TITLE">U.S. CORPORATE FINANCE - COMPANIES ON SIDELINES</field>
+	<field name = "titulo">U.S. CORPORATE FINANCE - COMPANIES ON SIDELINES</field>
 	<field name = "AUTHOR">By John Picinich</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">The recent sharp rise in U.S. interest
+	<field name = "content">The recent sharp rise in U.S. interest
 rates sparked turmoil in the fixed-income markets, but
 underwriters said they doubt company treasurers will rush to
 borrow before rates increase further.

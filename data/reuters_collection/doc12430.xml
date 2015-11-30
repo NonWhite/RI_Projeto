@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 05:24:37.82</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0416reute
-u f BC-CHINA-TAKES-SHARE-TRA   04-02 0107</field>
-	<field name = "TITLE">CHINA TAKES SHARE TRADING OFF REFORM AGENDA</field>
+	<field name = "titulo">CHINA TAKES SHARE TRADING OFF REFORM AGENDA</field>
 	<field name = "AUTHOR">By Mark O'Neill, Reuters</field>
 	<field name = "DATELINE">PEKING, April 2 -</field>
-	<field name = "BODY">China opened its fifth securities market
+	<field name = "content">China opened its fifth securities market
 yesterday, in Tianjin, but share issues and share trading are
 no longer on the agenda of economic reform, official newspapers
 and Western diplomats said.

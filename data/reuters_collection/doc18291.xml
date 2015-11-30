@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 16:26:48.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2608reute
-r f BC-CBS/FOX-VIDEO-SEES-HI   06-02 0097</field>
-	<field name = "TITLE">CBS/FOX VIDEO SEES HIGHER 1987 REVENUES</field>
+	<field name = "titulo">CBS/FOX VIDEO SEES HIGHER 1987 REVENUES</field>
 	<field name = "DATELINE">CHICAGO, June 2 -</field>
-	<field name = "BODY">CBS/Fox Video Co, an equal partnership of
+	<field name = "content">CBS/Fox Video Co, an equal partnership of
 CBS Inc CBS> and 20th Century-Fox Film Corp, expects revenues
 for 1987 to exceed 400 mln dlrs, up from 361 mln dlrs last
 year, President James Fifield said in an interview.

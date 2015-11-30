@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:12:19.18F</field>
-	<field name = "UNKNOWN">f0485reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">r f BC-ELDERS-RESOURCES-LTD   03-27 0083</field>
-	<field name = "TITLE">ELDERS RESOURCES LTD> FIRST HALF ENDED DEC 31</field>
+	<field name = "titulo">ELDERS RESOURCES LTD> FIRST HALF ENDED DEC 31</field>
 	<field name = "DATELINE">MELBOURNE, March 27 -</field>
-	<field name = "BODY">Net shr 7.6 cents vs 3.0
+	<field name = "content">Net shr 7.6 cents vs 3.0
     Int div 3.0 cents vs nil
     Net 16.93 mln vs 5.47 mln
     Sales 160.14 mln vs 2.35 mln.

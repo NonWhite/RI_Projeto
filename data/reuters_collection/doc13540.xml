@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:25:19.92</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0446reute
-d f BC-STRONG-QUAKE-JOLTS-CE   04-07 0108</field>
-	<field name = "TITLE">STRONG QUAKE JOLTS CENTRAL JAPAN</field>
+	<field name = "titulo">STRONG QUAKE JOLTS CENTRAL JAPAN</field>
 	<field name = "DATELINE">TOKYO, April 7 -</field>
-	<field name = "BODY">A strong earthquake registering 6.9 on the
+	<field name = "content">A strong earthquake registering 6.9 on the
 open-ended Richter scale jolted central and northern Japan, the
 Meteorological Agency said, but there were no immediate reports
 of injuries or damage.

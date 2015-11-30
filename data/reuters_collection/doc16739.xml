@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 19:35:03.03</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f2830reute
-u f BC-NEW-ZEALAND-CPI-RISES   04-13 0085</field>
-	<field name = "TITLE">NEW ZEALAND CPI RISES 2.3 PCT IN MARCH QUARTER</field>
+	<field name = "titulo">NEW ZEALAND CPI RISES 2.3 PCT IN MARCH QUARTER</field>
 	<field name = "DATELINE">WELLINGTON, April 14 -</field>
-	<field name = "BODY">New Zealand's consumer price index,
+	<field name = "content">New Zealand's consumer price index,
 CPI, which measures the rate of inflation, rose 2.3 pct in the
 quarter ended March 31 against an 8.9 pct rise in the December
 1986 quarter and a 2.3 pct rise in the March 1986 quarter, the

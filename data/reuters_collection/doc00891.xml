@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 02:54:05.01</field>
 	<field name = "PLACES">egypt</field>
 	<field name = "PLACES">libya</field>
-	<field name = "UNKNOWN">RM
-f0571
-reute
-u f BC-EGYPT-ALLOWS-FUGITIVE   03-03 0099</field>
-	<field name = "TITLE">EGYPT ALLOWS FUGITIVE LIBYANS STAY</field>
+	<field name = "titulo">EGYPT ALLOWS FUGITIVE LIBYANS STAY</field>
 	<field name = "DATELINE">CAIRO, March 3 -</field>
-	<field name = "BODY">Egypt allowed five fugitive Libyan
+	<field name = "content">Egypt allowed five fugitive Libyan
 soldiers who landed in a military plane in the far south of the
 country last night to stay and flew them to Cairo, official
 sources said.

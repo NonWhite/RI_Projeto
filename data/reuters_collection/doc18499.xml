@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 04:35:02.73</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F M C 
-f2305reute
-u f BC-CANADIAN-MINES-AGREE   06-18 0109</field>
-	<field name = "TITLE">CANADIAN MINES AGREE TO CUT COAL PRICE</field>
+	<field name = "titulo">CANADIAN MINES AGREE TO CUT COAL PRICE</field>
 	<field name = "DATELINE">TOKYO, June 18 -</field>
-	<field name = "BODY">Members of the Bull Moose coking coal mine
+	<field name = "content">Members of the Bull Moose coking coal mine
 in British Columbia, Canada, agreed to cut the base price they
 charge Japanese steelmakers to 91.77 Canadian dlrs a tonne FOB
 for the year from April 1, down 14 dlrs from 1986/87, an

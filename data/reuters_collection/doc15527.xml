@@ -3,12 +3,9 @@
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f0876reute
-d f BC-BROWN-BOVERI-UND-CIE   04-09 0038</field>
-	<field name = "TITLE">BROWN BOVERI UND CIE AG LIFTS 1986 DIVIDEND</field>
+	<field name = "titulo">BROWN BOVERI UND CIE AG LIFTS 1986 DIVIDEND</field>
 	<field name = "DATELINE">MANNHEIM, West Germany, April 9 -</field>
-	<field name = "BODY">Dividend on 1986 business 12 marks per share vs seven
+	<field name = "content">Dividend on 1986 business 12 marks per share vs seven
 marks.
     (Company is a subsidiary of Switzerland's BBC AG Brown
 Boveri und Cie BBCZ.Z>).

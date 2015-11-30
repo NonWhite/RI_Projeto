@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 13:32:35.32</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1873reute
-u f BC-PRIME-MEDICAL-PMSI>   03-19 0027</field>
-	<field name = "TITLE">PRIME MEDICAL PMSI> SAYS MERGER TALKS END</field>
+	<field name = "titulo">PRIME MEDICAL PMSI> SAYS MERGER TALKS END</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Prime Medical Services Inc said merger
+	<field name = "content">Prime Medical Services Inc said merger
 talks with National HMO Corp NHMO> have been terminated.
     Prime gave no reason for the termination of the talks with
 National HMO.

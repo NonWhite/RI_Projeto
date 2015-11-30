@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 18:27:25.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2776reute
-u f BC-SEC   03-30 0113</field>
-	<field name = "TITLE">SEC WINS EXTENSION OF ORDERS AGAINST VASKEVITCH</field>
+	<field name = "titulo">SEC WINS EXTENSION OF ORDERS AGAINST VASKEVITCH</field>
 	<field name = "DATELINE">WASHINGTON, March 30 -</field>
-	<field name = "BODY">U.S. District Court Judge Robert
+	<field name = "content">U.S. District Court Judge Robert
 Sweet granted requests by federal authorities for court orders
 freezing the assets of former Merrill Lynch executive Nahum
 Vaskevitch, who has been charged with insider trading.

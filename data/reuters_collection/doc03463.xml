@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 03:59:57.19</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">RM
-f0290reute
-u f BC-IRAQ-SAYS-IT-CRUSHED   03-11 0093</field>
-	<field name = "TITLE">IRAQ SAYS IT CRUSHED IRANIAN ATTACK IN NORTH</field>
+	<field name = "titulo">IRAQ SAYS IT CRUSHED IRANIAN ATTACK IN NORTH</field>
 	<field name = "DATELINE">BAGHDAD, March 11 -</field>
-	<field name = "BODY">Iraq said today its forces had crushed
+	<field name = "content">Iraq said today its forces had crushed
 an Iranian attack on a strategic mountain peak in a rugged and
 snow-clad area of Iraqi Kurdistan.
     The official Iraqi news agency INA said the attack was

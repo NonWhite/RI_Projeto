@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 00:02:22.51</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G C
-f4041reute
-u f BC-CHINA-IMPOSES-QUOTAS   03-17 0109</field>
-	<field name = "TITLE">CHINA IMPOSES QUOTAS TO CUT LOSS OF FARMLAND</field>
+	<field name = "titulo">CHINA IMPOSES QUOTAS TO CUT LOSS OF FARMLAND</field>
 	<field name = "DATELINE">PEKING, March 17 -</field>
-	<field name = "BODY">China will set quotas later this month
+	<field name = "content">China will set quotas later this month
 to cut the amount of farmland converted to non-agricultural
 uses, the China Daily said.
     The quotas will restrict the conversion of farmland to

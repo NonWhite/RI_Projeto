@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 16:02:22.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0536reute
-u f BC-BILL-TO-EXTEND-ETHANO   03-11 0102</field>
-	<field name = "TITLE">BILL TO EXTEND ETHANOL EXEMPTION CONSIDERED</field>
+	<field name = "titulo">BILL TO EXTEND ETHANOL EXEMPTION CONSIDERED</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">Senate Republican leader Robert Dole
+	<field name = "content">Senate Republican leader Robert Dole
 (R-Kan.) said he and a group of Republican lawmakers are
 considering introducing legislation to extend the ethanol tax
 exemption through the year 2000.

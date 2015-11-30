@@ -4,13 +4,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">opec</field>
 	<field name = "ORGS">iea</field>
-	<field name = "UNKNOWN">V RM
-f0114reute
-r f BC-CRUDE-OIL-PRICES-UP-A   03-06 0108</field>
-	<field name = "TITLE">CRUDE OIL PRICES UP AS STOCKS, OUTPUT FALL</field>
+	<field name = "titulo">CRUDE OIL PRICES UP AS STOCKS, OUTPUT FALL</field>
 	<field name = "AUTHOR">BY TED D'AFFLISIO, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 6 -</field>
-	<field name = "BODY">U.S. crude oil prices rose above 18 
+	<field name = "content">U.S. crude oil prices rose above 18 
 dlrs a barrel this week and industry analysts said the price
 could rise another dollar as inventories fall.
     "OPEC is keeping its production down, and in the cash market

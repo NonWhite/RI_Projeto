@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:58:03.88</field>
-	<field name = "UNKNOWN">L
-f1117reute
-u f BC-SIOUX-FALLS-HOGS-OPEN   04-07 0025</field>
-	<field name = "TITLE">SIOUX FALLS HOGS OPEN UP 1.50 DLR - PRIVATE</field>
+	<field name = "titulo">SIOUX FALLS HOGS OPEN UP 1.50 DLR - PRIVATE</field>
 	<field name = "DATELINE">Sioux Falls, April 7 -</field>
-	<field name = "BODY">Hog prices opened 1.50 dlr higher,
+	<field name = "content">Hog prices opened 1.50 dlr higher,
 private sources said. Top 52.00 dlrs per cwt.
  Reuter</field>
 </doc></add>

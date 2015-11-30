@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 13:07:30.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5883reute
-r f BC-PLAYBOY-PLA>-HAS-NO   03-17 0111</field>
-	<field name = "TITLE">PLAYBOY PLA> HAS NO RESTRUCTURING PLANS</field>
+	<field name = "titulo">PLAYBOY PLA> HAS NO RESTRUCTURING PLANS</field>
 	<field name = "DATELINE">CHICAGO, March 17 -</field>
-	<field name = "BODY">Playboy Enterprises Inc said it has no
+	<field name = "content">Playboy Enterprises Inc said it has no
 plans to restructure or to take the company private.
     Moreover, Chairman Hugh Hefner, who owns 71 pct of the more
 than 9.4 mln shares outstanding, has no interest in selling his

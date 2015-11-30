@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 15:02:15.77</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">RM F A
-f0491reute
-r f BC-CME-POSTPONES-RULING   03-04 0091</field>
-	<field name = "TITLE">CME POSTPONES RULING ON DUAL TRADING PETITION</field>
+	<field name = "titulo">CME POSTPONES RULING ON DUAL TRADING PETITION</field>
 	<field name = "DATELINE">CHICAGO, March 4 -</field>
-	<field name = "BODY">Chicago Mercantile Exchange, CME,
+	<field name = "content">Chicago Mercantile Exchange, CME,
 directors have postponed action on a membership petition
 calling for a ban on dual trading, CME Chairman Jack Sandner
 told Reuters.

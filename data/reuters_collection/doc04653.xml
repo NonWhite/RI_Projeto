@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 04:26:27.82</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0197reute
-u f BC-BANK-OF-JAPAN-CALLS-F   03-13 0103</field>
-	<field name = "TITLE">BANK OF JAPAN CALLS FOR LONG-TERM EFFORTS ON TRADE</field>
+	<field name = "titulo">BANK OF JAPAN CALLS FOR LONG-TERM EFFORTS ON TRADE</field>
 	<field name = "DATELINE">TOKYO, March 13 -</field>
-	<field name = "BODY">The short-term effect of foreign exchange
+	<field name = "content">The short-term effect of foreign exchange
 rate movements in correcting international trade imbalances
 appears to be waning, and long-term efforts are required to cut
 Japan's chronic dependence on external demand, the Bank of

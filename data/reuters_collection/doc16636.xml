@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 15:44:09.87</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2431reute
-d f BC-TEXAS-AIR-TEX>-UNIT   04-13 0086</field>
-	<field name = "TITLE">TEXAS AIR TEX> UNIT HIKES SERVICE FROM DENVER</field>
+	<field name = "titulo">TEXAS AIR TEX> UNIT HIKES SERVICE FROM DENVER</field>
 	<field name = "DATELINE">DENVER, April 13 -</field>
-	<field name = "BODY">Texas Air Corp's Continental Airlines
+	<field name = "content">Texas Air Corp's Continental Airlines
 said it will add flights in May to three destinations it
 already serves from Denver, raising its total daily departures
 to 264 from 261 at Stapleton International Airport.

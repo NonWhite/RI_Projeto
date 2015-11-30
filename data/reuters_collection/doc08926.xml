@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 14:00:29.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2028reute
-d f BC-SHOWBOAT-SBO>-PLAY-M   03-24 0105</field>
-	<field name = "TITLE">SHOWBOAT SBO> PLAY MONEY OPENING DELAYED</field>
+	<field name = "titulo">SHOWBOAT SBO> PLAY MONEY OPENING DELAYED</field>
 	<field name = "DATELINE">ATLANTIC CITY, N.J., March 24 -</field>
-	<field name = "BODY">Showboat Inc said the play
+	<field name = "content">Showboat Inc said the play
 money opening of gambling at its Atlantic City, N.J., Showboat
 Hotel, Casino and Bowling Center has been delayed pending the
 receipt of regulatory approvals.

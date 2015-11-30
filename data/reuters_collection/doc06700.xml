@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 14:00:57.11</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f8993reute
-d f BC-CRAMER-INC-CRMR>-4TH   03-18 0049</field>
-	<field name = "TITLE">CRAMER INC CRMR> 4TH QTR LOSS</field>
+	<field name = "titulo">CRAMER INC CRMR> 4TH QTR LOSS</field>
 	<field name = "DATELINE">KANSAS CITY, KAN., March 18 -</field>
-	<field name = "BODY">Shr loss eight cts vs loss 1.39 dlrs
+	<field name = "content">Shr loss eight cts vs loss 1.39 dlrs
     Net loss 94,000 vs loss 1,569,000
     Sales 6,951,000 vs 5,518,000
     Year

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 06:41:27.08</field>
 	<field name = "PLACES">denmark</field>
-	<field name = "UNKNOWN">RM
-f0435reute
-u f BC-SMALL-DANISH-BANK-STO   03-23 0112</field>
-	<field name = "TITLE">SMALL DANISH BANK STOPS PAYMENTS - INSPECTORATE</field>
+	<field name = "titulo">SMALL DANISH BANK STOPS PAYMENTS - INSPECTORATE</field>
 	<field name = "DATELINE">COPENHAGEN, MARCH  23 -</field>
-	<field name = "BODY">A small Danish private bank, the
+	<field name = "content">A small Danish private bank, the
 6.Juli Banken A/S, stopped payments today following a need for
 considerably higher provisions against loan losses, the
 Government Bank Inspectorate said in a statement.

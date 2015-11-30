@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 07:01:46.13</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0920
-reute
-u f BC-WOOLWORTH,-UNDERWOODS   03-03 0105</field>
-	<field name = "TITLE">WOOLWORTH, UNDERWOODS FAIL TO AGREE ON BID</field>
+	<field name = "titulo">WOOLWORTH, UNDERWOODS FAIL TO AGREE ON BID</field>
 	<field name = "DATELINE">LONDON, MARCH 3 -</field>
-	<field name = "BODY">Underwoods Plc> said it had not been
+	<field name = "content">Underwoods Plc> said it had not been
 possible to agree terms on a bid to be made by Woolworth
 Holdings Plc WLUK.L> during talks.
     The two companies had been holding exploratory discussions.

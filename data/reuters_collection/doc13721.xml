@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 09:24:17.71</field>
-	<field name = "UNKNOWN">T
-f0753reute
-b f BC-ny-cocoa-pre-opg   04-07 0136</field>
-	<field name = "TITLE">NEW YORK COCOA FUTURES EXPECTED TO OPEN LOWER</field>
+	<field name = "titulo">NEW YORK COCOA FUTURES EXPECTED TO OPEN LOWER</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Cocoa futures are expected to open 10
+	<field name = "content">Cocoa futures are expected to open 10
 to 15 dlrs lower following London cocoa prices.
     ----
     Buffer stock purchases could reach 75,000 tonnes in a

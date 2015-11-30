@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:12:00.75</field>
-	<field name = "UNKNOWN">G
-f1499reute
-u f BC-MINNEAPOLIS-SPRING-WH   04-07 0111</field>
-	<field name = "TITLE">MINNEAPOLIS SPRING WHEAT MOSTLY UP AT MIDDAY</field>
+	<field name = "titulo">MINNEAPOLIS SPRING WHEAT MOSTLY UP AT MIDDAY</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 7 -</field>
-	<field name = "BODY">Spring wheat futures traded
+	<field name = "content">Spring wheat futures traded
 unchanged to two cents higher at midsession as firm exporter
 demand lent support, traders said. May stood 1-1/2 cents higher
 at 2.85 dlrs.

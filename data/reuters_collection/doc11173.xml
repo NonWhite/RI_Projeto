@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">china</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0042reute
-u f BC-EUROPEAN-COMMUNITY-TO   03-31 0088</field>
-	<field name = "TITLE">EUROPEAN COMMUNITY TO SET UP OFFICE IN PEKING</field>
+	<field name = "titulo">EUROPEAN COMMUNITY TO SET UP OFFICE IN PEKING</field>
 	<field name = "DATELINE">PEKING, March 31 -</field>
-	<field name = "BODY">China and the European Community (EC)
+	<field name = "content">China and the European Community (EC)
 signed an agreement on the establishment of an EC office here.
     Chinese vice-foreign minister Zhou Nan and the EC's
 external relations commissioner, Willy De Clercq, signed the

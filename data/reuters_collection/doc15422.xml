@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 07:08:40.41</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0420reute
-b f BC-JAPAN-DEVELOPMENT-BAN   04-09 0084</field>
-	<field name = "TITLE">JAPAN DEVELOPMENT BANK ISSUES 150 MLN DLR EUROBOND</field>
+	<field name = "titulo">JAPAN DEVELOPMENT BANK ISSUES 150 MLN DLR EUROBOND</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">The Japan Development Bank is issuing a
+	<field name = "content">The Japan Development Bank is issuing a
 150 mln dlr eurobond due May 20, 1994 paying eight pct and
 priced at 101-1/8 pct, lead manager Bank of Tokyo International
 Ltd said.

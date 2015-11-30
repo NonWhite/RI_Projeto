@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 16:05:59.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f3536reute
-r f BC-WESTERN-DIGITAL-WDC>   03-16 0093</field>
-	<field name = "TITLE">WESTERN DIGITAL WDC> TO REDEEM DEBENTURES</field>
+	<field name = "titulo">WESTERN DIGITAL WDC> TO REDEEM DEBENTURES</field>
 	<field name = "DATELINE">IRVINE, Calif., March 16 -</field>
-	<field name = "BODY">Western Digital Corp said it
+	<field name = "content">Western Digital Corp said it
 plans to call for redemption on April 6 all of its
 approximately 47 mln dlrs principal amount of 6-3/4 pct
 convertible subordinated debentures due 2011.

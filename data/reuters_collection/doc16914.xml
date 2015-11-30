@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 16:31:54.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0436reute
-d f BC-GRUMMAN-CORP-GQ>-GET   04-17 0052</field>
-	<field name = "TITLE">GRUMMAN CORP GQ> GETS 77 MLN DLR NAVY CONTRACT</field>
+	<field name = "titulo">GRUMMAN CORP GQ> GETS 77 MLN DLR NAVY CONTRACT</field>
 	<field name = "DATELINE">WASHINGTON, April 17 -</field>
-	<field name = "BODY">Grumman Aerospace Corp is being
+	<field name = "content">Grumman Aerospace Corp is being
 awarded a 77 mln dlr increment to a Navy contract related to
 fiscal 1988 A-6F aircraft production, the Defense Department
 said.

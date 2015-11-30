@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:36:45.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2008reute
-r f BC-ORANGE-CO-OJ>-HOLDER   04-08 0063</field>
-	<field name = "TITLE">ORANGE-CO OJ> HOLDERS APPROVE NAME CHANGE</field>
+	<field name = "titulo">ORANGE-CO OJ> HOLDERS APPROVE NAME CHANGE</field>
 	<field name = "DATELINE">BLOOMFIELD HILLS, Mich., April 8 -</field>
-	<field name = "BODY">Orange-Co Inc said
+	<field name = "content">Orange-Co Inc said
 shareholders at the annual meeting approved a name change to
 Stoneridge Resources Inc.
     The company said yesterday shareholders of American

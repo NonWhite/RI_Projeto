@@ -3,12 +3,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">ussr</field>
 	<field name = "PEOPLE">bangemann</field>
-	<field name = "UNKNOWN">RM
-f0282reute
-r f BC-SOVIET-MINISTER-IN-GE   04-02 0099</field>
-	<field name = "TITLE">SOVIET MINISTER IN GERMAN JOINT VENTURE TALKS</field>
+	<field name = "titulo">SOVIET MINISTER IN GERMAN JOINT VENTURE TALKS</field>
 	<field name = "DATELINE">BONN, April 2 -</field>
-	<field name = "BODY">Soviet deputy prime minister Alexei Antonov
+	<field name = "content">Soviet deputy prime minister Alexei Antonov
 begins two days of economic talks in Bonn that will include
 discussions on Soviet-West German joint ventures.
     Antonov and West German Economics Minister Martin Bangemann

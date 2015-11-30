@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 17:56:05.08</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3479reute
-r f BC-TRACE-PRODUCTS-TRCE.   10-20 0076</field>
-	<field name = "TITLE">TRACE PRODUCTS TRCE.O> MERGER AGREEMENT SUSPENDED</field>
+	<field name = "titulo">TRACE PRODUCTS TRCE.O> MERGER AGREEMENT SUSPENDED</field>
 	<field name = "DATELINE">SAN JOSE, Calif., -</field>
-	<field name = "BODY">Trace Products Inc said its stock-swap
+	<field name = "content">Trace Products Inc said its stock-swap
 merger agreement with privately held Central Point Software has
 been suspended indefinitely because of uncertainty in the stock
 market.

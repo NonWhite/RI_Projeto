@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 11:00:23.84</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T M
-f0521reute
-d f BC-COMMISSION-REPORT-WAR   03-04 0113</field>
-	<field name = "TITLE">COMMISSION REPORT WARNS ON EC FINANCING</field>
+	<field name = "titulo">COMMISSION REPORT WARNS ON EC FINANCING</field>
 	<field name = "DATELINE">BRUSSELS, March 4 -</field>
-	<field name = "BODY">The European Community is close to
+	<field name = "content">The European Community is close to
 bankruptcy, the EC's Executive Commission said in a report.
     In its bluntest ever warning about the state of EC
 finances, it said "The Community is at present faced with a

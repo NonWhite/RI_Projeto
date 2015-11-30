@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 13:43:00.05</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0102reute
-d f BC-DAUPHIN-DEPOSIT-DAPN   03-06 0084</field>
-	<field name = "TITLE">DAUPHIN DEPOSIT DAPN> TO MAKE ACQUISITION</field>
+	<field name = "titulo">DAUPHIN DEPOSIT DAPN> TO MAKE ACQUISITION</field>
 	<field name = "DATELINE">HARRISBURG, Pa., March 6 -</field>
-	<field name = "BODY">Dauphin Deposit Corp said it has
+	<field name = "content">Dauphin Deposit Corp said it has
 signed a letter of intent to acquire Colonial Bancorp Inc of
 New Holland, Pa., in an exchange of 3.6 to 4.4 Dauphin shares
 for each colonial share, depending on the market value of

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 14:37:33.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2118reute
-r f BC-WATCHDOG-GROUP-SEEKS   06-01 0115</field>
-	<field name = "TITLE">WATCHDOG GROUP SEEKS U.S. RECALL OF SCHOOLBUSES</field>
+	<field name = "titulo">WATCHDOG GROUP SEEKS U.S. RECALL OF SCHOOLBUSES</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">The Center for Auto Safety, a private
+	<field name = "content">The Center for Auto Safety, a private
 auto industry watchdog group, sought a government recall of
 50,000 schoolbuses, charging that a defect in their manufacture
 causes the buses to split open in a crash.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:15:03.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2409reute
-r f BC-NORTHERN-TRUST-NTRS>   04-01 0027</field>
-	<field name = "TITLE">NORTHERN TRUST NTRS> TO INCREASE PRIME RATE</field>
+	<field name = "titulo">NORTHERN TRUST NTRS> TO INCREASE PRIME RATE</field>
 	<field name = "DATELINE">CHICAGO, April 1 -</field>
-	<field name = "BODY">Northern Trust Co said it is raising its
+	<field name = "content">Northern Trust Co said it is raising its
 prime rate to 7-3/4 pct from 7-1/2 pct effective April 2.
  Reuter</field>
 </doc></add>

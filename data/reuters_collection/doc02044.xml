@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 10:03:24.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0183reute
-b f BC-OCCIDENTAL-OXY>-OFFE   03-05 0099</field>
-	<field name = "TITLE">OCCIDENTAL OXY> OFFERS OVER 37 MLN SHARES</field>
+	<field name = "titulo">OCCIDENTAL OXY> OFFERS OVER 37 MLN SHARES</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Occidental Petroleum Corp said its
+	<field name = "content">Occidental Petroleum Corp said its
 common stock offering has been further increased to a total of
 37,950,000 shares.
     The company explained that underwriters exercised in full

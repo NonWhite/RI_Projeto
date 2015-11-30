@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">C G
-f2250reute
-u f BC-S.-Africa-crop-estim   04-09 0073</field>
-	<field name = "TITLE">USDA ESTIMATES SOUTH AFRICA CORN CROP, EXPORTS</field>
+	<field name = "titulo">USDA ESTIMATES SOUTH AFRICA CORN CROP, EXPORTS</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The U.S. Agriculture Department
+	<field name = "content">The U.S. Agriculture Department
 forecast South Africa's 1986/87 corn crop at 8.50 mln tonnes,
 vs 9.50 mln tonnes last month. It estimated the 1985/86 crop at
 8.08 mln, vs 8.08 mln last month.

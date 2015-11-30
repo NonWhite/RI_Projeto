@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 05:34:49.60</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0342reute
-u f BC-GERMAN-INDUSTRIAL-EMP   04-08 0120</field>
-	<field name = "TITLE">GERMAN INDUSTRIAL EMPLOYMENT SEEN STAGNATING</field>
+	<field name = "titulo">GERMAN INDUSTRIAL EMPLOYMENT SEEN STAGNATING</field>
 	<field name = "DATELINE">WEST BERLIN, April 8 -</field>
-	<field name = "BODY">The number of workers employed in
+	<field name = "content">The number of workers employed in
 the West German industrial sector stagnated in the last quarter
 of 1986 as a 50,000 increase in overall employment benefited
 only the services branch, the DIW economic institute said.

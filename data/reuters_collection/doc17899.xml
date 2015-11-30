@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 04:04:02.22</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0220reute
-u f BC-STOREHOUSE-REPORTS-HI   06-02 0093</field>
-	<field name = "TITLE">STOREHOUSE REPORTS HIGHER PROFITS IN 1986/87</field>
+	<field name = "titulo">STOREHOUSE REPORTS HIGHER PROFITS IN 1986/87</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">53 weeks to April 4, 1987
+	<field name = "content">53 weeks to April 4, 1987
     Share - basic 22.2p vs 21.6p
           - fully-diluted 21.6p vs 19.9p
     Final dividend 6.3p vs 5.7p, making 8.6p vs 7.7p

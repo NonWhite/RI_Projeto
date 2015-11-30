@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:22:10.06</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f1766reute
-u f BC-ASLK-CGER-FINANCE-ISS   03-26 0094</field>
-	<field name = "TITLE">ASLK-CGER FINANCE ISSUES 10 BILLION YEN BOND</field>
+	<field name = "titulo">ASLK-CGER FINANCE ISSUES 10 BILLION YEN BOND</field>
 	<field name = "DATELINE">LONDON, March 26 -</field>
-	<field name = "BODY">ASLK-CGER Finance NV is issuing a 10
+	<field name = "content">ASLK-CGER Finance NV is issuing a 10
 billion yen eurobond due April 10, 1994 with a 5-1/2 pct coupon
 and priced at 101-1/2 pct, lead manager IBJ International Ltd
 said.

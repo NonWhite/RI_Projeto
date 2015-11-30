@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0033reute
-u f BC-JAPAN-DENIES-BREAKING   03-13 0108</field>
-	<field name = "TITLE">JAPAN DENIES BREAKING SEMICONDUCTOR TRADE PACT</field>
+	<field name = "titulo">JAPAN DENIES BREAKING SEMICONDUCTOR TRADE PACT</field>
 	<field name = "DATELINE">TOKYO, March 13 -</field>
-	<field name = "BODY">Japan denied breaking a pact with the
+	<field name = "content">Japan denied breaking a pact with the
 U.S. On semiconductor trade but said prices set out in the pact
 were too high and acknowledged difficulties in implementing the
 accord.

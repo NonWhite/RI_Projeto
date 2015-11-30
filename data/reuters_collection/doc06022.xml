@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">F Y
-f5371reute
-u f BC-SHEARSON-LEHMAN-UPGRA   03-17 0109</field>
-	<field name = "TITLE">SHEARSON LEHMAN UPGRADES U.S. OIL STOCKS</field>
+	<field name = "titulo">SHEARSON LEHMAN UPGRADES U.S. OIL STOCKS</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">Analyst Sanford Margoshes of Shearson
+	<field name = "content">Analyst Sanford Margoshes of Shearson
 Lehman Brothers said he recommended a number of oil stocks
 today now that it is apparent that OPEC has succeeded in
 holding to its prescribed production quotas.

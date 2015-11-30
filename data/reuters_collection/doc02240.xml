@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 12:24:56.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0933reute
-d f BC-ELI-LILLY-LLY>-SUES   03-05 0075</field>
-	<field name = "TITLE">ELI LILLY LLY> SUES INT'L PHARMACEUTICAL IPPI></field>
+	<field name = "titulo">ELI LILLY LLY> SUES INT'L PHARMACEUTICAL IPPI></field>
 	<field name = "DATELINE">WALNUT, Calif., March 5 -</field>
-	<field name = "BODY">International Pharmaceutical
+	<field name = "content">International Pharmaceutical
 Products Inc said Eli Lilly and Co has filed a patent
 infringement suit against it for marketing Vincristine Sulfate
 for injection.

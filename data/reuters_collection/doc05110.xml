@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 17:54:51.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0657reute
-r f BC-MCI-MCIC>-OPPOSES-U.   03-13 0090</field>
-	<field name = "TITLE">MCI MCIC> OPPOSES U.S. PHONE RECOMMENDATIONS</field>
+	<field name = "titulo">MCI MCIC> OPPOSES U.S. PHONE RECOMMENDATIONS</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">MCI Communications Corp said it
+	<field name = "content">MCI Communications Corp said it
 opposed recent recommendations by the U.S. Justice Department
 that would loosen restrictions on the regional bell operating
 companies.

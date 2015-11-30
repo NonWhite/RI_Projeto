@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 12:17:38.62</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0583reute
-r f BC-GCA-GCA>-SHAREHOLDER   03-13 0107</field>
-	<field name = "TITLE">GCA GCA> SHAREHOLDERS APPROVE RESTRUCTURING</field>
+	<field name = "titulo">GCA GCA> SHAREHOLDERS APPROVE RESTRUCTURING</field>
 	<field name = "DATELINE">ANDOVER, Mass., March 13 -</field>
-	<field name = "BODY">GCA Corp said its shareholders
+	<field name = "content">GCA Corp said its shareholders
 approved a restructuring plan to raise 72 mln dlrs in equity
 for the troubled maker of semiconductor production systems.
     GCA said 90 pct of the shareholders voting at a special

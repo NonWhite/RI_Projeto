@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 03:41:41.38</field>
-	<field name = "UNKNOWN">RM
-f0132reute
-u f BC-YEN-BOND-FUTURES-CLOS   04-07 0112</field>
-	<field name = "TITLE">YEN BOND FUTURES CLOSE SHARPLY HIGHER</field>
+	<field name = "titulo">YEN BOND FUTURES CLOSE SHARPLY HIGHER</field>
 	<field name = "DATELINE">TOKYO, April 7 -</field>
-	<field name = "BODY">Yen bond futures prices closed sharply
+	<field name = "content">Yen bond futures prices closed sharply
 higher reflecting the steep advance in cash bond prices on
 purchases by end-investors and banks' dealing accounts, which
 was followed by broker buying, dealers said.

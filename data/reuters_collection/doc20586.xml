@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:50:34.12</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A 
-f2799reute
-u f BC-PACIFIC-STOCK-EXHCANG   10-20 0095</field>
-	<field name = "TITLE">PACIFIC STOCK EXHCANGE TO CLOSE HALF HOUR EARLY</field>
+	<field name = "titulo">PACIFIC STOCK EXHCANGE TO CLOSE HALF HOUR EARLY</field>
 	<field name = "DATELINE">SAN FRANCISCO, Oct 20 -</field>
-	<field name = "BODY">The Pacific Stock Exchange said it
+	<field name = "content">The Pacific Stock Exchange said it
 will close one half hour early at 1300, pacific daylight time,
 due to heavy volume and to coincide with the closing of other
 U.S. exchanges.

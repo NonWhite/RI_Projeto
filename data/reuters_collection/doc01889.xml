@@ -3,12 +3,9 @@
 	<field name = "TOPICS">bop</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0097reute
-u f BC-N.Z.-CURRENT-ACCOUNT   03-04 0113</field>
-	<field name = "TITLE">N.Z. CURRENT ACCOUNT DEFICIT NARROWS IN JANUARY</field>
+	<field name = "titulo">N.Z. CURRENT ACCOUNT DEFICIT NARROWS IN JANUARY</field>
 	<field name = "DATELINE">WELLINGTON, March 5 -</field>
-	<field name = "BODY">New Zealand's current account deficit
+	<field name = "content">New Zealand's current account deficit
 narrowed to 180 mln N.Z. Dlrs in January from 203 mln, revised
 from 207 mln, in December and 305 mln in January 1986, in a
 smoothed measurement, the Statistics Department said.

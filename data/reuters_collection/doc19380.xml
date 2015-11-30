@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 15:20:04.09</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2145reute
-u f BC-TEKTRONIX-TEK>-BEGIN   06-19 0102</field>
-	<field name = "TITLE">TEKTRONIX TEK> BEGINS DUTCH AUCTION TENDER</field>
+	<field name = "titulo">TEKTRONIX TEK> BEGINS DUTCH AUCTION TENDER</field>
 	<field name = "DATELINE">BEAVERTON, Ore., June 19 -</field>
-	<field name = "BODY">Tektronix Inc said it began its
+	<field name = "content">Tektronix Inc said it began its
 previously announced Dutch Auction cash tender offer for up to
 10 mln of its own common shares.
     Under the terms of the offer the company will select a

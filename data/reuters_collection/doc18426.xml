@@ -4,12 +4,9 @@
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">uruguay</field>
-	<field name = "UNKNOWN">G
-f2973reute
-u f BC-TAIWAN,-URUGUAY-IN-PR   06-15 0108</field>
-	<field name = "TITLE">TAIWAN, URUGUAY IN PRICE DISPUTE OVER SOYBEANS</field>
+	<field name = "titulo">TAIWAN, URUGUAY IN PRICE DISPUTE OVER SOYBEANS</field>
 	<field name = "DATELINE">TAIPEI, June 16 -</field>
-	<field name = "BODY">Uruguayan suppliers have agreed to supply
+	<field name = "content">Uruguayan suppliers have agreed to supply
 Taiwan with only 25,000 tonnes of soybeans out of a total
 70,000 tonnes agreed in April, a spokesman for the joint
 committee of Taiwan's soybean importers told Reuters.

@@ -4,13 +4,10 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0135reute
-r f BC-PHILLIPS-P>-TO-EMPHA   03-12 0105</field>
-	<field name = "TITLE">PHILLIPS P> TO EMPHASIZE CASH FLOW TO PARE DEBT</field>
+	<field name = "titulo">PHILLIPS P> TO EMPHASIZE CASH FLOW TO PARE DEBT</field>
 	<field name = "AUTHOR">By Ted D'Afflisio, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">Phillips Petroleum Co will emphasize
+	<field name = "content">Phillips Petroleum Co will emphasize
 improving its short-term cash flow this year to pare its debt,
 C.J. "Pete" Silas, chairman, told Reuters in an interview.
     "Our priority is to get cash flow increased from the assets

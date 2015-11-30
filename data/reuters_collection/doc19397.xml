@@ -2,13 +2,10 @@
 	<field name = "DATE">19-JUN-1987 15:49:27.24</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM 
-f2230reute
-u f AM--BUDGET   06-19 0084</field>
-	<field name = "TITLE">U.S. BUDGET DUE FOR APPROVAL, TRUCE POSSIBLE</field>
+	<field name = "titulo">U.S. BUDGET DUE FOR APPROVAL, TRUCE POSSIBLE</field>
 	<field name = "AUTHOR">By Michael Posner, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, June 19, -</field>
-	<field name = "BODY">After battling President Reagan all
+	<field name = "content">After battling President Reagan all
 year, Congress is about to pass a trillion dollar 1988 budget
 that sets the stage for even fiercer fighting over its tax and
 defence policies.

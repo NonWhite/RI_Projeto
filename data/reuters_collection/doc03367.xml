@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 16:40:11.89</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0798reute
-d f BC-SOFTECH-INC-SOFT>-GE   03-09 0100</field>
-	<field name = "TITLE">SOFTECH INC SOFT> GETS AIR FORCE CONTRACT</field>
+	<field name = "titulo">SOFTECH INC SOFT> GETS AIR FORCE CONTRACT</field>
 	<field name = "DATELINE">WALTHAM, Mass., March 9 -</field>
-	<field name = "BODY">SoftTech Inc said it received a
+	<field name = "content">SoftTech Inc said it received a
 24.8 mln dlr five-year contract from the U.S. Air Force
 Aeronautical Systems Division to assist in tracking and
 controlling the development and modification of Modular

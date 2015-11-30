@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 05:31:16.31</field>
 	<field name = "PLACES">luxembourg</field>
-	<field name = "UNKNOWN">RM
-f1406reute
-u f BC-HELABA-UNIT-ISSUES-LU   03-16 0102</field>
-	<field name = "TITLE">HELABA UNIT ISSUES LUXEMBOURG FRANC PLACEMENT</field>
+	<field name = "titulo">HELABA UNIT ISSUES LUXEMBOURG FRANC PLACEMENT</field>
 	<field name = "DATELINE">LUXEMBOURG, March 16 -</field>
-	<field name = "BODY">Helaba Luxembourg Hessische
+	<field name = "content">Helaba Luxembourg Hessische
 Landesbank International has issued a 300 mln Luxembourg franc,
 seven-year private placement with a coupon of 7.5 pct and
 priced at par, lead manager Banque Generale du Luxembourg said.

@@ -4,12 +4,9 @@
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">RM
-f2785reute
-r f BC-CHINA-HELPS-IRAN-TO-D   03-28 0111</field>
-	<field name = "TITLE">CHINA HELPS IRAN TO DEVELOP NEW MISSILES - PAPER</field>
+	<field name = "titulo">CHINA HELPS IRAN TO DEVELOP NEW MISSILES - PAPER</field>
 	<field name = "DATELINE">LONDON, March 29 -</field>
-	<field name = "BODY">Iran has produced a short-range
+	<field name = "content">Iran has produced a short-range
 surface-to-surface missile with technological help from China
 and is working with Peking on a longer-range missile capable of
 hitting most areas of Iraq, the Observer newspaper said.

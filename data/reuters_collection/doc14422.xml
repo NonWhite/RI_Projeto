@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 15:04:07.52</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2156reute
-r f BC-TEXTRON-TXT>-PLANS-S   04-07 0066</field>
-	<field name = "TITLE">TEXTRON TXT> PLANS SALE OF AVCO DIVISION</field>
+	<field name = "titulo">TEXTRON TXT> PLANS SALE OF AVCO DIVISION</field>
 	<field name = "DATELINE">PROVIDENCE, R.I., April 7 -</field>
-	<field name = "BODY">Textron Inc said it plans to
+	<field name = "content">Textron Inc said it plans to
 sell its Avco Specialty Materials Division as part of its debt
 reduction and restructuring.
     The company said it will use proceeds from the sale to

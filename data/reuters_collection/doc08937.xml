@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 14:16:38.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2082reute
-d f BC-MORGAN-FILES-COMPLAIN   03-24 0103</field>
-	<field name = "TITLE">MORGAN FILES COMPLAINT AGAINST METROMEDIA</field>
+	<field name = "titulo">MORGAN FILES COMPLAINT AGAINST METROMEDIA</field>
 	<field name = "DATELINE">SECAUCUS, N.J., March 24 -</field>
-	<field name = "BODY">Metromedia Co> said Morgan
+	<field name = "content">Metromedia Co> said Morgan
 Guaranty Trust Co of New York filed a complaint against
 Metromedia for default under the indenture to which its
 subordinated debentures are outstanding.

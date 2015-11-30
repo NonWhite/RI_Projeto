@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 16:04:26.98</field>
 	<field name = "TOPICS">nat-gas</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2356reute
-r f BC-TRANSCO-PARTNERSHIP-(   03-19 0104</field>
-	<field name = "TITLE">TRANSCO PARTNERSHIP TXP> GAS RESERVES RISE</field>
+	<field name = "titulo">TRANSCO PARTNERSHIP TXP> GAS RESERVES RISE</field>
 	<field name = "DATELINE">HOUSTON, March 19 -</field>
-	<field name = "BODY">Transco Exploration Partners Ltd said
+	<field name = "content">Transco Exploration Partners Ltd said
 participation in 14 new discoveries increased its proved gas
 reserves to 558.1 billion cubic feet in 1986, up from 541.5
 billion cubic feet in the previous year.

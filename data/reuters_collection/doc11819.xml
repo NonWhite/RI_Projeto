@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0353reute
-u f BC-GERMAN-CALL-MONEY-DRO   04-01 0117</field>
-	<field name = "TITLE">GERMAN CALL MONEY DROPS BACK AT MONTH START</field>
+	<field name = "titulo">GERMAN CALL MONEY DROPS BACK AT MONTH START</field>
 	<field name = "DATELINE">FRANKFURT, April 1 -</field>
-	<field name = "BODY">Call money rates fell to 3.85/95 pct
+	<field name = "content">Call money rates fell to 3.85/95 pct
 from five pct yesterday in moderate trading as month end
 tightness disappeared and operators took positions for April.
     Dealers said they expected rates to remain within a 3.70 to

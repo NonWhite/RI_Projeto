@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 03:56:08.23</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0233reute
-u f BC-WESTPAC-CALLS-FOR-CUT   03-30 0110</field>
-	<field name = "TITLE">WESTPAC CALLS FOR CUT IN AUSTRALIAN BUDGET DEFICIT</field>
+	<field name = "titulo">WESTPAC CALLS FOR CUT IN AUSTRALIAN BUDGET DEFICIT</field>
 	<field name = "DATELINE">SYDNEY, March 30 -</field>
-	<field name = "BODY">A maximum budget deficit of 2.5 billion
+	<field name = "content">A maximum budget deficit of 2.5 billion
 dlrs for fiscal 1987/88 ending June 30 is needed if financial
 markets are to be impressed with the government's resolve to
 tackle Australia's economic problems, Westpac Banking Corp

@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 18:19:55.10</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2643reute
-r f BC-AVALON-AVL>-STAKE-SO   03-23 0098</field>
-	<field name = "TITLE">AVALON AVL> STAKE SOLD BY DELTEC</field>
+	<field name = "titulo">AVALON AVL> STAKE SOLD BY DELTEC</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">Avalon Corp said that Deltec
+	<field name = "content">Avalon Corp said that Deltec
 Panamerica SA> has arranged to sell its 23 pct stake in Avalon
 and that Deltec's three representatives on Avalon's board had
 resigned.

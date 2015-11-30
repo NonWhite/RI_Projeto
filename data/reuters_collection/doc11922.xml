@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:04:00.64</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0970reute
-r f BC-SOUTHMARK-SM>-COMPLE   04-01 0040</field>
-	<field name = "TITLE">SOUTHMARK SM> COMPLETES ACQUISITION</field>
+	<field name = "titulo">SOUTHMARK SM> COMPLETES ACQUISITION</field>
 	<field name = "DATELINE">DALLAS, April 1 -</field>
-	<field name = "BODY">Southmark Corp said it has completed the
+	<field name = "content">Southmark Corp said it has completed the
 purchase of Georgia International Life Insurance Co from
 Capital Holding Corp CPH> for cash and Southmark securities
 worth over 85 mln dlrs.

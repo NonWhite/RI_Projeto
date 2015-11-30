@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 14:30:16.10</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f0400reute
-r f AM-oil-texas   03-04 0086</field>
-	<field name = "TITLE">TEXAS OIL REGULATOR CALLS FOR STATE TAX BREAKS</field>
+	<field name = "titulo">TEXAS OIL REGULATOR CALLS FOR STATE TAX BREAKS</field>
 	<field name = "DATELINE">AUSTIN, Texas, March 4 -</field>
-	<field name = "BODY">Texas Railroad Commissioner James
+	<field name = "content">Texas Railroad Commissioner James
 Nugent, saying that the ailing oilpatch cannot wait for
 Congress to act, today urged Texas state lawmakers to adopt
 incentives to find new oil reserves and to exempt severance

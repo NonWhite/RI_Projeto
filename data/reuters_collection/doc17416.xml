@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">C G L M T
-f2283reute
-u f BC-IRAN'S-NAVY-CHIEF-THR   04-29 0125</field>
-	<field name = "TITLE">IRAN'S NAVY CHIEF THREATENS GULF CLOSURE</field>
+	<field name = "titulo">IRAN'S NAVY CHIEF THREATENS GULF CLOSURE</field>
 	<field name = "DATELINE">LONDON, April 29 -</field>
-	<field name = "BODY">Iran's navy commander warned that Iran
+	<field name = "content">Iran's navy commander warned that Iran
 would close off the Strait of Hormuz, entrance to the Gulf, if
 there was any disruption to its shipping or sea-bound trade,
 Tehran radio said.

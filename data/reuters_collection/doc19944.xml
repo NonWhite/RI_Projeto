@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 17:30:36.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2669reute
-u f BC-S/P-REVIEWS-REICHHOLD   06-29 0104</field>
-	<field name = "TITLE">S/P REVIEWS REICHHOLD CHEMICALS RCI> RATING</field>
+	<field name = "titulo">S/P REVIEWS REICHHOLD CHEMICALS RCI> RATING</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it has
+	<field name = "content">Standard and Poor's Corp said it has
 placed Reichhold Chemicals Inc's BBB-minus rated subordinated
 debt on Creditwatch with developing implications following
 Dainippon Inc and Chemicals Inc's unsolicited bid for

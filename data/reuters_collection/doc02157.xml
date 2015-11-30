@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:23:52.41</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0604reute
-u f BC-PIRELLI-UK-INT-FINANC   03-05 0080</field>
-	<field name = "TITLE">PIRELLI UK INT FINANCE ISSUES 50 MLN STG EUROBOND</field>
+	<field name = "titulo">PIRELLI UK INT FINANCE ISSUES 50 MLN STG EUROBOND</field>
 	<field name = "DATELINE">LONDON, March 5 -</field>
-	<field name = "BODY">Pirelli UK International Finance BV is
+	<field name = "content">Pirelli UK International Finance BV is
 issuing a 50 mln stg eurobond due April 9, 1992 paying 10 pct
 and priced at 101-1/2 pct, lead manager Barclays De Zoete Wedd
 Ltd.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:30:08.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2705reute
-s f BC-SEA-CONTAINERS-LTD-S   10-20 0022</field>
-	<field name = "TITLE">SEA CONTAINERS LTD SCR> SETS QUARTERLY</field>
+	<field name = "titulo">SEA CONTAINERS LTD SCR> SETS QUARTERLY</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Qtly div five cts vs five cts prior
+	<field name = "content">Qtly div five cts vs five cts prior
     Pay Nov 20
     Record Nov Five
  Reuter</field>

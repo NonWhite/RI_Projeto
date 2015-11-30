@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 14:11:02.42</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">lme</field>
-	<field name = "UNKNOWN">C M
-f0056reute
-d f BC-LME-CONSIDERING-CHANG   03-12 0128</field>
-	<field name = "TITLE">LME CONSIDERING CHANGES TO CLEARING SYSTEM</field>
+	<field name = "titulo">LME CONSIDERING CHANGES TO CLEARING SYSTEM</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">A proposal the London Metal Exchange,
+	<field name = "content">A proposal the London Metal Exchange,
 LME, change its new clearing system, due to start May 29, was
 made today at a meeting of LME members and International
 Commodities Clearing House, ICCH, representatives.

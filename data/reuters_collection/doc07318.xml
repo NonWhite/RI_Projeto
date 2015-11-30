@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 14:00:40.36</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1970reute
-u f BC-BAIRD   03-19 0114</field>
-	<field name = "TITLE">MARK IV SAYS IT DOES NOT PLAN BAIRD BATM> BUY</field>
+	<field name = "titulo">MARK IV SAYS IT DOES NOT PLAN BAIRD BATM> BUY</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">Mark IV Industries Inc IV>, which
+	<field name = "content">Mark IV Industries Inc IV>, which
 has said it is mulling a bid to seek control of Baird Corp,
 said it has no present plans to acquire more than 25 pct of the
 company's total outstanding common stock.

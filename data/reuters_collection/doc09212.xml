@@ -4,12 +4,9 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">yen</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A
-f0502reute
-r f BC-YEN-MAY-RISE-TO-140-T   03-25 0105</field>
-	<field name = "TITLE">YEN MAY RISE TO 140 TO THE DLR, NIKKEIREN SAYS</field>
+	<field name = "titulo">YEN MAY RISE TO 140 TO THE DLR, NIKKEIREN SAYS</field>
 	<field name = "DATELINE">TOKYO, March 25 -</field>
-	<field name = "BODY">The yen could rise to 140 yen to the
+	<field name = "content">The yen could rise to 140 yen to the
 dollar, a leading Japanese businessman said.
     Bumpei Otsuki, president of the influential Japan
 Federation of Employers' Associations, (Nikkeiren), told

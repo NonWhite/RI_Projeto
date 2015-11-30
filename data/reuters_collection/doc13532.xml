@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:21:43.64</field>
-	<field name = "UNKNOWN">RM F
-f0431reute
-u f BC-LONDON-EURODOLLAR-DEP   04-07 0112</field>
-	<field name = "TITLE">LONDON EURODOLLAR DEPOSITS STEADY AT MIDSESSION</field>
+	<field name = "titulo">LONDON EURODOLLAR DEPOSITS STEADY AT MIDSESSION</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Eurodollar deposit rates were little
+	<field name = "content">Eurodollar deposit rates were little
 changed at midsession though some firmness was detected at the
 longer end of the market prompted by a slightly weaker dollar.
     Dealers said the market remains extremely thin with no

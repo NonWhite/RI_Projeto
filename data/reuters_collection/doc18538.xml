@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 06:33:36.32</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM 
-f2535reute
-b f BC-U.K.-UNEMPLOYMENT-FAL   06-18 0102</field>
-	<field name = "TITLE">U.K. UNEMPLOYMENT FALLS BELOW THREE MLN IN MAY</field>
+	<field name = "titulo">U.K. UNEMPLOYMENT FALLS BELOW THREE MLN IN MAY</field>
 	<field name = "DATELINE">LONDON, June 18 -</field>
-	<field name = "BODY">U.K. Unemployment fell a record
+	<field name = "content">U.K. Unemployment fell a record
 provisional, seasonally-adjusted 64,300 in May to a total 2.95
 mln or 10.6 pct of the workforce, the Employment Department
 said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:38:01.21</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0877reute
-d f BC-RIO-TINTO-CUTS-DEBT-E   04-09 0104</field>
-	<field name = "TITLE">RIO TINTO CUTS DEBT-EQUITY RATIO</field>
+	<field name = "titulo">RIO TINTO CUTS DEBT-EQUITY RATIO</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Rio Tinto-Zinc Corp Plc RTZL.L> cut its
+	<field name = "content">Rio Tinto-Zinc Corp Plc RTZL.L> cut its
 balance sheet gearing, measured as net debt as a proportion of
 equity, to 35 pct at the end of 1986 from 61 pct a year
 earlier, finance director Andrew Buxton told reporters.

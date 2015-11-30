@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 09:19:32.22</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0933reute
-r f BC-AVA/DIXONS-LITIGATION   03-31 0092</field>
-	<field name = "TITLE">AVA/DIXONS LITIGATION DROPPED</field>
+	<field name = "titulo">AVA/DIXONS LITIGATION DROPPED</field>
 	<field name = "DATELINE">LONDON, March 31 -</field>
-	<field name = "BODY">Dixons Group Plc DXNS.L> said that
+	<field name = "content">Dixons Group Plc DXNS.L> said that
 following an agreement with Audio/Video Af~filiates Inc>, AVA,
 all litigation between the companies has been dismissed.
     AVA filed suit against Dixons, Cyclops Corp, Allegheny Corp

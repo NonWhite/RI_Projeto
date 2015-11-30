@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">T
-f1657reute
-r f BC-LONDON-SUGAR-FREIGHTS   04-09 0096</field>
-	<field name = "TITLE">LONDON SUGAR FREIGHTS</field>
+	<field name = "titulo">LONDON SUGAR FREIGHTS</field>
 	<field name = "DATELINE">LONDON, April 9 - FIXTURES -</field>
-	<field name = "BODY">TBN 14,00 mt bulk sugar
+	<field name = "content">TBN 14,00 mt bulk sugar
 Fiji/Prai 16 dlrs fio 10,000/1,000 1-10/5 Fiji Sugar Marketing.
     TBN 15,000 mt bulk sugar Queensland/Japan 14.65 dlrs fio
 10,000/1,000 20-30/4 CSR.

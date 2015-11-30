@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 15:04:48.70</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">boesky</field>
-	<field name = "UNKNOWN">F
-f2298reute
-u f BC-/COURT-DISMISSES-FMC   04-13 0092</field>
-	<field name = "TITLE">COURT DISMISSES FMC FMC> SUIT AGAINST BOESKY</field>
+	<field name = "titulo">COURT DISMISSES FMC FMC> SUIT AGAINST BOESKY</field>
 	<field name = "DATELINE">CHICAGO, April 13 -</field>
-	<field name = "BODY">FMC Corp's 225 mln dlr insider trading
+	<field name = "content">FMC Corp's 225 mln dlr insider trading
 case against Wall Street arbitrageur Ivan Boesky was dismissed
 by a federal court, a court clerk said.
     Federal Judge Ann C. Williams, in an oral ruling, said FMC

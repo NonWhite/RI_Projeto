@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0889reute
-u f BC-FERRY-DISASTER-MAY-RA   03-07 0115</field>
-	<field name = "TITLE">FERRY DISASTER MAY RANK AMONG WORST TRAGEDIES</field>
+	<field name = "titulo">FERRY DISASTER MAY RANK AMONG WORST TRAGEDIES</field>
 	<field name = "DATELINE">LONDON, March 7 -</field>
-	<field name = "BODY">Fading hope for passengers trapped aboard
+	<field name = "content">Fading hope for passengers trapped aboard
 a partially-sunk Channel ferry raised fears the accident could
 rank among this centuries' worst peacetime shipping tragedies.
     Belgian Transport Minister Herman de Croo said there was no

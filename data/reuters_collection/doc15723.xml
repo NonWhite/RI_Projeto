@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 12:27:18.43</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C M
-f1650reute
-d f BC-MODEST-IMPROVEMENT-IN   04-09 0113</field>
-	<field name = "TITLE">RIO TINTO SEES MODEST INCREASE IN METALS DEMAND</field>
+	<field name = "titulo">RIO TINTO SEES MODEST INCREASE IN METALS DEMAND</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">The consumption of some base metals,
+	<field name = "content">The consumption of some base metals,
 along with dollar prices, are showing signs of modest
 improvement, according to Rio Tinto-Zinc Corp Plc (RTZ).
     However, the company said, iron ore markets have weakened.

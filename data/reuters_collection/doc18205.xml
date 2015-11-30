@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:25:04.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2217reute
-r f BC-SOUTHERN-SO>-UNIT-PR   06-02 0083</field>
-	<field name = "TITLE">SOUTHERN SO> UNIT PREFERRED OFFERING UNDERWAY</field>
+	<field name = "titulo">SOUTHERN SO> UNIT PREFERRED OFFERING UNDERWAY</field>
 	<field name = "DATELINE">NEW YORK, June 2 -</field>
-	<field name = "BODY">Lead underwriter PaineWebber Group Inc
+	<field name = "content">Lead underwriter PaineWebber Group Inc
 PWJ> said an offering of two mln shares of the Class A
 preferred stock of Southern Co's Georgia Power Co subsidiary is
 underway at 25 dlrs per share.

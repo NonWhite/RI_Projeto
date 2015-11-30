@@ -8,13 +8,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">fujioka</field>
 	<field name = "ORGS">adb-asia</field>
-	<field name = "UNKNOWN">RM
-f0055reute
-u f BC-ADB'S-FUJIOKA-SAYS-ST   04-21 0105</field>
-	<field name = "TITLE">ADB'S FUJIOKA SAYS STALEMATE WITH TAIWAN CONTINUES</field>
+	<field name = "titulo">ADB'S FUJIOKA SAYS STALEMATE WITH TAIWAN CONTINUES</field>
 	<field name = "AUTHOR">By Chaitanya Kalbag, Reuters</field>
 	<field name = "DATELINE">MANILA, April 21 -</field>
-	<field name = "BODY">The Asian Development Bank (ADB) will
+	<field name = "content">The Asian Development Bank (ADB) will
 not change its decision to admit China as a member despite
 protests from founder member Taiwan, bank president Masao
 Fujioka said.

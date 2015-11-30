@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-JUN-1987 05:14:11.02</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F
-f0316reute
-u f BC-DUTCH-RETAILER-VENDEX   06-16 0117</field>
-	<field name = "TITLE">DUTCH RETAILER VENDEX DELAYS FLOTATION UNTIL 1990</field>
+	<field name = "titulo">DUTCH RETAILER VENDEX DELAYS FLOTATION UNTIL 1990</field>
 	<field name = "DATELINE">AMSTERDAM, June 16 -</field>
-	<field name = "BODY">Dutch retail and services group Vendex
+	<field name = "content">Dutch retail and services group Vendex
 International VENN.AS> has delayed its flotation from 1988 to
 1990, chairman and major shareholder Anton Dreesmann said in an
 interview with a Dutch financial daily.

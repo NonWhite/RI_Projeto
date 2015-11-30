@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 14:18:49.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f6146reute
-u f BC-INTERTAN-ITAN>TO-CLO   03-17 0097</field>
-	<field name = "TITLE">INTERTAN ITAN>TO CLOSE GERMAN UNITS,TAKE CHARGE</field>
+	<field name = "titulo">INTERTAN ITAN>TO CLOSE GERMAN UNITS,TAKE CHARGE</field>
 	<field name = "DATELINE">FORT WORTH, Texas, March 17 -</field>
-	<field name = "BODY">Intertan Inc said it plans to
+	<field name = "content">Intertan Inc said it plans to
 close its 17 company-owned retail stores in Germany and
 anticipates this will result in a 6.5 mln dlr charge against
 third quarter, ended February 28, results.

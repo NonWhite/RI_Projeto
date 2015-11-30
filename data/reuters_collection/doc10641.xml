@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0028reute
-r f BC-TOKYO-BIDS-TO-STOP-CH   03-29 0105</field>
-	<field name = "TITLE">TOKYO BIDS TO STOP CHIP ROW TURNING INTO TRADE WAR</field>
+	<field name = "titulo">TOKYO BIDS TO STOP CHIP ROW TURNING INTO TRADE WAR</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 29 -</field>
-	<field name = "BODY">Japan is seeking to prevent its computer
+	<field name = "content">Japan is seeking to prevent its computer
 chips dispute with the U.S. From erupting into a full-scale
 trade war, government officials said.
     "We hope that the dispute on this specific issue won't have

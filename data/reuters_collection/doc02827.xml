@@ -3,13 +3,10 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G L M T
-f0410reute
-r f AM-BRAZIL-STRIKES   03-06 0099</field>
-	<field name = "TITLE">BRAZIL STRIKES CAUSE GOVERNMENT MAJOR PROBLEMS</field>
+	<field name = "titulo">BRAZIL STRIKES CAUSE GOVERNMENT MAJOR PROBLEMS</field>
 	<field name = "AUTHOR">By Stephen Powell, Reuters</field>
 	<field name = "DATELINE">SAO PAULO, Brazil, March 6 -</field>
-	<field name = "BODY">Strikes by Brazil's 40,000
+	<field name = "content">Strikes by Brazil's 40,000
 seamen and by petrol station owners in four states are causing
 major headaches to a government already wrestling with a debt
 crisis.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f4493reute
-u f BC-JAPAN-SAYS-U.S.-JAPAN   03-17 0100</field>
-	<field name = "TITLE">JAPAN SAYS U.S.-JAPAN MICROCHIP PACT WORKING</field>
+	<field name = "titulo">JAPAN SAYS U.S.-JAPAN MICROCHIP PACT WORKING</field>
 	<field name = "DATELINE">TOKYO, March 17 -</field>
-	<field name = "BODY">Japanese officials sought to convince the
+	<field name = "content">Japanese officials sought to convince the
 U.S. That a U.S.-Japan pact on microchip trade is working ahead
 of an April 1 deadline set by the U.S. For them to prove their
 case.

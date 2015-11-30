@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 07:49:31.73</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f0592reute
-u f BC-JAPAN-DENIES-CHIP-MAR   04-03 0097</field>
-	<field name = "TITLE">JAPAN DENIES CHIP MARKET DOMINATION CHARGES</field>
+	<field name = "titulo">JAPAN DENIES CHIP MARKET DOMINATION CHARGES</field>
 	<field name = "DATELINE">TOKYO, April 3 -</field>
-	<field name = "BODY">A top Japanese official has insisted that
+	<field name = "content">A top Japanese official has insisted that
 the country was living up to its microchip pact with the US.
     "It cannot be thought, nor should it be thought, we are
 trying to dominate semiconductors," Ministry of International

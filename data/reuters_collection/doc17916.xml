@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 05:05:31.09</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0316reute
-b f BC-RJR-NABISCO-INC-ISSUE   06-02 0101</field>
-	<field name = "TITLE">RJR NABISCO INC ISSUES 100 MLN DLR EUROBOND</field>
+	<field name = "titulo">RJR NABISCO INC ISSUES 100 MLN DLR EUROBOND</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">RJR Nabisco Inc is issuing a 100 mln dlr
+	<field name = "content">RJR Nabisco Inc is issuing a 100 mln dlr
 eurobond due June 30, 1994 paying 8-3/4 pct and priced at
 101-3/8 pct, lead manager of Bank of America International Ltd
 said. This confirms an earlier report by bond market sources.

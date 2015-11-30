@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 12:07:42.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f1534reute
-r f BC-PHIBRO-ENERGY-CHAIRMA   04-24 0086</field>
-	<field name = "TITLE">PHIBRO ENERGY CHAIRMAN SAID TO HAVE RESIGNED</field>
+	<field name = "titulo">PHIBRO ENERGY CHAIRMAN SAID TO HAVE RESIGNED</field>
 	<field name = "DATELINE">New York, April 24 -</field>
-	<field name = "BODY">Thomas O'Malley, Chairman of Phibro
+	<field name = "content">Thomas O'Malley, Chairman of Phibro
 Energy, a subsidiary of Salomon Bros Inc SB>, has left the
 company to form his own oil trading firm because of unhappiness
 with the current arrangement between Salomon Brothers and

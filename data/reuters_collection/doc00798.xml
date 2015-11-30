@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:52:00.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0116
-reute
-d f BC-BURLINGTON'S-EL-PASO   03-02 0106</field>
-	<field name = "TITLE">BURLINGTON'S EL PASO UNITBNI> FILES GAS PRICES</field>
+	<field name = "titulo">BURLINGTON'S EL PASO UNITBNI> FILES GAS PRICES</field>
 	<field name = "DATELINE">EL PASO, TEXAS, March 2 -</field>
-	<field name = "BODY">Burlington Northern Inc's El Paso
+	<field name = "content">Burlington Northern Inc's El Paso
 Natural Gas Co said it filed its regularly scheduled gas cost
 adjustment that will leave its rates unchanged.
     But still pending is El Paso's proposal to the Federal

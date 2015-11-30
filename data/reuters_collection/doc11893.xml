@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 09:19:30.48</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">RM
-f0808reute
-r f BC-TURKISH-INFLATION-INC   04-01 0085</field>
-	<field name = "TITLE">TURKISH INFLATION INCREASES IN MARCH</field>
+	<field name = "titulo">TURKISH INFLATION INCREASES IN MARCH</field>
 	<field name = "DATELINE">ANKARA, April 1 -</field>
-	<field name = "BODY">Inflation in Turkey was 3.7 pct in March
+	<field name = "content">Inflation in Turkey was 3.7 pct in March
 compared with 1.7 pct in February and 1.3 pct in March 1986,
 the State Statistics Institute said.
     The annual rate rose to 34.7 pct in March compared with

@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 10:26:50.27</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f1096reute
-u f BC-SPAIN-RAISES-CALL-MON   04-03 0090</field>
-	<field name = "TITLE">SPAIN RAISES CALL MONEY RATE TO 14.5 PCT</field>
+	<field name = "titulo">SPAIN RAISES CALL MONEY RATE TO 14.5 PCT</field>
 	<field name = "DATELINE">MADRID, April 3 -</field>
-	<field name = "BODY">The Bank of Spain said it raised its rate
+	<field name = "content">The Bank of Spain said it raised its rate
 for overnight call money to 14.5 pct from 14 pct with immediate
 effect at today's daily auction for assistance funds.
     The move followed comments yesterday by central bank

@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 10:06:44.44</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0987reute
-d f BC-CHICAGO-RIVET-AND-MAC   03-13 0044</field>
-	<field name = "TITLE">CHICAGO RIVET AND MACHINE CO CVR> 4TH QTR NET</field>
+	<field name = "titulo">CHICAGO RIVET AND MACHINE CO CVR> 4TH QTR NET</field>
 	<field name = "DATELINE">NAPERVILLE, ILL., March 13 -</field>
-	<field name = "BODY">Shr 21 cts vs 60 cts
+	<field name = "content">Shr 21 cts vs 60 cts
     Net 156,576 vs 443,404
     Sales 5,309,519 vs 5,381,264
     Year

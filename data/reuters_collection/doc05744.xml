@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 18:15:53.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3848reute
-d f BC-TECHNICLONE-INTERNATI   03-16 0086</field>
-	<field name = "TITLE">TECHNICLONE INTERNATIONAL SETS JOINT VENTURE</field>
+	<field name = "titulo">TECHNICLONE INTERNATIONAL SETS JOINT VENTURE</field>
 	<field name = "DATELINE">SANTA ANA, Calif., March 16 -</field>
-	<field name = "BODY">Techniclone International>
+	<field name = "content">Techniclone International>
 said it has entered a joint venture with Seeds of Tomorrow to
 apply its electrogene process to developing new or improved
 plant varieties.

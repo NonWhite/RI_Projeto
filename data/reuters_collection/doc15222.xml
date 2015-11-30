@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V RM
-f2121reute
-b f AM-TRADE-AMERICAN 1STLD  04-08 0076</field>
-	<field name = "TITLE">WHITE HOUSE SAYS JAPANESE TARRIFFS LIKELY</field>
+	<field name = "titulo">WHITE HOUSE SAYS JAPANESE TARRIFFS LIKELY</field>
 	<field name = "DATELINE">WASHINGTON, April 8 -</field>
-	<field name = "BODY">The White House said high U.S.
+	<field name = "content">The White House said high U.S.
 Tariffs on Japanese electronic goods would likely be imposed as
 scheduled on April 17, despite an all-out effort by Japan to
 avoid them.

@@ -2,13 +2,10 @@
 	<field name = "DATE">18-MAR-1987 18:39:56.64</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM
-f9759reute
-u f AM-TRADE   03-18 0118</field>
-	<field name = "TITLE">U.S. HOUSE PANEL VOTES TO EASE EXPORT CONTROLS</field>
+	<field name = "titulo">U.S. HOUSE PANEL VOTES TO EASE EXPORT CONTROLS</field>
 	<field name = "AUTHOR">By Jacqueline Frank, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">A key House panel voted to greatly
+	<field name = "content">A key House panel voted to greatly
 ease government controls on exports as several House committees
 moved rapidly toward approval of major changes in trade laws
 they hope will help solve U.S. trade woes.

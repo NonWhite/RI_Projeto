@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f2540reute
-u f BC-PIK-AND-ROLL-PRESSURE   04-02 0142</field>
-	<field name = "TITLE">PIK-AND-ROLL PRESSURES CORN BASIS VALUES</field>
+	<field name = "titulo">PIK-AND-ROLL PRESSURES CORN BASIS VALUES</field>
 	<field name = "DATELINE">CHICAGO, April 2 -</field>
-	<field name = "BODY">Changes by the USDA in its posted county
+	<field name = "content">Changes by the USDA in its posted county
 prices have successfully increased PIK-and-roll activity as a
 way to pull corn out of government stockpiles, with the
 resulting jump in free supplies pressuring terminal corn basis

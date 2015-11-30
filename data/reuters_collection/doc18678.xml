@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 10:24:50.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3213reute
-u f BC-BELL-AND-HOWELL-BHW>   06-18 0088</field>
-	<field name = "TITLE">BELL AND HOWELL BHW> SEES EARNINGS GROWTH</field>
+	<field name = "titulo">BELL AND HOWELL BHW> SEES EARNINGS GROWTH</field>
 	<field name = "DATELINE">chicago, June 18 -</field>
-	<field name = "BODY">Bell and Howell Co, in remarks prepared
+	<field name = "content">Bell and Howell Co, in remarks prepared
 for delivery to the New York Society of Security Analysts, said
 it expects per-share earnings to grow in the 12-to-15 pct range
 in the next three to four years.

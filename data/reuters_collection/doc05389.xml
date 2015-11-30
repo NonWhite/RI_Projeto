@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 10:50:16.09</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2318reute
-u f BC-CAPITOL-BANCORP-CAPB   03-16 0040</field>
-	<field name = "TITLE">CAPITOL BANCORP CAPB> TO RESTATE NET TO LOSS</field>
+	<field name = "titulo">CAPITOL BANCORP CAPB> TO RESTATE NET TO LOSS</field>
 	<field name = "DATELINE">BOSTON, March 16 -</field>
-	<field name = "BODY">Capitol Bancorp said it expects to
+	<field name = "content">Capitol Bancorp said it expects to
 restate its results for 1986 to a loss of about one mln dlrs
 due to a reclassification of loans recommended by auditor Ernst
 and Whinney.

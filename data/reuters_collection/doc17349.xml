@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-APR-1987 11:12:04.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-Vf1450reute
-u f BC-BUDGET   04-27 0103</field>
-	<field name = "TITLE">U.S. SENATE LEADER WANTS BUDGET PASSED THIS WEEK</field>
+	<field name = "titulo">U.S. SENATE LEADER WANTS BUDGET PASSED THIS WEEK</field>
 	<field name = "DATELINE">WASHINGTON, April 27 -</field>
-	<field name = "BODY">Senate majority leader Robert Byrd
+	<field name = "content">Senate majority leader Robert Byrd
 said he wants the Senate to pass by late Friday a fiscal 1988
 budget that starts reducing the flow of U.S. debt.
     The Democratic leader told a news conference and later the

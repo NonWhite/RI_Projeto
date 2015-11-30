@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 12:55:25.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f1744reute
-b f BC-/INDEX-TRADING-NOT-TO   03-23 0104</field>
-	<field name = "TITLE">INDEX TRADING NOT TO BLAME FOR WALL STREET FALL</field>
+	<field name = "titulo">INDEX TRADING NOT TO BLAME FOR WALL STREET FALL</field>
 	<field name = "DATELINE">WASHINGTON, March 23 -</field>
-	<field name = "BODY">A report by the U.S. Securities and
+	<field name = "content">A report by the U.S. Securities and
 Exchange Commission (SEC) concluded that index trading was not
 to blame for the two-day stock market drop that occurred Sept.
 11-12, 1986

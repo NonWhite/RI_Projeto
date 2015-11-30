@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:17:48.99</field>
-	<field name = "UNKNOWN">GQ
-f2199reute
-r f BC-toledo-delv-corn-stks   04-07 0083</field>
-	<field name = "TITLE">TOLEDO DELIVERABLE CORN STOCKS</field>
+	<field name = "titulo">TOLEDO DELIVERABLE CORN STOCKS</field>
 	<field name = "DATELINE">TOLEDO, April 7  -</field>
-	<field name = "BODY">The CFTC reported the following stocks
+	<field name = "content">The CFTC reported the following stocks
 of corn in Toledo as of Friday, April 3 , deliverable against
 Chicago Board of Trade futures (in 000's bushels) -
                          CURRENT  WEEK   YEAR

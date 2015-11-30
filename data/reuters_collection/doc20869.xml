@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 19:35:44.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM A 
-f3445reute
-r f AM-batra   10-19 0083</field>
-	<field name = "TITLE">ECONOMIST BATRA SEES NO REASON TO PANIC</field>
+	<field name = "titulo">ECONOMIST BATRA SEES NO REASON TO PANIC</field>
 	<field name = "DATELINE">DALLAS, Oct 19 -</field>
-	<field name = "BODY">Economist Ravi Batra, whose book warning
+	<field name = "content">Economist Ravi Batra, whose book warning
 of a crash on Wall Street has been a best seller all summer,
 said Monday's record-breaking market drop was no reason to
 panic.

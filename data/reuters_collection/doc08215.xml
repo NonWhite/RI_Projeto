@@ -2,12 +2,9 @@
 	<field name = "DATE">23-MAR-1987 08:49:52.37</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">boesky</field>
-	<field name = "UNKNOWN">F
-f0763reute
-u f BC-LIMITED-PARTNERS-SUE   03-23 0113</field>
-	<field name = "TITLE">LIMITED PARTNERS SUE BOESKY</field>
+	<field name = "titulo">LIMITED PARTNERS SUE BOESKY</field>
 	<field name = "DATELINE">NEW YORK, March 23 -</field>
-	<field name = "BODY">A group of limited partners has filed
+	<field name = "content">A group of limited partners has filed
 suit in U.S. District Court in New York against Ivan F. Boesky
 and others, alleging that Boesky deceived them into investing
 in his partnership Ivan F. Boesky and Co LP through the

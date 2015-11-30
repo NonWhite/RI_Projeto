@@ -4,12 +4,9 @@
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">C G
-f2497reute
-u f BC-/CCC-ACCEPTS-BONUS-ON   06-02 0122</field>
-	<field name = "TITLE">CCC ACCEPTS BONUS ON BARLEY TO SAUDI ARABIA</field>
+	<field name = "titulo">CCC ACCEPTS BONUS ON BARLEY TO SAUDI ARABIA</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">The Commodity Credit Corporation, CCC,
+	<field name = "content">The Commodity Credit Corporation, CCC,
 has accepted bids for export bouses to cover sales of 150,000
 tonnes of U.S. barley to Saudi Arabia, the U.S. Agriculture
 Department said.

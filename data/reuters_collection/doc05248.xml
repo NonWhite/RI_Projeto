@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 06:05:32.74</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f1457reute
-u f BC-JAPAN-BANKS-FACE-BIG   03-16 0109</field>
-	<field name = "TITLE">JAPAN BANKS FACE BIG LOSSES ON PERPETUAL FLOATERS</field>
+	<field name = "titulo">JAPAN BANKS FACE BIG LOSSES ON PERPETUAL FLOATERS</field>
 	<field name = "DATELINE">TOKYO, March 16 -</field>
-	<field name = "BODY">Japanese banks may have to realize
+	<field name = "content">Japanese banks may have to realize
 significant losses on their seven billion dlrs in perpetual
 floating rate notes after the recent collapse of the market,
 bankers said.

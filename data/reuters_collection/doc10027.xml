@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:41:30.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1864reute
-h f BC-CLINICAL-DATA-CLDA>   03-26 0050</field>
-	<field name = "TITLE">CLINICAL DATA CLDA> AWARDED RESEARCH CONTRACTS</field>
+	<field name = "titulo">CLINICAL DATA CLDA> AWARDED RESEARCH CONTRACTS</field>
 	<field name = "DATELINE">BOSTON, March 26 -</field>
-	<field name = "BODY">Clinical Data Inc said it has contracts
+	<field name = "content">Clinical Data Inc said it has contracts
 with four major pharmaceutical firms to analyze certain data in
 research studies evaluating the efficacy and safety of new
 cardiovascular drugs.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 13:18:00.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0127reute
-r f BC-MUNICIPAL-ASSISTANCE   03-09 0112</field>
-	<field name = "TITLE">MUNICIPAL ASSISTANCE CORP OF NY TO SELL BONDS</field>
+	<field name = "titulo">MUNICIPAL ASSISTANCE CORP OF NY TO SELL BONDS</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Municipal Assistance Corp of New York
+	<field name = "content">Municipal Assistance Corp of New York
 said its planned offering later this week of 670 mln dlrs of
 Series 62 bonds would probably be the last time it taps the
 market until the third quarter.

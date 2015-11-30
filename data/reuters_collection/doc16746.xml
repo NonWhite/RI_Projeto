@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f2903reute
-u f BC-NO-TALKS-SET-ON-PROPO   04-13 0114</field>
-	<field name = "TITLE">NO TALKS SET ON PROPOSED JAPAN TELECOM MERGER</field>
+	<field name = "titulo">NO TALKS SET ON PROPOSED JAPAN TELECOM MERGER</field>
 	<field name = "DATELINE">TOKYO, April 14 -</field>
-	<field name = "BODY">No formal talks have been scheduled yet
+	<field name = "content">No formal talks have been scheduled yet
 among companies involved in a controversial proposal to merge
 two groups seeking to enter Japan's international
 telecommunications sector, an official from one group said.

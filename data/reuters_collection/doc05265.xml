@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">madagascar</field>
-	<field name = "UNKNOWN">C G
-f1587reute
-u f BC-MADAGASCAR-RICE-CROP   03-16 0104</field>
-	<field name = "TITLE">MADAGASCAR RICE CROP ESTIMATED HIGHER IN 1987</field>
+	<field name = "titulo">MADAGASCAR RICE CROP ESTIMATED HIGHER IN 1987</field>
 	<field name = "DATELINE">ANTANANARIVO, March 16 -</field>
-	<field name = "BODY">Madagascar's vital rice crop is
+	<field name = "content">Madagascar's vital rice crop is
 estimated at 2,286,000 tonnes of paddy this year, up from
 2,138,000 in 1986, the Ministry of Agriculture said.
     The Trade Ministry said rice imports quadrupled in local

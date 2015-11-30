@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nycsce</field>
-	<field name = "UNKNOWN">C G L M T
-f2599reute
-d f BC-media-summary   04-01 0124</field>
-	<field name = "TITLE">COFFEE FUTURES UNDER DLR A POUND AT SIX-YEAR LOW</field>
+	<field name = "titulo">COFFEE FUTURES UNDER DLR A POUND AT SIX-YEAR LOW</field>
 	<field name = "DATELINE">CHICAGO, April 1 -</field>
-	<field name = "BODY">Coffee futures dipped further and closed
+	<field name = "content">Coffee futures dipped further and closed
 below one dlr a pound for the first time in six years.
     Coffee for delivery in May ended at 99.28 cents a pound on
 the New York Coffee, Sugar and Cocoa Exchange, down 0.76 cent

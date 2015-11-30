@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:27:37.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0887reute
-d f BC-HOLIDAY-CORP-HIA>-TO   03-09 0089</field>
-	<field name = "TITLE">HOLIDAY CORP HIA> TO OPEN NEW CHAIN IN EUROPE</field>
+	<field name = "titulo">HOLIDAY CORP HIA> TO OPEN NEW CHAIN IN EUROPE</field>
 	<field name = "DATELINE">MEMPHIS, Tenn., March 9 -</field>
-	<field name = "BODY">Holiday Corp said its Holiday Inn
+	<field name = "content">Holiday Corp said its Holiday Inn
 Hotel Group will soon introduce a chain of limited-service
 hotels in international markets.
     The company said the chain, which will be launched

@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 15:53:23.86</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0817reute
-u f BC-HANSON-TRUST-HAN>-CO   03-03 0040</field>
-	<field name = "TITLE">HANSON TRUST HAN> COMPLETES KAISER PURCHASE</field>
+	<field name = "titulo">HANSON TRUST HAN> COMPLETES KAISER PURCHASE</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">Hanson Trust PLC said Kaiser Cement
+	<field name = "content">Hanson Trust PLC said Kaiser Cement
 shareholders today approved the previously announced merger
 agreement making Kaiser Cement an indirect wholly owned unit of
 Hanson Trust.

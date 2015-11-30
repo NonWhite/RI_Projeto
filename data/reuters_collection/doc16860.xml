@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 11:56:15.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0298reute
-r f BC-ALLIANCE-WELL-AWSI.O   04-17 0095</field>
-	<field name = "TITLE">ALLIANCE WELL AWSI.O> SAYS NOT ALL BANKS AGREE</field>
+	<field name = "titulo">ALLIANCE WELL AWSI.O> SAYS NOT ALL BANKS AGREE</field>
 	<field name = "DATELINE">LIBERTY, Texas, April 17 -</field>
-	<field name = "BODY">Alliance Well Service Inc said
+	<field name = "content">Alliance Well Service Inc said
 not all of its five principal lending banks have agreed yet to
 the proposed settlement of Alliance debt that the company
 announced April 15.

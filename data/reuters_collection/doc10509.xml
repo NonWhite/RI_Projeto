@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:53:58.27F</field>
-	<field name = "UNKNOWN">f1443reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-KNIGHT-RIDDER-KRI>-F   03-27 0052</field>
-	<field name = "TITLE">KNIGHT-RIDDER KRI> FEBRUARY SALES UP 12 PCT</field>
+	<field name = "titulo">KNIGHT-RIDDER KRI> FEBRUARY SALES UP 12 PCT</field>
 	<field name = "DATELINE">MIAMI, March 27 -</field>
-	<field name = "BODY">Knight-Ridder Inc said total revenues for
+	<field name = "content">Knight-Ridder Inc said total revenues for
 February rose 12 pct, to 108.8 mln dlrs, from 97.1 mln dlrs for
 the same month last year.
     Year to date, Knight-Ridder said total revenues increased

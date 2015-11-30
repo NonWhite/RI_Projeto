@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">icco</field>
-	<field name = "UNKNOWN">C T
-f1106reute
-b f BC-ICCO-BUYS-5,000-TONNE   06-02 0063</field>
-	<field name = "TITLE">ICCO BUYS 5,000 TONNES COCOA FOR BUFFER STOCK</field>
+	<field name = "titulo">ICCO BUYS 5,000 TONNES COCOA FOR BUFFER STOCK</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">The International Cocoa Organization
+	<field name = "content">The International Cocoa Organization
 (ICCO) buffer stock manager bought 5,000 tonnes of cocoa today
 for the buffer stock, traders said.
     The cocoa is believed to have been entirely made up of

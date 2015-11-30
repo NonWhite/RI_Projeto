@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 10:32:15.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM F A
-f0528reute
-u f BC-PROXMIRE-VOWS-QUICK-A   03-03 0108</field>
-	<field name = "TITLE">PROXMIRE VOWS QUICK ACTION ON U.S. BANKING BILL</field>
+	<field name = "titulo">PROXMIRE VOWS QUICK ACTION ON U.S. BANKING BILL</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">Senate Banking Committee Chairman
+	<field name = "content">Senate Banking Committee Chairman
 William Proxmire said modified legislation to help a federal
 deposit insurance fund and prohibit new limited-service banks
 and thrifts could be ready for a Senate vote in two to three

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 14:58:07.52</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2130reute
-d f BC-COMPUTERVISION-CVN>   03-25 0103</field>
-	<field name = "TITLE">COMPUTERVISION CVN> UNVEILS NEW DESIGN GEAR</field>
+	<field name = "titulo">COMPUTERVISION CVN> UNVEILS NEW DESIGN GEAR</field>
 	<field name = "DATELINE">BEDFORD, Mass., March 25 -</field>
-	<field name = "BODY">Computervision Corp said it
+	<field name = "content">Computervision Corp said it
 introduced additions to its CADDS 4X software line, a new
 CADDStation workstation and upgrade kits for existing
 CADDStation workstations.

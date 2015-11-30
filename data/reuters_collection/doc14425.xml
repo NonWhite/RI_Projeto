@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:04:52.87</field>
-	<field name = "UNKNOWN">C M F
-f2159reute
-u f BC-ny-plat/pall-clsg-rep   04-07 0100</field>
-	<field name = "TITLE">N.Y. PLATINUM FUTURES FINISH HIGHER</field>
+	<field name = "titulo">N.Y. PLATINUM FUTURES FINISH HIGHER</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Platinum futures finished higher as 
+	<field name = "content">Platinum futures finished higher as 
 the metal continued to follow the strong silver market,
 analysts said.
     The key July platinum delivery settled at 572.20 dlrs an

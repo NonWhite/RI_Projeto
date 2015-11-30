@@ -4,13 +4,9 @@
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">G L
-f0084
-reute
-d f BC-CHINESE-PORK-OUTPUT-S   02-26 0115</field>
-	<field name = "TITLE">CHINESE PORK OUTPUT SEEN LOWER -- USDA</field>
+	<field name = "titulo">CHINESE PORK OUTPUT SEEN LOWER -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">High feed prices will cause the
+	<field name = "content">High feed prices will cause the
 Chinese to reduce hog herd growth and pork production this
 year, the U.S. Agriculture Department said.
     In its World Production and Trade Report, the department

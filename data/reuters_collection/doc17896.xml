@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 03:57:05.90</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">belgium</field>
-	<field name = "UNKNOWN">RM
-f0198reute
-u f BC-BELGIAN-FEBRUARY-INDU   06-02 0101</field>
-	<field name = "TITLE">BELGIAN FEBRUARY INDUSTRY OUTPUT DOWN ON YEAR AGO</field>
+	<field name = "titulo">BELGIAN FEBRUARY INDUSTRY OUTPUT DOWN ON YEAR AGO</field>
 	<field name = "DATELINE">BRUSSELS, June 2 -</field>
-	<field name = "BODY">Belgian industrial production, excluding
+	<field name = "content">Belgian industrial production, excluding
 construction and adjusted for seasonal and calendar influences,
 was provisionally 0.6 pct lower in February than a year
 earlier, the National Statistics Office said.

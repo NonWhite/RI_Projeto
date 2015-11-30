@@ -3,13 +3,10 @@
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "ORGS">icco</field>
-	<field name = "UNKNOWN">C T
-f0833reute
-u f BC-DUTCH-COCOA-PROCESSOR   06-01 0104</field>
-	<field name = "TITLE">DUTCH COCOA PROCESSORS UNHAPPY WITH ICCO BUFFER</field>
+	<field name = "titulo">DUTCH COCOA PROCESSORS UNHAPPY WITH ICCO BUFFER</field>
 	<field name = "AUTHOR">By Jeremy Lovell, Reuters</field>
 	<field name = "DATELINE">ROTTERDAM, June 1 -</field>
-	<field name = "BODY">Dutch cocoa processors are unhappy with
+	<field name = "content">Dutch cocoa processors are unhappy with
 the intermittent buying activities of the International Cocoa
 Organization's buffer stock manager, industry sources told
 Reuters.

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 09:02:31.95</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">greenspan</field>
-	<field name = "UNKNOWN">V RM 
-f0904reute
-b f BC-/GREENSPAN-SAYS-FED-R   10-20 0080</field>
-	<field name = "TITLE">GREENSPAN SAYS FED READY TO PROVIDE LIQUIDITY</field>
+	<field name = "titulo">GREENSPAN SAYS FED READY TO PROVIDE LIQUIDITY</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">The U.S. Federal Reserve is ready to
+	<field name = "content">The U.S. Federal Reserve is ready to
 provide liquidity to support the economy and the financial
 system, Fed Chairman Alan Greenspan said in a statement.
     The brief statement by Greenspan issued by the Fed said,

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">mexico</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f0142reute
-b f BC-mexico-suspends-overs   03-05 0096</field>
-	<field name = "TITLE">MEXICO SUSPENDS OVERSEAS COFFEE SALES</field>
+	<field name = "titulo">MEXICO SUSPENDS OVERSEAS COFFEE SALES</field>
 	<field name = "DATELINE">MEXICO CITY, March 5 -</field>
-	<field name = "BODY">Mexico has temporarily suspended
+	<field name = "content">Mexico has temporarily suspended
 overseas coffee sales due to falling prices triggered by the
 failure of the International Coffee Organisation (ICO) meeting
 to agree a quota system at its latest meeting, the official

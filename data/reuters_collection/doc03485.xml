@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 05:12:44.28</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0401reute
-b f BC-GKN-PLC-GKNL.L>-1986   03-11 0051</field>
-	<field name = "TITLE">GKN PLC GKNL.L> 1986 YEAR</field>
+	<field name = "titulo">GKN PLC GKNL.L> 1986 YEAR</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Shr 28.5p vs 26.6p.
+	<field name = "content">Shr 28.5p vs 26.6p.
     Final div 8p, making 13p vs 12p.
     Pre-tax profit 132.4 mln stg vs 132.7 mln.
     Net profit befire minorities  81.0 mln vs 74.4 mln.

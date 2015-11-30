@@ -2,13 +2,9 @@
 	<field name = "DATE">3-MAR-1987 06:03:09.50</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0852
-reute
-b f BC-ITALY-CONSUMER-PRICES   03-03 0061</field>
-	<field name = "TITLE">ITALY CONSUMER PRICES RISE 0.4 PCT IN FEBRUARY</field>
+	<field name = "titulo">ITALY CONSUMER PRICES RISE 0.4 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">ROME, March 3 -</field>
-	<field name = "BODY">Italy's consumer price index rose 0.4 pct
+	<field name = "content">Italy's consumer price index rose 0.4 pct
 in February compared with January after rising 0.6 pct in
 January over December, the national statistics institute
 (Istat) said.

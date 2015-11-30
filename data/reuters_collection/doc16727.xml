@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 18:25:06.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2789reute
-u f BC-SUPERMARKETS-GENERAL   04-13 0063</field>
-	<field name = "TITLE">SUPERMARKETS GENERAL SGL> UNIONS WANT SECURITY</field>
+	<field name = "titulo">SUPERMARKETS GENERAL SGL> UNIONS WANT SECURITY</field>
 	<field name = "DATELINE">PHILADELPHIA, April 13 -</field>
-	<field name = "BODY">United Food and Commercial Workers
+	<field name = "content">United Food and Commercial Workers
 International Union said its locals currently bargaining with
 Supermarkets General Corp were prepared to demand additional
 job security in light of the recent takeover attempt by the

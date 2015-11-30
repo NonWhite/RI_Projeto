@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 11:34:44.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1655reute
-d f BC-GREAT-WESTERN-GWF>-S   10-20 0087</field>
-	<field name = "TITLE">GREAT WESTERN GWF> SEES LOWER 12 MTH EARNINGS</field>
+	<field name = "titulo">GREAT WESTERN GWF> SEES LOWER 12 MTH EARNINGS</field>
 	<field name = "DATELINE">BEVERLY HILLS, Calif., Oct 20 -</field>
-	<field name = "BODY">Great Western Financial
+	<field name = "content">Great Western Financial
 Corp said 1987 12 month earnings will be lower than the
 earnings of 300.8 mln dlrs on revenues of 3.77 billion dlrs it
 reported for 1986.

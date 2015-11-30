@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 11:10:18.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0507reute
-d f BC-INFOTRON-INFN>-NAMES   03-09 0031</field>
-	<field name = "TITLE">INFOTRON INFN> NAMES NEW CHAIRMAN</field>
+	<field name = "titulo">INFOTRON INFN> NAMES NEW CHAIRMAN</field>
 	<field name = "DATELINE">CHERRY HILL, N.J., March 9 -</field>
-	<field name = "BODY">Infotron Systems Corp said it
+	<field name = "content">Infotron Systems Corp said it
 elected Robert E. Purcell chairman of the board, a position
 held vacant for several years.
  Reuter</field>

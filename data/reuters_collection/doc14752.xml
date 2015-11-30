@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 18:37:49.07</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2656reute
-h f BC-NANOMETRICS-INC-NANO   04-07 0058</field>
-	<field name = "TITLE">NANOMETRICS INC NANO> REDUCES WORKFORCE</field>
+	<field name = "titulo">NANOMETRICS INC NANO> REDUCES WORKFORCE</field>
 	<field name = "DATELINE">SUNNYVALE, Calif., April 7 -</field>
-	<field name = "BODY">Nanometrics Inc said it is
+	<field name = "content">Nanometrics Inc said it is
 reducing its domestic workforce of 141 people by about 17 pct.
     The comapny said the action, coupled with other cost
 reduction measures, is intended to address the continuing slow

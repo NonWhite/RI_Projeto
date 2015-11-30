@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 16:23:33.93</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">C G T
-f2371reute
-d f AM-YUGOSLAVIA-PRICES   03-23 0115</field>
-	<field name = "TITLE">INSPECTORS TO CHECK PRICE LEVELS IN YUGOSLAVIA</field>
+	<field name = "titulo">INSPECTORS TO CHECK PRICE LEVELS IN YUGOSLAVIA</field>
 	<field name = "DATELINE">BELGRADE, March 23 -</field>
-	<field name = "BODY">On thursday some 1,350 inspectors will
+	<field name = "content">On thursday some 1,350 inspectors will
 check whether merchants in Yugoslavia have fully complied with
 government orders to roll back prices, the official Tanjug news
 agency said.

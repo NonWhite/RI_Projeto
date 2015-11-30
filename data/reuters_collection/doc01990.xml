@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 08:41:49.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0925reute
-u f BC-BETHLEHEM-BS>-HAS-IN   03-05 0103</field>
-	<field name = "TITLE">BETHLEHEM BS> HAS INVESTIGATED CHAPTER 11</field>
+	<field name = "titulo">BETHLEHEM BS> HAS INVESTIGATED CHAPTER 11</field>
 	<field name = "DATELINE">BETHLEHEM, Pa., March 5 -</field>
-	<field name = "BODY">Bethlehem Steel Corp has
+	<field name = "content">Bethlehem Steel Corp has
 investigated the ramifications of a filing for reorganization
 under Chapter 11 of the federal bankruptcy laws but has no
 present plans to file, a company spokesman told Reuters.

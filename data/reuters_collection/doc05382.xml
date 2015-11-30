@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2278reute
-u f BC-CCC-ACCEPTS-WHEAT-BID   03-16 0108</field>
-	<field name = "TITLE">CCC ACCEPTS WHEAT BID FOR W AFRICA COUNTRIES</field>
+	<field name = "titulo">CCC ACCEPTS WHEAT BID FOR W AFRICA COUNTRIES</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">The Commodity Credit Corportion,
+	<field name = "content">The Commodity Credit Corportion,
 CCC, has accepted a bid for an export bonus to cover the sale
 of 15,000 tonnes of U.S. wheat to West African countries, the
 U.S. Agriculture Department said.

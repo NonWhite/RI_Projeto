@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 05:59:21.04</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0455reute
-u f BC-GERMAN-CALL-MONEY-RIS   03-30 0119</field>
-	<field name = "TITLE">GERMAN CALL MONEY RISES ON PENSION PAYMENTS</field>
+	<field name = "titulo">GERMAN CALL MONEY RISES ON PENSION PAYMENTS</field>
 	<field name = "DATELINE">FRANKFURT, March 30 -</field>
-	<field name = "BODY">Call money rose to 3.70/80 pct from
+	<field name = "content">Call money rose to 3.70/80 pct from
 3.50/60 pct in moderate business as liquidity drained from the
 system on pension payments by insurance firms, dealers said.
     But the market was relatively liquid for the month's end,

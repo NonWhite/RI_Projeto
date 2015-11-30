@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:28:46.57</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">A
-f0455reute
-u f BC-CHRISTIAN-DEMOCRATS-S   04-07 0111</field>
-	<field name = "TITLE">CHRISTIAN DEMOCRATS SAY ROME GOVERNMENT FINISHED</field>
+	<field name = "titulo">CHRISTIAN DEMOCRATS SAY ROME GOVERNMENT FINISHED</field>
 	<field name = "DATELINE">ROME, April 7 -</field>
-	<field name = "BODY">Italy's majority Christian Democrat party,
+	<field name = "content">Italy's majority Christian Democrat party,
 saying the five-party government to which it belongs is
 finished, has decided to withdraw its 16 ministers before a
 parliamentary confidence vote later this week.

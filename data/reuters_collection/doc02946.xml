@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">argentina</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C G
-f0831reute
-u f BC-ARGENTINA-UNAFFECTED   03-06 0103</field>
-	<field name = "TITLE">ARGENTINA UNAFFECTED BY BRAZIL'S MAIZE DECISION</field>
+	<field name = "titulo">ARGENTINA UNAFFECTED BY BRAZIL'S MAIZE DECISION</field>
 	<field name = "DATELINE">BUENOS AIRES, March 6 -</field>
-	<field name = "BODY">A government official said that a
+	<field name = "content">A government official said that a
 decision by Brazil not to import maize because it forecast a
 record harvest would not affect Argentina's exports.
     "We have heard nothing about this, but if Brazil has decided

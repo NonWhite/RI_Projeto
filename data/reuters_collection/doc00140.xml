@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 17:33:05.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0184
-reute
-r f BC-THOMSON-MCKINNON-UNIT   02-26 0115</field>
-	<field name = "TITLE">THOMSON MCKINNON UNIT'S CMO OFFERING PRICED</field>
+	<field name = "titulo">THOMSON MCKINNON UNIT'S CMO OFFERING PRICED</field>
 	<field name = "DATELINE">NEW YORK, Feb 26 -</field>
-	<field name = "BODY">Thomson McKinnon Mortgage Assets Corp, a
+	<field name = "content">Thomson McKinnon Mortgage Assets Corp, a
 unit of Thomson McKinnon Inc, is offering 100 mln dlrs of
 collateralized mortgage obligations in three tranches that
 include floating rate and inverse floating rate CMOS.

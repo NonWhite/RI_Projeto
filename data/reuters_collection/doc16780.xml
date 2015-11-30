@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 06:02:54.25</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f0119reute
-u f BC-VAN-OMMEREN-PLANS-75   04-17 0101</field>
-	<field name = "TITLE">VAN OMMEREN PLANS 75 MLN GUILDER BOND ISSUE</field>
+	<field name = "titulo">VAN OMMEREN PLANS 75 MLN GUILDER BOND ISSUE</field>
 	<field name = "DATELINE">AMSTERDAM, April 17 -</field>
-	<field name = "BODY">The Dutch transport, trading and
+	<field name = "content">The Dutch transport, trading and
 storage firm PHS Van Ommeren NV OMMN.AS> said it plans a 75
 mln guilder bond issue with warrants attached.
     The bond will have a maturity of 10 years with repayment in

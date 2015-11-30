@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 12:09:06.54</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1526reute
-u f BC-U.S.-SAYS-USAIR-U>-M   03-20 0097</field>
-	<field name = "TITLE">U.S. SAYS USAIR U> MAY BUY 51 PCT OF PIEDMONT</field>
+	<field name = "titulo">U.S. SAYS USAIR U> MAY BUY 51 PCT OF PIEDMONT</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">The Department of Transportation
+	<field name = "content">The Department of Transportation
 said it will allow USAIR Group to acquire up to 51 pct of
 Piedmont Aviation PIE> voting stocks pending final approval of
 the proposed merger of the two airlines.

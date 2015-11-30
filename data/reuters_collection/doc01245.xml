@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 15:05:42.80</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">peru</field>
-	<field name = "UNKNOWN">C T
-f0641reute
-u f BC-peruvian-producers-sa   03-03 0110</field>
-	<field name = "TITLE">PERU COFFEE CROP UNAFFECTED BY RAINS</field>
+	<field name = "titulo">PERU COFFEE CROP UNAFFECTED BY RAINS</field>
 	<field name = "DATELINE">LIMA, March 3 -</field>
-	<field name = "BODY">Recent heavy rains have not affected the
+	<field name = "content">Recent heavy rains have not affected the
 Peru coffee crop and producers are looking forward to a record
 harvest, the president of one of Peru's four coffee cooperative
 groups said.

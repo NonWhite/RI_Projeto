@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 11:01:59.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5272reute
-r f BC-NL-NL>-FILES-SUITS-A   03-17 0107</field>
-	<field name = "TITLE">NL NL> FILES SUITS AGAINST UNITED CATALYSTS</field>
+	<field name = "titulo">NL NL> FILES SUITS AGAINST UNITED CATALYSTS</field>
 	<field name = "DATELINE">HIGHTSTOWN, N.J., March 17 -</field>
-	<field name = "BODY">NL Industries Inc's NL
+	<field name = "content">NL Industries Inc's NL
 Chemicals Inc subsidiary said it filed two complaints against
 United Catalysts Inc> for patent infringements and
 misappropriation of confidential information.

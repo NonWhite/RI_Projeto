@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 17:08:30.83</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2615reute
-s f BC-BORMAN'S-INC-BRF>-DE   03-24 0024</field>
-	<field name = "TITLE">BORMAN'S INC BRF> DECLARES QTLY DIVIDEND</field>
+	<field name = "titulo">BORMAN'S INC BRF> DECLARES QTLY DIVIDEND</field>
 	<field name = "DATELINE">DETROIT, Mich., March 24 -</field>
-	<field name = "BODY">Qtly div five cts vs five cts prior
+	<field name = "content">Qtly div five cts vs five cts prior
     Pay June 15
     Record May 18
  Reuter</field>

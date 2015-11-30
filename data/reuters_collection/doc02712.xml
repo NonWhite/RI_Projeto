@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 12:16:52.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0773reute
-d f BC-MEDI-RX-UNIT-IN-PROPO   03-06 0077</field>
-	<field name = "TITLE">MEDI-RX UNIT IN PROPOSED INITIAL OFFERING</field>
+	<field name = "titulo">MEDI-RX UNIT IN PROPOSED INITIAL OFFERING</field>
 	<field name = "DATELINE">HAUPPAUGE, N.Y., March 6 -</field>
-	<field name = "BODY">Medi-Rx America Inc said its Rx
+	<field name = "content">Medi-Rx America Inc said its Rx
 Plus Inc subsidiary received a letter of intent for a proposed
 initial public offering of four mln dlrs to six mln dlrs.
     It also said the subisidary, formed to franchise retail

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 07:27:32.06</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">V 
-f0573reute
-u f BC-SOUTH-KOREA-RULING-PA   06-29 0084</field>
-	<field name = "TITLE">S KOREA RULING PARTY SEEKS DIRECT ELECTION</field>
+	<field name = "titulo">S KOREA RULING PARTY SEEKS DIRECT ELECTION</field>
 	<field name = "DATELINE">SEOUL, June 29 -</field>
-	<field name = "BODY">South Korea's ruling party will seek a
+	<field name = "content">South Korea's ruling party will seek a
 direct presidential election to solve an acute political crisis
 in the country, a party spokesman said.
     The Democratic Justice Party will ask President Chun Doo

@@ -5,12 +5,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1048reute
-u f BC-/U.S.-GRAIN-ANALYSTS   03-20 0130</field>
-	<field name = "TITLE">U.S. GRAIN ANALYSTS SEE LOWER CORN, SOY PLANTING</field>
+	<field name = "titulo">U.S. GRAIN ANALYSTS SEE LOWER CORN, SOY PLANTING</field>
 	<field name = "DATELINE">CHICAGO, March 20 -</field>
-	<field name = "BODY">Grain analysts surveyed by the American
+	<field name = "content">Grain analysts surveyed by the American
 Soybean Association, ASA, projected acreage this year at 59.1
 mln acres of soybeans and 64.7 mln acres of corn.
     In 1986, farmers planted 61.5 mln acres of soybeans and

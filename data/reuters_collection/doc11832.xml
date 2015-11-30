@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">netherlands</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">F
-f0438reute
-r f BC-INTERNATIO-MUELLER-AC   04-01 0108</field>
-	<field name = "TITLE">INTERNATIO-MUELLER ACQUIRES CANADIAN COMPANY</field>
+	<field name = "titulo">INTERNATIO-MUELLER ACQUIRES CANADIAN COMPANY</field>
 	<field name = "DATELINE">ROTTERDAM, April 1-</field>
-	<field name = "BODY">Internatio-Mueller NV INTN.AS> said it
+	<field name = "content">Internatio-Mueller NV INTN.AS> said it
 will acquire Promac Controls Inc> of Canada but declined to
 comment on the amount of the payment, which will be in cash.
     Promac, which produces measurement and regulating

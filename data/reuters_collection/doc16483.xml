@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 12:52:31.42</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1840reute
-d f BC-PROPOSED-OFFERINGS   04-13 0086</field>
-	<field name = "TITLE">PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</field>
+	<field name = "titulo">PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</field>
 	<field name = "DATELINE">WASHINGTON, April 13 -</field>
-	<field name = "BODY">The following proposed securities
+	<field name = "content">The following proposed securities
 offerings were filed recently with the Securities and Exchange
 Commission:
     Northern Trust Corp NTRS> - Shelf offering of up to 150

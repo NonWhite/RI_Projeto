@@ -4,13 +4,9 @@
 	<field name = "PLACES">indonesia</field>
 	<field name = "PEOPLE">subroto</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">RM
-f0439
-reute
-b f BC-OPEC-WITHIN-OUTPUT-CE   03-02 0090</field>
-	<field name = "TITLE">OPEC WITHIN OUTPUT CEILING, SUBROTO SAYS</field>
+	<field name = "titulo">OPEC WITHIN OUTPUT CEILING, SUBROTO SAYS</field>
 	<field name = "DATELINE">JAKARTA, March 3 -</field>
-	<field name = "BODY">Opec remains within its agreed output
+	<field name = "content">Opec remains within its agreed output
 ceiling of 15.8 mln barrels a day, and had expected current
 fluctuations in the spot market of one or two dlrs, Indonesian
 Energy Minister Subroto said.

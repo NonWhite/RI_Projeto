@@ -5,12 +5,9 @@
 	<field name = "TOPICS">stg</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PEOPLE">lawson</field>
-	<field name = "UNKNOWN">RM
-f0311reute
-b f BC-U.K.-MONEY-RATES-FIRM   04-02 0106</field>
-	<field name = "TITLE">U.K. MONEY RATES FIRM ON LAWSON STERLING TARGETS</field>
+	<field name = "titulo">U.K. MONEY RATES FIRM ON LAWSON STERLING TARGETS</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">Interest rates on the London money market
+	<field name = "content">Interest rates on the London money market
 were slightly firmer on news U.K. Chancellor of the Exchequer
 Nigel Lawson had stated target rates for sterling against the
 dollar and mark, dealers said.

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:32:42.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0080
-reute
-h f BC-BLOCKBUSTER-BBEC>-UN   03-02 0082</field>
-	<field name = "TITLE">BLOCKBUSTER BBEC> UNIT GETS TWO MORE LICENSES</field>
+	<field name = "titulo">BLOCKBUSTER BBEC> UNIT GETS TWO MORE LICENSES</field>
 	<field name = "DATELINE">DALLAS, March 2 -</field>
-	<field name = "BODY">Blockbuster Entertainment Corp's
+	<field name = "content">Blockbuster Entertainment Corp's
 Blockbuster Distribution Corp said it executed two additional
 area licenses to own and operate Blockbuster Videos Rental
 stores.

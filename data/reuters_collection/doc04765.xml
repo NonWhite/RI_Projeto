@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 09:07:43.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0767reute
-r f BC-APPLIED-BIOSYSTEMS-A   03-13 0100</field>
-	<field name = "TITLE">APPLIED BIOSYSTEMS ABIO> LOWERS SALES FORECAST</field>
+	<field name = "titulo">APPLIED BIOSYSTEMS ABIO> LOWERS SALES FORECAST</field>
 	<field name = "DATELINE">FOSTER CITY, Calif., March 13 -</field>
-	<field name = "BODY">Applied Biosystems Inc said
+	<field name = "content">Applied Biosystems Inc said
 it has lowered its internal product sales forecast following a
 review of market conditions in Europe.
     The company also said Chairman Sam Eletr has resigned for

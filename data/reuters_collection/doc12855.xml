@@ -3,12 +3,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">stoltenberg</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">A
-f0862reute
-r f BC-DATA-COORDINATION-TO   04-03 0112</field>
-	<field name = "TITLE">DATA COORDINATION TO BE DISCUSSEED AT IMF</field>
+	<field name = "titulo">DATA COORDINATION TO BE DISCUSSEED AT IMF</field>
 	<field name = "DATELINE">BONN, April 3 -</field>
-	<field name = "BODY">West German Finance Minister Gerhard
+	<field name = "content">West German Finance Minister Gerhard
 Stoltenberg said international coordination of economic and
 financial policies as well as of economic indicators will be
 discussed at next week's meeting of the International Monetary

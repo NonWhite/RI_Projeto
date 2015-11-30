@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 17:17:17.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2758reute
-r f BC-FDIC-TO-EASE-RULE-FOR   03-31 0107</field>
-	<field name = "TITLE">FDIC TO EASE RULE FOR BANKS' SECURITIES UNITS</field>
+	<field name = "titulo">FDIC TO EASE RULE FOR BANKS' SECURITIES UNITS</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">The Federal Deposit Insurance Corp
+	<field name = "content">The Federal Deposit Insurance Corp
 proposed to ease its regulations on operations of securities
 subsidiaries of banks.
     The FDIC proposed for comment for 30 days amendments to end

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 16:34:31.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2423reute
-r f BC-SUPER-VALU-SVU>-SETS   03-20 0100</field>
-	<field name = "TITLE">SUPER VALU SVU> SETS LOWER CAPITAL SPENDING</field>
+	<field name = "titulo">SUPER VALU SVU> SETS LOWER CAPITAL SPENDING</field>
 	<field name = "DATELINE">MINNEAPOLIS, March 20 -</field>
-	<field name = "BODY">Super Valu Stores Inc said its
+	<field name = "content">Super Valu Stores Inc said its
 capital budget for the fiscal year beginning March One is 330
 mln dlrs.
     It said it spent 363.7 mln dlrs last year, primarily

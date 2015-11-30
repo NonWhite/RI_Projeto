@@ -3,12 +3,9 @@
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C T
-f1508reute
-b f BC-/NY-TRADERS-EXPECT-CH   03-25 0114</field>
-	<field name = "TITLE">NY TRADERS EXPECT CHINA TO STEP UP SUGAR BUYING</field>
+	<field name = "titulo">NY TRADERS EXPECT CHINA TO STEP UP SUGAR BUYING</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">Trade house sources said China is
+	<field name = "content">Trade house sources said China is
 expected to step up its sugar purchases following yesterday's
 steep drop in world sugar prices.
     The consensus is that the Chinese will buy between 200,000

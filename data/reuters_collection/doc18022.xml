@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 10:33:30.27</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f1161reute
-b f BC-CANON-SALES-ISSUES-10   06-02 0104</field>
-	<field name = "TITLE">CANON SALES ISSUES 100 MLN DLR WARRANT BOND</field>
+	<field name = "titulo">CANON SALES ISSUES 100 MLN DLR WARRANT BOND</field>
 	<field name = "DATELINE">LONDON, June 2 -</field>
-	<field name = "BODY">Canon Sales Co Inc is issuing a 100 mln
+	<field name = "content">Canon Sales Co Inc is issuing a 100 mln
 dlr equity warrant bond due June 30, 1992 with an indicated
 coupon of 1-5/8 pct and par pricing, lead manager Yamaichi
 International (Europe) Ltd said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 10:08:55.47</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0093reute
-d f BC-SONEX-RESEARCH-SONX>   03-12 0052</field>
-	<field name = "TITLE">SONEX RESEARCH SONX> SELLS STOCK PRIVATELY</field>
+	<field name = "titulo">SONEX RESEARCH SONX> SELLS STOCK PRIVATELY</field>
 	<field name = "DATELINE">ANNAPOLIS, Md., March 12 -</field>
-	<field name = "BODY">Sonex Research Inc said it has
+	<field name = "content">Sonex Research Inc said it has
 completed a private sale of common shares and warrants for two
 mln dlrs.
     It said if all warrants are exercised it will receive

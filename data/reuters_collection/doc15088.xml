@@ -10,12 +10,9 @@
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">F A
-f1483reute
-d f BC-U.K.-SEEKS-MORE-GLOBA   04-08 0120</field>
-	<field name = "TITLE">U.K. SEEKS MORE GLOBAL SECURITIES CO-OPERATION</field>
+	<field name = "titulo">U.K. SEEKS MORE GLOBAL SECURITIES CO-OPERATION</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">Britain intends to negotiate further
+	<field name = "content">Britain intends to negotiate further
 agreements on international securities regulation to match
 those now in force with the U.S. And Japan, government sources
 said.

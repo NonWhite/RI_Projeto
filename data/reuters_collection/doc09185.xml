@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 05:43:48.03</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f0356reute
-u f BC-JARDINE-TO-JOIN-CONSO   03-25 0102</field>
-	<field name = "TITLE">JARDINE TO JOIN CONSORTIUM FOR HK SECOND AIRPORT</field>
+	<field name = "titulo">JARDINE TO JOIN CONSORTIUM FOR HK SECOND AIRPORT</field>
 	<field name = "DATELINE">HONG KONG, March 25 -</field>
-	<field name = "BODY">The Bermuda registered Jardine
+	<field name = "content">The Bermuda registered Jardine
 Matheson and Co Ltd> has indicated it would participate in a
 local consortium led by Hopewell Holdings Ltd HPWH.HK> which
 has proposed to build the second airport here, a Hopewell

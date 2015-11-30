@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2002reute
-d f BC-SWIFT-SFTPF>-TO-SELL   04-13 0072</field>
-	<field name = "TITLE">SWIFT SFTPF> TO SELL SOUTH DAKOTA PORK PLANT</field>
+	<field name = "titulo">SWIFT SFTPF> TO SELL SOUTH DAKOTA PORK PLANT</field>
 	<field name = "DATELINE">DALLAS, April 13 -</field>
-	<field name = "BODY">Swift Independent Packing Co said it
+	<field name = "content">Swift Independent Packing Co said it
 agreed in principle to sell its Huron, South Dakota pork plant
 to Huron Dressed Beef, for undisclosed terms.
     Completion of the proposed transaction is subject to

@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 15:58:03.44</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f6446reute
-u f BC-NYSE-CLARIFIES-TRIPLE   03-17 0110</field>
-	<field name = "TITLE">NYSE CLARIFIES TRIPLE WITCHING PROCEDURE</field>
+	<field name = "titulo">NYSE CLARIFIES TRIPLE WITCHING PROCEDURE</field>
 	<field name = "DATELINE">NEW YORK, March 17 -</field>
-	<field name = "BODY">The New York stock exchange said its
+	<field name = "content">The New York stock exchange said its
 rules for triple expiration Friday permit entering
 arbitrage-related market-on-close orders in the final 30
 minutes of trading providing they are on the other side of

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 13:56:03.00</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1962reute
-u f BC-GREYHOUND-G>-BUYS-GE   03-19 0108</field>
-	<field name = "TITLE">GREYHOUND G> BUYS GENERAL MOTORS GM> BUS UNIT</field>
+	<field name = "titulo">GREYHOUND G> BUYS GENERAL MOTORS GM> BUS UNIT</field>
 	<field name = "DATELINE">PHOENIX, Ariz., March 19 -</field>
-	<field name = "BODY">Greyhound Corp said it has
+	<field name = "content">Greyhound Corp said it has
 signed a definitive agreement to buy General Motors Corp's U.S.
 Transit Bus and Parts business for an undisclosed sum.
     The agreement, tentatively set in January, includes

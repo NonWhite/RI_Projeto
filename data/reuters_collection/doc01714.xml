@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">colombia</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f0430reute
-u f BC-/COLOMBIA-BLASTS-U.S.   03-04 0106</field>
-	<field name = "TITLE">COLOMBIA BLASTS U.S. FOR COFFEE TALKS FAILURE</field>
+	<field name = "titulo">COLOMBIA BLASTS U.S. FOR COFFEE TALKS FAILURE</field>
 	<field name = "DATELINE">BOGOTA, March 4 -</field>
-	<field name = "BODY">Colombian finance minister Cesar Gaviria
+	<field name = "content">Colombian finance minister Cesar Gaviria
 blamed an inflexible U.S. position for the failure of last
 week's International Coffee Organisation, ICO, talks on export
 quotas.

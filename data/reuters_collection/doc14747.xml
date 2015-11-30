@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 18:32:41.76</field>
-	<field name = "UNKNOWN">F
-f2646reute
-s f BC-REUTER-BUSINESS-NEWS   04-07 0307</field>
-	<field name = "TITLE">REUTER BUSINESS NEWS HIGHLIGHTS, APRIL 7</field>
+	<field name = "titulo">REUTER BUSINESS NEWS HIGHLIGHTS, APRIL 7</field>
 	<field name = "DATELINE">NEW YORK -</field>
-	<field name = "BODY">Stocks fell steeply from the 2400 level in an
+	<field name = "content">Stocks fell steeply from the 2400 level in an
 avalanche of selling unleashed by a jump in credit market
 interest rates and renewed fears that the dollar could fall
 further. After first extending the rally that hit an all-time

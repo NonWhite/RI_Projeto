@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 15:56:50.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4516reute
-r f BC-KRAFT   06-18 0111</field>
-	<field name = "TITLE">KRAFT KRA> DEFENDS CHEESE ADVERTISING</field>
+	<field name = "titulo">KRAFT KRA> DEFENDS CHEESE ADVERTISING</field>
 	<field name = "DATELINE">WASHINGTON, June 18 -</field>
-	<field name = "BODY">Kraft Inc said it strongly disagreed
+	<field name = "content">Kraft Inc said it strongly disagreed
 with a complaint filed by the Federal Trade Commission that it
 made false and misleading claims about its Kraft Singles cheese
 product and said it would fight the charge.

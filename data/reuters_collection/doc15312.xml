@@ -4,12 +4,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">canada</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C M
-f2519reute
-d f BC-CANADA-TO-MONITOR-STE   04-08 0120</field>
-	<field name = "TITLE">CANADA TO MONITOR STEEL IMPORTS, EXPORTS</field>
+	<field name = "titulo">CANADA TO MONITOR STEEL IMPORTS, EXPORTS</field>
 	<field name = "DATELINE">OTTAWA, April 8 -</field>
-	<field name = "BODY">Canada plans to monitor steel shipments
+	<field name = "content">Canada plans to monitor steel shipments
 flowing in and out of the country in an attempt to appease
 concerns in the U.S. over the high level of Canadian steel
 exports, Trade Minister Pat Carney said.

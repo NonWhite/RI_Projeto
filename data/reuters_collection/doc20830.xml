@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 18:59:44.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM F 
-f3582reute
-d f BC-BALLY-BLY>-UNIT-MAY   10-20 0113</field>
-	<field name = "TITLE">BALLY BLY> UNIT MAY BE DOWNGRADED BY S/P</field>
+	<field name = "titulo">BALLY BLY> UNIT MAY BE DOWNGRADED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it may
+	<field name = "content">Standard and Poor's Corp said it may
 downgrade the 100 mln dlrs of B-plus 13-5/8 pct senior
 subordinated debentures due 1997 of Bally Health and Tennis
 Corp, a unit of Bally Manufacturing Corp.

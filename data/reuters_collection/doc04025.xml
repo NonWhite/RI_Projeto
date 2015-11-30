@@ -4,13 +4,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
 	<field name = "PEOPLE">yeutter</field>
-	<field name = "UNKNOWN">V RM
-f0943reute
-u f BC-U.S.-HOUSE-PANEL-TAKE   03-11 0092</field>
-	<field name = "TITLE">U.S. HOUSE PANEL TAKES FIRST TRADE BILL VOTES</field>
+	<field name = "titulo">U.S. HOUSE PANEL TAKES FIRST TRADE BILL VOTES</field>
 	<field name = "AUTHOR">By Jacqueline Frank</field>
 	<field name = "DATELINE">WASHINGTON, March 11 -</field>
-	<field name = "BODY">House trade lawmakers took their
+	<field name = "content">House trade lawmakers took their
 first votes on measures designed to toughen U.S. trade laws but
 held over until tomorrow the most difficult votes on
 controversial plans to protect American industries.

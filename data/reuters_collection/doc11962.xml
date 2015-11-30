@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:35:44.02</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F
-f1125reute
-u f BC-CENTURY-BUSINESS-CRED   04-01 0051</field>
-	<field name = "TITLE">CENTURY BUSINESS CREDIT CPY> TO MAKE STATEMENT</field>
+	<field name = "titulo">CENTURY BUSINESS CREDIT CPY> TO MAKE STATEMENT</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Century Business Credit Corp said it
+	<field name = "content">Century Business Credit Corp said it
 will make an announcement concerning its delay on the American
 Stock Exchange this morning.
     President Andrew Tananbaum said the announcement will

@@ -3,13 +3,10 @@
 	<field name = "PLACES">philippines</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">A
-f4550reute
-r f BC-WORLD-BANK-EXPECTED-T   03-17 0100</field>
-	<field name = "TITLE">WORLD BANK EXPECTED TO APPROVE PHILIPPINES LOAN</field>
+	<field name = "titulo">WORLD BANK EXPECTED TO APPROVE PHILIPPINES LOAN</field>
 	<field name = "AUTHOR">By Chaitanya Kalbag, Reuters</field>
 	<field name = "DATELINE">MANILA, March 17 -</field>
-	<field name = "BODY">The World Bank is expected to approve a
+	<field name = "content">The World Bank is expected to approve a
 310 mln dlr economic recovery loan for the Philippines at a
 meeting of its executive board today in Washington, Central
 Bank sources said.

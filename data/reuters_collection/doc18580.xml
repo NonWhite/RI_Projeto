@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 08:20:09.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2789reute
-r f BC-OLIN-OLN>-SUBORDINAT   06-18 0098</field>
-	<field name = "TITLE">OLIN OLN> SUBORDINATED NOTES YIELD 9.558 PCT</field>
+	<field name = "titulo">OLIN OLN> SUBORDINATED NOTES YIELD 9.558 PCT</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Olin Corp is raising 125 mln dlrs via
+	<field name = "content">Olin Corp is raising 125 mln dlrs via
 an offering of 10-year subordinated notes yielding 9.558 pct,
 said lead manager Morgan Stanley and Co Inc.
     The notes have a 9-1/2 pct coupon and were priced at 99.625

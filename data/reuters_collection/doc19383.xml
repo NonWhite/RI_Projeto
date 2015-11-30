@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 15:29:46.08</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2163reute
-r f BC-LARISSA-INDUSTRIES-FI   06-19 0093</field>
-	<field name = "TITLE">LARISSA INDUSTRIES FILES FOR INITIAL OFFERING</field>
+	<field name = "titulo">LARISSA INDUSTRIES FILES FOR INITIAL OFFERING</field>
 	<field name = "DATELINE">AKRON, Ohio, June 19 -</field>
-	<field name = "BODY">Larissa Industries Inc said it filed
+	<field name = "content">Larissa Industries Inc said it filed
 with the Securities and Exchange Commission for an initial
 public offering of two mln shares of common.
     All of the shares are being sold by Larissa, which makes

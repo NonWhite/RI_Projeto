@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 14:04:16.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0264reute
-u f BC-MCDONNELL-MD>-SAID-T   03-09 0113</field>
-	<field name = "TITLE">MCDONNELL MD> SAID TALKS AT INFORMAL STAGE</field>
+	<field name = "titulo">MCDONNELL MD> SAID TALKS AT INFORMAL STAGE</field>
 	<field name = "DATELINE">CHICAGO, March 9 -</field>
-	<field name = "BODY">McDonnell Douglas Corp said recent talks
+	<field name = "content">McDonnell Douglas Corp said recent talks
 with Airbus Industries about joint development and production
 of a new jetliner with the European aircraft manufacturing
 consortium have been very informal.

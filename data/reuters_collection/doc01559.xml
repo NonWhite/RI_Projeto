@@ -4,12 +4,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0777reute
-b f BC-U.S.,-BRITAIN-AGREE-F   03-04 0119</field>
-	<field name = "TITLE">U.S., BRITAIN AGREE FURTHER BANK CAPITAL PROPOSALS</field>
+	<field name = "titulo">U.S., BRITAIN AGREE FURTHER BANK CAPITAL PROPOSALS</field>
 	<field name = "DATELINE">LONDON, March 4 -</field>
-	<field name = "BODY">The Bank of England and the U.S. Federal
+	<field name = "content">The Bank of England and the U.S. Federal
 Reserve Board have agreed new proposals for joint standards to
 measure the risk of an array of credit exposures that do not
 show up in bank balance sheets, the Bank of England said.

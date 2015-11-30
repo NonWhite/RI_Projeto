@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 12:21:50.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F E
-f1771reute
-r f BC-WESTAR-WSTR>-IN-NEGO   03-30 0081</field>
-	<field name = "TITLE">WESTAR WSTR> IN NEGOTIATIONS WITH NORANDA</field>
+	<field name = "titulo">WESTAR WSTR> IN NEGOTIATIONS WITH NORANDA</field>
 	<field name = "DATELINE">LAS VEGAS, Nev., March 30 -</field>
-	<field name = "BODY">Westar Corp said it is
+	<field name = "content">Westar Corp said it is
 negotiating with Noranda Exploration Inc, a unit of Noranda Inc
 NOR>.
     Westar said Noranda is interested in earning a percentage

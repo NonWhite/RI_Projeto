@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 18:51:02.27</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0132reute
-u f BC-TWA-TWA>-SUES-USAIR   03-05 0084</field>
-	<field name = "TITLE">TWA TWA> SUES USAIR U> OVER POISON PILL</field>
+	<field name = "titulo">TWA TWA> SUES USAIR U> OVER POISON PILL</field>
 	<field name = "DATELINE">NEW YORK, March 5 -</field>
-	<field name = "BODY">Trans World Airlines Inc said it filed
+	<field name = "content">Trans World Airlines Inc said it filed
 suit in Delaware Chancery Court against USAir Group Inc and its
 board of directors seeking to invalidate its "poison pill"
 anti-takeover plan.

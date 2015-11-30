@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:37:32.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0940reute
-r f BC-CRANE-CR>-TO-REDEEM   03-09 0069</field>
-	<field name = "TITLE">CRANE CR> TO REDEEM CONVERTIBLE DEBENTURES</field>
+	<field name = "titulo">CRANE CR> TO REDEEM CONVERTIBLE DEBENTURES</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Crane Co said it will redeem on March
+	<field name = "content">Crane Co said it will redeem on March
 31 all 75 mln dlrs of its outstanding 8-3/4 pct convertible
 senior debentures due October 1, 2005 at 107.875 pct.
     It said accrued interest to March 31 will be paid on that

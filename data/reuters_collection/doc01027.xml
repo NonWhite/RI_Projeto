@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 09:50:34.51</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0378reute
-u f BC-LIFETIME-LFT>-TO-MAK   03-03 0055</field>
-	<field name = "TITLE">LIFETIME LFT> TO MAKE ANNOUNCEMENT</field>
+	<field name = "titulo">LIFETIME LFT> TO MAKE ANNOUNCEMENT</field>
 	<field name = "DATELINE">NEW YORK, March 3 -</field>
-	<field name = "BODY">Lifetime Corp said it will make an
+	<field name = "content">Lifetime Corp said it will make an
 announcement this morning between 1000 EST and 1030 EST.
     A company spokesman said the company preferred not to
 comment until that time.

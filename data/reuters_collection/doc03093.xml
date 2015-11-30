@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 10:30:39.71</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0280reute
-u f BC-DONALD-TRUMP-TO-BUY-C   03-09 0076</field>
-	<field name = "TITLE">DONALD TRUMP TO BUY CROSBY RESORTS RTB> STOCK</field>
+	<field name = "titulo">DONALD TRUMP TO BUY CROSBY RESORTS RTB> STOCK</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Casino hotel operator and real estate
+	<field name = "content">Casino hotel operator and real estate
 developer Donald Trump said he has agreed to purchase the Class
 B common stock of Resorts International Inc held by the family
 and estate of late Resorts chairman James Crosby for 135 dlrs

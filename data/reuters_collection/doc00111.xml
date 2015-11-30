@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-FEB-1987 16:45:08.59</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0065
-reute
-w f BC-GENERAL-BINDING-GBND   02-26 0072</field>
-	<field name = "TITLE">GENERAL BINDING GBND> IN MARKETING AGREEMENT</field>
+	<field name = "titulo">GENERAL BINDING GBND> IN MARKETING AGREEMENT</field>
 	<field name = "DATELINE">MINNEAPOLIS, Feb 26 -</field>
-	<field name = "BODY">General Binding Corp said it reached
+	<field name = "content">General Binding Corp said it reached
 a marketing agreement with Varitronic Systems Inc, a
 manufacturer and marketer of electronic lettering systems.
     Under terms of the agreement, General Binding will carry

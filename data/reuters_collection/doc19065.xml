@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 05:43:47.90</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0347reute
-u f BC-OLYMPUS-SEES-12-PCT-R   06-19 0105</field>
-	<field name = "TITLE">OLYMPUS SEES 12 PCT RISE IN 1986/87 CURRENT PROFIT</field>
+	<field name = "titulo">OLYMPUS SEES 12 PCT RISE IN 1986/87 CURRENT PROFIT</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">Olympus Optical Co Ltd OOPT.T> predicted
+	<field name = "content">Olympus Optical Co Ltd OOPT.T> predicted
 parent company current profit of 5.50 billion yen in the year
 ending October 31, 1987, up 12 pct from a year earlier,
 assuming a yen/dollar rate of 147 yen in the second half, a

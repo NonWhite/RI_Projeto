@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 03:15:50.22</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f1188reute
-u f BC-GERMAN-RETAIL-TURNOVE   03-16 0094</field>
-	<field name = "TITLE">GERMAN RETAIL TURNOVER RISES ONE PCT IN JANUARY</field>
+	<field name = "titulo">GERMAN RETAIL TURNOVER RISES ONE PCT IN JANUARY</field>
 	<field name = "DATELINE">WIESBADEN, March 16 -</field>
-	<field name = "BODY">West German retail turnover rose a
+	<field name = "content">West German retail turnover rose a
 real one pct in January compared with the same month a year
 earlier, according to provisional data from the Federal
 Statistics Office.

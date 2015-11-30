@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:26:06.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0050
-reute
-h f BC-ANTITRUST-LAWYER-NOMI   03-02 0085</field>
-	<field name = "TITLE">ANTITRUST LAWYER NOMINATED CLAIMS COURT JUDGE</field>
+	<field name = "titulo">ANTITRUST LAWYER NOMINATED CLAIMS COURT JUDGE</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">Roger Andewelt, deputy assistant 
+	<field name = "content">Roger Andewelt, deputy assistant 
 attorney general for litigation in the Justice Department's
 antitrust division since last June, is being nominated by
 President Reagan as a judge of the United States Claims Court,

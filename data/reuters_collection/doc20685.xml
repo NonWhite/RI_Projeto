@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 16:00:08.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3087reute
-r f BC-NATIONAL-HEALTHCARE-   10-20 0081</field>
-	<field name = "TITLE">NATIONAL HEALTHCARE NHCI.O> CHAIRMAN RESIGNS</field>
+	<field name = "titulo">NATIONAL HEALTHCARE NHCI.O> CHAIRMAN RESIGNS</field>
 	<field name = "DATELINE">DOTHAN, Ala., Oct 20 -</field>
-	<field name = "BODY">National Healthcare Inc said Stephen
+	<field name = "content">National Healthcare Inc said Stephen
 L. Phelps resigned as chairman of the board of directors
 effective October 19, to pursue other business interests.
     In addition, Joseph D. Bohr Jr., Anders K. Brag and Robert

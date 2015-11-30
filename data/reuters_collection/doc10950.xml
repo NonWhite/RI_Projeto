@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 13:31:52.88</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2017reute
-r f BC-PARADYNE-PDN>-LAUNCH   03-30 0089</field>
-	<field name = "TITLE">PARADYNE PDN> LAUNCHES MODEMS, NETWORK SYSTEM</field>
+	<field name = "titulo">PARADYNE PDN> LAUNCHES MODEMS, NETWORK SYSTEM</field>
 	<field name = "DATELINE">LARGO, Fla., March 30 -</field>
-	<field name = "BODY">Paradyne Corp said it introduced a
+	<field name = "content">Paradyne Corp said it introduced a
 new 3400 series of high-speed network diagnostic modems that
 provide an open-ended, modular approach to telecommunications
 requirements.

@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 10:09:02.82</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0967reute
-u f BC-DEUTSCHE-BABCOCK-SEES   03-19 0115</field>
-	<field name = "TITLE">DEUTSCHE BABCOCK SEES HIGHER 1986/87 PROFITS</field>
+	<field name = "titulo">DEUTSCHE BABCOCK SEES HIGHER 1986/87 PROFITS</field>
 	<field name = "DATELINE">OBERHAUSEN, West Germany, March 19 -</field>
-	<field name = "BODY">Deutsche Babcock AG
+	<field name = "content">Deutsche Babcock AG
 DBCG.F> expects profits to rise in the current financial year
 ending September 9 although the earnings level is still
 unsatisfactory, managing board chairman Helmut Wiehn said.

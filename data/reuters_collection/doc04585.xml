@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 17:43:06.00</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0742reute
-d f BC-EAGER-TECHNOLOGY-ACQU   03-12 0039</field>
-	<field name = "TITLE">EAGER TECHNOLOGY ACQUIRES NUCLAD</field>
+	<field name = "titulo">EAGER TECHNOLOGY ACQUIRES NUCLAD</field>
 	<field name = "DATELINE">DENVER, March 12 -</field>
-	<field name = "BODY">Eager Technology Inc> said it signed a
+	<field name = "content">Eager Technology Inc> said it signed a
 letter of intent to acquire Nuclad Inc, a private Colorado
 corporation, and its subsidiaries.
     Terms of the acquisition were not disclosed.

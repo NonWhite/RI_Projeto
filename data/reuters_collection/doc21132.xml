@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 13:56:40.48</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2424reute
-a f BC-COMMUNICATIONS-AND-CA   10-19 0052</field>
-	<field name = "TITLE">COMMUNICATIONS AND CABLE CCAB.O> BUYS STAKE</field>
+	<field name = "titulo">COMMUNICATIONS AND CABLE CCAB.O> BUYS STAKE</field>
 	<field name = "DATELINE">WEST PALM BEACH, Fla., Oct 19 -</field>
-	<field name = "BODY">Communications and Cable
+	<field name = "content">Communications and Cable
 Inc said it acquired about 21 pct of the outstanding shares of
 Imnet Corp, a privately owned company that designs, makes and
 services proprietary image storage and retrieval systems. Terms

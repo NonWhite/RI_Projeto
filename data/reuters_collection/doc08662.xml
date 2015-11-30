@@ -5,12 +5,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">nakasone</field>
 	<field name = "PEOPLE">tamura</field>
-	<field name = "UNKNOWN">F
-f0512reute
-r f BC-NAKASONE-INTERVENES-I   03-24 0102</field>
-	<field name = "TITLE">NAKASONE INTERVENES IN MICROCHIP DISPUTE</field>
+	<field name = "titulo">NAKASONE INTERVENES IN MICROCHIP DISPUTE</field>
 	<field name = "DATELINE">TOKYO, March 24 -</field>
-	<field name = "BODY">Prime Minister Yasuhiro Nakasone
+	<field name = "content">Prime Minister Yasuhiro Nakasone
 intervened to try to resolve Japan's escalating dispute with
 the U.S. Over semiconductor trade, government officials said.
     At today's Cabinet meeting, Nakasone told Trade and

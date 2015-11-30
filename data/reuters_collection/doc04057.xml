@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">gold</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0179reute
-u f BC-NORTH-BH-SETS-ONE-FOR   03-12 0108</field>
-	<field name = "TITLE">NORTH BH SETS ONE-FOR-FIVE OFFER FOR NORGOLD FLOAT</field>
+	<field name = "titulo">NORTH BH SETS ONE-FOR-FIVE OFFER FOR NORGOLD FLOAT</field>
 	<field name = "DATELINE">MELBOURNE, March 12 -</field>
-	<field name = "BODY">North Broken Hill Holdings Ltd
+	<field name = "content">North Broken Hill Holdings Ltd
 NBHA.ME> (NBH) said it will offer one Norgold Ltd> share for
 every five NBH shares in the float of its newly created gold
 offshoot.

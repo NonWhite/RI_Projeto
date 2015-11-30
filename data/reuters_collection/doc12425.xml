@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 05:05:54.52</field>
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">T C
-f0376reute
-u f BC-PRICES-RISE-AT-BANGAL   04-02 0098</field>
-	<field name = "TITLE">PRICES RISE AT BANGALORE COFFEE AUCTION</field>
+	<field name = "titulo">PRICES RISE AT BANGALORE COFFEE AUCTION</field>
 	<field name = "DATELINE">BANGALORE, India, April 2 -</field>
-	<field name = "BODY">Prices rose at the fortnightly
+	<field name = "content">Prices rose at the fortnightly
 export auction here on March 25 for sales of 1,907.1 tonnes of
 coffee from the 1986/87 and 1985/86 crops out of a total
 offering of 1,940.7 tonnes, the Coffee Board said.

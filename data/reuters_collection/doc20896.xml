@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 17:45:39.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3299reute
-u f BC-PACIFIC-EXCHANGE-CLOS   10-19 0104</field>
-	<field name = "TITLE">PACIFIC EXCHANGE CLOSE BURIED IN UNFILLED ORDERS</field>
+	<field name = "titulo">PACIFIC EXCHANGE CLOSE BURIED IN UNFILLED ORDERS</field>
 	<field name = "DATELINE">LOS ANGELES, Oct 19 -</field>
-	<field name = "BODY">The Pacific Stock Exchange closed
+	<field name = "content">The Pacific Stock Exchange closed
 half an hour early under a pile of unfilled orders on heavy,
 but not record, volume of over 11 mln shares, Exchange
 officials said.

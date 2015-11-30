@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 10:14:48.53</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">RM
-f0977reute
-r f BC-TURKISH-DEBT-REACHED   03-19 0108</field>
-	<field name = "TITLE">TURKISH DEBT REACHED 31.4 BILLION DLRS AT END-1986</field>
+	<field name = "titulo">TURKISH DEBT REACHED 31.4 BILLION DLRS AT END-1986</field>
 	<field name = "AUTHOR">By Paul Bolding, Reuters</field>
 	<field name = "DATELINE">ANKARA, March 19 -</field>
-	<field name = "BODY">Turkey's external debt rose to the
+	<field name = "content">Turkey's external debt rose to the
 equivalent of 31.4 billion dlrs at end-1986 from 25.4 billion a
 year earlier, Treasury Under-secretary Yavuz Canevi said.
     Canevi, who gave the figure at a briefing on the Turkish

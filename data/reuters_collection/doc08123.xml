@@ -3,12 +3,9 @@
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">china</field>
 	<field name = "ORGS">adb-asia</field>
-	<field name = "UNKNOWN">RM
-f0047reute
-u f BC-TAIWAN-HOLDING-TALKS   03-23 0103</field>
-	<field name = "TITLE">TAIWAN HOLDING TALKS WITH ADB, TAIWAN OFFICIAL</field>
+	<field name = "titulo">TAIWAN HOLDING TALKS WITH ADB, TAIWAN OFFICIAL</field>
 	<field name = "DATELINE">TAIPEI, March 23 -</field>
-	<field name = "BODY">Taiwan is holding discussions with the
+	<field name = "content">Taiwan is holding discussions with the
 Asian Development Bank (ADB) to try to settle a political
 dispute over its representation in the bank, a foreign ministry
 spokesman said.

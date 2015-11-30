@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:49:41.30</field>
-	<field name = "UNKNOWN">F
-f0366
-reute
-u f BC-ALBERTSON'S-INC-ABS>   03-02 0045</field>
-	<field name = "TITLE">ALBERTSON'S INC ABS> 4TH QTR JAN 29 NET</field>
+	<field name = "titulo">ALBERTSON'S INC ABS> 4TH QTR JAN 29 NET</field>
 	<field name = "DATELINE">BOISE, Idaho, March 2 -</field>
-	<field name = "BODY">Shr 92 cts vs 83 cts
+	<field name = "content">Shr 92 cts vs 83 cts
     Net 30.8 mln vs 27.5 mln
     Sales 1.40 billion vs 1.32 billion
     Year

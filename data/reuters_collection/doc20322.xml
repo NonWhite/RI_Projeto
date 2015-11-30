@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 11:19:13.45</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1572reute
-d f BC-IBM-IBM>,-BELL-ATLAN   10-20 0089</field>
-	<field name = "TITLE">IBM IBM>, BELL ATLANTIC BEL> IN STUDY PACT</field>
+	<field name = "titulo">IBM IBM>, BELL ATLANTIC BEL> IN STUDY PACT</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">International Business Machines Corp
+	<field name = "content">International Business Machines Corp
 said it and Bell Atlantic Corp agreed to jointly study product
 opportunities for intelligent network services in the
 international marketplace.

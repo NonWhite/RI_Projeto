@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 605:12:19.12</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f0391reute
-u f BC-KUMAGAI-GUMI'S-UNIT-S   03-31 0107</field>
-	<field name = "TITLE">KUMAGAI GUMI'S UNIT SEEKS LISTING IN HONG KONG</field>
+	<field name = "titulo">KUMAGAI GUMI'S UNIT SEEKS LISTING IN HONG KONG</field>
 	<field name = "DATELINE">HONG KONG, March 31 -</field>
-	<field name = "BODY">A subsidiary of the Japanese
+	<field name = "content">A subsidiary of the Japanese
 construction group Kumagai Gumi Co Ltd KUMT.TOK> is seeking to
 float its shares on the Hong Kong Stock Exchange, merchant
 banking sources said.

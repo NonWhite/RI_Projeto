@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 20:35:01.75</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f3923reute
-b f BC-AUSTRALIAN-CURRENT-AC   03-16 0101</field>
-	<field name = "TITLE">AUSTRALIAN CURRENT ACCOUNT DEFICIT NARROWS IN FEB</field>
+	<field name = "titulo">AUSTRALIAN CURRENT ACCOUNT DEFICIT NARROWS IN FEB</field>
 	<field name = "DATELINE">CANBERRA, March 17 -</field>
-	<field name = "BODY">Australia's current deficit narrowed
+	<field name = "content">Australia's current deficit narrowed
 to 750 mln dlrs in February from 1.23 billion (revised from
 1.29 billion) in January, the Statistics Bureau said.
     This compared with an 897 mln dlr shortfall a year earlier.

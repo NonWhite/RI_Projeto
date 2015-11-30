@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:41:54.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1636reute
-b f BC-U.S.-SAYS-NO-PACT-ON   04-07 0111</field>
-	<field name = "TITLE">U.S. SAYS NO PACT ON RELIEF FOR POOREST STATES</field>
+	<field name = "titulo">U.S. SAYS NO PACT ON RELIEF FOR POOREST STATES</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Industrial countries do not agree on
+	<field name = "content">Industrial countries do not agree on
 ways to provide debt relief for the world's poorest nations, a
 senior U.S. Treasury official said.
     A senior U.S. Treasury official said, "There has not been a

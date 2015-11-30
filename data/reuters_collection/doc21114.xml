@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 14:09:34.41</field>
 	<field name = "PLACES">yugoslavia</field>
-	<field name = "UNKNOWN">RM 
-f2479reute
-r f BC-YUGOSLAVIA-DEBT-PAYME   10-19 0109</field>
-	<field name = "TITLE">YUGOSLAVIA DEBT PAYMENTS TO BE ADJUSTED TO EXPORTS</field>
+	<field name = "titulo">YUGOSLAVIA DEBT PAYMENTS TO BE ADJUSTED TO EXPORTS</field>
 	<field name = "DATELINE">BELGRADE, Oct 19 -</field>
-	<field name = "BODY">Yugoslav Prime Minister Branko Mikulic,
+	<field name = "content">Yugoslav Prime Minister Branko Mikulic,
 unveiling a new draft economic program, said Yugoslavia would
 cut repayments on its almost 20 billion lr hard currency debt
 to bring them in line with its hard currency earning capacity.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:41:25.65</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2877reute
-d f BC-WORLDGROUP-TOURA>-SU   03-16 0127</field>
-	<field name = "TITLE">WORLDGROUP TOURA> SUED BY TRAVEL AGENCIES</field>
+	<field name = "titulo">WORLDGROUP TOURA> SUED BY TRAVEL AGENCIES</field>
 	<field name = "DATELINE">GOLDEN, Colo., March 16 -</field>
-	<field name = "BODY">Worldgroup Cos Inc said it was
+	<field name = "content">Worldgroup Cos Inc said it was
 sued by two companies operating three franchised travel
 agencies for violating franchise and trademark agreements.
     The suit, filed in U.S. District Court for the western

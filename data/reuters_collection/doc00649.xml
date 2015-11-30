@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:50:09.88</field>
-	<field name = "UNKNOWN">F
-f0583
-reute
-d f BC-TYLAN-TYLN>-RENEWS-C   03-02 0098</field>
-	<field name = "TITLE">TYLAN TYLN> RENEWS CREDIT LINE</field>
+	<field name = "titulo">TYLAN TYLN> RENEWS CREDIT LINE</field>
 	<field name = "DATELINE">CARSON, Calif., March 2 -</field>
-	<field name = "BODY">Tylan Corp said it renewed its
+	<field name = "content">Tylan Corp said it renewed its
 eight mln dlr annual credit agreement with Bank of America and
 First Los Angeles Bank.
     The agreement includes a revolving credit line and a term

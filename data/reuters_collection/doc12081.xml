@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 12:23:43.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1648reute
-b f BC-/UALUAL>-OFFERING-5.   04-01 0086</field>
-	<field name = "TITLE">UALUAL> OFFERING 5.5 MLN SHARES OF COMMON STOCK</field>
+	<field name = "titulo">UALUAL> OFFERING 5.5 MLN SHARES OF COMMON STOCK</field>
 	<field name = "DATELINE">CHICAGO, April 1 -</field>
-	<field name = "BODY">UAL Inc said it is offering 5.5 mln
+	<field name = "content">UAL Inc said it is offering 5.5 mln
 shares of its common stock at 56.50 dlrs a share for a total
 aggregate value of 310.8 mln dlrs.
     UAL said it made the move principally to broaden its equity

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 17:08:43.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f2551reute
-r f BC-BANK-FAILURE-WAS-16TH   03-19 0095</field>
-	<field name = "TITLE">BANK FAILURE WAS 16TH IN TEXAS</field>
+	<field name = "titulo">BANK FAILURE WAS 16TH IN TEXAS</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">The Federal Deposit Insurance Corp.
+	<field name = "content">The Federal Deposit Insurance Corp.
 said the Red River National Bank of Clarksville, Tex., failed
 and its assets were taken over by State Bank of DeKalb, Tex.
     The failure was the 45th bank in the nation and 16th in

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 16:23:14.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F RM
-f2613reute
-r f BC-PROXMIRE-SAYS-RATE-OF   03-31 0097</field>
-	<field name = "TITLE">PROXMIRE SAYS RATE OF U.S. BANK CLOSINGS AT 200</field>
+	<field name = "titulo">PROXMIRE SAYS RATE OF U.S. BANK CLOSINGS AT 200</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Senate Banking Committee chairman
+	<field name = "content">Senate Banking Committee chairman
 William Proxmire says the U.S. banking system is sound despite
 a rate of failures that could reach 200 this year.
     In a statement in the Congressional Record, the Wisconsin

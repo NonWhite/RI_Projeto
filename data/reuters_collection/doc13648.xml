@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V
-f0637reute
-u f BC-BRITAIN-WARNS-JAPAN-O   04-07 0091</field>
-	<field name = "TITLE">BRITAIN WARNS JAPAN OVER TRADE ROW</field>
+	<field name = "titulo">BRITAIN WARNS JAPAN OVER TRADE ROW</field>
 	<field name = "AUTHOR">By Rich Miller, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 7 -</field>
-	<field name = "BODY">British corporate affairs minister Michael
+	<field name = "content">British corporate affairs minister Michael
 Howard told Japan to resolve the row over the U.K. Firm Cable
 and Wireless Plc's CAWL.L> shareholding in a new Japanese
 telecommunications company or face an abrupt deterioration in

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 09:55:35.92</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0991reute
-d f BC-BELL-CANADA-PLANS-LON   06-02 0117</field>
-	<field name = "TITLE">BELL CANADA PLANS LONG DISTANCE TOLL CUT</field>
+	<field name = "titulo">BELL CANADA PLANS LONG DISTANCE TOLL CUT</field>
 	<field name = "DATELINE">OTTAWA, June 2 -</field>
-	<field name = "BODY">Bell Canada, a unit of Bell Canada
+	<field name = "content">Bell Canada, a unit of Bell Canada
 Enterprises Inc BCE>, said it applied for an average eight pct
 cut in Canadian long distance rates.
     The application to the Canadian Radio-television and

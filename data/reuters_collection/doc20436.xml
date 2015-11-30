@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 13:18:27.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM 
-f2311reute
-b f BC-/FDIC'S-SEIDMAN-SAYS   10-20 0103</field>
-	<field name = "TITLE">FDIC'S SEIDMAN SAYS BANKS UNAFFECTED BY MARKET</field>
+	<field name = "titulo">FDIC'S SEIDMAN SAYS BANKS UNAFFECTED BY MARKET</field>
 	<field name = "DATELINE">DALLAS, Oct 20 -</field>
-	<field name = "BODY">Federal Deposit Insurance Corp chairman
+	<field name = "content">Federal Deposit Insurance Corp chairman
 Wiliam Seidman said the stock market decline has not had a
 measurable impact on U.S. banks.
     Seidman, attending the American Bankers Association annual

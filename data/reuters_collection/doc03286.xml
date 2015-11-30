@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 14:08:16.84</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0273reute
-d f BC-MATHEMATICAL-APPLICAT   03-09 0127</field>
-	<field name = "TITLE">MATHEMATICAL APPLICATIONS SETS OPERATIONS SALE</field>
+	<field name = "titulo">MATHEMATICAL APPLICATIONS SETS OPERATIONS SALE</field>
 	<field name = "DATELINE">ELMSFORD, N.Y., March 9 -</field>
-	<field name = "BODY">Mathematical Applications Group
+	<field name = "content">Mathematical Applications Group
 Inc said it has signed a letter of intent to sell all of its
 operating business and will propose a plan of liquidation
 following the sale.

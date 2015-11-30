@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">T G C
-f0301reute
-u f BC-CHINA-JANUARY-WHEAT/S   03-12 0063</field>
-	<field name = "TITLE">CHINA JANUARY WHEAT/SUGAR IMPORTS BELOW YEAR AGO</field>
+	<field name = "titulo">CHINA JANUARY WHEAT/SUGAR IMPORTS BELOW YEAR AGO</field>
 	<field name = "DATELINE">PEKING, March 12 -</field>
-	<field name = "BODY">China's wheat imports in January were
+	<field name = "content">China's wheat imports in January were
 218,000 tonnes, down from 393,000 in January 1986, the China
 Daily Business Weekly said, quoting customs figures.
     It said imports of sugar were 25,165 tonnes, down from

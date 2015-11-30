@@ -4,12 +4,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">jamaica</field>
-	<field name = "UNKNOWN">C G
-f9230reute
-u f BC-JAMAICA-AUTHORIZED-TO   03-18 0065</field>
-	<field name = "TITLE">JAMAICA AUTHORIZED TO BUY PL 480 WHEAT - USDA</field>
+	<field name = "titulo">JAMAICA AUTHORIZED TO BUY PL 480 WHEAT - USDA</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">Jamaica has been authorized to
+	<field name = "content">Jamaica has been authorized to
 purchase about 56,000 tonnes of U.S. wheat under an existing PL
 480 agreement, the U.S. Agriculture Department said.
     It may buy the wheat, valued at 7.0 mln dlrs, between March

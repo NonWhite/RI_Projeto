@@ -2,12 +2,9 @@
 	<field name = "DATE">17-APR-1987 11:08:17.69</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0270reute
-r f BC-FRENCH-GOVERNMENT-SET   04-17 0110</field>
-	<field name = "TITLE">FRENCH GOVERNMENT SETS TERMS OF BIMP SALE</field>
+	<field name = "titulo">FRENCH GOVERNMENT SETS TERMS OF BIMP SALE</field>
 	<field name = "DATELINE">PARIS, April 17 -</field>
-	<field name = "BODY">The French Finance ministry said today a
+	<field name = "content">The French Finance ministry said today a
 public flotation offer opening this coming Tuesday for 39 pct
 of the capital of Banque Industrielle et Mobiliere Privee>
 (BIMP) has been set at 140 francs per share.

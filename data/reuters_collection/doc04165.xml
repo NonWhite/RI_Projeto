@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 09:05:29.00</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">C G T M
-f0853reute
-u f BC-NEW-U.K.-POLL-SAYS-TO   03-12 0092</field>
-	<field name = "TITLE">NEW U.K. POLL SAYS TORIES HAVE SIX-POINT LEAD</field>
+	<field name = "titulo">NEW U.K. POLL SAYS TORIES HAVE SIX-POINT LEAD</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">Britain's ruling Conservatives have
+	<field name = "content">Britain's ruling Conservatives have
 moved into a six-point lead over the main opposition Labour
 Party, a Marplan poll published in today's Guardian newspaper
 reports.

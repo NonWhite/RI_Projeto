@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 11:42:14.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0484reute
-u f BC-NL-INDUSTRIES-INC-NL   03-12 0081</field>
-	<field name = "TITLE">NL INDUSTRIES INC NL> CHAIRMAN AND CEO QUITS</field>
+	<field name = "titulo">NL INDUSTRIES INC NL> CHAIRMAN AND CEO QUITS</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">NL Industries Inc said its chairman
+	<field name = "content">NL Industries Inc said its chairman
 and chief executive officer Theodore Rogers resigned this
 morning.
     Rogers, who also resigned his posts as chairman and ceo of

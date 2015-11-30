@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 14:03:57.76</field>
-	<field name = "UNKNOWN">F
-f0637
-reute
-d f BC-STATUS-GAME-STGM>-TO   03-02 0041</field>
-	<field name = "TITLE">STATUS GAME STGM> TO INTRODUCE VIDEO BINGO</field>
+	<field name = "titulo">STATUS GAME STGM> TO INTRODUCE VIDEO BINGO</field>
 	<field name = "DATELINE">LAS VEGAS, March 2 -</field>
-	<field name = "BODY">Status Game Corp said it is
+	<field name = "content">Status Game Corp said it is
 introducing a new Video Bingo game that enables the player to
 buy up to four bingo cards and at the same time play against
 computer simulated bingo games.

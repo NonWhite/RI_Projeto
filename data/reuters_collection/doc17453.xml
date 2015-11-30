@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 02:33:01.00</field>
 	<field name = "PLACES">israel</field>
-	<field name = "UNKNOWN">RM AI
-f0117reute
-u f BC-ISRAELI-BANK-SAYS-ELE   06-01 0112</field>
-	<field name = "TITLE">ISRAELI BANK SAYS ELECTION COULD HARM ECONOMY</field>
+	<field name = "titulo">ISRAELI BANK SAYS ELECTION COULD HARM ECONOMY</field>
 	<field name = "DATELINE">JERUSALEM, June 1 -</field>
-	<field name = "BODY">Israel's central bank said in its
+	<field name = "content">Israel's central bank said in its
 annual report the country made striking gains in 1986 under an
 austerity program, but warned a national election campaign
 could harm the economy.

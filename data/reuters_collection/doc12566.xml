@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 10:21:24.92</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1158reute
-r f BC-S/P-RATES-NOMURA-INTE   04-02 0099</field>
-	<field name = "TITLE">S/P RATES NOMURA INTERNATIONAL PLC BONDS AAA</field>
+	<field name = "titulo">S/P RATES NOMURA INTERNATIONAL PLC BONDS AAA</field>
 	<field name = "DATELINE">NEW YORK, April 2 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 assigned a preliminary AAA rating to 150 mln dlrs of 7-1/4 pct
 guaranteed subordinated bonds due 1992 of Nomura International
 Finance PLC, the U.K. unit of Nomura Securities Co Ltd.

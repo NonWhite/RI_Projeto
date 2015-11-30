@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 12:11:31.22</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">V RM
-f1554reute
-u f BC-CUSTOMS-LEVIES-BOND-O   04-03 0109</field>
-	<field name = "TITLE">CUSTOMS LEVIES BOND ON JAPANESE SHIPMENTS</field>
+	<field name = "titulo">CUSTOMS LEVIES BOND ON JAPANESE SHIPMENTS</field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">The Customs Bureau has begun to levy
+	<field name = "content">The Customs Bureau has begun to levy
 on bond on certain Japanese goods pending a final decision by
 President Reagan on April 17 on imposing the planned 100 pct
 tariff on the shipments, the bureau said.

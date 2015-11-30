@@ -5,12 +5,9 @@
 	<field name = "PLACES">switzerland</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">luxembourg</field>
-	<field name = "UNKNOWN">F
-f1735reute
-r f BC-BIOGEN-BGNF>-GETS-PA   03-26 0103</field>
-	<field name = "TITLE">BIOGEN BGNF> GETS PATENT FROM EUROPEAN OFFICE</field>
+	<field name = "titulo">BIOGEN BGNF> GETS PATENT FROM EUROPEAN OFFICE</field>
 	<field name = "DATELINE">CAMBRIDGE, Mass., March 26 -</field>
-	<field name = "BODY">Biogen Inc said the European
+	<field name = "content">Biogen Inc said the European
 Patent Office granted it a patent covering certain proteins
 used to produce a hepatitis B vaccine through genetic
 engineering techniques.

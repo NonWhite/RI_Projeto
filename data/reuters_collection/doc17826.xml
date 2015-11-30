@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">hog</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2515reute
-r f BC-DEKALB-DKLBB.O>-SELL   06-01 0075</field>
-	<field name = "TITLE">DEKALB DKLBB.O> SELLS HEINOLD HOG MARKET</field>
+	<field name = "titulo">DEKALB DKLBB.O> SELLS HEINOLD HOG MARKET</field>
 	<field name = "DATELINE">DEKALB, Ill., June 1 -</field>
-	<field name = "BODY">Dekalb Corp said it sold its Heinold
+	<field name = "content">Dekalb Corp said it sold its Heinold
 Hog Market Inc to the unit's employees through an Employee
 Stock Ownership Plan (ESOP).
     Terms were not disclosed, but president Bruce Bickner said

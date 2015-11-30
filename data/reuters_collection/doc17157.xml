@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 14:22:34.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2073reute
-u f BC-BOEING-BA>-GETS-ORDE   04-24 0064</field>
-	<field name = "TITLE">BOEING BA> GETS ORDERS TOTALING 543 MLN DLRS</field>
+	<field name = "titulo">BOEING BA> GETS ORDERS TOTALING 543 MLN DLRS</field>
 	<field name = "DATELINE">SEATTLE, April 24 -</field>
-	<field name = "BODY">Boeing Co said it confirmed orders
+	<field name = "content">Boeing Co said it confirmed orders
 totaling 543 mln dlrs for 14 jet aircraft from four customers.
     The company said Delta Air Lines DAL> has increased its
 orders for the 767-300 jetliner by six, bringing its total

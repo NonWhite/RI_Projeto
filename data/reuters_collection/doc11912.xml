@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 09:57:08.20</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f0921reute
-b f BC-/IRVING-TRUST-V>-RAI   04-01 0046</field>
-	<field name = "TITLE">IRVING TRUST V> RAISES PRIME RATE</field>
+	<field name = "titulo">IRVING TRUST V> RAISES PRIME RATE</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Irving Trust Co said it is raising its
+	<field name = "content">Irving Trust Co said it is raising its
 prime rate to 7-3/4 pct from 7-1/2, effective immediately.
     It becomes the fourth U.S. bank to raise the rate,
 following Citibank, Chase Manhattan and Manufacturers Hanover

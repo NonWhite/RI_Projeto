@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 16:32:51.31</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0525reute
-h f BC-PRINCEVILLE-PVDC>-TO   03-12 0098</field>
-	<field name = "TITLE">PRINCEVILLE PVDC> TO SELL ITS AIR OPERATION</field>
+	<field name = "titulo">PRINCEVILLE PVDC> TO SELL ITS AIR OPERATION</field>
 	<field name = "DATELINE">HONOLULU, March 12 -</field>
-	<field name = "BODY">Princeville Development Corp and
+	<field name = "content">Princeville Development Corp and
 Aloha Inc>, parent of Aloha Airlines Inc, jointly said they
 agreed to terms for the sale of Princeville Airways Inc to
 Aloha. Terms of the agreement were not disclosed.

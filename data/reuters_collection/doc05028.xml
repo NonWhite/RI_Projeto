@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 15:45:20.31</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0315reute
-d f BC-WEIGH-TRONIX-INC-WGH   03-13 0047</field>
-	<field name = "TITLE">WEIGH-TRONIX INC WGHT> 4TH QTR NET</field>
+	<field name = "titulo">WEIGH-TRONIX INC WGHT> 4TH QTR NET</field>
 	<field name = "DATELINE">FAIRMONT, MINN., March 13 -</field>
-	<field name = "BODY">Shr 18 cts vs 16 cts
+	<field name = "content">Shr 18 cts vs 16 cts
     Net 348,298 vs 308,927
     Sales 4,166,750 vs 3,740,970
     Year

@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:30:18.68F</field>
-	<field name = "UNKNOWN">f1623reute</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">u f BC-HARNISCHFEGER-HPH>-O   03-27 0096</field>
-	<field name = "TITLE">HARNISCHFEGER HPH> OFFERING 3.5 MLN SHARES</field>
+	<field name = "titulo">HARNISCHFEGER HPH> OFFERING 3.5 MLN SHARES</field>
 	<field name = "DATELINE">MILWAUKEE, Wisc., March 27 -</field>
-	<field name = "BODY">Harnischfeger Industries Inc
+	<field name = "content">Harnischfeger Industries Inc
 said it is offering 3.5 mln shares of common stock at 17 dlrs
 per share, starting today.
     The crane and material handling equipment maker said 2.5

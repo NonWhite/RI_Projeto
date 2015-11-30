@@ -4,13 +4,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">imf</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">C
-f0995reute
-d f BC-GLOBAL-ECONOMIC-SLOWD   04-09 0124</field>
-	<field name = "TITLE">GLOBAL ECONOMIC SLOWDOWN RAISES NEW DEBT FEARS</field>
+	<field name = "titulo">GLOBAL ECONOMIC SLOWDOWN RAISES NEW DEBT FEARS</field>
 	<field name = "AUTHOR">By Alver Carlson, Reuters</field>
 	<field name = "DATELINE">WASHINGTON, April 9 -</field>
-	<field name = "BODY">The global economy is expected to
+	<field name = "content">The global economy is expected to
 weaken this year, adding new worries to an already serious
 poverty outlook, economic analysts said.
     For finance ministers and central bankers attending this

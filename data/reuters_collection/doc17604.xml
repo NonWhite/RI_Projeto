@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 11:40:39.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1465reute
-r f BC-REALM-RESOURCES-INC>   06-01 0106</field>
-	<field name = "TITLE">REALM RESOURCES INC> SELLS SHARES PRIVATELY</field>
+	<field name = "titulo">REALM RESOURCES INC> SELLS SHARES PRIVATELY</field>
 	<field name = "DATELINE">HOUSTON, June 1 -</field>
-	<field name = "BODY">Realm Resources Inc said it has sold
+	<field name = "content">Realm Resources Inc said it has sold
 privately 500,000 common shares and 500,000 shares of three dlr
 per share Series A preferred stock for total proceeds of
 1,500,000 dlrs.

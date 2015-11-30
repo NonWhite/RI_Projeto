@@ -9,12 +9,9 @@
 	<field name = "TOPICS">soy-oil</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">G C
-f2411reute
-u f BC-export-business   04-03 0099</field>
-	<field name = "TITLE">EXPORT BUSINESS - GRAINS/OILSEEDS COMPLEX</field>
+	<field name = "titulo">EXPORT BUSINESS - GRAINS/OILSEEDS COMPLEX</field>
 	<field name = "DATELINE">CHICAGO, April 3 -</field>
-	<field name = "BODY">Grain and oilseed complex export
+	<field name = "content">Grain and oilseed complex export
 business reported since yesterday by government agencies and
 private exporters -
     Japanese crushers bought 4,000 to 5,000 tonnes of Canadian

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C G T
-f0423reute
-u f BC-DROUGHT-THREAT-EASES   03-31 0113</field>
-	<field name = "TITLE">DROUGHT THREAT EASES IN SOUTH CHINA PROVINCE</field>
+	<field name = "titulo">DROUGHT THREAT EASES IN SOUTH CHINA PROVINCE</field>
 	<field name = "DATELINE">PEKING, March 31 -</field>
-	<field name = "BODY">Rainfall in the past few days has eased
+	<field name = "content">Rainfall in the past few days has eased
 the threat of drought in the south China province of Guangdong,
 the New China News Agency said.
     It said 75 pct of early rice fields are ready to be planted

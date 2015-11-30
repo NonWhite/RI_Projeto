@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 16:31:17.71</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2641reute
-h f BC-onex-packaging-closes   03-31 0086</field>
-	<field name = "TITLE">ONEX PACKAGING CLOSES NEW BRUNSWICK PLANT</field>
+	<field name = "titulo">ONEX PACKAGING CLOSES NEW BRUNSWICK PLANT</field>
 	<field name = "DATELINE">ST ANDREW'S, New Brunswick, March 31 -</field>
-	<field name = "BODY">Onex Packaging Inc>
+	<field name = "content">Onex Packaging Inc>
 said it closed a small metal can manufacturing plant at St.
 Andrew's employing eight people that has been inactive since
 late 1985.

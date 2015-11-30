@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 12:16:57.43</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1603reute
-d f BC-STATUS-GAME-CORP-STG   04-09 0084</field>
-	<field name = "TITLE">STATUS GAME CORP STGM> 3RD QTR FEB 28 NET</field>
+	<field name = "titulo">STATUS GAME CORP STGM> 3RD QTR FEB 28 NET</field>
 	<field name = "DATELINE">NEWINGTON, Conn., April 9 -</field>
-	<field name = "BODY">Oper shr six cts vs one ct
+	<field name = "content">Oper shr six cts vs one ct
     Oper net 194,109 vs 28,751
     Revs 2,731,688 vs 347,134
     Avg shrs 3,360,527 vs 2,295,359

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 13:29:49.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2040reute
-r f BC-CFTC-SEES-NO-TRADING,   03-26 0087</field>
-	<field name = "TITLE">CFTC SEES NO TRADING, TRIPLE WITCHING RULES</field>
+	<field name = "titulo">CFTC SEES NO TRADING, TRIPLE WITCHING RULES</field>
 	<field name = "DATELINE">WASHINGTON, March 26 -</field>
-	<field name = "BODY">The chairman of the CFTC, Susan
+	<field name = "content">The chairman of the CFTC, Susan
 Phillips, said she does not expect the CFTC to restrict dual
 trading or to intervene in the quarterly expiration of stock
 index futures and their options.

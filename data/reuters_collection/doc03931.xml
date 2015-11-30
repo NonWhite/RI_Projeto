@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 16:06:16.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM F A
-f0547reute
-r f BC-S/P-MAY-DOWNGRADE-CLA   03-11 0105</field>
-	<field name = "TITLE">S/P MAY DOWNGRADE CLARK EQUIPMENT CKL></field>
+	<field name = "titulo">S/P MAY DOWNGRADE CLARK EQUIPMENT CKL></field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Standard and Poor's said it may lower
+	<field name = "content">Standard and Poor's said it may lower
 its BBB-minus rating of Clark Equipment Co's 108 mln dlrs of
 long-term debt because of weak industry fundamentals and the
 company's plan to repurchase 70 mln dlrs worth of common stock.

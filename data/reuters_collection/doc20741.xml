@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 16:42:55.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3227reute
-u f BC-CHRYSLER-C>-ACCELERA   10-20 0100</field>
-	<field name = "TITLE">CHRYSLER C> ACCELERATING STOCK BUYBACK PROGRAM</field>
+	<field name = "titulo">CHRYSLER C> ACCELERATING STOCK BUYBACK PROGRAM</field>
 	<field name = "DATELINE">DETROIT, Oct 20 -</field>
-	<field name = "BODY">Chrysler Corp said it is taking advantage
+	<field name = "content">Chrysler Corp said it is taking advantage
 of current market conditions and accelerating a stock
 repurchase program which began in 1984.
     The automaker had 212 mln shares outstanding at the end of

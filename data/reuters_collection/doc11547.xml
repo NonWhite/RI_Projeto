@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 14:06:22.70</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2125reute
-b f BC-U.S.-FARM-CREDIT-BANK   03-31 0102</field>
-	<field name = "TITLE">U.S. FARM CREDIT BANKS DEFER APRIL 20 OFFERING</field>
+	<field name = "titulo">U.S. FARM CREDIT BANKS DEFER APRIL 20 OFFERING</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">The Farm Credit Funding Corp said it
+	<field name = "content">The Farm Credit Funding Corp said it
 will not issue bonds as scheduled on April 21 because of a
 decline in borrower needs for term credit.
     A total of 1.461 billion dlrs of bonds maturing on April 20

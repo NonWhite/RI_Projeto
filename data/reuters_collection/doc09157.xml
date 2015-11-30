@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 04:00:43.62</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">F
-f0178reute
-b f BC-SWIRE-PACIFIC-LTD-SW   03-25 0095</field>
-	<field name = "TITLE">SWIRE PACIFIC LTD SWPC.HKG> YEAR 1986</field>
+	<field name = "titulo">SWIRE PACIFIC LTD SWPC.HKG> YEAR 1986</field>
 	<field name = "DATELINE">HONG KONG, March 25 -</field>
-	<field name = "BODY">Shr "A" 138.9 H.K. Cents vs 97.4 (adjusted)
+	<field name = "content">Shr "A" 138.9 H.K. Cents vs 97.4 (adjusted)
     Shr "B" 27.8 cents vs 19.5
     Final div "A" 44 cents vs 32.3, making 62 vs 47 (adjusted)
     Final div "B" 8.8 cents vs 6.5, making 12.4 vs 9.4

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 03:29:19.78</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0164reute
-r f BC-FRONTIER-AIRLINES-SEE   10-19 0099</field>
-	<field name = "TITLE">FRONTIER AIRLINES SEEKS FASTER CLAIM SETTLEMENT</field>
+	<field name = "titulo">FRONTIER AIRLINES SEEKS FASTER CLAIM SETTLEMENT</field>
 	<field name = "DATELINE">DENVER, Colo, Oct 19 -</field>
-	<field name = "BODY">Continental Airlines Inc said
+	<field name = "content">Continental Airlines Inc said
 Frontier Airlines, which it bought last year, has sought
 approval from the U.S. Bankruptcy court here to pay up to 1.9
 mln dlrs in employee medical, dental and other benefit claims

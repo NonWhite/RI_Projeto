@@ -5,12 +5,9 @@
 	<field name = "PEOPLE">poehl</field>
 	<field name = "PEOPLE">james-baker</field>
 	<field name = "PEOPLE">stoltenberg</field>
-	<field name = "UNKNOWN">RM V 
-f0295reute
-b f BC-POEHL-SAYS-RATE-RISES   10-20 0088</field>
-	<field name = "TITLE">POEHL SAYS RATE RISES ARE CAUSE FOR CONCERN</field>
+	<field name = "titulo">POEHL SAYS RATE RISES ARE CAUSE FOR CONCERN</field>
 	<field name = "DATELINE">FRANKFURT, Oct 20 -</field>
-	<field name = "BODY">Rises in West German and international
+	<field name = "content">Rises in West German and international
 interest rates are a cause for concern and the Bundesbank has
 no interest in higher capital market rates, Bundesbank
 President Karl Otto Poehl said.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">algeria</field>
-	<field name = "UNKNOWN">C G
-f2261reute
-u f BC-CCC-SEED-CREDIT-GURAN   04-07 0094</field>
-	<field name = "TITLE">CCC SEED CREDIT GURANTEES FOR ALGERIA - USDA</field>
+	<field name = "titulo">CCC SEED CREDIT GURANTEES FOR ALGERIA - USDA</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">The Commodity Credit Corporation
+	<field name = "content">The Commodity Credit Corporation
 (CCC) has authorized 2.0 mln dlrs in credit guarantees to cover
 sales of seeds for planting to Algeria, the U.S. Agriculture
 Department said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 11:39:39.76</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f1491reute
-b f BC-dominion-calls   04-08 0109</field>
-	<field name = "TITLE">DOMINION CALLS BURLINGTON BUR> REPORT RUMOR</field>
+	<field name = "titulo">DOMINION CALLS BURLINGTON BUR> REPORT RUMOR</field>
 	<field name = "DATELINE">MONTREAL, April 8 -</field>
-	<field name = "BODY">Dominion Textile Inc> considers a
+	<field name = "content">Dominion Textile Inc> considers a
 published report that it has bought a stake in Burlington
 Industries Inc and is considering making a joint bid for the
 company to be a rumor, a company spokesman said.

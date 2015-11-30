@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:53:11.09</field>
-	<field name = "UNKNOWN">F
-f0596
-reute
-u f BC-BANNER-BNR>-TO-ACCEP   03-02 0105</field>
-	<field name = "TITLE">BANNER BNR> TO ACCEPT REXNORD REX> SHARES</field>
+	<field name = "titulo">BANNER BNR> TO ACCEPT REXNORD REX> SHARES</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Banner Industries Inc said it plans to
+	<field name = "content">Banner Industries Inc said it plans to
 accept for payment after the close of business today all the
 common shares of Rexnord Inc that were tendered under its 26.25
 dlr per share tender offer.

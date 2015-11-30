@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 11:26:43.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1408reute
-b f BC-PENNZOIL-(PZL)-ADVISE   06-29 0116</field>
-	<field name = "TITLE">PENNZOIL (PZL) ADVISED OF SEC BRIEF</field>
+	<field name = "titulo">PENNZOIL (PZL) ADVISED OF SEC BRIEF</field>
 	<field name = "DATELINE">HOUSTON, June 29 -</field>
-	<field name = "BODY">Pennzoil Co said it was advised by the
+	<field name = "content">Pennzoil Co said it was advised by the
 Securities and Exchange Commission that that commission will
 file an amicus curiae brief in the Texas Supreme Court
 concerning the Pennzoil/Texaco Inc (TX) litigation, but said it

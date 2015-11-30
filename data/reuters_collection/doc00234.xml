@@ -17,13 +17,9 @@
 	<field name = "TOPICS">soy-meal</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">indonesia</field>
-	<field name = "UNKNOWN">C G L M T
-f0369
-reute
-u f BC-INDONESIAN-AGRICULTUR   03-01 0105</field>
-	<field name = "TITLE">INDONESIAN AGRICULTURE GROWTH EXPECTED TO SLOW</field>
+	<field name = "titulo">INDONESIAN AGRICULTURE GROWTH EXPECTED TO SLOW</field>
 	<field name = "DATELINE">JAKARTA, March 1 -</field>
-	<field name = "BODY">Indonesia"s agriculture sector will grow
+	<field name = "content">Indonesia"s agriculture sector will grow
 by just 1.0 pct in calendar 1987, against an estimated 2.4 pct
 in 1986 as the production of some commodities stagnates or
 declines, the U.S. Embassy said in a report.

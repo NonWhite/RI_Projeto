@@ -6,12 +6,9 @@
 	<field name = "PLACES">sweden</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM
-f2693reute
-r f BC-OECD-WARNS-SWEDEN-ON   04-24 0102</field>
-	<field name = "TITLE">OECD WARNS SWEDEN ON LABOUR COSTS</field>
+	<field name = "titulo">OECD WARNS SWEDEN ON LABOUR COSTS</field>
 	<field name = "DATELINE">PARIS, April 25 -</field>
-	<field name = "BODY">High labour costs and slower corporate
+	<field name = "content">High labour costs and slower corporate
 investment could hinder Sweden's economic growth after 1987,
 the Organisation for Economic Cooperation and Development,
 OECD, said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 19:49:34.45</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0085reute
-b f BC-AUSTRALIAN-WAGE-RISE   03-09 0103</field>
-	<field name = "TITLE">AUSTRALIAN WAGE RISE SET AT 10 DLRS A WEEK</field>
+	<field name = "titulo">AUSTRALIAN WAGE RISE SET AT 10 DLRS A WEEK</field>
 	<field name = "DATELINE">MELBOURNE, March 10 -</field>
-	<field name = "BODY">The Arbitration Commission awarded
+	<field name = "content">The Arbitration Commission awarded
 the Australian workforce a flat 10 dlrs a week wage increase
 and allowed trade unions to begin bargaining for a second-tier
 increase of up to four pct, Commission President Justice Barry

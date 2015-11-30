@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">meal-feed</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">G C
-f0263reute
-u f BC-INDIA-DETAILS-RAIN/FL   03-20 0108</field>
-	<field name = "TITLE">INDIA DETAILS RAIN/FLOOD DAMAGE TO GRAIN IN 1986</field>
+	<field name = "titulo">INDIA DETAILS RAIN/FLOOD DAMAGE TO GRAIN IN 1986</field>
 	<field name = "DATELINE">NEW DELHI, March 20 -</field>
-	<field name = "BODY">Rain and floods in India last year
+	<field name = "content">Rain and floods in India last year
 damaged about 69,000 tonnes of grain intended for human
 consumption during storage and transportation, food and civil
 supplies minister H. K. L. Bhagat told Parliament.

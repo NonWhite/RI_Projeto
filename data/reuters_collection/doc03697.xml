@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:13:44.71</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0505reute
-b f BC-FORD-LAUNCHES-MARK-EU   03-11 0110</field>
-	<field name = "TITLE">FORD LAUNCHES MARK EUROBOND WITH CURRENCY WARRANTS</field>
+	<field name = "titulo">FORD LAUNCHES MARK EUROBOND WITH CURRENCY WARRANTS</field>
 	<field name = "DATELINE">FRANKFURT, March 11 -</field>
-	<field name = "BODY">Ford Motor Credit Co F> is raising
+	<field name = "content">Ford Motor Credit Co F> is raising
 200 mln marks through a five-year eurobond with currency
 warrants attached, carrying a coupon of 5-3/4 pct and priced at
 116-3/4, lead manager Deutsche Bank AG said.

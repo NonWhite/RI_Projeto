@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 13:22:50.88</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0143reute
-u f BC-ALLEGHENY-AG>-OFFICE   03-09 0104</field>
-	<field name = "TITLE">ALLEGHENY AG> OFFICERS TO RUN COMPANY</field>
+	<field name = "titulo">ALLEGHENY AG> OFFICERS TO RUN COMPANY</field>
 	<field name = "DATELINE">New York, March 9 -</field>
-	<field name = "BODY">Allegheny International Inc said its
+	<field name = "content">Allegheny International Inc said its
 chairman and chief operating officer will remain in their
 positions following the merger of the company with an affiliate
 of First Boston Corp.

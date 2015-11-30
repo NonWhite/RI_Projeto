@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 07:38:45.51</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">F
-f0690reute
-u f BC-SWISSAIR-FINDS-CRACKS   03-31 0093</field>
-	<field name = "TITLE">SWISSAIR FINDS CRACKS IN DC-10S</field>
+	<field name = "titulo">SWISSAIR FINDS CRACKS IN DC-10S</field>
 	<field name = "DATELINE">ZURICH, March 31 -</field>
-	<field name = "BODY">Swissair SWSZ.Z> has found cracks in
+	<field name = "content">Swissair SWSZ.Z> has found cracks in
 the tails of two of its own DC-10 aircraft made by McDonnell
 Douglas Corp MD.N> and a third belonging to the Dutch airline
 KLM Royal Dutch Airlines KLM.AS>, a Swissair spokesman said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 13:27:05.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4055reute
-r f BC-SHAWMUT-SHAS.O>-REPU   06-18 0035</field>
-	<field name = "TITLE">SHAWMUT SHAS.O> REPURCHASES 400,000 SHARES</field>
+	<field name = "titulo">SHAWMUT SHAS.O> REPURCHASES 400,000 SHARES</field>
 	<field name = "DATELINE">BOSTON, June 18 -</field>
-	<field name = "BODY">Shawmut Corp said it has repurchased
+	<field name = "content">Shawmut Corp said it has repurchased
 400,000 common shares and placed them in its treasury.
     The company has about 16.1 mln shares outstanding.
  Reuter</field>

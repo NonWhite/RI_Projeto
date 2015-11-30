@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 14:46:11.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2771reute
-r f BC-FORD-F>-REPEATS-AUTO   10-20 0088</field>
-	<field name = "TITLE">FORD F> REPEATS AUTO, TRUCK SALES FORECASTS</field>
+	<field name = "titulo">FORD F> REPEATS AUTO, TRUCK SALES FORECASTS</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Ford Motor Co Chairman Donald Petersen
+	<field name = "content">Ford Motor Co Chairman Donald Petersen
 still expects slightly more than 15 mln U.S.-made cars and
 trucks will be sold domestically in 1987, he told reporters.
     This is down from the 16.1 mln U.S. built vehicles sold

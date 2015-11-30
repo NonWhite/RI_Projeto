@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 10:38:23.37</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f0227reute
-u f BC-WHITE-HOUSE-WELCOMES   03-12 0074</field>
-	<field name = "TITLE">WHITE HOUSE WELCOMES RETAIL SALES FIGURES</field>
+	<field name = "titulo">WHITE HOUSE WELCOMES RETAIL SALES FIGURES</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">The White House welcomed the
+	<field name = "content">The White House welcomed the
 February retail sales figures showing a 4.1 pct rise, following
 a slow performance in January.
     Spokesman Marlin Fitzwater told reporters: "The February

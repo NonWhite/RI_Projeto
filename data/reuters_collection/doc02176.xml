@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 11:34:38.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0669reute
-r f BC-TIME-MANAGEMENT-SYSTE   03-05 0096</field>
-	<field name = "TITLE">TIME MANAGEMENT SYSTEMS TMS> TO GET INFUSION</field>
+	<field name = "titulo">TIME MANAGEMENT SYSTEMS TMS> TO GET INFUSION</field>
 	<field name = "DATELINE">STILLWATER, Okla., March 5 -</field>
-	<field name = "BODY">Time Management Systems
+	<field name = "content">Time Management Systems
 Software Inc said it will receive 2,400,000 dlrs from
 Management Technologies Inc MTI> in exchange for an equity
 position.

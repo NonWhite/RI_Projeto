@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 09:16:52.01</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0771reute
-s f BC-VMS-MORTGAGE-INVESTOR   06-19 0023</field>
-	<field name = "TITLE">VMS MORTGAGE INVESTORS LP II VMLPZ.O> IN PAYOUT</field>
+	<field name = "titulo">VMS MORTGAGE INVESTORS LP II VMLPZ.O> IN PAYOUT</field>
 	<field name = "DATELINE">CHICAGO, June 19 -</field>
-	<field name = "BODY">Qtly div 21 cts vs 21 cts prior
+	<field name = "content">Qtly div 21 cts vs 21 cts prior
     Pay Aug 14
     Record July One
  Reuter</field>

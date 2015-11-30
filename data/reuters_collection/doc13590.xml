@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 08:03:15.83</field>
-	<field name = "UNKNOWN">T C
-f0522reute
-u f BC-RUBBER-PRICES-FIRM-AT   04-07 0081</field>
-	<field name = "TITLE">RUBBER PRICES FIRM AT COLOMBO AUCTION</field>
+	<field name = "titulo">RUBBER PRICES FIRM AT COLOMBO AUCTION</field>
 	<field name = "DATELINE">COLOMBO, April 7 -</field>
-	<field name = "BODY">Rubber prices of all types firmed on
+	<field name = "content">Rubber prices of all types firmed on
 good demand for the 234 mln kilos offered at the Colombo
 auction, brokers said.
     Among latex crepe, the best crepe one-X sold at an average

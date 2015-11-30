@@ -2,12 +2,9 @@
 	<field name = "DATE">19-JUN-1987 06:39:58.09</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM 
-f0417reute
-u f BC-DUTCH-INDUSTRIAL-PROD   06-19 0087</field>
-	<field name = "TITLE">DUTCH INDUSTRIAL PRODUCTION FALLS 6.4 PCT IN APRIL</field>
+	<field name = "titulo">DUTCH INDUSTRIAL PRODUCTION FALLS 6.4 PCT IN APRIL</field>
 	<field name = "DATELINE">THE HAGUE, June 19 -</field>
-	<field name = "BODY">Dutch seasonally adjusted industrial
+	<field name = "content">Dutch seasonally adjusted industrial
 production fell by 6.4 pct in April compared with the previous
 month, and was 5.5 pct down on the same period last year,
 figures from the official Statistics Bureau CBS show.

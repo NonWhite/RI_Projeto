@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 20:04:55.06</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0981reute
-b f BC-AUSTRALIAN-UNEMPLOYME   03-11 0091</field>
-	<field name = "TITLE">AUSTRALIAN UNEMPLOYMENT EASES IN FEBRUARY</field>
+	<field name = "titulo">AUSTRALIAN UNEMPLOYMENT EASES IN FEBRUARY</field>
 	<field name = "DATELINE">CANBERRA, March 12 -</field>
-	<field name = "BODY">Australia's seasonally-adjusted
+	<field name = "content">Australia's seasonally-adjusted
 unemployment rate eased to 8.2 pct of the estimated workforce
 in February from 8.3 pct in January, compared with 7.9 pct a
 year earlier, the Statistics Bureau said.

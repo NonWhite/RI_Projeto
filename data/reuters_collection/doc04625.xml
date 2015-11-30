@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 23:37:15.33</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0981reute
-u f BC-ADSTEAM-LOOKING-TO-BR   03-12 0112</field>
-	<field name = "TITLE">ADSTEAM LOOKING TO BRITISH MARKET FOR INVESTMENT</field>
+	<field name = "titulo">ADSTEAM LOOKING TO BRITISH MARKET FOR INVESTMENT</field>
 	<field name = "DATELINE">ADELAIDE, March 13 -</field>
-	<field name = "BODY">Diversified industrial and investment
+	<field name = "content">Diversified industrial and investment
 group The Adelaide Steamship Co Ltd ADSA.S> said it was
 looking to the British market for future investment in view of
 high share prices and interest rates in Australia.

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 04:58:41.89</field>
 	<field name = "TOPICS">gas</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">Y
-f0288reute
-u f BC-SHELL,-CALTEX,-BP-REV   06-01 0093</field>
-	<field name = "TITLE">SHELL, CALTEX, BP REVISE SINGAPORE PETROL PRICES</field>
+	<field name = "titulo">SHELL, CALTEX, BP REVISE SINGAPORE PETROL PRICES</field>
 	<field name = "DATELINE">SINGAPORE, June 1 -</field>
-	<field name = "BODY">Shell Eastern Pte Ltd will revise pump
+	<field name = "content">Shell Eastern Pte Ltd will revise pump
 prices of petrol from 2300 hours local while Caltex Asia Ltd
 and BP Singapore Pte Ltd will revise theirs at midnight
 tonight, company officials said.

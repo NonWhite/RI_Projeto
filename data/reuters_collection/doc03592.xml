@@ -5,13 +5,10 @@
 	<field name = "TOPICS">cpi</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">hungary</field>
-	<field name = "UNKNOWN">RM
-f0047reute
-u f BC-HUNGARY-HOPES-DEVALUA   03-11 0090</field>
-	<field name = "TITLE">HUNGARY HOPES DEVALUATION WILL END TRADE DEFICIT</field>
+	<field name = "titulo">HUNGARY HOPES DEVALUATION WILL END TRADE DEFICIT</field>
 	<field name = "AUTHOR">By David Lewis, Reuters</field>
 	<field name = "DATELINE">BUDAPEST, March 11 -</field>
-	<field name = "BODY">National Bank of Hungary first
+	<field name = "content">National Bank of Hungary first
 vice-president Janos Fekete said he hoped a planned eight pct
 devaluation of the forint will spur exports and redress last
 year's severe trade deficit with the West.

@@ -3,12 +3,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f0347reute
-u f BC-AIDE-SAYS-FRANCE-SUPP   03-11 0105</field>
-	<field name = "TITLE">AIDE SAYS FRANCE SUPPORTS OIL AND FATS TAX</field>
+	<field name = "titulo">AIDE SAYS FRANCE SUPPORTS OIL AND FATS TAX</field>
 	<field name = "DATELINE">PARIS, March 11 -</field>
-	<field name = "BODY">France supports the European Commission's
+	<field name = "content">France supports the European Commission's
 plans for a European Community (EC) fats and oils tax but
 objects to some of its oilseeds proposals, Yves Van Haecke, an
 aide to French agriculture minister Francois Guillaume said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 10:42:18.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3306reute
-u f BC-ENERGY-CONVERSION-EN   06-18 0033</field>
-	<field name = "TITLE">ENERGY CONVERSION ENER.O> IN SUPERCONDUCTIVITY</field>
+	<field name = "titulo">ENERGY CONVERSION ENER.O> IN SUPERCONDUCTIVITY</field>
 	<field name = "DATELINE">TROY, MICH., June 18 -</field>
-	<field name = "BODY">Energy Conversion Devices Inc said
+	<field name = "content">Energy Conversion Devices Inc said
 its scientists have achieved superconductivity at  a
 temperature of 90 degrees Fahrenheit.
     The company said the general composition of the fluorinated

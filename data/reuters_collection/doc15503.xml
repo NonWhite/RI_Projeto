@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 09:18:53.44</field>
 	<field name = "TOPICS">livestock</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">L
-f0799reute
-r f BC-ARGENTINE-CATTLE-MARK   04-09 0083</field>
-	<field name = "TITLE">ARGENTINE CATTLE MARKET REPORT</field>
+	<field name = "titulo">ARGENTINE CATTLE MARKET REPORT</field>
 	<field name = "DATELINE">BUENOS AIRES, APR 9 -</field>
-	<field name = "BODY">ABOUT 3,314 HEAD OF CATTLE WERE
+	<field name = "content">ABOUT 3,314 HEAD OF CATTLE WERE
 AUCTIONED IN LINIERS CATTLE MARKET, AGAINST 13,952 ON WEDNESDAY
 AND 9,217 LAST THURSDAY, TRADE SOURCES SAID.
     MAXIMUN PRICES, IN AUSTRALES PER KILO, WITH DOLLAR

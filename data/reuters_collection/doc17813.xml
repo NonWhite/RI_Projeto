@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 16:43:14.79</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2454reute
-u f BC-B.C.-WORKERS-STAGE-ON   06-01 0095</field>
-	<field name = "TITLE">B.C. WORKERS STAGE ONE-DAY GENERAL STRIKE</field>
+	<field name = "titulo">B.C. WORKERS STAGE ONE-DAY GENERAL STRIKE</field>
 	<field name = "DATELINE">VANCOUVER, June 1 -</field>
-	<field name = "BODY">Thousands of British Columbian
+	<field name = "content">Thousands of British Columbian
 unionized workers staged a one-day general strike to protest
 proposed new provincial labor legislation.
     Ferry service was halted, there was no garbage collection,

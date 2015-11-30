@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 16:54:56.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2604reute
-h f BC-HYBRITECH-HYBR>-ASKS   03-30 0080</field>
-	<field name = "TITLE">HYBRITECH HYBR> ASKS FOR REVIEW OF ITS PATENT</field>
+	<field name = "titulo">HYBRITECH HYBR> ASKS FOR REVIEW OF ITS PATENT</field>
 	<field name = "DATELINE">SAN DIEGO, CALIF., March 30 -</field>
-	<field name = "BODY">Hybritech Inc said the U.S.
+	<field name = "content">Hybritech Inc said the U.S.
 Supreme Court denied a petition by Monoclonal Antibodies Inc
 asking the court to review the validity of a Hybritech patent.
     The patent covers a method of using monoclonal antibodies

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:47:03.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0867reute
-d f BC-NATIONAL-MEDICAL-NME   03-05 0082</field>
-	<field name = "TITLE">NATIONAL MEDICAL NME> OPENS HOSPITALS</field>
+	<field name = "titulo">NATIONAL MEDICAL NME> OPENS HOSPITALS</field>
 	<field name = "DATELINE">LOS ANGELES, March 5 -</field>
-	<field name = "BODY">National Medical Enterprises Inc
+	<field name = "content">National Medical Enterprises Inc
 said its Rehab Hospital Services Corp unit opened four
 facilities and plans to contruct three physical rehabilitation
 hospitals.

@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 09:00:26.33</field>
 	<field name = "TOPICS">wool</field>
 	<field name = "PLACES">mauritius</field>
-	<field name = "UNKNOWN">C G
-f0857reute
-d f BC-MAURITIUS-LIFTS-DUTY   04-02 0159</field>
-	<field name = "TITLE">MAURITIUS LIFTS DUTY ON TEXTILE-RELATED GOODS</field>
+	<field name = "titulo">MAURITIUS LIFTS DUTY ON TEXTILE-RELATED GOODS</field>
 	<field name = "DATELINE">PORT LOUIS, April 2 -</field>
-	<field name = "BODY">Mauritius has lifted import duties on
+	<field name = "content">Mauritius has lifted import duties on
 textiles and other goods connected with the textile industry as
 part of its economic liberalisation programme, Finance Minister
 Vishnu Lutchmeenaraido said.

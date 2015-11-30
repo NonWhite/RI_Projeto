@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:34:11.37</field>
-	<field name = "UNKNOWN">A RM
-f1601reute
-u f BC-DOLLAR-SLIGHTLY-LOWER   04-07 0107</field>
-	<field name = "TITLE">DOLLAR SLIGHTLY LOWER AT NEW YORK MIDSESSION</field>
+	<field name = "titulo">DOLLAR SLIGHTLY LOWER AT NEW YORK MIDSESSION</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">The dollar remained on the defensive in
+	<field name = "content">The dollar remained on the defensive in
 subdued dealings with few traders willing to take any major
 risks ahead of this week's international monetary meetings in
 Washington, dealers said.

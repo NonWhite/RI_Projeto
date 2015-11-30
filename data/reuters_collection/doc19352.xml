@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 14:34:02.92</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM A 
-f1997reute
-r f BC-LLOYDS-BOND-MARKET-WI   06-19 0111</field>
-	<field name = "TITLE">LLOYDS BANK BOND MARKET WITHDRAWAL CALLED PRUDENT</field>
+	<field name = "titulo">LLOYDS BANK BOND MARKET WITHDRAWAL CALLED PRUDENT</field>
 	<field name = "AUTHOR">By Marguerite Nugent, Reuters</field>
 	<field name = "DATELINE">LONDON, June 19 -</field>
-	<field name = "BODY">Lloyds Bank Plc's LLOY.L> decision to
+	<field name = "content">Lloyds Bank Plc's LLOY.L> decision to
 withdraw from making markets in Eurobonds and U.K. Government
 bonds (gilts) sent shivers down the spines of other market
 participants but was viewed as prudent by banking analysts.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 17:49:52.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0750reute
-r f BC-FEDERAL-REGULATORS-CL   03-12 0095</field>
-	<field name = "TITLE">FEDERAL REGULATORS CLOSE TWO TEXAS BANKS</field>
+	<field name = "titulo">FEDERAL REGULATORS CLOSE TWO TEXAS BANKS</field>
 	<field name = "DATELINE">WASHINGTON, March 12 -</field>
-	<field name = "BODY">The Federal Deposit Insurance Corp.
+	<field name = "content">The Federal Deposit Insurance Corp.
 (FDIC) said two Texas banks were closed by U.S. bank
 regulators, making a total of 40 failures of federally insured
 financial institutions so far this year.

@@ -2,13 +2,9 @@
 	<field name = "DATE">26-FEB-1987 16:38:54.88</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C T
-f0049
-reute
-u f BC-sugar-import-quota   02-26 0110</field>
-	<field name = "TITLE">SUGAR QUOTA IMPORTS DETAILED -- USDA</field>
+	<field name = "titulo">SUGAR QUOTA IMPORTS DETAILED -- USDA</field>
 	<field name = "DATELINE">WASHINGTON, Feb 26 -</field>
-	<field name = "BODY">The U.S. Agriculture Department said
+	<field name = "content">The U.S. Agriculture Department said
 cumulative sugar imports from individual countries during the
 1987 quota year, which began January 1, 1987 and ends December
 31, 1987 were as follows, with quota allocations for the quota

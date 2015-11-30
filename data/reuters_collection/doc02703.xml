@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 12:09:26.31</field>
 	<field name = "PLACES">venezuela</field>
-	<field name = "UNKNOWN">RM
-f0725reute
-u f BC-REFINANCING-SAID-CLOS   03-06 0117</field>
-	<field name = "TITLE">REFINANCING SAID CLOSE FOR VENEZUELAN BANK</field>
+	<field name = "titulo">REFINANCING SAID CLOSE FOR VENEZUELAN BANK</field>
 	<field name = "DATELINE">Caracas, March 6 -</field>
-	<field name = "BODY">The Venezuelan government is close to
+	<field name = "content">The Venezuelan government is close to
 agreement with foreign banks to refinance 300 mln dlrs in
 foreign debt owed by the Banco de los Trabajadores de Venezuela
 (BTV), finance minister Manuel Azpurua said.

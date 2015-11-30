@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">uk</field>
 	<field name = "EXCHANGES">liffe</field>
-	<field name = "UNKNOWN">C
-f0086reute
-d f BC-LIFFE-JANUARY-VOLUMES   03-06 0113</field>
-	<field name = "TITLE">LIFFE FEBRUARY VOLUMES DOWN, BUT EURODOLLARS UP</field>
+	<field name = "titulo">LIFFE FEBRUARY VOLUMES DOWN, BUT EURODOLLARS UP</field>
 	<field name = "DATELINE">LONDON, March 6 -</field>
-	<field name = "BODY">Total futures and options turnover on the
+	<field name = "content">Total futures and options turnover on the
 London International Financial Futures Exchange (LIFFE) fell
 slightly during February, although daily average Eurodollar
 volume set a new record, LIFFE said today.

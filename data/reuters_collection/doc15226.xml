@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">F A RM
-f2142reute
-u f BC-SECURITY-PACIFIC-SPC   04-08 0088</field>
-	<field name = "TITLE">SECURITY PACIFIC SPC> LOANS PUT ON NON-ACCRUAL</field>
+	<field name = "titulo">SECURITY PACIFIC SPC> LOANS PUT ON NON-ACCRUAL</field>
 	<field name = "DATELINE">LOS ANGELES, April 8 -</field>
-	<field name = "BODY">Security Pacific Corp said it is
+	<field name = "content">Security Pacific Corp said it is
 placing medium and long-term loans to Brazil and Ecuador on a
 non-accrual basis as of March 31, a move that will reduce first
 quarter earnings by 7.2 mln dlrs, or nine cts per share, after

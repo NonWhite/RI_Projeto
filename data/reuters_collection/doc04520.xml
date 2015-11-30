@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 16:18:38.36</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0474reute
-d f BC-EATON-VANCE-CORP-EAV   03-12 0026</field>
-	<field name = "TITLE">EATON VANCE CORP EAVN> 1ST QTR JAN 31 NET</field>
+	<field name = "titulo">EATON VANCE CORP EAVN> 1ST QTR JAN 31 NET</field>
 	<field name = "DATELINE">BOSTON, March 12 -</field>
-	<field name = "BODY">Shr 53 cts vs 34 cts
+	<field name = "content">Shr 53 cts vs 34 cts
     Net 2,253,742 vs 1,332,652
     Avg shrs 4,251,553 vs 3,932,064
  Reuter</field>

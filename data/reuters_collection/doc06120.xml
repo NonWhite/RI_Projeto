@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 13:17:34.33</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f5931reute
-r f BC-COASTAL-(CGP)-SEES-IN   03-17 0093</field>
-	<field name = "TITLE">COASTAL (CGP) SEES INCREASE IN 1987 PROFITS</field>
+	<field name = "titulo">COASTAL (CGP) SEES INCREASE IN 1987 PROFITS</field>
 	<field name = "DATELINE">HOUSTON, March 17 -</field>
-	<field name = "BODY">Coastal Corp said it expected earnings
+	<field name = "content">Coastal Corp said it expected earnings
 for 1987 "to be significantly above" profits of 71.6 mln dlrs
 last year.
     In a letter to shareholders appearing in the company's

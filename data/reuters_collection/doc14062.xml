@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:18:57.30</field>
-	<field name = "UNKNOWN">RM C G L M T
-f1221reute
-u f BC-DOLLAR-REMAINS-IN-NAR   04-07 0096</field>
-	<field name = "TITLE">DOLLAR REMAINS IN NARROW RANGE IN QUIET ZURICH</field>
+	<field name = "titulo">DOLLAR REMAINS IN NARROW RANGE IN QUIET ZURICH</field>
 	<field name = "DATELINE">ZURICH, April 7 -</field>
-	<field name = "BODY">The dollar remained confined in the same
+	<field name = "content">The dollar remained confined in the same
 narrow range in quiet trading, benefitting only slightly from
 comments by Fed Chairman Paul Volcker that further sizeable
 dollar losses would be counter-productive, dealers said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 18:06:47.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0852reute
-d f BC-FORMER-EMPIRE-OF-CARO   03-11 0107</field>
-	<field name = "TITLE">FORMER EMPIRE OF CAROLINA EMP> EXEC SENTENCED</field>
+	<field name = "titulo">FORMER EMPIRE OF CAROLINA EMP> EXEC SENTENCED</field>
 	<field name = "DATELINE">NEW YORK, March 11 -</field>
-	<field name = "BODY">Mason Benson, former president and
+	<field name = "content">Mason Benson, former president and
 chief operating officer of Empire of Carolina Inc, a toy maker,
 today was sentenced in Manhattan federal court to a year and
 one day in jail for his involvement in a kickback scheme.

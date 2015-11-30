@@ -2,13 +2,10 @@
 	<field name = "DATE">2-APR-1987 12:10:42.65</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">RM
-f1654reute
-b f BC-WORLD-BANK-REFINANCED   04-02 0094</field>
-	<field name = "TITLE">WORLD BANK REFINANCED 500 BILLION YEN OF LOANS</field>
+	<field name = "titulo">WORLD BANK REFINANCED 500 BILLION YEN OF LOANS</field>
 	<field name = "AUTHOR">By Marguerite Nugent, Reuters</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">The World Bank over the last month repaid
+	<field name = "content">The World Bank over the last month repaid
 and refinanced 500 billion yen in loans at more favourable
 interest rates in what was the first step in a plan to
 refinance its existing debt, Eugene Rotberg, World Bank

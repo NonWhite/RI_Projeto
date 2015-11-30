@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 11:43:22.21</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3599reute
-r f BC-BECOR-WESTERN-BCW>AG   06-18 0102</field>
-	<field name = "TITLE">BECOR WESTERN BCW>AGAIN ADJOURNS HOLDER MEETING</field>
+	<field name = "titulo">BECOR WESTERN BCW>AGAIN ADJOURNS HOLDER MEETING</field>
 	<field name = "DATELINE">SOUTH MILWAUKEE, Wis., June 18 -</field>
-	<field name = "BODY">Becor Western Inc said its
+	<field name = "content">Becor Western Inc said its
 reconvened shareholders meeting has been adjourned to 1000 CDT
 June 30.
     The company had previously announced plans to again adjourn

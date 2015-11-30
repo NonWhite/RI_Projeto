@@ -4,12 +4,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f2550reute
-u f BC-SOUTHERN-TEXAS-GRAIN   04-07 0129</field>
-	<field name = "TITLE">SOUTHERN TEXAS GRAIN DIFFERENTIALS ADJUSTED</field>
+	<field name = "titulo">SOUTHERN TEXAS GRAIN DIFFERENTIALS ADJUSTED</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Posted county prices in 99 southern
+	<field name = "content">Posted county prices in 99 southern
 Texas counties have been changed to reflect only one market
 differential instead of the usual two-terminal market pricing
 system, a senior Agriculture Department official said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 10:48:31.08</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f8150reute
-b f BC-FINANCE-FOR-DANISH-IN   03-18 0069</field>
-	<field name = "TITLE">FINANCE FOR DANISH INDUSTRY HAS DANISH CROWN BOND</field>
+	<field name = "titulo">FINANCE FOR DANISH INDUSTRY HAS DANISH CROWN BOND</field>
 	<field name = "DATELINE">LONDON, March 18 -</field>
-	<field name = "BODY">Finance for Danish Industry is issuing a
+	<field name = "content">Finance for Danish Industry is issuing a
 300 mln Danish crown eurobond due April 23, 1992, paying 11-3/8
 pct and priced at 100-1/4 pct, lead manager Privatbanken Ltd
 said.

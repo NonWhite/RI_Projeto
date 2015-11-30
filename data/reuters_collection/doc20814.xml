@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 18:38:00.85</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3546reute
-r f BC-FEDERAL-REALTY-FRT>   10-20 0086</field>
-	<field name = "TITLE">FEDERAL REALTY FRT> TO BUY BACK SHARES</field>
+	<field name = "titulo">FEDERAL REALTY FRT> TO BUY BACK SHARES</field>
 	<field name = "DATELINE">BETHESDA, Oct 20 -</field>
-	<field name = "BODY">Federal Realty Investment Trust said its
+	<field name = "content">Federal Realty Investment Trust said its
 management has been authorized to purchase up to one mln of its
 common shares at current market prices in open market
 transactions.

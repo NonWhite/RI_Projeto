@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 08:17:21.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2775reute
-u f BC-PEFCO-SELLS-NOTES-VIA   06-18 0102</field>
-	<field name = "TITLE">PEFCO SELLS NOTES VIA J.P. MORGAN SECURITIES</field>
+	<field name = "titulo">PEFCO SELLS NOTES VIA J.P. MORGAN SECURITIES</field>
 	<field name = "AUTHOR">By John Picinich, Reuters</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Private Export Funding Corp, PEFCO, is
+	<field name = "content">Private Export Funding Corp, PEFCO, is
 offering 150 mln dlrs of secured notes due 1994 with an 8.60
 pct coupon and par pricing, said J.P. Morgan Securities Inc,
 acting as lead manager of its first corporate debt deal.

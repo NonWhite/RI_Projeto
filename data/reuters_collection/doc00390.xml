@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 09:04:40.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f0422
-reute
-r f BC-OCCIDENTAL-OXY>-UNIT   03-02 0112</field>
-	<field name = "TITLE">OCCIDENTAL OXY> UNIT TO REDEEM DEBENTURES</field>
+	<field name = "titulo">OCCIDENTAL OXY> UNIT TO REDEEM DEBENTURES</field>
 	<field name = "DATELINE">LOS ANGELES, March 2 -</field>
-	<field name = "BODY">Occidental Petroleum Corp said its
+	<field name = "content">Occidental Petroleum Corp said its
 MidCon Corp subsidiary will redeem on March 31 all 269,000 dlrs
 of its outstanding 10-1/4 pct convertible subordinated
 debentures due 2009 at 107.18 pct of par.

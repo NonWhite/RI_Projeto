@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 13:34:54.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0236reute
-h f BC-THE-MUSIC-SHOP>-SIGN   03-05 0083</field>
-	<field name = "TITLE">THE MUSIC SHOP> SIGNS STOCK OPTION AGREEMENT</field>
+	<field name = "titulo">THE MUSIC SHOP> SIGNS STOCK OPTION AGREEMENT</field>
 	<field name = "DATELINE">NASHVILLE, Tenn, March 5 -</field>
-	<field name = "BODY">The Music Shop said it signed a
+	<field name = "content">The Music Shop said it signed a
 stock option agreement with the Saxon Co> calling for it to
 receive 100,000 dlrs in return for 210 mln shares and an option
 for Saxon to buy additional common stock for up to 400,000

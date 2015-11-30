@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 13:43:27.20</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1912reute
-u f BC-INVESTORS-INCREASE-ST   03-25 0086</field>
-	<field name = "TITLE">INVESTORS INCREASE STAKE IN FROST, SULLIVAN</field>
+	<field name = "titulo">INVESTORS INCREASE STAKE IN FROST, SULLIVAN</field>
 	<field name = "DATELINE">WASHINGTON, March 25 -</field>
-	<field name = "BODY">One of a pair of private investors
+	<field name = "content">One of a pair of private investors
 in Frost and Sullivan Inc told the Securities and Exchange
 Commission he increased his stake in the firm by about two pct,
 to 15.4 pct.

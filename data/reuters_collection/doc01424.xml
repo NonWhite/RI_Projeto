@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 09:33:47.25</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0163reute
-d f BC-METROPOLITAN-FEDERAL   03-04 0052</field>
-	<field name = "TITLE">METROPOLITAN FEDERAL MFTN> TO MAKE ACQUISITION</field>
+	<field name = "titulo">METROPOLITAN FEDERAL MFTN> TO MAKE ACQUISITION</field>
 	<field name = "DATELINE">NASHVILLE, Tenn., March 4 -</field>
-	<field name = "BODY">Metropolitan Federal Savings
+	<field name = "content">Metropolitan Federal Savings
 and Loan Association said it has signed a letter of intent to
 acquire American Trust of Hendersonville, Tenn., for an
 undisclosed amount of cash.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 03:55:30.16</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM 
-f0206reute
-u f BC-N.Z.-OPPOSITION-PARTY   06-29 0094</field>
-	<field name = "TITLE">N.Z. OPPOSITION PARTY UNVEILS ECONOMIC POLICY</field>
+	<field name = "titulo">N.Z. OPPOSITION PARTY UNVEILS ECONOMIC POLICY</field>
 	<field name = "DATELINE">WELLINGTON, June 29 -</field>
-	<field name = "BODY">New Zealand's opposition National
+	<field name = "content">New Zealand's opposition National
 Party said it would cut personal and business taxes and would
 not regulate or control interest rates if returned to power.
     The economic strategy was unveiled by party leader Jim

@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 14:54:47.26</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2806reute
-d f BC-BEMIS-CO-BMS>-3RD-QT   10-20 0042</field>
-	<field name = "TITLE">BEMIS CO BMS> 3RD QTR NET</field>
+	<field name = "titulo">BEMIS CO BMS> 3RD QTR NET</field>
 	<field name = "DATELINE">MINNEAPOLIS, Oct 20 -</field>
-	<field name = "BODY">Shr 61 cts vs 50 cts
+	<field name = "content">Shr 61 cts vs 50 cts
     Net 8,273,000 vs 6,913,000
     Sales 226.0 mln vs 215.9 mln
     Nine mths

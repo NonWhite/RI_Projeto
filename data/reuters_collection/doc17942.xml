@@ -4,12 +4,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">nakasone</field>
 	<field name = "PEOPLE">sumita</field>
-	<field name = "UNKNOWN">RM V
-f0535reute
-b f BC-NAKASONE,-SUMITA-AGRE   06-02 0077</field>
-	<field name = "TITLE">NAKASONE, SUMITA AGREE RATE CUT NOT APPROPRIATE</field>
+	<field name = "titulo">NAKASONE, SUMITA AGREE RATE CUT NOT APPROPRIATE</field>
 	<field name = "DATELINE">TOKYO, June 2 -</field>
-	<field name = "BODY">Prime Minister Yasuhiro Nakasone today
+	<field name = "content">Prime Minister Yasuhiro Nakasone today
 agreed with Bank of Japan governor Satoshi Sumita that a
 further cut in the discount rate was not appropriate at
 present, central bank sources said.

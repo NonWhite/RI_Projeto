@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 10:55:29.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1246reute
-r f BC-GEORGIA-GULF-SECONDAR   04-01 0076</field>
-	<field name = "TITLE">GEORGIA GULF SECONDARY OFFERING UNDERWAY</field>
+	<field name = "titulo">GEORGIA GULF SECONDARY OFFERING UNDERWAY</field>
 	<field name = "DATELINE">ATLANTA, April 1 -</field>
-	<field name = "BODY">Four mln common shares of Georgia Gulf
+	<field name = "content">Four mln common shares of Georgia Gulf
 Corp> common stock are being sold at 34.25 dlrs a share, said
 sole manager of the underwriting, Goldman Sachs and Co.
     In addition, 800,000 shares will be offered overseas in an

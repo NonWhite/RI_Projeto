@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 12:48:00.50</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f1694reute
-u f BC-CANADA-BUDGET-DEFICIT   04-03 0115</field>
-	<field name = "TITLE">CANADA BUDGET DEFICIT RISES IN JANUARY</field>
+	<field name = "titulo">CANADA BUDGET DEFICIT RISES IN JANUARY</field>
 	<field name = "DATELINE">OTTAWA, April 3 -</field>
-	<field name = "BODY">The Canadian government's budget deficit
+	<field name = "content">The Canadian government's budget deficit
 rose to 1.78 billion dlrs in January from 1.67 billion dlrs in
 the same month last year, the finance department said.
     But the deficit in the first 10 months of the fiscal year

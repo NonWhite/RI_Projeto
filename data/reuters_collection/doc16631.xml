@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 15:40:53.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2419reute
-d f BC-BIONUTRONICS-BNUI.O>   04-13 0042</field>
-	<field name = "TITLE">BIONUTRONICS BNUI.O> MAY CEASE OPERATIONS</field>
+	<field name = "titulo">BIONUTRONICS BNUI.O> MAY CEASE OPERATIONS</field>
 	<field name = "DATELINE">NEW YORK, April 13 -</field>
-	<field name = "BODY">Bio-Nutronics Inc said that if it is
+	<field name = "content">Bio-Nutronics Inc said that if it is
 unable in the "very near future" to substantially increase its
 revenues or otherwise raise additional funds, it may be
 required to cease operations.

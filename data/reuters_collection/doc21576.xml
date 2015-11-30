@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 00:03:21.69</field>
 	<field name = "PLACES">switzerland</field>
-	<field name = "UNKNOWN">RM V 
-f0006reute
-u f BC-PROJECTIONS-SHOW-SWIS   10-19 0119</field>
-	<field name = "TITLE">PROJECTIONS SHOW SWISS VOTERS WANT TRIED PARTIES</field>
+	<field name = "titulo">PROJECTIONS SHOW SWISS VOTERS WANT TRIED PARTIES</field>
 	<field name = "DATELINE">BERNE, Oct 19 -</field>
-	<field name = "BODY">The prospect of a dominant alliance of
+	<field name = "content">The prospect of a dominant alliance of
 socialists and environmentalists ended as the Social Democrats
 became the biggest losers in Swiss parliamentary elections.
     Projections by Swiss radio show the ruling centre-right

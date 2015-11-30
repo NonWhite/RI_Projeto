@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 14:37:53.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2150reute
-d f BC-CELANESE-PRODUCES-NEW   03-24 0096</field>
-	<field name = "TITLE">CELANESE PRODUCES NEW FIBER IN U.S.</field>
+	<field name = "titulo">CELANESE PRODUCES NEW FIBER IN U.S.</field>
 	<field name = "DATELINE">CHARLOTTE, N.C, March 24 -</field>
-	<field name = "BODY">Celanese Industrial Fibers, a
+	<field name = "content">Celanese Industrial Fibers, a
 division of Hoechst Celanese Corp's> Celanese Fibers Inc
 subsidiary, said it is producing industrial miltifilament yarns
 of polyetheretherketone polymer for the first time in the

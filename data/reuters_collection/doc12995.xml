@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 12:36:02.31</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1657reute
-r f BC-SAGE   04-03 0078</field>
-	<field name = "TITLE">INVESTOR HAS FIVE PCT OF SAGE DRILLING SAGE></field>
+	<field name = "titulo">INVESTOR HAS FIVE PCT OF SAGE DRILLING SAGE></field>
 	<field name = "DATELINE">WASHINGTON, April 3 -</field>
-	<field name = "BODY">Arthur Appleton, a Chicago investor,
+	<field name = "content">Arthur Appleton, a Chicago investor,
 told the Securities and Exchange Commission he has acquired
 39,000 shares of Sage Drilling Co Inc, or 5.1 pct of the total
 outstanding common stock.

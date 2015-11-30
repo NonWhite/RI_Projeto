@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 17:57:04.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2736reute
-r f BC-AMERICAN-CAN-AC>-SEL   03-24 0115</field>
-	<field name = "TITLE">AMERICAN CAN AC> SELLS CONVERTIBLE EUROBONDS</field>
+	<field name = "titulo">AMERICAN CAN AC> SELLS CONVERTIBLE EUROBONDS</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">American Can Co said it is issuing in
+	<field name = "content">American Can Co said it is issuing in
 the Euromarkets 175 mln dlrs of convertible Eurodollar bonds
 due 2002 with a 5-1/2 pct coupon and par pricing.
     The Eurobonds are convertible into the company's common

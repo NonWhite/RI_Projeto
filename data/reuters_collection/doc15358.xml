@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 17:45:41.34</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2722reute
-d f BC-GATEWAY-BANCORP-INC-   04-08 0041</field>
-	<field name = "TITLE">GATEWAY BANCORP INC GBAN> 1ST QTR NET</field>
+	<field name = "titulo">GATEWAY BANCORP INC GBAN> 1ST QTR NET</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">Shr 32 cts vs 34 cts
+	<field name = "content">Shr 32 cts vs 34 cts
     Net 902,178 vs 662,647
     Deposits 174.7 mln vs 134.4 mln
     NOTE: Per share amounts adjusted to reflect 10-for-one

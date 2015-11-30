@@ -4,12 +4,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">saudi-arabia</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">Y
-f0104reute
-r f BC-ANALYST-SEES-SAUDI-SU   03-03 0106</field>
-	<field name = "TITLE">SAUDI SUCCESS SEEN IN CURBING OPEC PRODUCTION</field>
+	<field name = "titulo">SAUDI SUCCESS SEEN IN CURBING OPEC PRODUCTION</field>
 	<field name = "DATELINE">HOUSTON, March 3 -</field>
-	<field name = "BODY">Saudi Arabia will succeed in pressuring
+	<field name = "content">Saudi Arabia will succeed in pressuring
 other members of the Organization of Petroleum Exporting
 Countries to stay within their production quotas, said Morgan
 Stanley Group managing director John Wellemeyer.

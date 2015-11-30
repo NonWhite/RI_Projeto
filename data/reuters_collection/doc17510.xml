@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">south-korea</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G L M T
-f0937reute
-u f PM-KOREA-TARIFF CORRECTION  06-01 0140</field>
-	<field name = "TITLE">SEOUL ANNOUNCES MORE TARIFF CUTS FOR U.S.</field>
+	<field name = "titulo">SEOUL ANNOUNCES MORE TARIFF CUTS FOR U.S.</field>
 	<field name = "DATELINE">SEOUL, June 1 -</field>
-	<field name = "BODY">South Korea will cut import taxes on 50
+	<field name = "content">South Korea will cut import taxes on 50
 goods, including construction equipment, cigarettes and
 tobacco, to help reduce its trade surplus with the United
 States, the Finance Ministry said today. The tariff cuts of

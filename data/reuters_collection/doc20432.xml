@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 13:14:34.05</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">greenspan</field>
-	<field name = "UNKNOWN">V RM 
-f2294reute
-b f BC-/FED-SAYS-NO-NEWS-CON   10-20 0081</field>
-	<field name = "TITLE">FED SAYS NO NEWS CONFERENCE TODAY</field>
+	<field name = "titulo">FED SAYS NO NEWS CONFERENCE TODAY</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Federal Reserve spokesmen in New York
+	<field name = "content">Federal Reserve spokesmen in New York
 and Washington said there are no plans for a news conference
 today.
     The spokesmen were responding to rumors in the financial

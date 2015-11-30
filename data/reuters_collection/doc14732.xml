@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:49:18.36</field>
-	<field name = "UNKNOWN">E
-f2603reute
-u f BC-REUTER-CANADA-BUSINES   04-07 0088</field>
-	<field name = "TITLE">REUTER CANADA BUSINESS HIGHLIGHTS</field>
+	<field name = "titulo">REUTER CANADA BUSINESS HIGHLIGHTS</field>
 	<field name = "DATELINE">WASHINGTON -</field>
-	<field name = "BODY">Lawmakers from Ontario asked their U.S.
+	<field name = "content">Lawmakers from Ontario asked their U.S.
 counterparts to exempt Canada from the mandatory trade
 retaliation provisions in a major trade bill being considered
 by the U.S. congress.

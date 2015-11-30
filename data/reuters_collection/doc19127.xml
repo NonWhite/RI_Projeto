@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">nigeria</field>
 	<field name = "ORGS">opec</field>
-	<field name = "UNKNOWN">V 
-f0766reute
-u f BC-OPEC-PRESIDENT-LUKMAN   06-19 0093</field>
-	<field name = "TITLE">OPEC PRESIDENT LUKMAN EXPECTS SHORT, CALM MEETING</field>
+	<field name = "titulo">OPEC PRESIDENT LUKMAN EXPECTS SHORT, CALM MEETING</field>
 	<field name = "DATELINE">LAGOS, June 19 -</field>
-	<field name = "BODY">OPEC conference president Rilwanu Lukman
+	<field name = "content">OPEC conference president Rilwanu Lukman
 said he expects next week's ministerial meeting in Vienna to be
 brief and calm and that OPEC's current price and production
 agreement may only need a slight review.

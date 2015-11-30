@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 17:39:39.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f2613reute
-r f BC-HOUSE-GOP-BUDGET-WRIT   03-19 0110</field>
-	<field name = "TITLE">HOUSE GOP BUDGET WRITERS WITHHOLD VOTES</field>
+	<field name = "titulo">HOUSE GOP BUDGET WRITERS WITHHOLD VOTES</field>
 	<field name = "DATELINE">WASHINGTON, March 19 -</field>
-	<field name = "BODY">Republican members of the House
+	<field name = "content">Republican members of the House
 Budget Committee refused to cast their votes as the committee
 began marking up the outlines of next year's federal budget.
     Republicans voted "present" during votes on a ceiling for

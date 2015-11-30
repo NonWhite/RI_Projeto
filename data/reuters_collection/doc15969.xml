@@ -3,12 +3,9 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f2543reute
-r f BC-MCDONNELL-DOUGLAS-MD   04-09 0079</field>
-	<field name = "TITLE">MCDONNELL DOUGLAS MD> BUYS COMPUTER FIRM</field>
+	<field name = "titulo">MCDONNELL DOUGLAS MD> BUYS COMPUTER FIRM</field>
 	<field name = "DATELINE">ST. LOUIS, April 9 -</field>
-	<field name = "BODY">McDonnell Douglas Corp said it
+	<field name = "content">McDonnell Douglas Corp said it
 acquired Frampton Computer Services Ltd, a British software
 company that is also known as Isis.
     Terms of the acquisition were not disclosed.

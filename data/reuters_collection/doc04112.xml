@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 07:01:20.35</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0509reute
-u f BC-GERMAN-PUBLIC-AUTHORI   03-12 0091</field>
-	<field name = "TITLE">GERMAN PUBLIC AUTHORITY BUNDESBANK HOLDINGS FALL</field>
+	<field name = "titulo">GERMAN PUBLIC AUTHORITY BUNDESBANK HOLDINGS FALL</field>
 	<field name = "DATELINE">FRANKFURT, March 12 -</field>
-	<field name = "BODY">The net position of federal states
+	<field name = "content">The net position of federal states
 worsened in the first March week, cutting public authority net
 holdings at the Bundesbank by 500 mln marks, the central bank
 said.

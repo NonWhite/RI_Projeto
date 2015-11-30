@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 11:37:05.25</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">mexico</field>
-	<field name = "UNKNOWN">RM
-f1568reute
-u f BC-MEXICAN-FIRST-QTR-CRU   03-30 0119</field>
-	<field name = "TITLE">MEXICAN FIRST QTR CRUDE EXPORTS SEEN AT 15.25 DLRS</field>
+	<field name = "titulo">MEXICAN FIRST QTR CRUDE EXPORTS SEEN AT 15.25 DLRS</field>
 	<field name = "DATELINE">MEXICO CITY, March 30 -</field>
-	<field name = "BODY">The average price of mexico's crude
+	<field name = "content">The average price of mexico's crude
 oil exports in first quarter 1987 will be 15.25 dlrs per
 barrel, according to preliminary figures issued in a press
 release by the state oil company Petroleos Mexicanos (PEMEX).

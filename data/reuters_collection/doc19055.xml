@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 04:37:40.72</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0246reute
-u f BC-FUJITSU-DEVELOPS-FAST   06-19 0107</field>
-	<field name = "TITLE">FUJITSU DEVELOPS FAST SIMULATION PROCESSOR</field>
+	<field name = "titulo">FUJITSU DEVELOPS FAST SIMULATION PROCESSOR</field>
 	<field name = "DATELINE">TOKYO, June 19 -</field>
-	<field name = "BODY">Fujitsu Ltd ITSU.T> has developed a
+	<field name = "content">Fujitsu Ltd ITSU.T> has developed a
 simulation processor which will operate faster than any
 computer and will speed development of the next generation of
 computers, a spokesman told Reuters.

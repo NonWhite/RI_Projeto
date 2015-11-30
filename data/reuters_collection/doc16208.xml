@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 08:23:44.97</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0688reute
-d f BC-NORTHROP-NOC>/EATON   04-13 0061</field>
-	<field name = "TITLE">NORTHROP NOC>/EATON ETN> IN HELICOPTER PROGRAM</field>
+	<field name = "titulo">NORTHROP NOC>/EATON ETN> IN HELICOPTER PROGRAM</field>
 	<field name = "DATELINE">LOS ANGELES, April 13 -</field>
-	<field name = "BODY">Northrop Corp said it and Eaton
+	<field name = "content">Northrop Corp said it and Eaton
 Corp have been selected by the McDonnell Douglas Corp/Textron
 Inc team to codevelop the aircraft survivability equipment for
 the U.S. Army's light helicopter experimental program.

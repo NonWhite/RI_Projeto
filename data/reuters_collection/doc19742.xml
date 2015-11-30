@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:46:33.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1778reute
-r f BC-TELEQUEST-TELQ.O>-CH   06-29 0048</field>
-	<field name = "TITLE">TELEQUEST TELQ.O> CHAIRMAN RESIGNS</field>
+	<field name = "titulo">TELEQUEST TELQ.O> CHAIRMAN RESIGNS</field>
 	<field name = "DATELINE">SAN DIEGO, Calif., June 219 -</field>
-	<field name = "BODY">Telequest Inc said Henry
+	<field name = "content">Telequest Inc said Henry
 Marcheschi, its chairman and president, resigned for health
 reasons.
     Executive vice president Robert Lee was elected president

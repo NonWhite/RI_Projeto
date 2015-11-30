@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:48:05.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2600reute
-r f BC-LOGICON-INC-LGN>-GET   04-07 0078</field>
-	<field name = "TITLE">LOGICON INC LGN> GETS CONTRACT ADD-ONS</field>
+	<field name = "titulo">LOGICON INC LGN> GETS CONTRACT ADD-ONS</field>
 	<field name = "DATELINE">LOS ANGELES, April 7 -</field>
-	<field name = "BODY">Logicon Inc said it has received a
+	<field name = "content">Logicon Inc said it has received a
 12 mln dlr add-on contract, including options, to continue
 developing the Joint Analytic Warfare System for the
 Organization of the Joint Chiefs of Staff.

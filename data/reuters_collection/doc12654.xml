@@ -3,13 +3,10 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "PLACES">uk</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">C T
-f1836reute
-u f BC-COFFEE-PRICES-SET-TO   04-02 0099</field>
-	<field name = "TITLE">COFFEE PRICES SET TO CONTINUE SLIDE - TRADERS</field>
+	<field name = "titulo">COFFEE PRICES SET TO CONTINUE SLIDE - TRADERS</field>
 	<field name = "AUTHOR">By Martin Hayes and Jane Merriman, Reuters</field>
 	<field name = "DATELINE">LONDON, April 2 -</field>
-	<field name = "BODY">Coffee prices look set to continue
+	<field name = "content">Coffee prices look set to continue
 sliding in the near term, given the lack of progress towards a
 new International Coffee Organization (ICO) export quota
 accord, according to coffee traders and analysts.

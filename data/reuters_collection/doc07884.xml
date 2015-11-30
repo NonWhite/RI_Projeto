@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 13:56:37.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1959reute
-u f BC-DST-SYSTEMS-DSTS>-PR   03-20 0058</field>
-	<field name = "TITLE">DST SYSTEMS DSTS> PRESIDENT DIES</field>
+	<field name = "titulo">DST SYSTEMS DSTS> PRESIDENT DIES</field>
 	<field name = "DATELINE">KANSAS CITY, MO., March 20 -</field>
-	<field name = "BODY">DST Systems Inc said its
+	<field name = "content">DST Systems Inc said its
 president and director, Robert L. Gould, died of an apparent
 heart attack.
     It said his duties will be assumed by Thomas McDonnell, the

@@ -2,12 +2,9 @@
 	<field name = "DATE">3-APR-1987 17:17:49.86</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2438reute
-u f BC-TIME-TL>-SEES-DILUTI   04-03 0111</field>
-	<field name = "TITLE">TIME TL> SEES DILUTION FROM SCOTT, FORESMAN</field>
+	<field name = "titulo">TIME TL> SEES DILUTION FROM SCOTT, FORESMAN</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">Time Inc said the acquisition of Scott,
+	<field name = "content">Time Inc said the acquisition of Scott,
 Foresman and Co last year will dilute earnings per share by
 about 17 cts a share for the full year in 1987.
     For the first quarter the acquisition will have a negative

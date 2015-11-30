@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 03:46:12.54</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0150reute
-b f BC-BRITISH-LAND-CONVERTI   03-19 0075</field>
-	<field name = "TITLE">BRITISH LAND CONVERTIBLE BOND RAISED TO 33 MLN STG</field>
+	<field name = "titulo">BRITISH LAND CONVERTIBLE BOND RAISED TO 33 MLN STG</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">British Land Co Plc BLND.L> convertible
+	<field name = "content">British Land Co Plc BLND.L> convertible
 eurobond issued yesterday has been raised to a total of 33 mln
 stg from the 30 mln originally indicated, lead manager Credit
 Suisse First Boston Ltd said.

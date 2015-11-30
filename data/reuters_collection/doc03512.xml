@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 07:11:51.55</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0589reute
-b f BC-SECURICOR-UNIT-SEEKS   03-11 0112</field>
-	<field name = "TITLE">SECURICOR UNIT SEEKS 50 MLN STG CREDIT FACILITY</field>
+	<field name = "titulo">SECURICOR UNIT SEEKS 50 MLN STG CREDIT FACILITY</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Security Services Plc, a unit of
+	<field name = "content">Security Services Plc, a unit of
 Securicor Group Plc, is seeking a 50 mln stg multi-option
 facility, County NatWest Capital Markets said as arranger.
     The facility will be for seven years and will allow the

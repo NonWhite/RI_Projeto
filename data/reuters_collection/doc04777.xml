@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "TOPICS">grain</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">C G
-f0817reute
-u f BC-UNOFFICIAL-STRIKE-IN   03-13 0110</field>
-	<field name = "TITLE">UNOFFICIAL STRIKE HITS ROTTERDAM GRAIN SECTOR</field>
+	<field name = "titulo">UNOFFICIAL STRIKE HITS ROTTERDAM GRAIN SECTOR</field>
 	<field name = "DATELINE">ROTTERDAM, March 13 -</field>
-	<field name = "BODY">About 220 men in Rotterdam port's
+	<field name = "content">About 220 men in Rotterdam port's
 grain sector stopped work this afternoon in an unofficial
 protest at the slow progress of negotiations over a new work
 practice agreement, a spokesman for the port and transport

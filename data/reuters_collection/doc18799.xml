@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 12:31:03.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f3818reute
-r f BC-REPUBLIC-BANK-RNB>-D   06-18 0106</field>
-	<field name = "TITLE">REPUBLIC BANK RNB> DEBT AFFIRMED BY S/P</field>
+	<field name = "titulo">REPUBLIC BANK RNB> DEBT AFFIRMED BY S/P</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 affirmed about 600 mln dlrs of debt of Republic Bank NY Corp.
     Affirmed were Republic's AA senior debt, AA-minus
 subordinated debt, A-plus preferred stock, A-1-plus commercial

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 14:33:40.58</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2088reute
-a f BC-MINNESOTA-LASER-INTRO   04-09 0058</field>
-	<field name = "TITLE">MINNESOTA LASER INTRODUCES NEW SURGICAL LASERS</field>
+	<field name = "titulo">MINNESOTA LASER INTRODUCES NEW SURGICAL LASERS</field>
 	<field name = "DATELINE">ST. PAUL, April 9 -</field>
-	<field name = "BODY">Minnesota Laser Corp said it introduced
+	<field name = "content">Minnesota Laser Corp said it introduced
 a new line of Coagulase Series Nd:YAG surgical laser systems.
     It said the lasers use 400 micron fiberoptics designed for
 endoscopic, microscopic and freehand surgical applications in

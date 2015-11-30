@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 07:11:17.01</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0590reute
-u f BC-SIEMENS-WINS-DANISH-T   03-31 0106</field>
-	<field name = "TITLE">SIEMENS WINS DANISH TELEPHONE SWITCHING ORDER</field>
+	<field name = "titulo">SIEMENS WINS DANISH TELEPHONE SWITCHING ORDER</field>
 	<field name = "DATELINE">MUNICH, March 31 -</field>
-	<field name = "BODY">Siemens AG SIEG.F> said it won a major
+	<field name = "content">Siemens AG SIEG.F> said it won a major
 order from Jydisk Telfon Aktieselskab (JTAG), Denmark's second
 largest telephone company, for its EWSD digital dialing system.
     A Siemens statement gave no financial details. But it said

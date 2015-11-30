@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">C G L M T
-f0945reute
-r f BC-SOVIET-MINISTER-SAYS   03-11 0087</field>
-	<field name = "TITLE">SOVIET MINISTER SAYS TRADE BOOST UP TO FRENCH</field>
+	<field name = "titulo">SOVIET MINISTER SAYS TRADE BOOST UP TO FRENCH</field>
 	<field name = "DATELINE">PARIS, March 11 -</field>
-	<field name = "BODY">Soviet first deputy prime minister
+	<field name = "content">Soviet first deputy prime minister
 Vsevolod Murakhovsky said at the end of a brief visit here his
 country wanted to boost joint business with France, but that a
 reduction of France's trade deficit with the Soviet Union

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:14:01.82</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f1900reute
-b f BC-/-FED-SAYS-IT-OFFERS   04-08 0111</field>
-	<field name = "TITLE">FED SAYS IT OFFERS TO BUY ALL COUPON ISSUES</field>
+	<field name = "titulo">FED SAYS IT OFFERS TO BUY ALL COUPON ISSUES</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">The Federal Reserve entered the U.S.
+	<field name = "content">The Federal Reserve entered the U.S.
 Government securities market and offered to buy all maturities
 of Treasury notes and bonds, a Fed spokesman said.
     He said this coupon "pass," which adds permanent reserves

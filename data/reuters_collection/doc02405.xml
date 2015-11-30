@@ -6,12 +6,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">wilson</field>
-	<field name = "UNKNOWN">E A RM
-f0652reute
-u f BC-CANADA-DLR-DRIVEN-BY   03-05 0103</field>
-	<field name = "TITLE">CANADA DLR DRIVEN BY FOREIGN BUYERS - WILSON</field>
+	<field name = "titulo">CANADA DLR DRIVEN BY FOREIGN BUYERS - WILSON</field>
 	<field name = "DATELINE">OTTAWA, March 5 -</field>
-	<field name = "BODY">Finance Minister Michael Wilson said
+	<field name = "content">Finance Minister Michael Wilson said
 large inflows of capital into Canada, principally into the
 country's bond market, is a major reason behind the sharp
 recovery in the Canadian dollar.

@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 06:43:05.58</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0008
-reute
-u f BC-REUTERS-TO-CARRY-JIJI   03-02 0102</field>
-	<field name = "TITLE">REUTERS TO CARRY JIJI FINANCIAL SERVICES</field>
+	<field name = "titulo">REUTERS TO CARRY JIJI FINANCIAL SERVICES</field>
 	<field name = "DATELINE">LONDON, March 2 -</field>
-	<field name = "BODY">Reuters Holdings Plc RTRS.L> said it
+	<field name = "content">Reuters Holdings Plc RTRS.L> said it
 would display an English language financial news service
 provided by the Japanese Jiji Press from the second quarter of
 1987.

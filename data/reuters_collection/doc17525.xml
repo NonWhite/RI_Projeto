@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 10:02:00.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1018reute
-d f BC-BAUSCH-AND-LOMB-BOL>   06-01 0089</field>
-	<field name = "TITLE">BAUSCH AND LOMB BOL> ANNOUNCES NEW PRODUCTS</field>
+	<field name = "titulo">BAUSCH AND LOMB BOL> ANNOUNCES NEW PRODUCTS</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., June 1 -</field>
-	<field name = "BODY">Bausch and Lomb said it plans to
+	<field name = "content">Bausch and Lomb said it plans to
 launch a new line of soft contact lens care products in the
 United States.
     The company said the line will be marketed under the ReNu

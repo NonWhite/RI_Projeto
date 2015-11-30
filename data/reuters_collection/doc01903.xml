@@ -3,12 +3,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0209reute
-u f BC-CREDITORS-SEEK-SWIFT   03-04 0107</field>
-	<field name = "TITLE">CREDITORS SEEK SWIFT RESCUE PACKAGE FOR JAPAN LINE</field>
+	<field name = "titulo">CREDITORS SEEK SWIFT RESCUE PACKAGE FOR JAPAN LINE</field>
 	<field name = "DATELINE">TOKYO, March 5 -</field>
-	<field name = "BODY">A group of creditor banks hopes to work
+	<field name = "content">A group of creditor banks hopes to work
 out a rescue package for Japan Line Ltd JLIT.T>, one of the
 world's largest tanker operators, by the end of Japan's
 business year on March 31, a spokesman for the Industrial Bank

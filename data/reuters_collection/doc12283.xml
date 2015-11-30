@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:04:01.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2372reute
-r f BC-TOWLE-TOW>-SAYS-COMM   04-01 0106</field>
-	<field name = "TITLE">TOWLE TOW> SAYS COMMON MAY BE CANCELLED</field>
+	<field name = "titulo">TOWLE TOW> SAYS COMMON MAY BE CANCELLED</field>
 	<field name = "DATELINE">BOSTON, Mass., April 1 -</field>
-	<field name = "BODY">Towle Manufacturing Co, operating
+	<field name = "content">Towle Manufacturing Co, operating
 under Chapter 11, said that based on a reorganization plan it
 is likely that its outstanding common and preferred will be
 substantially diluted or cancelled.

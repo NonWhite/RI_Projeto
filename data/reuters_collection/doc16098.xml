@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">C G L M T
-f0067reute
-r f BC-DRY-SPELL-IN-PHILIPPI   04-11 0108</field>
-	<field name = "TITLE">DRY SPELL IN PHILIPPINES DAMAGES AGRICULTURE CROPS</field>
+	<field name = "titulo">DRY SPELL IN PHILIPPINES DAMAGES AGRICULTURE CROPS</field>
 	<field name = "DATELINE">MANILA, April 11 -</field>
-	<field name = "BODY">A prolonged dry spell has damaged
+	<field name = "content">A prolonged dry spell has damaged
 111,350 hectares of rice and corn plantations in 10 provinces
 in the central and southern Philippines, agriculture officials
 said.

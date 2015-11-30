@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 08:35:51.10</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f4746reute
-u f BC-U.K.-BUDGET-HOPES-BOO   03-17 0113</field>
-	<field name = "TITLE">U.K. BUDGET HOPES BOOSTED BY PSBR DATA - ANALYSTS</field>
+	<field name = "titulo">U.K. BUDGET HOPES BOOSTED BY PSBR DATA - ANALYSTS</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">Data on the U.K.'s public sector
+	<field name = "content">Data on the U.K.'s public sector
 borrowing requirement has boosted hopes of a large fiscal
 adjustment for the coming financial year, broking and banking
 analysts said.

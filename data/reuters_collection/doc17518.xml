@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">F Y
-f0974reute
-u f BC-SAUDI-RENEGOTIATION-O   06-01 0102</field>
-	<field name = "TITLE">SAUDI RENEGOTIATION OF ARAMCO DEAL MOVING ALONG</field>
+	<field name = "titulo">SAUDI RENEGOTIATION OF ARAMCO DEAL MOVING ALONG</field>
 	<field name = "DATELINE">NEW YORK, JUNE 1 -</field>
-	<field name = "BODY">Saudi Arabia's renegotiation of its
+	<field name = "content">Saudi Arabia's renegotiation of its
 collective agreement with Aramco to purchase oil for the
 latter's ex-partners is moving along and should lead to a
 fundamental structural change in the contract, oil industry

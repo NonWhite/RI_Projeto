@@ -3,13 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f0786
-reute
-b f BC-NEW-DUTCH-ADVANCES-TO   03-02 0093</field>
-	<field name = "TITLE">NEW DUTCH ADVANCES TOTAL 4.8 BILLION GUILDERS</field>
+	<field name = "titulo">NEW DUTCH ADVANCES TOTAL 4.8 BILLION GUILDERS</field>
 	<field name = "DATELINE">AMSTERDAM, 2 March -</field>
-	<field name = "BODY">The Dutch Central Bank said it has
+	<field name = "content">The Dutch Central Bank said it has
 accepted bids totalling 4.8 billion guilders at tender for new
 seven-day special advances at 5.3 pct covering the period March
 2 to 9 aimed at relieving money market tightness.

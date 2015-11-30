@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 17:56:55.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2735reute
-r f BC-NMS-PHARMACEUTICAL-N   03-24 0069</field>
-	<field name = "TITLE">NMS PHARMACEUTICAL NMSI> SETS NEW BLOOD TEST</field>
+	<field name = "titulo">NMS PHARMACEUTICAL NMSI> SETS NEW BLOOD TEST</field>
 	<field name = "DATELINE">NEWPORT BEACH, Calif., March 24 -</field>
-	<field name = "BODY">NMS Pharmaceuticals Inc
+	<field name = "content">NMS Pharmaceuticals Inc
 said it has launched a new over-the-counter urinary blood test
 that will be sold through drugstores soon.
     The test, called EZ Detect Urinary Blood Test, detects

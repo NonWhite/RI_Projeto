@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 11:06:35.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f1165reute
-u f BC-S/P-WITHDRAWS-RATINGS   06-19 0108</field>
-	<field name = "TITLE">S/P WITHDRAWS RATINGS ON CAESARS WORLD CAW></field>
+	<field name = "titulo">S/P WITHDRAWS RATINGS ON CAESARS WORLD CAW></field>
 	<field name = "DATELINE">NEW YORK, June 19 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it
+	<field name = "content">Standard and Poor's Corp said it
 withdrew the ratings on Caesars World Inc and unit Caesars
 World Finance Corp.
     The action affects 230.8 mln dlrs of debt.

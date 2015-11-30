@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 09:34:27.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0848reute
-r f BC-STANLEY-INTERIORS-ST   03-20 0100</field>
-	<field name = "TITLE">STANLEY INTERIORS STHF> TO SELL CONVERTIBLES</field>
+	<field name = "titulo">STANLEY INTERIORS STHF> TO SELL CONVERTIBLES</field>
 	<field name = "DATELINE">NEW YORK, March 20 -</field>
-	<field name = "BODY">Stanley Interiors Corp said it filed
+	<field name = "content">Stanley Interiors Corp said it filed
 with the Securities and Exchange Commission a registration
 statement covering a 30 mln dlr issue of convertible
 subordinated debentures due 2012, plus an additional 4.5 mln

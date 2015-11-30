@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 16:17:01.57</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V
-f2534reute
-b f BC-new-york-business-loa   03-26 0082</field>
-	<field name = "TITLE">NEW YORK BUSINESS LOANS FALL 222 MLN DLRS</field>
+	<field name = "titulo">NEW YORK BUSINESS LOANS FALL 222 MLN DLRS</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Commercial and industrial loans on the
+	<field name = "content">Commercial and industrial loans on the
 books of the 10 major New York banks, excluding acceptances,
 fell 222 mln dlrs to 64.05 billion in the week ended March 18,
 the Federal Reserve Bank of New York said.

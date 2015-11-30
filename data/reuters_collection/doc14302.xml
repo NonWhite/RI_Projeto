@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:21:03.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1543reute
-h f BC-MOTOROLA-MOT>-SELECT   04-07 0105</field>
-	<field name = "TITLE">MOTOROLA MOT> SELECTS SYSTEM COMPILERS</field>
+	<field name = "titulo">MOTOROLA MOT> SELECTS SYSTEM COMPILERS</field>
 	<field name = "DATELINE">TEMPE, Ariz., April 7 -</field>
-	<field name = "BODY">Motorola Inc said it has selected
+	<field name = "content">Motorola Inc said it has selected
 Oregon Software's> Pascal-2 compilers as the compiler for its
 MC68000 family of 16-bit microprocessor chips under the
 VERSados and SYSTEM V/68 operating systems.

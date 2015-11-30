@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 16:42:41.28</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9488reute
-h f BC-LOTUS-LOTS>-CUTS-PRI   03-18 0078</field>
-	<field name = "TITLE">LOTUS LOTS> CUTS PRICE ON 1-2-3 REPORT WRITER</field>
+	<field name = "titulo">LOTUS LOTS> CUTS PRICE ON 1-2-3 REPORT WRITER</field>
 	<field name = "DATELINE">CAMBRIDGE, Mass., March 18 -</field>
-	<field name = "BODY">Lotus Development Corp said it
+	<field name = "content">Lotus Development Corp said it
 reduced the suggested retail price of its 1-2-3 Report Writer
 software package to 95 dlrs from 150 dlrs.
     The company said it also removed copy protection from the

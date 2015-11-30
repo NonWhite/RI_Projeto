@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 12:26:11.43</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f1709reute
-d f BC-NORTHERN-TELECOM-NT>   04-08 0097</field>
-	<field name = "TITLE">NORTHERN TELECOM NT> SENDS SHIPMENT TO NIPPON</field>
+	<field name = "titulo">NORTHERN TELECOM NT> SENDS SHIPMENT TO NIPPON</field>
 	<field name = "DATELINE">RESEARCH TRIANGLE PARK, N.C., April 8 -</field>
-	<field name = "BODY">Northern Telecom
+	<field name = "content">Northern Telecom
 said it shipped the first digital central office switching
 system it sold to Nippon Telegraph and Telephone under the
 terms of a 250 mln dlrs supply agreement.

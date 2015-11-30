@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 13:26:09.63</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1958reute
-r f BC-MUNSON-MGEO>-GETS-PR   04-08 0102</field>
-	<field name = "TITLE">MUNSON MGEO> GETS PROJECT FINANCING</field>
+	<field name = "titulo">MUNSON MGEO> GETS PROJECT FINANCING</field>
 	<field name = "DATELINE">RENO, Nev., April 8 -</field>
-	<field name = "BODY">Munson Geothermal Inc said it
+	<field name = "content">Munson Geothermal Inc said it
 received the necessary financing to complete construction work
 at its Brady Hot Springs facility and begin commercial delivery
 of geothermally produced electricity to Sierra Pacific Resouces

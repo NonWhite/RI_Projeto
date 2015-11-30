@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 19:08:49.67</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E
-f2825reute
-u f BC-QUEBEC-COURT-UPHOLDS   03-30 0113</field>
-	<field name = "TITLE">QUEBEC COURT UPHOLDS LABATT RACE CONTRACT</field>
+	<field name = "titulo">QUEBEC COURT UPHOLDS LABATT RACE CONTRACT</field>
 	<field name = "DATELINE">MONTREAL, March 30 -</field>
-	<field name = "BODY">(John Labatt Ltd)'s Labatt Breweries
+	<field name = "content">(John Labatt Ltd)'s Labatt Breweries
 Ltd unit has the right to stage this year's Formula One Grand
 Prix race in Montreal, Quebec's Superior Court ruled.
     The court ruled that Labatt's contract with the city of

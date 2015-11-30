@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 14:04:15.25</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1988reute
-d f BC-INVESTITECH-ITLD.O>   06-01 0054</field>
-	<field name = "TITLE">INVESTITECH ITLD.O> GETS MORTGAGE LOAN</field>
+	<field name = "titulo">INVESTITECH ITLD.O> GETS MORTGAGE LOAN</field>
 	<field name = "DATELINE">FORT LAUDERDALE, Fla., June 1 -</field>
-	<field name = "BODY">Investitech Ltd said it has
+	<field name = "content">Investitech Ltd said it has
 closed on a 500,000 dlr long-term mortgage loan in connection
 with its previous purchase of a Mulberry, Fla., plant,
 replacing a short-term borrowing.

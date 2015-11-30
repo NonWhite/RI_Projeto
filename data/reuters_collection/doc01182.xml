@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 12:48:58.53</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM
-f0146reute
-b f BC-ITALIAN-GOVERNMENT-RE   03-03 0090</field>
-	<field name = "TITLE">ITALIAN GOVERNMENT RESIGNS</field>
+	<field name = "titulo">ITALIAN GOVERNMENT RESIGNS</field>
 	<field name = "DATELINE">ROME, March 3 -</field>
-	<field name = "BODY">Italian Prime Minister Bettino Craxi and
+	<field name = "content">Italian Prime Minister Bettino Craxi and
 his five-party coalition government have resigned, officials
 said.
     A statement from the Quirinal presidential palace said head

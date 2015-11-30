@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 11:36:36.40</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">panama</field>
-	<field name = "UNKNOWN">C G L M T
-f1370reute
-u f BC-PANAMA-CANAL-OFFICIAL   03-19 0105</field>
-	<field name = "TITLE">PANAMA CANAL OFFICIAL CONFIRMS NO 1988 TOLL RISE</field>
+	<field name = "titulo">PANAMA CANAL OFFICIAL CONFIRMS NO 1988 TOLL RISE</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">Panama Canal toll charges will not rise
+	<field name = "content">Panama Canal toll charges will not rise
 in the year to end-September 1988, despite last October's
 landslide which dumped 0.5 mln cubic yards of debris into the
 waterway, Canal Commission Administrator Dennis McAuliffe said.

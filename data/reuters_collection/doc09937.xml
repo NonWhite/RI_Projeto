@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 11:13:17.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1416reute
-d f BC-BDM-BDM>-GETSW-ARMY   03-26 0063</field>
-	<field name = "TITLE">BDM BDM> GETSW ARMY CONTRACT</field>
+	<field name = "titulo">BDM BDM> GETSW ARMY CONTRACT</field>
 	<field name = "DATELINE">MCLEAN, Va., March 26 -</field>
-	<field name = "BODY">BDM International Inc said it has
+	<field name = "content">BDM International Inc said it has
 received a U.S. Army contract with a base year value of
 1,400,000 dlrs to support the plans and operations staff of the
 U.S. Army Joint Readiness Training Center, based at Little Rock

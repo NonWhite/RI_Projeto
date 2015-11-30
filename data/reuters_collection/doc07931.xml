@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 15:21:45.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2220reute
-u f BC-CENTRUST-SAVINGS-DLP   03-20 0114</field>
-	<field name = "TITLE">CENTRUST SAVINGS DLP> TO RECAPITALIZE STOCK</field>
+	<field name = "titulo">CENTRUST SAVINGS DLP> TO RECAPITALIZE STOCK</field>
 	<field name = "DATELINE">MIAMI, March 20 -</field>
-	<field name = "BODY">Centrust Savings Bank said it will
+	<field name = "content">Centrust Savings Bank said it will
 recapitalize its common stock at the close of business today,
 converting each share of outstanding common into 0.5 share of
 common and 0.5 share of series one participating stock.

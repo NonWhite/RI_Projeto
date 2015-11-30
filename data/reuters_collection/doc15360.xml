@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 17:46:26.17</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2725reute
-r f BC-INVESTOR-CHARGES-WITH   04-08 0109</field>
-	<field name = "TITLE">INVESTOR CHARGES WITH STOCK MANUPULATION</field>
+	<field name = "titulo">INVESTOR CHARGES WITH STOCK MANUPULATION</field>
 	<field name = "DATELINE">NEW YORK, April 8 -</field>
-	<field name = "BODY">William Rodman, a 43-year-old New York
+	<field name = "content">William Rodman, a 43-year-old New York
 investor was indicted for allegedly plotting to manipulate the
 price of three over-the-counter stocks to drive up their prices
 and create interest in the companies.

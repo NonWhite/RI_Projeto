@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 16:08:28.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0735reute
-d f BC-CABOT-MEDICAL-CBOT>   03-05 0079</field>
-	<field name = "TITLE">CABOT MEDICAL CBOT> HAS LASER SURGERY ACCESSORY</field>
+	<field name = "titulo">CABOT MEDICAL CBOT> HAS LASER SURGERY ACCESSORY</field>
 	<field name = "DATELINE">LANGHRNE, Pa., March 5 -</field>
-	<field name = "BODY">Cabot Medical Corp said it has
+	<field name = "content">Cabot Medical Corp said it has
 introduced a new high flow insufflator for laparoscopy, a
 minimally invasive form of adominal surgey.
     The company said the KLI high-Flow Insufflator has features

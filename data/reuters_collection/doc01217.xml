@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 13:30:42.16</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0344reute
-r f BC-JAGUAR-JAGRY>-FEBRUA   03-03 0059</field>
-	<field name = "TITLE">JAGUAR JAGRY> FEBRUARY U.S. SALES FALL</field>
+	<field name = "titulo">JAGUAR JAGRY> FEBRUARY U.S. SALES FALL</field>
 	<field name = "DATELINE">LEONIA, N.J., March 3 -</field>
-	<field name = "BODY">Jaguar PLC's Jaguar Cars Inc U.S.
+	<field name = "content">Jaguar PLC's Jaguar Cars Inc U.S.
 subsidiary said February sales were 1,466, down from 1,673 a
 year before.
     The company said it expects a resumption of U.S. sales

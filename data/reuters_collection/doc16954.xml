@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">sumita</field>
-	<field name = "UNKNOWN">F A
-f0481reute
-r f BC-JAPAN-CAREFULLY-WATCH   04-21 0111</field>
-	<field name = "TITLE">JAPAN CAREFULLY WATCHING MARKETS, SUMITA SAYS</field>
+	<field name = "titulo">JAPAN CAREFULLY WATCHING MARKETS, SUMITA SAYS</field>
 	<field name = "DATELINE">TOKYO, April 21 -</field>
-	<field name = "BODY">The Bank of Japan is carefully watching
+	<field name = "content">The Bank of Japan is carefully watching
 the recent rapid rise of the Tokyo stock and yen bond markets
 for their impact on inflation, governor Satoshi Sumita said.
     In a statement to the bank's regional branch managers,

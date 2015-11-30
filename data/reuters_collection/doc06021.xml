@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 11:19:09.96</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5361reute
-d f BC-SUNWORLD-SUNA>-HAS-H   03-17 0103</field>
-	<field name = "TITLE">SUNWORLD SUNA> HAS HIGHER LOAD FACTOR</field>
+	<field name = "titulo">SUNWORLD SUNA> HAS HIGHER LOAD FACTOR</field>
 	<field name = "DATELINE">LAS VEGAS, Nev., March 17 -</field>
-	<field name = "BODY">Sunworld International Airways
+	<field name = "content">Sunworld International Airways
 Inc said its February load factor rose to 53 pct from 46.1 pct
 a year earlier and its year-to-date load factor was up to 52
 pct from the 51 pct posted for the same period last year.

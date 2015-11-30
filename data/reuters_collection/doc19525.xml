@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 05:04:52.33</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">portugal</field>
-	<field name = "UNKNOWN">RM 
-f0311reute
-b f BC-PORTUGAL-ISSUES-700-M   06-29 0115</field>
-	<field name = "TITLE">PORTUGAL ISSUES 700 MLN FRENCH FRANC BOND</field>
+	<field name = "titulo">PORTUGAL ISSUES 700 MLN FRENCH FRANC BOND</field>
 	<field name = "DATELINE">PARIS, June 29 -</field>
-	<field name = "BODY">The Republic of Portugal is issuing a 700
+	<field name = "content">The Republic of Portugal is issuing a 700
 mln French franc variable-rate bond due July 1995 at 100.05
 pct, lead manager Credit Commercial de France said.
     The issue of unsecured, unsubordinated debt will have a

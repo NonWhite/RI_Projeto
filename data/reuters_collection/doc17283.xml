@@ -2,12 +2,9 @@
 	<field name = "DATE">27-APR-1987 07:31:11.28</field>
 	<field name = "TOPICS">money-fx</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0619reute
-b f BC-BANK-OF-ENGLAND-DOES   04-27 0047</field>
-	<field name = "TITLE">BANK OF ENGLAND DOES NOT INTERVENE IN MONEY MARKET</field>
+	<field name = "titulo">BANK OF ENGLAND DOES NOT INTERVENE IN MONEY MARKET</field>
 	<field name = "DATELINE">LONDON, April 27 -</field>
-	<field name = "BODY">The Bank of England said it did not
+	<field name = "content">The Bank of England said it did not
 intervene in the money market during the morning.
     It also said that it had raised its estimate of the
 liquidity shortage in the market to 450 mln stg from 400 mln.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 14:59:12.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2129reute
-r f BC-PHILADELPHIA-ELECTRIC   04-07 0110</field>
-	<field name = "TITLE">PHILADELPHIA ELECTRIC PE> REPLACES ENGINEER</field>
+	<field name = "titulo">PHILADELPHIA ELECTRIC PE> REPLACES ENGINEER</field>
 	<field name = "DATELINE">PHILADELPHIA, April 7 -</field>
-	<field name = "BODY">Philadelphia Electric Co said the
+	<field name = "content">Philadelphia Electric Co said the
 Operations Engineer at its Peach Bottom Atomic Power Station
 has been replaced with another nuclear experienced, qualified
 engineer holding a senior operator license at Peach Bottom.

@@ -3,12 +3,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">adb-asia</field>
-	<field name = "UNKNOWN">RM
-f0493reute
-r f BC-U.S.,-JAPAN-AT-ODDS-A   04-27 0107</field>
-	<field name = "TITLE">U.S., JAPAN AT ODDS AT ADB MEETING</field>
+	<field name = "titulo">U.S., JAPAN AT ODDS AT ADB MEETING</field>
 	<field name = "DATELINE">TOKYO, April 27 -</field>
-	<field name = "BODY">The United States and Japan are waging a
+	<field name = "content">The United States and Japan are waging a
 behind the scenes battle at this week's Asian Development Bank
 meeting over Tokyo's attempts to win a greater say in the
 organization, U.S. And Japanese delegates said.

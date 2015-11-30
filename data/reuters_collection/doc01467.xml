@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 10:17:03.27</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">RM
-f0329reute
-b f BC-VNESHTORGBANK-SEEKS-2   03-04 0079</field>
-	<field name = "TITLE">VNESHTORGBANK SEEKS 200 MLN DLR LOAN</field>
+	<field name = "titulo">VNESHTORGBANK SEEKS 200 MLN DLR LOAN</field>
 	<field name = "DATELINE">LONDON, March 4 -</field>
-	<field name = "BODY">Vneshtorgbank, the Soviet foreign trade
+	<field name = "content">Vneshtorgbank, the Soviet foreign trade
 bank, is seeking a 200 mln dlr, eight-year multi-currency
 syndicated loan, First Chicago Ltd said as arranger and sole
 mandated bank.

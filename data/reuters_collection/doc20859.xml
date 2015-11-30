@@ -2,13 +2,10 @@
 	<field name = "DATE">19-OCT-1987 20:19:58.87</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">F A RM 
-f3505reute
-r f AM-STOCKS-CAMPAIGN-(NEWS -ANALYSIS)  10-19 0099</field>
-	<field name = "TITLE">STOCK MARKET'S FALL MAY BE BAD OMEN FOR REPUBLICANS</field>
+	<field name = "titulo">STOCK MARKET'S FALL MAY BE BAD OMEN FOR REPUBLICANS</field>
 	<field name = "AUTHOR">By MICHAEL GELB</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">Monday's stock market collapse could
+	<field name = "content">Monday's stock market collapse could
 spell disaster for Republican hopes of retaining the White
 House in 1988 -- if it proves to be the start of a general
 economic downturn -- political experts said.

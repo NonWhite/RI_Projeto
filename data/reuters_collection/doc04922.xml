@@ -2,12 +2,9 @@
 	<field name = "DATE">13-MAR-1987 13:20:53.30</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">C
-f0857reute
-d f BC-CME-BOARD-PLAN-SAID-N   03-13 0104</field>
-	<field name = "TITLE">CME BOARD PLAN SAID NOT ANSWER TO DUAL TRADING</field>
+	<field name = "titulo">CME BOARD PLAN SAID NOT ANSWER TO DUAL TRADING</field>
 	<field name = "DATELINE">WASHINGTON, March 13 -</field>
-	<field name = "BODY">A proposal by the Chicago Mercantile
+	<field name = "content">A proposal by the Chicago Mercantile
 Exchange's (CME) board of directors to restrict dual trading by
 stock-index futures floor brokers would not provide a solution
 to alleged abuses in the market, House Small Business Committee

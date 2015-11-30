@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:38:45.21</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1329reute
-r f BC-BOEING-PROPOSES-WESTL   04-07 0104</field>
-	<field name = "TITLE">BOEING PROPOSES WESTLAND DEAL</field>
+	<field name = "titulo">BOEING PROPOSES WESTLAND DEAL</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">Boeing Co BA.N> said its Boeing Vertol
+	<field name = "content">Boeing Co BA.N> said its Boeing Vertol
 helicopter unit proposed that U.K. Helicopter maker Westland
 Plc> should build up to a third of all future Chinooks for
 Britain's airforce.

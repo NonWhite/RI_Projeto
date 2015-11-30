@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 13:28:25.60</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0938reute
-r f BC-DIGITEXT-DIGT>-PLANS   03-12 0064</field>
-	<field name = "TITLE">DIGITEXT DIGT> PLANS UNIT OFFERING</field>
+	<field name = "titulo">DIGITEXT DIGT> PLANS UNIT OFFERING</field>
 	<field name = "DATELINE">THOUSAND OAKS, Calif., March 12 -</field>
-	<field name = "BODY">Digitext Inc said it
+	<field name = "content">Digitext Inc said it
 signed a letter of intent covering a planned 12 mln dlr unit
 offering consisting of preferred stock and warrants to purchase
 common stock.

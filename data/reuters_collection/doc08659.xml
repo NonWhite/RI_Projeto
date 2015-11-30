@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 07:11:07.26</field>
 	<field name = "PLACES">pakistan</field>
-	<field name = "UNKNOWN">V
-f0495reute
-u f BC-SECOND-PAKISTAN-BOMBI   03-24 0094</field>
-	<field name = "TITLE">SECOND PAKISTAN BOMBING KILLS 22</field>
+	<field name = "titulo">SECOND PAKISTAN BOMBING KILLS 22</field>
 	<field name = "DATELINE">ISLAMABAD, March 24 -</field>
-	<field name = "BODY">Afghan warplanes killed 22 people in
+	<field name = "content">Afghan warplanes killed 22 people in
 a second bombing in as many days of a remote Pakistani village
 near the Afghan border, official Radio Pakistan said.
     The radio said the six planes attacked Angur Adar in the

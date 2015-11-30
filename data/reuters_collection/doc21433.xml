@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 09:47:13.21</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1064reute
-u f BC-GENCORP-GY>-SEEKS-RE   10-19 0093</field>
-	<field name = "TITLE">GENCORP GY> SEEKS RETENTION OF LICENSES</field>
+	<field name = "titulo">GENCORP GY> SEEKS RETENTION OF LICENSES</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">Gencorp's RKO General said it has
+	<field name = "content">Gencorp's RKO General said it has
 asked the Federal Communication scommission to reverse an
 administrative law judge's decision to revoke all 14 of the
 company's broadcast licenses.

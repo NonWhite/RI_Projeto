@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 00:42:43.75</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0022reute
-u f BC-HAIG-SAYS-HE-PLANS-TO   03-24 0104</field>
-	<field name = "TITLE">HAIG SAYS HE PLANS TO RUN FOR U.S. PRESIDENT</field>
+	<field name = "titulo">HAIG SAYS HE PLANS TO RUN FOR U.S. PRESIDENT</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">Former U.S. Secretary of State
+	<field name = "content">Former U.S. Secretary of State
 Alexander Haig has announced his intention to run for
 president.
     Haig, a former general and NATO chief who served seven

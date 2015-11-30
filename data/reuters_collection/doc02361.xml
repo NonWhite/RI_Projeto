@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 14:36:31.79</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0420reute
-d f BC-VW-EXPECTS-FURTHER-FA   03-05 0117</field>
-	<field name = "TITLE">VW EXPECTS FURTHER FALL IN U.S. SALES IN 1987</field>
+	<field name = "titulo">VW EXPECTS FURTHER FALL IN U.S. SALES IN 1987</field>
 	<field name = "DATELINE">WOLFSBURG, March 5 -</field>
-	<field name = "BODY">Volkswagen AG VOWG.F> expects
+	<field name = "content">Volkswagen AG VOWG.F> expects
 currency factors to cause a further drop in its U.S. Sales in
 1987 following a 5.2 pct sales decline in the United States in
 1986, board member Karl-Heinz Briam said.

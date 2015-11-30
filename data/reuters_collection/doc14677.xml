@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:00:19.47</field>
-	<field name = "UNKNOWN">C
-f2495reute
-u f BC-ny-rubber-report   04-07 0058</field>
-	<field name = "TITLE">N.Y. RUBBER REPORT</field>
+	<field name = "titulo">N.Y. RUBBER REPORT</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">SIR 20 from Palembang traded for April
+	<field name = "content">SIR 20 from Palembang traded for April
 shipment at 34-1/2 cents a lb and 34-5/8 cents a lb, FOB,
 sight, brokers said.
     SIR 20 from Padang traded for April shipment at 34-5/8

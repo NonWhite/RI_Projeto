@@ -4,12 +4,9 @@
 	<field name = "PLACES">belgium</field>
 	<field name = "ORGS">ec</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">C G
-f1993reute
-r f BC-ACP-STATES-SAY-EC-OIL   06-02 0097</field>
-	<field name = "TITLE">ACP STATES SAY EC OILS TAX PLAN BREAKS ACCORDS</field>
+	<field name = "titulo">ACP STATES SAY EC OILS TAX PLAN BREAKS ACCORDS</field>
 	<field name = "DATELINE">BRUSSELS, June 2 -</field>
-	<field name = "BODY">Developing countries said the European
+	<field name = "content">Developing countries said the European
 Community (EC) would breach two international agreements if it
 went ahead with its plans for an oils and fats tax.
     Ambassadors to the EC from African, Caribbean and Pacific

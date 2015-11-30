@@ -2,12 +2,9 @@
 	<field name = "DATE">16-MAR-1987 04:58:51.72</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">F
-f1331reute
-u f BC-MANILA-GOVERNMENT-TO   03-16 0091</field>
-	<field name = "TITLE">MANILA GOVERNMENT TO TAKE OVER SAN MIGUEL BOARD</field>
+	<field name = "titulo">MANILA GOVERNMENT TO TAKE OVER SAN MIGUEL BOARD</field>
 	<field name = "DATELINE">MANILA, March 16 -</field>
-	<field name = "BODY">A government commission that controls 51
+	<field name = "content">A government commission that controls 51
 pct of San Miguel Corp> (SMC) stock will increase its nominees
 on the firm's 15-member board to nine from six.
     "We want to correct business practices," Ramon Diaz, chairman

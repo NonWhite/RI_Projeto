@@ -6,12 +6,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">japan</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">RM C G L M T
-f2892reute
-u f BC-GATT-WARNS-U.S.-ON-FE   03-26 0110</field>
-	<field name = "TITLE">GATT WARNS U.S. ON FEDERAL BUDGET, PROTECTIONISM</field>
+	<field name = "titulo">GATT WARNS U.S. ON FEDERAL BUDGET, PROTECTIONISM</field>
 	<field name = "DATELINE">GENEVA, March 27 -</field>
-	<field name = "BODY">The United States' emphasis on its
+	<field name = "content">The United States' emphasis on its
 foreign trade deficit is misplaced and the country's real
 problem lies in its large federal budget deficit, the General
 Agreeement on Tariffs and Trade (GATT) said.

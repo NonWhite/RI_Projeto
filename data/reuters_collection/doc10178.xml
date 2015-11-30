@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 16:33:19.68</field>
 	<field name = "PLACES">costa-rica</field>
-	<field name = "UNKNOWN">A RM
-f2609reute
-r f AM-centam-banker   03-26 0090</field>
-	<field name = "TITLE">COSTA RICAN CENTRAL BANK CHIEF RESIGNS</field>
+	<field name = "titulo">COSTA RICAN CENTRAL BANK CHIEF RESIGNS</field>
 	<field name = "DATELINE">SAN JOSE, March 26 -</field>
-	<field name = "BODY">Eduardo Lizano, President of Costa
+	<field name = "content">Eduardo Lizano, President of Costa
 Rica's central bank and the country's chief debt negotiator,
 has tendered his resignation and will be leaving the government
 next month, a central bank spokesman said.

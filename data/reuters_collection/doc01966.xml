@@ -4,12 +4,9 @@
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">france</field>
 	<field name = "PEOPLE">balladur</field>
-	<field name = "UNKNOWN">RM
-f0666reute
-u f BC-FRENCH-INTERVENTION-R   03-05 0103</field>
-	<field name = "TITLE">FRENCH INTERVENTION RATE CUT LIKELY, DEALERS SAY</field>
+	<field name = "titulo">FRENCH INTERVENTION RATE CUT LIKELY, DEALERS SAY</field>
 	<field name = "DATELINE">PARIS, March 5 -</field>
-	<field name = "BODY">The Bank of France is likely to cut its
+	<field name = "content">The Bank of France is likely to cut its
 money market intervention rate by up to a quarter point at the
 start of next week.  This follows a steady decline in the call
 money rate over the past 10 days and signals from the Finance

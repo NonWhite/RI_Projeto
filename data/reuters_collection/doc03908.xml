@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 15:33:44.76</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0450reute
-r f BC-ENSECO-INC-NCCO>-4TH   03-11 0037</field>
-	<field name = "TITLE">ENSECO INC NCCO> 4TH QTR LOSS</field>
+	<field name = "titulo">ENSECO INC NCCO> 4TH QTR LOSS</field>
 	<field name = "DATELINE">CAMBRIDGE, Mass., March 11 -</field>
-	<field name = "BODY">Oper shr loss six cts vs profit seven cts
+	<field name = "content">Oper shr loss six cts vs profit seven cts
     Oper net loss 481,517 vs profit 487,432
     Revs 7,492,686 vs 5,575,043
     Avg shrs 8.5 mln vs 7.2 mln

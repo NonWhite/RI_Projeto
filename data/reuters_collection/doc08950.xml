@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 14:28:40.07</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V RM
-f2114reute
-b f BC-/-FED-BUYS-500-MLN-DL   03-24 0068</field>
-	<field name = "TITLE">FED BUYS 500 MLN DLRS OF BILLS FOR CUSTOMER</field>
+	<field name = "titulo">FED BUYS 500 MLN DLRS OF BILLS FOR CUSTOMER</field>
 	<field name = "DATELINE">NEW YORK, March 24 -</field>
-	<field name = "BODY">The Federal Reserve purchased about
+	<field name = "content">The Federal Reserve purchased about
 500 mln dlrs of U.S. Treasury bills for a customer, a
 spokeswoman said.
     She said that the Fed bought bills maturing in June and

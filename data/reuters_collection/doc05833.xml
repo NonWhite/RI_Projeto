@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 05:56:17.13</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f4419reute
-u f BC-SPAIN'S-FECSA-SUSPEND   03-17 0101</field>
-	<field name = "TITLE">SPAIN'S FECSA SUSPENDS PRINCIPAL REPAYMENTS</field>
+	<field name = "titulo">SPAIN'S FECSA SUSPENDS PRINCIPAL REPAYMENTS</field>
 	<field name = "DATELINE">MADRID, March 17 -</field>
-	<field name = "BODY">Fuerzas Electricas de Catalunya (FECSA)
+	<field name = "content">Fuerzas Electricas de Catalunya (FECSA)
 suspended repayments of principal on its debts in order to
 start renegotiating its obligations with banks next month, a
 company spokesman said.

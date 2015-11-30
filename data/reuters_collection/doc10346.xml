@@ -1,14 +1,12 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 07:11:25.12RM</field>
-	<field name = "UNKNOWN">f0482reute</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PEOPLE">conable</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">r f BC-WORLD-BANK-CHIEF-URGE   03-27 0098</field>
-	<field name = "TITLE">WORLD BANK CHIEF URGES MORE JAPANESE INVESTMENT</field>
+	<field name = "titulo">WORLD BANK CHIEF URGES MORE JAPANESE INVESTMENT</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">World Bank President Barber Conable
+	<field name = "content">World Bank President Barber Conable
 called on Japan to boost investment in developing nations, for
 its own sake as well as that of the world economy.
     "Japan has the means to make a major contribution to

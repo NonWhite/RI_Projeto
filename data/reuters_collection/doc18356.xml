@@ -2,12 +2,9 @@
 	<field name = "DATE">2-JUN-1987 19:24:43.92</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C
-f2937reute
-r f AM-GULF-CONGRESS-1stld   06-02 0128</field>
-	<field name = "TITLE">U.S. HOUSE PASSES MIDEAST GULF BILL</field>
+	<field name = "titulo">U.S. HOUSE PASSES MIDEAST GULF BILL</field>
 	<field name = "DATELINE">WASHINGTON, June 2 -</field>
-	<field name = "BODY">The House today approved a bill
+	<field name = "content">The House today approved a bill
 requiring the Reagan administration to report to Congress on
 its Mideast Gulf policy but not restricting its actions.
     The vote in favor was despite a last-minute revolt by an

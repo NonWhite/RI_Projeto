@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 10:44:48.48</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1344reute
-u f BC-IDC-SERVICES-IDCS.O>   10-19 0103</field>
-	<field name = "TITLE">IDC SERVICES IDCS.O> HOLDERS OFFERED 16 DLRS</field>
+	<field name = "titulo">IDC SERVICES IDCS.O> HOLDERS OFFERED 16 DLRS</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">IDC Services Inc said a new company will
+	<field name = "content">IDC Services Inc said a new company will
 begin a cash tender offer by October 26 to acquire all of IDC's
 outstanding common for 16 dlrs a share.
     The company said the offer is being made under a definitive

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 01:13:30.46</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0036reute
-b f BC-JAPAN-SEEN-CUTTING-AP   03-26 0109</field>
-	<field name = "TITLE">JAPAN SEEN CUTTING APRIL BOND COUPON FROM FIVE PCT</field>
+	<field name = "titulo">JAPAN SEEN CUTTING APRIL BOND COUPON FROM FIVE PCT</field>
 	<field name = "DATELINE">TOKYO, March 26 -</field>
-	<field name = "BODY">The underwriting syndicate expects the
+	<field name = "content">The underwriting syndicate expects the
 Finance Ministry to propose a 0.2 to 0.3 percentage point cut
 in the coupon of the 10-year government bond to be issued in
 April from the five pct March issue, underwriting sources said.

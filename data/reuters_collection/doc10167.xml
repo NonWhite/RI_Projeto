@@ -3,13 +3,10 @@
 	<field name = "TOPICS">acq</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f2569reute
-u f BC-BP-BP>-MAY-HAVE-TO-R   03-26 0092</field>
-	<field name = "TITLE">BP BP> MAY HAVE TO RAISE BID -  ANALYSTS</field>
+	<field name = "titulo">BP BP> MAY HAVE TO RAISE BID -  ANALYSTS</field>
 	<field name = "AUTHOR">By STEVEN RADWELL, Reuters</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">British Petroleum Co PLC may have to
+	<field name = "content">British Petroleum Co PLC may have to
 raise its planned 70 dlrs a share tender offer for the publicly
 traded shares of Standard Oil Co SRD>, analysts said.
     "There's a lot of speculation here that someway or other

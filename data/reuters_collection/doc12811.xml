@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0653reute
-b f BC-U.K.-MONEY-MARKET-DEF   04-03 0039</field>
-	<field name = "TITLE">U.K. MONEY MARKET DEFICIT FURTHER REVISED UPWARD</field>
+	<field name = "titulo">U.K. MONEY MARKET DEFICIT FURTHER REVISED UPWARD</field>
 	<field name = "DATELINE">LONDON, April 3 -</field>
-	<field name = "BODY">The Bank of England said it has revised
+	<field name = "content">The Bank of England said it has revised
 its estimate of today's shortfall to 800 mln stg from 750 mln,
 before taking account of 170 mln stg morning assistance.
  REUTER</field>

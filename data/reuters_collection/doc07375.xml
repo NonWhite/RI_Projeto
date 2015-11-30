@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 15:26:58.27</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2243reute
-u f BC-FLEET-FINANCIAL-FLT>   03-19 0109</field>
-	<field name = "TITLE">FLEET FINANCIAL FLT> MAY BE UPGRADED BY MOODY'S</field>
+	<field name = "titulo">FLEET FINANCIAL FLT> MAY BE UPGRADED BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 may upgrade Fleet Financial Group's 1.1 billion dlrs of debt.
     Moody's cited Fleet's announced merger with Norstar Bancorp
 Inc NOR>. The rating agency said it will examine the degree to

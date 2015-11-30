@@ -1,13 +1,11 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 05:38:29.99G C L</field>
-	<field name = "UNKNOWN">f0353reute</field>
 	<field name = "TOPICS">carcass</field>
 	<field name = "PLACES">botswana</field>
 	<field name = "PLACES">zimbabwe</field>
-	<field name = "UNKNOWN">r f BC-BOTSWANA-BANS-ZIMBABW   03-27 0118</field>
-	<field name = "TITLE">BOTSWANA BANS ZIMBABWE MEAT PRODUCTS, AGENCY SAYS</field>
+	<field name = "titulo">BOTSWANA BANS ZIMBABWE MEAT PRODUCTS, AGENCY SAYS</field>
 	<field name = "DATELINE">GABORONE, March 27 -</field>
-	<field name = "BODY">Botswana has stopped importing almost
+	<field name = "content">Botswana has stopped importing almost
 all meat products from Zimbabwe after reports of a suspected
 outbreak of foot and mouth disease in the neighbouring country.
     Botswana's official news agency, BOPA, announcing the ban

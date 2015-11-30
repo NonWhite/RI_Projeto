@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 09:56:58.42</field>
-	<field name = "UNKNOWN">E F 
-f0999reute
-r f BC-core-mark-to-sell   06-29 0079</field>
-	<field name = "TITLE">CORE-MARK CMK.TO> TO SELL FAST FOOD UNIT</field>
+	<field name = "titulo">CORE-MARK CMK.TO> TO SELL FAST FOOD UNIT</field>
 	<field name = "DATELINE">VANCOUVER, British Columbia, June 29 -</field>
-	<field name = "BODY">Core-Mark
+	<field name = "content">Core-Mark
 International Inc said it agreed to sell the assets of its fast
 food subsidiary Sandy's Fast 'N Fresh to a subsidiary of Vista
 Group Ltd, a Los Angeles based investment banking firm.

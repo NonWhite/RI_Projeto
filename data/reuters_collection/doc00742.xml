@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 15:53:45.09</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0960
-reute
-r f BC-GELCO-GEL>-SEES-FLAT   03-02 0094</field>
-	<field name = "TITLE">GELCO GEL> SEES FLAT 1987 PRETAX OPERATING NET</field>
+	<field name = "titulo">GELCO GEL> SEES FLAT 1987 PRETAX OPERATING NET</field>
 	<field name = "DATELINE">EDEN PRAIRIE, MINN., March 2 -</field>
-	<field name = "BODY">Gelco Corp said that,
+	<field name = "content">Gelco Corp said that,
 excluding the effects of a restructuring plan, it expects
 pre-tax operating earnings for the year to end July 31, 1987,
 to be about the same as those of last year.

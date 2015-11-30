@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-supply</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0629reute
-u f BC-GERMAN-CASH-IN-CIRCUL   03-06 0104</field>
-	<field name = "TITLE">GERMAN CASH IN CIRCULATION UP AT FEBRUARY'S CLOSE</field>
+	<field name = "titulo">GERMAN CASH IN CIRCULATION UP AT FEBRUARY'S CLOSE</field>
 	<field name = "DATELINE">FRANKFURT, March 6 -</field>
-	<field name = "BODY">Cash in circulation in West Germany
+	<field name = "content">Cash in circulation in West Germany
 rose by 2.8 billion marks in the last week of February to 121.5
 billion, a gain of 8.3 pct over the same month last year, the
 Bundesbank said.

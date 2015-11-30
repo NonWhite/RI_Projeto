@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0941reute
-b f BC-UK-MONEY-MARKET-GIVEN   03-12 0061</field>
-	<field name = "TITLE">UK MONEY MARKET GIVEN FURTHER TWO MLN STG HELP</field>
+	<field name = "titulo">UK MONEY MARKET GIVEN FURTHER TWO MLN STG HELP</field>
 	<field name = "DATELINE">LONDON, March 12 -</field>
-	<field name = "BODY">The Bank of England said it gave the
+	<field name = "content">The Bank of England said it gave the
 market further assistance of two mln stg during the afternoon,
 buying that amount of band two bank bills at 10-5/16 pct.
     The bank has given the market assistance worth 1.503

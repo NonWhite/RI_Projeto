@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 12:29:03.65</field>
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G
-f1798reute
-u f BC-MINISTER-SEES-ENOUGH   03-30 0113</field>
-	<field name = "TITLE">MINISTER SEES ENOUGH EC STATES AGAINST OILS TAX</field>
+	<field name = "titulo">MINISTER SEES ENOUGH EC STATES AGAINST OILS TAX</field>
 	<field name = "DATELINE">BRUSSELS, March 30 -</field>
-	<field name = "BODY">Enough European Community (EC) states
+	<field name = "content">Enough European Community (EC) states
 appear to be opposed to the proposals by the EC Commission for
 a 330 European currency unit (Ecu) a tonne tax on vegetable
 oils, fats and marine oils to block adoption by EC ministers,

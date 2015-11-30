@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 18:50:29.96</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0829reute
-d f BC-CONTINENTAL-FEDERAL-   03-06 0099</field>
-	<field name = "TITLE">CONTINENTAL FEDERAL CONF> HOLDER TO SELL STAKE</field>
+	<field name = "titulo">CONTINENTAL FEDERAL CONF> HOLDER TO SELL STAKE</field>
 	<field name = "DATELINE">OKLAHOMA CITY, March 6 -</field>
-	<field name = "BODY">Continental Federal Savings and
+	<field name = "content">Continental Federal Savings and
 Loan Association said it was told that an estate holding 38 pct
 of its stock plans to sell its stake at a premium over the
 current stock price.

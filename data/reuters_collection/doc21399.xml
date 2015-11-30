@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 10:24:18.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1239reute
-d f BC-ALLIANT-COMPUTER-INTR   10-19 0078</field>
-	<field name = "TITLE">ALLIANT COMPUTER INTRODUCES MINISUPERCOMUPTER</field>
+	<field name = "titulo">ALLIANT COMPUTER INTRODUCES MINISUPERCOMUPTER</field>
 	<field name = "DATELINE">LITTLETON, Mass., Oct 19 -</field>
-	<field name = "BODY">Alliant Computer Systems Corp
+	<field name = "content">Alliant Computer Systems Corp
 ALNT.O> said it introduced a parallel vector minisupercomputer
 priced at less than 100,000 dlrs.
     The company said the new FX/4 makes multi-user

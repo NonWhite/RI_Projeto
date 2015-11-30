@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:38:21.30F</field>
-	<field name = "UNKNOWN">f1355reute</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">r f BC-C.O.M.B.-COQ>-TO-HAV   03-27 0064</field>
-	<field name = "TITLE">C.O.M.B. COQ> TO HAVE OPTIONS ON AMEX</field>
+	<field name = "titulo">C.O.M.B. COQ> TO HAVE OPTIONS ON AMEX</field>
 	<field name = "DATELINE">NEW YORK, March 27 -</field>
-	<field name = "BODY">C.O.M.B Inc commenced trading put and
+	<field name = "content">C.O.M.B Inc commenced trading put and
 call options on the American Stock Exchange, according to the
 Exchange.
     The company's options will trade with initial expiration

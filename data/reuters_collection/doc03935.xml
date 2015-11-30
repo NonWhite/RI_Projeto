@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 16:08:40.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0552reute
-d f BC-DETROIT-EDISON-DTE>   03-11 0093</field>
-	<field name = "TITLE">DETROIT EDISON DTE> HALF COMPLETES POWER TEST</field>
+	<field name = "titulo">DETROIT EDISON DTE> HALF COMPLETES POWER TEST</field>
 	<field name = "DATELINE">DETROIT, March 11 -</field>
-	<field name = "BODY">Detroit Edison Co said it has nearly
+	<field name = "content">Detroit Edison Co said it has nearly
 completed the 50 pct power level testing of its Fermi 2 nuclear
 power plant near Monroe, Mich.
     The company said it is preparing to ask the Nuclear

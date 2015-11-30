@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 07:19:06.24</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F
-f0545reute
-r f BC-BOND-CORP-COMPLETES-C   04-01 0116</field>
-	<field name = "TITLE">BOND CORP COMPLETES CONSOLIDATED PRESS PURCHASE</field>
+	<field name = "titulo">BOND CORP COMPLETES CONSOLIDATED PRESS PURCHASE</field>
 	<field name = "DATELINE">PERTH, April 1 -</field>
-	<field name = "BODY">Bond Corp Holdings Ltd BONA.S> said it
+	<field name = "content">Bond Corp Holdings Ltd BONA.S> said it
 has completed the 1.05 billion dlr purchase of the electronic
 media interests of unlisted Consolidated Press Holdings Ltd>.
     The new company Bond Media Ltd> now holds the television,

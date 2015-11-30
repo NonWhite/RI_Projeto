@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:44:23.47F</field>
-	<field name = "UNKNOWN">f1397reute</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">india</field>
-	<field name = "UNKNOWN">r f BC-U.S.-TELLS-INDIA-IT-C   03-27 0093</field>
-	<field name = "TITLE">U.S. TELLS INDIA IT CAN BUY SUPERCOMPUTER</field>
+	<field name = "titulo">U.S. TELLS INDIA IT CAN BUY SUPERCOMPUTER</field>
 	<field name = "DATELINE">WASHINGTON, March 27 -</field>
-	<field name = "BODY">The United States told India it
+	<field name = "content">The United States told India it
 could purchase a supercomputer because U.S. concerns over a
 possible security breach had been removed.
     U.S. officials said the United States did not specify which

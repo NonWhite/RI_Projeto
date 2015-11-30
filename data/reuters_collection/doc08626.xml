@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">24-MAR-1987 04:50:32.06</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0279reute
-u f BC-CHINA-EXPECTED-TO-SHO   03-24 0093</field>
-	<field name = "TITLE">CHINA EXPECTED TO SHOW BIG 1986 BUDGET DEFICIT</field>
+	<field name = "titulo">CHINA EXPECTED TO SHOW BIG 1986 BUDGET DEFICIT</field>
 	<field name = "AUTHOR">By Mark O'Neill, Reuters</field>
 	<field name = "DATELINE">PEKING, March 24 -</field>
-	<field name = "BODY">China's Finance Minister Wang Bingqian
+	<field name = "content">China's Finance Minister Wang Bingqian
 will report a 1986 budget deficit of up to nine billion yuan
 and prescribe austerity measures for 1987 in a budget speech on
 Thursday, foreign bankers and diplomats told Reuters.

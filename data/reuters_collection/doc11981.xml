@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 10:45:30.92</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1187reute
-w f BC-FIRST-NATIONAL-BANK-C   04-01 0097</field>
-	<field name = "TITLE">FIRST NATIONAL BANK CORP TO BUY BRANCH</field>
+	<field name = "titulo">FIRST NATIONAL BANK CORP TO BUY BRANCH</field>
 	<field name = "DATELINE">MOUNT CLEMENS, MICH., April 1 -</field>
-	<field name = "BODY">First National Bank Corp,
+	<field name = "content">First National Bank Corp,
 the newly formed parent of First National Bank in Mount
 Clemens, Mich., and Bankers Fund Life Insurance Co, said it
 reached an agreement to buy a branch in Clinton Township from a

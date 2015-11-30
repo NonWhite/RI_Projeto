@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 15:17:34.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2230reute
-r f BC-U.S.-HOUSE-PANEL-APPR   04-01 0099</field>
-	<field name = "TITLE">U.S. HOUSE PANEL APPROVES AID FOR FSLIC</field>
+	<field name = "titulo">U.S. HOUSE PANEL APPROVES AID FOR FSLIC</field>
 	<field name = "DATELINE">WASHINGTON, April 1 -</field>
-	<field name = "BODY">The House Banking Committee voted
+	<field name = "content">The House Banking Committee voted
 45-5 in favor of a bill to raise five billion dlrs over two
 years to assist the Federal Savings and Loan Insurance Corp.
     The Federal Home Loan Banks would borrow the five billion

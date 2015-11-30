@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 14:54:19.29</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0605reute
-r f BC-AMERICAN-NETWORK-ANW   03-03 0048</field>
-	<field name = "TITLE">AMERICAN NETWORK ANWI> REDUCES CUSTOMER RATES</field>
+	<field name = "titulo">AMERICAN NETWORK ANWI> REDUCES CUSTOMER RATES</field>
 	<field name = "DATELINE">PORTLAND, Ore., March 3 -</field>
-	<field name = "BODY">American Network Inc said it has
+	<field name = "content">American Network Inc said it has
 reduced its long distance telephone service rates by two to 15
 pct.
     The reductions apply to the company's subsidiaries, STARNET

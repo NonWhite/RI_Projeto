@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 13:59:59.55</field>
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">colombia</field>
-	<field name = "UNKNOWN">RM
-f0318reute
-u f BC-colombian-inflation-r   03-04 0084</field>
-	<field name = "TITLE">COLOMBIAN INFLATION RISES 2.03 PCT IN FEBRUARY</field>
+	<field name = "titulo">COLOMBIAN INFLATION RISES 2.03 PCT IN FEBRUARY</field>
 	<field name = "DATELINE">Bogota, march 4 -</field>
-	<field name = "BODY">colombia's cost of living index rose 2.03
+	<field name = "content">colombia's cost of living index rose 2.03
 pct in february after a 3.27 pct increase in january and a 3.15
 pct rise in february 1986, the government statistics institute
 said.

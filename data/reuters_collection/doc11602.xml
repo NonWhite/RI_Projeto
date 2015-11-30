@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 14:58:39.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f2292reute
-u f BC-MANNY-HANNY   03-31 0106</field>
-	<field name = "TITLE">MANUFACTURERS HANOVER MHC> FILES FOR DEBT OFFER</field>
+	<field name = "titulo">MANUFACTURERS HANOVER MHC> FILES FOR DEBT OFFER</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Manufacturers Hanover Corp filed
+	<field name = "content">Manufacturers Hanover Corp filed
 with the Securities and Exchange Commission for a shelf
 offering of up to 822.25 mln dlrs of debt securities on terms
 to be determined at the time of the sale.

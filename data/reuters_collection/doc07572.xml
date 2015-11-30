@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-MAR-1987 05:51:18.54</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">RM
-f0322reute
-u f BC-ANZ-BANK-PLANS-100-ML   03-20 0105</field>
-	<field name = "TITLE">ANZ BANK PLANS 100 MLN AUS DLR EURO-CP PROGRAM</field>
+	<field name = "titulo">ANZ BANK PLANS 100 MLN AUS DLR EURO-CP PROGRAM</field>
 	<field name = "DATELINE">HONG KONG, March 20 -</field>
-	<field name = "BODY">Australia and New Zealand Banking
+	<field name = "content">Australia and New Zealand Banking
 Group Ltd ANZA.S> is planning a 100 mln Australian dlr
 Euro-commercial paper program, arranger ANZ Securities Asia Ltd
 said.

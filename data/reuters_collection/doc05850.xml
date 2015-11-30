@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 06:59:48.28</field>
 	<field name = "PLACES">saudi-arabia</field>
-	<field name = "UNKNOWN">RM
-f4502reute
-r f BC-ECONOMIC-SPOTLIGHT--   03-17 0105</field>
-	<field name = "TITLE">ECONOMIC SPOTLIGHT - SAUDI CORPORATE DEBT</field>
+	<field name = "titulo">ECONOMIC SPOTLIGHT - SAUDI CORPORATE DEBT</field>
 	<field name = "AUTHOR">By Stephen Jukes, Reuters</field>
 	<field name = "DATELINE">RIYADH, March 17 -</field>
-	<field name = "BODY">Bankers in Saudi Arabia are negotiating
+	<field name = "content">Bankers in Saudi Arabia are negotiating
 a delicate balance between western business practice and
 oriental justice as they try to restructure the troubled
 corporate sector's debt.

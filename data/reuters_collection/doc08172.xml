@@ -5,12 +5,9 @@
 	<field name = "TOPICS">jobs</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0426reute
-u f BC-FRENCH-GDP-SHOULD-RIS   03-23 0081</field>
-	<field name = "TITLE">FRENCH GDP SHOULD RISE 2.3 PCT IN 1988 - MINISTRY</field>
+	<field name = "titulo">FRENCH GDP SHOULD RISE 2.3 PCT IN 1988 - MINISTRY</field>
 	<field name = "DATELINE">PARIS, March 23 -</field>
-	<field name = "BODY">French gross domestic product should grow
+	<field name = "content">French gross domestic product should grow
 by 2.3 pct in 1988 after two pct growth this year and 2.1 pct
 in 1986, the Finance Ministry said.
     The latest forecast, prepared by the National Accounts and

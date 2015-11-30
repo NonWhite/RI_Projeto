@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 14:00:04.62F</field>
-	<field name = "UNKNOWN">f1946reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">h f BC-SCOTT'S-LIQUID-GOLD-I   03-27 0052</field>
-	<field name = "TITLE">SCOTT'S LIQUID GOLD INC YEAR OPER NET</field>
+	<field name = "titulo">SCOTT'S LIQUID GOLD INC YEAR OPER NET</field>
 	<field name = "DATELINE">DENVER, March 27 -</field>
-	<field name = "BODY">Oper shr two cts vs 10 cts
+	<field name = "content">Oper shr two cts vs 10 cts
     Oper net 162,300 vs 773,400
     Revs 16.6 mln vs 16.5 mln
     Avg shrs 8,282,480 vs 8,045,493

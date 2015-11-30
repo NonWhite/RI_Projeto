@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 04:59:32.06</field>
 	<field name = "PLACES">south-korea</field>
-	<field name = "UNKNOWN">F
-f0248reute
-u f BC-KOREA-EUROPE-FUND-SEE   03-19 0095</field>
-	<field name = "TITLE">KOREA EUROPE FUND SEEN LIKELY TO BE SUCCESS</field>
+	<field name = "titulo">KOREA EUROPE FUND SEEN LIKELY TO BE SUCCESS</field>
 	<field name = "AUTHOR">By Lee Su-wan, Reuters</field>
 	<field name = "DATELINE">SEOUL, March 19 -</field>
-	<field name = "BODY">The 30 mln dlr closed-end Korea Europe
+	<field name = "content">The 30 mln dlr closed-end Korea Europe
 Fund to be listed in London early next month will likely prove
 as successful as the New York-based 100 mln dlr Korea Fund,
 according to most securities analysts polled by Reuters here.

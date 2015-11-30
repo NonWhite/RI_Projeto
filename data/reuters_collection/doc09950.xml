@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 11:29:16.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f1479reute
-r f BC-FRANK-B.-HALL-FBH>-D   03-26 0093</field>
-	<field name = "TITLE">FRANK B. HALL FBH> DEBT MAY BE CUT BY MOODY'S</field>
+	<field name = "titulo">FRANK B. HALL FBH> DEBT MAY BE CUT BY MOODY'S</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Moody's Investors Service Inc said it
+	<field name = "content">Moody's Investors Service Inc said it
 may downgrade about 65 mln dlrs of Frank B. Hall and Co Inc's
 B-1 subordinated notes.
     Moody's said its focus will be on Hall's brokerage business

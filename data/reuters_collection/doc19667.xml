@@ -9,12 +9,9 @@
 	<field name = "TOPICS">rapeseed</field>
 	<field name = "TOPICS">sugar</field>
 	<field name = "PLACES">denmark</field>
-	<field name = "UNKNOWN">C G T 
-f1341reute
-r f BC-DANISH-CROPS-TWO-WEEK   06-29 0138</field>
-	<field name = "TITLE">DANISH CROPS TWO WEEKS BEHIND, OFFICIAL REPORT</field>
+	<field name = "titulo">DANISH CROPS TWO WEEKS BEHIND, OFFICIAL REPORT</field>
 	<field name = "DATELINE">COPENHAGEN, June 29 -</field>
-	<field name = "BODY">Danish crops are up to two weeks
+	<field name = "content">Danish crops are up to two weeks
 behind normal growth levels due to the cold weather in May and
 June, when mean temperatures were up to four centigrade below
 average, the State Plant Cultivation Bureau said in a report.

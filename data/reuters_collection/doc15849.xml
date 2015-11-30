@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 15:04:26.43</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2181reute
-r f BC-WESTERN-BELL-WBEL>-S   04-09 0058</field>
-	<field name = "TITLE">WESTERN BELL WBEL> SETS FILM PARTNERSHIP</field>
+	<field name = "titulo">WESTERN BELL WBEL> SETS FILM PARTNERSHIP</field>
 	<field name = "DATELINE">LOS ANGELES, April 9 -</field>
-	<field name = "BODY">Western Bell Communications Inc said
+	<field name = "content">Western Bell Communications Inc said
 it is preparing a 23-mln-dlr syndicated limited partnership to
 finance three films and three television pilots through its
 Western Bell Entertainment Inc unit.

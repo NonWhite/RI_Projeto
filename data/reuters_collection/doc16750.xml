@@ -4,12 +4,9 @@
 	<field name = "TOPICS">corn</field>
 	<field name = "PLACES">taiwan</field>
 	<field name = "PLACES">south-africa</field>
-	<field name = "UNKNOWN">G C
-f2931reute
-u f BC-TAIWAN-IMPORTS-210,00   04-13 0075</field>
-	<field name = "TITLE">TAIWAN IMPORTS 210,000 TONNES SOUTH AFRICAN MAIZE</field>
+	<field name = "titulo">TAIWAN IMPORTS 210,000 TONNES SOUTH AFRICAN MAIZE</field>
 	<field name = "DATELINE">TAIPEI, April 14 -</field>
-	<field name = "BODY">Taiwan imported about 210,000 tonnes of
+	<field name = "content">Taiwan imported about 210,000 tonnes of
 South African maize between January 1 and April 13, the joint
 committee of local maize importers said.
     Under a three-year agreement signed last year, South Africa

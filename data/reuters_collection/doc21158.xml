@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 13:46:48.03</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f2354reute
-r f BC-REPUBLIC-RNB>-UNIT'S   10-19 0083</field>
-	<field name = "TITLE">REPUBLIC RNB> UNIT'S NOTES YIELD 9.612 PCT</field>
+	<field name = "titulo">REPUBLIC RNB> UNIT'S NOTES YIELD 9.612 PCT</field>
 	<field name = "DATELINE">NEW YORK, Oct 19 -</field>
-	<field name = "BODY">Republic National Bank of New York, a
+	<field name = "content">Republic National Bank of New York, a
 unit of Republic New York Corp, is offering 100 mln dlrs of
 notes due 1989 yielding 9.612 pct, said sole manager Salomon
 Brothers Inc.

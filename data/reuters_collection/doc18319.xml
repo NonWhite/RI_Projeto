@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 17:15:56.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2748reute
-s f BC-PACIFIC-LIGHTING-CORP   06-02 0022</field>
-	<field name = "TITLE">PACIFIC LIGHTING CORP PLT> SETS QTLY DIV</field>
+	<field name = "titulo">PACIFIC LIGHTING CORP PLT> SETS QTLY DIV</field>
 	<field name = "DATELINE">LOS ANGELES, June 2 -</field>
-	<field name = "BODY">Shr 87 cts vs 87 cts prior
+	<field name = "content">Shr 87 cts vs 87 cts prior
     Pay August 14
     Record July 20
  Reuter</field>

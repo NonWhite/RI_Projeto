@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 06:55:01.57</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0419reute
-b f BC-MEPC-ISSUES-PARTLY-PA   03-19 0088</field>
-	<field name = "TITLE">MEPC ISSUES PARTLY PAID EUROSTERLING BOND</field>
+	<field name = "titulo">MEPC ISSUES PARTLY PAID EUROSTERLING BOND</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">U.K. Property company MEPC Plc is
+	<field name = "content">U.K. Property company MEPC Plc is
 issuing a 75 mln stg eurobond due April 15, 2004 paying 9-7/8
 pct and priced at 99-5/8 pct, lead manager County Natwest
 Capital Markets said.

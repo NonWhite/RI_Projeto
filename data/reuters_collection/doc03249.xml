@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 13:09:01.84</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0077reute
-u f BC-HONEYBEE-HBE>-SEES-N   03-09 0093</field>
-	<field name = "TITLE">HONEYBEE HBE> SEES NO REASON FOR STOCK RISE</field>
+	<field name = "titulo">HONEYBEE HBE> SEES NO REASON FOR STOCK RISE</field>
 	<field name = "DATELINE">NEW YORK, March 9 -</field>
-	<field name = "BODY">Honeybee Inc said it knows of no reason
+	<field name = "content">Honeybee Inc said it knows of no reason
 for the recent rise in its stock price.
     "There are no corporate or business developments, announced
 or unannounced," the company said in a statement.  "Business is

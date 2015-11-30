@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:15:50.40</field>
-	<field name = "UNKNOWN">T
-f1524reute
-u f BC-ny-oj-opg-report   04-07 0131</field>
-	<field name = "TITLE">N.Y. FCOJ FUTURES SURGE, OFF HIGHS MIDDAY</field>
+	<field name = "titulo">N.Y. FCOJ FUTURES SURGE, OFF HIGHS MIDDAY</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">Frozen concentrated orange juice
+	<field name = "content">Frozen concentrated orange juice
 futures ran up as much as 4.40 cents on frantic speculative
 short covering this morning, after local buying triggered buy
 stops in the May over 132.00 cents.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">30-MAR-1987 15:59:24.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2460reute
-r f BC-3COM-CORP-COMS>-INTR   03-30 0085</field>
-	<field name = "TITLE">3COM CORP COMS> INTRODUCES NEW WORKSTATION</field>
+	<field name = "titulo">3COM CORP COMS> INTRODUCES NEW WORKSTATION</field>
 	<field name = "DATELINE">SANTA CLARA, Calif., March 30 -</field>
-	<field name = "BODY">3Com Corp said it
+	<field name = "content">3Com Corp said it
 introduced a new network workstation for business applications.
     The product, called 3Station, is the first in a family of
 network workstations, which will later include a Token Ring

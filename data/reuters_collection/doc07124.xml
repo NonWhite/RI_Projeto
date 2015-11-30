@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 10:32:03.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1054reute
-u f BC-STERLING-STY>-SEEKS   03-19 0086</field>
-	<field name = "TITLE">STERLING STY> SEEKS FDA APPROVAL FOR MILRINONE</field>
+	<field name = "titulo">STERLING STY> SEEKS FDA APPROVAL FOR MILRINONE</field>
 	<field name = "DATELINE">NEW YORK, March 19 -</field>
-	<field name = "BODY">Sterling Drug Inc said it submitted a
+	<field name = "content">Sterling Drug Inc said it submitted a
 new drug application to the Food and Drug Administration for
 permission to market an oral form of Corotrope (milrinone), a
 drug for treating chronic congestive heart failure.

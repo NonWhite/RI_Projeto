@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 17:06:08.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM 
-f3317reute
-r f BC-BEARINGS-BER>-PLANS   10-20 0099</field>
-	<field name = "TITLE">BEARINGS BER> PLANS TO ISSUE CONVERTIBLE DEBT</field>
+	<field name = "titulo">BEARINGS BER> PLANS TO ISSUE CONVERTIBLE DEBT</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Bearings Inc said it filed with the
+	<field name = "content">Bearings Inc said it filed with the
 Securities and Exchange Commission a registration statement
 covering a 40 mln dlr issue of convertible subordinated
 debentures due 2012.

@@ -4,12 +4,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">south-korea</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0382reute
-u f BC-S.-KOREA-MINISTER-TO   03-31 0097</field>
-	<field name = "TITLE">S. KOREA MINISTER TO VISIT U.S. FOR CURRENCY TALKS</field>
+	<field name = "titulo">S. KOREA MINISTER TO VISIT U.S. FOR CURRENCY TALKS</field>
 	<field name = "DATELINE">SEOUL, March 31 -</field>
-	<field name = "BODY">South Korea's Finance Minister Chung
+	<field name = "content">South Korea's Finance Minister Chung
 In-yong will visit U.S. Treasury Secretary James Baker next
 week to discuss U.S. Requests for an appreciation of South
 Korea's won against the dollar, finance ministry officials

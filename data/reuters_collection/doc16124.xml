@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 03:36:32.99</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM
-f0143reute
-u f BC-SINGAPORE-EXTERNAL-TR   04-13 0112</field>
-	<field name = "TITLE">SINGAPORE EXTERNAL TRADE GAINS 8.8 PCT IN QUARTER</field>
+	<field name = "titulo">SINGAPORE EXTERNAL TRADE GAINS 8.8 PCT IN QUARTER</field>
 	<field name = "DATELINE">SINGAPORE, April 13 -</field>
-	<field name = "BODY">Singapore's external trade grew 8.8
+	<field name = "content">Singapore's external trade grew 8.8
 pct in first quarter 1987, against a 12.4 pct decline in the
 same period last year and two pct growth in the previous
 quarter, the Trade Development Board said.

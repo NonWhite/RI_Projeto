@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 04:44:08.92</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0352reute
-u f BC-TESCO-ASSOCIATE-BUYS   03-11 0075</field>
-	<field name = "TITLE">TESCO ASSOCIATE BUYS 4.2 PCT OF HILLARDS</field>
+	<field name = "titulo">TESCO ASSOCIATE BUYS 4.2 PCT OF HILLARDS</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Tesco Plc TSCO.L> said that County
+	<field name = "content">Tesco Plc TSCO.L> said that County
 Ltd> had yesterday bought on its behalf 2.06 mln shares, or
 around 4.2 pct, in Hillards Plc> for between 302p and 310p a
 share.

@@ -4,13 +4,10 @@
 	<field name = "PEOPLE">nakasone</field>
 	<field name = "PEOPLE">miyazawa</field>
 	<field name = "EXCHANGES">tse</field>
-	<field name = "UNKNOWN">RM V 
-f0246reute
-u f BC-JAPAN-TRIES-TO-STEM-S   10-20 0097</field>
-	<field name = "TITLE">JAPAN TRIES TO STEM STOCKS DIVE</field>
+	<field name = "titulo">JAPAN TRIES TO STEM STOCKS DIVE</field>
 	<field name = "AUTHOR">By Linda Sieg</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">Government and monetary authorities today
+	<field name = "content">Government and monetary authorities today
 staged a concerted effort to calm spreading panic on Japanese
 stock exchanges but market analysts said there were limits to
 their ability to succeed.

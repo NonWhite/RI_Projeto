@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:39:26.48</field>
-	<field name = "UNKNOWN">G
-f1629reute
-u f BC-cbt-soyproduct-report   04-07 0129</field>
-	<field name = "TITLE">CBT SOYPRODUCT FUTURES HIGHER AT MIDSESSION</field>
+	<field name = "titulo">CBT SOYPRODUCT FUTURES HIGHER AT MIDSESSION</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">CBT soyproduct futures continued to
+	<field name = "content">CBT soyproduct futures continued to
 trade higher in light midsession trade, with deferred months up
 most, supported by the strong tone in the nearby soybean pit,
 traders said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 15:03:02.53</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2173reute
-r f BC-NATIONAL-MEDICAL-NME   04-09 0086</field>
-	<field name = "TITLE">NATIONAL MEDICAL NME> FILES FOR DEBT OFFERING</field>
+	<field name = "titulo">NATIONAL MEDICAL NME> FILES FOR DEBT OFFERING</field>
 	<field name = "DATELINE">LOS ANGELES, April 9 -</field>
-	<field name = "BODY">National Medical Enterprises Inc
+	<field name = "content">National Medical Enterprises Inc
 said it filed a registration statement with the Securities and
 Exchange Commission covering 300 mln dlrs of debt securities.
     The proposed offering includes 150 mln dlrs of 30-year

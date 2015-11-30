@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 13:34:06.19</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2432reute
-b f BC-US-WEST-INC-USW>-3RD   10-20 0056</field>
-	<field name = "TITLE">US WEST INC USW> 3RD QTR NET</field>
+	<field name = "titulo">US WEST INC USW> 3RD QTR NET</field>
 	<field name = "DATELINE">DENVER, Oct 20 -</field>
-	<field name = "BODY">Shr 1.46 dlrs vs 1.41 dlrs
+	<field name = "content">Shr 1.46 dlrs vs 1.41 dlrs
     Net 277.5 mln vs 268.3 mln
     Sales 2.13 billion vs 2.14 billion
     Avg shrs 189.8 mln vs 189.8 mln

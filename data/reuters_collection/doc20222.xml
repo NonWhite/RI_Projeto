@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 10:17:24.57</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1201reute
-r f BC-GENERAL-SIGNAL   10-20 0043</field>
-	<field name = "TITLE">GENERAL SIGNAL CORP GSX> 3RD QTR NET</field>
+	<field name = "titulo">GENERAL SIGNAL CORP GSX> 3RD QTR NET</field>
 	<field name = "DATELINE">STAMFORD, Conn., Oct 20 -</field>
-	<field name = "BODY">Shr 67 cts vs 65 cts
+	<field name = "content">Shr 67 cts vs 65 cts
     Net 18.9 mln vs 18.6 mln
     Revs 399.0 mln vs 391 mln
     Nine mths

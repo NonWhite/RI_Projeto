@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 03:56:52.77</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0212reute
-u f BC-TORIES-MAINTAIN-LEAD   06-01 0112</field>
-	<field name = "TITLE">TORIES MAINTAIN LEAD 10 DAYS BEFORE U.K. ELECTION</field>
+	<field name = "titulo">TORIES MAINTAIN LEAD 10 DAYS BEFORE U.K. ELECTION</field>
 	<field name = "DATELINE">LONDON, June 1 -</field>
-	<field name = "BODY">A public opinion poll showed Prime
+	<field name = "content">A public opinion poll showed Prime
 Minister Margaret Thatcher's Conservatives maintaining their
 lead over the opposition Labour party as Britain's June 11
 general election campaign entered its third week. The poll,

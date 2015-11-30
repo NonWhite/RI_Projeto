@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 11:18:14.40</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1371reute
-r f BC-FIDELCOR-FICR>-COMPL   04-08 0059</field>
-	<field name = "TITLE">FIDELCOR FICR> COMPLETES SALE OF UNIT</field>
+	<field name = "titulo">FIDELCOR FICR> COMPLETES SALE OF UNIT</field>
 	<field name = "DATELINE">PHILADELPHIA, April 8 -</field>
-	<field name = "BODY">Fidelcor Inc said it has completed
+	<field name = "content">Fidelcor Inc said it has completed
 the sale of its Industrial Valley Title Insurance Co subsidiary
 to a group of investors including the unit's management for
 undisclosed terms.

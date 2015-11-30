@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 15:16:54.51</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2202reute
-r f BC-CANADAIR-studying-str   03-23 0089</field>
-	<field name = "TITLE">CANADAIR STUDYING STRETCH VERSION OF CHALLENGER</field>
+	<field name = "titulo">CANADAIR STUDYING STRETCH VERSION OF CHALLENGER</field>
 	<field name = "DATELINE">MONTREAL, March 23 -</field>
-	<field name = "BODY">Bombardier Inc>'s wholly owned
+	<field name = "content">Bombardier Inc>'s wholly owned
 Canadair Ltd said it was continuing to study stretching its
 Challenger business jet into a 48-passenger commuter aircraft
 and was receiving a favorable reaction to the concept from

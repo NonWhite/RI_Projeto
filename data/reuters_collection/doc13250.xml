@@ -3,12 +3,9 @@
 	<field name = "TOPICS">strategic-metal</field>
 	<field name = "PLACES">algeria</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">C M
-f0052reute
-r f BC-ALGERIAN,-SPANISH-FIR   04-05 0079</field>
-	<field name = "TITLE">ALGERIAN, SPANISH FIRMS AGREE QUICKSILVER PRICE</field>
+	<field name = "titulo">ALGERIAN, SPANISH FIRMS AGREE QUICKSILVER PRICE</field>
 	<field name = "DATELINE">ALGIERS, April 5 -</field>
-	<field name = "BODY">Algerian and Spanish producers which
+	<field name = "content">Algerian and Spanish producers which
 together meet 40 pct of the Western market's needs in
 quicksilver have agreed to apply a minimum selling price of 300
 dlrs per unit, the Algerian news agency APS said.

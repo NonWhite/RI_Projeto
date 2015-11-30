@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-APR-1987 13:42:05.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0371reute
-d f BC-NWA-NWA>-NAMES-NEW-H   04-17 0072</field>
-	<field name = "TITLE">NWA NWA> NAMES NEW HEAD FOR UNIT</field>
+	<field name = "titulo">NWA NWA> NAMES NEW HEAD FOR UNIT</field>
 	<field name = "DATELINE">ST. PAUL, Minn., April 17 -</field>
-	<field name = "BODY">NWA Inc said Edward A. Neer Jr.
+	<field name = "content">NWA Inc said Edward A. Neer Jr.
 has been named president and chief executive officer of its
 Mainline Travel Inc subsidiary, replacing Warren D. Phillips as
 chief executive and Robert L. Daniels asd president.

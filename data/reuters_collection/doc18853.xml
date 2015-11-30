@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 13:27:16.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4056reute
-r f BC-LITTLE-PRINCE-LTLP.O   06-18 0037</field>
-	<field name = "TITLE">LITTLE PRINCE LTLP.O> SETTLES SUIT</field>
+	<field name = "titulo">LITTLE PRINCE LTLP.O> SETTLES SUIT</field>
 	<field name = "DATELINE">NEW YORK, June 18 -</field>
-	<field name = "BODY">Little Prince Productions Ltd said it
+	<field name = "content">Little Prince Productions Ltd said it
 settled litigation with Nederlander Group, receiving one mln
 dlrs and paying Nederlander 38,000 dlrs.
                     

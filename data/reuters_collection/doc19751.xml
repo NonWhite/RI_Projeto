@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 12:57:12.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM A 
-f1809reute
-u f BC-BANK-OF-NEW-YORK-BK>   06-29 0105</field>
-	<field name = "TITLE">BANK OF NEW YORK BK> SEES 2ND QTR LOSS</field>
+	<field name = "titulo">BANK OF NEW YORK BK> SEES 2ND QTR LOSS</field>
 	<field name = "DATELINE">NEW YORK, June 29 -</field>
-	<field name = "BODY">Bank of New York Co Inc said it expects
+	<field name = "content">Bank of New York Co Inc said it expects
 a second quarter loss of 35 mln dlrs.
     The company said this is partly due to an addition of 135
 mln dlrs to its loan loss allowance.

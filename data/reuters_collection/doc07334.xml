@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 14:36:52.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2074reute
-r f BC-STRONG-POINT-INC-HAS   03-19 0121</field>
-	<field name = "TITLE">STRONG POINT INC HAS IMMUNE SYSTEM FORMULA</field>
+	<field name = "titulo">STRONG POINT INC HAS IMMUNE SYSTEM FORMULA</field>
 	<field name = "DATELINE">IRVINE, Calif., March 19 -</field>
-	<field name = "BODY">Strong Point Inc> said its
+	<field name = "content">Strong Point Inc> said its
 Pharmaceutical Technologies Inc unit has developed a formula
 for stimulating immune system function and reparing immune
 system damage, thereby protecting vulnerable body structures

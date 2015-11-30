@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 04:31:01.98</field>
-	<field name = "UNKNOWN">RM C G L M T
-f0175reute
-u f BC-DOLLAR-STARTS-EASIER   04-07 0113</field>
-	<field name = "TITLE">DOLLAR STARTS EASIER IN LONDON, STERLING FIRM</field>
+	<field name = "titulo">DOLLAR STARTS EASIER IN LONDON, STERLING FIRM</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">The dollar opened easier after markets in
+	<field name = "content">The dollar opened easier after markets in
 the Far East had sold it down for yen, defeating new attempts
 by the Bank of Japan to check the yen's rise through sustained
 currency intervention, dealers said.

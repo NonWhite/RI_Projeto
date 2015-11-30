@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 05:15:57.09F</field>
-	<field name = "UNKNOWN">f0320reute</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">b f BC-NIXDORF-WINS-300-MLN   03-27 0111</field>
-	<field name = "TITLE">NIXDORF WINS 300 MLN MARK LABOUR EXCHANGE ORDER</field>
+	<field name = "titulo">NIXDORF WINS 300 MLN MARK LABOUR EXCHANGE ORDER</field>
 	<field name = "DATELINE">FRANKFURT, March 27 -</field>
-	<field name = "BODY">Nixdorf Computer AG NIXG.F> said it
+	<field name = "content">Nixdorf Computer AG NIXG.F> said it
 won an order worth about 300 mln marks from the West German
 Federal Labour Office to computerise 90 local labour exchanges.
     The contract is the largest single order in Nixdorf's

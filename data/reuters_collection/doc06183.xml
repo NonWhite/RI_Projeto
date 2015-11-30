@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">venezuela</field>
 	<field name = "PLACES">ecuador</field>
-	<field name = "UNKNOWN">Y
-f6152reute
-u f BC-venezuela-ecuador-oil   03-17 0107</field>
-	<field name = "TITLE">VENEZUELA-ECUADOR OIL LOAN UNDER DISCUSSION</field>
+	<field name = "titulo">VENEZUELA-ECUADOR OIL LOAN UNDER DISCUSSION</field>
 	<field name = "DATELINE">CARACAS, March 17 -</field>
-	<field name = "BODY">Venezuela has still to work out final
+	<field name = "content">Venezuela has still to work out final
 details of its plan to supply Ecuador with 50,000 barrels per
 day of crude oil to compensate that country for lost exports
 caused by earthquake damage, a senior Petroleos de Venezuela

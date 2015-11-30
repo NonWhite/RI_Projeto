@@ -4,12 +4,9 @@
 	<field name = "TOPICS">rice</field>
 	<field name = "TOPICS">cotton</field>
 	<field name = "PLACES">pakistan</field>
-	<field name = "UNKNOWN">C G 
-f2195reute
-r f BC-PAKISTAN-ALLOWS-FREE   06-29 0136</field>
-	<field name = "TITLE">PAKISTAN ALLOWS PRIVATE COTTON, RICE EXPORTS</field>
+	<field name = "titulo">PAKISTAN ALLOWS PRIVATE COTTON, RICE EXPORTS</field>
 	<field name = "DATELINE">ISLAMABAD, June 29 -</field>
-	<field name = "BODY">The Pakistani government allowed the
+	<field name = "content">The Pakistani government allowed the
 private sector to export cotton and rice in a new trade policy
 announced to cover the next three years.
     Commerce and Planning Minister Mahbubul Haq said in a

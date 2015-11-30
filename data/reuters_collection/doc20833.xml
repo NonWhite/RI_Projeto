@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 19:13:15.22</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3599reute
-a f BC-FIRST-COMMERCIAL-FCO   10-20 0104</field>
-	<field name = "TITLE">FIRST COMMERCIAL FCOB.O> TO ACQUIRE CITIZENS BANK</field>
+	<field name = "titulo">FIRST COMMERCIAL FCOB.O> TO ACQUIRE CITIZENS BANK</field>
 	<field name = "DATELINE">SACRAMENTO, Oct 20 -</field>
-	<field name = "BODY">First Commercial Bancorp said it will
+	<field name = "content">First Commercial Bancorp said it will
 acquire the three-branch Citizens Bank of Roseville in a stock
 swap.
     The value of the agreement will be based on Citizens'

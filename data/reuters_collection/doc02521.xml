@@ -17,12 +17,9 @@
 	<field name = "PLACES">indonesia</field>
 	<field name = "PLACES">jordan</field>
 	<field name = "ORGS">iea</field>
-	<field name = "UNKNOWN">RM
-f0057reute
-u f BC-IEA-SAYS-OPEC-FEBRUAR   03-05 0108</field>
-	<field name = "TITLE">IEA SAYS OPEC FEBRUARY CRUDE OUTPUT 16.1 MLN BPD</field>
+	<field name = "titulo">IEA SAYS OPEC FEBRUARY CRUDE OUTPUT 16.1 MLN BPD</field>
 	<field name = "DATELINE">PARIS, March 6 -</field>
-	<field name = "BODY">OPEC produced an average 16.1 mln barrels
+	<field name = "content">OPEC produced an average 16.1 mln barrels
 per day (bpd) of crude oil in February, down from 16.5 mln the
 previous month and an overall 17.3 mln bpd in fourth quarter
 1986, the International Energy Agency said.

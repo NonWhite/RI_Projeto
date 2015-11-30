@@ -6,12 +6,9 @@
 	<field name = "PLACES">luxembourg</field>
 	<field name = "PLACES">spain</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G 
-f2997reute
-r f BC-SPAIN-APPEALS-FOR-EC   10-20 0129</field>
-	<field name = "TITLE">SPAIN APPEALS FOR EC HELP ON MAIZE IMPORTS</field>
+	<field name = "titulo">SPAIN APPEALS FOR EC HELP ON MAIZE IMPORTS</field>
 	<field name = "DATELINE">LUXEMBOURG, Oct 20 -</field>
-	<field name = "BODY">Spanish farm minister Carlos Romero,
+	<field name = "content">Spanish farm minister Carlos Romero,
 speaking at a meeting of EC farm ministers, called for action
 to help the Spanish maize market, Spanish diplomatic sources
 said.

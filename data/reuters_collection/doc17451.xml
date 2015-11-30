@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 02:19:36.44</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V
-f0106reute
-u f BC-U.S.-STUDY-SAYS-TARIF   06-01 0102</field>
-	<field name = "TITLE">U.S. STUDY SAYS TARIFFS AND QUOTAS COULD BACKFIRE</field>
+	<field name = "titulo">U.S. STUDY SAYS TARIFFS AND QUOTAS COULD BACKFIRE</field>
 	<field name = "DATELINE">WASHINGTON, June 1 -</field>
-	<field name = "BODY">The use of tariffs and quotas to
+	<field name = "content">The use of tariffs and quotas to
 reduce the flow of foreign goods into the United States will do
 little to cut the nation's swelling trade deficit, a government
 study said.

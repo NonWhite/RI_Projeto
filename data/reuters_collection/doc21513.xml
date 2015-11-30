@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 07:17:27.87</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PEOPLE">martens</field>
-	<field name = "UNKNOWN">V 
-f0551reute
-u f BC-BELGIAN-KING-SEEN-ACC   10-19 0110</field>
-	<field name = "TITLE">BELGIAN KING SEEN ACCEPTING GOVERNMENT RESIGNATION</field>
+	<field name = "titulo">BELGIAN KING SEEN ACCEPTING GOVERNMENT RESIGNATION</field>
 	<field name = "DATELINE">BRUSSELS, Oct 19 -</field>
-	<field name = "BODY">King Baudouin is expected to accept the
+	<field name = "content">King Baudouin is expected to accept the
 resignation of Belgian Prime Minister Wilfried Martens's
 centre-right coalition government after last-ditch talks failed
 to solve a language row, state-run RTBF radio said.

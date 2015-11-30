@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 18:05:37.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2804reute
-d f BC-AUDEC-IN-PRIVATE-PLAC   04-09 0057</field>
-	<field name = "TITLE">AUDEC IN PRIVATE PLACEMENT OF STOCK, WARRANTS</field>
+	<field name = "titulo">AUDEC IN PRIVATE PLACEMENT OF STOCK, WARRANTS</field>
 	<field name = "DATELINE">SADDLEBROOK, N.J., April 9 -</field>
-	<field name = "BODY">Audec Corp> said it sold
+	<field name = "content">Audec Corp> said it sold
 privately 24 units, each consisting of 40,000 common shares and
 40,000 redeemable common share purchase warrants, for a total
 of 480,000 dlrs.

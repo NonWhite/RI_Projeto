@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 05:34:45.33</field>
 	<field name = "PLACES">zambia</field>
 	<field name = "ORGS">imf</field>
-	<field name = "UNKNOWN">RM C M
-f0435reute
-r f BC-ZAMBIAN-CENTRAL-BANKE   04-02 0100</field>
-	<field name = "TITLE">ZAMBIAN CENTRAL BANKER CRITICISES IMF POLICIES</field>
+	<field name = "titulo">ZAMBIAN CENTRAL BANKER CRITICISES IMF POLICIES</field>
 	<field name = "DATELINE">LUSAKA, April 2 -</field>
-	<field name = "BODY">Bank of Zambia general manager Michael
+	<field name = "content">Bank of Zambia general manager Michael
 Mwape has accused the International Monetary Fund of ignoring
 social conditions when drawing up its economic reform
 programmes for African countries.

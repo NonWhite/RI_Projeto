@@ -3,12 +3,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">india</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">M C
-f0489reute
-u f BC-INDIA-AND-JAPAN-TO-DI   03-05 0102</field>
-	<field name = "TITLE">INDIA AND JAPAN TO DISCUSS IRON ORE PRICES</field>
+	<field name = "titulo">INDIA AND JAPAN TO DISCUSS IRON ORE PRICES</field>
 	<field name = "DATELINE">NEW DELHI, March 5 -</field>
-	<field name = "BODY">The state-owned Minerals and Metals
+	<field name = "content">The state-owned Minerals and Metals
 Trading Corp will send a team to Japan next week to negotiate
 an iron ore export contract for 1987/88 beginning April 1,
 trade sources said.

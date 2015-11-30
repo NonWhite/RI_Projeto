@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 03:24:43.51</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f0127reute
-u f BC-FRENCH-INVESTMENT-ABR   03-19 0109</field>
-	<field name = "TITLE">FRENCH INVESTMENT ABROAD ROSE 70 PCT IN 1986</field>
+	<field name = "titulo">FRENCH INVESTMENT ABROAD ROSE 70 PCT IN 1986</field>
 	<field name = "DATELINE">PARIS, March 19 -</field>
-	<field name = "BODY">French net investment abroad jumped 70
+	<field name = "content">French net investment abroad jumped 70
 pct to 34 billion francs in 1986 from 20 billion in 1985, with
 total new investment rising to 44 billion francs from 26
 billion and liquidation of investments rising to 10 billion

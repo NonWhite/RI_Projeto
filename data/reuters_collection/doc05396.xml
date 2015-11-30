@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 10:56:25.19</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2353reute
-d f BC-CLEVITE-CLEV>-FORMS   03-16 0081</field>
-	<field name = "TITLE">CLEVITE CLEV> FORMS JOINT VENTURE</field>
+	<field name = "titulo">CLEVITE CLEV> FORMS JOINT VENTURE</field>
 	<field name = "DATELINE">GLENVIEW, ILL., March 16 -</field>
-	<field name = "BODY">Clevite Industries Inc said it
+	<field name = "content">Clevite Industries Inc said it
 agreed in principle to form a joint venture company with
 Bridgestone Corp of Tokyo.
     Based in Milan, Ohio, the joint venture company,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 16:05:38.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0367reute
-d f BC-TEXAS-AIR-TEX>-NAMES   03-13 0052</field>
-	<field name = "TITLE">TEXAS AIR TEX> NAMES BRITT AIRWAYS PRESIDENT</field>
+	<field name = "titulo">TEXAS AIR TEX> NAMES BRITT AIRWAYS PRESIDENT</field>
 	<field name = "DATELINE">HOUSTON, March 13 -</field>
-	<field name = "BODY">Texas Air Corp said it named Norman
+	<field name = "content">Texas Air Corp said it named Norman
 McInnis as president of its Britt Airways unit, succeeding Bill
 Britt, who retired March one.
     McInnis, former president of Royale Airlines, most recently

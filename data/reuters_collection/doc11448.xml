@@ -2,12 +2,9 @@
 	<field name = "DATE">31-MAR-1987 12:04:29.10</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1682reute
-u f BC-NECO   03-31 0094</field>
-	<field name = "TITLE">NECO NPT> BIDDER EXTENDS TENDER OFFER</field>
+	<field name = "titulo">NECO NPT> BIDDER EXTENDS TENDER OFFER</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Investor David LaRoche said he has
+	<field name = "content">Investor David LaRoche said he has
 extended his cash offer to buy 170,000 shares of NECO
 Enterprises Inc at 26 dlrs each until April 14. The tender
 offer was to have expired yesterday.

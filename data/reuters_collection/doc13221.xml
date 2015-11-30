@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 18:37:17.30</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2544reute
-r f BC-HOUSTON-INDUSTRIES-H   04-03 0108</field>
-	<field name = "TITLE">HOUSTON INDUSTRIES HOU> UNIT TO BUY BACK BONDS</field>
+	<field name = "titulo">HOUSTON INDUSTRIES HOU> UNIT TO BUY BACK BONDS</field>
 	<field name = "DATELINE">NEW YORK, April 3 -</field>
-	<field name = "BODY">Houston Lighting and Power Co, a unit
+	<field name = "content">Houston Lighting and Power Co, a unit
 of Houston Industries Inc, said it will redeem on May 4 at par
 plus accrued interest about 140 mln dlrs of first mortgage
 bonds.

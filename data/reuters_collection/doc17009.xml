@@ -6,12 +6,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">rapeseed</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">C G
-f1537reute
-u f BC-FRENCH-WINTER-CEREAL   04-21 0106</field>
-	<field name = "TITLE">FRENCH WINTER CEREAL SOWING SEEN LITTLE CHANGED</field>
+	<field name = "titulo">FRENCH WINTER CEREAL SOWING SEEN LITTLE CHANGED</field>
 	<field name = "DATELINE">PARIS, April 21 -</field>
-	<field name = "BODY">The Ministry of Agriculture left its
+	<field name = "content">The Ministry of Agriculture left its
 estimates of French winter cereal sowings for the 1986/87
 campaign barely changed at 6.606 mln hectares compared with its
 previous forecast of 6.601 mln.

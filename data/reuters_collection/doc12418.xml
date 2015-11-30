@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-APR-1987 04:25:44.99</field>
 	<field name = "PLACES">denmark</field>
-	<field name = "UNKNOWN">RM
-f0312reute
-u f BC-DANISH-PLAN-TO-HELP-C   04-02 0113</field>
-	<field name = "TITLE">DANISH PLAN TO HELP CRISIS-HIT BANK DEPOSITORS</field>
+	<field name = "titulo">DANISH PLAN TO HELP CRISIS-HIT BANK DEPOSITORS</field>
 	<field name = "DATELINE">COPENHAGEN, April 2 -</field>
-	<field name = "BODY">The Danish Banks Association
+	<field name = "content">The Danish Banks Association
 announced a plan to help depositors in the small Sixth of July
 Bank (6. Juli Banken A/S), which ceased payments on March 23
 after the Government Bank Inspectorate said provisions were too

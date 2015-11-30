@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 16:50:51.14</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f0583reute
-r f BC-NZI-CORP-UNIT-SELLS-G   03-12 0099</field>
-	<field name = "TITLE">NZI CORP UNIT SELLS GUARANTEED NOTES AT 8.36 PCT</field>
+	<field name = "titulo">NZI CORP UNIT SELLS GUARANTEED NOTES AT 8.36 PCT</field>
 	<field name = "DATELINE">NEW YORK, March 12 -</field>
-	<field name = "BODY">NZI Capital Corp, a unit of NZI
+	<field name = "content">NZI Capital Corp, a unit of NZI
 Corp>, is offering 150 mln dlrs of guaranteed notes due 1997
 yielding 8.36 pct, said sole manager Kidder, Peabody and Co
 Inc.

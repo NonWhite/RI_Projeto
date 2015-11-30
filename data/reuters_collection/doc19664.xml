@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 11:06:36.39</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f1322reute
-r f BC-labatt-has-carlsberg   06-29 0103</field>
-	<field name = "TITLE">LABATT LBT.TO> HAS CARLSBERG BREWIING RIGHTS</field>
+	<field name = "titulo">LABATT LBT.TO> HAS CARLSBERG BREWIING RIGHTS</field>
 	<field name = "DATELINE">TORONTO, June 29 -</field>
-	<field name = "BODY">John Labatt Ltd said it acquired the
+	<field name = "content">John Labatt Ltd said it acquired the
 Canadian brewing and marketing rights to the Carlsberg group of
 brands effective July 1, 1988.
     Carlsberg products are now marketed in Eastern Canada by

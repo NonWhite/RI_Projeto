@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 08:21:33.77</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2801reute
-r f BC-SALOMON-SB>-SEES-LOW   06-18 0100</field>
-	<field name = "TITLE">SALOMON SB> SEES LOWER 2ND QTR</field>
+	<field name = "titulo">SALOMON SB> SEES LOWER 2ND QTR</field>
 	<field name = "DATELINE">NEW YORK, June 17 -</field>
-	<field name = "BODY">Robert Salomon, managing director of
+	<field name = "content">Robert Salomon, managing director of
 Salomon Inc, said the company's second quarter is "likely to be
 comfotrably in the black, but down from the comparable year-ago
 quarter," when Salomon earned 117 mln dlrs or 78 cts a share on

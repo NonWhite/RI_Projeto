@@ -3,12 +3,9 @@
 	<field name = "TOPICS">palm-oil</field>
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "PLACES">malaysia</field>
-	<field name = "UNKNOWN">C G
-f0216reute
-u f BC-PORLA-CRUDE-PALM-OIL   04-03 0081</field>
-	<field name = "TITLE">PORLA CRUDE PALM OIL TRADE REPORT FOR APRIL 2</field>
+	<field name = "titulo">PORLA CRUDE PALM OIL TRADE REPORT FOR APRIL 2</field>
 	<field name = "DATELINE">KUALA LUMPUR, April 3 -</field>
-	<field name = "BODY">The Palm Oil Registration and
+	<field name = "content">The Palm Oil Registration and
 Licensing Authority (PORLA) reports trade in crude palm oil
 (cpo) on April 2 as follows in ringgit per tonne delivered
 unless stated.

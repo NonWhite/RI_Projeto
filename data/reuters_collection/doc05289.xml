@@ -4,13 +4,10 @@
 	<field name = "TOPICS">dlr</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">V
-f1755reute
-u f BC-LEADING-INDUSTRIAL-NA   03-16 0090</field>
-	<field name = "TITLE">LEADING INDUSTRIAL NATIONS TO MEET IN APRIL</field>
+	<field name = "titulo">LEADING INDUSTRIAL NATIONS TO MEET IN APRIL</field>
 	<field name = "AUTHOR">By Peter Torday</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">Leading industrial nations will meet
+	<field name = "content">Leading industrial nations will meet
 again next month to review their accord on currency stability,
 but U.S. Officials said financial markets are convinced for now
 the countries will live up to commitments to speed up economic

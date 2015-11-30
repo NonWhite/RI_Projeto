@@ -1,12 +1,8 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:54:34.62</field>
-	<field name = "UNKNOWN">F
-f0605
-reute
-r f BC-DOT-REJECTS-SMOKING-B   03-02 0109</field>
-	<field name = "TITLE">DOT REJECTS SMOKING BAN ON DOMESTIC FLIGHTS</field>
+	<field name = "titulo">DOT REJECTS SMOKING BAN ON DOMESTIC FLIGHTS</field>
 	<field name = "DATELINE">WASHINGTON, March 2 -</field>
-	<field name = "BODY">The U.S. Department of Transportation
+	<field name = "content">The U.S. Department of Transportation
 (DOT) has concluded that a ban on smoking on all domestic
 airline flights is not justified at this time.
     The department made known its conclusions in a report to

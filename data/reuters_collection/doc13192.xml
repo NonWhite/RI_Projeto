@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 17:36:20.05</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2467reute
-u f BC-BAKER-BKO>,-HUGHES-T   04-03 0099</field>
-	<field name = "TITLE">BAKER BKO>, HUGHES TOOL HT> SIGN U.S. DECREE</field>
+	<field name = "titulo">BAKER BKO>, HUGHES TOOL HT> SIGN U.S. DECREE</field>
 	<field name = "DATELINE">HOUSTON, Texas, April 3 -</field>
-	<field name = "BODY">Baker International Corp and
+	<field name = "content">Baker International Corp and
 Hughes Tool Co said they signed a consent decree with the U.S.
 department of justice, resolving the department's objections to
 their merger.

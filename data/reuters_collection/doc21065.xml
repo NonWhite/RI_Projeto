@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 14:41:38.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2625reute
-r f BC-STOP-AND-SHOP-SHP>-T   10-19 0035</field>
-	<field name = "TITLE">STOP AND SHOP SHP> TO REPURCHASE SHARES</field>
+	<field name = "titulo">STOP AND SHOP SHP> TO REPURCHASE SHARES</field>
 	<field name = "DATELINE">BOSTON, Oct 19 -</field>
-	<field name = "BODY">Stop and Shop Cos Inc said its board has
+	<field name = "content">Stop and Shop Cos Inc said its board has
 authorized the repurchase of up to five pct of its common
 shares from time to time at prevailing market prices.
  Reuter</field>

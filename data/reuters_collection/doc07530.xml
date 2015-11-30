@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 21:57:04.60</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f2844reute
-u f BC-TAIWAN'S-EXPORT-ORDER   03-19 0100</field>
-	<field name = "TITLE">TAIWAN'S EXPORT ORDERS FALL IN FEBRUARY</field>
+	<field name = "titulo">TAIWAN'S EXPORT ORDERS FALL IN FEBRUARY</field>
 	<field name = "DATELINE">TAIPEI, March 20 -</field>
-	<field name = "BODY">Export orders for Taiwanese products
+	<field name = "content">Export orders for Taiwanese products
 fell 1.37 pct to 3.58 billion U.S. Dlrs in February from 3.63
 billion in January, but rose nearly 43 pct from 2.51 billion a
 year earlier, an Economic Ministry official said.

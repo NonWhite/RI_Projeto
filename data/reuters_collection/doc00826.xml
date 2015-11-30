@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 17:32:38.66</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0227
-reute
-r f BC-KIDDER-UNIT-SELLS-CMO   03-02 0109</field>
-	<field name = "TITLE">KIDDER UNIT SELLS CMOS, INCLUDING FLOATERS</field>
+	<field name = "titulo">KIDDER UNIT SELLS CMOS, INCLUDING FLOATERS</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Kidder, Peabody Mortgage Assets Trust
+	<field name = "content">Kidder, Peabody Mortgage Assets Trust
 Five, a unit of Kidder, Peabody and Co Inc, is offering 500 mln
 dlrs of collateralized mortgage obligations in seven classes,
 including floating-rate and inverse-rate tranches.

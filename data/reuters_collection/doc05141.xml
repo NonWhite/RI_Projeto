@@ -3,12 +3,9 @@
 	<field name = "TOPICS">veg-oil</field>
 	<field name = "TOPICS">soy-oil</field>
 	<field name = "PLACES">bangladesh</field>
-	<field name = "UNKNOWN">G C L
-f0809reute
-r f BC-BANGLADESH-TO-BUY-10,   03-14 0050</field>
-	<field name = "TITLE">BANGLADESH TO BUY 10,000 TONNES SOYABEAN OIL</field>
+	<field name = "titulo">BANGLADESH TO BUY 10,000 TONNES SOYABEAN OIL</field>
 	<field name = "DATELINE">DHAKA, March 14 -</field>
-	<field name = "BODY">Bangladesh floated an international
+	<field name = "content">Bangladesh floated an international
 tender for the purchase of 10,000 tonnes of refined soyabean
 oil for delivery at Chittagong/Chalna port by April 24, Food
 Ministry officials said.

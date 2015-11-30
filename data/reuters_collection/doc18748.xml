@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 11:41:08.88</field>
 	<field name = "TOPICS">reserves</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">RM 
-f3585reute
-b f BC-ITALIAN-NET-OFFICIAL   06-18 0079</field>
-	<field name = "TITLE">ITALIAN NET OFFICIAL RESERVES FALL IN MAY</field>
+	<field name = "titulo">ITALIAN NET OFFICIAL RESERVES FALL IN MAY</field>
 	<field name = "DATELINE">ROME, June 18 -</field>
-	<field name = "BODY">Italy's net official reserves fell to
+	<field name = "content">Italy's net official reserves fell to
 67,110 billion lire in May from a previously reported 68,455
 billion in April, the Bank of Italy said.
     Gold holdings totalled 35,243 billion lire at end May,

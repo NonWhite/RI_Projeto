@@ -4,12 +4,9 @@
 	<field name = "TOPICS">iron-steel</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C M
-f2394reute
-d f AM-BRAZIL-STEEL   03-25 0114</field>
-	<field name = "TITLE">BRAZIL WANTS TO INCREASE STEEL EXPORTS TO U.S.</field>
+	<field name = "titulo">BRAZIL WANTS TO INCREASE STEEL EXPORTS TO U.S.</field>
 	<field name = "DATELINE">RIO DE JANEIRO, MARCH 25 -</field>
-	<field name = "BODY">Brazil wants to increase its
+	<field name = "content">Brazil wants to increase its
 steel exports to the United States, now limited because of
 tough import restraints set in 1984 by the Reagan
 administration, a spokeswoman for the Brazilian Steel Institute

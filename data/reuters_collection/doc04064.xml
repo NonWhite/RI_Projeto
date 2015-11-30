@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 03:41:22.87</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">F
-f0234reute
-u f BC-BOLIDEN--AB-BLDS-ST>   03-12 0056</field>
-	<field name = "TITLE">BOLIDEN  AB BLDS ST> 1986 RESULTS</field>
+	<field name = "titulo">BOLIDEN  AB BLDS ST> 1986 RESULTS</field>
 	<field name = "DATELINE">STOCKHOLM, Mar 12 -</field>
-	<field name = "BODY">Group loss after financial income and expenses 1.08
+	<field name = "content">Group loss after financial income and expenses 1.08
     Billion vs loss 71 mln crowns
     Sales - 12.38 billion crowns vs 6.16 billion.
     No proposed dividend vs 10 crowns.

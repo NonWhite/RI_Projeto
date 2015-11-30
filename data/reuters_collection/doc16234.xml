@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-APR-1987 09:14:20.02</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0830reute
-d f BC-statewest-expands   04-13 0093</field>
-	<field name = "TITLE">STATEWEST EXPANDS SERVICE, ENTERS FARE AGREEMENT</field>
+	<field name = "titulo">STATEWEST EXPANDS SERVICE, ENTERS FARE AGREEMENT</field>
 	<field name = "DATELINE">PHOENIX, Ariz., April 13 -</field>
-	<field name = "BODY">StateWest Airlines Inc said it
+	<field name = "content">StateWest Airlines Inc said it
 started service to Las Vegas, Nev., Tucson, Ariz., and San
 Diego, and entered into a joint fare agreement with Trans World
 Airlines TWA>.

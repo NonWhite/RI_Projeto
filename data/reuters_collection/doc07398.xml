@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 15:51:22.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2320reute
-b f BC-RJR-NABISCO-RJR>-NOM   03-19 0072</field>
-	<field name = "TITLE">RJR NABISCO RJR> NOMINATES NEW CHAIRMAN</field>
+	<field name = "titulo">RJR NABISCO RJR> NOMINATES NEW CHAIRMAN</field>
 	<field name = "DATELINE">WINSTON-SALEM, N.C., March 19 -</field>
-	<field name = "BODY">RJR Nabisco Inc said it
+	<field name = "content">RJR Nabisco Inc said it
 nominated J. Paul Sticht to become chairman of the board,
 replacing J. Tylee Wilson, who will take early retirement.
     Sticht retired as chairman and chief executive officer of

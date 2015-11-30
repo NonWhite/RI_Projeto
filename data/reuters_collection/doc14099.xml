@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:27:05.91</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">RM
-f1269reute
-r f BC-SWEDISH-FINANCE-FIRMS   04-07 0108</field>
-	<field name = "TITLE">SWEDISH FINANCE FIRMS SEEN HIT BY DEREGULATION</field>
+	<field name = "titulo">SWEDISH FINANCE FIRMS SEEN HIT BY DEREGULATION</field>
 	<field name = "DATELINE">STOCKHOLM, April 7 -</field>
-	<field name = "BODY">Up to 70 pct of the 240 finance
+	<field name = "content">Up to 70 pct of the 240 finance
 companies operating in Sweden are likely to be squeezed out
 over the next few years by the deregulation of financial
 markets, the Association of Swedish Finance Companies said.

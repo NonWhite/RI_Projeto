@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 16:43:08.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2493reute
-u f BC-MORRISON-MORR>-ADOPT   04-01 0075</field>
-	<field name = "TITLE">MORRISON MORR> ADOPTS SHAREHOLDER RIGHTS PLAN</field>
+	<field name = "titulo">MORRISON MORR> ADOPTS SHAREHOLDER RIGHTS PLAN</field>
 	<field name = "DATELINE">MOBILE, Ala., April 1 -</field>
-	<field name = "BODY">Morrison Inc said its board adopted
+	<field name = "content">Morrison Inc said its board adopted
 a shareholder rights plan designed to fend off unwanted
 takeovers.
     Morrison said that it was not aware of any party interested

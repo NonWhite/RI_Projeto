@@ -3,12 +3,9 @@
 	<field name = "TOPICS">money-fx</field>
 	<field name = "TOPICS">dlr</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM C G L M T
-f2896reute
-b f BC-DOLLAR-OPENS-AT-TOKYO   04-09 0087</field>
-	<field name = "TITLE">DOLLAR OPENS AT TOKYO RECORD LOW OF 143.75 YEN</field>
+	<field name = "titulo">DOLLAR OPENS AT TOKYO RECORD LOW OF 143.75 YEN</field>
 	<field name = "DATELINE">TOKYO, April 10 -</field>
-	<field name = "BODY">The dollar opened at a record Tokyo low
+	<field name = "content">The dollar opened at a record Tokyo low
 of 143.75 yen despite aggressive Bank of Japan intervention,
 dealers said.
     The previous record low was 144.70 yen set on March 30. The

@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 13:55:04.22</field>
-	<field name = "UNKNOWN">F
-f0606
-reute
-u f BC-AMC-AMO>-SAYS-STEPS   03-02 0094</field>
-	<field name = "TITLE">AMC AMO> SAYS STEPS TAKEN AFTER UAW TALKS FAIL</field>
+	<field name = "titulo">AMC AMO> SAYS STEPS TAKEN AFTER UAW TALKS FAIL</field>
 	<field name = "AUTHOR">By Richard Walker, Reuters</field>
 	<field name = "DATELINE">DETROIT, March 2 -</field>
-	<field name = "BODY">American Motors Corp said it will take
+	<field name = "content">American Motors Corp said it will take
 steps to build a proposed new jeep vehicle at an unspecified
 "alternative location" after the weekend breakdown of talks
 with the United Automobile Workers union on a concessionary

@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
 	<field name = "PEOPLE">verity</field>
-	<field name = "UNKNOWN">V RM 
-f2505reute
-b f BC-MARKET-FALL-DISCUSSED   10-19 0114</field>
-	<field name = "TITLE">MARKET FALL DISCUSSED AT REAGAN LUNCH</field>
+	<field name = "titulo">MARKET FALL DISCUSSED AT REAGAN LUNCH</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">President Reagan and his advisers
+	<field name = "content">President Reagan and his advisers
 discussed the stock market fall at a previously scheduled
 "issues lunch" at the White House, officials said.
     There was no formal comment on the market slide, but an

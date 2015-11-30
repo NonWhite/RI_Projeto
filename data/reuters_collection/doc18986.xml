@@ -5,12 +5,9 @@
 	<field name = "TOPICS">cpi</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">oecd</field>
-	<field name = "UNKNOWN">RM 
-f4900reute
-u f BC-HIGHER-GROWTH,-UNEMPL   06-18 0113</field>
-	<field name = "TITLE">HIGHER GROWTH, UNEMPLOYMENT IN FRANCE, OECD SAYS</field>
+	<field name = "titulo">HIGHER GROWTH, UNEMPLOYMENT IN FRANCE, OECD SAYS</field>
 	<field name = "DATELINE">PARIS, June 19 -</field>
-	<field name = "BODY">France's growth rate is expected to
+	<field name = "content">France's growth rate is expected to
 strengthen in the second half of this year after a poor first
 half, but unemployment will worsen, the Organisation for
 Economic Cooperation and Development (OECD) said.

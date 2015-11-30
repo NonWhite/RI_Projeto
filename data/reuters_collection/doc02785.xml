@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 14:07:13.04</field>
 	<field name = "PLACES">argentina</field>
-	<field name = "UNKNOWN">RM
-f0169reute
-r f BC-DEBT-COUNTER-PROPOSAL   03-06 0106</field>
-	<field name = "TITLE">DEBT PROPOSAL FAULTED BY ARGENTINE OBSERVER</field>
+	<field name = "titulo">DEBT PROPOSAL FAULTED BY ARGENTINE OBSERVER</field>
 	<field name = "DATELINE">BUENOS AIRES, March 6 -</field>
-	<field name = "BODY">A counter-proposal from creditor
+	<field name = "content">A counter-proposal from creditor
 banks to Argentina's request for rescheduling its 50 billion
 dlr foreign debt was faulty, an Argentine observer at
 negotiations said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 02:39:37.62</field>
 	<field name = "PLACES">new-zealand</field>
-	<field name = "UNKNOWN">RM
-f0121reute
-u f BC-NEW-N.Z.-POST-OFFICE   03-31 0102</field>
-	<field name = "TITLE">NEW N.Z. POST OFFICE BANK TO GET CASH INJECTION</field>
+	<field name = "titulo">NEW N.Z. POST OFFICE BANK TO GET CASH INJECTION</field>
 	<field name = "DATELINE">WELLINGTON, March 31 -</field>
-	<field name = "BODY">The new state-owned Post Office Bank
+	<field name = "content">The new state-owned Post Office Bank
 Ltd (POB) will receive 135 mln dlrs from the government to
 boost its assets and will be capitalised at 300 mln dlrs of
 which 250 mln will be provided immediately, according to the

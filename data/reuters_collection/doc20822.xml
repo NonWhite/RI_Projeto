@@ -3,13 +3,10 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
 	<field name = "EXCHANGES">amex</field>
-	<field name = "UNKNOWN">F 
-f3554reute
-u f BC-COMPUTER-SYSTEMS-STRA   10-20 0096</field>
-	<field name = "TITLE">COMPUTER SYSTEMS STRAINED BY MARKET COLLAPSE</field>
+	<field name = "titulo">COMPUTER SYSTEMS STRAINED BY MARKET COLLAPSE</field>
 	<field name = "AUTHOR">By Lawrence Edelman</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">The nation's exchanges and brokerage
+	<field name = "content">The nation's exchanges and brokerage
 houses said their computers systems have been strained by the
 avalanche of trading triggered by the past week's stock market
 collapse.

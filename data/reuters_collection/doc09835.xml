@@ -3,12 +3,9 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "TOPICS">bop</field>
 	<field name = "PLACES">hong-kong</field>
-	<field name = "UNKNOWN">A
-f0880reute
-d f BC-HONG-KONG-FEBRUARY-TR   03-26 0098</field>
-	<field name = "TITLE">HONG KONG FEBRUARY TRADE SWINGS INTO DEFICIT</field>
+	<field name = "titulo">HONG KONG FEBRUARY TRADE SWINGS INTO DEFICIT</field>
 	<field name = "DATELINE">HONG KONG, March 26 -</field>
-	<field name = "BODY">Hong Kong recorded a 3.51 billion
+	<field name = "content">Hong Kong recorded a 3.51 billion
 H.K. Dlr deficit in February after a 2.54 billion dlr surplus
 in January as imports climbed and exports slid, the Census and
 Statistics Department said.

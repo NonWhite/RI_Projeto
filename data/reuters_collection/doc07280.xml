@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 13:11:25.50</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1799reute
-d f BC-AMERICAN-EQUINE-WHOA   03-19 0035</field>
-	<field name = "TITLE">AMERICAN EQUINE WHOA> FILES FOR OFFERING</field>
+	<field name = "titulo">AMERICAN EQUINE WHOA> FILES FOR OFFERING</field>
 	<field name = "DATELINE">SOUTH NORWALK, Conn., March 19 -</field>
-	<field name = "BODY">American Equine Products
+	<field name = "content">American Equine Products
 Inc said it has signed a letter of intent for a proposed
 underwritten public offering.  It gave no details.
  Reuter</field>

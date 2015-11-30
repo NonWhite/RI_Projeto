@@ -2,12 +2,9 @@
 	<field name = "DATE">19-OCT-1987 14:37:31.72</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2602reute
-r f BC-NORTHEAST-SAVINGS-NS   10-19 0097</field>
-	<field name = "TITLE">NORTHEAST SAVINGS NSB> ADOPTS RIGHTS PLAN</field>
+	<field name = "titulo">NORTHEAST SAVINGS NSB> ADOPTS RIGHTS PLAN</field>
 	<field name = "DATELINE">HARTFORD, Conn., Oct 19 -</field>
-	<field name = "BODY">Northeast Savings F.A. said its
+	<field name = "content">Northeast Savings F.A. said its
 board adopted a shareholder rights plan designed to protect the
 company from coercive takeover tactics and bids not fair to all
 sharholders.

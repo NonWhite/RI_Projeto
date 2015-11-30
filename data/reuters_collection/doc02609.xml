@@ -2,12 +2,9 @@
 	<field name = "DATE">6-MAR-1987 10:37:05.33</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">RM
-f0310reute
-b f BC-STATE-BANK-OF-SOUTH-A   03-06 0118</field>
-	<field name = "TITLE">STATE BANK OF SOUTH AUSTRALIA ISSUES NOVEL BOND</field>
+	<field name = "titulo">STATE BANK OF SOUTH AUSTRALIA ISSUES NOVEL BOND</field>
 	<field name = "DATELINE">LONDON, March 6 -</field>
-	<field name = "BODY">The State Bank of South Australia is
+	<field name = "content">The State Bank of South Australia is
 issuing a novel 50 mln Australian dlr eurobond due April 8,
 1992 paying an initial coupon of 16-1/4 pct and priced at 101
 pct, lead manager Swiss Bank Corp International said.

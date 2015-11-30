@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 12:55:20.32</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1756reute
-u f BC-HUMANA-HUM>-TO-BUY-I   06-01 0071</field>
-	<field name = "TITLE">HUMANA HUM> TO BUY INT'L MEDICAL ASSETS</field>
+	<field name = "titulo">HUMANA HUM> TO BUY INT'L MEDICAL ASSETS</field>
 	<field name = "DATELINE">TALLAHASSEE, Fla., June 1 -</field>
-	<field name = "BODY">Humana Inc said a Florida Judge
+	<field name = "content">Humana Inc said a Florida Judge
 approved a previously announced proposal for the company to buy
 certain assets of International Medical Centers, which had been
 declared insolvent and put into receivership in early May.

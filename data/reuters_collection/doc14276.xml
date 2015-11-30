@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:13:31.84</field>
-	<field name = "UNKNOWN">RM
-f1509reute
-u f BC-INTERNATIONAL-CREDIT   04-07 0090</field>
-	<field name = "TITLE">INTERNATIONAL CREDIT HIGHLIGHTS - APRIL 7</field>
+	<field name = "titulo">INTERNATIONAL CREDIT HIGHLIGHTS - APRIL 7</field>
 	<field name = "DATELINE">London -</field>
-	<field name = "BODY">Belgium is launching a euro-commercial paper
+	<field name = "content">Belgium is launching a euro-commercial paper
 program for an unlimited amount with the issuance planned
 immediately after signing in mid-May, First Chicago Ltd said as
 arranger.

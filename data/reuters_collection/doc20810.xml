@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 18:29:37.00</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3537reute
-h f BC-SOUTHLAND   10-20 0088</field>
-	<field name = "TITLE">SOUTHLAND SLC> TARGETED IN SEC INVESTIGATION</field>
+	<field name = "titulo">SOUTHLAND SLC> TARGETED IN SEC INVESTIGATION</field>
 	<field name = "DATELINE">WASHINGTON, Oct 20 -</field>
-	<field name = "BODY">Southland Corp said it was told the 
+	<field name = "content">Southland Corp said it was told the 
 Securities and Exchange Commission ordered a private
 investigation into Southland stock trading and statements made
 by the company this year.

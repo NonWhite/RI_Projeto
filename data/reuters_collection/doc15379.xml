@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 03:52:22.39</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0139reute
-b f BC-RIO-TINTO-ZINC-NET-AT   04-09 0066</field>
-	<field name = "TITLE">RIO TINTO-ZINC NET ATTRIBUTABLE PROFIT LOWER</field>
+	<field name = "titulo">RIO TINTO-ZINC NET ATTRIBUTABLE PROFIT LOWER</field>
 	<field name = "DATELINE">LONDON, April 9 -</field>
-	<field name = "BODY">Year to December 31, 1986
+	<field name = "content">Year to December 31, 1986
     SHR 78.91p vs 83.05p
     DIV 16.5p making 23.5p vs 22p
     PRETAX PROFIT 601.7 mln stg vs 614.4 mln

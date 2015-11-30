@@ -2,12 +2,9 @@
 	<field name = "DATE">20-OCT-1987 18:14:24.03</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">F A RM 
-f3517reute
-r f BC-FORMER-U.S.-TREASURY   10-20 0118</field>
-	<field name = "TITLE">FORMER U.S. TREASURY SECRETARY BLASTS REAGAN</field>
+	<field name = "titulo">FORMER U.S. TREASURY SECRETARY BLASTS REAGAN</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Former Treasury Secretary William Simon
+	<field name = "content">Former Treasury Secretary William Simon
 sharply criticised President Reagan for irresponsible fiscal
 policies that contributed to this week's stock price collapse.
     "(Reagan) fell for that siren song that you can cut taxes

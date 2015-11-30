@@ -2,12 +2,9 @@
 	<field name = "DATE">7-APR-1987 09:52:35.41</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f0841reute
-d f BC-noranda-buys-shares-o   04-07 0064</field>
-	<field name = "TITLE">NORANDA BUYS SHARES OF SANIVAN GROUP</field>
+	<field name = "titulo">NORANDA BUYS SHARES OF SANIVAN GROUP</field>
 	<field name = "DATELINE">Toronto, April 6 -</field>
-	<field name = "BODY">Noranda Inc> said it agreed to buy an
+	<field name = "content">Noranda Inc> said it agreed to buy an
 initial 1,000,501 treasury shares of Sanivan Group Inc> at
 5.25 dlrs per share.
     Noranda also has an option until June 30, 1988, to acquire

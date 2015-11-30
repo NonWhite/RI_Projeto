@@ -2,12 +2,9 @@
 	<field name = "DATE">26-MAR-1987 05:29:07.05</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">taiwan</field>
-	<field name = "UNKNOWN">RM
-f0342reute
-u f BC-TAIWAN'S-SAVINGS-AT-R   03-26 0104</field>
-	<field name = "TITLE">TAIWAN'S SAVINGS AT RECORD HIGH</field>
+	<field name = "titulo">TAIWAN'S SAVINGS AT RECORD HIGH</field>
 	<field name = "DATELINE">TAIPEI, March 26 -</field>
-	<field name = "BODY">Taiwan has over one trillion Taiwan dlrs
+	<field name = "content">Taiwan has over one trillion Taiwan dlrs
 in savings, official statistics show.
     Figures released yesterday show all forms of savings by
 individuals and public and private firms, including bank

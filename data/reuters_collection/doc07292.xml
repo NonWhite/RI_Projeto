@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 13:28:56.83</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1857reute
-u f BC-JIFFY-LUBE-JLUB>-CAN   03-19 0047</field>
-	<field name = "TITLE">JIFFY LUBE JLUB> CAN'T EXPLAIN STOCK ACTION</field>
+	<field name = "titulo">JIFFY LUBE JLUB> CAN'T EXPLAIN STOCK ACTION</field>
 	<field name = "DATELINE">BALTIMORE, March 19 -</field>
-	<field name = "BODY">Jiffy Lube International Inc said it
+	<field name = "content">Jiffy Lube International Inc said it
 can't account for the drop in its stock price.
     The company's stock is currently trading at 29-1/2 bid,
 29-7/8 bid. Yesterday in NASDAQ trading it fell 4-1/4 to close

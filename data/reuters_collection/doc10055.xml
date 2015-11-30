@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 13:30:19.72</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A RM
-f2041reute
-r f BC-TRINITY-INDUSTRIES-T   03-26 0104</field>
-	<field name = "TITLE">TRINITY INDUSTRIES TRN> AND UNIT CUT BY S/P</field>
+	<field name = "titulo">TRINITY INDUSTRIES TRN> AND UNIT CUT BY S/P</field>
 	<field name = "DATELINE">NEW YORK, March 26 -</field>
-	<field name = "BODY">Standard and Poor's Corp said it cut
+	<field name = "content">Standard and Poor's Corp said it cut
 to BB-minus from BB-plus Trinity Industries Inc's 275 mln dlrs
 of liquid yield option notes.
     Also downgraded were the unit Trinity Industries Leasing

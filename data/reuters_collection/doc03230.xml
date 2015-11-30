@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 12:42:33.24</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0973reute
-u f BC-VNESHTORGBANK-SEEKS-I   03-09 0099</field>
-	<field name = "TITLE">VNESHTORGBANK SEEKS INCREASE FOR FACILITY</field>
+	<field name = "titulo">VNESHTORGBANK SEEKS INCREASE FOR FACILITY</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">Vneshtorgbank, the Soviet Foreign Trade
+	<field name = "content">Vneshtorgbank, the Soviet Foreign Trade
 bank, is seeking an increase to 250 mln stg from the original
 150 mln for a five year, sterling bankers' acceptance facility
 arranged last autumn, Lloyds Merchant Bank Ltd said as

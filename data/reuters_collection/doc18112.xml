@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 12:20:14.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1721reute
-r f BC-GATEWAY-GWAY.O>-CUTS   06-02 0066</field>
-	<field name = "TITLE">GATEWAY GWAY.O> CUTS ADAPTER CARD COST 25 PCT</field>
+	<field name = "titulo">GATEWAY GWAY.O> CUTS ADAPTER CARD COST 25 PCT</field>
 	<field name = "DATELINE">IRVINE, Calif., June 2 -</field>
-	<field name = "BODY">Gateway Communications Inc said it
+	<field name = "content">Gateway Communications Inc said it
 reduced the price of its G/NET network adapter card 25 pct to
 395 dlrs from 525 dlrs.
     Gateway said the local area network (LAN) market has become

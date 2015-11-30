@@ -2,12 +2,9 @@
 	<field name = "DATE">2-APR-1987 10:34:00.14</field>
 	<field name = "PLACES">france</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T L
-f1219reute
-u f BC-FRENCH-FARMERS-ATTACK   04-02 0111</field>
-	<field name = "TITLE">FRENCH FARMERS ATTACK LACK OF EC PRICE DECISION</field>
+	<field name = "titulo">FRENCH FARMERS ATTACK LACK OF EC PRICE DECISION</field>
 	<field name = "DATELINE">PARIS, April 2 -</field>
-	<field name = "BODY">France's major farm union, the FNSEA,
+	<field name = "content">France's major farm union, the FNSEA,
 criticised the recent European Community farm ministers'
 meeting for failing to come to any agreement on 1987/88 farm
 prices before the start of the crop year on April 1.

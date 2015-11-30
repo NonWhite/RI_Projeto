@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 14:35:20.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2590reute
-r f BC-REXON-REXN.O>-TO-BUY   10-19 0071</field>
-	<field name = "TITLE">REXON REXN.O> TO BUY BACK STOCK</field>
+	<field name = "titulo">REXON REXN.O> TO BUY BACK STOCK</field>
 	<field name = "DATELINE">CULVER CITY, Calif., Oct 19 -</field>
-	<field name = "BODY">Rexon Inc said its board
+	<field name = "content">Rexon Inc said its board
 authorized management to buy back up to 15 mln dlrs worth of
 the company's common shares because the company believes that
 the stock is an attractive investment at this time.

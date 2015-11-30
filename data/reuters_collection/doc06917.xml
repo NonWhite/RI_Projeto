@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 18:13:56.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9731reute
-d f BC-SMITH-INTERNATIONAL-   03-18 0062</field>
-	<field name = "TITLE">SMITH INTERNATIONAL SII> CONSOLIDATES DIVISIONS</field>
+	<field name = "titulo">SMITH INTERNATIONAL SII> CONSOLIDATES DIVISIONS</field>
 	<field name = "DATELINE">NEWPORT BEACH, Calif., March 18 -</field>
-	<field name = "BODY">Smith International Inc
+	<field name = "content">Smith International Inc
 said it has consolidated its Smith Tool and Smith Drilling
 Systems divisions.
     The new division will be called Smith International and

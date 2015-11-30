@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-JUN-1987 04:42:20.23</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">RM
-f0274reute
-u f BC-CHINA-GIVES-FINAL-198   06-16 0100</field>
-	<field name = "TITLE">CHINA GIVES FINAL 1986 BUDGET DEFICIT</field>
+	<field name = "titulo">CHINA GIVES FINAL 1986 BUDGET DEFICIT</field>
 	<field name = "DATELINE">PEKING, June 16 -</field>
-	<field name = "BODY">China's final 1986 budget deficit was
+	<field name = "content">China's final 1986 budget deficit was
 7.05 billion yuan, down from 7.05 billion given in the March
 budget speech and against a surplus of 2.1 billion in 1985,
 Tian Yinong, Vice Minister of Finance, said.

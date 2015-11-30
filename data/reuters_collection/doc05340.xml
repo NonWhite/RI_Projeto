@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 09:44:52.59</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f2041reute
-u f BC-ARGYLL-GROUP-CREDIT-F   03-16 0112</field>
-	<field name = "TITLE">ARGYLL GROUP CREDIT FACILITY OVERSUBSCRIBED</field>
+	<field name = "titulo">ARGYLL GROUP CREDIT FACILITY OVERSUBSCRIBED</field>
 	<field name = "DATELINE">LONDON, March 16 -</field>
-	<field name = "BODY">A 75 mln stg revolving credit contained
+	<field name = "content">A 75 mln stg revolving credit contained
 in a 100 mln stg multiple facility for Argyll Group Plc has
 been oversubscribed in syndication and the borrower is
 considering an increase, banking sources said.

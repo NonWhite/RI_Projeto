@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 09:59:33.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f7935reute
-d f BC-PUBLICKER-PUL>-AUDIT   03-18 0116</field>
-	<field name = "TITLE">PUBLICKER PUL> AUDITORS' OPINION UNQUALIFIED</field>
+	<field name = "titulo">PUBLICKER PUL> AUDITORS' OPINION UNQUALIFIED</field>
 	<field name = "DATELINE">GREENWICH, Conn., March 18 -</field>
-	<field name = "BODY">Publicker Industries Inc said
+	<field name = "content">Publicker Industries Inc said
 its 1986 financial statements will receive an unqualified
 opinion by the company's auditors, Authur Andersen and Co.
     The company said the qualified opinion on its 1985

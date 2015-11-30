@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 10:54:10.60</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1160reute
-d f BC-CARTERET-SAVINGSCBC>   03-20 0138</field>
-	<field name = "TITLE">CARTERET SAVINGSCBC> COMPLETES SALE OF BRANCHES</field>
+	<field name = "titulo">CARTERET SAVINGSCBC> COMPLETES SALE OF BRANCHES</field>
 	<field name = "DATELINE">MORRISTOWN, N.J., March 20 -</field>
-	<field name = "BODY">Carteret Savings Bank said it
+	<field name = "content">Carteret Savings Bank said it
 has completed the previously announced sale of six Virginia
 branches to Charter Federal Savings and Loan Association
 CHFD>.

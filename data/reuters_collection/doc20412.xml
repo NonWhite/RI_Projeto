@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 12:59:23.24</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2194reute
-r f BC-VF-CORP-VFC>-BOOSTS   10-20 0042</field>
-	<field name = "TITLE">VF CORP VFC> BOOSTS DIVIDEND</field>
+	<field name = "titulo">VF CORP VFC> BOOSTS DIVIDEND</field>
 	<field name = "DATELINE">WYOMISSING, Pa., Oct 20 -</field>
-	<field name = "BODY">VF Corp said it increased its
+	<field name = "content">VF Corp said it increased its
 quarterly cash dividend to 21 cts per share, from 18 cts a
 share.
     The company said the dividend is payable December 18, to

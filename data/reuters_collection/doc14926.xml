@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">8-APR-1987 07:55:13.72</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0619reute
-b f BC-NATIONAL-BANK-MORTGAG   04-08 0100</field>
-	<field name = "TITLE">NATIONAL BANK MORTGAGE ISSUES CANADIAN DLR BOND</field>
+	<field name = "titulo">NATIONAL BANK MORTGAGE ISSUES CANADIAN DLR BOND</field>
 	<field name = "DATELINE">LONDON, April 8 -</field>
-	<field name = "BODY">National Bank Mortgage Corp is issuing a
+	<field name = "content">National Bank Mortgage Corp is issuing a
 100 mln Canadian dlr eurobond due May 18, 1992 with a nine pct
 coupon and priced at 101-3/4 pct, McLeod Young Weir
 International Ltd said as lead manager.

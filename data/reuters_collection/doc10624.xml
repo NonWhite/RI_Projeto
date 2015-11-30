@@ -2,12 +2,9 @@
 	<field name = "DATE">28-MAR-1987 07:12:04.12</field>
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">RM
-f2773reute
-r f BC-ISLAMIC-BANKS-ESTABLI   03-28 0094</field>
-	<field name = "TITLE">ISLAMIC BANKS ESTABLISH 50 MLN DLR TRADE PORTFOLIO</field>
+	<field name = "titulo">ISLAMIC BANKS ESTABLISH 50 MLN DLR TRADE PORTFOLIO</field>
 	<field name = "DATELINE">ISTANBUL, March 28 -</field>
-	<field name = "BODY">The Islamic Development Bank (IDB) and
+	<field name = "content">The Islamic Development Bank (IDB) and
 20 Islamic Banks signed an agreement to establish a 50 mln dlr
 trade portfolio to finance trade among Islamic countries, IDB
 sources said.

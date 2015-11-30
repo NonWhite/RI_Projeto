@@ -4,12 +4,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">south-korea</field>
 	<field name = "ORGS">gatt</field>
-	<field name = "UNKNOWN">RM
-f4230reute
-u f BC-S.KOREA-SAYS-JAPAN-CO   03-17 0105</field>
-	<field name = "TITLE">S.KOREA SAYS JAPAN COMPLAINS TO GATT ON TRADE PLAN</field>
+	<field name = "titulo">S.KOREA SAYS JAPAN COMPLAINS TO GATT ON TRADE PLAN</field>
 	<field name = "DATELINE">SEOUL, March 17 -</field>
-	<field name = "BODY">Japan has complained to the secretariat
+	<field name = "content">Japan has complained to the secretariat
 of the General Agreement on Tariffs and Trade (GATT) that South
 Korea's five-year plan to cut its trade deficit with Japan
 breaks GATT rules, Trade Ministry officials here said.

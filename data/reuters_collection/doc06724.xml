@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 14:28:59.10</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f9074reute
-u f BC-MITSUI-MITSY>,-SECUR   03-18 0096</field>
-	<field name = "TITLE">MITSUI MITSY>, SECURITY PACIFIC SPC> SET PACT</field>
+	<field name = "titulo">MITSUI MITSY>, SECURITY PACIFIC SPC> SET PACT</field>
 	<field name = "DATELINE">LOS ANGELES, March 18 -</field>
-	<field name = "BODY">Mitsui and Co Ltd said it has
+	<field name = "content">Mitsui and Co Ltd said it has
 signed a letter of intent with Security Pacific Corp to buy 50
 pct of Japan Security Pacific Finance Co Ltd, for an
 undisclosed sum, to form a joint venture.

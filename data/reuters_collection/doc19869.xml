@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 15:44:11.58</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2357reute
-d f BC-CYCARE-SYSTEMS-INC-C   06-29 0078</field>
-	<field name = "TITLE">CYCARE SYSTEMS INC CYCR> BUYS MEDTEC</field>
+	<field name = "titulo">CYCARE SYSTEMS INC CYCR> BUYS MEDTEC</field>
 	<field name = "DATELINE">PHOENIX, Ariz, June 29 -</field>
-	<field name = "BODY">CyCare Systems Inc said it bought
+	<field name = "content">CyCare Systems Inc said it bought
 Control Data Corp's CDA> MedTec unit for an undisclosed sum.
     The company said MedTec's new client base could have a
 significant impact on long-term revenues, although it expects a

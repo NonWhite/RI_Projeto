@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 18:12:55.90</field>
 	<field name = "PLACES">israel</field>
-	<field name = "UNKNOWN">RM
-f2858reute
-u f AM-ISRAEL-BUDGET   03-31 0110</field>
-	<field name = "TITLE">ISRAELI PARLIAMENT PASSES NEW BUDGET</field>
+	<field name = "titulo">ISRAELI PARLIAMENT PASSES NEW BUDGET</field>
 	<field name = "DATELINE">JERUSALEM, March 31 -</field>
-	<field name = "BODY">Israel's parliament passed a 25
+	<field name = "content">Israel's parliament passed a 25
 billion dollar state budget that lowers the taxes of highest
 wage earners in an effort to stimulate worker productivity,
 State Radio said.

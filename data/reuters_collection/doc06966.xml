@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 03:58:22.93</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0161reute
-b f BC-BP-SHARES-SLIDE-ON-U.   03-19 0113</field>
-	<field name = "TITLE">BP SHARES SLIDE ON U.K. GOVERNMENT SALE NEWS</field>
+	<field name = "titulo">BP SHARES SLIDE ON U.K. GOVERNMENT SALE NEWS</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">British Petroleum Co Plc BP.L> shares
+	<field name = "content">British Petroleum Co Plc BP.L> shares
 fell sharply in early trading, in response to last night's news
 that the U.K. Government will sell its remaining 31.7 pct BP
 holding during the financial year starting next month, dealers

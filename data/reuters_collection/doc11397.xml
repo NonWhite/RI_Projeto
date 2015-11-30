@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 11:24:25.95</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A F RM
-f1514reute
-r f BC-WESTON-WESTON>-FILES   03-31 0098</field>
-	<field name = "TITLE">WESTON WESTON> FILES CONVERTIBLE OFFERING</field>
+	<field name = "titulo">WESTON WESTON> FILES CONVERTIBLE OFFERING</field>
 	<field name = "DATELINE">NEW YORK, March 31 -</field>
-	<field name = "BODY">Roy F Weston Inc said it filed with
+	<field name = "content">Roy F Weston Inc said it filed with
 the Securitites and Exchange Commission a registration
 statement covering a 30 mln dlr issue of convertible
 subordinated debentures due 2002.

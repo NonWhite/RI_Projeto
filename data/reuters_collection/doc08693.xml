@@ -3,12 +3,9 @@
 	<field name = "TOPICS">cpi</field>
 	<field name = "TOPICS">wpi</field>
 	<field name = "PLACES">pakistan</field>
-	<field name = "UNKNOWN">RM
-f0709reute
-r f BC-PAKISTAN-CONSUMER-PRI   03-24 0066</field>
-	<field name = "TITLE">PAKISTAN CONSUMER PRICE INDEX FALLS IN JANUARY</field>
+	<field name = "titulo">PAKISTAN CONSUMER PRICE INDEX FALLS IN JANUARY</field>
 	<field name = "DATELINE">KARACHI, March 24 -</field>
-	<field name = "BODY">Pakistan's consumer price index (base
+	<field name = "content">Pakistan's consumer price index (base
 1975/76) fell to 231.93 in January 1987 from 233.26 in December
 1986, and compared with  223.66 a year ago, the federal Bureau
 of Statistics said.

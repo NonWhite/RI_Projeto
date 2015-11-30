@@ -10,12 +10,9 @@
 	<field name = "TOPICS">cotton</field>
 	<field name = "TOPICS">rice</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f3306reute
-u f BC-USDA-DETAILS-CONSERVA   03-16 0138</field>
-	<field name = "TITLE">USDA DETAILS CONSERVATION CROP ENROLLMENT</field>
+	<field name = "titulo">USDA DETAILS CONSERVATION CROP ENROLLMENT</field>
 	<field name = "DATELINE">WASHINGTON, March 16 -</field>
-	<field name = "BODY">Farmers enrolled over 6.5 mln acres
+	<field name = "content">Farmers enrolled over 6.5 mln acres
 of program crops in the latest conservation reserve program
 signup and around four mln acres of non-program crops,
 Agriculture Department conservation specialists said.

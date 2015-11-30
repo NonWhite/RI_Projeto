@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 03:50:39.65</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0280reute
-b f BC-PREUSSAG-AG-PRSG.F>   03-11 0086</field>
-	<field name = "TITLE">PREUSSAG AG PRSG.F> YEAR 1986</field>
+	<field name = "titulo">PREUSSAG AG PRSG.F> YEAR 1986</field>
 	<field name = "DATELINE">HANOVER, West Germany, March 11 -</field>
-	<field name = "BODY">Domestic group turnover 4.48 billion marks vs 4.29 billion.
+	<field name = "content">Domestic group turnover 4.48 billion marks vs 4.29 billion.
     Turnover comprised -
     Coal a rounded 1.14 billion vs 1.22 billion
     Metal 851.0 mln vs 1.14 billion

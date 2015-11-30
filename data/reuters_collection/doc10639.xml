@@ -4,13 +4,10 @@
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">nicaragua</field>
 	<field name = "ORGS">ico-coffee</field>
-	<field name = "UNKNOWN">RM
-f0021reute
-r f BC-COFFEE-PRICES-BAD-NEW   03-29 0092</field>
-	<field name = "TITLE">COFFEE PRICES BAD NEWS FOR LATIN AMERICA -MINISTER</field>
+	<field name = "titulo">COFFEE PRICES BAD NEWS FOR LATIN AMERICA -MINISTER</field>
 	<field name = "AUTHOR">By Lisa Vaughan, Reuters</field>
 	<field name = "DATELINE">LONDON, March 29 -</field>
-	<field name = "BODY">A senior Nicaraguan official said a
+	<field name = "content">A senior Nicaraguan official said a
 recent plunge in coffee prices was economically and politically
 disastrous for Latin American coffee-producing countries.
     Nicaraguan Foreign Trade Minister Alejandro Martinez Cuenca

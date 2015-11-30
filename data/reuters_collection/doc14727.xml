@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:46:44.25</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F
-f2596reute
-r f BC-LAC-LAC>-BOOSTING-EX   04-07 0106</field>
-	<field name = "TITLE">LAC LAC> BOOSTING EXPLORATION SPENDING</field>
+	<field name = "titulo">LAC LAC> BOOSTING EXPLORATION SPENDING</field>
 	<field name = "DATELINE">TORONTO, April 7 -</field>
-	<field name = "BODY">Lac Minerals Ltd's exploration spending
+	<field name = "content">Lac Minerals Ltd's exploration spending
 will rise this year to 25 mln dlrs from 16.3 mln dlrs last
 year, the gold miner said in its annual report.
     The 1987 budget involves 16 mln dlrs for advanced

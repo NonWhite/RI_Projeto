@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 10:24:33.94</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1194reute
-r f BC-VICON-INDUSTRIES-VII   03-26 0068</field>
-	<field name = "TITLE">VICON INDUSTRIES VII> VOTES STAGGERED BOARD</field>
+	<field name = "titulo">VICON INDUSTRIES VII> VOTES STAGGERED BOARD</field>
 	<field name = "DATELINE">MELVILLE, N.Y., March 26 -</field>
-	<field name = "BODY">Vicon Industries Inc said its
+	<field name = "content">Vicon Industries Inc said its
 shareholders approved an amendment to divide its nine-member
 board into three classes with staggered tenures.
     It also said shareholders expanded the indemnification

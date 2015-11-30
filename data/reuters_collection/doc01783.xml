@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 15:54:50.93</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0686reute
-u f BC-JOHNSON/JOHNSON-JNJ>   03-04 0074</field>
-	<field name = "TITLE">JOHNSON/JOHNSON JNJ> UP ON RECOMMENDATION</field>
+	<field name = "titulo">JOHNSON/JOHNSON JNJ> UP ON RECOMMENDATION</field>
 	<field name = "DATELINE">NEW YORK, MARCH 4 -</field>
-	<field name = "BODY">Shares of Johnson and Johnson rose
+	<field name = "content">Shares of Johnson and Johnson rose
 sharply today following a reiterated recommendation by Kidder
 Peabody analyst Arnie Snider, traders said.
     Snider said the stock had also been placed on Kidder's

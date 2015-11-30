@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 11:29:40.89</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">A RM
-f5404reute
-u f BC-BAKER-SAYS-U.S.-NOT-S   03-17 0096</field>
-	<field name = "TITLE">BAKER SAYS U.S. NOT SEEKING IADB VETO</field>
+	<field name = "titulo">BAKER SAYS U.S. NOT SEEKING IADB VETO</field>
 	<field name = "DATELINE">WASHINGTON, March 17 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 that the United States was not seeking loan veto in its
 negotiation for voting power at the Inter-American Development
 Bank.

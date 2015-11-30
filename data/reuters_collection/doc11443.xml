@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">V RM
-f1655reute
-b f BC-/TREASURY'S-BAKER-SEE   03-31 0095</field>
-	<field name = "TITLE">TREASURY'S BAKER SEES REAGAN OPPOSING OIL TAX</field>
+	<field name = "titulo">TREASURY'S BAKER SEES REAGAN OPPOSING OIL TAX</field>
 	<field name = "DATELINE">WASHINGTON, March 31 -</field>
-	<field name = "BODY">Treasury Secretary James Baker told
+	<field name = "content">Treasury Secretary James Baker told
 the House Appropriations Committee that he believes the
 president remains opposed to an oil import fee.
     He said Reagan last year rejected the idea and he added:

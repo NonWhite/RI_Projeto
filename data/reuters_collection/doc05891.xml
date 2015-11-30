@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 08:59:15.06</field>
 	<field name = "PLACES">guyana</field>
-	<field name = "UNKNOWN">C G T M
-f4812reute
-d f BC-GUYANA-PRESIDENT-CALL   03-17 0098</field>
-	<field name = "TITLE">GUYANA PRESIDENT CALLS POISON SCARE "MISCHIEVOUS"</field>
+	<field name = "titulo">GUYANA PRESIDENT CALLS POISON SCARE "MISCHIEVOUS"</field>
 	<field name = "DATELINE">GEORGETOWN, March 17 -</field>
-	<field name = "BODY">President Desmond Hoyte said recent
+	<field name = "content">President Desmond Hoyte said recent
 reports of widespread thallium sulphate poisoning in Guyana
 were mischievous and had gravely damaged the country's food
 exports.

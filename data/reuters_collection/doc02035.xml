@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">5-MAR-1987 09:56:03.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0144reute
-b f BC-ENZON-ENZN>-SAYS-DRU   03-05 0063</field>
-	<field name = "TITLE">ENZON ENZN> SAYS DRUG TREATS DISEASE</field>
+	<field name = "titulo">ENZON ENZN> SAYS DRUG TREATS DISEASE</field>
 	<field name = "DATELINE">SOUTH PLAINFIELD, N.J., March 5 -</field>
-	<field name = "BODY">Enzon Inc said a new
+	<field name = "content">Enzon Inc said a new
 treatment using its investigational new drug PEG-ADA has
 restored the functioning of the immune system in the first two
 children that were born deficient in the enzyme adenosine

@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 05:39:20.94</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">RM
-f0371reute
-u f BC-PHILIPPINES-TO-PUT-10   03-26 0106</field>
-	<field name = "TITLE">PHILIPPINES TO PUT 100 STATE FIRMS UP FOR SALE</field>
+	<field name = "titulo">PHILIPPINES TO PUT 100 STATE FIRMS UP FOR SALE</field>
 	<field name = "AUTHOR">By Chaitanya Kalbag, Reuters</field>
 	<field name = "DATELINE">MANILA, March 26 -</field>
-	<field name = "BODY">The head of a Philippine panel charged
+	<field name = "content">The head of a Philippine panel charged
 with selling the non-performing assets of government financial
 institutions said some 100 state-owned companies would also be
 put up for privatisation.

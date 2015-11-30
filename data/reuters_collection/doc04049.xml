@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 00:37:11.96</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM
-f0096reute
-u f BC-JAPANESE-BANKRUPTCIES   03-12 0091</field>
-	<field name = "TITLE">JAPANESE BANKRUPTCIES DECLINE IN FEBRUARY</field>
+	<field name = "titulo">JAPANESE BANKRUPTCIES DECLINE IN FEBRUARY</field>
 	<field name = "DATELINE">TOKYO, March 12 -</field>
-	<field name = "BODY">Japan's corporate bankruptcies in
+	<field name = "content">Japan's corporate bankruptcies in
 February fell 10.8 pct from January to 1,071 cases and total
 debts dropped 49.4 pct to 149.40 billion yen, the Tokyo
 Commerce and Industry Research Co said.

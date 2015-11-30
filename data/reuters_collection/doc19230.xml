@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 11:41:05.69</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F RM 
-f1313reute
-r f BC-DIGICON-DGC>-STARTS   06-19 0114</field>
-	<field name = "TITLE">DIGICON DGC> STARTS EXCHANGE OFFER FOR DEBT</field>
+	<field name = "titulo">DIGICON DGC> STARTS EXCHANGE OFFER FOR DEBT</field>
 	<field name = "DATELINE">HOUSTON, June 19 -</field>
-	<field name = "BODY">Digicon Inc said it started an offer to
+	<field name = "content">Digicon Inc said it started an offer to
 exchange a package of new securities for all 55,019,000 dlrs of
 its outstanding subordinated debentures.
     The exchange includes its 12-7/8 pct senior subordinated

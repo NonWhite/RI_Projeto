@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 11:45:26.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1428reute
-d f BC-W.W.-GRAINGER-GWW>-S   04-03 0129</field>
-	<field name = "TITLE">W.W. GRAINGER GWW> SEEKS TO INCREASE SHARES</field>
+	<field name = "titulo">W.W. GRAINGER GWW> SEEKS TO INCREASE SHARES</field>
 	<field name = "DATELINE">SKOKIE, Ill., April 3 -</field>
-	<field name = "BODY">W.W. Grainger Inc said it is asking
+	<field name = "content">W.W. Grainger Inc said it is asking
 shareholders to approve an increase in the number of its common
 shares, one dlr par value, to 75 mln shares from 35 mln shares
 currently.

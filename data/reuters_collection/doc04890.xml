@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 12:43:29.39</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM A
-f0712reute
-u f BC-WHITE-HOUSE-SAID-HOLD   03-13 0082</field>
-	<field name = "TITLE">WHITE HOUSE SAID HOLDING OFF DECISION ON BUDGET</field>
+	<field name = "titulo">WHITE HOUSE SAID HOLDING OFF DECISION ON BUDGET</field>
 	<field name = "AUTHOR">By Michael Posner, Reuters</field>
 	<field name = "DATELINE">Washington, March 13 -</field>
-	<field name = "BODY">Congressional budget leaders are
+	<field name = "content">Congressional budget leaders are
 asking President Reagan to join in a bipartisan effort - or
 even a summit - to write a new budget, but White House chief of
 staff Howard Baker said no decision has been made yet, a Senate

@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 17:57:24.42</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0005reute
-u f AM-MISSILES   03-04 0120</field>
-	<field name = "TITLE">PENTAGON DELAYS PLAN TO BUY EUROPEAN MISSILE</field>
+	<field name = "titulo">PENTAGON DELAYS PLAN TO BUY EUROPEAN MISSILE</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">The U.S. Army has delayed plans to
+	<field name = "content">The U.S. Army has delayed plans to
 buy a European anti-aircraft missile to help protect U.S.
 ground forces from Soviet attack helicopters, Defense
 Department officials said.

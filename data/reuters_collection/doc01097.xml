@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 11:15:38.15</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0743reute
-r f BC-REGAL-INT'L-RGL>-HOL   03-03 0093</field>
-	<field name = "TITLE">REGAL INT'L RGL> HOLDS BELL PETROLEUM OPTION</field>
+	<field name = "titulo">REGAL INT'L RGL> HOLDS BELL PETROLEUM OPTION</field>
 	<field name = "DATELINE">MIDLAND, Texas, March 3 -</field>
-	<field name = "BODY">Bell Petroleum Services Inc,
+	<field name = "content">Bell Petroleum Services Inc,
 currently in Chapter 11, said Regal International Inc has
 acquired an option to buy its secured notes held by its banks.
     Bell said Regal also expressed interest in discussing an

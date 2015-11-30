@@ -4,13 +4,9 @@
 	<field name = "TOPICS">red-bean</field>
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">G C
-f0506
-reute
-u f BC-TOKYO-GRAIN-EXCHANGE   02-26 0117</field>
-	<field name = "TITLE">TOKYO GRAIN EXCHANGE TO RAISE MARGIN REQUIREMENTS</field>
+	<field name = "titulo">TOKYO GRAIN EXCHANGE TO RAISE MARGIN REQUIREMENTS</field>
 	<field name = "DATELINE">TOKYO, Feb 27 -</field>
-	<field name = "BODY">The Tokyo Grain Exchange said it will raise
+	<field name = "content">The Tokyo Grain Exchange said it will raise
 the margin requirement on the spot and nearby month for U.S.
 And Chinese soybeans and red beans, effective March 2.
     Spot April U.S. Soybean contracts will increase to 90,000

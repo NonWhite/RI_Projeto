@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:52:58.37</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2300reute
-h f BC-HOOKER-CORP-LTD>-NAM   04-07 0043</field>
-	<field name = "TITLE">HOOKER CORP LTD> NAMES NEW PRESIDENT FOR UNIT</field>
+	<field name = "titulo">HOOKER CORP LTD> NAMES NEW PRESIDENT FOR UNIT</field>
 	<field name = "DATELINE">ATLANTA, April 7 -</field>
-	<field name = "BODY">Hooker Corp Ltd of Australia said it has
+	<field name = "content">Hooker Corp Ltd of Australia said it has
 named A. Anthony McLellen to the new position of president of
 Hooker Holdings (U.S.A.) Inc, the holding company for Hooker
 Corp's U.S. operations.

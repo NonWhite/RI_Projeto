@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 16:26:14.55</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0051
-reute
-u f BC-PAN-AM-PN>-FEBRUARY   03-02 0098</field>
-	<field name = "TITLE">PAN AM PN> FEBRUARY LOAD FACTOR UP</field>
+	<field name = "titulo">PAN AM PN> FEBRUARY LOAD FACTOR UP</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Pan Am Corp said February load factor
+	<field name = "content">Pan Am Corp said February load factor
 at Pan American World Airways rose two points to 51.9 pct from
 49.9 pct a year ago.
     Traffic in February increased 11 pct to to 1.50 billion

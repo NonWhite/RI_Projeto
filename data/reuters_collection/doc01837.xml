@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 17:15:26.38</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0894reute
-u f BC-USDA-TRANSMITS-FARM-P   03-04 0080</field>
-	<field name = "TITLE">USDA TRANSMITS FARM PROPOSALS TO CONGRESS</field>
+	<field name = "titulo">USDA TRANSMITS FARM PROPOSALS TO CONGRESS</field>
 	<field name = "DATELINE">WASHINGTON, March 4 -</field>
-	<field name = "BODY">The Reagan administration officially
+	<field name = "content">The Reagan administration officially
 submitted to Congress its proposals to cut back U.S. farmers'
 income deficiency payments, decouple planting decisions from
 income support levels and accelerate reductions in loan rates,

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 14:46:46.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2255reute
-d f BC-PEUGEOT-MOTORS-OFFERS   03-31 0067</field>
-	<field name = "TITLE">PEUGEOT MOTORS OFFERS 3.9 PCT FINANCING</field>
+	<field name = "titulo">PEUGEOT MOTORS OFFERS 3.9 PCT FINANCING</field>
 	<field name = "DATELINE">LYNDHURST, N.J., March 31 -</field>
-	<field name = "BODY">Peugeot Motors of America Inc
+	<field name = "content">Peugeot Motors of America Inc
 said it is offering 3.9 pct financing on all 1987 models,
 effective April 1.
     It said the rate applies to two-year loans.

@@ -3,12 +3,9 @@
 	<field name = "PLACES">west-germany</field>
 	<field name = "PEOPLE">stoltenberg</field>
 	<field name = "PEOPLE">volcker</field>
-	<field name = "UNKNOWN">RM
-f1824reute
-u f BC-STOLTENBERG-PRAISES-F   06-02 0110</field>
-	<field name = "TITLE">STOLTENBERG PRAISES FED'S VOLCKER</field>
+	<field name = "titulo">STOLTENBERG PRAISES FED'S VOLCKER</field>
 	<field name = "DATELINE">BONN, June 2 -</field>
-	<field name = "BODY">Finance Minster Gerhard Stoltenberg praised
+	<field name = "content">Finance Minster Gerhard Stoltenberg praised
 the excellent leadership of Federal Reserve Board Chairman Paul
 Volcker whom the White House said will not be standing for a
 third term when his current period in office expires.

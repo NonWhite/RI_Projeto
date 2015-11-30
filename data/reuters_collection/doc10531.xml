@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:17:37.09F</field>
-	<field name = "UNKNOWN">f1568reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-SOUTHWESTERN-PUBLIC-S   03-27 0055</field>
-	<field name = "TITLE">SOUTHWESTERN PUBLIC SERVICE COSPS> 2ND QTR NET</field>
+	<field name = "titulo">SOUTHWESTERN PUBLIC SERVICE COSPS> 2ND QTR NET</field>
 	<field name = "DATELINE">AMARILLO, Texas, March 27 -</field>
-	<field name = "BODY">Shr 42 cts vs 42 cts
+	<field name = "content">Shr 42 cts vs 42 cts
     Net 19.1 mln vs 19.5 mln
     Revs 184.9 mln vs 185.1 mln
     12 mths

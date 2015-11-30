@@ -2,12 +2,9 @@
 	<field name = "DATE">8-APR-1987 06:41:06.32</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">philippines</field>
-	<field name = "UNKNOWN">F
-f0450reute
-u f BC-ANHEUSER-BUSCH-JOINS   04-08 0110</field>
-	<field name = "TITLE">ANHEUSER-BUSCH JOINS BID FOR SAN MIGUEL</field>
+	<field name = "titulo">ANHEUSER-BUSCH JOINS BID FOR SAN MIGUEL</field>
 	<field name = "DATELINE">MANILA, April 8 -</field>
-	<field name = "BODY">Anheuser-Busch Companies Inc BUD.N> has
+	<field name = "content">Anheuser-Busch Companies Inc BUD.N> has
 joined several other foreign bidders for sequestered shares of
 the Philippines' largest food and beverage maker San Miguel
 Corp SANM.MN>, the head of a government panel which controls

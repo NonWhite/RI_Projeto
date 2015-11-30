@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 11:40:44.73</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1693reute
-r f BC-ARISTECH-ARS>-SEES-1   10-20 0091</field>
-	<field name = "TITLE">ARISTECH ARS> SEES 1987 PROFITS OVER 2.50/SHR</field>
+	<field name = "titulo">ARISTECH ARS> SEES 1987 PROFITS OVER 2.50/SHR</field>
 	<field name = "DATELINE">PITTSBURGH, Oct 20 -</field>
-	<field name = "BODY">Aristech Chemical Corp, the former
+	<field name = "content">Aristech Chemical Corp, the former
 chemicals subsidiary of USX Corp X>, said it expects its
 earnings for 1987 to exceed analysts estimates of up to 2.50
 dlrs a share.

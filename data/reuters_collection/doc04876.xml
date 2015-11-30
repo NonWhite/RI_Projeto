@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 12:28:07.54</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0624reute
-r f BC-ZENITH-ZEN>-GETS-APP   03-13 0109</field>
-	<field name = "TITLE">ZENITH ZEN> GETS APPROVAL FOR GENERIC KEFLEX</field>
+	<field name = "titulo">ZENITH ZEN> GETS APPROVAL FOR GENERIC KEFLEX</field>
 	<field name = "DATELINE">RAMSEY, New Jersey, March 13 -</field>
-	<field name = "BODY">Zenith Laboratories Inc said
+	<field name = "content">Zenith Laboratories Inc said
 it received Food and Drug Administration approval to market
 Cephalexin, an antibiotic that is the generic version of Eli
 Lilly Inc's LLY> Keflex.

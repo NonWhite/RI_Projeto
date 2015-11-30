@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 04:39:30.05</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">RM AI 
-f0261reute
-u f BC-BANK-OF-JAPAN-DETERMI   06-29 0108</field>
-	<field name = "TITLE">BANK OF JAPAN DETERMINED TO KEEP EASY MONEY POLICY</field>
+	<field name = "titulo">BANK OF JAPAN DETERMINED TO KEEP EASY MONEY POLICY</field>
 	<field name = "DATELINE">TOKYO, June 29 -</field>
-	<field name = "BODY">The Bank of Japan bought 100 billion yen
+	<field name = "content">The Bank of Japan bought 100 billion yen
 in certificates of deposit (CDs) via repurchase agreements
 today to show its determination to maintain an easy money
 policy, central bank officials said.

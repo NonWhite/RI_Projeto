@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">4-MAR-1987 13:14:21.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0166reute
-h f BC-CADEMA-CDMA>-PLANS-P   03-04 0093</field>
-	<field name = "TITLE">CADEMA CDMA> PLANS PREFERRED OFFERING</field>
+	<field name = "titulo">CADEMA CDMA> PLANS PREFERRED OFFERING</field>
 	<field name = "DATELINE">MIDDLETOWN, N.Y., March 4 -</field>
-	<field name = "BODY">Cadema Corp said it entered a
+	<field name = "content">Cadema Corp said it entered a
 letter of intent with a national underwriting firm for an
 offering of five mln dlrs worth of convertible preferred stock.
     Cadema said it will file a registration statement with the

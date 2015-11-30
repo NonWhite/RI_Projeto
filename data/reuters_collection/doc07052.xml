@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 08:40:55.05</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C G
-f0698reute
-u f BC-CBT-HEAD-CONFIDENT-OF   03-19 0142</field>
-	<field name = "TITLE">CBT HEAD CONFIDENT OF SEPARATE CBT, MCE LIMITS</field>
+	<field name = "titulo">CBT HEAD CONFIDENT OF SEPARATE CBT, MCE LIMITS</field>
 	<field name = "DATELINE">BOCA RATON, Fla., March 19 -</field>
-	<field name = "BODY">Chicago Board of Trade, CBT,
+	<field name = "content">Chicago Board of Trade, CBT,
 President Thomas Donovan said he was confident the Commodity
 Futures Trading Commission, CFTC, would not force the CBT and
 the MidAmerica Commodity Exchange, MCE, to merge speculative

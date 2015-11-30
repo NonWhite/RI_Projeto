@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">31-MAR-1987 09:21:36.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0939reute
-r f BC-HUGHES-GMH>,-RAYTHEO   03-31 0087</field>
-	<field name = "TITLE">HUGHES GMH>, RAYTHEON RTN> TO SEEK NAVY WORK</field>
+	<field name = "titulo">HUGHES GMH>, RAYTHEON RTN> TO SEEK NAVY WORK</field>
 	<field name = "DATELINE">CANOGA PARK, Calif., March 31 -</field>
-	<field name = "BODY">General Motors Corp's GM>
+	<field name = "content">General Motors Corp's GM>
 Hughes Aircraft Co subsidiary and Raytheon Co said they formed
 a joint-venture partnership to compete for the U.S. Navy's
 Advanced Air-to-Air Missile program.

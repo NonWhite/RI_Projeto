@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 01:40:46.76</field>
-	<field name = "UNKNOWN">RM C G L M T
-f0042reute
-u f BC-REUTER-MONEY-NEWS-HIG   04-07 0103</field>
-	<field name = "TITLE">REUTER MONEY NEWS HIGHLIGHTS 0530 GMT</field>
+	<field name = "titulo">REUTER MONEY NEWS HIGHLIGHTS 0530 GMT</field>
 	<field name = "DATELINE">TOKYO -</field>
-	<field name = "BODY">The Bank of Japan intervened in early aftenoon
+	<field name = "content">The Bank of Japan intervened in early aftenoon
 trading to support the dollar against active selling by
 institutional investors and speculative selling by overseas
 operators, dealers said. (NRAV 0513) The dollar was 145.50 yen

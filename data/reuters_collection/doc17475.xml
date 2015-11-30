@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-JUN-1987 05:11:16.43</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0324reute
-b f BC-GOODMAN-FIELDER-UNIT   06-01 0108</field>
-	<field name = "TITLE">GOODMAN FIELDER UNIT ISSUES 75 MLN STG CONVERTIBLE</field>
+	<field name = "titulo">GOODMAN FIELDER UNIT ISSUES 75 MLN STG CONVERTIBLE</field>
 	<field name = "DATELINE">LONDON, June 1 -</field>
-	<field name = "BODY">Goodman Fielder U.K. Plc is issuing a 75
+	<field name = "content">Goodman Fielder U.K. Plc is issuing a 75
 mln stg convertible eurobond due July 4, 1997 with an indicated
 coupon of five to 5-1/4 pct and par pricing, lead manager
 Credit Suisse First Boston Ltd said.

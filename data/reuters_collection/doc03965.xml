@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 17:00:17.76</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">F
-f0682reute
-r f BC-TURNER-BROADCASTING'S   03-11 0105</field>
-	<field name = "TITLE">TURNER BROADCASTING'S TBS> CNN TO AIR IN CHINA</field>
+	<field name = "titulo">TURNER BROADCASTING'S TBS> CNN TO AIR IN CHINA</field>
 	<field name = "DATELINE">ALTANTA, March 11 -</field>
-	<field name = "BODY">Turner Broadcasting System Inc's CNN
+	<field name = "content">Turner Broadcasting System Inc's CNN
 said it reached an agreement with China Central Television to
 air its news programming in China.
     It said China Central TV will use CNN reports during its

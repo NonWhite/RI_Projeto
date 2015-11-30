@@ -2,12 +2,9 @@
 	<field name = "DATE">14-MAR-1987 09:41:06.65</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM
-f0808reute
-r f BC-SL-ACQUISITION-RAISE   03-14 0079</field>
-	<field name = "TITLE">SL ACQUISITION RAISES U.S. 1987 TOLL TO 12</field>
+	<field name = "titulo">SL ACQUISITION RAISES U.S. 1987 TOLL TO 12</field>
 	<field name = "DATELINE">WASHINGTON, March 14 -</field>
-	<field name = "BODY">The Federal Home Loan Bank Board
+	<field name = "content">The Federal Home Loan Bank Board
 (FHLBB) announced the acquisition of Home Savings and Loan
 Association in Seattle, Washington, by InterWest Savings Bank
 of Oak Harbour, Washington.

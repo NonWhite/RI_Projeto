@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 14:43:48.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0577reute
-d f BC-EXECUTIVE-TELECOM-XT   03-03 0091</field>
-	<field name = "TITLE">EXECUTIVE TELECOM XTEL> CHANGES MEETING DATE</field>
+	<field name = "titulo">EXECUTIVE TELECOM XTEL> CHANGES MEETING DATE</field>
 	<field name = "DATELINE">TULSA, Okla., March 3 -</field>
-	<field name = "BODY">Executive Telecommunications Inc
+	<field name = "content">Executive Telecommunications Inc
 said the recently announced joint board of directors meeting
 with First Equipment Leasing Co> to negotiate the details of
 the First Equipment reverse takeover offer has been changed

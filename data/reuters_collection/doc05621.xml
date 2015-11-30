@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
 	<field name = "EXCHANGES">cboe</field>
-	<field name = "UNKNOWN">C G L M T
-f3354reute
-b f BC-/CME,-CBOE-TO-LAUNCH   03-16 0101</field>
-	<field name = "TITLE">CME, CBOE TO LAUNCH INTERNATIONAL STOCK INDEX</field>
+	<field name = "titulo">CME, CBOE TO LAUNCH INTERNATIONAL STOCK INDEX</field>
 	<field name = "DATELINE">CHICAGO, March 16 -</field>
-	<field name = "BODY">The Chicago Mercantile Exchange, CME,
+	<field name = "content">The Chicago Mercantile Exchange, CME,
 and the Chicago Board Options Exchange, CBOE, announced today
 that they will trade futures and options, respectively, on an
 index of international securities compiled by Morgan Stanley

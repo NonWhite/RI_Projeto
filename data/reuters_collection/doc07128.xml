@@ -2,12 +2,9 @@
 	<field name = "DATE">19-MAR-1987 10:36:18.65</field>
 	<field name = "TOPICS">retail</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E A RM
-f1086reute
-u f BC-CANADA-RETAIL-SALES-F   03-19 0096</field>
-	<field name = "TITLE">CANADA RETAIL SALES FALL 0.1 PCT IN JANUARY</field>
+	<field name = "titulo">CANADA RETAIL SALES FALL 0.1 PCT IN JANUARY</field>
 	<field name = "DATELINE">OTTAWA, March 19 -</field>
-	<field name = "BODY">Canada's retail sales, seasonally
+	<field name = "content">Canada's retail sales, seasonally
 adjusted, fell 0.1 pct in January after gaining 0.9 pct in
 December, Statistics Canada said.
     Retail sales fell to 11.98 billion dlrs from 11.99 billion

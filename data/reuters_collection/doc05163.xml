@@ -2,12 +2,9 @@
 	<field name = "DATE">15-MAR-1987 04:20:09.11</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PEOPLE">khomeini</field>
-	<field name = "UNKNOWN">RM
-f0871reute
-r f BC-KHOMEINI-WARNS-AGAINS   03-15 0090</field>
-	<field name = "TITLE">KHOMEINI WARNS AGAINST INTERNAL DISSENT</field>
+	<field name = "titulo">KHOMEINI WARNS AGAINST INTERNAL DISSENT</field>
 	<field name = "DATELINE">LONDON, March 15 -</field>
-	<field name = "BODY">Iran's revolutionary leader, Ayatollah
+	<field name = "content">Iran's revolutionary leader, Ayatollah
 Ruhollah Khomeini, warned the nation's civilian and military
 hierarchy against discord and dissent, Tehran radio said.
     A report, monitored by the British Broadcasting

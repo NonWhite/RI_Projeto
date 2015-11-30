@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:47:58.19</field>
-	<field name = "UNKNOWN">F
-f0373reute
-b f BC-U.S.-STOCKS-FIRMER-IN   04-07 0114</field>
-	<field name = "TITLE">U.S. STOCKS FIRMER IN LONDON</field>
+	<field name = "titulo">U.S. STOCKS FIRMER IN LONDON</field>
 	<field name = "DATELINE">LONDON, April 7 -</field>
-	<field name = "BODY">U.S. Shares traded in London were firmer
+	<field name = "content">U.S. Shares traded in London were firmer
 in the wake of Wall Street's gains into record territory
 yesterday, but gains were patchy with interest centered mainly
 on the special situation stocks, dealers said.

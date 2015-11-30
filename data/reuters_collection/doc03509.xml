@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 06:38:44.49</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0537reute
-b f BC-SALOMON-ISSUES-228-ML   03-11 0096</field>
-	<field name = "TITLE">SALOMON ISSUES 228 MLN DLR FLOATING RATE CMO</field>
+	<field name = "titulo">SALOMON ISSUES 228 MLN DLR FLOATING RATE CMO</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Salomon Brothers International's CMO
+	<field name = "content">Salomon Brothers International's CMO
 Eurotrust subsidiary is issuing a 228 mln dlr collateralised
 mortgage obligation priced at par and yielding 40 basis points
 over the three-month London interbank offered rate (Libor),

@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 15:16:09.05</field>
-	<field name = "UNKNOWN">GQ
-f2191reute
-r f BC-mpls-deliv-oats-stks   04-07 0075</field>
-	<field name = "TITLE">MINNEAPOLIS DELIVERABLE OAT STOCKS</field>
+	<field name = "titulo">MINNEAPOLIS DELIVERABLE OAT STOCKS</field>
 	<field name = "DATELINE">MINNEAPOLIS, April 7  -</field>
-	<field name = "BODY">CFTC reported, as of april 3 , oats
+	<field name = "content">CFTC reported, as of april 3 , oats
 stocks in Mpls deliverable against Chgo futures/000's bu-
                          CURRENT  WEEK   YEAR
                          WEEK     AGO    AGO

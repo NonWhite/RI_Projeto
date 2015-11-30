@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:00:40.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2497reute
-u f BC-ITT-ITT>-TO-REDEEM-T   04-07 0086</field>
-	<field name = "TITLE">ITT ITT> TO REDEEM THREE PREFERRED ISSUES</field>
+	<field name = "titulo">ITT ITT> TO REDEEM THREE PREFERRED ISSUES</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">ITT Corp said it will redeem the
+	<field name = "content">ITT Corp said it will redeem the
 outstanding shares of its four-dlr convertible series H,
 4.50-dlr convertible series I and four-dlr convertible series J
 cumulative preferred stock.

@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 18:51:52.49</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2746reute
-r f BC-AMERIBANC-AINV.O>,-C   06-01 0042</field>
-	<field name = "TITLE">AMERIBANC AINV.O>, CARDINAL END ACQUISITION</field>
+	<field name = "titulo">AMERIBANC AINV.O>, CARDINAL END ACQUISITION</field>
 	<field name = "DATELINE">ANNANDALE, Va., June 1 -</field>
-	<field name = "BODY">Ameribanc Investors Group and
+	<field name = "content">Ameribanc Investors Group and
 Cardinal Savings and Loan Association jointly announced that
 the proposed acquisition of Cardinal by Ameribanc has been
 terminated by mutual agreement.

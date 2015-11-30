@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 13:49:56.64</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f4137reute
-d f BC-LEXITECH-LEXTC.O>-IN   06-18 0048</field>
-	<field name = "TITLE">LEXITECH LEXTC.O> IN AGREEMENT WITH AFFILIATE</field>
+	<field name = "titulo">LEXITECH LEXTC.O> IN AGREEMENT WITH AFFILIATE</field>
 	<field name = "DATELINE">OYSTER BAY, N.Y., June 18 -</field>
-	<field name = "BODY">Lexitech International
+	<field name = "content">Lexitech International
 Documentation Network Inc said it has signed an agreement for
 Far East affiliate Yamamoto Industries to handle all of
 Lexitech's Asian language translation and documentation

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 12:43:08.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f5783reute
-d f BC-SEARS-S>-SETTLED-TO   03-17 0095</field>
-	<field name = "TITLE">SEARS S> SETTLED TO AVOID FURTHER LEGAL COSTS</field>
+	<field name = "titulo">SEARS S> SETTLED TO AVOID FURTHER LEGAL COSTS</field>
 	<field name = "DATELINE">CHICAGO, March 17 -</field>
-	<field name = "BODY">Sears Roebuck and Co, said it reached
+	<field name = "content">Sears Roebuck and Co, said it reached
 an out-of-court settlement with the Federal Trade Commission
 over the labeling of some down-filled garments sold in 1978 "to
 avoid further legal expenses."

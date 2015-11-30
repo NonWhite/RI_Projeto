@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 17:36:54.40</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3419reute
-u f BC-PACIFIC-EXCHANGE-MAY   10-20 0085</field>
-	<field name = "TITLE">PACIFIC EXCHANGE MAY SEE RECORD VOLUME AGAIN</field>
+	<field name = "titulo">PACIFIC EXCHANGE MAY SEE RECORD VOLUME AGAIN</field>
 	<field name = "DATELINE">SAN FRANCISCO, Oct 20 -</field>
-	<field name = "BODY">Pacific Stock Exchange Chairman
+	<field name = "content">Pacific Stock Exchange Chairman
 Maurice Mann said the exchange may have reached record volume
 again today, following yesterday's record 17.6 mln shares.
     it looks like at least the same volume as yesterday, Mann

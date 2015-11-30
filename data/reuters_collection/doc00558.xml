@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 12:30:29.21</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0285
-reute
-d f BC-AMERICUS-TRUST-HPU>   03-02 0077</field>
-	<field name = "TITLE">AMERICUS TRUST HPU> EXTENDS DEADLINE</field>
+	<field name = "titulo">AMERICUS TRUST HPU> EXTENDS DEADLINE</field>
 	<field name = "DATELINE">NEW YORK, March 2 -</field>
-	<field name = "BODY">Americus Trust for American Home
+	<field name = "content">Americus Trust for American Home
 Products Shares said it extended its deadline for accepting
 tendered shares until November 26, an extension of nine months.
     The trust, which will accept up to 7.5 mln shares of

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 11:20:29.80</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1579reute
-r f BC-BAXTER-BAX>-REPORTS   10-20 0087</field>
-	<field name = "TITLE">BAXTER BAX> REPORTS GAINS IN HOSPITAL PRODUCTS</field>
+	<field name = "titulo">BAXTER BAX> REPORTS GAINS IN HOSPITAL PRODUCTS</field>
 	<field name = "DATELINE">DEERFIELD, Ill., Oct 20 -</field>
-	<field name = "BODY">Baxter Travenol Laboratories Inc
+	<field name = "content">Baxter Travenol Laboratories Inc
 said sales of its hospital products and services rose 13 pct to
 882 mln dlrs in the 1987 third quarter.
     The company said medical systems and specialties sales

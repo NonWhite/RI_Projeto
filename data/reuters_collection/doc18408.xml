@@ -8,12 +8,9 @@
 	<field name = "TOPICS">soy-meal</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cbt</field>
-	<field name = "UNKNOWN">C G L M T
-f2591reute
-d f BC-media-summary   06-15 0116</field>
-	<field name = "TITLE">HOT WEATHER PUSHES CBT GRAINS TO NEW HIGHS</field>
+	<field name = "titulo">HOT WEATHER PUSHES CBT GRAINS TO NEW HIGHS</field>
 	<field name = "DATELINE">CHICAGO, June 15 -</field>
-	<field name = "BODY">Hot, dry weather over the Midwest, with
+	<field name = "content">Hot, dry weather over the Midwest, with
 more forecast, pushed grain futures prices to new highs today
 on the Chicago Board of Trade.
     Soybean futures led the advance, closing up the

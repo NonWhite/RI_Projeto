@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 08:13:16.75</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A
-f0805reute
-r f BC-STANDARD-PACIFIC-SPF   03-09 0134</field>
-	<field name = "TITLE">STANDARD PACIFIC SPF> ACQUIRES SOUTH BAY S/L</field>
+	<field name = "titulo">STANDARD PACIFIC SPF> ACQUIRES SOUTH BAY S/L</field>
 	<field name = "DATELINE">COSTA MESA, Calif, March 9 -</field>
-	<field name = "BODY">Standard Pacific LP said it
+	<field name = "content">Standard Pacific LP said it
 has acquired substantially all of the assets and liabilities of
 South Bay Savings and Loan Association of Newport Beach.
     The firm said over the weekend that it will conduct its

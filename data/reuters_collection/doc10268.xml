@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 22:17:11.95</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f2986reute
-u f BC-NTT-CONSIDERING-BUYIN   03-26 0115</field>
-	<field name = "TITLE">NTT CONSIDERING BUYING CRAY SUPERCOMPUTER</field>
+	<field name = "titulo">NTT CONSIDERING BUYING CRAY SUPERCOMPUTER</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">Nippon Telegraph and Telephone Co> (NTT)
+	<field name = "content">Nippon Telegraph and Telephone Co> (NTT)
 is considering buying a Cray II supercomputer worth some three
 billion yen from Cray Research Inc CYR>, and a decision is
 expected in early April, an NTT official said.

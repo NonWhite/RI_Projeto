@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 16:48:29.99</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2399reute
-s f BC-MOORE-FINANCIAL-GROUP   06-19 0024</field>
-	<field name = "TITLE">MOORE FINANCIAL GROUP MFGI.O> QUARTERLY DIV</field>
+	<field name = "titulo">MOORE FINANCIAL GROUP MFGI.O> QUARTERLY DIV</field>
 	<field name = "DATELINE">BOISE, Idaho, June 19 -</field>
-	<field name = "BODY">Qtly div 30 cts vs 30 cts prior
+	<field name = "content">Qtly div 30 cts vs 30 cts prior
     Pay July 16
     Record July 6
  Reuter</field>

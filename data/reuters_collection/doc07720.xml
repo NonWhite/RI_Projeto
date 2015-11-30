@@ -2,12 +2,9 @@
 	<field name = "DATE">20-MAR-1987 11:04:33.14</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">james-baker</field>
-	<field name = "UNKNOWN">F
-f1198reute
-b f BC-/U.S.-TREASURY'S-BAKE   03-20 0067</field>
-	<field name = "TITLE">U.S. TREASURY'S BAKER OPPOSES SECURITIES TAX</field>
+	<field name = "titulo">U.S. TREASURY'S BAKER OPPOSES SECURITIES TAX</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">Treasury Secretary James Baker said
+	<field name = "content">Treasury Secretary James Baker said
 he opposes a new tax on securities transactions.
     "No," he said when asked by a reporter whether he favored
 such a tax, which has been advocated by House Speaker James

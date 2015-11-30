@@ -2,12 +2,9 @@
 	<field name = "DATE">25-MAR-1987 10:41:53.91</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nyse</field>
-	<field name = "UNKNOWN">F
-f1162reute
-r f BC-BEN-EQUITY-HOLDINGS-   03-25 0105</field>
-	<field name = "TITLE">BEN EQUITY HOLDINGS BH> SUSPENDED ON NYSE</field>
+	<field name = "titulo">BEN EQUITY HOLDINGS BH> SUSPENDED ON NYSE</field>
 	<field name = "DATELINE">NEW YORK, March 25 -</field>
-	<field name = "BODY">The New York Stock Exchange said
+	<field name = "content">The New York Stock Exchange said
 trading in the units of BenEquity Holdings, a California
 Limited Partnership, was suspended before the opening and an
 application will be made to the Securities and Exchange

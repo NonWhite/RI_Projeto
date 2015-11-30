@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 12:57:10.14</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0762reute
-b f BC-MIDLAND-UNIT-PULLS-OU   03-13 0110</field>
-	<field name = "TITLE">MIDLAND UNIT PULLS OUT OF EQUITY MARKET MAKING</field>
+	<field name = "titulo">MIDLAND UNIT PULLS OUT OF EQUITY MARKET MAKING</field>
 	<field name = "DATELINE">LONDON, March 13 -</field>
-	<field name = "BODY">Midland Bank Plc MDBL.L> said its
+	<field name = "content">Midland Bank Plc MDBL.L> said its
 Greenwell Montagu Securities unit would pull out of equity
 market making and concentrate instead on providing a broker
 dealer and agency service for its clients.

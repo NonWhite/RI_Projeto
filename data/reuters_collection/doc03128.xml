@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 10:58:04.97</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f0424reute
-h f BC-NORCROS-BREAKS-OFF-ME   03-09 0110</field>
-	<field name = "TITLE">NORCROS BREAKS OFF MERGER TALKS WITH WILLIAMS</field>
+	<field name = "titulo">NORCROS BREAKS OFF MERGER TALKS WITH WILLIAMS</field>
 	<field name = "DATELINE">LONDON, March 9 -</field>
-	<field name = "BODY">Norcros NCRO.L> Plc said it has no
+	<field name = "content">Norcros NCRO.L> Plc said it has no
 intention of proceeding any further with talks on Williams
 Holdings Plc's suggestion that there would be benefits arising
 from a merger between the two groups.

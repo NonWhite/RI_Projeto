@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 12:28:04.45</field>
 	<field name = "PLACES">uk</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">G
-f1669reute
-d f BC-FLOODS-AND-HEAVY-RAIN   06-01 0070</field>
-	<field name = "TITLE">FLOODS AND HEAVY RAIN HIT IRAN</field>
+	<field name = "titulo">FLOODS AND HEAVY RAIN HIT IRAN</field>
 	<field name = "DATELINE">LONDON, June 1 -</field>
-	<field name = "BODY">Fifty people were killed or injured in
+	<field name = "content">Fifty people were killed or injured in
 flooding in southeastern Iran and three died after heavy rain
 elsewhere, Tehran Radio reported today.
     The radio, monitored by the British Broadcasting Corp, said

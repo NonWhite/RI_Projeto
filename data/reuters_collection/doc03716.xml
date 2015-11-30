@@ -2,12 +2,9 @@
 	<field name = "DATE">11-MAR-1987 11:30:43.58</field>
 	<field name = "TOPICS">jobs</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">RM
-f0582reute
-r f BC-DUTCH-ADJUSTED-UNEMPL   03-11 0074</field>
-	<field name = "TITLE">DUTCH ADJUSTED UNEMPLOYMENT UNCHANGED IN FEBRUARY</field>
+	<field name = "titulo">DUTCH ADJUSTED UNEMPLOYMENT UNCHANGED IN FEBRUARY</field>
 	<field name = "DATELINE">THE HAGUE, March 11 -</field>
-	<field name = "BODY">Dutch seasonally-adjusted
+	<field name = "content">Dutch seasonally-adjusted
 unemployment totalled 690,600 people in February, unchanged
 from January but down from 732,700 in February 1986, a Social
 Affairs Ministry spokesman said.

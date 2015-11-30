@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">24-APR-1987 10:12:31.76</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1019reute
-r f BC-GM,-ISUZU-IN-U.K.-TRU   04-24 0100</field>
-	<field name = "TITLE">GM, ISUZU IN U.K. TRUCK JOINT VENTURE</field>
+	<field name = "titulo">GM, ISUZU IN U.K. TRUCK JOINT VENTURE</field>
 	<field name = "DATELINE">LONDON, April 24 -</field>
-	<field name = "BODY">General Motors Corp's GM> Bedford
+	<field name = "content">General Motors Corp's GM> Bedford
 Trucks subsidiary has signed a memorandum of understanding with
 its affiliate Isuzu Motors Ltd ISUM.T> to negotiate a van
 manufacturing joint venture in the U.K.

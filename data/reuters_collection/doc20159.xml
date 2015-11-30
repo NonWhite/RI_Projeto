@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 09:20:02.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f0960reute
-r f BC-SHEARSON-LEHMAN   10-20 0101</field>
-	<field name = "TITLE">SHEARSON SHE> NOT HURT BY RECENT MARKET DECLINE</field>
+	<field name = "titulo">SHEARSON SHE> NOT HURT BY RECENT MARKET DECLINE</field>
 	<field name = "DATELINE">NEW YORK, Oct 20 -</field>
-	<field name = "BODY">Shearson Lehman Brothers Holdings Inc
+	<field name = "content">Shearson Lehman Brothers Holdings Inc
 said the recent decline in equities has had a dislocating
 effect on the market but no impact on the company's financial
 condition.

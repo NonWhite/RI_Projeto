@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 15:41:31.04</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0304reute
-d f BC-STORAGE-TECH-STK>-IN   03-13 0104</field>
-	<field name = "TITLE">STORAGE TECH STK> IN DISCUSSIONS WITH IRS</field>
+	<field name = "titulo">STORAGE TECH STK> IN DISCUSSIONS WITH IRS</field>
 	<field name = "DATELINE">VAIL, Colo., March 13 -</field>
-	<field name = "BODY">Storage Technology Corp said it is
+	<field name = "content">Storage Technology Corp said it is
 holding dicussions with the Internal Revenue Service that could
 end their dispute over the amount of back taxes owed by the
 company.

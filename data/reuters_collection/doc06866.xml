@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 17:02:51.64</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">A RM
-f9557reute
-r f BC-SHEARSON-SELLS-NEW-CD   03-18 0109</field>
-	<field name = "TITLE">SHEARSON SELLS NEW CDS FOR JAPANESE BANKS</field>
+	<field name = "titulo">SHEARSON SELLS NEW CDS FOR JAPANESE BANKS</field>
 	<field name = "DATELINE">NEW YORK, March 18 -</field>
-	<field name = "BODY">Shearson Lehman Brothers Inc said it
+	<field name = "content">Shearson Lehman Brothers Inc said it
 has sold a new type of certificate of deposit designed to
 provide top-rated Japanese banks with broader access to the
 U.S. money markets.

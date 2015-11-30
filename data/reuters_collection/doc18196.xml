@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 14:15:43.67</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2173reute
-r f BC-UNITED-SERVICES-USVS   06-02 0084</field>
-	<field name = "TITLE">UNITED SERVICES USVSP.O> SELLS PREFERRED</field>
+	<field name = "titulo">UNITED SERVICES USVSP.O> SELLS PREFERRED</field>
 	<field name = "DATELINE">SAN ANTONIO, Texas, June 2 -</field>
-	<field name = "BODY">United Services Advisors Inc
+	<field name = "content">United Services Advisors Inc
 said it has sold to an investor 75,760 shares of preferred
 stock at 3.25 dlrs each and an equal number of warrants at five
 cts each, but an agreement to sell 454,546 preferred shares and

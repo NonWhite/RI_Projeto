@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">13-MAR-1987 15:56:03.81</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0343reute
-u f BC-U.S.-EARLY-MARCH-CAR   03-13 0095</field>
-	<field name = "TITLE">U.S. EARLY MARCH CAR SALES OFF 2.2 PCT</field>
+	<field name = "titulo">U.S. EARLY MARCH CAR SALES OFF 2.2 PCT</field>
 	<field name = "AUTHOR">By Richard Walker, Reuters</field>
 	<field name = "DATELINE">DETROIT, March 13 -</field>
-	<field name = "BODY">Retail sales of new cars by U.S.
+	<field name = "content">Retail sales of new cars by U.S.
 automakers eased 2.2 pct in early March to the weakest levels
 since 1983, with industry giant General Motors Corp GM> down
 9.3 pct.

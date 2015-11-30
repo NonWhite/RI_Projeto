@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 13:06:47.50</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F E 
-f1852reute
-u f BC-SEC-SAYS-CAMPEAU-UNIT   06-29 0104</field>
-	<field name = "TITLE">SEC SAYS CAMPEAU UNIT VIOLATED DISCLOSURE RULES</field>
+	<field name = "titulo">SEC SAYS CAMPEAU UNIT VIOLATED DISCLOSURE RULES</field>
 	<field name = "DATELINE">WASHINGTON, June 29 -</field>
-	<field name = "BODY">The Securities and Exchange
+	<field name = "content">The Securities and Exchange
 Commission charged Allied Stores Corp with failing to promptly
 disclose key steps it was taking last September to thwart a
 takeover attempt by Campeau Corp.

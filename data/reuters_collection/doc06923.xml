@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 18:27:38.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9749reute
-h f BC-MICROSOFT-MSFT>-WINS   03-18 0094</field>
-	<field name = "TITLE">MICROSOFT MSFT> WINS COPYRIGHT INJUNCTION</field>
+	<field name = "titulo">MICROSOFT MSFT> WINS COPYRIGHT INJUNCTION</field>
 	<field name = "DATELINE">SAN FRANCISCO, March 18 -</field>
-	<field name = "BODY">Microsoft Corp said a Federal
+	<field name = "content">Microsoft Corp said a Federal
 District judge has honored its request for a preliminary
 injunction prohibiting four companies from copying, importing,
 disseminating or distributing the software package, "Flacon

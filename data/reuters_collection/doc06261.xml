@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">17-MAR-1987 16:08:55.07</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f6479reute
-u f BC-FAVOURABLE-TAX-TREATM   03-17 0113</field>
-	<field name = "TITLE">FAVOURABLE TAX TREATMENT GONE ON CERTAIN UK LOANS</field>
+	<field name = "titulo">FAVOURABLE TAX TREATMENT GONE ON CERTAIN UK LOANS</field>
 	<field name = "DATELINE">LONDON, March 17 -</field>
-	<field name = "BODY">An Inland Revenue ruling accompanying
+	<field name = "content">An Inland Revenue ruling accompanying
 today's U.K. Budget would eliminate a favourable tax treatment
 on certain foreign loans by British banks and may be a
 "nightmare" of practical application, banking sources said.

@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 15:19:45.40</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F
-f0567reute
-r f BC-FEDERAL-EXPRESS-FDX>   03-04 0090</field>
-	<field name = "TITLE">FEDERAL EXPRESS FDX> PURSUES OVERSEAS ROUTE</field>
+	<field name = "titulo">FEDERAL EXPRESS FDX> PURSUES OVERSEAS ROUTE</field>
 	<field name = "DATELINE">MEMPHIS, March 4 -</field>
-	<field name = "BODY">Federal Express Corp said it received a
+	<field name = "content">Federal Express Corp said it received a
 recommendation from an administrative law judge that it be
 awarded the exclusive air express route between the U.S. and
 Japan.

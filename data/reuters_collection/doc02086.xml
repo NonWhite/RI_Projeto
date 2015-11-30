@@ -3,12 +3,9 @@
 	<field name = "TOPICS">oilseed</field>
 	<field name = "TOPICS">soybean</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f0348reute
-u f BC-SOYBEAN-GROUP-HEAD-UR   03-05 0138</field>
-	<field name = "TITLE">SOYBEAN GROUP HEAD URGES USDA ACTION ON LOAN</field>
+	<field name = "titulo">SOYBEAN GROUP HEAD URGES USDA ACTION ON LOAN</field>
 	<field name = "DATELINE">WASHINGTON, March 5 -</field>
-	<field name = "BODY">The Agriculture Department must make
+	<field name = "content">The Agriculture Department must make
 a decision soon on how to change the current U.S. soybean loan
 or more soybeans will continue to be forfeited to the
 government and foreign soybean production will increase, the

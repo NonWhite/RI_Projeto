@@ -14,13 +14,10 @@
 	<field name = "PLACES">china</field>
 	<field name = "PLACES">australia</field>
 	<field name = "PEOPLE">lyng</field>
-	<field name = "UNKNOWN">RM
-f0258reute
-u f BC-JAPAN-MINISTRY-SAYS-O   04-08 0107</field>
-	<field name = "TITLE">JAPAN MINISTRY SAYS OPEN FARM TRADE WOULD HIT U.S.</field>
+	<field name = "titulo">JAPAN MINISTRY SAYS OPEN FARM TRADE WOULD HIT U.S.</field>
 	<field name = "AUTHOR">By Fumiko Fujisaki, Reuters</field>
 	<field name = "DATELINE">TOKYO, April 8 -</field>
-	<field name = "BODY">Japan's Agriculture Ministry, angered by
+	<field name = "content">Japan's Agriculture Ministry, angered by
 U.S. Demands that Japan open its farm products market, will
 tell U.S. Officials at talks later this month that
 liberalisation would harm existing U.S. Farm exports to Japan,

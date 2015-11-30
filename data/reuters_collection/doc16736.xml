@@ -2,12 +2,9 @@
 	<field name = "DATE">13-APR-1987 19:02:28.88</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2820reute
-d f BC-DICEON-ELECTRONICS-D   04-13 0100</field>
-	<field name = "TITLE">DICEON ELECTRONICS DICN.O> TO BUY SYMTRON CORP</field>
+	<field name = "titulo">DICEON ELECTRONICS DICN.O> TO BUY SYMTRON CORP</field>
 	<field name = "DATELINE">IRVINE, Calif., April 13 -</field>
-	<field name = "BODY">Diceon Electronics Inc said it
+	<field name = "content">Diceon Electronics Inc said it
 has entered an agreement in principal to buy closely-held
 Symtron Corp in a stock exchange transaction.
     Under the pact, Diceon would exchange 300,000 shares of its

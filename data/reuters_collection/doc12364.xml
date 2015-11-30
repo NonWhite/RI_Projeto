@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 17:37:39.61</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2624reute
-r f AM-WEDTECH---1STLD   04-01 0128</field>
-	<field name = "TITLE">SIMON INDICTED IN WEDTECH WDT> CASE</field>
+	<field name = "titulo">SIMON INDICTED IN WEDTECH WDT> CASE</field>
 	<field name = "DATELINE">NEW YORK, April 1 -</field>
-	<field name = "BODY">Stanley Simon was charged with
+	<field name = "content">Stanley Simon was charged with
 extorting 50,000 dlrs from a defense contractor in the first
 indictment in a corruption probe involving two Congressmen, a
 former aide to President Reagan and other government officials.

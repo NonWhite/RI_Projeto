@@ -1,15 +1,13 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 12:27:03.56RM</field>
-	<field name = "UNKNOWN">f1604reute</field>
 	<field name = "TOPICS">crude</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">belgium</field>
 	<field name = "PLACES">greece</field>
 	<field name = "PLACES">turkey</field>
-	<field name = "UNKNOWN">u f BC-NATO-CALLS-ON-GREECE   03-27 0095</field>
-	<field name = "TITLE">NATO CALLS ON GREECE AND TURKEY TO AVOID FORCE</field>
+	<field name = "titulo">NATO CALLS ON GREECE AND TURKEY TO AVOID FORCE</field>
 	<field name = "DATELINE">BRUSSELS, March 27 -</field>
-	<field name = "BODY">Greece and Turkey's NATO allies today
+	<field name = "content">Greece and Turkey's NATO allies today
 called on both countries to avoid any action that could
 aggravate an explosive situation in the Aegean and "avoid
 recourse to force at all costs."

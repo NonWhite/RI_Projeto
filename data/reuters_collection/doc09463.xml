@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">25-MAR-1987 13:35:07.68</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM
-f1883reute
-r f BC-BRAZIL-PLANS-NEW-ECON   03-25 0082</field>
-	<field name = "TITLE">BRAZIL PLANS NEW ECONOMIC STRATEGY FOR GROWTH</field>
+	<field name = "titulo">BRAZIL PLANS NEW ECONOMIC STRATEGY FOR GROWTH</field>
 	<field name = "DATELINE">BRASILIA, March 25 -</field>
-	<field name = "BODY">Brazil is preparing a new economic
+	<field name = "content">Brazil is preparing a new economic
 strategy intended to protect domestic growth, Finance Ministry
 sources said.
     A presidential spokesman said President Jose Sarney had

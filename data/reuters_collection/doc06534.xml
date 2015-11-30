@@ -8,12 +8,9 @@
 	<field name = "TOPICS">palm-oil</field>
 	<field name = "PLACES">pakistan</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">C G T M
-f8184reute
-d f BC-PAKISTAN-SWEDISH-GOOD   03-18 0098</field>
-	<field name = "TITLE">PAKISTAN-SWEDISH GOODS EXCHANGE AGREED</field>
+	<field name = "titulo">PAKISTAN-SWEDISH GOODS EXCHANGE AGREED</field>
 	<field name = "DATELINE">ISLAMABAD, March 18 -</field>
-	<field name = "BODY">Pakistan and Sweden have signed a
+	<field name = "content">Pakistan and Sweden have signed a
 commodity exchange agreement for 88 mln dlrs each way, the
 Pakistan government announced.
     Pakistan's exports under the agreement will include raw

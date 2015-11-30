@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 15:53:57.26</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">A
-f0961
-reute
-u f BC-U.S.-TROOPS-GET-COST-   03-02 0124</field>
-	<field name = "TITLE">U.S. TROOPS GET COST-OF-LIVING INCREASE</field>
+	<field name = "titulo">U.S. TROOPS GET COST-OF-LIVING INCREASE</field>
 	<field name = "DATELINE">WASHINGTON, MARCH 2 -</field>
-	<field name = "BODY">Defense Secretary Caspar Weinberger
+	<field name = "content">Defense Secretary Caspar Weinberger
 ordered an increase in cost-of-living allowances for many U.S.
 military personnel abroad because of the decreased value of the
 dollar against foreign currencies, the Pentagon said.

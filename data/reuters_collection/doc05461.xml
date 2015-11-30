@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">16-MAR-1987 12:06:40.04</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f2676reute
-u f BC-FRANCE'S-CFF-TO-ISSUE   03-16 0107</field>
-	<field name = "TITLE">FRANCE'S CFF TO ISSUE 500 MLN FRANCS BONDS</field>
+	<field name = "titulo">FRANCE'S CFF TO ISSUE 500 MLN FRANCS BONDS</field>
 	<field name = "DATELINE">PARIS, March 16 -</field>
-	<field name = "BODY">Credit Foncier de France said it will
+	<field name = "content">Credit Foncier de France said it will
 issue on Wednesday around 500 mln francs worth of Specialised
 Financial Institution Bonds (BIFS).
     This second issue of eight pct BIFS, maturing on December

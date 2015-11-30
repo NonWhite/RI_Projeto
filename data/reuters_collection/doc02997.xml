@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">iran</field>
-	<field name = "UNKNOWN">RM
-f0386reute
-b f BC-IRAN-SELLING-DISCOUNT   03-09 0115</field>
-	<field name = "TITLE">IRAN SELLING DISCOUNTED CRUDE, JAPAN TRADERS SAY</field>
+	<field name = "titulo">IRAN SELLING DISCOUNTED CRUDE, JAPAN TRADERS SAY</field>
 	<field name = "DATELINE">TOKYO, March 9 -</field>
-	<field name = "BODY">Japanese customers have bought nearly six
+	<field name = "content">Japanese customers have bought nearly six
 mln barrels of crude oil from the National Iranian Oil Company
 (NIOC) at a substantial discount to the official price, and
 Western traders have received even larger discounts, Japanese

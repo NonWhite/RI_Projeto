@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 12:52:08.01</field>
-	<field name = "UNKNOWN">RM F A
-f1669reute
-u f BC--U.S.-CREDIT-MARKETS   04-07 0110</field>
-	<field name = "TITLE">U.S. CREDIT MARKETS MIXED AT MIDSESSION</field>
+	<field name = "titulo">U.S. CREDIT MARKETS MIXED AT MIDSESSION</field>
 	<field name = "DATELINE">NEW YORK, April 7 -</field>
-	<field name = "BODY">U.S. credit markets were mixed in dull
+	<field name = "content">U.S. credit markets were mixed in dull
 trading at midsession, with moderate losses in coupon issues
 and Treasury bill rates near unchanged.
     Bills improved slightly on remarks from Federal Reserve

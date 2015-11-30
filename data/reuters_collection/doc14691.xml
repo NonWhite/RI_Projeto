@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 17:06:53.65</field>
-	<field name = "UNKNOWN">L
-f2517reute
-u f BC-EASTERN-KANSAS-FEEDLO   04-07 0058</field>
-	<field name = "TITLE">EASTERN KANSAS FEEDLOT CATTLE STEADY - USDA</field>
+	<field name = "titulo">EASTERN KANSAS FEEDLOT CATTLE STEADY - USDA</field>
 	<field name = "DATELINE">dodge city, april 7 -</field>
-	<field name = "BODY">slaughter cattle steady in slow trade
+	<field name = "content">slaughter cattle steady in slow trade
 amid moderate demand, the usda said.
     sales confirmed on 400 steers and 1,100 heifers. week to
 date 2,700 head.

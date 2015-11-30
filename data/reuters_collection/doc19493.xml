@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 01:59:10.93</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F 
-f0081reute
-u f BC-BFG-PROFIT-DIPS-IN-FI   06-29 0103</field>
-	<field name = "TITLE">BFG PROFIT DIPS IN FIRST FOUR MONTHS</field>
+	<field name = "titulo">BFG PROFIT DIPS IN FIRST FOUR MONTHS</field>
 	<field name = "DATELINE">FRANKFURT, June 29 -</field>
-	<field name = "BODY">Bank fuer Gemeinwirtschaft AG's
+	<field name = "content">Bank fuer Gemeinwirtschaft AG's
 BKFG.F> (BfG) partial operating profits in the first four
 months of this year were lower than in the same period in 1986,
 management board chairman Thomas Wegscheider said.

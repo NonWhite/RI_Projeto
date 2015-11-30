@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 15:52:29.57</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2941reute
-d f BC-CULP-CULP.O>-SEES-LO   10-19 0110</field>
-	<field name = "TITLE">CULP CULP.O> SEES LOWER SECOND QUARTER</field>
+	<field name = "titulo">CULP CULP.O> SEES LOWER SECOND QUARTER</field>
 	<field name = "DATELINE">HIGH POINT, N.C., Oct 19 -</field>
-	<field name = "BODY">Culp Inc, citing lower margins,
+	<field name = "content">Culp Inc, citing lower margins,
 said it expects income from operations in its second quarter
 ending October 31 to be lower than in the same year-ago period.
     But Culp said that due to a capital gain from the sale of

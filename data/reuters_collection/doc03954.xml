@@ -3,12 +3,9 @@
 	<field name = "TOPICS">coffee</field>
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">C T
-f0649reute
-u f BC-BRAZIL-COFFEE-EXPORTS   03-11 0105</field>
-	<field name = "TITLE">BRAZIL COFFEE EXPORTS DISRUPTED BY STRIKE</field>
+	<field name = "titulo">BRAZIL COFFEE EXPORTS DISRUPTED BY STRIKE</field>
 	<field name = "DATELINE">RIO DE JANEIRO, MARCH 11 -</field>
-	<field name = "BODY">An 11-day-old strike by
+	<field name = "content">An 11-day-old strike by
 Brazilian seamen is affecting coffee shipments and could lead
 to a short term supply squeeze abroad, exporters said.
     They could not quantify how much coffee has been delayed

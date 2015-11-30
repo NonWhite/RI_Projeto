@@ -2,12 +2,9 @@
 	<field name = "DATE">12-MAR-1987 10:11:41.06</field>
 	<field name = "PLACES">west-germany</field>
 	<field name = "PLACES">brazil</field>
-	<field name = "UNKNOWN">RM
-f0098reute
-u f BC-ROCKEFELLER-SAYS-BRAZ   03-12 0098</field>
-	<field name = "TITLE">ROCKEFELLER SAYS BRAZIL SOLUTION WILL BE FOUND</field>
+	<field name = "titulo">ROCKEFELLER SAYS BRAZIL SOLUTION WILL BE FOUND</field>
 	<field name = "DATELINE">FRANKFURT, March 12 -</field>
-	<field name = "BODY">David Rockefeller, chairman of the
+	<field name = "content">David Rockefeller, chairman of the
 international advisory committee of Chase Manhattan Bank NA,
 said an accommodation would be found between Brazil and its
 commercial bank creditors to solve the problem of the nation's

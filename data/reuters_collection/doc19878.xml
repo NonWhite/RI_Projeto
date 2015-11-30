@@ -2,12 +2,9 @@
 	<field name = "DATE">29-JUN-1987 15:52:18.52</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f2388reute
-r f BC-KYOWA-LICENSES-AIDS-T   06-29 0077</field>
-	<field name = "TITLE">KYOWA LICENSES AIDS TEST FROM MUREX</field>
+	<field name = "titulo">KYOWA LICENSES AIDS TEST FROM MUREX</field>
 	<field name = "DATELINE">NORCROSS, Ga., June 29 -</field>
-	<field name = "BODY">A subsidiary of (Kyowa Hakko Kogyo
+	<field name = "content">A subsidiary of (Kyowa Hakko Kogyo
 Co Ltd) and privately-held (Murex Corp) jointly announced they
 signed an agreement giving Kyowa exclusive rights in Japan to
 market certain Murex products to detect AIDS.

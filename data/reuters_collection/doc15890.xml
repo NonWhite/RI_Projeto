@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 15:29:05.71</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">Y
-f2294reute
-u f BC-EUROPEAN-OFFSHORE-RIG   04-09 0087</field>
-	<field name = "TITLE">EUROPEAN OFFSHORE RIG COUNT CONTINUES TO CLIMB</field>
+	<field name = "titulo">EUROPEAN OFFSHORE RIG COUNT CONTINUES TO CLIMB</field>
 	<field name = "DATELINE">HOUSTON, April 9 -</field>
-	<field name = "BODY">Utilization of offshore mobile rigs in
+	<field name = "content">Utilization of offshore mobile rigs in
 the European/Mediterranean area continued to show strong gains
 last week, increasing nearly two percentage points to 46.1 pct,
 Offshore Data Services said.

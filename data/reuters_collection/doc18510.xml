@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 05:18:47.39</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F 
-f2395reute
-u f BC-BET-SAYS-RESULTS-SHOW   06-18 0109</field>
-	<field name = "TITLE">BET SAYS RESULTS SHOW STRATEGY IS WORKING</field>
+	<field name = "titulo">BET SAYS RESULTS SHOW STRATEGY IS WORKING</field>
 	<field name = "DATELINE">LONDON, June 18 -</field>
-	<field name = "BODY">BET Plc BETL.L> said slightly higher
+	<field name = "content">BET Plc BETL.L> said slightly higher
 than expected results for the year to March showed that its
 strategy was working. BET raised pretax profits in the year to
 157.4 mln stg from 124.6 mln previously.

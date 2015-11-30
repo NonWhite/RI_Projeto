@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">26-MAR-1987 12:20:34.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1755reute
-u f BC-GENCORPGY>-TO-BUILD   03-26 0107</field>
-	<field name = "TITLE">GENCORPGY> TO BUILD 50 MLN DLR PLANT IN INDIANA</field>
+	<field name = "titulo">GENCORPGY> TO BUILD 50 MLN DLR PLANT IN INDIANA</field>
 	<field name = "DATELINE">AKRON, Ohio, March 26 -</field>
-	<field name = "BODY">GenCorp said it plans to build a 50
+	<field name = "content">GenCorp said it plans to build a 50
 mln dlr manufacturing facility in Shelbyville, Ind.
     The company said it will begin building the plant, where it
 will produce reinforced plastic components for cars and trucks,

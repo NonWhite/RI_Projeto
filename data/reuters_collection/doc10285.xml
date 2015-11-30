@@ -1,11 +1,9 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 00:21:07.34F</field>
-	<field name = "UNKNOWN">f0024reute</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">u f BC-TOKYO-GROUP-DEVELOPS   03-27 0115</field>
-	<field name = "TITLE">TOKYO GROUP DEVELOPS FASTER AIDS SCREEN</field>
+	<field name = "titulo">TOKYO GROUP DEVELOPS FASTER AIDS SCREEN</field>
 	<field name = "DATELINE">TOKYO, March 27 -</field>
-	<field name = "BODY">A Tokyo Medical College group said it had
+	<field name = "content">A Tokyo Medical College group said it had
 developed a five-minute method that may be the world's fastest
 way of screening people for the AIDS virus.
     Lecturer Junko Renard told a meeting of the Japan Blood

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 16:29:42.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0919reute
-r f BC-RIEDEL-ENVIRONMENT-R   03-03 0096</field>
-	<field name = "TITLE">RIEDEL ENVIRONMENT RETI> UNIT GETS EPA CONTRACT</field>
+	<field name = "titulo">RIEDEL ENVIRONMENT RETI> UNIT GETS EPA CONTRACT</field>
 	<field name = "DATELINE">PORTLAND, Ore., March 3 -</field>
-	<field name = "BODY">Riedel Environment Technologies
+	<field name = "content">Riedel Environment Technologies
 Inc's subsidiary Riedel Environmental Services Inc RES>
 received a contract to clean up and remove hazardous substances
 from contaminated sites in 23 states west of the Mississippi

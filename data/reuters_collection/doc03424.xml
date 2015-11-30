@@ -2,12 +2,9 @@
 	<field name = "DATE">9-MAR-1987 18:44:43.19</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0059reute
-h f BC-HOGAN-SYSTEMS-HOGN>   03-09 0054</field>
-	<field name = "TITLE">HOGAN SYSTEMS HOGN> IN ACQUISITION</field>
+	<field name = "titulo">HOGAN SYSTEMS HOGN> IN ACQUISITION</field>
 	<field name = "DATELINE">DALLAS, March 9 -</field>
-	<field name = "BODY">Hogan Systems Inc said it acquired
+	<field name = "content">Hogan Systems Inc said it acquired
 Systems 4 Inc> of Durango, Colo., for 1.7 mln dlrs.
     Hogan said Systems 4 provides integrated applications
 software and processing services to about 30 community banks.

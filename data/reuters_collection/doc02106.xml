@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 10:50:58.74</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">sweden</field>
-	<field name = "UNKNOWN">M
-f0424reute
-d f BC-TRELLEBORG-TAKE-LARGE   03-05 0082</field>
-	<field name = "TITLE">TRELLEBORG TAKE LARGER SLICE OF BOLIDEN</field>
+	<field name = "titulo">TRELLEBORG TAKE LARGER SLICE OF BOLIDEN</field>
 	<field name = "DATELINE">STOCKHOLM, March 5 -</field>
-	<field name = "BODY">Swedish tyres, process equipment and
+	<field name = "content">Swedish tyres, process equipment and
 components firm Trelleborg AB> said it was taking a larger
 stake in mining and metals concern Boliden AB BLDS.ST> than it
 had originally intended.

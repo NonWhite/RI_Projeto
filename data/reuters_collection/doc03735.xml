@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:46:01.36</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F Y
-f0663reute
-d f BC-ENGINEERING-MEASUREME   03-11 0096</field>
-	<field name = "TITLE">ENGINEERING MEASUREMENTS (EMCO) SETS PARTNERSHIP</field>
+	<field name = "titulo">ENGINEERING MEASUREMENTS (EMCO) SETS PARTNERSHIP</field>
 	<field name = "DATELINE">LONGMONT, Colo., March 11 -</field>
-	<field name = "BODY">Engineering Measurements Co
+	<field name = "content">Engineering Measurements Co
 said it formed a general partnership with several external
 investment groups in which the company will have a 58.5 pct
 interest and be managing partner.

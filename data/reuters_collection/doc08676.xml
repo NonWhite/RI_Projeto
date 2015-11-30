@@ -2,12 +2,9 @@
 	<field name = "DATE">24-MAR-1987 07:29:11.71</field>
 	<field name = "TOPICS">interest</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">RM
-f0564reute
-b f BC-BUNDESBANK-ALLOCATES   03-24 0068</field>
-	<field name = "TITLE">BUNDESBANK ALLOCATES 6.5 BILLION MARKS IN TENDER</field>
+	<field name = "titulo">BUNDESBANK ALLOCATES 6.5 BILLION MARKS IN TENDER</field>
 	<field name = "DATELINE">FRANKFURT, March 24 -</field>
-	<field name = "BODY">The Bundesbank accepted bids for 6.5
+	<field name = "content">The Bundesbank accepted bids for 6.5
 billion marks at today's tender for a 28-day securities
 repurchase pact at a rate of 3.80 pct, a central bank spokesman
 said.

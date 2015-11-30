@@ -4,12 +4,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">Y
-f1963reute
-u f AM-GULF-IRAQ   04-03 0075</field>
-	<field name = "TITLE">IRAQ SAYS ITS FORCES SINK THREE IRANIAN VESSELS</field>
+	<field name = "titulo">IRAQ SAYS ITS FORCES SINK THREE IRANIAN VESSELS</field>
 	<field name = "DATELINE">BAGHDAD, April 3 -</field>
-	<field name = "BODY">Iraq said its forces sank three Iranian
+	<field name = "content">Iraq said its forces sank three Iranian
 boats that tried to approach its disused deep water oil
 terminal in the northern Gulf today.
     A military spokesman, quoted by the official Iraqi news

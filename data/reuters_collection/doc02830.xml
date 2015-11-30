@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">6-MAR-1987 15:37:32.91</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0426reute
-r f BC-FRANKLIN-COMPUTER-COR   03-06 0102</field>
-	<field name = "TITLE">FRANKLIN COMPUTER CORP FDOS> GETS COURT ORDER</field>
+	<field name = "titulo">FRANKLIN COMPUTER CORP FDOS> GETS COURT ORDER</field>
 	<field name = "DATELINE">PENNSAUKEN, N.J., March 6 -</field>
-	<field name = "BODY">Franklin Computer Corp said it
+	<field name = "content">Franklin Computer Corp said it
 received a court order requiring the manufacturer and
 distributors of the Laser 128 personal computer to stop selling
 the computers with operating systems that are the subject of a

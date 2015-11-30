@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-MAR-1987 12:33:08.74</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">F
-f0295
-reute
-h f BC-BENETTON-IN-FINANCIAL   03-02 0100</field>
-	<field name = "TITLE">BENETTON IN FINANCIAL SERVICES JOINT VENTURE</field>
+	<field name = "titulo">BENETTON IN FINANCIAL SERVICES JOINT VENTURE</field>
 	<field name = "DATELINE">TREVISO, Italy, March 2 -</field>
-	<field name = "BODY">Benetton Group Spa BTOM.MI> said
+	<field name = "content">Benetton Group Spa BTOM.MI> said
 it reached agreement with textiles concern GFT-Gruppo
 Finanziario Tessile Spa for a joint venture in the financial
 services sector.

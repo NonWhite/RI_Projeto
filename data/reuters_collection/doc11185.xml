@@ -2,13 +2,10 @@
 	<field name = "DATE">31-MAR-1987 03:24:41.38</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">west-germany</field>
-	<field name = "UNKNOWN">F
-f0188reute
-u f BC-JAPANESE-HESITATE-TO   03-31 0092</field>
-	<field name = "TITLE">JAPANESE HESITATE TO INVEST IN WEST GERMAN STOCKS</field>
+	<field name = "titulo">JAPANESE HESITATE TO INVEST IN WEST GERMAN STOCKS</field>
 	<field name = "AUTHOR">By Jeff Stearns, Reuters</field>
 	<field name = "DATELINE">TOKYO, March 31 -</field>
-	<field name = "BODY">Japanese investors are reluctant to buy
+	<field name = "content">Japanese investors are reluctant to buy
 West German stocks, now considered one of the most attractive
 buys around after having taken a beating for the past two
 years, investment managers said.

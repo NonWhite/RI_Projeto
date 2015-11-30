@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V Y
-f0615reute
-u f BC-REAGAN-SAYS-U.S.-NEED   03-20 0079</field>
-	<field name = "TITLE">REAGAN SAYS U.S. NEEDS TO LESSEN OIL IMPORTS</field>
+	<field name = "titulo">REAGAN SAYS U.S. NEEDS TO LESSEN OIL IMPORTS</field>
 	<field name = "DATELINE">WASHINGTON, March 20 -</field>
-	<field name = "BODY">President Reagan said the United
+	<field name = "content">President Reagan said the United
 States must do more to lessen its reliance on imported oil.
     President Reagan said during a nationally televised news
 conference that the rising U.S. reliance on foreign oil is a

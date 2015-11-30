@@ -5,12 +5,9 @@
 	<field name = "TOPICS">ship</field>
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">china</field>
-	<field name = "UNKNOWN">C G
-f0676reute
-u f BC-EXPORTERS-SEE-HIGHER   03-03 0127</field>
-	<field name = "TITLE">FRENCH EXPORTERS SEE HIGHER WHEAT SALES TO CHINA</field>
+	<field name = "titulo">FRENCH EXPORTERS SEE HIGHER WHEAT SALES TO CHINA</field>
 	<field name = "DATELINE">PARIS, March 3 -</field>
-	<field name = "BODY">French exporters estimated that around
+	<field name = "content">French exporters estimated that around
 600,000 tonnes of French soft wheat has been sold to China for
 delivery in the 1986/87 (July/June) year.
     Around 300,000 tonnes were exported to China between July

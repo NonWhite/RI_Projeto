@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 08:34:58.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A RM
-f0777reute
-u f BC-RAINIER-RBANK.O>-TO   06-02 0098</field>
-	<field name = "TITLE">RAINIER RBANK.O> TO HAVE LOSS FROM PROVISION</field>
+	<field name = "titulo">RAINIER RBANK.O> TO HAVE LOSS FROM PROVISION</field>
 	<field name = "DATELINE">SEATTLE, June 2 -</field>
-	<field name = "BODY">Rainier Bancorp said it will add an extra
+	<field name = "content">Rainier Bancorp said it will add an extra
 58 mln dlrs to its loan loss reserve in the second quarter for
 possible credit losses related to Third World loans, causing a
 net loss of about 19 mln dlrs or 87 cts per share for the

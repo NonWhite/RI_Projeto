@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 05:07:58.30</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM F
-f0758
-reute
-u f BC-CURRENCY-SECTORS-CONT   03-03 0119</field>
-	<field name = "TITLE">CURRENCY SECTORS CONTINUE TO FEATURE EUROBOND TRADE</field>
+	<field name = "titulo">CURRENCY SECTORS CONTINUE TO FEATURE EUROBOND TRADE</field>
 	<field name = "DATELINE">LONDON, March 3 -</field>
-	<field name = "BODY">Early dollar straight eurobond trade was
+	<field name = "content">Early dollar straight eurobond trade was
 quiet with currency sectors, particularly eurosterling,
 continuing to perform strongly, closely reflecting current
 trading patterns on the foreign exchanges, dealers said.

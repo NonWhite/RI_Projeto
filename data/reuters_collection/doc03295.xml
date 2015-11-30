@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-MAR-1987 14:25:02.42</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0316reute
-u f BC-NEW-AGENCY-TO-GIVE-CR   03-09 0091</field>
-	<field name = "TITLE">NEW AGENCY TO GIVE CREDIT RATINGS ON EUROBONDS</field>
+	<field name = "titulo">NEW AGENCY TO GIVE CREDIT RATINGS ON EUROBONDS</field>
 	<field name = "DATELINE">London, March 9 -</field>
-	<field name = "BODY">A newly formed credit rating agency based
+	<field name = "content">A newly formed credit rating agency based
 in London, EuroRatings Ltd, said it will begin providing
 evaluations of the quality of eurobond offerings including the
 first-ever ratings of some of the U.K. And Irish clearing

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-MAR-1987 16:08:12.76</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f9392reute
-r f BC-RAMADA-INC-RAM>-FILE   03-18 0067</field>
-	<field name = "TITLE">RAMADA INC RAM> FILES FOR NOTE OFFERING</field>
+	<field name = "titulo">RAMADA INC RAM> FILES FOR NOTE OFFERING</field>
 	<field name = "DATELINE">PHOENIX, Ariz., March 18 -</field>
-	<field name = "BODY">Ramada Inc said it filed a
+	<field name = "content">Ramada Inc said it filed a
 registration statement with the Securities and Exchange
 Commission covering a proposed offering of 100 mln dlrs of
 12-year subordinated notes through underwriter Salomon Brothers

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 17:35:22.31</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f3413reute
-r f BC-BAUSCH-AND-LOMB-BOL>   10-20 0111</field>
-	<field name = "TITLE">BAUSCH AND LOMB BOL> TO REPURCHASE SHARES</field>
+	<field name = "titulo">BAUSCH AND LOMB BOL> TO REPURCHASE SHARES</field>
 	<field name = "DATELINE">ROCHESTER, N.Y., Oct 20 -</field>
-	<field name = "BODY">Bausch and Lomb Inc said its
+	<field name = "content">Bausch and Lomb Inc said its
 board of directors has authorized the repurchase of up to three
 mln of its 30.5 mln issued shares of common stock.
     The company said recent turmoil in the financial markets

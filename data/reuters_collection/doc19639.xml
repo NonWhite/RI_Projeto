@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 10:45:05.75</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E F 
-f1210reute
-r f BC-sterivet-has-fda   06-29 0092</field>
-	<field name = "TITLE">STERIVET STVTF.O> HAS FDA REVIEW STATUS</field>
+	<field name = "titulo">STERIVET STVTF.O> HAS FDA REVIEW STATUS</field>
 	<field name = "DATELINE">TORONTO, June 29 -</field>
-	<field name = "BODY">Sterivet Laboratories Ltd said the U.S.
+	<field name = "content">Sterivet Laboratories Ltd said the U.S.
 Food and Drug Administration granted expedited review status
 for its proprietary drug Navicon.
     The company said future marketability of Navicon in the

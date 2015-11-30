@@ -5,12 +5,9 @@
 	<field name = "TOPICS">cocoa</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">nycsce</field>
-	<field name = "UNKNOWN">C T
-f1784reute
-u f BC-nycsce-limits   03-31 0133</field>
-	<field name = "TITLE">CSCE ALTERS RULES ON TRADING LIMITS</field>
+	<field name = "titulo">CSCE ALTERS RULES ON TRADING LIMITS</field>
 	<field name = "DATELINE">New York, March 31 -</field>
-	<field name = "BODY">The Coffee, Sugar and Cocoa Exchange
+	<field name = "content">The Coffee, Sugar and Cocoa Exchange
 amended regulations governing expanded trading limits on
 coffee, cocoa and sugar contracts to provide uniformity.
     Effective today, the exchange will permit normal daily

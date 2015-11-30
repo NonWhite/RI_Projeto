@@ -7,12 +7,9 @@
 	<field name = "TOPICS">wheat</field>
 	<field name = "TOPICS">oilseed</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G
-f1055reute
-u f BC-/MARKET-LOAN-COULD-BE   03-23 0134</field>
-	<field name = "TITLE">MARKET LOAN COULD BE PINNED TO U.S. TRADE BILL</field>
+	<field name = "titulo">MARKET LOAN COULD BE PINNED TO U.S. TRADE BILL</field>
 	<field name = "DATELINE">BOCA RATON, Fla., March 23 -</field>
-	<field name = "BODY">Sen. David Pryor, D-Ark., said
+	<field name = "content">Sen. David Pryor, D-Ark., said
 he was considering amending the Senate Finance Committee's
 trade bill with a provision to require a marketing loan for
 soybeans, corn and wheat.

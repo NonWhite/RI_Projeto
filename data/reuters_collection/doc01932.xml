@@ -2,12 +2,9 @@
 	<field name = "DATE">5-MAR-1987 04:55:28.49</field>
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">spain</field>
-	<field name = "UNKNOWN">RM
-f0482reute
-u f BC-SPAIN-RAISES-BANKS'-R   03-05 0095</field>
-	<field name = "TITLE">SPAIN RAISES BANKS' RESERVE REQUIREMENT</field>
+	<field name = "titulo">SPAIN RAISES BANKS' RESERVE REQUIREMENT</field>
 	<field name = "DATELINE">MADRID, March 5 -</field>
-	<field name = "BODY">The Bank of Spain said it raised the
+	<field name = "content">The Bank of Spain said it raised the
 reserve requirement for banks and savings banks to 19 pct of
 deposits from 18 pct to drain excess liquidity which threatened
 money supply and inflation targets.

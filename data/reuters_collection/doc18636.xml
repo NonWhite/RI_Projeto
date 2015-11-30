@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">18-JUN-1987 09:27:27.24</field>
 	<field name = "PLACES">netherlands</field>
-	<field name = "UNKNOWN">G 
-f3008reute
-r f BC-DUTCH-BUTTER-CONSUMPT   06-18 0133</field>
-	<field name = "TITLE">DUTCH BUTTER CONSUMPTION UP, MARGARINE LOWER</field>
+	<field name = "titulo">DUTCH BUTTER CONSUMPTION UP, MARGARINE LOWER</field>
 	<field name = "DATELINE">ROTTERDAM, June 18 -</field>
-	<field name = "BODY">Dutch butter consumption rose at the
+	<field name = "content">Dutch butter consumption rose at the
 expense of margarine last year partly because of the European
 Community's (EC) cheap butter schemes, the Commodity Board for
 Margarine, Fats and Oils (MVO), said.

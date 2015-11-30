@@ -2,12 +2,9 @@
 	<field name = "DATE">24-APR-1987 13:45:44.12</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">F
-f1970reute
-r f BC-ROCKWELL-SIGNS-AGREEM   04-24 0101</field>
-	<field name = "TITLE">ROCKWELL SIGNS AGREEMENT ON VALEO SUBSIDIARY</field>
+	<field name = "titulo">ROCKWELL SIGNS AGREEMENT ON VALEO SUBSIDIARY</field>
 	<field name = "DATELINE">PARIS, April 24 -</field>
-	<field name = "BODY">Rockwell International Corp ROK.N> has
+	<field name = "content">Rockwell International Corp ROK.N> has
 signed an agreement leading to the takeover of Valeo VLOF.PA>
 subsidiary SO.M.A. Europe Transmissions>, Valeo said in a
 statement.

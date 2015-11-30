@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 11:49:55.98</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1717reute
-s f BC-CAL-FED-INCOME-PARTNE   10-19 0023</field>
-	<field name = "TITLE">CAL FED INCOME PARTNERS L.P. CFI> QUARTERLY DIV</field>
+	<field name = "titulo">CAL FED INCOME PARTNERS L.P. CFI> QUARTERLY DIV</field>
 	<field name = "DATELINE">LOS ANGELES, Oct 19 -</field>
-	<field name = "BODY">Qtly div 25 cts vs 25 cts
+	<field name = "content">Qtly div 25 cts vs 25 cts
     Pay Nov 16
     Record Oct 30
  Reuter</field>

@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 06:50:05.37</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">zimbabwe</field>
-	<field name = "UNKNOWN">RM
-f4489reute
-r f BC-ZIMBABWE-GDP-RISES-0.   03-17 0090</field>
-	<field name = "TITLE">ZIMBABWE GDP RISES 0.2 PCT IN 1986</field>
+	<field name = "titulo">ZIMBABWE GDP RISES 0.2 PCT IN 1986</field>
 	<field name = "DATELINE">HARARE, March 17 -</field>
-	<field name = "BODY">Zimbabwe's real gross domestic product
+	<field name = "content">Zimbabwe's real gross domestic product
 increased 0.2 pct in 1986, according to preliminary figures
 published by the Central Statistical Office (CSO). This
 contrasts with a rise of more than nine pct in 1985.

@@ -3,13 +3,10 @@
 	<field name = "TOPICS">trade</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G L M T
-f9039reute
-u f BC-EC-WARNS-CONGRESS-ON   03-18 0110</field>
-	<field name = "TITLE">EC WARNS CONGRESS ON NEW TRADE BILL</field>
+	<field name = "titulo">EC WARNS CONGRESS ON NEW TRADE BILL</field>
 	<field name = "AUTHOR">By Robert Trautman</field>
 	<field name = "DATELINE">WASHINGTON, March 18 -</field>
-	<field name = "BODY">The European Community (EC) has
+	<field name = "content">The European Community (EC) has
 warned the U.S. House of Representatives that tough trade
 legislation it is considering could prompt retaliation by U.S.
 trading partners.

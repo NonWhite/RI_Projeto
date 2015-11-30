@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 07:08:57.35</field>
-	<field name = "UNKNOWN">C G
-f0410reute
-u f BC-MALAYSIAN-CRUDE-PALM   04-07 0135</field>
-	<field name = "TITLE">MALAYSIAN CRUDE PALM OIL CLOSES BELOW HIGHS</field>
+	<field name = "titulo">MALAYSIAN CRUDE PALM OIL CLOSES BELOW HIGHS</field>
 	<field name = "DATELINE">KUALA LUMPUR, April 7 -</field>
-	<field name = "BODY">Crude palm oil prices closed below
+	<field name = "content">Crude palm oil prices closed below
 the day's highs on late selling, prompted by talk that Pakistan
 passed on its tender for 6,000 tonnes of RBD palm oil for
 second half April shipment after having bought the same amount

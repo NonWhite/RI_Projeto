@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 15:32:31.34</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2154reute
-r f BC-ERLY-INDUSTRIES-ERLY   04-03 0070</field>
-	<field name = "TITLE">ERLY INDUSTRIES ERLY> MAKES LOAN TO HANSON</field>
+	<field name = "titulo">ERLY INDUSTRIES ERLY> MAKES LOAN TO HANSON</field>
 	<field name = "DATELINE">LOS ANGELES, April 3 -</field>
-	<field name = "BODY">Erly Industries Inc said it provided
+	<field name = "content">Erly Industries Inc said it provided
 privately-owned Hanson Foods Inc with a 23 mln dlr credit line
 needed to carry out its voluntary reorganization plan.
     The plan calls for about 20 mln dlrs of the credit facility

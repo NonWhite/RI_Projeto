@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">20-OCT-1987 11:39:42.41</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f1685reute
-r f BC-WELLS-FARGO-WFC>-SEE   10-20 0097</field>
-	<field name = "TITLE">WELLS FARGO WFC> SEES MODEST PROFIT FOR YEAR</field>
+	<field name = "titulo">WELLS FARGO WFC> SEES MODEST PROFIT FOR YEAR</field>
 	<field name = "DATELINE">SAN FRANCISCO, Oct 20 -</field>
-	<field name = "BODY">Wells Fargo and Co said it
+	<field name = "content">Wells Fargo and Co said it
 anticipates a modest profit for the full year 1987.
     For the previous full year, the company posted net of 273.5
 mln dlrs or 5.03 dlrs per share.

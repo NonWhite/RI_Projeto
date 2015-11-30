@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 11:22:43.79</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1241reute
-r f BC-PRESIDENTIAL-AIR-PAI   04-07 0091</field>
-	<field name = "TITLE">PRESIDENTIAL AIR PAIR> IN SALE/LEASEBACK</field>
+	<field name = "titulo">PRESIDENTIAL AIR PAIR> IN SALE/LEASEBACK</field>
 	<field name = "DATELINE">WASHINGTON, April 7 -</field>
-	<field name = "BODY">Presidential Airways Inc saiud it has
+	<field name = "content">Presidential Airways Inc saiud it has
 sold 10 of its 11 Boeing 737's to Ryder System Inc RDR>, which
 then leased seven of the planes Boeing Co BA> made planes back
 to Presidential on a short-term basis.

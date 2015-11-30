@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 10:52:47.46</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">F
-f1183reute
-d f BC-CRAY-CYR>-GETS-6.6-M   04-09 0096</field>
-	<field name = "TITLE">CRAY CYR> GETS 6.6 MLN DLRS ORDER FROM BP BP></field>
+	<field name = "titulo">CRAY CYR> GETS 6.6 MLN DLRS ORDER FROM BP BP></field>
 	<field name = "DATELINE">MINNEAPOLIS, MINN., April 9 -</field>
-	<field name = "BODY">Cray Research Inc said
+	<field name = "content">Cray Research Inc said
 British Petroleum ordered a CRAY X-MP/24 supercomputer valued
 at about 6.6 mln dlrs.
     The leased system will be installed at BP Exploration Co

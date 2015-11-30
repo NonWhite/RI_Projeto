@@ -5,12 +5,9 @@
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">cyprus</field>
-	<field name = "UNKNOWN">V
-f4588reute
-r f PM-IRAN-TANKER   03-17 0089</field>
-	<field name = "TITLE">IRAN SAID TO ATTACK CYPRIOT TANKER</field>
+	<field name = "titulo">IRAN SAID TO ATTACK CYPRIOT TANKER</field>
 	<field name = "DATELINE">TOKYO, March 17 -</field>
-	<field name = "BODY">A Cypriot tanker was set ablaze in the
+	<field name = "content">A Cypriot tanker was set ablaze in the
 Persian Gulf yesterday after an Iranian gunboat fired missiles
 at it, shipping sources quoting reports from Japanese tankers
 said today.

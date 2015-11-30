@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 19:02:50.50</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E 
-f2634reute
-r f AM-POSTAL   06-19 0128</field>
-	<field name = "TITLE">CANADA POST SEEKS MEDIATOR, VIOLENCE ON PICKET</field>
+	<field name = "titulo">CANADA POST SEEKS MEDIATOR, VIOLENCE ON PICKET</field>
 	<field name = "DATELINE">OTTAWA, June 19 -</field>
-	<field name = "BODY">Canada Post asked the federal government
+	<field name = "content">Canada Post asked the federal government
 to appoint a mediator to help end an increasingly violent
 series of strikes by the country's letter carriers.
     The government is expected to respond quickly to the

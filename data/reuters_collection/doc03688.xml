@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">11-MAR-1987 11:07:32.95</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">RM
-f0470reute
-u f BC-INTERCO-ESTABLISHES-5   03-11 0095</field>
-	<field name = "TITLE">INTERCO ESTABLISHES 50 MLN DLR REVOLVING FACILITY</field>
+	<field name = "titulo">INTERCO ESTABLISHES 50 MLN DLR REVOLVING FACILITY</field>
 	<field name = "DATELINE">LONDON, March 11 -</field>
-	<field name = "BODY">Missouri-based Interco Inc is
+	<field name = "content">Missouri-based Interco Inc is
 establishing a 50 mln dlr, five year revolving credit facility,
 Swiss Bank Corp International Ltd said as arranger.
     The facility allows for eurodollar and swingline advances

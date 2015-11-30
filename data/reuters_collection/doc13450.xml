@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 06:09:40.30</field>
 	<field name = "PLACES">bahrain</field>
-	<field name = "UNKNOWN">RM
-f0314reute
-r f BC-BAHRAIN-TREASURY-BILL   04-07 0100</field>
-	<field name = "TITLE">BAHRAIN TREASURY BILLS YIELD AVERAGE 6.00 PCT</field>
+	<field name = "titulo">BAHRAIN TREASURY BILLS YIELD AVERAGE 6.00 PCT</field>
 	<field name = "DATELINE">BAHRAIN, April 7 -</field>
-	<field name = "BODY">Bahrain's issue of two mln dinars worth
+	<field name = "content">Bahrain's issue of two mln dinars worth
 of 91-day Treasury bills was allotted at an average price of
 98.506 to yield an average 6.00 pct, a spokesman for the
 Bahrain Monetary Agency (BMA) said.

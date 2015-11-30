@@ -2,12 +2,9 @@
 	<field name = "DATE">9-APR-1987 13:32:06.7</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1921reute
-h f BC-EMCOR>-COMPLETES-SAL   04-09 0039</field>
-	<field name = "TITLE">EMCOR> COMPLETES SALE OF STOCK TO INVESTORS</field>
+	<field name = "titulo">EMCOR> COMPLETES SALE OF STOCK TO INVESTORS</field>
 	<field name = "DATELINE">SOUTH PLAINFIELD, N.J., April 9 -</field>
-	<field name = "BODY">Emcore said it completed
+	<field name = "content">Emcore said it completed
 the sale of 4.1 mln dlrs of stock to Citicorp Venture Capital
 Ltd, Concord Ventures of Dillon Read and Co and private
 investors.

@@ -3,12 +3,9 @@
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">nicaragua</field>
 	<field name = "PEOPLE">reagan</field>
-	<field name = "UNKNOWN">V RM
-f0197reute
-r f AM-CENTAM-AMERICAN   03-03 0085</field>
-	<field name = "TITLE">REAGAN SEEKS MORE AID FOR CENTRAL AMERICA</field>
+	<field name = "titulo">REAGAN SEEKS MORE AID FOR CENTRAL AMERICA</field>
 	<field name = "DATELINE">WASHINGTON, March 3 -</field>
-	<field name = "BODY">President Reagan, seeking to salvage
+	<field name = "content">President Reagan, seeking to salvage
 his Central America policy from the Iran arms scandal, said a
 major U.S. economic program for the region was working but
 needed 500 mln dlrs more than originally planned.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-JUN-1987 09:05:40.35</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F A 
-f0742reute
-r f BC-PNC-FINANCIAL-PNCF.O   06-19 0113</field>
-	<field name = "TITLE">PNC FINANCIAL PNCF.O> UNIT SHIFTS PORTFOLIO</field>
+	<field name = "titulo">PNC FINANCIAL PNCF.O> UNIT SHIFTS PORTFOLIO</field>
 	<field name = "DATELINE">PHILADELPHIA, June 19 -</field>
-	<field name = "BODY">PNC Financial corp's Provident
+	<field name = "content">PNC Financial corp's Provident
 National Bank subsidiary said it is increasing the weighting of
 bonds in its investment portfolio due to the recent softening
 in the fixed-income markets.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 17:02:26.09</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F 
-f2589reute
-u f BC-CONTEL-CTC>-SEES-LOW   06-29 0048</field>
-	<field name = "TITLE">CONTEL CTC> SEES LOWER 2ND QTR, YEAR NET</field>
+	<field name = "titulo">CONTEL CTC> SEES LOWER 2ND QTR, YEAR NET</field>
 	<field name = "DATELINE">ATLANTA, Ga., June 29 -</field>
-	<field name = "BODY">Contel Corp said its expects to
+	<field name = "content">Contel Corp said its expects to
 report second quarter earnings that are lower than last year's
 74 cts a share and 1987 earnings from continuing operations
 that are about 15 pct lower than last year's 3.04 dlrs per

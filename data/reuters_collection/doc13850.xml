@@ -1,11 +1,8 @@
 <add><doc>
 	<field name = "DATE">7-APR-1987 10:13:21.01</field>
-	<field name = "UNKNOWN">C G
-f0937reute
-u f BC-cbt-wheat-pre-opg   04-07 0128</field>
-	<field name = "TITLE">CBT WHEAT FUTURES EXPECTED TO OPEN STEADY</field>
+	<field name = "titulo">CBT WHEAT FUTURES EXPECTED TO OPEN STEADY</field>
 	<field name = "DATELINE">CHICAGO, April 7 -</field>
-	<field name = "BODY">CBT wheat futures were expected to open
+	<field name = "content">CBT wheat futures were expected to open
 steady, supported by followthrough speculative buying after
 yesterday's strong close when new contract highs were set in
 new crop, traders said.

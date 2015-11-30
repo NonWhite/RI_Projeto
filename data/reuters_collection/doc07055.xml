@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 08:56:16.58</field>
 	<field name = "PLACES">uk</field>
-	<field name = "UNKNOWN">A
-f0726reute
-d f BC-BP-SALE-WAS-IN-UK-198   03-19 0115</field>
-	<field name = "TITLE">BP SALE WAS IN UK 1987/88 BUDGET MATHS - TREASURY</field>
+	<field name = "titulo">BP SALE WAS IN UK 1987/88 BUDGET MATHS - TREASURY</field>
 	<field name = "DATELINE">LONDON, March 19 -</field>
-	<field name = "BODY">The U.K. Treasury said its 1987/88
+	<field name = "content">The U.K. Treasury said its 1987/88
 budget arithmetic which was unveiled on Tuesday "took full
 account of likely proceeds" from the sale of the government's
 remaining 31.7 pct stake in British Petroleum Co PLC (BP.L).

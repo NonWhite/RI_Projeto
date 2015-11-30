@@ -2,12 +2,9 @@
 	<field name = "DATE">1-JUN-1987 15:37:39.38</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2297reute
-u f BC-U.S.-BANCORP-USBC.O>   06-01 0085</field>
-	<field name = "TITLE">U.S. BANCORP USBC.O> HAS ACQUISITION APPROVAL</field>
+	<field name = "titulo">U.S. BANCORP USBC.O> HAS ACQUISITION APPROVAL</field>
 	<field name = "DATELINE">PORTLAND, Ore., June 1 -</field>
-	<field name = "BODY">U.S. Bancorp (Oregon) said it has
+	<field name = "content">U.S. Bancorp (Oregon) said it has
 been advised orally that its application for the acquisition of
 Old National Bancorp has been approved by the Board of
 Governors of the Federal Reserve.

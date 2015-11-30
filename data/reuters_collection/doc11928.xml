@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 10:05:16.49</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0978reute
-h f BC-FIRST-NATIONAL-HOLDER   04-01 0097</field>
-	<field name = "TITLE">FIRST NATIONAL HOLDERS APPROVE HOLDING COMPANY</field>
+	<field name = "titulo">FIRST NATIONAL HOLDERS APPROVE HOLDING COMPANY</field>
 	<field name = "DATELINE">MOUNT CLEMENS, MICH., April 1 -</field>
-	<field name = "BODY">First National Bank in
+	<field name = "content">First National Bank in
 Mount Clemens, Mich., said it is seeking final regulatory
 approval to form First National Bank Corp, a bank holding
 company, following shareholder approval Tuesday.

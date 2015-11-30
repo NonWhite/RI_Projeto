@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">2-JUN-1987 21:45:54.64</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM
-f3018reute
-u f BC-DAIWA-SINGAPORE-LAUNC   06-02 0106</field>
-	<field name = "TITLE">DAIWA SINGAPORE LAUNCHES 100 MLN DLR MINEBEA BOND</field>
+	<field name = "titulo">DAIWA SINGAPORE LAUNCHES 100 MLN DLR MINEBEA BOND</field>
 	<field name = "DATELINE">SINGAPORE, June 3 -</field>
-	<field name = "BODY">Daiwa Singapore Ltd, wholly-owned by
+	<field name = "content">Daiwa Singapore Ltd, wholly-owned by
 Daiwa Securities Co Ltd of Japan, yesterday launched a 100 mln
 U.S. Dlr tranche of an equity warrant eurobond in Singapore for
 Japan's Minebea Co Ltd MIAT.T>.

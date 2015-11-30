@@ -1,13 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 03:54:11.83</field>
 	<field name = "PLACES">singapore</field>
-	<field name = "UNKNOWN">RM
-f0642
-reute
-u f BC-NEUTRAL-BUDGET-EXPECT   03-03 0102</field>
-	<field name = "TITLE">NEUTRAL BUDGET EXPECTED IN SINGAPORE</field>
+	<field name = "titulo">NEUTRAL BUDGET EXPECTED IN SINGAPORE</field>
 	<field name = "DATELINE">SINGAPORE, March 3 -</field>
-	<field name = "BODY">Singapore's Finance Minister Richard
+	<field name = "content">Singapore's Finance Minister Richard
 Hu is expected to announce a neutral budget tomorrow with no
 major tax changes for the 1987/88 year starting April 1,
 bankers and economists told Reuters.

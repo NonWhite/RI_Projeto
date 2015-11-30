@@ -2,13 +2,9 @@
 	<field name = "DATE">2-MAR-1987 12:03:58.46</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0138
-reute
-r f BC-CRONUS-INDUSTRIES-INC   03-02 0072</field>
-	<field name = "TITLE">CRONUS INDUSTRIES INC CRNS> 4TH QTR LOSS</field>
+	<field name = "titulo">CRONUS INDUSTRIES INC CRNS> 4TH QTR LOSS</field>
 	<field name = "DATELINE">DALLAS, March 2 -</field>
-	<field name = "BODY">Oper Shr loss 40 cts vs loss 10 cts
+	<field name = "content">Oper Shr loss 40 cts vs loss 10 cts
     Oper net loss 2,136,000 vs loss 467,000
     Revs 21.9 mln vs 12.9 mln
     12 mths

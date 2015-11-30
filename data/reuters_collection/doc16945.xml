@@ -4,12 +4,9 @@
 	<field name = "PLACES">south-korea</field>
 	<field name = "PLACES">usa</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">RM
-f0262reute
-u f BC-SOUTH-KOREA-CUTS-EXPO   04-21 0100</field>
-	<field name = "TITLE">SOUTH KOREA CUTS EXPORT FINANCE LOANS</field>
+	<field name = "titulo">SOUTH KOREA CUTS EXPORT FINANCE LOANS</field>
 	<field name = "DATELINE">SEOUL, April 21 -</field>
-	<field name = "BODY">South Korea has cut loans to exporting
+	<field name = "content">South Korea has cut loans to exporting
 companies to help reduce the growing trade surplus with the
 United States and the European Community, finance ministry
 officials said.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 10:25:04.55</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f1056reute
-r f BC-FRANCE-PLANS-TO-COVER   04-09 0120</field>
-	<field name = "TITLE">FRANCE PLANS TO COVER SOCIAL SECURITY DEFICIT</field>
+	<field name = "titulo">FRANCE PLANS TO COVER SOCIAL SECURITY DEFICIT</field>
 	<field name = "DATELINE">PARIS, April 9 -</field>
-	<field name = "BODY">French government ministers will meet next
+	<field name = "content">French government ministers will meet next
 Tuesday to discuss measures to cover the state Social Security
 Fund's deficit before the summer, Prime Minister Jacques
 Chirac's social affairs adviser, Marie-Helene Berard, said.

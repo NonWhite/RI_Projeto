@@ -2,12 +2,9 @@
 	<field name = "DATE">23-APR-1987 19:48:08.94</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f3076reute
-u f AM-COMSAT   04-23 0107</field>
-	<field name = "TITLE">US STUDY DISCUSSES DROPPED COMSAT-CONTEL MERGER</field>
+	<field name = "titulo">US STUDY DISCUSSES DROPPED COMSAT-CONTEL MERGER</field>
 	<field name = "DATELINE">WASHINGTON, April 23 -</field>
-	<field name = "BODY">A congressional study today said the
+	<field name = "content">A congressional study today said the
 proposed, but now apparently abandoned, merger of the
 Communications Satellite Corp CQ> and Contel Corp CTC>
 would technically be legal but could violate the spirt of the

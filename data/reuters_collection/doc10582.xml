@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 13:29:49.68F RM A</field>
-	<field name = "UNKNOWN">f1853reute</field>
 	<field name = "PLACES">usa</field>
 	<field name = "EXCHANGES">cme</field>
-	<field name = "UNKNOWN">r f BC-CME-PROPOSES-LIMITS-O   03-27 0071</field>
-	<field name = "TITLE">CME PROPOSES LIMITS ON BROKER TRADING RINGS</field>
+	<field name = "titulo">CME PROPOSES LIMITS ON BROKER TRADING RINGS</field>
 	<field name = "DATELINE">CHICAGO, March 27 -</field>
-	<field name = "BODY">The Chicago Mercantile Exchange (CME)
+	<field name = "content">The Chicago Mercantile Exchange (CME)
 has proposed stringent limits on the portion of futures trading
 that can be conducted between "trading rings," or  affiliated
 groups of floor brokers, according to a CME spokesman.

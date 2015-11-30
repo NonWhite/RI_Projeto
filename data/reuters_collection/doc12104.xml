@@ -2,12 +2,9 @@
 	<field name = "DATE">1-APR-1987 12:49:21.94</field>
 	<field name = "PLACES">usa</field>
 	<field name = "PLACES">finland</field>
-	<field name = "UNKNOWN">F
-f1726reute
-u f BC-FINNAIR-TO-BUY-TWO-MC   04-01 0064</field>
-	<field name = "TITLE">FINNAIR TO BUY TWO MCDONNELL DOUGLAS AIRCRAFTS</field>
+	<field name = "titulo">FINNAIR TO BUY TWO MCDONNELL DOUGLAS AIRCRAFTS</field>
 	<field name = "DATELINE">LONG BEACH, Calif, April 1 -</field>
-	<field name = "BODY">McDonnell Douglas Corp MD>
+	<field name = "content">McDonnell Douglas Corp MD>
 said Finnair, the national airline of Finland, will purchase
 two McDonnell Douglas MD-11 advanced long-range tri-jets with
 options for two more.

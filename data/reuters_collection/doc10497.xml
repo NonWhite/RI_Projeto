@@ -1,12 +1,10 @@
 <add><doc>
 	<field name = "DATE">27-MAR-1987 11:43:45.85F</field>
-	<field name = "UNKNOWN">f1392reute</field>
 	<field name = "TOPICS">earn</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">r f BC-CISTRON-BIOTECHNOLOGY   03-27 0112</field>
-	<field name = "TITLE">CISTRON BIOTECHNOLOGY CIST> SETS DIVIDEND</field>
+	<field name = "titulo">CISTRON BIOTECHNOLOGY CIST> SETS DIVIDEND</field>
 	<field name = "DATELINE">PINE BROOK, N.J., MARCH 27 -</field>
-	<field name = "BODY">Cistron Biotechnology Inc said
+	<field name = "content">Cistron Biotechnology Inc said
 it will pay a stock dividend declared prior to the initial
 public offering of its common stock in August 1986 to
 stockholders of record prior to the common offering.

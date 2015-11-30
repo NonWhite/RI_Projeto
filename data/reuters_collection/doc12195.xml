@@ -3,12 +3,9 @@
 	<field name = "PLACES">france</field>
 	<field name = "PLACES">senegal</field>
 	<field name = "ORGS">worldbank</field>
-	<field name = "UNKNOWN">C
-f2049reute
-d f AM-SENEGAL   04-01 0113</field>
-	<field name = "TITLE">SENEGAL PROMISED 1.8 BILLION DLRS AID</field>
+	<field name = "titulo">SENEGAL PROMISED 1.8 BILLION DLRS AID</field>
 	<field name = "DATELINE">PARIS, April 1 -</field>
-	<field name = "BODY">Aid donors have promised Senegal 1.8
+	<field name = "content">Aid donors have promised Senegal 1.8
 billion dlrs in soft loans over the next three years, to be
 split between project investment and balance of payment
 requirements, the World Bank said in a statement.

@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 09:57:33.00</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">C G 
-f1111reute
-d f BC-KANSAS-CITY-EXCHANGE'   10-19 0096</field>
-	<field name = "TITLE">KANSAS CITY EXCHANGE'S AUDIT TRAIL ADEQUATE</field>
+	<field name = "titulo">KANSAS CITY EXCHANGE'S AUDIT TRAIL ADEQUATE</field>
 	<field name = "DATELINE">WASHINGTON, Oct 19 -</field>
-	<field name = "BODY">The Commodity Futures Trading
+	<field name = "content">The Commodity Futures Trading
 Commission (CFTC) said the Kansas City Board of Trade's (KCBT)
 one-minute audit trail system was adequate and accurate.
     But in its second rule enforcement review of an exchange's

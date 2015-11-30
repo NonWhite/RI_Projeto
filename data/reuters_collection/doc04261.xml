@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">12-MAR-1987 10:51:09.06</field>
 	<field name = "PLACES">france</field>
-	<field name = "UNKNOWN">RM
-f0273reute
-u f BC-FRANCE'S-CENCEP-ISSUE   03-12 0112</field>
-	<field name = "TITLE">FRANCE'S CENCEP ISSUES 1.9 BILLION FRANC BOND</field>
+	<field name = "titulo">FRANCE'S CENCEP ISSUES 1.9 BILLION FRANC BOND</field>
 	<field name = "DATELINE">PARIS, March 12 -</field>
-	<field name = "BODY">Centre National des Caisses d'Epargne et
+	<field name = "content">Centre National des Caisses d'Epargne et
 de Prevoyance (CENCEP) said it is issuing a 1.9 billion franc
 two-tranche, 12-year domestic bond led by Caisse des Depots et
 Consignations.

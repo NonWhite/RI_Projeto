@@ -2,12 +2,9 @@
 	<field name = "DATE">3-MAR-1987 10:46:56.99</field>
 	<field name = "TOPICS">gnp</field>
 	<field name = "PLACES">canada</field>
-	<field name = "UNKNOWN">E V RM
-f0609reute
-b f BC-CANADA-GDP-RISES-3.1   03-03 0085</field>
-	<field name = "TITLE">CANADA GDP RISES 3.1 PCT IN 1986</field>
+	<field name = "titulo">CANADA GDP RISES 3.1 PCT IN 1986</field>
 	<field name = "DATELINE">OTTAWA, March 3 -</field>
-	<field name = "BODY">Canada's real gross domestic product,
+	<field name = "content">Canada's real gross domestic product,
 seasonally adjusted, rose 1.1 pct in the fourth quarter of
 1986, the same as the growth as in the previous quarter,
 Statistics Canada said.

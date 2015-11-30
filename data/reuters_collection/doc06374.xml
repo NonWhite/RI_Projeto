@@ -2,12 +2,9 @@
 	<field name = "DATE">18-MAR-1987 06:00:51.09</field>
 	<field name = "TOPICS">ipi</field>
 	<field name = "PLACES">ussr</field>
-	<field name = "UNKNOWN">RM
-f7310reute
-r f BC-SOVIET-ECONOMIST-SAYS   03-18 0096</field>
-	<field name = "TITLE">SOVIET ECONOMIST SAYS PRODUCTION FIGURES PADDED</field>
+	<field name = "titulo">SOVIET ECONOMIST SAYS PRODUCTION FIGURES PADDED</field>
 	<field name = "DATELINE">MOSCOW, March 18 -</field>
-	<field name = "BODY">A leading Soviet economist said the
+	<field name = "content">A leading Soviet economist said the
 practice of padding figures was significantly inflating the
 country's industrial production data.
     "According to the information of state monitoring organs,

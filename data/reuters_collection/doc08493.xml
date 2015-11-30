@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">23-MAR-1987 15:57:05.44</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2306reute
-r f BC-ANCHOR-SAVINGS-BANK-M   03-23 0067</field>
-	<field name = "TITLE">ANCHOR SAVINGS BANK MEMBERS APPROVE CONVERSION</field>
+	<field name = "titulo">ANCHOR SAVINGS BANK MEMBERS APPROVE CONVERSION</field>
 	<field name = "DATELINE">NORTHPORT, N.Y., March 23 -</field>
-	<field name = "BODY">Anchor Savings Bank board of
+	<field name = "content">Anchor Savings Bank board of
 trustees said a requisite majority of depositors and borrowers,
 by a vote of 37,531,576 to 714,490, approved Anchor's plan to
 convert from a federally chartered mutual savings bank to a

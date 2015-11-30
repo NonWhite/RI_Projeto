@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">29-JUN-1987 10:54:53.49</field>
 	<field name = "PLACES">nigeria</field>
-	<field name = "UNKNOWN">C G T M 
-f1254reute
-d f BC-NIGERIAN-MILITARY-DEL   06-29 0100</field>
-	<field name = "TITLE">NIGERIAN MILITARY MAY DELAY POWER TRANSFER</field>
+	<field name = "titulo">NIGERIAN MILITARY MAY DELAY POWER TRANSFER</field>
 	<field name = "DATELINE">LAGOS, June 29 -</field>
-	<field name = "BODY">Nigeria's military rulers will transfer
+	<field name = "content">Nigeria's military rulers will transfer
 power to an elected civilian government in 1992, two years
 later than previously planned, at the conclusion of a gradual
 handover starting this year, official sources said.

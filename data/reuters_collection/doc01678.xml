@@ -2,12 +2,9 @@
 	<field name = "DATE">4-MAR-1987 13:57:40.34</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0315reute
-d f BC-ASBESTEC-TO-BUY-CONTR   03-04 0091</field>
-	<field name = "TITLE">ASBESTEC TO BUY CONTRACTOR, RECEIVES CONTRACT</field>
+	<field name = "titulo">ASBESTEC TO BUY CONTRACTOR, RECEIVES CONTRACT</field>
 	<field name = "DATELINE">PENNSAUKEN, N.J., March 4 -</field>
-	<field name = "BODY">Asbestec Industries Inc> said
+	<field name = "content">Asbestec Industries Inc> said
 it signed a letter of intent to buy asbestos abatement
 contractor P.W. Stephens> for three mln dlrs in cash, stock
 and notes.

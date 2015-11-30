@@ -2,13 +2,10 @@
 	<field name = "DATE">20-OCT-1987 04:21:55.55</field>
 	<field name = "PLACES">japan</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">RM V 
-f0243reute
-u f BC-WILL-WORLD-RECESSION   10-20 0086</field>
-	<field name = "TITLE">WILL WORLD RECESSION FOLLOW STOCK MARKET PLUNGE?</field>
+	<field name = "titulo">WILL WORLD RECESSION FOLLOW STOCK MARKET PLUNGE?</field>
 	<field name = "AUTHOR">By Linda Sieg</field>
 	<field name = "DATELINE">TOKYO, Oct 20 -</field>
-	<field name = "BODY">Some economists fear a world recession if
+	<field name = "content">Some economists fear a world recession if
 stock exchanges continue to plunge. Others are more sanguine.
     The pessimists say the stocks shakeout is destroying
 personal assets and dampening consumption.

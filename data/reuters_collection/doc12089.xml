@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">1-APR-1987 12:40:17.48</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1692reute
-u f BC-PACKARD-HWP>-CUTS-PE   04-01 0062</field>
-	<field name = "TITLE">PACKARD HWP> CUTS PERSONAL COMPUTER PRICES</field>
+	<field name = "titulo">PACKARD HWP> CUTS PERSONAL COMPUTER PRICES</field>
 	<field name = "DATELINE">PALO ALTO, Calif., April 1 -</field>
-	<field name = "BODY">Hewlett-Packard Co said it
+	<field name = "content">Hewlett-Packard Co said it
 reduced prices by up to 15 pct on two models of its HP Vectra
 PC, an International Business Machines Corp PC/AT-compatible
 personal computer.

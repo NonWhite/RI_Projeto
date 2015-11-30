@@ -3,12 +3,9 @@
 	<field name = "TOPICS">grain</field>
 	<field name = "TOPICS">barley</field>
 	<field name = "PLACES">italy</field>
-	<field name = "UNKNOWN">G
-f1173reute
-d f BC-ITALIAN-BARLEY-CROP-R   06-02 0085</field>
-	<field name = "TITLE">ITALIAN BARLEY CROP REPORTED IN GOOD CONDITION</field>
+	<field name = "titulo">ITALIAN BARLEY CROP REPORTED IN GOOD CONDITION</field>
 	<field name = "DATELINE">ROME, June 2 -</field>
-	<field name = "BODY">Italy's barley crop is generally in good
+	<field name = "content">Italy's barley crop is generally in good
 condition and harvesting is expected to begin shortly, the
 agricultural marketing information and research board Irvam
 said.

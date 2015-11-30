@@ -3,12 +3,9 @@
 	<field name = "TOPICS">crude</field>
 	<field name = "PLACES">iran</field>
 	<field name = "PLACES">iraq</field>
-	<field name = "UNKNOWN">Y
-f2147reute
-u f AM-GULF-IRAQ   04-08 0094</field>
-	<field name = "TITLE">IRAQI TROOPS REPORTED PUSHING BACK IRANIANS</field>
+	<field name = "titulo">IRAQI TROOPS REPORTED PUSHING BACK IRANIANS</field>
 	<field name = "DATELINE">BAGHDAD, April 8 -</field>
-	<field name = "BODY">Iraq said today its troops were pushing
+	<field name = "content">Iraq said today its troops were pushing
 Iranian forces out of positions they had initially occupied
 when they launched a new offensive near the southern port of
 Basra early yesterday.

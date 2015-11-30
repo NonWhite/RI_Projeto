@@ -3,13 +3,9 @@
 	<field name = "TOPICS">money-supply</field>
 	<field name = "PLACES">new-zealand</field>
 	<field name = "PEOPLE">russell</field>
-	<field name = "UNKNOWN">RM
-f0432
-reute
-u f BC-N.Z.-CENTRAL-BANK-SEE   02-26 0112</field>
-	<field name = "TITLE">N.Z. CENTRAL BANK SEES SLOWER MONEY, CREDIT GROWTH</field>
+	<field name = "titulo">N.Z. CENTRAL BANK SEES SLOWER MONEY, CREDIT GROWTH</field>
 	<field name = "DATELINE">WELLINGTON, Feb 27 -</field>
-	<field name = "BODY">Monetary and credit growth rates in
+	<field name = "content">Monetary and credit growth rates in
 New Zealand are not expected to continue at current levels
 following the Reserve Bank's move to tighten liquidity late
 last year, Reserve Bank Governor Spencer Russell said.

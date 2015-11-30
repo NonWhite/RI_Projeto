@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">9-APR-1987 09:29:09.32</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0820reute
-r f BC-COMPAQ-CPQ>-AWARDED   04-09 0098</field>
-	<field name = "TITLE">COMPAQ CPQ> AWARDED 1988 GSA CONTRACT</field>
+	<field name = "titulo">COMPAQ CPQ> AWARDED 1988 GSA CONTRACT</field>
 	<field name = "DATELINE">HOUSTON, April 9 -</field>
-	<field name = "BODY">Compaq Computer Corp said the General
+	<field name = "content">Compaq Computer Corp said the General
 Service Administration has awarded it a contract allowing
 federal agencies to purchase COMPAQ personal computers until
 March 31, 1988. The previous Compaq GSA contract expired March

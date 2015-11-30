@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-OCT-1987 02:56:28.56</field>
 	<field name = "PLACES">japan</field>
-	<field name = "UNKNOWN">F 
-f0130reute
-u f BC-NIPPON-SHINPAN-TO-ISS   10-19 0090</field>
-	<field name = "TITLE">NIPPON SHINPAN TO ISSUE CREDIT CARD WITH MASTERCARD</field>
+	<field name = "titulo">NIPPON SHINPAN TO ISSUE CREDIT CARD WITH MASTERCARD</field>
 	<field name = "DATELINE">TOKYO, Oct 19 -</field>
-	<field name = "BODY">Nippon Shinpan Co Ltd NSHT.T> has agreed
+	<field name = "content">Nippon Shinpan Co Ltd NSHT.T> has agreed
 with Mastercard International> to issue a new credit card
 called Nippon Shinpan-Master Joint Card for use in Japan and
 abroad, a Nippon Shinpan spokesman said.

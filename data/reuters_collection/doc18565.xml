@@ -2,12 +2,9 @@
 	<field name = "DATE">18-JUN-1987 07:31:09.04</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">australia</field>
-	<field name = "UNKNOWN">F 
-f2665reute
-r f BC-CSR-DECLARES-PIONEER   06-18 0118</field>
-	<field name = "TITLE">CSR DECLARES PIONEER SUGAR BID UNCONDITIONAL</field>
+	<field name = "titulo">CSR DECLARES PIONEER SUGAR BID UNCONDITIONAL</field>
 	<field name = "DATELINE">SYDNEY, June 18 -</field>
-	<field name = "BODY">CSR Ltd CSRA.S> said it had declared
+	<field name = "content">CSR Ltd CSRA.S> said it had declared
 unconditional its takeover bid for Pioneer Sugar Mills Ltd>
 following Pioneer's recommendation that shareholders accept.
     This meant Pioneer shareholders would be paid for all

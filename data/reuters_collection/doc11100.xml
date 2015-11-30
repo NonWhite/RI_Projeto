@@ -2,12 +2,9 @@
 	<field name = "DATE">30-MAR-1987 17:01:43.07</field>
 	<field name = "TOPICS">acq</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2625reute
-u f BC-DIXONS-GROUP,-AUDIO/V   03-30 0088</field>
-	<field name = "TITLE">DIXONS GROUP, AUDIO/VIDEO AVA> END LITIGATION</field>
+	<field name = "titulo">DIXONS GROUP, AUDIO/VIDEO AVA> END LITIGATION</field>
 	<field name = "DATELINE">NEW YORK, March 30 -</field>
-	<field name = "BODY">Dixons Group PLC said that pursuant to
+	<field name = "content">Dixons Group PLC said that pursuant to
 an agreement with Audio/Video Affiliates Inc, part of an
 investor group that made a rival bid for Cyclops Corp CYL>,
 all litigation between them has been dismissed.

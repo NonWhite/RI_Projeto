@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">19-MAR-1987 15:02:14.22</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f2165reute
-r f BC-PACAD-BAGS>-SEES-OKA   03-19 0108</field>
-	<field name = "TITLE">PACAD BAGS> SEES OKAMOTO CONTRACT IN A FEW DAYS</field>
+	<field name = "titulo">PACAD BAGS> SEES OKAMOTO CONTRACT IN A FEW DAYS</field>
 	<field name = "DATELINE">NEWBURGH, N.Y., March 19 -</field>
-	<field name = "BODY">Pacad Inc said it expects to
+	<field name = "content">Pacad Inc said it expects to
 have a written contract with Okamoto U.S.A. Inc to market
 condoms produced by its parent company, Okamoto Riklen Gomu Co
 Ltd>, in the United States within 10 days.

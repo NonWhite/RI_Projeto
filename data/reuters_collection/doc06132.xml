@@ -2,12 +2,9 @@
 	<field name = "DATE">17-MAR-1987 13:30:56.84</field>
 	<field name = "PLACES">spain</field>
 	<field name = "ORGS">ec</field>
-	<field name = "UNKNOWN">C G T
-f5974reute
-r f BC-FARMERS-RENEW-PROTEST   03-17 0112</field>
-	<field name = "TITLE">FARMERS RENEW PROTESTS IN SPAIN</field>
+	<field name = "titulo">FARMERS RENEW PROTESTS IN SPAIN</field>
 	<field name = "DATELINE">MADRID, March 17 -</field>
-	<field name = "BODY">Hundreds of farmers brought Madrid's
+	<field name = "content">Hundreds of farmers brought Madrid's
 traffic to a standstill with their tractors in the latest
 protest to demand a better deal from the European Community
 (EC) and more government subsidies to face up to EC

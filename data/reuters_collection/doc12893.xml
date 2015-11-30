@@ -1,12 +1,9 @@
 <add><doc>
 	<field name = "DATE">3-APR-1987 10:34:28.90</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f1136reute
-r f BC-AMC-AMO>-TO-INSPECT   04-03 0101</field>
-	<field name = "TITLE">AMC AMO> TO INSPECT 20,000 VEHICLES</field>
+	<field name = "titulo">AMC AMO> TO INSPECT 20,000 VEHICLES</field>
 	<field name = "DATELINE">SOUTHFIELD, MICH., April 3 -</field>
-	<field name = "BODY">American Motors Corp said it
+	<field name = "content">American Motors Corp said it
 will ask Jeep dealers to inspect about 20,000 Cherokee,
 Wagoneer and Comanche vehicles equipped with 4.0-liter,
 6-cylinder engines to determine whether the air control valve

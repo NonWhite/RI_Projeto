@@ -1,13 +1,10 @@
 <add><doc>
 	<field name = "DATE">3-MAR-1987 13:25:05.20</field>
 	<field name = "PLACES">usa</field>
-	<field name = "UNKNOWN">F
-f0315reute
-r f BC-TALKING-POINT/AUTO-SU   03-03 0087</field>
-	<field name = "TITLE">TALKING POINT/AUTO SUPPLIER STOCKS</field>
+	<field name = "titulo">TALKING POINT/AUTO SUPPLIER STOCKS</field>
 	<field name = "AUTHOR">By Richard Walker, Reuters</field>
 	<field name = "DATELINE">DETROIT, March 3 -</field>
-	<field name = "BODY">The 1987 outlook for U.S. auto sales is
+	<field name = "content">The 1987 outlook for U.S. auto sales is
 clouded by a decidedly mixed sales forecast, and analysts who
 follow the industry say it is also true for companies that sell
 parts and equipment to the major car and truck manufacturers.
