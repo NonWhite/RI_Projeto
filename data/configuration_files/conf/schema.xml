@@ -15,6 +15,12 @@
   <field name="autor" type="text_general" indexed="true" stored="true" />
   <field name="titulo" type="text_general" indexed="true" stored="true" multiValued="true"/>
   <field name="url" type="text_general" indexed="true" stored="true" multiValued="true"/>
+  <field name="DATE" type="text_general" indexed="true" stored="true"/>
+  <field name="TOPICS" type="text_general" indexed="true" stored="true" multiValued="true"/>
+  <field name="PLACES" type="text_general" indexed="true" stored="true" multiValued="true"/>
+  <field name="ORGS" type="text_general" indexed="true" stored="true" multiValued="true"/>
+  <field name="PEOPLE" type="text_general" indexed="true" stored="true" multiValued="true"/>
+  <field name="EXCHANGES" type="text_general" indexed="true" stored="true" multiValued="true"/>
 
   <!-- Campo utilizado para agrupar todos os demais campos -->
   <field name="text" type="text_general" indexed="true" stored="false" multiValued="true"/>
@@ -22,7 +28,7 @@
   <!-- texto reverso. ideal para wildcards -->
   <field name="text_rev" type="text_general_rev" indexed="true" stored="false" multiValued="true"/>
 
-  <field name="content" type="text_general" indexed="false" stored="true" multiValued="true"/>
+  <field name="content" type="text_general" indexed="false" stored="true" multiValued = "true"/>
 
   <dynamicField name="*_i"  type="int"    indexed="true"  stored="true"/>
   <dynamicField name="*_is" type="int"    indexed="true"  stored="true"  multiValued="true"/>
@@ -63,6 +69,12 @@
   <copyField source="editora" dest="text"/>
   <copyField source="autor" dest="text"/>
   <copyField source="titulo" dest="text"/>
+  <copyField source="DATE" dest="text"/>
+  <copyField source="TOPICS" dest="text"/>
+  <copyField source="PLACES" dest="text"/>
+  <copyField source="ORGS" dest="text"/>
+  <copyField source="PEOPLE" dest="text"/>
+  <copyField source="EXCHANGES" dest="text"/>
 	
   <fieldType name="string" class="solr.StrField" sortMissingLast="true" />
   <fieldType name="boolean" class="solr.BoolField" sortMissingLast="true"/>
