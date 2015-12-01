@@ -1,8 +1,10 @@
 import sys
+from time import strptime
+from time import strftime
 from copy import deepcopy as copy
 import xml.etree.ElementTree as ET
 
-not_allowed_fields = [ 'UNKNOWN' ]
+not_allowed_fields = [ 'UNKNOWN' , 'DATELINE' ]
 mapping = {
 	'TITLE' : 'titulo' ,
 	'BODY' : 'content'
@@ -17,6 +19,7 @@ def is_end( line ) :
 def parse( data , num_doc ) :
 	parsed_data = []
 	m = lambda k : k if k not in mapping else mapping[ k ]
+	add = lambda tag , text : parsed_data.append( ( m( tag ) , text.strip() ) )
 	try :
 		root = ET.fromstring( ''.join( data ) )
 		for element in root :
@@ -25,16 +28,22 @@ def parse( data , num_doc ) :
 			if len( children ) > 0 :
 				for ch in element :
 					if ch.tag == 'D' :
-						if tag not in not_allowed_fields :
-							parsed_data.append( ( m( tag ) , ch.text.strip() ) )
+						#parsed_data.append( ( m( tag ) , ch.text.strip() ) )
+						add( tag , ch.text )
 					else :
-						if tag not in not_allowed_fields :
-							parsed_data.append( ( m( ch.tag ) , ch.text.strip() ) )
+						#parsed_data.append( ( m( ch.tag ) , ch.text.strip() ) )
+						add( ch.tag , ch.text )
 			else :
 				if element.text :
-					if tag not in not_allowed_fields :
-						parsed_data.append( ( m( tag ) , element.text.strip() ) )
+					#parsed_data.append( ( m( tag ) , element.text.strip() ) )
+					add( tag , element.text )
 		parsed_data.append( ( 'id' , "reuters-%s" % ( "%s" % num_doc ).zfill( 5 ) ) )
+		for ( k , r ) in parsed_data :
+			if k in not_allowed_fields :
+				parsed_data.remove( ( k , r ) )
+			if k == 'DATE' :
+				parsed_data.remove( ( k , r ) )
+				add( k , r[ :-3 ] )
 	except Exception as e :
 		print e
 	return parsed_data
