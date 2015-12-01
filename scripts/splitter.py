@@ -16,7 +16,7 @@ def is_end( line ) :
 
 def parse( data , num_doc ) :
 	parsed_data = []
-	m = lambda k : k.lower() if k not in mapping else mapping[ k ]
+	m = lambda k : k if k not in mapping else mapping[ k ]
 	try :
 		root = ET.fromstring( ''.join( data ) )
 		for element in root :
@@ -34,7 +34,7 @@ def parse( data , num_doc ) :
 				if element.text :
 					if tag not in not_allowed_fields :
 						parsed_data.append( ( m( tag ) , element.text.strip() ) )
-		parsed_data.append( ( 'id' , num_doc ) )
+		parsed_data.append( ( 'id' , "reuters-%s" % ( "%s" % num_doc ).zfill( 5 ) ) )
 	except Exception as e :
 		print e
 	return parsed_data
