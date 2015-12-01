@@ -168,7 +168,7 @@
 
       <!-- Snippets (explicação do porquê um documento foi selecionado). Janela de texto -->
       <str name="hl">on</str>
-      <str name="hl.fl">titulo autor</str>
+      <str name="hl.fl">titulo autor content TOPICS PEOPLE</str>
       <str name="hl.preserveMulti">true</str>
       <str name="hl.encoder">html</str>
       <str name="hl.simple.pre">&lt;b&gt;</str>
@@ -176,16 +176,23 @@
       <str name="f.titulo.hl.fragsize">0</str>
       <str name="f.autor.hl.fragsize">0</str>
       <str name="f.autor.hl.alternateField">autor</str>
+      <str name="f.content.hl.fragsize">50</str>
+      <str name="f.content.hl.alternateField">content</str>
+      <str name="f.TOPICS.hl.fragsize">0</str>
+      <str name="f.TOPICS.hl.alternateField">TOPICS</str>  
+      <str name="f.PEOPLE.hl.fragsize">0</str>
+      <str name="f.PEOPLE.hl.alternateField">PEOPLE</str>  
 
       <!-- Facets -->
       <str name="facet">on</str>
       <str name="facet.missing">false</str>
       <str name="facet.field">ano</str>
+      <str name="facet.field">TOPICS</str>
       <str name="facet.mincount">1</str> 
 
       <str name="defType">edismax</str>
       <str name="qf">
-        titulo^150.0 autor^5.0 editora^0.5 url^0.1 text^0.5 ano^0.5 issn^0.5 titulo_serie^0.5
+        titulo^150.0 TOPICS^50.0 autor^5.0 PEOPLE^3.0 editora^0.5 url^0.1 text^0.5 ano^0.5 issn^0.5 titulo_serie^0.5
       </str>            
     </lst>
 

@@ -21,14 +21,13 @@
   <field name="ORGS" type="text_general" indexed="true" stored="true" multiValued="true"/>
   <field name="PEOPLE" type="text_general" indexed="true" stored="true" multiValued="true"/>
   <field name="EXCHANGES" type="text_general" indexed="true" stored="true" multiValued="true"/>
+  <field name="content" type="text_general" indexed="false" stored="true" multiValued="true"/>
 
   <!-- Campo utilizado para agrupar todos os demais campos -->
   <field name="text" type="text_general" indexed="true" stored="false" multiValued="true"/>
 
   <!-- texto reverso. ideal para wildcards -->
   <field name="text_rev" type="text_general_rev" indexed="true" stored="false" multiValued="true"/>
-
-  <field name="content" type="text_general" indexed="false" stored="true" multiValued = "true"/>
 
   <dynamicField name="*_i"  type="int"    indexed="true"  stored="true"/>
   <dynamicField name="*_is" type="int"    indexed="true"  stored="true"  multiValued="true"/>
@@ -65,6 +64,7 @@
   <!-- Copiar todos os campos para o campo text. Facilita a busca em alguns momentos -->
   <copyField source="ano" dest="text"/>
   <copyField source="issn" dest="text"/>
+  <copyField source="content" dest="text"/>
   <copyField source="titulo_serie" dest="text"/>
   <copyField source="editora" dest="text"/>
   <copyField source="autor" dest="text"/>
